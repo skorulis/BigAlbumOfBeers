@@ -1,0 +1,4 @@
+---
+layout: stats
+title: Stats
+---

@@ -1,0 +1,582 @@
+var beerData = [];
+
+var scatterPlotConfig = {};
+scatterPlotConfig.xAxisName = getAxisName("abv");
+scatterPlotConfig.xAxisValue = getAxisFunc("abv");
+
+scatterPlotConfig.yAxisName = getAxisName("rating");
+scatterPlotConfig.yAxisValue = getAxisFunc("rating");
+
+function getAxisName(type) {
+  if(type == "rating") {
+    return "My Rating";
+  } else if (type == "abv") {
+    return "ABV%";
+  } else if (type == "uts") {
+    return "Untappd Rating";
+  } else if (type == "ibu") {
+    return "IBU";
+  }
+}
+
+function getAxisFunc(type) {
+  if(type == "rating") {
+    return function(d) { return d.score;};
+  } else if (type == "abv") {
+    return function(d) { return d.pct;};
+  } else if (type == "uts") {
+    return function(d) { return d.uts;};
+  } else if (type == "ibu") {
+    return function(d) { return d.IBU;};
+  }
+}
+
+function avgScore(c) {
+  if(c.withScore > 0) {
+    return c.totalScore / c.withScore;
+  }
+  return undefined;
+}
+
+function showBasicTooltip(c,name,top,left) {
+  var text = "";
+  if(c) {
+    text = c.count + " beer";
+    if(avgScore(c)) {
+      text += " avg rating " + avgScore(c).toFixed(2);
+    }
+  }
+  showTooltip(name,text,top,left);
+}
+
+function showTooltip(title,text,top,left) {
+  var html = "";
+  html += "<div class=\"tooltip_kv\">";
+  html += "<span class=\"tooltip_key\">";
+  html += title;
+  html += "</span>";
+  html += "<span class=\"tooltip_value\">";
+  html += text;
+  html += "";
+  html += "</span>";
+  html += "</div>";
+  
+  $("#tooltip-container").html(html);
+  $(this).attr("fill-opacity", "0.8");
+  $("#tooltip-container").show();
+
+  d3.select("#tooltip-container")
+    .style("top", top + "px")
+    .style("left", left + "px");
+
+}
+
+function addSVG(element,width,height) {
+  return d3.select(element).append("svg").attr("width", width).attr("height", height);
+}
+
+function makeCountryChart(countryCounts) {
+  var config = {"color0":"#99ccff","color1":"#0050A1"}
+  
+  var width = 960,
+      height = 800;
+  
+  var COLOR_COUNTS = 9;
+  
+  function Interpolate(start, end, steps, count) {
+      var s = start,
+          e = end,
+          final = s + (((e - s) / steps) * count);
+      return Math.floor(final);
+  }
+  
+  function Color(_r, _g, _b) {
+      var r, g, b;
+      var setColors = function(_r, _g, _b) {
+          r = _r;
+          g = _g;
+          b = _b;
+      };
+  
+      setColors(_r, _g, _b);
+      this.getColors = function() {
+          var colors = {
+              r: r,
+              g: g,
+              b: b
+          };
+          return colors;
+      };
+  }
+  
+  function hexToRgb(hex) {
+      var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+      return result ? {
+          r: parseInt(result[1], 16),
+          g: parseInt(result[2], 16),
+          b: parseInt(result[3], 16)
+      } : null;
+  }
+  
+  var COLOR_FIRST = config.color0, COLOR_LAST = config.color1;
+  
+  var rgb = hexToRgb(COLOR_FIRST);
+  
+  var COLOR_START = new Color(rgb.r, rgb.g, rgb.b);
+  
+  rgb = hexToRgb(COLOR_LAST);
+  var COLOR_END = new Color(rgb.r, rgb.g, rgb.b);
+  
+  var startColors = COLOR_START.getColors(),
+      endColors = COLOR_END.getColors();
+  
+  var colors = [];
+  
+  for (var i = 0; i < COLOR_COUNTS; i++) {
+    var r = Interpolate(startColors.r, endColors.r, COLOR_COUNTS, i);
+    var g = Interpolate(startColors.g, endColors.g, COLOR_COUNTS, i);
+    var b = Interpolate(startColors.b, endColors.b, COLOR_COUNTS, i);
+    colors.push(new Color(r, g, b));
+  }
+  
+  var projection = d3.geoMercator()
+      .scale((width + 1) / 2 / Math.PI)
+      .translate([width / 2, height / 2])
+      .precision(.1);
+  
+  var path = d3.geoPath()
+      .projection(projection);
+  
+  var graticule = d3.geoGraticule();
+  
+  var svg = addSVG("#canvas-svg",width,height);
+  
+  svg.append("path")
+      .datum(graticule)
+      .attr("class", "graticule")
+      .attr("d", path);
+  
+  var quantize = d3.scaleQuantize()
+      .domain([0, 322])
+      .range(d3.range(COLOR_COUNTS).map(function(i) { return i }));
+
+  
+  d3.json("https://s3-us-west-2.amazonaws.com/vida-public/geo/world-topo-min.json", function(error, world) {
+    var countries = topojson.feature(world, world.objects.countries).features;
+  
+    svg.append("path")
+       .datum(graticule)
+       .attr("class", "choropleth")
+       .attr("d", path);
+  
+    var g = svg.append("g");
+  
+    g.append("path")
+     .datum({type: "LineString", coordinates: [[-180, 0], [-90, 0], [0, 0], [90, 0], [180, 0]]})
+     .attr("class", "equator")
+     .attr("d", path);
+  
+    var country = g.selectAll(".country").data(countries);
+  
+    country.enter().insert("path")
+        .attr("class", "country")
+        .attr("d", path)
+        .attr("id", function(d,i) { return d.id; })
+        .attr("title", function(d) { return d.properties.name; })
+        .style("fill", function(d) {
+          if (countryCounts[d.properties.name]) {
+            var c = quantize((countryCounts[d.properties.name].count));
+            var color = colors[c].getColors();
+            return "rgb(" + color.r + "," + color.g +
+                "," + color.b + ")";
+          } else {
+            return "#ccc";
+          }
+        })
+        .on("mousemove", function(d) {
+            var c = countryCounts[d.properties.name];
+            
+            var coordinates = d3.mouse(this);
+            
+            var map_width = $('.choropleth')[0].getBoundingClientRect().width;
+            
+            var top = (d3.event.layerY + 15);
+            var left = 0;
+            if (d3.event.pageX < map_width / 2) {
+              left = (d3.event.layerX + 15);
+            } else {
+              var tooltip_width = $("#tooltip-container").width();
+              left = (d3.event.layerX - tooltip_width - 30);
+            } 
+            
+            showBasicTooltip(c,d.properties.name,top,left);  
+
+        })
+        .on("mouseout", function() {
+                $(this).attr("fill-opacity", "1.0");
+                $("#tooltip-container").hide();
+            });
+    
+    g.append("path")
+        .datum(topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }))
+        .attr("class", "boundary")
+        .attr("d", path);
+    
+    svg.attr("height", height * 2.2 / 3);
+  });
+  
+  d3.select(self.frameElement).style("height", (height * 2.3 / 3) + "px");
+}
+
+function makeStyleChart(styleCounts) {
+
+  var axisMargin = 20,
+    margin = 40,
+    valueMargin = 4,
+    width = 960,
+    barHeight = 25,
+    barPadding = 4,
+    height = styleCounts.length * (barHeight + barPadding),
+    labelWidth = 0;
+
+  var max = d3.max(styleCounts, function(d) {return d.count; });
+
+  var svg = addSVG("#canvas-svg",width,height);
+
+  var bar = svg.selectAll("g").data(styleCounts)
+    .enter()
+    .append("g");
+
+  bar.attr("class", "bar")
+    .attr("cx",0)
+    .attr("transform", function(d, i) {
+      return "translate(" + margin + "," + (i * (barHeight + barPadding) + barPadding) + ")";
+    });
+
+  bar.append("text")
+    .attr("class", "label")
+    .attr("y", barHeight / 2)
+    .attr("dy", ".35em") //vertical align middle
+    .text(function(d){
+      return d.name;
+    }).each(function() {
+      labelWidth = Math.ceil(Math.max(labelWidth, this.getBBox().width));
+    });
+
+  var scale = d3.scaleLinear()
+    .domain([0, max])
+    .range([0, width - margin*2 - labelWidth]);
+
+
+  bar.append("rect")
+    .attr("transform", "translate("+labelWidth+", 0)")
+    .attr("height", barHeight)
+    .attr("width", function(d){
+      return scale(d.count);
+    });
+
+  bar.append("text")
+    .attr("class", "value")
+    .attr("y", barHeight / 2)
+    .attr("dx", -valueMargin + labelWidth) //margin right
+    .attr("dy", ".35em") //vertical align middle
+    .attr("text-anchor", "end")
+    .text(function(d){
+      return (d.count);
+    })
+    .attr("x", function(d){
+      var width = this.getBBox().width;
+      return Math.max(width + valueMargin, scale(d.count));
+    });
+
+  bar.on("mousemove", function(d){
+    var top = d3.event.pageY-25;
+    var left = d3.event.pageX+10;
+    showBasicTooltip(d,d.name,top,left);
+  });
+  
+  bar.on("mouseout", function(d){
+    $("#tooltip-container").hide();
+  });
+}
+
+function makeScoreChart(scores) {
+
+  var fullWidth = 960,
+    fullHeight = 400,
+    margin = {top: 10, right: 30, bottom: 30, left: 30},
+    width = fullWidth - margin.left - margin.right,
+    height = fullHeight - margin.top - margin.bottom;
+
+  var svg = addSVG("#canvas-svg",fullWidth,fullHeight);
+  var g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  var keys = ["scores","uts"];
+  var keyNames = {scores:"My ratings",uts:"Untappd ratings"};
+
+  var x0 = d3.scaleBand().rangeRound([0, width]).paddingInner(0.1);
+
+  var x1 = d3.scaleBand().padding(0.05);
+  var y = d3.scaleLinear().rangeRound([height, 0]);
+  var z = d3.scaleOrdinal().range(["#98abc5", "#8a89a6"]);
+
+  x0.domain(scores.map(function(d) { return d.value; }));
+  x1.domain(keys).rangeRound([0, x0.bandwidth()]);
+  y.domain([0, d3.max(scores, function(d) { return d3.max(keys, function(key) { return d[key]; }); })]).nice();
+
+  g.append("g")
+    .selectAll("g")
+    .data(scores)
+    .enter().append("g")
+      .attr("transform", function(d) { return "translate(" + x0(d.value) + ",0)"; })
+    .selectAll("rect")
+    .data(function(d) { return keys.map(function(key) { return {key: key, value: d[key]}; }); })
+    .enter().append("rect")
+      .attr("x", function(d) { return x1(d.key); })
+      .attr("y", function(d) { return y(d.value); })
+      .attr("width", x1.bandwidth())
+      .attr("height", function(d) { return height - y(d.value); })
+      .attr("fill", function(d) { return z(d.key); });
+
+  g.append("g")
+      .attr("class", "axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x0));
+
+  g.append("g")
+      .attr("class", "axis")
+      .call(d3.axisLeft(y).ticks(null, "s"))
+    .append("text")
+      .attr("x", 2)
+      .attr("y", y(y.ticks().pop()) + 0.5)
+      .attr("dy", "0.32em")
+      .attr("fill", "#000")
+      .attr("font-weight", "bold")
+      .attr("text-anchor", "start")
+      .text("Rating count");
+
+
+  var legend = g.append("g")
+      .attr("font-family", "sans-serif")
+      .attr("font-size", 10)
+      .attr("text-anchor", "end")
+    .selectAll("g")
+    .data(keys.slice().reverse())
+    .enter().append("g")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+  legend.append("rect")
+      .attr("x", width - 19)
+      .attr("width", 19)
+      .attr("height", 19)
+      .attr("fill", z);
+
+  legend.append("text")
+      .attr("x", width - 24)
+      .attr("y", 9.5)
+      .attr("dy", "0.32em")
+      .text(function(d) { return keyNames[d]; });
+
+}
+
+function makeScatterplot(beers,config) {
+  beers = beers.filter(function(i) {
+    return config.xAxisValue(i) != undefined && config.yAxisValue(i) != undefined;
+  });
+
+  var fullWidth = 960,
+    fullHeight = 800,
+    margin = {top: 10, right: 30, bottom: 30, left: 30},
+    width = fullWidth - margin.left - margin.right,
+    height = fullHeight - margin.top - margin.bottom;
+
+  var x = d3.scaleLinear().range([0, width]);
+  var y = d3.scaleLinear().range([height, 0]);
+
+  var xAxis = d3.axisBottom(x);
+  var yAxis = d3.axisLeft(y);
+  $("#scatterplot-svg").empty();
+  var svg = addSVG("#scatterplot-svg",fullWidth,fullHeight)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  x.domain(d3.extent(beers, config.xAxisValue)).nice();
+  y.domain(d3.extent(beers, config.yAxisValue)).nice();
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis)
+    .append("text")
+      .attr("class", "label")
+      .attr("x", width)
+      .attr("y", -6)
+      .style("text-anchor", "end")
+      .text(config.xAxisName);
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("class", "label")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text(config.yAxisName)
+
+  var dot = svg.selectAll(".dot")
+      .data(beers)
+    .enter().append("circle")
+      .attr("class", "dot")
+      .attr("r", 3.5)
+      .attr("cx", function(d) { return x(config.xAxisValue(d)); })
+      .attr("cy", function(d) { return y(config.yAxisValue(d)); })
+      .style("fill", function(d) { return "#F00" });
+
+    console.log(dot);
+
+    dot.on("mousemove", function(d){
+      var top = d3.event.pageY-25;
+      var left = d3.event.pageX+10;
+      var text = d.pct + "%";
+      showTooltip(d.name,text,top,left);
+    });
+  
+  dot.on("mouseout", function(d){
+    $("#tooltip-container").hide();
+  });
+
+}
+
+function increment(hash,key) {
+  if(hash[key] == undefined) {
+    hash[key] = 0;
+  }
+  hash[key] = hash[key] + 1;
+}
+
+function incrementCountAndScore(hash,key,score) {
+  if(hash[key] == undefined) {
+    hash[key] = {count:0,withScore:0,totalScore:0};
+  }
+  hash[key].count = hash[key].count + 1;
+  if(score != undefined) {
+    hash[key].withScore = hash[key].withScore + 1;
+    hash[key].totalScore = hash[key].totalScore + score;
+  }
+}
+
+function extractCountries(data) {
+  countries = {};
+  data.forEach(function(i) {
+    if(i.country == "England" || i.country == "Scotland") {
+      incrementCountAndScore(countries,"United Kingdom",i.score)
+    } else if(i.country == "China / People's Republic of China") {
+      incrementCountAndScore(countries,"China",i.score)
+    } else if(i.country != undefined) {
+      incrementCountAndScore(countries,i.country,i.score)
+    }
+  });
+  return countries
+}
+
+function extractField(data,fieldName) {
+  var results = {};
+  data.forEach(function(i) {
+    if(i[fieldName] != undefined) {
+      incrementCountAndScore(results,i[fieldName],i.score);
+    }
+  });
+
+  var keys = Object.keys(results);
+
+  return keys.map(function(s) {
+    var v = results[s];
+    v["name"] = s;
+    return v;
+  }).sort(function(a,b) {
+    return b.count - a.count;
+  });
+}
+
+
+
+function extractScoreFrequency(data) {
+  var scores = {};
+  var untappedScores = {};
+  data.forEach(function(i) {
+    if(i.score && i.uts) {
+      increment(scores,i.score.toFixed(0));
+      increment(untappedScores,i.uts.toFixed(0));
+    }
+  });
+  var all = [];
+
+  for(i = 0; i <= 10; i+=1) {
+    var key = i.toFixed(0);
+    var item = {value:key, scores:scores[key] || 0,uts:untappedScores[key] || 0};
+    all.push(item);
+  }
+
+  return all;
+}
+
+function extractScores(data) {
+  return data.filter(function(i) {
+    return i.score != undefined && i.uts != undefined;
+  });
+}
+
+function monthDiff(d1, d2) {
+    var months;
+    months = (d2.getFullYear() - d1.getFullYear()) * 12;
+    months -= d1.getMonth() + 1;
+    months += d2.getMonth();
+    return months <= 0 ? 0 : months;
+}
+
+$("#scatter-form input").change(function() {
+  var v = this.value;
+  if(this.name == "x") {
+    scatterPlotConfig.xAxisName = getAxisName(v);
+    scatterPlotConfig.xAxisValue = getAxisFunc(v);
+  } else {
+    scatterPlotConfig.yAxisName = getAxisName(v);
+    scatterPlotConfig.yAxisValue = getAxisFunc(v);
+  }
+  makeScatterplot(beerData,scatterPlotConfig);
+});
+
+d3.json("/js/stats.json", function(err, data) {
+  beerData = data;
+  var countryCounts = extractCountries(data);
+  var styleCounts = extractField(data,"style");
+  var breweryCounts = extractField(data,"b");
+  var scoreFrequency = extractScoreFrequency(data);
+
+  console.log(breweryCounts);
+
+  var firstDate = new Date(data[0].d);
+  var lastDate = new Date(data[data.length-1].d);
+  var months = monthDiff(firstDate,lastDate);
+  var years = Math.floor(months/12);
+  months = months - years * 12;
+
+  makeCountryChart(countryCounts);
+  makeStyleChart(styleCounts);
+  makeStyleChart(breweryCounts);
+  //makeScoreChart(scoreFrequency);
+  //makeScatterplot(data,scatterPlotConfig);
+
+  $("#beer-count").text(data.length);
+  $("#country-count").text(Object.keys(countryCounts).length);
+  $("#brewery-count").text(Object.keys(breweryCounts).length);
+  var timeText = years + " years";
+  if(months > 0) {
+    timeText += " and " + months + " months";
+  }
+  $("#time-period").text(timeText);
+
+
+});

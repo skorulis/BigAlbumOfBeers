@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <link href="/css/stats.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.1.0/topojson.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+    <body id="page-top" class="index">
+    {% include nav.html %}
+    {% include header.html %}
+
+    <div id="tooltip-container"></div>
+
+    <div>
+    I've consumed <span id="beer-count">1000</span> different beers from <span id="brewery-count">50</span> breweries located in <span id="country-count">100</span> countries over a period of <span id="time-period">3 years and 4 months</span>
+    </div>
+    <div id="canvas-svg"></div>
+
+    <form id="scatter-form">
+        X axis <br/>
+      <input type="radio" name="x" value="abv" checked> ABV%<br>
+      <input type="radio" name="x" value="rating"> Rating<br>
+      <input type="radio" name="x" value="uts"> Untappd rating<br/>
+      <input type="radio" name="x" value="ibu"> IBU<br/>
+
+      Y axis <br/>
+
+      <input type="radio" name="y" value="abv" > ABV%<br>
+      <input type="radio" name="y" value="rating" checked=""> Rating<br>
+      <input type="radio" name="y" value="uts"> Untappd rating<br/>
+      <input type="radio" name="y" value="ibu"> IBU<br/>
+    </form>
+    <div id="scatterplot-svg"></div>
+
+    <script src="/js/stats.js"></script> 
+
+    <p>These stats are generated from 2 Facebook albums combined with extra data taken from Untappd</p>
+
+
+    <div class="container">
+        
+    </div>
+
+    {% include footer.html %}
+    {% include analytics.html %}
+    {% include js.html %}
+
+    </body>
+</html>
