@@ -98,10 +98,19 @@ function addSVG(element,width,height) {
   return div.append("svg").attr("width", width).attr("height", height);
 }
 
+function addSingleSVG(element,aspect) {
+  $(element).empty();
+  var div = d3.select(element)
+  var width = parseInt(div.style("width"))
+  var height = width * aspect;
+  return div.append("svg").attr("width", width).attr("height", height);
+}
+
 function makeCountryChart(countryCounts) {
-  var height = 800;
-  var svg = addSVG("#map",undefined,height);
+  var maxCount = 359;
+  var svg = addSingleSVG("#map",0.8);
   var width = parseInt(svg.attr("width"));
+  var height = parseInt(svg.attr("height"));
   
   var projection = d3.geoMercator()
       .scale((width + 1) / 2 / Math.PI)
@@ -118,7 +127,7 @@ function makeCountryChart(countryCounts) {
       .attr("class", "graticule")
       .attr("d", path);
 
-  var maxCount = 359;
+  
 
   d3.json("https://s3-us-west-2.amazonaws.com/vida-public/geo/world-topo-min.json", function(error, world) {
     var countries = topojson.feature(world, world.objects.countries).features;
@@ -139,8 +148,7 @@ function makeCountryChart(countryCounts) {
         .style("fill", function(d) {
           if (countryCounts[d.properties.name]) {
             var c = countryCounts[d.properties.name].count / maxCount;
-            console.log(c);
-            var color = findColorBetween("#FFFBB1","#BE6C01",c);
+            var color = findColorBetween("#FFFBB1","#BE6C01",Math.sqrt(c));
             return "rgb(" + color[0] + "," + color[1] + "," + color[2] + ")";
           } else {
             return "#ccc";
@@ -489,6 +497,13 @@ function monthDiff(d1, d2) {
     return months <= 0 ? 0 : months;
 }
 
+d3.select(window).on('resize', function() {
+  if(beerData) {
+    var countryCounts = extractCountries(beerData); 
+    makeCountryChart(countryCounts);
+  }
+});
+
 $("#scatter-form input").change(function() {
   var v = this.value;
   if(this.name == "x") {
@@ -501,14 +516,18 @@ $("#scatter-form input").change(function() {
   makeScatterplot(beerData,scatterPlotConfig);
 });
 
+$("#map-form input").change(function() {
+  var v = this.value;
+  console.log(v);
+});
+
+
 d3.json("/js/stats.json", function(err, data) {
   beerData = data;
   var countryCounts = extractCountries(data);
   var styleCounts = extractField(data,"style");
   var breweryCounts = extractField(data,"b");
   var scoreFrequency = extractScoreFrequency(data);
-
-  console.log(breweryCounts);
 
   var firstDate = new Date(data[0].d);
   var lastDate = new Date(data[data.length-1].d);
