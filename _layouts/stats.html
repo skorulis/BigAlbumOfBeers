@@ -12,35 +12,33 @@
 
     <div id="tooltip-container"></div>
 
-    <p class="stat-intro">
-    I've consumed <span class="stat-big" id="beer-count">1000</span> different beers from <span class="stat-big" id="brewery-count">50</span> breweries located in <span class="stat-big" id="country-count">100</span> countries over a period of <span class="stat-big" id="time-period">3 years and 4 months</span>
-    </p>
-    <div id="canvas-svg"></div>
-
-    <form id="scatter-form">
-        X axis <br/>
-      <input type="radio" name="x" value="abv" checked> ABV%<br>
-      <input type="radio" name="x" value="rating"> Rating<br>
-      <input type="radio" name="x" value="uts"> Untappd rating<br/>
-      <input type="radio" name="x" value="ibu"> IBU<br/>
-
-      Y axis <br/>
-
-      <input type="radio" name="y" value="abv" > ABV%<br>
-      <input type="radio" name="y" value="rating" checked=""> Rating<br>
-      <input type="radio" name="y" value="uts"> Untappd rating<br/>
-      <input type="radio" name="y" value="ibu"> IBU<br/>
-    </form>
-    <div id="scatterplot-svg"></div>
-
-    <script src="/js/stats.js"></script> 
-
-    <p>These stats are generated from 2 Facebook albums combined with extra data taken from Untappd</p>
-
-
     <div class="container">
-        
+      <p class="stat-intro">
+      I've consumed <span class="stat-big" id="beer-count">1000</span> different beers from <span class="stat-big" id="brewery-count">50</span> breweries located in <span class="stat-big" id="country-count">100</span> countries over a period of <span class="stat-big" id="time-period">3 years and 4 months</span>
+      </p>
+      <div id="map"></div>
+      <div id="canvas-svg"></div>
+
+      <form id="scatter-form">
+          X axis <br/>
+        <input type="radio" name="x" value="abv" checked> ABV%<br>
+        <input type="radio" name="x" value="rating"> Rating<br>
+        <input type="radio" name="x" value="uts"> Untappd rating<br/>
+        <input type="radio" name="x" value="ibu"> IBU<br/>
+
+        Y axis <br/>
+
+        <input type="radio" name="y" value="abv" > ABV%<br>
+        <input type="radio" name="y" value="rating" checked=""> Rating<br>
+        <input type="radio" name="y" value="uts"> Untappd rating<br/>
+        <input type="radio" name="y" value="ibu"> IBU<br/>
+      </form>
+      <div id="scatterplot-svg"></div>
+      <p>These stats are generated from 2 Facebook albums combined with extra data taken from Untappd</p>
     </div>
+
+    
+    <script src="/js/stats.js"></script> 
 
     {% include footer.html %}
     {% include analytics.html %}

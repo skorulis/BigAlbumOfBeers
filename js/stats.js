@@ -72,14 +72,17 @@ function showTooltip(title,text,top,left) {
 }
 
 function addSVG(element,width,height) {
-  return d3.select(element).append("svg").attr("width", width).attr("height", height);
+  var div = d3.select(element)
+  if(width == undefined) {
+    width = parseInt(div.style("width"))
+  }
+
+  return div.append("svg").attr("width", width).attr("height", height);
 }
 
 function makeCountryChart(countryCounts) {
   var config = {"color0":"#FFFBB1","color1":"#BE6C01"}
   
-  var width = 960,
-      height = 800;
   
   var COLOR_COUNTS = 9;
   
@@ -138,6 +141,10 @@ function makeCountryChart(countryCounts) {
     var b = Interpolate(startColors.b, endColors.b, COLOR_COUNTS, i);
     colors.push(new Color(r, g, b));
   }
+
+  var width = 960;
+  var height = 800;
+  var svg = addSVG("#map",width,height);
   
   var projection = d3.geoMercator()
       .scale((width + 1) / 2 / Math.PI)
@@ -149,7 +156,7 @@ function makeCountryChart(countryCounts) {
   
   var graticule = d3.geoGraticule();
   
-  var svg = addSVG("#canvas-svg",width,height);
+  
   
   svg.append("path")
       .datum(graticule)
@@ -163,6 +170,11 @@ function makeCountryChart(countryCounts) {
   
   d3.json("https://s3-us-west-2.amazonaws.com/vida-public/geo/world-topo-min.json", function(error, world) {
     var countries = topojson.feature(world, world.objects.countries).features;
+  
+    svg.append("path")
+       .datum(graticule)
+       .attr("class", "choropleth")
+       .attr("d", path);
   
     var g = svg.append("g");
   
