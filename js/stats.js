@@ -31,6 +31,24 @@ function getAxisFunc(type) {
   }
 }
 
+function convertHexToRgb(hex) {
+  var match = hex.replace(/#/,'').match(/.{1,2}/g);
+  var r = parseInt(match[0], 16);
+  var g = parseInt(match[1], 16);
+  var b = parseInt(match[2], 16);
+  return [r,g,b];
+}
+
+function findColorBetween(left, right, fraction) {
+  var leftRGB = convertHexToRgb(left);
+  var rightRGB = convertHexToRgb(right);
+  var newColor = [0,0,0];
+  for (var i = 0; i < 3; i++) {
+    newColor[i] = Math.round(leftRGB[i] + (rightRGB[i] - leftRGB[i]) * fraction);
+  }
+  return newColor;
+}
+
 function avgScore(c) {
   if(c.withScore > 0) {
     return c.totalScore / c.withScore;
@@ -81,70 +99,9 @@ function addSVG(element,width,height) {
 }
 
 function makeCountryChart(countryCounts) {
-  var config = {"color0":"#FFFBB1","color1":"#BE6C01"}
-  
-  
-  var COLOR_COUNTS = 9;
-  
-  function Interpolate(start, end, steps, count) {
-      var s = start,
-          e = end,
-          final = s + (((e - s) / steps) * count);
-      return Math.floor(final);
-  }
-  
-  function Color(_r, _g, _b) {
-      var r, g, b;
-      var setColors = function(_r, _g, _b) {
-          r = _r;
-          g = _g;
-          b = _b;
-      };
-  
-      setColors(_r, _g, _b);
-      this.getColors = function() {
-          var colors = {
-              r: r,
-              g: g,
-              b: b
-          };
-          return colors;
-      };
-  }
-  
-  function hexToRgb(hex) {
-      var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
-      return result ? {
-          r: parseInt(result[1], 16),
-          g: parseInt(result[2], 16),
-          b: parseInt(result[3], 16)
-      } : null;
-  }
-  
-  var COLOR_FIRST = config.color0, COLOR_LAST = config.color1;
-  
-  var rgb = hexToRgb(COLOR_FIRST);
-  
-  var COLOR_START = new Color(rgb.r, rgb.g, rgb.b);
-  
-  rgb = hexToRgb(COLOR_LAST);
-  var COLOR_END = new Color(rgb.r, rgb.g, rgb.b);
-  
-  var startColors = COLOR_START.getColors(),
-      endColors = COLOR_END.getColors();
-  
-  var colors = [];
-  
-  for (var i = 0; i < COLOR_COUNTS; i++) {
-    var r = Interpolate(startColors.r, endColors.r, COLOR_COUNTS, i);
-    var g = Interpolate(startColors.g, endColors.g, COLOR_COUNTS, i);
-    var b = Interpolate(startColors.b, endColors.b, COLOR_COUNTS, i);
-    colors.push(new Color(r, g, b));
-  }
-
-  var width = 960;
   var height = 800;
-  var svg = addSVG("#map",width,height);
+  var svg = addSVG("#map",undefined,height);
+  var width = parseInt(svg.attr("width"));
   
   var projection = d3.geoMercator()
       .scale((width + 1) / 2 / Math.PI)
@@ -156,18 +113,13 @@ function makeCountryChart(countryCounts) {
   
   var graticule = d3.geoGraticule();
   
-  
-  
   svg.append("path")
       .datum(graticule)
       .attr("class", "graticule")
       .attr("d", path);
-  
-  var quantize = d3.scaleQuantize()
-      .domain([0, 322])
-      .range(d3.range(COLOR_COUNTS).map(function(i) { return i }));
 
-  
+  var maxCount = 359;
+
   d3.json("https://s3-us-west-2.amazonaws.com/vida-public/geo/world-topo-min.json", function(error, world) {
     var countries = topojson.feature(world, world.objects.countries).features;
   
@@ -186,10 +138,10 @@ function makeCountryChart(countryCounts) {
         .attr("title", function(d) { return d.properties.name; })
         .style("fill", function(d) {
           if (countryCounts[d.properties.name]) {
-            var c = quantize((countryCounts[d.properties.name].count));
-            var color = colors[c].getColors();
-            return "rgb(" + color.r + "," + color.g +
-                "," + color.b + ")";
+            var c = countryCounts[d.properties.name].count / maxCount;
+            console.log(c);
+            var color = findColorBetween("#FFFBB1","#BE6C01",c);
+            return "rgb(" + color[0] + "," + color[1] + "," + color[2] + ")";
           } else {
             return "#ccc";
           }
@@ -581,3 +533,4 @@ d3.json("/js/stats.json", function(err, data) {
 
 
 });
+
