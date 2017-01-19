@@ -1,4 +1,5 @@
 var beerData = [];
+var showCountryRatings = false;
 
 var scatterPlotConfig = {};
 scatterPlotConfig.xAxisName = getAxisName("abv");
@@ -106,8 +107,15 @@ function addSingleSVG(element,aspect) {
   return div.append("svg").attr("width", width).attr("height", height);
 }
 
-function makeCountryChart(countryCounts) {
-  var maxCount = 359;
+function makeCountryChart(countryCounts,showAVG) {
+  var valFunc = function(d) {
+    return showAVG ? avgScore(d) : d.count;
+  }
+
+  var maxCount = d3.max(d3.values(countryCounts),valFunc);
+  var minCount = d3.min(d3.values(countryCounts),valFunc);
+
+
   var svg = addSingleSVG("#map",0.8);
   var width = parseInt(svg.attr("width"));
   var height = parseInt(svg.attr("height"));
@@ -147,7 +155,8 @@ function makeCountryChart(countryCounts) {
         .attr("title", function(d) { return d.properties.name; })
         .style("fill", function(d) {
           if (countryCounts[d.properties.name]) {
-            var c = countryCounts[d.properties.name].count / maxCount;
+            var val = valFunc(countryCounts[d.properties.name]);
+            var c = (val - minCount) / (maxCount - minCount);
             var color = findColorBetween("#FFFBB1","#BE6C01",Math.sqrt(c));
             return "rgb(" + color[0] + "," + color[1] + "," + color[2] + ")";
           } else {
@@ -499,8 +508,7 @@ function monthDiff(d1, d2) {
 
 d3.select(window).on('resize', function() {
   if(beerData) {
-    var countryCounts = extractCountries(beerData); 
-    makeCountryChart(countryCounts);
+    redrawCharts(beerData); 
   }
 });
 
@@ -519,8 +527,14 @@ $("#scatter-form input").change(function() {
 $("#map-form input").change(function() {
   var v = this.value;
   console.log(v);
+  showCountryRatings = v == "rating";
+  makeCountryChart(extractCountries(beerData),showCountryRatings);
 });
 
+function redrawCharts(data) {
+  var countryCounts = extractCountries(data); 
+  makeCountryChart(countryCounts,showCountryRatings);
+}
 
 d3.json("/js/stats.json", function(err, data) {
   beerData = data;
@@ -535,7 +549,7 @@ d3.json("/js/stats.json", function(err, data) {
   var years = Math.floor(months/12);
   months = months - years * 12;
 
-  makeCountryChart(countryCounts);
+  makeCountryChart(countryCounts,showCountryRatings);
   makeStyleChart(styleCounts);
   makeStyleChart(breweryCounts);
   //makeScoreChart(scoreFrequency);
