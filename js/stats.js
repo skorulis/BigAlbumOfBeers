@@ -76,7 +76,7 @@ function addSVG(element,width,height) {
 }
 
 function makeCountryChart(countryCounts) {
-  var config = {"color0":"#99ccff","color1":"#0050A1"}
+  var config = {"color0":"#FFFBB1","color1":"#BE6C01"}
   
   var width = 960,
       height = 800;
@@ -164,24 +164,13 @@ function makeCountryChart(countryCounts) {
   d3.json("https://s3-us-west-2.amazonaws.com/vida-public/geo/world-topo-min.json", function(error, world) {
     var countries = topojson.feature(world, world.objects.countries).features;
   
-    svg.append("path")
-       .datum(graticule)
-       .attr("class", "choropleth")
-       .attr("d", path);
-  
     var g = svg.append("g");
-  
-    g.append("path")
-     .datum({type: "LineString", coordinates: [[-180, 0], [-90, 0], [0, 0], [90, 0], [180, 0]]})
-     .attr("class", "equator")
-     .attr("d", path);
   
     var country = g.selectAll(".country").data(countries);
   
     country.enter().insert("path")
         .attr("class", "country")
         .attr("d", path)
-        .attr("id", function(d,i) { return d.id; })
         .attr("title", function(d) { return d.properties.name; })
         .style("fill", function(d) {
           if (countryCounts[d.properties.name]) {
