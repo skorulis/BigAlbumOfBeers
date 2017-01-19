@@ -211,7 +211,7 @@ function makeStyleChart(styleCounts) {
 
   var max = d3.max(styleCounts, function(d) {return d.count; });
 
-  var svg = addSVG("#canvas-svg",width,height);
+  var svg = addSVG("#canvas-svg",undefined,height);
 
   var bar = svg.selectAll("g").data(styleCounts)
     .enter()

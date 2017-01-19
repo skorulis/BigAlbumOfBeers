@@ -17,12 +17,20 @@
       I've consumed <span class="stat-big" id="beer-count">1000</span> different beers from <span class="stat-big" id="brewery-count">50</span> breweries located in <span class="stat-big" id="country-count">100</span> countries over a period of <span class="stat-big" id="time-period">3 years and 4 months</span>
       </p>
 
+      <h3>Breakdown by country of manufacture</h3>
       <form id="map-form">
         <input type="radio" name="map-type" value="count" checked> Count<br>
         <input type="radio" name="map-type" value="rating"> Rating<br>
       </form>
 
       <div id="map"></div>
+
+      <h3>Breakdown by beer style</h3>
+      <div id="style-svg"></div>
+
+      <h3>Breakdown by brewery</h3>
+      <div id="brewery-svg"></div>
+
       <div id="canvas-svg"></div>
 
       <form id="scatter-form">
