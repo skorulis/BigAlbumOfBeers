@@ -1,5 +1,14 @@
 var beerData = [];
+
+var countryCounts;
+var styleCounts;
+var breweryCounts;
+
 var showCountryRatings = false;
+var showStyleRatings = false;
+var showBreweryRatings = false;
+var showFullStyle = false;
+var showFullBreweries = false;
 
 var scatterPlotConfig = {};
 scatterPlotConfig.xAxisName = getAxisName("abv");
@@ -54,7 +63,7 @@ function avgScore(c) {
   if(c.withScore > 0) {
     return c.totalScore / c.withScore;
   }
-  return undefined;
+  return 0;
 }
 
 function showBasicTooltip(c,name,top,left) {
@@ -198,19 +207,28 @@ function makeCountryChart(countryCounts,showAVG) {
   d3.select(self.frameElement).style("height", (height * 2.3 / 3) + "px");
 }
 
-function makeStyleChart(element,styleCounts,full) {
+function makeStyleChart(element,styleCounts,showRatings,full) {
   var axisMargin = 20,
     margin = 40,
     valueMargin = 4,
-    width = 960,
     barHeight = 25,
     barPadding = 4,
     height = styleCounts.length * (barHeight + barPadding),
     labelWidth = 0;
 
-  var max = d3.max(styleCounts, function(d) {return d.count; });
+  var valFunc = function(d) {
+    return showRatings ? avgScore(d) : d.count;
+  }
 
+  styleCounts = styleCounts.sort(function(a,b) {
+    return valFunc(b) - valFunc(a);
+  });
+
+  var max = d3.max(styleCounts, valFunc);
+
+  $(element).empty();
   var svg = addSVG(element,undefined,height);
+  var width = parseInt(svg.attr("width"));
 
   var bar = svg.selectAll("g").data(styleCounts)
     .enter()
@@ -241,7 +259,7 @@ function makeStyleChart(element,styleCounts,full) {
     .attr("transform", "translate("+labelWidth+", 0)")
     .attr("height", barHeight)
     .attr("width", function(d){
-      return scale(d.count);
+      return scale(valFunc(d));
     });
 
   bar.append("text")
@@ -251,11 +269,11 @@ function makeStyleChart(element,styleCounts,full) {
     .attr("dy", ".35em") //vertical align middle
     .attr("text-anchor", "end")
     .text(function(d){
-      return (d.count);
+      return showRatings ? avgScore(d).toFixed(2) : d.count;
     })
     .attr("x", function(d){
       var width = this.getBBox().width;
-      return Math.max(width + valueMargin, scale(d.count));
+      return Math.max(width + valueMargin, scale(valFunc(d)));
     });
 
   bar.on("mousemove", function(d){
@@ -464,9 +482,7 @@ function extractField(data,fieldName) {
     var v = results[s];
     v["name"] = s;
     return v;
-  }).sort(function(a,b) {
-    return b.count - a.count;
-  });
+  })
 }
 
 
@@ -524,22 +540,29 @@ $("#scatter-form input").change(function() {
 });
 
 $("#map-form input").change(function() {
-  var v = this.value;
-  console.log(v);
-  showCountryRatings = v == "rating";
-  makeCountryChart(extractCountries(beerData),showCountryRatings);
+  showCountryRatings = this.value == "rating";
+  makeCountryChart(countryCounts,showCountryRatings);
+});
+
+$("#style-form input").change(function() {
+  showStyleRatings = this.value == "rating";
+  makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
+});
+
+$("#brewery-form input").change(function() {
+  showBreweryRatings = this.value == "rating";
+  makeStyleChart("#brewery-svg",breweryCounts,showBreweryRatings,showFullBreweries);
 });
 
 function redrawCharts(data) {
-  var countryCounts = extractCountries(data); 
   makeCountryChart(countryCounts,showCountryRatings);
 }
 
 d3.json("/js/stats.json", function(err, data) {
   beerData = data;
-  var countryCounts = extractCountries(data);
-  var styleCounts = extractField(data,"style");
-  var breweryCounts = extractField(data,"b");
+  countryCounts = extractCountries(data);
+  styleCounts = extractField(data,"style");
+  breweryCounts = extractField(data,"b");
   var scoreFrequency = extractScoreFrequency(data);
 
   var firstDate = new Date(data[0].d);
@@ -549,8 +572,8 @@ d3.json("/js/stats.json", function(err, data) {
   months = months - years * 12;
 
   makeCountryChart(countryCounts,showCountryRatings);
-  makeStyleChart("#style-svg",styleCounts,false);
-  makeStyleChart("#brewery-svg",breweryCounts,false);
+  makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
+  makeStyleChart("#brewery-svg",breweryCounts,showCountryRatings,showFullBreweries);
   //makeScoreChart(scoreFrequency);
   //makeScatterplot(data,scatterPlotConfig);
 
