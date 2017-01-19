@@ -208,14 +208,6 @@ function makeCountryChart(countryCounts,showAVG) {
 }
 
 function makeStyleChart(element,styleCounts,showRatings,full) {
-  var axisMargin = 20,
-    margin = 40,
-    valueMargin = 4,
-    barHeight = 25,
-    barPadding = 4,
-    height = styleCounts.length * (barHeight + barPadding),
-    labelWidth = 0;
-
   var valFunc = function(d) {
     return showRatings ? avgScore(d) : d.count;
   }
@@ -223,6 +215,19 @@ function makeStyleChart(element,styleCounts,showRatings,full) {
   styleCounts = styleCounts.sort(function(a,b) {
     return valFunc(b) - valFunc(a);
   });
+
+  if(!full) {
+    styleCounts = styleCounts.slice(0,20);
+  }
+
+  var axisMargin = 20,
+    margin = 40,
+    valueMargin = 4,
+    barHeight = 25,
+    barPadding = 4,
+    labelWidth = 0;
+
+  var height = styleCounts.length * (barHeight + barPadding);
 
   var max = d3.max(styleCounts, valFunc);
 
