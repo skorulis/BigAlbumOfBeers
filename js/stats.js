@@ -198,8 +198,7 @@ function makeCountryChart(countryCounts,showAVG) {
   d3.select(self.frameElement).style("height", (height * 2.3 / 3) + "px");
 }
 
-function makeStyleChart(styleCounts) {
-
+function makeStyleChart(element,styleCounts,full) {
   var axisMargin = 20,
     margin = 40,
     valueMargin = 4,
@@ -211,7 +210,7 @@ function makeStyleChart(styleCounts) {
 
   var max = d3.max(styleCounts, function(d) {return d.count; });
 
-  var svg = addSVG("#canvas-svg",undefined,height);
+  var svg = addSVG(element,undefined,height);
 
   var bar = svg.selectAll("g").data(styleCounts)
     .enter()
@@ -550,8 +549,8 @@ d3.json("/js/stats.json", function(err, data) {
   months = months - years * 12;
 
   makeCountryChart(countryCounts,showCountryRatings);
-  makeStyleChart(styleCounts);
-  makeStyleChart(breweryCounts);
+  makeStyleChart("#style-svg",styleCounts,false);
+  makeStyleChart("#brewery-svg",breweryCounts,false);
   //makeScoreChart(scoreFrequency);
   //makeScatterplot(data,scatterPlotConfig);
 
