@@ -26,9 +26,19 @@
   float: right;
 }
 
+.tooltip_beer {
+  font-size: 14px;
+  padding: 0px;
+  margin: 0px;
+}
+
 .bar {
   fill: #BE6C01;
-  fill-opacity: .9;
+  fill-opacity: 1.0;
+}
+
+.bar:hover {
+  fill-opacity: 0.7;
 }
 
 text {
@@ -79,4 +89,9 @@ text.label {
 
 .switch-field label:last-of-type {
   border-radius: 0 4px 4px 0;
+}
+
+.dot {
+  fill: #F3BA06;
+  stroke: #444;
 }

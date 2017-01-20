@@ -1,4 +1,5 @@
 ---
 layout: stats
-title: Stats
+title: Beer Stats
+slim-header: true
 ---

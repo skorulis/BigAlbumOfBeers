@@ -10,14 +10,25 @@ var showBreweryRatings = false;
 var showFullStyle = false;
 var showFullBreweries = false;
 
-var countryMapping = {England:"United Kingdom","Scotland":"United Kingdom","China / People's Republic of China":"China","Russia":"Russian Federation"};
-
 var scatterPlotConfig = {};
 scatterPlotConfig.xAxisName = getAxisName("abv");
 scatterPlotConfig.xAxisValue = getAxisFunc("abv");
 
 scatterPlotConfig.yAxisName = getAxisName("rating");
 scatterPlotConfig.yAxisValue = getAxisFunc("rating");
+
+function findTopBeer(withField,equalTo) {
+  var filtered = beerData.filter(function(d) {
+    return d[withField] == equalTo && d.score != undefined;
+  });
+  if(filtered.length == 0) {
+    return null;
+  }
+  filtered = filtered.sort(function(a,b) {
+    return b.score - a.score;
+  });
+  return filtered[0];
+}
 
 function getAxisName(type) {
   if(type == "rating") {
@@ -30,6 +41,8 @@ function getAxisName(type) {
     return "IBU";
   } else if (type == "review") {
     return "Review Length";
+  } else if (type == "date") {
+    return "Date";
   }
 }
 
@@ -44,6 +57,8 @@ function getAxisFunc(type) {
     return function(d) { return d.IBU;};
   } else if (type == "review") {
     return function(d) { return d.r;};
+  } else if (type == "date") {
+    return function(d) { return new Date(d.d);};
   }
 }
 
@@ -86,11 +101,21 @@ function showBasicTooltip(c,name,top,left) {
 function showTooltip(title,text,top,left) {
   $("#tooltip-container .tooltip_key").text(title);
   $("#tooltip-container .tooltip_value").text(text);
+  $("#tooltip-container .tooltip_beer").hide();
   $("#tooltip-container").show();
 
   d3.select("#tooltip-container")
     .style("top", top + "px")
     .style("left", left + "px");
+}
+
+function showTopBeer(beer) {
+  if(!beer) {
+    return;
+  }
+  var text = "Top beer: " + beer.name + " " +  beer.score + "/10"
+  $("#tooltip-container .tooltip_beer").text(text);
+  $("#tooltip-container .tooltip_beer").show();
 }
 
 function addSVG(element,width,height) {
@@ -180,9 +205,12 @@ function makeCountryChart(countryCounts,showAVG) {
             } else {
               var tooltip_width = $("#tooltip-container").width();
               left = (d3.event.layerX - tooltip_width - 30);
-            } 
+            }
             
             showBasicTooltip(c,d.properties.name,top,left);  
+            var best = findTopBeer("c",d.properties.name);
+            showTopBeer(best);
+            $(this).attr("fill-opacity","0.7");
 
         })
         .on("mouseout", function() {
@@ -202,6 +230,7 @@ function makeCountryChart(countryCounts,showAVG) {
 }
 
 function makeStyleChart(element,styleCounts,showRatings,full) {
+  var field = element == "#style-svg" ? "style" : "b";
   var valFunc = function(d) {
     return showRatings ? avgScore(d) : d.count;
   }
@@ -279,6 +308,8 @@ function makeStyleChart(element,styleCounts,showRatings,full) {
     var top = d3.event.pageY-25;
     var left = d3.event.pageX+10;
     showBasicTooltip(d,d.name,top,left);
+    var best = findTopBeer(field,d.name);
+    showTopBeer(best);
   });
   
   bar.on("mouseout", function(d){
@@ -418,7 +449,6 @@ function makeScatterplot(beers,config) {
       .attr("r", 3.5)
       .attr("cx", function(d) { return x(config.xAxisValue(d)); })
       .attr("cy", function(d) { return y(config.yAxisValue(d)); })
-      .style("fill", function(d) { return "#F00" });
 
     console.log(dot);
 
@@ -456,11 +486,7 @@ function incrementCountAndScore(hash,key,score) {
 function extractCountries(data) {
   countries = {};
   data.forEach(function(i) {
-    var name = i.c;
-    if(countryMapping[name]) {
-      name = countryMapping[name];
-    }
-    incrementCountAndScore(countries,name,i.score)
+    incrementCountAndScore(countries,i.c,i.score)
   });
   return countries
 }
