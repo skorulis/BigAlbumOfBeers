@@ -19,23 +19,31 @@
 
       <h3>Breakdown by country of manufacture</h3>
       <form id="map-form">
-        <input type="radio" name="map-type" value="count" checked> Count<br>
-        <input type="radio" name="map-type" value="rating"> Rating<br>
+        <div class="switch-field">
+          <input type="radio" name="metric" id="switch_left" value="count" checked>
+          <label for="switch_left">Count</label>
+          <input type="radio" name="metric" id="switch_right" value="rating">
+          <label for="switch_right">Rating</label>
+        </div>
+        
       </form>
 
       <div id="map"></div>
 
       <h3>Breakdown by beer style</h3>
       <form id="style-form">
-        <input type="radio" name="map-type" value="count" checked> Count<br>
-        <input type="radio" name="map-type" value="rating"> Rating<br>
+        <input type="radio" name="metric" value="count" checked> Count<br>
+        <input type="radio" name="metric" value="rating"> Rating<br>
+
+        <input type="radio" name="quantity" value="top" checked> Top<br>
+        <input type="radio" name="quantity" value="all"> All<br>
       </form>
       <div id="style-svg"></div>
 
       <h3>Breakdown by brewery</h3>
       <form id="brewery-form">
-        <input type="radio" name="map-type" value="count" checked> Count<br>
-        <input type="radio" name="map-type" value="rating"> Rating<br>
+        <input type="radio" name="metric" value="count" checked> Count<br>
+        <input type="radio" name="metric" value="rating"> Rating<br>
       </form>
       <div id="brewery-svg"></div>
 

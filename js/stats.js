@@ -550,7 +550,11 @@ $("#map-form input").change(function() {
 });
 
 $("#style-form input").change(function() {
-  showStyleRatings = this.value == "rating";
+  if(this.name == "metric") {
+    showStyleRatings = this.value == "rating";
+  } else {
+    showFullStyle = this.value == "all";
+  }
   makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
 });
 

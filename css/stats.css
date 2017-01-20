@@ -43,3 +43,37 @@ text {
 text.label {
   fill:black;
 }
+
+.switch-field input {
+  display: none;
+}
+
+.switch-field label {
+  float: left;
+  display: inline-block;
+  width: 60px;
+  background-color: #FFF;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.switch-field label:hover {
+    cursor: pointer;
+}
+
+.switch-field input:checked + label {
+  background-color: #BE6C01;
+  color:#FFF;
+}
+
+.switch-field label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
