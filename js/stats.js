@@ -28,6 +28,8 @@ function getAxisName(type) {
     return "Untappd Rating";
   } else if (type == "ibu") {
     return "IBU";
+  } else if (type == "review") {
+    return "Review Length";
   }
 }
 
@@ -40,6 +42,8 @@ function getAxisFunc(type) {
     return function(d) { return d.uts;};
   } else if (type == "ibu") {
     return function(d) { return d.IBU;};
+  } else if (type == "review") {
+    return function(d) { return d.r;};
   }
 }
 
@@ -80,25 +84,13 @@ function showBasicTooltip(c,name,top,left) {
 }
 
 function showTooltip(title,text,top,left) {
-  var html = "";
-  html += "<div class=\"tooltip_kv\">";
-  html += "<span class=\"tooltip_key\">";
-  html += title;
-  html += "</span>";
-  html += "<span class=\"tooltip_value\">";
-  html += text;
-  html += "";
-  html += "</span>";
-  html += "</div>";
-  
-  $("#tooltip-container").html(html);
-  $(this).attr("fill-opacity", "0.8");
+  $("#tooltip-container .tooltip_key").text(title);
+  $("#tooltip-container .tooltip_value").text(text);
   $("#tooltip-container").show();
 
   d3.select("#tooltip-container")
     .style("top", top + "px")
     .style("left", left + "px");
-
 }
 
 function addSVG(element,width,height) {
@@ -559,7 +551,11 @@ $("#style-form input").change(function() {
 });
 
 $("#brewery-form input").change(function() {
-  showBreweryRatings = this.value == "rating";
+  if(this.name == "metric") {
+    showBreweryRatings = this.value == "rating";
+  } else {
+    showFullBreweries = this.value == "all";
+  }
   makeStyleChart("#brewery-svg",breweryCounts,showBreweryRatings,showFullBreweries);
 });
 
@@ -584,7 +580,7 @@ d3.json("/js/stats.json", function(err, data) {
   makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
   makeStyleChart("#brewery-svg",breweryCounts,showCountryRatings,showFullBreweries);
   //makeScoreChart(scoreFrequency);
-  //makeScatterplot(data,scatterPlotConfig);
+  makeScatterplot(data,scatterPlotConfig);
 
   $("#beer-count").text(data.length);
   $("#country-count").text(Object.keys(countryCounts).length);

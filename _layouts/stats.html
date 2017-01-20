@@ -10,7 +10,16 @@
     {% include nav.html %}
     {% include header.html %}
 
-    <div id="tooltip-container"></div>
+    <div id="tooltip-container">
+      <div class=tooltip_kv>
+        <span class=tooltip_key>
+        TITLE
+        </span>
+        <span class="tooltip_value">
+          TEXT
+        </span>
+      </div>
+    </div>
 
     <div class="container">
       <p class="stat-intro">
@@ -20,10 +29,10 @@
       <h3>Breakdown by country of manufacture</h3>
       <form id="map-form">
         <div class="switch-field">
-          <input type="radio" name="metric" id="switch_left" value="count" checked>
-          <label for="switch_left">Count</label>
-          <input type="radio" name="metric" id="switch_right" value="rating">
-          <label for="switch_right">Rating</label>
+          <input type="radio" name="metric" id="m_1" value="count" checked>
+          <label for="m_1">Count</label>
+          <input type="radio" name="metric" id="m_2" value="rating">
+          <label for="m_2">Rating</label>
         </div>
         
       </form>
@@ -32,22 +41,41 @@
 
       <h3>Breakdown by beer style</h3>
       <form id="style-form">
-        <input type="radio" name="metric" value="count" checked> Count<br>
-        <input type="radio" name="metric" value="rating"> Rating<br>
+        <div class="switch-field">
+          <input type="radio" name="metric" id="sm_1" value="count" checked>
+          <label for="sm_1">Count</label>
+          <input type="radio" name="metric" id="sm_2" value="rating">
+          <label for="sm_2">Rating</label>
+        </div>
 
-        <input type="radio" name="quantity" value="top" checked> Top<br>
-        <input type="radio" name="quantity" value="all"> All<br>
+        <div class="switch-field">
+          <input type="radio" name="quantity" id="sq_1" value="top" checked>
+          <label for="sq_1">Top</label>
+          <input type="radio" name="quantity" id="sq_2" value="all">
+          <label for="sq_2">All</label>
+        </div>
       </form>
       <div id="style-svg"></div>
 
       <h3>Breakdown by brewery</h3>
       <form id="brewery-form">
-        <input type="radio" name="metric" value="count" checked> Count<br>
-        <input type="radio" name="metric" value="rating"> Rating<br>
+        <div class="switch-field">
+          <input type="radio" name="metric" id="bm_1" value="count" checked>
+          <label for="bm_1">Count</label>
+          <input type="radio" name="metric" id="bm_2" value="rating">
+          <label for="bm_2">Rating</label>
+        </div>
+
+        <div class="switch-field">
+          <input type="radio" name="quantity" id="bq_1" value="top" checked>
+          <label for="bq_1">Top</label>
+          <input type="radio" name="quantity" id="bq_2" value="all">
+          <label for="bq_2">All</label>
+        </div>
       </form>
       <div id="brewery-svg"></div>
 
-      <div id="canvas-svg"></div>
+      <div id="score-svg"></div>
 
       <form id="scatter-form">
           X axis <br/>
@@ -60,6 +88,8 @@
           <label for="x_3">Untappd rating</label>
           <input type="radio" name="x" id="x_4" value="ibu">
           <label for="x_4">IBU</label>
+          <input type="radio" name="y" id="x_5" value="review">
+          <label for="x_5">Review Length</label>
         </div>
         
 
@@ -74,6 +104,8 @@
           <label for="y_3">Untappd rating</label>
           <input type="radio" name="y" id="y_4" value="ibu">
           <label for="y_4">IBU</label>
+          <input type="radio" name="y" id="y_5" value="review">
+          <label for="y_5">Review Length</label>
         </div>
       </form>
       <div id="scatterplot-svg"></div>
