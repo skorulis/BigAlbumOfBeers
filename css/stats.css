@@ -48,10 +48,13 @@ text.label {
   display: none;
 }
 
+.switch-field {
+  display: flex;
+}
+
 .switch-field label {
   float: left;
   display: inline-block;
-  width: 60px;
   background-color: #FFF;
   color: rgba(0, 0, 0, 0.6);
   font-size: 14px;

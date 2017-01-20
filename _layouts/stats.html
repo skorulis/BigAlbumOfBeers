@@ -51,17 +51,30 @@
 
       <form id="scatter-form">
           X axis <br/>
-        <input type="radio" name="x" value="abv" checked> ABV%<br>
-        <input type="radio" name="x" value="rating"> Rating<br>
-        <input type="radio" name="x" value="uts"> Untappd rating<br/>
-        <input type="radio" name="x" value="ibu"> IBU<br/>
+        <div class="switch-field">
+          <input type="radio" name="x" id="x_1" value="abv" checked>
+          <label for="x_1">ABV%</label>
+          <input type="radio" name="x" id="x_2" value="rating">
+          <label for="x_2">Rating</label>
+          <input type="radio" name="x" id="x_3" value="uts">
+          <label for="x_3">Untappd rating</label>
+          <input type="radio" name="x" id="x_4" value="ibu">
+          <label for="x_4">IBU</label>
+        </div>
+        
 
         Y axis <br/>
 
-        <input type="radio" name="y" value="abv" > ABV%<br>
-        <input type="radio" name="y" value="rating" checked=""> Rating<br>
-        <input type="radio" name="y" value="uts"> Untappd rating<br/>
-        <input type="radio" name="y" value="ibu"> IBU<br/>
+        <div class="switch-field">
+          <input type="radio" name="y" id="y_1" value="abv" checked>
+          <label for="y_1">ABV%</label>
+          <input type="radio" name="y" id="y_2" value="rating">
+          <label for="y_2">Rating</label>
+          <input type="radio" name="y" id="y_3" value="uts">
+          <label for="y_3">Untappd rating</label>
+          <input type="radio" name="y" id="y_4" value="ibu">
+          <label for="y_4">IBU</label>
+        </div>
       </form>
       <div id="scatterplot-svg"></div>
       <p>These stats are generated from 2 Facebook albums combined with extra data taken from Untappd</p>
