@@ -10,6 +10,8 @@ var showBreweryRatings = false;
 var showFullStyle = false;
 var showFullBreweries = false;
 
+var countryMapping = {England:"United Kingdom","Scotland":"United Kingdom","China / People's Republic of China":"China","Russia":"Russian Federation"};
+
 var scatterPlotConfig = {};
 scatterPlotConfig.xAxisName = getAxisName("abv");
 scatterPlotConfig.xAxisValue = getAxisFunc("abv");
@@ -462,13 +464,11 @@ function incrementCountAndScore(hash,key,score) {
 function extractCountries(data) {
   countries = {};
   data.forEach(function(i) {
-    if(i.country == "England" || i.country == "Scotland") {
-      incrementCountAndScore(countries,"United Kingdom",i.score)
-    } else if(i.country == "China / People's Republic of China") {
-      incrementCountAndScore(countries,"China",i.score)
-    } else if(i.country != undefined) {
-      incrementCountAndScore(countries,i.country,i.score)
+    var name = i.c;
+    if(countryMapping[name]) {
+      name = countryMapping[name];
     }
+    incrementCountAndScore(countries,name,i.score)
   });
   return countries
 }
