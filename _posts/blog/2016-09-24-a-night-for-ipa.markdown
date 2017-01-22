@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
+slim-header: true
 title:  "A night for IPA"
 date:   2016-09-24
 category: beer
