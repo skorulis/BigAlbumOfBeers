@@ -401,21 +401,26 @@ function makeScatterplot(beers,config) {
     return config.xAxisValue(i) != undefined && config.yAxisValue(i) != undefined;
   });
 
-  var fullWidth = 960,
-    fullHeight = 800,
-    margin = {top: 10, right: 30, bottom: 30, left: 30},
-    width = fullWidth - margin.left - margin.right,
-    height = fullHeight - margin.top - margin.bottom;
+
+  
+  
+  var margin = {top: 10, right: 30, bottom: 30, left: 30};
+  var svg = addSingleSVG("#scatterplot-svg",0.6);
+  var fullWidth = parseInt(svg.attr("width"));
+  var fullHeight = parseInt(svg.attr("height"));
+  svg = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  
+  var width = fullWidth - margin.left - margin.right;
+  var height = fullHeight - margin.top - margin.bottom;
 
   var x = d3.scaleLinear().range([0, width]);
   var y = d3.scaleLinear().range([height, 0]);
 
   var xAxis = d3.axisBottom(x);
   var yAxis = d3.axisLeft(y);
-  $("#scatterplot-svg").empty();
-  var svg = addSVG("#scatterplot-svg",fullWidth,fullHeight)
-    .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  
+  
 
   x.domain(d3.extent(beers, config.xAxisValue)).nice();
   y.domain(d3.extent(beers, config.yAxisValue)).nice();
