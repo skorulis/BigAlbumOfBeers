@@ -319,14 +319,14 @@ function makeStyleChart(element,styleCounts,showRatings,full) {
 
 function makeScoreChart(scores) {
 
-  var fullWidth = 960,
-    fullHeight = 400,
-    margin = {top: 10, right: 30, bottom: 30, left: 30},
-    width = fullWidth - margin.left - margin.right,
-    height = fullHeight - margin.top - margin.bottom;
-
-  var svg = addSVG("#canvas-svg",fullWidth,fullHeight);
+  var margin = {top: 10, right: 30, bottom: 30, left: 30};
+  var svg = addSingleSVG("#score-svg",0.6);
+  var fullWidth = parseInt(svg.attr("width"));
+  var fullHeight = parseInt(svg.attr("height"));
   var g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  var width = fullWidth - margin.left - margin.right;
+  var height = fullHeight - margin.top - margin.bottom;
 
   var keys = ["scores","uts"];
   var keyNames = {scores:"My ratings",uts:"Untappd ratings"};
@@ -335,7 +335,7 @@ function makeScoreChart(scores) {
 
   var x1 = d3.scaleBand().padding(0.05);
   var y = d3.scaleLinear().rangeRound([height, 0]);
-  var z = d3.scaleOrdinal().range(["#98abc5", "#8a89a6"]);
+  var z = d3.scaleOrdinal().range(["#BE6C01", "#F3BA06"]);
 
   x0.domain(scores.map(function(d) { return d.value; }));
   x1.domain(keys).rangeRound([0, x0.bandwidth()]);
@@ -401,16 +401,12 @@ function makeScatterplot(beers,config) {
     return config.xAxisValue(i) != undefined && config.yAxisValue(i) != undefined;
   });
 
-
-  
-  
   var margin = {top: 10, right: 30, bottom: 30, left: 30};
   var svg = addSingleSVG("#scatterplot-svg",0.6);
   var fullWidth = parseInt(svg.attr("width"));
   var fullHeight = parseInt(svg.attr("height"));
   svg = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  
   var width = fullWidth - margin.left - margin.right;
   var height = fullHeight - margin.top - margin.bottom;
 
@@ -594,26 +590,15 @@ function redrawCharts(data) {
   makeCountryChart(countryCounts,showCountryRatings);
 }
 
-d3.json("/js/stats.json", function(err, data) {
-  beerData = data;
-  countryCounts = extractCountries(data);
-  styleCounts = extractField(data,"style");
-  breweryCounts = extractField(data,"b");
-  var scoreFrequency = extractScoreFrequency(data);
+function setTextFields() {
 
-  var firstDate = new Date(data[0].d);
-  var lastDate = new Date(data[data.length-1].d);
+  var firstDate = new Date(beerData[0].d);
+  var lastDate = new Date(beerData[beerData.length-1].d);
   var months = monthDiff(firstDate,lastDate);
   var years = Math.floor(months/12);
   months = months - years * 12;
 
-  makeCountryChart(countryCounts,showCountryRatings);
-  makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
-  makeStyleChart("#brewery-svg",breweryCounts,showCountryRatings,showFullBreweries);
-  //makeScoreChart(scoreFrequency);
-  makeScatterplot(data,scatterPlotConfig);
-
-  $("#beer-count").text(data.length);
+  $("#beer-count").text(beerData.length);
   $("#country-count").text(Object.keys(countryCounts).length);
   $("#brewery-count").text(Object.keys(breweryCounts).length);
   var timeText = years + " years";
@@ -622,6 +607,25 @@ d3.json("/js/stats.json", function(err, data) {
   }
   $("#time-period").text(timeText);
 
+}
 
+d3.json("/js/stats.json", function(err, data) {
+  beerData = data;
+  countryCounts = extractCountries(data);
+  styleCounts = extractField(data,"style");
+  breweryCounts = extractField(data,"b");
+  var scoreFrequency = extractScoreFrequency(data);
+  setTextFields();
+  
+
+  makeCountryChart(countryCounts,showCountryRatings);
+  makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
+  makeStyleChart("#brewery-svg",breweryCounts,showCountryRatings,showFullBreweries);
+  makeScoreChart(scoreFrequency);
+  makeScatterplot(data,scatterPlotConfig);
+
+  
 });
+
+
 
