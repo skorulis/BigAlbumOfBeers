@@ -3,6 +3,7 @@ var beerData = [];
 var countryCounts;
 var styleCounts;
 var breweryCounts;
+var scoreFrequency;
 
 var showCountryRatings = false;
 var showStyleRatings = false;
@@ -547,7 +548,7 @@ function monthDiff(d1, d2) {
 
 d3.select(window).on('resize', function() {
   if(beerData) {
-    redrawCharts(beerData); 
+    redrawCharts(); 
   }
 });
 
@@ -586,8 +587,12 @@ $("#brewery-form input").change(function() {
   makeStyleChart("#brewery-svg",breweryCounts,showBreweryRatings,showFullBreweries);
 });
 
-function redrawCharts(data) {
+function redrawCharts() {
   makeCountryChart(countryCounts,showCountryRatings);
+  makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
+  makeStyleChart("#brewery-svg",breweryCounts,showCountryRatings,showFullBreweries);
+  makeScoreChart(scoreFrequency);
+  makeScatterplot(beerData,scatterPlotConfig);
 }
 
 function setTextFields() {
@@ -614,15 +619,11 @@ d3.json("/js/stats.json", function(err, data) {
   countryCounts = extractCountries(data);
   styleCounts = extractField(data,"style");
   breweryCounts = extractField(data,"b");
-  var scoreFrequency = extractScoreFrequency(data);
+  scoreFrequency = extractScoreFrequency(data);
   setTextFields();
-  
+  redrawCharts();
 
-  makeCountryChart(countryCounts,showCountryRatings);
-  makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
-  makeStyleChart("#brewery-svg",breweryCounts,showCountryRatings,showFullBreweries);
-  makeScoreChart(scoreFrequency);
-  makeScatterplot(data,scatterPlotConfig);
+  
 
   
 });
