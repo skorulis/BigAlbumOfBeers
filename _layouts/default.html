@@ -4,17 +4,11 @@
     <body id="page-top" class="index">
     {% include nav.html %}
     {% include header.html %}
-    <div class="container">    
+    <div class="main-container">    
         {{ content }}
     </div>
 
-    {% if site.contact == "static" %}
     {% include contact_static.html %}
-    {% elsif site.contact == "disqus" %}
-    {% include contact_disqus.html %}
-    {% else %}
-    {% include contact.html %}
-    {% endif %}
 
     {% include footer.html %}
     {% include analytics.html %}
