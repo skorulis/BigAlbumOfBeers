@@ -12,8 +12,8 @@ var showFullStyle = false;
 var showFullBreweries = false;
 
 var scatterPlotConfig = {};
-scatterPlotConfig.xAxisName = getAxisName("abv");
-scatterPlotConfig.xAxisValue = getAxisFunc("abv");
+scatterPlotConfig.xAxisName = getAxisName("uts");
+scatterPlotConfig.xAxisValue = getAxisFunc("uts");
 
 scatterPlotConfig.yAxisName = getAxisName("rating");
 scatterPlotConfig.yAxisValue = getAxisFunc("rating");
