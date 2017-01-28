@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The beers
+title: 1024 beers
 slim-header: true
 ---
 
@@ -9,10 +9,10 @@ slim-header: true
       {% for beer in rev %}
         
         <div class="col-md-4 col-sm-6 col-xs-12">
-        <a href="beer/{{beer.name | remove: "'" | slugify}}.html">
+        <a href="/beer/{{beer.name | remove: "'" | slugify}}.html">
           <p class="center">
             {{beer.name}}
-            {% if beer.score %}
+            {% if beer.score and beer.score != "null" %}
                 {{beer.score}}/10
             {% endif %}
 

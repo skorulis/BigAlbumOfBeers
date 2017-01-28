@@ -1,0 +1,9 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-mornington-hop-culture.md
+title: Mornington hop culture
+score: 8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195098_10154858056873745_8822363536692654837_n.jpg?oh=5b4f24f550fce9e6b45515431f90df95&oe=590667C5
+desc: "Lots of flavour given that it’s a session IPA. Seemed a little too bitter at first but once you get used to that it’s easy drinking. More earthy than floral but well balanced"
+permalink: /beer/:title.html
+---

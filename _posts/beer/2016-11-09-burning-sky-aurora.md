@@ -1,0 +1,9 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-burning-sky-aurora.md
+title: Burning Sky Aurora
+score: 8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1476223_10152147732298745_333484722_n.jpg?oh=334d8399fba4589c61389d89a488e904&oe=58FEA107
+desc: "Not too bitter with a mild hoppy taste"
+permalink: /beer/:title.html
+---
