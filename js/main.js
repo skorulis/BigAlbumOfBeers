@@ -43,3 +43,7 @@ $('.navbar-collapse ul li a').click(function() {
 function trackOutboundLink(name) {
     ga('send', 'event', 'outbound', 'site-click', "click-"+name);
 }
+
+$("img.lazy").lazyload({
+        effect : "fadeIn"
+      });

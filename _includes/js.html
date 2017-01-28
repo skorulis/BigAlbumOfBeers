@@ -1,8 +1,9 @@
- <!-- jQuery Version 1.11.0 -->
-    <script src="{{ "/js/jquery-1.11.0.js" }}"></script>
+
+    <script src="/js/jquery-3.1.1.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="{{ "/js/bootstrap.min.js" }}"></script>
+    <script src="{{ "/js/jquery.lazyload.min.js" }}"></script>
 
     <!-- Plugin JavaScript -->
     <script src="{{ "/js/jquery.easing.min.js" }}"></script>
@@ -19,8 +20,3 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/main.js" }}"></script>
-
-    {% if site.contact == "disqus" %}
-    <!-- Disqus Stuff -->
-    {% include js_disqus.html %}
-    {% endif %}

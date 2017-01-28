@@ -10,13 +10,15 @@ slim-header: true
     {% for post in site.posts %}
       <div class="row">
         <div class="col-sm-6 col-xs-12">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          <a href="{{ post.url | prepend: site.baseurl }}">
           <img class="img-list-img" src="/img/blog/thumbnails/{{post.thumbnail}}" alt="...">
           </a>
         </div>
         <div class="col-sm-6 col-xs-12">
-          <h4>{{ post.title }}</h4>
-          {{ post.date | date: "%b %-d, %Y" }}
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <h4>{{ post.title }}</h4>
+            {{ post.date | date: "%b %-d, %Y" }}
+          </a>
         </div>
       </div>
     {% endfor %}

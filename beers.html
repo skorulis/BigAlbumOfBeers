@@ -1,0 +1,39 @@
+---
+layout: default
+title: The beers
+slim-header: true
+---
+
+<ul class="beerlist">
+      {% assign rev = site.data.raw | reverse %}
+      {% for beer in rev %}
+        
+        <li >
+        <a href="beer/{{beer.name | remove: "'" | slugify}}.html">
+          <p class="center">
+            {{beer.name}}
+            {% if beer.score %}
+                {{beer.score}}/10
+            {% endif %}
+
+            {% if beer.expanded %}
+                <br/>
+                {% if beer.pct %}
+                    {{beer.pct}}%
+                {% endif %}
+                <br/>
+                {% if beer.desc %}
+                    {{beer.desc}}<br/>
+                {% endif %}
+            {% endif %}
+          </p>
+          <img class="lazy beer" data-original="{{beer.img}}"  width="640" heigh="480">
+          <noscript>
+            <img src="{{beer.img}}" width="640" heigh="480">
+          </noscript>
+        </a>
+        </li>
+        
+      
+      {% endfor %}
+    </ul>
