@@ -5,7 +5,10 @@
     {% include nav.html %}
     {% include header.html %}
     <div class="main-container">    
-        {{ content }}
+        <h3> {{page.desc}} 
+
+        </h3>
+        <img class="responsive" src="{{page.img}}" >
     </div>
 
     {% include contact_static.html %}
@@ -13,6 +16,5 @@
     {% include footer.html %}
     {% include analytics.html %}
     {% include js.html %}
-
     </body>
 </html>
