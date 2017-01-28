@@ -420,25 +420,22 @@ span.stat-big {
     align-items: center;
 }
 
-ul.beerlist {
-    padding: 0;
-    display: table;
-    table-layout: fixed;
-    margin: 0 auto;
+div.beerlist {
+    display: flex;
+    flex-wrap: wrap;
 }
 
-.beerlist li {
+.beerlist div {
     display: inline-block;
     border-width:1pt;
     border-color: #{{ site.color.primary }};
     border-style: solid;
     background-color:#E5E5E5;
 
-    width:300px;
-    height:400px;
-    margin:5pt;
     vertical-align: top;
     overflow: hidden;
+    margin-bottom:10px;
+    padding:0px;
 }
 
 li.hidden {
