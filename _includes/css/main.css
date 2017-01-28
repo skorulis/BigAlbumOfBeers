@@ -420,6 +420,12 @@ span.stat-big {
     align-items: center;
 }
 
+ul.beerlist {
+    padding: 0;
+    display: table;
+    table-layout: fixed;
+    margin: 0 auto;
+}
 
 .beerlist li {
     display: inline-block;
