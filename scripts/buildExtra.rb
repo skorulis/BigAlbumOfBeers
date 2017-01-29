@@ -3,6 +3,7 @@ require 'json'
 require 'net/http'
 require 'httpclient'
 require 'launchy'
+require 'slugify'
 
 ACCESS_TOKEN = "504CD86D79F7BC336C7A36EC0A97655DCF872857"
 
@@ -35,7 +36,9 @@ count = 0
 
 extraData.each do |item|
 	hash = item[1]["untappd"]
-	if hash["id"].length > 0 && hash["style"] == nil
+
+
+	if hash["id"].length > 0 && (hash["style"] == nil || hash["breweryId"] == nil)
 		url = "https://api.untappd.com/v4/beer/info/" + hash["id"] + "?access_token=" + ACCESS_TOKEN
 		clnt = HTTPClient.new;
 		data = clnt.get_content(url)
@@ -46,6 +49,7 @@ extraData.each do |item|
 		hash["IBU"] = beer["beer_ibu"]
 		hash["score"] = beer["rating_score"]
 		hash["brewery"] = brewery["brewery_name"]
+		hash["breweryId"] = brewery["brewery_id"]
 		hash["country"] = brewery["country_name"]
 		hash["name"] = beer["beer_name"]
 		hash["abv"] = beer["beer_abv"]
@@ -53,6 +57,10 @@ extraData.each do |item|
 		if count > 50
 			break
 		end
+	end
+
+	if hash["id"].length > 0
+		hash["url"] = "https://untappd.com/b/" + hash["brewery"].slugify + "-" + hash["name"].slugify + "/" + hash["id"]
 	end
 end
 

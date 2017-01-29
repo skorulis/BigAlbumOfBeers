@@ -6,9 +6,24 @@
     {% include header.html %}
     <div class="main-container">    
         <h3> {{page.desc}} 
-
+        {% if page.score %}
+            {{page.score}}/10
+        {% endif %}
         </h3>
+        {% if page.brewery %}
+            <p>Brewery: <a href="{{page.breweryURL}}">{{page.brewery}}</a></p>
+        {% endif %}
+
+        {% if page.style %}
+            <p>Style: {{page.style}}</p>
+        {% endif %}
+        
+        <p>Added on: {{page.beer-date}}</p>
+        {% if page.untappd %}
+            <p><a href="{{page.untappd}}">Untappd beer info</a></p>
+        {% endif %}
         <img class="responsive" src="{{page.img}}" >
+
     </div>
 
     {% include contact_static.html %}
