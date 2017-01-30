@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mad-abbot-christmas-ale.md
 title: Mad Abbot Christmas Ale
 untappd: "https://untappd.com/b/the-little-brewing-company-mad-abbot-christmas-ale---2014/808799"
+country: "Australia"
 brewery: "The Little Brewing Company"
 breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
 style: "Belgian Quad"

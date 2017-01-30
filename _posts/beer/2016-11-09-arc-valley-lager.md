@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-arc-valley-lager.md
 title: Arc Valley Lager
 untappd: "https://untappd.com/b/pinnacle-drinks-group--woolworths--arc-valley/801656"
+country: "Australia"
 brewery: "Pinnacle Drinks Group (Woolworths)"
 breweryURL: "https://untappd.com/w/pinnacle-drinks-group--woolworths-/74417"
 style: "Lager - Euro"

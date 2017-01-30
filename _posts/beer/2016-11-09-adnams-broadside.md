@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-adnams-broadside.md
 title: Adnams Broadside
 untappd: "https://untappd.com/b/adnams-broadside/4003"
+country: "United Kingdom"
 brewery: "Adnams"
 breweryURL: "https://untappd.com/w/adnams/11"
 style: "English Bitter"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wicked-elf-witbier.md
 title: Wicked Elf WitBier
 untappd: "https://untappd.com/b/the-little-brewing-company-wicked-elf-witbier/13968"
+country: "Australia"
 brewery: "The Little Brewing Company"
 breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
 style: "Witbier"

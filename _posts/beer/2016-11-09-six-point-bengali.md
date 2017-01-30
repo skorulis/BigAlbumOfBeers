@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-six-point-bengali.md
 title: Six point Bengali
 untappd: "https://untappd.com/b/sixpoint-brewery-bengali/691381"
+country: "United States"
 brewery: "Sixpoint Brewery"
 breweryURL: "https://untappd.com/w/sixpoint-brewery/1149"
 style: "IPA - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-blackfont-kolsch.md
 title: Blackfont kölsch
 untappd: "https://untappd.com/b/blackfont-brewhouse-kolsch/1406950"
+country: "Australia"
 brewery: "BlackFont Brewhouse"
 breweryURL: "https://untappd.com/w/blackfont-brewhouse/231217"
 style: "Kölsch"

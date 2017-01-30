@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-jack-frost.md
 title: Jack Frost
 untappd: "https://untappd.com/b/fuller--smith---turner--jack-frost/11995"
+country: "United Kingdom"
 brewery: "Fuller, Smith & Turner "
 breweryURL: "https://untappd.com/w/fuller--smith---turner-/3296"
 style: "Winter Ale"

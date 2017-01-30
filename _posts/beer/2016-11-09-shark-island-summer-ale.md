@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-shark-island-summer-ale.md
 title: Shark island summer ale
 untappd: "https://untappd.com/b/shark-island-brewing-co--greenhills-summer-ale/1220524"
+country: "Australia"
 brewery: "Shark Island Brewing Co."
 breweryURL: "https://untappd.com/w/shark-island-brewing-co-/122718"
 style: "Golden Ale"

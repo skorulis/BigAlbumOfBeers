@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wahoo-summer-lager.md
 title: Wahoo summer lager
 untappd: "https://untappd.com/b/gage-roads-brewing-co--wahoo-summer-lager/863499"
+country: "Australia"
 brewery: "Gage Roads Brewing Co "
 breweryURL: "https://untappd.com/w/gage-roads-brewing-co-/2608"
 style: "Lager - Pale"

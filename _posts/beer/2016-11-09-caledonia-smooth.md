@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-caledonia-smooth.md
 title: Caledonia smooth
 untappd: "https://untappd.com/b/bulmers-ireland-caledonia-smooth/180103"
+country: "Ireland"
 brewery: "Bulmers Ireland"
 breweryURL: "https://untappd.com/w/bulmers-ireland/5874"
 style: "English Mild Ale"

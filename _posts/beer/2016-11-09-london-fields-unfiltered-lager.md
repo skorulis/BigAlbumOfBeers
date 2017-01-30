@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-london-fields-unfiltered-lager.md
 title: London fields Unfiltered lager
 untappd: "https://untappd.com/b/london-fields-brewery-london-fields-unfiltered-lager/915568"
+country: "United Kingdom"
 brewery: "London Fields Brewery"
 breweryURL: "https://untappd.com/w/london-fields-brewery/15411"
 style: "Lager - Pale"

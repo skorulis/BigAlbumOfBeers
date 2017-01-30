@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-camden-gentlemans-wit.md
 title: Camden gentlemans wit
 untappd: "https://untappd.com/b/camden-town-brewery-camden-gentlemans-wit-white-beer/108629"
+country: "United Kingdom"
 brewery: "Camden Town Brewery"
 breweryURL: "https://untappd.com/w/camden-town-brewery/10433"
 style: "Witbier"

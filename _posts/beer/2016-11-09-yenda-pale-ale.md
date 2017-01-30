@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-yenda-pale-ale.md
 title: Yenda Pale ale
 untappd: "https://untappd.com/b/australian-beer-company-yenda-pale-ale/808826"
+country: "Australia"
 brewery: "Australian Beer Company"
 breweryURL: "https://untappd.com/w/australian-beer-company/101175"
 style: "Pale Ale - Australian"

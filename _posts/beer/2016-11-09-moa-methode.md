@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-moa-methode.md
 title: MOA methode
 untappd: "https://untappd.com/b/moa-brewing-company-methode-pilsner/21770"
+country: "New Zealand"
 brewery: "Moa Brewing Company"
 breweryURL: "https://untappd.com/w/moa-brewing-company/1857"
 style: "Pilsner - Other"

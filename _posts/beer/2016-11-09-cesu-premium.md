@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cesu-premium.md
 title: Cesu premium
 untappd: "https://untappd.com/b/cesu-alus-cesu-premium/745853"
+country: "Latvia"
 brewery: "Cēsu Alus"
 breweryURL: "https://untappd.com/w/cesu-alus/5888"
 style: "Lager - Pale"

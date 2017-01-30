@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-2-brothers-kung-foo-lager.md
 title: 2 brothers Kung foo lager
 untappd: "https://untappd.com/b/2-brothers-brewery--kung-foo/155613"
+country: "Australia"
 brewery: "2 Brothers Brewery "
 breweryURL: "https://untappd.com/w/2-brothers-brewery-/3557"
 style: "Lager - Japanese Rice"

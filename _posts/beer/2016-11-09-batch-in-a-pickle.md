@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-batch-in-a-pickle.md
 title: Batch in a pickle
 untappd: "https://untappd.com/b/batch-brewing-company-in-a-pickle/1479361"
+country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
 style: "Sour - Ale"

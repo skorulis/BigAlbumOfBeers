@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-riverside-othellos-curse.md
 title: Riverside othello's curse
 untappd: "https://untappd.com/b/riverside-brewing-company-othellos-curse/614636"
+country: "Australia"
 brewery: "Riverside Brewing Company"
 breweryURL: "https://untappd.com/w/riverside-brewing-company/15195"
 style: "IPA - Imperial / Double Black"

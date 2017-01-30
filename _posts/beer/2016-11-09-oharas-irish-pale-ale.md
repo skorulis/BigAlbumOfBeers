@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-oharas-irish-pale-ale.md
 title: O'hara's Irish pale ale
 untappd: "https://untappd.com/b/oharas-brewery--carlow-brewing-company--oharas-irish-pale-ale/143851"
+country: "Ireland"
 brewery: "O'Hara's Brewery (Carlow Brewing Company)"
 breweryURL: "https://untappd.com/w/oharas-brewery--carlow-brewing-company-/342"
 style: "IPA - International"

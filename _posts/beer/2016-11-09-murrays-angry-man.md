@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-murrays-angry-man.md
 title: Murray's angry man
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-angry-man-pale-ale/87671"
+country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "https://untappd.com/w/murrays-craft-brewing-co/2557"
 style: "Pale Ale - American"

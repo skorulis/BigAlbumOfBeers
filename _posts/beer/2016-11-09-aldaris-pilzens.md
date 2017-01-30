@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-aldaris-pilzens.md
 title: Aldaris pilzens
 untappd: "https://untappd.com/b/aldaris-pilzenes/112855"
+country: "Latvia"
 brewery: "Aldaris"
 breweryURL: "https://untappd.com/w/aldaris/19"
 style: "Pilsner - Other"

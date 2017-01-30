@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-holsten-pils.md
 title: Holsten Pils
 untappd: "https://untappd.com/b/holsten-brauerei-holsten-pilsener/957246"
+country: "Germany"
 brewery: "Holsten-Brauerei"
 breweryURL: "https://untappd.com/w/holsten-brauerei/668"
 style: "Pilsner - German"

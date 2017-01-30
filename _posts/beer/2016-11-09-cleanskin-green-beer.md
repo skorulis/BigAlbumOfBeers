@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cleanskin-green-beer.md
 title: Cleanskin Green beer
 untappd: "https://untappd.com/b/hitejinro-premium-cleanskin-green-beer/713411"
+country: "South Korea"
 brewery: "HiteJinro"
 breweryURL: "https://untappd.com/w/hitejinro/4669"
 style: "Lager - North American Adjunct"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pan-head-pilsner.md
 title: Pan head Pilsner
 untappd: "https://untappd.com/b/panhead-custom-ales-port-road-pils/422915"
+country: "New Zealand"
 brewery: "Panhead Custom Ales"
 breweryURL: "https://untappd.com/w/panhead-custom-ales/73019"
 style: "Pilsner - Other"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-red-stripe.md
 title: Red stripe
 untappd: "https://untappd.com/b/desnoes---geddes-red-stripe/3692"
+country: "Jamaica"
 brewery: "Desnoes & Geddes"
 breweryURL: "https://untappd.com/w/desnoes---geddes/442"
 style: "Lager - North American Adjunct"

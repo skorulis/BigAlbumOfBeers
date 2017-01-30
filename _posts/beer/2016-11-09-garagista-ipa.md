@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-garagista-ipa.md
 title: Garagista IPA
 untappd: "https://untappd.com/b/garage-project-garagista/504806"
+country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "https://untappd.com/w/garage-project/14539"
 style: "IPA - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-yenda-hell.md
 title: Yenda Hell
 untappd: "https://untappd.com/b/australian-beer-company-yenda-hell/846902"
+country: "Australia"
 brewery: "Australian Beer Company"
 breweryURL: "https://untappd.com/w/australian-beer-company/101175"
 style: "Lager - Helles"

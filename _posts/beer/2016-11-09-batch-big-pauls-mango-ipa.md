@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-batch-big-pauls-mango-ipa.md
 title: Batch big Paul's mango IPA
 untappd: "https://untappd.com/b/batch-brewing-company-big-pauls-mango-ipa/1411361"
+country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
 style: "IPA - International"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-debowe-mocne.md
 title: Debowe mocne
 untappd: "https://untappd.com/b/kompania-piwowarska-debowe-mocne/83020"
+country: "Poland"
 brewery: "Kompania Piwowarska"
 breweryURL: "https://untappd.com/w/kompania-piwowarska/22399"
 style: "Lager - Euro Strong"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-birra-moretti.md
 title: Birra moretti
 untappd: "https://untappd.com/b/birra-moretti-birra-moretti/6347"
+country: "Italy"
 brewery: "Birra Moretti"
 breweryURL: "https://untappd.com/w/birra-moretti/127"
 style: "Lager - Pale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-the-wild-beer-co-bliss.md
 title: The wild beer co Bliss
 untappd: "https://untappd.com/b/the-wild-beer-co-bliss/259507"
+country: "United Kingdom"
 brewery: "The Wild Beer Co"
 breweryURL: "https://untappd.com/w/the-wild-beer-co/41559"
 style: "Saison / Farmhouse Ale"

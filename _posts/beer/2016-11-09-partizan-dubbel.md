@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-partizan-dubbel.md
 title: Partizan dubbel
 untappd: "https://untappd.com/b/partizan-brewing-dubbel-winter/443216"
+country: "United Kingdom"
 brewery: "Partizan Brewing"
 breweryURL: "https://untappd.com/w/partizan-brewing/48584"
 style: "Belgian Dubbel"

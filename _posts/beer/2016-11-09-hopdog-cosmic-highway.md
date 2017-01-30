@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hopdog-cosmic-highway.md
 title: HopDog cosmic highway
 untappd: "https://untappd.com/b/hopdog-beerworks-cosmic-highway/277325"
+country: "Australia"
 brewery: "HopDog BeerWorks"
 breweryURL: "https://untappd.com/w/hopdog-beerworks/15151"
 style: "Pale Ale - Australian"

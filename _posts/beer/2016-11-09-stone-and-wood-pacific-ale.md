@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-stone-and-wood-pacific-ale.md
 title: Stone and wood pacific ale
 untappd: "https://untappd.com/b/stone---wood-pacific-ale/626326"
+country: "Australia"
 brewery: "Stone & Wood"
 breweryURL: "https://untappd.com/w/stone---wood/2555"
 style: "Pale Ale - Australian"

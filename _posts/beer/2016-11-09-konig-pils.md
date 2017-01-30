@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-konig-pils.md
 title: Konig pils
 untappd: "https://untappd.com/b/konig-brauerei-konig-pilsener/7521"
+country: "Germany"
 brewery: "König Brauerei"
 breweryURL: "https://untappd.com/w/konig-brauerei/106179"
 style: "Pilsner - German"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-nutty-black.md
 title: Nutty black
 untappd: "https://untappd.com/b/thwaites-brewery-nutty-black/25221"
+country: "United Kingdom"
 brewery: "Thwaites Brewery"
 breweryURL: "https://untappd.com/w/thwaites-brewery/4609"
 style: "English Mild Ale"

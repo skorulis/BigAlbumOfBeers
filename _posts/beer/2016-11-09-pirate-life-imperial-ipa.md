@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pirate-life-imperial-ipa.md
 title: Pirate Life Imperial IPA
 untappd: "https://untappd.com/b/pirate-life-brewing-double-ipa/995897"
+country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "https://untappd.com/w/pirate-life-brewing/189380"
 style: "IPA - Imperial / Double"

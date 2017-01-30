@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-masters-finest.md
 title: Masters Finest
 untappd: "https://untappd.com/b/elaboraday-masters-finest/1316556"
+country: "Netherlands"
 brewery: "Elaboraday"
 breweryURL: "https://untappd.com/w/elaboraday/236430"
 style: "Pale Ale - American"

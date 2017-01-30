@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-merchant-three-toe.md
 title: Merchant three toe
 untappd: "https://untappd.com/b/merchant-brewing-co--three-toe-ale/1013376"
+country: "Australia"
 brewery: "Merchant Brewing Co."
 breweryURL: "https://untappd.com/w/merchant-brewing-co-/53881"
 style: "Pale Ale - American"

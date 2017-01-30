@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wet-hopped-oatmeal-ale.md
 title: Wet hopped oatmeal ale
 untappd: "https://untappd.com/b/grand-ridge-brewery-whoa---wet-hopped-oatmeal-ale/821304"
+country: "Australia"
 brewery: "Grand Ridge Brewery"
 breweryURL: "https://untappd.com/w/grand-ridge-brewery/4331"
 style: "Golden Ale"

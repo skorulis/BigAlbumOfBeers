@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pinedrops-ipa.md
 title: Pinedrops IPA
 untappd: "https://untappd.com/b/deschutes-brewery-pinedrops-ipa/375332"
+country: "United States"
 brewery: "Deschutes Brewery"
 breweryURL: "https://untappd.com/w/deschutes-brewery/441"
 style: "IPA - American"

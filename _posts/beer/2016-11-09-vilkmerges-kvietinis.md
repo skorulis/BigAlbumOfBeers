@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-vilkmerges-kvietinis.md
 title: Vilkmergės kvietinis
 untappd: "https://untappd.com/b/vilkmerges-alus-vilkmerges-kvietinis/256232"
+country: "Lithuania"
 brewery: "Vilkmerges Alus"
 breweryURL: "https://untappd.com/w/vilkmerges-alus/52420"
 style: "Witbier"

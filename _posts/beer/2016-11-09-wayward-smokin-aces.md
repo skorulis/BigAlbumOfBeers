@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wayward-smokin-aces.md
 title: Wayward smokin aces
 untappd: "https://untappd.com/b/wayward-brewing-smokin-aces/1783878"
+country: "Australia"
 brewery: "Wayward Brewing"
 breweryURL: "https://untappd.com/w/wayward-brewing/48019"
 style: "Rauchbier"

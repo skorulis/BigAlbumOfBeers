@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-fischers-stiftungbrau-helles.md
 title: Fischer's stiftungbräu helles
 untappd: "https://untappd.com/b/fischers-stiftungsbrau-fischers-hell/498614"
+country: "Germany"
 brewery: "Fischer's Stiftungsbräu"
 breweryURL: "https://untappd.com/w/fischers-stiftungsbrau/89293"
 style: "Lager - Helles"

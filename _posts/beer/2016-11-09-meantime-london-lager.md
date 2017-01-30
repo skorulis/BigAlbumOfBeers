@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-meantime-london-lager.md
 title: Meantime London Lager
 untappd: "https://untappd.com/b/meantime-brewing-company-london-lager/42347"
+country: "United Kingdom"
 brewery: "Meantime Brewing Company"
 breweryURL: "https://untappd.com/w/meantime-brewing-company/844"
 style: "Lager - Pale"

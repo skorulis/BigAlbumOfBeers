@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-st-peters-mild.md
 title: St Peter's Mild
 untappd: "https://untappd.com/b/st--peters-brewery-co--mild/121019"
+country: "United Kingdom"
 brewery: "St. Peter’s Brewery Co."
 breweryURL: "https://untappd.com/w/st--peters-brewery-co-/2855"
 style: "English Mild Ale"

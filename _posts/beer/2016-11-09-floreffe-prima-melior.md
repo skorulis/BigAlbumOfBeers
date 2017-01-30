@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-floreffe-prima-melior.md
 title: Floreffe Prima Melior
 untappd: "https://untappd.com/b/brasserie-lefebvre-floreffe-prima-melior--meilleure/18361"
+country: "Belgium"
 brewery: "Brasserie Lefebvre"
 breweryURL: "https://untappd.com/w/brasserie-lefebvre/197"
 style: "Belgian Strong Dark Ale"

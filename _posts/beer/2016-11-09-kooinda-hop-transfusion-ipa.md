@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kooinda-hop-transfusion-ipa.md
 title: Kooinda hop transfusion ipa
 untappd: "https://untappd.com/b/kooinda-brewing-company-hop-transfusion-ipa/264237"
+country: "Australia"
 brewery: "Kooinda Brewing Company"
 breweryURL: "https://untappd.com/w/kooinda-brewing-company/6276"
 style: "IPA - American"

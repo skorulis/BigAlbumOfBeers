@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-spitfire-kentish-ale.md
 title: Spitfire Kentish ale
 untappd: "https://untappd.com/b/shepherd-neame-spitfire-premium-kentish-ale/32722"
+country: "United Kingdom"
 brewery: "Shepherd Neame"
 breweryURL: "https://untappd.com/w/shepherd-neame/1132"
 style: "English Bitter"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-deschutes-mirror-pond-pale-ale.md
 title: Deschutes mirror pond pale ale
 untappd: "https://untappd.com/b/deschutes-brewery-mirror-pond-pale-ale/3587"
+country: "United States"
 brewery: "Deschutes Brewery"
 breweryURL: "https://untappd.com/w/deschutes-brewery/441"
 style: "Pale Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pacifico-clara.md
 title: Pacifico clara
 untappd: "https://untappd.com/b/grupo-modelo-s-a--de-c-v--pacifico-clara/5850"
+country: "Mexico"
 brewery: "Grupo Modelo S.A. de C.V."
 breweryURL: "https://untappd.com/w/grupo-modelo-s-a--de-c-v-/618"
 style: "Lager - North American Adjunct"

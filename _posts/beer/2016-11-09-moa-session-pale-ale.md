@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-moa-session-pale-ale.md
 title: MOA Session pale ale
 untappd: "https://untappd.com/b/moa-brewing-company-session-pale-ale/611847"
+country: "New Zealand"
 brewery: "Moa Brewing Company"
 breweryURL: "https://untappd.com/w/moa-brewing-company/1857"
 style: "Pale Ale - New Zealand"

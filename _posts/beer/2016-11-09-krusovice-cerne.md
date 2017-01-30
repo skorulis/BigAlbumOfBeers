@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-krusovice-cerne.md
 title: Krusovice cerne
 untappd: "https://untappd.com/b/heineken-ceska-republika-krusovice-cerne/23586"
+country: "Czech Republic"
 brewery: "Heineken Česká republika"
 breweryURL: "https://untappd.com/w/heineken-ceska-republika/9774"
 style: "Lager - Dark"

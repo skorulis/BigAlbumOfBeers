@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-aldaris-dumaku.md
 title: Aldaris Dumaku
 untappd: "https://untappd.com/b/aldaris-dumaku-nefiltrets/33718"
+country: "Latvia"
 brewery: "Aldaris"
 breweryURL: "https://untappd.com/w/aldaris/19"
 style: "Lager - Pale"

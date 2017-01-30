@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-grafenwalder.md
 title: Grafenwalder
 untappd: "https://untappd.com/b/frankfurter-brauhaus-grafenwalder-pils/67076"
+country: "Germany"
 brewery: "Frankfurter Brauhaus"
 breweryURL: "https://untappd.com/w/frankfurter-brauhaus/8312"
 style: "Pilsner - German"

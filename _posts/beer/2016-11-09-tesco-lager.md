@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tesco-lager.md
 title: Tesco Lager
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-lager/412420"
+country: "United Kingdom"
 brewery: "Tesco Stores Ltd."
 breweryURL: "https://untappd.com/w/tesco-stores-ltd-/3018"
 style: "Lager - Pale"

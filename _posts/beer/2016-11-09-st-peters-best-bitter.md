@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-st-peters-best-bitter.md
 title: St Peter's Best Bitter
 untappd: "https://untappd.com/b/st--peters-brewery-co--best-bitter/38727"
+country: "United Kingdom"
 brewery: "St. Peter’s Brewery Co."
 breweryURL: "https://untappd.com/w/st--peters-brewery-co-/2855"
 style: "English Bitter"

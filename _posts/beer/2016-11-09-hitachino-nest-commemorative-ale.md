@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hitachino-nest-commemorative-ale.md
 title: Hitachino Nest Commemorative Ale
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-new-year-commemorative-ale--2015-/910657"
+country: "Japan"
 brewery: "Kiuchi Brewery"
 breweryURL: "https://untappd.com/w/kiuchi-brewery/1713"
 style: "Spiced / Herbed Beer"

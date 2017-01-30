@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mornington-why-so-cereal.md
 title: Mornington why so cereal
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-why-so-cereal/1450494"
+country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
 style: "Pale Ale - American"

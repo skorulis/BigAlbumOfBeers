@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-magic-hat-smash-hits-ipa.md
 title: Magic hat smash hits IPA
 untappd: "https://untappd.com/b/magic-hat-brewing-company-s-m-a-s-h--hits-vol--1/1390654"
+country: "United States"
 brewery: "Magic Hat Brewing Company"
 breweryURL: "https://untappd.com/w/magic-hat-brewing-company/812"
 style: "IPA - American"

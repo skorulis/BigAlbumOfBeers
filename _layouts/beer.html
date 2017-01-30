@@ -13,6 +13,9 @@
         {% if page.brewery %}
             <p>Brewery: <a href="{{page.breweryURL}}">{{page.brewery}}</a></p>
         {% endif %}
+        {% if page.country %}
+            <p>Country: {{page.country}}</p>
+        {% endif %}
 
         {% if page.style %}
             <p>Style: {{page.style}}</p>

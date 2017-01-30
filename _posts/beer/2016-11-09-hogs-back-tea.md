@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hogs-back-tea.md
 title: Hogs Back TEA
 untappd: "https://untappd.com/b/hogs-back-brewery-tea--traditional-english-ale-/18485"
+country: "United Kingdom"
 brewery: "Hogs Back Brewery"
 breweryURL: "https://untappd.com/w/hogs-back-brewery/2774"
 style: "Traditional Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-point-pale-ale.md
 title: Point pale ale
 untappd: "https://untappd.com/b/stevens-point-brewery-cascade-pale-ale/2760"
+country: "United States"
 brewery: "Stevens Point Brewery"
 breweryURL: "https://untappd.com/w/stevens-point-brewery/1200"
 style: "Pale Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-derwent-aromatic-spelt-ale.md
 title: Derwent aromatic spelt ale
 untappd: "https://untappd.com/b/two-metre-tall-derwent-aromatic-spelt-ale/171657"
+country: "Australia"
 brewery: "Two Metre Tall"
 breweryURL: "https://untappd.com/w/two-metre-tall/5270"
 style: "Sour - Ale"

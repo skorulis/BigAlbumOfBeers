@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-carlton-mid.md
 title: Carlton mid
 untappd: "https://untappd.com/b/carlton---united-breweries-carlton-midstrength/6091"
+country: "Australia"
 brewery: "Carlton & United Breweries"
 breweryURL: "https://untappd.com/w/carlton---united-breweries/4045"
 style: "Lager - North American Adjunct"

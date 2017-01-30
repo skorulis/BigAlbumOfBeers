@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-scorcher-summer-ale.md
 title: Scorcher Summer Ale
 untappd: "https://untappd.com/b/cricketers-arms-scorcher-summer-ale/1256342"
+country: "Australia"
 brewery: "Cricketers Arms"
 breweryURL: "https://untappd.com/w/cricketers-arms/6998"
 style: "Golden Ale"

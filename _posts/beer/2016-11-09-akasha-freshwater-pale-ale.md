@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-akasha-freshwater-pale-ale.md
 title: Akasha freshwater pale ale
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--freshwater-pale-ale/989914"
+country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "https://untappd.com/w/akasha-brewing-company--australia-/188552"
 style: "Pale Ale - American"

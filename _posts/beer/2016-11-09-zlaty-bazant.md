@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-zlaty-bazant.md
 title: Zlaty bazant
 untappd: "https://untappd.com/b/pivovar-v-hurbanove-golden-pheasant/2359"
+country: "Slovakia"
 brewery: "Pivovar v Hurbanove"
 breweryURL: "https://untappd.com/w/pivovar-v-hurbanove/996"
 style: "Pilsner - Czech"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-edge-angry-pirate.md
 title: Edge angry pirate
 untappd: "https://untappd.com/b/edge-brewing-project-angry-pirate/614552"
+country: "Australia"
 brewery: "Edge Brewing Project"
 breweryURL: "https://untappd.com/w/edge-brewing-project/166489"
 style: "IPA - American"

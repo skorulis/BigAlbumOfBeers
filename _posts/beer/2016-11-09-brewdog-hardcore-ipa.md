@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewdog-hardcore-ipa.md
 title: Brewdog Hardcore IPA
 untappd: "https://untappd.com/b/brewdog-hardcore-ipa/5707"
+country: "United Kingdom"
 brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "IPA - Imperial / Double"

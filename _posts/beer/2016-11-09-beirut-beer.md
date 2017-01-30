@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-beirut-beer.md
 title: Beirut beer
 untappd: "https://untappd.com/b/kassatly-chtaura-beirut-beer/741615"
+country: "Lebanon"
 brewery: "Kassatly Chtaura"
 breweryURL: "https://untappd.com/w/kassatly-chtaura/142740"
 style: "Pilsner - Other"

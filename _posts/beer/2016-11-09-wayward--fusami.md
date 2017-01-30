@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wayward--fusami.md
 title: Wayward  fusami
 untappd: "https://untappd.com/b/wayward-brewing-fusami-victory/936462"
+country: "Australia"
 brewery: "Wayward Brewing"
 breweryURL: "https://untappd.com/w/wayward-brewing/48019"
 style: "Lager - IPL (India Pale Lager)"

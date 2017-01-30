@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-dutch-windmill.md
 title: Dutch windmill
 untappd: "https://untappd.com/b/h-west-b-v--dutch-windmill/15551"
+country: "Netherlands"
 brewery: "H-West B.V."
 breweryURL: "https://untappd.com/w/h-west-b-v-/4066"
 style: "Lager - Pale"

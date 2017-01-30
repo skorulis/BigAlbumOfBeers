@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-red-pig-ale.md
 title: Red pig ale
 untappd: "https://untappd.com/b/cerveceria-mexicana-s--de-r-l--de-c-v---tecate--red-pig-mexican-ale/17506"
+country: "Mexico"
 brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
 breweryURL: "https://untappd.com/w/cerveceria-mexicana-s--de-r-l--de-c-v---tecate-/3254"
 style: "Red Ale - American Amber / Red"

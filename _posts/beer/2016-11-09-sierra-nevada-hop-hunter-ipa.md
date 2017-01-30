@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sierra-nevada-hop-hunter-ipa.md
 title: Sierra Nevada Hop Hunter IPA
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--hop-hunter-ipa/568188"
+country: "United States"
 brewery: "Sierra Nevada Brewing Co."
 breweryURL: "https://untappd.com/w/sierra-nevada-brewing-co-/1142"
 style: "IPA - American"

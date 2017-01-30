@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-staffordshire-ipa.md
 title: Staffordshire IPA
 untappd: "https://untappd.com/b/marks---spencer-staffordshire-ipa/64590"
+country: "United Kingdom"
 brewery: "Marks & Spencer"
 breweryURL: "https://untappd.com/w/marks---spencer/242395"
 style: "Burton Ale"

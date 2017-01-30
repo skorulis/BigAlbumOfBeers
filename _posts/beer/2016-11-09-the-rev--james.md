@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-the-rev--james.md
 title: The Rev. James
 untappd: "https://untappd.com/b/brains-the-rev--james-original---therevtweets/50090"
+country: "Wales"
 brewery: "Brains"
 breweryURL: "https://untappd.com/w/brains/3779"
 style: "English Bitter"

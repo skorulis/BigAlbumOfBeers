@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-little-creatures-furphy.md
 title: Little creatures Furphy
 untappd: "https://untappd.com/b/little-creatures-brewing-furphy/759496"
+country: "Australia"
 brewery: "Little Creatures Brewing"
 breweryURL: "https://untappd.com/w/little-creatures-brewing/2560"
 style: "Kölsch"

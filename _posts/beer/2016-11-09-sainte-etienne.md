@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sainte-etienne.md
 title: Sainte etienne
 untappd: "https://untappd.com/b/inbev-france-sainte-etienne/1243185"
+country: "France"
 brewery: "Inbev France"
 breweryURL: "https://untappd.com/w/inbev-france/52960"
 style: "Lager - Euro"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brew-dog-jack-hammer.md
 title: Brew dog Jack Hammer
 untappd: "https://untappd.com/b/brewdog-jack-hammer/196338"
+country: "United Kingdom"
 brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "IPA - American"

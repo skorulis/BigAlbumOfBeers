@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cricketers-arms-keepers-lager.md
 title: Cricketers Arms Keeper’s lager
 untappd: "https://untappd.com/b/cricketers-arms-keepers-lager/850123"
+country: "Australia"
 brewery: "Cricketers Arms"
 breweryURL: "https://untappd.com/w/cricketers-arms/6998"
 style: "Lager - Pale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-grifter-big-sur.md
 title: Grifter big sur
 untappd: "https://untappd.com/b/grifter-brewing-company-big-sur/484287"
+country: "Australia"
 brewery: "Grifter Brewing Company"
 breweryURL: "https://untappd.com/w/grifter-brewing-company/32845"
 style: "IPA - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-endeavour-bright-ale.md
 title: Endeavour bright ale
 untappd: "https://untappd.com/b/endeavour-vintage-beer-co--2014-growers-bright-ale/848185"
+country: "Australia"
 brewery: "ENDEAVOUR Vintage Beer Co."
 breweryURL: "https://untappd.com/w/endeavour-vintage-beer-co-/3173"
 style: "Pale Ale - Australian"

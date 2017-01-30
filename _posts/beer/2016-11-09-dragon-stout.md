@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-dragon-stout.md
 title: Dragon stout
 untappd: "https://untappd.com/b/desnoes---geddes-dragon-stout/24231"
+country: "Jamaica"
 brewery: "Desnoes & Geddes"
 breweryURL: "https://untappd.com/w/desnoes---geddes/442"
 style: "Stout - Other"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-anchor-ipa.md
 title: Anchor IPA
 untappd: "https://untappd.com/b/anchor-brewing-company-anchor-ipa/517772"
+country: "United States"
 brewery: "Anchor Brewing Company"
 breweryURL: "https://untappd.com/w/anchor-brewing-company/3891"
 style: "IPA - American"

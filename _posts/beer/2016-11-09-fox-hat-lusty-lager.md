@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-fox-hat-lusty-lager.md
 title: Fox hat lusty lager
 untappd: "https://untappd.com/b/fox-hat-brewing-lusty-lager/1338046"
+country: "Australia"
 brewery: "Fox Hat Brewing"
 breweryURL: "https://untappd.com/w/fox-hat-brewing/193696"
 style: "Lager - Euro Strong"

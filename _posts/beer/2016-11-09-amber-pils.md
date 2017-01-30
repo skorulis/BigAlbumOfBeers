@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-amber-pils.md
 title: Amber pils
 untappd: "https://untappd.com/b/browar-amber-amber-chmielowy--amber-pils-beer/398331"
+country: "Poland"
 brewery: "Browar Amber"
 breweryURL: "https://untappd.com/w/browar-amber/5753"
 style: "Pilsner - Other"

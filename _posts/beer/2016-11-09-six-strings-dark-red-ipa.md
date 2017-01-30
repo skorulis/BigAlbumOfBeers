@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-six-strings-dark-red-ipa.md
 title: Six strings dark red IPA
 untappd: "https://untappd.com/b/six-string-brewing-company-dark-red-ipa/318875"
+country: "Australia"
 brewery: "Six String Brewing Company"
 breweryURL: "https://untappd.com/w/six-string-brewing-company/49352"
 style: "IPA - American"

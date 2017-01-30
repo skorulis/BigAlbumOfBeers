@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bridge-road-beechworth-pale-ale.md
 title: Bridge road beechworth pale ale
 untappd: "https://untappd.com/b/bridge-road-brewers-beechworth-pale-ale/13726"
+country: "Australia"
 brewery: "Bridge Road Brewers"
 breweryURL: "https://untappd.com/w/bridge-road-brewers/3174"
 style: "Pale Ale - American"

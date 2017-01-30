@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-london-fields-wheat-beer.md
 title: London fields wheat beer
 untappd: "https://untappd.com/b/london-fields-brewery-wheat-beer/98104"
+country: "United Kingdom"
 brewery: "London Fields Brewery"
 breweryURL: "https://untappd.com/w/london-fields-brewery/15411"
 style: "Hefeweizen"

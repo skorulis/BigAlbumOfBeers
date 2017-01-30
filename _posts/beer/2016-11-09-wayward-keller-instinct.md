@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wayward-keller-instinct.md
 title: Wayward Keller instinct
 untappd: "https://untappd.com/b/wayward-brewing-keller-instinct/291819"
+country: "Australia"
 brewery: "Wayward Brewing"
 breweryURL: "https://untappd.com/w/wayward-brewing/48019"
 style: "Kellerbier / Zwickelbier"

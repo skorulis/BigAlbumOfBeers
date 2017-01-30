@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-krusovice-musketyr.md
 title: Krusovice musketyr
 untappd: "https://untappd.com/b/krusovice-musketyr/23588"
+country: "Czech Republic"
 brewery: "Krušovice"
 breweryURL: "https://untappd.com/w/krusovice/6633"
 style: "Pilsner - Czech"

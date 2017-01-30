@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-dos-equis-lager-especial.md
 title: Dos equis lager especial
 untappd: "https://untappd.com/b/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v--dos-equis-special-lager/10887"
+country: "Mexico"
 brewery: "Cervecería Cuauhtémoc Moctezuma S.A. de C.V."
 breweryURL: "https://untappd.com/w/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v-/360"
 style: "Lager - North American Adjunct"

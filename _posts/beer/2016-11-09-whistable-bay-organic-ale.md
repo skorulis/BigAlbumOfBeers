@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-whistable-bay-organic-ale.md
 title: Whistable Bay organic Ale
 untappd: "https://untappd.com/b/shepherd-neame-whitstable-bay-organic-ale/8668"
+country: "United Kingdom"
 brewery: "Shepherd Neame"
 breweryURL: "https://untappd.com/w/shepherd-neame/1132"
 style: "Golden Ale"

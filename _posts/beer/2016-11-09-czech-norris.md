@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-czech-norris.md
 title: Czech Norris
 untappd: "https://untappd.com/b/brewfist-czech-norris/298490"
+country: "Italy"
 brewery: "BrewFist"
 breweryURL: "https://untappd.com/w/brewfist/10776"
 style: "Pilsner - Imperial / Double"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-courage-light-ale.md
 title: Courage light ale
 untappd: "https://untappd.com/b/charles-wells-brewery-courage-light-ale/113545"
+country: "United Kingdom"
 brewery: "Charles Wells Brewery"
 breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
 style: "English Bitter"

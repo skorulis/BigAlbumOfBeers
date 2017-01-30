@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brighton-blonde.md
 title: Brighton Blonde
 untappd: "https://untappd.com/b/king-beer-brighton-blonde/113189"
+country: "United Kingdom"
 brewery: "King Beer"
 breweryURL: "https://untappd.com/w/king-beer/10649"
 style: "Pale Ale - English"

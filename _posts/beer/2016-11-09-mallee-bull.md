@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mallee-bull.md
 title: Mallee Bull
 untappd: "https://untappd.com/b/mildura-brewery-mallee-bull/17758"
+country: "Australia"
 brewery: "Mildura Brewery"
 breweryURL: "https://untappd.com/w/mildura-brewery/3345"
 style: "Strong Ale - English"

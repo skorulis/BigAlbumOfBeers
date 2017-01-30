@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cookie-beer.md
 title: Cookie Beer
 untappd: "https://untappd.com/b/brasserie-scassenes-cookie-beer/32035"
+country: "Belgium"
 brewery: "Brasserie Scassenes"
 breweryURL: "https://untappd.com/w/brasserie-scassenes/168"
 style: "Belgian Strong Golden Ale"

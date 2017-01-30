@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brew-cult-hop-zone.md
 title: Brew cult hop zone
 untappd: "https://untappd.com/b/brewcult-hop-zone-session-ipa/355655"
+country: "Australia"
 brewery: "BrewCult"
 breweryURL: "https://untappd.com/w/brewcult/62206"
 style: "IPA - Session / India Session Ale"

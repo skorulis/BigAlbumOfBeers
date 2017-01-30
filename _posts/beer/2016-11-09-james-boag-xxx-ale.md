@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-james-boag-xxx-ale.md
 title: James Boag XXX Ale
 untappd: "https://untappd.com/b/j--boag---son-brewing-xxx-ale/14189"
+country: "Australia"
 brewery: "J. Boag & Son Brewing"
 breweryURL: "https://untappd.com/w/j--boag---son-brewing/19249"
 style: "Lager - Pale"

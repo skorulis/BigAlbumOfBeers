@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-aldaris-luksus.md
 title: Aldaris Luksus
 untappd: "https://untappd.com/b/aldaris-luksus/3574"
+country: "Latvia"
 brewery: "Aldaris"
 breweryURL: "https://untappd.com/w/aldaris/19"
 style: "Lager - Pale"

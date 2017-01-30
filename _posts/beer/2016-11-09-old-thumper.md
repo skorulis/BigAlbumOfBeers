@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-old-thumper.md
 title: Old Thumper
 untappd: "https://untappd.com/b/shipyard-brewing-company-old-thumper/46857"
+country: "United States"
 brewery: "Shipyard Brewing Company"
 breweryURL: "https://untappd.com/w/shipyard-brewing-company/2392"
 style: "English Bitter"

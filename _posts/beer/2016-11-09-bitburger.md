@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bitburger.md
 title: Bitburger
 untappd: "https://untappd.com/b/bitburger-braugruppe-bitburger-premium-pils--premium-beer/17252"
+country: "Germany"
 brewery: "Bitburger Braugruppe"
 breweryURL: "https://untappd.com/w/bitburger-braugruppe/131"
 style: "Pilsner - German"

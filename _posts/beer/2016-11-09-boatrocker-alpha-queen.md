@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-boatrocker-alpha-queen.md
 title: Boatrocker alpha queen
 untappd: "https://untappd.com/b/boatrocker-brewing-company-alpha-queen/11290"
+country: "Australia"
 brewery: "Boatrocker Brewing Company"
 breweryURL: "https://untappd.com/w/boatrocker-brewing-company/3106"
 style: "Pale Ale - American"

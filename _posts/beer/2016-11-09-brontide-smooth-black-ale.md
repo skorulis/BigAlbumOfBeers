@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brontide-smooth-black-ale.md
 title: Brontide smooth black ale
 untappd: "https://untappd.com/b/stillwater-artisanal-ales-brontide/629594"
+country: "United States"
 brewery: "Stillwater Artisanal Ales"
 breweryURL: "https://untappd.com/w/stillwater-artisanal-ales/1203"
 style: "Dark Ale"

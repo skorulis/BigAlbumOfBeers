@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kostritzer-schwarzbier.md
 title: Köstritzer schwarzbier
 untappd: "https://untappd.com/b/kostritzer-schwarzbierbrauerei-kostritzer-schwarzbier/25784"
+country: "Germany"
 brewery: "Köstritzer Schwarzbierbrauerei"
 breweryURL: "https://untappd.com/w/kostritzer-schwarzbierbrauerei/104871"
 style: "Schwarzbier"

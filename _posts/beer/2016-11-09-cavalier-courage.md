@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cavalier-courage.md
 title: Cavalier courage
 untappd: "https://untappd.com/b/cavalier-brewing-courage/266277"
+country: "Australia"
 brewery: "Cavalier Brewing"
 breweryURL: "https://untappd.com/w/cavalier-brewing/9386"
 style: "Blonde Ale"

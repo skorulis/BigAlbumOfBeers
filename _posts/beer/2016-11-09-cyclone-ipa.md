@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cyclone-ipa.md
 title: Cyclone IPA
 untappd: "https://untappd.com/b/eight-degrees-brewing-cyclone-ipa/438052"
+country: "Ireland"
 brewery: "Eight Degrees Brewing"
 breweryURL: "https://untappd.com/w/eight-degrees-brewing/15868"
 style: "IPA - International"

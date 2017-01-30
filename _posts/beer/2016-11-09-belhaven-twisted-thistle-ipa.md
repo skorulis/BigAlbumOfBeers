@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-belhaven-twisted-thistle-ipa.md
 title: Belhaven Twisted Thistle IPA
 untappd: "https://untappd.com/b/belhaven-brewery-twisted-thistle-ipa/421"
+country: "United Kingdom"
 brewery: "Belhaven Brewery"
 breweryURL: "https://untappd.com/w/belhaven-brewery/98"
 style: "IPA - English"

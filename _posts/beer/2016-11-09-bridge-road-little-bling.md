@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bridge-road-little-bling.md
 title: Bridge road little bling
 untappd: "https://untappd.com/b/bridge-road-brewers-little-bling/973100"
+country: "Australia"
 brewery: "Bridge Road Brewers"
 breweryURL: "https://untappd.com/w/bridge-road-brewers/3174"
 style: "IPA - Session / India Session Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-young-henrys-brew-am-i.md
 title: Young Henry’s Brew am I
 untappd: "https://untappd.com/b/young-henrys-brewing-company-brew-am-i/378904"
+country: "Australia"
 brewery: "Young Henrys Brewing Company"
 breweryURL: "https://untappd.com/w/young-henrys-brewing-company/28042"
 style: "Blonde Ale"

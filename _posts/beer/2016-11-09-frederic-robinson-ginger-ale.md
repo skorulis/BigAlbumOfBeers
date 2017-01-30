@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-frederic-robinson-ginger-ale.md
 title: Frederic Robinson ginger ale
 untappd: "https://untappd.com/b/marks---spencer-ginger-ale/31571"
+country: "United Kingdom"
 brewery: "Marks & Spencer"
 breweryURL: "https://untappd.com/w/marks---spencer/242395"
 style: "Ginger Beer"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wig---pen-velvet-cream.md
 title: Wig & pen velvet cream
 untappd: "https://untappd.com/b/wig---pen-brewery-velvet-cream/9168"
+country: "Australia"
 brewery: "Wig & Pen Brewery"
 breweryURL: "https://untappd.com/w/wig---pen-brewery/12216"
 style: "Stout - Irish Dry"

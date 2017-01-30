@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lowenbrau.md
 title: Lowenbräu
 untappd: "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-lowenbrau-original/25914"
+country: "Germany"
 brewery: "Spaten-Franziskaner-Löwenbräu-Gruppe"
 breweryURL: "https://untappd.com/w/spaten-franziskaner-lowenbrau-gruppe/1176"
 style: "Lager - Helles"

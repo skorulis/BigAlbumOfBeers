@@ -2,6 +2,7 @@
 layout: beer
 filename: _posts/beer/2016-11-09-redbay-vlad-white-ipa.md
 title: Redbay Vlad White IPA
+country: "Australia"
 brewery: "Redbay Brewing Company"
 breweryURL: "https://untappd.com/w/redbay-brewing-company/"
 score: 8.5

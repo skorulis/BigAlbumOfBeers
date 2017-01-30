@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-san-miguel-pale-pilsen.md
 title: San Miguel Pale Pilsen
 untappd: "https://untappd.com/b/san-miguel-brewery-san-miguel-pale-pilsen/8956"
+country: "Philippines"
 brewery: "San Miguel Brewery"
 breweryURL: "https://untappd.com/w/san-miguel-brewery/6111"
 style: "Pilsner - Other"

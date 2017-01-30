@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-samuel-adams-boston-lager.md
 title: Samuel Adams Boston Lager
 untappd: "https://untappd.com/b/boston-beer-company-samuel-adams-boston-lager/3914"
+country: "United States"
 brewery: "Boston Beer Company"
 breweryURL: "https://untappd.com/w/boston-beer-company/157"
 style: "Lager - Vienna"

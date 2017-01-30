@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-original-special-blonde-beer.md
 title: Original special blonde beer
 untappd: "https://untappd.com/b/bavaria-brouwerij-8-6-original/38091"
+country: "Netherlands"
 brewery: "Bavaria Brouwerij"
 breweryURL: "https://untappd.com/w/bavaria-brouwerij/109"
 style: "Lager - Euro Strong"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pure-blonde.md
 title: Pure blonde
 untappd: "https://untappd.com/b/fosters-group-pure-blonde/7417"
+country: "Australia"
 brewery: "Foster's Group"
 breweryURL: "https://untappd.com/w/fosters-group/546"
 style: "Lager - Pale"

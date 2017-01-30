@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-ob-golden-lager.md
 title: OB golden lager
 untappd: "https://untappd.com/b/oriental-brewery-ob-golden-lager/45885"
+country: "South Korea"
 brewery: "Oriental Brewery"
 breweryURL: "https://untappd.com/w/oriental-brewery/6167"
 style: "Lager - American Light"

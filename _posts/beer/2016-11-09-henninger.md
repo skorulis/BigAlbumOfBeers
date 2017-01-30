@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-henninger.md
 title: Henninger
 untappd: "https://untappd.com/b/binding-brauerei-henninger-premium-lager/116616"
+country: "Germany"
 brewery: "Binding Brauerei"
 breweryURL: "https://untappd.com/w/binding-brauerei/137894"
 style: "Lager - Helles"

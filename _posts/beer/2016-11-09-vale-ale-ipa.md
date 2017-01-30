@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-vale-ale-ipa.md
 title: Vale ale IPA
 untappd: "https://untappd.com/b/vale-brewing-vale-ipa/58019"
+country: "Australia"
 brewery: "Vale Brewing"
 breweryURL: "https://untappd.com/w/vale-brewing/1938"
 style: "IPA - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tooheys-darling-pale-ale.md
 title: Tooheys darling pale ale
 untappd: "https://untappd.com/b/tooheys-brewing-darling-pale-ale/1082650"
+country: "Australia"
 brewery: "Tooheys Brewing"
 breweryURL: "https://untappd.com/w/tooheys-brewing/13905"
 style: "Pale Ale - Australian"

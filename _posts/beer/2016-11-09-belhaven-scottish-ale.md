@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-belhaven-scottish-ale.md
 title: Belhaven scottish ale
 untappd: "https://untappd.com/b/belhaven-brewery-scottish-ale/2247"
+country: "United Kingdom"
 brewery: "Belhaven Brewery"
 breweryURL: "https://untappd.com/w/belhaven-brewery/98"
 style: "Scottish Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-rocking-rudolph.md
 title: Rocking Rudolph
 untappd: "https://untappd.com/b/greene-king-hardys---hansons-rocking-rudolph/274315"
+country: "United Kingdom"
 brewery: "Greene King"
 breweryURL: "https://untappd.com/w/greene-king/612"
 style: "Winter Ale"

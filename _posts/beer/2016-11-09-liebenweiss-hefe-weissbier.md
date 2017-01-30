@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-liebenweiss-hefe-weissbier.md
 title: Liebenweiss hefe weissbier
 untappd: "https://untappd.com/b/allgauer-brauhaus-liebenweiss-hefe-weissbier/116833"
+country: "Germany"
 brewery: "Allgäuer Brauhaus"
 breweryURL: "https://untappd.com/w/allgauer-brauhaus/4674"
 style: "Hefeweizen"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cwrw-gwledd-celebration-ale.md
 title: Cwrw gwledd celebration ale
 untappd: "https://untappd.com/b/conwy-brewery-cwrw-gwledd--celebration-ale-/167167"
+country: "Wales"
 brewery: "Conwy Brewery"
 breweryURL: "https://untappd.com/w/conwy-brewery/95086"
 style: "Golden Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mornington-imperial-amber.md
 title: Mornington Imperial Amber
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-imperial-amber/185751"
+country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
 style: "Red Ale - Imperial / Double"

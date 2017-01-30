@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hoopers-ginger-brew.md
 title: Hoopers Ginger brew
 untappd: "https://untappd.com/b/hoopers-ginger-brew/266654"
+country: "United Kingdom"
 brewery: "Hooper's"
 breweryURL: "https://untappd.com/w/hoopers/45936"
 style: "Ginger Beer"

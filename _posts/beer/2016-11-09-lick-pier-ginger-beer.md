@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lick-pier-ginger-beer.md
 title: Lick Pier Ginger Beer
 untappd: "https://untappd.com/b/east-9th-brewing-co--lick-pier-ginger-beer/196200"
+country: "Australia"
 brewery: "East 9th Brewing Co."
 breweryURL: "https://untappd.com/w/east-9th-brewing-co-/3899"
 style: "Ginger Beer"

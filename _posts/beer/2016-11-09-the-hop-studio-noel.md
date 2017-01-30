@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-the-hop-studio-noel.md
 title: The Hop Studio Noel
 untappd: "https://untappd.com/b/the-hop-studio-there-is-noel-in-christmas/275078"
+country: "United Kingdom"
 brewery: "The Hop Studio"
 breweryURL: "https://untappd.com/w/the-hop-studio/30719"
 style: "Winter Ale"

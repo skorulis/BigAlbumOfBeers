@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-red-horse-beer.md
 title: Red horse beer
 untappd: "https://untappd.com/b/san-miguel-brewery-red-horse-beer/17796"
+country: "Philippines"
 brewery: "San Miguel Brewery"
 breweryURL: "https://untappd.com/w/san-miguel-brewery/6111"
 style: "Lager - Pale"

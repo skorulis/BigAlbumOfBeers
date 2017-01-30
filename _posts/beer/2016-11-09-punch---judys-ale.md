@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-punch---judys-ale.md
 title: Punch & Judy’s Ale
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-punch---judys/9913"
+country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "https://untappd.com/w/murrays-craft-brewing-co/2557"
 style: "English Bitter"

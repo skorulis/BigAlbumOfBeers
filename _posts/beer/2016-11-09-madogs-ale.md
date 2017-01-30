@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-madogs-ale.md
 title: Madog's ale
 untappd: "https://untappd.com/b/purple-moose-brewery--bragdy-mws-piws--madogs-ale--cwrw-madog-/16811"
+country: "Wales"
 brewery: "Purple Moose Brewery (Bragdy Mws Piws)"
 breweryURL: "https://untappd.com/w/purple-moose-brewery--bragdy-mws-piws-/4343"
 style: "English Bitter"

@@ -2,6 +2,7 @@
 layout: beer
 filename: _posts/beer/2016-11-09-skorubrew-2-pale-ale.md
 title: Skorubrew #2 Pale Ale
+country: "Australia"
 brewery: "Skorubrew"
 breweryURL: "http://homebrew.skorulis.com"
 style: "Pale Ale - English"

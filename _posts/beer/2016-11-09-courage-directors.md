@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-courage-directors.md
 title: Courage Directors
 untappd: "https://untappd.com/b/charles-wells-brewery-courage-directors/6172"
+country: "United Kingdom"
 brewery: "Charles Wells Brewery"
 breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
 style: "English Bitter"

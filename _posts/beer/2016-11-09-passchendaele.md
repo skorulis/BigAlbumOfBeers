@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-passchendaele.md
 title: Passchendaele
 untappd: "https://untappd.com/b/brouwerij-van-honsebrouck-passchendaele/351479"
+country: "Belgium"
 brewery: "Brouwerij Van Honsebrouck"
 breweryURL: "https://untappd.com/w/brouwerij-van-honsebrouck/303"
 style: "Blonde Ale - Belgian Blonde / Golden"

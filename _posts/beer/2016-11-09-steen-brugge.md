@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-steen-brugge.md
 title: Steen Brugge
 untappd: "https://untappd.com/b/de-gouden-boom-steenbrugge-blanche/40022"
+country: "Belgium"
 brewery: "De Gouden Boom"
 breweryURL: "https://untappd.com/w/de-gouden-boom/115389"
 style: "Witbier"

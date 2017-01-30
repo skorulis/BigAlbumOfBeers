@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-paddo-pale.md
 title: Paddo pale
 untappd: "https://untappd.com/b/sydney-brewery-paddo-pale/240124"
+country: "Australia"
 brewery: "Sydney Brewery"
 breweryURL: "https://untappd.com/w/sydney-brewery/2984"
 style: "Pale Ale - American"

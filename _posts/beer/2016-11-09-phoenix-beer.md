@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-phoenix-beer.md
 title: Phoenix beer
 untappd: "https://untappd.com/b/phoenix-beverages-phoenix-beer/29407"
+country: "Mauritius"
 brewery: "Phoenix Beverages"
 breweryURL: "https://untappd.com/w/phoenix-beverages/7955"
 style: "Lager - Pale"

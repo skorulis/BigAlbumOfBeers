@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-yeastie-boys-dark-matta.md
 title: Yeastie Boys Dark Matta
 untappd: "https://untappd.com/b/yeastie-boys-pkb-remix-2015--dark-matta-/1181501"
+country: "New Zealand"
 brewery: "Yeastie Boys"
 breweryURL: "https://untappd.com/w/yeastie-boys/3591"
 style: "Porter - Other"

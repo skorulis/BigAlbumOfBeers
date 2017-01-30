@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-nicholsons-pale-ale.md
 title: Nicholson's pale ale
 untappd: "https://untappd.com/b/st-austell-brewery-nicholsons-pale-ale/170353"
+country: "United Kingdom"
 brewery: "St Austell Brewery"
 breweryURL: "https://untappd.com/w/st-austell-brewery/1186"
 style: "Pale Ale - English"

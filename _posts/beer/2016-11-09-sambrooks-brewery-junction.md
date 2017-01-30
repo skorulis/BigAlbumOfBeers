@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sambrooks-brewery-junction.md
 title: Sambrook's Brewery Junction
 untappd: "https://untappd.com/b/sambrooks-brewery-junction/58665"
+country: "United Kingdom"
 brewery: "Sambrook's Brewery"
 breweryURL: "https://untappd.com/w/sambrooks-brewery/8500"
 style: "English Bitter"

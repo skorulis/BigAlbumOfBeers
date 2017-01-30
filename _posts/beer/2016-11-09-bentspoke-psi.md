@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bentspoke-psi.md
 title: Bentspoke PSI
 untappd: "https://untappd.com/b/bentspoke-brewing-co-psi/954295"
+country: "Australia"
 brewery: "Bentspoke Brewing Co"
 breweryURL: "https://untappd.com/w/bentspoke-brewing-co/134857"
 style: "Saison / Farmhouse Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-belgian-blue.md
 title: Belgian blue
 untappd: "https://untappd.com/b/belgian-blue-brewing-company-original-belgian-wheat-ale/562689"
+country: "Belgium"
 brewery: "Belgian Blue Brewing Company"
 breweryURL: "https://untappd.com/w/belgian-blue-brewing-company/48082"
 style: "Witbier"

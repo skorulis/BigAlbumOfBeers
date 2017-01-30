@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-old-empire.md
 title: Old empire
 untappd: "https://untappd.com/b/marstons-brewery-old-empire-ipa/15040"
+country: "United Kingdom"
 brewery: "Marston's Brewery"
 breweryURL: "https://untappd.com/w/marstons-brewery/1517"
 style: "IPA - English"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-gage-roads-break-water.md
 title: Gage roads break water
 untappd: "https://untappd.com/b/gage-roads-brewing-co--break-water/860314"
+country: "Australia"
 brewery: "Gage Roads Brewing Co "
 breweryURL: "https://untappd.com/w/gage-roads-brewing-co-/2608"
 style: "Pale Ale - Australian"

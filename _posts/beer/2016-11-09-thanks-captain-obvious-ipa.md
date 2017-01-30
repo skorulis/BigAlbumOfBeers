@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-thanks-captain-obvious-ipa.md
 title: Thanks captain obvious IPA
 untappd: "https://untappd.com/b/brewcult-thanks-captain-obvious-ipa/649831"
+country: "Australia"
 brewery: "BrewCult"
 breweryURL: "https://untappd.com/w/brewcult/62206"
 style: "IPA - American"

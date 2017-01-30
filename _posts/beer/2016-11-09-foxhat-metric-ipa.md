@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-foxhat-metric-ipa.md
 title: FoxHat metric IPA
 untappd: "https://untappd.com/b/fox-hat-brewing-metric-ipa/1138359"
+country: "Australia"
 brewery: "Fox Hat Brewing"
 breweryURL: "https://untappd.com/w/fox-hat-brewing/193696"
 style: "IPA - Imperial / Double"

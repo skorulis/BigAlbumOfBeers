@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hotchkiss-six.md
 title: Hotchkiss six
 untappd: "https://untappd.com/b/little-creatures-brewing-the-hotchkiss-six/1487834"
+country: "Australia"
 brewery: "Little Creatures Brewing"
 breweryURL: "https://untappd.com/w/little-creatures-brewing/2560"
 style: "Stout - Other"

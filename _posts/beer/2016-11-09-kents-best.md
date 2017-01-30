@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kents-best.md
 title: Kent's best
 untappd: "https://untappd.com/b/shepherd-neame-kents-best/73954"
+country: "United Kingdom"
 brewery: "Shepherd Neame"
 breweryURL: "https://untappd.com/w/shepherd-neame/1132"
 style: "English Bitter"

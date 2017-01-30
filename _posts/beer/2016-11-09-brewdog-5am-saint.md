@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewdog-5am-saint.md
 title: Brewdog 5am saint
 untappd: "https://untappd.com/b/brewdog-five-am-saint/6976"
+country: "United Kingdom"
 brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "Red Ale - American Amber / Red"

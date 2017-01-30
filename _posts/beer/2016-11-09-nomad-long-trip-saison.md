@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-nomad-long-trip-saison.md
 title: Nomad long trip Saison
 untappd: "https://untappd.com/b/nomad-brewing-co--long-trip-saison/756452"
+country: "Australia"
 brewery: "Nomad Brewing Co."
 breweryURL: "https://untappd.com/w/nomad-brewing-co-/145688"
 style: "Saison / Farmhouse Ale"

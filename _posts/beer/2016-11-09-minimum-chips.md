@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-minimum-chips.md
 title: Minimum chips
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-minimum-chips/238946"
+country: "Australia"
 brewery: "Matilda Bay Brewing Company"
 breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
 style: "Lager - Pale"

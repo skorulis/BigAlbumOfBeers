@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-namysrow-pils.md
 title: Namysrów pils
 untappd: "https://untappd.com/b/browar-namyslow-namyslow-pils/396095"
+country: "Poland"
 brewery: "Browar Namysłów"
 breweryURL: "https://untappd.com/w/browar-namyslow/17855"
 style: "Pilsner - Other"

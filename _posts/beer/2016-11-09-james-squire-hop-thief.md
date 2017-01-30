@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-james-squire-hop-thief.md
 title: James Squire Hop Thief
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-hop-thief-7/967571"
+country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 style: "Pale Ale - American"

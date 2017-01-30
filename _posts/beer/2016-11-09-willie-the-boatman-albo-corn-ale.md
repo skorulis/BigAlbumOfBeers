@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-willie-the-boatman-albo-corn-ale.md
 title: Willie the boatman Albo corn ale
 untappd: "https://untappd.com/b/willie-the-boatman-albo/1035514"
+country: "Australia"
 brewery: "Willie The Boatman"
 breweryURL: "https://untappd.com/w/willie-the-boatman/129674"
 style: "Australian Sparkling Ale"

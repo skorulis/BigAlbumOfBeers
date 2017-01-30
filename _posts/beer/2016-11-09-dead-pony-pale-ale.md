@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-dead-pony-pale-ale.md
 title: Dead Pony Pale Ale
 untappd: "https://untappd.com/b/brewdog-dead-pony-club/164769"
+country: "United Kingdom"
 brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "Pale Ale - American"

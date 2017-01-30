@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-john-smiths-extra-smooth.md
 title: John smiths extra smooth
 untappd: "https://untappd.com/b/john-smiths-extra-smooth-ale/1009950"
+country: "United Kingdom"
 brewery: "John Smith's"
 breweryURL: "https://untappd.com/w/john-smiths/1816"
 style: "English Bitter"

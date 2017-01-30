@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-devils-daughters.md
 title: Devils daughters
 untappd: "https://untappd.com/b/urban-craft-brewing-co-devils-daughter-double-ipa/1531203"
+country: "Australia"
 brewery: "Urban Craft Brewing Co"
 breweryURL: "https://untappd.com/w/urban-craft-brewing-co/246248"
 style: "IPA - Imperial / Double"

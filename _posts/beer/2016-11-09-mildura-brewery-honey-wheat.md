@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mildura-brewery-honey-wheat.md
 title: Mildura brewery honey wheat
 untappd: "https://untappd.com/b/mildura-brewery-honey-wheat/62794"
+country: "Australia"
 brewery: "Mildura Brewery"
 breweryURL: "https://untappd.com/w/mildura-brewery/3345"
 style: "Witbier"

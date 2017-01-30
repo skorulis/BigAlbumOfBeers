@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lord-nelson-nelsons-blood.md
 title: Lord Nelson Nelson's blood
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-nelsons-blood/43694"
+country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
 style: "Porter - Other"

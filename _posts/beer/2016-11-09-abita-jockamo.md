@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-abita-jockamo.md
 title: Abita jockamo
 untappd: "https://untappd.com/b/abita-brewing-company-jockamo-ipa/5963"
+country: "United States"
 brewery: "Abita Brewing Company"
 breweryURL: "https://untappd.com/w/abita-brewing-company/10"
 style: "IPA - American"

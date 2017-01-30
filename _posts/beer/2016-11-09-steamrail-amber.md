@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-steamrail-amber.md
 title: Steamrail amber
 untappd: "https://untappd.com/b/steamrail-brewing-company--coles--lucky-amber/292682"
+country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
 breweryURL: "https://untappd.com/w/steamrail-brewing-company--coles-/50996"
 style: "Red Ale - American Amber / Red"

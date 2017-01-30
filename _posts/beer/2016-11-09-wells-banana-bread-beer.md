@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wells-banana-bread-beer.md
 title: Wells banana bread beer
 untappd: "https://untappd.com/b/charles-wells-brewery-wells-banana-bread-beer/5839"
+country: "United Kingdom"
 brewery: "Charles Wells Brewery"
 breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
 style: "Fruit Beer"

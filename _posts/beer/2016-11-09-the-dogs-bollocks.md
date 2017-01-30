@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-the-dogs-bollocks.md
 title: The Dog's Bollocks
 untappd: "https://untappd.com/b/wychwood-brewery-dogs-bollocks/9006"
+country: "United Kingdom"
 brewery: "Wychwood Brewery"
 breweryURL: "https://untappd.com/w/wychwood-brewery/1376"
 style: "Golden Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-carter-premium-lager.md
 title: Carter premium lager
 untappd: "https://untappd.com/b/southern-beverages-australia-carter-premium-lager/73167"
+country: "Australia"
 brewery: "Southern Beverages Australia"
 breweryURL: "https://untappd.com/w/southern-beverages-australia/8850"
 style: "Lager - Pale"

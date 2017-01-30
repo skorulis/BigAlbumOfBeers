@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pact-pale-ale.md
 title: Pact pale ale
 untappd: "https://untappd.com/b/pact-beer-co--mount-tennent-pale-ale/1102747"
+country: "Australia"
 brewery: "Pact Beer Co."
 breweryURL: "https://untappd.com/w/pact-beer-co-/205523"
 style: "Pale Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-the-point-pale-ale.md
 title: The point pale ale
 untappd: "https://untappd.com/b/john-boston-the-point-pale-ale/836279"
+country: "Australia"
 brewery: "John Boston"
 breweryURL: "https://untappd.com/w/john-boston/3932"
 style: "Pale Ale - Australian"

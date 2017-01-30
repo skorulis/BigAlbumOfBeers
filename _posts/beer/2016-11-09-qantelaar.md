@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-qantelaar.md
 title: Qantelaar
 untappd: "https://untappd.com/b/doude-maalderij-qantelaar-bruin/237224"
+country: "Belgium"
 brewery: "D'Oude Maalderij"
 breweryURL: "https://untappd.com/w/doude-maalderij/40967"
 style: "Belgian Strong Dark Ale"

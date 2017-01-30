@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pilsner-urquell.md
 title: Pilsner Urquell
 untappd: "https://untappd.com/b/plzensky-prazdroj-pilsner-urquell/37936"
+country: "Czech Republic"
 brewery: "Plzeňský Prazdroj"
 breweryURL: "https://untappd.com/w/plzensky-prazdroj/1459"
 style: "Pilsner - Czech"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lord-nelson-trafalgar-pale-ale.md
 title: Lord Nelson Trafalgar pale ale
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-trafalgar-pale-ale/43692"
+country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
 style: "Pale Ale - English"

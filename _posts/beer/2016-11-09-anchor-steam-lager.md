@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-anchor-steam-lager.md
 title: Anchor steam lager
 untappd: "https://untappd.com/b/anchor-brewing-company-anchor-california-lager/305204"
+country: "United States"
 brewery: "Anchor Brewing Company"
 breweryURL: "https://untappd.com/w/anchor-brewing-company/3891"
 style: "Lager - Pale"

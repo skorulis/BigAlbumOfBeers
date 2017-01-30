@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-badger-first-gold.md
 title: Badger First Gold
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--first-call--first-gold/9722"
+country: "United Kingdom"
 brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "https://untappd.com/w/badger-ales--hall---woodhouse-/1752"
 style: "Golden Ale"

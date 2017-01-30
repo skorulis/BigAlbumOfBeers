@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mountain-goat-surefoot-stout.md
 title: Mountain goat surefoot stout
 untappd: "https://untappd.com/b/mountain-goat-beer-surefoot-stout/1090135"
+country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "https://untappd.com/w/mountain-goat-beer/4055"
 style: "Stout - Other"

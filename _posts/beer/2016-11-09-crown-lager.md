@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-crown-lager.md
 title: Crown Lager
 untappd: "https://untappd.com/b/carlton---united-breweries-crown-lager/16424"
+country: "Australia"
 brewery: "Carlton & United Breweries"
 breweryURL: "https://untappd.com/w/carlton---united-breweries/4045"
 style: "Lager - Pale"

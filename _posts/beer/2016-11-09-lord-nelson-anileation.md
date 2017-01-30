@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lord-nelson-anileation.md
 title: Lord nelson Anileation
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-anileation/58024"
+country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
 style: "Stout - Irish Dry"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-yeastie-boys-gunnamatta.md
 title: Yeastie boys gunnamatta
 untappd: "https://untappd.com/b/yeastie-boys-gunnamatta/169755"
+country: "New Zealand"
 brewery: "Yeastie Boys"
 breweryURL: "https://untappd.com/w/yeastie-boys/3591"
 style: "Spiced / Herbed Beer"

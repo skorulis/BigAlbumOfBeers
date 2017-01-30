@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-shark-island-pale-ale.md
 title: Shark island pale ale
 untappd: "https://untappd.com/b/shark-island-brewing-co--shark-island-pale-ale/649113"
+country: "Australia"
 brewery: "Shark Island Brewing Co."
 breweryURL: "https://untappd.com/w/shark-island-brewing-co-/122718"
 style: "Pale Ale - American"

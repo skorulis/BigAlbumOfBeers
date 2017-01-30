@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-the-convict-strong-ale.md
 title: The convict strong ale
 untappd: "https://untappd.com/b/gage-roads-brewing-co--the-convict/290260"
+country: "Australia"
 brewery: "Gage Roads Brewing Co "
 breweryURL: "https://untappd.com/w/gage-roads-brewing-co-/2608"
 style: "Strong Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-innes---gunn-fired-oak-scotch-ale.md
 title: Innes & Gunn fired oak scotch ale
 untappd: "https://untappd.com/b/innis---gunn-fired-oak-scotch-ale/1506367"
+country: "United Kingdom"
 brewery: "Innis & Gunn"
 breweryURL: "https://untappd.com/w/innis---gunn/1673"
 style: "Scotch Ale / Wee Heavy"

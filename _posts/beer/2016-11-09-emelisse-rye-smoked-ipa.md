@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-emelisse-rye-smoked-ipa.md
 title: Emelisse rye smoked IPA
 untappd: "https://untappd.com/b/bierbrouwerij-emelisse-smoked-rye-ipa/582132"
+country: "Netherlands"
 brewery: "Bierbrouwerij Emelisse"
 breweryURL: "https://untappd.com/w/bierbrouwerij-emelisse/9171"
 style: "Rye IPA"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hitachino-red-rice.md
 title: Hitachino red rice
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-red-rice-ale/12592"
+country: "Japan"
 brewery: "Kiuchi Brewery"
 breweryURL: "https://untappd.com/w/kiuchi-brewery/1713"
 style: "Specialty Grain"

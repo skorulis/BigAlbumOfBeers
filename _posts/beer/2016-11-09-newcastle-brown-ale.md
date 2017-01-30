@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-newcastle-brown-ale.md
 title: Newcastle Brown Ale
 untappd: "https://untappd.com/b/john-smiths-newcastle-brown-ale/5856"
+country: "United Kingdom"
 brewery: "John Smith's"
 breweryURL: "https://untappd.com/w/john-smiths/1816"
 style: "Brown Ale - English"

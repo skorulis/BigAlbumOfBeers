@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-aldaris-porteris.md
 title: Aldaris Porteris
 untappd: "https://untappd.com/b/aldaris-porteris/3573"
+country: "Latvia"
 brewery: "Aldaris"
 breweryURL: "https://untappd.com/w/aldaris/19"
 style: "Porter - Baltic"

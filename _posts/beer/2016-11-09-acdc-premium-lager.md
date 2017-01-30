@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-acdc-premium-lager.md
 title: AC/DC Premium Lager
 untappd: "https://untappd.com/b/karlsberg-brauerei-acdc-premium-lager/448779"
+country: "Germany"
 brewery: "Karlsberg Brauerei"
 breweryURL: "https://untappd.com/w/karlsberg-brauerei/13820"
 style: "Lager - Euro"

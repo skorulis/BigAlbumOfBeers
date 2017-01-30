@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-einstok-pale-ale.md
 title: Einstök Pale ale
 untappd: "https://untappd.com/b/einstok-olgero-icelandic-arctic-pale-ale/99106"
+country: "Iceland"
 brewery: "Einstök Ölgerð"
 breweryURL: "https://untappd.com/w/einstok-olgero/18816"
 style: "Pale Ale - English"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-timmermans-peche-lambic-beer.md
 title: Timmermans peche lambic beer
 untappd: "https://untappd.com/b/brewery-john-martin---brewery-timmermans-timmermans-peche-lambic/17105"
+country: "Belgium"
 brewery: "Brewery John Martin & Brewery Timmermans"
 breweryURL: "https://untappd.com/w/brewery-john-martin---brewery-timmermans/2313"
 style: "Lambic - Fruit"

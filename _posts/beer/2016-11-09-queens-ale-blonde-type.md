@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-queens-ale-blonde-type.md
 title: Queen’s Ale Blonde Type
 untappd: "https://untappd.com/b/hitejinro-queens-ale-blonde-type/457448"
+country: "South Korea"
 brewery: "HiteJinro"
 breweryURL: "https://untappd.com/w/hitejinro/4669"
 style: "Blonde Ale"

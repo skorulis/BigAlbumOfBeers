@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-golden-lion-beer.md
 title: Golden lion beer
 untappd: "https://untappd.com/b/browar-amber-zlote-lwy--golden-lion/156941"
+country: "Poland"
 brewery: "Browar Amber"
 breweryURL: "https://untappd.com/w/browar-amber/5753"
 style: "Lager - Pale"

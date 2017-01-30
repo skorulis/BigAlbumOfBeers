@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-golden-age-the-celt-experience.md
 title: Golden Age The Celt Experience
 untappd: "https://untappd.com/b/celt-brewing-golden-age/60359"
+country: "Wales"
 brewery: "Celt Brewing"
 breweryURL: "https://untappd.com/w/celt-brewing/8726"
 style: "Golden Ale"

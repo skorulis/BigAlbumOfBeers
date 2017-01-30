@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-fred-murrays-ipa.md
 title: Fred Murrays IPA
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-fred/756444"
+country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "https://untappd.com/w/murrays-craft-brewing-co/2557"
 style: "IPA - American"

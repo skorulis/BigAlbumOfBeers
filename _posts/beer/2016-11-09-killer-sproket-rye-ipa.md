@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-killer-sproket-rye-ipa.md
 title: Killer Sproket Rye IPA
 untappd: "https://untappd.com/b/killer-sprocket-rye-ipa/732602"
+country: "Australia"
 brewery: "Killer Sprocket"
 breweryURL: "https://untappd.com/w/killer-sprocket/56003"
 style: "Rye IPA"

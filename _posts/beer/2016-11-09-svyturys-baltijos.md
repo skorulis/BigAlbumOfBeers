@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-svyturys-baltijos.md
 title: Svyturys Baltijos
 untappd: "https://untappd.com/b/svyturys-baltijos/24730"
+country: "Lithuania"
 brewery: "Švyturys"
 breweryURL: "https://untappd.com/w/svyturys/1331"
 style: "Märzen"

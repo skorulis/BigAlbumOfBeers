@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wayward-pine-a-pils.md
 title: Wayward Pine-a-pils
 untappd: "https://untappd.com/b/wayward-brewing-pine-a-pils/1785112"
+country: "Australia"
 brewery: "Wayward Brewing"
 breweryURL: "https://untappd.com/w/wayward-brewing/48019"
 style: "Pilsner - Other"

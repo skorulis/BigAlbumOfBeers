@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-holgate-millenium-falcon.md
 title: Holgate Millenium Falcon
 untappd: "https://untappd.com/b/holgate-brewhouse-millennium-falcon/313871"
+country: "Australia"
 brewery: "Holgate Brewhouse"
 breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
 style: "IPA - Imperial / Double"

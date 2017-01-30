@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-my-antonia.md
 title: My Antonia
 untappd: "https://untappd.com/b/birra-del-borgo-my-antonia/25988"
+country: "Italy"
 brewery: "Birra del Borgo"
 breweryURL: "https://untappd.com/w/birra-del-borgo/2243"
 style: "Pilsner - Imperial / Double"

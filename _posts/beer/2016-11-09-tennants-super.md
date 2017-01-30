@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tennants-super.md
 title: Tennant's super
 untappd: "https://untappd.com/b/tennents-caledonian-brewery-tennents-super/8290"
+country: "United Kingdom"
 brewery: "Tennent's Caledonian Brewery"
 breweryURL: "https://untappd.com/w/tennents-caledonian-brewery/1814"
 style: "Lager - Euro Strong"

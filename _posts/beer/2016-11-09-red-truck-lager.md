@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-red-truck-lager.md
 title: Red truck lager
 untappd: "https://untappd.com/b/true-south-red-truck-lager/37582"
+country: "Australia"
 brewery: "True South"
 breweryURL: "https://untappd.com/w/true-south/3239"
 style: "Märzen"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-nz-pure-lager.md
 title: NZ pure lager
 untappd: "https://untappd.com/b/boundary-road-brewery-nz-pure-lager/145696"
+country: "New Zealand"
 brewery: "Boundary Road Brewery"
 breweryURL: "https://untappd.com/w/boundary-road-brewery/14713"
 style: "Lager - Pale"

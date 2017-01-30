@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kanapinis.md
 title: Kanapinis
 untappd: "https://untappd.com/b/aukstaitijos-bravorai-kanapinis-sviesus-alus/86088"
+country: "Lithuania"
 brewery: "Aukštaitijos Bravorai"
 breweryURL: "https://untappd.com/w/aukstaitijos-bravorai/70219"
 style: "Blonde Ale"

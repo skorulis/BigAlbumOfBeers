@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cascade-bright-ale.md
 title: Cascade bright ale
 untappd: "https://untappd.com/b/cascade-brewery-co---australia--bright-ale/466884"
+country: "Australia"
 brewery: "Cascade Brewery Co. (Australia)"
 breweryURL: "https://untappd.com/w/cascade-brewery-co---australia-/2671"
 style: "Pale Ale - Australian"

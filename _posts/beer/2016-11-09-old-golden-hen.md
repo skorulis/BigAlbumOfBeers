@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-old-golden-hen.md
 title: Old golden hen
 untappd: "https://untappd.com/b/greene-king-morland-old-golden-hen/75673"
+country: "United Kingdom"
 brewery: "Greene King"
 breweryURL: "https://untappd.com/w/greene-king/612"
 style: "Golden Ale"

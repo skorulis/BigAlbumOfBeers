@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewdog-cocoa-psycho.md
 title: Brewdog Cocoa Psycho
 untappd: "https://untappd.com/b/brewdog-cocoa-psycho/273455"
+country: "United Kingdom"
 brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "Stout - Russian Imperial"

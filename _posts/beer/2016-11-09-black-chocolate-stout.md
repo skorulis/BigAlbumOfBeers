@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-black-chocolate-stout.md
 title: Black chocolate stout
 untappd: "https://untappd.com/b/brooklyn-brewery-black-chocolate-stout/37235"
+country: "United States"
 brewery: "Brooklyn Brewery"
 breweryURL: "https://untappd.com/w/brooklyn-brewery/259"
 style: "Stout - Russian Imperial"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-exit-milk-stout.md
 title: Exit milk stout
 untappd: "https://untappd.com/b/exit-brewing-milk-stout/1517951"
+country: "Australia"
 brewery: "Exit Brewing"
 breweryURL: "https://untappd.com/w/exit-brewing/123448"
 style: "Stout - Milk / Sweet"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-zelta-premium.md
 title: Zelta premium
 untappd: "https://untappd.com/b/aldaris-zelta-premium/214138"
+country: "Latvia"
 brewery: "Aldaris"
 breweryURL: "https://untappd.com/w/aldaris/19"
 style: "Lager - Euro"

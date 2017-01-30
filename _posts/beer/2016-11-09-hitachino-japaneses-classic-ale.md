@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hitachino-japaneses-classic-ale.md
 title: Hitachino japaneses classic ale
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-japanese-classic-ale/867"
+country: "Japan"
 brewery: "Kiuchi Brewery"
 breweryURL: "https://untappd.com/w/kiuchi-brewery/1713"
 style: "IPA - International"

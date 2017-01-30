@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kingfisher.md
 title: Kingfisher
 untappd: "https://untappd.com/b/united-breweries--india--kingfisher-premium-lager/17377"
+country: "India"
 brewery: "United Breweries (India)"
 breweryURL: "https://untappd.com/w/united-breweries--india-/4657"
 style: "Lager - North American Adjunct"

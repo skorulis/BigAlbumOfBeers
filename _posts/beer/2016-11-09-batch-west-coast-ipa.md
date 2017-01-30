@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-batch-west-coast-ipa.md
 title: Batch west coast IPA
 untappd: "https://untappd.com/b/batch-brewing-company-west-coast-ipa/846963"
+country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
 style: "IPA - American"

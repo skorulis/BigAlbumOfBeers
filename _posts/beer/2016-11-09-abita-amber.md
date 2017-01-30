@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-abita-amber.md
 title: Abita Amber
 untappd: "https://untappd.com/b/abita-brewing-company-amber/6353"
+country: "United States"
 brewery: "Abita Brewing Company"
 breweryURL: "https://untappd.com/w/abita-brewing-company/10"
 style: "Lager - American Amber / Red"

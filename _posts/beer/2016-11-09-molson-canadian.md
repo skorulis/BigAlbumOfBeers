@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-molson-canadian.md
 title: Molson Canadian
 untappd: "https://untappd.com/b/molson-coors-canada-molson-canadian/3836"
+country: "Canada"
 brewery: "Molson Coors Canada"
 breweryURL: "https://untappd.com/w/molson-coors-canada/878"
 style: "Lager - North American Adjunct"

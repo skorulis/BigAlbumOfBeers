@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-trumer-pils.md
 title: Trumer pils
 untappd: "https://untappd.com/b/trumer-trumer-pils/7025"
+country: "Austria"
 brewery: "Trumer"
 breweryURL: "https://untappd.com/w/trumer/23682"
 style: "Pilsner - German"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hacker-pschorr.md
 title: Hacker-Pschorr
 untappd: "https://untappd.com/b/hacker-pschorr-hacker-pschorr-oktoberfest-marzen/1827"
+country: "Germany"
 brewery: "Hacker-Pschorr"
 breweryURL: "https://untappd.com/w/hacker-pschorr/280466"
 style: "Märzen"

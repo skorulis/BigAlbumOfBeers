@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-grimbergen-blonde.md
 title: Grimbergen blonde
 untappd: "https://untappd.com/b/brouwerij-alken-maes-grimbergen-blonde/2"
+country: "Belgium"
 brewery: "Brouwerij Alken-Maes"
 breweryURL: "https://untappd.com/w/brouwerij-alken-maes/264"
 style: "Blonde Ale - Belgian Blonde / Golden"

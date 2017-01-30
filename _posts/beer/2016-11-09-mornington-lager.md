@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mornington-lager.md
 title: Mornington lager
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-lager/1214393"
+country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
 style: "Lager - Helles"

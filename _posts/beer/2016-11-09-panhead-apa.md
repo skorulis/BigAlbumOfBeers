@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-panhead-apa.md
 title: Panhead APA
 untappd: "https://untappd.com/b/panhead-custom-ales-super-charger-apa/426333"
+country: "New Zealand"
 brewery: "Panhead Custom Ales"
 breweryURL: "https://untappd.com/w/panhead-custom-ales/73019"
 style: "Pale Ale - American"

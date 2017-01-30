@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wells-bombardier-burning-gold.md
 title: Wells bombardier burning gold
 untappd: "https://untappd.com/b/charles-wells-brewery-wells-bombardier-burning-gold/26221"
+country: "United Kingdom"
 brewery: "Charles Wells Brewery"
 breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
 style: "Golden Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-itchy-green-pants-cloudy-ale.md
 title: Itchy green pants cloudy ale
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-itchy-green-pants--i-g-p-/126113"
+country: "Australia"
 brewery: "Matilda Bay Brewing Company"
 breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
 style: "Pale Ale - Australian"

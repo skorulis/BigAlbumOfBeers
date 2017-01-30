@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-christmas-cracker.md
 title: Christmas cracker
 untappd: "https://untappd.com/b/carlsberg-uk-tetleys-christmas-cracker/270306"
+country: "United Kingdom"
 brewery: "Carlsberg UK"
 breweryURL: "https://untappd.com/w/carlsberg-uk/148366"
 style: "English Bitter"

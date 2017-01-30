@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-gage-roads-sleeping-giant-ipa.md
 title: Gage roads sleeping giant IPA
 untappd: "https://untappd.com/b/gage-roads-brewing-co--sleeping-giant/15049"
+country: "Australia"
 brewery: "Gage Roads Brewing Co "
 breweryURL: "https://untappd.com/w/gage-roads-brewing-co-/2608"
 style: "IPA - English"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bath-ales-gem.md
 title: Bath ales gem
 untappd: "https://untappd.com/b/bath-ales-gem/6248"
+country: "United Kingdom"
 brewery: "Bath Ales"
 breweryURL: "https://untappd.com/w/bath-ales/1464"
 style: "English Bitter"

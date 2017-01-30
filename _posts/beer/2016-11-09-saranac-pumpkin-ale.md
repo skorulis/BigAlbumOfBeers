@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-saranac-pumpkin-ale.md
 title: Saranac pumpkin ale
 untappd: "https://untappd.com/b/the-matt-brewing-company--saranac--saranac-pumpkin-ale/4607"
+country: "United States"
 brewery: "The Matt Brewing Company (Saranac)"
 breweryURL: "https://untappd.com/w/the-matt-brewing-company--saranac-/2783"
 style: "Pumpkin / Yam Beer"

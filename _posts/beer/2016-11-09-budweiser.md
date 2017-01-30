@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-budweiser.md
 title: Budweiser
 untappd: "https://untappd.com/b/anheuser-busch-budweiser/3783"
+country: "United States"
 brewery: "Anheuser-Busch"
 breweryURL: "https://untappd.com/w/anheuser-busch/44"
 style: "Lager - North American Adjunct"

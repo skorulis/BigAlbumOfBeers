@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-f-x--buckley.md
 title: F.X. Buckley
 untappd: "https://untappd.com/b/metalman-brewing-fx-buckley/380970"
+country: "Ireland"
 brewery: "Metalman Brewing"
 breweryURL: "https://untappd.com/w/metalman-brewing/8832"
 style: "Pale Ale - English"

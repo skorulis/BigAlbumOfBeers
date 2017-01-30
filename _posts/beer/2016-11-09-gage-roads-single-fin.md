@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-gage-roads-single-fin.md
 title: Gage Roads Single Fin
 untappd: "https://untappd.com/b/gage-roads-brewing-co--single-fin-summer-ale/973175"
+country: "Australia"
 brewery: "Gage Roads Brewing Co "
 breweryURL: "https://untappd.com/w/gage-roads-brewing-co-/2608"
 style: "Golden Ale"

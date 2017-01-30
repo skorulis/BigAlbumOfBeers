@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bath-ales-wild-hare.md
 title: Bath ales wild hare
 untappd: "https://untappd.com/b/bath-ales-wild-hare/6251"
+country: "United Kingdom"
 brewery: "Bath Ales"
 breweryURL: "https://untappd.com/w/bath-ales/1464"
 style: "Pale Ale - English"

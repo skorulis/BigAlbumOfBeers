@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-willie-the-boatman-old-salty-gose.md
 title: Willie the boatman old salty gose
 untappd: "https://untappd.com/b/willie-the-boatman-old-salty/851392"
+country: "Australia"
 brewery: "Willie The Boatman"
 breweryURL: "https://untappd.com/w/willie-the-boatman/129674"
 style: "Sour - Gose"

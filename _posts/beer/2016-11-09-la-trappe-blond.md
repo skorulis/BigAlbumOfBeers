@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-la-trappe-blond.md
 title: La Trappe Blond
 untappd: "https://untappd.com/b/bierbrouwerij-de-koningshoeven-la-trappe-blond/17858"
+country: "Netherlands"
 brewery: "Bierbrouwerij De Koningshoeven"
 breweryURL: "https://untappd.com/w/bierbrouwerij-de-koningshoeven/110"
 style: "Blonde Ale - Belgian Blonde / Golden"

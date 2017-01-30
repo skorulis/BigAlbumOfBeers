@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-xxxx-bitter.md
 title: XXXX bitter
 untappd: "https://untappd.com/b/castlemaine-perkins-xxxx-bitter/11318"
+country: "Australia"
 brewery: "Castlemaine Perkins"
 breweryURL: "https://untappd.com/w/castlemaine-perkins/1928"
 style: "Lager - North American Adjunct"

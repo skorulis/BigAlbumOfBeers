@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-novomestsy-lezak.md
 title: Novomestsy Ležák
 untappd: "https://untappd.com/b/novomestsky-pivovar-novomestsky-svetly-lezak/72447"
+country: "Czech Republic"
 brewery: "Novoměstský pivovar"
 breweryURL: "https://untappd.com/w/novomestsky-pivovar/15100"
 style: "Pilsner - Czech"

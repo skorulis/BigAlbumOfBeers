@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-strongroom-dark.md
 title: Strongroom dark
 untappd: "https://untappd.com/b/strongroom-dark/226897"
+country: "United Kingdom"
 brewery: "Strongroom"
 breweryURL: "https://untappd.com/w/strongroom/25612"
 style: "Stout - Irish Dry"

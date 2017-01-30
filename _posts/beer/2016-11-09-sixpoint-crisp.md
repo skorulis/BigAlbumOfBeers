@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sixpoint-crisp.md
 title: Sixpoint Crisp
 untappd: "https://untappd.com/b/sixpoint-brewery-the-crisp/11517"
+country: "United States"
 brewery: "Sixpoint Brewery"
 breweryURL: "https://untappd.com/w/sixpoint-brewery/1149"
 style: "Pilsner - German"

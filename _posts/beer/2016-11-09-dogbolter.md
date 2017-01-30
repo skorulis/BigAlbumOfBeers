@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-dogbolter.md
 title: Dogbolter
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-dogbolter/11555"
+country: "Australia"
 brewery: "Matilda Bay Brewing Company"
 breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
 style: "Lager - Dunkel Munich"

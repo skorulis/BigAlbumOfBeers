@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-simply-golden-ale.md
 title: Simply Golden Ale
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-simply-golden-ale/179597"
+country: "United Kingdom"
 brewery: "Tesco Stores Ltd."
 breweryURL: "https://untappd.com/w/tesco-stores-ltd-/3018"
 style: "Golden Ale"

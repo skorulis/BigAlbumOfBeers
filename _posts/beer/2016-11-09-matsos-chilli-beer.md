@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-matsos-chilli-beer.md
 title: Matso’s Chilli Beer
 untappd: "https://untappd.com/b/matsos-broome-brewery-chilli-beer/84759"
+country: "Australia"
 brewery: "Matso's Broome Brewery"
 breweryURL: "https://untappd.com/w/matsos-broome-brewery/4469"
 style: "Spiced / Herbed Beer"

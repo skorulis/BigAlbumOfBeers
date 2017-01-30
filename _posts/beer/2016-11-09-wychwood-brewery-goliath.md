@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wychwood-brewery-goliath.md
 title: Wychwood brewery Goliath
 untappd: "https://untappd.com/b/wychwood-brewery-goliath/12685"
+country: "United Kingdom"
 brewery: "Wychwood Brewery"
 breweryURL: "https://untappd.com/w/wychwood-brewery/1376"
 style: "English Bitter"

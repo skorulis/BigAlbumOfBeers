@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-anchor-steam.md
 title: Anchor steam
 untappd: "https://untappd.com/b/anchor-brewing-company-anchor-steam-beer/6204"
+country: "United States"
 brewery: "Anchor Brewing Company"
 breweryURL: "https://untappd.com/w/anchor-brewing-company/3891"
 style: "California Common"

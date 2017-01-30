@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-holgate-norton-lager.md
 title: Holgate Norton lager
 untappd: "https://untappd.com/b/holgate-brewhouse-norton-lager/1212038"
+country: "Australia"
 brewery: "Holgate Brewhouse"
 breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
 style: "Lager - Helles"

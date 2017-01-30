@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kronenbourg.md
 title: Kronenbourg
 untappd: "https://untappd.com/b/brasseries-kronenbourg-1664/5939"
+country: "France"
 brewery: "Brasseries Kronenbourg"
 breweryURL: "https://untappd.com/w/brasseries-kronenbourg/203"
 style: "Lager - Euro"

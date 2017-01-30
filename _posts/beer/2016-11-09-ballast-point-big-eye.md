@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-ballast-point-big-eye.md
 title: Ballast Point Big Eye
 untappd: "https://untappd.com/b/ballast-point-brewing---spirits-big-eye/2447"
+country: "United States"
 brewery: "Ballast Point Brewing & Spirits"
 breweryURL: "https://untappd.com/w/ballast-point-brewing---spirits/68"
 style: "IPA - American"

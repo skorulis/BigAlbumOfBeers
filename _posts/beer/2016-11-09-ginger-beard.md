@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-ginger-beard.md
 title: Ginger beard
 untappd: "https://untappd.com/b/wychwood-brewery-ginger-beard/179572"
+country: "United Kingdom"
 brewery: "Wychwood Brewery"
 breweryURL: "https://untappd.com/w/wychwood-brewery/1376"
 style: "Ginger Beer"

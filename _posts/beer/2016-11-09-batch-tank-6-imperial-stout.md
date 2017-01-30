@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-batch-tank-6-imperial-stout.md
 title: Batch tank 6 imperial stout
 untappd: "https://untappd.com/b/batch-brewing-company-tank-6/1155350"
+country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
 style: "Stout - Imperial / Double"

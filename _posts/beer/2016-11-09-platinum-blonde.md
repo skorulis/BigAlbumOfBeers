@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-platinum-blonde.md
 title: Platinum blonde
 untappd: "https://untappd.com/b/hahn-brewing-co--pty-ltd-platinum-blonde/278786"
+country: "Australia"
 brewery: "Hahn Brewing Co. Pty Ltd"
 breweryURL: "https://untappd.com/w/hahn-brewing-co--pty-ltd/14378"
 style: "Lager - Pale"

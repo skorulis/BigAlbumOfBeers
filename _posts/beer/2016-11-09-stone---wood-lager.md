@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-stone---wood-lager.md
 title: Stone & wood lager
 untappd: "https://untappd.com/b/stone---wood-green-coast/13577"
+country: "Australia"
 brewery: "Stone & Wood"
 breweryURL: "https://untappd.com/w/stone---wood/2555"
 style: "Kellerbier / Zwickelbier"

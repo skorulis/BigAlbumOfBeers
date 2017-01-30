@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brighton-best.md
 title: Brighton Best
 untappd: "https://untappd.com/b/king-beer-brighton-best/44566"
+country: "United Kingdom"
 brewery: "King Beer"
 breweryURL: "https://untappd.com/w/king-beer/10649"
 style: "English Bitter"

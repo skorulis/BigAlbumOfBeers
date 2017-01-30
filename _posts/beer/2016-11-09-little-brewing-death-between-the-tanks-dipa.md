@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-little-brewing-death-between-the-tanks-dipa.md
 title: Little brewing death between the tanks DIPA
 untappd: "https://untappd.com/b/the-little-brewing-company-death-between-the-tanks/484884"
+country: "Australia"
 brewery: "The Little Brewing Company"
 breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
 style: "IPA - Imperial / Double"

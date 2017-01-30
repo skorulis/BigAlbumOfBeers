@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pintail-pale-ale.md
 title: Pintail pale ale
 untappd: "https://untappd.com/b/karl-strauss-brewing-company-pintail-pale-ale/15471"
+country: "United States"
 brewery: "Karl Strauss Brewing Company"
 breweryURL: "https://untappd.com/w/karl-strauss-brewing-company/1880"
 style: "Pale Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mamas-little-yella-pils.md
 title: Mama's Little Yella Pils
 untappd: "https://untappd.com/b/oskar-blues-brewery-mamas-little-yella-pils/5210"
+country: "United States"
 brewery: "Oskar Blues Brewery"
 breweryURL: "https://untappd.com/w/oskar-blues-brewery/956"
 style: "Pilsner - Czech"

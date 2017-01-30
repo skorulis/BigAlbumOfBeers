@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-prickly-moses-harvest-ale.md
 title: Prickly Moses harvest ale
 untappd: "https://untappd.com/b/prickly-moses-harvest-ale/1058036"
+country: "Australia"
 brewery: "Prickly Moses"
 breweryURL: "https://untappd.com/w/prickly-moses/8308"
 style: "Pale Ale - Australian"

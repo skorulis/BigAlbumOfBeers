@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wayward-saison.md
 title: Wayward saison
 untappd: "https://untappd.com/b/wayward-brewing-la-saison-petite/1456623"
+country: "Australia"
 brewery: "Wayward Brewing"
 breweryURL: "https://untappd.com/w/wayward-brewing/48019"
 style: "Saison / Farmhouse Ale"

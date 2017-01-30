@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mornington-hop-culture.md
 title: Mornington hop culture
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-hop-culture/1663139"
+country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
 style: "IPA - Session / India Session Ale"

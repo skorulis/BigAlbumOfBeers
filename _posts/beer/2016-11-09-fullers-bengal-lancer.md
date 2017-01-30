@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-fullers-bengal-lancer.md
 title: Fullers Bengal lancer
 untappd: "https://untappd.com/b/fuller--smith---turner--bengal-lancer/13458"
+country: "United Kingdom"
 brewery: "Fuller, Smith & Turner "
 breweryURL: "https://untappd.com/w/fuller--smith---turner-/3296"
 style: "IPA - English"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-williams-joker-ipa.md
 title: Williams joker IPA
 untappd: "https://untappd.com/b/williams-brothers-brewing-co--joker-ipa/13049"
+country: "United Kingdom"
 brewery: "Williams Brothers Brewing Co."
 breweryURL: "https://untappd.com/w/williams-brothers-brewing-co-/1367"
 style: "IPA - English"

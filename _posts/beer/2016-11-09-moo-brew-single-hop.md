@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-moo-brew-single-hop.md
 title: Moo brew single hop
 untappd: "https://untappd.com/b/moo-brew-single-hop-enigma/1362812"
+country: "Australia"
 brewery: "Moo Brew"
 breweryURL: "https://untappd.com/w/moo-brew/4806"
 style: "Pale Ale - Australian"

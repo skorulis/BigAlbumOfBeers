@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-anderson-valley-wild-turkey-bourbon-barrel-stout.md
 title: Anderson Valley Wild Turkey Bourbon Barrel Stout
 untappd: "https://untappd.com/b/anderson-valley-brewing-company-wild-turkey-bourbon-barrel-stout/130880"
+country: "United States"
 brewery: "Anderson Valley Brewing Company"
 breweryURL: "https://untappd.com/w/anderson-valley-brewing-company/3880"
 style: "Stout - Oatmeal"

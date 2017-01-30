@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-modus-cream-of-the-hop-3.md
 title: Modus cream of the hop #3
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--cream-of-the-hop-3/1266877"
+country: "Australia"
 brewery: "Modus Operandi Brewing Co."
 breweryURL: "https://untappd.com/w/modus-operandi-brewing-co-/145927"
 style: "Pale Ale - Australian"

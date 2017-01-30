@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-jenlain-ambre.md
 title: Jenlain Ambre
 untappd: "https://untappd.com/b/brasserie-duyck-jenlain-ambree/7984"
+country: "France"
 brewery: "Brasserie Duyck"
 breweryURL: "https://untappd.com/w/brasserie-duyck/190"
 style: "Bière de Garde"

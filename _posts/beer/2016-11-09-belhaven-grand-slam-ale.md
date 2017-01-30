@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-belhaven-grand-slam-ale.md
 title: Belhaven grand slam ale
 untappd: "https://untappd.com/b/belhaven-brewery-grand-slam-ale/126798"
+country: "United Kingdom"
 brewery: "Belhaven Brewery"
 breweryURL: "https://untappd.com/w/belhaven-brewery/98"
 style: "Golden Ale"

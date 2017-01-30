@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-magic-rock-cannonball-ipa.md
 title: Magic rock Cannonball IPA
 untappd: "https://untappd.com/b/magic-rock-brewing-cannonball/61315"
+country: "United Kingdom"
 brewery: "Magic Rock Brewing"
 breweryURL: "https://untappd.com/w/magic-rock-brewing/13156"
 style: "IPA - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-4-pines-stout.md
 title: 4 Pines stout
 untappd: "https://untappd.com/b/4-pines-brewing-company-stout/33630"
+country: "Australia"
 brewery: "4 Pines Brewing Company"
 breweryURL: "https://untappd.com/w/4-pines-brewing-company/4254"
 style: "Stout - Irish Dry"

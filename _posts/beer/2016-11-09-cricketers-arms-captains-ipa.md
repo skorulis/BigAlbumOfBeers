@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cricketers-arms-captains-ipa.md
 title: Cricketers arms captain's IPA
 untappd: "https://untappd.com/b/cricketers-arms-captains-ipa/863571"
+country: "Australia"
 brewery: "Cricketers Arms"
 breweryURL: "https://untappd.com/w/cricketers-arms/6998"
 style: "IPA - English"

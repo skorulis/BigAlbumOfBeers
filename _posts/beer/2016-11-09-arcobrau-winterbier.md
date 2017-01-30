@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-arcobrau-winterbier.md
 title: Arcobräu winterbier
 untappd: "https://untappd.com/b/arcobrau-grafliches-brauhaus-winterbier/84426"
+country: "Germany"
 brewery: "Arcobräu Gräfliches Brauhaus"
 breweryURL: "https://untappd.com/w/arcobrau-grafliches-brauhaus/16764"
 style: "Lager - Winter"

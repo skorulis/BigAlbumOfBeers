@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-barossa-brewing-i-cant-believe-its-not-bacon.md
 title: Barossa brewing I can't believe it's not bacon
 untappd: "https://untappd.com/b/barossa-valley-brewing-i-cant-believe-its-not-bacon/1557796"
+country: "Australia"
 brewery: "Barossa Valley Brewing"
 breweryURL: "https://untappd.com/w/barossa-valley-brewing/14448"
 style: "Smoked Beer"

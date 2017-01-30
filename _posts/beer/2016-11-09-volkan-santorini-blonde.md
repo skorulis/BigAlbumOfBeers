@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-volkan-santorini-blonde.md
 title: Volkan Santorini blonde
 untappd: "https://untappd.com/b/first-lomax--volkan--volkan--santorini--blonde/143377"
+country: "Greece"
 brewery: "First Lomax (Volkan)"
 breweryURL: "https://untappd.com/w/first-lomax--volkan-/19886"
 style: "Lager - Pale"

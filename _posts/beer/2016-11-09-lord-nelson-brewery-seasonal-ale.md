@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lord-nelson-brewery-seasonal-ale.md
 title: Lord Nelson Brewery Seasonal Ale
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-seasonal-ale/1336928"
+country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
 style: "Pale Ale - English"

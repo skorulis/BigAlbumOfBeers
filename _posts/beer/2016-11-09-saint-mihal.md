@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-saint-mihal.md
 title: Saint-Mihal
 untappd: "https://untappd.com/b/saint-mihal-saint-mihal/759471"
+country: "France"
 brewery: "Saint-Mihal"
 breweryURL: "https://untappd.com/w/saint-mihal/146313"
 style: "Lager - Euro"

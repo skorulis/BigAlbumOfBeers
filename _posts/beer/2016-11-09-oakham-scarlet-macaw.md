@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-oakham-scarlet-macaw.md
 title: Oakham scarlet macaw
 untappd: "https://untappd.com/b/oakham-ales-scarlet-macaw/52694"
+country: "United Kingdom"
 brewery: "Oakham Ales"
 breweryURL: "https://untappd.com/w/oakham-ales/931"
 style: "Pale Ale - English"

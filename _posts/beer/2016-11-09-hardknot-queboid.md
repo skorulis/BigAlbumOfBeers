@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hardknot-queboid.md
 title: Hardknot Queboid
 untappd: "https://untappd.com/b/hardknott-queboid/26944"
+country: "United Kingdom"
 brewery: "Hardknott"
 breweryURL: "https://untappd.com/w/hardknott/3300"
 style: "IPA - Belgian"

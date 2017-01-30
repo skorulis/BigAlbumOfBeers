@@ -2,6 +2,7 @@
 layout: beer
 filename: _posts/beer/2016-11-09-blas-trigo.md
 title: Blas trigo
+country: "Spain"
 brewery: "Tito Blas"
 breweryURL: "https://untappd.com/w/tito-blas/"
 score: 7

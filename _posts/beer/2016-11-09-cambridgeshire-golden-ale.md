@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cambridgeshire-golden-ale.md
 title: Cambridgeshire Golden Ale
 untappd: "https://untappd.com/b/marks---spencer-cambridgeshire-golden-ale/106002"
+country: "United Kingdom"
 brewery: "Marks & Spencer"
 breweryURL: "https://untappd.com/w/marks---spencer/242395"
 style: "Golden Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-asahi-dry-black.md
 title: Asahi dry black
 untappd: "https://untappd.com/b/asahi-breweries-asahi-dry-black/576115"
+country: "Japan"
 brewery: "Asahi Breweries"
 breweryURL: "https://untappd.com/w/asahi-breweries/50"
 style: "Lager - Dark"

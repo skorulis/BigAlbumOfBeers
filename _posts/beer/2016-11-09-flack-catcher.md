@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-flack-catcher.md
 title: Flack Catcher
 untappd: "https://untappd.com/b/flack-manor-flack-catcher/52716"
+country: "United Kingdom"
 brewery: "Flack Manor"
 breweryURL: "https://untappd.com/w/flack-manor/11945"
 style: "Golden Ale"

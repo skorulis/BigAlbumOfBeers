@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-coopers-pale-ale.md
 title: Coopers Pale Ale
 untappd: "https://untappd.com/b/coopers-brewery-original-pale-ale/7884"
+country: "Australia"
 brewery: "Coopers Brewery"
 breweryURL: "https://untappd.com/w/coopers-brewery/397"
 style: "Pale Ale - Australian"

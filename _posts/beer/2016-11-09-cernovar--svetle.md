@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cernovar--svetle.md
 title: Černovar  Svetlé
 untappd: "https://untappd.com/b/tradicni-pivovar-v-rakovniku-cernovar-svetle/459676"
+country: "Czech Republic"
 brewery: "Tradiční pivovar v Rakovníku"
 breweryURL: "https://untappd.com/w/tradicni-pivovar-v-rakovniku/26351"
 style: "Pilsner - Czech"

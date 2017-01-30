@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-moo-brew-hefeweizen.md
 title: Moo Brew Hefeweizen
 untappd: "https://untappd.com/b/moo-brew-hefeweizen/34168"
+country: "Australia"
 brewery: "Moo Brew"
 breweryURL: "https://untappd.com/w/moo-brew/4806"
 style: "Hefeweizen"

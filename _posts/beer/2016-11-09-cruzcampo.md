@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cruzcampo.md
 title: Cruzcampo
 untappd: "https://untappd.com/b/cruzcampo--heineken-espana--cruzcampo-pilsen/399207"
+country: "Spain"
 brewery: "Cruzcampo (Heineken España)"
 breweryURL: "https://untappd.com/w/cruzcampo--heineken-espana-/5432"
 style: "Pilsner - Other"

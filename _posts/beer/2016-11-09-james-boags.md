@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-james-boags.md
 title: James Boags
 untappd: "https://untappd.com/b/j--boag---son-brewing-james-boags-premium-lager/5982"
+country: "Australia"
 brewery: "J. Boag & Son Brewing"
 breweryURL: "https://untappd.com/w/j--boag---son-brewing/19249"
 style: "Lager - Pale"

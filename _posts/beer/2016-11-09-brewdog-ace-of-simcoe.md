@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewdog-ace-of-simcoe.md
 title: Brewdog Ace of Simcoe
 untappd: "https://untappd.com/b/brewdog-ace-of-simcoe/1458004"
+country: "United Kingdom"
 brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "IPA - Session / India Session Ale"

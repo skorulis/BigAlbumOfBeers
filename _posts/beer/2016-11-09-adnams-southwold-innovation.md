@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-adnams-southwold-innovation.md
 title: Adnams southwold innovation
 untappd: "https://untappd.com/b/adnams-jack-brand-innovation/471020"
+country: "United Kingdom"
 brewery: "Adnams"
 breweryURL: "https://untappd.com/w/adnams/11"
 style: "IPA - American"

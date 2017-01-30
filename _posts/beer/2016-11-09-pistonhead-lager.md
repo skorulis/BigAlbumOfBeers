@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pistonhead-lager.md
 title: Pistonhead lager
 untappd: "https://untappd.com/b/brutal-brewing-pistonhead-kustom-lager/82286"
+country: "Sweden"
 brewery: "Brutal Brewing"
 breweryURL: "https://untappd.com/w/brutal-brewing/16622"
 style: "Lager - Pale"

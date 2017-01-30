@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-nz-single-hop-nelson.md
 title: NZ single hop nelson
 untappd: "https://untappd.com/b/bacchus-brewing-co--mosaic-ipa---single-hop-series/311195"
+country: "Australia"
 brewery: "Bacchus Brewing Co."
 breweryURL: "https://untappd.com/w/bacchus-brewing-co-/11684"
 style: "IPA - American"

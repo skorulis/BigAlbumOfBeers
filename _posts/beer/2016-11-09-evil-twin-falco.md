@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-evil-twin-falco.md
 title: Evil twin Falco
 untappd: "https://untappd.com/b/evil-twin-brewing-falco/318741"
+country: "United States"
 brewery: "Evil Twin Brewing"
 breweryURL: "https://untappd.com/w/evil-twin-brewing/3735"
 style: "IPA - American"

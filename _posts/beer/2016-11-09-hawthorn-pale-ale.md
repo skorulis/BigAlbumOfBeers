@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hawthorn-pale-ale.md
 title: Hawthorn Pale Ale
 untappd: "https://untappd.com/b/hawthorn-brewing-company-premium-pale-ale/25002"
+country: "Australia"
 brewery: "Hawthorn Brewing Company"
 breweryURL: "https://untappd.com/w/hawthorn-brewing-company/6931"
 style: "Pale Ale - American"

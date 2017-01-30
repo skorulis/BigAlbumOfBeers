@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cave-creek-chili-beer.md
 title: Cave creek chili beer
 untappd: "https://untappd.com/b/cerveceria-mexicana-s--de-r-l--de-c-v---tecate--original-c-cave-creek-chili-beer---cerveza-con-chili/77737"
+country: "Mexico"
 brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
 breweryURL: "https://untappd.com/w/cerveceria-mexicana-s--de-r-l--de-c-v---tecate-/3254"
 style: "Spiced / Herbed Beer"

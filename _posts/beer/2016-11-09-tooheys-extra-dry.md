@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tooheys-extra-dry.md
 title: Tooheys Extra Dry
 untappd: "https://untappd.com/b/tooheys-brewing-extra-dry/5921"
+country: "Australia"
 brewery: "Tooheys Brewing"
 breweryURL: "https://untappd.com/w/tooheys-brewing/13905"
 style: "Lager - Pale"

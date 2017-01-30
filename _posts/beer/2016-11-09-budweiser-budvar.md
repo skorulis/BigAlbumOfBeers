@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-budweiser-budvar.md
 title: Budweiser Budvar
 untappd: "https://untappd.com/b/budejovicky-budvar-budweiser-budvar-b-original--czechvar-b-original/5385"
+country: "Czech Republic"
 brewery: "Budějovický Budvar"
 breweryURL: "https://untappd.com/w/budejovicky-budvar/245"
 style: "Pilsner - Czech"

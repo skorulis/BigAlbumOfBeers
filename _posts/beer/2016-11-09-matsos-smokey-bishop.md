@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-matsos-smokey-bishop.md
 title: Matso's Smokey Bishop
 untappd: "https://untappd.com/b/matsos-broome-brewery-smokey-bishop/37551"
+country: "Australia"
 brewery: "Matso's Broome Brewery"
 breweryURL: "https://untappd.com/w/matsos-broome-brewery/4469"
 style: "Lager - Dunkel Munich"

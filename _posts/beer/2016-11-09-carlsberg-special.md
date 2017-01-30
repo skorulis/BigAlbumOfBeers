@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-carlsberg-special.md
 title: Carlsberg special
 untappd: "https://untappd.com/b/carlsberg-group-carlsberg-special-brew/55941"
+country: "Denmark"
 brewery: "Carlsberg Group"
 breweryURL: "https://untappd.com/w/carlsberg-group/344"
 style: "Pilsner - Imperial / Double"

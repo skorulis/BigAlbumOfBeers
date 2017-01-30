@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-coconut-porter.md
 title: Coconut porter
 untappd: "https://untappd.com/b/maui-brewing-company-coconut-hiwa-porter/5383"
+country: "United States"
 brewery: "Maui Brewing Company"
 breweryURL: "https://untappd.com/w/maui-brewing-company/836"
 style: "Porter - American"

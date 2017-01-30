@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-adnams-spindrift.md
 title: Adnams Spindrift
 untappd: "https://untappd.com/b/adnams-spindrift/6198"
+country: "United Kingdom"
 brewery: "Adnams"
 breweryURL: "https://untappd.com/w/adnams/11"
 style: "Blonde Ale"

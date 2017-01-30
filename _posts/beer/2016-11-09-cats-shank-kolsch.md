@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cats-shank-kolsch.md
 title: Cats shank kolsch
 untappd: "https://untappd.com/b/sail---anchor-cats-shank-kolsch/245315"
+country: "Australia"
 brewery: "Sail & Anchor"
 breweryURL: "https://untappd.com/w/sail---anchor/3325"
 style: "Kölsch"

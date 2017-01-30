@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-redds-apple-ale.md
 title: Redds Apple-Ale
 untappd: "https://untappd.com/b/redds-brewing-company-apple-ale/210218"
+country: "United States"
 brewery: "Redd's Brewing Company"
 breweryURL: "https://untappd.com/w/redds-brewing-company/36153"
 style: "Fruit Beer"

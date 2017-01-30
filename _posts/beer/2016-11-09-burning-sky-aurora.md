@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-burning-sky-aurora.md
 title: Burning Sky Aurora
 untappd: "https://untappd.com/b/burning-sky-brewery-aurora/480460"
+country: "United Kingdom"
 brewery: "Burning Sky Brewery"
 breweryURL: "https://untappd.com/w/burning-sky-brewery/86117"
 style: "Pale Ale - American"

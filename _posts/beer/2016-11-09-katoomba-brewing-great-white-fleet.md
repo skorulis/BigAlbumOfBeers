@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-katoomba-brewing-great-white-fleet.md
 title: Katoomba brewing great white fleet
 untappd: "https://untappd.com/b/katoomba-brewing-company-american-pale-ale/1367305"
+country: "Australia"
 brewery: "Katoomba Brewing Company"
 breweryURL: "https://untappd.com/w/katoomba-brewing-company/243819"
 style: "Pale Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-eelriver-amber-ale.md
 title: Eelriver Amber Ale
 untappd: "https://untappd.com/b/eel-river-brewing-company-organic-amber-ale/1211684"
+country: "United States"
 brewery: "Eel River Brewing Company"
 breweryURL: "https://untappd.com/w/eel-river-brewing-company/481"
 style: "Red Ale - American Amber / Red"

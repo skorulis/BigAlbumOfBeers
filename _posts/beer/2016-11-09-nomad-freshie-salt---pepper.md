@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-nomad-freshie-salt---pepper.md
 title: Nomad freshie salt & pepper
 untappd: "https://untappd.com/b/nomad-brewing-co--freshie-salt-and-pepper/1032759"
+country: "Australia"
 brewery: "Nomad Brewing Co."
 breweryURL: "https://untappd.com/w/nomad-brewing-co-/145688"
 style: "Sour - Gose"

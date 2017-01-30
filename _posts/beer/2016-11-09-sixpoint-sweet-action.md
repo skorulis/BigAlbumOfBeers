@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sixpoint-sweet-action.md
 title: Sixpoint Sweet action
 untappd: "https://untappd.com/b/sixpoint-brewery-sweet-action/10010"
+country: "United States"
 brewery: "Sixpoint Brewery"
 breweryURL: "https://untappd.com/w/sixpoint-brewery/1149"
 style: "Cream Ale"

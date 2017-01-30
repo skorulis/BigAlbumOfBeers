@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-monteiths-pointers-pale-ale.md
 title: Monteith’s Pointers pale ale
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-pointers-pale-ale/1220517"
+country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
 breweryURL: "https://untappd.com/w/monteiths-brewing-co--/881"
 style: "Pale Ale - New Zealand"

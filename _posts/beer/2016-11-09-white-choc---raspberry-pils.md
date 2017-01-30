@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-white-choc---raspberry-pils.md
 title: White choc & raspberry pils
 untappd: "https://untappd.com/b/bacchus-brewing-co--white-chocolate-raspberry-pils/363402"
+country: "Australia"
 brewery: "Bacchus Brewing Co."
 breweryURL: "https://untappd.com/w/bacchus-brewing-co-/11684"
 style: "Pilsner - Other"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-old-salt-quay.md
 title: Old salt quay
 untappd: "https://untappd.com/b/greene-king-gk-house-ale/461458"
+country: "United Kingdom"
 brewery: "Greene King"
 breweryURL: "https://untappd.com/w/greene-king/612"
 style: "English Bitter"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-double-dragon.md
 title: Double Dragon
 untappd: "https://untappd.com/b/felinfoel-brewery-co-ltd-double-dragon/13412"
+country: "Wales"
 brewery: "Felinfoel Brewery Co Ltd"
 breweryURL: "https://untappd.com/w/felinfoel-brewery-co-ltd/519"
 style: "English Bitter"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-blackfont-saison-de-ville.md
 title: Blackfont saison de Ville
 untappd: "https://untappd.com/b/blackfont-brewhouse-saison-de-ville/1328437"
+country: "Australia"
 brewery: "BlackFont Brewhouse"
 breweryURL: "https://untappd.com/w/blackfont-brewhouse/231217"
 style: "Saison / Farmhouse Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-badger-blandford-flyer.md
 title: Badger blandford flyer
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--blandford-flyer/31806"
+country: "United Kingdom"
 brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "https://untappd.com/w/badger-ales--hall---woodhouse-/1752"
 style: "Spiced / Herbed Beer"

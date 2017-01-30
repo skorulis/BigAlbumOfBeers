@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-deuchars-ipa.md
 title: Deuchars IPA
 untappd: "https://untappd.com/b/caledonian-brewing-company--deuchars-ipa/14649"
+country: "United Kingdom"
 brewery: "Caledonian Brewing Company "
 breweryURL: "https://untappd.com/w/caledonian-brewing-company-/2071"
 style: "IPA - English"

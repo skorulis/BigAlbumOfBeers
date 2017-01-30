@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pirate-life-hopco-nz-pale-ale.md
 title: Pirate life Hopco NZ pale ale
 untappd: "https://untappd.com/b/pirate-life-brewing-hopco-nz-pale-ale/1424052"
+country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "https://untappd.com/w/pirate-life-brewing/189380"
 style: "Pale Ale - New Zealand"

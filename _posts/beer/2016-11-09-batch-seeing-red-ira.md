@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-batch-seeing-red-ira.md
 title: Batch seeing red IRA
 untappd: "https://untappd.com/b/batch-brewing-company-seeing-red-ira/1447473"
+country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
 style: "Red Ale - Imperial / Double"

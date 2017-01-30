@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-oettinger-pils.md
 title: Oettinger Pils
 untappd: "https://untappd.com/b/oettinger-brauerei-oettinger-pils/24101"
+country: "Germany"
 brewery: "Oettinger Brauerei"
 breweryURL: "https://untappd.com/w/oettinger-brauerei/6745"
 style: "Pilsner - German"

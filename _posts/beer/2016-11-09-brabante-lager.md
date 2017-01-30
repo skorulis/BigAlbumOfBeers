@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brabante-lager.md
 title: Brabante lager
 untappd: "https://untappd.com/b/brabante-cervezas-lager/80383"
+country: "Spain"
 brewery: "Brabante Cervezas"
 breweryURL: "https://untappd.com/w/brabante-cervezas/16198"
 style: "Lager - Euro"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-steam-whistle-pilsner.md
 title: Steam whistle pilsner
 untappd: "https://untappd.com/b/steam-whistle-brewing-steam-whistle-pilsner/7852"
+country: "Canada"
 brewery: "Steam Whistle Brewing"
 breweryURL: "https://untappd.com/w/steam-whistle-brewing/1194"
 style: "Pilsner - Other"

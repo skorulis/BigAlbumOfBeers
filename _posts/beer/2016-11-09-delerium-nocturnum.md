@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-delerium-nocturnum.md
 title: Delerium nocturnum
 untappd: "https://untappd.com/b/brouwerij-huyghe-delirium-nocturnum/4486"
+country: "Belgium"
 brewery: "Brouwerij Huyghe"
 breweryURL: "https://untappd.com/w/brouwerij-huyghe/285"
 style: "Belgian Strong Dark Ale"

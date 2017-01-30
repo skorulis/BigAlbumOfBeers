@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-utenos-classic.md
 title: Utenos classic
 untappd: "https://untappd.com/b/utenos-alus-utenos-classic/272115"
+country: "Lithuania"
 brewery: "Utenos Alus"
 breweryURL: "https://untappd.com/w/utenos-alus/1319"
 style: "Lager - Pale"

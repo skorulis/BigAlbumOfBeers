@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-badger-poachers-choice.md
 title: Badger Poacher's choice
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--poachers-choice/13035"
+country: "United Kingdom"
 brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "https://untappd.com/w/badger-ales--hall---woodhouse-/1752"
 style: "Strong Ale - English"

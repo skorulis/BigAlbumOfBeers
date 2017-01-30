@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-founders-dry-hopped-pale-ale.md
 title: Founders Dry Hopped Pale Ale
 untappd: "https://untappd.com/b/founders-brewing-co--pale-ale/22011"
+country: "United States"
 brewery: "Founders Brewing Co."
 breweryURL: "https://untappd.com/w/founders-brewing-co-/549"
 style: "Pale Ale - American"

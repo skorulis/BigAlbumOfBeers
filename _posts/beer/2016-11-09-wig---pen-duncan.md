@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wig---pen-duncan.md
 title: Wig & pen Duncan
 untappd: "https://untappd.com/b/wig---pen-brewery-duncan/1292592"
+country: "Australia"
 brewery: "Wig & Pen Brewery"
 breweryURL: "https://untappd.com/w/wig---pen-brewery/12216"
 style: "Sour - Gose"

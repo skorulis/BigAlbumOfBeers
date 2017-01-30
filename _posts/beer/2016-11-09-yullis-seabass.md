@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-yullis-seabass.md
 title: Yulli's seabass
 untappd: "https://untappd.com/b/yullis-brews-seabass-mediterranean-lager/1336924"
+country: "Australia"
 brewery: "Yulli's Brews"
 breweryURL: "https://untappd.com/w/yullis-brews/130600"
 style: "Lager - Pale"

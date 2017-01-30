@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-curious-original-pale-ale.md
 title: Curious original pale ale
 untappd: "https://untappd.com/b/magic-rock-brewing-ringmaster/499796"
+country: "United Kingdom"
 brewery: "Magic Rock Brewing"
 breweryURL: "https://untappd.com/w/magic-rock-brewing/13156"
 style: "Pale Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-holgate-mt-macedon-ale.md
 title: Holgate mt Macedon ale
 untappd: "https://untappd.com/b/holgate-brewhouse-mt--macedon-pale-ale/7655"
+country: "Australia"
 brewery: "Holgate Brewhouse"
 breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
 style: "Pale Ale - Australian"

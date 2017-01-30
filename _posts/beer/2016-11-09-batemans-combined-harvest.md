@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-batemans-combined-harvest.md
 title: Batemans Combined Harvest
 untappd: "https://untappd.com/b/batemans-combined-harvest/31035"
+country: "United Kingdom"
 brewery: "Batemans"
 breweryURL: "https://untappd.com/w/batemans/8151"
 style: "Pale Ale - English"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wainwrights.md
 title: Wainwrights
 untappd: "https://untappd.com/b/marstons-brewery-wainwright/9934"
+country: "United Kingdom"
 brewery: "Marston's Brewery"
 breweryURL: "https://untappd.com/w/marstons-brewery/1517"
 style: "Golden Ale"

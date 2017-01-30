@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-nomad-long-reef-pale-ale.md
 title: Nomad long reef pale ale
 untappd: "https://untappd.com/b/nomad-brewing-co--long-reef-pale-ale/1726720"
+country: "Australia"
 brewery: "Nomad Brewing Co."
 breweryURL: "https://untappd.com/w/nomad-brewing-co-/145688"
 style: "Pale Ale - Australian"

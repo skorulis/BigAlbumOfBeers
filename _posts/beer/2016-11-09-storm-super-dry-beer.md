@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-storm-super-dry-beer.md
 title: Storm Super Dry Beer
 untappd: "https://untappd.com/b/storm-brewing-co--aldi--super-dry-beer/315613"
+country: "Australia"
 brewery: "Storm Brewing Co (Aldi)"
 breweryURL: "https://untappd.com/w/storm-brewing-co--aldi-/53006"
 style: "Lager - Pale"

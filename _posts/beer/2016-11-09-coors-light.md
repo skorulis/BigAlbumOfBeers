@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-coors-light.md
 title: Coors Light
 untappd: "https://untappd.com/b/coors-brewing-company-coors-light/3834"
+country: "United States"
 brewery: "Coors Brewing Company"
 breweryURL: "https://untappd.com/w/coors-brewing-company/399"
 style: "Lager - American Light"

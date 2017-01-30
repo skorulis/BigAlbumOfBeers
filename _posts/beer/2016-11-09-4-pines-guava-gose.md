@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-4-pines-guava-gose.md
 title: 4 pines guava gose
 untappd: "https://untappd.com/b/4-pines-brewing-company-keller-door--guava-gose/1802051"
+country: "Australia"
 brewery: "4 Pines Brewing Company"
 breweryURL: "https://untappd.com/w/4-pines-brewing-company/4254"
 style: "Sour - Gose"

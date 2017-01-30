@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-batch-american-pale-ale.md
 title: Batch American pale ale
 untappd: "https://untappd.com/b/batch-brewing-company-american-pale-ale/535499"
+country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
 style: "Pale Ale - American"

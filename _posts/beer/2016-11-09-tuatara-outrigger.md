@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tuatara-outrigger.md
 title: Tuatara outrigger
 untappd: "https://untappd.com/b/tuatara-brewery-outrigger---pacific-pale-ale/882339"
+country: "New Zealand"
 brewery: "Tuatara Brewery"
 breweryURL: "https://untappd.com/w/tuatara-brewery/2349"
 style: "Pale Ale - Australian"

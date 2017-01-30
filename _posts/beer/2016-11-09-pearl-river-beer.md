@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pearl-river-beer.md
 title: Pearl river beer
 untappd: "https://untappd.com/b/guangzhou-zhujiang-brewery-group-co-ltd-pearl-river-beer/556276"
+country: "China"
 brewery: "Guangzhou Zhujiang Brewery Group Co Ltd"
 breweryURL: "https://untappd.com/w/guangzhou-zhujiang-brewery-group-co-ltd/2288"
 style: "Lager - Pale"

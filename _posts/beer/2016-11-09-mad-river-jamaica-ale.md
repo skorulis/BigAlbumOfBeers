@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mad-river-jamaica-ale.md
 title: Mad river Jamaica Ale
 untappd: "https://untappd.com/b/mad-river-brewing-company-flor-de-jamaica/167570"
+country: "United States"
 brewery: "Mad River Brewing Company"
 breweryURL: "https://untappd.com/w/mad-river-brewing-company/811"
 style: "Spiced / Herbed Beer"

@@ -2,6 +2,7 @@
 layout: beer
 filename: _posts/beer/2016-11-09-willie-smith-triple.md
 title: Willie smith triple
+country: "Australia"
 brewery: "William Smith & Sons"
 breweryURL: "https://untappd.com/w/william-smith---sons/"
 score: 8.5

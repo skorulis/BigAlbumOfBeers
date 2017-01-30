@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hook-norton-twelve-days.md
 title: Hook norton Twelve days
 untappd: "https://untappd.com/b/hook-norton-brewery-twelve-days/66"
+country: "United Kingdom"
 brewery: "Hook Norton Brewery"
 breweryURL: "https://untappd.com/w/hook-norton-brewery/670"
 style: "Strong Ale - English"

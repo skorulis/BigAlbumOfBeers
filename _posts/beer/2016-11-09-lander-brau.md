@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lander-brau.md
 title: Lander Brau
 untappd: "https://untappd.com/b/h-west-b-v--lander-brau/337512"
+country: "Netherlands"
 brewery: "H-West B.V."
 breweryURL: "https://untappd.com/w/h-west-b-v-/4066"
 style: "Lager - Euro"

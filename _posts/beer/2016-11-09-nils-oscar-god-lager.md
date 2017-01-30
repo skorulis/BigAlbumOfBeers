@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-nils-oscar-god-lager.md
 title: Nils Oscar God Lager
 untappd: "https://untappd.com/b/nils-oscar-god-lager/7816"
+country: "Sweden"
 brewery: "Nils Oscar"
 breweryURL: "https://untappd.com/w/nils-oscar/2709"
 style: "Lager - Dortmunder / Export"

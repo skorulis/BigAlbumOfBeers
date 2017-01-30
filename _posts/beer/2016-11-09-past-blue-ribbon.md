@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-past-blue-ribbon.md
 title: Past Blue Ribbon
 untappd: "https://untappd.com/b/pabst-brewing-company-pabst-blue-ribbon/3883"
+country: "United States"
 brewery: "Pabst Brewing Company"
 breweryURL: "https://untappd.com/w/pabst-brewing-company/963"
 style: "Lager - North American Adjunct"

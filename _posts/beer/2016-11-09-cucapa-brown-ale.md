@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cucapa-brown-ale.md
 title: Cucapa brown ale
 untappd: "https://untappd.com/b/cerveceria-de-baja-california--cucapa-brewing-co---cucapa-obscura/7734"
+country: "Mexico"
 brewery: "Cervecería de Baja California (Cucapa Brewing Co.)"
 breweryURL: "https://untappd.com/w/cerveceria-de-baja-california--cucapa-brewing-co--/420"
 style: "Brown Ale - American"

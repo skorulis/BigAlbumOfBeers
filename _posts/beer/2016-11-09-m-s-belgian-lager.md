@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-m-s-belgian-lager.md
 title: M&S Belgian Lager
 untappd: "https://untappd.com/b/marks---spencer-belgian-lager/38379"
+country: "United Kingdom"
 brewery: "Marks & Spencer"
 breweryURL: "https://untappd.com/w/marks---spencer/242395"
 style: "Lager - Pale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-orion-draft-beer.md
 title: Orion draft beer
 untappd: "https://untappd.com/b/orion-breweries--ltd--orion-draft-beer/174508"
+country: "Japan"
 brewery: "Orion Breweries, Ltd."
 breweryURL: "https://untappd.com/w/orion-breweries--ltd-/6919"
 style: "Lager - Japanese Rice"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-stone-coffee-milk-stout.md
 title: Stone coffee milk stout
 untappd: "https://untappd.com/b/stone-brewing-stone-coffee-milk-stout/758603"
+country: "United States"
 brewery: "Stone Brewing"
 breweryURL: "https://untappd.com/w/stone-brewing/1204"
 style: "Stout - Milk / Sweet"

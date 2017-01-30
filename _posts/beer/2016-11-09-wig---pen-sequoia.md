@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wig---pen-sequoia.md
 title: Wig & pen sequoia
 untappd: "https://untappd.com/b/wig---pen-brewery-sequoia/736126"
+country: "Australia"
 brewery: "Wig & Pen Brewery"
 breweryURL: "https://untappd.com/w/wig---pen-brewery/12216"
 style: "Red Ale - American Amber / Red"

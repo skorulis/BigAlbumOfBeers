@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-james-squire-swindler.md
 title: James Squire Swindler
 untappd: "https://untappd.com/b/malt-shovel-brewery-the-swindler-summer-ale/1257519"
+country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 style: "Blonde Ale"

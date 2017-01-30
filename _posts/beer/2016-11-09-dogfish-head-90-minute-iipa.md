@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-dogfish-head-90-minute-iipa.md
 title: Dogfish head 90 minute IIPA
 untappd: "https://untappd.com/b/dogfish-head-craft-brewery-90-minute-ipa/8056"
+country: "United States"
 brewery: "Dogfish Head Craft Brewery"
 breweryURL: "https://untappd.com/w/dogfish-head-craft-brewery/459"
 style: "IPA - Imperial / Double"

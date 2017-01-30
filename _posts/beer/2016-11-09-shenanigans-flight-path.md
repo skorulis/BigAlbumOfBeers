@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-shenanigans-flight-path.md
 title: Shenanigans flight path
 untappd: "https://untappd.com/b/shenanigans-brewing-co--flight-path/743046"
+country: "Australia"
 brewery: "Shenanigans Brewing Co."
 breweryURL: "https://untappd.com/w/shenanigans-brewing-co-/104449"
 style: "Red Ale - American Amber / Red"

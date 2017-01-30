@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-benediktiner.md
 title: Benediktiner
 untappd: "https://untappd.com/b/benediktiner-weibbrau-benediktiner-weissbier/103362"
+country: "Germany"
 brewery: "Benediktiner Weißbräu"
 breweryURL: "https://untappd.com/w/benediktiner-weibbrau/139655"
 style: "Hefeweizen"

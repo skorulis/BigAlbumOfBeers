@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-gallway-hooker.md
 title: Gallway hooker
 untappd: "https://untappd.com/b/galway-hooker-brewery-galway-hooker-irish-pale-ale/34640"
+country: "Ireland"
 brewery: "Galway Hooker Brewery"
 breweryURL: "https://untappd.com/w/galway-hooker-brewery/8835"
 style: "Pale Ale - American"

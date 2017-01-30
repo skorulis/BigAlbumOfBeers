@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bellerose-blanc.md
 title: Bellerose Blanc
 untappd: "https://untappd.com/b/brasserie-des-sources-bellerose-biere-blonde-extra/289546"
+country: "France"
 brewery: "Brasserie des Sources"
 breweryURL: "https://untappd.com/w/brasserie-des-sources/27136"
 style: "Blonde Ale"

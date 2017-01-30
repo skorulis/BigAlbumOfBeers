@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-murrays-rudeboy.md
 title: Murray’s rudeboy
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-rudeboy-pilsner/116680"
+country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "https://untappd.com/w/murrays-craft-brewing-co/2557"
 style: "Pilsner - German"

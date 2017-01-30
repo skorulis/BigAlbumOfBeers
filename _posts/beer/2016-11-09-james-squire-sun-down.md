@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-james-squire-sun-down.md
 title: James squire sun down
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-sundown-lager/8232"
+country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 style: "Lager - Pale"

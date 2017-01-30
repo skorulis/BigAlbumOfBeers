@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sambrooks-pale-ale.md
 title: Sambrooks pale ale
 untappd: "https://untappd.com/b/sambrooks-brewery-london-pale-ale/770933"
+country: "United Kingdom"
 brewery: "Sambrook's Brewery"
 breweryURL: "https://untappd.com/w/sambrooks-brewery/8500"
 style: "Pale Ale - English"

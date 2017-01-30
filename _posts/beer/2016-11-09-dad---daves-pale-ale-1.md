@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-dad---daves-pale-ale-1.md
 title: Dad & Dave’s Pale ale #1
 untappd: "https://untappd.com/b/dad---daves-brewing-1-pale-ale/203197"
+country: "Australia"
 brewery: "Dad & Dave's Brewing"
 breweryURL: "https://untappd.com/w/dad---daves-brewing/34849"
 style: "Pale Ale - Australian"

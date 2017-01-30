@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-great-northern-lager.md
 title: Great northern lager
 untappd: "https://untappd.com/b/great-northern-brewing-co--super-crisp-lager/230949"
+country: "Australia"
 brewery: "Great Northern Brewing Co."
 breweryURL: "https://untappd.com/w/great-northern-brewing-co-/40002"
 style: "Lager - North American Adjunct"

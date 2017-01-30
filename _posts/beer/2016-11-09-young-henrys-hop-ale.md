@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-young-henrys-hop-ale.md
 title: Young Henry's hop ale
 untappd: "https://untappd.com/b/young-henrys-brewing-company-hop-ale/164974"
+country: "Australia"
 brewery: "Young Henrys Brewing Company"
 breweryURL: "https://untappd.com/w/young-henrys-brewing-company/28042"
 style: "Rye Beer"

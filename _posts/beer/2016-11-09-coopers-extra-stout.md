@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-coopers-extra-stout.md
 title: Coopers extra stout
 untappd: "https://untappd.com/b/coopers-brewery-best-extra-stout/4933"
+country: "Australia"
 brewery: "Coopers Brewery"
 breweryURL: "https://untappd.com/w/coopers-brewery/397"
 style: "Stout - Foreign / Export"

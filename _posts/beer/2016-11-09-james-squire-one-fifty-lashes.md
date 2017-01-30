@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-james-squire-one-fifty-lashes.md
 title: James squire one fifty lashes
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-one-fifty-lashes-pale-ale/55904"
+country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 style: "Pale Ale - Australian"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kestrel-super-lager.md
 title: Kestrel Super lager
 untappd: "https://untappd.com/b/caledonian-brewing-company--kestrel-super-premium/1572472"
+country: "United Kingdom"
 brewery: "Caledonian Brewing Company "
 breweryURL: "https://untappd.com/w/caledonian-brewing-company-/2071"
 style: "Lager - Euro Strong"

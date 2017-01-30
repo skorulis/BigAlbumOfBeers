@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lord-nelson-dead-ahead.md
 title: Lord Nelson dead ahead
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-dead-ahead-175th-anniversary-ale/1460876"
+country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
 style: "Golden Ale"

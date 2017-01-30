@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brok-export.md
 title: BROK export
 untappd: "https://untappd.com/b/browar-w-koszalinie--van-pur--brok-export/85096"
+country: "Poland"
 brewery: "Browar w Koszalinie (Van Pur)"
 breweryURL: "https://untappd.com/w/browar-w-koszalinie--van-pur-/16852"
 style: "Lager - Euro"

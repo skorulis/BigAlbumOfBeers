@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-stockade-ipa.md
 title: Stockade IPA
 untappd: "https://untappd.com/b/stockade-brew-co-ipa/855617"
+country: "Australia"
 brewery: "Stockade Brew Co"
 breweryURL: "https://untappd.com/w/stockade-brew-co/86357"
 style: "IPA - American"

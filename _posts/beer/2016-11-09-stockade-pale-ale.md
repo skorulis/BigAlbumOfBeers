@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-stockade-pale-ale.md
 title: Stockade pale ale
 untappd: "https://untappd.com/b/stockade-brew-co-stockade-pale-ale/784796"
+country: "Australia"
 brewery: "Stockade Brew Co"
 breweryURL: "https://untappd.com/w/stockade-brew-co/86357"
 style: "Pale Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-carlsberg.md
 title: Carlsberg
 untappd: "https://untappd.com/b/carlsberg-group-carlsberg/5991"
+country: "Denmark"
 brewery: "Carlsberg Group"
 breweryURL: "https://untappd.com/w/carlsberg-group/344"
 style: "Lager - Euro"

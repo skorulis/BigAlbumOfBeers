@@ -2,6 +2,7 @@
 layout: beer
 filename: _posts/beer/2016-11-09-skorubrew-stout-4.md
 title: Skorubrew stout #4
+country: "Australia"
 brewery: "Skorubrew"
 breweryURL: "http://homebrew.skorulis.com"
 style: "Stout - Other"

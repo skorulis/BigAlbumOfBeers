@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sagres-bohemia.md
 title: Sagres Bohemia
 untappd: "https://untappd.com/b/sociedade-central-de-cervejas-e-bebidas-sa-bohemia-original/347897"
+country: "Portugal"
 brewery: "Sociedade Central de Cervejas e Bebidas SA"
 breweryURL: "https://untappd.com/w/sociedade-central-de-cervejas-e-bebidas-sa/54809"
 style: "Lager - Dunkel Munich"

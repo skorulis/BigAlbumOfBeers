@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-west-end-draught.md
 title: West end draught
 untappd: "https://untappd.com/b/west-end-brewery-draught/15461"
+country: "Australia"
 brewery: "West End Brewery"
 breweryURL: "https://untappd.com/w/west-end-brewery/4048"
 style: "Lager - Pale"

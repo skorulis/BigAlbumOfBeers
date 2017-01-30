@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-king-goblin.md
 title: King goblin
 untappd: "https://untappd.com/b/wychwood-brewery-king-goblin/15490"
+country: "United Kingdom"
 brewery: "Wychwood Brewery"
 breweryURL: "https://untappd.com/w/wychwood-brewery/1376"
 style: "Strong Ale - English"

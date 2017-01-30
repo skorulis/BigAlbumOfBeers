@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-snaatch-lager.md
 title: Snaatch lager
 untappd: "https://untappd.com/b/sydney-brewery-snaatch-lager/1017209"
+country: "Australia"
 brewery: "Sydney Brewery"
 breweryURL: "https://untappd.com/w/sydney-brewery/2984"
 style: "Lager - Pale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-big-shed-kol-schisel.md
 title: Big shed Kol schisel
 untappd: "https://untappd.com/b/big-shed-brewing-concern-kolschisel/1138211"
+country: "Australia"
 brewery: "Big Shed Brewing Concern"
 breweryURL: "https://untappd.com/w/big-shed-brewing-concern/102851"
 style: "Kölsch"

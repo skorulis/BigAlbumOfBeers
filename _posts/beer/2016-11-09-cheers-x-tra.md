@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cheers-x-tra.md
 title: Cheers X-tra
 untappd: "https://untappd.com/b/thai-asia-pacific-brewery-cheers-x-tra/17453"
+country: "Thailand"
 brewery: "Thai Asia Pacific Brewery"
 breweryURL: "https://untappd.com/w/thai-asia-pacific-brewery/4713"
 style: "Lager - Euro Strong"

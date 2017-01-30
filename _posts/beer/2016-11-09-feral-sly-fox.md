@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-feral-sly-fox.md
 title: Feral sly fox
 untappd: "https://untappd.com/b/feral-brewing-company-sly-fox/461809"
+country: "Australia"
 brewery: "Feral Brewing Company"
 breweryURL: "https://untappd.com/w/feral-brewing-company/3162"
 style: "Pale Ale - Australian"

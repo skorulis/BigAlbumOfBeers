@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-green-king-ipa.md
 title: Green king ipa
 untappd: "https://untappd.com/b/greene-king-greene-king-ipa/6716"
+country: "United Kingdom"
 brewery: "Greene King"
 breweryURL: "https://untappd.com/w/greene-king/612"
 style: "IPA - English"

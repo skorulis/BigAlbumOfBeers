@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-boatrocker-tripel.md
 title: Boatrocker tripel
 untappd: "https://untappd.com/b/boatrocker-brewing-company-tripel--2016-/1655630"
+country: "Australia"
 brewery: "Boatrocker Brewing Company"
 breweryURL: "https://untappd.com/w/boatrocker-brewing-company/3106"
 style: "Belgian Tripel"

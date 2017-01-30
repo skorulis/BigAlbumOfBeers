@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-monkeys-fist.md
 title: Monkey’s Fist
 untappd: "https://untappd.com/b/sail---anchor-monkeys-fist/243916"
+country: "Australia"
 brewery: "Sail & Anchor"
 breweryURL: "https://untappd.com/w/sail---anchor/3325"
 style: "Pale Ale - American"

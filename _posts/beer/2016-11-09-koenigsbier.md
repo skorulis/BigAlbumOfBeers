@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-koenigsbier.md
 title: Koenigsbier
 untappd: "https://untappd.com/b/karlsberg-brauerei-koenigsbier/220958"
+country: "Germany"
 brewery: "Karlsberg Brauerei"
 breweryURL: "https://untappd.com/w/karlsberg-brauerei/13820"
 style: "Lager - Pale"

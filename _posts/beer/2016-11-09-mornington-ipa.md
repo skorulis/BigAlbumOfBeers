@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mornington-ipa.md
 title: Mornington IPA
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-ipa/14878"
+country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
 style: "IPA - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-clare-valley-bulls-eye.md
 title: Clare valley bulls eye
 untappd: "https://untappd.com/b/clare-valley-brewing-co--bulls-eye/439975"
+country: "Australia"
 brewery: "Clare Valley Brewing Co."
 breweryURL: "https://untappd.com/w/clare-valley-brewing-co-/76384"
 style: "Pale Ale - Australian"

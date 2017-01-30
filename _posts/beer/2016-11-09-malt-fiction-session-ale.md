@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-malt-fiction-session-ale.md
 title: Malt fiction session ale
 untappd: "https://untappd.com/b/malt-fiction-session-ale/1408815"
+country: "Australia"
 brewery: "Malt Fiction"
 breweryURL: "https://untappd.com/w/malt-fiction/184931"
 style: "Pale Ale - American"

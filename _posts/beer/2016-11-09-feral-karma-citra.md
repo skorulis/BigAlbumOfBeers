@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-feral-karma-citra.md
 title: Feral karma citra
 untappd: "https://untappd.com/b/feral-brewing-company-karma-citra/28985"
+country: "Australia"
 brewery: "Feral Brewing Company"
 breweryURL: "https://untappd.com/w/feral-brewing-company/3162"
 style: "IPA - Black / Cascadian Dark Ale"

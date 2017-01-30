@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-fox-hat-phat-mongrel.md
 title: Fox hat phat mongrel
 untappd: "https://untappd.com/b/fox-hat-brewing-phat-mongrel/1023357"
+country: "Australia"
 brewery: "Fox Hat Brewing"
 breweryURL: "https://untappd.com/w/fox-hat-brewing/193696"
 style: "Stout - Oatmeal"

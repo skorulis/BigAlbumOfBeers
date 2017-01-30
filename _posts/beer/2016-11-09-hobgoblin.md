@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hobgoblin.md
 title: Hobgoblin
 untappd: "https://untappd.com/b/wychwood-brewery-hobgoblin/5875"
+country: "United Kingdom"
 brewery: "Wychwood Brewery"
 breweryURL: "https://untappd.com/w/wychwood-brewery/1376"
 style: "Brown Ale - English"

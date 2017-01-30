@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-founders-dirty-bastard.md
 title: Founders Dirty Bastard
 untappd: "https://untappd.com/b/founders-brewing-co--dirty-bastard/1013"
+country: "United States"
 brewery: "Founders Brewing Co."
 breweryURL: "https://untappd.com/w/founders-brewing-co-/549"
 style: "Scottish Ale"

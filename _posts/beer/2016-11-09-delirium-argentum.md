@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-delirium-argentum.md
 title: Delirium Argentum
 untappd: "https://untappd.com/b/brouwerij-huyghe-delirium-argentum/800757"
+country: "Belgium"
 brewery: "Brouwerij Huyghe"
 breweryURL: "https://untappd.com/w/brouwerij-huyghe/285"
 style: "IPA - Belgian"

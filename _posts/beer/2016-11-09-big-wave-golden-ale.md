@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-big-wave-golden-ale.md
 title: Big wave golden ale
 untappd: "https://untappd.com/b/kona-brewing-company-big-wave-golden-ale/9657"
+country: "United States"
 brewery: "Kona Brewing Company"
 breweryURL: "https://untappd.com/w/kona-brewing-company/1988"
 style: "Golden Ale"

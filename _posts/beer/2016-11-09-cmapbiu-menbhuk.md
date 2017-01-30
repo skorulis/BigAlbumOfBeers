@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cmapbiu-menbhuk.md
 title: Cmapbiu Menbhuk
 untappd: "https://untappd.com/b/moscow-efes-brewery--pivovarnya-moskva-efyes--stary-melnik-iz-bochonka-temnoye--staryj-myelnik-iz-bochonka-tyemnoye-/430618"
+country: "Russian Federation"
 brewery: "Moscow-Efes Brewery (Пивоварня Москва-Эфес)"
 breweryURL: "https://untappd.com/w/moscow-efes-brewery--pivovarnya-moskva-efyes-/33116"
 style: "Lager - Euro Dark"

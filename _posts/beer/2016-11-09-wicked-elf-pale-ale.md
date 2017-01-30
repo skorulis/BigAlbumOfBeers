@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wicked-elf-pale-ale.md
 title: Wicked elf pale ale
 untappd: "https://untappd.com/b/the-little-brewing-company-wicked-elf-pale-ale/13574"
+country: "Australia"
 brewery: "The Little Brewing Company"
 breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
 style: "Pale Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pride-of-oxford.md
 title: Pride of Oxford
 untappd: "https://untappd.com/b/oxfordshire-ales-pride-of-oxford/45175"
+country: "United Kingdom"
 brewery: "Oxfordshire Ales"
 breweryURL: "https://untappd.com/w/oxfordshire-ales/7242"
 style: "Golden Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-houblon-chouffe-double-ipa-triple.md
 title: Houblon Chouffe Double IPA Triple
 untappd: "https://untappd.com/b/brasserie-dachouffe-houblon-chouffe/230"
+country: "Belgium"
 brewery: "Brasserie d'Achouffe"
 breweryURL: "https://untappd.com/w/brasserie-dachouffe/11866"
 style: "IPA - Belgian"

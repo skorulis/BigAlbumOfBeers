@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-prancing-pony-sunshine-ale.md
 title: Prancing pony sunshine ale
 untappd: "https://untappd.com/b/prancing-pony-brewery-sunshine-ale/999204"
+country: "Australia"
 brewery: "Prancing Pony Brewery"
 breweryURL: "https://untappd.com/w/prancing-pony-brewery/46696"
 style: "Blonde Ale"

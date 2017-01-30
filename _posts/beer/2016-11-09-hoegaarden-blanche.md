@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hoegaarden-blanche.md
 title: Hoegaarden blanche
 untappd: "https://untappd.com/b/brouwerij-van-hoegaarden-hoegaarden-blanche/6422"
+country: "Belgium"
 brewery: "Brouwerij van Hoegaarden"
 breweryURL: "https://untappd.com/w/brouwerij-van-hoegaarden/302"
 style: "Witbier"

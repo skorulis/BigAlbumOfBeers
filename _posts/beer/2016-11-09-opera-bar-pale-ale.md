@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-opera-bar-pale-ale.md
 title: Opera bar pale ale
 untappd: "https://untappd.com/b/opera-bar-opera-bar-organic-pale-ale/327314"
+country: "Australia"
 brewery: "Opera Bar"
 breweryURL: "https://untappd.com/w/opera-bar/57747"
 style: "Pale Ale - American"

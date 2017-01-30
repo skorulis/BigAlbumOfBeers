@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-holgate-hopinator.md
 title: Holgate hopinator
 untappd: "https://untappd.com/b/holgate-brewhouse-hopinator--2015-/1046284"
+country: "Australia"
 brewery: "Holgate Brewhouse"
 breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
 style: "IPA - Imperial / Double"

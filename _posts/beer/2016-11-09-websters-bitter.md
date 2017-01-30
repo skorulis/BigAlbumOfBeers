@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-websters-bitter.md
 title: Webster's Bitter
 untappd: "https://untappd.com/b/john-smiths-websters-yorkshire-bitter/390603"
+country: "United Kingdom"
 brewery: "John Smith's"
 breweryURL: "https://untappd.com/w/john-smiths/1816"
 style: "English Bitter"

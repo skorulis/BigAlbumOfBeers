@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-march-of-the-penguins.md
 title: March of the Penguins
 untappd: "https://untappd.com/b/williams-brothers-brewing-co--march-of-the-penguins/34067"
+country: "United Kingdom"
 brewery: "Williams Brothers Brewing Co."
 breweryURL: "https://untappd.com/w/williams-brothers-brewing-co-/1367"
 style: "Stout - Other"

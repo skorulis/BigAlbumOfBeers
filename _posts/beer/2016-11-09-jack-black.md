@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-jack-black.md
 title: Jack Black
 untappd: "https://untappd.com/b/brains-jack-black/184233"
+country: "Wales"
 brewery: "Brains"
 breweryURL: "https://untappd.com/w/brains/3779"
 style: "Stout - Oatmeal"

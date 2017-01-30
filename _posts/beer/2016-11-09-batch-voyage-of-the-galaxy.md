@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-batch-voyage-of-the-galaxy.md
 title: Batch voyage of the Galaxy
 untappd: "https://untappd.com/b/batch-brewing-company-voyage-of-the-galaxy/1300263"
+country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
 style: "Pale Ale - Australian"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-the-boxer-red-ale.md
 title: The boxer red ale
 untappd: "https://untappd.com/b/rocks-brewing-co-the-boxer/37299"
+country: "Australia"
 brewery: "Rocks Brewing Co"
 breweryURL: "https://untappd.com/w/rocks-brewing-co/3242"
 style: "Red Ale - Irish"

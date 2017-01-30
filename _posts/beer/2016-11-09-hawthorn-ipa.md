@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hawthorn-ipa.md
 title: Hawthorn IPA
 untappd: "https://untappd.com/b/hawthorn-brewing-company-australian-ipa/240943"
+country: "Australia"
 brewery: "Hawthorn Brewing Company"
 breweryURL: "https://untappd.com/w/hawthorn-brewing-company/6931"
 style: "IPA - American"

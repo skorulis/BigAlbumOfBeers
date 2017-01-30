@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-coopers-clear.md
 title: Coopers Clear
 untappd: "https://untappd.com/b/coopers-brewery-clear/6096"
+country: "Australia"
 brewery: "Coopers Brewery"
 breweryURL: "https://untappd.com/w/coopers-brewery/397"
 style: "Lager - American Light"

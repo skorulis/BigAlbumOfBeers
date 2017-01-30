@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-holland-import.md
 title: Holland import
 untappd: "https://untappd.com/b/h-west-b-v--holland-import/628484"
+country: "Netherlands"
 brewery: "H-West B.V."
 breweryURL: "https://untappd.com/w/h-west-b-v-/4066"
 style: "Pilsner - Other"

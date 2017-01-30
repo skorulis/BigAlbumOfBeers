@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-rheinbacher.md
 title: Rheinbacher
 untappd: "https://untappd.com/b/aldi-stores-uk-rheinbacher-premium-pils/436383"
+country: "United Kingdom"
 brewery: "ALDI Stores UK"
 breweryURL: "https://untappd.com/w/aldi-stores-uk/24518"
 style: "Pilsner - German"

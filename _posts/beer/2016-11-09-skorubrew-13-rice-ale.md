@@ -2,6 +2,7 @@
 layout: beer
 filename: _posts/beer/2016-11-09-skorubrew-13-rice-ale.md
 title: Skorubrew #13 rice ale
+country: "Australia"
 brewery: "Skorubrew"
 breweryURL: "http://homebrew.skorulis.com"
 style: "Pale Ale - Australian"

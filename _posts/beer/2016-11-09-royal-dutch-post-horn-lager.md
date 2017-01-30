@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-royal-dutch-post-horn-lager.md
 title: Royal Dutch Post Horn Lager
 untappd: "https://untappd.com/b/united-dutch-breweries-royal-dutch-post-horn-lager/61806"
+country: "Netherlands"
 brewery: "United Dutch Breweries"
 breweryURL: "https://untappd.com/w/united-dutch-breweries/11478"
 style: "Lager - Pale"

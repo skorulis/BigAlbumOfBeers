@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-james-squire-nine-tails.md
 title: James squire nine tails
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-nine-tales-amber-ale/10808"
+country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 style: "Brown Ale - English"

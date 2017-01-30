@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mildura-astor-ale.md
 title: Mildura Astor Ale
 untappd: "https://untappd.com/b/mildura-brewery-astor-ale/536443"
+country: "Australia"
 brewery: "Mildura Brewery"
 breweryURL: "https://untappd.com/w/mildura-brewery/3345"
 style: "Pale Ale - Australian"

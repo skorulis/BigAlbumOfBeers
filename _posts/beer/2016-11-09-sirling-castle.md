@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sirling-castle.md
 title: Sirling castle
 untappd: "https://untappd.com/b/australian-beer-company-stirling-castle-ipa/821263"
+country: "Australia"
 brewery: "Australian Beer Company"
 breweryURL: "https://untappd.com/w/australian-beer-company/101175"
 style: "IPA - English"

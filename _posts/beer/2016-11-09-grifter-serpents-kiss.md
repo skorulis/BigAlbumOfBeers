@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-grifter-serpents-kiss.md
 title: Grifter Serpents kiss
 untappd: "https://untappd.com/b/grifter-brewing-company-serpents-kiss/1264865"
+country: "Australia"
 brewery: "Grifter Brewing Company"
 breweryURL: "https://untappd.com/w/grifter-brewing-company/32845"
 style: "Pilsner - Other"

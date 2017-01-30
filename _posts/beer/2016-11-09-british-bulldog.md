@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-british-bulldog.md
 title: British Bulldog
 untappd: "https://untappd.com/b/westerham-brewery-company-ltd--british-bulldog/44784"
+country: "United Kingdom"
 brewery: "Westerham Brewery Company Ltd."
 breweryURL: "https://untappd.com/w/westerham-brewery-company-ltd-/2806"
 style: "English Bitter"

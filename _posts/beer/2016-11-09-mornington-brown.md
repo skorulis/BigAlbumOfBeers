@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mornington-brown.md
 title: Mornington brown
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-brown/36750"
+country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
 style: "Brown Ale - English"

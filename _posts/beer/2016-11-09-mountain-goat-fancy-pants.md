@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mountain-goat-fancy-pants.md
 title: Mountain goat fancy pants
 untappd: "https://untappd.com/b/mountain-goat-beer-fancy-pants/44915"
+country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "https://untappd.com/w/mountain-goat-beer/4055"
 style: "Red Ale - American Amber / Red"

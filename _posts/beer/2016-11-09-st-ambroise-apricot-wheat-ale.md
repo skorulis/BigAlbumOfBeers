@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-st-ambroise-apricot-wheat-ale.md
 title: St-ambroise Apricot wheat ale
 untappd: "https://untappd.com/b/brasserie-mcauslan--st-ambroise--st-ambroise-abricot--apricot-wheat-ale-/29851"
+country: "Canada"
 brewery: "Brasserie McAuslan (St-Ambroise)"
 breweryURL: "https://untappd.com/w/brasserie-mcauslan--st-ambroise-/198"
 style: "Fruit Beer"

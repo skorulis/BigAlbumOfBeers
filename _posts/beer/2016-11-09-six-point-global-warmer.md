@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-six-point-global-warmer.md
 title: Six point Global Warmer
 untappd: "https://untappd.com/b/sixpoint-brewery-global-warmer/447370"
+country: "United States"
 brewery: "Sixpoint Brewery"
 breweryURL: "https://untappd.com/w/sixpoint-brewery/1149"
 style: "Red Ale - Imperial / Double"

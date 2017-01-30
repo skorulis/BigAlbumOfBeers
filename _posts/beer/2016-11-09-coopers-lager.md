@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-coopers-lager.md
 title: Coopers Lager
 untappd: "https://untappd.com/b/coopers-brewery-premium-lager/4929"
+country: "Australia"
 brewery: "Coopers Brewery"
 breweryURL: "https://untappd.com/w/coopers-brewery/397"
 style: "Lager - Pale"

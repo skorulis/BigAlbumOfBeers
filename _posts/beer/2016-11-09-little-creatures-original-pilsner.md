@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-little-creatures-original-pilsner.md
 title: Little creatures original pilsner
 untappd: "https://untappd.com/b/little-creatures-brewing-original-pilsner/19295"
+country: "Australia"
 brewery: "Little Creatures Brewing"
 breweryURL: "https://untappd.com/w/little-creatures-brewing/2560"
 style: "Pilsner - Other"

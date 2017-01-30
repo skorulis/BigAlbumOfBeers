@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mountain-goat-hightail-ale.md
 title: Mountain goat hightail ale
 untappd: "https://untappd.com/b/mountain-goat-beer-hightail-ale/9234"
+country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "https://untappd.com/w/mountain-goat-beer/4055"
 style: "Red Ale - American Amber / Red"

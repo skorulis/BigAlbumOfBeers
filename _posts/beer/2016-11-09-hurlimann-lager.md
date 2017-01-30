@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hurlimann-lager.md
 title: Hürlimann lager
 untappd: "https://untappd.com/b/feldschlosschen-hurlimann-lager/12111"
+country: "Switzerland"
 brewery: "Feldschlösschen"
 breweryURL: "https://untappd.com/w/feldschlosschen/3058"
 style: "Lager - Euro"

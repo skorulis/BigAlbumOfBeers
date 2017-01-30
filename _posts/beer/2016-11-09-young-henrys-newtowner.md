@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-young-henrys-newtowner.md
 title: Young Henry's newtowner
 untappd: "https://untappd.com/b/young-henrys-brewing-company-newtowner/273570"
+country: "Australia"
 brewery: "Young Henrys Brewing Company"
 breweryURL: "https://untappd.com/w/young-henrys-brewing-company/28042"
 style: "Pale Ale - Australian"

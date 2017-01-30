@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-anderson-valley-holy-gose.md
 title: Anderson valley holy gose
 untappd: "https://untappd.com/b/anderson-valley-brewing-company-the-kimmie--the-yink---the-holy-gose-ale/468518"
+country: "United States"
 brewery: "Anderson Valley Brewing Company"
 breweryURL: "https://untappd.com/w/anderson-valley-brewing-company/3880"
 style: "Sour - Gose"

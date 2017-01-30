@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lord-nelson-old-admiral.md
 title: Lord Nelson old admiral
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-old-admiral/45881"
+country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
 style: "Strong Ale - English"

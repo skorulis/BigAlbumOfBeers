@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-little-creatures-dog-days.md
 title: Little creatures dog days
 untappd: "https://untappd.com/b/little-creatures-brewing-dog-days-summer-beer/1238567"
+country: "Australia"
 brewery: "Little Creatures Brewing"
 breweryURL: "https://untappd.com/w/little-creatures-brewing/2560"
 style: "Golden Ale"

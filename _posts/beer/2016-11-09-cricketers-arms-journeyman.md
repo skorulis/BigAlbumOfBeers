@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cricketers-arms-journeyman.md
 title: Cricketers arms journeyman
 untappd: "https://untappd.com/b/cricketers-arms-journeyman/870829"
+country: "Australia"
 brewery: "Cricketers Arms"
 breweryURL: "https://untappd.com/w/cricketers-arms/6998"
 style: "Lager - Pale"

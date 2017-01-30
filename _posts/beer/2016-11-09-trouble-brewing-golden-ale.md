@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-trouble-brewing-golden-ale.md
 title: Trouble brewing golden ale
 untappd: "https://untappd.com/b/trouble-brewing-deception-golden-ale/398230"
+country: "Ireland"
 brewery: "Trouble Brewing"
 breweryURL: "https://untappd.com/w/trouble-brewing/13906"
 style: "Golden Ale"

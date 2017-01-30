@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-melbourne-bitter.md
 title: Melbourne bitter
 untappd: "https://untappd.com/b/carlton---united-breweries-melbourne-bitter/5984"
+country: "Australia"
 brewery: "Carlton & United Breweries"
 breweryURL: "https://untappd.com/w/carlton---united-breweries/4045"
 style: "Lager - Pale"

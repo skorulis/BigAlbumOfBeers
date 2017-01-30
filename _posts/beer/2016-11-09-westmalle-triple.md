@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-westmalle-triple.md
 title: Westmalle triple
 untappd: "https://untappd.com/b/brouwerij-der-trappisten-van-westmalle-westmalle-trappist-tripel/487"
+country: "Belgium"
 brewery: "Brouwerij der Trappisten van Westmalle"
 breweryURL: "https://untappd.com/w/brouwerij-der-trappisten-van-westmalle/262"
 style: "Belgian Tripel"

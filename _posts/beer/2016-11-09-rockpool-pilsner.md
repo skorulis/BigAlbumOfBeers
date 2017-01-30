@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-rockpool-pilsner.md
 title: Rockpool Pilsner
 untappd: "https://untappd.com/b/rockpool-new-world-pilsner/865487"
+country: "Australia"
 brewery: "Rockpool"
 breweryURL: "https://untappd.com/w/rockpool/166490"
 style: "Pilsner - Other"

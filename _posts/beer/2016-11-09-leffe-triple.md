@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-leffe-triple.md
 title: Leffe Triple
 untappd: "https://untappd.com/b/abbaye-de-leffe-leffe-triple--tripel/5943"
+country: "Belgium"
 brewery: "Abbaye de Leffe"
 breweryURL: "https://untappd.com/w/abbaye-de-leffe/5"
 style: "Belgian Tripel"

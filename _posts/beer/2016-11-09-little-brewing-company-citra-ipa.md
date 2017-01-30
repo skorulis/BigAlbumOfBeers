@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-little-brewing-company-citra-ipa.md
 title: Little brewing company citra IPA
 untappd: "https://untappd.com/b/the-little-brewing-company-citra-ipa/1262286"
+country: "Australia"
 brewery: "The Little Brewing Company"
 breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
 style: "IPA - American"

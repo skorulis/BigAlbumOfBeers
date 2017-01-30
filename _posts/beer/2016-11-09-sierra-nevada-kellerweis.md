@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sierra-nevada-kellerweis.md
 title: Sierra Nevada kellerweis
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--kellerweis/5374"
+country: "United States"
 brewery: "Sierra Nevada Brewing Co."
 breweryURL: "https://untappd.com/w/sierra-nevada-brewing-co-/1142"
 style: "Hefeweizen"

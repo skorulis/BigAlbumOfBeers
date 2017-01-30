@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-smithwicks.md
 title: Smithwicks
 untappd: "https://untappd.com/b/guinness-smithwicks/13388"
+country: "Ireland"
 brewery: "Guinness"
 breweryURL: "https://untappd.com/w/guinness/49"
 style: "Red Ale - Irish"

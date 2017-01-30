@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-timothy-taylor-landlord.md
 title: Timothy Taylor Landlord
 untappd: "https://untappd.com/b/timothy-taylor---co--ltd-landlord/8676"
+country: "United Kingdom"
 brewery: "Timothy Taylor & Co. Ltd"
 breweryURL: "https://untappd.com/w/timothy-taylor---co--ltd/2386"
 style: "Pale Ale - English"

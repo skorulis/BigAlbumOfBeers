@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-la-trappe-quadrupel.md
 title: La Trappe Quadrupel
 untappd: "https://untappd.com/b/bierbrouwerij-de-koningshoeven-la-trappe-quadrupel/1830"
+country: "Netherlands"
 brewery: "Bierbrouwerij De Koningshoeven"
 breweryURL: "https://untappd.com/w/bierbrouwerij-de-koningshoeven/110"
 style: "Belgian Quad"

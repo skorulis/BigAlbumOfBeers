@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bling-bling-imperial-ipa.md
 title: Bling Bling Imperial IPA
 untappd: "https://untappd.com/b/bridge-road-brewers-bling-bling-imperial-ipa/313884"
+country: "Australia"
 brewery: "Bridge Road Brewers"
 breweryURL: "https://untappd.com/w/bridge-road-brewers/3174"
 style: "IPA - Imperial / Double"

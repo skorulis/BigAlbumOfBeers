@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-koshihikari-rice-beer.md
 title: Koshihikari rice beer
 untappd: "https://untappd.com/b/kankiku-meijyo-co--koshihikari-rice-ale/766178"
+country: "Japan"
 brewery: "Kankiku Meijyo Co."
 breweryURL: "https://untappd.com/w/kankiku-meijyo-co-/16139"
 style: "Pale Ale - International"

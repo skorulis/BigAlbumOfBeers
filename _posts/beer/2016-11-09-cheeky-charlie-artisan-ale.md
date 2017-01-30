@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cheeky-charlie-artisan-ale.md
 title: Cheeky Charlie artisan ale
 untappd: "https://untappd.com/b/3-pub-circus-artisan-ale/1281268"
+country: "Australia"
 brewery: "3 Pub Circus"
 breweryURL: "https://untappd.com/w/3-pub-circus/231249"
 style: "Pale Ale - Australian"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-rye-hard-ipa.md
 title: Rye hard IPA
 untappd: "https://untappd.com/b/temple-brewing-co--rye-hard/660189"
+country: "Australia"
 brewery: "Temple Brewing Co."
 breweryURL: "https://untappd.com/w/temple-brewing-co-/3805"
 style: "Rye Beer"

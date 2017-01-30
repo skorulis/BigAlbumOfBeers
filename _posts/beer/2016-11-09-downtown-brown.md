@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-downtown-brown.md
 title: Downtown Brown
 untappd: "https://untappd.com/b/lost-coast-brewery-downtown-brown/1402"
+country: "United States"
 brewery: "Lost Coast Brewery"
 breweryURL: "https://untappd.com/w/lost-coast-brewery/803"
 style: "Brown Ale - English"

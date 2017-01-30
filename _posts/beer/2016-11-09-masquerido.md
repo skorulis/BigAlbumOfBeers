@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-masquerido.md
 title: Masquerido
 untappd: "https://untappd.com/b/the-melchers-group-masquerido-tequila/541780"
+country: "Netherlands"
 brewery: "The Melchers Group"
 breweryURL: "https://untappd.com/w/the-melchers-group/73744"
 style: "Lager - Pale"

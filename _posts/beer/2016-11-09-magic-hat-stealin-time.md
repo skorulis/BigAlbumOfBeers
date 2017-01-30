@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-magic-hat-stealin-time.md
 title: Magic hat Stealin time
 untappd: "https://untappd.com/b/magic-hat-brewing-company-stealin-time/971879"
+country: "United States"
 brewery: "Magic Hat Brewing Company"
 breweryURL: "https://untappd.com/w/magic-hat-brewing-company/812"
 style: "Pale Wheat Ale - American"

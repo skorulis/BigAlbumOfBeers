@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-augustinerbrau.md
 title: Augustinerbrau
 untappd: "https://untappd.com/b/augustiner-brau-munchen-lagerbier-hell/9254"
+country: "Germany"
 brewery: "Augustiner-Bräu München"
 breweryURL: "https://untappd.com/w/augustiner-brau-munchen/8444"
 style: "Lager - Helles"

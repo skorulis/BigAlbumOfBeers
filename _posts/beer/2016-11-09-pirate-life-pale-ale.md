@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pirate-life-pale-ale.md
 title: Pirate Life Pale Ale
 untappd: "https://untappd.com/b/pirate-life-brewing-pale-ale/995555"
+country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "https://untappd.com/w/pirate-life-brewing/189380"
 style: "Pale Ale - American"

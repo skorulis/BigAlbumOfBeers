@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bristol-beer-factory-independence.md
 title: Bristol beer factory independence
 untappd: "https://untappd.com/b/bristol-beer-factory-independence/60839"
+country: "United Kingdom"
 brewery: "Bristol Beer Factory"
 breweryURL: "https://untappd.com/w/bristol-beer-factory/3503"
 style: "Pale Ale - American"

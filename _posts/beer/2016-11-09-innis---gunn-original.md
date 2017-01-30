@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-innis---gunn-original.md
 title: Innis & Gunn original
 untappd: "https://untappd.com/b/innis---gunn-original/24675"
+country: "United Kingdom"
 brewery: "Innis & Gunn"
 breweryURL: "https://untappd.com/w/innis---gunn/1673"
 style: "Scottish Export Ale"

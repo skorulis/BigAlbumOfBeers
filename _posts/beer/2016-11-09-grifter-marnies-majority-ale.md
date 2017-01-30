@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-grifter-marnies-majority-ale.md
 title: Grifter Marnie's majority ale
 untappd: "https://untappd.com/b/grifter-brewing-company-marnies-majority-ale/346762"
+country: "Australia"
 brewery: "Grifter Brewing Company"
 breweryURL: "https://untappd.com/w/grifter-brewing-company/32845"
 style: "IPA - American"

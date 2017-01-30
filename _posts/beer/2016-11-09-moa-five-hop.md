@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-moa-five-hop.md
 title: MOA Five hop
 untappd: "https://untappd.com/b/moa-brewing-company-five-hop/327352"
+country: "New Zealand"
 brewery: "Moa Brewing Company"
 breweryURL: "https://untappd.com/w/moa-brewing-company/1857"
 style: "IPA - English"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-belgian-noble-pale-ale.md
 title: Belgian Noble Pale ale
 untappd: "https://untappd.com/b/belgian-blue-brewing-company-belgian-noble/535456"
+country: "Belgium"
 brewery: "Belgian Blue Brewing Company"
 breweryURL: "https://untappd.com/w/belgian-blue-brewing-company/48082"
 style: "Pale Ale - Belgian"

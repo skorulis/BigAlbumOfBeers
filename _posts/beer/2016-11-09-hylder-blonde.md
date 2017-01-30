@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hylder-blonde.md
 title: Hylder Blonde
 untappd: "https://untappd.com/b/dark-star-brewing-co--hylder-blonde/49330"
+country: "United Kingdom"
 brewery: "Dark Star Brewing Co."
 breweryURL: "https://untappd.com/w/dark-star-brewing-co-/1513"
 style: "Blonde Ale"

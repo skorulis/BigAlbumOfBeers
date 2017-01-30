@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-badlands-ipa.md
 title: Badlands IPA
 untappd: "https://untappd.com/b/badlands-brewery-indian-pale-ale/96541"
+country: "Australia"
 brewery: "Badlands Brewery"
 breweryURL: "https://untappd.com/w/badlands-brewery/4322"
 style: "IPA - English"

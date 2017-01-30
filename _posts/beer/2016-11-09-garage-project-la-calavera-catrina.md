@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-garage-project-la-calavera-catrina.md
 title: Garage Project La Calavera Catrina
 untappd: "https://untappd.com/b/garage-project-la-calavera-catrina/255471"
+country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "https://untappd.com/w/garage-project/14539"
 style: "Spiced / Herbed Beer"

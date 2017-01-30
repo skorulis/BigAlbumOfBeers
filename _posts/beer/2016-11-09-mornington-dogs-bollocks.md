@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mornington-dogs-bollocks.md
 title: Mornington dogs bollocks
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-dogs-bollocks/1602188"
+country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
 style: "Extra Special / Strong Bitter"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-palm-hop-select.md
 title: Palm hop select
 untappd: "https://untappd.com/b/brouwerij-palm-palm-hop-select/325284"
+country: "Belgium"
 brewery: "Brouwerij Palm"
 breweryURL: "https://untappd.com/w/brouwerij-palm/967"
 style: "Pale Ale - Belgian"

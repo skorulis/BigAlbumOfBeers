@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-crest-super.md
 title: Crest Super
 untappd: "https://untappd.com/b/charles-wells-brewery-crest-super/42599"
+country: "United Kingdom"
 brewery: "Charles Wells Brewery"
 breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
 style: "Lager - Euro"

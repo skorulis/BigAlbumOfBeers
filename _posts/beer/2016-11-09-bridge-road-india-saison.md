@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bridge-road-india-saison.md
 title: Bridge road India Saison
 untappd: "https://untappd.com/b/nogne-o-india-saison/84508"
+country: "Norway"
 brewery: "Nøgne Ø"
 breweryURL: "https://untappd.com/w/nogne-o/923"
 style: "Saison / Farmhouse Ale"

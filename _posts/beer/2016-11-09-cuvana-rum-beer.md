@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cuvana-rum-beer.md
 title: Cuvana rum beer
 untappd: "https://untappd.com/b/beverage-brands-cuvana/299290"
+country: "United Kingdom"
 brewery: "Beverage Brands"
 breweryURL: "https://untappd.com/w/beverage-brands/41756"
 style: "Lager - Pale"

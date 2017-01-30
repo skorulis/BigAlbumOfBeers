@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-red-hill-scotch-ale.md
 title: Red hill Scotch ale
 untappd: "https://untappd.com/b/red-hill-brewery-scotch-ale/10814"
+country: "Australia"
 brewery: "Red Hill Brewery"
 breweryURL: "https://untappd.com/w/red-hill-brewery/2985"
 style: "Scotch Ale / Wee Heavy"

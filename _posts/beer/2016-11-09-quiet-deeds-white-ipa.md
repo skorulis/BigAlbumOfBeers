@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-quiet-deeds-white-ipa.md
 title: Quiet deeds white ipa
 untappd: "https://untappd.com/b/red-island-brewing-co--quiet-deeds-white-ipa/831986"
+country: "Australia"
 brewery: "Red Island Brewing Co."
 breweryURL: "https://untappd.com/w/red-island-brewing-co-/51713"
 style: "IPA - White"

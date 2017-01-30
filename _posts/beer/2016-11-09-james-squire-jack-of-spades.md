@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-james-squire-jack-of-spades.md
 title: James squire jack of spades
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-jack-of-spades-porter/79887"
+country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 style: "Porter - English"

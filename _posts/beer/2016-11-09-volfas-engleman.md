@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-volfas-engleman.md
 title: Volfas engleman
 untappd: "https://untappd.com/b/volfas-engelman-rinktinis/87115"
+country: "Lithuania"
 brewery: "Volfas Engelman"
 breweryURL: "https://untappd.com/w/volfas-engelman/22394"
 style: "Lager - Euro"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-carolus-classic.md
 title: Carolus classic
 untappd: "https://untappd.com/b/brouwerij-het-anker-gouden-carolus-classic/9087"
+country: "Belgium"
 brewery: "Brouwerij Het Anker"
 breweryURL: "https://untappd.com/w/brouwerij-het-anker/284"
 style: "Belgian Strong Dark Ale"

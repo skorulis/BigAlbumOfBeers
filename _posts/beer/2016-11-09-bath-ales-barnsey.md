@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bath-ales-barnsey.md
 title: Bath ales barnsey
 untappd: "https://untappd.com/b/bath-ales-barnsey/6249"
+country: "United Kingdom"
 brewery: "Bath Ales"
 breweryURL: "https://untappd.com/w/bath-ales/1464"
 style: "Dark Ale"

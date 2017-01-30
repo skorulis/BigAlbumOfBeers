@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bishops-finger.md
 title: Bishops finger
 untappd: "https://untappd.com/b/shepherd-neame-bishops-finger/2962"
+country: "United Kingdom"
 brewery: "Shepherd Neame"
 breweryURL: "https://untappd.com/w/shepherd-neame/1132"
 style: "Extra Special / Strong Bitter"

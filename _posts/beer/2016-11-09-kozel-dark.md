@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kozel-dark.md
 title: Kozel Dark
 untappd: "https://untappd.com/b/pivovar-velke-popovice-kozel-cerny--dark/70150"
+country: "Czech Republic"
 brewery: "Pivovar Velké Popovice"
 breweryURL: "https://untappd.com/w/pivovar-velke-popovice/135600"
 style: "Lager - Dark"

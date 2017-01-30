@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bingo-wings.md
 title: Bingo wings
 untappd: "https://untappd.com/b/hopdog-beerworks-bingo-wings/523022"
+country: "Australia"
 brewery: "HopDog BeerWorks"
 breweryURL: "https://untappd.com/w/hopdog-beerworks/15151"
 style: "Pale Wheat Ale - American"

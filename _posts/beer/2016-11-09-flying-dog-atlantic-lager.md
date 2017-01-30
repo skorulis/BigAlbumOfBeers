@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-flying-dog-atlantic-lager.md
 title: Flying dog Atlantic lager
 untappd: "https://untappd.com/b/flying-dog-brewery-underdog-atlantic-lager/109771"
+country: "United States"
 brewery: "Flying Dog Brewery"
 breweryURL: "https://untappd.com/w/flying-dog-brewery/540"
 style: "Lager - Pale"

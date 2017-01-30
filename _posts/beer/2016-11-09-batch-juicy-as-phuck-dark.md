@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-batch-juicy-as-phuck-dark.md
 title: Batch juicy as phuck dark
 untappd: "https://untappd.com/b/batch-brewing-company-juicy-as-phuck-dark/1703739"
+country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
 style: "IPA - Black / Cascadian Dark Ale"

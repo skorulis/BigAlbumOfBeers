@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-boondoggle-blonde-ale.md
 title: Boondoggle blonde ale
 untappd: "https://untappd.com/b/ringwood-brewery-boondoggle/21840"
+country: "United Kingdom"
 brewery: "Ringwood Brewery"
 breweryURL: "https://untappd.com/w/ringwood-brewery/2495"
 style: "Blonde Ale"

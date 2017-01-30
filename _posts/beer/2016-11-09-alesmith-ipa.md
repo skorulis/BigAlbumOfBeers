@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-alesmith-ipa.md
 title: Alesmith IPA
 untappd: "https://untappd.com/b/alesmith-brewing-company-ipa/1793"
+country: "United States"
 brewery: "AleSmith Brewing Company"
 breweryURL: "https://untappd.com/w/alesmith-brewing-company/2471"
 style: "IPA - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-oranjeboom.md
 title: Oranjeboom
 untappd: "https://untappd.com/b/united-dutch-breweries-oranjeboom/7433"
+country: "Netherlands"
 brewery: "United Dutch Breweries"
 breweryURL: "https://untappd.com/w/united-dutch-breweries/11478"
 style: "Lager - Euro"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-estrella-galicia.md
 title: Estrella Galicia
 untappd: "https://untappd.com/b/hijos-de-rivera-estrella-galicia/7313"
+country: "Spain"
 brewery: "Hijos de Rivera"
 breweryURL: "https://untappd.com/w/hijos-de-rivera/1877"
 style: "Lager - North American Adjunct"

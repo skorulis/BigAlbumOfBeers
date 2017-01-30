@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-arany-aszok.md
 title: Arany Aszok
 untappd: "https://untappd.com/b/dreher-sorgyarak-arany-aszok/59329"
+country: "Hungary"
 brewery: "Dreher Sörgyárak"
 breweryURL: "https://untappd.com/w/dreher-sorgyarak/465"
 style: "Lager - Pale"

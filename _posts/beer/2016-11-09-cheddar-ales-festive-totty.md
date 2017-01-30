@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cheddar-ales-festive-totty.md
 title: Cheddar ales festive totty
 untappd: "https://untappd.com/b/cheddar-ales-festive-totty/26992"
+country: "United Kingdom"
 brewery: "Cheddar Ales"
 breweryURL: "https://untappd.com/w/cheddar-ales/1466"
 style: "Winter Ale"

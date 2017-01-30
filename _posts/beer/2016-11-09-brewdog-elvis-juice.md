@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewdog-elvis-juice.md
 title: Brewdog elvis juice
 untappd: "https://untappd.com/b/brewdog-elvis-juice/1441008"
+country: "United Kingdom"
 brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "IPA - American"

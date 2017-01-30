@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bastard-son-pale-ale.md
 title: Bastard son pale ale
 untappd: "https://untappd.com/b/little-smith-brewing-bastard-son/1129705"
+country: "Australia"
 brewery: "Little Smith Brewing"
 breweryURL: "https://untappd.com/w/little-smith-brewing/165627"
 style: "Pale Ale - American"

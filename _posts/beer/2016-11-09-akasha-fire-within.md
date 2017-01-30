@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-akasha-fire-within.md
 title: Akasha fire within
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--fire-within/1169590"
+country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "https://untappd.com/w/akasha-brewing-company--australia-/188552"
 style: "Red Ale - American Amber / Red"

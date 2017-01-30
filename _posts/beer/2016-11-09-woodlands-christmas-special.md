@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-woodlands-christmas-special.md
 title: Woodlands Christmas special
 untappd: "https://untappd.com/b/woodlands-brewing-company-hollydays/276293"
+country: "United Kingdom"
 brewery: "Woodlands Brewing Company"
 breweryURL: "https://untappd.com/w/woodlands-brewing-company/9219"
 style: "Winter Ale"

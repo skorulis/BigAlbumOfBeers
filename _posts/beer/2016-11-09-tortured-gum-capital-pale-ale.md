@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tortured-gum-capital-pale-ale.md
 title: Tortured gum capital pale ale
 untappd: "https://untappd.com/b/tortured-gum-capital-pale-ale/1320193"
+country: "Australia"
 brewery: "Tortured Gum"
 breweryURL: "https://untappd.com/w/tortured-gum/198918"
 style: "Pale Ale - Australian"

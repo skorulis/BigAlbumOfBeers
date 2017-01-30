@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-vb-pale-lager.md
 title: VB pale lager
 untappd: "https://untappd.com/b/carlton---united-breweries-victoria-pale-lager/95200"
+country: "Australia"
 brewery: "Carlton & United Breweries"
 breweryURL: "https://untappd.com/w/carlton---united-breweries/4045"
 style: "Lager - Pale"

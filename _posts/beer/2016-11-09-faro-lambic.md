@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-faro-lambic.md
 title: Faro Lambic
 untappd: "https://untappd.com/b/brouwerij-lindemans-faro/7897"
+country: "Belgium"
 brewery: "Brouwerij Lindemans"
 breweryURL: "https://untappd.com/w/brouwerij-lindemans/288"
 style: "Faro"

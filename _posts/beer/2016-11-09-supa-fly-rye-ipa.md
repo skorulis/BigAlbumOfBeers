@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-supa-fly-rye-ipa.md
 title: Supa fly rye IPA
 untappd: "https://untappd.com/b/brewcult-supa-fly-rye-ipa/507901"
+country: "Australia"
 brewery: "BrewCult"
 breweryURL: "https://untappd.com/w/brewcult/62206"
 style: "Rye IPA"

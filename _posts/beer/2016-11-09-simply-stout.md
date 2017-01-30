@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-simply-stout.md
 title: Simply Stout
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-simply-stout/260943"
+country: "United Kingdom"
 brewery: "Tesco Stores Ltd."
 breweryURL: "https://untappd.com/w/tesco-stores-ltd-/3018"
 style: "Stout - Other"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-perla-midowa.md
 title: Perla Midowa
 untappd: "https://untappd.com/b/perla--browary-lubelskie-s-a--perla-miodowa--honey/195932"
+country: "Poland"
 brewery: "Perła – Browary Lubelskie S.A."
 breweryURL: "https://untappd.com/w/perla--browary-lubelskie-s-a-/5941"
 style: "Spiced / Herbed Beer"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hipster-ale.md
 title: Hipster ale
 untappd: "https://untappd.com/b/evil-twin-brewing-hipster-ale/120946"
+country: "United States"
 brewery: "Evil Twin Brewing"
 breweryURL: "https://untappd.com/w/evil-twin-brewing/3735"
 style: "Pale Ale - American"

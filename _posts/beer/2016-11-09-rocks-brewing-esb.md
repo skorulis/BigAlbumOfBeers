@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-rocks-brewing-esb.md
 title: Rocks brewing ESB
 untappd: "https://untappd.com/b/rocks-brewing-co-conviction-series--esb/976181"
+country: "Australia"
 brewery: "Rocks Brewing Co"
 breweryURL: "https://untappd.com/w/rocks-brewing-co/3242"
 style: "Extra Special / Strong Bitter"

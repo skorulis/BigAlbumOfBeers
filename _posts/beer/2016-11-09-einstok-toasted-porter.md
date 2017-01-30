@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-einstok-toasted-porter.md
 title: Einstok toasted porter
 untappd: "https://untappd.com/b/einstok-olgero-icelandic-toasted-porter/107027"
+country: "Iceland"
 brewery: "Einstök Ölgerð"
 breweryURL: "https://untappd.com/w/einstok-olgero/18816"
 style: "Porter - Baltic"

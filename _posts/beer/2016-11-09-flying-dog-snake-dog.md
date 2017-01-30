@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-flying-dog-snake-dog.md
 title: Flying dog snake dog
 untappd: "https://untappd.com/b/flying-dog-brewery-snake-dog-ipa/3759"
+country: "United States"
 brewery: "Flying Dog Brewery"
 breweryURL: "https://untappd.com/w/flying-dog-brewery/540"
 style: "IPA - American"

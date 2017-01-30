@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mcewans-export.md
 title: McEwans Export
 untappd: "https://untappd.com/b/charles-wells-brewery-mcewans-export/62852"
+country: "United Kingdom"
 brewery: "Charles Wells Brewery"
 breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
 style: "Scottish Export Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-little-creatures-ipa.md
 title: Little creatures IPA
 untappd: "https://untappd.com/b/little-creatures-brewing-ipa--india-pale-ale--/418608"
+country: "Australia"
 brewery: "Little Creatures Brewing"
 breweryURL: "https://untappd.com/w/little-creatures-brewing/2560"
 style: "IPA - American"

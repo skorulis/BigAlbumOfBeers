@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-double-maxim.md
 title: Double maxim
 untappd: "https://untappd.com/b/maxim-brewery-double-maxim/51874"
+country: "United Kingdom"
 brewery: "Maxim Brewery"
 breweryURL: "https://untappd.com/w/maxim-brewery/28891"
 style: "Brown Ale - English"

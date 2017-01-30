@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sunburnt-irish-red-ale.md
 title: Sunburnt Irish red ale
 untappd: "https://untappd.com/b/eight-degrees-brewing-sunburnt-irish-red/78030"
+country: "Ireland"
 brewery: "Eight Degrees Brewing"
 breweryURL: "https://untappd.com/w/eight-degrees-brewing/15868"
 style: "Red Ale - Irish"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mad-river-red-ale.md
 title: Mad river red ale
 untappd: "https://untappd.com/b/mad-river-brewing-company-jamaica-red-ale/8289"
+country: "United States"
 brewery: "Mad River Brewing Company"
 breweryURL: "https://untappd.com/w/mad-river-brewing-company/811"
 style: "Red Ale - American Amber / Red"

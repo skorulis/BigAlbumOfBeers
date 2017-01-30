@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-martens-pils.md
 title: Martens Pils
 untappd: "https://untappd.com/b/brouwerij-martens-martens-pils/34480"
+country: "Belgium"
 brewery: "Brouwerij Martens"
 breweryURL: "https://untappd.com/w/brouwerij-martens/26017"
 style: "Pilsner - Other"

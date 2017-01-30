@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-golden-road-ride-on-ipa.md
 title: Golden road ride on IPA
 untappd: "https://untappd.com/b/golden-road-brewing-ride-on-ipa/1069272"
+country: "United States"
 brewery: "Golden Road Brewing"
 breweryURL: "https://untappd.com/w/golden-road-brewing/16302"
 style: "IPA - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-norman-australian-ale.md
 title: Norman Australian ale
 untappd: "https://untappd.com/b/yullis-brews-norman-australian-ale/684769"
+country: "Australia"
 brewery: "Yulli's Brews"
 breweryURL: "https://untappd.com/w/yullis-brews/130600"
 style: "Pale Ale - Australian"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-fonteinen-oude-geuze.md
 title: Fonteinen oude geuze
 untappd: "https://untappd.com/b/brouwerij-3-fonteinen-oude-geuze/4009"
+country: "Belgium"
 brewery: "Brouwerij 3 Fonteinen"
 breweryURL: "https://untappd.com/w/brouwerij-3-fonteinen/3562"
 style: "Sour - Gueuze"

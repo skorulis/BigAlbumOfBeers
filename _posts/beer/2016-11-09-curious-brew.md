@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-curious-brew.md
 title: Curious Brew
 untappd: "https://untappd.com/b/curious-drinks--chapel-down--curious-brew-lager/204447"
+country: "United Kingdom"
 brewery: "Curious Drinks (Chapel Down)"
 breweryURL: "https://untappd.com/w/curious-drinks--chapel-down-/12733"
 style: "Pilsner - Other"

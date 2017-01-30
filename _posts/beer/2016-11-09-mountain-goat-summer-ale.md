@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mountain-goat-summer-ale.md
 title: Mountain goat summer ale
 untappd: "https://untappd.com/b/mountain-goat-beer-summer-ale/450510"
+country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "https://untappd.com/w/mountain-goat-beer/4055"
 style: "Blonde Ale"

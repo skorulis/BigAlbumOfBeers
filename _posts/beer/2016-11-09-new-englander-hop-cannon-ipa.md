@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-new-englander-hop-cannon-ipa.md
 title: New Englander Hop Cannon IPA
 untappd: "https://untappd.com/b/new-england-brewing-co--new-englander-hop-cannon-ipa/855471"
+country: "Australia"
 brewery: "New England Brewing Co."
 breweryURL: "https://untappd.com/w/new-england-brewing-co-/88362"
 style: "IPA - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-legal-tender.md
 title: Legal tender
 untappd: "https://untappd.com/b/bankstown-sports--legal-tender/1490972"
+country: "Australia"
 brewery: "Bankstown Sports "
 breweryURL: "https://untappd.com/w/bankstown-sports-/261136"
 style: "Lager - Pale"

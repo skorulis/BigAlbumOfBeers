@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bentspoke-crankshaft.md
 title: Bentspoke Crankshaft
 untappd: "https://untappd.com/b/bentspoke-brewing-co-crankshaft/704499"
+country: "Australia"
 brewery: "Bentspoke Brewing Co"
 breweryURL: "https://untappd.com/w/bentspoke-brewing-co/134857"
 style: "IPA - American"

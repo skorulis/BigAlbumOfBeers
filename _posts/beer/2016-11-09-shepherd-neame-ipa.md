@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-shepherd-neame-ipa.md
 title: Shepherd Neame IPA
 untappd: "https://untappd.com/b/shepherd-neame-classic-collection---india-pale-ale/40422"
+country: "United Kingdom"
 brewery: "Shepherd Neame"
 breweryURL: "https://untappd.com/w/shepherd-neame/1132"
 style: "IPA - English"

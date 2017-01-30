@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-founders-all-day-ipa.md
 title: Founders All Day IPA
 untappd: "https://untappd.com/b/founders-brewing-co--all-day-ipa/36834"
+country: "United States"
 brewery: "Founders Brewing Co."
 breweryURL: "https://untappd.com/w/founders-brewing-co-/549"
 style: "IPA - Session / India Session Ale"

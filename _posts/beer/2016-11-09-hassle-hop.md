@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hassle-hop.md
 title: Hassle Hop
 untappd: "https://untappd.com/b/burleigh-brewing-co--hassle-hop/489890"
+country: "Australia"
 brewery: "Burleigh Brewing Co."
 breweryURL: "https://untappd.com/w/burleigh-brewing-co-/3168"
 style: "Pale Ale - American"

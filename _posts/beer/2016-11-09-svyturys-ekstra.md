@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-svyturys-ekstra.md
 title: Svyturys ekstra
 untappd: "https://untappd.com/b/svyturys-svyturys-ekstra/6923"
+country: "Lithuania"
 brewery: "Švyturys"
 breweryURL: "https://untappd.com/w/svyturys/1331"
 style: "Lager - Dortmunder / Export"

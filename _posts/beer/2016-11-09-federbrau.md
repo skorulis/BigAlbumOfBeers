@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-federbrau.md
 title: Federbräu
 untappd: "https://untappd.com/b/thai-beverage-plc-federbrau/152483"
+country: "Thailand"
 brewery: "Thai Beverage PLC"
 breweryURL: "https://untappd.com/w/thai-beverage-plc/1520"
 style: "Lager - Helles"

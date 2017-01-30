@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-svyturys-baltas-white.md
 title: Svyturys Baltas white
 untappd: "https://untappd.com/b/svyturys-baltas--white-/37946"
+country: "Lithuania"
 brewery: "Švyturys"
 breweryURL: "https://untappd.com/w/svyturys/1331"
 style: "Hefeweizen"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewdog-jet-black-heart.md
 title: Brewdog Jet Black Heart
 untappd: "https://untappd.com/b/brewdog-jet-black-heart/1416253"
+country: "United Kingdom"
 brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "Stout - Milk / Sweet"

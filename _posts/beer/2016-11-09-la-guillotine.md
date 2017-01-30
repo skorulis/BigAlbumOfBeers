@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-la-guillotine.md
 title: La guillotine
 untappd: "https://untappd.com/b/brouwerij-huyghe-la-guillotine/26907"
+country: "Belgium"
 brewery: "Brouwerij Huyghe"
 breweryURL: "https://untappd.com/w/brouwerij-huyghe/285"
 style: "Belgian Strong Golden Ale"

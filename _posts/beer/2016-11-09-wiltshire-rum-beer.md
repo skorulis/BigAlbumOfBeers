@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wiltshire-rum-beer.md
 title: Wiltshire rum beer
 untappd: "https://untappd.com/b/wadworth-co--marks---spencer-wiltshire-rum-beer/20358"
+country: "United Kingdom"
 brewery: "Wadworth Co."
 breweryURL: "https://untappd.com/w/wadworth-co-/3465"
 style: "Extra Special / Strong Bitter"

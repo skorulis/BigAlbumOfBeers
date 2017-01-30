@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-maxlrainer.md
 title: Maxlrainer
 untappd: "https://untappd.com/b/schlossbrauerei-maxlrain-maxlrainer-schloss-gold/66202"
+country: "Germany"
 brewery: "Schlossbrauerei Maxlrain"
 breweryURL: "https://untappd.com/w/schlossbrauerei-maxlrain/11585"
 style: "Lager - Dortmunder / Export"

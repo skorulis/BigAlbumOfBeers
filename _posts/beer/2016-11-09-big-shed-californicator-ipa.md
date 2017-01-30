@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-big-shed-californicator-ipa.md
 title: Big shed californicator IPA
 untappd: "https://untappd.com/b/big-shed-brewing-concern-californicator-ipa/950413"
+country: "Australia"
 brewery: "Big Shed Brewing Concern"
 breweryURL: "https://untappd.com/w/big-shed-brewing-concern/102851"
 style: "IPA - American"

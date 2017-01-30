@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-duel-hoppy-lager.md
 title: Duel Hoppy Lager
 untappd: "https://untappd.com/b/stockade-brew-co-duel/1304118"
+country: "Australia"
 brewery: "Stockade Brew Co"
 breweryURL: "https://untappd.com/w/stockade-brew-co/86357"
 style: "Pilsner - Other"

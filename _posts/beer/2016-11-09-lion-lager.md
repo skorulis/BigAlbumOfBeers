@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lion-lager.md
 title: Lion lager
 untappd: "https://untappd.com/b/lion-brewery-ceylon-lion-lager/37408"
+country: "Sri Lanka"
 brewery: "Lion Brewery Ceylon"
 breweryURL: "https://untappd.com/w/lion-brewery-ceylon/791"
 style: "Lager - Pale"

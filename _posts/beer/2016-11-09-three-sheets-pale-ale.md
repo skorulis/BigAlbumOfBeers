@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-three-sheets-pale-ale.md
 title: Three sheets Pale Ale
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-three-sheets/14862"
+country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
 style: "Pale Ale - Australian"

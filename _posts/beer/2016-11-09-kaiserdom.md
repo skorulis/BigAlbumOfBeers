@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kaiserdom.md
 title: Kaiserdom
 untappd: "https://untappd.com/b/privatbrauerei-kaiserdom-pilsener--premium-german-lager--pilsener-herb-wurzig/15519"
+country: "Germany"
 brewery: "Privatbrauerei Kaiserdom"
 breweryURL: "https://untappd.com/w/privatbrauerei-kaiserdom/729"
 style: "Pilsner - German"

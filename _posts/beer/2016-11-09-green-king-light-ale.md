@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-green-king-light-ale.md
 title: Green king light ale
 untappd: "https://untappd.com/b/greene-king-light-ale/76411"
+country: "United Kingdom"
 brewery: "Greene King"
 breweryURL: "https://untappd.com/w/greene-king/612"
 style: "Pale Ale - English"

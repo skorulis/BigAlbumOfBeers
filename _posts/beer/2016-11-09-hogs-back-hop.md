@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hogs-back-hop.md
 title: Hogs back hop
 untappd: "https://untappd.com/b/hogs-back-brewery-hop-garden-gold/95475"
+country: "United Kingdom"
 brewery: "Hogs Back Brewery"
 breweryURL: "https://untappd.com/w/hogs-back-brewery/2774"
 style: "Golden Ale"

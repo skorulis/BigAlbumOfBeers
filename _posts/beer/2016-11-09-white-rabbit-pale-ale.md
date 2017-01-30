@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-white-rabbit-pale-ale.md
 title: White Rabbit Pale Ale
 untappd: "https://untappd.com/b/white-rabbit-pale-ale/754500"
+country: "Australia"
 brewery: "White Rabbit"
 breweryURL: "https://untappd.com/w/white-rabbit/2051"
 style: "Pale Ale - Belgian"

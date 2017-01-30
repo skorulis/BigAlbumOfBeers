@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-icing-grapefruit.md
 title: ICing grapefruit
 untappd: "https://untappd.com/b/kooksoondang-icing-grapefruit-sparkling-rice-brew/815374"
+country: "South Korea"
 brewery: "Kooksoondang"
 breweryURL: "https://untappd.com/w/kooksoondang/3697"
 style: "Specialty Grain"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-burleigh-brewing-co-fig-jam-ipa.md
 title: Burleigh Brewing Co FIG JAM IPA
 untappd: "https://untappd.com/b/burleigh-brewing-co--figjam-ipa/239608"
+country: "Australia"
 brewery: "Burleigh Brewing Co."
 breweryURL: "https://untappd.com/w/burleigh-brewing-co-/3168"
 style: "IPA - American"

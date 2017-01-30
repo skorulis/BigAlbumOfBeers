@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-okocim-mocne.md
 title: Okocim mocne
 untappd: "https://untappd.com/b/browar-okocim--carlsberg-polska--okocim-mocne/68244"
+country: "Poland"
 brewery: "Browar Okocim (Carlsberg Polska)"
 breweryURL: "https://untappd.com/w/browar-okocim--carlsberg-polska-/307"
 style: "Lager - Euro Strong"

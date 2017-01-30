@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bentspoke-cluster-16.md
 title: Bentspoke Cluster 16
 untappd: "https://untappd.com/b/bentspoke-brewing-co-cluster-16/1256180"
+country: "Australia"
 brewery: "Bentspoke Brewing Co"
 breweryURL: "https://untappd.com/w/bentspoke-brewing-co/134857"
 style: "IPA - Belgian"

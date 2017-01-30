@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-balmain-pilsner.md
 title: Balmain Pilsner
 untappd: "https://untappd.com/b/balmain-brewing-company-pilsner/82529"
+country: "Australia"
 brewery: "Balmain Brewing Company"
 breweryURL: "https://untappd.com/w/balmain-brewing-company/2980"
 style: "Pilsner - Other"

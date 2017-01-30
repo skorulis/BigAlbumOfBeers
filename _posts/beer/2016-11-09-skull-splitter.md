@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-skull-splitter.md
 title: Skull splitter
 untappd: "https://untappd.com/b/orkney-brewery-skull-splitter/3108"
+country: "United Kingdom"
 brewery: "Orkney Brewery"
 breweryURL: "https://untappd.com/w/orkney-brewery/953"
 style: "Scotch Ale / Wee Heavy"

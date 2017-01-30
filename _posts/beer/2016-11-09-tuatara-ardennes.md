@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tuatara-ardennes.md
 title: Tuatara Ardennes
 untappd: "https://untappd.com/b/tuatara-brewery-belgian-ardennes/11596"
+country: "New Zealand"
 brewery: "Tuatara Brewery"
 breweryURL: "https://untappd.com/w/tuatara-brewery/2349"
 style: "Belgian Strong Golden Ale"

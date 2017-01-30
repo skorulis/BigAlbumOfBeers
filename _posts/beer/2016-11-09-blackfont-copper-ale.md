@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-blackfont-copper-ale.md
 title: Blackfont copper ale
 untappd: "https://untappd.com/b/blackfont-brewhouse-copper-ale/1355479"
+country: "Australia"
 brewery: "BlackFont Brewhouse"
 breweryURL: "https://untappd.com/w/blackfont-brewhouse/231217"
 style: "English Mild Ale"

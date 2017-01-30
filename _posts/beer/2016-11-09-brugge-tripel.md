@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brugge-tripel.md
 title: Brugge tripel
 untappd: "https://untappd.com/b/de-gouden-boom-brugge-tripel/17873"
+country: "Belgium"
 brewery: "De Gouden Boom"
 breweryURL: "https://untappd.com/w/de-gouden-boom/115389"
 style: "Gruit / Ancient Herbed Ale"

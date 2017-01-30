@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-the-convict-lager.md
 title: The convict lager
 untappd: "https://untappd.com/b/rocks-brewing-co-the-convict/228660"
+country: "Australia"
 brewery: "Rocks Brewing Co"
 breweryURL: "https://untappd.com/w/rocks-brewing-co/3242"
 style: "Lager - Pale"

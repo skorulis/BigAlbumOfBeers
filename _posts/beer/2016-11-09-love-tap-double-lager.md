@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-love-tap-double-lager.md
 title: Love tap double lager
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-love-tap-double-lager/1411128"
+country: "Australia"
 brewery: "Moon Dog Craft Brewery"
 breweryURL: "https://untappd.com/w/moon-dog-craft-brewery/4170"
 style: "Lager - Euro Strong"

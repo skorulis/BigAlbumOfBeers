@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-jeremiah-weed-root-brew.md
 title: Jeremiah Weed Root brew
 untappd: "https://untappd.com/b/the-jeremiah-weed-distilling-company-root-brew/94945"
+country: "United States"
 brewery: "The Jeremiah Weed Distilling Company"
 breweryURL: "https://untappd.com/w/the-jeremiah-weed-distilling-company/13283"
 style: "Ginger Beer"

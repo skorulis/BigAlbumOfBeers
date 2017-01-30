@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-harveys-kiss.md
 title: Harvey's Kiss
 untappd: "https://untappd.com/b/harvey---son--harveys--kiss/138686"
+country: "United Kingdom"
 brewery: "Harvey & Son (Harveys)"
 breweryURL: "https://untappd.com/w/harvey---son--harveys-/7682"
 style: "Pale Ale - English"

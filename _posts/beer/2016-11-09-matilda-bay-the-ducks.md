@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-matilda-bay-the-ducks.md
 title: Matilda bay The ducks
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-the-ducks/838331"
+country: "Australia"
 brewery: "Matilda Bay Brewing Company"
 breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
 style: "Pale Ale - Australian"

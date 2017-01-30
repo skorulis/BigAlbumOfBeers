@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hargreaves-hill-pale-ale.md
 title: Hargreaves hill pale ale
 untappd: "https://untappd.com/b/hargreaves-hill-brewing-company-pty--ltd--pale-ale/26632"
+country: "Australia"
 brewery: "Hargreaves Hill Brewing Company Pty. Ltd."
 breweryURL: "https://untappd.com/w/hargreaves-hill-brewing-company-pty--ltd-/4290"
 style: "Pale Ale - American"

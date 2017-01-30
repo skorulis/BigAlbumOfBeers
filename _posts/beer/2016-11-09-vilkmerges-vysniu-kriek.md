@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-vilkmerges-vysniu-kriek.md
 title: Vilkmergės vyšniu kriek
 untappd: "https://untappd.com/b/vilkmerges-alus-vilkmerges-vysniu-kriek/1017657"
+country: "Lithuania"
 brewery: "Vilkmerges Alus"
 breweryURL: "https://untappd.com/w/vilkmerges-alus/52420"
 style: "Fruit Beer"

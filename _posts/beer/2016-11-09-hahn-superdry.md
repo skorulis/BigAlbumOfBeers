@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hahn-superdry.md
 title: Hahn superdry
 untappd: "https://untappd.com/b/hahn-brewing-co--pty-ltd-super-dry/6132"
+country: "Australia"
 brewery: "Hahn Brewing Co. Pty Ltd"
 breweryURL: "https://untappd.com/w/hahn-brewing-co--pty-ltd/14378"
 style: "Lager - North American Adjunct"

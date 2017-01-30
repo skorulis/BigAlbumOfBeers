@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-alice-porter.md
 title: Alice Porter
 untappd: "https://untappd.com/b/brewdog-alice-porter/992160"
+country: "United Kingdom"
 brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "Porter - Baltic"

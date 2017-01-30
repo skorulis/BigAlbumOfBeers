@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-byron-bay-pale-lager.md
 title: Byron bay pale lager
 untappd: "https://untappd.com/b/byron-bay-brewery-pale-lager/296164"
+country: "Australia"
 brewery: "Byron Bay Brewery"
 breweryURL: "https://untappd.com/w/byron-bay-brewery/7784"
 style: "Lager - Pale"

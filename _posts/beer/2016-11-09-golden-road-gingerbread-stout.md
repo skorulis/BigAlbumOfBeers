@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-golden-road-gingerbread-stout.md
 title: Golden road gingerbread stout
 untappd: "https://untappd.com/b/golden-road-brewing-back-home-gingerbread-stout/526280"
+country: "United States"
 brewery: "Golden Road Brewing"
 breweryURL: "https://untappd.com/w/golden-road-brewing/16302"
 style: "Stout - Imperial / Double"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-suntory-md.md
 title: Suntory MD
 untappd: "https://untappd.com/b/suntory-beer-limited-magnum-dry/444315"
+country: "Japan"
 brewery: "Suntory Beer Limited"
 breweryURL: "https://untappd.com/w/suntory-beer-limited/1893"
 style: "Lager - Pale"

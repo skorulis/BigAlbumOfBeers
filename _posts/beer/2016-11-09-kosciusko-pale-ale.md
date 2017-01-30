@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kosciusko-pale-ale.md
 title: Kosciusko Pale ale
 untappd: "https://untappd.com/b/kosciuszko-brewing-company-pale-ale/12351"
+country: "Australia"
 brewery: "Kosciuszko Brewing Company"
 breweryURL: "https://untappd.com/w/kosciuszko-brewing-company/3337"
 style: "Pale Ale - American"

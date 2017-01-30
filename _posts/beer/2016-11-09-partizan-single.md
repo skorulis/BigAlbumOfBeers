@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-partizan-single.md
 title: Partizan single
 untappd: "https://untappd.com/b/partizan-brewing-single/451393"
+country: "United Kingdom"
 brewery: "Partizan Brewing"
 breweryURL: "https://untappd.com/w/partizan-brewing/48584"
 style: "Pale Ale - Belgian"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-floris-chocolat.md
 title: Floris chocolat
 untappd: "https://untappd.com/b/brouwerij-huyghe-floris-chocolat/41825"
+country: "Belgium"
 brewery: "Brouwerij Huyghe"
 breweryURL: "https://untappd.com/w/brouwerij-huyghe/285"
 style: "Spiced / Herbed Beer"

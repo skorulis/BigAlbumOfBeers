@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-jelen-pivo.md
 title: Jelen pivo
 untappd: "https://untappd.com/b/apatinska-pivara-jelen-pivo/14262"
+country: "Serbia"
 brewery: "Apatinska Pivara"
 breweryURL: "https://untappd.com/w/apatinska-pivara/3769"
 style: "Lager - Pale"

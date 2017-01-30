@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mornington-pale-ale.md
 title: Mornington pale ale
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-pale/24357"
+country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
 style: "Pale Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewcult-reset-robot.md
 title: Brewcult Reset Robot
 untappd: "https://untappd.com/b/brewcult-reset-robot/554389"
+country: "Australia"
 brewery: "BrewCult"
 breweryURL: "https://untappd.com/w/brewcult/62206"
 style: "Pale Ale - International"

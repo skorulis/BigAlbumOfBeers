@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-desperados.md
 title: Desperados
 untappd: "https://untappd.com/b/desperados-nl-desperados-original/5997"
+country: "France"
 brewery: "Desperados NL"
 breweryURL: "https://untappd.com/w/desperados-nl/1429"
 style: "Lager - Pale"

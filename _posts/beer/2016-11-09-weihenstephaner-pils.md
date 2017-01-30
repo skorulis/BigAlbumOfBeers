@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-weihenstephaner-pils.md
 title: Weihenstephaner pils
 untappd: "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-pils/16774"
+country: "Germany"
 brewery: "Bayerische Staatsbrauerei Weihenstephan"
 breweryURL: "https://untappd.com/w/bayerische-staatsbrauerei-weihenstephan/88"
 style: "Pilsner - German"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-merchant-hasselsloth-west-coast-ipa.md
 title: Merchant Hasselsloth west coast IPA
 untappd: "https://untappd.com/b/merchant-brewing-co--hasselsloth/1590140"
+country: "Australia"
 brewery: "Merchant Brewing Co."
 breweryURL: "https://untappd.com/w/merchant-brewing-co-/53881"
 style: "IPA - American"

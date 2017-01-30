@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-partizan-strong-golden-belgian-ale.md
 title: Partizan strong golden belgian ale
 untappd: "https://untappd.com/b/partizan-brewing-sgb/443455"
+country: "United Kingdom"
 brewery: "Partizan Brewing"
 breweryURL: "https://untappd.com/w/partizan-brewing/48584"
 style: "Belgian Strong Golden Ale"

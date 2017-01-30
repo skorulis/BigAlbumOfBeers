@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tyskie-klasyczne.md
 title: Tyskie klasyczne
 untappd: "https://untappd.com/b/tyskie-browary-ksiazece--kompania-piwowarska--tyskie-klasyczne/186042"
+country: "Poland"
 brewery: "Tyskie Browary Książęce (Kompania Piwowarska)"
 breweryURL: "https://untappd.com/w/tyskie-browary-ksiazece--kompania-piwowarska-/1302"
 style: "Lager - Euro"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-globe-premium-draught.md
 title: Globe Premium Draught
 untappd: "https://untappd.com/b/globe-brewing-company--draught-/781188"
+country: "Australia"
 brewery: "Globe Brewing Company "
 breweryURL: "https://untappd.com/w/globe-brewing-company-/150880"
 style: "Lager - Pale"

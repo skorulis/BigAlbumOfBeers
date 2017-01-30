@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-barossa-valley-hop-heaven.md
 title: Barossa valley hop heaven
 untappd: "https://untappd.com/b/barossa-valley-brewing-hop-heaven/1018437"
+country: "Australia"
 brewery: "Barossa Valley Brewing"
 breweryURL: "https://untappd.com/w/barossa-valley-brewing/14448"
 style: "IPA - American"

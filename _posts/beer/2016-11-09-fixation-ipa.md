@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-fixation-ipa.md
 title: Fixation IPA
 untappd: "https://untappd.com/b/fixation-brewing-co-fixation-ipa/1343276"
+country: "Australia"
 brewery: "Fixation Brewing Co"
 breweryURL: "https://untappd.com/w/fixation-brewing-co/240124"
 style: "IPA - American"

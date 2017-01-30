@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-redoak-organic-pale-ale.md
 title: Redoak organic pale ale
 untappd: "https://untappd.com/b/redoak-boutique-beer-cafe-organic-pale-ale/13188"
+country: "Australia"
 brewery: "Redoak Boutique Beer Cafe"
 breweryURL: "https://untappd.com/w/redoak-boutique-beer-cafe/2556"
 style: "Pale Ale - English"

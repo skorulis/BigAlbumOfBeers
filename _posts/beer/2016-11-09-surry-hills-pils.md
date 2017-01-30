@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-surry-hills-pils.md
 title: Surry hills pils
 untappd: "https://untappd.com/b/sydney-brewery-surry-hills-pils/240126"
+country: "Australia"
 brewery: "Sydney Brewery"
 breweryURL: "https://untappd.com/w/sydney-brewery/2984"
 style: "Pilsner - Other"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-akasha-korban-dipa.md
 title: Akasha Korban DIPA
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--korben-d--double-ipa/1336956"
+country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "https://untappd.com/w/akasha-brewing-company--australia-/188552"
 style: "IPA - Imperial / Double"

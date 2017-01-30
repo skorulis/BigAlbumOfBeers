@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tooheys-old.md
 title: Tooheys old
 untappd: "https://untappd.com/b/tooheys-brewing-old/6116"
+country: "Australia"
 brewery: "Tooheys Brewing"
 breweryURL: "https://untappd.com/w/tooheys-brewing/13905"
 style: "Dark Ale"

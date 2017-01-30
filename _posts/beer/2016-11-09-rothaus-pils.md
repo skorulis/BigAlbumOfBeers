@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-rothaus-pils.md
 title: Rothaus Pils
 untappd: "https://untappd.com/b/badische-staatsbrauerei-rothaus-rothaus-pils--tannen-zapfle/2395"
+country: "Germany"
 brewery: "Badische Staatsbrauerei Rothaus"
 breweryURL: "https://untappd.com/w/badische-staatsbrauerei-rothaus/1077"
 style: "Pilsner - German"

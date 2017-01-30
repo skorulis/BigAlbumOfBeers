@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-big-smoke-wet-hop-ipa.md
 title: Big smoke wet hop IPA
 untappd: "https://untappd.com/b/holgate-brewhouse-bull-in-the-big-smoke/1055407"
+country: "Australia"
 brewery: "Holgate Brewhouse"
 breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
 style: "IPA - American"

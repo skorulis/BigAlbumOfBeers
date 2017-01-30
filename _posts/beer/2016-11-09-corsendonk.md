@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-corsendonk.md
 title: Corsendonk
 untappd: "https://untappd.com/b/brouwerij-corsendonk-corsendonk-pater-dubbel--abbey-brown-ale/1829"
+country: "Belgium"
 brewery: "Brouwerij Corsendonk"
 breweryURL: "https://untappd.com/w/brouwerij-corsendonk/246"
 style: "Belgian Dubbel"

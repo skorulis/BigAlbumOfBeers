@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cheeky-charlie-kolsch.md
 title: Cheeky Charlie kolsch
 untappd: "https://untappd.com/b/3-pub-circus-cheeky-charlie-kolsch/1277640"
+country: "Australia"
 brewery: "3 Pub Circus"
 breweryURL: "https://untappd.com/w/3-pub-circus/231249"
 style: "Kölsch"

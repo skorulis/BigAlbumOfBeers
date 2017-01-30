@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-the-big-inflatable-cowboy-hat.md
 title: The big inflatable cowboy hat
 untappd: "https://untappd.com/b/siren-craft-brew-the-big-inflatable-cowboy-hat/381027"
+country: "United Kingdom"
 brewery: "Siren Craft Brew"
 breweryURL: "https://untappd.com/w/siren-craft-brew/55184"
 style: "IPA - Imperial / Double"

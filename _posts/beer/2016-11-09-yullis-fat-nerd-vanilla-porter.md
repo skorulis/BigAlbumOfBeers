@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-yullis-fat-nerd-vanilla-porter.md
 title: Yulli's fat nerd vanilla porter
 untappd: "https://untappd.com/b/yullis-brews-fat-nerd-vanilla-porter/734257"
+country: "Australia"
 brewery: "Yulli's Brews"
 breweryURL: "https://untappd.com/w/yullis-brews/130600"
 style: "Porter - Other"

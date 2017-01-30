@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-willie-the-boatman-nectar-of-the-hops.md
 title: Willie the boatman nectar of the hops
 untappd: "https://untappd.com/b/willie-the-boatman-nectar-of-the-hops/1754827"
+country: "Australia"
 brewery: "Willie The Boatman"
 breweryURL: "https://untappd.com/w/willie-the-boatman/129674"
 style: "IPA - American"

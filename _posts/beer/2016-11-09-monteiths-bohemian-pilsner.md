@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-monteiths-bohemian-pilsner.md
 title: Monteith’s bohemian pilsner
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-bohemian-pilsner/608944"
+country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
 breweryURL: "https://untappd.com/w/monteiths-brewing-co--/881"
 style: "Pilsner - Other"

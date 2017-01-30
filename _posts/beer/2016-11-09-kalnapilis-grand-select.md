@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-kalnapilis-grand-select.md
 title: Kalnapilis grand select
 untappd: "https://untappd.com/b/kalnapilio-tauro-grupe-uab--grand-select/406620"
+country: "Lithuania"
 brewery: "Kalnapilio-Tauro Grupe UAB "
 breweryURL: "https://untappd.com/w/kalnapilio-tauro-grupe-uab-/13967"
 style: "Lager - Pale"

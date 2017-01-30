@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-moosehead.md
 title: Moosehead
 untappd: "https://untappd.com/b/moosehead-breweries-limited-moosehead-lager/5440"
+country: "Canada"
 brewery: "Moosehead Breweries Limited"
 breweryURL: "https://untappd.com/w/moosehead-breweries-limited/886"
 style: "Lager - North American Adjunct"

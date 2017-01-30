@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-oakham-ales-inferno.md
 title: Oakham ales inferno
 untappd: "https://untappd.com/b/oakham-ales-inferno/14764"
+country: "United Kingdom"
 brewery: "Oakham Ales"
 breweryURL: "https://untappd.com/w/oakham-ales/931"
 style: "Golden Ale"

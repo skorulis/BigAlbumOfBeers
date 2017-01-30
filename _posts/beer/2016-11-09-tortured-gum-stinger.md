@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tortured-gum-stinger.md
 title: Tortured gum stinger
 untappd: "https://untappd.com/b/tortured-gum-stinger/1320175"
+country: "Australia"
 brewery: "Tortured Gum"
 breweryURL: "https://untappd.com/w/tortured-gum/198918"
 style: "Pale Wheat Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-batch-smoking-russian-party-guy.md
 title: Batch smoking Russian party guy
 untappd: "https://untappd.com/b/batch-brewing-company-smoking-russian-party-guy/1520761"
+country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
 style: "Dark Ale"

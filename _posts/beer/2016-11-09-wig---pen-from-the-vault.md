@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wig---pen-from-the-vault.md
 title: Wig & pen from the vault
 untappd: "https://untappd.com/b/wig---pen-brewery-from-the-vault/1087518"
+country: "Australia"
 brewery: "Wig & Pen Brewery"
 breweryURL: "https://untappd.com/w/wig---pen-brewery/12216"
 style: "Lambic - Other"

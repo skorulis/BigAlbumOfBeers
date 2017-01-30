@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-monteiths-golden-lager.md
 title: Monteith's golden lager
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-golden-lager/7400"
+country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
 breweryURL: "https://untappd.com/w/monteiths-brewing-co--/881"
 style: "Lager - Pale"

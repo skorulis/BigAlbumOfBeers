@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-endeavour-reserve-amber-ale.md
 title: Endeavour reserve amber ale
 untappd: "https://untappd.com/b/endeavour-vintage-beer-co--2015-reserve-amber-ale/1528799"
+country: "Australia"
 brewery: "ENDEAVOUR Vintage Beer Co."
 breweryURL: "https://untappd.com/w/endeavour-vintage-beer-co-/3173"
 style: "Red Ale - American Amber / Red"

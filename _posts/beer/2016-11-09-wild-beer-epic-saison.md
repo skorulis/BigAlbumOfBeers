@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wild-beer-epic-saison.md
 title: Wild beer epic saison
 untappd: "https://untappd.com/b/the-wild-beer-co-epic-saison/259506"
+country: "United Kingdom"
 brewery: "The Wild Beer Co"
 breweryURL: "https://untappd.com/w/the-wild-beer-co/41559"
 style: "Saison / Farmhouse Ale"

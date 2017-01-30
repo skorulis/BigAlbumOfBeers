@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-fullers-honey-dew.md
 title: Fuller's honey dew
 untappd: "https://untappd.com/b/fuller--smith---turner--honey-dew/22286"
+country: "United Kingdom"
 brewery: "Fuller, Smith & Turner "
 breweryURL: "https://untappd.com/w/fuller--smith---turner-/3296"
 style: "Golden Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sierra-nevada-otra-vez.md
 title: Sierra Nevada Otra vez
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--otra-vez/1211126"
+country: "United States"
 brewery: "Sierra Nevada Brewing Co."
 breweryURL: "https://untappd.com/w/sierra-nevada-brewing-co-/1142"
 style: "Sour - Gose"

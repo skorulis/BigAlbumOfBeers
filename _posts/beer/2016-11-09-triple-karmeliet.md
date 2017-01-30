@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-triple-karmeliet.md
 title: Triple karmeliet
 untappd: "https://untappd.com/b/brouwerij-bosteels-tripel-karmeliet/6511"
+country: "Belgium"
 brewery: "Brouwerij Bosteels"
 breweryURL: "https://untappd.com/w/brouwerij-bosteels/269"
 style: "Belgian Tripel"

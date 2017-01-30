@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-san-miguel.md
 title: San Miguel
 untappd: "https://untappd.com/b/carlsberg-uk-san-miguel/6439"
+country: "United Kingdom"
 brewery: "Carlsberg UK"
 breweryURL: "https://untappd.com/w/carlsberg-uk/148366"
 style: "Lager - Euro"

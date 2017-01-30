@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewcult-get-down-american-brown.md
 title: Brewcult get down American brown
 untappd: "https://untappd.com/b/brewcult-get-down-american-brown/667422"
+country: "Australia"
 brewery: "BrewCult"
 breweryURL: "https://untappd.com/w/brewcult/62206"
 style: "Brown Ale - American"

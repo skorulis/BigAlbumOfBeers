@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-basement-brew-house-sparkling.md
 title: Basement brew house sparkling
 untappd: "https://untappd.com/b/basement-brewhouse-sparkling-ale/1793098"
+country: "Australia"
 brewery: "Basement Brewhouse"
 breweryURL: "https://untappd.com/w/basement-brewhouse/304416"
 style: "Australian Sparkling Ale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-st-bernardus.md
 title: St bernardus
 untappd: "https://untappd.com/b/brouwerij-st--bernardus-abt-12/6760"
+country: "Belgium"
 brewery: "Brouwerij St. Bernardus"
 breweryURL: "https://untappd.com/w/brouwerij-st--bernardus/296"
 style: "Belgian Quad"

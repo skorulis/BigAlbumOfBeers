@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-rising-sun-pale-ale.md
 title: Rising sun pale ale
 untappd: "https://untappd.com/b/baird-brewing-company-rising-sun-pale-ale/10856"
+country: "Japan"
 brewery: "Baird Brewing Company"
 breweryURL: "https://untappd.com/w/baird-brewing-company/5697"
 style: "Pale Ale - American"

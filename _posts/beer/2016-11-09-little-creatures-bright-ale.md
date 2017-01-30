@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-little-creatures-bright-ale.md
 title: Little creatures bright ale
 untappd: "https://untappd.com/b/little-creatures-brewing-bright-ale/7424"
+country: "Australia"
 brewery: "Little Creatures Brewing"
 breweryURL: "https://untappd.com/w/little-creatures-brewing/2560"
 style: "Other"

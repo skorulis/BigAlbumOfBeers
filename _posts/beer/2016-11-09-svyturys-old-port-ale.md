@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-svyturys-old-port-ale.md
 title: Svyturys old port ale
 untappd: "https://untappd.com/b/svyturys-old-port-ale/329660"
+country: "Lithuania"
 brewery: "Švyturys"
 breweryURL: "https://untappd.com/w/svyturys/1331"
 style: "Scottish Ale"

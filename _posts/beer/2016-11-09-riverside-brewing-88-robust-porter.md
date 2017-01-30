@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-riverside-brewing-88-robust-porter.md
 title: Riverside brewing 88 robust porter
 untappd: "https://untappd.com/b/riverside-brewing-company-88-robust-porter/198901"
+country: "Australia"
 brewery: "Riverside Brewing Company"
 breweryURL: "https://untappd.com/w/riverside-brewing-company/15195"
 style: "Porter - Other"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cricketers-arms-spearhead-pale-ale.md
 title: Cricketers arms spearhead pale ale
 untappd: "https://untappd.com/b/cricketers-arms-spearhead-pale-ale/807867"
+country: "Australia"
 brewery: "Cricketers Arms"
 breweryURL: "https://untappd.com/w/cricketers-arms/6998"
 style: "Pale Ale - Australian"

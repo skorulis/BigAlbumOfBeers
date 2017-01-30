@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-m-s-french-lager.md
 title: M&S French Lager
 untappd: "https://untappd.com/b/brasserie-champigneulles-marks---spencer-french-lager/35092"
+country: "France"
 brewery: "Brasserie Champigneulles"
 breweryURL: "https://untappd.com/w/brasserie-champigneulles/22426"
 style: "Lager - Pale"

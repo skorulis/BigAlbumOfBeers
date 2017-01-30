@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-co-operative-czech-lager.md
 title: Co-operative Czech lager
 untappd: "https://untappd.com/b/pivovary-staropramen-co-operative-czech-imported-lager/307151"
+country: "Czech Republic"
 brewery: "Pivovary Staropramen"
 breweryURL: "https://untappd.com/w/pivovary-staropramen/998"
 style: "Pilsner - Czech"

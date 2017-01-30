@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cobra-king.md
 title: Cobra King
 untappd: "https://untappd.com/b/molson-coors--uk--king-cobra/226170"
+country: "United Kingdom"
 brewery: "Molson Coors (UK)"
 breweryURL: "https://untappd.com/w/molson-coors--uk-/28894"
 style: "Pilsner - Imperial / Double"

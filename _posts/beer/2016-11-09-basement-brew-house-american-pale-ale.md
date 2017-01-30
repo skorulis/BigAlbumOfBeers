@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-basement-brew-house-american-pale-ale.md
 title: Basement brew house American pale ale
 untappd: "https://untappd.com/b/basement-brewhouse-american-pale-ale/1793097"
+country: "Australia"
 brewery: "Basement Brewhouse"
 breweryURL: "https://untappd.com/w/basement-brewhouse/304416"
 style: "Pale Ale - American"

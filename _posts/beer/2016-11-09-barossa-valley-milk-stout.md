@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-barossa-valley-milk-stout.md
 title: Barossa Valley Milk Stout
 untappd: "https://untappd.com/b/barossa-valley-brewing-imperial-milk-stout/269196"
+country: "Australia"
 brewery: "Barossa Valley Brewing"
 breweryURL: "https://untappd.com/w/barossa-valley-brewing/14448"
 style: "Stout - Milk / Sweet"

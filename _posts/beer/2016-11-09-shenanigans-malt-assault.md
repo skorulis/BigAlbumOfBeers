@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-shenanigans-malt-assault.md
 title: Shenanigans malt assault
 untappd: "https://untappd.com/b/shenanigans-brewing-co--malt-assault/1143738"
+country: "Australia"
 brewery: "Shenanigans Brewing Co."
 breweryURL: "https://untappd.com/w/shenanigans-brewing-co-/104449"
 style: "Smoked Beer"

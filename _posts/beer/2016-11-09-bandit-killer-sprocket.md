@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bandit-killer-sprocket.md
 title: Bandit Killer Sprocket
 untappd: "https://untappd.com/b/killer-sprocket-bandit/539632"
+country: "Australia"
 brewery: "Killer Sprocket"
 breweryURL: "https://untappd.com/w/killer-sprocket/56003"
 style: "Smoked Beer"

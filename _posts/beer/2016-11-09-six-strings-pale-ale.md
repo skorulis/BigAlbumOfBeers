@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-six-strings-pale-ale.md
 title: Six strings pale ale
 untappd: "https://untappd.com/b/six-string-brewing-company-pale-ale/284344"
+country: "Australia"
 brewery: "Six String Brewing Company"
 breweryURL: "https://untappd.com/w/six-string-brewing-company/49352"
 style: "Pale Ale - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wayward-brewing-rose-kolsch.md
 title: Wayward brewing rose kölsch
 untappd: "https://untappd.com/b/wayward-brewing-rose-kolsch/1535683"
+country: "Australia"
 brewery: "Wayward Brewing"
 breweryURL: "https://untappd.com/w/wayward-brewing/48019"
 style: "Kölsch"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewmeister-armageddon.md
 title: Brewmeister Armageddon
 untappd: "https://untappd.com/b/brewmeister-brewery-armageddon/247224"
+country: "United Kingdom"
 brewery: "Brewmeister Brewery"
 breweryURL: "https://untappd.com/w/brewmeister-brewery/36169"
 style: "Eisbock"

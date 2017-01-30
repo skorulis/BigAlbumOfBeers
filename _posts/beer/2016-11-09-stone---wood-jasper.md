@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-stone---wood-jasper.md
 title: Stone & wood jasper
 untappd: "https://untappd.com/b/stone---wood-jasper-ale/147818"
+country: "Australia"
 brewery: "Stone & Wood"
 breweryURL: "https://untappd.com/w/stone---wood/2555"
 style: "Altbier"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-matsos-mango-beer.md
 title: Matso’s Mango Beer
 untappd: "https://untappd.com/b/matsos-broome-brewery-mango-beer/17102"
+country: "Australia"
 brewery: "Matso's Broome Brewery"
 breweryURL: "https://untappd.com/w/matsos-broome-brewery/4469"
 style: "Fruit Beer"

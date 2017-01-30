@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-delerium-christmas.md
 title: Delerium Christmas
 untappd: "https://untappd.com/b/brouwerij-huyghe-delirium-noel--christmas/8767"
+country: "Belgium"
 brewery: "Brouwerij Huyghe"
 breweryURL: "https://untappd.com/w/brouwerij-huyghe/285"
 style: "Winter Ale"

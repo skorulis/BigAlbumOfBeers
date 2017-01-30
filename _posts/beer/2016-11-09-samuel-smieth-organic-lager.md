@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-samuel-smieth-organic-lager.md
 title: Samuel smieth organic lager
 untappd: "https://untappd.com/b/samuel-smiths-old-brewery-pure-brewed-organic-lager/23958"
+country: "United Kingdom"
 brewery: "Samuel Smith's Old Brewery"
 breweryURL: "https://untappd.com/w/samuel-smiths-old-brewery/1099"
 style: "Lager - Pale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-six-point-resin.md
 title: Six point resin
 untappd: "https://untappd.com/b/sixpoint-brewery-resin/117064"
+country: "United States"
 brewery: "Sixpoint Brewery"
 breweryURL: "https://untappd.com/w/sixpoint-brewery/1149"
 style: "IPA - Imperial / Double"

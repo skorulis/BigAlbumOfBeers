@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-grand-ridge-moonshine.md
 title: Grand ridge Moonshine
 untappd: "https://untappd.com/b/grand-ridge-brewery-moonshine/23591"
+country: "Australia"
 brewery: "Grand Ridge Brewery"
 breweryURL: "https://untappd.com/w/grand-ridge-brewery/4331"
 style: "Scotch Ale / Wee Heavy"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-holgate-tank-nine.md
 title: Holgate Tank nine
 untappd: "https://untappd.com/b/holgate-brewhouse-hop-tart/937001"
+country: "Australia"
 brewery: "Holgate Brewhouse"
 breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
 style: "Sour - Ale"

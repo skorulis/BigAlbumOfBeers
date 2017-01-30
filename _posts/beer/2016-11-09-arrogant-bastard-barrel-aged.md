@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-arrogant-bastard-barrel-aged.md
 title: Arrogant bastard barrel aged
 untappd: "https://untappd.com/b/arrogant-brewing-bourbon-barrel-aged-arrogant-bastard/29100"
+country: "United States"
 brewery: "Arrogant Brewing"
 breweryURL: "https://untappd.com/w/arrogant-brewing/234399"
 style: "Strong Ale - American"

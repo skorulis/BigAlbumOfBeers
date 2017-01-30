@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-great-bustard.md
 title: Great bustard
 untappd: "https://untappd.com/b/stonehenge-ales-great-bustard/61005"
+country: "United Kingdom"
 brewery: "Stonehenge Ales"
 breweryURL: "https://untappd.com/w/stonehenge-ales/70011"
 style: "English Bitter"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-larks-foot.md
 title: Larks foot
 untappd: "https://untappd.com/b/sail---anchor-larks-foot-golden-ale/246279"
+country: "Australia"
 brewery: "Sail & Anchor"
 breweryURL: "https://untappd.com/w/sail---anchor/3325"
 style: "Golden Ale"

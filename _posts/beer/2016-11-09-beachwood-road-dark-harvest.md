@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-beachwood-road-dark-harvest.md
 title: Beachwood road dark harvest
 untappd: "https://untappd.com/b/bridge-road-brewers-dark-harvest--2016-/1426747"
+country: "Australia"
 brewery: "Bridge Road Brewers"
 breweryURL: "https://untappd.com/w/bridge-road-brewers/3174"
 style: "IPA - Black / Cascadian Dark Ale"

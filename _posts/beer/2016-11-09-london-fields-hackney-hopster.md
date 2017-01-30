@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-london-fields-hackney-hopster.md
 title: London fields hackney hopster
 untappd: "https://untappd.com/b/london-fields-brewery-hackney-hopster/98628"
+country: "United Kingdom"
 brewery: "London Fields Brewery"
 breweryURL: "https://untappd.com/w/london-fields-brewery/15411"
 style: "Pale Ale - English"

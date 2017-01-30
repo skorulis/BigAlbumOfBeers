@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wold-top-against-the-grain.md
 title: Wold top against the grain
 untappd: "https://untappd.com/b/wold-top-brewery--against-the-grain/34575"
+country: "United Kingdom"
 brewery: "Wold Top Brewery "
 breweryURL: "https://untappd.com/w/wold-top-brewery-/9144"
 style: "Gluten-Free"

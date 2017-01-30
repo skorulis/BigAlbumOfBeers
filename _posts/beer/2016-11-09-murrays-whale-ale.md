@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-murrays-whale-ale.md
 title: Murray's whale ale
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-whale-ale/9889"
+country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "https://untappd.com/w/murrays-craft-brewing-co/2557"
 style: "Pale Wheat Ale - American"

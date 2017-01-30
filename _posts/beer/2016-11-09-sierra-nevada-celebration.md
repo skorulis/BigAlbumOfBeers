@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-sierra-nevada-celebration.md
 title: Sierra Nevada Celebration
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--celebration-ale/16630"
+country: "United States"
 brewery: "Sierra Nevada Brewing Co."
 breweryURL: "https://untappd.com/w/sierra-nevada-brewing-co-/1142"
 style: "IPA - American"

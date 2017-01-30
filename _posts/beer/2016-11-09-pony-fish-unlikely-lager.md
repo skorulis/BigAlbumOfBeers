@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pony-fish-unlikely-lager.md
 title: Pony fish unlikely lager
 untappd: "https://untappd.com/b/melbourne-city-brewing-company-pony-fish-unlikely-lager/580227"
+country: "Australia"
 brewery: "Melbourne City Brewing Company"
 breweryURL: "https://untappd.com/w/melbourne-city-brewing-company/107872"
 style: "Lager - Pale"

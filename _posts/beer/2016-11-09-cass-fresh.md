@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-cass-fresh.md
 title: Cass fresh
 untappd: "https://untappd.com/b/oriental-brewery-cass-fresh/3700"
+country: "South Korea"
 brewery: "Oriental Brewery"
 breweryURL: "https://untappd.com/w/oriental-brewery/6167"
 style: "Lager - North American Adjunct"

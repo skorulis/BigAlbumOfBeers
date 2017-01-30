@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-murrays-icon-2ipa.md
 title: Murrays icon 2IPA
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-icon-2ipa/9166"
+country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "https://untappd.com/w/murrays-craft-brewing-co/2557"
 style: "IPA - Imperial / Double"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pirate-life-golden-era.md
 title: Pirate life golden era
 untappd: "https://untappd.com/b/pirate-life-brewing-golden-era-records-golden-ale/1304012"
+country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "https://untappd.com/w/pirate-life-brewing/189380"
 style: "Golden Ale"

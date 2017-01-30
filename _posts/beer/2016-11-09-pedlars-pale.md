@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pedlars-pale.md
 title: Pedlars Pale
 untappd: "https://untappd.com/b/barrow-boys-brewing-pedlars-pale/829354"
+country: "Australia"
 brewery: "Barrow Boys Brewing"
 breweryURL: "https://untappd.com/w/barrow-boys-brewing/136472"
 style: "Pale Ale - American"

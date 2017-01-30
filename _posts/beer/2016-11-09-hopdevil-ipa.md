@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hopdevil-ipa.md
 title: HopDevil IPA
 untappd: "https://untappd.com/b/victory-brewing-company-hopdevil/3832"
+country: "United States"
 brewery: "Victory Brewing Company"
 breweryURL: "https://untappd.com/w/victory-brewing-company/1326"
 style: "IPA - American"

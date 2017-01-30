@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-matilda-bay-alpha-pale-ale.md
 title: Matilda bay alpha pale ale
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-alpha-pale-ale/11554"
+country: "Australia"
 brewery: "Matilda Bay Brewing Company"
 breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
 style: "Pale Ale - American"

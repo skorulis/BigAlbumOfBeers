@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brabante-trigo.md
 title: Brabante trigo
 untappd: "https://untappd.com/b/brabante-cervezas-trigo/80414"
+country: "Spain"
 brewery: "Brabante Cervezas"
 breweryURL: "https://untappd.com/w/brabante-cervezas/16198"
 style: "Witbier"

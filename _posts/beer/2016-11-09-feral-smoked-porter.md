@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-feral-smoked-porter.md
 title: Feral smoked porter
 untappd: "https://untappd.com/b/feral-brewing-company-smoked-porter/33637"
+country: "Australia"
 brewery: "Feral Brewing Company"
 breweryURL: "https://untappd.com/w/feral-brewing-company/3162"
 style: "Smoked Beer"

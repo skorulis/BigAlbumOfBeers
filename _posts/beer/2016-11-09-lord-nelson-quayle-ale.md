@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lord-nelson-quayle-ale.md
 title: Lord Nelson Quayle ale
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-quayle-summer-ale/73924"
+country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
 style: "Pale Wheat Ale - American"

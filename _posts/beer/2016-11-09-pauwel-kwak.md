@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-pauwel-kwak.md
 title: Pauwel Kwak
 untappd: "https://untappd.com/b/brouwerij-bosteels-pauwel-kwak/358"
+country: "Belgium"
 brewery: "Brouwerij Bosteels"
 breweryURL: "https://untappd.com/w/brouwerij-bosteels/269"
 style: "Belgian Strong Golden Ale"

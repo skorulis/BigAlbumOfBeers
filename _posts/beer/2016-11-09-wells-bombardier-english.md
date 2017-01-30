@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wells-bombardier-english.md
 title: Wells bombardier English
 untappd: "https://untappd.com/b/charles-wells-brewery-wells-bombardier-glorious-english/5101"
+country: "United Kingdom"
 brewery: "Charles Wells Brewery"
 breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
 style: "English Bitter"

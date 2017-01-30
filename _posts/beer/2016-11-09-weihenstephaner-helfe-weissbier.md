@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-weihenstephaner-helfe-weissbier.md
 title: Weihenstephaner helfe weissbier
 untappd: "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745"
+country: "Germany"
 brewery: "Bayerische Staatsbrauerei Weihenstephan"
 breweryURL: "https://untappd.com/w/bayerische-staatsbrauerei-weihenstephan/88"
 style: "Hefeweizen"

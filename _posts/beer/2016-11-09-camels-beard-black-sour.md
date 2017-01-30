@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-camels-beard-black-sour.md
 title: Camel's beard black sour
 untappd: "https://untappd.com/b/mudgee-brewing-co--camels-beard/991128"
+country: "Australia"
 brewery: "Mudgee Brewing Co."
 breweryURL: "https://untappd.com/w/mudgee-brewing-co-/11069"
 style: "Sour - Flanders Oud Bruin"

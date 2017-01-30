@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-queens-ale-extra-bitter-type.md
 title: Queen’s Ale Extra Bitter Type
 untappd: "https://untappd.com/b/hitejinro-queens-ale-extra-bitter-type/457452"
+country: "South Korea"
 brewery: "HiteJinro"
 breweryURL: "https://untappd.com/w/hitejinro/4669"
 style: "English Bitter"

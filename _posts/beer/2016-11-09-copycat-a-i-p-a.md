@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-copycat-a-i-p-a.md
 title: Copycat A.I.P.A
 untappd: "https://untappd.com/b/mash-brewing-copy-cat/636320"
+country: "Australia"
 brewery: "Mash Brewing"
 breweryURL: "https://untappd.com/w/mash-brewing/7859"
 style: "IPA - American"

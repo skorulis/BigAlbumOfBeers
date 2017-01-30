@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-uncle-scrooge.md
 title: Uncle Scrooge
 untappd: "https://untappd.com/b/oxfordshire-ales-uncle-scrooge/258013"
+country: "United Kingdom"
 brewery: "Oxfordshire Ales"
 breweryURL: "https://untappd.com/w/oxfordshire-ales/7242"
 style: "Winter Ale"

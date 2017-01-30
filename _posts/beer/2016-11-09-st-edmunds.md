@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-st-edmunds.md
 title: St Edmunds
 untappd: "https://untappd.com/b/greene-king-st-edmunds-golden-beer/1707"
+country: "United Kingdom"
 brewery: "Greene King"
 breweryURL: "https://untappd.com/w/greene-king/612"
 style: "Golden Ale"

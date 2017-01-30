@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-centennial-ipa.md
 title: Centennial IPA
 untappd: "https://untappd.com/b/3-floyds-brewing-company-dreadnaught/1465"
+country: "United States"
 brewery: "3 Floyds Brewing Company"
 breweryURL: "https://untappd.com/w/3-floyds-brewing-company/2470"
 style: "IPA - Imperial / Double"

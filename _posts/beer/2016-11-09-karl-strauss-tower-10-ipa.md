@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-karl-strauss-tower-10-ipa.md
 title: Karl Strauss Tower 10 IPA
 untappd: "https://untappd.com/b/karl-strauss-brewing-company-tower-10-ipa/7820"
+country: "United States"
 brewery: "Karl Strauss Brewing Company"
 breweryURL: "https://untappd.com/w/karl-strauss-brewing-company/1880"
 style: "IPA - American"

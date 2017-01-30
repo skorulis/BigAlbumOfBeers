@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-rogue-dead-guy.md
 title: Rogue dead guy
 untappd: "https://untappd.com/b/rogue-ales---spirits-dead-guy-ale/4172"
+country: "United States"
 brewery: "Rogue Ales & Spirits"
 breweryURL: "https://untappd.com/w/rogue-ales---spirits/4565"
 style: "Maibock/Helles Bock"

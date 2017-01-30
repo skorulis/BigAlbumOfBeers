@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mismatch-extra-pale-ale.md
 title: Mismatch Extra pale ale
 untappd: "https://untappd.com/b/mismatch-brewing-company-extra-pale-ale/1249686"
+country: "Australia"
 brewery: "Mismatch Brewing Company"
 breweryURL: "https://untappd.com/w/mismatch-brewing-company/80137"
 style: "Pale Ale - American"

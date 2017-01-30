@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bridge-road-bling-ipa.md
 title: Bridge Road Bling IPA
 untappd: "https://untappd.com/b/bridge-road-brewers-bling-india-pale-ale/20844"
+country: "Australia"
 brewery: "Bridge Road Brewers"
 breweryURL: "https://untappd.com/w/bridge-road-brewers/3174"
 style: "IPA - American"

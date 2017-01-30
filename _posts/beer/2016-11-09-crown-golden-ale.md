@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-crown-golden-ale.md
 title: Crown golden ale
 untappd: "https://untappd.com/b/carlton---united-breweries-crown-golden-ale/725969"
+country: "Australia"
 brewery: "Carlton & United Breweries"
 breweryURL: "https://untappd.com/w/carlton---united-breweries/4045"
 style: "Golden Ale"

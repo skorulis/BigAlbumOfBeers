@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-john-boston-golden-ale.md
 title: John Boston Golden ale
 untappd: "https://untappd.com/b/john-boston-the-guard-house/852663"
+country: "Australia"
 brewery: "John Boston"
 breweryURL: "https://untappd.com/w/john-boston/3932"
 style: "Golden Ale"

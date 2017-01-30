@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-five-lamps.md
 title: Five lamps
 untappd: "https://untappd.com/b/the-5-lamps-dublin-brewery-five-lamps-dublin-lager/305906"
+country: "Ireland"
 brewery: "The 5 Lamps Dublin Brewery"
 breweryURL: "https://untappd.com/w/the-5-lamps-dublin-brewery/53752"
 style: "Lager - Pale"

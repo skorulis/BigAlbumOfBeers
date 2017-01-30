@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-liberty-ale.md
 title: Liberty ale
 untappd: "https://untappd.com/b/anchor-brewing-company-liberty-ale/5173"
+country: "United States"
 brewery: "Anchor Brewing Company"
 breweryURL: "https://untappd.com/w/anchor-brewing-company/3891"
 style: "IPA - American"

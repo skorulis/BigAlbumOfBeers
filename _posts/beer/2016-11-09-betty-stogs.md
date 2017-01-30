@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-betty-stogs.md
 title: Betty Stogs
 untappd: "https://untappd.com/b/skinners-brewing-co-betty-stogs/28517"
+country: "United Kingdom"
 brewery: "Skinners Brewing Co"
 breweryURL: "https://untappd.com/w/skinners-brewing-co/2710"
 style: "English Bitter"

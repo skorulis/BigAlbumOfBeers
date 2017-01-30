@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-noisy-minor-anzus-ipa.md
 title: Noisy minor anzus IPA
 untappd: "https://untappd.com/b/fortitude-brewing-company-noisy-minor---anzus-ipa/317841"
+country: "Australia"
 brewery: "Fortitude Brewing Company"
 breweryURL: "https://untappd.com/w/fortitude-brewing-company/55982"
 style: "IPA - American"

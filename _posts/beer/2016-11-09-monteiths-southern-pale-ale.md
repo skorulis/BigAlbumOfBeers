@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-monteiths-southern-pale-ale.md
 title: Monteith’s southern pale ale
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-southern-pale-ale/626008"
+country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
 breweryURL: "https://untappd.com/w/monteiths-brewing-co--/881"
 style: "Pale Ale - New Zealand"

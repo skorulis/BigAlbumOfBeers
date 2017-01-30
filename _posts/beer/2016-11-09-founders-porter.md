@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-founders-porter.md
 title: Founders Porter
 untappd: "https://untappd.com/b/founders-brewing-co--porter/9346"
+country: "United States"
 brewery: "Founders Brewing Co."
 breweryURL: "https://untappd.com/w/founders-brewing-co-/549"
 style: "Porter - American"

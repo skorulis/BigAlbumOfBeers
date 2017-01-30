@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-clare-valley-monkeys-uncle.md
 title: Clare valley monkey's uncle
 untappd: "https://untappd.com/b/clare-valley-brewing-co--monkeys-uncle/439979"
+country: "Australia"
 brewery: "Clare Valley Brewing Co."
 breweryURL: "https://untappd.com/w/clare-valley-brewing-co-/76384"
 style: "Red Ale - American Amber / Red"

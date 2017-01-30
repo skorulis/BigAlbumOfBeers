@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-london-pride.md
 title: London Pride
 untappd: "https://untappd.com/b/fuller--smith---turner--london-pride/2762"
+country: "United Kingdom"
 brewery: "Fuller, Smith & Turner "
 breweryURL: "https://untappd.com/w/fuller--smith---turner-/3296"
 style: "English Bitter"

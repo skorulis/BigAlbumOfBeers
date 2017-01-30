@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-stone---wood-garden-ale.md
 title: Stone & wood garden ale
 untappd: "https://untappd.com/b/stone---wood-garden-ale/259372"
+country: "Australia"
 brewery: "Stone & Wood"
 breweryURL: "https://untappd.com/w/stone---wood/2555"
 style: "Pale Ale - Australian"

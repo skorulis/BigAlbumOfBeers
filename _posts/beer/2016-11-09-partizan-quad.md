@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-partizan-quad.md
 title: Partizan Quad
 untappd: "https://untappd.com/b/partizan-brewing-quad/433052"
+country: "United Kingdom"
 brewery: "Partizan Brewing"
 breweryURL: "https://untappd.com/w/partizan-brewing/48584"
 style: "Belgian Quad"

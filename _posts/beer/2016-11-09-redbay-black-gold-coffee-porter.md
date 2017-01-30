@@ -2,6 +2,7 @@
 layout: beer
 filename: _posts/beer/2016-11-09-redbay-black-gold-coffee-porter.md
 title: Redbay Black gold coffee porter
+country: "Australia"
 brewery: "Redbay Brewing Company"
 breweryURL: "https://untappd.com/w/redbay-brewing-company/"
 score: 7

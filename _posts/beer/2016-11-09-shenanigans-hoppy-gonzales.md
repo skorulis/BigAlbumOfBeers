@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-shenanigans-hoppy-gonzales.md
 title: Shenanigans Hoppy Gonzales
 untappd: "https://untappd.com/b/shenanigans-brewing-co--hoppy-gonzales/1187140"
+country: "Australia"
 brewery: "Shenanigans Brewing Co."
 breweryURL: "https://untappd.com/w/shenanigans-brewing-co-/104449"
 style: "Spiced / Herbed Beer"

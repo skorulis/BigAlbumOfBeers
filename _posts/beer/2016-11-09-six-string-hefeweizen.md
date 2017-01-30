@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-six-string-hefeweizen.md
 title: Six string Hefeweizen
 untappd: "https://untappd.com/b/six-string-brewing-company-hefeweizen/318878"
+country: "Australia"
 brewery: "Six String Brewing Company"
 breweryURL: "https://untappd.com/w/six-string-brewing-company/49352"
 style: "Hefeweizen"

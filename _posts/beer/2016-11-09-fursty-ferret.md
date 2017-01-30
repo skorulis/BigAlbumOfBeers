@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-fursty-ferret.md
 title: Fursty Ferret
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--fursty-ferret/8932"
+country: "United Kingdom"
 brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "https://untappd.com/w/badger-ales--hall---woodhouse-/1752"
 style: "English Bitter"

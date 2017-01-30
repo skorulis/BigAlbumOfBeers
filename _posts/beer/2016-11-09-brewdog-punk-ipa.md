@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewdog-punk-ipa.md
 title: Brewdog Punk IPA
 untappd: "https://untappd.com/b/brewdog-punk-ipa/5702"
+country: "United Kingdom"
 brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "IPA - American"

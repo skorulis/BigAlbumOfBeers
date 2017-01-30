@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hardknott-azimuth-ipa.md
 title: Hardknott azimuth IPA
 untappd: "https://untappd.com/b/hardknott-azimuth-ipa/225875"
+country: "United Kingdom"
 brewery: "Hardknott"
 breweryURL: "https://untappd.com/w/hardknott/3300"
 style: "IPA - International"

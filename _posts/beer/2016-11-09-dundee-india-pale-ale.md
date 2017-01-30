@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-dundee-india-pale-ale.md
 title: Dundee India Pale Ale
 untappd: "https://untappd.com/b/dundee-ales---lagers-dundee-india-pale-ale/12978"
+country: "United States"
 brewery: "Dundee Ales & Lagers"
 breweryURL: "https://untappd.com/w/dundee-ales---lagers/53448"
 style: "IPA - American"

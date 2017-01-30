@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-prickly-moses-chardonnay-ipa.md
 title: Prickly Moses Chardonnay IPA
 untappd: "https://untappd.com/b/prickly-moses-chardonnay-ipa/483789"
+country: "Australia"
 brewery: "Prickly Moses"
 breweryURL: "https://untappd.com/w/prickly-moses/8308"
 style: "IPA - American"

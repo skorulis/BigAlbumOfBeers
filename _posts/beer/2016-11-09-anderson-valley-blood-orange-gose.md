@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-anderson-valley-blood-orange-gose.md
 title: Anderson valley blood orange gose
 untappd: "https://untappd.com/b/anderson-valley-brewing-company-blood-orange-gose/791939"
+country: "United States"
 brewery: "Anderson Valley Brewing Company"
 breweryURL: "https://untappd.com/w/anderson-valley-brewing-company/3880"
 style: "Sour - Gose"

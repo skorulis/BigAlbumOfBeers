@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-australian-brewery-pale-ale.md
 title: Australian brewery pale ale
 untappd: "https://untappd.com/b/the-australian-brewery-the-pale-ale/49425"
+country: "Australia"
 brewery: "The Australian Brewery"
 breweryURL: "https://untappd.com/w/the-australian-brewery/3262"
 style: "Pale Ale - Australian"

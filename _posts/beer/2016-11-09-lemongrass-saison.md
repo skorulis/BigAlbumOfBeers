@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-lemongrass-saison.md
 title: Lemongrass Saison
 untappd: "https://untappd.com/b/maui-brewing-company-lemongrass-saison/303112"
+country: "United States"
 brewery: "Maui Brewing Company"
 breweryURL: "https://untappd.com/w/maui-brewing-company/836"
 style: "Saison / Farmhouse Ale"

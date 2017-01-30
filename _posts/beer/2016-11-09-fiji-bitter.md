@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-fiji-bitter.md
 title: Fiji Bitter
 untappd: "https://untappd.com/b/paradise-beverages-fiji-bitter/964155"
+country: "Fiji"
 brewery: "Paradise Beverages"
 breweryURL: "https://untappd.com/w/paradise-beverages/71489"
 style: "Lager - Pale"

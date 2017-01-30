@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-wojak-mocny.md
 title: Wojak mocny
 untappd: "https://untappd.com/b/kompania-piwowarska-wojak-mocny/878327"
+country: "Poland"
 brewery: "Kompania Piwowarska"
 breweryURL: "https://untappd.com/w/kompania-piwowarska/22399"
 style: "Lager - Euro Strong"

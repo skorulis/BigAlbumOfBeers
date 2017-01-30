@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-ale-house-pale-draught.md
 title: Ale house pale draught
 untappd: "https://untappd.com/b/australian-beer-company-alehouse-australian-premium-draught/550752"
+country: "Australia"
 brewery: "Australian Beer Company"
 breweryURL: "https://untappd.com/w/australian-beer-company/101175"
 style: "Lager - Pale"

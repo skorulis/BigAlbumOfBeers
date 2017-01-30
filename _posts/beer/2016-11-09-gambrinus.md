@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-gambrinus.md
 title: Gambrinus
 untappd: "https://untappd.com/b/plzensky-prazdroj-gambrinus-premium/46417"
+country: "Czech Republic"
 brewery: "Plzeňský Prazdroj"
 breweryURL: "https://untappd.com/w/plzensky-prazdroj/1459"
 style: "Pilsner - Czech"

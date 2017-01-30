@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-bruce-malone.md
 title: Bruce Malone
 untappd: "https://untappd.com/b/yullis-brews-bruce-malone/821236"
+country: "Australia"
 brewery: "Yulli's Brews"
 breweryURL: "https://untappd.com/w/yullis-brews/130600"
 style: "IPA - English"

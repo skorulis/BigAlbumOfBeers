@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-grain-lager.md
 title: Grain lager
 untappd: "https://untappd.com/b/rocks-brewing-co-grain-lager/263709"
+country: "Australia"
 brewery: "Rocks Brewing Co"
 breweryURL: "https://untappd.com/w/rocks-brewing-co/3242"
 style: "Lager - Pale"

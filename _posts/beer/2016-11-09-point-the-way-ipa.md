@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-point-the-way-ipa.md
 title: Point the way IPA
 untappd: "https://untappd.com/b/golden-road-brewing-point-the-way-ipa/81237"
+country: "United States"
 brewery: "Golden Road Brewing"
 breweryURL: "https://untappd.com/w/golden-road-brewing/16302"
 style: "IPA - American"

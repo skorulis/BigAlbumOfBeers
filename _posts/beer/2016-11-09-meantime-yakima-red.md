@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-meantime-yakima-red.md
 title: Meantime Yakima Red
 untappd: "https://untappd.com/b/meantime-brewing-company-yakima-red/45917"
+country: "United Kingdom"
 brewery: "Meantime Brewing Company"
 breweryURL: "https://untappd.com/w/meantime-brewing-company/844"
 style: "Red Ale - American Amber / Red"

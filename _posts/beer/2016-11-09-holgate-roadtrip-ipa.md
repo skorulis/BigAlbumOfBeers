@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-holgate-roadtrip-ipa.md
 title: Holgate roadtrip ipa
 untappd: "https://untappd.com/b/holgate-brewhouse-road-trip/28311"
+country: "Australia"
 brewery: "Holgate Brewhouse"
 breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
 style: "IPA - American"

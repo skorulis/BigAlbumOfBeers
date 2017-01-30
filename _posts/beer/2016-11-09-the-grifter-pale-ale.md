@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-the-grifter-pale-ale.md
 title: The grifter pale ale
 untappd: "https://untappd.com/b/grifter-brewing-company-pale-ale/189684"
+country: "Australia"
 brewery: "Grifter Brewing Company"
 breweryURL: "https://untappd.com/w/grifter-brewing-company/32845"
 style: "Pale Ale - Australian"

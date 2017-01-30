@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-old-tom-chocolate.md
 title: Old Tom Chocolate
 untappd: "https://untappd.com/b/robinsons-brewery-old-tom-chocolate/40157"
+country: "United Kingdom"
 brewery: "Robinsons Brewery"
 breweryURL: "https://untappd.com/w/robinsons-brewery/2908"
 style: "Strong Ale - English"

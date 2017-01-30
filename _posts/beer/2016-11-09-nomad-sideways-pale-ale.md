@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-nomad-sideways-pale-ale.md
 title: Nomad Sideways Pale ale
 untappd: "https://untappd.com/b/nomad-brewing-co--sideways-hoppy-pale/918552"
+country: "Australia"
 brewery: "Nomad Brewing Co."
 breweryURL: "https://untappd.com/w/nomad-brewing-co-/145688"
 style: "Pale Ale - Australian"

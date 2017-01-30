@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-james-squire-stow-away-ipa.md
 title: James Squire Stow Away IPA
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-stow-away-ipa/1904"
+country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 style: "IPA - English"

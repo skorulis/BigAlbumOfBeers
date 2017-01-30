@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brakspear-oxford-gold.md
 title: Brakspear Oxford gold
 untappd: "https://untappd.com/b/brakspear-brewing-company-oxford-gold/14933"
+country: "United Kingdom"
 brewery: "Brakspear Brewing Company"
 breweryURL: "https://untappd.com/w/brakspear-brewing-company/1353"
 style: "Golden Ale"

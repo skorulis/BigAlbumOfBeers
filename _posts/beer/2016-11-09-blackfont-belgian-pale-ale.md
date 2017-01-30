@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-blackfont-belgian-pale-ale.md
 title: Blackfont Belgian pale ale
 untappd: "https://untappd.com/b/blackfont-brewhouse-belgian-pale-ale/1493077"
+country: "Australia"
 brewery: "BlackFont Brewhouse"
 breweryURL: "https://untappd.com/w/blackfont-brewhouse/231217"
 style: "Pale Ale - Belgian"

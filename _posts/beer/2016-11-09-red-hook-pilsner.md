@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-red-hook-pilsner.md
 title: Red hook pilsner
 untappd: "https://untappd.com/b/redhook-brewery-pilsner/40858"
+country: "United States"
 brewery: "Redhook Brewery"
 breweryURL: "https://untappd.com/w/redhook-brewery/1051"
 style: "Pilsner - Other"

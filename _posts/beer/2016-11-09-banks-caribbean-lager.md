@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-banks-caribbean-lager.md
 title: Banks caribbean lager
 untappd: "https://untappd.com/b/banks--barbados--breweries-caribbean-lager/17620"
+country: "Barbados"
 brewery: "Banks (Barbados) Breweries"
 breweryURL: "https://untappd.com/w/banks--barbados--breweries/6280"
 style: "Lager - North American Adjunct"

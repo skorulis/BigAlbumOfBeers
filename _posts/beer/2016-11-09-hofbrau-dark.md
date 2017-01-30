@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hofbrau-dark.md
 title: Hofbrau dark
 untappd: "https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-schwarze-weisse--dark-wheat--hefeweizen-dunkel/25780"
+country: "Germany"
 brewery: "Staatliches Hofbräuhaus München"
 breweryURL: "https://untappd.com/w/staatliches-hofbrauhaus-munchen/5566"
 style: "Dunkelweizen"

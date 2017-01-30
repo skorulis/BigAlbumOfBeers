@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-amber-rambler.md
 title: Amber rambler
 untappd: "https://untappd.com/b/moorhouses-brewery-amber-rambler/39170"
+country: "United Kingdom"
 brewery: "Moorhouse's Brewery"
 breweryURL: "https://untappd.com/w/moorhouses-brewery/884"
 style: "Pale Ale - English"

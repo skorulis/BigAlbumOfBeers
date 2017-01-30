@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-stefanos-pilsner.md
 title: Stefano’s pilsner
 untappd: "https://untappd.com/b/mildura-brewery-stefanos-pilsner/42113"
+country: "Australia"
 brewery: "Mildura Brewery"
 breweryURL: "https://untappd.com/w/mildura-brewery/3345"
 style: "Pilsner - Other"

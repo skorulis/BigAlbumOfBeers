@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-modus-operandi-sonic-prayer.md
 title: Modus operandi sonic prayer
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--sonic-prayer/1291720"
+country: "Australia"
 brewery: "Modus Operandi Brewing Co."
 breweryURL: "https://untappd.com/w/modus-operandi-brewing-co-/145927"
 style: "IPA - American"

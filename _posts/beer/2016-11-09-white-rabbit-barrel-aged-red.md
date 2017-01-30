@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-white-rabbit-barrel-aged-red.md
 title: White rabbit barrel aged red
 untappd: "https://untappd.com/b/white-rabbit-barrel-aged-red/1533061"
+country: "Australia"
 brewery: "White Rabbit"
 breweryURL: "https://untappd.com/w/white-rabbit/2051"
 style: "Sour - Flanders Red Ale"

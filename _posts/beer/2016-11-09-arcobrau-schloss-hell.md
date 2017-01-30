@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-arcobrau-schloss-hell.md
 title: Arcobräu schloss hell
 untappd: "https://untappd.com/b/arcobrau-grafliches-brauhaus-schloss-hell/84421"
+country: "Germany"
 brewery: "Arcobräu Gräfliches Brauhaus"
 breweryURL: "https://untappd.com/w/arcobrau-grafliches-brauhaus/16764"
 style: "Lager - Helles"

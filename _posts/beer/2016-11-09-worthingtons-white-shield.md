@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-worthingtons-white-shield.md
 title: Worthingtons White Shield
 untappd: "https://untappd.com/b/worthingtons-white-shield/15084"
+country: "United Kingdom"
 brewery: "Worthington's"
 breweryURL: "https://untappd.com/w/worthingtons/12474"
 style: "IPA - English"

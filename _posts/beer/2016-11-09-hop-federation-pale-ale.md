@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hop-federation-pale-ale.md
 title: Hop Federation Pale ale
 untappd: "https://untappd.com/b/hop-federation-pale-ale/503513"
+country: "New Zealand"
 brewery: "Hop Federation"
 breweryURL: "https://untappd.com/w/hop-federation/83783"
 style: "Pale Ale - New Zealand"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-halifter-stout.md
 title: Halifter Stout
 untappd: "https://untappd.com/b/grand-ridge-brewery-hatlifter-stout/36983"
+country: "Australia"
 brewery: "Grand Ridge Brewery"
 breweryURL: "https://untappd.com/w/grand-ridge-brewery/4331"
 style: "Stout - Other"

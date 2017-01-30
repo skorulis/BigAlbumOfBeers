@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-ruby-tuesday.md
 title: Ruby Tuesday
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-ruby-tuesday/388493"
+country: "Australia"
 brewery: "Matilda Bay Brewing Company"
 breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
 style: "Red Ale - American Amber / Red"

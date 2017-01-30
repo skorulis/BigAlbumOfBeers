@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-forester-bitter-amber-ale.md
 title: Forester bitter amber ale
 untappd: "https://untappd.com/b/two-metre-tall-forester-bitter-amber-ale/25802"
+country: "Australia"
 brewery: "Two Metre Tall"
 breweryURL: "https://untappd.com/w/two-metre-tall/5270"
 style: "Red Ale - American Amber / Red"

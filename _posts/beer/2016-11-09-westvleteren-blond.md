@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-westvleteren-blond.md
 title: Westvleteren Blond
 untappd: "https://untappd.com/b/brouwerij-de-sint-sixtusabdij-van-westvleteren-trappist-westvleteren-blond/4681"
+country: "Belgium"
 brewery: "Brouwerij De Sint-Sixtusabdij van Westvleteren"
 breweryURL: "https://untappd.com/w/brouwerij-de-sint-sixtusabdij-van-westvleteren/263"
 style: "Blonde Ale - Belgian Blonde / Golden"

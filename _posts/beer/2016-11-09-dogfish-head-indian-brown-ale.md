@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-dogfish-head-indian-brown-ale.md
 title: Dogfish head indian brown ale
 untappd: "https://untappd.com/b/dogfish-head-craft-brewery-indian-brown-dark-ipa/4013"
+country: "United States"
 brewery: "Dogfish Head Craft Brewery"
 breweryURL: "https://untappd.com/w/dogfish-head-craft-brewery/459"
 style: "Brown Ale - Other"

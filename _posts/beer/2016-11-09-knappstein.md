@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-knappstein.md
 title: Knappstein
 untappd: "https://untappd.com/b/knappstein-enterprise-winery---brewery-knappstein-reserve-lager/12681"
+country: "Australia"
 brewery: "Knappstein Enterprise Winery & Brewery"
 breweryURL: "https://untappd.com/w/knappstein-enterprise-winery---brewery/3415"
 style: "Lager - Pale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-hope-black-ipa.md
 title: Hope black IPA
 untappd: "https://untappd.com/b/hope-brewhouse-black-ipa/1415695"
+country: "Australia"
 brewery: "Hope Brewhouse"
 breweryURL: "https://untappd.com/w/hope-brewhouse/135956"
 style: "IPA - Black / Cascadian Dark Ale"

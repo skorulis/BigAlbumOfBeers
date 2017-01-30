@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-magic-rock-salty-kiss.md
 title: Magic rock salty kiss
 untappd: "https://untappd.com/b/magic-rock-brewing-salty-kiss/322150"
+country: "United Kingdom"
 brewery: "Magic Rock Brewing"
 breweryURL: "https://untappd.com/w/magic-rock-brewing/13156"
 style: "Sour - Gose"

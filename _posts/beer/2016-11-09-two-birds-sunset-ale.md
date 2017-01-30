@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-two-birds-sunset-ale.md
 title: Two birds sunset ale
 untappd: "https://untappd.com/b/two-birds-brewing-sunset-ale/169972"
+country: "Australia"
 brewery: "Two Birds Brewing"
 breweryURL: "https://untappd.com/w/two-birds-brewing/17463"
 style: "Red Ale - American Amber / Red"

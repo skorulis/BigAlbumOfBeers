@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-altenmunster.md
 title: Altenmünster
 untappd: "https://untappd.com/b/allgauer-brauhaus-altenmunster-urig-wurzig/29819"
+country: "Germany"
 brewery: "Allgäuer Brauhaus"
 breweryURL: "https://untappd.com/w/allgauer-brauhaus/4674"
 style: "Lager - Helles"

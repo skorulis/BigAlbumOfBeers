@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-redback-beer.md
 title: Redback beer
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-redback-original/2615"
+country: "Australia"
 brewery: "Matilda Bay Brewing Company"
 breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
 style: "Kristallweizen "

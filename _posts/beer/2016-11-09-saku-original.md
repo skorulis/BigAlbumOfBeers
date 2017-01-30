@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-saku-original.md
 title: Saku original
 untappd: "https://untappd.com/b/saku-olletehas-saku-originaal/59424"
+country: "Estonia"
 brewery: "Saku Õlletehas"
 breweryURL: "https://untappd.com/w/saku-olletehas/1094"
 style: "Lager - Pale"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-yenda-golden-ale.md
 title: Yenda Golden ale
 untappd: "https://untappd.com/b/australian-beer-company-yenda-golden-ale/1032774"
+country: "Australia"
 brewery: "Australian Beer Company"
 breweryURL: "https://untappd.com/w/australian-beer-company/101175"
 style: "Golden Ale"

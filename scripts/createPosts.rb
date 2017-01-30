@@ -14,6 +14,7 @@ allBeers.each do |item|
 	stat = statMap[name]
 	extra = extraMap[name]
 	brewery = stat["b"]
+	country = stat["c"]
 	style = stat["style"]
 	untappd = extra["untappd"]
 
@@ -27,6 +28,10 @@ allBeers.each do |item|
 
 		if untappdURL
 			file.puts('untappd: "' + untappdURL + '"')
+		end
+
+		if country
+			file.puts('country: "' + country + '"')
 		end
 		
 		if brewery

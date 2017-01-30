@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-burleigh-brewing-co-28-pale-ale.md
 title: Burleigh brewing Co 28 Pale Ale
 untappd: "https://untappd.com/b/burleigh-brewing-co--28-pale-ale/21149"
+country: "Australia"
 brewery: "Burleigh Brewing Co."
 breweryURL: "https://untappd.com/w/burleigh-brewing-co-/3168"
 style: "Pale Ale - American"

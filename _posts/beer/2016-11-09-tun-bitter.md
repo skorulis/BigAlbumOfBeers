@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-tun-bitter.md
 title: TUN Bitter
 untappd: "https://untappd.com/b/wow-brands-tun-bitter/192401"
+country: "Australia"
 brewery: "Wow Brands"
 breweryURL: "https://untappd.com/w/wow-brands/25487"
 style: "Lager - North American Adjunct"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-boatrocker-hop-bomb-ipa.md
 title: Boatrocker hop bomb IPA
 untappd: "https://untappd.com/b/boatrocker-brewing-company-hop-bomb-ipa/363408"
+country: "Australia"
 brewery: "Boatrocker Brewing Company"
 breweryURL: "https://untappd.com/w/boatrocker-brewing-company/3106"
 style: "IPA - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-yeasty-boys-hud-a-wa-strong.md
 title: Yeasty boys hud-a-wa strong
 untappd: "https://untappd.com/b/yeastie-boys-hud-a-wa-strong/42147"
+country: "New Zealand"
 brewery: "Yeastie Boys"
 breweryURL: "https://untappd.com/w/yeastie-boys/3591"
 style: "Red Ale - American Amber / Red"

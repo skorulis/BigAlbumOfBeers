@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-rodenbach.md
 title: Rodenbach
 untappd: "https://untappd.com/b/brouwerij-rodenbach-rodenbach/9198"
+country: "Belgium"
 brewery: "Brouwerij Rodenbach"
 breweryURL: "https://untappd.com/w/brouwerij-rodenbach/291"
 style: "Sour - Flanders Red Ale"

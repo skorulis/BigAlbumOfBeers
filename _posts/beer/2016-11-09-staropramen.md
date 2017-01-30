@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-staropramen.md
 title: Staropramen
 untappd: "https://untappd.com/b/pivovary-staropramen-staropramen-premium--lezak/38700"
+country: "Czech Republic"
 brewery: "Pivovary Staropramen"
 breweryURL: "https://untappd.com/w/pivovary-staropramen/998"
 style: "Pilsner - Czech"

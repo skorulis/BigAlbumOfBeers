@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-matsos-ginger-beer.md
 title: Matso’s ginger beer
 untappd: "https://untappd.com/b/matsos-broome-brewery-ginger-beer/35702"
+country: "Australia"
 brewery: "Matso's Broome Brewery"
 breweryURL: "https://untappd.com/w/matsos-broome-brewery/4469"
 style: "Ginger Beer"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mornington-porter.md
 title: Mornington porter
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-porter/27335"
+country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
 style: "Porter - American"

@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-two-birds-taco.md
 title: Two birds taco
 untappd: "https://untappd.com/b/two-birds-brewing-taco/364178"
+country: "Australia"
 brewery: "Two Birds Brewing"
 breweryURL: "https://untappd.com/w/two-birds-brewing/17463"
 style: "Other"

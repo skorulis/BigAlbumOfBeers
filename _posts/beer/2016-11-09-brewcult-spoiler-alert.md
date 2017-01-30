@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-brewcult-spoiler-alert.md
 title: Brewcult spoiler alert
 untappd: "https://untappd.com/b/brewcult-spoiler-alert/973173"
+country: "Australia"
 brewery: "BrewCult"
 breweryURL: "https://untappd.com/w/brewcult/62206"
 style: "Lager - Pale"

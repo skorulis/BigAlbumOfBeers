@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-love-dale-lager.md
 title: Love Dale Lager
 untappd: "https://untappd.com/b/lovedale-brewery-lovedale-lager/876824"
+country: "Australia"
 brewery: "Lovedale Brewery"
 breweryURL: "https://untappd.com/w/lovedale-brewery/168333"
 style: "Lager - Helles"

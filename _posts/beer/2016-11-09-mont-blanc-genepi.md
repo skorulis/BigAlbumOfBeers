@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-mont-blanc-genepi.md
 title: Mont Blanc Génépi
 untappd: "https://untappd.com/b/brasserie-du-mont-blanc-la-verte/6013"
+country: "France"
 brewery: "Brasserie du Mont Blanc"
 breweryURL: "https://untappd.com/w/brasserie-du-mont-blanc/1433"
 style: "Spiced / Herbed Beer"

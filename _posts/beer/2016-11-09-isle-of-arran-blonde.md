@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-isle-of-arran-blonde.md
 title: Isle of Arran blonde
 untappd: "https://untappd.com/b/isle-of-arran-brewery-co--blonde/18918"
+country: "United Kingdom"
 brewery: "Isle of Arran Brewery Co."
 breweryURL: "https://untappd.com/w/isle-of-arran-brewery-co-/4393"
 style: "Blonde Ale"

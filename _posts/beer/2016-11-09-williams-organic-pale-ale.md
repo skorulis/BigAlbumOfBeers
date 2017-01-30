@@ -3,6 +3,7 @@ layout: beer
 filename: _posts/beer/2016-11-09-williams-organic-pale-ale.md
 title: William’s organic pale ale
 untappd: "https://untappd.com/b/william-bull-brewery-williams-organic-pale-ale/7709"
+country: "Australia"
 brewery: "William Bull Brewery"
 breweryURL: "https://untappd.com/w/william-bull-brewery/18580"
 style: "Pale Ale - Australian"
