@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'json'
+require 'Date'
 
 allBeers = JSON.parse(File.read('js/raw.json'))
 extraInfo = JSON.parse(File.read('js/extra.json'))
@@ -70,7 +71,7 @@ allBeers.each do |item|
 
 	if item["pct"] != "null"
 		stat["pct"] = item["pct"].to_f
-	elsif untappd["abv"]
+	elsif untappd["abv"] && untappd["abv"] != 0
 		stat["pct"] = untappd["abv"]
 	end
 
@@ -148,6 +149,30 @@ puts JSON.pretty_generate(countries)
 puts ratings
 puts untappdRatings
 
+
+
+date1 = Date.parse(stats[0]["d"])
+date2 = Date.parse(stats[stats.length - 1]["d"])
+months = (date2.year * 12 + date2.month) - (date1.year * 12 + date1.month)
+years = months/12;
+months = months - years * 12;
+
+timeText = years.to_s + " years";
+if(months > 0) 
+	timeText += " and " + months.to_s + " months";
+end
+
+quickStats = Hash.new
+quickStats["total"] = stats.length
+quickStats["breweries"] = breweries.length
+quickStats["countries"] = countries.length
+quickStats["months"] = months
+quickStats["timeText"] = timeText
+
 File.open("js/stats.json","w") do |f|
   f.write(JSON.pretty_generate(stats))
+end
+
+File.open("_data/quickStats.json","w") do |f|
+  f.write(JSON.pretty_generate(quickStats))
 end

@@ -595,37 +595,13 @@ function redrawCharts() {
   makeScatterplot(beerData,scatterPlotConfig);
 }
 
-function setTextFields() {
-
-  var firstDate = new Date(beerData[0].d);
-  var lastDate = new Date(beerData[beerData.length-1].d);
-  var months = monthDiff(firstDate,lastDate);
-  var years = Math.floor(months/12);
-  months = months - years * 12;
-
-  $("#beer-count").text(beerData.length);
-  $("#country-count").text(Object.keys(countryCounts).length);
-  $("#brewery-count").text(Object.keys(breweryCounts).length);
-  var timeText = years + " years";
-  if(months > 0) {
-    timeText += " and " + months + " months";
-  }
-  $("#time-period").text(timeText);
-
-}
-
 d3.json("/js/stats.json", function(err, data) {
   beerData = data;
   countryCounts = extractCountries(data);
   styleCounts = extractField(data,"style");
   breweryCounts = extractField(data,"b");
   scoreFrequency = extractScoreFrequency(data);
-  setTextFields();
   redrawCharts();
-
-  
-
-  
 });
 
 
