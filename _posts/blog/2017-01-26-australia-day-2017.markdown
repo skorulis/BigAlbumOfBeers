@@ -1,0 +1,16 @@
+---
+layout: default
+slim-header: true
+title:  "Australia day 2017"
+date:   2016-12-09
+category: [blog,beer]
+comments: true
+thumbnail: acdc.jpg
+permalink: /blog/:year/:month/:day/:title.html
+---
+
+This year the 26th of January was a tad cold for going to the beach but we would not be deterred as that's part of what Australia day is about. Helping me cope with the weather was a 5L mini keg that my dad had given me for my birthday. It's hard to find a day where you have time to down 5L of beer and this was the perfect time.
+
+Overall it was a decent beer. I suck at using those kegs so I spent about half the day waiting for the head to subside but stretching my drinking out probably wasn't a bad thing.
+
+![Such a giant beer](/img/blog/acdc-beach.jpg){: .img-responsive }
