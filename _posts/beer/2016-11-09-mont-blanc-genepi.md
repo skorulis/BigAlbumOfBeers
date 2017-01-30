@@ -5,7 +5,7 @@ title: Mont Blanc Génépi
 untappd: "https://untappd.com/b/brasserie-du-mont-blanc-la-verte/6013"
 brewery: "Brasserie du Mont Blanc"
 breweryURL: "https://untappd.com/w/brasserie-du-mont-blanc/1433"
-style: "Herbed / Spiced Beer"
+style: "Spiced / Herbed Beer"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13001187_10154072541123745_7747103315223526141_n.jpg?oh=2e605b2319777744f5205b30cec7f79b&oe=59104428
 beer-date: 2016-04-21

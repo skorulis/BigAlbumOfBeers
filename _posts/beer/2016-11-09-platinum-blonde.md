@@ -3,8 +3,8 @@ layout: beer
 filename: _posts/beer/2016-11-09-platinum-blonde.md
 title: Platinum blonde
 untappd: "https://untappd.com/b/hahn-brewing-co--pty-ltd-platinum-blonde/278786"
-brewery: "Hahn Brewing Co. Pty Ltd (Lion Nathan)"
-breweryURL: "https://untappd.com/w/hahn-brewing-co--pty-ltd--lion-nathan-/14378"
+brewery: "Hahn Brewing Co. Pty Ltd"
+breweryURL: "https://untappd.com/w/hahn-brewing-co--pty-ltd/14378"
 style: "Lager - Pale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/576008_10151563947183745_1748647687_n.jpg?oh=397d2530826c316572e3329f9dc30566&oe=5919A180

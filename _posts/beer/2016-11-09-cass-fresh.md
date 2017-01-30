@@ -7,7 +7,7 @@ brewery: "Oriental Brewery"
 breweryURL: "https://untappd.com/w/oriental-brewery/6167"
 style: "Lager - North American Adjunct"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10463933_10152534306048745_557216881289649027_n.jpg?oh=6d11c5156fb2450a5341a682f891b21f&oe=591D38AC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10463933_10152534306048745_557216881289649027_n.jpg?oh=ac6aa2383a8976fea8376b080be33ae9&oe=5944C5AC
 beer-date: 2014-06-21
 desc: "A very refreshing lager"
 permalink: /beer/:title.html

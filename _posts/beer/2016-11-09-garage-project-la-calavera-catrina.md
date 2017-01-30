@@ -5,7 +5,7 @@ title: Garage Project La Calavera Catrina
 untappd: "https://untappd.com/b/garage-project-la-calavera-catrina/255471"
 brewery: "Garage Project"
 breweryURL: "https://untappd.com/w/garage-project/14539"
-style: "Chile Beer"
+style: "Spiced / Herbed Beer"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12705503_10153890412498745_7528959077834200322_n.jpg?oh=1589f33492c8136ca49bc8476bf20323&oe=5904D822
 beer-date: 2016-02-14

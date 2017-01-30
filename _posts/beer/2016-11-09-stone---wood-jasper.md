@@ -7,7 +7,7 @@ brewery: "Stone & Wood"
 breweryURL: "https://untappd.com/w/stone---wood/2555"
 style: "Altbier"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955201_10153053852088745_6663961286785907822_n.jpg?oh=36ee4e29d5fac032efb16606ed15431d&oe=591E4ADF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955201_10153053852088745_6663961286785907822_n.jpg?oh=ba146eb6dc24b978b9f03251355ec92b&oe=5945D7DF
 beer-date: 2015-01-28
 desc: "Rich but not right"
 permalink: /beer/:title.html

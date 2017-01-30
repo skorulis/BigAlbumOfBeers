@@ -7,7 +7,7 @@ brewery: "St. Peter’s Brewery Co."
 breweryURL: "https://untappd.com/w/st--peters-brewery-co-/2855"
 style: "English Mild Ale"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185966_10151929070968745_2126426266_n.jpg?oh=8550b2734edbbaf04b5c2a51ec075fdf&oe=5924381D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185966_10151929070968745_2126426266_n.jpg?oh=8d96caff9c1c4c7ec7ed35efc49b564d&oe=594BC51D
 beer-date: 2013-09-19
 desc: "This company seems incapable of making a good beer"
 permalink: /beer/:title.html

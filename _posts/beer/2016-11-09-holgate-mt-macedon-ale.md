@@ -5,7 +5,7 @@ title: Holgate mt Macedon ale
 untappd: "https://untappd.com/b/holgate-brewhouse-mt--macedon-pale-ale/7655"
 brewery: "Holgate Brewhouse"
 breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
-style: "Pale Ale - American"
+style: "Pale Ale - Australian"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/536215_10151602297528745_137791391_n.jpg?oh=fa2702e52e0debc54b86be7971d933cb&oe=59082830
 beer-date: 2013-03-28

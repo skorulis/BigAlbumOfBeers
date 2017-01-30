@@ -7,7 +7,7 @@ brewery: "The Wild Beer Co"
 breweryURL: "https://untappd.com/w/the-wild-beer-co/41559"
 style: "Saison / Farmhouse Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1001179_10151798797773745_1783696922_n.jpg?oh=5ac829c9fd517f90b2fb5ea1a2a02596&oe=591DFFF3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1001179_10151798797773745_1783696922_n.jpg?oh=160008de4c6362305d8898c04e37cb36&oe=59458CF3
 beer-date: 2013-07-19
 desc: "Weird as hell. Is that ginger ?"
 permalink: /beer/:title.html

@@ -7,7 +7,7 @@ brewery: "Greene King"
 breweryURL: "https://untappd.com/w/greene-king/612"
 style: "English Bitter"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/407150_10151649177363745_297706272_n.jpg?oh=b385df60bd15a3991a56e9b9a70046bc&oe=591FD2FE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/407150_10151649177363745_297706272_n.jpg?oh=3d6b2dcd04bc508ddab5d1a429781f1e&oe=59475FFE
 beer-date: 2013-04-27
 desc: "An easy drinking ale"
 permalink: /beer/:title.html

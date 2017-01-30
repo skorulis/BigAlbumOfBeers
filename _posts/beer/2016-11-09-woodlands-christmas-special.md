@@ -7,7 +7,7 @@ brewery: "Woodlands Brewing Company"
 breweryURL: "https://untappd.com/w/woodlands-brewing-company/9219"
 style: "Winter Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1623661_10152293086658745_850862784_n.jpg?oh=56c0e3f30dc622613f2d54b950c502bd&oe=59215F77
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1623661_10152293086658745_850862784_n.jpg?oh=97dcd239bd414f7ebe442daf7cae6d39&oe=5948EC77
 beer-date: 2014-03-01
 desc: "Very good for a British ale"
 permalink: /beer/:title.html

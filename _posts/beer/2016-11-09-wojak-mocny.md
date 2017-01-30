@@ -7,7 +7,7 @@ brewery: "Kompania Piwowarska"
 breweryURL: "https://untappd.com/w/kompania-piwowarska/22399"
 style: "Lager - Euro Strong"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/321669_10151649177583745_849913582_n.jpg?oh=5cc198cda08cf127aef246f95cb10896&oe=591EE4EB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/321669_10151649177583745_849913582_n.jpg?oh=f52504390ad96fb4f23430122745a973&oe=594671EB
 beer-date: 2013-04-27
 desc: "Smooth and mild"
 permalink: /beer/:title.html

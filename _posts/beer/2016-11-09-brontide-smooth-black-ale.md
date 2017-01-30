@@ -7,7 +7,7 @@ brewery: "Stillwater Artisanal Ales"
 breweryURL: "https://untappd.com/w/stillwater-artisanal-ales/1203"
 style: "Dark Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12734008_10153890416878745_633217613773642603_n.jpg?oh=5148f46b31a6060e70b645747f1f5f96&oe=58D60209
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12734008_10153890416878745_633217613773642603_n.jpg?oh=57259ed5614406666ceed3c0b1d79fed&oe=58FD8F09
 beer-date: 2016-02-14
 desc: "Started off a bit harsh but was a lot better than other black ales. Makes me want to try more dark beers"
 permalink: /beer/:title.html

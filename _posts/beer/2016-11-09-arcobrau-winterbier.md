@@ -7,7 +7,7 @@ brewery: "Arcobräu Gräfliches Brauhaus"
 breweryURL: "https://untappd.com/w/arcobrau-grafliches-brauhaus/16764"
 style: "Lager - Winter"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/74388_10151428532683745_883935005_n.jpg?oh=1a3c2fce5c7b7448b63a1fad1988c742&oe=591D40C3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/74388_10151428532683745_883935005_n.jpg?oh=e82cb8c5ddf48465daf93bafca2b8801&oe=5944CDC3
 beer-date: 2013-01-13
 desc: "Not sure what it has to do with winter"
 permalink: /beer/:title.html

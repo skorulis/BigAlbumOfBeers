@@ -7,7 +7,7 @@ brewery: "Flying Dog Brewery"
 breweryURL: "https://untappd.com/w/flying-dog-brewery/540"
 style: "Lager - Pale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/993032_10152293086873745_958885686_n.jpg?oh=f6953f3add8131fef919c7e3c7a6afe9&oe=58D5BE28
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/993032_10152293086873745_958885686_n.jpg?oh=6851dac84c439ccc8469f204fa548f97&oe=58FD4B28
 beer-date: 2014-03-01
 desc: "Fruity and mild"
 permalink: /beer/:title.html

@@ -7,7 +7,7 @@ brewery: "Bristol Beer Factory"
 breweryURL: "https://untappd.com/w/bristol-beer-factory/3503"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12741906_10153890416078745_2509646553682533650_n.jpg?oh=1b3867761aac8d5bea0205562031d72c&oe=591D20FF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12741906_10153890416078745_2509646553682533650_n.jpg?oh=dc725505c4e44c5f660ac7237473f625&oe=5944ADFF
 beer-date: 2016-02-14
 desc: "The description sounded good but didn't quite hit that mark"
 permalink: /beer/:title.html

@@ -7,7 +7,7 @@ brewery: "Shepherd Neame"
 breweryURL: "https://untappd.com/w/shepherd-neame/1132"
 style: "Extra Special / Strong Bitter"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/533497_10151356728563745_544345125_n.jpg?oh=2093981f83f997f3315fbf4ea194be0f&oe=58D6F491
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/533497_10151356728563745_544345125_n.jpg?oh=b005754594cbbe9cc84d8bd6b5bbf212&oe=58FE8191
 beer-date: 2012-12-01
 desc: "Written on the back: At 5.4% It's near the knuckle. "
 permalink: /beer/:title.html

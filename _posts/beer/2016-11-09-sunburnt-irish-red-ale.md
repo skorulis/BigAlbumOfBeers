@@ -7,7 +7,7 @@ brewery: "Eight Degrees Brewing"
 breweryURL: "https://untappd.com/w/eight-degrees-brewing/15868"
 style: "Red Ale - Irish"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12734008_10153890412458745_3823076669808581993_n.jpg?oh=bb4f2d80fdb0c95f8a335b282aaf955a&oe=5920DFD6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12734008_10153890412458745_3823076669808581993_n.jpg?oh=a9e1a0bdc83b693cb5ee257efcf9c85b&oe=59486CD6
 beer-date: 2016-02-14
 desc: "There’s a fair bit of flavour but it’s just harsh. Not my cup of tea"
 permalink: /beer/:title.html

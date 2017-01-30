@@ -7,7 +7,7 @@ brewery: "Browar Amber"
 breweryURL: "https://untappd.com/w/browar-amber/5753"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1902891_10153118668708745_4563543533450469126_n.jpg?oh=9f0ffb51565a8a30c63d3c38105f9d94&oe=59237457
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1902891_10153118668708745_4563543533450469126_n.jpg?oh=69c504b14940fed69d005c05c763bf51&oe=594B0157
 beer-date: 2015-02-27
 desc: "Not exciting"
 permalink: /beer/:title.html

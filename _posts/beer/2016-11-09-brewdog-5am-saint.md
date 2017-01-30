@@ -7,7 +7,7 @@ brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970089_10151694532248745_1860752860_n.jpg?oh=876e7eb964038a1ffc3dec0d370c9a39&oe=58D66D05
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970089_10151694532248745_1860752860_n.jpg?oh=d8dde5e9b3491d1c31b361e68a156782&oe=58FDFA05
 beer-date: 2013-05-25
 desc: "Quality amber"
 permalink: /beer/:title.html
