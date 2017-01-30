@@ -4,12 +4,14 @@ require 'httpclient'
 require 'json'
 
 # Need to generate a new token every hour or so
-@token = "EAACEdEose0cBAFY2IGC4ZBXv2KtrqDeY42qgkqIpzPgxVjAnPcccYkp23cqrzhVAtvQfjZBKO5HTnQToyrhmCoKFXLw0zdG9r8oJuHcr66oS2LZAifr4odWkLoihXmtOe3LjY0xmh3fkdHdQwegTusbkD3e56Ojj8VZA0KhBKuU1LbkXEtZAyZA55IcnfwAJsZD";
+@token = ARGV[0]
 @albums = ["10151283325498745","10152534310003745","10154858207913745"]
 @allBeers = [];
 @next = ""
 
 puts @firstUrl
+
+puts @token
 
 def urlForAlbum(albumId)
 	return "https://graph.facebook.com/v2.5/"+albumId+"?access_token="+@token + "&fields=photos.limit(150)%7Bimages,created_time,name,id,link%7D"
@@ -73,8 +75,6 @@ def downloadChunk(url)
 		hash["link"] = value["link"]
 		hash["date"] = value["created_time"][0..9]
 
-		puts hash["date"]
-
 		hash["score"] = score;
 		@allBeers.push(hash);
 		count+=1;
@@ -84,6 +84,9 @@ end
 
 def dumpPlainJS() 
 	file = File.new("js/raw.json","wb");
+	file.write(JSON.pretty_generate(@allBeers))
+
+	file = File.new("_data/raw.json","wb");
 	file.write(JSON.pretty_generate(@allBeers))
 end
 
