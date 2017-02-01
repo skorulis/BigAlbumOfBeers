@@ -5,7 +5,7 @@ date:   2016-11-12
 category: blog
 comments: true
 thumbnail: freeze.jpg
-permalink: /blog/:title.html
+permalink: /blog/:year/:month/:day/:title.html
 ---
 
 ![What a mess](/img/blog/freeze/bottle-bomb.jpg){: .img-responsive }

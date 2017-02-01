@@ -6,7 +6,7 @@ date:   2016-09-24
 category: blog
 comments: true
 thumbnail: death-between-the-tanks.jpg
-permalink: /blog/:title.html
+permalink: /blog/:year/:month/:day/:title.html
 ---
 
 Today was a busy and involved day full of physical exercise that I usually only see indoors at the gym. I really needed a nice cold beer. As I opened my vegetable crisper (Which is a perfectly valid place to keep beers) my hand touched a can of Anderson Valley Hop Ottin IPA. Now IPAs are one of my favourite styles but they can be difficult; You have have to be ready for a real kick in the face and be prepared to eschew food which will ruin your ability to tolerate the extreme bitterness. 
