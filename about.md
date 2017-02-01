@@ -11,3 +11,6 @@ This slowly moved on from just trying to find which beer was my favorite to atte
 
 Fast forward a few years and the spark came to me that I should actually document this journey. Thus began the big album of beers. The single rule was that I would snap a photograph of every unique beer that I could find.
 
+These days you'll find me always chasing that new and exciting beer where ever that may lead me. 
+
+![Oktoberfest!](/img/me/oktoberfest.jpg){: .img-responsive }
