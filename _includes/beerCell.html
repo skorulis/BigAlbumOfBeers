@@ -1,0 +1,25 @@
+<div class="col-md-4 col-sm-6 col-xs-12">
+  <a href="/beer/{{include.beer.name | remove: "'" | slugify}}.html">
+  <p class="center">
+    {{include.beer.name}}
+    {% if include.beer.score and include.beer.score != "null" %}
+        {{include.beer.score}}/10
+    {% endif %}
+
+    {% if include.beer.expanded %}
+        <br/>
+        {% if include.beer.pct %}
+            {{include.beer.pct}}%
+        {% endif %}
+        <br/>
+        {% if include.beer.desc %}
+            {{include.beer.desc}}<br/>
+        {% endif %}
+    {% endif %}
+  </p>
+  <img class="lazy beer" data-original="{{include.beer.img}}">
+  <noscript>
+    <img src="{{include.beer.img}}">
+  </noscript>
+</a>
+</div>

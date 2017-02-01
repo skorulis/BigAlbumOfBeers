@@ -25,6 +25,7 @@ allBeers.each do |item|
 		file.puts('layout: beer')
 		file.puts('filename: ' + filename)
 		file.puts('title: ' + name)
+		file.puts('category: beer')
 
 		if untappdURL
 			file.puts('untappd: "' + untappdURL + '"')
@@ -50,7 +51,7 @@ allBeers.each do |item|
 
 		file.puts('score: ' + item["score"])
 		file.puts('img: ' + item["img"])
-		file.puts('beer-date: ' + item["date"])
+		file.puts('beer-date: "' + item["date"] + '"')
 		file.puts('desc: "' + item["desc"] + '"')
 		file.puts('permalink: /beer/:title.html')
 		file.puts('---')

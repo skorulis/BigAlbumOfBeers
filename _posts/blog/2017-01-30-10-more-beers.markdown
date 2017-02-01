@@ -10,3 +10,15 @@ permalink: /blog/:year/:month/:day/:title.html
 ---
 
 Trying to do some more frequent updates which means less beers being added at a time. Today it's 10 beers I've had over the last 2 weeks bringing the total to 1034. Nothing amazing in this bunch but starting to find more of the gose style around which is fairly nice and refreshing in the summer. 
+
+<div class="beerlist row">
+	{% assign rev = site.data.raw %}
+	{% for beer in rev %}
+		{% if beer.date == "2017-01-30" %}
+			{% include beerCell.html beer=beer %}
+		{% endif %}
+	{% endfor %}
+</div>
+
+
+

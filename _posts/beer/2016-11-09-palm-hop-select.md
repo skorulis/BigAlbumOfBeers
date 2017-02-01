@@ -2,6 +2,7 @@
 layout: beer
 filename: _posts/beer/2016-11-09-palm-hop-select.md
 title: Palm hop select
+category: beer
 untappd: "https://untappd.com/b/brouwerij-palm-palm-hop-select/325284"
 country: "Belgium"
 brewery: "Brouwerij Palm"
@@ -9,7 +10,7 @@ breweryURL: "https://untappd.com/w/brouwerij-palm/967"
 style: "Pale Ale - Belgian"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12742633_10153890416108745_3638813966682726331_n.jpg?oh=35e5e7626bae75145261af6e8a55ccc6&oe=594570ED
-beer-date: 2016-02-14
+beer-date: "2016-02-14"
 desc: "I expected more, there's a slight metallic taste which shouldn't be in a nice beer"
 permalink: /beer/:title.html
 ---

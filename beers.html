@@ -5,35 +5,8 @@ slim-header: true
 ---
 
 <div class="beerlist row">
-      {% assign rev = site.data.raw | reverse %}
-      {% for beer in rev %}
-        
-        <div class="col-md-4 col-sm-6 col-xs-12">
-        <a href="/beer/{{beer.name | remove: "'" | slugify}}.html">
-          <p class="center">
-            {{beer.name}}
-            {% if beer.score and beer.score != "null" %}
-                {{beer.score}}/10
-            {% endif %}
-
-            {% if beer.expanded %}
-                <br/>
-                {% if beer.pct %}
-                    {{beer.pct}}%
-                {% endif %}
-                <br/>
-                {% if beer.desc %}
-                    {{beer.desc}}<br/>
-                {% endif %}
-            {% endif %}
-          </p>
-          <img class="lazy beer" data-original="{{beer.img}}">
-          <noscript>
-            <img src="{{beer.img}}">
-          </noscript>
-        </a>
-        </div>
-        
-      
-      {% endfor %}
-    </div>
+  {% assign rev = site.data.raw | reverse %}
+  {% for beer in rev %}
+    {% include beerCell.html beer=beer %}
+  {% endfor %}
+</div>
