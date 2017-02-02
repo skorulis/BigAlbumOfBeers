@@ -11,7 +11,7 @@
       <span class=tooltip_key></span>
       <span class="tooltip_value"></span>
       <p class="tooltip_beer">
-        Top beer: Torpedo extra IPA 9/10
+
       </p>
     </div>
 
@@ -32,6 +32,10 @@
       </form>
 
       <div id="map"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
+      <p class="caption">{{site.data.quickStats.countries}} countries seems like a lot but there's some big gaps in that map that I really want to fill</p>
 
       <h3>Breakdown by beer style</h3>
       <form id="style-form">
@@ -50,6 +54,9 @@
         </div>
       </form>
       <div id="style-svg"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
 
       <h3>Breakdown by brewery</h3>
       <form id="brewery-form">
@@ -68,10 +75,18 @@
         </div>
       </form>
       <div id="brewery-svg"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
+      <p class="caption">My brewery choices are mostly unaffected by what breweries I like and depend on what beer ranges are readily available</p>
 
       <h3>My ratings vs Untapped</h3>
 
       <div id="score-svg"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
+      <p class="caption">In general it seems I'm a harsher rater than other people on untappd but my ratings are less clustered as well</p>
 
       <h3>Scatterplot with adjustable axes</h3>
       <form id="scatter-form">
@@ -102,6 +117,9 @@
         </div>
       </form>
       <div id="scatterplot-svg"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
       
 
       <h3>Most common review words</h3>
