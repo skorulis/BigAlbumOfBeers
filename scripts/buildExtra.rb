@@ -56,6 +56,10 @@ extraData.each do |item|
 		hash["count"] = beer["stats"]["total_count"]
 		hash["users"] = beer["stats"]["total_user_count"]
 		puts "fetch beer " + hash["name"]
+
+		File.open("untappd/" + hash["id"] + ".json","w") do |f|
+			f.write(JSON.pretty_generate(result))
+		end
 		count = count + 1
 		if count > 50
 			break
