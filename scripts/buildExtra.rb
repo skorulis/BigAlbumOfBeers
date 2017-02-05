@@ -38,7 +38,7 @@ extraData.each do |item|
 	hash = item[1]["untappd"]
 
 
-	if hash["id"].length > 0 && (hash["style"] == nil || hash["breweryId"] == nil)
+	if hash["id"].length > 0 && (hash["style"] == nil || hash["count"] == nil)
 		url = "https://api.untappd.com/v4/beer/info/" + hash["id"] + "?access_token=" + ACCESS_TOKEN
 		clnt = HTTPClient.new;
 		data = clnt.get_content(url)
@@ -53,6 +53,9 @@ extraData.each do |item|
 		hash["country"] = brewery["country_name"]
 		hash["name"] = beer["beer_name"]
 		hash["abv"] = beer["beer_abv"]
+		hash["count"] = beer["stats"]["total_count"]
+		hash["users"] = beer["stats"]["total_user_count"]
+		puts "fetch beer " + hash["name"]
 		count = count + 1
 		if count > 50
 			break

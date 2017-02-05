@@ -109,6 +109,9 @@ allBeers.each do |item|
 		country = countryMapping[country]
 	end	
 
+	if extra["untappd"]["count"]
+		stat["t"] = extra["untappd"]["count"]
+	end
 
 	if country
 		stat["c"] = country
