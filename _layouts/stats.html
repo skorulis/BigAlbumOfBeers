@@ -95,16 +95,26 @@
       </noscript>
       <p class="caption">My brewery choices are mostly unaffected by what breweries I like and depend on what beer ranges are readily available</p>
 
-      <h3>Most common beers</h3>
-      <form id="common-form">
+      <h3>Top beers</h3>
+      <form id="top-form">
         <div class="switch-field">
           <input type="radio" name="quantity" id="cq_1" value="top" checked>
           <label for="cq_1">Top</label>
           <input type="radio" name="quantity" id="cq_2" value="all">
           <label for="cq_2">All</label>
         </div>
+        <div class="switch-field">
+          <input type="radio" name="metric" id="t_1" value="abv">
+          <label for="t_1">ABV%</label>
+          <input type="radio" name="metric" id="t_2" value="rating" checked>
+          <label for="t_2">Rating</label>
+          <input type="radio" name="metric" id="t_3" value="uts">
+          <label for="t_3">Untappd rating</label>
+          <input type="radio" name="metric" id="t_4" value="ibu">
+          <label for="t_4">IBU</label>
+        </div>
       </form>
-      <div id="common-svg"></div>
+      <div id="top-svg"></div>
       <noscript>
         This graph needs javascript enabled
       </noscript>

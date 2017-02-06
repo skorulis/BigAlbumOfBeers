@@ -10,7 +10,8 @@ var showStyleRatings = false;
 var showBreweryRatings = false;
 var showFullStyle = false;
 var showFullBreweries = false;
-
+var showFullTop = false;
+var topMetricName = "rating";
 
 var scatterPlotConfig = {};
 scatterPlotConfig.xAxisName = getAxisName("uts");
@@ -229,22 +230,12 @@ function makeStyleChart(element,styleCounts,showRatings,full) {
   var valFunc = function(d) {
     return showRatings ? avgScore(d) : d.count;
   }
-
   var textFunc = function(d) {
     return showRatings ? valFunc(d).toFixed(2) : valFunc(d);
   }
 
-  styleCounts = styleCounts.sort(function(a,b) {
-    return valFunc(b) - valFunc(a);
-  });
-
-  if(!full) {
-    styleCounts = styleCounts.slice(0,20);
-  }
-
-  var config = {element:element,rows:styleCounts,valFunc:valFunc,textFunc:textFunc};
+  var config = {element:element,rows:styleCounts,valFunc:valFunc,textFunc:textFunc,hasTouch:true,full:full,field:field};
   makeBarGraph(config);
-  
 }
 
 function makeTopChart(beers,metric) {
@@ -252,6 +243,9 @@ function makeTopChart(beers,metric) {
   beers = beers.filter(function(i) {
     return func(i) != undefined;
   });
+
+  var config = {element:"#top-svg",rows:beers,valFunc:func,textFunc:func,full:showFullTop};
+  makeBarGraph(config);
 }
 
 function makeBarGraph(config) {
@@ -261,6 +255,16 @@ function makeBarGraph(config) {
     barHeight = 25,
     barPadding = 4,
     labelWidth = 0;
+
+  config.rows = config.rows.sort(function(a,b) {
+    return config.valFunc(b) - config.valFunc(a);
+  });
+
+  if(!config.full) {
+    config.rows = config.rows.slice(0,20);
+  }
+
+  
 
   var height = config.rows.length * (barHeight + barPadding);
 
@@ -314,18 +318,19 @@ function makeBarGraph(config) {
       var width = this.getBBox().width;
       return Math.max(width + valueMargin, scale(config.valFunc(d)));
     });
-
-  bar.on("mousemove", function(d){
-    var top = d3.event.pageY-25;
-    var left = d3.event.pageX+10;
-    showBasicTooltip(d,d.name,top,left);
-    var best = findTopBeer(field,d.name);
-    showTopBeer(best);
-  });
-  
-  bar.on("mouseout", function(d){
-    $("#tooltip-container").hide();
-  });
+    if(config.hasTouch) {
+      bar.on("mousemove", function(d){
+        var top = d3.event.pageY-25;
+        var left = d3.event.pageX+10;
+        showBasicTooltip(d,d.name,top,left);
+        var best = findTopBeer(config.field,d.name);
+        showTopBeer(best);
+      });
+      
+      bar.on("mouseout", function(d){
+        $("#tooltip-container").hide();
+      });    
+    }
 }
 
 function makeScoreChart(scores) {
@@ -587,6 +592,15 @@ $("#style-form input").change(function() {
   makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
 });
 
+$("#top-form input").change(function() {
+  if(this.name == "metric") {
+    topMetricName = this.value;
+  } else {
+    showFullTop = this.value == "all";
+  }
+  makeTopChart(beerData,topMetricName);
+});
+
 $("#brewery-form input").change(function() {
   if(this.name == "metric") {
     showBreweryRatings = this.value == "rating";
@@ -600,7 +614,7 @@ function redrawCharts() {
   makeCountryChart(countryCounts,showCountryRatings);
   makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
   makeStyleChart("#brewery-svg",breweryCounts,showCountryRatings,showFullBreweries);
-  makeTopChart(beerData,"rating");
+  makeTopChart(beerData,topMetricName);
   makeScoreChart(scoreFrequency);
   makeScatterplot(beerData,scatterPlotConfig);
 }
