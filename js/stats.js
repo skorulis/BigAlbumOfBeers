@@ -11,6 +11,7 @@ var showBreweryRatings = false;
 var showFullStyle = false;
 var showFullBreweries = false;
 
+
 var scatterPlotConfig = {};
 scatterPlotConfig.xAxisName = getAxisName("uts");
 scatterPlotConfig.xAxisValue = getAxisFunc("uts");
@@ -164,18 +165,12 @@ function makeCountryChart(countryCounts,showAVG) {
       .attr("class", "graticule")
       .attr("d", path);
 
-  
-
   d3.json("https://s3-us-west-2.amazonaws.com/vida-public/geo/world-topo-min.json", function(error, world) {
     var countries = topojson.feature(world, world.objects.countries).features;
   
-    svg.append("path")
-       .datum(graticule)
-       .attr("class", "choropleth")
-       .attr("d", path);
+    svg.append("path").datum(graticule).attr("class", "choropleth").attr("d", path);
   
     var g = svg.append("g");
-  
     var country = g.selectAll(".country").data(countries);
   
     country.enter().insert("path")
@@ -196,7 +191,6 @@ function makeCountryChart(countryCounts,showAVG) {
             var c = countryCounts[d.properties.name];
             
             var coordinates = d3.mouse(this);
-            
             var map_width = $('.choropleth')[0].getBoundingClientRect().width;
             
             var top = (d3.event.layerY + 15);
@@ -215,9 +209,9 @@ function makeCountryChart(countryCounts,showAVG) {
 
         })
         .on("mouseout", function() {
-                $(this).attr("fill-opacity", "1.0");
-                $("#tooltip-container").hide();
-            });
+            $(this).attr("fill-opacity", "1.0");
+            $("#tooltip-container").hide();
+        });
     
     g.append("path")
         .datum(topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }))
@@ -236,6 +230,10 @@ function makeStyleChart(element,styleCounts,showRatings,full) {
     return showRatings ? avgScore(d) : d.count;
   }
 
+  var textFunc = function(d) {
+    return showRatings ? valFunc(d).toFixed(2) : valFunc(d);
+  }
+
   styleCounts = styleCounts.sort(function(a,b) {
     return valFunc(b) - valFunc(a);
   });
@@ -244,6 +242,19 @@ function makeStyleChart(element,styleCounts,showRatings,full) {
     styleCounts = styleCounts.slice(0,20);
   }
 
+  var config = {element:element,rows:styleCounts,valFunc:valFunc,textFunc:textFunc};
+  makeBarGraph(config);
+  
+}
+
+function makeTopChart(beers,metric) {
+  var func = getAxisFunc(metric);
+  beers = beers.filter(function(i) {
+    return func(i) != undefined;
+  });
+}
+
+function makeBarGraph(config) {
   var axisMargin = 20,
     margin = 40,
     valueMargin = 4,
@@ -251,17 +262,16 @@ function makeStyleChart(element,styleCounts,showRatings,full) {
     barPadding = 4,
     labelWidth = 0;
 
-  var height = styleCounts.length * (barHeight + barPadding);
+  var height = config.rows.length * (barHeight + barPadding);
 
-  var max = d3.max(styleCounts, valFunc);
+  var max = d3.max(config.rows, config.valFunc);
 
-  $(element).empty();
-  var svg = addSVG(element,undefined,height);
+  $(config.element).empty();
+  var svg = addSVG(config.element,undefined,height);
   var width = parseInt(svg.attr("width"));
 
-  var bar = svg.selectAll("g").data(styleCounts)
-    .enter()
-    .append("g");
+  var bar = svg.selectAll("g").data(config.rows)
+    .enter().append("g");
 
   bar.attr("class", "bar")
     .attr("cx",0)
@@ -288,7 +298,7 @@ function makeStyleChart(element,styleCounts,showRatings,full) {
     .attr("transform", "translate("+labelWidth+", 0)")
     .attr("height", barHeight)
     .attr("width", function(d){
-      return scale(valFunc(d));
+      return scale(config.valFunc(d));
     });
 
   bar.append("text")
@@ -298,11 +308,11 @@ function makeStyleChart(element,styleCounts,showRatings,full) {
     .attr("dy", ".35em") //vertical align middle
     .attr("text-anchor", "end")
     .text(function(d){
-      return showRatings ? avgScore(d).toFixed(2) : d.count;
+      return config.textFunc(d);
     })
     .attr("x", function(d){
       var width = this.getBBox().width;
-      return Math.max(width + valueMargin, scale(valFunc(d)));
+      return Math.max(width + valueMargin, scale(config.valFunc(d)));
     });
 
   bar.on("mousemove", function(d){
@@ -319,7 +329,6 @@ function makeStyleChart(element,styleCounts,showRatings,full) {
 }
 
 function makeScoreChart(scores) {
-
   var margin = {top: 10, right: 30, bottom: 30, left: 30};
   var svg = addSingleSVG("#score-svg",0.6);
   var fullWidth = parseInt(svg.attr("width"));
@@ -591,6 +600,7 @@ function redrawCharts() {
   makeCountryChart(countryCounts,showCountryRatings);
   makeStyleChart("#style-svg",styleCounts,showStyleRatings,showFullStyle);
   makeStyleChart("#brewery-svg",breweryCounts,showCountryRatings,showFullBreweries);
+  makeTopChart(beerData,"rating");
   makeScoreChart(scoreFrequency);
   makeScatterplot(beerData,scatterPlotConfig);
 }

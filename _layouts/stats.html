@@ -75,10 +75,39 @@
         </div>
       </form>
       <div id="brewery-svg"></div>
+      <form id="brewery-form">
+        <div class="switch-field">
+          <input type="radio" name="metric" id="bm_1" value="count" checked>
+          <label for="bm_1">Count</label>
+          <input type="radio" name="metric" id="bm_2" value="rating">
+          <label for="bm_2">Rating</label>
+        </div>
+
+        <div class="switch-field">
+          <input type="radio" name="quantity" id="bq_1" value="top" checked>
+          <label for="bq_1">Top</label>
+          <input type="radio" name="quantity" id="bq_2" value="all">
+          <label for="bq_2">All</label>
+        </div>
+      </form>
       <noscript>
         This graph needs javascript enabled
       </noscript>
       <p class="caption">My brewery choices are mostly unaffected by what breweries I like and depend on what beer ranges are readily available</p>
+
+      <h3>Most common beers</h3>
+      <form id="common-form">
+        <div class="switch-field">
+          <input type="radio" name="quantity" id="cq_1" value="top" checked>
+          <label for="cq_1">Top</label>
+          <input type="radio" name="quantity" id="cq_2" value="all">
+          <label for="cq_2">All</label>
+        </div>
+      </form>
+      <div id="common-svg"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
 
       <h3>My ratings vs Untapped</h3>
 
@@ -132,7 +161,7 @@
 
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.1.0/topojson.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="/js/jquery-3.1.1.min.js"></script>
     <script src="/js/stats.js"></script> 
 
     {% include contact_static.html %}
