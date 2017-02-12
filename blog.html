@@ -10,7 +10,7 @@ slim-header: true
     {% for post in site.posts %}
       {% if post.categories[0] == "blog" %}
         <div class="row">
-        <div class="col-sm-6 col-xs-12">
+        <div class="col-sm-6 col-xs-12 post-item">
           <a href="{{ post.url | prepend: site.baseurl }}">
           <img class="img-list-img" src="/img/blog/thumbnails/{{post.thumbnail}}" alt="...">
           </a>
