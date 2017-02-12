@@ -20,7 +20,7 @@
 
     <!-- Custom Fonts -->
     <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://bigalbumofbeers.com{{page.url}}">
     {% if include.ogImage %}
