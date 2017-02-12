@@ -92,8 +92,8 @@ header .container {
 }
 
 .container-slim {
-    padding-top: 140px;
-    padding-bottom: 40px;
+    padding-top: 90px;
+    padding-bottom: 30px;
 }
 
 header img {
@@ -126,6 +126,11 @@ header .intro-text .skills {
 
     header .intro-text .skills {
         font-size: 1.75em;
+    }
+
+    .container-slim {
+        padding-top: 140px;
+        padding-bottom: 40px;
     }
 }
 
