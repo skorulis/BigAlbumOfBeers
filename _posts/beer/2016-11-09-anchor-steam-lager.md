@@ -9,7 +9,7 @@ brewery: "Anchor Brewing Company"
 breweryURL: "https://untappd.com/w/anchor-brewing-company/3891"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11174764_10153268299828745_5386835742329909663_n.jpg?oh=34f5450343227d61865ae64b50660dd6&oe=5912692E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11174764_10153268299828745_5386835742329909663_n.jpg?oh=8ec2f860ef62f15e20ce86dd8656981c&oe=5939F62E
 beer-date: "2015-05-01"
 desc: "A very flavourful lager"
 permalink: /beer/:title.html

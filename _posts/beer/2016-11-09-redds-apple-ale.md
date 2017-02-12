@@ -9,7 +9,7 @@ brewery: "Redd's Brewing Company"
 breweryURL: "https://untappd.com/w/redds-brewing-company/36153"
 style: "Fruit Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12507414_10153811611358745_6320534595559779603_n.jpg?oh=df0629afa57f4fef25449bcf38b7ba53&oe=591286AF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12507414_10153811611358745_6320534595559779603_n.jpg?oh=ac279114deffdc0a29f0975f70b64d34&oe=593A13AF
 beer-date: "2016-01-06"
 desc: "Really mild apple flavour, like a cider without all the sugar"
 permalink: /beer/:title.html

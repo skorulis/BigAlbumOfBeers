@@ -9,7 +9,7 @@ brewery: "Aldaris"
 breweryURL: "https://untappd.com/w/aldaris/19"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1381516_10152001638348745_1868079701_n.jpg?oh=94032dee710605e541e162239521e09c&oe=590DBCAC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1381516_10152001638348745_1868079701_n.jpg?oh=51ce7cd4464f601641210e212df8c4ba&oe=593549AC
 beer-date: "2013-10-25"
 desc: "Pretty nice"
 permalink: /beer/:title.html

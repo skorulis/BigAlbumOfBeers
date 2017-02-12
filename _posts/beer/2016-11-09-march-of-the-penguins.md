@@ -9,7 +9,7 @@ brewery: "Williams Brothers Brewing Co."
 breweryURL: "https://untappd.com/w/williams-brothers-brewing-co-/1367"
 style: "Stout - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/l/t1.0-0/p480x480/75028_10151563841203745_1533936884_n.jpg?oh=4c4a3918d57e5b9fd86479a3ddf3ee8a&oe=5915B0A9
+img: https://scontent.xx.fbcdn.net/v/l/t1.0-0/p480x480/75028_10151563841203745_1533936884_n.jpg?oh=9872c0bd8e446ed50c0bcf652407a59b&oe=593D3DA9
 beer-date: "2013-03-09"
 desc: "An average stout"
 permalink: /beer/:title.html

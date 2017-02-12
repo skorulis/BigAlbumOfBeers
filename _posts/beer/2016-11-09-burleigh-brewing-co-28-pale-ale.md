@@ -9,7 +9,7 @@ brewery: "Burleigh Brewing Co."
 breweryURL: "https://untappd.com/w/burleigh-brewing-co-/3168"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10304714_10152425240513745_4080589260215688130_n.jpg?oh=72bf25c066a119fe5cb274dcd899acd5&oe=591AB379
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10304714_10152425240513745_4080589260215688130_n.jpg?oh=fe2e9486d7897b3f91e53a57478e3410&oe=59424079
 beer-date: "2014-05-03"
 desc: "A little bit too bitter for a pale ale"
 permalink: /beer/:title.html

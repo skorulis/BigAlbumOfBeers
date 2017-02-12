@@ -9,7 +9,7 @@ brewery: "Burleigh Brewing Co."
 breweryURL: "https://untappd.com/w/burleigh-brewing-co-/3168"
 style: "IPA - American"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10393668_10153656863593745_2358385457397680268_n.jpg?oh=d1ded3de4e4250c550f77db8c94dc103&oe=591CB75C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10393668_10153656863593745_2358385457397680268_n.jpg?oh=e486419b248dedb0f6b6832f4f6b0cb1&oe=5944445C
 beer-date: "2015-10-17"
 desc: "Has a strange aftertaste that completely ruins the beer"
 permalink: /beer/:title.html

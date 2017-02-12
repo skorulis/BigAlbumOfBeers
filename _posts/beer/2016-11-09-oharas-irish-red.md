@@ -9,7 +9,7 @@ brewery: "O'Hara's Brewery (Carlow Brewing Company)"
 breweryURL: "https://untappd.com/w/oharas-brewery--carlow-brewing-company-/342"
 style: "Red Ale - Irish"
 score: 1
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/150601_10151428532178745_1335701826_n.jpg?oh=8aab98b1bf31473caeee9265609402d0&oe=591C146C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/150601_10151428532178745_1335701826_n.jpg?oh=68bf725284fce63fd7cc7cb601695fff&oe=5943A16C
 beer-date: "2013-01-13"
 desc: "Maybe the worst beer ever"
 permalink: /beer/:title.html

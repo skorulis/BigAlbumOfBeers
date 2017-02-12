@@ -9,7 +9,7 @@ brewery: "Anchor Brewing Company"
 breweryURL: "https://untappd.com/w/anchor-brewing-company/3891"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11210416_10153268299813745_8323582624602808812_n.jpg?oh=b42fff9364f4f7af8886b578357e5868&oe=5916FC8B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11210416_10153268299813745_8323582624602808812_n.jpg?oh=0f8b8e6b7e4300869ae70b612db4abd4&oe=593E898B
 beer-date: "2015-05-01"
 desc: "Very nicely done. Great for a session beer"
 permalink: /beer/:title.html

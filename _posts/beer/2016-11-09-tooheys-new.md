@@ -9,7 +9,7 @@ brewery: "Tooheys Brewing"
 breweryURL: "https://untappd.com/w/tooheys-brewing/13905"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/74164_10151461683923745_699202545_n.jpg?oh=78d4e30f01356bc50208af93ac732e3c&oe=591C8E1B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/74164_10151461683923745_699202545_n.jpg?oh=c13283eae0fb112746a9a49d32ec4fa6&oe=59441B1B
 beer-date: "2013-02-01"
 desc: "Not sure why I used to drink this all the time"
 permalink: /beer/:title.html

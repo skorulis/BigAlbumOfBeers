@@ -9,7 +9,7 @@ brewery: "Kona Brewing Company"
 breweryURL: "https://untappd.com/w/kona-brewing-company/1988"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142932_10154858213933745_1116010504942046413_n.jpg?oh=e8e615f6e54d76768d75409ff54dc249&oe=5916D584
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142932_10154858213933745_1116010504942046413_n.jpg?oh=f5c918a68f0d242399114a8d4b65253b&oe=593E6284
 beer-date: "2017-01-21"
 desc: "Very refreshing. Has a slight creaminess"
 permalink: /beer/:title.html

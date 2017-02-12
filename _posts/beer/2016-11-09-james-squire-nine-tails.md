@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 style: "Brown Ale - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12074484_10153656867603745_6432235869019497791_n.jpg?oh=c3d73ba75592e26161bdf61f21b2b725&oe=590DC852
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12074484_10153656867603745_6432235869019497791_n.jpg?oh=5d14402067ddeaad84ab87a854dbadfd&oe=59355552
 beer-date: "2015-10-17"
 desc: "Pretty good all round"
 permalink: /beer/:title.html

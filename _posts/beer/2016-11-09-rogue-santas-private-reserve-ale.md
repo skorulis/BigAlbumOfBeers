@@ -9,7 +9,7 @@ brewery: "Rogue Ales & Spirits"
 breweryURL: "https://untappd.com/w/rogue-ales---spirits/4565"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149464_10153268295053745_1257589284621380857_n.jpg?oh=5013b3ec6a30fc76868861a834ec0cc8&oe=5919519E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149464_10153268295053745_1257589284621380857_n.jpg?oh=b9424df10dcdde3c5940f5a38cac7f57&oe=5940DE9E
 beer-date: "2015-05-01"
 desc: "A hearty beverage"
 permalink: /beer/:title.html

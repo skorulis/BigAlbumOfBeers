@@ -9,7 +9,7 @@ brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
 style: "Pale Wheat Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/602158_10151602281568745_1269833032_n.jpg?oh=9cf6516d8e4a934af13df427f4e2c095&oe=59147E50
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/602158_10151602281568745_1269833032_n.jpg?oh=e831735546d86a2635685d849b7dd2b8&oe=593C0B50
 beer-date: "2013-03-28"
 desc: "Not as good as expected"
 permalink: /beer/:title.html

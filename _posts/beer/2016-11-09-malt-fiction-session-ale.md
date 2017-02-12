@@ -9,7 +9,7 @@ brewery: "Malt Fiction"
 breweryURL: "https://untappd.com/w/malt-fiction/184931"
 style: "Pale Ale - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333020_10154470814048745_257468858783913286_n.jpg?oh=3824bb15f3bea3c3624f915e8437670b&oe=5917B9E3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333020_10154470814048745_257468858783913286_n.jpg?oh=0b88f75d6a2683804ab2b7dcc103fe75&oe=593F46E3
 beer-date: "2016-09-21"
 desc: "Very easy drinking. Not a lot of flavour but for something you’re drinking all day this would be great. A little bit tangy"
 permalink: /beer/:title.html

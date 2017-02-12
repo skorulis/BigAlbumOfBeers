@@ -9,7 +9,7 @@ brewery: "White Rabbit"
 breweryURL: "https://untappd.com/w/white-rabbit/2051"
 style: "Witbier"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1932304_10153268279663745_7818150974405781457_n.jpg?oh=0f60133a713654adb82ab43e5b8fee18&oe=591BF29B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1932304_10153268279663745_7818150974405781457_n.jpg?oh=5a0f17235e42dc10c239d02cc353e3de&oe=59437F9B
 beer-date: "2015-05-01"
 desc: "One of the nicest white beers I’ve had. Another winner from White Rabbit"
 permalink: /beer/:title.html

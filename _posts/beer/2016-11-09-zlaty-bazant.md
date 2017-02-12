@@ -9,7 +9,7 @@ brewery: "Pivovar v Hurbanove"
 breweryURL: "https://untappd.com/w/pivovar-v-hurbanove/996"
 style: "Pilsner - Czech"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1507155_10152147733883745_1859906756_n.jpg?oh=533ff561dccab7d17ecd70a4641d97be&oe=5911C1D8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1507155_10152147733883745_1859906756_n.jpg?oh=4f55459ce9095e552053ca9fb83b67af&oe=59394ED8
 beer-date: "2013-12-23"
 desc: "A tasteless Slovakian lager"
 permalink: /beer/:title.html

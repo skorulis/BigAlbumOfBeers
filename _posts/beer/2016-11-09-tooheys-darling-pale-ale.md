@@ -9,7 +9,7 @@ brewery: "Tooheys Brewing"
 breweryURL: "https://untappd.com/w/tooheys-brewing/13905"
 style: "Pale Ale - Australian"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12107775_10153656864253745_3676978926907656134_n.jpg?oh=861bcc8be123ed61d118325ab4d2179b&oe=590FA773
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12107775_10153656864253745_3676978926907656134_n.jpg?oh=498da621357f891538ba29756a3ccc79&oe=59373473
 beer-date: "2015-10-17"
 desc: "Not that different from a new"
 permalink: /beer/:title.html

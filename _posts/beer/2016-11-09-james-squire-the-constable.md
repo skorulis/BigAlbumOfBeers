@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 style: "English Bitter"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1239035_10152327617748745_242091326_n.jpg?oh=97981b9e5ade6a6bfb6403672572751f&oe=5915F2B0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1239035_10152327617748745_242091326_n.jpg?oh=2b1416526ac1e723d646513f9e2cbb58&oe=593D7FB0
 beer-date: "2014-03-18"
 desc: "Like a lovely lightly hopped IPA"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Bath Ales"
 breweryURL: "https://untappd.com/w/bath-ales/1464"
 style: "English Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/423793_10151694518423745_774842906_n.jpg?oh=88e3eb6d7ca1d780f6ab23b29a15295c&oe=59193FBF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/423793_10151694518423745_774842906_n.jpg?oh=b40f9c56537d06e6c11259d747e91869&oe=5940CCBF
 beer-date: "2013-05-25"
 desc: "Not too bitter"
 permalink: /beer/:title.html

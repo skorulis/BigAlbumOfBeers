@@ -9,7 +9,7 @@ brewery: "Trumer"
 breweryURL: "https://untappd.com/w/trumer/23682"
 style: "Pilsner - German"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10953955_10153055770883745_7624310153191779880_n.jpg?oh=2fbc50bfa2bea3a601c497cffe4ae79e&oe=59173E5C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10953955_10153055770883745_7624310153191779880_n.jpg?oh=5ddb50304ab6e2b723f4540ffbef12a4&oe=593ECB5C
 beer-date: "2015-01-29"
 desc: "An ok pilsner"
 permalink: /beer/:title.html

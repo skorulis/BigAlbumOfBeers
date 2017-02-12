@@ -9,7 +9,7 @@ brewery: "The Little Brewing Company"
 breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
 style: "Pale Ale - American"
 score: null
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10464035_10152534310338745_1731994487341714039_n.jpg?oh=769bdf86e1139bb7f35d9c54a7a1e70b&oe=590FDA72
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10464035_10152534310338745_1731994487341714039_n.jpg?oh=cb250fa1d648626f4d7f4c9d7d4cc9fd&oe=59376772
 beer-date: "2014-06-21"
 desc: "A little bit stouty"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "2 Brothers Brewery "
 breweryURL: "https://untappd.com/w/2-brothers-brewery-/3557"
 style: "Brown Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11148587_10153268299343745_976562173073925737_n.jpg?oh=8bffe4dd3ce5914311e088050407132a&oe=59180A39
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11148587_10153268299343745_976562173073925737_n.jpg?oh=028f9f011024726e71ed787d76a9f666&oe=593F9739
 beer-date: "2015-05-01"
 desc: "Mild sweet brown ale. Surprisingly easy drinking"
 permalink: /beer/:title.html

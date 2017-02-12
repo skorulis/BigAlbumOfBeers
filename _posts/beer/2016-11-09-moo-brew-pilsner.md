@@ -9,7 +9,7 @@ brewery: "Moo Brew"
 breweryURL: "https://untappd.com/w/moo-brew/4806"
 style: "Pilsner - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/483798_10151602282778745_989104715_n.jpg?oh=0edb56ee440d071cfa58f20998c44f63&oe=5919D9DB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/483798_10151602282778745_989104715_n.jpg?oh=3a8a8dbdf5025cdc88c5aa644ec7963a&oe=594166DB
 beer-date: "2013-03-28"
 desc: "Rather nice"
 permalink: /beer/:title.html

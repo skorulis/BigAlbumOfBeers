@@ -9,7 +9,7 @@ brewery: "Golden Road Brewing"
 breweryURL: "https://untappd.com/w/golden-road-brewing/16302"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12088452_10153656866578745_7251403189729284400_n.jpg?oh=0ad66754aab0fbd2eb0902bb87300c62&oe=59175A12
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12088452_10153656866578745_7251403189729284400_n.jpg?oh=af8719043358eb423a2ceb49bf4fc122&oe=593EE712
 beer-date: "2015-10-17"
 desc: "Really good example of an IPA"
 permalink: /beer/:title.html

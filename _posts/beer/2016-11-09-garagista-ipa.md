@@ -9,7 +9,7 @@ brewery: "Garage Project"
 breweryURL: "https://untappd.com/w/garage-project/14539"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12439242_10153811611693745_5295129091092363707_n.jpg?oh=c1d5d5bf3f5c4ca89f4ee40a8d1530a9&oe=590F4093
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12439242_10153811611693745_5295129091092363707_n.jpg?oh=006006f69e26f04244badd61cfdbbc3e&oe=5936CD93
 beer-date: "2016-01-06"
 desc: "Really nice colour but the flavour misses the mark"
 permalink: /beer/:title.html

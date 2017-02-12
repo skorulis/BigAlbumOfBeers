@@ -9,7 +9,7 @@ brewery: "Oakham Ales"
 breweryURL: "https://untappd.com/w/oakham-ales/931"
 style: "Pale Ale - English"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238244_10151929068473745_105586790_n.jpg?oh=cb1ebcc073eee40409dd5d589bd0cd0d&oe=5910964E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238244_10151929068473745_105586790_n.jpg?oh=b7c979744ddb111ae54e80a66cbe5bc9&oe=5938234E
 beer-date: "2013-09-19"
 desc: "Taught me the meaning of pugnacious"
 permalink: /beer/:title.html

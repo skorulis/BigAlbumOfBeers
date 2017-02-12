@@ -9,7 +9,7 @@ brewery: "Brouwerij Bosteels"
 breweryURL: "https://untappd.com/w/brouwerij-bosteels/269"
 style: "Belgian Strong Golden Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1521828_10152147734533745_969043237_n.jpg?oh=ffada18f28d6ba7632a8d8f08a5bee39&oe=590D099E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1521828_10152147734533745_969043237_n.jpg?oh=38b10efd7369aad5b630ca0f99c2fcf7&oe=5934969E
 beer-date: "2013-12-23"
 desc: "A mild Belgian beer. +1 for the sweet glass"
 permalink: /beer/:title.html

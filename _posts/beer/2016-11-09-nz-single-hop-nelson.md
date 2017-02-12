@@ -9,7 +9,7 @@ brewery: "Bacchus Brewing Co."
 breweryURL: "https://untappd.com/w/bacchus-brewing-co-/11684"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11130263_10153225366548745_4430696674965972638_n.jpg?oh=99f703362950b55e1b845f942131c662&oe=59141B45
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11130263_10153225366548745_4430696674965972638_n.jpg?oh=f31bc5b832586673b62729982236e572&oe=593BA845
 beer-date: "2015-04-13"
 desc: "Perfect level of bitterness"
 permalink: /beer/:title.html

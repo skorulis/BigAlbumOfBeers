@@ -9,7 +9,7 @@ brewery: "Magic Hat Brewing Company"
 breweryURL: "https://untappd.com/w/magic-hat-brewing-company/812"
 style: "Pale Wheat Ale - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14445970_10154470815508745_4236605545443642954_n.jpg?oh=da0b3b11f0dcee7988a2fb79c3664dc5&oe=5912BFD3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14445970_10154470815508745_4236605545443642954_n.jpg?oh=70e75eb22883054289929dff7513ee41&oe=593A4CD3
 beer-date: "2016-09-21"
 desc: "Really nice ginger hit"
 permalink: /beer/:title.html

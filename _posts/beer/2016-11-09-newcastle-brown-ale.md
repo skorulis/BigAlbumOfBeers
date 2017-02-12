@@ -9,7 +9,7 @@ brewery: "John Smith's"
 breweryURL: "https://untappd.com/w/john-smiths/1816"
 style: "Brown Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644361_10151563845228745_821469901_n.jpg?oh=db5cd94ca506c94de753ae802b9599c5&oe=590DA3B6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644361_10151563845228745_821469901_n.jpg?oh=2d69d8d08e55a14001807b620b0eba12&oe=593530B6
 beer-date: "2013-03-09"
 desc: "Looks kind of like the runoff from some industrial process. Really makes me wonder what I'm drinking. Amazingly it doesn't taste that bad"
 permalink: /beer/:title.html

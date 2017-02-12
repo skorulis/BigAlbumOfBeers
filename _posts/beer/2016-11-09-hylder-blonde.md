@@ -9,7 +9,7 @@ brewery: "Dark Star Brewing Co."
 breweryURL: "https://untappd.com/w/dark-star-brewing-co-/1513"
 style: "Blonde Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542217_10151860441663745_480799893_n.jpg?oh=70654cc6436e197aeda5ad4d18b1e6f5&oe=5919C81D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542217_10151860441663745_480799893_n.jpg?oh=8f05962a91669fd5c50ffb44f5c45f6a&oe=5941551D
 beer-date: "2013-08-18"
 desc: "A little bit too much flower"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Baird Brewing Company"
 breweryURL: "https://untappd.com/w/baird-brewing-company/5697"
 style: "Pale Ale - Belgian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715222_10153890415008745_8479217372208836383_n.jpg?oh=482985e2e60025bf9ef2cf93981fb55c&oe=590EF777
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715222_10153890415008745_8479217372208836383_n.jpg?oh=2f8f0558d4efc5a707988aa3444bf36e&oe=59368477
 beer-date: "2016-02-14"
 desc: "Perhaps not the best beer at 10am. The Belgian flavour seemed a bit too wheaty"
 permalink: /beer/:title.html

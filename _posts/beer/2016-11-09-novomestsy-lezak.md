@@ -9,7 +9,7 @@ brewery: "Novoměstský pivovar"
 breweryURL: "https://untappd.com/w/novomestsky-pivovar/15100"
 style: "Pilsner - Czech"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/625446_10151563847698745_35732168_n.jpg?oh=d27033d402f5b7d88a27dfb98f801b4b&oe=59160769
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/625446_10151563847698745_35732168_n.jpg?oh=dec8cc15a1d941a8f6894c6379157efa&oe=593D9469
 beer-date: "2013-03-09"
 desc: "A different taste"
 permalink: /beer/:title.html

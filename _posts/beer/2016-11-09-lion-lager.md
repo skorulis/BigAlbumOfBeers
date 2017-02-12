@@ -9,7 +9,7 @@ brewery: "Lion Brewery Ceylon"
 breweryURL: "https://untappd.com/w/lion-brewery-ceylon/791"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/75581_10151563946433745_1440605873_n.jpg?oh=dc6186f81bd83dacf40bee8cbc04ba73&oe=591265FE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/75581_10151563946433745_1440605873_n.jpg?oh=b3dd3f741d757133f7742f7285ce9c80&oe=5939F2FE
 beer-date: "2013-03-09"
 desc: "Nothing special"
 permalink: /beer/:title.html

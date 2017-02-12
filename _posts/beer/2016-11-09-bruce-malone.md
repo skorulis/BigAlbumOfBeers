@@ -9,7 +9,7 @@ brewery: "Yulli's Brews"
 breweryURL: "https://untappd.com/w/yullis-brews/130600"
 style: "IPA - English"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p320x320/11665530_10153438036328745_3370491198453159853_n.jpg?oh=d3708af2c05063820db58b64d96a0fc0&oe=591AF8AD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p320x320/11665530_10153438036328745_3370491198453159853_n.jpg?oh=9961f8abea408038f70bc61ea83804c2&oe=594285AD
 beer-date: "2015-07-10"
 desc: "Ok, but something is just wrong"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Meantime Brewing Company"
 breweryURL: "https://untappd.com/w/meantime-brewing-company/844"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/999024_10151798817478745_821421302_n.jpg?oh=966b9165fcffba37527e7eb21ea4e452&oe=591B5B48
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/999024_10151798817478745_821421302_n.jpg?oh=5ef62913554d96e49064b00f0c79517c&oe=5942E848
 beer-date: "2013-07-19"
 desc: "Not my favourite pilsner"
 permalink: /beer/:title.html

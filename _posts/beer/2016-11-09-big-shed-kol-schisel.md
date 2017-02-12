@@ -9,7 +9,7 @@ brewery: "Big Shed Brewing Concern"
 breweryURL: "https://untappd.com/w/big-shed-brewing-concern/102851"
 style: "Kölsch"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715804_10153890415748745_782298131807112307_n.jpg?oh=c1aa6d060368a4a79f5044c4575b509d&oe=590FFD15
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715804_10153890415748745_782298131807112307_n.jpg?oh=655f8ec64f963107c5e797df2cc0b9ab&oe=59378A15
 beer-date: "2016-02-14"
 desc: "Fairly plain and easy drinking"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Sixpoint Brewery"
 breweryURL: "https://untappd.com/w/sixpoint-brewery/1149"
 style: "Cream Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149483_10153225366508745_5535316799902667426_n.jpg?oh=b27b5cf0a4eb4603985c782c1827df2b&oe=591A4BA7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149483_10153225366508745_5535316799902667426_n.jpg?oh=f09f8ae72df807e412e3d9338b7a4232&oe=5941D8A7
 beer-date: "2015-04-13"
 desc: "Nice sweet hoppy taste"
 permalink: /beer/:title.html

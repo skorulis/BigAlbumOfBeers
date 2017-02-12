@@ -9,7 +9,7 @@ brewery: "Sixpoint Brewery"
 breweryURL: "https://untappd.com/w/sixpoint-brewery/1149"
 style: "Red Ale - Imperial / Double"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11196336_10153268256713745_6680283658542121771_n.jpg?oh=c673d36bd57923912aba6c2829ead4ba&oe=591146ED
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11196336_10153268256713745_6680283658542121771_n.jpg?oh=f81d4f38850ebdf36f4cf9ad44279a52&oe=5938D3ED
 beer-date: "2015-05-01"
 desc: "Tangy, strong"
 permalink: /beer/:title.html

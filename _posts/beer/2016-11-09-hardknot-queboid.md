@@ -9,7 +9,7 @@ brewery: "Hardknott"
 breweryURL: "https://untappd.com/w/hardknott/3300"
 style: "IPA - Belgian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1520670_10152147736383745_1604295852_n.jpg?oh=dd3f3c1382706ae121eddc3eb0acb7fc&oe=5912CE17
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1520670_10152147736383745_1604295852_n.jpg?oh=801a58991d6a2e0d3f169391cbc0011f&oe=593A5B17
 beer-date: "2013-12-23"
 desc: "A nice strong flavour"
 permalink: /beer/:title.html
