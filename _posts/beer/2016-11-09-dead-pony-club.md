@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1003490_10151798796948745_2041837456_n.jpg?oh=2153e98bfa89d621c9ebd1905149490e&oe=590394D4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1003490_10151798796948745_2041837456_n.jpg?oh=139a75a532ea515f836179c0b775565a&oe=592B21D4
 beer-date: "2013-07-19"
 desc: "A beer for anyone"
 permalink: /beer/:title.html

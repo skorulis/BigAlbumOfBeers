@@ -9,7 +9,7 @@ brewery: "Young Henrys Brewing Company"
 breweryURL: "https://untappd.com/w/young-henrys-brewing-company/28042"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12376181_10153811610908745_3920511327334452329_n.jpg?oh=188f7bd1d7de97cf8747587a030b24d4&oe=590C2183
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12376181_10153811610908745_3920511327334452329_n.jpg?oh=4d1f6251819fc5d9de8a30d9c49e46a5&oe=5933AE83
 beer-date: "2016-01-06"
 desc: "A fairly plain lager"
 permalink: /beer/:title.html

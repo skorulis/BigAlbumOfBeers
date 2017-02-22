@@ -9,7 +9,7 @@ brewery: "Black Sheep"
 breweryURL: "https://untappd.com/w/black-sheep/134"
 style: "English Bitter"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/485855_10151283325868745_1357546171_n.jpg?oh=d2a72c7e281b0c6475a1030de1ea62d0&oe=5905305F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/485855_10151283325868745_1357546171_n.jpg?oh=ca688cde33212c08cdea37e213cb0661&oe=592CBD5F
 beer-date: "2012-10-13"
 desc: "Black and average"
 permalink: /beer/:title.html

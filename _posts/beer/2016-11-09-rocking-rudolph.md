@@ -9,7 +9,7 @@ brewery: "Greene King"
 breweryURL: "https://untappd.com/w/greene-king/612"
 style: "Winter Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/481704_10151368077713745_2078288487_n.jpg?oh=83d4f3c0ebaab808664bd6e19da73be8&oe=59050D90
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/481704_10151368077713745_2078288487_n.jpg?oh=37370d76210b62adf7ee200123675805&oe=592C9A90
 beer-date: "2012-12-09"
 desc: "Makes me feel all Christmasy"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "https://untappd.com/w/akasha-brewing-company--australia-/188552"
 style: "Brown Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13245472_10154147280238745_5349990342920915596_n.jpg?oh=00c1e2cb7bc776e8f17df1d05351ce60&oe=5909E5FF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13245472_10154147280238745_5349990342920915596_n.jpg?oh=7164a94bb7f127e0b4d0e9576e8198e7&oe=593172FF
 beer-date: "2016-05-24"
 desc: "Has a few flavours which are hard to pin down but it works well. Has a nice amount of sweetness"
 permalink: /beer/:title.html

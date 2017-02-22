@@ -9,7 +9,7 @@ brewery: "Yeastie Boys"
 breweryURL: "https://untappd.com/w/yeastie-boys/3591"
 style: "Porter - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10347498_10153966651168745_482800618815663484_n.jpg?oh=bd4b6182949873116650684f7f745f7e&oe=5908D7EC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10347498_10153966651168745_482800618815663484_n.jpg?oh=0e4bb6f0b7a9b47e65f7a9b59324ef0a&oe=593064EC
 beer-date: "2016-03-16"
 desc: "Pretty good for a dark beer. Fairly smooth and rich but perhaps a little too bitter"
 permalink: /beer/:title.html

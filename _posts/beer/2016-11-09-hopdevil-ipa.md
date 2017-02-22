@@ -9,7 +9,7 @@ brewery: "Victory Brewing Company"
 breweryURL: "https://untappd.com/w/victory-brewing-company/1326"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12072602_10153656863733745_7824943187452200119_n.jpg?oh=ac7abb69f7b6246a43c7ecd696007d4b&oe=5905A994
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12072602_10153656863733745_7824943187452200119_n.jpg?oh=e1e15d65592dedc6354b1c642741bcc5&oe=592D3694
 beer-date: "2015-10-17"
 desc: "A pretty average IPA which slightly misses the mark"
 permalink: /beer/:title.html

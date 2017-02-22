@@ -3,6 +3,11 @@ layout: beer
 filename: _posts/beer/2016-11-09-stockade-wanderer-marzen.md
 title: Stockade wanderer märzen
 category: beer
+untappd: "https://untappd.com/b/stockade-brew-co-wanderer-marzen/1741336"
+country: "Australia"
+brewery: "Stockade Brew Co"
+breweryURL: "https://untappd.com/w/stockade-brew-co/86357"
+style: "Märzen"
 score: 6.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16683975_10154923954278745_9031710654634182392_n.jpg?oh=00fa641e67a366bd0f96d4ff7e920ca8&oe=5939DAA4
 beer-date: "2017-02-11"

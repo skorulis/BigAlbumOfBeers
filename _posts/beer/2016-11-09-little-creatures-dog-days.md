@@ -9,7 +9,7 @@ brewery: "Little Creatures Brewing"
 breweryURL: "https://untappd.com/w/little-creatures-brewing/2560"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717186_10153890415423745_6451428281725925044_n.jpg?oh=0fb94acbe4ac8e40f9abbcf893d425df&oe=59057532
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717186_10153890415423745_6451428281725925044_n.jpg?oh=217a7d63e0ddb14520bb74b57b886124&oe=592D0232
 beer-date: "2016-02-14"
 desc: "Surprisingly flavourful for a summer beer. Nice little tang to it"
 permalink: /beer/:title.html

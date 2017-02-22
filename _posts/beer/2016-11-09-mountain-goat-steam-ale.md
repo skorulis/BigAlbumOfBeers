@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "https://untappd.com/w/mountain-goat-beer/4055"
 style: "California Common"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10390115_10152534300713745_5030138459822932747_n.jpg?oh=d13ccd9a6756d58d8b37646720c3c1f3&oe=5905421F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10390115_10152534300713745_5030138459822932747_n.jpg?oh=fb1eeac8fe6ab783e46756d7873e5834&oe=592CCF1F
 beer-date: "2014-06-21"
 desc: "Could go for a case is this"
 permalink: /beer/:title.html

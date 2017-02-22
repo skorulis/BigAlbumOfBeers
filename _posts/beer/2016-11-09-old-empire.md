@@ -9,7 +9,7 @@ brewery: "Marston's Brewery"
 breweryURL: "https://untappd.com/w/marstons-brewery/1517"
 style: "IPA - English"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/73511_10151356728858745_1899006793_n.jpg?oh=a918f14495ae6c450b6906b1891276e4&oe=59032720
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/73511_10151356728858745_1899006793_n.jpg?oh=a161ea0103def080e28296ea3f071431&oe=592AB420
 beer-date: "2012-12-01"
 desc: "Not at all an ipa "
 permalink: /beer/:title.html

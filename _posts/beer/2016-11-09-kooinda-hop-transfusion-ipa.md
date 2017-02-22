@@ -9,7 +9,7 @@ brewery: "Kooinda Brewing Company"
 breweryURL: "https://untappd.com/w/kooinda-brewing-company/6276"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11659318_10153438037553745_8784383877969678894_n.jpg?oh=d1f58974424fb8e71aa53a673809da0f&oe=590661EB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11659318_10153438037553745_8784383877969678894_n.jpg?oh=8bc3cd70d2806aa319cd7fffc163654a&oe=592DEEEB
 beer-date: "2015-07-10"
 desc: "A very well balanced and floral IPA"
 permalink: /beer/:title.html

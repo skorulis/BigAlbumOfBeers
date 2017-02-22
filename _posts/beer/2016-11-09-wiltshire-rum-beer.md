@@ -9,7 +9,7 @@ brewery: "Wadworth Co."
 breweryURL: "https://untappd.com/w/wadworth-co-/3465"
 style: "Extra Special / Strong Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/935047_10151649176048745_1239205144_n.jpg?oh=705eb28a80f1d69ec1f35b0bc5e188ca&oe=59026794
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/935047_10151649176048745_1239205144_n.jpg?oh=3c98866e4198581c8a2f99d517c1e17a&oe=5929F494
 beer-date: "2013-04-27"
 desc: "Can't really taste the rum"
 permalink: /beer/:title.html

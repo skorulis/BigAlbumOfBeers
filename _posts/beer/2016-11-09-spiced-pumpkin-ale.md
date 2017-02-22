@@ -3,8 +3,13 @@ layout: beer
 filename: _posts/beer/2016-11-09-spiced-pumpkin-ale.md
 title: Spiced pumpkin ale
 category: beer
+untappd: "https://untappd.com/b/young-henrys-brewing-company-pocket-city-pumpkin-ale/1627539"
+country: "Australia"
+brewery: "Young Henrys Brewing Company"
+breweryURL: "https://untappd.com/w/young-henrys-brewing-company/28042"
+style: "Pumpkin / Yam Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195083_10154858224328745_8673167250319784372_n.jpg?oh=c9cda7aa86bdca83a5a6037d4328ea50&oe=5909FE3E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195083_10154858224328745_8673167250319784372_n.jpg?oh=daa8bea62424843349da3c69035d5349&oe=59318B3E
 beer-date: "2017-01-21"
 desc: "Has the pumpkin spice taste but the aftertaste has something confusing that slightly ruins it"
 permalink: /beer/:title.html

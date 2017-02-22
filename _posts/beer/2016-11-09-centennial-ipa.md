@@ -9,7 +9,7 @@ brewery: "3 Floyds Brewing Company"
 breweryURL: "https://untappd.com/w/3-floyds-brewing-company/2470"
 style: "IPA - Imperial / Double"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1070104_10151798797103745_60498930_n.jpg?oh=e351774b87c2935c7bf545987b08c7c0&oe=5902699F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1070104_10151798797103745_60498930_n.jpg?oh=e6f1238ce8a26484f3a1ea2e444f088f&oe=5929F69F
 beer-date: "2013-07-19"
 desc: "Slightly too strong"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Baird Brewing Company"
 breweryURL: "https://untappd.com/w/baird-brewing-company/5697"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10985454_10153268299563745_9155074984245162225_n.jpg?oh=efa01a5b8a11b3b9220b51e6e0234ad9&oe=59022213
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10985454_10153268299563745_9155074984245162225_n.jpg?oh=1e29c2daec04dd02f0939cc1d79c10c0&oe=5929AF13
 beer-date: "2015-05-01"
 desc: "Was expecting more from this. It’s the nice pale flavour but with too much harshness"
 permalink: /beer/:title.html

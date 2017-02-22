@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "https://untappd.com/w/feral-brewing-company/3162"
 style: "IPA - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16265441_10154888758138745_4481479706439391791_n.jpg?oh=5826e6e191a54b89d76ca574c0f1805c&oe=5900C1AB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16265441_10154888758138745_4481479706439391791_n.jpg?oh=67dd72f9f2578a15b10b8043239cd40f&oe=59284EAB
 beer-date: "2017-01-30"
 desc: "Really nice smell and color but the taste doesn't meet my expectations. Too resiny and bitter. Gets better but it's too late"
 permalink: /beer/:title.html

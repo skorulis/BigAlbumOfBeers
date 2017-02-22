@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/482193_10151602292048745_375392297_n.jpg?oh=799bab9d0a15c21fcbfc16352e329a51&oe=59056EF4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/482193_10151602292048745_375392297_n.jpg?oh=fda3aa0786b3c8df27e91005c9ea7bce&oe=592CFBF4
 beer-date: "2013-03-28"
 desc: "A good session beer"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Bacchus Brewing Co."
 breweryURL: "https://untappd.com/w/bacchus-brewing-co-/11684"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11027435_10153225366763745_2151282598672247864_n.jpg?oh=4d17165037e44ca276e8967d2c0603ab&oe=59080A8B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11027435_10153225366763745_2151282598672247864_n.jpg?oh=4aacd0a2a66414fd63f97de376cc0ecb&oe=592F978B
 beer-date: "2015-04-13"
 desc: "Really mild on the choc and raspberry so the beer flavour isn't overwhelmed"
 permalink: /beer/:title.html

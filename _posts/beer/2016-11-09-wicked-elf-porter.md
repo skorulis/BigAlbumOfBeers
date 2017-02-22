@@ -9,7 +9,7 @@ brewery: "The Little Brewing Company"
 breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
 style: "Porter - English"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10488349_10152534301008745_8348994823778686167_n.jpg?oh=a05a278e1a881310779a500bea486947&oe=590853BE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10488349_10152534301008745_8348994823778686167_n.jpg?oh=80df3ca4e1c4ea06211e8ca14c01c2ec&oe=592FE0BE
 beer-date: "2014-06-21"
 desc: "A little bit harsh for me"
 permalink: /beer/:title.html

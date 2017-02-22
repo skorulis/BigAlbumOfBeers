@@ -9,7 +9,7 @@ brewery: "H-West B.V."
 breweryURL: "https://untappd.com/w/h-west-b-v-/4066"
 style: "Pilsner - Other"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10154146_10152425240233745_4967152943053850733_n.jpg?oh=e4e5e4df5e4a04eb2c58e4cbd1367df7&oe=59069C60
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10154146_10152425240233745_4967152943053850733_n.jpg?oh=b1de3aed4f07a198992148620b497076&oe=592E2960
 beer-date: "2014-05-03"
 desc: "A cheap lager"
 permalink: /beer/:title.html

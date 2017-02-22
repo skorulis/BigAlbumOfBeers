@@ -9,7 +9,7 @@ brewery: "Burning Sky Brewery"
 breweryURL: "https://untappd.com/w/burning-sky-brewery/86117"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1476223_10152147732298745_333484722_n.jpg?oh=334d8399fba4589c61389d89a488e904&oe=58FEA107
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1476223_10152147732298745_333484722_n.jpg?oh=790e2ada67e1747856a1aa98b5a9deb5&oe=59262E07
 beer-date: "2013-12-23"
 desc: "Not too bitter with a mild hoppy taste"
 permalink: /beer/:title.html

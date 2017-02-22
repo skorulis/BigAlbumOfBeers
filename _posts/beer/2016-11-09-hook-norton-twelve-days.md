@@ -9,7 +9,7 @@ brewery: "Hook Norton Brewery"
 breweryURL: "https://untappd.com/w/hook-norton-brewery/670"
 style: "Strong Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1924574_10153055725888745_6113742952542006972_n.jpg?oh=1a7ea0ad8044e0f39d154033bc54b0e1&oe=58FEEDB3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1924574_10153055725888745_6113742952542006972_n.jpg?oh=5e75593ea00c2bb778e9565790deea24&oe=59267AB3
 beer-date: "2015-01-29"
 desc: "A little bit nutty"
 permalink: /beer/:title.html

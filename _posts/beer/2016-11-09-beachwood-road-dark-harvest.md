@@ -9,7 +9,7 @@ brewery: "Bridge Road Brewers"
 breweryURL: "https://untappd.com/w/bridge-road-brewers/3174"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13265923_10154147277158745_2404573365022025413_n.jpg?oh=af037d870d430b1095ac883c8722a933&oe=58FFED7B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13265923_10154147277158745_2404573365022025413_n.jpg?oh=c86098e3bfc0b451751112df7b9470a9&oe=59277A7B
 beer-date: "2016-05-24"
 desc: "Smells hoppy but tastes stouty"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Matilda Bay Brewing Company"
 breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10003998_10152327617233745_190591734_n.jpg?oh=732de7a2db00911666a77916a7fb303d&oe=59074CAC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10003998_10152327617233745_190591734_n.jpg?oh=abc583a3290d054686dcb2698a0dde3d&oe=592ED9AC
 beer-date: "2014-03-18"
 desc: "A nice well balanced amber"
 permalink: /beer/:title.html

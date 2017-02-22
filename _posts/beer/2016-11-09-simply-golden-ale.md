@@ -9,7 +9,7 @@ brewery: "Tesco Stores Ltd."
 breweryURL: "https://untappd.com/w/tesco-stores-ltd-/3018"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/480275_10151356728773745_1268031446_n.jpg?oh=c7ccee06beea3005c27bc9e5fa742c89&oe=590552D5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/480275_10151356728773745_1268031446_n.jpg?oh=6c38e396db37d7977a8ca0c05c0fe7e1&oe=592CDFD5
 beer-date: "2012-12-01"
 desc: ""
 permalink: /beer/:title.html

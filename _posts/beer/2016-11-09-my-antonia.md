@@ -9,7 +9,7 @@ brewery: "Birra del Borgo"
 breweryURL: "https://untappd.com/w/birra-del-borgo/2243"
 style: "Pilsner - Imperial / Double"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1473040_10153225353703745_3939681785801200434_n.jpg?oh=b1e163248004c081a24783703857b957&oe=590AE8B3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1473040_10153225353703745_3939681785801200434_n.jpg?oh=dcd7b27e7cf6fd468afad913722a17f5&oe=593275B3
 beer-date: "2015-04-13"
 desc: "Surprisingly this tastes better after I brushed my teeth"
 permalink: /beer/:title.html

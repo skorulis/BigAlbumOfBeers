@@ -9,7 +9,7 @@ brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "https://untappd.com/w/akasha-brewing-company--australia-/188552"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717308_10153890415688745_8114544610484440853_n.jpg?oh=369e323fb69e94b4d559b8088a8af6ae&oe=59010493
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717308_10153890415688745_8114544610484440853_n.jpg?oh=576968fd8445dcb0d2017ad7fc0d5387&oe=59289193
 beer-date: "2016-02-14"
 desc: "Easy drinking lager. Good for an all day drink"
 permalink: /beer/:title.html

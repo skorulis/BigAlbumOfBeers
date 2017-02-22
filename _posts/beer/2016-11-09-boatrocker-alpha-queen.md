@@ -9,7 +9,7 @@ brewery: "Boatrocker Brewing Company"
 breweryURL: "https://untappd.com/w/boatrocker-brewing-company/3106"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142500_10154858219793745_8642676350472823343_n.jpg?oh=458cbac87c50fb4bae48fa040b944800&oe=58FF886D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142500_10154858219793745_8642676350472823343_n.jpg?oh=91ba5bc2c7aa9fe2884cda77b5977956&oe=5927156D
 beer-date: "2017-01-21"
 desc: "Kind of a mix between an IPA and a pale. Low on bitterness but high on hops. Great as a session beer"
 permalink: /beer/:title.html

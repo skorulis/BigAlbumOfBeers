@@ -9,7 +9,7 @@ brewery: "Brooklyn Brewery"
 breweryURL: "https://untappd.com/w/brooklyn-brewery/259"
 style: "Pumpkin / Yam Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1512830_10152147731138745_971828677_n.jpg?oh=0e911ed0b19c43586cbf786eeaf0a088&oe=58FEE80A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1512830_10152147731138745_971828677_n.jpg?oh=715967f8f39949aaa165388cc2cd0b22&oe=5926750A
 beer-date: "2013-12-23"
 desc: "Tastes like christmas"
 permalink: /beer/:title.html

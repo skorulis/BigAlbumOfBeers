@@ -9,7 +9,7 @@ brewery: "Felinfoel Brewery Co Ltd"
 breweryURL: "https://untappd.com/w/felinfoel-brewery-co-ltd/519"
 style: "English Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/148410_10151356728003745_1112766365_n.jpg?oh=e55b3eb6460d135e31b7485b172ed40a&oe=58FF3A39
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/148410_10151356728003745_1112766365_n.jpg?oh=ab4a7a15b34cd47c8f6b6d2d8bf565de&oe=5926C739
 beer-date: "2012-12-01"
 desc: ""
 permalink: /beer/:title.html

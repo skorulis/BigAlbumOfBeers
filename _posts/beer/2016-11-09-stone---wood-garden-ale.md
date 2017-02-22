@@ -9,7 +9,7 @@ brewery: "Stone & Wood"
 breweryURL: "https://untappd.com/w/stone---wood/2555"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16143264_10154858022773745_4959615740157477518_n.jpg?oh=4a19ea3b5a7be5c509f36f7175887cd1&oe=5908D38A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16143264_10154858022773745_4959615740157477518_n.jpg?oh=eba48cd189ed03bc6764246b826b8e2c&oe=5930608A
 beer-date: "2017-01-21"
 desc: "A little lacking in flavour but easily drinkable"
 permalink: /beer/:title.html

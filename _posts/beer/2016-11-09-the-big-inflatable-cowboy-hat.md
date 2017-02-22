@@ -9,7 +9,7 @@ brewery: "Siren Craft Brew"
 breweryURL: "https://untappd.com/w/siren-craft-brew/55184"
 style: "IPA - Imperial / Double"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970683_10151860442323745_1389595186_n.jpg?oh=7083fb2327c372dbc6d5fc8c76a6a41f&oe=5909C251
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970683_10151860442323745_1389595186_n.jpg?oh=f0c6f622513f727447135ca8c2751893&oe=59314F51
 beer-date: "2013-08-18"
 desc: "Flavourful without being too strong"
 permalink: /beer/:title.html

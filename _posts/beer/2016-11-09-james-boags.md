@@ -9,7 +9,7 @@ brewery: "J. Boag & Son Brewing"
 breweryURL: "https://untappd.com/w/j--boag---son-brewing/19249"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/734606_10151461683093745_1782530484_n.jpg?oh=a50bb808a1133f86b652fcdcd2167440&oe=5908F033
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/734606_10151461683093745_1782530484_n.jpg?oh=2c781bc7c0d66d4f9433d80ec58da44a&oe=59307D33
 beer-date: "2013-02-01"
 desc: ""
 permalink: /beer/:title.html

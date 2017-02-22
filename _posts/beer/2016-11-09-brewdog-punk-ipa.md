@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "https://untappd.com/w/brewdog/241"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/954631_10151694534143745_666636865_n.jpg?oh=40dc7ad606a10016387dfdf504c0f5de&oe=590153B6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/954631_10151694534143745_666636865_n.jpg?oh=b8f7e97fcee2558d91ed361e3752066a&oe=5928E0B6
 beer-date: "2013-05-25"
 desc: "Quality IPA"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Aldaris"
 breweryURL: "https://untappd.com/w/aldaris/19"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/l/t1.0-0/p480x480/1238101_10151888670483745_714083820_n.jpg?oh=dbec5b9b508995dc910b6e7d8e31a16b&oe=59083E4A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238101_10151888670483745_714083820_n.jpg?oh=71b8256a2a5b830781eb8404e69fcb40&oe=59288A0A
 beer-date: "2013-09-01"
 desc: "Lacks any real flavour"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Australian Beer Company"
 breweryURL: "https://untappd.com/w/australian-beer-company/101175"
 style: "IPA - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11024597_10153118627558745_640038091949927094_n.jpg?oh=2fa213c82667a6608631d4c8c682b4cc&oe=5903A39A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11024597_10153118627558745_640038091949927094_n.jpg?oh=214ec0ba3777f9ff42d3a518fc4df580&oe=592B309A
 beer-date: "2015-02-27"
 desc: "Strong on alcohol, mild on flavour. Perfect for getting drunk quickly"
 permalink: /beer/:title.html

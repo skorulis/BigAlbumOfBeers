@@ -9,7 +9,7 @@ brewery: "Coors Brewing Company"
 breweryURL: "https://untappd.com/w/coors-brewing-company/399"
 style: "Lager - American Light"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/3398_10151428533958745_102290057_n.jpg?oh=d270ba1a670447c0609b4dc54859dd33&oe=5903A3C4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/3398_10151428533958745_102290057_n.jpg?oh=32087bfc79413c5fe01b41fa638dd7d4&oe=592B30C4
 beer-date: "2013-01-13"
 desc: ""
 permalink: /beer/:title.html

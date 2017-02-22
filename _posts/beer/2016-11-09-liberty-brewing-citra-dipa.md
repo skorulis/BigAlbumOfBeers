@@ -3,6 +3,11 @@ layout: beer
 filename: _posts/beer/2016-11-09-liberty-brewing-citra-dipa.md
 title: Liberty brewing citra DIPA
 category: beer
+untappd: "https://untappd.com/b/liberty-brewing-ctra/69738"
+country: "New Zealand"
+brewery: "Liberty Brewing"
+breweryURL: "https://untappd.com/w/liberty-brewing/9912"
+style: "IPA - Imperial / Double"
 score: 6.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16682035_10154923952878745_7943193494374730033_n.jpg?oh=a3039c61d17ca6baa8ac39e1b22ef349&oe=5941F6C8
 beer-date: "2017-02-11"

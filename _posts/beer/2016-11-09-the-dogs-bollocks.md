@@ -9,7 +9,7 @@ brewery: "Wychwood Brewery"
 breweryURL: "https://untappd.com/w/wychwood-brewery/1376"
 style: "Golden Ale"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15111_10151331658713745_2003438525_n.jpg?oh=a3d045238460b162b8388f2d475594e6&oe=5905EF12
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15111_10151331658713745_2003438525_n.jpg?oh=d8a6af1461ca0480f0e9db15ec47fc0d&oe=592D7C12
 beer-date: "2012-11-13"
 desc: "Tastes just like the name"
 permalink: /beer/:title.html

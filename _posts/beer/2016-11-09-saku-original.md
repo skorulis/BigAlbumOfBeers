@@ -9,7 +9,7 @@ brewery: "Saku Õlletehas"
 breweryURL: "https://untappd.com/w/saku-olletehas/1094"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/482209_10151602299593745_443741349_n.jpg?oh=c2c8cc275d0ff777fd818a7fd37ba0b2&oe=58FFCCA3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/482209_10151602299593745_443741349_n.jpg?oh=e6b34544ad0678e585c7ca6c42a9bb50&oe=592759A3
 beer-date: "2013-03-28"
 desc: "Why was I served Estonian beer in a Lithuanian club?"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Brasserie Lefebvre"
 breweryURL: "https://untappd.com/w/brasserie-lefebvre/197"
 style: "Belgian Strong Dark Ale"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10940507_10153055792123745_6951460612562111481_n.jpg?oh=0075f6e3da49fc1a57042ec6efcdeffc&oe=59095890
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10940507_10153055792123745_6951460612562111481_n.jpg?oh=a6e4fbdb2bff6c05838fb6e1041c002d&oe=5930E590
 beer-date: "2015-01-29"
 desc: "Just an awful flavour combination"
 permalink: /beer/:title.html

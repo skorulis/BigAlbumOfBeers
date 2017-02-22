@@ -9,7 +9,7 @@ brewery: "Shepherd Neame"
 breweryURL: "https://untappd.com/w/shepherd-neame/1132"
 style: "English Bitter"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/539055_10151461672828745_520276173_n.jpg?oh=ea67e29c14c7db3f01a3d280b8a4ae47&oe=58FF834A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/539055_10151461672828745_520276173_n.jpg?oh=8031ed30f068994a408cf4a798053639&oe=5927104A
 beer-date: "2013-02-01"
 desc: "Would hate to see the worst"
 permalink: /beer/:title.html

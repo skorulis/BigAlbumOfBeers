@@ -9,7 +9,7 @@ brewery: "Fuller, Smith & Turner "
 breweryURL: "https://untappd.com/w/fuller--smith---turner-/3296"
 style: "Winter Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/32180_10151461673683745_1033363252_n.jpg?oh=01056a8f924dc869f4b16930c0f4720d&oe=5906F171
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/32180_10151461673683745_1033363252_n.jpg?oh=c2532017f38dff535b6136957fdc78c7&oe=592E7E71
 beer-date: "2013-02-01"
 desc: ""
 permalink: /beer/:title.html

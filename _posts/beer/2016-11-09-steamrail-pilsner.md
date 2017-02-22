@@ -9,7 +9,7 @@ brewery: "Steamrail Brewing Company (Coles)"
 breweryURL: "https://untappd.com/w/steamrail-brewing-company--coles-/50996"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11667503_10153438034893745_6099533991518812550_n.jpg?oh=ffeaf69468afa894cfb81a59f907b4a4&oe=59000624
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11667503_10153438034893745_6099533991518812550_n.jpg?oh=cc2565dbdc2daa485df5ced54197d036&oe=59279324
 beer-date: "2015-07-10"
 desc: "A bit too much like a standard lager"
 permalink: /beer/:title.html
