@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/batemans-combined-harvest/31035"
 country: "United Kingdom"
 brewery: "Batemans"
-breweryURL: "https://untappd.com/w/batemans/8151"
+breweryURL: "/brewery/batemans.html"
 style: "Pale Ale - English"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1383443_10152001624583745_873432820_n.jpg?oh=6ec82dc2ace65ef74e5b9fd0540f9e7e&oe=59262A52

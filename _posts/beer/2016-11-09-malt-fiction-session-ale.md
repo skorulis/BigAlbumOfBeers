@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/malt-fiction-session-ale/1408815"
 country: "Australia"
 brewery: "Malt Fiction"
-breweryURL: "https://untappd.com/w/malt-fiction/184931"
+breweryURL: "/brewery/malt-fiction.html"
 style: "Pale Ale - American"
 score: 7.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333020_10154470814048745_257468858783913286_n.jpg?oh=0b88f75d6a2683804ab2b7dcc103fe75&oe=593F46E3

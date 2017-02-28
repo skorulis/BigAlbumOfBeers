@@ -100,6 +100,10 @@ allBeers.each do |item|
 		brewery = homebrew["brewery"]
 	end
 
+	if brewery
+		item["brewery"] = brewery
+	end
+
 	uRating = nil
 	if untappd["score"]
 		uRating = untappd["score"] * 2
@@ -174,6 +178,10 @@ quickStats["timeText"] = timeText
 
 File.open("js/stats.json","w") do |f|
   f.write(JSON.pretty_generate(stats))
+end
+
+File.open("_data/full.json","w") do |f|
+  f.write(JSON.pretty_generate(allBeers))
 end
 
 File.open("_data/quickStats.json","w") do |f|

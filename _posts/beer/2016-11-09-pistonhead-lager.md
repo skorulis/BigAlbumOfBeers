@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brutal-brewing-pistonhead-kustom-lager/82286"
 country: "Sweden"
 brewery: "Brutal Brewing"
-breweryURL: "https://untappd.com/w/brutal-brewing/16622"
+breweryURL: "/brewery/brutal-brewing.html"
 style: "Lager - Pale"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149264_10153268265618745_5697774882754067421_n.jpg?oh=c52dd6033fb93daa79d4642a5704b510&oe=5940B10A

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brabante-cervezas-trigo/80414"
 country: "Spain"
 brewery: "Brabante Cervezas"
-breweryURL: "https://untappd.com/w/brabante-cervezas/16198"
+breweryURL: "/brewery/brabante-cervezas.html"
 style: "Witbier"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/535112_10153966650528745_107085668519640662_n.jpg?oh=c38db28c2bb6c001b0dad838d0766176&oe=59278CE7

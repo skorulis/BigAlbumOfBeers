@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-sundown-lager/8232"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
+breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Lager - Pale"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/5556_10151602286983745_1392314300_n.jpg?oh=62e74d7f30934176a3bbf157f600de0e&oe=592B2C26

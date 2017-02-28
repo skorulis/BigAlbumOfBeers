@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/golden-road-brewing-wolf-mother/1118325"
 country: "United States"
 brewery: "Golden Road Brewing"
-breweryURL: "https://untappd.com/w/golden-road-brewing/16302"
+breweryURL: "/brewery/golden-road-brewing.html"
 style: "IPA - Triple"
 score: 9
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16831997_10154957442543745_3868732408476457752_n.jpg?oh=3a254bfe401e78bb9288ae393b0a033c&oe=59317648

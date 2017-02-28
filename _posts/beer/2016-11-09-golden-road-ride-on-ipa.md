@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/golden-road-brewing-ride-on-ipa/1069272"
 country: "United States"
 brewery: "Golden Road Brewing"
-breweryURL: "https://untappd.com/w/golden-road-brewing/16302"
+breweryURL: "/brewery/golden-road-brewing.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13237689_10154147274093745_5794071140903192166_n.jpg?oh=63816548ff10bf32313fac34a4446f8d&oe=5931B0B7

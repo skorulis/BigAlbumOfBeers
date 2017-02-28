@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/riverside-brewing-company-othellos-curse/614636"
 country: "Australia"
 brewery: "Riverside Brewing Company"
-breweryURL: "https://untappd.com/w/riverside-brewing-company/15195"
+breweryURL: "/brewery/riverside-brewing-company.html"
 style: "IPA - Imperial / Double Black"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12733449_10153890416838745_3402335338987277776_n.jpg?oh=f6fac7b393da0f69d271501f57db20a6&oe=594892C1

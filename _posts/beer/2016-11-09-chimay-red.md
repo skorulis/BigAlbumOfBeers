@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/bieres-de-chimay-chimay-rouge--premiere-/4072"
 country: "Belgium"
 brewery: "Bières de Chimay"
-breweryURL: "https://untappd.com/w/bieres-de-chimay/378"
+breweryURL: "/brewery/bieres-de-chimay.html"
 style: "Belgian Dubbel"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1554374_10153656866968745_899111329413653237_n.jpg?oh=4fdbd21c0eb5b152a03c54a51f52bb78&oe=5926147E

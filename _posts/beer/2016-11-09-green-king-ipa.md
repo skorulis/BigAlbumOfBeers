@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/greene-king-greene-king-ipa/6716"
 country: "United Kingdom"
 brewery: "Greene King"
-breweryURL: "https://untappd.com/w/greene-king/612"
+breweryURL: "/brewery/greene-king.html"
 style: "IPA - English"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/189043_10151315683658745_1443395751_n.jpg?oh=ef18e9294d97d98d6a7be0a23883f345&oe=594666F3

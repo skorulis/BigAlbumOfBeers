@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/hope-brewhouse-black-ipa/1415695"
 country: "Australia"
 brewery: "Hope Brewhouse"
-breweryURL: "https://untappd.com/w/hope-brewhouse/135956"
+breweryURL: "/brewery/hope-brewhouse.html"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16003207_10154858223163745_1445292454217331090_n.jpg?oh=33f71a4471a0a2e8a0bb0ca8001ae0e9&oe=592C6030

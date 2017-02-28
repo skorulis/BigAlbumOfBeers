@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/belhaven-brewery-scottish-ale/2247"
 country: "United Kingdom"
 brewery: "Belhaven Brewery"
-breweryURL: "https://untappd.com/w/belhaven-brewery/98"
+breweryURL: "/brewery/belhaven-brewery.html"
 style: "Scottish Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10342506_10153966649853745_2082231274376560811_n.jpg?oh=43547325c85d906819b8e64aaf1e7be4&oe=5936C536

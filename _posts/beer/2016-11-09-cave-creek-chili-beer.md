@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/cerveceria-mexicana-s--de-r-l--de-c-v---tecate--original-c-cave-creek-chili-beer---cerveza-con-chili/77737"
 country: "Mexico"
 brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
-breweryURL: "https://untappd.com/w/cerveceria-mexicana-s--de-r-l--de-c-v---tecate-/3254"
+breweryURL: "/brewery/cerveceria-mexicana-s--de-r-l--de-c-v---tecate-.html"
 style: "Spiced / Herbed Beer"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1378394_10152001620853745_543682046_n.jpg?oh=ed0b5492ca8c97de966adfa6f799a66b&oe=594B88D7

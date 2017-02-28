@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-fred/756444"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
-breweryURL: "https://untappd.com/w/murrays-craft-brewing-co/2557"
+breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "IPA - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/q86/p480x480/11988711_10153656863543745_374129198357931998_n.jpg?oh=d9e19929311649299200f796ad020e75&oe=5942D5BF

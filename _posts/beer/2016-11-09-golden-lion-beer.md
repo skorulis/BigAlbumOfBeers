@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/browar-amber-zlote-lwy--golden-lion/156941"
 country: "Poland"
 brewery: "Browar Amber"
-breweryURL: "https://untappd.com/w/browar-amber/5753"
+breweryURL: "/brewery/browar-amber.html"
 style: "Lager - Pale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11021223_10153118669773745_8881697342781962806_n.jpg?oh=32cd2d56655200b6f8e792b0a3180a0d&oe=5926666E

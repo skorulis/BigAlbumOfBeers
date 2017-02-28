@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/fox-hat-brewing-phat-mongrel/1023357"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "https://untappd.com/w/fox-hat-brewing/193696"
+breweryURL: "/brewery/fox-hat-brewing.html"
 style: "Stout - Oatmeal"
 score: 8.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174632_10154858222618745_215658299512381499_n.jpg?oh=3dd75a507955498ef2495bf193f5fcf9&oe=592FB0C3

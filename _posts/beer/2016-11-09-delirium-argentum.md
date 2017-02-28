@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brouwerij-huyghe-delirium-argentum/800757"
 country: "Belgium"
 brewery: "Brouwerij Huyghe"
-breweryURL: "https://untappd.com/w/brouwerij-huyghe/285"
+breweryURL: "/brewery/brouwerij-huyghe.html"
 style: "IPA - Belgian"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13256284_10154147274343745_1195107616388760793_n.jpg?oh=ffa1fe2f6b4dce5724af578b93043555&oe=5933AD8C

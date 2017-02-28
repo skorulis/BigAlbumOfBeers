@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/melbourne-city-brewing-company-pony-fish-unlikely-lager/580227"
 country: "Australia"
 brewery: "Melbourne City Brewing Company"
-breweryURL: "https://untappd.com/w/melbourne-city-brewing-company/107872"
+breweryURL: "/brewery/melbourne-city-brewing-company.html"
 style: "Lager - Pale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11096283_10153225353503745_2273426521907233162_n.jpg?oh=69ed588a527aaac1941cf78bc338747e&oe=593AE078

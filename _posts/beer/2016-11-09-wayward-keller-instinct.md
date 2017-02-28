@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/wayward-brewing-keller-instinct/291819"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "https://untappd.com/w/wayward-brewing/48019"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Kellerbier / Zwickelbier"
 score: 6.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15036443_10154633844778745_8868726654336200982_n.jpg?oh=5432db3891a5374699df57464aff36d7&oe=592818CA

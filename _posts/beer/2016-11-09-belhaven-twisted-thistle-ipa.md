@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/belhaven-brewery-twisted-thistle-ipa/421"
 country: "United Kingdom"
 brewery: "Belhaven Brewery"
-breweryURL: "https://untappd.com/w/belhaven-brewery/98"
+breweryURL: "/brewery/belhaven-brewery.html"
 style: "IPA - International"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/943951_10153890422103745_2064605675608289445_n.jpg?oh=554deb70b52094c482dfa6699a7c8b9a&oe=5946CD10

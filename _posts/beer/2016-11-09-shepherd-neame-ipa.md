@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/shepherd-neame-classic-collection---india-pale-ale/40422"
 country: "United Kingdom"
 brewery: "Shepherd Neame"
-breweryURL: "https://untappd.com/w/shepherd-neame/1132"
+breweryURL: "/brewery/shepherd-neame.html"
 style: "IPA - English"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12729064_10153890417368745_6907793566119928582_n.jpg?oh=326e58358a52504d28882ac062b5e816&oe=59308BE5

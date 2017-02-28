@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-schwarze-weisse--dark-wheat--hefeweizen-dunkel/25780"
 country: "Germany"
 brewery: "Staatliches Hofbräuhaus München"
-breweryURL: "https://untappd.com/w/staatliches-hofbrauhaus-munchen/5566"
+breweryURL: "/brewery/staatliches-hofbrauhaus-munchen.html"
 style: "Dunkelweizen"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/10462761_10152534310558745_1029523877930371907_n.jpg?oh=89affe8eca3d5ac1ea2fb8816fe8f374&oe=59498521

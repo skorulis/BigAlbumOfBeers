@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brasserie-dachouffe-houblon-chouffe/230"
 country: "Belgium"
 brewery: "Brasserie d'Achouffe"
-breweryURL: "https://untappd.com/w/brasserie-dachouffe/11866"
+breweryURL: "/brewery/brasserie-dachouffe.html"
 style: "IPA - Belgian"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12494908_10153966651838745_649551942505437131_n.jpg?oh=03fd9c994bdec8176c685a4edfed41ec&oe=593BF54D

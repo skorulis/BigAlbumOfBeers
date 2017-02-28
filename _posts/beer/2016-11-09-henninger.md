@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/binding-brauerei-henninger-premium-lager/116616"
 country: "Germany"
 brewery: "Binding Brauerei"
-breweryURL: "https://untappd.com/w/binding-brauerei/137894"
+breweryURL: "/brewery/binding-brauerei.html"
 style: "Lager - Helles"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955215_10153055772023745_950968910298192775_n.jpg?oh=72c992a4c8619559f52ff65b92bae3cd&oe=59329D58

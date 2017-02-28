@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brasserie-lefebvre-floreffe-prima-melior--meilleure/18361"
 country: "Belgium"
 brewery: "Brasserie Lefebvre"
-breweryURL: "https://untappd.com/w/brasserie-lefebvre/197"
+breweryURL: "/brewery/brasserie-lefebvre.html"
 style: "Belgian Strong Dark Ale"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10940507_10153055792123745_6951460612562111481_n.jpg?oh=a6e4fbdb2bff6c05838fb6e1041c002d&oe=5930E590

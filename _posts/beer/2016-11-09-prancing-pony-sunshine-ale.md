@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/prancing-pony-brewery-sunshine-ale/999204"
 country: "Australia"
 brewery: "Prancing Pony Brewery"
-breweryURL: "https://untappd.com/w/prancing-pony-brewery/46696"
+breweryURL: "/brewery/prancing-pony-brewery.html"
 style: "Blonde Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14364917_10154470807363745_7728138801464076268_n.jpg?oh=30d777a617da53631ff78cce2164a2f7&oe=594BA535

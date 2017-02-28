@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/charles-wells-brewery-wells-bombardier-glorious-english/5101"
 country: "United Kingdom"
 brewery: "Charles Wells Brewery"
-breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
+breweryURL: "/brewery/charles-wells-brewery.html"
 style: "English Bitter"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12402_10151649175493745_949451993_n.jpg?oh=8477af4d64841d4b829e11a1cbc7c842&oe=592C559F

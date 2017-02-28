@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/matsos-broome-brewery-ginger-beer/35702"
 country: "Australia"
 brewery: "Matso's Broome Brewery"
-breweryURL: "https://untappd.com/w/matsos-broome-brewery/4469"
+breweryURL: "/brewery/matsos-broome-brewery.html"
 style: "Ginger Beer"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10390539_10152534306248745_2125625178149511710_n.jpg?oh=2cd531aff05396cb9add2d76db4ad098&oe=59405646

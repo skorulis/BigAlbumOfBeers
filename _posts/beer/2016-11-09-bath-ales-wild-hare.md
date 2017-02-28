@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/bath-ales-wild-hare/6251"
 country: "United Kingdom"
 brewery: "Bath Ales"
-breweryURL: "https://untappd.com/w/bath-ales/1464"
+breweryURL: "/brewery/bath-ales.html"
 style: "Pale Ale - English"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/935469_10151694516713745_1078233688_n.jpg?oh=f877ba3373a0e93a127e40423695a38b&oe=593EC345

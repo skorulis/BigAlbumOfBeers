@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/kassatly-chtaura-beirut-beer/741615"
 country: "Lebanon"
 brewery: "Kassatly Chtaura"
-breweryURL: "https://untappd.com/w/kassatly-chtaura/142740"
+breweryURL: "/brewery/kassatly-chtaura.html"
 style: "Pilsner - Other"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13230125_10154147273808745_8826087779815602957_n.jpg?oh=9cbd09410bc6f4e281150bd6b37a11a7&oe=593FA187

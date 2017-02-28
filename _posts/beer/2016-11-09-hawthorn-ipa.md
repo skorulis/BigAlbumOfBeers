@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/hawthorn-brewing-company-australian-ipa/240943"
 country: "Australia"
 brewery: "Hawthorn Brewing Company"
-breweryURL: "https://untappd.com/w/hawthorn-brewing-company/6931"
+breweryURL: "/brewery/hawthorn-brewing-company.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/580369_10153966656363745_4315787602585071997_n.jpg?oh=18e7182be32ac43e84120f29d8741fc9&oe=5929107D

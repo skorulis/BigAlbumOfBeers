@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-dark-knight/13293"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
-breweryURL: "https://untappd.com/w/murrays-craft-brewing-co/2557"
+breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "Porter - Other"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13263768_10154147277768745_7051226245324032886_n.jpg?oh=b7ce2e33e46b5244d00d6ebd9c331904&oe=59448B06

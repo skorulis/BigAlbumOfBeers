@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brasserie-du-mont-blanc-la-verte/6013"
 country: "France"
 brewery: "Brasserie du Mont Blanc"
-breweryURL: "https://untappd.com/w/brasserie-du-mont-blanc/1433"
+breweryURL: "/brewery/brasserie-du-mont-blanc.html"
 style: "Spiced / Herbed Beer"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13001187_10154072541123745_7747103315223526141_n.jpg?oh=2279248744e5a60fcc24fe263ca1ce95&oe=5937D128

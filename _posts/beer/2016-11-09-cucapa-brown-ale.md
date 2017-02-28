@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/cerveceria-de-baja-california--cucapa-brewing-co---cucapa-obscura/7734"
 country: "Mexico"
 brewery: "Cervecería de Baja California (Cucapa Brewing Co.)"
-breweryURL: "https://untappd.com/w/cerveceria-de-baja-california--cucapa-brewing-co--/420"
+breweryURL: "/brewery/cerveceria-de-baja-california--cucapa-brewing-co--.html"
 style: "Brown Ale - American"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12821335_10153966659288745_8654410515493028710_n.jpg?oh=a1bf1acafce0da51cc8052c4948d973b&oe=593999F3

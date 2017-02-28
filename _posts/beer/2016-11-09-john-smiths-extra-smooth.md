@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/john-smiths-extra-smooth-ale/1009950"
 country: "United Kingdom"
 brewery: "John Smith's"
-breweryURL: "https://untappd.com/w/john-smiths/1816"
+breweryURL: "/brewery/john-smiths.html"
 style: "English Bitter"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/598767_10151461673913745_877248330_n.jpg?oh=f03b63237ba515300fe77f7148bbc3a4&oe=59290F64

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/ringwood-brewery-boondoggle/21840"
 country: "United Kingdom"
 brewery: "Ringwood Brewery"
-breweryURL: "https://untappd.com/w/ringwood-brewery/2495"
+breweryURL: "/brewery/ringwood-brewery.html"
 style: "Blonde Ale"
 score: null
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970910_10151860440438745_1474360215_n.jpg?oh=5cc5b5c3c426bc3763f2dcb8a6e26f12&oe=59295303

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-australian-brewery-the-pale-ale/49425"
 country: "Australia"
 brewery: "The Australian Brewery"
-breweryURL: "https://untappd.com/w/the-australian-brewery/3262"
+breweryURL: "/brewery/the-australian-brewery.html"
 style: "Pale Ale - Australian"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10341507_10152425240228745_8265904163887562785_n.jpg?oh=fde327989f34b6766b03004736c91fdf&oe=5931903F

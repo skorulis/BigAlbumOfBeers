@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brewdog-jack-hammer/196338"
 country: "United Kingdom"
 brewery: "BrewDog"
-breweryURL: "https://untappd.com/w/brewdog/241"
+breweryURL: "/brewery/brewdog.html"
 style: "IPA - American"
 score: 9
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1507888_10153966650763745_3858788343816093746_n.jpg?oh=88b3b97c9e8dda1b1ab77c4e39859a80&oe=5934FE55

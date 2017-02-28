@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/adnams-spindrift/6198"
 country: "United Kingdom"
 brewery: "Adnams"
-breweryURL: "https://untappd.com/w/adnams/11"
+breweryURL: "/brewery/adnams.html"
 style: "Blonde Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069901_10151798803058745_68050022_n.jpg?oh=0f24b7a92c74d6a8733e1fabdffef5ba&oe=59465087

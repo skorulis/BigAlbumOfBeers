@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-little-brewing-company-wicked-elf-porter/169757"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
+breweryURL: "/brewery/the-little-brewing-company.html"
 style: "Porter - English"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10488349_10152534301008745_8348994823778686167_n.jpg?oh=80df3ca4e1c4ea06211e8ca14c01c2ec&oe=592FE0BE

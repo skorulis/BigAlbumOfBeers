@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sixpoint-brewery-resin/117064"
 country: "United States"
 brewery: "Sixpoint Brewery"
-breweryURL: "https://untappd.com/w/sixpoint-brewery/1149"
+breweryURL: "/brewery/sixpoint-brewery.html"
 style: "IPA - Imperial / Double"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11053047_10153225354168745_5695677735113264681_n.jpg?oh=5d366ea4bc583a2ffab70bdf02f6774c&oe=5932010B

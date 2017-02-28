@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/cerveceria-mexicana-s--de-r-l--de-c-v---tecate--red-pig-mexican-ale/17506"
 country: "Mexico"
 brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
-breweryURL: "https://untappd.com/w/cerveceria-mexicana-s--de-r-l--de-c-v---tecate-/3254"
+breweryURL: "/brewery/cerveceria-mexicana-s--de-r-l--de-c-v---tecate-.html"
 style: "Red Ale - American Amber / Red"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/67811_10151368077158745_1890584013_n.jpg?oh=b44e47067301ea5b7324155e6e400528&oe=592C8BC3

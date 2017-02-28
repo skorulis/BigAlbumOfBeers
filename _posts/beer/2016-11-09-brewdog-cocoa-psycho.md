@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brewdog-cocoa-psycho/273455"
 country: "United Kingdom"
 brewery: "BrewDog"
-breweryURL: "https://untappd.com/w/brewdog/241"
+breweryURL: "/brewery/brewdog.html"
 style: "Stout - Russian Imperial"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1236502_10151929072183745_392721452_n.jpg?oh=68c44c07b53c12da9b14c64833808a9f&oe=592A0263

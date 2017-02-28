@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/beverage-brands-cuvana/299290"
 country: "United Kingdom"
 brewery: "Beverage Brands"
-breweryURL: "https://untappd.com/w/beverage-brands/41756"
+breweryURL: "/brewery/beverage-brands.html"
 style: "Lager - Pale"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64844_10151798801973745_1700678415_n.jpg?oh=c4a7bd7c3b9e983173e69146947618f0&oe=594A24D4

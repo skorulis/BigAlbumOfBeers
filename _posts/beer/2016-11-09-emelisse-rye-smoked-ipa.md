@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/bierbrouwerij-emelisse-smoked-rye-ipa/582132"
 country: "Netherlands"
 brewery: "Bierbrouwerij Emelisse"
-breweryURL: "https://untappd.com/w/bierbrouwerij-emelisse/9171"
+breweryURL: "/brewery/bierbrouwerij-emelisse.html"
 style: "Rye IPA"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10004059_10153966655363745_2943533530938025216_n.jpg?oh=93778ef9b8597fc77156020dbbc0e8e8&oe=59299965

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/fixation-brewing-co-fixation-ipa/1343276"
 country: "Australia"
 brewery: "Fixation Brewing Co"
-breweryURL: "https://untappd.com/w/fixation-brewing-co/240124"
+breweryURL: "/brewery/fixation-brewing-co.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16196006_10154858212143745_7484622789742011688_n.jpg?oh=3f3f169b4a09ad1d6ad5b882275554c4&oe=593C6963

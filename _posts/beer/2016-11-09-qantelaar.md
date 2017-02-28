@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/doude-maalderij-qantelaar-bruin/237224"
 country: "Belgium"
 brewery: "D'Oude Maalderij"
-breweryURL: "https://untappd.com/w/doude-maalderij/40967"
+breweryURL: "/brewery/doude-maalderij.html"
 style: "Belgian Strong Dark Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1924797_10152293087133745_1742289591_n.jpg?oh=0324f44ebd8028bc10711bc89402c205&oe=5941EECC

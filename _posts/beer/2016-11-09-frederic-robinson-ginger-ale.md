@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/marks---spencer-ginger-ale/31571"
 country: "United Kingdom"
 brewery: "Marks & Spencer"
-breweryURL: "https://untappd.com/w/marks---spencer/242395"
+breweryURL: "/brewery/marks---spencer.html"
 style: "Ginger Beer"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/486778_10151649175643745_1984274110_n.jpg?oh=cee026a6a6ff4fc4c8b93eca2635058c&oe=5944A5D8

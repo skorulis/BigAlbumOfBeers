@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brewdog-dead-pony-club/164769"
 country: "United Kingdom"
 brewery: "BrewDog"
-breweryURL: "https://untappd.com/w/brewdog/241"
+breweryURL: "/brewery/brewdog.html"
 style: "Pale Ale - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1003490_10151798796948745_2041837456_n.jpg?oh=139a75a532ea515f836179c0b775565a&oe=592B21D4

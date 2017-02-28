@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/charles-wells-brewery-courage-light-ale/113545"
 country: "United Kingdom"
 brewery: "Charles Wells Brewery"
-breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
+breweryURL: "/brewery/charles-wells-brewery.html"
 style: "English Bitter"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1003533_10151860443063745_1669379479_n.jpg?oh=d0d93c1794f03063aea37dc3d1d7023e&oe=59336FA9

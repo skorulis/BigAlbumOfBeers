@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-the-ducks/838331"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
+breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1492370_10153055726208745_5026667878902117342_o.jpg?oh=bd8131f381ef0ece694ee7d1a55f9fd0&oe=594B87B6

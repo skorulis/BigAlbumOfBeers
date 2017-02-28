@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sambrooks-brewery-junction/58665"
 country: "United Kingdom"
 brewery: "Sambrook's Brewery"
-breweryURL: "https://untappd.com/w/sambrooks-brewery/8500"
+breweryURL: "/brewery/sambrooks-brewery.html"
 style: "English Bitter"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/482628_10151563846178745_1536949417_n.jpg?oh=bb7b519e30d0005ea2f01b887c00b7b4&oe=59444E36

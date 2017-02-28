@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/kompania-piwowarska-debowe-mocne/83020"
 country: "Poland"
 brewery: "Kompania Piwowarska"
-breweryURL: "https://untappd.com/w/kompania-piwowarska/22399"
+breweryURL: "/brewery/kompania-piwowarska.html"
 style: "Lager - Euro Strong"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/923169_10151649174868745_1394415362_n.jpg?oh=40ba7dbe61d1bb03fd970c8a7aeebd7d&oe=5943646E

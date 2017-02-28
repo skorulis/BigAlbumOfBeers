@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/hopdog-beerworks-bingo-wings/523022"
 country: "Australia"
 brewery: "HopDog BeerWorks"
-breweryURL: "https://untappd.com/w/hopdog-beerworks/15151"
+breweryURL: "/brewery/hopdog-beerworks.html"
 style: "Pale Wheat Ale - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10155860_10152425240628745_5749004272951603123_n.jpg?oh=f1aa5a92c5ccea79e6615dc795c28f62&oe=5926E092

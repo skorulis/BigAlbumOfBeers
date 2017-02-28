@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/yeastie-boys-pkb-remix-2015--dark-matta-/1181501"
 country: "New Zealand"
 brewery: "Yeastie Boys"
-breweryURL: "https://untappd.com/w/yeastie-boys/3591"
+breweryURL: "/brewery/yeastie-boys.html"
 style: "Porter - Other"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10347498_10153966651168745_482800618815663484_n.jpg?oh=0e4bb6f0b7a9b47e65f7a9b59324ef0a&oe=593064EC

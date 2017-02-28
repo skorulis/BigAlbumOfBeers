@@ -5,7 +5,7 @@ title: Skorubrew stout #4
 category: beer
 country: "Australia"
 brewery: "Skorubrew"
-breweryURL: "http://homebrew.skorulis.com"
+breweryURL: "/brewery/skorubrew.html"
 style: "Stout - Other"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13244856_10154147274693745_6588882774543071375_n.jpg?oh=4a27496c57b49c98ce4403e3b5e9d57e&oe=5930EB07

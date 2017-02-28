@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/six-string-brewing-company-pale-ale/284344"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "https://untappd.com/w/six-string-brewing-company/49352"
+breweryURL: "/brewery/six-string-brewing-company.html"
 style: "Pale Ale - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10570347_10153966659658745_1644353854355421040_n.jpg?oh=ae6906fb865961c717b9f603a87f9043&oe=5944C2F8

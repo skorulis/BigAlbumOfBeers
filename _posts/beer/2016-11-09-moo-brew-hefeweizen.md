@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/moo-brew-hefeweizen/34168"
 country: "Australia"
 brewery: "Moo Brew"
-breweryURL: "https://untappd.com/w/moo-brew/4806"
+breweryURL: "/brewery/moo-brew.html"
 style: "Hefeweizen"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11182307_10153268257633745_3691539250579390263_n.jpg?oh=57069d2827034aeee32f134137a93416&oe=593E5F15

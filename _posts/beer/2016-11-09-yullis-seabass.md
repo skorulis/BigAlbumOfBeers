@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/yullis-brews-seabass-mediterranean-lager/1336924"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "https://untappd.com/w/yullis-brews/130600"
+breweryURL: "/brewery/yullis-brews.html"
 style: "Lager - Pale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13000118_10154072540778745_8031562595698025950_n.jpg?oh=d0d60dd77057a234dbe46fa3b1c387c8&oe=5942A79B

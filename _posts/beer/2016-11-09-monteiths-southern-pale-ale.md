@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-southern-pale-ale/626008"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "https://untappd.com/w/monteiths-brewing-co--/881"
+breweryURL: "/brewery/monteiths-brewing-co--.html"
 style: "Pale Ale - New Zealand"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10498559_10153268294398745_8634108256899324103_o.jpg?oh=57a27d27ba0041289800c954159562fa&oe=593A2E25

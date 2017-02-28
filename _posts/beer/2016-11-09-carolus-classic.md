@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brouwerij-het-anker-gouden-carolus-classic/9087"
 country: "Belgium"
 brewery: "Brouwerij Het Anker"
-breweryURL: "https://untappd.com/w/brouwerij-het-anker/284"
+breweryURL: "/brewery/brouwerij-het-anker.html"
 style: "Belgian Strong Dark Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1782108_10152293087803745_1558065696_n.jpg?oh=5c21047b15ab3631a2884554fe6dab5b&oe=5929A585

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/orion-breweries--ltd--orion-draft-beer/174508"
 country: "Japan"
 brewery: "Orion Breweries, Ltd."
-breweryURL: "https://untappd.com/w/orion-breweries--ltd-/6919"
+breweryURL: "/brewery/orion-breweries--ltd-.html"
 style: "Lager - Japanese Rice"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13442135_10154200936788745_6034318375592636488_n.jpg?oh=a146c6728f8c610fe8da4373f67d959a&oe=593D256A

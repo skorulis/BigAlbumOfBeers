@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/camden-town-brewery-camden-gentlemans-wit-white-beer/108629"
 country: "United Kingdom"
 brewery: "Camden Town Brewery"
-breweryURL: "https://untappd.com/w/camden-town-brewery/10433"
+breweryURL: "/brewery/camden-town-brewery.html"
 style: "Witbier"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1176312_10151860443023745_856797078_n.jpg?oh=6f6f7013e55b1862aefddbca4e78bb20&oe=5946A89D

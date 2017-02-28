@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/dark-star-brewing-co--hylder-blonde/49330"
 country: "United Kingdom"
 brewery: "Dark Star Brewing Co."
-breweryURL: "https://untappd.com/w/dark-star-brewing-co-/1513"
+breweryURL: "/brewery/dark-star-brewing-co-.html"
 style: "Blonde Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542217_10151860441663745_480799893_n.jpg?oh=8f05962a91669fd5c50ffb44f5c45f6a&oe=5941551D

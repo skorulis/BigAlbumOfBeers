@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/white-rabbit-white-ale/15237"
 country: "Australia"
 brewery: "White Rabbit"
-breweryURL: "https://untappd.com/w/white-rabbit/2051"
+breweryURL: "/brewery/white-rabbit.html"
 style: "Witbier"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1932304_10153268279663745_7818150974405781457_n.jpg?oh=5a0f17235e42dc10c239d02cc353e3de&oe=59437F9B

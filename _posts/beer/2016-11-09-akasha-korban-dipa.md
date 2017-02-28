@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--korben-d--double-ipa/1336956"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "https://untappd.com/w/akasha-brewing-company--australia-/188552"
+breweryURL: "/brewery/akasha-brewing-company--australia-.html"
 style: "IPA - Imperial / Double"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142304_10154858217413745_3235979836318467031_n.jpg?oh=e634c58f58a5b9a46060b9cac905b13a&oe=58FDEC74

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/barossa-valley-brewing-i-cant-believe-its-not-bacon/1557796"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "https://untappd.com/w/barossa-valley-brewing/14448"
+breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Smoked Beer"
 score: 7.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14364803_10154470805213745_3875462672312387508_n.jpg?oh=74d958c9010bf03134dfcd75cf84bb79&oe=59364DC1

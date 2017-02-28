@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--cream-of-the-hop-3/1266877"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
-breweryURL: "https://untappd.com/w/modus-operandi-brewing-co-/145927"
+breweryURL: "/brewery/modus-operandi-brewing-co-.html"
 style: "Pale Ale - Australian"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509647_10153811618828745_7009333713246897313_n.jpg?oh=5ff32083cefe87db110091f201718aaf&oe=593EE9C6

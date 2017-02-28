@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/boatrocker-brewing-company-hop-bomb-ipa/363408"
 country: "Australia"
 brewery: "Boatrocker Brewing Company"
-breweryURL: "https://untappd.com/w/boatrocker-brewing-company/3106"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "IPA - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195100_10154858015438745_632539563054087672_n.jpg?oh=8c472569e17f6a5e7c5c583d283d1814&oe=593779C9

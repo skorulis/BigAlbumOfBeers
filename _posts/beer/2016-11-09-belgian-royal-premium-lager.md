@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/belgian-blue-brewing-company-belgian-royal/643640"
 country: "Belgium"
 brewery: "Belgian Blue Brewing Company"
-breweryURL: "https://untappd.com/w/belgian-blue-brewing-company/48082"
+breweryURL: "/brewery/belgian-blue-brewing-company.html"
 style: "Lager - Euro"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11742655_10153438036023745_7783155327321003667_n.jpg?oh=c6f9fd8587fcfc45f97ed342b8ea4f8c&oe=5949C004

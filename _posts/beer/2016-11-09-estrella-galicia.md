@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/hijos-de-rivera-estrella-galicia/7313"
 country: "Spain"
 brewery: "Hijos de Rivera"
-breweryURL: "https://untappd.com/w/hijos-de-rivera/1877"
+breweryURL: "/brewery/hijos-de-rivera.html"
 style: "Lager - North American Adjunct"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/988265_10151798820448745_1825630126_n.jpg?oh=a5a06f8acb418553a62cf02fc7bd6eed&oe=59381643

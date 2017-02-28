@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/oakham-ales-scarlet-macaw/52694"
 country: "United Kingdom"
 brewery: "Oakham Ales"
-breweryURL: "https://untappd.com/w/oakham-ales/931"
+breweryURL: "/brewery/oakham-ales.html"
 style: "Pale Ale - English"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238244_10151929068473745_105586790_n.jpg?oh=b7c979744ddb111ae54e80a66cbe5bc9&oe=5938234E

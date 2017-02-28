@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-quayle-summer-ale/73924"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
-breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
+breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Pale Wheat Ale - American"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/602158_10151602281568745_1269833032_n.jpg?oh=e831735546d86a2635685d849b7dd2b8&oe=593C0B50

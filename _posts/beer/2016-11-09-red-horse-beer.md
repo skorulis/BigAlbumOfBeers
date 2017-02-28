@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/san-miguel-brewery-red-horse-beer/17796"
 country: "Philippines"
 brewery: "San Miguel Brewery"
-breweryURL: "https://untappd.com/w/san-miguel-brewery/6111"
+breweryURL: "/brewery/san-miguel-brewery.html"
 style: "Lager - Pale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12744494_10153890418648745_513314091064162487_n.jpg?oh=ef71aba46b68ee15fbdc7bcbb1a983ab&oe=592FD0EB

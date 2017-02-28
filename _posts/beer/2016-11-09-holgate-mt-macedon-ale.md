@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/holgate-brewhouse-mt--macedon-pale-ale/7655"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
+breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Pale Ale - Australian"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/536215_10151602297528745_137791391_n.jpg?oh=2325c6c679b4afbb414efe7391338f74&oe=592FB530

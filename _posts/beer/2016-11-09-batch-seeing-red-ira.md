@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/batch-brewing-company-seeing-red-ira/1447473"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Red Ale - Imperial / Double"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12871500_10154147275008745_8435099638862141389_n.jpg?oh=6069dc5c2813821c7b815d590a8fdb61&oe=592D8A46

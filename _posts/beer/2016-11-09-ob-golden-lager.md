@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/oriental-brewery-ob-golden-lager/45885"
 country: "South Korea"
 brewery: "Oriental Brewery"
-breweryURL: "https://untappd.com/w/oriental-brewery/6167"
+breweryURL: "/brewery/oriental-brewery.html"
 style: "Lager - American Light"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11665626_10153438035338745_1942830826260024445_n.jpg?oh=510f4be760e93edd9df5e3365733a730&oe=593CDF90

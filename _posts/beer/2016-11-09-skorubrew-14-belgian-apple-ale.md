@@ -5,7 +5,7 @@ title: Skorubrew #14 belgian apple ale
 category: beer
 country: "Australia"
 brewery: "Skorubrew"
-breweryURL: "http://homebrew.skorulis.com"
+breweryURL: "/brewery/skorubrew.html"
 style: "Belgian Dubbel"
 score: 7.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114094_10154858210088745_1565220583191282789_n.jpg?oh=e99615abe04c22488608cdb267c462ca&oe=592AF17D

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brouwerij-3-fonteinen-oude-geuze/4009"
 country: "Belgium"
 brewery: "Brouwerij 3 Fonteinen"
-breweryURL: "https://untappd.com/w/brouwerij-3-fonteinen/3562"
+breweryURL: "/brewery/brouwerij-3-fonteinen.html"
 style: "Sour - Gueuze"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1382815_10152001621173745_208469765_n.jpg?oh=f938fcdc749e516f28d528834309811c&oe=593B5625

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-one-fifty-lashes-pale-ale/55904"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
+breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Pale Ale - Australian"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/482193_10151602292048745_375392297_n.jpg?oh=fda3aa0786b3c8df27e91005c9ea7bce&oe=592CFBF4

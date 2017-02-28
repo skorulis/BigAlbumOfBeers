@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/pirate-life-brewing-hopco-nz-pale-ale/1424052"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "https://untappd.com/w/pirate-life-brewing/189380"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Pale Ale - New Zealand"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13238891_10154147274018745_2218348989364359233_n.jpg?oh=e9b658bef7394fee70deadd18ee7dc51&oe=593F44C2

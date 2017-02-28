@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/burning-sky-brewery-aurora/480460"
 country: "United Kingdom"
 brewery: "Burning Sky Brewery"
-breweryURL: "https://untappd.com/w/burning-sky-brewery/86117"
+breweryURL: "/brewery/burning-sky-brewery.html"
 style: "Pale Ale - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1476223_10152147732298745_333484722_n.jpg?oh=790e2ada67e1747856a1aa98b5a9deb5&oe=59262E07

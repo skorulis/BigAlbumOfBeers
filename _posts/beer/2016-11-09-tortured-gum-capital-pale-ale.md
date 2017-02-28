@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/tortured-gum-capital-pale-ale/1320193"
 country: "Australia"
 brewery: "Tortured Gum"
-breweryURL: "https://untappd.com/w/tortured-gum/198918"
+breweryURL: "/brewery/tortured-gum.html"
 style: "Pale Ale - Australian"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717222_10153890415308745_1813544797541172385_n.jpg?oh=69bbf473fd7083ceee040ad5ed2c6557&oe=594A2700

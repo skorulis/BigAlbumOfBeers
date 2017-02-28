@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/king-beer-brighton-blonde/113189"
 country: "United Kingdom"
 brewery: "King Beer"
-breweryURL: "https://untappd.com/w/king-beer/10649"
+breweryURL: "/brewery/king-beer.html"
 style: "Pale Ale - English"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/579360_10152147733223745_1201965133_n.jpg?oh=56aaef12026240f7f481bbe2d5949512&oe=59385514

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/fox-hat-brewing-red-pelt/1772685"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "https://untappd.com/w/fox-hat-brewing/193696"
+breweryURL: "/brewery/fox-hat-brewing.html"
 style: "IPA - Red"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16602874_10154923951953745_7354285082881268208_n.jpg?oh=8a40aeec277991b9da396b85dcb9331e&oe=59346329

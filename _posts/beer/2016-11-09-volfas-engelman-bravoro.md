@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/volfas-engelman-bravoro/257379"
 country: "Lithuania"
 brewery: "Volfas Engelman"
-breweryURL: "https://untappd.com/w/volfas-engelman/22394"
+breweryURL: "/brewery/volfas-engelman.html"
 style: "Lager - Pale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1236122_10151929070963745_949716381_n.jpg?oh=36518c8fcc034f266c4e1a6c12b0c275&oe=59444DFD

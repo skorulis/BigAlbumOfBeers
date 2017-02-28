@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-golden-lager/7400"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "https://untappd.com/w/monteiths-brewing-co--/881"
+breweryURL: "/brewery/monteiths-brewing-co--.html"
 style: "Lager - Pale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10456077_10152534300758745_7454080799516274626_n.jpg?oh=11a4dd5d3fe9eec43154d90960422020&oe=593E7E0B

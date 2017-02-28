@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/six-string-brewing-company-dark-red-ipa/318875"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "https://untappd.com/w/six-string-brewing-company/49352"
+breweryURL: "/brewery/six-string-brewing-company.html"
 style: "IPA - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14441019_10154470803253745_5501701895500526145_n.jpg?oh=eb587e01e5e2ca9fc3b0456294164af3&oe=5946EAEE

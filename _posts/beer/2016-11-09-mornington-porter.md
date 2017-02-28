@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-porter/27335"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
+breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Porter - American"
 score: 7.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174690_10154858210328745_1747042745805335072_n.jpg?oh=eba907e7fb0a24526e6a10b11a8f4921&oe=592B5591

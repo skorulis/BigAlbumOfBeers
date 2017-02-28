@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/magic-hat-brewing-company-odd-notion---poppy-agave-ale--summer-2016-/1473631"
 country: "United States"
 brewery: "Magic Hat Brewing Company"
-breweryURL: "https://untappd.com/w/magic-hat-brewing-company/812"
+breweryURL: "/brewery/magic-hat-brewing-company.html"
 style: "Pale Ale - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15027843_10154633843218745_6421410119970575016_n.jpg?oh=d51bce1918761edb81ae014245f5faa7&oe=593E8855

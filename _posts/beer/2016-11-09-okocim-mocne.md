@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/browar-okocim--carlsberg-polska--okocim-mocne/68244"
 country: "Poland"
 brewery: "Browar Okocim (Carlsberg Polska)"
-breweryURL: "https://untappd.com/w/browar-okocim--carlsberg-polska-/307"
+breweryURL: "/brewery/browar-okocim--carlsberg-polska-.html"
 style: "Lager - Euro Strong"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/301917_10151649177953745_1459071565_n.jpg?oh=0f547a1a1307d0f04a46705d8167487b&oe=5939DF45

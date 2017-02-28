@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-little-brewing-company-death-between-the-tanks/484884"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
+breweryURL: "/brewery/the-little-brewing-company.html"
 style: "IPA - Imperial / Double"
 score: 9.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15078999_10154633841473745_8903335512713450426_n.jpg?oh=70ab7ae434aef8c4032f8bbb75ca4a69&oe=594C29A6

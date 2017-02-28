@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/batch-brewing-company-big-pauls-mango-ipa/1411361"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "IPA - International"
 score: 9
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12728900_10153890419808745_8114701954738943189_n.jpg?oh=f743158cbee012e05821c7330937d70b&oe=593F669B

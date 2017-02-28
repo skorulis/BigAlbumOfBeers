@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/yeastie-boys-gunnamatta/169755"
 country: "New Zealand"
 brewery: "Yeastie Boys"
-breweryURL: "https://untappd.com/w/yeastie-boys/3591"
+breweryURL: "/brewery/yeastie-boys.html"
 style: "Spiced / Herbed Beer"
 score: 9
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12646945_10153890415153745_1313474125480375485_n.jpg?oh=a73a85d8a5abfde11e413de39b954c8b&oe=59473D31

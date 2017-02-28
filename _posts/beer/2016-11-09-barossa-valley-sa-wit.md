@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/barossa-valley-brewing-south-australian-wit/1600525"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "https://untappd.com/w/barossa-valley-brewing/14448"
+breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Witbier"
 score: 8.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333606_10154470807043745_5024248083203116549_n.jpg?oh=8e200068e3dca08c2c4bcd7cd6e71ace&oe=593F3934

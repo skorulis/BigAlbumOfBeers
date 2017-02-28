@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/matsos-broome-brewery-chilli-beer/84759"
 country: "Australia"
 brewery: "Matso's Broome Brewery"
-breweryURL: "https://untappd.com/w/matsos-broome-brewery/4469"
+breweryURL: "/brewery/matsos-broome-brewery.html"
 style: "Spiced / Herbed Beer"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11034166_10153118792613745_1685865302807726235_n.jpg?oh=90fe75baf6f27eec108867a67c693519&oe=5936F57F

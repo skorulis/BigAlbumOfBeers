@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/dad---daves-brewing-2-belgian-ipa/768311"
 country: "Australia"
 brewery: "Dad & Dave's Brewing"
-breweryURL: "https://untappd.com/w/dad---daves-brewing/34849"
+breweryURL: "/brewery/dad---daves-brewing.html"
 style: "IPA - Belgian"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13238891_10154147276503745_6482757969464081061_n.jpg?oh=32bc93ebe9dbe7d940235987de8d7755&oe=593E0AC2

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/john-boston-the-guard-house/852663"
 country: "Australia"
 brewery: "John Boston"
-breweryURL: "https://untappd.com/w/john-boston/3932"
+breweryURL: "/brewery/john-boston.html"
 style: "Golden Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10690124_10153055770718745_5622367894684528293_n.jpg?oh=c24dabaa78210d6a4dab7ba6b009cca3&oe=593977E0

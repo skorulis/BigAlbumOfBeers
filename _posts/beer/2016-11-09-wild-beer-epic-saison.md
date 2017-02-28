@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-wild-beer-co-epic-saison/259506"
 country: "United Kingdom"
 brewery: "The Wild Beer Co"
-breweryURL: "https://untappd.com/w/the-wild-beer-co/41559"
+breweryURL: "/brewery/the-wild-beer-co.html"
 style: "Saison / Farmhouse Ale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/73345_10151798799468745_1877528478_n.jpg?oh=1af2b54e88b1943b6ed72542f5cf6d3a&oe=5928D3B0

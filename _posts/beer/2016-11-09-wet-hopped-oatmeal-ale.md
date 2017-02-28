@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/grand-ridge-brewery-whoa---wet-hopped-oatmeal-ale/821304"
 country: "Australia"
 brewery: "Grand Ridge Brewery"
-breweryURL: "https://untappd.com/w/grand-ridge-brewery/4331"
+breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Golden Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12742769_10153890414963745_1738049076033297377_n.jpg?oh=f4f585e72db0aecb63bfba0be408990c&oe=593923DC

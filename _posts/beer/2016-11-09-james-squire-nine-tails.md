@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-nine-tales-amber-ale/10808"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
+breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Brown Ale - English"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12074484_10153656867603745_6432235869019497791_n.jpg?oh=5d14402067ddeaad84ab87a854dbadfd&oe=59355552

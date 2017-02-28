@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/kosciuszko-brewing-company-pale-ale/12351"
 country: "Australia"
 brewery: "Kosciuszko Brewing Company"
-breweryURL: "https://untappd.com/w/kosciuszko-brewing-company/3337"
+breweryURL: "/brewery/kosciuszko-brewing-company.html"
 style: "Pale Ale - American"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10492453_10153055771438745_3655493043304213188_n.jpg?oh=b9cf7112fdea5319484bcaeb3ab9ab4b&oe=5939FCA6

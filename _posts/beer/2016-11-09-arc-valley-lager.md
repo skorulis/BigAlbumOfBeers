@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/pinnacle-drinks-group--woolworths--arc-valley/801656"
 country: "Australia"
 brewery: "Pinnacle Drinks Group (Woolworths)"
-breweryURL: "https://untappd.com/w/pinnacle-drinks-group--woolworths-/74417"
+breweryURL: "/brewery/pinnacle-drinks-group--woolworths-.html"
 style: "Lager - Euro"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13413137_10154200938153745_6141742786313639808_n.jpg?oh=35e16eecaaba9eacaa0a234e7a1eee4b&oe=593807EE

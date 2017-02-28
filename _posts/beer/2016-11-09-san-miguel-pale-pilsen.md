@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/san-miguel-brewery-san-miguel-pale-pilsen/8956"
 country: "Philippines"
 brewery: "San Miguel Brewery"
-breweryURL: "https://untappd.com/w/san-miguel-brewery/6111"
+breweryURL: "/brewery/san-miguel-brewery.html"
 style: "Pilsner - Other"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/q86/p480x480/12108847_10153656865618745_952249772663413561_n.jpg?oh=63c5ed757e75c92b9dc3d03594e77170&oe=594BD5C7

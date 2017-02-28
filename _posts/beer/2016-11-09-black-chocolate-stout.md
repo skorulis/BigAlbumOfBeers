@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brooklyn-brewery-black-chocolate-stout/37235"
 country: "United States"
 brewery: "Brooklyn Brewery"
-breweryURL: "https://untappd.com/w/brooklyn-brewery/259"
+breweryURL: "/brewery/brooklyn-brewery.html"
 style: "Stout - Russian Imperial"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1001078_10151798818383745_544568245_n.jpg?oh=46d749094bc625b83f4bd66828c95b14&oe=5937AE8F

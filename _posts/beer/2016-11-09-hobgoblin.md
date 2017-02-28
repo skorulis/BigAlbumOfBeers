@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/wychwood-brewery-hobgoblin/5875"
 country: "United Kingdom"
 brewery: "Wychwood Brewery"
-breweryURL: "https://untappd.com/w/wychwood-brewery/1376"
+breweryURL: "/brewery/wychwood-brewery.html"
 style: "Brown Ale - English"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/484314_10151368077318745_996314221_n.jpg?oh=d835a9943d4bcdccfda569271b3f0d79&oe=592A990A

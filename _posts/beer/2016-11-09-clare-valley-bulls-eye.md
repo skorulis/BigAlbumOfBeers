@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/clare-valley-brewing-co--bulls-eye/439975"
 country: "Australia"
 brewery: "Clare Valley Brewing Co."
-breweryURL: "https://untappd.com/w/clare-valley-brewing-co-/76384"
+breweryURL: "/brewery/clare-valley-brewing-co-.html"
 style: "Pale Ale - Australian"
 score: 4.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14448985_10154470807198745_1941773766117119359_n.jpg?oh=f38223a4ad5455f4b68dda4d4c82b179&oe=5928BC51

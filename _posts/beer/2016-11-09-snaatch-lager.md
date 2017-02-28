@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sydney-brewery-snaatch-lager/1017209"
 country: "Australia"
 brewery: "Sydney Brewery"
-breweryURL: "https://untappd.com/w/sydney-brewery/2984"
+breweryURL: "/brewery/sydney-brewery.html"
 style: "Lager - Pale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1044239_10153053840773745_1317709767507240437_n.jpg?oh=090f0fe5284c906473c6eb16dd67d9d2&oe=594834F4

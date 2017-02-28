@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/steamrail-brewing-company--coles--ghost-of-eyre/869385"
 country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
-breweryURL: "https://untappd.com/w/steamrail-brewing-company--coles-/50996"
+breweryURL: "/brewery/steamrail-brewing-company--coles-.html"
 style: "Pale Ale - Australian"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10421490_10153268279843745_9177649199173204206_n.jpg?oh=3aa0d79bca7f7c77909cdd13bda46fc3&oe=59424C12

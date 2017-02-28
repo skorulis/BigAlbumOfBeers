@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-little-brewing-company-wicked-elf-witbier/13968"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
+breweryURL: "/brewery/the-little-brewing-company.html"
 style: "Witbier"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10292286_10153118667738745_8355190794765320413_n.jpg?oh=4d0e1deeb53d2fe59879a6c82b116c09&oe=5942018C

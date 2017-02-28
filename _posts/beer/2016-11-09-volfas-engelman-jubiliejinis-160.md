@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/volfas-engelman-jubiliejinis/423901"
 country: "Lithuania"
 brewery: "Volfas Engelman"
-breweryURL: "https://untappd.com/w/volfas-engelman/22394"
+breweryURL: "/brewery/volfas-engelman.html"
 style: "Lager - Vienna"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1385338_10152001620008745_462276383_n.jpg?oh=304af9bcb8e324220b14fc0248c97d86&oe=593418EC

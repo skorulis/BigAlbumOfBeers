@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-old-admiral/45881"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
-breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
+breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Strong Ale - English"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/575759_10151602281008745_1009725075_n.jpg?oh=a350bdfc582275e4eea806401415c372&oe=59300282

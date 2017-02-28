@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/king-beer-brighton-best/44566"
 country: "United Kingdom"
 brewery: "King Beer"
-breweryURL: "https://untappd.com/w/king-beer/10649"
+breweryURL: "/brewery/king-beer.html"
 style: "English Bitter"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1520804_10152147735848745_1884810076_n.jpg?oh=767aa7280906fb328c69b65d583944a3&oe=593666F4

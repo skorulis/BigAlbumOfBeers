@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/carlsberg-group-carlsberg-special-brew/55941"
 country: "Denmark"
 brewery: "Carlsberg Group"
-breweryURL: "https://untappd.com/w/carlsberg-group/344"
+breweryURL: "/brewery/carlsberg-group.html"
 style: "Pilsner - Imperial / Double"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/429525_10151356729088745_1307200238_n.jpg?oh=74e8abbb7ec6c73c29cb1ed6143f2620&oe=59361B12

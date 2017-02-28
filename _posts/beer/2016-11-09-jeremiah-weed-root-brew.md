@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-jeremiah-weed-distilling-company-root-brew/94945"
 country: "United States"
 brewery: "The Jeremiah Weed Distilling Company"
-breweryURL: "https://untappd.com/w/the-jeremiah-weed-distilling-company/13283"
+breweryURL: "/brewery/the-jeremiah-weed-distilling-company.html"
 style: "Ginger Beer"
 score: null
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/184446_10151428525538745_507755493_n.jpg?oh=263ea8d1f156e1ca512b41e3edae5978&oe=59419606

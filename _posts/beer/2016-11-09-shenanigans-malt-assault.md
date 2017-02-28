@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/shenanigans-brewing-co--malt-assault/1143738"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "https://untappd.com/w/shenanigans-brewing-co-/104449"
+breweryURL: "/brewery/shenanigans-brewing-co-.html"
 style: "Smoked Beer"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174519_10154858210323745_9095266115132092169_n.jpg?oh=2357a6db7f06d4754f2a27af1a0c5b44&oe=5935012B

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/killer-sprocket-rye-ipa/732602"
 country: "Australia"
 brewery: "Killer Sprocket"
-breweryURL: "https://untappd.com/w/killer-sprocket/56003"
+breweryURL: "/brewery/killer-sprocket.html"
 style: "Rye IPA"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1660722_10153811639283745_5357595767484756321_n.jpg?oh=49f2b0647494db04b42febf92b0577ee&oe=5930DF99

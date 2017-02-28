@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/greene-king-morland-old-golden-hen/75673"
 country: "United Kingdom"
 brewery: "Greene King"
-breweryURL: "https://untappd.com/w/greene-king/612"
+breweryURL: "/brewery/greene-king.html"
 style: "Golden Ale"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48062_10151649174963745_1079824641_n.jpg?oh=738e9be1cdb9b91d1bd4e4a88633b48f&oe=59427EAE

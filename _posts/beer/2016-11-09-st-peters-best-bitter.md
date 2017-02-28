@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/st--peters-brewery-co--best-bitter/38727"
 country: "United Kingdom"
 brewery: "St. Peter’s Brewery Co."
-breweryURL: "https://untappd.com/w/st--peters-brewery-co-/2855"
+breweryURL: "/brewery/st--peters-brewery-co-.html"
 style: "English Bitter"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1233387_10151929070703745_1019382535_n.jpg?oh=1239268f514b7dcac9a833eea5a57d75&oe=5926E3BB

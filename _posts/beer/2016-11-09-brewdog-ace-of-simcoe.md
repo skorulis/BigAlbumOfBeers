@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brewdog-ace-of-simcoe/1458004"
 country: "United Kingdom"
 brewery: "BrewDog"
-breweryURL: "https://untappd.com/w/brewdog/241"
+breweryURL: "/brewery/brewdog.html"
 style: "IPA - Session / India Session Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195567_10154858022973745_8651442478231377897_n.jpg?oh=eb87082692588c228276120f690c543a&oe=593D83D7

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/boatrocker-brewing-company-alpha-queen/11290"
 country: "Australia"
 brewery: "Boatrocker Brewing Company"
-breweryURL: "https://untappd.com/w/boatrocker-brewing-company/3106"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Pale Ale - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142500_10154858219793745_8642676350472823343_n.jpg?oh=91ba5bc2c7aa9fe2884cda77b5977956&oe=5927156D

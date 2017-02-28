@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/adnams-broadside/4003"
 country: "United Kingdom"
 brewery: "Adnams"
-breweryURL: "https://untappd.com/w/adnams/11"
+breweryURL: "/brewery/adnams.html"
 style: "English Bitter"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1006000_10151798819328745_2080424026_n.jpg?oh=a5f1a32b7f32df5c81ee8d3d7a607a94&oe=593F26E6

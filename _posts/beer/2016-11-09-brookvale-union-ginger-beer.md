@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/4-pines-brewing-company-brookvale-union-ginger-beer/425095"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "https://untappd.com/w/4-pines-brewing-company/4254"
+breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Ginger Beer"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1796708_10152293133278745_1592031312_n.jpg?oh=b71d701043cd3822683b7972cb32f0e6&oe=593D0705

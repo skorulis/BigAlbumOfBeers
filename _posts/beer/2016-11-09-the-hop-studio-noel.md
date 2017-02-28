@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-hop-studio-there-is-noel-in-christmas/275078"
 country: "United Kingdom"
 brewery: "The Hop Studio"
-breweryURL: "https://untappd.com/w/the-hop-studio/30719"
+breweryURL: "/brewery/the-hop-studio.html"
 style: "Winter Ale"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1618610_10152280800288745_1862858046_n.jpg?oh=e0e2f8615ee317b2fbf4891ba22aefb0&oe=5946E845

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/prickly-moses-harvest-ale/1058036"
 country: "Australia"
 brewery: "Prickly Moses"
-breweryURL: "https://untappd.com/w/prickly-moses/8308"
+breweryURL: "/brewery/prickly-moses.html"
 style: "Pale Ale - Australian"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13265938_10154147274608745_6314635329318943118_n.jpg?oh=f80f9f2c5919e651d77e4b48851e36e8&oe=593C499D

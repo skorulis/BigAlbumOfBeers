@@ -5,7 +5,7 @@ title: Willie smith triple
 category: beer
 country: "Australia"
 brewery: "William Smith & Sons"
-breweryURL: "https://untappd.com/w/william-smith---sons/"
+breweryURL: "/brewery/william-smith---sons.html"
 score: 8.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14433200_10154470831183745_4447106305531667099_n.jpg?oh=92e8783f4fc0227a813db1b8a34634ee&oe=592E5BF1
 beer-date: "2016-09-21"

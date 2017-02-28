@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-lager/1214393"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
+breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Lager - Helles"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16388218_10154888757668745_7230590597008067776_n.jpg?oh=d9250051c3ac66f8d7024e0c86352285&oe=59475808

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/two-metre-tall-derwent-aromatic-spelt-ale/171657"
 country: "Australia"
 brewery: "Two Metre Tall"
-breweryURL: "https://untappd.com/w/two-metre-tall/5270"
+breweryURL: "/brewery/two-metre-tall.html"
 style: "Sour - Ale"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13221636_10154147277423745_6025488422010352804_n.jpg?oh=0dd4c9ec031a80f11f8cbcd37ffbc269&oe=5926D688

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/flack-manor-flack-catcher/52716"
 country: "United Kingdom"
 brewery: "Flack Manor"
-breweryURL: "https://untappd.com/w/flack-manor/11945"
+breweryURL: "/brewery/flack-manor.html"
 style: "Golden Ale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19223_10151428534118745_318984545_n.jpg?oh=58811bdfab11d2285987142b758aabe7&oe=592B4775

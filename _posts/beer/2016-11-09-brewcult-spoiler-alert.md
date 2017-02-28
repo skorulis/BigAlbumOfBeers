@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brewcult-spoiler-alert/973173"
 country: "Australia"
 brewery: "BrewCult"
-breweryURL: "https://untappd.com/w/brewcult/62206"
+breweryURL: "/brewery/brewcult.html"
 style: "Lager - Pale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12107838_10153656867113745_341030388742417750_n.jpg?oh=0fe0d90714613a9461bc168585a1c02c&oe=5933C63A

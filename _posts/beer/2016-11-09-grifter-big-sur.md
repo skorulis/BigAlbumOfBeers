@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/grifter-brewing-company-big-sur/484287"
 country: "Australia"
 brewery: "Grifter Brewing Company"
-breweryURL: "https://untappd.com/w/grifter-brewing-company/32845"
+breweryURL: "/brewery/grifter-brewing-company.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13230238_10154147276023745_1973175567688158306_n.jpg?oh=777d1cab9f806b9698e1bb095822505a&oe=5934784E

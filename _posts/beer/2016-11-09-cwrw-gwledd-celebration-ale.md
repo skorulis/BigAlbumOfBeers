@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/conwy-brewery-cwrw-gwledd--celebration-ale-/167167"
 country: "Wales"
 brewery: "Conwy Brewery"
-breweryURL: "https://untappd.com/w/conwy-brewery/95086"
+breweryURL: "/brewery/conwy-brewery.html"
 style: "Golden Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/954753_10151694532288745_1231818486_n.jpg?oh=969f944eba22abd6e0d75b3d26afc122&oe=59480640

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/plzensky-prazdroj-pilsner-urquell/37936"
 country: "Czech Republic"
 brewery: "Plzeňský Prazdroj"
-breweryURL: "https://untappd.com/w/plzensky-prazdroj/1459"
+breweryURL: "/brewery/plzensky-prazdroj.html"
 style: "Pilsner - Czech"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/544330_10151563851598745_2141597246_n.jpg?oh=f474b744e97f2e3127c1aa03130b41eb&oe=592A5B94

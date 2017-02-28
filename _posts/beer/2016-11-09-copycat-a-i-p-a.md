@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/mash-brewing-copy-cat/636320"
 country: "Australia"
 brewery: "Mash Brewing"
-breweryURL: "https://untappd.com/w/mash-brewing/7859"
+breweryURL: "/brewery/mash-brewing.html"
 style: "IPA - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1797322_10153118666983745_5915201915827958878_n.jpg?oh=01dca258f693c562ab74cbb4e8449e71&oe=59393EBD

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/to-ol-wit-or-witout/1137223"
 country: "Denmark"
 brewery: "To Øl"
-breweryURL: "https://untappd.com/w/to-ol/2241"
+breweryURL: "/brewery/to-ol.html"
 style: "Witbier"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16832074_10154957443143745_1906349478154531984_n.jpg?oh=855e20df43c6a31fd8bda2776a18d31c&oe=59353D2E

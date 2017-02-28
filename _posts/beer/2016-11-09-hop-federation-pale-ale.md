@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/hop-federation-pale-ale/503513"
 country: "New Zealand"
 brewery: "Hop Federation"
-breweryURL: "https://untappd.com/w/hop-federation/83783"
+breweryURL: "/brewery/hop-federation.html"
 style: "Pale Ale - New Zealand"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1782025_10153966655578745_4664850473670279145_n.jpg?oh=a0dd3a69021cd525bbfcc6a759a3740e&oe=59456EEC

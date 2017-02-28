@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+    {% include header.html %}
+    <div class="main-container">    
+        <p><a href="{{page.breweryURL}}">External link</a></p>
+        <div class="beerlist row">
+            {% assign rev = site.data.full | reverse %}
+                {% for beer in rev %}
+                    {% if beer.brewery == page.title %}
+                        {% include beerCell.html beer=beer %}
+                    {% endif %}
+            {% endfor %}
+        </div>
+        
+    </div>
+
+    {% include contact_static.html %}
+    {% include bottom-ad.html %}
+
+    {% include footer.html %}
+    {% include analytics.html %}
+    {% include js.html %}
+    {% include addthis.html %}
+    </body>
+</html>

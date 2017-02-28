@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/yeastie-boys-hud-a-wa-strong/42147"
 country: "New Zealand"
 brewery: "Yeastie Boys"
-breweryURL: "https://untappd.com/w/yeastie-boys/3591"
+breweryURL: "/brewery/yeastie-boys.html"
 style: "Red Ale - American Amber / Red"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/12729183_10153890419403745_8807635240820254136_n.jpg?oh=f4adecaccec263650a73a989faefe798&oe=59459B83

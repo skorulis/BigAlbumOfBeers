@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/west-end-brewery-draught/15461"
 country: "Australia"
 brewery: "West End Brewery"
-breweryURL: "https://untappd.com/w/west-end-brewery/4048"
+breweryURL: "/brewery/west-end-brewery.html"
 style: "Lager - Pale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333654_10154470805553745_6025478775328181204_n.jpg?oh=6f48fa6c8907308bc1a786e23db2a2b2&oe=5944B5E7

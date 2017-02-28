@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/victory-brewing-company-hopdevil/3832"
 country: "United States"
 brewery: "Victory Brewing Company"
-breweryURL: "https://untappd.com/w/victory-brewing-company/1326"
+breweryURL: "/brewery/victory-brewing-company.html"
 style: "IPA - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12072602_10153656863733745_7824943187452200119_n.jpg?oh=e1e15d65592dedc6354b1c642741bcc5&oe=592D3694

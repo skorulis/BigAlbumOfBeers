@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/marstons-brewery-old-empire-ipa/15040"
 country: "United Kingdom"
 brewery: "Marston's Brewery"
-breweryURL: "https://untappd.com/w/marstons-brewery/1517"
+breweryURL: "/brewery/marstons-brewery.html"
 style: "IPA - English"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/73511_10151356728858745_1899006793_n.jpg?oh=a161ea0103def080e28296ea3f071431&oe=592AB420

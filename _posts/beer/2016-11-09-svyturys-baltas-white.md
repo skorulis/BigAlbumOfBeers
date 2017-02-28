@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/svyturys-baltas--white-/37946"
 country: "Lithuania"
 brewery: "Švyturys"
-breweryURL: "https://untappd.com/w/svyturys/1331"
+breweryURL: "/brewery/svyturys.html"
 style: "Hefeweizen"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/563535_10151929074098745_379750960_n.jpg?oh=55eb030ecded89a5ff7187a749f98ecb&oe=59372882

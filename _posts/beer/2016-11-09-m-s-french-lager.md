@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brasserie-champigneulles-marks---spencer-french-lager/35092"
 country: "France"
 brewery: "Brasserie Champigneulles"
-breweryURL: "https://untappd.com/w/brasserie-champigneulles/22426"
+breweryURL: "/brewery/brasserie-champigneulles.html"
 style: "Lager - Pale"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/486557_10151563840963745_1674492557_n.jpg?oh=1bea48f2e7c792e1ed70f11c33773a6d&oe=59368981

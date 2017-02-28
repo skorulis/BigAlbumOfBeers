@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/bavaria-brouwerij-8-6-original/38091"
 country: "Netherlands"
 brewery: "Bavaria Brouwerij"
-breweryURL: "https://untappd.com/w/bavaria-brouwerij/109"
+breweryURL: "/brewery/bavaria-brouwerij.html"
 style: "Lager - Euro Strong"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12079418_10153656865038745_406494349310437104_n.jpg?oh=5b6c0ce60166157e9a770c0729743d21&oe=5932CA26

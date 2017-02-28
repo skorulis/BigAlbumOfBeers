@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/carlsberg-uk-san-miguel/6439"
 country: "United Kingdom"
 brewery: "Carlsberg UK"
-breweryURL: "https://untappd.com/w/carlsberg-uk/148366"
+breweryURL: "/brewery/carlsberg-uk.html"
 style: "Lager - Euro"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22402_10151315677898745_961047009_n.jpg?oh=e9a5dfe901ed76d70a2104847bd0973c&oe=594C0454

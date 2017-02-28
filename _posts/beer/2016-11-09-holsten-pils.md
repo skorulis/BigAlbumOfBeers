@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/holsten-brauerei-holsten-pilsener/957246"
 country: "Germany"
 brewery: "Holsten-Brauerei"
-breweryURL: "https://untappd.com/w/holsten-brauerei/668"
+breweryURL: "/brewery/holsten-brauerei.html"
 style: "Pilsner - German"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/581508_10151396304968745_547445318_n.jpg?oh=c3ba067d9c201e5250774e2188f65941&oe=593AEE6C

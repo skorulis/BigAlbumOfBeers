@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/fox-hat-brewing-metric-ipa/1138359"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "https://untappd.com/w/fox-hat-brewing/193696"
+breweryURL: "/brewery/fox-hat-brewing.html"
 style: "IPA - Imperial / Double"
 score: 9.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16003000_10154858019813745_8841869433513318442_n.jpg?oh=aa89a65ccb55e58b574dac5c43465ff2&oe=594992B1

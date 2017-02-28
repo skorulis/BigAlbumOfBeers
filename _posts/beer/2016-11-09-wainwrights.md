@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/marstons-brewery-wainwright/9934"
 country: "United Kingdom"
 brewery: "Marston's Brewery"
-breweryURL: "https://untappd.com/w/marstons-brewery/1517"
+breweryURL: "/brewery/marstons-brewery.html"
 style: "Golden Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/401229_10151356729468745_228573429_n.jpg?oh=97e3c01fb22a87ba50fac2bf3dcb5b6e&oe=594BEC68

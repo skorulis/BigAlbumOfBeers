@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/abita-brewing-company-amber/6353"
 country: "United States"
 brewery: "Abita Brewing Company"
-breweryURL: "https://untappd.com/w/abita-brewing-company/10"
+breweryURL: "/brewery/abita-brewing-company.html"
 style: "Lager - American Amber / Red"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1434_10153811640518745_1774691229893967268_n.jpg?oh=ca09a732ed8ecee1005aada1089111b0&oe=5945CEEF

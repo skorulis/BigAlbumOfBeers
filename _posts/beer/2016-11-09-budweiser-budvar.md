@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/budejovicky-budvar-budweiser-budvar-b-original--czechvar-b-original/5385"
 country: "Czech Republic"
 brewery: "Budějovický Budvar"
-breweryURL: "https://untappd.com/w/budejovicky-budvar/245"
+breweryURL: "/brewery/budejovicky-budvar.html"
 style: "Pilsner - Czech"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/165000_10151428534173745_615410288_n.jpg?oh=08f5511d62581420b82ee9e815563dbe&oe=5926282F

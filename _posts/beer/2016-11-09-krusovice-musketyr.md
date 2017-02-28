@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/krusovice-musketyr/23588"
 country: "Czech Republic"
 brewery: "Krušovice"
-breweryURL: "https://untappd.com/w/krusovice/6633"
+breweryURL: "/brewery/krusovice.html"
 style: "Pilsner - Czech"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/480492_10151563944828745_302604960_n.jpg?oh=b704e3afff3a0ce06049be249f93247e&oe=5938DB45

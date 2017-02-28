@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brewmeister-brewery-armageddon/247224"
 country: "United Kingdom"
 brewery: "Brewmeister Brewery"
-breweryURL: "https://untappd.com/w/brewmeister-brewery/36169"
+breweryURL: "/brewery/brewmeister-brewery.html"
 style: "Eisbock"
 score: 0
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1521885_10152147732818745_1092668016_n.jpg?oh=3c6c0a1c7c69fdae8ed69f3b2218452c&oe=59312BC3

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/mountain-goat-beer-surefoot-stout/1090135"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "https://untappd.com/w/mountain-goat-beer/4055"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Stout - Other"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115556_10153656864648745_1260864511539950726_n.jpg?oh=92512acb4b873ed26fc6831d6e0b19c6&oe=594472D5

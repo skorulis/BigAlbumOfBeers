@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/carlton---united-breweries-carlton-midstrength/6091"
 country: "Australia"
 brewery: "Carlton & United Breweries"
-breweryURL: "https://untappd.com/w/carlton---united-breweries/4045"
+breweryURL: "/brewery/carlton---united-breweries.html"
 style: "Lager - North American Adjunct"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1509668_10152327617473745_370150087_n.jpg?oh=f88e939dbd49042760eed7ace53df04c&oe=5928CE3D

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-wild-yak/1540401"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
+breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16681903_10154957442868745_3572921553794922305_n.jpg?oh=eb29c809516b7f2485e30fc3d134d881&oe=594B61FD

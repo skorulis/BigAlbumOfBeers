@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/holgate-brewhouse-road-trip/28311"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
+breweryURL: "/brewery/holgate-brewhouse.html"
 style: "IPA - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/7254_10151602296908745_1398508952_n.jpg?oh=e529fec495dc70ab08094115c2376b69&oe=59288DF3

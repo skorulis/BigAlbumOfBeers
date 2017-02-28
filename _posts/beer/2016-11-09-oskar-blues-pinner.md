@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/oskar-blues-brewery-passion-fruit-pinner/1450783"
 country: "United States"
 brewery: "Oskar Blues Brewery"
-breweryURL: "https://untappd.com/w/oskar-blues-brewery/956"
+breweryURL: "/brewery/oskar-blues-brewery.html"
 style: "IPA - Session / India Session Ale"
 score: 8.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16105525_10154858017758745_7974618225684961840_n.jpg?oh=a1c9b33b34b5f9da0428944aa14a410e&oe=592A9C26

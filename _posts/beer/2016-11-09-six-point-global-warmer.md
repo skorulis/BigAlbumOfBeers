@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sixpoint-brewery-global-warmer/447370"
 country: "United States"
 brewery: "Sixpoint Brewery"
-breweryURL: "https://untappd.com/w/sixpoint-brewery/1149"
+breweryURL: "/brewery/sixpoint-brewery.html"
 style: "Red Ale - Imperial / Double"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11196336_10153268256713745_6680283658542121771_n.jpg?oh=f81d4f38850ebdf36f4cf9ad44279a52&oe=5938D3ED

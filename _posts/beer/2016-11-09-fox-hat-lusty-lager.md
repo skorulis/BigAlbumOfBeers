@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/fox-hat-brewing-lusty-lager/1338046"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "https://untappd.com/w/fox-hat-brewing/193696"
+breweryURL: "/brewery/fox-hat-brewing.html"
 style: "Lager - Euro Strong"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114917_10154858211963745_3970347282156621209_n.jpg?oh=43490b8c729f1613ca45c6e5927e7605&oe=5943BA6D

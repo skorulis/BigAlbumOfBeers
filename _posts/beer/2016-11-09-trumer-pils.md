@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/trumer-trumer-pils/7025"
 country: "Austria"
 brewery: "Trumer"
-breweryURL: "https://untappd.com/w/trumer/23682"
+breweryURL: "/brewery/trumer.html"
 style: "Pilsner - German"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10953955_10153055770883745_7624310153191779880_n.jpg?oh=5ddb50304ab6e2b723f4540ffbef12a4&oe=593ECB5C

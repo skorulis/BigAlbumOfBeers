@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brewcult-get-down-american-brown/667422"
 country: "Australia"
 brewery: "BrewCult"
-breweryURL: "https://untappd.com/w/brewcult/62206"
+breweryURL: "/brewery/brewcult.html"
 style: "Brown Ale - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15037333_10154633846433745_6730955490670727997_n.jpg?oh=56c30b49f36d0cd2289ddee8f377e124&oe=592F034C

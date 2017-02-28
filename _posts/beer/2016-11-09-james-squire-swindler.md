@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/malt-shovel-brewery-the-swindler-summer-ale/1257519"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
+breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Blonde Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/936555_10153966649228745_7093539391186290992_n.jpg?oh=e7a8df45b248ead3e5051fda1ae640ad&oe=5946AAC2

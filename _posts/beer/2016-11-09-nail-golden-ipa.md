@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/nail-brewing-australia-nail-golden-ipa---gareth-skywalker-blc-6/1049709"
 country: "Australia"
 brewery: "Nail Brewing Australia"
-breweryURL: "https://untappd.com/w/nail-brewing-australia/7970"
+breweryURL: "/brewery/nail-brewing-australia.html"
 style: "IPA - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12733411_10153890412873745_394127344743781782_n.jpg?oh=ea0a2e0dd202fa6258fb18d30e87afcc&oe=593CED17

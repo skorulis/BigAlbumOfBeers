@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/aldaris-dumaku-nefiltrets/33718"
 country: "Latvia"
 brewery: "Aldaris"
-breweryURL: "https://untappd.com/w/aldaris/19"
+breweryURL: "/brewery/aldaris.html"
 style: "Lager - Pale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1381516_10152001638348745_1868079701_n.jpg?oh=51ce7cd4464f601641210e212df8c4ba&oe=593549AC

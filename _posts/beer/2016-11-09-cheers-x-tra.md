@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/thai-asia-pacific-brewery-cheers-x-tra/17453"
 country: "Thailand"
 brewery: "Thai Asia Pacific Brewery"
-breweryURL: "https://untappd.com/w/thai-asia-pacific-brewery/4713"
+breweryURL: "/brewery/thai-asia-pacific-brewery.html"
 style: "Lager - Euro Strong"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11201812_10153656865613745_2836886776655090085_n.jpg?oh=2185d321b2fc4cd0ee451bf3f2357d05&oe=592EDC38

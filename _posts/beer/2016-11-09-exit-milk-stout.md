@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/exit-brewing-milk-stout/1517951"
 country: "Australia"
 brewery: "Exit Brewing"
-breweryURL: "https://untappd.com/w/exit-brewing/123448"
+breweryURL: "/brewery/exit-brewing.html"
 style: "Stout - Milk / Sweet"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13450864_10154200938523745_2403941117496205897_n.jpg?oh=2c4a5b5555ed84336c891efb350d013e&oe=594A5491

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/kona-brewing-company-big-wave-golden-ale/9657"
 country: "United States"
 brewery: "Kona Brewing Company"
-breweryURL: "https://untappd.com/w/kona-brewing-company/1988"
+breweryURL: "/brewery/kona-brewing-company.html"
 style: "Golden Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142932_10154858213933745_1116010504942046413_n.jpg?oh=f5c918a68f0d242399114a8d4b65253b&oe=593E6284

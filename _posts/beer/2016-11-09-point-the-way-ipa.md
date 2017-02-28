@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/golden-road-brewing-point-the-way-ipa/81237"
 country: "United States"
 brewery: "Golden Road Brewing"
-breweryURL: "https://untappd.com/w/golden-road-brewing/16302"
+breweryURL: "/brewery/golden-road-brewing.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12088452_10153656866578745_7251403189729284400_n.jpg?oh=af8719043358eb423a2ceb49bf4fc122&oe=593EE712

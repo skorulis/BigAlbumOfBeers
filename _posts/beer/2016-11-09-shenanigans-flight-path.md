@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/shenanigans-brewing-co--flight-path/743046"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "https://untappd.com/w/shenanigans-brewing-co-/104449"
+breweryURL: "/brewery/shenanigans-brewing-co-.html"
 style: "Red Ale - American Amber / Red"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13239234_10154147275958745_6647175011009867398_n.jpg?oh=1fedffbea2f509f5326eb48caa8f3666&oe=58FD939C

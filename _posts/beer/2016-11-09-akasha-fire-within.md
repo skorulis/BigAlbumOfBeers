@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--fire-within/1169590"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "https://untappd.com/w/akasha-brewing-company--australia-/188552"
+breweryURL: "/brewery/akasha-brewing-company--australia-.html"
 style: "Red Ale - American Amber / Red"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13254029_10154147277223745_2166868226944171155_n.jpg?oh=346d111148dbdf41722f4f3454afecb7&oe=59479048

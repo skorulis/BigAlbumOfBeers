@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/boatrocker-brewing-company-tripel--2016-/1655630"
 country: "Australia"
 brewery: "Boatrocker Brewing Company"
-breweryURL: "https://untappd.com/w/boatrocker-brewing-company/3106"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Belgian Tripel"
 score: 10
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16143318_10154858019488745_7361016964513483944_n.jpg?oh=51c98cf8729050192e3501fc42e1cc3a&oe=592BA9A3

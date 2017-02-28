@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/oxfordshire-ales-pride-of-oxford/45175"
 country: "United Kingdom"
 brewery: "Oxfordshire Ales"
-breweryURL: "https://untappd.com/w/oxfordshire-ales/7242"
+breweryURL: "/brewery/oxfordshire-ales.html"
 style: "Golden Ale"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/558943_10151356728198745_2042204432_n.jpg?oh=26a4e3143653fae0ed9053abb8a74c52&oe=593EF0A2

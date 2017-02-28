@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-hop-thief-8/1649933"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
+breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Pale Ale - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14368650_10154470818108745_5244772193649315176_n.jpg?oh=c0074ae91470479266fb9624a705f82f&oe=592DFC90

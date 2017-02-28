@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-seasonal-ale/1336928"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
-breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
+breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Pale Ale - English"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11150609_10153268295143745_4412554411779312688_n.jpg?oh=e845415650fa2e8eefad6ad2939a10c4&oe=593309A2

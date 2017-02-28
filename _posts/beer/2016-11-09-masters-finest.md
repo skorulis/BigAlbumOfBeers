@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/elaboraday-masters-finest/1316556"
 country: "Netherlands"
 brewery: "Elaboraday"
-breweryURL: "https://untappd.com/w/elaboraday/236430"
+breweryURL: "/brewery/elaboraday.html"
 style: "Pale Ale - American"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10368217_10153966651078745_5301100254520843348_n.jpg?oh=b639e06f8c32bb3a18670658a6b4cac7&oe=593E2BB9

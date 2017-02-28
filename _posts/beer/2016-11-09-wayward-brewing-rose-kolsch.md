@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/wayward-brewing-rose-kolsch/1535683"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "https://untappd.com/w/wayward-brewing/48019"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Kölsch"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13240606_10154147274448745_3348024943795201690_n.jpg?oh=2229a8d4575b16529fb3bb1096a0c939&oe=593BADAF

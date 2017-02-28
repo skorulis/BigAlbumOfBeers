@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--river-ryed-rye-ipa/1038370"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "https://untappd.com/w/sierra-nevada-brewing-co-/1142"
+breweryURL: "/brewery/sierra-nevada-brewing-co-.html"
 style: "Rye IPA"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/9185_10153966659098745_8275916423969475463_n.jpg?oh=3ffea632afacbd13ba3b818b3e13c200&oe=592F9E79

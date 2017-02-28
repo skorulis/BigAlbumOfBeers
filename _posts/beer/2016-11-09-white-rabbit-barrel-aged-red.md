@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/white-rabbit-barrel-aged-red/1533061"
 country: "Australia"
 brewery: "White Rabbit"
-breweryURL: "https://untappd.com/w/white-rabbit/2051"
+breweryURL: "/brewery/white-rabbit.html"
 style: "Sour - Flanders Red Ale"
 score: 7.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15032114_10154633844938745_2224669951803352879_n.jpg?oh=8351d8e87c03eda98483872dd8287547&oe=5949B151

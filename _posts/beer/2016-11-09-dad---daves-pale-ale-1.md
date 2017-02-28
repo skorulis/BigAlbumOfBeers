@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/dad---daves-brewing-1-pale-ale/203197"
 country: "Australia"
 brewery: "Dad & Dave's Brewing"
-breweryURL: "https://untappd.com/w/dad---daves-brewing/34849"
+breweryURL: "/brewery/dad---daves-brewing.html"
 style: "Pale Ale - Australian"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13267730_10154147276308745_5674622146165558080_n.jpg?oh=5aeeadbdbd45527d248d95ee6e9f07b7&oe=5931482A

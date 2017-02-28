@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-rudeboy-pilsner/116680"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
-breweryURL: "https://untappd.com/w/murrays-craft-brewing-co/2557"
+breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "Pilsner - German"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1506399_10152327616573745_36221798_n.jpg?oh=0716a70073c50fd94001c267c342fed7&oe=593161B5

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/hitejinro-premium-cleanskin-green-beer/713411"
 country: "South Korea"
 brewery: "HiteJinro"
-breweryURL: "https://untappd.com/w/hitejinro/4669"
+breweryURL: "/brewery/hitejinro.html"
 style: "Lager - North American Adjunct"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14344819_10154470803348745_8611392715725012151_n.jpg?oh=f34e58589652301f4c6c160e9e34790f&oe=592969B8

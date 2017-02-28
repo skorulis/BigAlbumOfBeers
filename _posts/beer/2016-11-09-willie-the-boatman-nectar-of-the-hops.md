@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/willie-the-boatman-nectar-of-the-hops/1754827"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "https://untappd.com/w/willie-the-boatman/129674"
+breweryURL: "/brewery/willie-the-boatman.html"
 style: "IPA - American"
 score: 8.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16105781_10154858217668745_6365233322472422422_n.jpg?oh=788c26edb6564ff919ee3a5bf81c2a6a&oe=593DEF60

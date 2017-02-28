@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/kooinda-brewing-company-hop-transfusion-ipa/264237"
 country: "Australia"
 brewery: "Kooinda Brewing Company"
-breweryURL: "https://untappd.com/w/kooinda-brewing-company/6276"
+breweryURL: "/brewery/kooinda-brewing-company.html"
 style: "IPA - American"
 score: 9
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11659318_10153438037553745_8784383877969678894_n.jpg?oh=8bc3cd70d2806aa319cd7fffc163654a&oe=592DEEEB

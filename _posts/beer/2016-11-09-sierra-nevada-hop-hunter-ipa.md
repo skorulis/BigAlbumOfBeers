@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--hop-hunter-ipa/568188"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "https://untappd.com/w/sierra-nevada-brewing-co-/1142"
+breweryURL: "/brewery/sierra-nevada-brewing-co-.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115843_10153656864518745_6379524063255293794_n.jpg?oh=c843cc6c190edc9bf7caf13bf9c913b9&oe=592CB975

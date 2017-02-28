@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/deschutes-brewery-pinedrops-ipa/375332"
 country: "United States"
 brewery: "Deschutes Brewery"
-breweryURL: "https://untappd.com/w/deschutes-brewery/441"
+breweryURL: "/brewery/deschutes-brewery.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/581926_10153811639323745_2485735585097388298_n.jpg?oh=b41cef30dc7fd8b23fa5f76d7ec281f3&oe=58FDC6F4

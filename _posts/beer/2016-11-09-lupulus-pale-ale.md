@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/beer-here-lupulus/10441"
 country: "Denmark"
 brewery: "Beer Here"
-breweryURL: "https://untappd.com/w/beer-here/2888"
+breweryURL: "/brewery/beer-here.html"
 style: "Pale Ale - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/600415_10153966651858745_4717804169564084978_n.jpg?oh=27ee7a783562ab2a9feb9632c42e618d&oe=59454098

@@ -5,7 +5,7 @@ title: Blas trigo
 category: beer
 country: "Spain"
 brewery: "Tito Blas"
-breweryURL: "https://untappd.com/w/tito-blas/"
+breweryURL: "/brewery/tito-blas.html"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1011466_10151798821318745_54743244_n.jpg?oh=695588f77ceac8c498dcaef2235d12eb&oe=5941AF8C
 beer-date: "2013-07-19"

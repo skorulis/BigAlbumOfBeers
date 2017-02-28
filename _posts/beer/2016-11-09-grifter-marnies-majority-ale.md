@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/grifter-brewing-company-marnies-majority-ale/346762"
 country: "Australia"
 brewery: "Grifter Brewing Company"
-breweryURL: "https://untappd.com/w/grifter-brewing-company/32845"
+breweryURL: "/brewery/grifter-brewing-company.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13241213_10154147275538745_4637541751661074474_n.jpg?oh=3b46996e94445d92e2f6a64d9d7d7314&oe=59482F4E

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/de-gouden-boom-brugge-tripel/17873"
 country: "Belgium"
 brewery: "De Gouden Boom"
-breweryURL: "https://untappd.com/w/de-gouden-boom/115389"
+breweryURL: "/brewery/de-gouden-boom.html"
 style: "Gruit / Ancient Herbed Ale"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1662198_10152293087613745_1851257445_n.jpg?oh=a5f4357b7c19c1f153fa38d146aa4d89&oe=594899BB

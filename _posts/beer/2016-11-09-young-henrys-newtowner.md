@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/young-henrys-brewing-company-newtowner/273570"
 country: "Australia"
 brewery: "Young Henrys Brewing Company"
-breweryURL: "https://untappd.com/w/young-henrys-brewing-company/28042"
+breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12376181_10153811610908745_3920511327334452329_n.jpg?oh=4d1f6251819fc5d9de8a30d9c49e46a5&oe=5933AE83

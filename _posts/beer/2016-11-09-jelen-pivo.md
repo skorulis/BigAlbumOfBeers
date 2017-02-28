@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/apatinska-pivara-jelen-pivo/14262"
 country: "Serbia"
 brewery: "Apatinska Pivara"
-breweryURL: "https://untappd.com/w/apatinska-pivara/3769"
+breweryURL: "/brewery/apatinska-pivara.html"
 style: "Lager - Pale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10398353_10153966659598745_7866549484220940291_n.jpg?oh=2c252c2c3a5a27322d23664a6dbab4cf&oe=5944FB9E

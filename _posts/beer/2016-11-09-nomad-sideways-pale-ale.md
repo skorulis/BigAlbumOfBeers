@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/nomad-brewing-co--sideways-hoppy-pale/918552"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "https://untappd.com/w/nomad-brewing-co-/145688"
+breweryURL: "/brewery/nomad-brewing-co-.html"
 style: "Pale Ale - Australian"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11692763_10153438038563745_2254106052941195483_n.jpg?oh=6b0dc2a3687026fbd9cb261f17d1c9dc&oe=5945A335

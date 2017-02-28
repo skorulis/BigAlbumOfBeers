@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/lao-brewery-beerlao-dark/251717"
 country: "Laos"
 brewery: "Lao Brewery"
-breweryURL: "https://untappd.com/w/lao-brewery/1558"
+breweryURL: "/brewery/lao-brewery.html"
 style: "Lager - Dark"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10888489_10153656865543745_7177566089678444243_n.jpg?oh=cc1197735c143c36b8f3c4fbb697dab9&oe=59309F29

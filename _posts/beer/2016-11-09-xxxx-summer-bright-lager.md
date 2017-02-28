@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/castlemaine-perkins-xxxx-summer-bright-lager/15502"
 country: "Australia"
 brewery: "Castlemaine Perkins"
-breweryURL: "https://untappd.com/w/castlemaine-perkins/1928"
+breweryURL: "/brewery/castlemaine-perkins.html"
 style: "Lager - Pale"
 score: 5.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16712037_10154923954508745_227781593129184903_n.jpg?oh=ab296c4cbfc83a8b1ab8cfa4ac86f9f5&oe=5937BF88

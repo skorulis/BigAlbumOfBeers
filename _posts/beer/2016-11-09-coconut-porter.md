@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/maui-brewing-company-coconut-hiwa-porter/5383"
 country: "United States"
 brewery: "Maui Brewing Company"
-breweryURL: "https://untappd.com/w/maui-brewing-company/836"
+breweryURL: "/brewery/maui-brewing-company.html"
 style: "Porter - American"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1479322_10152147730723745_835775935_n.jpg?oh=308e55f10a29862c463b43b69c6fd76f&oe=59419407

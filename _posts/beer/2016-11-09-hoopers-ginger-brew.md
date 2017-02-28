@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/hoopers-ginger-brew/266654"
 country: "United Kingdom"
 brewery: "Hooper's"
-breweryURL: "https://untappd.com/w/hoopers/45936"
+breweryURL: "/brewery/hoopers.html"
 style: "Ginger Beer"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185949_10151854991548745_379811355_n.jpg?oh=3f91ebbdad5751b31fee52602657ca7c&oe=59338E13

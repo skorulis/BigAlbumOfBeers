@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brasserie-mcauslan--st-ambroise--st-ambroise-abricot--apricot-wheat-ale-/29851"
 country: "Canada"
 brewery: "Brasserie McAuslan (St-Ambroise)"
-breweryURL: "https://untappd.com/w/brasserie-mcauslan--st-ambroise-/198"
+breweryURL: "/brewery/brasserie-mcauslan--st-ambroise-.html"
 style: "Fruit Beer"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12687816_10153890413098745_7756341127358562624_n.jpg?oh=b7a4395aff9fc421681e4e63b34f2287&oe=592B8129

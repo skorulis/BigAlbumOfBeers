@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/cheddar-ales-festive-totty/26992"
 country: "United Kingdom"
 brewery: "Cheddar Ales"
-breweryURL: "https://untappd.com/w/cheddar-ales/1466"
+breweryURL: "/brewery/cheddar-ales.html"
 style: "Winter Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/988380_10152293086573745_484773090_n.jpg?oh=a95fe3de99291724895d4d25f7521466&oe=5933DBA3

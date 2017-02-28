@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/4-pines-brewing-company-kolsch/25759"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "https://untappd.com/w/4-pines-brewing-company/4254"
+breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Kölsch"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10452382_10153118793263745_8541367164944833885_n.jpg?oh=d52f0aa5cdf019ba0cab74492f79d185&oe=592E4802

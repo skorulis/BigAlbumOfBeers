@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/burleigh-brewing-co--figjam-ipa/239608"
 country: "Australia"
 brewery: "Burleigh Brewing Co."
-breweryURL: "https://untappd.com/w/burleigh-brewing-co-/3168"
+breweryURL: "/brewery/burleigh-brewing-co-.html"
 style: "IPA - American"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10393668_10153656863593745_2358385457397680268_n.jpg?oh=e486419b248dedb0f6b6832f4f6b0cb1&oe=5944445C

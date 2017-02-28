@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/two-birds-brewing-bantam-session-india-pale-ale/747874"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "https://untappd.com/w/two-birds-brewing/17463"
+breweryURL: "/brewery/two-birds-brewing.html"
 style: "IPA - Session / India Session Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115580_10153656867073745_1898684720680152438_n.jpg?oh=3c7abde0d6d095161dc5fc3aa211d665&oe=5930A3FA

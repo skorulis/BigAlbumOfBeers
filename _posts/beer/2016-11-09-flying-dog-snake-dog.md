@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/flying-dog-brewery-snake-dog-ipa/3759"
 country: "United States"
 brewery: "Flying Dog Brewery"
-breweryURL: "https://untappd.com/w/flying-dog-brewery/540"
+breweryURL: "/brewery/flying-dog-brewery.html"
 style: "IPA - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1982179_10152293086923745_434038155_n.jpg?oh=cd81ab26fcba45acbbefed0acb6a1f97&oe=59331B95

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/anchor-brewing-company-liberty-ale/5173"
 country: "United States"
 brewery: "Anchor Brewing Company"
-breweryURL: "https://untappd.com/w/anchor-brewing-company/3891"
+breweryURL: "/brewery/anchor-brewing-company.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11210416_10153268299813745_8323582624602808812_n.jpg?oh=0f8b8e6b7e4300869ae70b612db4abd4&oe=593E898B

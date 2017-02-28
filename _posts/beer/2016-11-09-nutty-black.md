@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/thwaites-brewery-nutty-black/25221"
 country: "United Kingdom"
 brewery: "Thwaites Brewery"
-breweryURL: "https://untappd.com/w/thwaites-brewery/4609"
+breweryURL: "/brewery/thwaites-brewery.html"
 style: "English Mild Ale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1173809_10151860441013745_1894761382_n.jpg?oh=d60d07434ae05efbb2add094e50e6f0e&oe=592FF623

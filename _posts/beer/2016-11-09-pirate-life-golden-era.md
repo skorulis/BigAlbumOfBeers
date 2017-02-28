@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/pirate-life-brewing-golden-era-records-golden-ale/1304012"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "https://untappd.com/w/pirate-life-brewing/189380"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Golden Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142828_10154858213898745_4630426772459653432_n.jpg?oh=9119ae9e4037fa0e1cfd0bc56b8c3d54&oe=59298744

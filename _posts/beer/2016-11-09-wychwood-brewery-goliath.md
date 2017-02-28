@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/wychwood-brewery-goliath/12685"
 country: "United Kingdom"
 brewery: "Wychwood Brewery"
-breweryURL: "https://untappd.com/w/wychwood-brewery/1376"
+breweryURL: "/brewery/wychwood-brewery.html"
 style: "English Bitter"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/431886_10151649178733745_149102435_n.jpg?oh=1946496713331a6a85be17190f3a68c3&oe=592607AE

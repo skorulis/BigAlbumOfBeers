@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745"
 country: "Germany"
 brewery: "Bayerische Staatsbrauerei Weihenstephan"
-breweryURL: "https://untappd.com/w/bayerische-staatsbrauerei-weihenstephan/88"
+breweryURL: "/brewery/bayerische-staatsbrauerei-weihenstephan.html"
 style: "Hefeweizen"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509736_10153811610538745_2189727718735863015_n.jpg?oh=5ca9926ec1b27d81ee1fb9314aff3ef8&oe=592B3D1B

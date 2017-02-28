@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/wayward-brewing-la-saison-petite/1456623"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "https://untappd.com/w/wayward-brewing/48019"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Saison / Farmhouse Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142902_10154858013583745_2136822054791541892_n.jpg?oh=b14115bc44906b92daef56d0841980f9&oe=592C2965

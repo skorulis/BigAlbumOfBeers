@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/moa-brewing-company-five-hop/327352"
 country: "New Zealand"
 brewery: "Moa Brewing Company"
-breweryURL: "https://untappd.com/w/moa-brewing-company/1857"
+breweryURL: "/brewery/moa-brewing-company.html"
 style: "IPA - English"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12105748_10153656863078745_1274782812792168869_n.jpg?oh=f1a1262df06932ed7efc3682d9e833ef&oe=5932FC70

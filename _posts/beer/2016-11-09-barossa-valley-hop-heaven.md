@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/barossa-valley-brewing-hop-heaven/1018437"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "https://untappd.com/w/barossa-valley-brewing/14448"
+breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333767_10154470806018745_900617753120366059_n.jpg?oh=88f184fb6b756050e5b3d442a68d40d1&oe=58FD7593

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/moo-brew-single-hop-enigma/1362812"
 country: "Australia"
 brewery: "Moo Brew"
-breweryURL: "https://untappd.com/w/moo-brew/4806"
+breweryURL: "/brewery/moo-brew.html"
 style: "Pale Ale - Australian"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13226775_10154147278083745_8353755751636156502_n.jpg?oh=c5ed374b79c2736d2e4a5005d4f2b5e6&oe=594958D6

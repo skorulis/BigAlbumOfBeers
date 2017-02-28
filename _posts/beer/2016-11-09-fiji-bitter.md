@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/paradise-beverages-fiji-bitter/964155"
 country: "Fiji"
 brewery: "Paradise Beverages"
-breweryURL: "https://untappd.com/w/paradise-beverages/71489"
+breweryURL: "/brewery/paradise-beverages.html"
 style: "Lager - Pale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11698631_10153438034358745_1791286718120294864_n.jpg?oh=493576b3c52a7bbc036f3f033537a282&oe=5935D214

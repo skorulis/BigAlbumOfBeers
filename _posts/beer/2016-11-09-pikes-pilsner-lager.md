@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/pikes-beer-company-pilsener-lager/36738"
 country: "Australia"
 brewery: "Pike’s Beer Company"
-breweryURL: "https://untappd.com/w/pikes-beer-company/9215"
+breweryURL: "/brewery/pikes-beer-company.html"
 style: "Pilsner - Other"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11205492_10153268265378745_5159414108787972846_n.jpg?oh=324bb8008c50b2d4f283d67796b8a286&oe=594A9F41

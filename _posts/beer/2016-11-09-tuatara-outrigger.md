@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/tuatara-brewery-outrigger---pacific-pale-ale/882339"
 country: "New Zealand"
 brewery: "Tuatara Brewery"
-breweryURL: "https://untappd.com/w/tuatara-brewery/2349"
+breweryURL: "/brewery/tuatara-brewery.html"
 style: "Pale Ale - Australian"
 score: 6.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13423884_10154200939238745_5620898802714048410_n.jpg?oh=381574441d56b0142eda40d8f4ebbe98&oe=5926454F

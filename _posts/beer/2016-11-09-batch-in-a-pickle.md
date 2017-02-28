@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/batch-brewing-company-in-a-pickle/1479361"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Sour - Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/13233015_10154147274988745_881393278262650589_n.jpg?oh=a118f5e13f1cd557f15bb61e2a20614e&oe=593D226B

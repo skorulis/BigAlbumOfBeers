@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/birra-del-borgo-my-antonia/25988"
 country: "Italy"
 brewery: "Birra del Borgo"
-breweryURL: "https://untappd.com/w/birra-del-borgo/2243"
+breweryURL: "/brewery/birra-del-borgo.html"
 style: "Pilsner - Imperial / Double"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1473040_10153225353703745_3939681785801200434_n.jpg?oh=dcd7b27e7cf6fd468afad913722a17f5&oe=593275B3

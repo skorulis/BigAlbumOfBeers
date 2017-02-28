@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--otra-vez/1211126"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "https://untappd.com/w/sierra-nevada-brewing-co-/1142"
+breweryURL: "/brewery/sierra-nevada-brewing-co-.html"
 style: "Sour - Gose"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13435367_10154200938253745_7818346019313072630_n.jpg?oh=8ae2136b29b133473d509343e03744b7&oe=593208E3

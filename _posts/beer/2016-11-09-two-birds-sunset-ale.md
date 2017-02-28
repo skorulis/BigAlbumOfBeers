@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/two-birds-brewing-sunset-ale/169972"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "https://untappd.com/w/two-birds-brewing/17463"
+breweryURL: "/brewery/two-birds-brewing.html"
 style: "Red Ale - American Amber / Red"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/484855_10151602282628745_1452325767_n.jpg?oh=67cda6cca98fd396777426d51aab4873&oe=593D235F

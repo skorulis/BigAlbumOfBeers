@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/castlemaine-perkins-xxxx-bitter/11318"
 country: "Australia"
 brewery: "Castlemaine Perkins"
-breweryURL: "https://untappd.com/w/castlemaine-perkins/1928"
+breweryURL: "/brewery/castlemaine-perkins.html"
 style: "Lager - North American Adjunct"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12108168_10153656865913745_802278422732824770_n.jpg?oh=251320ec9f085ec1c73962656a81fea8&oe=592D2F8A

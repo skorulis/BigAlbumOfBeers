@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/feral-brewing-company-war-hog/1265794"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "https://untappd.com/w/feral-brewing-company/3162"
+breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - American"
 score: 6.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16265441_10154888758138745_4481479706439391791_n.jpg?oh=67dd72f9f2578a15b10b8043239cd40f&oe=59284EAB

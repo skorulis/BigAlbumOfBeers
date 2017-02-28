@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brewdog-hop-fiction-pale-ale/1137199"
 country: "United Kingdom"
 brewery: "BrewDog"
-breweryURL: "https://untappd.com/w/brewdog/241"
+breweryURL: "/brewery/brewdog.html"
 style: "Pale Ale - American"
 score: 8.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16832120_10154957442783745_4075727791001980618_n.jpg?oh=b13e8ea3d58d04220f76234ed74c263b&oe=59352995

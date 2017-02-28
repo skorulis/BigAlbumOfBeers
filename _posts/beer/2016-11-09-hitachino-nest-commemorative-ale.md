@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-new-year-commemorative-ale--2015-/910657"
 country: "Japan"
 brewery: "Kiuchi Brewery"
-breweryURL: "https://untappd.com/w/kiuchi-brewery/1713"
+breweryURL: "/brewery/kiuchi-brewery.html"
 style: "Spiced / Herbed Beer"
 score: 9
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970685_10151854991538745_1076029058_n.jpg?oh=44e117b7be593f2b2d0f106ba7a39e96&oe=592D31D0

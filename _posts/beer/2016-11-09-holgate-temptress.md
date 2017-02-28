@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/holgate-brewhouse-temptress/11461"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
+breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Porter - Other"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13418736_10154200938698745_7920734449371306402_n.jpg?oh=03d62b97a6561d80386faf49880e01d9&oe=59372A80

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/young-henrys-brewing-company-hop-ale/164974"
 country: "Australia"
 brewery: "Young Henrys Brewing Company"
-breweryURL: "https://untappd.com/w/young-henrys-brewing-company/28042"
+breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "Rye Beer"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12143171_10153656865058745_383441333102974608_n.jpg?oh=dd83c1bcc8181d8e994e407af1601ec5&oe=59340319

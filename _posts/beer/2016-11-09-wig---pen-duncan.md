@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/wig---pen-brewery-duncan/1292592"
 country: "Australia"
 brewery: "Wig & Pen Brewery"
-breweryURL: "https://untappd.com/w/wig---pen-brewery/12216"
+breweryURL: "/brewery/wig---pen-brewery.html"
 style: "Sour - Gose"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12733543_10153890414603745_2708879129886926163_n.jpg?oh=7ac5df742c70c258bd2897185dc0e141&oe=593522CD

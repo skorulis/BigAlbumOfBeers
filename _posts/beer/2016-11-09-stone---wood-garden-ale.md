@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/stone---wood-garden-ale/259372"
 country: "Australia"
 brewery: "Stone & Wood"
-breweryURL: "https://untappd.com/w/stone---wood/2555"
+breweryURL: "/brewery/stone---wood.html"
 style: "Pale Ale - Australian"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16143264_10154858022773745_4959615740157477518_n.jpg?oh=eba48cd189ed03bc6764246b826b8e2c&oe=5930608A

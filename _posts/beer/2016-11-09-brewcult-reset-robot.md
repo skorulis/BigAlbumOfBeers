@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brewcult-reset-robot/554389"
 country: "Australia"
 brewery: "BrewCult"
-breweryURL: "https://untappd.com/w/brewcult/62206"
+breweryURL: "/brewery/brewcult.html"
 style: "Pale Ale - International"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12417859_10153811611533745_6524426791759855644_n.jpg?oh=021a40523cec98c3ede7b8eee23e76c9&oe=5935AA41

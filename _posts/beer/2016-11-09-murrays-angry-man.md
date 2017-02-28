@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-angry-man-pale-ale/87671"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
-breweryURL: "https://untappd.com/w/murrays-craft-brewing-co/2557"
+breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "Pale Ale - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1975034_10152293133088745_313669023_n.jpg?oh=70343cd9cb3db3ddd1f68ba70007b0dc&oe=594366B4

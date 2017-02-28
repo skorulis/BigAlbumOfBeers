@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/privatbrauerei-kaiserdom-pilsener--premium-german-lager--pilsener-herb-wurzig/15519"
 country: "Germany"
 brewery: "Privatbrauerei Kaiserdom"
-breweryURL: "https://untappd.com/w/privatbrauerei-kaiserdom/729"
+breweryURL: "/brewery/privatbrauerei-kaiserdom.html"
 style: "Pilsner - German"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p320x320/10931372_10153055725393745_7415839926658912556_n.jpg?oh=53900a8b05aa50affeedb560026f193c&oe=593F862B

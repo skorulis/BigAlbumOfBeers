@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sydney-brewery-surry-hills-pils/240126"
 country: "Australia"
 brewery: "Sydney Brewery"
-breweryURL: "https://untappd.com/w/sydney-brewery/2984"
+breweryURL: "/brewery/sydney-brewery.html"
 style: "Pilsner - Other"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10428481_10153053851498745_4687849967086253708_n.jpg?oh=5ef2d832f4bc37f8034b3dc1bda47126&oe=59385BC5

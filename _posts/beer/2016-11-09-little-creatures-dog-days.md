@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/little-creatures-brewing-dog-days-summer-beer/1238567"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "https://untappd.com/w/little-creatures-brewing/2560"
+breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Golden Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717186_10153890415423745_6451428281725925044_n.jpg?oh=217a7d63e0ddb14520bb74b57b886124&oe=592D0232

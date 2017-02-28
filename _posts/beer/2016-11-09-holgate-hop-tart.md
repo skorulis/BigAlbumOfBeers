@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/holgate-brewhouse-hop-tart/1600534"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
+breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Sour - Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13407034_10154200938858745_1959407752907879656_n.jpg?oh=67065172f9370bb258eddcafbb6c09e6&oe=5949A10C

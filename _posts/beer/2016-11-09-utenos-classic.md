@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/utenos-alus-utenos-classic/272115"
 country: "Lithuania"
 brewery: "Utenos Alus"
-breweryURL: "https://untappd.com/w/utenos-alus/1319"
+breweryURL: "/brewery/utenos-alus.html"
 style: "Lager - Pale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1175115_10151860444553745_1702342354_n.jpg?oh=2b5b268427cae6eb027c81fedb95a5a6&oe=5927B42F

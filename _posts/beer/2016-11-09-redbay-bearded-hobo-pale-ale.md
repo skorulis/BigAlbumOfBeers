@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/redbay-brewing-company-the-bearded-hobo/1236152"
 country: "Australia"
 brewery: "Redbay Brewing Company"
-breweryURL: "https://untappd.com/w/redbay-brewing-company/106140"
+breweryURL: "/brewery/redbay-brewing-company.html"
 style: "Pale Ale - American"
 score: 7.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14358894_10154470827368745_3712421249999347669_n.jpg?oh=9382ac372e1ef3f543e6d87e664c8f94&oe=5944DC0B

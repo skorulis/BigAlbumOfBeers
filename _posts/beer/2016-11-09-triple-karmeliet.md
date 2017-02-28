@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brouwerij-bosteels-tripel-karmeliet/6511"
 country: "Belgium"
 brewery: "Brouwerij Bosteels"
-breweryURL: "https://untappd.com/w/brouwerij-bosteels/269"
+breweryURL: "/brewery/brouwerij-bosteels.html"
 style: "Belgian Tripel"
 score: 10
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1654211_10152293087868745_1642505899_n.jpg?oh=69e2b073f62eb3a63c8c215b62791545&oe=59282823

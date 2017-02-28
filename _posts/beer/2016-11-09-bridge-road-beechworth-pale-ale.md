@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/bridge-road-brewers-beechworth-pale-ale/13726"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "https://untappd.com/w/bridge-road-brewers/3174"
+breweryURL: "/brewery/bridge-road-brewers.html"
 style: "Pale Ale - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1920508_10152327616563745_674556830_n.jpg?oh=bd6749acbe2660b23eb31552973a3a46&oe=592A36C8

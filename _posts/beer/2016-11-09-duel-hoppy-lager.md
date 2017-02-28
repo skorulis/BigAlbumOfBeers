@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/stockade-brew-co-duel/1304118"
 country: "Australia"
 brewery: "Stockade Brew Co"
-breweryURL: "https://untappd.com/w/stockade-brew-co/86357"
+breweryURL: "/brewery/stockade-brew-co.html"
 style: "Pilsner - Other"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13015652_10154072540083745_7009465615847756409_n.jpg?oh=43cb59844782c07fe065eab2bb65b40e&oe=592941E1

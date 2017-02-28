@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/mountain-goat-beer-steam-ale/15497"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "https://untappd.com/w/mountain-goat-beer/4055"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "California Common"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10390115_10152534300713745_5030138459822932747_n.jpg?oh=fb1eeac8fe6ab783e46756d7873e5834&oe=592CCF1F

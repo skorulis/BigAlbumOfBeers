@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/aldaris-pilzenes/112855"
 country: "Latvia"
 brewery: "Aldaris"
-breweryURL: "https://untappd.com/w/aldaris/19"
+breweryURL: "/brewery/aldaris.html"
 style: "Pilsner - Other"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238101_10151888670483745_714083820_n.jpg?oh=71b8256a2a5b830781eb8404e69fcb40&oe=59288A0A

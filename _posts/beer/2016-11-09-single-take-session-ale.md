@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/baird-brewing-company-single-take-session-ale/22952"
 country: "Japan"
 brewery: "Baird Brewing Company"
-breweryURL: "https://untappd.com/w/baird-brewing-company/5697"
+breweryURL: "/brewery/baird-brewing-company.html"
 style: "Pale Ale - Belgian"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715222_10153890415008745_8479217372208836383_n.jpg?oh=2f8f0558d4efc5a707988aa3444bf36e&oe=59368477

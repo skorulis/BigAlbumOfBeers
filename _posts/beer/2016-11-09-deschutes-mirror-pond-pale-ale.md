@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/deschutes-brewery-mirror-pond-pale-ale/3587"
 country: "United States"
 brewery: "Deschutes Brewery"
-breweryURL: "https://untappd.com/w/deschutes-brewery/441"
+breweryURL: "/brewery/deschutes-brewery.html"
 style: "Pale Ale - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13007147_10154072540863745_3547228142622250194_n.jpg?oh=2cebd0291679d0d33d8f3c5e7b528277&oe=592ACFA8

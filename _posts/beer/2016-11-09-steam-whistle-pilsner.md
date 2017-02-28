@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/steam-whistle-brewing-steam-whistle-pilsner/7852"
 country: "Canada"
 brewery: "Steam Whistle Brewing"
-breweryURL: "https://untappd.com/w/steam-whistle-brewing/1194"
+breweryURL: "/brewery/steam-whistle-brewing.html"
 style: "Pilsner - Other"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14354999_10154470819568745_6410883825021001969_n.jpg?oh=0d06b6d64b078b7b2b75312c1e17921d&oe=592A5F2A

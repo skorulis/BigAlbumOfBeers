@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/batch-brewing-company-tank-6/1155350"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Stout - Imperial / Double"
 score: 7.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14359220_10154470824843745_4704165971419825465_n.jpg?oh=7728795c0876c0baafddb200e75e2498&oe=59317AD1

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-imperial-amber/185751"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
+breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Red Ale - Imperial / Double"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10478660_10153966656973745_8240271036615712554_n.jpg?oh=1e2a4ea3523a264fe84ce1c1de6b61d5&oe=5929F8E0

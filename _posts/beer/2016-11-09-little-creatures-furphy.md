@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/little-creatures-brewing-furphy/759496"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "https://untappd.com/w/little-creatures-brewing/2560"
+breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Kölsch"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509006_10153811639708745_4922522512256088245_n.jpg?oh=39434037f9639e74191b348d2406af88&oe=594ABB15

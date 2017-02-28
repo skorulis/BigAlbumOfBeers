@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/london-fields-brewery-hackney-hopster/98628"
 country: "United Kingdom"
 brewery: "London Fields Brewery"
-breweryURL: "https://untappd.com/w/london-fields-brewery/15411"
+breweryURL: "/brewery/london-fields-brewery.html"
 style: "Pale Ale - English"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1480719_10152147735493745_924183769_n.jpg?oh=8c092c46e752afcccdf4551a9cd1b3d1&oe=59300AD1

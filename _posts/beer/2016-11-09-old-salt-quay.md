@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/greene-king-gk-house-ale/461458"
 country: "United Kingdom"
 brewery: "Greene King"
-breweryURL: "https://untappd.com/w/greene-king/612"
+breweryURL: "/brewery/greene-king.html"
 style: "English Bitter"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/407150_10151649177363745_297706272_n.jpg?oh=3d6b2dcd04bc508ddab5d1a429781f1e&oe=59475FFE

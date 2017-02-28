@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/belgian-blue-brewing-company-original-belgian-wheat-ale/562689"
 country: "Belgium"
 brewery: "Belgian Blue Brewing Company"
-breweryURL: "https://untappd.com/w/belgian-blue-brewing-company/48082"
+breweryURL: "/brewery/belgian-blue-brewing-company.html"
 style: "Witbier"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1920181_10153055771283745_6859710748033343904_n.jpg?oh=ce1df08654df4887019c1da36547167f&oe=5935A928

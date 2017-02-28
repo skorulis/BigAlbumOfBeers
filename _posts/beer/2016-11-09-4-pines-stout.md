@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/4-pines-brewing-company-stout/33630"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "https://untappd.com/w/4-pines-brewing-company/4254"
+breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Stout - Irish Dry"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1503434_10152327617153745_1770406360_n.jpg?oh=9f5b3a8fda8f8eb1ede5e81385935804&oe=5935CA83

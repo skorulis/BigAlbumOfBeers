@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brasseries-kronenbourg-1664/5939"
 country: "France"
 brewery: "Brasseries Kronenbourg"
-breweryURL: "https://untappd.com/w/brasseries-kronenbourg/203"
+breweryURL: "/brewery/brasseries-kronenbourg.html"
 style: "Lager - Euro"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/60247_10151283328373745_1855333949_n.jpg?oh=8436268ffae0220049197af5b353a671&oe=593BE8F3

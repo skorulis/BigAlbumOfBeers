@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-pointers-pale-ale/1220517"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "https://untappd.com/w/monteiths-brewing-co--/881"
+breweryURL: "/brewery/monteiths-brewing-co--.html"
 style: "Pale Ale - New Zealand"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12119151_10153656873648745_4254619746116923719_n.jpg?oh=994d5a6d50cb017cf7eafee83c331658&oe=59284187

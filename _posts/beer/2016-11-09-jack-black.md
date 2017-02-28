@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brains-jack-black/184233"
 country: "Wales"
 brewery: "Brains"
-breweryURL: "https://untappd.com/w/brains/3779"
+breweryURL: "/brewery/brains.html"
 style: "Stout - Oatmeal"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/293855_10151331663163745_2099861357_n.jpg?oh=594cdc52f51c92d43f9d3ab00fb5cdac&oe=594180C7

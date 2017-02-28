@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/brouwerij-huyghe-la-guillotine/26907"
 country: "Belgium"
 brewery: "Brouwerij Huyghe"
-breweryURL: "https://untappd.com/w/brouwerij-huyghe/285"
+breweryURL: "/brewery/brouwerij-huyghe.html"
 style: "Belgian Strong Golden Ale"
 score: 10
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11156123_10153225366453745_4053445365399151631_n.jpg?oh=d9902996c0bf4eee523f4ca833939c3c&oe=593D5878

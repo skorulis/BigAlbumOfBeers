@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/stillwater-artisanal-ales-brontide/629594"
 country: "United States"
 brewery: "Stillwater Artisanal Ales"
-breweryURL: "https://untappd.com/w/stillwater-artisanal-ales/1203"
+breweryURL: "/brewery/stillwater-artisanal-ales.html"
 style: "Dark Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12734008_10153890416878745_633217613773642603_n.jpg?oh=57259ed5614406666ceed3c0b1d79fed&oe=58FD8F09

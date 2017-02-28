@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/saint-mihal-saint-mihal/759471"
 country: "France"
 brewery: "Saint-Mihal"
-breweryURL: "https://untappd.com/w/saint-mihal/146313"
+breweryURL: "/brewery/saint-mihal.html"
 style: "Lager - Euro"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10985916_10153268279573745_5444654809518299041_n.jpg?oh=d886a462fb0e5b367b20e4ab28c22542&oe=592E7CDF

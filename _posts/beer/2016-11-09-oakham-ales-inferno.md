@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/oakham-ales-inferno/14764"
 country: "United Kingdom"
 brewery: "Oakham Ales"
-breweryURL: "https://untappd.com/w/oakham-ales/931"
+breweryURL: "/brewery/oakham-ales.html"
 style: "Golden Ale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/942020_10151694533608745_2056877210_n.jpg?oh=30242f59faab0f8dadd5f1e218862935&oe=5943FFD1

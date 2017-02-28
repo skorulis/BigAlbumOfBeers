@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/timothy-taylor---co--ltd-landlord/8676"
 country: "United Kingdom"
 brewery: "Timothy Taylor & Co. Ltd"
-breweryURL: "https://untappd.com/w/timothy-taylor---co--ltd/2386"
+breweryURL: "/brewery/timothy-taylor---co--ltd.html"
 style: "Pale Ale - English"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/577972_10151563945378745_1586746946_n.jpg?oh=795a13013e7e88b62beb62b8091de381&oe=59370783

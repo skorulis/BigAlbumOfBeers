@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-little-brewing-company-wicked-elf-pale-ale/13574"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
+breweryURL: "/brewery/the-little-brewing-company.html"
 style: "Pale Ale - American"
 score: null
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10464035_10152534310338745_1731994487341714039_n.jpg?oh=cb250fa1d648626f4d7f4c9d7d4cc9fd&oe=59376772

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/einstok-olgero-icelandic-toasted-porter/107027"
 country: "Iceland"
 brewery: "Einstök Ölgerð"
-breweryURL: "https://untappd.com/w/einstok-olgero/18816"
+breweryURL: "/brewery/einstok-olgero.html"
 style: "Porter - Baltic"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069403_10151798927653745_683815255_n.jpg?oh=3ee9acb648cdb80d50aecae4fe1f552d&oe=593ED416

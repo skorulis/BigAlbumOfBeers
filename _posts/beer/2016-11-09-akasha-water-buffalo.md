@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--water-buffalo/1434126"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "https://untappd.com/w/akasha-brewing-company--australia-/188552"
+breweryURL: "/brewery/akasha-brewing-company--australia-.html"
 style: "Brown Ale - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13245472_10154147280238745_5349990342920915596_n.jpg?oh=7164a94bb7f127e0b4d0e9576e8198e7&oe=593172FF

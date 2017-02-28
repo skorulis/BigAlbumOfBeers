@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/feral-brewing-company-sly-fox/461809"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "https://untappd.com/w/feral-brewing-company/3162"
+breweryURL: "/brewery/feral-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10470597_10152534300708745_7685915012921086968_n.jpg?oh=4a6e53ef64ec66e846da0130bf7ae07e&oe=5928078A

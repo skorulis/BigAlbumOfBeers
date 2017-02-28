@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/mountain-goat-beer-summer-ale/450510"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "https://untappd.com/w/mountain-goat-beer/4055"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Blonde Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16797_10153053852143745_3087580206529630401_n.jpg?oh=8e7928a6b9096d85d33b01db11955297&oe=594BFAD1

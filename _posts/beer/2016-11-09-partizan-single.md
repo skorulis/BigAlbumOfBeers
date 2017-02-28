@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/partizan-brewing-single/451393"
 country: "United Kingdom"
 brewery: "Partizan Brewing"
-breweryURL: "https://untappd.com/w/partizan-brewing/48584"
+breweryURL: "/brewery/partizan-brewing.html"
 style: "Pale Ale - Belgian"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1376370_10152001622893745_406801645_n.jpg?oh=766e46c1ab037cb52a09e5c4dc0a9afd&oe=5939D974

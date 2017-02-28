@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/strongroom-dark/226897"
 country: "United Kingdom"
 brewery: "Strongroom"
-breweryURL: "https://untappd.com/w/strongroom/25612"
+breweryURL: "/brewery/strongroom.html"
 style: "Stout - Irish Dry"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1175248_10151860440378745_2027227367_n.jpg?oh=1b12e37b2c9cd746e32dd116bb368ae2&oe=59452AB4

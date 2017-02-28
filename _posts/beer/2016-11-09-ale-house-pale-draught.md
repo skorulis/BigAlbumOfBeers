@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/australian-beer-company-alehouse-australian-premium-draught/550752"
 country: "Australia"
 brewery: "Australian Beer Company"
-breweryURL: "https://untappd.com/w/australian-beer-company/101175"
+breweryURL: "/brewery/australian-beer-company.html"
 style: "Lager - Pale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11212761_10153268295198745_2192040651986082448_n.jpg?oh=afac8c1cec41782100535af0b8104e4c&oe=593A6E15

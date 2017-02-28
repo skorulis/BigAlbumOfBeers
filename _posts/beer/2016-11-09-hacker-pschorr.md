@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/hacker-pschorr-hacker-pschorr-oktoberfest-marzen/1827"
 country: "Germany"
 brewery: "Hacker-Pschorr"
-breweryURL: "https://untappd.com/w/hacker-pschorr/280466"
+breweryURL: "/brewery/hacker-pschorr.html"
 style: "Märzen"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1376515_10152001625798745_1787795583_n.jpg?oh=54e2b5b73d43625ce691064bf672db5c&oe=593C244A

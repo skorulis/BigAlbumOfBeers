@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sociedade-central-de-cervejas-e-bebidas-sa-bohemia-original/347897"
 country: "Portugal"
 brewery: "Sociedade Central de Cervejas e Bebidas SA"
-breweryURL: "https://untappd.com/w/sociedade-central-de-cervejas-e-bebidas-sa/54809"
+breweryURL: "/brewery/sociedade-central-de-cervejas-e-bebidas-sa.html"
 style: "Lager - Dunkel Munich"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/261740_10151694537308745_1696408161_n.jpg?oh=825a615700901616496efd505311a89b&oe=5941D375

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/redhook-brewery-pilsner/40858"
 country: "United States"
 brewery: "Redhook Brewery"
-breweryURL: "https://untappd.com/w/redhook-brewery/1051"
+breweryURL: "/brewery/redhook-brewery.html"
 style: "Pilsner - Other"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069935_10151798817208745_1577449594_n.jpg?oh=d8524953eff781617cf6c314b58b7ee6&oe=593088DB

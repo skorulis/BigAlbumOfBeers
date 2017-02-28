@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-bohemian-pilsner/608944"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "https://untappd.com/w/monteiths-brewing-co--/881"
+breweryURL: "/brewery/monteiths-brewing-co--.html"
 style: "Pilsner - Other"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10462530_10152534290193745_4497356221968859858_n.jpg?oh=e85e75f31c8a20c606f38e7ea33733e8&oe=5946252A

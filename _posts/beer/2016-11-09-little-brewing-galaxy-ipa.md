@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/the-little-brewing-company-galaxy-ipa/1258013"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
+breweryURL: "/brewery/the-little-brewing-company.html"
 style: "IPA - American"
 score: 9
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12688166_10153890414098745_93931054277212370_n.jpg?oh=dd90aef2d5e6b28ee60171880585eb37&oe=5942F5FC

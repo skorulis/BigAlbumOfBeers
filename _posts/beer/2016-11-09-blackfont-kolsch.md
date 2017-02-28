@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/blackfont-brewhouse-kolsch/1406950"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "https://untappd.com/w/blackfont-brewhouse/231217"
+breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "Kölsch"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/12745536_10153890419543745_6014336509869834605_n.jpg?oh=8a07a230e652556a7be21706367a9e0d&oe=593C9135

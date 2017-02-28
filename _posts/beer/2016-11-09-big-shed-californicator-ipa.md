@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/big-shed-brewing-concern-californicator-ipa/950413"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
-breweryURL: "https://untappd.com/w/big-shed-brewing-concern/102851"
+breweryURL: "/brewery/big-shed-brewing-concern.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717177_10153890413993745_4407733928412012176_n.jpg?oh=0de40f58ad9a5428549fee8d0daa6b80&oe=59402FB9

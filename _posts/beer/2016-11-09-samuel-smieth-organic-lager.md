@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/samuel-smiths-old-brewery-pure-brewed-organic-lager/23958"
 country: "United Kingdom"
 brewery: "Samuel Smith's Old Brewery"
-breweryURL: "https://untappd.com/w/samuel-smiths-old-brewery/1099"
+breweryURL: "/brewery/samuel-smiths-old-brewery.html"
 style: "Lager - Pale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1526342_10152147734658745_1378507161_n.jpg?oh=929ee7b976a2e8086c5fb0e0de8c779b&oe=593D20BD

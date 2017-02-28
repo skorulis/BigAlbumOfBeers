@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/fischers-stiftungsbrau-fischers-hell/498614"
 country: "Germany"
 brewery: "Fischer's Stiftungsbräu"
-breweryURL: "https://untappd.com/w/fischers-stiftungsbrau/89293"
+breweryURL: "/brewery/fischers-stiftungsbrau.html"
 style: "Lager - Helles"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1016879_10151798800588745_1406598038_n.jpg?oh=ba65d79bde264d4f1aaa2203a560f9b6&oe=593BDE22

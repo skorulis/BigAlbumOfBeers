@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/pivovar-velke-popovice-kozel-cerny--dark/70150"
 country: "Czech Republic"
 brewery: "Pivovar Velké Popovice"
-breweryURL: "https://untappd.com/w/pivovar-velke-popovice/135600"
+breweryURL: "/brewery/pivovar-velke-popovice.html"
 style: "Lager - Dark"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/602178_10151563853043745_1776474012_n.jpg?oh=8238ad854524c88eca788e0650bdc8d1&oe=594B164F

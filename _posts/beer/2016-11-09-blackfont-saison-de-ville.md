@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/blackfont-brewhouse-saison-de-ville/1328437"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "https://untappd.com/w/blackfont-brewhouse/231217"
+breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "Saison / Farmhouse Ale"
 score: 9.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14359213_10154470823213745_2596732537954561642_n.jpg?oh=62d2a04b9d29f075f600473e60d62692&oe=592C3B9E

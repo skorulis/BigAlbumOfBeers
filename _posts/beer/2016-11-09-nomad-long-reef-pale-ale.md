@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/nomad-brewing-co--long-reef-pale-ale/1726720"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "https://untappd.com/w/nomad-brewing-co-/145688"
+breweryURL: "/brewery/nomad-brewing-co-.html"
 style: "Pale Ale - Australian"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16298626_10154888757548745_5853973650708450525_n.jpg?oh=6bef2fd276e93eb406198f3c7ea75553&oe=59337BEB

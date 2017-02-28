@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/aldaris-luksus/3574"
 country: "Latvia"
 brewery: "Aldaris"
-breweryURL: "https://untappd.com/w/aldaris/19"
+breweryURL: "/brewery/aldaris.html"
 style: "Lager - Pale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1484218_10152147730358745_1572080029_n.jpg?oh=ff3fb50bcc5b675d212b16070e9430db&oe=593BC547

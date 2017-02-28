@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/meantime-brewing-company-london-stout/25773"
 country: "United Kingdom"
 brewery: "Meantime Brewing Company"
-breweryURL: "https://untappd.com/w/meantime-brewing-company/844"
+breweryURL: "/brewery/meantime-brewing-company.html"
 style: "Stout - Other"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069371_10151798801138745_1255664168_n.jpg?oh=fe5ed2e8ff1092cd394b9c6890405e69&oe=59275305

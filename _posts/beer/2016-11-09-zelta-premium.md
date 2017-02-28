@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/aldaris-zelta-premium/214138"
 country: "Latvia"
 brewery: "Aldaris"
-breweryURL: "https://untappd.com/w/aldaris/19"
+breweryURL: "/brewery/aldaris.html"
 style: "Lager - Euro"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1151012_10151888666008745_854242907_n.jpg?oh=f328cf8f1c92ba11ddcd7ed3d119b2c2&oe=593BDAD1

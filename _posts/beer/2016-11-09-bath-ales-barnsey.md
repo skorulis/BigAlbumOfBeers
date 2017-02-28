@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/bath-ales-barnsey/6249"
 country: "United Kingdom"
 brewery: "Bath Ales"
-breweryURL: "https://untappd.com/w/bath-ales/1464"
+breweryURL: "/brewery/bath-ales.html"
 style: "Dark Ale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/923297_10151694519768745_611137307_n.jpg?oh=54ea70c14289f92f9bd2b48d1bc26b5a&oe=594483BC

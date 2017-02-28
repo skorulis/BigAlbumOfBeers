@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/anderson-valley-brewing-company-the-kimmie--the-yink---the-holy-gose-ale/468518"
 country: "United States"
 brewery: "Anderson Valley Brewing Company"
-breweryURL: "https://untappd.com/w/anderson-valley-brewing-company/3880"
+breweryURL: "/brewery/anderson-valley-brewing-company.html"
 style: "Sour - Gose"
 score: 7.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/q87/p480x480/16427672_10154888758563745_2693958913355750701_n.jpg?oh=f98e5f0f0b0268dd0c154026028f8648&oe=59461EB8

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/kankiku-meijyo-co--koshihikari-rice-ale/766178"
 country: "Japan"
 brewery: "Kankiku Meijyo Co."
-breweryURL: "https://untappd.com/w/kankiku-meijyo-co-/16139"
+breweryURL: "/brewery/kankiku-meijyo-co-.html"
 style: "Pale Ale - International"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11665487_10153438037018745_87412937068060294_n.jpg?oh=3db58ce98914e4b291b828cd2b6f6584&oe=5936E450

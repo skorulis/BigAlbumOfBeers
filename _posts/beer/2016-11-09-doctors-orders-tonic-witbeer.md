@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/doctors-orders-brewing-tonic/1840189"
 country: "Australia"
 brewery: "Doctor's Orders Brewing"
-breweryURL: "https://untappd.com/w/doctors-orders-brewing/3215"
+breweryURL: "/brewery/doctors-orders-brewing.html"
 style: "Witbier"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16711716_10154923952023745_1754583250088868265_n.jpg?oh=e1c47fafc2a2c439a5bca11f5cfb29e6&oe=59491258

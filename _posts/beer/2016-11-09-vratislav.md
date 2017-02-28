@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/pivovary-staropramen-vratislav/405088"
 country: "Czech Republic"
 brewery: "Pivovary Staropramen"
-breweryURL: "https://untappd.com/w/pivovary-staropramen/998"
+breweryURL: "/brewery/pivovary-staropramen.html"
 style: "Pilsner - Czech"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/923443_10151649176573745_311313356_n.jpg?oh=78887bf4a6dd5efa6c9759ef4bb3ac9d&oe=593C72B3

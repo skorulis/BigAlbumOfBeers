@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/coopers-brewery-premium-lager/4929"
 country: "Australia"
 brewery: "Coopers Brewery"
-breweryURL: "https://untappd.com/w/coopers-brewery/397"
+breweryURL: "/brewery/coopers-brewery.html"
 style: "Lager - Pale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/421878_10151563839458745_1540530586_n.jpg?oh=27de0b8a034a35640d93eed0416df056&oe=594AD5A3

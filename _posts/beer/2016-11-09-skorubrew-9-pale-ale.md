@@ -5,7 +5,7 @@ title: Skorubrew #9 Pale ale
 category: beer
 country: "Australia"
 brewery: "Skorubrew"
-breweryURL: "http://homebrew.skorulis.com"
+breweryURL: "/brewery/skorubrew.html"
 style: "Pale Ale - English"
 score: 6.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195025_10154858014908745_2704369156798957263_n.jpg?oh=6202150d9ce0a98c271446bc52f92ac2&oe=594ADFAD

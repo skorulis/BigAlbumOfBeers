@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/novomestsky-pivovar-novomestsky-svetly-lezak/72447"
 country: "Czech Republic"
 brewery: "Novoměstský pivovar"
-breweryURL: "https://untappd.com/w/novomestsky-pivovar/15100"
+breweryURL: "/brewery/novomestsky-pivovar.html"
 style: "Pilsner - Czech"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/625446_10151563847698745_35732168_n.jpg?oh=dec8cc15a1d941a8f6894c6379157efa&oe=593D9469

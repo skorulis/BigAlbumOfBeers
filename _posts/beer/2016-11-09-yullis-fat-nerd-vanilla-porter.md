@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/yullis-brews-fat-nerd-vanilla-porter/734257"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "https://untappd.com/w/yullis-brews/130600"
+breweryURL: "/brewery/yullis-brews.html"
 style: "Porter - Other"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15078888_10154633844908745_7841479986973542187_n.jpg?oh=87067aea1750e28728d71c971a81d271&oe=59350EA6

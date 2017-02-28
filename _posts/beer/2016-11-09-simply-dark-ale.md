@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-simply-dark-ale/182706"
 country: "United Kingdom"
 brewery: "Tesco Stores Ltd."
-breweryURL: "https://untappd.com/w/tesco-stores-ltd-/3018"
+breweryURL: "/brewery/tesco-stores-ltd-.html"
 style: "Dark Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/521606_10151396303973745_830089732_n.jpg?oh=848a954ba4bd98434894622748b57ef9&oe=59305E76

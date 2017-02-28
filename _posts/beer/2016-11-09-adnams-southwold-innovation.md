@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/adnams-jack-brand-innovation/471020"
 country: "United Kingdom"
 brewery: "Adnams"
-breweryURL: "https://untappd.com/w/adnams/11"
+breweryURL: "/brewery/adnams.html"
 style: "IPA - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238809_10151888666788745_1212313484_n.jpg?oh=7415e96b83a8ca5c4a7f369aedaf1e31&oe=5947A973

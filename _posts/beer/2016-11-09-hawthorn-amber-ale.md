@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/hawthorn-brewing-company-amber-ale/35934"
 country: "Australia"
 brewery: "Hawthorn Brewing Company"
-breweryURL: "https://untappd.com/w/hawthorn-brewing-company/6931"
+breweryURL: "/brewery/hawthorn-brewing-company.html"
 style: "Brown Ale - English"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12109019_10153656873578745_8374191481709518736_n.jpg?oh=f4fd4e81444c520e5c1b38d63e455e27&oe=592AAE6E

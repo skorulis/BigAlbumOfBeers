@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/wychwood-brewery-dogs-bollocks/9006"
 country: "United Kingdom"
 brewery: "Wychwood Brewery"
-breweryURL: "https://untappd.com/w/wychwood-brewery/1376"
+breweryURL: "/brewery/wychwood-brewery.html"
 style: "Golden Ale"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15111_10151331658713745_2003438525_n.jpg?oh=d8a6af1461ca0480f0e9db15ec47fc0d&oe=592D7C12

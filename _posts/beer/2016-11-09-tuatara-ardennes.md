@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/tuatara-brewery-belgian-ardennes/11596"
 country: "New Zealand"
 brewery: "Tuatara Brewery"
-breweryURL: "https://untappd.com/w/tuatara-brewery/2349"
+breweryURL: "/brewery/tuatara-brewery.html"
 style: "Belgian Strong Golden Ale"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13239986_10154147273578745_3214682018646558241_n.jpg?oh=f41612738ed0c6e202813b16e01b853c&oe=5938E2A7

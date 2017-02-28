@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/carlton---united-breweries-crown-golden-ale/725969"
 country: "Australia"
 brewery: "Carlton & United Breweries"
-breweryURL: "https://untappd.com/w/carlton---united-breweries/4045"
+breweryURL: "/brewery/carlton---united-breweries.html"
 style: "Golden Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10942454_10153053851308745_7500988424962232002_n.jpg?oh=89fda9405b5d5eb816cfc61a9a7f79b1&oe=5949F55E

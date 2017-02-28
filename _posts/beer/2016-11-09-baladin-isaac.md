@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/birra-baladin-isaac/22292"
 country: "Italy"
 brewery: "Birra Baladin"
-breweryURL: "https://untappd.com/w/birra-baladin/128"
+breweryURL: "/brewery/birra-baladin.html"
 style: "Witbier"
 score: 9
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16683980_10154923954098745_5236104987817215822_n.jpg?oh=e6d26c3600cfa791aca9dff2bcb599e5&oe=5940D3BA

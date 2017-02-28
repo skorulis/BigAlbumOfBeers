@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/coopers-brewery-sparkling-ale/4930"
 country: "Australia"
 brewery: "Coopers Brewery"
-breweryURL: "https://untappd.com/w/coopers-brewery/397"
+breweryURL: "/brewery/coopers-brewery.html"
 style: "Australian Sparkling Ale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/528845_10151602295348745_1649172027_n.jpg?oh=8c35b0b99565bef0028bd4422281d962&oe=592E49D2

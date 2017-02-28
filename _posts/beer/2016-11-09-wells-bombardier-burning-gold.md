@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/charles-wells-brewery-wells-bombardier-burning-gold/26221"
 country: "United Kingdom"
 brewery: "Charles Wells Brewery"
-breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
+breweryURL: "/brewery/charles-wells-brewery.html"
 style: "Golden Ale"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/551487_10151649173073745_178044172_n.jpg?oh=b5639392bf41ae9abeb22fa917de58ad&oe=59285978

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/hawthorn-brewing-company-golden-ale/573828"
 country: "Australia"
 brewery: "Hawthorn Brewing Company"
-breweryURL: "https://untappd.com/w/hawthorn-brewing-company/6931"
+breweryURL: "/brewery/hawthorn-brewing-company.html"
 style: "Golden Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11178208_10153268265353745_1241728649667354734_n.jpg?oh=b8532bda3c6bfeadeebc5ceb544d8093&oe=5933CBAB

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/magic-hat-brewing-company-s-m-a-s-h--hits-vol--1/1390654"
 country: "United States"
 brewery: "Magic Hat Brewing Company"
-breweryURL: "https://untappd.com/w/magic-hat-brewing-company/812"
+breweryURL: "/brewery/magic-hat-brewing-company.html"
 style: "IPA - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14359032_10154470814043745_5966474147333652109_n.jpg?oh=7a9b43db419397de6f082a568fe08282&oe=59279FDB

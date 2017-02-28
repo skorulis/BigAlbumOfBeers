@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/bentspoke-brewing-co-cluster-16/1256180"
 country: "Australia"
 brewery: "Bentspoke Brewing Co"
-breweryURL: "https://untappd.com/w/bentspoke-brewing-co/134857"
+breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "IPA - Belgian"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12741979_10153890413793745_6934869662046573410_n.jpg?oh=ba681aa56de5ee51828a8529fb14bd90&oe=5936F78E

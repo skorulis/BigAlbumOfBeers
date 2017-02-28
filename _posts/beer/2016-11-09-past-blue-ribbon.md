@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/pabst-brewing-company-pabst-blue-ribbon/3883"
 country: "United States"
 brewery: "Pabst Brewing Company"
-breweryURL: "https://untappd.com/w/pabst-brewing-company/963"
+breweryURL: "/brewery/pabst-brewing-company.html"
 style: "Lager - North American Adjunct"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1926933_10153118792373745_471015037580664056_n.jpg?oh=d2f8a7d7a3e11239c843b1a9eaa5064c&oe=592E2DBB

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/batch-brewing-company-american-pale-ale/535499"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Pale Ale - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13254124_10154147274953745_3000260124675662961_n.jpg?oh=678942aca405df66fb9dd60cfbbc059a&oe=5947F9C7

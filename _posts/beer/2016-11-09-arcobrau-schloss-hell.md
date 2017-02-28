@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/arcobrau-grafliches-brauhaus-schloss-hell/84421"
 country: "Germany"
 brewery: "Arcobräu Gräfliches Brauhaus"
-breweryURL: "https://untappd.com/w/arcobrau-grafliches-brauhaus/16764"
+breweryURL: "/brewery/arcobrau-grafliches-brauhaus.html"
 style: "Lager - Helles"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10356419_10153268265598745_7305179253101068466_n.jpg?oh=b124ea07bb2dc3bbcae37989d3588f6d&oe=5946DDC3

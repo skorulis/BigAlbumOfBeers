@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/belhaven-brewery-grand-slam-ale/126798"
 country: "United Kingdom"
 brewery: "Belhaven Brewery"
-breweryURL: "https://untappd.com/w/belhaven-brewery/98"
+breweryURL: "/brewery/belhaven-brewery.html"
 style: "Golden Ale"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644743_10151649174378745_793600072_n.jpg?oh=95e295de23ccb109f83e8c9bc8974605&oe=593C4497

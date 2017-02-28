@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-lager/412420"
 country: "United Kingdom"
 brewery: "Tesco Stores Ltd."
-breweryURL: "https://untappd.com/w/tesco-stores-ltd-/3018"
+breweryURL: "/brewery/tesco-stores-ltd-.html"
 style: "Lager - Pale"
 score: 2
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/530426_10151368077248745_1651993820_n.jpg?oh=3048ab58537bf0a14b108f9c13314d93&oe=592DF6A0

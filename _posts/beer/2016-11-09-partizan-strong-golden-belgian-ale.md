@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/partizan-brewing-sgb/443455"
 country: "United Kingdom"
 brewery: "Partizan Brewing"
-breweryURL: "https://untappd.com/w/partizan-brewing/48584"
+breweryURL: "/brewery/partizan-brewing.html"
 style: "Belgian Strong Golden Ale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1497799_10152147732653745_1203656587_n.jpg?oh=cbc014d90bbf5e5372442efa37ffedf5&oe=593AA641

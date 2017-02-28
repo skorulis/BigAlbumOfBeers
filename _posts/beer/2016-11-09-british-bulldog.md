@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/westerham-brewery-company-ltd--british-bulldog/44784"
 country: "United Kingdom"
 brewery: "Westerham Brewery Company Ltd."
-breweryURL: "https://untappd.com/w/westerham-brewery-company-ltd-/2806"
+breweryURL: "/brewery/westerham-brewery-company-ltd-.html"
 style: "English Bitter"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/479882_10151563844403745_1566533959_n.jpg?oh=36c4a8cbb4670b094c6cdc69e3836c69&oe=5937B939

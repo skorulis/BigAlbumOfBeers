@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/holgate-brewhouse-hopinator--2015-/1046284"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "https://untappd.com/w/holgate-brewhouse/3143"
+breweryURL: "/brewery/holgate-brewhouse.html"
 style: "IPA - Imperial / Double"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/577380_10152293133158745_1128439575_n.jpg?oh=d6f0f3ca40afc2e88e9932a6270ddb67&oe=593050B5
