@@ -55,7 +55,7 @@ allBeers.each do |item|
 	date = "2016-11-09-"
 	name = item["name"]
 	filename = "_posts/beer/" + date + customSlugify(name) + ".md"
-	fileurl = "//beer/" + customSlugify(name) + ".html"
+	fileurl = "/beer/" + customSlugify(name) + ".html"
 	stat = statMap[name]
 	extra = extraMap[name]
 	brewery = stat["b"]
