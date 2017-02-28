@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sail---anchor-cats-shank-kolsch/245315"
 country: "Australia"
 brewery: "Sail & Anchor"
-breweryURL: "/brewery/sail---anchor.html"
+breweryURL: "/brewery/sail-anchor.html"
 style: "Kölsch"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10491226_10152534290818745_8400776013361245843_n.jpg?oh=fedf0a856f466438a70a39146a357cbe&oe=59430D1F

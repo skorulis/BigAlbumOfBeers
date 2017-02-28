@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-american-pale-ale/593457"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "/brewery/monteiths-brewing-co--.html"
+breweryURL: "/brewery/monteiths-brewing-co.html"
 style: "Pale Ale - American"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22311_10153268299368745_777193479112346497_n.jpg?oh=637492d962a376c7522ec14513890948&oe=5927D772

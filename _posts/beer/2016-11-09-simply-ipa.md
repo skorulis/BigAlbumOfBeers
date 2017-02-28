@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-simply-ipa/180517"
 country: "United Kingdom"
 brewery: "Tesco Stores Ltd."
-breweryURL: "/brewery/tesco-stores-ltd-.html"
+breweryURL: "/brewery/tesco-stores-ltd.html"
 style: "IPA - English"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/998582_10151860439493745_805468360_n.jpg?oh=7733ea843902719174279438ef8fb0c2&oe=5940993D

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/endeavour-vintage-beer-co--2015-reserve-amber-ale/1528799"
 country: "Australia"
 brewery: "ENDEAVOUR Vintage Beer Co."
-breweryURL: "/brewery/endeavour-vintage-beer-co-.html"
+breweryURL: "/brewery/endeavour-vintage-beer-co.html"
 style: "Red Ale - American Amber / Red"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p480x480/10403262_10153268279703745_1182589880637374526_n.jpg?oh=4a246152b3d3d5328bd079fa6475f060&oe=59387B19

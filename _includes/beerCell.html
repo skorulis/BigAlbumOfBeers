@@ -1,5 +1,5 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
-  <a href="/beer/{{include.beer.name | remove: "'" | slugify}}.html">
+  <a href="{{include.beer.filename}}">
   <p class="center">
     {{include.beer.name}}
     {% if include.beer.score and include.beer.score != "null" %}

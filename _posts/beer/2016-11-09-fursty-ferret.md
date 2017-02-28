@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--fursty-ferret/8932"
 country: "United Kingdom"
 brewery: "Badger Ales (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-ales--hall---woodhouse-.html"
+breweryURL: "/brewery/badger-ales-hall-woodhouse.html"
 style: "English Bitter"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/224528_10151303867818745_1700962680_n.jpg?oh=a0ed3d268293f7d04d422cccb656148b&oe=5936108E

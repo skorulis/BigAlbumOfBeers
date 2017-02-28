@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--torpedo-extra-ipa/4997"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "/brewery/sierra-nevada-brewing-co-.html"
+breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "IPA - American"
 score: 9
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10686865_10153055771228745_3010927456136598269_n.jpg?oh=88acd28bb8685ab0d46be65ab2c30f3a&oe=5936788E

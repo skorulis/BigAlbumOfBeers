@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/shenanigans-brewing-co--white-sky/1237285"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "/brewery/shenanigans-brewing-co-.html"
+breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "Witbier"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10561728_10153811610893745_8053139554847988051_n.jpg?oh=5f4c5cc910c508583686cb49d2cce2cb&oe=59454E13

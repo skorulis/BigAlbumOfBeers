@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/oharas-brewery--carlow-brewing-company--oharas-irish-red/13675"
 country: "Ireland"
 brewery: "O'Hara's Brewery (Carlow Brewing Company)"
-breweryURL: "/brewery/oharas-brewery--carlow-brewing-company-.html"
+breweryURL: "/brewery/oharas-brewery-carlow-brewing-company.html"
 style: "Red Ale - Irish"
 score: 1
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/150601_10151428532178745_1335701826_n.jpg?oh=68bf725284fce63fd7cc7cb601695fff&oe=5943A16C

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/molson-coors--uk--king-cobra/226170"
 country: "United Kingdom"
 brewery: "Molson Coors (UK)"
-breweryURL: "/brewery/molson-coors--uk-.html"
+breweryURL: "/brewery/molson-coors-uk.html"
 style: "Pilsner - Imperial / Double"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/374324_10151461684623745_844347532_n.jpg?oh=7113923987dbfda2a860c924c72c7546&oe=59456934

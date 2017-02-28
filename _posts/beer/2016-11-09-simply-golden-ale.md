@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-simply-golden-ale/179597"
 country: "United Kingdom"
 brewery: "Tesco Stores Ltd."
-breweryURL: "/brewery/tesco-stores-ltd-.html"
+breweryURL: "/brewery/tesco-stores-ltd.html"
 style: "Golden Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/480275_10151356728773745_1268031446_n.jpg?oh=6c38e396db37d7977a8ca0c05c0fe7e1&oe=592CDFD5

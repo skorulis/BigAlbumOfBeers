@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/fuller--smith---turner--london-pride/2762"
 country: "United Kingdom"
 brewery: "Fuller, Smith & Turner "
-breweryURL: "/brewery/fuller--smith---turner-.html"
+breweryURL: "/brewery/fuller-smith-turner.html"
 style: "English Bitter"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/734258_10151461672898745_380826809_n.jpg?oh=30644ac1f76078848ceec57df605d2b3&oe=59449C79

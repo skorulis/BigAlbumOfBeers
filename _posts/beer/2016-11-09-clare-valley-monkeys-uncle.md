@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/clare-valley-brewing-co--monkeys-uncle/439979"
 country: "Australia"
 brewery: "Clare Valley Brewing Co."
-breweryURL: "/brewery/clare-valley-brewing-co-.html"
+breweryURL: "/brewery/clare-valley-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14370253_10154470814018745_7440993665823569606_n.jpg?oh=b85219a3e6e593217d48128f7d6014aa&oe=593BC803

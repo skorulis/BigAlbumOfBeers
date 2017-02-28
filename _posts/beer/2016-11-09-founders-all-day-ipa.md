@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/founders-brewing-co--all-day-ipa/36834"
 country: "United States"
 brewery: "Founders Brewing Co."
-breweryURL: "/brewery/founders-brewing-co-.html"
+breweryURL: "/brewery/founders-brewing-co.html"
 style: "IPA - Session / India Session Ale"
 score: 9
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955163_10153055771108745_5413724920939008977_n.jpg?oh=bda5e0b2c52b10635bb8dde99e738754&oe=59341716

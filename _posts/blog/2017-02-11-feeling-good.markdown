@@ -14,7 +14,7 @@ Most days after a visit to [Parsons](https://www.parsonsbar.com.au/) I'm signifi
 Here's my latest instalment to the big album of beers.
 
 <div class="beerlist row">
-	{% assign rev = site.data.raw %}
+	{% assign rev = site.data.full %}
 	{% for beer in rev %}
 		{% if beer.date == "2017-02-11" %}
 			{% include beerCell.html beer=beer %}

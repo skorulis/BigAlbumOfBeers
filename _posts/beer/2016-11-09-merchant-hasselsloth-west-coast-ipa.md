@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/merchant-brewing-co--hasselsloth/1590140"
 country: "Australia"
 brewery: "Merchant Brewing Co."
-breweryURL: "/brewery/merchant-brewing-co-.html"
+breweryURL: "/brewery/merchant-brewing-co.html"
 style: "IPA - American"
 score: 7.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15056359_10154633841048745_7424132168615349111_n.jpg?oh=9cddb7413f1817c0981bf37b4aa20d9b&oe=594C4A2A

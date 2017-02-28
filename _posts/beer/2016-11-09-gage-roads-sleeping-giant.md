@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/gage-roads-brewing-co--sleeping-giant/15049"
 country: "Australia"
 brewery: "Gage Roads Brewing Co "
-breweryURL: "/brewery/gage-roads-brewing-co-.html"
+breweryURL: "/brewery/gage-roads-brewing-co.html"
 style: "IPA - English"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13076528_10154072540798745_8824066737110537781_n.jpg?oh=04d115f8d832e40fa03191009badc5eb&oe=593C7E29

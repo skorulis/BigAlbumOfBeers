@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/ballast-point-brewing---spirits-big-eye/2447"
 country: "United States"
 brewery: "Ballast Point Brewing & Spirits"
-breweryURL: "/brewery/ballast-point-brewing---spirits.html"
+breweryURL: "/brewery/ballast-point-brewing-spirits.html"
 style: "IPA - American"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10389593_10153118668748745_5666950047802645873_n.jpg?oh=8534623e4a8e943db951352c2fb390a7&oe=592F3863

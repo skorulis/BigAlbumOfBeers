@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/moscow-efes-brewery--pivovarnya-moskva-efyes--stary-melnik-iz-bochonka-temnoye--staryj-myelnik-iz-bochonka-tyemnoye-/430618"
 country: "Russian Federation"
 brewery: "Moscow-Efes Brewery (Пивоварня Москва-Эфес)"
-breweryURL: "/brewery/moscow-efes-brewery--pivovarnya-moskva-efyes-.html"
+breweryURL: "/brewery/moscow-efes-brewery-pivovarnya-moskva-efyes.html"
 style: "Lager - Euro Dark"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185029_10151860445333745_1637600629_n.jpg?oh=dcf532e920f5ddc1b666533dffb274c1&oe=59403878

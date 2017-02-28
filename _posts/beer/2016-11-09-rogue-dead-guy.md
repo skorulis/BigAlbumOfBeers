@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/rogue-ales---spirits-dead-guy-ale/4172"
 country: "United States"
 brewery: "Rogue Ales & Spirits"
-breweryURL: "/brewery/rogue-ales---spirits.html"
+breweryURL: "/brewery/rogue-ales-spirits.html"
 style: "Maibock/Helles Bock"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13445293_10154200938923745_8996401406387609840_n.jpg?oh=970862cf39dbc786302b2e26948267b2&oe=59444392

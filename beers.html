@@ -5,7 +5,7 @@ slim-header: true
 ---
 
 <div class="beerlist row">
-  {% assign rev = site.data.raw | reverse %}
+  {% assign rev = site.data.full | reverse %}
   {% for beer in rev %}
     {% include beerCell.html beer=beer %}
   {% endfor %}

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/isle-of-arran-brewery-co--blonde/18918"
 country: "United Kingdom"
 brewery: "Isle of Arran Brewery Co."
-breweryURL: "/brewery/isle-of-arran-brewery-co-.html"
+breweryURL: "/brewery/isle-of-arran-brewery-co.html"
 style: "Blonde Ale"
 score: 2
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29588_10151396304143745_1361559358_n.jpg?oh=abf9cc4185f0812a1658dc256ad2a302&oe=5947F5E1

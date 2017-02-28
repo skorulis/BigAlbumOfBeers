@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-doppelbock-winter-ale/15681"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "/brewery/monteiths-brewing-co--.html"
+breweryURL: "/brewery/monteiths-brewing-co.html"
 style: "Doppelbock "
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1798753_10153055791623745_8735243396794406846_n.jpg?oh=87968d944ceba909755dd64df6a93ed9&oe=59351CC0

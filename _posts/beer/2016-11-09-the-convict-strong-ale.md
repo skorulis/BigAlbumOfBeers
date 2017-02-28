@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/gage-roads-brewing-co--the-convict/290260"
 country: "Australia"
 brewery: "Gage Roads Brewing Co "
-breweryURL: "/brewery/gage-roads-brewing-co-.html"
+breweryURL: "/brewery/gage-roads-brewing-co.html"
 style: "Strong Ale - American"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/581629_10151602301103745_358423449_n.jpg?oh=bc190b0208630dcfa5401b85a92bb3ba&oe=59400A86

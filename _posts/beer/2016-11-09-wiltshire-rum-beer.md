@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/wadworth-co--marks---spencer-wiltshire-rum-beer/20358"
 country: "United Kingdom"
 brewery: "Wadworth Co."
-breweryURL: "/brewery/wadworth-co-.html"
+breweryURL: "/brewery/wadworth-co.html"
 style: "Extra Special / Strong Bitter"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/935047_10151649176048745_1239205144_n.jpg?oh=3c98866e4198581c8a2f99d517c1e17a&oe=5929F494

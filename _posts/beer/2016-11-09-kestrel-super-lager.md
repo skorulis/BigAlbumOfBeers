@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/caledonian-brewing-company--kestrel-super-premium/1572472"
 country: "United Kingdom"
 brewery: "Caledonian Brewing Company "
-breweryURL: "/brewery/caledonian-brewing-company-.html"
+breweryURL: "/brewery/caledonian-brewing-company.html"
 style: "Lager - Euro Strong"
 score: 3
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16679_10151428525733745_2106487431_n.jpg?oh=a2d6cde19e9c587bafb4b7fa20aaf8b7&oe=594098AA

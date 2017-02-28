@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--first-call--first-gold/9722"
 country: "United Kingdom"
 brewery: "Badger Ales (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-ales--hall---woodhouse-.html"
+breweryURL: "/brewery/badger-ales-hall-woodhouse.html"
 style: "Golden Ale"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/995127_10151798803233745_1165661191_n.jpg?oh=b51250e74ceb8b4fe37359985459afad&oe=592BFB7A

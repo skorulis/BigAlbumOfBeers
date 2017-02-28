@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/shenanigans-brewing-co--hoppy-gonzales/1187140"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "/brewery/shenanigans-brewing-co-.html"
+breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "Spiced / Herbed Beer"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1935435_10153811610483745_7535392188033528320_n.jpg?oh=64e82e1e7dd6604d3307d0dcac004afb&oe=5940874F

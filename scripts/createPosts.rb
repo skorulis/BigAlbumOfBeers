@@ -1,8 +1,7 @@
 require 'json'
 require 'slugify'
 
-file = File.read('_data/raw.json')
-allBeers = JSON.parse(file)
+allBeers = JSON.parse(File.read('_data/full.json'))
 stats = JSON.parse(File.read('js/stats.json'))
 statMap = Hash[stats.map{ |a| [a["name"], a] }]
 extraMap = JSON.parse(File.read('js/extra.json'))
@@ -10,7 +9,7 @@ extraMap = JSON.parse(File.read('js/extra.json'))
 breweries = stats.map { |beer| beer["b"]}.uniq.select {|brewery| brewery != nil}
 
 def clearDir(path)
-	Dir.foreach(path) {|f| fn = File.join(dir_path, f); File.delete(fn) if f != '.' && f != '..'}
+	Dir.foreach(path) {|f| fn = File.join(path, f); File.delete(fn) if f != '.' && f != '..'}
 end
 
 def breweryURL(brewery,breweryId)
@@ -27,8 +26,11 @@ def breweryFilename(brewery)
 end
 
 def customSlugify(text)
-	return text.slugify.gsub("---","-").gsub("--","-")
+	return text.slugify.gsub("-.",".").gsub("---","-").gsub("--","-").gsub(/\-$/, '').gsub("Ø","o")
 end
+
+clearDir("_posts/brewery")
+clearDir("_posts/beer")
 
 breweries.each do |item|
 	beerMatch = stats.select {|beer| beer["b"] == item}[0]["name"]
@@ -53,6 +55,7 @@ allBeers.each do |item|
 	date = "2016-11-09-"
 	name = item["name"]
 	filename = "_posts/beer/" + date + customSlugify(name) + ".md"
+	fileurl = "//beer/" + customSlugify(name) + ".html"
 	stat = statMap[name]
 	extra = extraMap[name]
 	brewery = stat["b"]
@@ -61,6 +64,7 @@ allBeers.each do |item|
 	untappd = extra["untappd"]
 
 	untappdURL = untappd["url"]
+	item["filename"] = fileurl
 
 	File.open(filename,'w') { |file|
 		file.puts('---')
@@ -95,4 +99,9 @@ allBeers.each do |item|
 		file.puts('---')
 	}
 
+end
+
+
+File.open("_data/full.json","w") do |f|
+  f.write(JSON.pretty_generate(allBeers))
 end

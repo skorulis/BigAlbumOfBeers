@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--tradewind-lager/1328361"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia-.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Lager - Pale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717308_10153890415688745_8114544610484440853_n.jpg?oh=576968fd8445dcb0d2017ad7fc0d5387&oe=59289193

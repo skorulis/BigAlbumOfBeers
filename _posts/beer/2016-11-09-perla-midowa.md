@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/perla--browary-lubelskie-s-a--perla-miodowa--honey/195932"
 country: "Poland"
 brewery: "Perła – Browary Lubelskie S.A."
-breweryURL: "/brewery/perla--browary-lubelskie-s-a-.html"
+breweryURL: "/brewery/perla-browary-lubelskie-s-a.html"
 style: "Spiced / Herbed Beer"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11018324_10153118669153745_6177767464748408498_n.jpg?oh=faf06ba10392dbdfc891f3b1c5287f6b&oe=592AFC42

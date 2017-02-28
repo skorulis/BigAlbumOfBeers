@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/steamrail-brewing-company--coles--tight-red-togs/888366"
 country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
-breweryURL: "/brewery/steamrail-brewing-company--coles-.html"
+breweryURL: "/brewery/steamrail-brewing-company-coles.html"
 style: "California Common"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11062864_10153268279933745_3157338283510709307_n.jpg?oh=5c26e496c9c32e810fc066fff9ef2629&oe=59299772

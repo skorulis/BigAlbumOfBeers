@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/merchant-brewing-co--three-toe-ale/1013376"
 country: "Australia"
 brewery: "Merchant Brewing Co."
-breweryURL: "/brewery/merchant-brewing-co-.html"
+breweryURL: "/brewery/merchant-brewing-co.html"
 style: "Pale Ale - American"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12523010_10153811618698745_8674316170585442130_n.jpg?oh=6ae6a9d910df430bd3cade53fde414b7&oe=59382BFA

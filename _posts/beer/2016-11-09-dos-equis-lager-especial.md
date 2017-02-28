@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v--dos-equis-special-lager/10887"
 country: "Mexico"
 brewery: "Cervecería Cuauhtémoc Moctezuma S.A. de C.V."
-breweryURL: "/brewery/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v-.html"
+breweryURL: "/brewery/cerveceria-cuauhtemoc-moctezuma-s-a-de-c-v.html"
 style: "Lager - North American Adjunct"
 score: 7
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10433892_10152534289243745_2400323308581320924_n.jpg?oh=a5661ffaee5709480c226a131eeaf665&oe=5941C90B

@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/gage-roads-brewing-co--wahoo-summer-lager/863499"
 country: "Australia"
 brewery: "Gage Roads Brewing Co "
-breweryURL: "/brewery/gage-roads-brewing-co-.html"
+breweryURL: "/brewery/gage-roads-brewing-co.html"
 style: "Lager - Pale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115651_10153656864028745_2911616261438807210_n.jpg?oh=339a58d61b29847ed45b56734161723a&oe=5940D83C

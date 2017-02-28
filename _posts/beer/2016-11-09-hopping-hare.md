@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--hopping-hare/29074"
 country: "United Kingdom"
 brewery: "Badger Ales (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-ales--hall---woodhouse-.html"
+breweryURL: "/brewery/badger-ales-hall-woodhouse.html"
 style: "Golden Ale"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/399346_10151380245588745_647361323_n.jpg?oh=43f86b2da9d658bfe951770765047ecd&oe=592A6CF3

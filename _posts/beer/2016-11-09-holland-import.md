@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/h-west-b-v--holland-import/628484"
 country: "Netherlands"
 brewery: "H-West B.V."
-breweryURL: "/brewery/h-west-b-v-.html"
+breweryURL: "/brewery/h-west-b-v.html"
 style: "Pilsner - Other"
 score: 4
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10154146_10152425240233745_4967152943053850733_n.jpg?oh=b1de3aed4f07a198992148620b497076&oe=592E2960

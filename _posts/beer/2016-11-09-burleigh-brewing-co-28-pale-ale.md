@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/burleigh-brewing-co--28-pale-ale/21149"
 country: "Australia"
 brewery: "Burleigh Brewing Co."
-breweryURL: "/brewery/burleigh-brewing-co-.html"
+breweryURL: "/brewery/burleigh-brewing-co.html"
 style: "Pale Ale - American"
 score: 6
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10304714_10152425240513745_4080589260215688130_n.jpg?oh=fe2e9486d7897b3f91e53a57478e3410&oe=59424079

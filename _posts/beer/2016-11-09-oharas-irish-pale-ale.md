@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/oharas-brewery--carlow-brewing-company--oharas-irish-pale-ale/143851"
 country: "Ireland"
 brewery: "O'Hara's Brewery (Carlow Brewing Company)"
-breweryURL: "/brewery/oharas-brewery--carlow-brewing-company-.html"
+breweryURL: "/brewery/oharas-brewery-carlow-brewing-company.html"
 style: "IPA - International"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1233480_10151888666808745_111746617_n.jpg?oh=e4c1b93139e802b0d5ed508f9a43d928&oe=592725FC

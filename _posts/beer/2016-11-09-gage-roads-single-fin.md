@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/gage-roads-brewing-co--single-fin-summer-ale/973175"
 country: "Australia"
 brewery: "Gage Roads Brewing Co "
-breweryURL: "/brewery/gage-roads-brewing-co-.html"
+breweryURL: "/brewery/gage-roads-brewing-co.html"
 style: "Golden Ale"
 score: 8
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11737813_10153438035548745_1721256026335429959_n.jpg?oh=857637c58d7d082244c9e28f08bea148&oe=59435303

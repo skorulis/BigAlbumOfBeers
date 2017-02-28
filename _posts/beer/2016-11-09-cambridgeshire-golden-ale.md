@@ -6,7 +6,7 @@ category: beer
 untappd: "https://untappd.com/b/marks---spencer-cambridgeshire-golden-ale/106002"
 country: "United Kingdom"
 brewery: "Marks & Spencer"
-breweryURL: "/brewery/marks---spencer.html"
+breweryURL: "/brewery/marks-spencer.html"
 style: "Golden Ale"
 score: 5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/541370_10151563840993745_1315027570_n.jpg?oh=1b447fc732b20b07b545a2def0b25f6d&oe=593408B2
