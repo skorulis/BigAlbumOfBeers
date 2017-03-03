@@ -9,7 +9,7 @@ brewery: "De Gouden Boom"
 breweryURL: "/brewery/de-gouden-boom.html"
 style: "Gruit / Ancient Herbed Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1662198_10152293087613745_1851257445_n.jpg?oh=a5f4357b7c19c1f153fa38d146aa4d89&oe=594899BB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1662198_10152293087613745_1851257445_n.jpg?oh=c1da27268ec739f81a1ac9516e2a4deb&oe=597026BB
 beer-date: "2014-03-01"
 desc: "Like a lager that warms you up"
 permalink: /beer/:title.html

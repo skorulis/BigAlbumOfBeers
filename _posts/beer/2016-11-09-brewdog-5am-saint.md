@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970089_10151694532248745_1860752860_n.jpg?oh=d8dde5e9b3491d1c31b361e68a156782&oe=58FDFA05
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970089_10151694532248745_1860752860_n.jpg?oh=b55a2a0ee7926bb0c343b9461047f18b&oe=59258705
 beer-date: "2013-05-25"
 desc: "Quality amber"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Barossa Valley Brewing"
 breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Stout - Milk / Sweet"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11034204_10153118792398745_930727431364883158_n.jpg?oh=23d28f242752a6627fe55f7bac27aa2b&oe=5940AFCA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11034204_10153118792398745_930727431364883158_n.jpg?oh=7db2ff7fe0a3ddeeca24d607d0fedf87&oe=59683CCA
 beer-date: "2015-02-27"
 desc: "Was expecting this to taste like milk but it’s just a creamy stout"
 permalink: /beer/:title.html

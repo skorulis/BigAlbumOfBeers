@@ -7,7 +7,7 @@ country: "Spain"
 brewery: "Tito Blas"
 breweryURL: "/brewery/tito-blas.html"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1011466_10151798821318745_54743244_n.jpg?oh=695588f77ceac8c498dcaef2235d12eb&oe=5941AF8C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1011466_10151798821318745_54743244_n.jpg?oh=0d915a1662b7f0f312c5e6ea98566126&oe=59693C8C
 beer-date: "2013-07-19"
 desc: "A strange taste. Almost like a lambic. Even enjoyed by non beer drinkers"
 permalink: /beer/:title.html

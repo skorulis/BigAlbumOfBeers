@@ -9,7 +9,7 @@ brewery: "Monteith's Brewing Co. "
 breweryURL: "/brewery/monteiths-brewing-co.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10358559_10153118667468745_6994245863309298252_n.jpg?oh=531aca039300453d4ac626a476dab65b&oe=5944213C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10358559_10153118667468745_6994245863309298252_n.jpg?oh=735c8bb72d099cb34ef10a57eeb3d096&oe=596BAE3C
 beer-date: "2015-02-27"
 desc: "Surprisingly this is a ginger beer. And while I do like ginger beers this isn’t one of the better ones"
 permalink: /beer/:title.html

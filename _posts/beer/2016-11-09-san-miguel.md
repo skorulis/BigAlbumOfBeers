@@ -9,7 +9,7 @@ brewery: "Carlsberg UK"
 breweryURL: "/brewery/carlsberg-uk.html"
 style: "Lager - Euro"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22402_10151315677898745_961047009_n.jpg?oh=e9a5dfe901ed76d70a2104847bd0973c&oe=594C0454
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22402_10151315677898745_961047009_n.jpg?oh=5c4064fca941b1fec70937d733b421dc&oe=59739154
 beer-date: "2012-11-02"
 desc: "A beer for all occasions"
 permalink: /beer/:title.html

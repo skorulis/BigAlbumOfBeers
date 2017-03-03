@@ -9,7 +9,7 @@ brewery: "Marks & Spencer"
 breweryURL: "/brewery/marks-spencer.html"
 style: "Ginger Beer"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/486778_10151649175643745_1984274110_n.jpg?oh=cee026a6a6ff4fc4c8b93eca2635058c&oe=5944A5D8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/486778_10151649175643745_1984274110_n.jpg?oh=60744835f1c068251cc31abb25b8b6c1&oe=596C32D8
 beer-date: "2013-04-27"
 desc: "The worst ginger beer I've tasted"
 permalink: /beer/:title.html

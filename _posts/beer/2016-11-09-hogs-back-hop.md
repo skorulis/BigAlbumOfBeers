@@ -9,7 +9,7 @@ brewery: "Hogs Back Brewery"
 breweryURL: "/brewery/hogs-back-brewery.html"
 style: "Golden Ale"
 score: 1
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/308392_10151694533218745_306927282_n.jpg?oh=e2864a04a8a06a677f5b68bc16751458&oe=5940E1C8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/308392_10151694533218745_306927282_n.jpg?oh=b5d8d029b90b9b589c6c4fffface4829&oe=59686EC8
 beer-date: "2013-05-25"
 desc: "Throw up kind if awful"
 permalink: /beer/:title.html

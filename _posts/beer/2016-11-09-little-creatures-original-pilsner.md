@@ -9,7 +9,7 @@ brewery: "Little Creatures Brewing"
 breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1959613_10152293132738745_13261275_n.jpg?oh=996943089a1e2e75f43f58223488a195&oe=594A6DA0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1959613_10152293132738745_13261275_n.jpg?oh=ca370875536bd8e1bea8299fb7ccb252&oe=5971FAA0
 beer-date: "2014-03-01"
 desc: "Doesn't have the flavour of their other brews"
 permalink: /beer/:title.html

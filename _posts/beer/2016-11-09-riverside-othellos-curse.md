@@ -9,7 +9,7 @@ brewery: "Riverside Brewing Company"
 breweryURL: "/brewery/riverside-brewing-company.html"
 style: "IPA - Imperial / Double Black"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12733449_10153890416838745_3402335338987277776_n.jpg?oh=f6fac7b393da0f69d271501f57db20a6&oe=594892C1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12733449_10153890416838745_3402335338987277776_n.jpg?oh=129a69d19a5210b5131ee6a3fff79b74&oe=59701FC1
 beer-date: "2016-02-14"
 desc: "Too harsh on the tongue. The one time I've wanted a smaller bottle"
 permalink: /beer/:title.html

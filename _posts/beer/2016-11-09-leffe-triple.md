@@ -9,7 +9,7 @@ brewery: "Abbaye de Leffe"
 breweryURL: "/brewery/abbaye-de-leffe.html"
 style: "Belgian Tripel"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1625649_10152280800668745_1746325328_n.jpg?oh=12014110059114ae1a131091df039f8a&oe=5948C886
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1625649_10152280800668745_1746325328_n.jpg?oh=99d4933b0300b95cf526580ab310b05b&oe=59705586
 beer-date: "2014-02-23"
 desc: "Stronger and nicer than the standard"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Brutal Brewing"
 breweryURL: "/brewery/brutal-brewing.html"
 style: "Lager - Pale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149264_10153268265618745_5697774882754067421_n.jpg?oh=c52dd6033fb93daa79d4642a5704b510&oe=5940B10A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149264_10153268265618745_5697774882754067421_n.jpg?oh=03fe4f025eeec3a96c38b0bda97ebca0&oe=59683E0A
 beer-date: "2015-05-01"
 desc: "Pretty average lager"
 permalink: /beer/:title.html

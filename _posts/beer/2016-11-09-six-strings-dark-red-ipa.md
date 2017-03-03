@@ -9,7 +9,7 @@ brewery: "Six String Brewing Company"
 breweryURL: "/brewery/six-string-brewing-company.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14441019_10154470803253745_5501701895500526145_n.jpg?oh=eb587e01e5e2ca9fc3b0456294164af3&oe=5946EAEE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14441019_10154470803253745_5501701895500526145_n.jpg?oh=1f41076bda5272ef93fb4f3cd05a8b57&oe=596E77EE
 beer-date: "2016-09-21"
 desc: "Too much bitterness overwhelming the other flavours"
 permalink: /beer/:title.html

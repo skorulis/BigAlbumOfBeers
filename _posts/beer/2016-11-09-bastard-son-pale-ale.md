@@ -9,7 +9,7 @@ brewery: "Little Smith Brewing"
 breweryURL: "/brewery/little-smith-brewing.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11039309_10153438037053745_1453835514615000872_n.jpg?oh=797fdcdacb16afa7f3581fcb1fae806a&oe=58FD929E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11039309_10153438037053745_1453835514615000872_n.jpg?oh=0e2470fe457850f4adabbadb0e8aaa28&oe=59251F9E
 beer-date: "2015-07-10"
 desc: "Cross between a pale and an IPA"
 permalink: /beer/:title.html

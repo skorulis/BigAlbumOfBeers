@@ -9,7 +9,7 @@ brewery: "Cervecería Cuauhtémoc Moctezuma S.A. de C.V."
 breweryURL: "/brewery/cerveceria-cuauhtemoc-moctezuma-s-a-de-c-v.html"
 style: "Lager - North American Adjunct"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10433892_10152534289243745_2400323308581320924_n.jpg?oh=a5661ffaee5709480c226a131eeaf665&oe=5941C90B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10433892_10152534289243745_2400323308581320924_n.jpg?oh=e96cc3e78ac927064a4e4d4131c28f18&oe=5969560B
 beer-date: "2014-06-21"
 desc: "A very easy drinking lager. Good for a hot day"
 permalink: /beer/:title.html

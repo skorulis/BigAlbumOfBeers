@@ -9,7 +9,7 @@ brewery: "Marks & Spencer"
 breweryURL: "/brewery/marks-spencer.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/734776_10151461674018745_617552379_n.jpg?oh=0216e0c04e6aad3f17b6b5dad4f60fd8&oe=5945BE88
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/734776_10151461674018745_617552379_n.jpg?oh=1b5d3d33a330a112f7261a6bd103366e&oe=596D4B88
 beer-date: "2013-02-01"
 desc: "Easy drinking"
 permalink: /beer/:title.html

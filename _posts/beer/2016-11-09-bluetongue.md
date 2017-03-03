@@ -9,7 +9,7 @@ brewery: "Bluetongue Brewery (Pacific Beverages)"
 breweryURL: "/brewery/bluetongue-brewery-pacific-beverages.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/733866_10151602292633745_1103549106_n.jpg?oh=f11b1dbe2c941de9181d48c09bef57e4&oe=58FD69A6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/733866_10151602292633745_1103549106_n.jpg?oh=c42d6deb957ddc3a5e328c5758677fa8&oe=5924F6A6
 beer-date: "2013-03-28"
 desc: "Not as good as I remember"
 permalink: /beer/:title.html

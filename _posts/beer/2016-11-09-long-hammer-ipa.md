@@ -9,7 +9,7 @@ brewery: "Redhook Brewery"
 breweryURL: "/brewery/redhook-brewery.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1173745_10151860442463745_736142328_n.jpg?oh=875c1f4bc00769a21f22cc7ac75e9362&oe=5948AA74
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1173745_10151860442463745_736142328_n.jpg?oh=5d99f6b64e0fd8aeb85ea93bfa758df4&oe=59703774
 beer-date: "2013-08-18"
 desc: "Smash the hammer!"
 permalink: /beer/:title.html

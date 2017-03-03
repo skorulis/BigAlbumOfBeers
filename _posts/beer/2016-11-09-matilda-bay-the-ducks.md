@@ -9,7 +9,7 @@ brewery: "Matilda Bay Brewing Company"
 breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1492370_10153055726208745_5026667878902117342_o.jpg?oh=bd8131f381ef0ece694ee7d1a55f9fd0&oe=594B87B6
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1492370_10153055726208745_5026667878902117342_o.jpg?oh=da7dccb0700c248adc5b0c2fb2dc27df&oe=597314B6
 beer-date: "2015-01-29"
 desc: "Not at all a pale ale. Matilda bay lets me down once again"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Abita Brewing Company"
 breweryURL: "/brewery/abita-brewing-company.html"
 style: "IPA - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12718283_10153890416898745_6096850790027178927_n.jpg?oh=5f0f2714036c86ec5775db3e91b57cf2&oe=59468B46
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12718283_10153890416898745_6096850790027178927_n.jpg?oh=c6752dd175f80f4ffb34a69de8a38812&oe=596E1846
 beer-date: "2016-02-14"
 desc: "Too harsh, this brewery is still yet to win me over"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Sierra Nevada Brewing Co."
 breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "Lager - IPL (India Pale Lager)"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12105717_10153656863923745_5748636982943209878_n.jpg?oh=9f11f7d98f0263594515d5e1ed8bd77b&oe=58FDB1D7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12105717_10153656863923745_5748636982943209878_n.jpg?oh=a790cbb8bbfb6a7cb7fbee9d70a385bd&oe=59253ED7
 beer-date: "2015-10-17"
 desc: "Not a favourite but a well rounded flavour"
 permalink: /beer/:title.html

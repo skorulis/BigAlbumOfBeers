@@ -9,7 +9,7 @@ brewery: "Matilda Bay Brewing Company"
 breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1981912_10152293133693745_209766969_n.jpg?oh=52f299b77ca2740b031544acf02a9fa6&oe=594B1BC0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1981912_10152293133693745_209766969_n.jpg?oh=be24a6288e3f68da460a96b3c7bc2be2&oe=5972A8C0
 beer-date: "2014-03-01"
 desc: ""
 permalink: /beer/:title.html

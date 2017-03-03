@@ -9,7 +9,7 @@ brewery: "Killer Sprocket"
 breweryURL: "/brewery/killer-sprocket.html"
 style: "Smoked Beer"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10711_10153055749528745_1705580902509688757_n.jpg?oh=1fe8edef201f2e45cc936d812f3b986c&oe=5942BDA7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10711_10153055749528745_1705580902509688757_n.jpg?oh=b28182b8f7a4417764aa9fee761c88f6&oe=596A4AA7
 beer-date: "2015-01-29"
 desc: "Way too much of a smokey flavour"
 permalink: /beer/:title.html
