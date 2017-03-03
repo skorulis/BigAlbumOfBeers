@@ -1,8 +1,16 @@
 require 'json'
 require 'slugify'
 
+maxPages = ARGV[0]
+
 allBeers = JSON.parse(File.read('_data/full.json'))
 stats = JSON.parse(File.read('js/stats.json'))
+
+if maxPages != nil
+	allBeers = allBeers.first(maxPages.to_i)
+	stats = stats.first(maxPages.to_i)
+end
+
 statMap = Hash[stats.map{ |a| [a["name"], a] }]
 extraMap = JSON.parse(File.read('js/extra.json'))
 
@@ -101,7 +109,8 @@ allBeers.each do |item|
 
 end
 
-
-File.open("_data/full.json","w") do |f|
-  f.write(JSON.pretty_generate(allBeers))
+if maxPages == nil
+	File.open("_data/full.json","w") do |f|
+  		f.write(JSON.pretty_generate(allBeers))
+	end
 end

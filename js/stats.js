@@ -250,7 +250,6 @@ function makeTopChart(beers,metric) {
 
 function makeBarGraph(config) {
   var axisMargin = 20,
-    margin = 40,
     valueMargin = 4,
     barHeight = 25,
     barPadding = 4,
@@ -280,7 +279,7 @@ function makeBarGraph(config) {
   bar.attr("class", "bar")
     .attr("cx",0)
     .attr("transform", function(d, i) {
-      return "translate(" + margin + "," + (i * (barHeight + barPadding) + barPadding) + ")";
+      return "translate(0," + (i * (barHeight + barPadding) + barPadding) + ")";
     });
 
   bar.append("text")
@@ -290,12 +289,14 @@ function makeBarGraph(config) {
     .text(function(d){
       return d.name;
     }).each(function() {
-      labelWidth = Math.ceil(Math.max(labelWidth, this.getBBox().width));
+      var calculated = this.getBBox().width;
+      calculated = Math.min(calculated,width * 0.5);
+      labelWidth = Math.ceil(Math.max(labelWidth, calculated));
     });
 
   var scale = d3.scaleLinear()
     .domain([0, max])
-    .range([0, width - margin*2 - labelWidth]);
+    .range([0, width - labelWidth]);
 
 
   bar.append("rect")
