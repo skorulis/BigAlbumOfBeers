@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Kölsch"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10452382_10153118793263745_8541367164944833885_n.jpg?oh=d52f0aa5cdf019ba0cab74492f79d185&oe=592E4802
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10452382_10153118793263745_8541367164944833885_n.jpg?oh=3cef04baa458f66583de929c483f8321&oe=5955D502
 beer-date: "2015-02-27"
 desc: "Makes me want to try more kolsch beer"
 permalink: /beer/:title.html

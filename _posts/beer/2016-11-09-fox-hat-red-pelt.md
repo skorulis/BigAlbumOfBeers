@@ -9,7 +9,7 @@ brewery: "Fox Hat Brewing"
 breweryURL: "/brewery/fox-hat-brewing.html"
 style: "IPA - Red"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16602874_10154923951953745_7354285082881268208_n.jpg?oh=8a40aeec277991b9da396b85dcb9331e&oe=59346329
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16602874_10154923951953745_7354285082881268208_n.jpg?oh=2b4501b2bfc50d1d8ee764b1c44a50f4&oe=595BF029
 beer-date: "2017-02-11"
 desc: "Feels like it's missing something. The bitterness is there but sadly no great flavour behind that. Really high levels of sediment as well. A rare miss from fox hat"
 permalink: /beer/:title.html

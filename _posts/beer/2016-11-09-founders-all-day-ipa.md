@@ -9,7 +9,7 @@ brewery: "Founders Brewing Co."
 breweryURL: "/brewery/founders-brewing-co.html"
 style: "IPA - Session / India Session Ale"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955163_10153055771108745_5413724920939008977_n.jpg?oh=bda5e0b2c52b10635bb8dde99e738754&oe=59341716
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955163_10153055771108745_5413724920939008977_n.jpg?oh=908f48915455e34d6b43445f3ee180fe&oe=595BA416
 beer-date: "2015-01-29"
 desc: "Could literally drink this all day. Another from the great selection at Parsons"
 permalink: /beer/:title.html

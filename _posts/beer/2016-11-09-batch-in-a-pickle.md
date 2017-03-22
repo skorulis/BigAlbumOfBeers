@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Sour - Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/13233015_10154147274988745_881393278262650589_n.jpg?oh=a118f5e13f1cd557f15bb61e2a20614e&oe=593D226B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/13233015_10154147274988745_881393278262650589_n.jpg?oh=f4a2f9105c01eb2f8d70f3ef0dba6db7&oe=5964AF6B
 beer-date: "2016-05-24"
 desc: "My first cucumber beer. Tastes a lot like pickles. It's interesting but it wouldn't bring me back"
 permalink: /beer/:title.html

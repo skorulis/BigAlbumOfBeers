@@ -9,7 +9,7 @@ brewery: "Yulli's Brews"
 breweryURL: "/brewery/yullis-brews.html"
 style: "Porter - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15078888_10154633844908745_7841479986973542187_n.jpg?oh=87067aea1750e28728d71c971a81d271&oe=59350EA6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15078888_10154633844908745_7841479986973542187_n.jpg?oh=796bec4434e4f2c78f8e11550a86f0a1&oe=595C9BA6
 beer-date: "2016-11-13"
 desc: "No question of the vanilla. The sweetness makes it a really nice porter but by the end of a pint it felt like a bit much. Would only recommend ordering a middy"
 permalink: /beer/:title.html

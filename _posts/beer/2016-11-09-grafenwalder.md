@@ -9,7 +9,7 @@ brewery: "Frankfurter Brauhaus"
 breweryURL: "/brewery/frankfurter-brauhaus.html"
 style: "Pilsner - German"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/72182_10151649174918745_777169044_n.jpg?oh=3bebf910cf0a4fa921c099d89fd9cfa5&oe=59340243
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/72182_10151649174918745_777169044_n.jpg?oh=0a2db3cb1f27ce9aed9aed57d13a8b06&oe=595B8F43
 beer-date: "2013-04-27"
 desc: "Plain and easy to drink. Also cheap"
 permalink: /beer/:title.html

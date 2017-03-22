@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/581543_10151602284093745_555930895_n.jpg?oh=2cf4973ff1eafc4d2dc8214287509825&oe=593A5C01
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/581543_10151602284093745_555930895_n.jpg?oh=e95c791134323595e0a095729db5bf3b&oe=5961E901
 beer-date: "2013-03-28"
 desc: "A tad bitter for a pale ale"
 permalink: /beer/:title.html

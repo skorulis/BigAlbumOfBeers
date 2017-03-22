@@ -9,7 +9,7 @@ brewery: "Monteith's Brewing Co. "
 breweryURL: "/brewery/monteiths-brewing-co.html"
 style: "Doppelbock "
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1798753_10153055791623745_8735243396794406846_n.jpg?oh=87968d944ceba909755dd64df6a93ed9&oe=59351CC0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1798753_10153055791623745_8735243396794406846_n.jpg?oh=d0c00cd23dcef3b40fa94aebd7f53184&oe=595CA9C0
 beer-date: "2015-01-29"
 desc: "I need to sample some more doppelbocks"
 permalink: /beer/:title.html

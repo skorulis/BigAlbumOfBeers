@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "California Common"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10390115_10152534300713745_5030138459822932747_n.jpg?oh=fb1eeac8fe6ab783e46756d7873e5834&oe=592CCF1F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10390115_10152534300713745_5030138459822932747_n.jpg?oh=3f11ff0fb96196c68b2223b70efb0329&oe=59545C1F
 beer-date: "2014-06-21"
 desc: "Could go for a case is this"
 permalink: /beer/:title.html

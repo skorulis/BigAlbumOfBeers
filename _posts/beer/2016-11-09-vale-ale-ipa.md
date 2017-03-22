@@ -9,7 +9,7 @@ brewery: "Vale Brewing"
 breweryURL: "/brewery/vale-brewing.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1601320_10152327616293745_1926213057_n.jpg?oh=17c46e776a083c3b69d113b8f741c524&oe=593000C4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1601320_10152327616293745_1926213057_n.jpg?oh=e7e23946293e6482c11a83a87fb00884&oe=59578DC4
 beer-date: "2014-03-18"
 desc: "Sweater than a normal IPA"
 permalink: /beer/:title.html

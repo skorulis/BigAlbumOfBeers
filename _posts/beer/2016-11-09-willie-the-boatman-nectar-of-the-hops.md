@@ -9,7 +9,7 @@ brewery: "Willie The Boatman"
 breweryURL: "/brewery/willie-the-boatman.html"
 style: "IPA - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16105781_10154858217668745_6365233322472422422_n.jpg?oh=788c26edb6564ff919ee3a5bf81c2a6a&oe=593DEF60
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16105781_10154858217668745_6365233322472422422_n.jpg?oh=c28d6d4aea2db5dc74e0470d1cded0a2&oe=59657C60
 beer-date: "2017-01-21"
 desc: "Just the beer I've been looking for. Barely any bitterness but full of hop flavours. Smell is all pine and floral. Not getting the juiciness promised but decent as an IPA"
 permalink: /beer/:title.html

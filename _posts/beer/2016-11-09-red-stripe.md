@@ -9,7 +9,7 @@ brewery: "Desnoes & Geddes"
 breweryURL: "/brewery/desnoes-geddes.html"
 style: "Lager - North American Adjunct"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/378973_10151303950693745_516519003_n.jpg?oh=792f7e8f55af48d59cb4b15088683dd0&oe=5936B156
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/378973_10151303950693745_516519003_n.jpg?oh=2f00b493b77a265bd64a8bce19e075d1&oe=595E3E56
 beer-date: "2012-10-27"
 desc: "Brick lane special"
 permalink: /beer/:title.html

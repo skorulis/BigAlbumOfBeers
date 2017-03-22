@@ -9,7 +9,7 @@ brewery: "Matilda Bay Brewing Company"
 breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Lager - Vienna"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1958010_10152327617388745_1928464789_n.jpg?oh=b6289a33fdc22783fd12c375ff363f22&oe=592EE698
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1958010_10152327617388745_1928464789_n.jpg?oh=79fc9eb6f9a8dbc30e4cf8177a87b0e9&oe=59567398
 beer-date: "2014-03-18"
 desc: "A slightly zesty lager"
 permalink: /beer/:title.html

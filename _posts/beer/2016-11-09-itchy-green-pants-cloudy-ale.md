@@ -9,7 +9,7 @@ brewery: "Matilda Bay Brewing Company"
 breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14516_10152293132388745_1804956545_n.jpg?oh=b5d5f3579a882d0178d0f406eb645009&oe=5934E1B6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14516_10152293132388745_1804956545_n.jpg?oh=52eaaf8dec56515e0c130e5beb9ecd12&oe=595C6EB6
 beer-date: "2014-03-01"
 desc: "A citrusy ale"
 permalink: /beer/:title.html

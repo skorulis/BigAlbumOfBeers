@@ -9,7 +9,7 @@ brewery: "Bulmers Ireland"
 breweryURL: "/brewery/bulmers-ireland.html"
 style: "English Mild Ale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/150976_10151428531978745_744791164_n.jpg?oh=edb9686e8561e6ff5c37fbe42b0aea6d&oe=59385B31
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/150976_10151428531978745_744791164_n.jpg?oh=90f6256d423730635268a7b62f1c1868&oe=595FE831
 beer-date: "2013-01-13"
 desc: ""
 permalink: /beer/:title.html

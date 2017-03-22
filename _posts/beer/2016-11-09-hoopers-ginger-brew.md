@@ -9,7 +9,7 @@ brewery: "Hooper's"
 breweryURL: "/brewery/hoopers.html"
 style: "Ginger Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185949_10151854991548745_379811355_n.jpg?oh=3f91ebbdad5751b31fee52602657ca7c&oe=59338E13
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185949_10151854991548745_379811355_n.jpg?oh=e860cc73f310c4bb0a3add9245f0c212&oe=595B1B13
 beer-date: "2013-08-15"
 desc: "Exactly how a ginger beer should taste"
 permalink: /beer/:title.html

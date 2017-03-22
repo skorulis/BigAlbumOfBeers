@@ -9,7 +9,7 @@ brewery: "Coors Brewing Company"
 breweryURL: "/brewery/coors-brewing-company.html"
 style: "Lager - American Light"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/3398_10151428533958745_102290057_n.jpg?oh=32087bfc79413c5fe01b41fa638dd7d4&oe=592B30C4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/3398_10151428533958745_102290057_n.jpg?oh=f805e6c6ea1258366f9491823e79bd72&oe=5952BDC4
 beer-date: "2013-01-13"
 desc: ""
 permalink: /beer/:title.html

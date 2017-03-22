@@ -9,7 +9,7 @@ brewery: "Krušovice"
 breweryURL: "/brewery/krusovice.html"
 style: "Pilsner - Czech"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/480492_10151563944828745_302604960_n.jpg?oh=b704e3afff3a0ce06049be249f93247e&oe=5938DB45
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/480492_10151563944828745_302604960_n.jpg?oh=61de74ba3ff5aeeab8a5ed195d33670b&oe=59606845
 beer-date: "2013-03-09"
 desc: "Very similar to their other beer. Just a tad stronger"
 permalink: /beer/:title.html

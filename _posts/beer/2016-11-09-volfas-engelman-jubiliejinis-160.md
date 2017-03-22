@@ -9,7 +9,7 @@ brewery: "Volfas Engelman"
 breweryURL: "/brewery/volfas-engelman.html"
 style: "Lager - Vienna"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1385338_10152001620008745_462276383_n.jpg?oh=304af9bcb8e324220b14fc0248c97d86&oe=593418EC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1385338_10152001620008745_462276383_n.jpg?oh=2bd4a99bc18416546ac7826b9e06842a&oe=595BA5EC
 beer-date: "2013-10-25"
 desc: "Nice and smooth, and in a cool bottle"
 permalink: /beer/:title.html

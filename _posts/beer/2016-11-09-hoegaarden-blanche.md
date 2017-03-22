@@ -9,7 +9,7 @@ brewery: "Brouwerij van Hoegaarden"
 breweryURL: "/brewery/brouwerij-van-hoegaarden.html"
 style: "Witbier"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/312594_10151396305888745_722386464_n.jpg?oh=8aece38623e702e7d08ed5f2775b1f6a&oe=59307D5A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/312594_10151396305888745_722386464_n.jpg?oh=513e839c0c78e900433e7ed2c5d789aa&oe=59580A5A
 beer-date: "2012-12-25"
 desc: "Not a white beer fan"
 permalink: /beer/:title.html

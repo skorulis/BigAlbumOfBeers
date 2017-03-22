@@ -9,7 +9,7 @@ brewery: "Shepherd Neame"
 breweryURL: "/brewery/shepherd-neame.html"
 style: "IPA - English"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12729064_10153890417368745_6907793566119928582_n.jpg?oh=326e58358a52504d28882ac062b5e816&oe=59308BE5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12729064_10153890417368745_6907793566119928582_n.jpg?oh=b72ffdc0bb9567a78813a40c0166221e&oe=595818E5
 beer-date: "2016-02-14"
 desc: "I’m always disappointed by English IPAs since the flavour I want from an IPA is more akin to the American interpretation with much more floral hops"
 permalink: /beer/:title.html

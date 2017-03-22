@@ -9,7 +9,7 @@ brewery: "Brouwerij St. Bernardus"
 breweryURL: "/brewery/brouwerij-st-bernardus.html"
 style: "Belgian Quad"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1902068_10152293087213745_1501844823_n.jpg?oh=af7baa1c731a44f524625c8fb7d1c7ed&oe=593499B9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1902068_10152293087213745_1501844823_n.jpg?oh=16cdcf8c3378f4371e57211d8fdc2f00&oe=595C26B9
 beer-date: "2014-03-01"
 desc: "Takes a bit to get used to but smooth after that"
 permalink: /beer/:title.html

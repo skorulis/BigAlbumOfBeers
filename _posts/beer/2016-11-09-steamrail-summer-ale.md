@@ -9,7 +9,7 @@ brewery: "Steamrail Brewing Company (Coles)"
 breweryURL: "/brewery/steamrail-brewing-company-coles.html"
 style: "California Common"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11062864_10153268279933745_3157338283510709307_n.jpg?oh=5c26e496c9c32e810fc066fff9ef2629&oe=59299772
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11062864_10153268279933745_3157338283510709307_n.jpg?oh=3efa48bf2e104ea1ea8d485bd733f801&oe=59512472
 beer-date: "2015-05-01"
 desc: "Another winner from steamrail but not as nice as the pale"
 permalink: /beer/:title.html

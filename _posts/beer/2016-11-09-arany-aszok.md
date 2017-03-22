@@ -9,7 +9,7 @@ brewery: "Dreher Sörgyárak"
 breweryURL: "/brewery/dreher-sorgyarak.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1458701_10152147733363745_127688331_n.jpg?oh=ad7bfcbabf47d37997ece971d1425df3&oe=5929F93A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1458701_10152147733363745_127688331_n.jpg?oh=6974daefc796fe74c98d8e44c5098a40&oe=5951863A
 beer-date: "2013-12-23"
 desc: "Easy drinking lager"
 permalink: /beer/:title.html

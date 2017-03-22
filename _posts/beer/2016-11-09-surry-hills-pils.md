@@ -9,7 +9,7 @@ brewery: "Sydney Brewery"
 breweryURL: "/brewery/sydney-brewery.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10428481_10153053851498745_4687849967086253708_n.jpg?oh=5ef2d832f4bc37f8034b3dc1bda47126&oe=59385BC5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10428481_10153053851498745_4687849967086253708_n.jpg?oh=fd9132993c8515c29eac70bbd8764cbf&oe=595FE8C5
 beer-date: "2015-01-28"
 desc: "Doesn't really taste like a pils"
 permalink: /beer/:title.html

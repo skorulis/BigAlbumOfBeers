@@ -9,7 +9,7 @@ brewery: "The Melchers Group"
 breweryURL: "/brewery/the-melchers-group.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/374702_10151649178783745_739073810_n.jpg?oh=021f71af1b9426d5d6f101ec504b700d&oe=593E7923
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/374702_10151649178783745_739073810_n.jpg?oh=e37443ef48f7c7b528c7478a0f5ae53e&oe=59660623
 beer-date: "2013-04-27"
 desc: "Yet another tequila beer"
 permalink: /beer/:title.html

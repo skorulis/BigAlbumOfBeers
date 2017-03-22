@@ -9,7 +9,7 @@ brewery: "Cruzcampo (Heineken España)"
 breweryURL: "/brewery/cruzcampo-heineken-espana.html"
 style: "Pilsner - Imperial / Double"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/944493_10151798819313745_233015169_n.jpg?oh=c786ca850015e3c5e556f05e87239aaa&oe=59395B12
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/944493_10151798819313745_233015169_n.jpg?oh=899b241b97ad6519688fb43d3ab46dd0&oe=5960E812
 beer-date: "2013-07-19"
 desc: "A bit malty but mostly smooth"
 permalink: /beer/:title.html

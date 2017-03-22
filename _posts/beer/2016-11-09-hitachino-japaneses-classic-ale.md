@@ -9,7 +9,7 @@ brewery: "Kiuchi Brewery"
 breweryURL: "/brewery/kiuchi-brewery.html"
 style: "IPA - International"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185821_10151854990343745_429136882_n.jpg?oh=c898ee9cdb2bdb936aa429095d0e0083&oe=593E3005
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185821_10151854990343745_429136882_n.jpg?oh=666c63359f2e0a5c59e1587a49478b2d&oe=5965BD05
 beer-date: "2013-08-15"
 desc: "Such a letdown after the pale ale"
 permalink: /beer/:title.html

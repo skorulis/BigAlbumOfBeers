@@ -9,7 +9,7 @@ brewery: "Browar Okocim (Carlsberg Polska)"
 breweryURL: "/brewery/browar-okocim-carlsberg-polska.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10300636_10152534301428745_4348861457784870364_n.jpg?oh=207c5f9c1b600a77e7b5422747879763&oe=593E3D13
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10300636_10152534301428745_4348861457784870364_n.jpg?oh=e364b027aeeb94e93ec6ebf3167c271d&oe=5965CA13
 beer-date: "2014-06-21"
 desc: "It's ok"
 permalink: /beer/:title.html
