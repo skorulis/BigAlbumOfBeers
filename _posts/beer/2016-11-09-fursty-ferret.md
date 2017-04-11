@@ -9,7 +9,7 @@ brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "/brewery/badger-ales-hall-woodhouse.html"
 style: "English Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/224528_10151303867818745_1700962680_n.jpg?oh=2d4cac1bbaffc478aa558ce806d31804&oe=595D9D8E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/224528_10151303867818745_1700962680_n.jpg?oh=2aadc906d798893144ee4d445ba115bc&oe=59852A8E
 beer-date: "2012-10-27"
 desc: "The name is better than the taste"
 permalink: /beer/:title.html

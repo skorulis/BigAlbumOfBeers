@@ -9,7 +9,7 @@ brewery: "Brasseries Kronenbourg"
 breweryURL: "/brewery/brasseries-kronenbourg.html"
 style: "Lager - Euro"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/60247_10151283328373745_1855333949_n.jpg?oh=3aeeffab0218162f16dd2ef31bb8b826&oe=596375F3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/60247_10151283328373745_1855333949_n.jpg?oh=62731e6573c76c3caab71d1a19776b6a&oe=598B02F3
 beer-date: "2012-10-13"
 desc: "Standard fare"
 permalink: /beer/:title.html

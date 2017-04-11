@@ -9,7 +9,7 @@ brewery: "Matso's Broome Brewery"
 breweryURL: "/brewery/matsos-broome-brewery.html"
 style: "Pale Ale - English"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10459893_10152534289713745_6169618167007300448_n.jpg?oh=55e88de1f135021481f2f7d33ac1d565&oe=596895ED
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10459893_10152534289713745_6169618167007300448_n.jpg?oh=810cab1d206eb27d92f249d1feb9f8a4&oe=599022ED
 beer-date: "2014-06-21"
 desc: "A very well balanced pale ale"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Sixpoint Brewery"
 breweryURL: "/brewery/sixpoint-brewery.html"
 style: "Cream Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149483_10153225366508745_5535316799902667426_n.jpg?oh=4e616b0b6965e696d734a10c25dbbae1&oe=596965A7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149483_10153225366508745_5535316799902667426_n.jpg?oh=5ccd892d361b4801f844a5fe09c2deb0&oe=5990F2A7
 beer-date: "2015-04-13"
 desc: "Nice sweet hoppy taste"
 permalink: /beer/:title.html

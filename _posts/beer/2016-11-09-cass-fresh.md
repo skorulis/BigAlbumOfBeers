@@ -9,7 +9,7 @@ brewery: "Oriental Brewery"
 breweryURL: "/brewery/oriental-brewery.html"
 style: "Lager - North American Adjunct"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10463933_10152534306048745_557216881289649027_n.jpg?oh=b064fbd84e7537a7c007d69900f7afa1&oe=596C52AC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10463933_10152534306048745_557216881289649027_n.jpg?oh=ce2fed5dd9a6adafb0ce902f1def9674&oe=5993DFAC
 beer-date: "2014-06-21"
 desc: "A very refreshing lager"
 permalink: /beer/:title.html

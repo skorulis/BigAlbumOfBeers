@@ -9,7 +9,7 @@ brewery: "Bristol Beer Factory"
 breweryURL: "/brewery/bristol-beer-factory.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12741906_10153890416078745_2509646553682533650_n.jpg?oh=c84e4283d859b44575d2acd76ee1803a&oe=596C3AFF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12741906_10153890416078745_2509646553682533650_n.jpg?oh=b49c1f95f13610b18b1347984cff5bde&oe=5993C7FF
 beer-date: "2016-02-14"
 desc: "The description sounded good but didn't quite hit that mark"
 permalink: /beer/:title.html

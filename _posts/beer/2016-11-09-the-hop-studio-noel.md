@@ -9,7 +9,7 @@ brewery: "The Hop Studio"
 breweryURL: "/brewery/the-hop-studio.html"
 style: "Winter Ale"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1618610_10152280800288745_1862858046_n.jpg?oh=ab3dbf57651ecf05453440b531100574&oe=596E7545
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1618610_10152280800288745_1862858046_n.jpg?oh=5da55e2567d9eeff9dc639503beee4b4&oe=59960245
 beer-date: "2014-02-23"
 desc: "Some very strange hoppy flavour"
 permalink: /beer/:title.html

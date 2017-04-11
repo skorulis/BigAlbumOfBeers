@@ -9,7 +9,7 @@ brewery: "Greene King"
 breweryURL: "/brewery/greene-king.html"
 style: "Pale Ale - English"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/67496_10151649177163745_1520090166_n.jpg?oh=8c596f96c4e6a8cca3372565982dbf63&oe=596EE773
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/67496_10151649177163745_1520090166_n.jpg?oh=4254c0c7af3e80f37197e64cbbab7507&oe=59967473
 beer-date: "2013-04-27"
 desc: "Weak and tasteless. Pretty much a waste of my time"
 permalink: /beer/:title.html

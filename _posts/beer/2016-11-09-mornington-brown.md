@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Brown Ale - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12688382_10153890449953745_3980101759747984162_n.jpg?oh=4df7d87a1842bfed2975d892ea7207fc&oe=5962E145
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12688382_10153890449953745_3980101759747984162_n.jpg?oh=eb3d5bf342dacdf7e20822cd5fe6306e&oe=598A6E45
 beer-date: "2016-02-14"
 desc: "Nicely rounded. Another winner from Mornington"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "New England Brewing Co."
 breweryURL: "/brewery/new-england-brewing-co.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11202600_10153268294733745_5223220854392756415_n.jpg?oh=a3a48080d11918afea8d9a88e38e3b62&oe=5926F037
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11202600_10153268294733745_5223220854392756415_n.jpg?oh=efc2073c97fcb0c2da8207d27ca85044&oe=594E7D37
 beer-date: "2015-05-01"
 desc: "Perhaps a few too many hops for me"
 permalink: /beer/:title.html

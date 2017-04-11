@@ -9,7 +9,7 @@ brewery: "Orion Breweries, Ltd."
 breweryURL: "/brewery/orion-breweries-ltd.html"
 style: "Lager - Japanese Rice"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13442135_10154200936788745_6034318375592636488_n.jpg?oh=b92a79305e819490d3a3ac50ac19f706&oe=5964B26A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13442135_10154200936788745_6034318375592636488_n.jpg?oh=96fd5832bd5c147695099a0f4460495d&oe=598C3F6A
 beer-date: "2016-06-16"
 desc: "Mild on flavour and smell. A really easy drinking beer"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Nøgne Ø"
 breweryURL: "/brewery/nogne-o.html"
 style: "Saison / Farmhouse Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10955774_10153055726098745_2456265276299415480_o.jpg?oh=59d83138f411db95be70553c9d371cb9&oe=59609AF4
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10955774_10153055726098745_2456265276299415480_o.jpg?oh=c2e0ea66ce4b6b880d95847b08b12deb&oe=598827F4
 beer-date: "2015-01-29"
 desc: "Too much of a white beer flavour for me"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Grand Ridge Brewery"
 breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Stout - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10945766_10153055791503745_8417455299148358450_n.jpg?oh=db6f0644850d4d323979926b6a7f08d3&oe=59696DC7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10945766_10153055791503745_8417455299148358450_n.jpg?oh=a579d23674ad7e4e2e7759d2bd9b444f&oe=5990FAC7
 beer-date: "2015-01-29"
 desc: "A fairly mild stout"
 permalink: /beer/:title.html

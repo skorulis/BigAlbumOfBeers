@@ -9,7 +9,7 @@ brewery: "Grand Ridge Brewery"
 breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12742769_10153890414963745_1738049076033297377_n.jpg?oh=77223d8c06867fd3960fa14587509fd5&oe=5960B0DC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12742769_10153890414963745_1738049076033297377_n.jpg?oh=52329670d933bc92f09990f633a30d88&oe=59883DDC
 beer-date: "2016-02-14"
 desc: "A lot more plain than I expected. There's a really slight oat aftertaste but I was hoping for it to dominate the beer"
 permalink: /beer/:title.html

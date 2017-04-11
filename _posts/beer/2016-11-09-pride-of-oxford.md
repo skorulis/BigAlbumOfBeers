@@ -9,7 +9,7 @@ brewery: "Oxfordshire Ales"
 breweryURL: "/brewery/oxfordshire-ales.html"
 style: "Golden Ale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/558943_10151356728198745_2042204432_n.jpg?oh=b08c961cd32d45acaef9c87cd7abdab6&oe=59667DA2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/558943_10151356728198745_2042204432_n.jpg?oh=6542a433e4b56cdf561acfd691b81960&oe=598E0AA2
 beer-date: "2012-12-01"
 desc: "Just a very average beverage"
 permalink: /beer/:title.html

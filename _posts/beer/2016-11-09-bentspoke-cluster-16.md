@@ -9,7 +9,7 @@ brewery: "Bentspoke Brewing Co"
 breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "IPA - Belgian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12741979_10153890413793745_6934869662046573410_n.jpg?oh=a2f2c06e11f70251d2084a158ae8a417&oe=595E848E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12741979_10153890413793745_6934869662046573410_n.jpg?oh=ec86eac8852ea15c4ba2cad7449ae11f&oe=5986118E
 beer-date: "2016-02-14"
 desc: "Like a normal IPA distilled into a super potent form. Too much for me right now but I should retry"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Thai Beverage PLC"
 breweryURL: "/brewery/thai-beverage-plc.html"
 style: "Lager - Helles"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q86/p480x480/12115906_10153656865258745_5285972944996147053_n.jpg?oh=6060e14feb0769e8c990d910cd5de0f5&oe=59706536
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q86/p480x480/12115906_10153656865258745_5285972944996147053_n.jpg?oh=726f0fc3772631629aeb1e571a0d4551&oe=5997F236
 beer-date: "2015-10-17"
 desc: "Has the flavour of a german beer but the quality is slightly lacking"
 permalink: /beer/:title.html

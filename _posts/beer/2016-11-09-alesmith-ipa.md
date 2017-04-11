@@ -9,7 +9,7 @@ brewery: "AleSmith Brewing Company"
 breweryURL: "/brewery/alesmith-brewing-company.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114122_10154858219073745_823877155932543061_n.jpg?oh=cedf057e43ed7b7521bf2a60056afe81&oe=59717788
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114122_10154858219073745_823877155932543061_n.jpg?oh=92a70a6aa087ab04dd97216fd552a524&oe=59990488
 beer-date: "2017-01-21"
 desc: "Has a bitterness that never really resolves into a great flavour"
 permalink: /beer/:title.html

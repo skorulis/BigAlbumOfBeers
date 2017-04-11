@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Extra Special / Strong Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11709549_10153438036878745_3892385374192512736_n.jpg?oh=d8a91aa50f14991d09de606fa139b63d&oe=5926A0B9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11709549_10153438036878745_3892385374192512736_n.jpg?oh=45e0ee1ad9a180fc901bbb07ccca756e&oe=594E2DB9
 beer-date: "2015-07-10"
 desc: "Bitter like an IPA but without the floral hoppiness"
 permalink: /beer/:title.html

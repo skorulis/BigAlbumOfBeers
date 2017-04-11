@@ -9,7 +9,7 @@ brewery: "John Smith's"
 breweryURL: "/brewery/john-smiths.html"
 style: "English Bitter"
 score: 1
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/65588_10151283327318745_1619592085_n.jpg?oh=5dc8a071b57d92f0f8ec9bdef9a26a8c&oe=596DC766
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/65588_10151283327318745_1619592085_n.jpg?oh=76276b85139eb69f99762a8514bcc3ea&oe=59955466
 beer-date: "2012-10-13"
 desc: "Shit bloke, shit beer"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Apatinska Pivara"
 breweryURL: "/brewery/apatinska-pivara.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10398353_10153966659598745_7866549484220940291_n.jpg?oh=2d3805c52aaec23fe13172cd7980b923&oe=596C889E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10398353_10153966659598745_7866549484220940291_n.jpg?oh=61cf9a020dd4a813f8d6749d71f5e16f&oe=5994159E
 beer-date: "2016-03-16"
 desc: "Has a strange smell and a kind of malty taste"
 permalink: /beer/:title.html

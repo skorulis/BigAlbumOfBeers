@@ -9,7 +9,7 @@ brewery: "Kiuchi Brewery"
 breweryURL: "/brewery/kiuchi-brewery.html"
 style: "Pale Ale - English"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1011658_10151854990103745_2038671130_n.jpg?oh=69989bf69ec2da71453370140f935b19&oe=59704E08
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1011658_10151854990103745_2038671130_n.jpg?oh=7acf0258d1df135250fe3f81b03bd812&oe=5997DB08
 beer-date: "2013-08-15"
 desc: "Surprisingly good. Wish I bought more than one"
 permalink: /beer/:title.html

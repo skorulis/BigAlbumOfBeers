@@ -9,7 +9,7 @@ brewery: "Meantime Brewing Company"
 breweryURL: "/brewery/meantime-brewing-company.html"
 style: "Stout - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069371_10151798801138745_1255664168_n.jpg?oh=fe5ed2e8ff1092cd394b9c6890405e69&oe=59275305
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069371_10151798801138745_1255664168_n.jpg?oh=984fa822ca522b7806a5f2d12e841c72&oe=594EE005
 beer-date: "2013-07-19"
 desc: "I could have another"
 permalink: /beer/:title.html

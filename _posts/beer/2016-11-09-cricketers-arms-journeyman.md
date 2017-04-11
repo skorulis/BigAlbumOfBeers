@@ -9,7 +9,7 @@ brewery: "Cricketers Arms"
 breweryURL: "/brewery/cricketers-arms.html"
 style: "Lager - Pale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11200596_10153268299613745_30462160346726619_n.jpg?oh=909486272cbb0eda892b4a323ae2b934&oe=59627FBE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11200596_10153268299613745_30462160346726619_n.jpg?oh=fd1ceb9e17ef53aeeea4bb393d0bc8d2&oe=598A0CBE
 beer-date: "2015-05-01"
 desc: "Nice and easy drinking, but still a mid strength"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Beverage Brands"
 breweryURL: "/brewery/beverage-brands.html"
 style: "Lager - Pale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64844_10151798801973745_1700678415_n.jpg?oh=628ae4bc49d5216ecb0c7a2541e74401&oe=5971B1D4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64844_10151798801973745_1700678415_n.jpg?oh=ed9501f6d20bfa376696e7b62eee41ef&oe=59993ED4
 beer-date: "2013-07-19"
 desc: "Like an over sweet tequila beer"
 permalink: /beer/:title.html

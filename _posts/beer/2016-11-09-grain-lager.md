@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10448190_10152534314748745_6480384213227978387_n.jpg?oh=f2adc1185696a481e45f24866eb11bab&oe=596BEEA4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10448190_10152534314748745_6480384213227978387_n.jpg?oh=c6ff95ec4e88edf6fe3510dc01487a06&oe=59937BA4
 beer-date: "2014-06-21"
 desc: "Like a really mild pale ale"
 permalink: /beer/:title.html

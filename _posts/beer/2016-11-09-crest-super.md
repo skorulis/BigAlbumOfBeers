@@ -9,7 +9,7 @@ brewery: "Charles Wells Brewery"
 breweryURL: "/brewery/charles-wells-brewery.html"
 style: "Lager - Euro"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/923052_10151649178723745_1627305958_n.jpg?oh=a664b23b8e2ba58c6386813375e59340&oe=596B2514
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/923052_10151649178723745_1627305958_n.jpg?oh=93ca484ca1279b6ccac6731dee8b63dd&oe=5992B214
 beer-date: "2013-04-27"
 desc: "As much as I like being able to drink half a bottle of wine in a single can of beer, this is just foul"
 permalink: /beer/:title.html

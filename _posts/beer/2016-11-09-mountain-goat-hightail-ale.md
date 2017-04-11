@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970226_10153966649058745_8469352202645792973_n.jpg?oh=df0356a767113be244294dd9e00724be&oe=5973861B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970226_10153966649058745_8469352202645792973_n.jpg?oh=fe4e5b63543b7a43d4c61e1a999df0c1&oe=599B131B
 beer-date: "2016-03-16"
 desc: "Still yet to have a bad beer from mountain goat though they are a bit too similar"
 permalink: /beer/:title.html

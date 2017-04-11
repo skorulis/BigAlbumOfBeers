@@ -9,7 +9,7 @@ brewery: "Yulli's Brews"
 breweryURL: "/brewery/yullis-brews.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13000118_10154072540778745_8031562595698025950_n.jpg?oh=06838f4ffec9da69cf8de1e0b924e3a6&oe=596A349B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13000118_10154072540778745_8031562595698025950_n.jpg?oh=ef498836746a932f62b2ff22a0b6746b&oe=5991C19B
 beer-date: "2016-04-21"
 desc: "Can't pick what the flavour is but I like it. Not as plain as I was expecting"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Purple Moose Brewery (Bragdy Mws Piws)"
 breweryURL: "/brewery/purple-moose-brewery-bragdy-mws-piws.html"
 style: "English Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/931430_10151694519728745_1221673086_n.jpg?oh=e15aa51292cb1ceba32914d63cb852a4&oe=596B6F99
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/931430_10151694519728745_1221673086_n.jpg?oh=e4e85ea7eb9fb1e2dc394158b4797b3b&oe=5992FC99
 beer-date: "2013-05-25"
 desc: "Almost like a mild IPA"
 permalink: /beer/:title.html
