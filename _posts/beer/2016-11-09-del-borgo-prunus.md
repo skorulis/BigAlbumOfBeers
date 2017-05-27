@@ -9,7 +9,7 @@ brewery: "Birra del Borgo"
 breweryURL: "/brewery/birra-del-borgo.html"
 style: "Sour - Ale"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17457912_10155045839643745_5984297775300914884_n.jpg?oh=030de9c1d1c277b27cd3467e16865179&oe=5991CBF6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17457912_10155045839643745_5984297775300914884_n.jpg?oh=1cc4f4a3007b94ca5c96d67f6fb8f4df&oe=59B958F6
 beer-date: "2017-03-22"
 desc: "The colour is absolutely beautiful. Smells funky as hell but the taste is much better. Full of a sour fruitiness and reminds me of plums but doesn’t have any off flavours. There’s almost no bitterness and a subtle sweetness to finish"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Eight Degrees Brewing"
 breweryURL: "/brewery/eight-degrees-brewing.html"
 style: "IPA - International"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1173698_10151888668208745_564925063_n.jpg?oh=f4efb0a0b08d988d6c6944c64807804d&oe=595983CC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1173698_10151888668208745_564925063_n.jpg?oh=51cbfcd3e1034172feada4e457257047&oe=59A89DCC
 beer-date: "2013-09-01"
 desc: "Nice but way too heavy right now"
 permalink: /beer/:title.html

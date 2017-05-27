@@ -9,7 +9,7 @@ brewery: "Moorhouse's Brewery"
 breweryURL: "/brewery/moorhouses-brewery.html"
 style: "Pale Ale - English"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/969003_10151694535793745_176698104_n.jpg?oh=905ff05cc458b06cd4eab1f8261de809&oe=594EBBA9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/969003_10151694535793745_176698104_n.jpg?oh=196ba852e284ec6a4655b14caa3d8300&oe=599DD5A9
 beer-date: "2013-05-25"
 desc: "Sweet, hoppy, average"
 permalink: /beer/:title.html

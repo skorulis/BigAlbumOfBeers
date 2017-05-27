@@ -9,7 +9,7 @@ brewery: "Pivovary Staropramen"
 breweryURL: "/brewery/pivovary-staropramen.html"
 style: "Pilsner - Czech"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/923443_10151649176573745_311313356_n.jpg?oh=5e0842a226ae681c88c926a2d97a102f&oe=598B8CB3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/923443_10151649176573745_311313356_n.jpg?oh=bb1abbdff72bc18db16c730348157959&oe=59B319B3
 beer-date: "2013-04-27"
 desc: "There's a reason I never saw this in the Czech Republic"
 permalink: /beer/:title.html

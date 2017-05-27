@@ -9,7 +9,7 @@ brewery: "Matso's Broome Brewery"
 breweryURL: "/brewery/matsos-broome-brewery.html"
 style: "Fruit Beer"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10311768_10153118792388745_7466271610444299802_n.jpg?oh=804e2f423772755a6df40723f3472ed1&oe=5950BFE1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10311768_10153118792388745_7466271610444299802_n.jpg?oh=0a541ba875d997ab81f5533c01c5aa86&oe=599FD9E1
 beer-date: "2015-02-27"
 desc: "Too sweet for me, just doesn’t take like a beer anymore"
 permalink: /beer/:title.html

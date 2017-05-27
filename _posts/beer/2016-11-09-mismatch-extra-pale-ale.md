@@ -1,16 +1,16 @@
 ---
 layout: beer
 filename: _posts/beer/2016-11-09-mismatch-extra-pale-ale.md
-title: Mismatch Extra pale ale
+title: Mismatch extra pale ale
 category: beer
 untappd: "https://untappd.com/b/mismatch-brewing-company-extra-pale-ale/1249686"
 country: "Australia"
 brewery: "Mismatch Brewing Company"
 breweryURL: "/brewery/mismatch-brewing-company.html"
 style: "Pale Ale - American"
-score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14433165_10154470820783745_152106093540537783_n.jpg?oh=7b3357236e88037cdfc754794c3defc8&oe=5999C3BB
-beer-date: "2016-09-21"
-desc: "Really tasty brew. Not as bitter as I expected which works well with mild hop flavour"
+score: 8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664698_10155251934523745_1394085353757447902_n.jpg?oh=9f6cac691146918a5ec1c9d70d544151&oe=59AB0528
+beer-date: "2017-05-27"
+desc: "Quite strong for an XPA but I'm not complaining because it's pretty tasty. Good balance between bitterness and hop aromatics. A nice mix of resiny and fruity"
 permalink: /beer/:title.html
 ---

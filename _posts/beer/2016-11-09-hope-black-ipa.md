@@ -9,7 +9,7 @@ brewery: "Hope Brewhouse"
 breweryURL: "/brewery/hope-brewhouse.html"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16003207_10154858223163745_1445292454217331090_n.jpg?oh=b15c5523b5ec17a6615afabdfa6eeca6&oe=5953ED30
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16003207_10154858223163745_1445292454217331090_n.jpg?oh=21aa7e101581fb55bf7898b139a08904&oe=59A30730
 beer-date: "2017-01-21"
 desc: "Not too bad. The bitterness sits well with the slight stoutiness"
 permalink: /beer/:title.html

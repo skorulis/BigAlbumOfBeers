@@ -8,7 +8,7 @@ brewery: "Skorubrew"
 breweryURL: "/brewery/skorubrew.html"
 style: "Stout - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13244856_10154147274693745_6588882774543071375_n.jpg?oh=b6e87eb7eb1af3eb9f65201c3e33e543&oe=59587807
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13244856_10154147274693745_6588882774543071375_n.jpg?oh=f5e7ca0f006f2710a0a0d8f5e49b0416&oe=59A79207
 beer-date: "2016-05-24"
 desc: "Has a yeasty and hoppy smell like my other beers but with a mild stout smell. The stout taste is milder than when I bottled it. To me it’s a great because it doesn’t have the kick like other stouts but this may disappoint those who look for that in a stout"
 permalink: /beer/:title.html

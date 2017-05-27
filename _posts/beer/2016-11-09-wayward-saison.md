@@ -9,7 +9,7 @@ brewery: "Wayward Brewing"
 breweryURL: "/brewery/wayward-brewing.html"
 style: "Saison / Farmhouse Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142902_10154858013583745_2136822054791541892_n.jpg?oh=be7ae1941cd42e1c80ae45a577b0cda4&oe=5953B665
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142902_10154858013583745_2136822054791541892_n.jpg?oh=da751dbe4f27ff080efd21ef660420f9&oe=59A2D065
 beer-date: "2017-01-21"
 desc: "Nice level of yeast flavour vs sweetness. Makes me not hate saisons"
 permalink: /beer/:title.html

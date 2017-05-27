@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Dark Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13256284_10154147274788745_4004743103375627628_n.jpg?oh=427aa5d6f89539c0772e121afc32e0e9&oe=5956852C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13256284_10154147274788745_4004743103375627628_n.jpg?oh=f5c9d509fc9d6993aa55f80238473ad3&oe=59A59F2C
 beer-date: "2016-05-24"
 desc: "Quite mild on the stout flavour, sweet and tasty"
 permalink: /beer/:title.html

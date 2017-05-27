@@ -9,7 +9,7 @@ brewery: "Bentspoke Brewing Co"
 breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "Saison / Farmhouse Ale"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11229820_10153890413723745_4413328230475725119_n.jpg?oh=e8d63ecb2d6624f66c985af4378e8aaf&oe=595A7011
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11229820_10153890413723745_4413328230475725119_n.jpg?oh=21b6e6b418efc33e2b5a648b60d27c77&oe=59A98A11
 beer-date: "2016-02-14"
 desc: "Very sour and bitter. Not for me"
 permalink: /beer/:title.html

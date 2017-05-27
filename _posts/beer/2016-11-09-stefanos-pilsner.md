@@ -9,7 +9,7 @@ brewery: "Mildura Brewery"
 breweryURL: "/brewery/mildura-brewery.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10301357_10152425240938745_5491397456344059410_n.jpg?oh=4f9d4a326c73f97f9fa8fc19054bd598&oe=595B2C00
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10301357_10152425240938745_5491397456344059410_n.jpg?oh=3634622d81752d82e4bd1450c35e05a2&oe=59AA4600
 beer-date: "2014-05-03"
 desc: "A good pilsner but far from perfect"
 permalink: /beer/:title.html

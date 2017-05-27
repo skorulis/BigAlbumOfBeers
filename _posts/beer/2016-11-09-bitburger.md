@@ -9,7 +9,7 @@ brewery: "Bitburger Braugruppe"
 breweryURL: "/brewery/bitburger-braugruppe.html"
 style: "Pilsner - German"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45381_10151798800163745_1715529842_n.jpg?oh=cb3c99a8aee3f09767d0adf60959585b&oe=59940E56
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45381_10151798800163745_1715529842_n.jpg?oh=f9d100fd6dd150edde9eb423d9260996&oe=59BB9B56
 beer-date: "2013-07-19"
 desc: "Not my favourite 1L beer"
 permalink: /beer/:title.html

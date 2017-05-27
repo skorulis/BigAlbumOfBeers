@@ -9,7 +9,7 @@ brewery: "Maxim Brewery"
 breweryURL: "/brewery/maxim-brewery.html"
 style: "Brown Ale - English"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/378563_10151331661023745_1836111728_n.jpg?oh=12ed77fae05487bd3b70b3cbcbd7d600&oe=594E8DB4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/378563_10151331661023745_1836111728_n.jpg?oh=df23e60ce8e895913e75b7da50a0c9a5&oe=599DA7B4
 beer-date: "2012-11-13"
 desc: ""
 permalink: /beer/:title.html

@@ -7,7 +7,7 @@ country: "Australia"
 brewery: "Redbay Brewing Company"
 breweryURL: "/brewery/redbay-brewing-company.html"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14355084_10154470829398745_6813450556520253908_n.jpg?oh=e3f63714397221f87d3c37f36946c83d&oe=5994748F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14355084_10154470829398745_6813450556520253908_n.jpg?oh=fccefc157eac0e084302462b63483755&oe=59BC018F
 beer-date: "2016-09-21"
 desc: "The hops cut through what I normally dislike in a wheat beer. Nicely aromatic and not too bitter"
 permalink: /beer/:title.html

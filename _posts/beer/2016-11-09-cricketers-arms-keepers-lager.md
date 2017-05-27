@@ -9,7 +9,7 @@ brewery: "Cricketers Arms"
 breweryURL: "/brewery/cricketers-arms.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1537711_10153268294383745_2698680166388774656_o.jpg?oh=9422b3c5d18a0d79e762c2503b96b6ca&oe=59539FDB
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1537711_10153268294383745_2698680166388774656_o.jpg?oh=4989c6809dd72db89dd2672b416342ff&oe=59A2B9DB
 beer-date: "2015-05-01"
 desc: "A sweet and quite flavourful lager"
 permalink: /beer/:title.html

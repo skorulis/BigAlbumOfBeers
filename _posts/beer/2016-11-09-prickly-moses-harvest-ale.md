@@ -9,7 +9,7 @@ brewery: "Prickly Moses"
 breweryURL: "/brewery/prickly-moses.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13265938_10154147274608745_6314635329318943118_n.jpg?oh=e41df45a5d5023fe7f15efc885026a94&oe=598B639D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13265938_10154147274608745_6314635329318943118_n.jpg?oh=e4e46f9249388cbb73aa2eddd6667bc0&oe=59B2F09D
 beer-date: "2016-05-24"
 desc: "Pretty plain ale"
 permalink: /beer/:title.html

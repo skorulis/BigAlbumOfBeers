@@ -9,7 +9,7 @@ brewery: "Belgian Blue Brewing Company"
 breweryURL: "/brewery/belgian-blue-brewing-company.html"
 style: "Witbier"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1920181_10153055771283745_6859710748033343904_n.jpg?oh=a4bf3b59a590bc2481d62d8008b879c1&oe=5984C328
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1920181_10153055771283745_6859710748033343904_n.jpg?oh=482837077ed9bf7681bc7b891249ffb3&oe=59AC5028
 beer-date: "2015-01-29"
 desc: "Ok for a wheat beer"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Hawthorn Brewing Company"
 breweryURL: "/brewery/hawthorn-brewing-company.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11178208_10153268265353745_1241728649667354734_n.jpg?oh=4052dcb06efc2011ed375ef7c76e3358&oe=595B58AB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11178208_10153268265353745_1241728649667354734_n.jpg?oh=aab69dec69d6b0e27af3399156ceb991&oe=59AA72AB
 beer-date: "2015-05-01"
 desc: "Not one you see around very often"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Tyskie Browary Książęce (Kompania Piwowarska)"
 breweryURL: "/brewery/tyskie-browary-ksiazece-kompania-piwowarska.html"
 style: "Lager - Euro"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1235025_10151888670293745_2077557673_n.jpg?oh=b72198e2982fc2a2f807da806a279c0a&oe=5998B0D2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1235025_10151888670293745_2077557673_n.jpg?oh=e9c700acbc6962869258f5a5ba69f94b&oe=59E7CAD2
 beer-date: "2013-09-01"
 desc: "The best polish beer I've tasted"
 permalink: /beer/:title.html

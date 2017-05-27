@@ -9,7 +9,7 @@ brewery: "Plzeňský Prazdroj"
 breweryURL: "/brewery/plzensky-prazdroj.html"
 style: "Pilsner - Czech"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/544330_10151563851598745_2141597246_n.jpg?oh=263a1498f9ab075eadddc74631baf7d8&oe=5951E894
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/544330_10151563851598745_2141597246_n.jpg?oh=00a09ae074f151040e5c1d2ea0a0d1a5&oe=59A10294
 beer-date: "2013-03-09"
 desc: "Actually one of the worse Czech lagers"
 permalink: /beer/:title.html

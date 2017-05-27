@@ -9,7 +9,7 @@ brewery: "Partizan Brewing"
 breweryURL: "/brewery/partizan-brewing.html"
 style: "Belgian Dubbel"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/563194_10152001621188745_696002352_n.jpg?oh=3a63c43da35e084d2bcf9818d60ae3c8&oe=59896E4A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/563194_10152001621188745_696002352_n.jpg?oh=9b2899d074c1e50079eddab7b148e886&oe=59B0FB4A
 beer-date: "2013-10-25"
 desc: "Strong chocolate taste but takes a while to get used to"
 permalink: /beer/:title.html

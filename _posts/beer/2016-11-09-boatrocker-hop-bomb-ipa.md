@@ -9,7 +9,7 @@ brewery: "Boatrocker Brewing Company"
 breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195100_10154858015438745_632539563054087672_n.jpg?oh=2a20bdd0dd1adcfe664f72cacd4a1339&oe=598693C9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195100_10154858015438745_632539563054087672_n.jpg?oh=4ec70dd49ebf2761865dc3157cccc8f0&oe=59AE20C9
 beer-date: "2017-01-21"
 desc: "Definitely a lot of hops but the heavy use of earthy hops leaves it bitter but without any exciting flavours. My first from this brewery so hopefully the rest of their range is a bit better"
 permalink: /beer/:title.html

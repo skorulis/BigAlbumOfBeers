@@ -9,7 +9,7 @@ brewery: "Cricketers Arms"
 breweryURL: "/brewery/cricketers-arms.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10489819_10152534301208745_6098643900831599392_n.jpg?oh=34c7acd767b3874572622012782398b3&oe=598C2DF6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10489819_10152534301208745_6098643900831599392_n.jpg?oh=366c25d93ccabddf843843e2a8b35fcd&oe=59B3BAF6
 beer-date: "2014-06-21"
 desc: "Wasn't expecting much"
 permalink: /beer/:title.html

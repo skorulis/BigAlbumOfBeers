@@ -9,7 +9,7 @@ brewery: "Garage Project"
 breweryURL: "/brewery/garage-project.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12439242_10153811611693745_5295129091092363707_n.jpg?oh=ef9f21f3109f28a5874136f79e4a445c&oe=5985E793
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12439242_10153811611693745_5295129091092363707_n.jpg?oh=fc8eb923a80868a6f0dd2e87d59624ef&oe=59AD7493
 beer-date: "2016-01-06"
 desc: "Really nice colour but the flavour misses the mark"
 permalink: /beer/:title.html

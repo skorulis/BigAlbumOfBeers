@@ -9,7 +9,7 @@ brewery: "Foster's Group"
 breweryURL: "/brewery/fosters-group.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/157044_10151602300683745_1270951956_n.jpg?oh=7316c64681bac31c58e05c4dbefe8299&oe=59514B0B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/157044_10151602300683745_1270951956_n.jpg?oh=a9e68f840370360b611188891a08c12a&oe=59A0650B
 beer-date: "2013-03-28"
 desc: "Easy drinking"
 permalink: /beer/:title.html

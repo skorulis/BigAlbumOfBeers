@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Ginger Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1796708_10152293133278745_1592031312_n.jpg?oh=000edf354c4786646cf9d4c273eba61e&oe=598C2105
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1796708_10152293133278745_1592031312_n.jpg?oh=8c49dc78c1182a692a55c94b6e021a71&oe=59B3AE05
 beer-date: "2014-03-01"
 desc: "Sweet sweet ginger"
 permalink: /beer/:title.html

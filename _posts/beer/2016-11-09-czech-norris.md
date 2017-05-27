@@ -9,7 +9,7 @@ brewery: "BrewFist"
 breweryURL: "/brewery/brewfist.html"
 style: "Pilsner - Imperial / Double"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1176212_10151888667313745_1242801185_n.jpg?oh=3e747d10cd6c301f4c69d60a7d6176ee&oe=5998966A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1176212_10151888667313745_1242801185_n.jpg?oh=da1b7841209aaa8e9f91bb0395b39a2d&oe=59E7B06A
 beer-date: "2013-09-01"
 desc: "Not the roundhouse kick of awesome I expected"
 permalink: /beer/:title.html

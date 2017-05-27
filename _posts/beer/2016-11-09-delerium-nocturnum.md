@@ -9,7 +9,7 @@ brewery: "Brouwerij Huyghe"
 breweryURL: "/brewery/brouwerij-huyghe.html"
 style: "Belgian Strong Dark Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1901197_10152280800558745_1902963784_n.jpg?oh=eacc682dcdfd4ec8fcee23d4cf87ed62&oe=598B25B5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1901197_10152280800558745_1902963784_n.jpg?oh=b4db22708e55d6779079f3cff79cc8c4&oe=59B2B2B5
 beer-date: "2014-02-23"
 desc: "Not as nice as the tremens"
 permalink: /beer/:title.html

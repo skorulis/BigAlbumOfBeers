@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Doppelbock "
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174418_10154858022228745_8765729394094049375_n.jpg?oh=7833407c754653c66ed44b6b42f7f693&oe=59500821
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174418_10154858022228745_8765729394094049375_n.jpg?oh=9ae90dcde0514ce518123f7ced23816b&oe=599F2221
 beer-date: "2017-01-21"
 desc: "Not really my cup of tea. The flavours just don’t seem to work well together"
 permalink: /beer/:title.html

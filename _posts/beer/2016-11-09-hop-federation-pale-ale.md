@@ -9,7 +9,7 @@ brewery: "Hop Federation"
 breweryURL: "/brewery/hop-federation.html"
 style: "Pale Ale - New Zealand"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1782025_10153966655578745_4664850473670279145_n.jpg?oh=7d43baa43388e966c3b5ff4f5e5a0714&oe=599488EC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1782025_10153966655578745_4664850473670279145_n.jpg?oh=e1f4b90737a3a8006294bf8fe9080878&oe=59BC15EC
 beer-date: "2016-03-16"
 desc: "Don’t have the best memory of drinking this but it was ok"
 permalink: /beer/:title.html

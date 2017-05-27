@@ -9,7 +9,7 @@ brewery: "Cricketers Arms"
 breweryURL: "/brewery/cricketers-arms.html"
 style: "Pale Ale - Australian"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11709660_10153438037763745_2498650749121162924_n.jpg?oh=c5827fc6435406c1ab54ec229a37f7c9&oe=594D8B5D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11709660_10153438037763745_2498650749121162924_n.jpg?oh=04f9160bb9d9ab2abc116de07281bbdc&oe=599CA55D
 beer-date: "2015-07-10"
 desc: "A bit of a let down. Doesn’t have what I expect from a pale ale"
 permalink: /beer/:title.html

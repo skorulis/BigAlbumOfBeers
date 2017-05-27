@@ -9,7 +9,7 @@ brewery: "Cricketers Arms"
 breweryURL: "/brewery/cricketers-arms.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1929791_10153811640558745_2017001779885811496_n.jpg?oh=4a9109ef1bfb70e5d95c452d41a8a675&oe=594CE301
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1929791_10153811640558745_2017001779885811496_n.jpg?oh=d3c3d75dbfe0180dc12769ef0dd98a9f&oe=599BFD01
 beer-date: "2016-01-07"
 desc: "Fairly inoffensive lager. Can’t complain"
 permalink: /beer/:title.html

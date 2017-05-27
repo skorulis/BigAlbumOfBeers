@@ -8,7 +8,7 @@ brewery: "Skorubrew"
 breweryURL: "/brewery/skorubrew.html"
 style: "Pale Ale - English"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195025_10154858014908745_2704369156798957263_n.jpg?oh=6a929361e8e4c3479b0cc514c774a7d7&oe=5999F9AD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195025_10154858014908745_2704369156798957263_n.jpg?oh=c6832d23df40387b234b4aadfbe8c650&oe=59E913AD
 beer-date: "2017-01-21"
 desc: "A little over carbonated with no head retention but still a tasty drop. Fairly easy drinking with just a mild hop flavour. Has a sweet finish that takes away the bitterness"
 permalink: /beer/:title.html

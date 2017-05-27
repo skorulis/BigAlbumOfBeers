@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Stout - Irish Dry"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1503434_10152327617153745_1770406360_n.jpg?oh=f47cf6bb52bc7d07f78663304877fa65&oe=5984E483
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1503434_10152327617153745_1770406360_n.jpg?oh=17062899078258709a617c4d15e14069&oe=59AC7183
 beer-date: "2014-03-18"
 desc: "A mild easy drinking stout"
 permalink: /beer/:title.html

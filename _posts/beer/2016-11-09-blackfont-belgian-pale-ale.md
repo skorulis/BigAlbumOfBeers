@@ -9,7 +9,7 @@ brewery: "BlackFont Brewhouse"
 breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "Pale Ale - Belgian"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14358791_10154470822723745_2714715947737886763_n.jpg?oh=e2231f21b8f3eae05360971006eb0c90&oe=5989D908
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14358791_10154470822723745_2714715947737886763_n.jpg?oh=84241fb90f947104367a83ac144d891a&oe=59B16608
 beer-date: "2016-09-21"
 desc: "Perfect example of a Belgian"
 permalink: /beer/:title.html

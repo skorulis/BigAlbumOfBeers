@@ -9,7 +9,7 @@ brewery: "Murray's Craft Brewing Co"
 breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12112481_10153656864773745_7414480192728397600_n.jpg?oh=0d5d2dcbb19d670aef1d2090d64fd5ac&oe=598CB645
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12112481_10153656864773745_7414480192728397600_n.jpg?oh=3930bf3dd63973566b7d9d4044815985&oe=59B44345
 beer-date: "2015-10-17"
 desc: "Has a little bit of paleness to it"
 permalink: /beer/:title.html

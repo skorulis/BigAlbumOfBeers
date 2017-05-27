@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/7254_10151602296908745_1398508952_n.jpg?oh=07b2a9795efd43cd13e828884b2e3f80&oe=59501AF3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/7254_10151602296908745_1398508952_n.jpg?oh=818ce59f627d249a5a3f8843ce1bec1c&oe=599F34F3
 beer-date: "2013-03-28"
 desc: "Mild for an american IPA, easier to get used to"
 permalink: /beer/:title.html
