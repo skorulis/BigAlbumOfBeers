@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1933914_10153811639743745_2943766557036716002_n.jpg?oh=e72af0b18a3d15555d1d56a34cebee44&oe=59B91801
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1933914_10153811639743745_2943766557036716002_n.jpg?oh=8c4178b643177eb5e079b3078111eea1&oe=5A083201
 beer-date: "2016-01-07"
 desc: "Another winner from Mornington. Really strong on flavour but without any harshness"
 permalink: /beer/:title.html

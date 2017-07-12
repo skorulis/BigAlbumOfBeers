@@ -9,7 +9,7 @@ brewery: "Dad & Dave's Brewing"
 breweryURL: "/brewery/dad-daves-brewing.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13267730_10154147276308745_5674622146165558080_n.jpg?oh=00409892e30bbe2aaee3c57ad8683f2d&oe=59A7EF2A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13267730_10154147276308745_5674622146165558080_n.jpg?oh=b32f796f0ab42adcf3cd7f60f5e7ba48&oe=59CF7C2A
 beer-date: "2016-05-24"
 desc: "Tastes like a Belgian ale. It’s alright"
 permalink: /beer/:title.html

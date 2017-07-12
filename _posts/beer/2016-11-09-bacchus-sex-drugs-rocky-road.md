@@ -9,7 +9,7 @@ brewery: "Bacchus Brewing Co."
 breweryURL: "/brewery/bacchus-brewing-co.html"
 style: "Specialty Grain"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18671080_10155251934103745_2561047099094690379_n.jpg?oh=6d5d22e4b0d4271bf5562ae16b02efa5&oe=59B0DE1F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18671080_10155251934103745_2561047099094690379_n.jpg?oh=8af7ae996319cb1dd44e29b82095f7fb&oe=59FFF81F
 beer-date: "2017-05-27"
 desc: "Definitely evokes memories of rocky road but the bitterness overpowers a lot of it"
 permalink: /beer/:title.html

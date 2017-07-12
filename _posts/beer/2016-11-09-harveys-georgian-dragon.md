@@ -9,7 +9,7 @@ brewery: "Harvey & Son (Harveys)"
 breweryURL: "/brewery/harvey-son-harveys.html"
 style: "English Bitter"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1531869_10152147736428745_246396192_n.jpg?oh=af1566b97a33515073407d3872ff6238&oe=59B05DD8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1531869_10152147736428745_246396192_n.jpg?oh=b7328474cfa82e7e64d346a6576245c2&oe=59FF77D8
 beer-date: "2013-12-23"
 desc: "A mild ruby ale with a slightly sweet taste"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Marks & Spencer"
 breweryURL: "/brewery/marks-spencer.html"
 style: "Golden Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/541370_10151563840993745_1315027570_n.jpg?oh=cfe7460dbfbda2bd6403df484a2531ad&oe=59AAAFB2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/541370_10151563840993745_1315027570_n.jpg?oh=f85c0129fe904f1b4eb21baed32bc70e&oe=59F9C9B2
 beer-date: "2013-03-09"
 desc: "Plain"
 permalink: /beer/:title.html

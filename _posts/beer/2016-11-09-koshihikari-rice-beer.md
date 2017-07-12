@@ -9,7 +9,7 @@ brewery: "Kankiku Meijyo Co."
 breweryURL: "/brewery/kankiku-meijyo-co.html"
 style: "Pale Ale - International"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11665487_10153438037018745_87412937068060294_n.jpg?oh=49b4f0ea2693f75a13eb8566f380824a&oe=59AD8B50
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11665487_10153438037018745_87412937068060294_n.jpg?oh=61daf4f39da85f503b5b16e0bbd2aa13&oe=59FCA550
 beer-date: "2015-07-10"
 desc: "Amazing how similar this is to a normal lager"
 permalink: /beer/:title.html

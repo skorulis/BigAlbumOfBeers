@@ -9,7 +9,7 @@ brewery: "The Little Brewing Company"
 breweryURL: "/brewery/the-little-brewing-company.html"
 style: "IPA - Belgian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11063592_10153438035963745_4745705285004081483_n.jpg?oh=3c67e0586ba68a6d18631486a2033ac9&oe=59E864E7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11063592_10153438035963745_4745705285004081483_n.jpg?oh=8fce5d00a9e92ad680136673b84ab648&oe=5A0FF1E7
 beer-date: "2015-07-10"
 desc: "Not much of an IPA but a nice Belgian tripel"
 permalink: /beer/:title.html

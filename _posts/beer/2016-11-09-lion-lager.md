@@ -9,7 +9,7 @@ brewery: "Lion Brewery Ceylon"
 breweryURL: "/brewery/lion-brewery-ceylon.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/75581_10151563946433745_1440605873_n.jpg?oh=ac083ebe159e364dd711835eec873b9f&oe=59B099FE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/75581_10151563946433745_1440605873_n.jpg?oh=07bededfd6f3e863edfab3730772f2b1&oe=59FFB3FE
 beer-date: "2013-03-09"
 desc: "Nothing special"
 permalink: /beer/:title.html

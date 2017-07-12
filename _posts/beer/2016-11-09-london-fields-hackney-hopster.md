@@ -9,7 +9,7 @@ brewery: "London Fields Brewery"
 breweryURL: "/brewery/london-fields-brewery.html"
 style: "Pale Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1480719_10152147735493745_924183769_n.jpg?oh=8338521573567a4107f1fecadca91cad&oe=59A6B1D1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1480719_10152147735493745_924183769_n.jpg?oh=c381a251f33a57ac70e8230ba066da25&oe=59CE3ED1
 beer-date: "2013-12-23"
 desc: "I should not have ordered this beer with only 15 minutes to drink it. Would be nice if I had more time to enjoy it"
 permalink: /beer/:title.html

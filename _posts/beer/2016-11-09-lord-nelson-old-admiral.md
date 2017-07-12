@@ -9,7 +9,7 @@ brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Strong Ale - English"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/575759_10151602281008745_1009725075_n.jpg?oh=9fb0c4055f32b4fbbe56957fa86ab38b&oe=59A6A982
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/575759_10151602281008745_1009725075_n.jpg?oh=517ea45bac6da2db1fde4554419c7449&oe=59CE3682
 beer-date: "2013-03-28"
 desc: "Too much bitterness"
 permalink: /beer/:title.html

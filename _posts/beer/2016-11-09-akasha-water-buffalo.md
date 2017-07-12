@@ -9,7 +9,7 @@ brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Brown Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13245472_10154147280238745_5349990342920915596_n.jpg?oh=7d2054eb458f8a4fe99ffdaaeef6b69e&oe=59A819FF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13245472_10154147280238745_5349990342920915596_n.jpg?oh=d5038ce66524d43a2f472e18f327b354&oe=59CFA6FF
 beer-date: "2016-05-24"
 desc: "Has a few flavours which are hard to pin down but it works well. Has a nice amount of sweetness"
 permalink: /beer/:title.html

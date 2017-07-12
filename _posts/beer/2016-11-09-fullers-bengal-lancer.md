@@ -9,7 +9,7 @@ brewery: "Fuller, Smith & Turner "
 breweryURL: "/brewery/fuller-smith-turner.html"
 style: "IPA - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1902717_10152293116728745_604384062_n.jpg?oh=77ad1f61518cfa25e9d6a35370eb9d4e&oe=59A59B65
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1902717_10152293116728745_604384062_n.jpg?oh=60e7dcbd4e30c22fcc441646059f588b&oe=59CD2865
 beer-date: "2014-03-01"
 desc: "A mild IPA"
 permalink: /beer/:title.html

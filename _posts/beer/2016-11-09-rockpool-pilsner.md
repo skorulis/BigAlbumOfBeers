@@ -9,7 +9,7 @@ brewery: "Rockpool"
 breweryURL: "/brewery/rockpool.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1936522_10153966655918745_1071656518415804472_n.jpg?oh=c4c239c700a427b43c12e356b6e2c02e&oe=59B12A10
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1936522_10153966655918745_1071656518415804472_n.jpg?oh=b971cc7fa073022a93b82679c6522c7e&oe=5A004410
 beer-date: "2016-03-16"
 desc: "Crisp but ultimately flavourless. Perhaps I've been having too many IPAs recently"
 permalink: /beer/:title.html

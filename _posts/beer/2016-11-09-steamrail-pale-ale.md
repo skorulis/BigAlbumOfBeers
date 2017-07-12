@@ -9,7 +9,7 @@ brewery: "Steamrail Brewing Company (Coles)"
 breweryURL: "/brewery/steamrail-brewing-company-coles.html"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10421490_10153268279843745_9177649199173204206_n.jpg?oh=3fd4a08c27b788e6dfb8e33a27d186e5&oe=59B8F312
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10421490_10153268279843745_9177649199173204206_n.jpg?oh=b1f0a5ee0c110b3ec3529eba9ee95b53&oe=5A080D12
 beer-date: "2015-05-01"
 desc: "A really mild pale ale but with a great smooth flavour"
 permalink: /beer/:title.html

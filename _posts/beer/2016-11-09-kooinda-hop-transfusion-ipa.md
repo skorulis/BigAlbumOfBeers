@@ -9,7 +9,7 @@ brewery: "Kooinda Brewing Company"
 breweryURL: "/brewery/kooinda-brewing-company.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11659318_10153438037553745_8784383877969678894_n.jpg?oh=0fdcf52296460f851fc6a27d369a80d6&oe=59A495EB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11659318_10153438037553745_8784383877969678894_n.jpg?oh=724d55c2717aa06915a9b1ef731aa632&oe=59CC22EB
 beer-date: "2015-07-10"
 desc: "A very well balanced and floral IPA"
 permalink: /beer/:title.html

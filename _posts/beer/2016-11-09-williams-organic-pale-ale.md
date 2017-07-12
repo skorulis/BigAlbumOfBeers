@@ -9,7 +9,7 @@ brewery: "William Bull Brewery"
 breweryURL: "/brewery/william-bull-brewery.html"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11234818_10153438036188745_6157946174058205755_n.jpg?oh=79fee03fea32075e428248ffe18531a2&oe=59BBE0A3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11234818_10153438036188745_6157946174058205755_n.jpg?oh=5c564986907b3792382f516217726ae9&oe=5A0AFAA3
 beer-date: "2015-07-10"
 desc: "A slightly bitter but well rounded pale ale"
 permalink: /beer/:title.html

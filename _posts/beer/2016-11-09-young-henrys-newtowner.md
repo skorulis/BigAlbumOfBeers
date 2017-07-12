@@ -9,7 +9,7 @@ brewery: "Young Henrys Brewing Company"
 breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12376181_10153811610908745_3920511327334452329_n.jpg?oh=8ac5f186645f34d313d0563e96e072e5&oe=59AA5583
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12376181_10153811610908745_3920511327334452329_n.jpg?oh=ca00e8fdde417a4814fc1f39ebd04282&oe=59F96F83
 beer-date: "2016-01-06"
 desc: "A fairly plain lager"
 permalink: /beer/:title.html

@@ -5,7 +5,7 @@ title: злашен даб
 category: beer
 country: "Macedonia"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/9699_10151602279038745_1469910721_n.jpg?oh=a5a7a6f962a0951a70b648d4a8770de4&oe=599F35C9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/9699_10151602279038745_1469910721_n.jpg?oh=f35418047997cf78241dcca474c28425&oe=59C6C2C9
 beer-date: "2013-03-28"
 desc: "An interesting flavour, but not one I really like"
 permalink: /beer/:title.html

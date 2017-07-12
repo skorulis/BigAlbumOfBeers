@@ -9,7 +9,7 @@ brewery: "Bierbrouwerij De Koningshoeven"
 breweryURL: "/brewery/bierbrouwerij-de-koningshoeven.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10491123_10153055791238745_951076558234575000_n.jpg?oh=6166ce0281048ecebfc92291167461d2&oe=59B4FEFF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10491123_10153055791238745_951076558234575000_n.jpg?oh=67a84cfc6d2bf9667ccbd68c680eb2f0&oe=5A0418FF
 beer-date: "2015-01-29"
 desc: "Not as good or as strong as the Quadrupel"
 permalink: /beer/:title.html

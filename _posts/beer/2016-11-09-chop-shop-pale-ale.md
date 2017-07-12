@@ -9,7 +9,7 @@ brewery: "Macarthur Grange Brewery"
 breweryURL: "/brewery/macarthur-grange-brewery.html"
 style: "Pale Ale - Australian"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13010770_10154072540533745_222338390337149891_n.jpg?oh=7854eba6a09a5e50b343cb6bb1f48fcc&oe=59AAAD6F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13010770_10154072540533745_222338390337149891_n.jpg?oh=ea5fd228f55a646ac7adab5275f0605a&oe=59F9C76F
 beer-date: "2016-04-21"
 desc: "Lacks on every side. No hops and way too bitter"
 permalink: /beer/:title.html

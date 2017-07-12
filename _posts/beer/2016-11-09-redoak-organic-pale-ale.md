@@ -9,7 +9,7 @@ brewery: "Redoak Boutique Beer Cafe"
 breweryURL: "/brewery/redoak-boutique-beer-cafe.html"
 style: "Pale Ale - English"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10349001_10153053839393745_466238167460813515_n.jpg?oh=7bbc6855fbea1fcff11fec853eb36682&oe=599FAF6C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10349001_10153053839393745_466238167460813515_n.jpg?oh=652d2f688eff057fc1ba4a82e6569c79&oe=59C73C6C
 beer-date: "2015-01-28"
 desc: "A tasty bev"
 permalink: /beer/:title.html

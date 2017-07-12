@@ -9,7 +9,7 @@ brewery: "Brouwerij Van Honsebrouck"
 breweryURL: "/brewery/brouwerij-van-honsebrouck.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13244_10152293087118745_389678283_n.jpg?oh=68ff36f4ace51dc1195a92a1a0bbab75&oe=59BDC810
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13244_10152293087118745_389678283_n.jpg?oh=ae1cc8f5746c77224990178cbd7ba192&oe=5A0CE210
 beer-date: "2014-03-01"
 desc: "A lager with a Belgian ale flavour. Very strange"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "BlackFont Brewhouse"
 breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "Strong Ale - English"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664338_10155251932568745_2526563411563422507_n.jpg?oh=037ebfc6719c1d48b65ca68a86e9909c&oe=59A8BFBA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664338_10155251932568745_2526563411563422507_n.jpg?oh=3c65e693f3d177ff98281570024aa26d&oe=59F7D9BA
 beer-date: "2017-05-27"
 desc: "Everything about this beer is amazing"
 permalink: /beer/:title.html

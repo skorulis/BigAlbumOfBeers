@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "/brewery/feral-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10470597_10152534300708745_7685915012921086968_n.jpg?oh=92b01c6ecb4e6f242f351bdd5feef95a&oe=599EAE8A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10470597_10152534300708745_7685915012921086968_n.jpg?oh=ec279b607a330cd5f2950a9d4fbbaecb&oe=59C63B8A
 beer-date: "2014-06-21"
 desc: "A nice pale ale"
 permalink: /beer/:title.html

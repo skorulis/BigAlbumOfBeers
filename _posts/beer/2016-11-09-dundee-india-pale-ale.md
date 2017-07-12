@@ -9,7 +9,7 @@ brewery: "Dundee Ales & Lagers"
 breweryURL: "/brewery/dundee-ales-lagers.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10342507_10152425240783745_250399849084331418_n.jpg?oh=c47f3696b80ed5cc80d9651e4f199b15&oe=59AF4A9A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10342507_10152425240783745_250399849084331418_n.jpg?oh=a16475e66d7c6752a5bcd96947b3ecfa&oe=59FE649A
 beer-date: "2014-05-03"
 desc: "Not a bad IPA"
 permalink: /beer/:title.html

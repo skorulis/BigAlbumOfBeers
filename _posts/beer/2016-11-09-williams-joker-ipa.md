@@ -9,7 +9,7 @@ brewery: "Williams Brothers Brewing Co."
 breweryURL: "/brewery/williams-brothers-brewing-co.html"
 style: "IPA - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/935627_10151694535958745_491079820_n.jpg?oh=db279d638c5e358469c63b5d85007c39&oe=59E615BA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/935627_10151694535958745_491079820_n.jpg?oh=c26d85b8d694cd9bd289d9d5df7e7522&oe=5A0DA2BA
 beer-date: "2013-05-25"
 desc: "Surprisingly good"
 permalink: /beer/:title.html

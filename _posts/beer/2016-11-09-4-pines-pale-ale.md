@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11017023_10153118792808745_2253924034975828582_n.jpg?oh=4960bda714cfb4a7e09d4d370affd40c&oe=59A8EBC8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11017023_10153118792808745_2253924034975828582_n.jpg?oh=f8c7ad1420faa33c9c40aa07ff821771&oe=59F805C8
 beer-date: "2015-02-27"
 desc: "A well balanced pale ale"
 permalink: /beer/:title.html

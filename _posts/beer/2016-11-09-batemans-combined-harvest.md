@@ -9,7 +9,7 @@ brewery: "Batemans"
 breweryURL: "/brewery/batemans.html"
 style: "Pale Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1383443_10152001624583745_873432820_n.jpg?oh=59787ab95eb4729548fce06cbdf574cb&oe=599CD152
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1383443_10152001624583745_873432820_n.jpg?oh=547edec677e2180b66dc8ecef43a2279&oe=59C45E52
 beer-date: "2013-10-25"
 desc: "I'm amazed that this doesn't taste like an absolute mess"
 permalink: /beer/:title.html

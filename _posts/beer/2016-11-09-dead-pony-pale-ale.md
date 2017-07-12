@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11666224_10153438038048745_8968016209259531630_n.jpg?oh=cffa9db8b13e6aae5d7252971c96a60c&oe=59A77942
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11666224_10153438038048745_8968016209259531630_n.jpg?oh=205d43dbe33a0b860ce8440abf815002&oe=59CF0642
 beer-date: "2015-07-10"
 desc: "Really mild for a pale ale but also really mild on alcohol as well. Guess it would be good if you’re just getting into beer"
 permalink: /beer/:title.html

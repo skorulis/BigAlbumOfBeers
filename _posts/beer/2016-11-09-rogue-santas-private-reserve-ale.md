@@ -9,7 +9,7 @@ brewery: "Rogue Ales & Spirits"
 breweryURL: "/brewery/rogue-ales-spirits.html"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149464_10153268295053745_1257589284621380857_n.jpg?oh=e1df155ea372de511b61be666d5dd475&oe=59B7859E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11149464_10153268295053745_1257589284621380857_n.jpg?oh=fcf6a1b99c958f3f7e3ae333ffd74d46&oe=5A069F9E
 beer-date: "2015-05-01"
 desc: "A hearty beverage"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Young Henrys Brewing Company"
 breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "Pumpkin / Yam Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195083_10154858224328745_8673167250319784372_n.jpg?oh=d58235e7152170bc1318a6095f7bb967&oe=59A8323E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195083_10154858224328745_8673167250319784372_n.jpg?oh=992b6c2f68324c511f757e7b06621b8b&oe=59CFBF3E
 beer-date: "2017-01-21"
 desc: "Has the pumpkin spice taste but the aftertaste has something confusing that slightly ruins it"
 permalink: /beer/:title.html

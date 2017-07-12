@@ -9,7 +9,7 @@ brewery: "Ballast Point Brewing & Spirits"
 breweryURL: "/brewery/ballast-point-brewing-spirits.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10389593_10153118668748745_5666950047802645873_n.jpg?oh=6de7e8a52d5fc9fd147d783897ed773b&oe=59A5DF63
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10389593_10153118668748745_5666950047802645873_n.jpg?oh=466e017129720f139cd5d9d3a20a4dd4&oe=59CD6C63
 beer-date: "2015-02-27"
 desc: "A nice tasty IPA. I like the lack of a bitter aftertaste"
 permalink: /beer/:title.html

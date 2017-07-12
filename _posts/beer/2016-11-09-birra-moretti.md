@@ -9,7 +9,7 @@ brewery: "Birra Moretti"
 breweryURL: "/brewery/birra-moretti.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1187105_10151860442623745_1479905492_n.jpg?oh=78debcc1de17eab1ddabc77e2e9da766&oe=59AE28DB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1187105_10151860442623745_1479905492_n.jpg?oh=bf2c05fa817568b9f462bd7058e81e8d&oe=59FD42DB
 beer-date: "2013-08-18"
 desc: "Nice and tasty"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Celt Brewing"
 breweryURL: "/brewery/celt-brewing.html"
 style: "Golden Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10947196_10153055749403745_4812053214327954894_n.jpg?oh=8d7195a159d2913dfee1d43903453fad&oe=59BE1419
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10947196_10153055749403745_4812053214327954894_n.jpg?oh=0b8d823d6a24572cdfb17719d7283b78&oe=5A0D2E19
 beer-date: "2015-01-29"
 desc: "Not really much of an experience"
 permalink: /beer/:title.html

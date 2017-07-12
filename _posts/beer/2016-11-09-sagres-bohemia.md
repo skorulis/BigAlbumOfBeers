@@ -9,7 +9,7 @@ brewery: "Sociedade Central de Cervejas e Bebidas SA"
 breweryURL: "/brewery/sociedade-central-de-cervejas-e-bebidas-sa.html"
 style: "Lager - Dunkel Munich"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/261740_10151694537308745_1696408161_n.jpg?oh=af0c124d4ce741d708b6076c6f0e73cb&oe=59B87A75
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/261740_10151694537308745_1696408161_n.jpg?oh=02d4611cdfd69284726a8bf3782075a1&oe=5A079475
 beer-date: "2013-05-25"
 desc: "Easy drinking for the strength"
 permalink: /beer/:title.html

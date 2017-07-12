@@ -9,7 +9,7 @@ brewery: "Matso's Broome Brewery"
 breweryURL: "/brewery/matsos-broome-brewery.html"
 style: "Lager - Dunkel Munich"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1601397_10153053840403745_751081432725627058_n.jpg?oh=232a8a273507daa05100fb198b57bc09&oe=59ABE44F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1601397_10153053840403745_751081432725627058_n.jpg?oh=140b4f5968a4b92c8058d300ab0ba8c6&oe=59FAFE4F
 beer-date: "2015-01-28"
 desc: "Not one to rush, not too smokey either"
 permalink: /beer/:title.html

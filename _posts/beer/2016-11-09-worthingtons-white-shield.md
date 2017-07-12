@@ -9,7 +9,7 @@ brewery: "Worthington's"
 breweryURL: "/brewery/worthingtons.html"
 style: "IPA - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/380993_10151563843448745_1342021225_n.jpg?oh=c49532ce8b86de8e2b175bad97924098&oe=59B94809
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/380993_10151563843448745_1342021225_n.jpg?oh=76d45da8556ab037f4c7aec218358009&oe=5A086209
 beer-date: "2013-03-09"
 desc: "Flavoursome"
 permalink: /beer/:title.html

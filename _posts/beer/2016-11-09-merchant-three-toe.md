@@ -9,7 +9,7 @@ brewery: "Merchant Brewing Co."
 breweryURL: "/brewery/merchant-brewing-co.html"
 style: "Pale Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12523010_10153811618698745_8674316170585442130_n.jpg?oh=9fec1fecbf28a26cc17530f49620c390&oe=59AED2FA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12523010_10153811618698745_8674316170585442130_n.jpg?oh=646e11a3252a7100563948e9bb207077&oe=59FDECFA
 beer-date: "2016-01-07"
 desc: "Has some sort of wrong tinge to it and nothing to redeem that"
 permalink: /beer/:title.html

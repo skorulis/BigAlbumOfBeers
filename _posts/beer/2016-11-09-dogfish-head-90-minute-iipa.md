@@ -9,7 +9,7 @@ brewery: "Dogfish Head Craft Brewery"
 breweryURL: "/brewery/dogfish-head-craft-brewery.html"
 style: "IPA - Imperial / Double"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1010314_10153966653958745_5103605884788995211_n.jpg?oh=36c1fe232f24c98ce803781350847686&oe=59AEE117
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1010314_10153966653958745_5103605884788995211_n.jpg?oh=4e78e2b3dbdcd7b32f63c3737ede9d78&oe=59FDFB17
 beer-date: "2016-03-16"
 desc: "Really nice flavour. Solid beer all the way"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Panhead Custom Ales"
 breweryURL: "/brewery/panhead-custom-ales.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17127_10153225353823745_2917311890568592350_n.jpg?oh=b8a812957057ec55594c758a71de19e6&oe=59BDFA9B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17127_10153225353823745_2917311890568592350_n.jpg?oh=75ee902fe2726d0e717ed52f41bd47c8&oe=5A0D149B
 beer-date: "2015-04-13"
 desc: "A little bit metallic. Not my favourite"
 permalink: /beer/:title.html

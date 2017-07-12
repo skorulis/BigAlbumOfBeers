@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Golden Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/488220_10151602285323745_1585387237_n.jpg?oh=ffd91915c284cd6b09e2e621a8d74779&oe=59A89023
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/488220_10151602285323745_1585387237_n.jpg?oh=aa91f93b82b9f8d997f00b9dde2cd2e7&oe=59D01D23
 beer-date: "2013-03-28"
 desc: ""
 permalink: /beer/:title.html

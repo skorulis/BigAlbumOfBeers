@@ -9,7 +9,7 @@ brewery: "Shepherd Neame"
 breweryURL: "/brewery/shepherd-neame.html"
 style: "English Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/389000_10151649175308745_1470630421_n.jpg?oh=14b0d2c9f268c3ed26b5753e30db0dad&oe=59E6E615
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/389000_10151649175308745_1470630421_n.jpg?oh=671b9027ab5448a6ebe7582889106faf&oe=5A0E7315
 beer-date: "2013-04-27"
 desc: "Not too hard to drink"
 permalink: /beer/:title.html

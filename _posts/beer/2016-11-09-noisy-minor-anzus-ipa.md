@@ -9,7 +9,7 @@ brewery: "Fortitude Brewing Company"
 breweryURL: "/brewery/fortitude-brewing-company.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12088432_10153656866828745_7848120632268756477_n.jpg?oh=03081dd566f0d81428d1bfcc81919c24&oe=599DBEB6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12088432_10153656866828745_7848120632268756477_n.jpg?oh=279a960c20b7e228627c9c856fbcbe24&oe=59C54BB6
 beer-date: "2015-10-17"
 desc: "A bit of a let down, just too bitter"
 permalink: /beer/:title.html

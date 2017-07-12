@@ -9,7 +9,7 @@ brewery: "O'Hara's Brewery (Carlow Brewing Company)"
 breweryURL: "/brewery/oharas-brewery-carlow-brewing-company.html"
 style: "IPA - International"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1233480_10151888666808745_111746617_n.jpg?oh=9f7cbeec022270712250cd7ea1dc7104&oe=599DCCFC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1233480_10151888666808745_111746617_n.jpg?oh=ec23fd698e0fe04983155f0ac0ff7d1b&oe=59C559FC
 beer-date: "2013-09-01"
 desc: "Kind of a mix between an IPA and a pale ale"
 permalink: /beer/:title.html

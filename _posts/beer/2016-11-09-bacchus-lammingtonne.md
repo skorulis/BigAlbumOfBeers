@@ -9,7 +9,7 @@ brewery: "Bacchus Brewing Co."
 breweryURL: "/brewery/bacchus-brewing-co.html"
 style: "Dark Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18670788_10155251934783745_6372469218024421431_n.jpg?oh=366e79b9ff49d9b8b4bb7f14fc297c3e&oe=59E9BAE7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18670788_10155251934783745_6372469218024421431_n.jpg?oh=eeb902c446fae96dae6440605b5a267d&oe=5A1147E7
 beer-date: "2017-05-27"
 desc: "You really get lamington as you swallow just without the sweetness. Powerful but easy drinking. Could have been a bit creamier"
 permalink: /beer/:title.html

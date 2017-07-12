@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/482193_10151602292048745_375392297_n.jpg?oh=5c056f20050c7c558a4f7dc416f1fde2&oe=59A3A2F4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/482193_10151602292048745_375392297_n.jpg?oh=bb83ae1f7e54c7b79e0faef747c26e4f&oe=59CB2FF4
 beer-date: "2013-03-28"
 desc: "A good session beer"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Kooksoondang"
 breweryURL: "/brewery/kooksoondang.html"
 style: "Specialty Grain"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12109080_10153656865268745_8515065510187069262_n.jpg?oh=4c56361ed2c120bcf7c8063bff336939&oe=59B061AF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12109080_10153656865268745_8515065510187069262_n.jpg?oh=071eea6eaaace54c70de34ca755ccfd2&oe=59FF7BAF
 beer-date: "2015-10-17"
 desc: "Not sure how this qualifies as a beer but it's pretty nice regardless"
 permalink: /beer/:title.html

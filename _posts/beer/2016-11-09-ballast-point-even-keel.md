@@ -9,7 +9,7 @@ brewery: "Ballast Point Brewing & Spirits"
 breweryURL: "/brewery/ballast-point-brewing-spirits.html"
 style: "IPA - Session / India Session Ale"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17457700_10155045840283745_3973573560619807500_n.jpg?oh=0435c0d1f74857048b1d34774ed8ca56&oe=59A9C96A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17457700_10155045840283745_3973573560619807500_n.jpg?oh=585744a698ac9ab0b9602aa66beef0cf&oe=59F8E36A
 beer-date: "2017-03-22"
 desc: "A lot of flavour for a small beer. Tastes very much like a west coast IPA. My main complaint is that while the bitterness and hops are there the mouthfeel is a bit watery so it doesn’t have the a nice smoothness. Worth a try but I wouldn’t be looking for another"
 permalink: /beer/:title.html

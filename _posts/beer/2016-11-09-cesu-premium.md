@@ -9,7 +9,7 @@ brewery: "Cēsu Alus"
 breweryURL: "/brewery/cesu-alus.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1174664_10151888665988745_1905015784_n.jpg?oh=f8fbbd826aba2f09402f5ddcb5791ea8&oe=59A73302
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1174664_10151888665988745_1905015784_n.jpg?oh=ef17dc761d9ce67ec585c07044544e11&oe=59CEC002
 beer-date: "2013-09-01"
 desc: "A bit wrong"
 permalink: /beer/:title.html

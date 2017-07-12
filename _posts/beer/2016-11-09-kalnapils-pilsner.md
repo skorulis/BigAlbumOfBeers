@@ -9,7 +9,7 @@ brewery: "Kalnapilio-Tauro Grupe UAB "
 breweryURL: "/brewery/kalnapilio-tauro-grupe-uab.html"
 style: "Pilsner - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16832141_10154957442788745_3545538669009431997_n.jpg?oh=85fd69f4c96bc0447fc793507ce1cfc6&oe=59B1C0FC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16832141_10154957442788745_3545538669009431997_n.jpg?oh=aeed60adaa0eae5c17ad7aa3c41d2517&oe=5A00DAFC
 beer-date: "2017-02-22"
 desc: "I'm hungover and right now this is a massive help. Super easy drinking and right on point for a pilsner"
 permalink: /beer/:title.html

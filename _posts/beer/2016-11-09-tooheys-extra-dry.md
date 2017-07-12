@@ -9,7 +9,7 @@ brewery: "Tooheys Brewing"
 breweryURL: "/brewery/tooheys-brewing.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/543796_10151461681748745_852056112_n.jpg?oh=e7faff5719b6fb2efd227b8fc5e095ae&oe=59B4FDA0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/543796_10151461681748745_852056112_n.jpg?oh=e9345cbdf06586fe519ebbfb7b9bf71e&oe=5A0417A0
 beer-date: "2013-02-01"
 desc: ""
 permalink: /beer/:title.html

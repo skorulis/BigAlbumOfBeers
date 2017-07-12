@@ -9,7 +9,7 @@ brewery: "Mad River Brewing Company"
 breweryURL: "/brewery/mad-river-brewing-company.html"
 style: "Red Ale - American Amber / Red"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11403190_10153438037108745_3712451184954693803_n.jpg?oh=a676de133da23a692c7162ca01553c77&oe=59A32BB5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11403190_10153438037108745_3712451184954693803_n.jpg?oh=3755ec6025f460ef7a7639520769c83f&oe=59CAB8B5
 beer-date: "2015-07-10"
 desc: "A bit harsh for me"
 permalink: /beer/:title.html

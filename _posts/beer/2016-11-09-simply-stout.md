@@ -9,7 +9,7 @@ brewery: "Tesco Stores Ltd."
 breweryURL: "/brewery/tesco-stores-ltd.html"
 style: "Stout - Other"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/l/t1.0-0/p480x480/16733_10151396304708745_66219487_n.jpg?oh=ef4be9dc9337a16049ea6faad352fa50&oe=59E8AAA5
+img: https://scontent.xx.fbcdn.net/v/l/t1.0-0/p480x480/16733_10151396304708745_66219487_n.jpg?oh=a6db3a72e2d4a7190e232327610efc7b&oe=5A1037A5
 beer-date: "2012-12-25"
 desc: "Very smooth and mild with a hint of chocolate"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Bridge Road Brewers"
 breweryURL: "/brewery/bridge-road-brewers.html"
 style: "IPA - Imperial / Double"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10806453_10153055749418745_7326451586089018048_n.jpg?oh=dfcfc365883c674169fda57b3f76a49a&oe=59B7F671
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10806453_10153055749418745_7326451586089018048_n.jpg?oh=ba4f3648924ff68358bc27847db21775&oe=5A071071
 beer-date: "2015-01-29"
 desc: "Lots of flavour, couldn’t have many"
 permalink: /beer/:title.html

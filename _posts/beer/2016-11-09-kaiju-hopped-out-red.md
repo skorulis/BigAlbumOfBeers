@@ -9,7 +9,7 @@ brewery: "KAIJU! Beer"
 breweryURL: "/brewery/kaiju-beer.html"
 style: "Red Ale - American Amber / Red"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17424943_10155045838858745_2291976217252352890_n.jpg?oh=33c58ed22e74a503cb7cb78babec55e8&oe=59A0E100
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17424943_10155045838858745_2291976217252352890_n.jpg?oh=cc34c7771b649930b3813c26bc58e484&oe=59C86E00
 beer-date: "2017-03-22"
 desc: "Has a really deep flavour. The earthy hops are there but they don’t take away from this being a red ale. Overall it’s really well balanced and easy drinking"
 permalink: /beer/:title.html

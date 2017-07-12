@@ -9,7 +9,7 @@ brewery: "King Beer"
 breweryURL: "/brewery/king-beer.html"
 style: "English Bitter"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1520804_10152147735848745_1884810076_n.jpg?oh=89c74c3f2af8ee11bece0e2a2a3badc1&oe=59AD0DF4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1520804_10152147735848745_1884810076_n.jpg?oh=efe31c994df1ea2d954da454c7f881a8&oe=59FC27F4
 beer-date: "2013-12-23"
 desc: "Plain lager. Easy drinking"
 permalink: /beer/:title.html

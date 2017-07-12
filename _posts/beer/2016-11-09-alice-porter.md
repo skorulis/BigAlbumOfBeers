@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "Porter - Baltic"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1227_10153811611783745_4791320626770283018_n.jpg?oh=c24e38181428c5a8352a026e63d2d56a&oe=599D3AD0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1227_10153811611783745_4791320626770283018_n.jpg?oh=f8727f4b049ba1657a4cb1ac6702144d&oe=59C4C7D0
 beer-date: "2016-01-06"
 desc: "A fairly nice porter, but nothing great"
 permalink: /beer/:title.html

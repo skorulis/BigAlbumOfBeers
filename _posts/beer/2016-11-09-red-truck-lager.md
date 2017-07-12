@@ -9,7 +9,7 @@ brewery: "True South"
 breweryURL: "/brewery/true-south.html"
 style: "Märzen"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/480840_10151602285148745_827571703_n.jpg?oh=e8c06abc6f1beb5d831c8e24f6f08a69&oe=59A99026
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/480840_10151602285148745_827571703_n.jpg?oh=4651b078c35381d72c58479c7c47319e&oe=59F8AA26
 beer-date: "2013-03-28"
 desc: ""
 permalink: /beer/:title.html

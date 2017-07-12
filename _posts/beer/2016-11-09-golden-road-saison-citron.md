@@ -9,7 +9,7 @@ brewery: "Golden Road Brewing"
 breweryURL: "/brewery/golden-road-brewing.html"
 style: "Saison / Farmhouse Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16864833_10154957442538745_1446936801168710933_n.jpg?oh=8de05f6a51342e31228873a78eeaf6b8&oe=599BD248
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16864833_10154957442538745_1446936801168710933_n.jpg?oh=c9318d87e72db679f9a8e5eab2ec231b&oe=59C35F48
 beer-date: "2017-02-22"
 desc: "A little bit too heavy on the farmhouse sharpness for me"
 permalink: /beer/:title.html

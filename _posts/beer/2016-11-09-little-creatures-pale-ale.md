@@ -9,7 +9,7 @@ brewery: "Little Creatures Brewing"
 breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Pale Ale - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/543882_10151461681178745_1285845134_n.jpg?oh=81d99fe13e289951a95f9578b2c47115&oe=59A6FAE5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/543882_10151461681178745_1285845134_n.jpg?oh=784e8db0134e40664d4a49318a719a23&oe=59CE87E5
 beer-date: "2013-02-01"
 desc: ""
 permalink: /beer/:title.html

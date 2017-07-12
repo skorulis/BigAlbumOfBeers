@@ -9,7 +9,7 @@ brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
 breweryURL: "/brewery/cerveceria-mexicana-s-de-r-l-de-c-v-tecate.html"
 style: "Porter - Other"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16807302_10154957443073745_1792610261585673099_n.jpg?oh=a65752f97f4b4c840a6f3d53c323f9fd&oe=59E95D06
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16807302_10154957443073745_1792610261585673099_n.jpg?oh=ad3efd131d2f1e20d78e7aa4c06308e4&oe=5A10EA06
 beer-date: "2017-02-22"
 desc: "A sweet smell with a mild stoutiness. Not super exciting but on point for what is and easy to drink"
 permalink: /beer/:title.html

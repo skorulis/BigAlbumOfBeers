@@ -9,7 +9,7 @@ brewery: "John Smith's"
 breweryURL: "/brewery/john-smiths.html"
 style: "English Bitter"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/598767_10151461673913745_877248330_n.jpg?oh=7d2e2411d7564b031a4e0d053790628d&oe=599FB664
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/598767_10151461673913745_877248330_n.jpg?oh=ceeced3dcd9e1698b0608d89ef908a10&oe=59C74364
 beer-date: "2013-02-01"
 desc: "What it lacks in alcohol it makes up in foulness"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "J. Boag & Son Brewing"
 breweryURL: "/brewery/j-boag-son-brewing.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/734606_10151461683093745_1782530484_n.jpg?oh=e32ee51a64372b36dd6f7ebdd7b4dc6a&oe=59A72433
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/734606_10151461683093745_1782530484_n.jpg?oh=869fc4378472293118099df34db99dd7&oe=59CEB133
 beer-date: "2013-02-01"
 desc: ""
 permalink: /beer/:title.html

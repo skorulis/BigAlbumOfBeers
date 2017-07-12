@@ -9,7 +9,7 @@ brewery: "Liberty Brewing"
 breweryURL: "/brewery/liberty-brewing.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17458285_10155045842483745_3387093122722881926_n.jpg?oh=d53dec330bfdebc8ef920708a3fa76c5&oe=59A4F103
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17458285_10155045842483745_3387093122722881926_n.jpg?oh=5e4f7a4137d8cf25ccdce853509fd08c&oe=59CC7E03
 beer-date: "2017-03-22"
 desc: "Resiny and citrus hops. It could almost be an IPA given the ABV and amount of hops. Fairly well rounded overall and the more I drink the more I wish I had another one"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Murray's Craft Brewing Co"
 breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "Pilsner - German"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1506399_10152327616573745_36221798_n.jpg?oh=1523b97b67645ab1754b23b7e2950f52&oe=59A808B5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1506399_10152327616573745_36221798_n.jpg?oh=5088de97ee6c8a2d3917a3f18be3cb64&oe=59CF95B5
 beer-date: "2014-03-18"
 desc: "Not quite sure what this beer is going for"
 permalink: /beer/:title.html

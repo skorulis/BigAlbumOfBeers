@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "Stout - Russian Imperial"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1236502_10151929072183745_392721452_n.jpg?oh=b26f3305367507fa585bdff94fbe83b3&oe=59A0A963
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1236502_10151929072183745_392721452_n.jpg?oh=da72231e48bdec337220a6f2364ba513&oe=59C83663
 beer-date: "2013-09-19"
 desc: "This beer won't stop punching me in the face"
 permalink: /beer/:title.html

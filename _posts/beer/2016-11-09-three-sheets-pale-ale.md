@@ -9,7 +9,7 @@ brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Pale Ale - Australian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/431581_10151563947388745_1746265085_n.jpg?oh=024661e3da7045d37312770d5697f607&oe=59A24E60
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/431581_10151563947388745_1746265085_n.jpg?oh=78744a19f847ca50bc6112684747efb6&oe=59C9DB60
 beer-date: "2013-03-09"
 desc: "A proper pale ale"
 permalink: /beer/:title.html
