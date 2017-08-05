@@ -3,6 +3,7 @@ require 'net/http'
 require 'httpclient'
 
 ACCESS_TOKEN = ARGV[0]
+SECRET = ARGV[1]
 
 maxId = 100000
 total = 0
@@ -14,7 +15,10 @@ while total < 20 do
 		puts "skip " + id.to_s
 	else
 		puts "fetch " + id.to_s
-		url = "https://api.untappd.com/v4/beer/info/" + id.to_s + "?access_token=" + ACCESS_TOKEN
+		url = "https://api.untappd.com/v4/beer/info/" + id.to_s + "?client_id=" + ACCESS_TOKEN + "&client_secret=" + SECRET
+
+		puts url
+
 		clnt = HTTPClient.new;
 		data = clnt.get_content(url)
 		result = JSON.parse(data)

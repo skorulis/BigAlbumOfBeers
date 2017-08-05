@@ -5,7 +5,13 @@ require 'httpclient'
 require 'launchy'
 require 'slugify'
 
-ACCESS_TOKEN = "504CD86D79F7BC336C7A36EC0A97655DCF872857"
+ACCESS_TOKEN = ARGV[0]
+SECRET = ARGV[1]
+
+if ACCESS_TOKEN == nil || SECRET == nil
+	puts "Usage: ruby buildExtra.rb UNTAPPED_ID UNTAPPED_SECRET"
+	exit
+end
 
 file = File.read('js/raw.json')
 allBeers = JSON.parse(file)
@@ -39,7 +45,7 @@ extraData.each do |item|
 
 
 	if hash["id"].length > 0 && (hash["style"] == nil || hash["count"] == nil)
-		url = "https://api.untappd.com/v4/beer/info/" + hash["id"] + "?access_token=" + ACCESS_TOKEN
+		url = "https://api.untappd.com/v4/beer/info/" + hash["id"] + "?client_id=" + ACCESS_TOKEN + "&client_secret=" + SECRET
 		clnt = HTTPClient.new;
 		data = clnt.get_content(url)
 		result = JSON.parse(data)
