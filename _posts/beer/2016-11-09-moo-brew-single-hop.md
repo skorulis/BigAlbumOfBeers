@@ -9,7 +9,7 @@ brewery: "Moo Brew"
 breweryURL: "/brewery/moo-brew.html"
 style: "Pale Ale - Australian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13226775_10154147278083745_8353755751636156502_n.jpg?oh=f3dc575d58a7f009cc6a26177b6a1e96&oe=5A0F19D6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13226775_10154147278083745_8353755751636156502_n.jpg?oh=236646710c7c5549a309bf7c137d6848&oe=5A36A6D6
 beer-date: "2016-05-24"
 desc: "A little bit lacking on the hop side but well rounded. Kind of want to know what hop and malt they use"
 permalink: /beer/:title.html

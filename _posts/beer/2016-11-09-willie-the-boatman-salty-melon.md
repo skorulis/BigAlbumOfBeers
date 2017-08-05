@@ -9,7 +9,7 @@ brewery: "Willie The Boatman"
 breweryURL: "/brewery/willie-the-boatman.html"
 style: "Sour - Gose"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098610_10154984571673745_3660553220000798618_n.jpg?oh=24a6b5f4472cb7ef589172dbb5d5c530&oe=59CC8A36
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098610_10154984571673745_3660553220000798618_n.jpg?oh=28c93d22030782fae96a80e4e2c9b889&oe=59F41736
 beer-date: "2017-03-03"
 desc: "Once you get past the salt there's a touch of melon. The only issue is the more you drink the thirstier your get. But it delivers everything it promises"
 permalink: /beer/:title.html

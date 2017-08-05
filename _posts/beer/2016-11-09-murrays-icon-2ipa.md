@@ -9,7 +9,7 @@ brewery: "Murray's Craft Brewing Co"
 breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "IPA - Imperial / Double"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/524217_10151602298053745_1174689076_n.jpg?oh=2b03ccb278f579f0fad1d8115d7af7bf&oe=5A0DD81B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/524217_10151602298053745_1174689076_n.jpg?oh=340778c60edb9a0f87d4928a2bdddf9d&oe=5A35651B
 beer-date: "2013-03-28"
 desc: "Too much IPA flavour"
 permalink: /beer/:title.html

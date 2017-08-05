@@ -9,7 +9,7 @@ brewery: "Sierra Nevada Brewing Co."
 breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "Sour - Gose"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13435367_10154200938253745_7818346019313072630_n.jpg?oh=f01ad04f9b067a48fc2aa622841f3b84&oe=59D03CE3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13435367_10154200938253745_7818346019313072630_n.jpg?oh=4fa9c98a43d6e6539e4e4ebd38db95b6&oe=59F7C9E3
 beer-date: "2016-06-16"
 desc: "Smells strange bad but tastes completely different. Having trouble describing exactly what I’m getting here, kind of like watermelon. Perhaps too many things going on all at once. I wouldn’t want many but it’s worth the experience"
 permalink: /beer/:title.html

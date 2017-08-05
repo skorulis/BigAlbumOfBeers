@@ -9,7 +9,7 @@ brewery: "Beer Here"
 breweryURL: "/brewery/beer-here.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/600415_10153966651858745_4717804169564084978_n.jpg?oh=310b709d5aef8244466cada71e943530&oe=5A0B0198
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/600415_10153966651858745_4717804169564084978_n.jpg?oh=774374091174c2ca2e16218bc408f8a2&oe=5A328E98
 beer-date: "2016-03-16"
 desc: "Fantastically flavoured pale ale. Still mild though"
 permalink: /beer/:title.html

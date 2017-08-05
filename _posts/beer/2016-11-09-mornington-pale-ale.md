@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Pale Ale - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11188184_10153268279118745_1035950770576096625_n.jpg?oh=6db527edf3769815246350b7b60433f2&oe=59CEDB91
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11188184_10153268279118745_1035950770576096625_n.jpg?oh=48d656c40ca2f32c9a4d079fd4835535&oe=59F66891
 beer-date: "2015-05-01"
 desc: "One of the best all round beers I’ve tasted"
 permalink: /beer/:title.html

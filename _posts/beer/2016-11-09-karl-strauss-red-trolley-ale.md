@@ -9,7 +9,7 @@ brewery: "Karl Strauss Brewing Company"
 breweryURL: "/brewery/karl-strauss-brewing-company.html"
 style: "Red Ale - Irish"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11035307_10153118666928745_8142017152048186664_n.jpg?oh=da1f7f099e059be04b51dd7dbbf6aba9&oe=59CDA3E3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11035307_10153118666928745_8142017152048186664_n.jpg?oh=3dae39049320cd488d3a9665cfd4712c&oe=59F530E3
 beer-date: "2015-02-27"
 desc: "Not really my kind of beer"
 permalink: /beer/:title.html

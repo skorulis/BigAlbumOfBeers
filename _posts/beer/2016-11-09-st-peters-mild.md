@@ -9,7 +9,7 @@ brewery: "St. Peter’s Brewery Co."
 breweryURL: "/brewery/st-peters-brewery-co.html"
 style: "English Mild Ale"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185966_10151929070968745_2126426266_n.jpg?oh=98794662ac560901419b51de0d55e56c&oe=5A11861D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185966_10151929070968745_2126426266_n.jpg?oh=e5a9c130f48714d897258dc87d63f57d&oe=5A39131D
 beer-date: "2013-09-19"
 desc: "This company seems incapable of making a good beer"
 permalink: /beer/:title.html

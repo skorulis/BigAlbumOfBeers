@@ -9,7 +9,7 @@ brewery: "Brewery John Martin & Brewery Timmermans"
 breweryURL: "/brewery/brewery-john-martin-brewery-timmermans.html"
 style: "Lambic - Fruit"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/71413_10151649176248745_1243782720_n.jpg?oh=a94dc8468facafad1ed6677f580883a1&oe=5A0C69AA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/71413_10151649176248745_1243782720_n.jpg?oh=38fd6c0dce3214ad8b5114346dbf1762&oe=5A33F6AA
 beer-date: "2013-04-27"
 desc: "Tastes just like peach, not beer"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "The Little Brewing Company"
 breweryURL: "/brewery/the-little-brewing-company.html"
 style: "Porter - English"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10488349_10152534301008745_8348994823778686167_n.jpg?oh=4262e5b2d3b9bb2b32ad200ff471d461&oe=59CE14BE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10488349_10152534301008745_8348994823778686167_n.jpg?oh=6ecbfc5dbe6cfdd8e522b5d3cfbc2ebf&oe=59F5A1BE
 beer-date: "2014-06-21"
 desc: "A little bit harsh for me"
 permalink: /beer/:title.html

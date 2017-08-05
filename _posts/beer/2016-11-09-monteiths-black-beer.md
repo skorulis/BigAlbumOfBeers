@@ -9,7 +9,7 @@ brewery: "Monteith's Brewing Co. "
 breweryURL: "/brewery/monteiths-brewing-co.html"
 style: "Lager - Dark"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1979678_10153053851808745_6926811721676931401_n.jpg?oh=984ecdf0c831d8ae8fbbecd5345d1333&oe=5A0253B8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1979678_10153053851808745_6926811721676931401_n.jpg?oh=261d03bfbeedd5967512ef2a2ee64a90&oe=5A29E0B8
 beer-date: "2015-01-28"
 desc: "Just a bad tasting beer"
 permalink: /beer/:title.html

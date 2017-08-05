@@ -9,7 +9,7 @@ brewery: "Greene King"
 breweryURL: "/brewery/greene-king.html"
 style: "English Bitter"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/407150_10151649177363745_297706272_n.jpg?oh=b4d1c881c8fa5bc750acb1b173f5ed88&oe=5A0D20FE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/407150_10151649177363745_297706272_n.jpg?oh=fb977678e673ef3b614f4e4ca1375b24&oe=5A34ADFE
 beer-date: "2013-04-27"
 desc: "An easy drinking ale"
 permalink: /beer/:title.html

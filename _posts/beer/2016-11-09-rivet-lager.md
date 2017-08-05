@@ -9,7 +9,7 @@ brewery: "Rivet"
 breweryURL: "/brewery/rivet.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1654215_10152293132398745_1156319319_n.jpg?oh=c1233202c7beee8b837dd180faf452c8&oe=59C7B3D8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1654215_10152293132398745_1156319319_n.jpg?oh=cdfb116670cbfa9bc5626a6361fb20f8&oe=59EF40D8
 beer-date: "2014-03-01"
 desc: "Cheap Aldi lager"
 permalink: /beer/:title.html

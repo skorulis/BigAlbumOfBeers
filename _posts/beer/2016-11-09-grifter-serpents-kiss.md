@@ -9,7 +9,7 @@ brewery: "Grifter Brewing Company"
 breweryURL: "/brewery/grifter-brewing-company.html"
 style: "Pilsner - Other"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13256027_10154147277688745_7034538653078229756_n.jpg?oh=35da6734532d2b890f8125e8a784a991&oe=59CA1D78
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13256027_10154147277688745_7034538653078229756_n.jpg?oh=eb63e0f4bdbdb112f90a8490c7266dbd&oe=59F1AA78
 beer-date: "2016-05-24"
 desc: "The slight watermelon taste makes it hard to enjoy the beer. You get used to it but there's not a lot of reason to"
 permalink: /beer/:title.html

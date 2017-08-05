@@ -9,7 +9,7 @@ brewery: "ENDEAVOUR Vintage Beer Co."
 breweryURL: "/brewery/endeavour-vintage-beer-co.html"
 style: "Pale Ale - Australian"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10696283_10153053840278745_1486083629761267822_n.jpg?oh=99ec9a25ee84c572f0d73b0c3aeaf3b7&oe=5A0971B3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10696283_10153053840278745_1486083629761267822_n.jpg?oh=ca1c68fbf249cec5f2bda4b0e812eb07&oe=5A30FEB3
 beer-date: "2015-01-28"
 desc: "Not really worth getting again"
 permalink: /beer/:title.html

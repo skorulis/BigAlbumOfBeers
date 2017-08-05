@@ -7,7 +7,7 @@ country: "Australia"
 brewery: "William Smith & Sons"
 breweryURL: "/brewery/william-smith-sons.html"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14433200_10154470831183745_4447106305531667099_n.jpg?oh=19a761966947aed9c171896723986ed8&oe=59CC8FF1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14433200_10154470831183745_4447106305531667099_n.jpg?oh=7f2128f4ed0ce9f72db51f826e735760&oe=59F41CF1
 beer-date: "2016-09-21"
 desc: "Super strange color but with an amazing taste. Starts with a kick then followed by a mild berry sweetness which then mellows out for a smooth finish"
 permalink: /beer/:title.html

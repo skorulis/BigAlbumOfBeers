@@ -9,7 +9,7 @@ brewery: "Bridge Road Brewers"
 breweryURL: "/brewery/bridge-road-brewers.html"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13265923_10154147277158745_2404573365022025413_n.jpg?oh=90afd7de821f8c4df1b109007559794f&oe=59C5AE7B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13265923_10154147277158745_2404573365022025413_n.jpg?oh=7dc72e7e134ab66816d1200290680956&oe=59ED3B7B
 beer-date: "2016-05-24"
 desc: "Smells hoppy but tastes stouty"
 permalink: /beer/:title.html

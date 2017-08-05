@@ -9,7 +9,7 @@ brewery: "Carlton & United Breweries"
 breweryURL: "/brewery/carlton-united-breweries.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/537401_10151461682783745_431486220_n.jpg?oh=5719d16ff9cfab7cf54e8fc18ad8641c&oe=5A08D4F6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/537401_10151461682783745_431486220_n.jpg?oh=4475da8df958e61769f2d26ebf529418&oe=5A3061F6
 beer-date: "2013-02-01"
 desc: "A rich man's VB"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "2 Brothers Brewery "
 breweryURL: "/brewery/2-brothers-brewery.html"
 style: "Lager - Japanese Rice"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10428667_10153268299353745_7595281458401637305_n.jpg?oh=5f581f6a7f9e5e8b543477e75f3a994d&oe=5A0C6ADD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10428667_10153268299353745_7595281458401637305_n.jpg?oh=8ff89e3c880c20475ff92ba5561d1690&oe=5A33F7DD
 beer-date: "2015-05-01"
 desc: "Like a tangy lager"
 permalink: /beer/:title.html

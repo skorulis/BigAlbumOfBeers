@@ -9,7 +9,7 @@ brewery: "Sixpoint Brewery"
 breweryURL: "/brewery/sixpoint-brewery.html"
 style: "IPA - Imperial / Double"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11053047_10153225354168745_5695677735113264681_n.jpg?oh=0f33c835574461744b55d5e9db5f6f70&oe=59D0350B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11053047_10153225354168745_5695677735113264681_n.jpg?oh=05bdd3065b1e78ccdd6994ff38690191&oe=59F7C20B
 beer-date: "2015-04-13"
 desc: "Very bitter but without any sort of floral hop taste to balance it out"
 permalink: /beer/:title.html

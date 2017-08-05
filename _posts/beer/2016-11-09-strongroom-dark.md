@@ -9,7 +9,7 @@ brewery: "Strongroom"
 breweryURL: "/brewery/strongroom.html"
 style: "Stout - Irish Dry"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1175248_10151860440378745_2027227367_n.jpg?oh=ec891c93f8564062bbdc834f91858c56&oe=5A0AEBB4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1175248_10151860440378745_2027227367_n.jpg?oh=78adf543267e2529bdec72516b6e493b&oe=5A3278B4
 beer-date: "2013-08-18"
 desc: "Rather creamy"
 permalink: /beer/:title.html

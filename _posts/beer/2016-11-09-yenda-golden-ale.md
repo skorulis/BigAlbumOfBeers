@@ -9,7 +9,7 @@ brewery: "Australian Beer Company"
 breweryURL: "/brewery/australian-beer-company.html"
 style: "Golden Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11742900_10153438038123745_9100299621440264544_n.jpg?oh=50006d6ac48e9046cb8aa04cf71602e6&oe=59C3584E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11742900_10153438038123745_9100299621440264544_n.jpg?oh=7c17c3f2fc7bef60dbde1e1913613f05&oe=59EAE54E
 beer-date: "2015-07-10"
 desc: "Zesty as promised. Really high quality all round"
 permalink: /beer/:title.html

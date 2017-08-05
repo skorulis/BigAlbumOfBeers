@@ -9,7 +9,7 @@ brewery: "Kona Brewing Company"
 breweryURL: "/brewery/kona-brewing-company.html"
 style: "Porter - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664499_10155251933653745_1629559540448158308_n.jpg?oh=261d1fe262dd5f833abb2b96b8f2465e&oe=59CA2330
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664499_10155251933653745_1629559540448158308_n.jpg?oh=31159dd14444f53206baba2559c2033e&oe=59F1B030
 beer-date: "2017-05-27"
 desc: "Slightly watered down stout. Just doesn't have the creaminess that I want right now"
 permalink: /beer/:title.html

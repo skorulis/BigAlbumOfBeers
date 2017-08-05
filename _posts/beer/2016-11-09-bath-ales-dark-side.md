@@ -9,7 +9,7 @@ brewery: "Bath Ales"
 breweryURL: "/brewery/bath-ales.html"
 style: "Stout - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/933900_10151694517968745_176829546_n.jpg?oh=edf6b7e8317315b6e99819fcc51d08e2&oe=59C9E405
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/933900_10151694517968745_176829546_n.jpg?oh=153d95d51e2e47cda67f88466c33815d&oe=59F17105
 beer-date: "2013-05-25"
 desc: "A smooth dark ale"
 permalink: /beer/:title.html

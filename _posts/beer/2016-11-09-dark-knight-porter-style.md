@@ -9,7 +9,7 @@ brewery: "Murray's Craft Brewing Co"
 breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "Porter - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13263768_10154147277768745_7051226245324032886_n.jpg?oh=3ad331661143f8590c4aa1c8ab196aa6&oe=5A0A4C06
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13263768_10154147277768745_7051226245324032886_n.jpg?oh=865faf9b38ca3cca5e70e5583feecc1f&oe=5A31D906
 beer-date: "2016-05-24"
 desc: "Mild and sweet. Nice easy drinking porter"
 permalink: /beer/:title.html

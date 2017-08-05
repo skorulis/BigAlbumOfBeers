@@ -9,7 +9,7 @@ brewery: "La Sirène Brewing"
 breweryURL: "/brewery/la-sirene-brewing.html"
 style: "Belgian Strong Dark Ale"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098191_10154984568433745_5100099099762013577_n.jpg?oh=d57fdc2f154a8270d7871b58f09728fc&oe=59CADF70
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098191_10154984568433745_5100099099762013577_n.jpg?oh=a28fb19c6e7d80901fc7ef6b1f7ded5e&oe=59F26C70
 beer-date: "2017-03-03"
 desc: "Like Nutella in beer form but also not at all. Nutty, chocolaty, smooth and oh so dark. Rather filling for a beer which makes me happy with one despite it being a tasty beer"
 permalink: /beer/:title.html

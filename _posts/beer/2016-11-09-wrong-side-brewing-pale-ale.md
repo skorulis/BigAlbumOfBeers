@@ -9,7 +9,7 @@ brewery: "Wrong Side Brewing"
 breweryURL: "/brewery/wrong-side-brewing.html"
 style: "Pale Ale - Australian"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16938940_10154984567738745_8076029903229547150_n.jpg?oh=8943dbb7d96b7b4045e38e05a6266849&oe=5A10546A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16938940_10154984567738745_8076029903229547150_n.jpg?oh=caba8c65706858b1b38f8e9e6a979638&oe=5A37E16A
 beer-date: "2017-03-03"
 desc: "A little biscuity but otherwise a pretty plain and tasteless beer"
 permalink: /beer/:title.html

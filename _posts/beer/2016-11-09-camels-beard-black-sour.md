@@ -9,7 +9,7 @@ brewery: "Mudgee Brewing Co."
 breweryURL: "/brewery/mudgee-brewing-co.html"
 style: "Sour - Flanders Oud Bruin"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10404258_10153438036873745_1054335218755238006_n.jpg?oh=5bcf23895cb35d37a00ef7172c977cae&oe=59CFE46C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10404258_10153438036873745_1054335218755238006_n.jpg?oh=67e4cb0c82eba8a26f72b037fc5ca839&oe=59F7716C
 beer-date: "2015-07-10"
 desc: "Like mixing black current juice with a beer"
 permalink: /beer/:title.html

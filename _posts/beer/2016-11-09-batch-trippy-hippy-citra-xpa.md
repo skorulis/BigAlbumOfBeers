@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098542_10154988847368745_6869271982387745810_n.jpg?oh=6ee3659a3fa0f77686b169e236148ca9&oe=5A02E8CF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098542_10154988847368745_6869271982387745810_n.jpg?oh=d8517131c7d9231616b4dd9f5c4b18ae&oe=5A2A75CF
 beer-date: "2017-03-05"
 desc: "Piney but lacking citrus to round it out. Gets better as I drink but it almost has a wheat flavour which I wasn't what I was hoping for"
 permalink: /beer/:title.html

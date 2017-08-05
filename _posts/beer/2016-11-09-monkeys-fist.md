@@ -9,7 +9,7 @@ brewery: "Sail & Anchor"
 breweryURL: "/brewery/sail-anchor.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10257018_10153055749583745_4285986054653809975_o.jpg?oh=546fcc3480f22b8ac23932a7f669b874&oe=59CD6FB9
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10257018_10153055749583745_4285986054653809975_o.jpg?oh=cffd2eaceccc5b6c762a616a70b45312&oe=59F4FCB9
 beer-date: "2015-01-29"
 desc: "Not sure why these are always reduced to clear at Dan Murpheys"
 permalink: /beer/:title.html

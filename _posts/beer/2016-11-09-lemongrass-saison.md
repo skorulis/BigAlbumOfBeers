@@ -9,7 +9,7 @@ brewery: "Maui Brewing Company"
 breweryURL: "/brewery/maui-brewing-company.html"
 style: "Saison / Farmhouse Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/534376_10152147730388745_345071070_n.jpg?oh=0e40d530d92d5efcbe17f0af820f604a&oe=59CF27CD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/534376_10152147730388745_345071070_n.jpg?oh=e49a21cdc392527697bfd1ed964b35d3&oe=59F6B4CD
 beer-date: "2013-12-23"
 desc: "A wheat beer taste but a little more fresh"
 permalink: /beer/:title.html

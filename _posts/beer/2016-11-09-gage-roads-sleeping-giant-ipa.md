@@ -9,7 +9,7 @@ brewery: "Gage Roads Brewing Co "
 breweryURL: "/brewery/gage-roads-brewing-co.html"
 style: "IPA - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11036670_10153118667448745_2676066066178360898_n.jpg?oh=0754b5fa62cd9aabe262500938c0b235&oe=5A026E06
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11036670_10153118667448745_2676066066178360898_n.jpg?oh=9f50dd7cc1a55e6a04d5991e6693bbba&oe=5A29FB06
 beer-date: "2015-02-27"
 desc: "Mild but well rounded"
 permalink: /beer/:title.html

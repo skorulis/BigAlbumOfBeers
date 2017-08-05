@@ -9,7 +9,7 @@ brewery: "East 9th Brewing Co."
 breweryURL: "/brewery/east-9th-brewing-co.html"
 style: "Ginger Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10988914_10153118793028745_6211347906406183583_n.jpg?oh=ccee944305446f850644deeef7520772&oe=5A0232C4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10988914_10153118793028745_6211347906406183583_n.jpg?oh=0d0ba358995de115a2c5eb069f5fea59&oe=5A29BFC4
 beer-date: "2015-02-27"
 desc: "A little bit too fizzy but nice otherwise"
 permalink: /beer/:title.html

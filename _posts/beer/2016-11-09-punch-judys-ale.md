@@ -9,7 +9,7 @@ brewery: "Murray's Craft Brewing Co"
 breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "English Bitter"
 score: null
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10922862_10153055749673745_210519337780800601_n.jpg?oh=1f5f97715b2ee3c3f56f215f71464fba&oe=5A0910BC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10922862_10153055749673745_210519337780800601_n.jpg?oh=bc5a24e6548e7ec44aa9c8a8a714080e&oe=5A309DBC
 beer-date: "2015-01-29"
 desc: "Not much flavour or alcohol content"
 permalink: /beer/:title.html

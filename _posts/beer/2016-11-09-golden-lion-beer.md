@@ -9,7 +9,7 @@ brewery: "Browar Amber"
 breweryURL: "/brewery/browar-amber.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11021223_10153118669773745_8881697342781962806_n.jpg?oh=970d17e2299005331c630a1954a1c150&oe=59C49A6E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11021223_10153118669773745_8881697342781962806_n.jpg?oh=f9246453eb90f04aab373f16543ecfa0&oe=59EC276E
 beer-date: "2015-02-27"
 desc: "A nicely rounded flavour"
 permalink: /beer/:title.html

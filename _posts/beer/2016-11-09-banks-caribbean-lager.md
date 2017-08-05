@@ -9,7 +9,7 @@ brewery: "Banks (Barbados) Breweries"
 breweryURL: "/brewery/banks-barbados-breweries.html"
 style: "Lager - North American Adjunct"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1157507_10151860440488745_679128594_n.jpg?oh=73388b7f323365aa516cada790c1d80e&oe=5A082991
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1157507_10151860440488745_679128594_n.jpg?oh=272f2944d81d8bed041e8f13123b1154&oe=5A2FB691
 beer-date: "2013-08-18"
 desc: "Mild and smooth"
 permalink: /beer/:title.html

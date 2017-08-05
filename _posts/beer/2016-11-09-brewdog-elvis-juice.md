@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "IPA - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142991_10154858216228745_3699954471338840932_n.jpg?oh=708103f85cbd752c36d547e02595bea7&oe=5A064745
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142991_10154858216228745_3699954471338840932_n.jpg?oh=9edf985305fc69b2a403aafc34cf581d&oe=5A2DD445
 beer-date: "2017-01-21"
 desc: "The flavours aren't quite coming together on this one. The smell works but there's just too much bitterness from the grapefruit"
 permalink: /beer/:title.html

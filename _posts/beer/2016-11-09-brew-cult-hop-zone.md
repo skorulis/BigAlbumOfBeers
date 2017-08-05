@@ -9,7 +9,7 @@ brewery: "BrewCult"
 breweryURL: "/brewery/brewcult.html"
 style: "IPA - Session / India Session Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12079324_10153656867078745_2445263991582775788_n.jpg?oh=6281b5eacbb6080839588e7f34702a01&oe=5A0D0084
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12079324_10153656867078745_2445263991582775788_n.jpg?oh=1814577d54e454f82a6fc6c95c66be4b&oe=5A348D84
 beer-date: "2015-10-17"
 desc: "Very good IPA but not sure if it's a good session beer"
 permalink: /beer/:title.html
