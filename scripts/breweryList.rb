@@ -23,10 +23,13 @@ files.each do |file|
 	bId = brewery["brewery_id"]
 	imageURL = brewery["brewery_label"]
 	brewery["image"] = imageURL.split('/')[-1]
+	brewery.delete("brewery_description")
+	brewery.delete("media")
+	brewery.delete("checkins")
+	brewery.delete("beer_list")
 
 	old = oldBreweries[bId]
 	if old != nil
-		puts old["reviews"]
 		brewery["reviews"] = old["reviews"]
 	end
 
@@ -45,7 +48,7 @@ files.each do |file|
 			File.write(imageFile, imageData)	
 		end
 		
-		sleep(5)
+		sleep(1)
 	end
 	
 	breweries[bId] = brewery
