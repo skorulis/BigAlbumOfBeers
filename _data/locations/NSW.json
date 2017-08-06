@@ -26,11 +26,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "1471 Wakley Rd",
-        "brewery_city": "Yenda",
-        "brewery_state": "NSW",
-        "brewery_lat": -34.2462,
-        "brewery_lng": 146.212
+        "address": "1471 Wakley Rd, Yenda",
+        "lat": -34.2462,
+        "lng": 146.212
       },
       "rating": {
         "count": 13336,
@@ -57,7 +55,104 @@
         ]
       },
       "image": "brewery-101175_7af59.jpeg",
-      "reviews": null
+      "extra": null
+    },
+    {
+      "brewery_id": 2984,
+      "brewery_name": "Lovedale Brewery",
+      "brewery_slug": "lovedale-brewery",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2984_4d414.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "SydneyBrewhouse",
+        "follow_status": false,
+        "follower_count": 357,
+        "uid": 347652,
+        "mute_status": "none"
+      },
+      "beer_count": 35,
+      "contact": {
+        "twitter": "",
+        "facebook": "https://www.facebook.com/Lovedale-Brewery-618761468218113/",
+        "instagram": "",
+        "url": "http://www.lovedalebrewery.com"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "address": "430 Wine Country Dr, Lovedale",
+        "lat": -32.7811,
+        "lng": 151.349
+      },
+      "rating": {
+        "count": 5905,
+        "rating_score": 3.373
+      },
+      "stats": {
+        "total_count": 7849,
+        "unique_count": 3258,
+        "monthly_count": 239,
+        "weekly_count": 54,
+        "user_count": 0,
+        "age_on_service": 2446.003784722222
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 1623357,
+              "venue_name": "Lovedale Brewery",
+              "venue_slug": "lovedale-brewery",
+              "primary_category": "Professional & Other Places",
+              "parent_category_id": "4d4b7105d754a06375d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Distillery",
+                    "category_id": "4e0e22f5a56208c4ea9a85a0",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "430 Wine Country Drive",
+                "venue_city": "Lovedale",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -32.7811,
+                "lng": 151.348
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "53719c14498e3d50e68aab3e",
+                "foursquare_url": "http://4sq.com/1oKhHPe"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      },
+      "image": "brewery-2984_4d414.jpeg",
+      "extra": null
     }
   ]
 }

@@ -28,12 +28,20 @@ files.each do |file|
 	brewery.delete("checkins")
 	brewery.delete("beer_list")
 
+	loc = Hash.new
+	if brewery["location"]["brewery_address"] != nil
+		loc["address"] = brewery["location"]["brewery_address"] + ", " + brewery["location"]["brewery_city"]
+	end
+	
+	loc["lat"] = brewery["location"]["brewery_lat"] 
+	loc["lng"] = brewery["location"]["brewery_lng"] 
+
+	brewery["location"] = loc
+	
 	old = oldBreweries[bId]
 	if old != nil
-		brewery["reviews"] = old["reviews"]
+		brewery["extra"] = old["extra"]
 	end
-
-	
 
 	imageFile = "img/brewery/" + imageURL.split('/')[-1]
 	if !File.exists?(imageFile)

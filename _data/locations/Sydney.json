@@ -26,11 +26,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "66 Marian St",
-        "brewery_city": "Enmore, Sydney",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.901,
-        "brewery_lng": 151.174
+        "address": "66 Marian St, Enmore, Sydney",
+        "lat": -33.901,
+        "lng": 151.174
       },
       "rating": {
         "count": 7077,
@@ -57,7 +55,7 @@
         ]
       },
       "image": "brewery-104449_078a4.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 122718,
@@ -85,11 +83,9 @@
       "brewery_type": "Nano Brewery",
       "brewery_type_id": 3,
       "location": {
-        "brewery_address": "Unit 8, 29-33 Waratah Street",
-        "brewery_city": "Kirrawee",
-        "brewery_state": "NSW",
-        "brewery_lat": -34.0286,
-        "brewery_lng": 151.079
+        "address": "Unit 8, 29-33 Waratah Street, Kirrawee",
+        "lat": -34.0286,
+        "lng": 151.079
       },
       "rating": {
         "count": 1503,
@@ -116,7 +112,7 @@
         ]
       },
       "image": "brewery-122718_14510.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 129674,
@@ -144,11 +140,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "75 Mary Street",
-        "brewery_city": "St Peters",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.9138,
-        "brewery_lng": 151.173
+        "address": "75 Mary Street, St Peters",
+        "lat": -33.9138,
+        "lng": 151.173
       },
       "rating": {
         "count": 7348,
@@ -175,9 +169,11 @@
         ]
       },
       "image": "brewery-129674_bda90.jpeg",
-      "reviews": {
-        "beers": "It's a fairly small range which hits all the standard favorite styles plus a few more on the adventurous side but overall it's a high quality range of beers.",
-        "venue": "Situated in what seems like an old warehouse it's got that industrial feel. The corrugated iron walls tend to cause the bar to warm up significantly in the summer which gives a nice excuse to get yourself another beer."
+      "extra": {
+        "reviews": {
+          "beers": "It's a fairly small range which hits all the standard favorite styles plus a few more on the adventurous side but overall it's a high quality range of beers.",
+          "venue": "Situated in what seems like an old warehouse it's got that industrial feel. The corrugated iron walls tend to cause the bar to warm up significantly in the summer which gives a nice excuse to get yourself another beer."
+        }
       }
     },
     {
@@ -206,11 +202,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "417 Crown Street",
-        "brewery_city": "Surry Hills, Sydney",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.8864,
-        "brewery_lng": 151.214
+        "address": "417 Crown Street, Surry Hills, Sydney",
+        "lat": -33.8864,
+        "lng": 151.214
       },
       "rating": {
         "count": 5932,
@@ -237,7 +231,7 @@
         ]
       },
       "image": "brewery-130600_19bd8.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 145688,
@@ -265,11 +259,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "5 Sydenham Road",
-        "brewery_city": "Brookvale",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.7639,
-        "brewery_lng": 151.272
+        "address": "5 Sydenham Road, Brookvale",
+        "lat": -33.7639,
+        "lng": 151.272
       },
       "rating": {
         "count": 30653,
@@ -336,7 +328,7 @@
         ]
       },
       "image": "brewery-145688_932b2.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 145927,
@@ -364,11 +356,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "14 Harkeith Street",
-        "brewery_city": "Mona Vale",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.6759,
-        "brewery_lng": 151.306
+        "address": "14 Harkeith Street, Mona Vale",
+        "lat": -33.6759,
+        "lng": 151.306
       },
       "rating": {
         "count": 22409,
@@ -435,7 +425,7 @@
         ]
       },
       "image": "brewery-145927_ac0fb.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 15195,
@@ -463,11 +453,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "2 North Rocks Road, North Parramatta, NSW, Australia",
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.7927,
-        "brewery_lng": 151.001
+        "address": "2 North Rocks Road, North Parramatta, NSW, Australia, Sydney",
+        "lat": -33.7927,
+        "lng": 151.001
       },
       "rating": {
         "count": 14187,
@@ -533,7 +521,64 @@
           }
         ]
       },
-      "image": "brewery-RiversideBrewingCompany_15195.jpeg"
+      "image": "brewery-RiversideBrewingCompany_15195.jpeg",
+      "extra": null
+    },
+    {
+      "brewery_id": 166490,
+      "brewery_name": "Rockpool",
+      "brewery_slug": "rockpool",
+      "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": false,
+        "claimed_slug": "",
+        "follow_status": false,
+        "follower_count": 0,
+        "uid": 0,
+        "mute_status": "none"
+      },
+      "beer_count": 1,
+      "contact": {
+        "twitter": "",
+        "facebook": "",
+        "instagram": "",
+        "url": ""
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "lat": 0,
+        "lng": 0
+      },
+      "rating": {
+        "count": 191,
+        "rating_score": 3.52
+      },
+      "stats": {
+        "total_count": 226,
+        "unique_count": 216,
+        "monthly_count": 2,
+        "weekly_count": 0,
+        "user_count": 0,
+        "age_on_service": 1007.9932060185185
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "badge-brewery-default.png",
+      "extra": null
     },
     {
       "brewery_id": 188552,
@@ -561,11 +606,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "10A Spencer Street",
-        "brewery_city": "Five Dock",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.8696,
-        "brewery_lng": 151.118
+        "address": "10A Spencer Street, Five Dock",
+        "lat": -33.8696,
+        "lng": 151.118
       },
       "rating": {
         "count": 13206,
@@ -592,7 +635,7 @@
         ]
       },
       "image": "brewery-188552_53073.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 227599,
@@ -620,11 +663,8 @@
       "brewery_type": "Nano Brewery",
       "brewery_type_id": 3,
       "location": {
-        "brewery_address": null,
-        "brewery_city": "",
-        "brewery_state": "",
-        "brewery_lat": 0,
-        "brewery_lng": 0
+        "lat": 0,
+        "lng": 0
       },
       "rating": {
         "count": 201,
@@ -650,7 +690,8 @@
 
         ]
       },
-      "image": "brewery-227599_9e5f0.jpeg"
+      "image": "brewery-227599_9e5f0.jpeg",
+      "extra": null
     },
     {
       "brewery_id": 231217,
@@ -678,11 +719,9 @@
       "brewery_type": "Nano Brewery",
       "brewery_type_id": 3,
       "location": {
-        "brewery_address": "92 Meeks Rd",
-        "brewery_city": "Marrickville",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.9147,
-        "brewery_lng": 151.16
+        "address": "92 Meeks Rd, Marrickville",
+        "lat": -33.9147,
+        "lng": 151.16
       },
       "rating": {
         "count": 1778,
@@ -709,7 +748,7 @@
         ]
       },
       "image": "brewery-231217_1bc76.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 231272,
@@ -737,11 +776,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "1a Mitchell St",
-        "brewery_city": "Marrickville",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.9078,
-        "brewery_lng": 151.163
+        "address": "1a Mitchell St, Marrickville",
+        "lat": -33.9078,
+        "lng": 151.163
       },
       "rating": {
         "count": 2107,
@@ -767,7 +804,8 @@
 
         ]
       },
-      "image": "brewery-231272_dc59b.jpeg"
+      "image": "brewery-231272_dc59b.jpeg",
+      "extra": null
     },
     {
       "brewery_id": 246248,
@@ -795,11 +833,9 @@
       "brewery_type": "Bar / Restaurant / Store",
       "brewery_type_id": 7,
       "location": {
-        "brewery_address": "33 Playfair St",
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.8587,
-        "brewery_lng": 151.208
+        "address": "33 Playfair St, Sydney",
+        "lat": -33.8587,
+        "lng": 151.208
       },
       "rating": {
         "count": 4728,
@@ -825,7 +861,8 @@
 
         ]
       },
-      "image": "brewery-246248_56c83.jpeg"
+      "image": "brewery-246248_56c83.jpeg",
+      "extra": null
     },
     {
       "brewery_id": 261136,
@@ -853,11 +890,8 @@
       "brewery_type": "Brew Pub",
       "brewery_type_id": 4,
       "location": {
-        "brewery_address": null,
-        "brewery_city": "",
-        "brewery_state": "",
-        "brewery_lat": 0,
-        "brewery_lng": 0
+        "lat": 0,
+        "lng": 0
       },
       "rating": {
         "count": 6,
@@ -883,7 +917,8 @@
 
         ]
       },
-      "image": "badge-brewery-default.png"
+      "image": "badge-brewery-default.png",
+      "extra": null
     },
     {
       "brewery_id": 271343,
@@ -911,11 +946,9 @@
       "brewery_type": "Nano Brewery",
       "brewery_type_id": 3,
       "location": {
-        "brewery_address": "300 Illawarra Rd",
-        "brewery_city": "Marrickville",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.9121,
-        "brewery_lng": 151.154
+        "address": "300 Illawarra Rd, Marrickville",
+        "lat": -33.9121,
+        "lng": 151.154
       },
       "rating": {
         "count": 963,
@@ -986,7 +1019,8 @@
           }
         ]
       },
-      "image": "brewery-271343_85ec1.jpeg"
+      "image": "brewery-271343_85ec1.jpeg",
+      "extra": null
     },
     {
       "brewery_id": 2748,
@@ -1014,11 +1048,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "19 Kent St, The Rocks",
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.8582,
-        "brewery_lng": 151.203
+        "address": "19 Kent St, The Rocks, Sydney",
+        "lat": -33.8582,
+        "lng": 151.203
       },
       "rating": {
         "count": 16212,
@@ -1045,7 +1077,7 @@
         ]
       },
       "image": "brewery-2748_12736.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 28042,
@@ -1073,11 +1105,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "76 Wilford Street",
-        "brewery_city": "Newtown",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.8981,
-        "brewery_lng": 151.174
+        "address": "76 Wilford Street, Newtown",
+        "lat": -33.8981,
+        "lng": 151.174
       },
       "rating": {
         "count": 28075,
@@ -1103,7 +1133,8 @@
 
         ]
       },
-      "image": "brewery-YoungHenrysBrewingCompany_28042.jpeg"
+      "image": "brewery-YoungHenrysBrewingCompany_28042.jpeg",
+      "extra": null
     },
     {
       "brewery_id": 2980,
@@ -1131,11 +1162,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "1/323 Darling St",
-        "brewery_city": "Balmain",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.8566,
-        "brewery_lng": 151.18
+        "address": "1/323 Darling St, Balmain",
+        "lat": -33.8566,
+        "lng": 151.18
       },
       "rating": {
         "count": 4289,
@@ -1162,105 +1191,7 @@
         ]
       },
       "image": "brewery-BalmainBrewingCompany_2980.jpeg",
-      "reviews": null
-    },
-    {
-      "brewery_id": 2984,
-      "brewery_name": "Lovedale Brewery",
-      "brewery_slug": "lovedale-brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2984_4d414.jpeg",
-      "country_name": "Australia",
-      "brewery_in_production": 0,
-      "is_independent": 1,
-      "claimed_status": {
-        "is_claimed": true,
-        "claimed_slug": "SydneyBrewhouse",
-        "follow_status": false,
-        "follower_count": 357,
-        "uid": 347652,
-        "mute_status": "none"
-      },
-      "beer_count": 35,
-      "contact": {
-        "twitter": "",
-        "facebook": "https://www.facebook.com/Lovedale-Brewery-618761468218113/",
-        "instagram": "",
-        "url": "http://www.lovedalebrewery.com"
-      },
-      "brewery_type": "Micro Brewery",
-      "brewery_type_id": 2,
-      "location": {
-        "brewery_address": "430 Wine Country Dr",
-        "brewery_city": "Lovedale",
-        "brewery_state": "NSW",
-        "brewery_lat": -32.7811,
-        "brewery_lng": 151.349
-      },
-      "rating": {
-        "count": 5905,
-        "rating_score": 3.373
-      },
-      "stats": {
-        "total_count": 7849,
-        "unique_count": 3258,
-        "monthly_count": 239,
-        "weekly_count": 54,
-        "user_count": 0,
-        "age_on_service": 2446.003784722222
-      },
-      "owners": {
-        "count": 0,
-        "items": [
-
-        ]
-      },
-      "locations": {
-        "count": 1,
-        "items": [
-          {
-            "venue": {
-              "venue_id": 1623357,
-              "venue_name": "Lovedale Brewery",
-              "venue_slug": "lovedale-brewery",
-              "primary_category": "Professional & Other Places",
-              "parent_category_id": "4d4b7105d754a06375d81259",
-              "categories": {
-                "count": 1,
-                "items": [
-                  {
-                    "category_name": "Distillery",
-                    "category_id": "4e0e22f5a56208c4ea9a85a0",
-                    "is_primary": true
-                  }
-                ]
-              },
-              "location": {
-                "venue_address": "430 Wine Country Drive",
-                "venue_city": "Lovedale",
-                "venue_state": "NSW",
-                "venue_country": "Australia",
-                "lat": -32.7811,
-                "lng": 151.348
-              },
-              "contact": {
-                "twitter": "",
-                "venue_url": ""
-              },
-              "foursquare": {
-                "foursquare_id": "53719c14498e3d50e68aab3e",
-                "foursquare_url": "http://4sq.com/1oKhHPe"
-              },
-              "venue_icon": {
-                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
-                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
-                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
-              },
-              "is_verified": false
-            }
-          }
-        ]
-      },
-      "image": "brewery-2984_4d414.jpeg"
+      "extra": null
     },
     {
       "brewery_id": 304416,
@@ -1288,11 +1219,8 @@
       "brewery_type": "Brew Pub",
       "brewery_type_id": 4,
       "location": {
-        "brewery_address": null,
-        "brewery_city": "",
-        "brewery_state": "",
-        "brewery_lat": 0,
-        "brewery_lng": 0
+        "lat": 0,
+        "lng": 0
       },
       "rating": {
         "count": 225,
@@ -1318,7 +1246,8 @@
 
         ]
       },
-      "image": "brewery-304416_8a5c0.jpeg"
+      "image": "brewery-304416_8a5c0.jpeg",
+      "extra": null
     },
     {
       "brewery_id": 3173,
@@ -1346,11 +1275,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "PO Box 1679, Macquarie Centre",
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.8642,
-        "brewery_lng": 151.213
+        "address": "PO Box 1679, Macquarie Centre, Sydney",
+        "lat": -33.8642,
+        "lng": 151.213
       },
       "rating": {
         "count": 11108,
@@ -1376,7 +1303,8 @@
 
         ]
       },
-      "image": "brewery-3173_cdd1f.jpeg"
+      "image": "brewery-3173_cdd1f.jpeg",
+      "extra": null
     },
     {
       "brewery_id": 3215,
@@ -1404,11 +1332,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "Australian Brewery, 350 Annangrove Road",
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.8675,
-        "brewery_lng": 151.207
+        "address": "Australian Brewery, 350 Annangrove Road, Sydney",
+        "lat": -33.8675,
+        "lng": 151.207
       },
       "rating": {
         "count": 11922,
@@ -1434,7 +1360,115 @@
 
         ]
       },
-      "image": "brewery-DoctorsOrdersBrewing_3215.jpeg"
+      "image": "brewery-DoctorsOrdersBrewing_3215.jpeg",
+      "extra": null
+    },
+    {
+      "brewery_id": 3242,
+      "brewery_name": "Rocks Brewing Co",
+      "brewery_slug": "rocks-brewing-co",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-rocksbrewingco_3242.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "rocksbrewing",
+        "follow_status": false,
+        "follower_count": 1342,
+        "uid": 115783,
+        "mute_status": "none"
+      },
+      "beer_count": 74,
+      "contact": {
+        "twitter": "rocksbrewing",
+        "facebook": "http://www.facebook.com/rocksbrewing",
+        "instagram": "rocksbrewingco",
+        "url": "http://rocksbrewing.com"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "address": "Zeppelin Building, 160 Bourke St, Alexandria",
+        "lat": -33.8755,
+        "lng": 151.218
+      },
+      "rating": {
+        "count": 17158,
+        "rating_score": 3.531
+      },
+      "stats": {
+        "total_count": 24336,
+        "unique_count": 6440,
+        "monthly_count": 227,
+        "weekly_count": 53,
+        "user_count": 0,
+        "age_on_service": 2441.374699074074
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 1377290,
+              "venue_name": "Rocks Brewing Co",
+              "venue_slug": "rocks-brewing-co",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "160 Bourke Rd.",
+                "venue_city": "Alexandria",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9168,
+                "lng": 151.191
+              },
+              "contact": {
+                "twitter": "@rocksbrewing",
+                "venue_url": "http://www.rocksbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "52a6ae9911d25b96d7c89019",
+                "foursquare_url": "http://4sq.com/1byFYTI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      },
+      "image": "brewery-rocksbrewingco_3242.jpeg",
+      "extra": null
     },
     {
       "brewery_id": 3262,
@@ -1462,11 +1496,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "350 Annangrove Rd",
-        "brewery_city": "Rouse Hill",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.6745,
-        "brewery_lng": 150.913
+        "address": "350 Annangrove Rd, Rouse Hill",
+        "lat": -33.6745,
+        "lng": 150.913
       },
       "rating": {
         "count": 9571,
@@ -1493,7 +1525,7 @@
         ]
       },
       "image": "brewery-3262_b5613.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 32845,
@@ -1521,11 +1553,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "",
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.8688,
-        "brewery_lng": 151.209
+        "address": ", Sydney",
+        "lat": -33.8688,
+        "lng": 151.209
       },
       "rating": {
         "count": 9711,
@@ -1552,7 +1582,7 @@
         ]
       },
       "image": "brewery-32845_07a8e.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 34849,
@@ -1580,11 +1610,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "2/1 Chard Rd",
-        "brewery_city": "Brookvale",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.7634,
-        "brewery_lng": 151.272
+        "address": "2/1 Chard Rd, Brookvale",
+        "lat": -33.7634,
+        "lng": 151.272
       },
       "rating": {
         "count": 1820,
@@ -1651,7 +1679,7 @@
         ]
       },
       "image": "brewery-DadDaves_34849.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 4254,
@@ -1679,11 +1707,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "9-13 Winbourne Rd",
-        "brewery_city": "Brookvale",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.7645,
-        "brewery_lng": 151.278
+        "address": "9-13 Winbourne Rd, Brookvale",
+        "lat": -33.7645,
+        "lng": 151.278
       },
       "rating": {
         "count": 63424,
@@ -1796,7 +1822,7 @@
         ]
       },
       "image": "brewery-4254_7c9e9.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 48019,
@@ -1824,11 +1850,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "3 Gehrig Lane",
-        "brewery_city": "Camperdown",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.8858,
-        "brewery_lng": 151.175
+        "address": "3 Gehrig Lane, Camperdown",
+        "lat": -33.8858,
+        "lng": 151.175
       },
       "rating": {
         "count": 13843,
@@ -1855,7 +1879,64 @@
         ]
       },
       "image": "brewery-48019_5683e.jpeg",
-      "reviews": null
+      "extra": null
+    },
+    {
+      "brewery_id": 84091,
+      "brewery_name": "Pixel Brewing Co",
+      "brewery_slug": "pixel-brewing-co",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-84091_52020.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "PixelBrewingCo",
+        "follow_status": false,
+        "follower_count": 129,
+        "uid": 902263,
+        "mute_status": "none"
+      },
+      "beer_count": 3,
+      "contact": {
+        "twitter": "PixelBrewingCo",
+        "facebook": "http://www.facebook.com/pixelbrewingco",
+        "instagram": "pixelbrewingco",
+        "url": "http://www.pixelbrewingco.com.au"
+      },
+      "brewery_type": "Nano Brewery",
+      "brewery_type_id": 3,
+      "location": {
+        "address": ", Sydney",
+        "lat": -33.8688,
+        "lng": 151.209
+      },
+      "rating": {
+        "count": 883,
+        "rating_score": 3.602
+      },
+      "stats": {
+        "total_count": 1256,
+        "unique_count": 793,
+        "monthly_count": 0,
+        "weekly_count": 0,
+        "user_count": 0,
+        "age_on_service": 1400.1170833333333
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-84091_52020.jpeg",
+      "extra": null
     },
     {
       "brewery_id": 86357,
@@ -1883,11 +1964,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "41-43 Topham Road",
-        "brewery_city": "Smeaton Grange",
-        "brewery_state": "NSW",
-        "brewery_lat": -34.0344,
-        "brewery_lng": 150.753
+        "address": "41-43 Topham Road, Smeaton Grange",
+        "lat": -34.0344,
+        "lng": 150.753
       },
       "rating": {
         "count": 14522,
@@ -1958,7 +2037,7 @@
         ]
       },
       "image": "brewery-86357_d698d.jpeg",
-      "reviews": null
+      "extra": null
     },
     {
       "brewery_id": 97260,
@@ -1986,11 +2065,9 @@
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "location": {
-        "brewery_address": "44 Sydenham Road",
-        "brewery_city": "Marrickville",
-        "brewery_state": "NSW",
-        "brewery_lat": -33.9119,
-        "brewery_lng": 151.165
+        "address": "44 Sydenham Road, Marrickville",
+        "lat": -33.9119,
+        "lng": 151.165
       },
       "rating": {
         "count": 24327,
@@ -2057,7 +2134,7 @@
         ]
       },
       "image": "brewery-97260_ed6c1.jpeg",
-      "reviews": null
+      "extra": null
     }
   ]
 }

@@ -10,7 +10,7 @@ if ACCESS_TOKEN == nil || SECRET == nil
 	exit
 end
 
-files = Dir["./untappd/**/*.json"]
+files = Dir["./untappd/beer/**/*.json"]
 
 files.each do |file|
 	data = JSON.parse(File.read(file))
