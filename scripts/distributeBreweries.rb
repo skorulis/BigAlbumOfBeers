@@ -7,6 +7,9 @@ locations = JSON.parse(File.read("_data/breweryLocations.json"))
 breakdowns = Hash.new
 
 breweries.each do |b|
+	if b["brewery_type"] == "Macro Brewery"
+		next
+	end
 	bId = b["brewery_id"].to_s
 	locs = locations[bId] || []
 	locs.each do |l|

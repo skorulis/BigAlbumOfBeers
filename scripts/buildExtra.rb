@@ -63,7 +63,7 @@ extraData.each do |item|
 		hash["users"] = beer["stats"]["total_user_count"]
 		puts "fetch beer " + hash["name"]
 
-		File.open("untappd/" + hash["id"] + ".json","w") do |f|
+		File.open("untappd/beer/" + hash["id"] + ".json","w") do |f|
 			f.write(JSON.pretty_generate(result))
 		end
 		count = count + 1

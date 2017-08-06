@@ -10,7 +10,7 @@ total = 0
 
 while total < 20 do
 	id = rand(maxId) + 1
-	filename = "untappd/" + id.to_s + ".json"
+	filename = "untappd/beer/" + id.to_s + ".json"
 	if(File.file?(filename))
 		puts "skip " + id.to_s
 	else
