@@ -19,11 +19,11 @@ What each rating means
 * 0 - There's something incredibly wrong with this beer that makes me question whether it's beer at all. Or maybe it's a non alcoholic beer.
 * 1 - Ranging from barely drinkable to completely undrinkable. It tastes off or rancid. It might even have made me feel a little sick.
 * 2 - It's pretty damn bad but I can drink it. I never want another.
-* 3 - It's a fairly bad beer.
+* 3 - It's a fairly bad beer. If it was the only alcohol available I might still drink it.
 * 4 - Just a step down from being a generic macro lager.
 * 5 - It's a plain average beer. No great flavors, nothing exciting, just beer.
 * 6 - The beer has something more than a macro lager. It's good and slightly interesting
 * 7 - It's a pretty good tasting beer and it's on point for what style it is. Don't be fooled into thinking that this is a bad rating. This is still a great beer.
-* 8 - Either an exceptionally good example of a particular style or with some flavours that are interesting or unique. No off or wrong flavours
+* 8 - Either an exceptionally good example of a particular style or with some flavours that are interesting or unique. No off or wrong flavours.
 * 9 - A fantastic standout beer that sits head and shoulders above most beers but it's not quite perfect. 
 * 10 - It's perfect. There's nothing I would change about the beer. It's pretty hard for something to reach this level.

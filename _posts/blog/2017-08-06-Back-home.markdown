@@ -1,0 +1,24 @@
+---
+layout: default
+slim-header: true
+title:  "Back home"
+date:   2017-08-06
+category: blog
+comments: true
+thumbnail: tumut-river-apa.jpg
+permalink: /blog/:year/:month/:day/:title.html
+---
+
+My drinking has slowed down a little bit since I got home from my holiday so I don't have that many new beers to add. Hoping to get back into it today and get back on track. Perhaps hit up a few new bars that I haven't tried out yet.
+
+<div class="beerlist row">
+	{% assign rev = site.data.full %}
+	{% for beer in rev %}
+		{% if beer.date == "2017-08-06" %}
+			{% include beerCell.html beer=beer %}
+		{% endif %}
+	{% endfor %}
+</div>
+
+
+
