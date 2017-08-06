@@ -1,648 +1,1368 @@
 {
   "breweries": [
     {
-      "brewery_id": 145688,
-      "brewery_name": "Nomad Brewing Co.",
-      "brewery_slug": "nomad-brewing-co",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-145688_932b2.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "NomadsBrewing",
-        "facebook": "https://www.facebook.com/NomadBrewingCo",
-        "url": "http://www.nomadbrewingco.com.au"
-      },
-      "location": {
-        "brewery_city": "Brookvale",
-        "brewery_state": "NSW",
-        "lat": -33.7639,
-        "lng": 151.272
-      },
-      "image": "brewery-145688_932b2.jpeg"
-    },
-    {
-      "brewery_id": 129674,
-      "brewery_name": "Willie The Boatman",
-      "brewery_slug": "willie-the-boatman",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-129674_25467.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "BoatmanPat",
-        "facebook": "https://www.facebook.com/willietheboatman",
-        "url": "http://www.willietheboatman.com.au"
-      },
-      "location": {
-        "brewery_city": "Tempe",
-        "brewery_state": "NSW",
-        "lat": -33.9252,
-        "lng": 151.158
-      },
-      "reviews": {
-        "beers": "It's a fairly small range which hits all the standard favorite styles plus a few more on the adventurous side but overall it's a high quality range of beers.",
-        "venue": "Situated in what seems like an old warehouse it's got that industrial feel. The corrugated iron walls tend to cause the bar to warm up significantly in the summer which gives a nice excuse to get yourself another beer."
-      },
-      "image": "missing.png"
-    },
-    {
-      "brewery_id": 48019,
-      "brewery_name": "Wayward Brewing",
-      "brewery_slug": "wayward-brewing",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "WaywardBeer",
-        "facebook": "http://www.facebook.com/WaywardBrewing",
-        "url": "http://www.waywardbrewing.com.au"
-      },
-      "location": {
-        "brewery_city": "Camperdown",
-        "brewery_state": "NSW",
-        "lat": -33.8858,
-        "lng": 151.175
-      },
-      "image": "brewery-48019_5683e.jpeg"
-    },
-    {
-      "brewery_id": 2980,
-      "brewery_name": "Balmain Brewing Company",
-      "brewery_slug": "balmain-brewing-company",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BalmainBrewingCompany_2980.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "balmainbrewing",
-        "facebook": "http://www.facebook.com/Balmain.Brewing.Company",
-        "url": "http://www.balmainbrewingcompany.com.au"
-      },
-      "location": {
-        "brewery_city": "Balmain",
-        "brewery_state": "NSW",
-        "lat": -33.8566,
-        "lng": 151.18
-      },
-      "image": "brewery-BalmainBrewingCompany_2980.jpeg"
-    },
-    {
       "brewery_id": 104449,
       "brewery_name": "Shenanigans Brewing Co.",
       "brewery_slug": "shenanigans-brewing-co",
-      "brewery_type": "Micro Brewery",
       "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-104449_078a4.jpeg",
       "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "ShenanigansBrewingCo",
+        "follow_status": false,
+        "follower_count": 583,
+        "uid": 1024931,
+        "mute_status": "none"
+      },
+      "beer_count": 34,
       "contact": {
         "twitter": "ShenanigansBrew",
         "facebook": "https://www.facebook.com/ShenanigansBrewing",
+        "instagram": "shenanigansbrewing",
         "url": "http://shenanigansbrewing.com/"
       },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
       "location": {
+        "brewery_address": "66 Marian St",
         "brewery_city": "Enmore, Sydney",
-        "brewery_state": "NSW, 2042",
-        "lat": -33.901,
-        "lng": 151.174
-      },
-      "image": "brewery-104449_078a4.jpeg"
-    },
-    {
-      "brewery_id": 97260,
-      "brewery_name": "Batch Brewing Company",
-      "brewery_slug": "batch-brewing-company",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-97260_ed6c1.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "BatchBrewCo",
-        "facebook": "https://www.facebook.com/pages/Batch-Brewing-Company/492600754155917",
-        "url": "http://www.batchbrewingco.com.au"
-      },
-      "location": {
-        "brewery_city": "Marrickville",
         "brewery_state": "NSW",
-        "lat": -33.9119,
-        "lng": 151.165
+        "brewery_lat": -33.901,
+        "brewery_lng": 151.174
       },
-      "image": "brewery-97260_ed6c1.jpeg"
-    },
-    {
-      "brewery_id": 188552,
-      "brewery_name": "Akasha Brewing Company (Australia)",
-      "brewery_slug": "akasha-brewing-company-australia",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_e75b1.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "akashabrew",
-        "facebook": "https://www.facebook.com/akashabrew",
-        "url": "http://www.akashabrewing.com.au/"
+      "rating": {
+        "count": 7077,
+        "rating_score": 3.74
       },
-      "location": {
-        "brewery_city": "Five Dock",
-        "brewery_state": "NSW",
-        "lat": -33.8696,
-        "lng": 151.118
+      "brewery_description": "A small gypsy brewing company based in Sydney's inner west.",
+      "stats": {
+        "total_count": 10551,
+        "unique_count": 2921,
+        "monthly_count": 157,
+        "weekly_count": 35,
+        "user_count": 0,
+        "age_on_service": 1260.7541319444445
       },
-      "image": "missing.png"
-    },
-    {
-      "brewery_id": 4254,
-      "brewery_name": "4 Pines Brewing Company",
-      "brewery_slug": "4-pines-brewing-company",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-4PinesBrewingCompany_4254.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "4PinesBeer",
-        "facebook": "http://www.facebook.com/pages/4-Pines-Brewing-Company/150406875042",
-        "url": "http://www.4pinesbeer.com.au"
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
       },
-      "location": {
-        "brewery_city": "Brookvale",
-        "brewery_state": "NSW",
-        "lat": -33.7645,
-        "lng": 151.278
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
       },
-      "image": "missing.png"
+      "image": "brewery-104449_078a4.jpeg",
+      "reviews": null
     },
     {
       "brewery_id": 122718,
       "brewery_name": "Shark Island Brewing Co.",
       "brewery_slug": "shark-island-brewing-co",
-      "brewery_type": "Nano Brewery",
       "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-122718_14510.jpeg",
       "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "SharkIslandBrewingCo",
+        "follow_status": false,
+        "follower_count": 134,
+        "uid": 1211819,
+        "mute_status": "none"
+      },
+      "beer_count": 27,
       "contact": {
         "twitter": "Sharkislandbrew",
         "facebook": "https://www.facebook.com/pages/Shark-Island-Brewing-Company/379657025508591",
+        "instagram": "sharkislandbrewing",
         "url": "http://sharkislandbrewing.com.au"
       },
+      "brewery_type": "Nano Brewery",
+      "brewery_type_id": 3,
       "location": {
+        "brewery_address": "Unit 8, 29-33 Waratah Street",
         "brewery_city": "Kirrawee",
         "brewery_state": "NSW",
-        "lat": -34.0286,
-        "lng": 151.079
+        "brewery_lat": -34.0286,
+        "brewery_lng": 151.079
       },
-      "image": "brewery-122718_14510.jpeg"
+      "rating": {
+        "count": 1503,
+        "rating_score": 3.462
+      },
+      "brewery_description": "A micro brewery with cellar door based in the Shire, open Thur, Fri and Sat for tastings and sales. Bringing ales with flavour to our local community and to beer lovers everywhere.\n\nCombining a core range of tasty quenchers and a multitude of extremely limited batch releases to excite the more adventurous tastebuds.",
+      "stats": {
+        "total_count": 2016,
+        "unique_count": 864,
+        "monthly_count": 114,
+        "weekly_count": 9,
+        "user_count": 0,
+        "age_on_service": 1021.9738310185185
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-122718_14510.jpeg",
+      "reviews": null
     },
     {
-      "brewery_id": 32845,
-      "brewery_name": "Grifter Brewing Company",
-      "brewery_slug": "grifter-brewing-company",
+      "brewery_id": 129674,
+      "brewery_name": "Willie The Boatman",
+      "brewery_slug": "willie-the-boatman",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-129674_bda90.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "WilliesBeers",
+        "follow_status": false,
+        "follower_count": 513,
+        "uid": 1719733,
+        "mute_status": "none"
+      },
+      "beer_count": 62,
+      "contact": {
+        "twitter": "BoatmanPat",
+        "facebook": "https://www.facebook.com/willietheboatman",
+        "instagram": "Willietheboatman",
+        "url": "http://www.willietheboatman.com.au"
+      },
       "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "thegrifterbrew",
-        "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
-        "url": "http://www.thegrifter.com.au"
-      },
+      "brewery_type_id": 2,
       "location": {
-        "brewery_city": "Sydney",
+        "brewery_address": "75 Mary Street",
+        "brewery_city": "St Peters",
         "brewery_state": "NSW",
-        "lat": -33.8688,
-        "lng": 151.209
+        "brewery_lat": -33.9138,
+        "brewery_lng": 151.173
       },
-      "image": "brewery-32845_07a8e.jpeg"
-    },
-    {
-      "brewery_id": 145927,
-      "brewery_name": "Modus Operandi Brewing Co.",
-      "brewery_slug": "modus-operandi-brewing-co",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-145927_ac0fb.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "MOBrewing",
-        "facebook": "https://www.facebook.com/ModusOperandiBrewing",
-        "url": "http://www.mobrewing.com.au"
+      "rating": {
+        "count": 7348,
+        "rating_score": 3.481
       },
-      "location": {
-        "brewery_city": "Mona Vale",
-        "brewery_state": "NSW",
-        "lat": -33.6759,
-        "lng": 151.306
+      "brewery_description": "Having met on the school run many moons ago, Nick Newey and Pat McInerney bonded over a mutual love of fishing and boating, which eventually led the pair to tinkering in homebrewing together. After years of experimentation, and with neither satisfied in their 9-5, they decided to turn their passion into profession. And so, Willie the Boatman was born.\n\nWith no experience in running, let alone building a brewery, Nick and Pat started from scratch with little else to keep them going other than a belief in their beer, a belief in their brand, and an unwavering support from their local community.\n\nCountless buckets of blood, sweat and tears (not to mention many a late night beer) later, the brewery finally opened its doors to the public in 2015, and we haven’t looked back since. With community at the core of our business model, Willie the Boatman have stayed true to our original homebrewing ethos and remain dedicated to producing good, clean beer using an uncomplicated approach.\n\nWillie the Boatman now operates its own tasting room, open Thursdays through Saturdays, as well as supplying beer to numerous pubs, hotels and bottle shops in and around the Inner West. Who knows, perhaps one day we’ll even have earned ourselves the same legendary status as our namesake, William Kerr.",
+      "stats": {
+        "total_count": 9407,
+        "unique_count": 2863,
+        "monthly_count": 309,
+        "weekly_count": 59,
+        "user_count": 0,
+        "age_on_service": 1179.0807291666667
       },
-      "image": "brewery-145927_ac0fb.jpeg"
-    },
-    {
-      "brewery_id": 34849,
-      "brewery_name": "Dad & Dave's Brewing",
-      "brewery_slug": "dad-dave-s",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-DadDaves_34849.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "dadndavebrewing",
-        "facebook": "http://www.facebook.com/dadndavesbrewing",
-        "url": "http://www.dadndavesbrewing.com"
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
       },
-      "location": {
-        "brewery_city": "",
-        "brewery_state": "",
-        "lat": 0,
-        "lng": 0
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
       },
-      "image": "brewery-DadDaves_34849.jpeg"
-    },
-    {
-      "brewery_id": 86357,
-      "brewery_name": "Stockade Brew Co",
-      "brewery_slug": "stockade-brew-co",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-86357_d698d.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "stockadebrewco",
-        "facebook": "https://www.facebook.com/stockadebrewco",
-        "url": "http://www.stockadebrewco.com.au"
-      },
-      "location": {
-        "brewery_city": "Smeaton Grange",
-        "brewery_state": "NSW",
-        "lat": -34.0344,
-        "lng": 150.753
-      },
-      "image": "brewery-86357_d698d.jpeg"
-    },
-    {
-      "brewery_id": 231217,
-      "brewery_name": "BlackFont Brewhouse",
-      "brewery_slug": "blackfont-brewhouse",
-      "brewery_type": "Nano Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-231217_1bc76.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "BlackFontBrew",
-        "facebook": "http://www.facebook.com/blackfontbrewhouse",
-        "url": "http://www.blackfont.com.au"
-      },
-      "location": {
-        "brewery_city": "Marrickville",
-        "brewery_state": "NSW",
-        "lat": -33.9147,
-        "lng": 151.16
-      },
-      "image": "brewery-231217_1bc76.jpeg"
+      "image": "brewery-129674_bda90.jpeg",
+      "reviews": {
+        "beers": "It's a fairly small range which hits all the standard favorite styles plus a few more on the adventurous side but overall it's a high quality range of beers.",
+        "venue": "Situated in what seems like an old warehouse it's got that industrial feel. The corrugated iron walls tend to cause the bar to warm up significantly in the summer which gives a nice excuse to get yourself another beer."
+      }
     },
     {
       "brewery_id": 130600,
       "brewery_name": "Yulli's Brews",
       "brewery_slug": "yulli-s-brews",
-      "brewery_type": "Micro Brewery",
       "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-130600_19bd8.jpeg",
       "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "YullisBrews",
+        "follow_status": false,
+        "follower_count": 381,
+        "uid": 1296484,
+        "mute_status": "none"
+      },
+      "beer_count": 48,
       "contact": {
         "twitter": "",
         "facebook": "https://www.facebook.com/yullisbrews/",
+        "instagram": "yullisbrews",
         "url": ""
       },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
       "location": {
+        "brewery_address": "417 Crown Street",
         "brewery_city": "Surry Hills, Sydney",
-        "brewery_state": "NSW, 2010",
-        "lat": -33.8864,
-        "lng": 151.214
+        "brewery_state": "NSW",
+        "brewery_lat": -33.8864,
+        "brewery_lng": 151.214
       },
-      "image": "brewery-130600_19bd8.jpeg"
+      "rating": {
+        "count": 5932,
+        "rating_score": 3.569
+      },
+      "brewery_description": "Yulli's Brews makes good beer in Sydney, Australia. Each brew is meticulously crafted to have it's own memorable personality, just like a good mate.",
+      "stats": {
+        "total_count": 7290,
+        "unique_count": 2674,
+        "monthly_count": 221,
+        "weekly_count": 53,
+        "user_count": 0,
+        "age_on_service": 1172.9152777777779
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-130600_19bd8.jpeg",
+      "reviews": null
+    },
+    {
+      "brewery_id": 145688,
+      "brewery_name": "Nomad Brewing Co.",
+      "brewery_slug": "nomad-brewing-co",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-145688_932b2.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "Nomadsaustralia",
+        "follow_status": false,
+        "follower_count": 1853,
+        "uid": 1466306,
+        "mute_status": "none"
+      },
+      "beer_count": 39,
+      "contact": {
+        "twitter": "NomadsBrewing",
+        "facebook": "https://www.facebook.com/NomadBrewingCo",
+        "instagram": "NomadsBrewing",
+        "url": "http://www.nomadbrewingco.com.au"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "5 Sydenham Road",
+        "brewery_city": "Brookvale",
+        "brewery_state": "NSW",
+        "brewery_lat": -33.7639,
+        "brewery_lng": 151.272
+      },
+      "rating": {
+        "count": 30653,
+        "rating_score": 3.551
+      },
+      "brewery_description": "Nomad's, members of a community that roam from one location to another. An experience in beer, beer designed for adventures in taste. All our beers are naturally bottle and keg conditioned and proudly brewed and packaged at our Brewery on Sydney's Northern Beaches. Nomad's Never Settle! (except to brew great beer!)",
+      "stats": {
+        "total_count": 37389,
+        "unique_count": 14845,
+        "monthly_count": 1140,
+        "weekly_count": 262,
+        "user_count": 0,
+        "age_on_service": 1106.7986805555556
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 2010178,
+              "venue_name": "Nomad brewing Co.",
+              "venue_slug": "nomad-brewing-co",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "5 Sydenham Rd",
+                "venue_city": "Brookvale",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.764,
+                "lng": 151.272
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "53f94ecd498ef93941a9e360",
+                "foursquare_url": "http://4sq.com/1mC7xhD"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      },
+      "image": "brewery-145688_932b2.jpeg",
+      "reviews": null
+    },
+    {
+      "brewery_id": 145927,
+      "brewery_name": "Modus Operandi Brewing Co.",
+      "brewery_slug": "modus-operandi-brewing-co",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-145927_ac0fb.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "ModusOperandiBrewingCo",
+        "follow_status": false,
+        "follower_count": 1654,
+        "uid": 1551037,
+        "mute_status": "none"
+      },
+      "beer_count": 40,
+      "contact": {
+        "twitter": "MOBrewing",
+        "facebook": "https://www.facebook.com/ModusOperandiBrewing",
+        "instagram": "modusoperandibrewing",
+        "url": "http://www.mobrewing.com.au"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "14 Harkeith Street",
+        "brewery_city": "Mona Vale",
+        "brewery_state": "NSW",
+        "brewery_lat": -33.6759,
+        "brewery_lng": 151.306
+      },
+      "rating": {
+        "count": 22409,
+        "rating_score": 3.856
+      },
+      "brewery_description": "An independently owned brewery based on the Northern Beaches of Sydney. 12 beers on tap, finger lickin grub, live music and all beers available for takeaway in growlers or CANimals. Awarded Champion Medium Brewery, Champion IPA and Champion Pale Ale in the Craft Beer Awards 2015. \n\nOur Modus Operandi is simple. Beer First. No Shortcuts. ",
+      "stats": {
+        "total_count": 31335,
+        "unique_count": 7118,
+        "monthly_count": 1238,
+        "weekly_count": 512,
+        "user_count": 0,
+        "age_on_service": 1106.9632175925926
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 1958764,
+              "venue_name": "Modus Operandi Brewing Co.",
+              "venue_slug": "modus-operandi-brewing-co",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "14 Harkeith St",
+                "venue_city": "Mona Vale",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.6759,
+                "lng": 151.306
+              },
+              "contact": {
+                "twitter": "@mobrewing",
+                "venue_url": "http://www.mobrewing.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "53e1a837498e1c99b37c09b5",
+                "foursquare_url": "http://4sq.com/1nqJFNb"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      },
+      "image": "brewery-145927_ac0fb.jpeg",
+      "reviews": null
+    },
+    {
+      "brewery_id": 188552,
+      "brewery_name": "Akasha Brewing Company (Australia)",
+      "brewery_slug": "akasha-brewing-company-australia",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "akashabrew",
+        "follow_status": false,
+        "follower_count": 923,
+        "uid": 2064050,
+        "mute_status": "none"
+      },
+      "beer_count": 18,
+      "contact": {
+        "twitter": "akashabrew",
+        "facebook": "https://www.facebook.com/akashabrew",
+        "instagram": "akashabrew",
+        "url": "http://www.akashabrewing.com.au/"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "10A Spencer Street",
+        "brewery_city": "Five Dock",
+        "brewery_state": "NSW",
+        "brewery_lat": -33.8696,
+        "brewery_lng": 151.118
+      },
+      "rating": {
+        "count": 13206,
+        "rating_score": 3.862
+      },
+      "brewery_description": "The Akasha Brewing team is made up of like-minded, passionate beer enthusiasts. Our culture is pretty simple: brew the beer that we love to drink and, most importantly, have some fun while we’re doing it. Basically, for all of us here at Akasha, beer is our way of life.",
+      "stats": {
+        "total_count": 19500,
+        "unique_count": 5282,
+        "monthly_count": 748,
+        "weekly_count": 261,
+        "user_count": 0,
+        "age_on_service": 844.9718287037037
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-188552_53073.jpeg",
+      "reviews": null
+    },
+    {
+      "brewery_id": 231217,
+      "brewery_name": "BlackFont Brewhouse",
+      "brewery_slug": "blackfont-brewhouse",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-231217_1bc76.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "BlackFontBrewhouse",
+        "follow_status": false,
+        "follower_count": 135,
+        "uid": 2758768,
+        "mute_status": "none"
+      },
+      "beer_count": 104,
+      "contact": {
+        "twitter": "BlackFontBrew",
+        "facebook": "http://www.facebook.com/blackfontbrewhouse",
+        "instagram": "BlackFontBrewhouse",
+        "url": "http://www.blackfont.com.au"
+      },
+      "brewery_type": "Nano Brewery",
+      "brewery_type_id": 3,
+      "location": {
+        "brewery_address": "92 Meeks Rd",
+        "brewery_city": "Marrickville",
+        "brewery_state": "NSW",
+        "brewery_lat": -33.9147,
+        "brewery_lng": 151.16
+      },
+      "rating": {
+        "count": 1778,
+        "rating_score": 3.923
+      },
+      "brewery_description": "Aiming to create interesting, unusual, & sometimes challenging beers for Inner West beer lovers!",
+      "stats": {
+        "total_count": 2350,
+        "unique_count": 406,
+        "monthly_count": 154,
+        "weekly_count": 69,
+        "user_count": 0,
+        "age_on_service": 658.8857986111111
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-231217_1bc76.jpeg",
+      "reviews": null
     },
     {
       "brewery_id": 2748,
       "brewery_name": "The Lord Nelson Brewery Hotel",
       "brewery_slug": "the-lord-nelson-brewery-hotel",
-      "brewery_type": "Micro Brewery",
       "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2748_12736.jpeg",
       "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "TheLordNelsonBreweryHotel",
+        "follow_status": false,
+        "follower_count": 1452,
+        "uid": 267286,
+        "mute_status": "none"
+      },
+      "beer_count": 40,
       "contact": {
         "twitter": "LordNelsonBrew",
         "facebook": "http://www.facebook.com/lord.nelson.brewery.hotel",
+        "instagram": "lordnelsonbrewery",
         "url": "http://www.lordnelsonbrewery.com"
       },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
       "location": {
+        "brewery_address": "19 Kent St, The Rocks",
         "brewery_city": "Sydney",
         "brewery_state": "NSW",
-        "lat": -33.8582,
-        "lng": 151.203
+        "brewery_lat": -33.8582,
+        "brewery_lng": 151.203
       },
-      "image": "brewery-2748_12736.jpeg"
+      "rating": {
+        "count": 16212,
+        "rating_score": 3.575
+      },
+      "brewery_description": "The Lord Nelson Brewery Hotel is Sydneys Oldest  licensed hotel, located in the historic rocks precinct and home of Australias oldest pub brewery. The Lord is recognised around the world for its award winning beers, food and accommodation, which allows our guests to experience the amenities of a modern establishment with the grandeur and colonial appeal of one of the worlds most unique hotels.",
+      "stats": {
+        "total_count": 23222,
+        "unique_count": 9304,
+        "monthly_count": 499,
+        "weekly_count": 136,
+        "user_count": 0,
+        "age_on_service": 2451.892048611111
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-2748_12736.jpeg",
+      "reviews": null
+    },
+    {
+      "brewery_id": 2980,
+      "brewery_name": "Balmain Brewing Company",
+      "brewery_slug": "balmain-brewing-company",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BalmainBrewingCompany_2980.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "balmainbrewing",
+        "follow_status": false,
+        "follower_count": 386,
+        "uid": 119502,
+        "mute_status": "none"
+      },
+      "beer_count": 7,
+      "contact": {
+        "twitter": "balmainbrewing",
+        "facebook": "http://www.facebook.com/Balmain.Brewing.Company",
+        "instagram": "balmainbrewing",
+        "url": "http://www.balmainbrewingcompany.com.au"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "1/323 Darling St",
+        "brewery_city": "Balmain",
+        "brewery_state": "NSW",
+        "brewery_lat": -33.8566,
+        "brewery_lng": 151.18
+      },
+      "rating": {
+        "count": 4289,
+        "rating_score": 3.309
+      },
+      "brewery_description": "The Balmain Brewing Company was launched in 2010 in honour of tradition, mates and pub culture. The Company is owned by a group of passionate mates, locals to Balmain, with the following vision: \n\n• Becoming Sydney’s own iconic local beer company, representing tradition, mates and pub culture \n\n• Brewing hand-crafted quality beer \n\n• Having the majority of pubs in Sydney pouring a Balmain Brewing Company beer \n\n• Establish a Balmain Brewing Company microbrewery/restaurant on the peninsula. \n\nThe mates dreamed up the plan while drinking over the years in each of Balmain’s 17 pubs, and hearing about the Balmain Brewery of last century and the 55 pubs of the 1800’s!",
+      "stats": {
+        "total_count": 5909,
+        "unique_count": 3334,
+        "monthly_count": 57,
+        "weekly_count": 18,
+        "user_count": 0,
+        "age_on_service": 2445.8519675925927
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-BalmainBrewingCompany_2980.jpeg",
+      "reviews": null
     },
     {
       "brewery_id": 3262,
       "brewery_name": " Australian Brewery",
       "brewery_slug": "australian-brewery",
-      "brewery_type": "Micro Brewery",
       "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
       "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "TheAustralianBrewery",
+        "follow_status": false,
+        "follower_count": 655,
+        "uid": 244910,
+        "mute_status": "none"
+      },
+      "beer_count": 34,
       "contact": {
         "twitter": "AusBrewery",
         "facebook": "http://www.facebook.com/ausbrewery",
+        "instagram": "ausbrewery",
         "url": "http://www.australianbrewery.com"
       },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
       "location": {
+        "brewery_address": "350 Annangrove Rd",
         "brewery_city": "Rouse Hill",
         "brewery_state": "NSW",
-        "lat": -33.6745,
-        "lng": 150.913
+        "brewery_lat": -33.6745,
+        "brewery_lng": 150.913
       },
-      "image": "brewery-3262_b5613.jpeg"
+      "rating": {
+        "count": 9571,
+        "rating_score": 3.346
+      },
+      "brewery_description": "Twenty years ago six brothers from Sydney with a passion for craft beer and hospitality started taking small steps towards creating a range of signature Australian craft brews.\n\nAlong the way these steps have become giant leaps as they have consistently produced award winning craft beers and distributed them nationwide and even overseas.\n\nFrom a small Brewery in the Hunter Valley to a state of the art micro brewery in Northwest Sydney the family’s philosophy has always been – Fresh, Pure, Australian.",
+      "stats": {
+        "total_count": 13651,
+        "unique_count": 5350,
+        "monthly_count": 389,
+        "weekly_count": 83,
+        "user_count": 0,
+        "age_on_service": 2440.657627314815
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-3262_b5613.jpeg",
+      "reviews": null
     },
     {
-      "brewery_id": 261136,
-      "brewery_name": "Bankstown Sports ",
-      "brewery_slug": "bankstown-sports",
-      "brewery_type": "Brew Pub",
-      "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+      "brewery_id": 32845,
+      "brewery_name": "The Grifter Brewing Company",
+      "brewery_slug": "the-grifter-brewing-company",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
       "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "TheGrifterBrewingCo",
+        "follow_status": false,
+        "follower_count": 700,
+        "uid": 218381,
+        "mute_status": "none"
+      },
+      "beer_count": 44,
       "contact": {
-        "twitter": "",
-        "facebook": "",
-        "url": ""
+        "twitter": "thegrifterbrew",
+        "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+        "instagram": "thegrifterbrewingco",
+        "url": "http://www.thegrifter.com.au"
       },
-      "location": {
-        "brewery_city": "",
-        "brewery_state": "",
-        "lat": 0,
-        "lng": 0
-      },
-      "image": "badge-brewery-default.png"
-    },
-    {
-      "brewery_id": 3173,
-      "brewery_name": "ENDEAVOUR Vintage Beer Co.",
-      "brewery_slug": "endeavour-vintage-beer",
       "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3173_cdd1f.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "ENDEAVOURbeer",
-        "facebook": "https://www.facebook.com/ENDEAVOURbeer",
-        "url": "http://www.ENDEAVOURbeer.com"
-      },
+      "brewery_type_id": 2,
       "location": {
+        "brewery_address": "",
         "brewery_city": "Sydney",
         "brewery_state": "NSW",
-        "lat": -33.8642,
-        "lng": 151.213
+        "brewery_lat": -33.8688,
+        "brewery_lng": 151.209
       },
-      "image": "brewery-3173_cdd1f.jpeg"
+      "rating": {
+        "count": 9711,
+        "rating_score": 3.658
+      },
+      "brewery_description": "Based in Marrickville, Sydney. \n\nTasting bar at the brewery - see website for hours. \n\n1/391 Enmore Road, Marrickville, 2204. ",
+      "stats": {
+        "total_count": 12928,
+        "unique_count": 3683,
+        "monthly_count": 496,
+        "weekly_count": 136,
+        "user_count": 0,
+        "age_on_service": 1871.8251967592594
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-32845_07a8e.jpeg",
+      "reviews": null
     },
     {
-      "brewery_id": 246248,
-      "brewery_name": "Urban Craft Brewing Co",
-      "brewery_slug": "urban-craft-brewing-co",
-      "brewery_type": "Bar / Restaurant / Store",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-246248_56c83.jpeg",
+      "brewery_id": 34849,
+      "brewery_name": "Dad & Dave's Brewing",
+      "brewery_slug": "dad-dave-s-brewing",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-DadDaves_34849.jpeg",
       "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "dadndavesbrewing",
+        "follow_status": false,
+        "follower_count": 162,
+        "uid": 223423,
+        "mute_status": "none"
+      },
+      "beer_count": 5,
       "contact": {
-        "twitter": "CraftyBavarian",
-        "facebook": "https://www.facebook.com/craftybavarian/",
-        "url": "http://www.urbanbrewco.com.au/"
+        "twitter": "dadndavebrewing",
+        "facebook": "http://www.facebook.com/dadndavesbrewing",
+        "instagram": "dadndavesbrewing",
+        "url": "http://www.dadndavesbrewing.com"
       },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
       "location": {
-        "brewery_city": "",
-        "brewery_state": "",
-        "lat": 0,
-        "lng": 0
+        "brewery_address": "2/1 Chard Rd",
+        "brewery_city": "Brookvale",
+        "brewery_state": "NSW",
+        "brewery_lat": -33.7634,
+        "brewery_lng": 151.272
       },
-      "image": "brewery-246248_56c83.jpeg"
+      "rating": {
+        "count": 1820,
+        "rating_score": 3.377
+      },
+      "brewery_description": "Founded on Sydney’s Northern Beaches in 2011, Dad & Dave's Brewing is an independently owned and operated family business (Dad, Dave, Mum, Jess, Scott and James).\n \nDad (John) and Dave are qualified brewers who understand customer wants and needs. We focus on using the traditional ingredients of malt, hops, water and yeast, and then combine these with some innovative ingredients and brewing techniques to live up to our motto:\n \n\"We make beer, delicious beer!\"",
+      "stats": {
+        "total_count": 2397,
+        "unique_count": 1365,
+        "monthly_count": 67,
+        "weekly_count": 23,
+        "user_count": 0,
+        "age_on_service": 1841.6991435185184
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 5840988,
+              "venue_name": "Dad and Dave's Brewing",
+              "venue_slug": "dad-and-daves-brewing",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Australia",
+                "lat": -33.7631,
+                "lng": 151.272
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5882c97f8d8e992976f6de37",
+                "foursquare_url": "http://4sq.com/2iLP3EB"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      },
+      "image": "brewery-DadDaves_34849.jpeg",
+      "reviews": null
     },
     {
-      "brewery_id": 227599,
-      "brewery_name": "Beer Creative",
-      "brewery_slug": "beer-creative",
-      "brewery_type": "Nano Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-227599_9e5f0.jpeg",
+      "brewery_id": 4254,
+      "brewery_name": "4 Pines Brewing Company",
+      "brewery_slug": "4-pines-brewing-company",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-4254_7c9e9.jpeg",
       "country_name": "Australia",
-      "contact": {
-        "twitter": "",
-        "facebook": "https://www.facebook.com/beercreativecollege",
-        "url": "http://www.beercreative.com.au"
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "4pinesbeer",
+        "follow_status": false,
+        "follower_count": 4000,
+        "uid": 121252,
+        "mute_status": "none"
       },
+      "beer_count": 238,
+      "contact": {
+        "twitter": "4PinesBeer",
+        "facebook": "http://www.facebook.com/pages/4-Pines-Brewing-Company/150406875042",
+        "instagram": "4pinesbeer",
+        "url": "http://www.4pinesbeer.com.au"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
       "location": {
+        "brewery_address": "9-13 Winbourne Rd",
+        "brewery_city": "Brookvale",
+        "brewery_state": "NSW",
+        "brewery_lat": -33.7645,
+        "brewery_lng": 151.278
+      },
+      "rating": {
+        "count": 63424,
+        "rating_score": 3.648
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 91758,
+        "unique_count": 17715,
+        "monthly_count": 2234,
+        "weekly_count": 507,
+        "user_count": 0,
+        "age_on_service": 2416.912662037037
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 2,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 14705,
+              "venue_name": "4 Pines Brewpub Manly - Brewery",
+              "venue_slug": "4-pines-brewpub-manly-brewery",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "29/43-45 East Esplanade",
+                "venue_city": "Manly",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.7996,
+                "lng": 151.285
+              },
+              "contact": {
+                "twitter": "@4pinesbeer",
+                "venue_url": "http://www.4pinesbeer.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4b07af57f964a52071ff22e3",
+                "foursquare_url": "http://4sq.com/4SIIEv"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          },
+          {
+            "venue": {
+              "venue_id": 499137,
+              "venue_name": "4 Pines Truckbar Brookvale",
+              "venue_slug": "4-pines-truckbar-brookvale",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "9-13 Winbourne Rd",
+                "venue_city": "Brookvale",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.7648,
+                "lng": 151.278
+              },
+              "contact": {
+                "twitter": "@4pinesbeer",
+                "venue_url": "http://www.4pinesbeer.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "50c2ae75e4b0e0fa33f985bd",
+                "foursquare_url": "http://4sq.com/12ahlX1"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      },
+      "image": "brewery-4254_7c9e9.jpeg",
+      "reviews": null
+    },
+    {
+      "brewery_id": 48019,
+      "brewery_name": "Wayward Brewing",
+      "brewery_slug": "wayward-brewing",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "WaywardBrewing",
+        "follow_status": false,
+        "follower_count": 855,
+        "uid": 449842,
+        "mute_status": "none"
+      },
+      "beer_count": 75,
+      "contact": {
+        "twitter": "WaywardBeer",
+        "facebook": "http://www.facebook.com/WaywardBrewing",
+        "instagram": "WaywardBrewing",
+        "url": "http://www.waywardbrewing.com.au"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "3 Gehrig Lane",
+        "brewery_city": "Camperdown",
+        "brewery_state": "NSW",
+        "brewery_lat": -33.8858,
+        "brewery_lng": 151.175
+      },
+      "rating": {
+        "count": 13843,
+        "rating_score": 3.653
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 18784,
+        "unique_count": 4880,
+        "monthly_count": 849,
+        "weekly_count": 222,
+        "user_count": 0,
+        "age_on_service": 1692.8967824074075
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-48019_5683e.jpeg",
+      "reviews": null
+    },
+    {
+      "brewery_id": 86357,
+      "brewery_name": "Stockade Brew Co",
+      "brewery_slug": "stockade-brew-co",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-86357_d698d.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "Stockade",
+        "follow_status": false,
+        "follower_count": 634,
+        "uid": 1667373,
+        "mute_status": "none"
+      },
+      "beer_count": 29,
+      "contact": {
+        "twitter": "stockadebrewco",
+        "facebook": "https://www.facebook.com/stockadebrewco",
+        "instagram": "stockadebrewco",
+        "url": "http://www.stockadebrewco.com.au"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "41-43 Topham Road",
+        "brewery_city": "Smeaton Grange",
+        "brewery_state": "NSW",
+        "brewery_lat": -34.0344,
+        "brewery_lng": 150.753
+      },
+      "rating": {
+        "count": 14522,
+        "rating_score": 3.649
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 17888,
+        "unique_count": 5968,
+        "monthly_count": 1024,
+        "weekly_count": 230,
+        "user_count": 0,
+        "age_on_service": 1386.4915393518518
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 232950,
+            "is_brewery_group": 0,
+            "brewery_name": "Macarthur Grange Brewery"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 3417655,
+              "venue_name": "Macarthur Grange Brewery",
+              "venue_slug": "macarthur-grange-brewery",
+              "primary_category": "Professional & Other Places",
+              "parent_category_id": "4d4b7105d754a06375d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Distillery",
+                    "category_id": "4e0e22f5a56208c4ea9a85a0",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Australia",
+                "lat": -34.0342,
+                "lng": 150.753
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "55cd9705498ed97f40d09a0a",
+                "foursquare_url": "http://4sq.com/1PbvFGq"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      },
+      "image": "brewery-86357_d698d.jpeg",
+      "reviews": null
+    },
+    {
+      "brewery_id": 97260,
+      "brewery_name": "Batch Brewing Company",
+      "brewery_slug": "batch-brewing-company",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-97260_ed6c1.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "BatchBrewingCo",
+        "follow_status": false,
+        "follower_count": 1409,
+        "uid": 947226,
+        "mute_status": "none"
+      },
+      "beer_count": 172,
+      "contact": {
+        "twitter": "BatchBrewCo",
+        "facebook": "https://www.facebook.com/pages/Batch-Brewing-Company/492600754155917",
+        "instagram": "batchbrewingcompany",
+        "url": "http://www.batchbrewingco.com.au"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "44 Sydenham Road",
         "brewery_city": "Marrickville",
         "brewery_state": "NSW",
-        "lat": 0,
-        "lng": 0
+        "brewery_lat": -33.9119,
+        "brewery_lng": 151.165
       },
-      "image": "brewery-227599_9e5f0.jpeg"
-    },
-    {
-      "brewery_id": 3215,
-      "brewery_name": "Doctor's Orders Brewing",
-      "brewery_slug": "doctor-s-orders-brewing",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-DoctorsOrdersBrewing_3215.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "DRsOrdersBrewin",
-        "facebook": "https://www.facebook.com/pages/Doctors-Orders-Brewing/21670930872",
-        "url": "http://www.doctorsordersbrewing.com/"
+      "rating": {
+        "count": 24327,
+        "rating_score": 3.673
       },
-      "location": {
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "lat": -33.8675,
-        "lng": 151.207
+      "brewery_description": "Batch Brewing Company brews beer the traditional way, hand crafted and batch by batch. We brew for you Sydney.",
+      "stats": {
+        "total_count": 32138,
+        "unique_count": 5408,
+        "monthly_count": 1272,
+        "weekly_count": 260,
+        "user_count": 0,
+        "age_on_service": 1327.7793865740741
       },
-      "image": "brewery-DoctorsOrdersBrewing_3215.jpeg"
-    },
-    {
-      "brewery_id": 28042,
-      "brewery_name": "Young Henrys Brewing Company",
-      "brewery_slug": "young-henrys-brewing-company",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-YoungHenrysBrewingCompany_28042.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "younghenrys",
-        "facebook": "http://www.facebook.com/younghenrysbrewing",
-        "url": "http://www.younghenrys.com"
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
       },
-      "location": {
-        "brewery_city": "Newtown",
-        "brewery_state": "NSW",
-        "lat": -33.8981,
-        "lng": 151.174
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 1240012,
+              "venue_name": "Batch Brewing Company",
+              "venue_slug": "batch-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "44 Sydenham Rd",
+                "venue_city": "Marrickville",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9118,
+                "lng": 151.165
+              },
+              "contact": {
+                "twitter": "@batchbrewco",
+                "venue_url": "http://www.batchbrewingco.com.au/"
+              },
+              "foursquare": {
+                "foursquare_id": "52b2d07f11d2240462ac70eb",
+                "foursquare_url": "http://4sq.com/1eqguvi"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_1240012_e5d347c0_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_1240012_e5d347c0_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_1240012_e5d347c0_bg_88.png"
+              },
+              "is_verified": true
+            }
+          }
+        ]
       },
-      "image": "brewery-YoungHenrysBrewingCompany_28042.jpeg"
-    },
-    {
-      "brewery_id": 15195,
-      "brewery_name": "Riverside Brewing Company",
-      "brewery_slug": "riverside-brewing-company",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-RiversideBrewingCompany_15195.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "riversidebrew",
-        "facebook": "http://www.facebook.com/riversidebrew",
-        "url": "http://www.riversidebrewing.com.au"
-      },
-      "location": {
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "lat": -33.7927,
-        "lng": 151.001
-      },
-      "image": "brewery-RiversideBrewingCompany_15195.jpeg"
-    },
-    {
-      "brewery_id": 304416,
-      "brewery_name": "Basement Brewhouse",
-      "brewery_slug": "basement-brewhouse",
-      "brewery_type": "Brew Pub",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "",
-        "facebook": "https://www.facebook.com/basementbrewhouse/",
-        "url": "https://www.bankstownsports.com/brewhouse"
-      },
-      "location": {
-        "brewery_city": "Bankstown",
-        "brewery_state": "NSW",
-        "lat": 0,
-        "lng": 0
-      },
-      "image": "brewery-304416_8a5c0.jpeg"
-    },
-    {
-      "brewery_id": 231272,
-      "brewery_name": "Sauce Brewing Co",
-      "brewery_slug": "sauce-brewing-co",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-231272_dc59b.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "",
-        "facebook": "http://facebook.com/saucebrewing",
-        "url": "http://sauce.beer"
-      },
-      "location": {
-        "brewery_city": "",
-        "brewery_state": "NSW",
-        "lat": 0,
-        "lng": 0
-      },
-      "image": "brewery-231272_dc59b.jpeg"
-    },
-    {
-      "brewery_id": 271343,
-      "brewery_name": "Bucket Boys Craft Beer Co",
-      "brewery_slug": "bucket-boys-craft-beer-co",
-      "brewery_type": "Nano Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-271343_85ec1.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "bucketboysbeer",
-        "facebook": "www.facebook.com/bucketboysbeer",
-        "url": "http://www.bucketboys.com.au"
-      },
-      "location": {
-        "brewery_city": "Marrickville ",
-        "brewery_state": "NSW",
-        "lat": 0,
-        "lng": 0
-      },
-      "image": "brewery-271343_85ec1.jpeg"
-    },
-    {
-      "brewery_id": 2984,
-      "brewery_name": "Sydney Brewery",
-      "brewery_slug": "sydney-brewery",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2984_82389.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "",
-        "facebook": "http://www.facebook.com/SydneyBrewery",
-        "url": "http://sydneybrewery.com/"
-      },
-      "location": {
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "lat": -33.8785,
-        "lng": 151.211
-      },
-      "image": "missing.png"
-    },
-    {
-      "brewery_id": 84091,
-      "brewery_name": "Pixel Brewing Co",
-      "brewery_slug": "pixel-brewing-co",
-      "brewery_type": "Nano Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-84091_52020.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "PixelBrewingCo",
-        "facebook": "http://www.facebook.com/pixelbrewingco",
-        "url": "http://www.pixelbrewingco.com.au"
-      },
-      "location": {
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "lat": -33.8688,
-        "lng": 151.209
-      },
-      "image": "brewery-84091_52020.jpeg"
-    },
-    {
-      "brewery_id": 166490,
-      "brewery_name": "Rockpool",
-      "brewery_slug": "rockpool",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "",
-        "facebook": "",
-        "url": ""
-      },
-      "location": {
-        "brewery_city": "",
-        "brewery_state": "NSW",
-        "lat": 0,
-        "lng": 0
-      },
-      "image": "badge-brewery-default.png"
-    },
-    {
-      "brewery_id": 168333,
-      "brewery_name": "Lovedale Brewery",
-      "brewery_slug": "lovedale-brewery",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-168333_3742d.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "",
-        "facebook": "https://www.facebook.com/pages/Lovedale-Brewery/618761468218113?fref=ts",
-        "url": "http://www.lovedalebrewery.com"
-      },
-      "location": {
-        "brewery_city": "Sydney",
-        "brewery_state": "NSW",
-        "lat": -33.8773,
-        "lng": 151.208
-      },
-      "image": "brewery-168333_3742d.jpeg"
-    },
-    {
-      "brewery_id": 3242,
-      "brewery_name": "Rocks Brewing Co",
-      "brewery_slug": "rocks-brewing-co",
-      "brewery_type": "Micro Brewery",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-rocksbrewingco_3242.jpeg",
-      "country_name": "Australia",
-      "contact": {
-        "twitter": "rocksbrewing",
-        "facebook": "http://www.facebook.com/rocksbrewing",
-        "url": "http://rocksbrewing.com"
-      },
-      "location": {
-        "brewery_city": "Alexandria",
-        "brewery_state": "NSW",
-        "lat": -33.8755,
-        "lng": 151.218
-      },
-      "image": "brewery-rocksbrewingco_3242.jpeg"
+      "image": "brewery-97260_ed6c1.jpeg",
+      "reviews": null
     }
   ]
 }

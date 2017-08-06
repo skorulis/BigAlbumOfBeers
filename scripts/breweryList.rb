@@ -2,14 +2,15 @@ require 'rubygems'
 require 'json'
 require 'net/http'
 
-files = Dir["./untappd/**/*.json"]
+files = Dir["./untappd/brewery/**/*.json"]
 
 oldList = JSON.parse(File.read("_data/breweries.json"))["breweries"]
 
 breweries = Hash.new
+oldBreweries = Hash.new
 
 oldList.each do |brewery|
-	breweries[brewery["brewery_id"]] = brewery
+	oldBreweries[brewery["brewery_id"]] = brewery
 end
 
 
@@ -18,17 +19,22 @@ breweryList = []
 files.each do |file|
 	data = JSON.parse(File.read(file))
 
-	brewery = data["response"]["beer"]["brewery"]
+	brewery = data["response"]["brewery"]
+	bId = brewery["brewery_id"]
 	imageURL = brewery["brewery_label"]
 	brewery["image"] = imageURL.split('/')[-1]
+
+	old = oldBreweries[bId]
+	if old != nil
+		puts old["reviews"]
+		brewery["reviews"] = old["reviews"]
+	end
+
+	
 
 	imageFile = "img/brewery/" + imageURL.split('/')[-1]
 	if !File.exists?(imageFile)
 		puts imageURL
-
-		#response = Net::HTTP.request_head(URI.parse(imageURL))
-		#puts = response['content-length']
-
 
 		imageData = Net::HTTP.get(URI.parse(imageURL))
 		puts imageData.length
@@ -41,16 +47,9 @@ files.each do |file|
 		
 		sleep(5)
 	end
-
 	
-
-	bId = brewery["brewery_id"]
-	if breweries[bId] == nil || true
-		breweries[bId] = brewery
-	end
-
+	breweries[bId] = brewery
 	
-
 end
 
 
