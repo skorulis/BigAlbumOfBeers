@@ -9,7 +9,7 @@ brewery: "Stockade Brew Co"
 breweryURL: "/brewery/stockade-brew-co.html"
 style: "Märzen"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16683975_10154923954278745_9031710654634182392_n.jpg?oh=249d09e8cf83163988cf39781ea5f64a&oe=59FF9BA4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16683975_10154923954278745_9031710654634182392_n.jpg?oh=4d25182a1a3c28fe2434521923262d48&oe=5A2728A4
 beer-date: "2017-02-11"
 desc: "Strange and a little tangy. Smells a bit sour. Very little hop flavour or aroma, kind of sits in an odd spot between quaffable and flavourful brews. Pretty good with food"
 permalink: /beer/:title.html
