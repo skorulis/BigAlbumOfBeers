@@ -4,6 +4,7 @@ require 'httpclient'
 
 ACCESS_TOKEN = ARGV[0]
 SECRET = ARGV[1]
+BID = ARGV[2]
 
 if ACCESS_TOKEN == nil || SECRET == nil
 	puts "Usage: ruby buildExtra.rb UNTAPPED_ID UNTAPPED_SECRET"
@@ -12,11 +13,7 @@ end
 
 files = Dir["./untappd/beer/**/*.json"]
 
-files.each do |file|
-	data = JSON.parse(File.read(file))
-
-	brewery = data["response"]["beer"]["brewery"]
-	id = brewery["brewery_id"]
+def fetchBrewery(id)
 	filename = "untappd/brewery/" + id.to_s + ".json"
 	if(File.file?(filename))
 		puts "skip " + id.to_s
@@ -38,4 +35,16 @@ files.each do |file|
 		end
 		sleep(4)
 	end
+end
+
+if BID != nil
+	fetchBrewery(BID)
+end
+
+files.each do |file|
+	data = JSON.parse(File.read(file))
+
+	brewery = data["response"]["beer"]["brewery"]
+	id = brewery["brewery_id"]
+	fetchBrewery(id)
 end
