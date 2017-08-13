@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/willie-the-boatman/129674"
 permalink: /brewery/:title.html
 lat: -33.9138
 lng: 151.173
+instagram: 'Willietheboatman'
+twitter: 'BoatmanPat'
+facebook: 'https://www.facebook.com/willietheboatman'
 ---

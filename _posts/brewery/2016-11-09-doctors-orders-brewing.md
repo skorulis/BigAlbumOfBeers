@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/doctors-orders-brewing/3215"
 permalink: /brewery/:title.html
 lat: -33.8675
 lng: 151.207
+instagram: 'doctorsordersbrewing'
+twitter: 'DRsOrdersBrewin'
+facebook: 'https://www.facebook.com/pages/Doctors-Orders-Brewing/21670930872'
 ---

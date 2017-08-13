@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/olympic-brewery/3539"
 permalink: /brewery/:title.html
 lat: 38.4082
 lng: 23.53
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/FixHellasBeer?fref=ts'
 ---

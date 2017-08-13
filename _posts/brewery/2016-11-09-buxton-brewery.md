@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/buxton-brewery/3461"
 permalink: /brewery/:title.html
 lat: 53.2591
 lng: -1.91483
+instagram: 'BuxtonBrewery'
+twitter: 'BuxtonBrewery'
+facebook: 'http://www.facebook.com/BuxtonBreweryCompany'
 ---

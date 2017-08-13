@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/apatinska-pivara/3769"
 permalink: /brewery/:title.html
 lat: 45.6749
 lng: 18.9771
+instagram: ''
+twitter: ''
+facebook: 'http://www.facebook.com/pages/JelenPivo/28032575448'
 ---

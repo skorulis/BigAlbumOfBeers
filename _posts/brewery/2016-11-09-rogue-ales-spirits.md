@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/rogue-ales---spirits/4565"
 permalink: /brewery/:title.html
 lat: 44.6202
 lng: -124.052
+instagram: 'rogueales'
+twitter: 'rogueales'
+facebook: 'https://www.facebook.com/RogueAlesSpirits/'
 ---

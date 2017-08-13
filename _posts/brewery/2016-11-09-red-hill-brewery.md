@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/red-hill-brewery/2985"
 permalink: /brewery/:title.html
 lat: -38.391
 lng: 145.018
+instagram: 'redhillbrewery'
+twitter: 'RedHillBrewery'
+facebook: 'http://www.facebook.com/redhillbrewery'
 ---

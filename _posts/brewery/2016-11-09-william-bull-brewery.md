@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/william-bull-brewery/18580"
 permalink: /brewery/:title.html
 lat: -34.2881
 lng: 146.154
+instagram: ''
+twitter: 'WilliamsBeers'
+facebook: 'http://www.facebook.com/WilliamsBeers'
 ---

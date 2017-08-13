@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/fortitude-brewing-company/55982"
 permalink: /brewery/:title.html
 lat: -27.936
 lng: 153.194
+instagram: 'fortitudebrewco'
+twitter: 'fortitudebrewco'
+facebook: 'http://www.facebook.com/fortitudebrewingcompany'
 ---

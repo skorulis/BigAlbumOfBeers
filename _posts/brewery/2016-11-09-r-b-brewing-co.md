@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/r-b-brewing-co-/3736"
 permalink: /brewery/:title.html
 lat: 49.2674
 lng: -123.103
+instagram: 'rbbrewing'
+twitter: 'RandBBrewing'
+facebook: 'http://facebook.com/RBBrewing'
 ---

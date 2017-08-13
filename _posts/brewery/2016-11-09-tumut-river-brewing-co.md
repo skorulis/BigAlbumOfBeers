@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/tumut-river-brewing-co/152998"
 permalink: /brewery/:title.html
 lat: -35.2962
 lng: 148.21
+instagram: ''
+twitter: 'tumutriverbrewn'
+facebook: 'https://www.facebook.com/tumutriverbrewingco'
 ---

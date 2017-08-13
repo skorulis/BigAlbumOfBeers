@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/hawthorn-brewing-company/6931"
 permalink: /brewery/:title.html
 lat: -37.826
 lng: 145.034
+instagram: ''
+twitter: 'hawthornbrewing'
+facebook: 'http://www.facebook.com/HawthornBrewingCo'
 ---

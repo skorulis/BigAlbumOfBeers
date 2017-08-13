@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brauerei-nemo-namenlos/19827"
 permalink: /brewery/:title.html
 lat: 52.5192
 lng: 13.4061
+instagram: ''
+twitter: ''
+facebook: ''
 ---

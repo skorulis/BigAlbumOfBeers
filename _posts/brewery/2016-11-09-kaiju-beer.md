@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/kaiju-beer/43267"
 permalink: /brewery/:title.html
 lat: -38.0325
 lng: 145.203
+instagram: 'kaijubeer'
+twitter: 'kaijubeer'
+facebook: 'https://www.facebook.com/KaijuBeer.au'
 ---

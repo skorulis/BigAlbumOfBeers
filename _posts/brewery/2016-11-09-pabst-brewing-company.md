@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/pabst-brewing-company/963"
 permalink: /brewery/:title.html
 lat: 41.7181
 lng: -88.009
+instagram: 'pabstblueribbon'
+twitter: 'pabstblueribbon'
+facebook: 'https://www.facebook.com/PabstBrewingCo'
 ---

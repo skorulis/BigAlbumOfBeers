@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/matsos-broome-brewery/4469"
 permalink: /brewery/:title.html
 lat: -17.9675
 lng: 122.236
+instagram: ''
+twitter: ''
+facebook: 'http://www.facebook.com/Matsosbeer'
 ---

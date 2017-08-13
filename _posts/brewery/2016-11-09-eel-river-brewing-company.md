@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/eel-river-brewing-company/481"
 permalink: /brewery/:title.html
 lat: 40.5793
 lng: -124.153
+instagram: 'eelriverbrewing'
+twitter: 'EelRiverBrewing'
+facebook: 'http://www.facebook.com/EelRiverBrewing'
 ---

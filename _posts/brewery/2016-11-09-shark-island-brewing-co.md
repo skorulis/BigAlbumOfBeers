@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/shark-island-brewing-co-/122718"
 permalink: /brewery/:title.html
 lat: -34.0286
 lng: 151.079
+instagram: 'sharkislandbrewing'
+twitter: 'Sharkislandbrew'
+facebook: 'https://www.facebook.com/pages/Shark-Island-Brewing-Company/379657025508591'
 ---

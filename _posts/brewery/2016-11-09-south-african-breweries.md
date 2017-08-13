@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/south-african-breweries/2988"
 permalink: /brewery/:title.html
 lat: -26.1042
 lng: 28.0496
+instagram: ''
+twitter: 'SABreweries'
+facebook: 'http://www.facebook.com/SouthAfricanBreweries'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/west-end-brewery/4048"
 permalink: /brewery/:title.html
 lat: -34.9105
 lng: 138.575
+instagram: ''
+twitter: ''
+facebook: ''
 ---

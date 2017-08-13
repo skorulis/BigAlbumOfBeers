@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/carlsberg-srbija/50117"
 permalink: /brewery/:title.html
 lat: 45.279
 lng: 19.5585
+instagram: ''
+twitter: ''
+facebook: ''
 ---

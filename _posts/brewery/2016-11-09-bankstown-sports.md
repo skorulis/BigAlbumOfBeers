@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/bankstown-sports-/261136"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: ''
+facebook: ''
 ---

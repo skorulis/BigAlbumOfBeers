@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/panhead-custom-ales/73019"
 permalink: /brewery/:title.html
 lat: -41.1244
 lng: 175.071
+instagram: ''
+twitter: 'Panheadbrewery'
+facebook: 'https://www.facebook.com/panheadcustomales'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-oud-beersel/290"
 permalink: /brewery/:title.html
 lat: 50.7601
 lng: 4.30522
+instagram: ''
+twitter: 'Bersalis'
+facebook: 'http://www.facebook.com/oudbeersel'
 ---

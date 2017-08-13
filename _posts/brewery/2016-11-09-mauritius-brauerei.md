@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/mauritius-brauerei/17355"
 permalink: /brewery/:title.html
 lat: 50.725
 lng: 12.5005
+instagram: ''
+twitter: ''
+facebook: ''
 ---

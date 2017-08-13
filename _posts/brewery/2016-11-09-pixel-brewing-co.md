@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/pixel-brewing-co/84091"
 permalink: /brewery/:title.html
 lat: -33.8688
 lng: 151.209
+instagram: 'pixelbrewingco'
+twitter: 'PixelBrewingCo'
+facebook: 'http://www.facebook.com/pixelbrewingco'
 ---

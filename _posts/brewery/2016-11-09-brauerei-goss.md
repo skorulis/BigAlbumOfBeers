@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brauerei-goss/79530"
 permalink: /brewery/:title.html
 lat: 47.3619
 lng: 15.0957
+instagram: 'gutbessergoesser'
+twitter: 'goesserbier'
+facebook: 'http://www.facebook.com/goesser'
 ---

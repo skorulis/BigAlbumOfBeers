@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/meantime-brewing-company/844"
 permalink: /brewery/:title.html
 lat: 51.4893
 lng: 0.0078756
+instagram: 'meantimebrewing'
+twitter: 'MeantimeBrewing'
+facebook: 'http://www.facebook.com/meantimebrewing'
 ---

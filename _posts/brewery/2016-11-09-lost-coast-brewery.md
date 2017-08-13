@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/lost-coast-brewery/803"
 permalink: /brewery/:title.html
 lat: 40.7674
 lng: -124.189
+instagram: 'lostcoastbrewery'
+twitter: 'lostcoastbrewer'
+facebook: 'http://www.facebook.com/pages/Lost-Coast-Brewery/18938996622'
 ---

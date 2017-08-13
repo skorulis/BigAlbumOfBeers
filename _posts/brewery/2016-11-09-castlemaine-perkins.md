@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/castlemaine-perkins/1928"
 permalink: /brewery/:title.html
 lat: -27.4671
 lng: 153.006
+instagram: ''
+twitter: ''
+facebook: ''
 ---

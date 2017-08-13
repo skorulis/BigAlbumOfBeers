@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/boston-beer-company/157"
 permalink: /brewery/:title.html
 lat: 42.3144
 lng: -71.1034
+instagram: 'samueladamsbeer'
+twitter: 'SamuelAdamsBeer'
+facebook: 'https://www.facebook.com/SamuelAdams'
 ---

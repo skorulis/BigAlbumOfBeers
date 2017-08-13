@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/two-birds-brewing/17463"
 permalink: /brewery/:title.html
 lat: -37.8347
 lng: 144.885
+instagram: 'TwoBirdsBrewing'
+twitter: 'TwoBirdsBrewing'
+facebook: 'http://Facebook.com/TwoBirdsBrewing'
 ---

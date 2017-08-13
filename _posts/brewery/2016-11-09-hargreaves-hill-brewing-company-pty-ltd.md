@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/hargreaves-hill-brewing-company-pty--ltd-/429
 permalink: /brewery/:title.html
 lat: -37.6582
 lng: 145.374
+instagram: 'hargreaveshill'
+twitter: 'hargreaveshill'
+facebook: 'http://www.facebook.com/hargreaveshill'
 ---

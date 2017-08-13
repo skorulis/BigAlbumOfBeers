@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/red-island-brewing-co-/51713"
 permalink: /brewery/:title.html
 lat: -37.8357
 lng: 144.92
+instagram: 'quietdeeds'
+twitter: 'QuietDeeds'
+facebook: 'https://www.facebook.com/QuietDeeds'
 ---

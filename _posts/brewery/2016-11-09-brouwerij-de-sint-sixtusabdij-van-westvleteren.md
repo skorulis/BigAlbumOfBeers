@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-de-sint-sixtusabdij-van-westvletere
 permalink: /brewery/:title.html
 lat: 50.8971
 lng: 2.72424
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/westvleteren'
 ---

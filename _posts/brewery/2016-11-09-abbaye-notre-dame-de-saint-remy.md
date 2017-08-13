@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/abbaye-notre-dame-de-saint-remy/1650"
 permalink: /brewery/:title.html
 lat: 50.1982
 lng: 5.22685
+instagram: 'merchantduvin'
+twitter: 'merchantduvin'
+facebook: 'https://www.facebook.com/MerchantduVin/'
 ---

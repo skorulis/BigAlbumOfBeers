@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/bridge-brewing-company/35293"
 permalink: /brewery/:title.html
 lat: 49.307
 lng: -123.009
+instagram: 'bridgebrewcrew'
+twitter: 'bridgebrewcrew'
+facebook: 'https://www.facebook.com/BridgeBrewingCompany'
 ---

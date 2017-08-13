@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/white-rabbit/2051"
 permalink: /brewery/:title.html
 lat: -37.6521
 lng: 145.522
+instagram: ''
+twitter: ''
+facebook: 'http://www.facebook.com/whiterabbitbrewery'
 ---

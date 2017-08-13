@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/victory-brewing-company/1326"
 permalink: /brewery/:title.html
 lat: 40.0061
 lng: -75.6942
+instagram: 'victorybeer'
+twitter: 'VictoryBeer'
+facebook: 'https://www.facebook.com/victorybeer'
 ---

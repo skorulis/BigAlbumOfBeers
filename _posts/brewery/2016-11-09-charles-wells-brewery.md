@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/charles-wells-brewery/1348"
 permalink: /brewery/:title.html
 lat: 52.1328
 lng: -0.48235
+instagram: 'WellsBrewery'
+twitter: 'CharlesWellsBfd'
+facebook: 'https://www.facebook.com/WellsBrewery'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/bucket-boys-craft-beer-co/271343"
 permalink: /brewery/:title.html
 lat: -33.9121
 lng: 151.154
+instagram: 'bucketboysbeer'
+twitter: 'bucketboysbeer'
+facebook: 'www.facebook.com/bucketboysbeer'
 ---

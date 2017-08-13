@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/nomad-brewing-co-/145688"
 permalink: /brewery/:title.html
 lat: -33.7639
 lng: 151.272
+instagram: 'NomadsBrewing'
+twitter: 'NomadsBrewing'
+facebook: 'https://www.facebook.com/NomadBrewingCo'
 ---

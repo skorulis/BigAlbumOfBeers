@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/heidenpeters/49872"
 permalink: /brewery/:title.html
 lat: 52.502
 lng: 13.4319
+instagram: 'Heidenpeters'
+twitter: 'Heidenpeters'
+facebook: 'http://www.facebook.com/HEIDENPETERS'
 ---

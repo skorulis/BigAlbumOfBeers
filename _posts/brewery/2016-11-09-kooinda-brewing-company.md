@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/kooinda-brewing-company/6276"
 permalink: /brewery/:title.html
 lat: -37.7309
 lng: 145.056
+instagram: 'kooindabrewery'
+twitter: 'KooindaBrewery'
+facebook: 'http://www.facebook.com/pages/Kooinda-Boutique-Brewery/45016049684'
 ---

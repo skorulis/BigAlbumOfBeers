@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/carlton---united-breweries/4045"
 permalink: /brewery/:title.html
 lat: -37.8094
 lng: 145.003
+instagram: ''
+twitter: ''
+facebook: ''
 ---

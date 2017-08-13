@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/boatrocker-brewing-company/3106"
 permalink: /brewery/:title.html
 lat: -38.0036
 lng: 145.114
+instagram: 'boatrockerbrew'
+twitter: 'boatrockerbrew'
+facebook: 'http://www.facebook.com/boatrocker'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/aldi-stores-uk/24518"
 permalink: /brewery/:title.html
 lat: 52.5838
 lng: -1.55731
+instagram: ''
+twitter: 'AldiUK'
+facebook: 'https://www.facebook.com/AldiUK'
 ---

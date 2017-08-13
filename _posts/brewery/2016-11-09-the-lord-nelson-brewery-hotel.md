@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/the-lord-nelson-brewery-hotel/2748"
 permalink: /brewery/:title.html
 lat: -33.8582
 lng: 151.203
+instagram: 'lordnelsonbrewery'
+twitter: 'LordNelsonBrew'
+facebook: 'http://www.facebook.com/lord.nelson.brewery.hotel'
 ---

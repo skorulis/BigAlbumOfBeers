@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brasserie-lefebvre/197"
 permalink: /brewery/:title.html
 lat: 50.6743
 lng: 4.1521
+instagram: ''
+twitter: 'hopus_beer'
+facebook: 'http://www.facebook.com/brasserielefebvre'
 ---

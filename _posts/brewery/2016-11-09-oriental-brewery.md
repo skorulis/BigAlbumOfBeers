@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/oriental-brewery/6167"
 permalink: /brewery/:title.html
 lat: 37.4818
 lng: 127.015
+instagram: ''
+twitter: ''
+facebook: ''
 ---

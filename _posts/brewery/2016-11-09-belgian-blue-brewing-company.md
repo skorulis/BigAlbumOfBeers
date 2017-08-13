@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/belgian-blue-brewing-company/48082"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: ''
+facebook: ''
 ---

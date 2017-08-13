@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/stieglbrauerei-zu-salzburg/1202"
 permalink: /brewery/:title.html
 lat: 47.7955
 lng: 13.0182
+instagram: 'stieglbrauerei'
+twitter: 'stieglbrauerei'
+facebook: 'http://www.facebook.com/stieglbrauerei'
 ---

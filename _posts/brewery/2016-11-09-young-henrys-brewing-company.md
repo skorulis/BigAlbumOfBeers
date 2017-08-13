@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/young-henrys-brewing-company/28042"
 permalink: /brewery/:title.html
 lat: -33.8981
 lng: 151.174
+instagram: 'younghenrys'
+twitter: 'younghenrys'
+facebook: 'http://www.facebook.com/younghenrysbrewing'
 ---

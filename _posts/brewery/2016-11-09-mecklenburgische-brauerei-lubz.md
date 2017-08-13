@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/mecklenburgische-brauerei-lubz/4794"
 permalink: /brewery/:title.html
 lat: 53.4617
 lng: 12.0195
+instagram: ''
+twitter: ''
+facebook: 'http://www.facebook.com/luebzer'
 ---

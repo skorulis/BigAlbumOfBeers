@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/tortured-gum/198918"
 permalink: /brewery/:title.html
 lat: -35.3929
 lng: 149.17
+instagram: ''
+twitter: 'TorturedGum'
+facebook: 'https://www.facebook.com/pages/Tortured-Gum-Brewery/359122594215036'
 ---

@@ -71,6 +71,18 @@ breweries.each do |item|
 				file.puts("lat: " + details["location"]["lat"].to_s)
 				file.puts("lng: " + details["location"]["lng"].to_s)
 			end
+			contact = details["contact"]
+			if contact != nil
+				if contact["instagram"] != nil
+					file.puts("instagram: '" + contact["instagram"] + "'")
+				end
+				if contact["twitter"] != nil
+					file.puts("twitter: '" + contact["twitter"] + "'")
+				end
+				if contact["facebook"] != nil
+					file.puts("facebook: '" + contact["facebook"] + "'")
+				end
+			end
 		end
 		
 		file.puts('---')

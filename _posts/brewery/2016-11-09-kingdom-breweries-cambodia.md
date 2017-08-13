@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/kingdom-breweries--cambodia-/12982"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: 'kingdombeer'
+facebook: 'https://www.facebook.com/pages/Kingdom-Breweries-Ltd/142411702159'
 ---

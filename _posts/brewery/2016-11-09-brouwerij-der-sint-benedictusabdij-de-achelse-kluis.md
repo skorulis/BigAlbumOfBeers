@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-der-sint-benedictusabdij-de-achelse
 permalink: /brewery/:title.html
 lat: 51.299
 lng: 5.48923
+instagram: ''
+twitter: ''
+facebook: ''
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/southern-beverages-australia/8850"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: ''
+facebook: ''
 ---

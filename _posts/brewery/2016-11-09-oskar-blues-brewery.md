@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/oskar-blues-brewery/956"
 permalink: /brewery/:title.html
 lat: 40.1391
 lng: -105.122
+instagram: 'oskarblues'
+twitter: 'oskarblues'
+facebook: 'https://www.facebook.com/OskarBluesCANS/'
 ---

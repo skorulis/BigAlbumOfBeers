@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/j--boag---son-brewing/19249"
 permalink: /brewery/:title.html
 lat: -41.4332
 lng: 147.144
+instagram: 'jamesboagau'
+twitter: ''
+facebook: 'https://www.facebook.com/jamesboagAU'
 ---

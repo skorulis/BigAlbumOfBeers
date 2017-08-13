@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-van-honsebrouck/303"
 permalink: /brewery/:title.html
 lat: 50.9201
 lng: 3.25783
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/vanhonsebrouck'
 ---

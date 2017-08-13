@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/augustiner-brau-kloster-mulln/15528"
 permalink: /brewery/:title.html
 lat: 47.8056
 lng: 13.0333
+instagram: ''
+twitter: ''
+facebook: ''
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/browar-okocim--carlsberg-polska-/307"
 permalink: /brewery/:title.html
 lat: 49.9595
 lng: 20.6039
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/OkocimPL?fref=ts'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/la-sirene-brewing/20228"
 permalink: /brewery/:title.html
 lat: -37.7775
 lng: 145.032
+instagram: 'lasirenebrewing'
+twitter: 'lasirenebrewing'
+facebook: 'https://www.facebook.com/LaSireneBrewing'
 ---

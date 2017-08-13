@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/four-winds-brewing/63426"
 permalink: /brewery/:title.html
 lat: 49.137
 lng: -123.026
+instagram: 'FourWindsBrewCo'
+twitter: 'FourWindsBrewCo'
+facebook: 'https://www.facebook.com/FourWindsBrewingCo'
 ---

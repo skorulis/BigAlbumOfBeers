@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/berliner-marcus-brau/72773"
 permalink: /brewery/:title.html
 lat: 52.524
 lng: 13.4093
+instagram: ''
+twitter: ''
+facebook: 'http://www.facebook.com/MarcusBraeu'
 ---

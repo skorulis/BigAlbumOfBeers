@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/browar-amber/5753"
 permalink: /brewery/:title.html
 lat: 54.2604
 lng: 18.517
+instagram: ''
+twitter: 'BrowarAmber'
+facebook: 'http://www.facebook.com/amber.browar'
 ---

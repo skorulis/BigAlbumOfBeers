@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/merchant-brewing-co-/53881"
 permalink: /brewery/:title.html
 lat: -33.9031
 lng: 151.17
+instagram: 'merchantbrewingco'
+twitter: 'MerchantBrewery'
+facebook: 'https://www.facebook.com/merchantbrewingco'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-palm/967"
 permalink: /brewery/:title.html
 lat: 50.9953
 lng: 4.2835
+instagram: ''
+twitter: 'palmbelgie'
+facebook: 'https://www.facebook.com/PalmBelgie/'
 ---

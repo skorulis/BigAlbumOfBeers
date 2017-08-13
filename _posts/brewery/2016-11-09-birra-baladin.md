@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/birra-baladin/128"
 permalink: /brewery/:title.html
 lat: 44.5153
 lng: 7.8921
+instagram: 'birrabaladin'
+twitter: 'BirraBaladin'
+facebook: 'https://www.facebook.com/baladin'
 ---

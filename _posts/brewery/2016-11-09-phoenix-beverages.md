@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/phoenix-beverages/7955"
 permalink: /brewery/:title.html
 lat: -20.2738
 lng: 57.4971
+instagram: ''
+twitter: ''
+facebook: ''
 ---

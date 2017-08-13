@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/stone-brewing/1204"
 permalink: /brewery/:title.html
 lat: 33.1157
 lng: -117.12
+instagram: 'StoneBrewingCo'
+twitter: 'StoneBrewingCo'
+facebook: 'http://www.facebook.com/StoneBrewingCo'
 ---

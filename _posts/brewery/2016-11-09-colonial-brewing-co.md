@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/colonial-brewing-co/9332"
 permalink: /brewery/:title.html
 lat: -33.9143
 lng: 115.114
+instagram: 'CBCO_'
+twitter: 'CBCO_'
+facebook: 'http://www.facebook.com/ColonialBrewingCoMargaretRiver'
 ---

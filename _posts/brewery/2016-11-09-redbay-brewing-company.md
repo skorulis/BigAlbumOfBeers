@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/redbay-brewing-company/106140"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: ''
+facebook: ''
 ---

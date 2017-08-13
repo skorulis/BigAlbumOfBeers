@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/parallel-49-brewing-company/22683"
 permalink: /brewery/:title.html
 lat: 49.2838
 lng: -123.064
+instagram: 'Parallel49Beer'
+twitter: 'Parallel49Beer'
+facebook: 'http://www.facebook.com/Parallel49Brewing'
 ---

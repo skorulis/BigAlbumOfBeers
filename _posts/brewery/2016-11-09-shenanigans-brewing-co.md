@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/shenanigans-brewing-co-/104449"
 permalink: /brewery/:title.html
 lat: -33.901
 lng: 151.174
+instagram: 'shenanigansbrewing'
+twitter: 'ShenanigansBrew'
+facebook: 'https://www.facebook.com/ShenanigansBrewing'
 ---

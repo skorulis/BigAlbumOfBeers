@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/wow-brands/25487"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: ''
+facebook: ''
 ---

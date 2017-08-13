@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/tradicni-pivovar-v-rakovniku/26351"
 permalink: /brewery/:title.html
 lat: 50.1067
 lng: 13.7288
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/pivobakalar'
 ---

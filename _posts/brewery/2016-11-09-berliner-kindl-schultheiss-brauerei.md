@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/berliner-kindl-schultheiss-brauerei/1582"
 permalink: /brewery/:title.html
 lat: 52.5421
 lng: 13.471
+instagram: 'schultheisspilsener'
+twitter: ''
+facebook: 'https://www.facebook.com/Schultheiss.Pilsener?fref=ts'
 ---

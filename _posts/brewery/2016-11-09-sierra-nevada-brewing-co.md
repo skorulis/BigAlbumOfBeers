@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/sierra-nevada-brewing-co-/1142"
 permalink: /brewery/:title.html
 lat: 39.7242
 lng: -121.815
+instagram: 'sierranevada'
+twitter: 'SierraNevada'
+facebook: 'http://www.facebook.com/sierranevadabeer'
 ---

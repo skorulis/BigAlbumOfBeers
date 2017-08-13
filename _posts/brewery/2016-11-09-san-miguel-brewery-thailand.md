@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/san-miguel-brewery--thailand-/4716"
 permalink: /brewery/:title.html
 lat: 13.9854
 lng: 100.552
+instagram: ''
+twitter: ''
+facebook: ''
 ---

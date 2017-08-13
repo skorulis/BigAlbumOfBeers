@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/united-dutch-breweries/11478"
 permalink: /brewery/:title.html
 lat: 51.5847
 lng: 4.82928
+instagram: ''
+twitter: ''
+facebook: ''
 ---

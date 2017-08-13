@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/cricketers-arms/6998"
 permalink: /brewery/:title.html
 lat: -37.8114
 lng: 144.971
+instagram: 'cricketersarms'
+twitter: 'CricketersTimes'
+facebook: ''
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/cerveceria-costa-rica--florida-bebidas-/2336"
 permalink: /brewery/:title.html
 lat: 10.4735
 lng: -84.0167
+instagram: ''
+twitter: ''
+facebook: ''
 ---

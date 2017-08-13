@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/hawkers-beer/184662"
 permalink: /brewery/:title.html
 lat: -37.7179
 lng: 144.985
+instagram: 'hawkersbeer'
+twitter: 'hawkersbeer'
+facebook: 'http://facebook.com/hawkersbeer'
 ---

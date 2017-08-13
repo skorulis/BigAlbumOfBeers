@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/deschutes-brewery/441"
 permalink: /brewery/:title.html
 lat: 44.0468
 lng: -121.322
+instagram: 'deschutesbeer'
+twitter: 'deschutesbeer'
+facebook: 'http://www.facebook.com/deschutes.brewery'
 ---

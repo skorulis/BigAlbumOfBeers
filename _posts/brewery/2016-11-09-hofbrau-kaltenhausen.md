@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/hofbrau-kaltenhausen/104477"
 permalink: /brewery/:title.html
 lat: 47.694
 lng: 13.0785
+instagram: ''
+twitter: ''
+facebook: ''
 ---

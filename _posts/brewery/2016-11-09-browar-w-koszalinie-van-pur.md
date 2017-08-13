@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/browar-w-koszalinie--van-pur-/16852"
 permalink: /brewery/:title.html
 lat: 54.1915
 lng: 16.1753
+instagram: ''
+twitter: ''
+facebook: ''
 ---

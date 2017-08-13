@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/new-england-brewing-co-/88362"
 permalink: /brewery/:title.html
 lat: -30.64
 lng: 151.502
+instagram: ''
+twitter: 'NE_BrewingCo'
+facebook: 'https://www.facebook.com/NewEnglandBrewery'
 ---

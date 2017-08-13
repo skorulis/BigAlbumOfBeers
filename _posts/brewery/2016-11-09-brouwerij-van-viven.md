@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-van-viven/28007"
 permalink: /brewery/:title.html
 lat: 51.2079
 lng: 3.31749
+instagram: ''
+twitter: ''
+facebook: ''
 ---

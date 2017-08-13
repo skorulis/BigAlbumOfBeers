@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-alken-maes/264"
 permalink: /brewery/:title.html
 lat: 51.0518
 lng: 4.45415
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/AlkenMaes'
 ---

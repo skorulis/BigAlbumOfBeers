@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brauerei-zipf/103624"
 permalink: /brewery/:title.html
 lat: 48.0375
 lng: 13.5026
+instagram: ''
+twitter: ''
+facebook: 'http://www.facebook.com/Zipfer'
 ---

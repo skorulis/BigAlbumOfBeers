@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brasserie-mcauslan--st-ambroise-/198"
 permalink: /brewery/:title.html
 lat: 45.4685
 lng: -73.5908
+instagram: ''
+twitter: 'bierestambroise'
+facebook: 'http://www.facebook.com/bierestambroise'
 ---

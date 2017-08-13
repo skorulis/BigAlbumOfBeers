@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/globe-brewing-company-/150880"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: ''
+facebook: ''
 ---

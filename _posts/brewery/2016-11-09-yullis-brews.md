@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/yullis-brews/130600"
 permalink: /brewery/:title.html
 lat: -33.8864
 lng: 151.214
+instagram: 'yullisbrews'
+twitter: ''
+facebook: 'https://www.facebook.com/yullisbrews/'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/newstead-brewing-co-/89558"
 permalink: /brewery/:title.html
 lat: -27.4517
 lng: 153.044
+instagram: 'newsteadbrewingco'
+twitter: 'NewsteadBrewing'
+facebook: 'https://www.facebook.com/NewsteadBrewingCo'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/badlands-brewery/4322"
 permalink: /brewery/:title.html
 lat: -33.2575
 lng: 149.075
+instagram: ''
+twitter: 'BadlandsBrewery'
+facebook: 'http://www.facebook.com/pages/Badlands-Brewery/114134468637271'
 ---

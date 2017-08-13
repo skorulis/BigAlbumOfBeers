@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/cerveceria-mexicana-s--de-r-l--de-c-v---tecat
 permalink: /brewery/:title.html
 lat: 32.5749
 lng: -116.616
+instagram: ''
+twitter: 'mexicalibeer'
+facebook: 'http://www.facebook.com/pages/Mexicali-Beer/107253925960047?ref=ts'
 ---

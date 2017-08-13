@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/ridgeway-brewing/1056"
 permalink: /brewery/:title.html
 lat: 51.5463
 lng: -1.13512
+instagram: ''
+twitter: 'RidgewayBrewery'
+facebook: ''
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/prancing-pony-brewery/46696"
 permalink: /brewery/:title.html
 lat: -35.0739
 lng: 138.878
+instagram: 'PrancingPonySA'
+twitter: 'PrancingPonySA'
+facebook: 'https://www.facebook.com/PrancingPonyBrewery'
 ---

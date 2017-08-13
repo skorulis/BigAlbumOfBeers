@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/barossa-valley-brewing/14448"
 permalink: /brewery/:title.html
 lat: -34.5299
 lng: 138.949
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/BarossaValleyBrewing'
 ---

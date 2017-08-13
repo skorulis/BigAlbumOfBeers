@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/privatbrauerei-fritz-egger/15477"
 permalink: /brewery/:title.html
 lat: 48.2532
 lng: 15.6865
+instagram: ''
+twitter: ''
+facebook: 'http://www.facebook.com/eggerbier'
 ---

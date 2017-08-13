@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/stockade-brew-co/86357"
 permalink: /brewery/:title.html
 lat: -34.0344
 lng: 150.753
+instagram: 'stockadebrewco'
+twitter: 'stockadebrewco'
+facebook: 'https://www.facebook.com/stockadebrewco'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/curious-drinks--chapel-down-/12733"
 permalink: /brewery/:title.html
 lat: 51.0487
 lng: 0.695395
+instagram: ''
+twitter: 'CuriousDrinks'
+facebook: ''
 ---

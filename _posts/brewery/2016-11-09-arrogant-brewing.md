@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/arrogant-brewing/234399"
 permalink: /brewery/:title.html
 lat: 33.116
 lng: -117.12
+instagram: 'ArrogantBastard'
+twitter: 'ArrogantBastard'
+facebook: 'https://www.facebook.com/arrogantbastardale'
 ---

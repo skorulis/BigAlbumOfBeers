@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/alesmith-brewing-company/2471"
 permalink: /brewery/:title.html
 lat: 32.8883
 lng: -117.15
+instagram: 'AleSmithBrewing'
+twitter: 'AleSmithBrewing'
+facebook: 'https://www.facebook.com/AleSmithBrewing'
 ---

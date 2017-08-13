@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/urban-craft-brewing-co/246248"
 permalink: /brewery/:title.html
 lat: -33.8587
 lng: 151.208
+instagram: 'ucbco'
+twitter: 'CraftyBavarian'
+facebook: 'https://www.facebook.com/craftybavarian/'
 ---

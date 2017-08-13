@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/innis---gunn/1673"
 permalink: /brewery/:title.html
 lat: 55.952
 lng: -3.21091
+instagram: 'innisandgunnuk'
+twitter: 'InnisandGunnUK'
+facebook: 'http://www.facebook.com/pages/Innis-Gunn-Oak-Aged-Beer/178449095559359'
 ---

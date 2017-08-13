@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/anderson-valley-brewing-company/3880"
 permalink: /brewery/:title.html
 lat: 39.0005
 lng: -123.356
+instagram: 'andersonvalleybrewing'
+twitter: 'avbc'
+facebook: 'http://www.facebook.com/AndersonValleyBrewingCompany'
 ---

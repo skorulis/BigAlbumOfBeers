@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/browar-namyslow/17855"
 permalink: /brewery/:title.html
 lat: 51.0771
 lng: 17.7116
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/BrowarNamyslowOfficial'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/kronenbourg/203"
 permalink: /brewery/:title.html
 lat: 48.466
 lng: 7.49557
+instagram: ''
+twitter: 'Kronenbourg_SAS'
+facebook: 'https://www.facebook.com/Kronenbourg.SAS/'
 ---

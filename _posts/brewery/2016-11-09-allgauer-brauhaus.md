@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/allgauer-brauhaus/4674"
 permalink: /brewery/:title.html
 lat: 47.7237
 lng: 10.3141
+instagram: ''
+twitter: ''
+facebook: ''
 ---

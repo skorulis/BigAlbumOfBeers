@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/moon-dog-craft-brewery/4170"
 permalink: /brewery/:title.html
 lat: -37.8099
 lng: 145.006
+instagram: ''
+twitter: 'moondogbrewing'
+facebook: 'http://www.facebook.com/moondogcraftbrewery#!/moondogbrewing'
 ---

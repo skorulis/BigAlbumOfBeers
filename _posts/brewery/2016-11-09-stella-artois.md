@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/stella-artois/265"
 permalink: /brewery/:title.html
 lat: 50.8852
 lng: 4.70805
+instagram: 'StellaArtois'
+twitter: 'StellaArtois'
+facebook: 'http://www.facebook.com/StellaArtois'
 ---

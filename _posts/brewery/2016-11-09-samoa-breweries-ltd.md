@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/samoa-breweries-ltd-/68700"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: ''
+facebook: ''
 ---

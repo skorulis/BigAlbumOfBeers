@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/malt-shovel-brewery/820"
 permalink: /brewery/:title.html
 lat: -33.8867
 lng: 151.175
+instagram: 'jamessquire_au'
+twitter: ''
+facebook: 'https://www.facebook.com/jamessquire'
 ---

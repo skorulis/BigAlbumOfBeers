@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/pinnacle-drinks-group--woolworths-/74417"
 permalink: /brewery/:title.html
 lat: -33.8864
 lng: 151.211
+instagram: ''
+twitter: ''
+facebook: ''
 ---

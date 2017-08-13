@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/fox-hat-brewing/193696"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: 'foxhatbrewing'
+twitter: 'foxhatbrewing'
+facebook: 'https://www.facebook.com/FoxHatBrewing?ref=hl'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/thai-asia-pacific-brewery/4713"
 permalink: /brewery/:title.html
 lat: 14.0071
 lng: 100.316
+instagram: ''
+twitter: ''
+facebook: ''
 ---

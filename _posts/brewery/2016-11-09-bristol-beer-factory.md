@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/bristol-beer-factory/3503"
 permalink: /brewery/:title.html
 lat: 51.4415
 lng: -2.61728
+instagram: 'bristolbeerfactory'
+twitter: 'BrisBeerFactory'
+facebook: 'http://www.facebook.com/bristolbeerfactory'
 ---

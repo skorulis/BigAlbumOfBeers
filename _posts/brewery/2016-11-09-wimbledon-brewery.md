@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/wimbledon-brewery/199332"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: 'WimbledonBrew'
+facebook: 'https://www.facebook.com/wimbledonbrewery'
 ---

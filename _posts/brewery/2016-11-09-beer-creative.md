@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/beer-creative/227599"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: 'beercreative'
+twitter: ''
+facebook: 'https://www.facebook.com/beercreativecollege'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brauhaus-bevog/44695"
 permalink: /brewery/:title.html
 lat: 46.6864
 lng: 16.012
+instagram: 'bevog_brewery'
+twitter: 'BevogBrewery'
+facebook: 'http://www.facebook.com/BevogBrewery'
 ---

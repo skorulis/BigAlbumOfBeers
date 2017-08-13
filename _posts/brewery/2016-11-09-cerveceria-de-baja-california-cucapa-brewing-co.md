@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/cerveceria-de-baja-california--cucapa-brewing
 permalink: /brewery/:title.html
 lat: 32.6148
 lng: -115.441
+instagram: 'cerveza.cucapa'
+twitter: 'cucapa'
+facebook: 'http://www.facebook.com/cucapa'
 ---

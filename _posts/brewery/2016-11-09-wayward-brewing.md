@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/wayward-brewing/48019"
 permalink: /brewery/:title.html
 lat: -33.8858
 lng: 151.175
+instagram: 'WaywardBrewing'
+twitter: 'WaywardBeer'
+facebook: 'http://www.facebook.com/WaywardBrewing'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/bridge-road-brewers/3174"
 permalink: /brewery/:title.html
 lat: -36.3609
 lng: 146.685
+instagram: 'nakedned'
+twitter: 'NakedNed'
+facebook: 'https://www.facebook.com/BridgeRoadBrewers'
 ---

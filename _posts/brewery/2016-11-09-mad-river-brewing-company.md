@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/mad-river-brewing-company/811"
 permalink: /brewery/:title.html
 lat: 40.8786
 lng: -123.992
+instagram: 'madriverbrews'
+twitter: 'madriverbrews'
+facebook: 'https://www.facebook.com/madriverbrewing'
 ---

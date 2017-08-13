@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/zatecky-pivovar/4997"
 permalink: /brewery/:title.html
 lat: 50.3322
 lng: 13.5419
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/Pivovarzatec'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/plzensky-prazdroj/1459"
 permalink: /brewery/:title.html
 lat: 49.7466
 lng: 13.3861
+instagram: 'pilsnerurquell'
+twitter: 'Prazdroj1'
+facebook: 'https://www.facebook.com/plzen.prazdroj/'
 ---

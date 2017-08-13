@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/pikes-beer-company/9215"
 permalink: /brewery/:title.html
 lat: -33.8886
 lng: 138.675
+instagram: 'pikesbeercompany'
+twitter: 'PikesBeerCo'
+facebook: 'http://www.facebook.com/pikesbeercompany'
 ---

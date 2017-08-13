@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/two-metre-tall/5270"
 permalink: /brewery/:title.html
 lat: -42.7304
 lng: 146.957
+instagram: ''
+twitter: 'twometretall'
+facebook: 'http://www.facebook.com/pages/Two-Metre-Tall/100827849965158'
 ---

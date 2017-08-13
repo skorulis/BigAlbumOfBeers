@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/burleigh-brewing-co-/3168"
 permalink: /brewery/:title.html
 lat: -28.1031
 lng: 153.413
+instagram: 'burleighbrewing'
+twitter: 'burleighbrewing'
+facebook: 'http://www.facebook.com/BurleighBrewing'
 ---

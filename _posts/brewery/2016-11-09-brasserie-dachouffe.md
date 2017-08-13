@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brasserie-dachouffe/11866"
 permalink: /brewery/:title.html
 lat: 50.1675
 lng: 5.71526
+instagram: ''
+twitter: 'LaChouffeGnome'
+facebook: 'http://www.facebook.com/LaChouffe.beer'
 ---

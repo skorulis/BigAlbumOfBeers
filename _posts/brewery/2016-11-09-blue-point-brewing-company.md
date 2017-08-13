@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/blue-point-brewing-company/144"
 permalink: /brewery/:title.html
 lat: 40.7591
 lng: -73.0215
+instagram: 'bluepointbrewing'
+twitter: 'BluePointBrewer'
+facebook: 'http://www.facebook.com/BluePointBrewery'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/magic-hat-brewing-company/812"
 permalink: /brewery/:title.html
 lat: 44.429
 lng: -73.2135
+instagram: 'magichatbrewing'
+twitter: 'magichat'
+facebook: 'http://facebook.com/magichatbrewing'
 ---

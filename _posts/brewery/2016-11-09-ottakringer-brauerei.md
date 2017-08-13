@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/ottakringer-brauerei/958"
 permalink: /brewery/:title.html
 lat: 48.1855
 lng: 16.3019
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/OttakringerBrauerei'
 ---

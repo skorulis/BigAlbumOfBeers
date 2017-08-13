@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/wrong-side-brewing/322299"
 permalink: /brewery/:title.html
 lat: -37.2805
 lng: 146.132
+instagram: 'wrongsidebrewing'
+twitter: ''
+facebook: 'https://www.facebook.com/brewdoggydog/'
 ---

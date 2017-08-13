@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/birra-moretti/127"
 permalink: /brewery/:title.html
 lat: 46.0711
 lng: 13.2346
+instagram: ''
+twitter: 'Baffo_Moretti'
+facebook: 'birramoretti'
 ---

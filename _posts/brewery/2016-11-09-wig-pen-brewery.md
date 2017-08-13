@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/wig---pen-brewery/12216"
 permalink: /brewery/:title.html
 lat: -35.2784
 lng: 149.13
+instagram: 'wigandpenbrewery'
+twitter: 'wig_and_pen'
+facebook: 'http://www.facebook.com/wigandpen.canberra'
 ---

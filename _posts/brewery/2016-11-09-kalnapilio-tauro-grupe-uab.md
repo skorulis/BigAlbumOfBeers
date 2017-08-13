@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/kalnapilio-tauro-grupe-uab-/13967"
 permalink: /brewery/:title.html
 lat: 55.7377
 lng: 24.3538
+instagram: ''
+twitter: ''
+facebook: ''
 ---

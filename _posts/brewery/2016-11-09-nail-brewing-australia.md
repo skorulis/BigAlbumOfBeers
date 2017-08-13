@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/nail-brewing-australia/7970"
 permalink: /brewery/:title.html
 lat: -31.9054
 lng: 115.928
+instagram: ''
+twitter: 'NAIL_BREWING'
+facebook: 'http://www.facebook.com/nailbrewing'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brabante-cervezas/16198"
 permalink: /brewery/:title.html
 lat: 40.4335
 lng: -3.63297
+instagram: 'brabantecervezas'
+twitter: 'BrabanteCerveza'
+facebook: 'https://www.facebook.com/Brabantecervezas'
 ---

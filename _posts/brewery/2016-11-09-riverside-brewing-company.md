@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/riverside-brewing-company/15195"
 permalink: /brewery/:title.html
 lat: -33.7927
 lng: 151.001
+instagram: ''
+twitter: 'riversidebrew'
+facebook: 'http://www.facebook.com/riversidebrew'
 ---

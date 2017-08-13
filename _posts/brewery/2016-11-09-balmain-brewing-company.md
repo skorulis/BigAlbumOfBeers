@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/balmain-brewing-company/2980"
 permalink: /brewery/:title.html
 lat: -33.8566
 lng: 151.18
+instagram: 'balmainbrewing'
+twitter: 'balmainbrewing'
+facebook: 'http://www.facebook.com/Balmain.Brewing.Company'
 ---

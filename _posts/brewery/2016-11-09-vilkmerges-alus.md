@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/vilkmerges-alus/52420"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/VilkmergesAlus'
 ---

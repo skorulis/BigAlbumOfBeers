@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/bentspoke-brewing-co/134857"
 permalink: /brewery/:title.html
 lat: -35.273
 lng: 149.132
+instagram: ''
+twitter: 'BentSpokeBeer'
+facebook: 'https://www.facebook.com/BentSpokeBrewing'
 ---

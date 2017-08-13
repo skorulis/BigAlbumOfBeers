@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/pirate-life-brewing/189380"
 permalink: /brewery/:title.html
 lat: -34.9056
 lng: 138.566
+instagram: 'PirateLifeBeer'
+twitter: 'PirateLifeBeer'
+facebook: 'https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts'
 ---

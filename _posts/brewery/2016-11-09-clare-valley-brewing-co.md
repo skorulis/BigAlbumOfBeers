@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/clare-valley-brewing-co-/76384"
 permalink: /brewery/:title.html
 lat: -33.9109
 lng: 138.616
+instagram: 'clarevalleybrewingco'
+twitter: 'CVBeer'
+facebook: 'https://www.facebook.com/ClareValleyBrewing'
 ---

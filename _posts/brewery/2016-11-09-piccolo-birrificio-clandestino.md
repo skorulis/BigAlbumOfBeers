@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/piccolo-birrificio-clandestino/25246"
 permalink: /brewery/:title.html
 lat: 43.5579
 lng: 10.3138
+instagram: ''
+twitter: 'PBCLivorno'
+facebook: 'http://www.facebook.com/pbclivorno'
 ---

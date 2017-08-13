@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/batch-brewing-company/97260"
 permalink: /brewery/:title.html
 lat: -33.9119
 lng: 151.165
+instagram: 'batchbrewingcompany'
+twitter: 'BatchBrewCo'
+facebook: 'https://www.facebook.com/pages/Batch-Brewing-Company/492600754155917'
 ---

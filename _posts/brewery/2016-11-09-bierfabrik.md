@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/bierfabrik/133410"
 permalink: /brewery/:title.html
 lat: 52.5198
 lng: 13.5276
+instagram: 'bierfabrik'
+twitter: 'Bierfabrik'
+facebook: 'http://www.facebook.com/BerlinerBierfabrik'
 ---

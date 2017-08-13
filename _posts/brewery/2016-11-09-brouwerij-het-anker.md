@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-het-anker/284"
 permalink: /brewery/:title.html
 lat: 51.0323
 lng: 4.47285
+instagram: 'HetAnker'
+twitter: 'BreweryHetAnker'
+facebook: 'http://www.facebook.com/hetanker'
 ---

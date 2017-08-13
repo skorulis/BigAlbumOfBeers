@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/siren-craft-brew/55184"
 permalink: /brewery/:title.html
 lat: 51.3766
 lng: -0.892215
+instagram: 'sirencraftbrew'
+twitter: 'sirencraftbrew'
+facebook: 'http://www.facebook.com/sirencraftbrew'
 ---

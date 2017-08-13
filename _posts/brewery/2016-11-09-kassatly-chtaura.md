@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/kassatly-chtaura/142740"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/buzzvodkamix'
 ---

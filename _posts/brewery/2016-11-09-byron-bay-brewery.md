@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/byron-bay-brewery/7784"
 permalink: /brewery/:title.html
 lat: -28.6452
 lng: 153.605
+instagram: 'byronbaybrewery'
+twitter: ''
+facebook: 'https://www.facebook.com/ByronBayBrewery/'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/dad---daves-brewing/34849"
 permalink: /brewery/:title.html
 lat: -33.7634
 lng: 151.272
+instagram: 'dadndavesbrewing'
+twitter: 'dadndavebrewing'
+facebook: 'http://www.facebook.com/dadndavesbrewing'
 ---

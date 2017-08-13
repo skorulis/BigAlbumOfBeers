@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/royal-unibrew/2480"
 permalink: /brewery/:title.html
 lat: 55.2598
 lng: 12.1174
+instagram: ''
+twitter: ''
+facebook: ''
 ---

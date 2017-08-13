@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/hop-federation/83783"
 permalink: /brewery/:title.html
 lat: -41.0799
 lng: 172.997
+instagram: ''
+twitter: 'Hopfederation'
+facebook: 'https://www.facebook.com/hopfederation'
 ---

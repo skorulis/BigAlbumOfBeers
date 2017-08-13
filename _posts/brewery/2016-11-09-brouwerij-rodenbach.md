@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-rodenbach/291"
 permalink: /brewery/:title.html
 lat: 50.946
 lng: 3.1381
+instagram: 'rodenbachbeer'
+twitter: 'rodenbachbeer'
+facebook: 'http://www.facebook.com/rodenbachbeer'
 ---

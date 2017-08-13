@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/eight-degrees-brewing/15868"
 permalink: /brewery/:title.html
 lat: 52.2764
 lng: -8.27018
+instagram: 'eightdegreesbrewing'
+twitter: '8degreesbrewing'
+facebook: 'http://www.facebook.com/eightdegreesbrewing'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/the-little-brewing-company/2351"
 permalink: /brewery/:title.html
 lat: -31.4561
 lng: 152.883
+instagram: 'thelittlebrewingco'
+twitter: 'LittleBrewingCo'
+facebook: 'http://www.facebook.com/thelittlebrewingcompany'
 ---

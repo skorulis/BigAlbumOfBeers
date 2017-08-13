@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/steamrail-brewing-company--coles-/50996"
 permalink: /brewery/:title.html
 lat: -37.8454
 lng: 145.048
+instagram: ''
+twitter: ''
+facebook: ''
 ---

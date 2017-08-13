@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-der-trappisten-van-westmalle/262"
 permalink: /brewery/:title.html
 lat: 51.2852
 lng: 4.65889
+instagram: ''
+twitter: 'AbbeyWestmalle'
+facebook: ''
 ---

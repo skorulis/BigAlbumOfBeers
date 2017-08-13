@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/viking-olgerd/8606"
 permalink: /brewery/:title.html
 lat: 65.6839
 lng: -18.1105
+instagram: 'vikingbrewery'
+twitter: ''
+facebook: 'https://www.facebook.com/vikingbrewery'
 ---

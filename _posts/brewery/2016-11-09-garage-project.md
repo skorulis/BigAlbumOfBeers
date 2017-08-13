@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/garage-project/14539"
 permalink: /brewery/:title.html
 lat: -41.2953
 lng: 174.768
+instagram: ''
+twitter: 'garage_project'
+facebook: 'http://www.facebook.com/garageproject'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/independent-breweries/7813"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: ''
+facebook: ''
 ---

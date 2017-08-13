@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/exit-brewing/123448"
 permalink: /brewery/:title.html
 lat: -38.031
 lng: 145.215
+instagram: 'exitbrewing'
+twitter: 'ExitBrewing'
+facebook: 'https://www.facebook.com/exitbrewing?fref=nf'
 ---

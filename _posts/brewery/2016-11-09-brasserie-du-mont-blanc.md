@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brasserie-du-mont-blanc/1433"
 permalink: /brewery/:title.html
 lat: 45.5923
 lng: 5.88791
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/bieredumontblanc'
 ---

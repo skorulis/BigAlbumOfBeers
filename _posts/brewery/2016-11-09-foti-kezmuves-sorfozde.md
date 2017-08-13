@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/foti-kezmuves-sorfozde/45915"
 permalink: /brewery/:title.html
 lat: 47.6202
 lng: 19.2108
+instagram: ''
+twitter: ''
+facebook: ''
 ---

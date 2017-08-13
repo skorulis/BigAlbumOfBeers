@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/birra-del-borgo/2243"
 permalink: /brewery/:title.html
 lat: 42.1883
 lng: 13.2385
+instagram: 'birradelborgo'
+twitter: 'BirraDelBorgo'
+facebook: 'https://www.facebook.com/birradelborgo'
 ---

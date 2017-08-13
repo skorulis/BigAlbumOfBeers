@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/grand-ridge-brewery/4331"
 permalink: /brewery/:title.html
 lat: -38.4011
 lng: 146.163
+instagram: 'grandridgebeer'
+twitter: 'grandridgebeer'
+facebook: 'http://www.facebook.com/pages/Grand-Ridge-Brewery/149607794490'
 ---

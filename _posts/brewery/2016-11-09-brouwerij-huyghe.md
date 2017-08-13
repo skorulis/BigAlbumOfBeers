@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/brouwerij-huyghe/285"
 permalink: /brewery/:title.html
 lat: 51.0002
 lng: 3.80523
+instagram: ''
+twitter: 'Deliriumbrewery'
+facebook: 'http://www.facebook.com/Deliriumbrewery'
 ---

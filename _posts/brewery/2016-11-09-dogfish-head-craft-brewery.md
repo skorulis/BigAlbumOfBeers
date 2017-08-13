@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/dogfish-head-craft-brewery/459"
 permalink: /brewery/:title.html
 lat: 38.7776
 lng: -75.3099
+instagram: 'dogfishbeer'
+twitter: 'dogfishbeer'
+facebook: 'http://www.facebook.com/dogfishheadbeer'
 ---

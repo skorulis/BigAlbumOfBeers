@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/matilda-bay-brewing-company/835"
 permalink: /brewery/:title.html
 lat: -37.8285
 lng: 144.937
+instagram: ''
+twitter: 'matildabaybeer'
+facebook: 'https://www.facebook.com/MatildaBayBrewingCo'
 ---

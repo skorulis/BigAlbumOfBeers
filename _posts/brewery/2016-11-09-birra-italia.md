@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/birra-italia/35353"
 permalink: /brewery/:title.html
 lat: 0
 lng: 0
+instagram: ''
+twitter: 'birra_italia'
+facebook: 'https://www.facebook.com/pages/BIRRA-ITALIA/129280500423718'
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v-/
 permalink: /brewery/:title.html
 lat: 25.6949
 lng: -100.317
+instagram: ''
+twitter: 'cuamocmx'
+facebook: 'https://www.facebook.com/cuamocmx'
 ---

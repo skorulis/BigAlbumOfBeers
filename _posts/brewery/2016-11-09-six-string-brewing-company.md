@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/six-string-brewing-company/49352"
 permalink: /brewery/:title.html
 lat: -33.4275
 lng: 151.395
+instagram: ''
+twitter: '6stringbrewing'
+facebook: 'https://www.facebook.com/SixStringBrewing'
 ---

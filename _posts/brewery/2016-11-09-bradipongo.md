@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/bradipongo/61780"
 permalink: /brewery/:title.html
 lat: 45.954
 lng: 12.364
+instagram: ''
+twitter: ''
+facebook: 'https://www.facebook.com/BirrificioBradipongo'
 ---

@@ -24,9 +24,22 @@
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAiyUGQpZq3A3DtA0rGWSLtEEvXwNdseUM&callback=initMap">
             </script>
         {% endif %}
-        
 
-        <p><a href="{{page.breweryURL}}">External link</a></p>
+        {% if page.instagram or page.facebook or page.twitter %}
+            <h3>Contact</h3>
+            {% if page.instagram %}
+                <a href="https://instagram.com/{{page.instagram}}" class="btn-social btn-outline-rev"><i class="fa fa-fw fa-instagram"></i></a>
+            {% endif %}
+            {% if page.facebook %}
+                <a href="{{page.facebook}}" class="btn-social btn-outline-rev"><i class="fa fa-fw fa-facebook"></i></a>
+            {% endif %}
+            {% if page.twitter %}
+                <a href="https://twitter.com/{{page.twitter}}" class="btn-social btn-outline-rev"><i class="fa fa-fw fa-twitter"></i></a>
+            {% endif %}
+        {% endif %}
+
+        <p><a href="{{page.breweryURL}}">Untappd link</a></p>
+        <h3>Beers I've tried</h3>
         <div class="beerlist row">
             {% assign rev = site.data.full | reverse %}
                 {% for beer in rev %}

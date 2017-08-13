@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/lao-brewery/1558"
 permalink: /brewery/:title.html
 lat: 17.8702
 lng: 102.655
+instagram: ''
+twitter: ''
+facebook: ''
 ---

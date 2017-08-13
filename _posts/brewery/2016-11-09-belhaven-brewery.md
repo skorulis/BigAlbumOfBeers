@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/belhaven-brewery/98"
 permalink: /brewery/:title.html
 lat: 55.9933
 lng: -2.50964
+instagram: ''
+twitter: ''
+facebook: ''
 ---

@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/liberty-brewing/9912"
 permalink: /brewery/:title.html
 lat: -39.0556
 lng: 174.075
+instagram: ''
+twitter: 'libertybrewer'
+facebook: 'http://www.facebook.com/pages/Liberty-Brewing-Company/149023045129562'
 ---

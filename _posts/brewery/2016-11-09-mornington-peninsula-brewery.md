@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/mornington-peninsula-brewery/3896"
 permalink: /brewery/:title.html
 lat: -38.2324
 lng: 145.057
+instagram: 'mpbrewery'
+twitter: 'mpbrew'
+facebook: 'http://www.facebook.com/pages/Mornington-Peninsula-Brewery/242420369366'
 ---

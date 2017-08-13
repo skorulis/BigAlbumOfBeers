@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/bavaria-brouwerij/109"
 permalink: /brewery/:title.html
 lat: 51.5171
 lng: 5.60823
+instagram: 'bavaria'
+twitter: 'bavaria'
+facebook: 'https://www.facebook.com/Bavaria'
 ---

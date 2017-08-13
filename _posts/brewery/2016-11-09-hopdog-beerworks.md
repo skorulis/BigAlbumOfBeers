@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/hopdog-beerworks/15151"
 permalink: /brewery/:title.html
 lat: -34.9122
 lng: 150.602
+instagram: 'HopDogBW'
+twitter: 'HopDogBW'
+facebook: 'http://facebook.com/HopDogBW'
 ---

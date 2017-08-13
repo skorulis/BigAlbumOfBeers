@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/dageraad-brewing/129448"
 permalink: /brewery/:title.html
 lat: 49.2559
 lng: -122.921
+instagram: ''
+twitter: 'DageraadBeer'
+facebook: 'https://www.facebook.com/DageraadBrewing'
 ---

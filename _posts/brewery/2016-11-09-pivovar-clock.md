@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/pivovar-clock/133692"
 permalink: /brewery/:title.html
 lat: 50.0834
 lng: 16.3079
+instagram: 'pivovarclock'
+twitter: 'pivovarclock'
+facebook: 'http://www.facebook.com/pivovarclock'
 ---

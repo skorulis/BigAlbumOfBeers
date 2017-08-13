@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/hope-brewhouse/135956"
 permalink: /brewery/:title.html
 lat: -32.7726
 lng: 151.311
+instagram: 'hopebrewhouse'
+twitter: ''
+facebook: 'https://www.facebook.com/hopebrewhousecafe/'
 ---

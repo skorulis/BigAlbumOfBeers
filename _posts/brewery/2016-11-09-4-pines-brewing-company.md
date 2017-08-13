@@ -6,4 +6,7 @@ breweryURL: "https://untappd.com/w/4-pines-brewing-company/4254"
 permalink: /brewery/:title.html
 lat: -33.7645
 lng: 151.278
+instagram: '4pinesbeer'
+twitter: '4PinesBeer'
+facebook: 'http://www.facebook.com/pages/4-Pines-Brewing-Company/150406875042'
 ---
