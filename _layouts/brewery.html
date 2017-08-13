@@ -4,7 +4,28 @@
     <body id="page-top" class="index">
     {% include nav.html %}
     {% include header.html %}
-    <div class="main-container">    
+    <div class="main-container">
+        {% if page.lat %}
+            <div id="map"></div>
+            <script>
+              function initMap() {
+                var place = {lat: {{page.lat}}, lng: {{page.lng}}};
+                var map = new google.maps.Map(document.getElementById('map'), {
+                  zoom: 10,
+                  center: place
+                });
+                var marker = new google.maps.Marker({
+                  position: place,
+                  map: map
+                });
+              }
+            </script>
+            <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAiyUGQpZq3A3DtA0rGWSLtEEvXwNdseUM&callback=initMap">
+            </script>
+        {% endif %}
+        
+
         <p><a href="{{page.breweryURL}}">External link</a></p>
         <div class="beerlist row">
             {% assign rev = site.data.full | reverse %}
