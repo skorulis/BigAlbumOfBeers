@@ -4,4 +4,6 @@ filename: "_posts/brewery/2016-11-09-steamrail-brewing-company-coles.md"
 title: "Steamrail Brewing Company (Coles)"
 breweryURL: "https://untappd.com/w/steamrail-brewing-company--coles-/50996"
 permalink: /brewery/:title.html
+lat: -37.8454
+lng: 145.048
 ---

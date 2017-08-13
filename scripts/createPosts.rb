@@ -4,6 +4,7 @@ require 'slugify'
 maxPages = ARGV[0]
 
 allBeers = JSON.parse(File.read('_data/full.json'))
+@allBreweries = JSON.parse(File.read('_data/breweries.json'))["breweries"]
 stats = JSON.parse(File.read('js/stats.json'))
 
 if maxPages != nil
@@ -28,6 +29,15 @@ def breweryURL(brewery,breweryId)
 	end
 end
 
+def findBreweryDetails(bId)
+	@allBreweries.each do |b|
+		if b["brewery_id"] == bId
+			return b
+		end
+	end
+	return nil
+end
+
 def breweryFilename(brewery)
 	date = "2016-11-09-"
 	return "/brewery/" + date + customSlugify(brewery)
@@ -45,6 +55,7 @@ breweries.each do |item|
 	extra = extraMap[beerMatch]
 	untappd = extra["untappd"]
 	breweryURL = breweryURL(item,untappd["breweryId"])
+	details = findBreweryDetails(untappd["breweryId"])
 	
 	filename = "_posts" + breweryFilename(item) + ".md"
 
@@ -55,6 +66,13 @@ breweries.each do |item|
 		file.puts('title: "' + item + '"')
 		file.puts('breweryURL: "' + breweryURL + '"')
 		file.puts('permalink: /brewery/:title.html')
+		if details != nil
+			if details["location"] != nil
+				file.puts("lat: " + details["location"]["lat"].to_s)
+				file.puts("lng: " + details["location"]["lng"].to_s)
+			end
+		end
+		
 		file.puts('---')
 	}
 end

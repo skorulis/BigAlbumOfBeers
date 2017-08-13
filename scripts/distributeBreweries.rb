@@ -26,7 +26,7 @@ end
 breakdowns.each do |key, value|
 	finalObj = Hash.new
 	finalObj["breweries"] = value
-	File.open("_data/locations/" + key + ".json","w") do |f|
+	File.open("_data/locations/" + key + "/breweries.json","w") do |f|
   		f.write(JSON.pretty_generate(finalObj))
 	end
 end
