@@ -492,6 +492,16 @@ figcaption {
     width: 100%;
 }
 
+.small-form {
+    background-color: #{{ site.color.secondary }};
+    padding: 10px 20px;
+    max-width: 400px;
+    margin:auto;
+    color:#fff;
+}
+
+.small-form h2 {font-weight:bold; padding:0; margin:15px 0; font-size:1.4em;}
+
 /* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
 #mc_embed_signup form {display:block; position:relative; text-align:left; padding:10px 0 10px 3%}
 #mc_embed_signup h2 {font-weight:bold; padding:0; margin:15px 0; font-size:1.4em;}
