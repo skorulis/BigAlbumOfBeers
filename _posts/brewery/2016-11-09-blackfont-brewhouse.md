@@ -9,4 +9,5 @@ lng: 151.16
 instagram: 'BlackFontBrewhouse'
 twitter: 'BlackFontBrew'
 facebook: 'http://www.facebook.com/blackfontbrewhouse'
+google_place: ChIJH7DQCGGwEmsRZY__agDeihY
 ---

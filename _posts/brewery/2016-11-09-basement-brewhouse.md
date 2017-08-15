@@ -9,4 +9,5 @@ lng: 151.0312344
 instagram: 'basementbrewhouse/'
 twitter: ''
 facebook: 'https://www.facebook.com/basementbrewhouse/'
+google_place: ChIJzRF8Fhu8EmsRgeAWgCZCKNk
 ---

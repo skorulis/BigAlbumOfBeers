@@ -9,4 +9,5 @@ lng: 151.001
 instagram: ''
 twitter: 'riversidebrew'
 facebook: 'http://www.facebook.com/riversidebrew'
+google_place: ChIJ57Jo06qjEmsRzTkd0pUM91A
 ---

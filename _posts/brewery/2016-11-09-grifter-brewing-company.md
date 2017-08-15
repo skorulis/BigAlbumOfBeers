@@ -9,4 +9,5 @@ lng: 151.209
 instagram: 'thegrifterbrewingco'
 twitter: 'thegrifterbrew'
 facebook: 'http://www.facebook.com/TheGrifterBrewingCompany'
+google_place: ChIJh9WB20OwEmsRLEqpIKa5olU
 ---

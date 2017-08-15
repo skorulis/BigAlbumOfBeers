@@ -9,4 +9,5 @@ lng: 151.203
 instagram: 'lordnelsonbrewery'
 twitter: 'LordNelsonBrew'
 facebook: 'http://www.facebook.com/lord.nelson.brewery.hotel'
+google_place: ChIJPavTvUSuEmsRZTrnMkJeeq0
 ---

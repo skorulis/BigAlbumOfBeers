@@ -9,4 +9,5 @@ lng: 151.174
 instagram: 'younghenrys'
 twitter: 'younghenrys'
 facebook: 'http://www.facebook.com/younghenrysbrewing'
+google_place: ChIJaVOrzTmwEmsRWg9OyFOHzug
 ---

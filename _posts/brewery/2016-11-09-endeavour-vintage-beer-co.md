@@ -9,4 +9,5 @@ lng: 151.213
 instagram: 'ENDEAVOURbeer'
 twitter: 'ENDEAVOURbeer'
 facebook: 'https://www.facebook.com/ENDEAVOURbeer'
+google_place: ChIJobGgw0KuEmsREwYod_p4Zs0
 ---

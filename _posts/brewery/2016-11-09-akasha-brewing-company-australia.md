@@ -9,4 +9,5 @@ lng: 151.118
 instagram: 'akashabrew'
 twitter: 'akashabrew'
 facebook: 'https://www.facebook.com/akashabrew'
+google_place: ChIJ6Q4zlLW6EmsRYX9YA34C-bY
 ---

@@ -9,4 +9,5 @@ lng: 151.154
 instagram: 'bucketboysbeer'
 twitter: 'bucketboysbeer'
 facebook: 'www.facebook.com/bucketboysbeer'
+google_place: ChIJ96Kzc2OwEmsRgq-IGgfepE4
 ---

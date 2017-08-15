@@ -9,4 +9,5 @@ lng: 151.278
 instagram: '4pinesbeer'
 twitter: '4PinesBeer'
 facebook: 'http://www.facebook.com/pages/4-Pines-Brewing-Company/150406875042'
+google_place: ChIJ5_rQOQmrEmsRSAe4RJKUwh0
 ---

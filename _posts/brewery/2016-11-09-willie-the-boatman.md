@@ -9,4 +9,5 @@ lng: 151.173
 instagram: 'Willietheboatman'
 twitter: 'BoatmanPat'
 facebook: 'https://www.facebook.com/willietheboatman'
+google_place: ChIJvU5vVVqwEmsRDVMfMWpESMg
 ---

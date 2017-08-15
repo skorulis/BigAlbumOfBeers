@@ -9,4 +9,5 @@ lng: 151.175
 instagram: 'WaywardBrewing'
 twitter: 'WaywardBeer'
 facebook: 'http://www.facebook.com/WaywardBrewing'
+google_place: ChIJlS_Y_SWwEmsR05UnfTFoiD8
 ---

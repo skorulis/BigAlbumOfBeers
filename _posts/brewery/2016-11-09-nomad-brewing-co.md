@@ -9,4 +9,5 @@ lng: 151.272
 instagram: 'NomadsBrewing'
 twitter: 'NomadsBrewing'
 facebook: 'https://www.facebook.com/NomadBrewingCo'
+google_place: ChIJ5ymPsF2qEmsRnL0tuQkSKkk
 ---

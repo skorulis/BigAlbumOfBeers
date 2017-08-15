@@ -9,4 +9,5 @@ lng: 151.079
 instagram: 'sharkislandbrewing'
 twitter: 'Sharkislandbrew'
 facebook: 'https://www.facebook.com/pages/Shark-Island-Brewing-Company/379657025508591'
+google_place: ChIJzXcYmmXHEmsRR5_D0iZNMD4
 ---

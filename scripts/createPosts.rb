@@ -49,6 +49,8 @@ end
 
 clearDir("_posts/brewery")
 clearDir("_posts/beer")
+clearDir("_posts/bar")
+clearDir("_posts/bottleshop")
 
 breweries.each do |item|
 	beerMatch = stats.select {|beer| beer["b"] == item}[0]["name"]
@@ -82,6 +84,9 @@ breweries.each do |item|
 				if contact["facebook"] != nil
 					file.puts("facebook: '" + contact["facebook"] + "'")
 				end
+			end
+			if details["extra"] != nil && details["extra"]["place_id"] != nil
+				file.puts("google_place: " + details["extra"]["place_id"])
 			end
 		end
 		

@@ -9,4 +9,5 @@ lng: 150.913
 instagram: 'ausbrewery'
 twitter: 'AusBrewery'
 facebook: 'http://www.facebook.com/ausbrewery'
+google_place: ChIJ8SOrF7SfEmsRid8LArkwzKE
 ---
