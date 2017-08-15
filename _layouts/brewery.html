@@ -37,6 +37,18 @@
         {% endif %}
         <a href="{{page.breweryURL}}" class="btn-social btn-outline-rev"><i class="icon-untappd"></i></a>
 
+        {% if page.google_place %}
+            <h3>Opening Hours</h3>
+            {% assign hours = site.data.allHours %}
+            {% for place in hours %}
+                {% if place[0] == page.google_place %}
+                    {% for day in place[1].weekday_text %}
+                        <p>{{day}}</p>
+                    {% endfor %}
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+
         <h3>Beers I've tried</h3>
         <div class="beerlist row">
             {% assign rev = site.data.full | reverse %}
