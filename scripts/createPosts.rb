@@ -85,8 +85,21 @@ breweries.each do |item|
 					file.puts("facebook: '" + contact["facebook"] + "'")
 				end
 			end
-			if details["extra"] != nil && details["extra"]["place_id"] != nil
-				file.puts("google_place: " + details["extra"]["place_id"])
+			extra = details["extra"]
+			if extra != nil
+				if extra["place_id"] != nil
+					file.puts("google_place: " + extra["place_id"])
+				end
+				reviews = extra["reviews"]
+				if reviews != nil
+					if reviews["beers"] != nil
+						file.puts("review_beer: \"" + reviews["beers"] + '"')	
+					end
+					if reviews["venue"] != nil
+						file.puts("review_venue: \"" + reviews["venue"] + '"')	
+					end
+				end
+				
 			end
 		end
 		

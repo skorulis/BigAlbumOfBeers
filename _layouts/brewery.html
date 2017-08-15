@@ -37,6 +37,16 @@
         {% endif %}
         <a href="{{page.breweryURL}}" class="btn-social btn-outline-rev"><i class="icon-untappd"></i></a>
 
+        {% if page.review_beer %}
+            <h3>Beer Review</h3>
+            <p>{{page.review_beer}}</p>
+        {% endif %}
+
+        {% if page.review_venue %}
+            <h3>Venue Review</h3>
+            <p>{{page.review_venue}}</p>
+        {% endif %}
+
         {% if page.google_place %}
             <h3>Opening Hours</h3>
             {% assign hours = site.data.allHours %}
