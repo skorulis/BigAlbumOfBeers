@@ -2,8 +2,8 @@
 layout: brewery
 filename: "_posts/brewery/2016-11-09-balmain-brewing-company.md"
 title: "Balmain Brewing Company"
-breweryURL: "https://untappd.com/w/balmain-brewing-company/2980"
 permalink: /brewery/:title.html
+breweryURL: "https://untappd.com/w/balmain-brewing-company/2980"
 lat: -33.8566
 lng: 151.18
 instagram: 'balmainbrewing'

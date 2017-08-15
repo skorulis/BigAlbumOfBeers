@@ -16,6 +16,8 @@ statMap = Hash[stats.map{ |a| [a["name"], a] }]
 extraMap = JSON.parse(File.read('js/extra.json'))
 
 breweries = stats.map { |beer| beer["b"]}.uniq.select {|brewery| brewery != nil}
+pubs = JSON.parse(File.read("_data/pubs.json"))["pubs"]
+shopt = JSON.parse(File.read("_data/bottleshops.json"))["shops"]
 
 def clearDir(path)
 	Dir.foreach(path) {|f| fn = File.join(path, f); File.delete(fn) if f != '.' && f != '..'}
@@ -38,13 +40,43 @@ def findBreweryDetails(bId)
 	return nil
 end
 
-def breweryFilename(brewery)
+def placeFilename(placeName,type)
 	date = "2016-11-09-"
-	return "/brewery/" + date + customSlugify(brewery)
+	return "/#{type}/" + date + customSlugify(placeName)
 end
 
 def customSlugify(text)
 	return text.slugify.gsub("-.",".").gsub("---","-").gsub("--","-").gsub(/\-$/, '').gsub("Ø","o")
+end
+
+def writeBasicPlace(file,filename,title)
+	file.puts('---')
+	file.puts('layout: brewery')
+	file.puts('filename: "' + filename + '"')
+	file.puts('title: "' + title + '"')
+	file.puts('permalink: /brewery/:title.html')
+end
+
+def writePlaceLocation(file,details)
+	if details["location"] != nil
+		file.puts("lat: " + details["location"]["lat"].to_s)
+		file.puts("lng: " + details["location"]["lng"].to_s)
+	end
+end
+
+def writePlaceContact(file,details)
+	contact = details["contact"]
+	if contact != nil
+		if contact["instagram"] != nil
+			file.puts("instagram: '" + contact["instagram"] + "'")
+		end
+		if contact["twitter"] != nil
+			file.puts("twitter: '" + contact["twitter"] + "'")
+		end
+		if contact["facebook"] != nil
+			file.puts("facebook: '" + contact["facebook"] + "'")
+		end
+	end
 end
 
 clearDir("_posts/brewery")
@@ -59,32 +91,15 @@ breweries.each do |item|
 	breweryURL = breweryURL(item,untappd["breweryId"])
 	details = findBreweryDetails(untappd["breweryId"])
 	
-	filename = "_posts" + breweryFilename(item) + ".md"
+	filename = "_posts" + placeFilename(item,"brewery") + ".md"
 
 	File.open(filename,'w') { |file|
-		file.puts('---')
-		file.puts('layout: brewery')
-		file.puts('filename: "' + filename + '"')
-		file.puts('title: "' + item + '"')
+		writeBasicPlace(file,filename,item)
 		file.puts('breweryURL: "' + breweryURL + '"')
-		file.puts('permalink: /brewery/:title.html')
 		if details != nil
-			if details["location"] != nil
-				file.puts("lat: " + details["location"]["lat"].to_s)
-				file.puts("lng: " + details["location"]["lng"].to_s)
-			end
-			contact = details["contact"]
-			if contact != nil
-				if contact["instagram"] != nil
-					file.puts("instagram: '" + contact["instagram"] + "'")
-				end
-				if contact["twitter"] != nil
-					file.puts("twitter: '" + contact["twitter"] + "'")
-				end
-				if contact["facebook"] != nil
-					file.puts("facebook: '" + contact["facebook"] + "'")
-				end
-			end
+
+			writePlaceLocation(file,details)
+			writePlaceContact(file,details)
 			extra = details["extra"]
 			if extra != nil
 				if extra["place_id"] != nil
@@ -105,6 +120,10 @@ breweries.each do |item|
 		
 		file.puts('---')
 	}
+end
+
+pubs.each do |item|
+	filename = "_posts" + placeFilename(item["name"],"bar") + ".md"
 end
 
 allBeers.each do |item|

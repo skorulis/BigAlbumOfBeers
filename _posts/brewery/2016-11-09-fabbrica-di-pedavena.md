@@ -2,8 +2,8 @@
 layout: brewery
 filename: "_posts/brewery/2016-11-09-fabbrica-di-pedavena.md"
 title: "Fabbrica di Pedavena"
-breweryURL: "https://untappd.com/w/fabbrica-di-pedavena/5024"
 permalink: /brewery/:title.html
+breweryURL: "https://untappd.com/w/fabbrica-di-pedavena/5024"
 lat: 46.0378
 lng: 11.8817
 instagram: ''

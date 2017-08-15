@@ -2,8 +2,8 @@
 layout: brewery
 filename: "_posts/brewery/2016-11-09-hofbrau-kaltenhausen.md"
 title: "Hofbräu Kaltenhausen"
-breweryURL: "https://untappd.com/w/hofbrau-kaltenhausen/104477"
 permalink: /brewery/:title.html
+breweryURL: "https://untappd.com/w/hofbrau-kaltenhausen/104477"
 lat: 47.694
 lng: 13.0785
 instagram: ''
