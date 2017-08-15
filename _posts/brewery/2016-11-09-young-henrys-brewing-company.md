@@ -10,4 +10,6 @@ instagram: 'younghenrys'
 twitter: 'younghenrys'
 facebook: 'http://www.facebook.com/younghenrysbrewing'
 google_place: ChIJaVOrzTmwEmsRWg9OyFOHzug
+review_beer: "A safe range which pleases the crowd it's easy to find in venues all over the country. It's decent beer but never goes past that."
+review_venue: "One of the original in the new wave of craft breweries Young Henry's has a big following and is often packed. Has that industrial feel that's common to breweries. "
 ---
