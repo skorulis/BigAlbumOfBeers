@@ -46,8 +46,12 @@ files.each do |f|
 	hours = result["result"]["opening_hours"]
 	key = f.split('/')[-1].sub(".json","")
 	allHours[key] = hours
+
+	File.open("json/google_places/#{key}.json","w") do |f|
+		f.write(JSON.pretty_generate(result))
+	end
 end
 
 File.open("_data/allHours.json","w") do |f|
-  		f.write(JSON.pretty_generate(allHours))
-	end
+  	f.write(JSON.pretty_generate(allHours))
+end
