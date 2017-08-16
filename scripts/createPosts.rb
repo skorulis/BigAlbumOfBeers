@@ -17,7 +17,7 @@ extraMap = JSON.parse(File.read('js/extra.json'))
 
 breweries = stats.map { |beer| beer["b"]}.uniq.select {|brewery| brewery != nil}
 pubs = JSON.parse(File.read("_data/pubs.json"))["pubs"]
-shopt = JSON.parse(File.read("_data/bottleshops.json"))["shops"]
+shops = JSON.parse(File.read("_data/bottleshops.json"))["shops"]
 
 def clearDir(path)
 	Dir.foreach(path) {|f| fn = File.join(path, f); File.delete(fn) if f != '.' && f != '..'}
@@ -79,6 +79,21 @@ def writePlaceContact(file,details)
 	end
 end
 
+def writePlaceExtra(file,extra)
+	if extra["place_id"] != nil
+		file.puts("google_place: " + extra["place_id"])
+	end
+	reviews = extra["reviews"]
+	if reviews != nil
+		if reviews["beers"] != nil
+			file.puts("review_beer: \"" + reviews["beers"] + '"')	
+		end
+		if reviews["venue"] != nil
+			file.puts("review_venue: \"" + reviews["venue"] + '"')	
+		end
+	end
+end
+
 clearDir("_posts/brewery")
 clearDir("_posts/beer")
 clearDir("_posts/bar")
@@ -102,19 +117,7 @@ breweries.each do |item|
 			writePlaceContact(file,details)
 			extra = details["extra"]
 			if extra != nil
-				if extra["place_id"] != nil
-					file.puts("google_place: " + extra["place_id"])
-				end
-				reviews = extra["reviews"]
-				if reviews != nil
-					if reviews["beers"] != nil
-						file.puts("review_beer: \"" + reviews["beers"] + '"')	
-					end
-					if reviews["venue"] != nil
-						file.puts("review_venue: \"" + reviews["venue"] + '"')	
-					end
-				end
-				
+				writePlaceExtra(file,extra)
 			end
 		end
 		
@@ -123,7 +126,27 @@ breweries.each do |item|
 end
 
 pubs.each do |item|
-	filename = "_posts" + placeFilename(item["name"],"bar") + ".md"
+	filename = "_posts" + placeFilename(item["name"],"pub") + ".md"
+	item["slug"] = customSlugify(item["name"])
+	File.open(filename,'w') { |file|
+		writeBasicPlace(file,filename,item["name"])
+		writePlaceLocation(file,item)
+		writePlaceContact(file,item)
+		writePlaceExtra(file,item)
+		file.puts('---')
+	}
+end
+
+shops.each do |item|
+	filename = "_posts" + placeFilename(item["name"],"bottleshop") + ".md"
+	item["slug"] = customSlugify(item["name"])
+	File.open(filename,'w') { |file|
+		writeBasicPlace(file,filename,item["name"])
+		writePlaceLocation(file,item)
+		writePlaceContact(file,item)
+		writePlaceExtra(file,item)
+		file.puts('---')
+	}
 end
 
 allBeers.each do |item|
@@ -174,6 +197,14 @@ allBeers.each do |item|
 		file.puts('---')
 	}
 
+end
+
+File.open("_data/pubs.json","w") do |f|
+  	f.write(JSON.pretty_generate({"pubs" => pubs}))
+end
+
+File.open("_data/bottleshops.json","w") do |f|
+  	f.write(JSON.pretty_generate({"shops" => shops}))
 end
 
 if maxPages == nil
