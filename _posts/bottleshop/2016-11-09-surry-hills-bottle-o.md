@@ -2,7 +2,7 @@
 layout: brewery
 filename: "_posts/bottleshop/2016-11-09-surry-hills-bottle-o.md"
 title: "Surry Hills Bottle-O"
-permalink: /brewery/:title.html
+permalink: /bottleshop/:title.html
 lat: -33.8816657
 lng: 151.2162806
 instagram: ''

@@ -2,7 +2,7 @@
 layout: brewery
 filename: "_posts/pub/2016-11-09-forest-lodge-hotel.md"
 title: "Forest Lodge Hotel"
-permalink: /brewery/:title.html
+permalink: /pub/:title.html
 lat: -33.8839268
 lng: 151.1845762
 instagram: 'forestlodgehotel'

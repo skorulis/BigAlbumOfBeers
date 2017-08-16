@@ -2,7 +2,7 @@
 layout: brewery
 filename: "_posts/pub/2016-11-09-the-union-hotel.md"
 title: "The Union Hotel"
-permalink: /brewery/:title.html
+permalink: /pub/:title.html
 lat: -33.9038508
 lng: 151.1802796
 instagram: 'unionhotelnewtown'

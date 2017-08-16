@@ -2,7 +2,7 @@
 layout: brewery
 filename: "_posts/bottleshop/2016-11-09-cutty-cellars-bankstown.md"
 title: "Cutty Cellars Bankstown"
-permalink: /brewery/:title.html
+permalink: /bottleshop/:title.html
 lat: -33.913447
 lng: 151.0341269
 instagram: ''

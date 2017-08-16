@@ -49,12 +49,12 @@ def customSlugify(text)
 	return text.slugify.gsub("-.",".").gsub("---","-").gsub("--","-").gsub(/\-$/, '').gsub("Ø","o")
 end
 
-def writeBasicPlace(file,filename,title)
+def writeBasicPlace(file,filename,title,type)
 	file.puts('---')
 	file.puts('layout: brewery')
 	file.puts('filename: "' + filename + '"')
 	file.puts('title: "' + title + '"')
-	file.puts('permalink: /brewery/:title.html')
+	file.puts('permalink: /' + type + '/:title.html')
 end
 
 def writePlaceLocation(file,details)
@@ -109,10 +109,10 @@ breweries.each do |item|
 	filename = "_posts" + placeFilename(item,"brewery") + ".md"
 
 	File.open(filename,'w') { |file|
-		writeBasicPlace(file,filename,item)
+		writeBasicPlace(file,filename,item,"brewery")
 		file.puts('breweryURL: "' + breweryURL + '"')
 		if details != nil
-
+			details["contact"]["slug"] = "brewery/" + customSlugify(item)
 			writePlaceLocation(file,details)
 			writePlaceContact(file,details)
 			extra = details["extra"]
@@ -129,7 +129,7 @@ pubs.each do |item|
 	filename = "_posts" + placeFilename(item["name"],"pub") + ".md"
 	item["contact"]["slug"] = "pub/" + customSlugify(item["name"])
 	File.open(filename,'w') { |file|
-		writeBasicPlace(file,filename,item["name"])
+		writeBasicPlace(file,filename,item["name"],"pub")
 		writePlaceLocation(file,item)
 		writePlaceContact(file,item)
 		writePlaceExtra(file,item)
@@ -141,7 +141,7 @@ shops.each do |item|
 	filename = "_posts" + placeFilename(item["name"],"bottleshop") + ".md"
 	item["contact"]["slug"] = "bottleshop/" + customSlugify(item["name"])
 	File.open(filename,'w') { |file|
-		writeBasicPlace(file,filename,item["name"])
+		writeBasicPlace(file,filename,item["name"],"bottleshop")
 		writePlaceLocation(file,item)
 		writePlaceContact(file,item)
 		writePlaceExtra(file,item)
@@ -205,6 +205,10 @@ end
 
 File.open("_data/bottleshops.json","w") do |f|
   	f.write(JSON.pretty_generate({"shops" => shops}))
+end
+
+File.open("_data/breweries.json","w") do |f|
+  	f.write(JSON.pretty_generate({"breweries" => @allBreweries}))
 end
 
 if maxPages == nil

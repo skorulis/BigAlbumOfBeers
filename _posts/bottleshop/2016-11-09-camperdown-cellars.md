@@ -2,7 +2,7 @@
 layout: brewery
 filename: "_posts/bottleshop/2016-11-09-camperdown-cellars.md"
 title: "Camperdown Cellars"
-permalink: /brewery/:title.html
+permalink: /bottleshop/:title.html
 lat: -33.8864209
 lng: 151.177099
 instagram: ''

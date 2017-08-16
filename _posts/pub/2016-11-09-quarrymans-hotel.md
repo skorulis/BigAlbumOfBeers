@@ -2,7 +2,7 @@
 layout: brewery
 filename: "_posts/pub/2016-11-09-quarrymans-hotel.md"
 title: "Quarrymans Hotel"
-permalink: /brewery/:title.html
+permalink: /pub/:title.html
 lat: -33.8709633
 lng: 151.1949849
 instagram: 'quarrymanshotel'

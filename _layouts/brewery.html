@@ -25,17 +25,20 @@
             </script>
         {% endif %}
 
-        <h3>Contact</h3>
-        {% if page.instagram %}
-            <a href="https://instagram.com/{{page.instagram}}" class="btn-social btn-outline-rev"><i class="icon-instagram"></i></a>
-        {% endif %}
-        {% if page.facebook %}
-            <a href="{{page.facebook}}" class="btn-social btn-outline-rev"><i class="icon-facebook"></i></a>
-        {% endif %}
-        {% if page.twitter %}
-            <a href="https://twitter.com/{{page.twitter}}" class="btn-social btn-outline-rev"><i class="icon-twitter"></i></a>
-        {% endif %}
-        <a href="{{page.breweryURL}}" class="btn-social btn-outline-rev"><i class="icon-untappd"></i></a>
+        <h3 id="contact-header">Contact</h3>
+        <div id="contact-list">
+            {% if page.instagram %}
+                <a href="https://instagram.com/{{page.instagram}}" class="btn-social btn-outline-rev"><i class="icon-instagram"></i></a>
+            {% endif %}
+            {% if page.facebook %}
+                <a href="{{page.facebook}}" class="btn-social btn-outline-rev"><i class="icon-facebook"></i></a>
+            {% endif %}
+            {% if page.twitter %}
+                <a href="https://twitter.com/{{page.twitter}}" class="btn-social btn-outline-rev"><i class="icon-twitter"></i></a>
+            {% endif %}
+            <a href="{{page.breweryURL}}" class="btn-social btn-outline-rev"><i class="icon-untappd"></i></a>
+        </div>
+        
 
         {% if page.review_beer %}
             <h3>Beer Review</h3>
@@ -59,7 +62,7 @@
             {% endfor %}
         {% endif %}
 
-        <h3>Beers I've tried</h3>
+        <h3 id="beer-list">Beers I've tried</h3>
         <div class="beerlist row">
             {% assign rev = site.data.full | reverse %}
                 {% for beer in rev %}
@@ -71,6 +74,7 @@
         
     </div>
 
+
     {% include contact_formspree.html %}
     {% include bottom-ad.html %}
 
@@ -78,5 +82,14 @@
     {% include analytics.html %}
     {% include js.html %}
     {% include addthis.html %}
+
+    <script type="text/javascript">
+        if($(".beerlist").children().length == 0) {
+            $("#beer-list").hide()
+        }
+        if($("#contact-list").children().length == 0) {
+            $("#contact-header").hide()
+        }
+    </script>
     </body>
 </html>
