@@ -46,14 +46,14 @@ def placeFilename(placeName,type)
 end
 
 def customSlugify(text)
-	return text.slugify.gsub("-.",".").gsub("---","-").gsub("--","-").gsub(/\-$/, '').gsub("Ø","o")
+	return text.strip.slugify.gsub("-.",".").gsub("---","-").gsub("--","-").gsub(/\-$/, '').gsub("Ø","o")
 end
 
 def writeBasicPlace(file,filename,title,type)
 	file.puts('---')
 	file.puts('layout: brewery')
 	file.puts('filename: "' + filename + '"')
-	file.puts('title: "' + title + '"')
+	file.puts('title: "' + title.strip + '"')
 	file.puts('permalink: /' + type + '/:title.html')
 end
 
@@ -96,7 +96,7 @@ end
 
 clearDir("_posts/brewery")
 clearDir("_posts/beer")
-clearDir("_posts/bar")
+clearDir("_posts/pub")
 clearDir("_posts/bottleshop")
 
 breweries.each do |item|
