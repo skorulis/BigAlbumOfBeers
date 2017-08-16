@@ -127,7 +127,7 @@ end
 
 pubs.each do |item|
 	filename = "_posts" + placeFilename(item["name"],"pub") + ".md"
-	item["slug"] = customSlugify(item["name"])
+	item["contact"]["slug"] = "pub/" + customSlugify(item["name"])
 	File.open(filename,'w') { |file|
 		writeBasicPlace(file,filename,item["name"])
 		writePlaceLocation(file,item)
@@ -139,7 +139,7 @@ end
 
 shops.each do |item|
 	filename = "_posts" + placeFilename(item["name"],"bottleshop") + ".md"
-	item["slug"] = customSlugify(item["name"])
+	item["contact"]["slug"] = "bottleshop/" + customSlugify(item["name"])
 	File.open(filename,'w') { |file|
 		writeBasicPlace(file,filename,item["name"])
 		writePlaceLocation(file,item)
