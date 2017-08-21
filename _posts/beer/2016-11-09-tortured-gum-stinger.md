@@ -9,7 +9,7 @@ brewery: "Tortured Gum"
 breweryURL: "/brewery/tortured-gum.html"
 style: "Pale Wheat Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717321_10153890415758745_9148183600742438871_n.jpg?oh=fe131b310d6a7dab603c1d0614282da4&oe=59FCEB52
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717321_10153890415758745_9148183600742438871_n.jpg?oh=7f66970ffb61eaff71be2f68c7a0cefb&oe=5A247852
 beer-date: "2016-02-14"
 desc: "kind of tart but sits in a strange place like it can't decide what to be"
 permalink: /beer/:title.html

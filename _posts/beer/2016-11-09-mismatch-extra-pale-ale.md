@@ -9,7 +9,7 @@ brewery: "Mismatch Brewing Company"
 breweryURL: "/brewery/mismatch-brewing-company.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664698_10155251934523745_1394085353757447902_n.jpg?oh=31fd1b50e59bf342212466396c6f3a30&oe=59FA1F28
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664698_10155251934523745_1394085353757447902_n.jpg?oh=2b04125aeb05409e1b0709977a351f1a&oe=5A21AC28
 beer-date: "2017-05-27"
 desc: "Quite strong for an XPA but I'm not complaining because it's pretty tasty. Good balance between bitterness and hop aromatics. A nice mix of resiny and fruity"
 permalink: /beer/:title.html

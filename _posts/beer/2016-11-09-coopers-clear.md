@@ -9,7 +9,7 @@ brewery: "Coopers Brewery"
 breweryURL: "/brewery/coopers-brewery.html"
 style: "Lager - American Light"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10151181_10153118668273745_149724940762965990_n.jpg?oh=c687505a169c2441110303f4105fe551&oe=59F13919
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10151181_10153118668273745_149724940762965990_n.jpg?oh=c449eabcb57a2ad26413f565685ed1bc&oe=5A18C619
 beer-date: "2015-02-27"
 desc: "Tastes like water"
 permalink: /beer/:title.html

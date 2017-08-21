@@ -9,7 +9,7 @@ brewery: "HiteJinro"
 breweryURL: "/brewery/hitejinro.html"
 style: "Blonde Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12832355_10153966659053745_5547402226284326278_n.jpg?oh=8d44a2dfd9c3957e0d6fbbe1d1ff8846&oe=59F9CFD5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12832355_10153966659053745_5547402226284326278_n.jpg?oh=3cee8c775d86cef93716b12af65ae1f2&oe=5A215CD5
 beer-date: "2016-03-16"
 desc: "Supposed to be hoppy but it’s just bitter. Feels like it’s missing something"
 permalink: /beer/:title.html

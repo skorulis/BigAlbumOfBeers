@@ -9,7 +9,7 @@ brewery: "Balmain Brewing Company"
 breweryURL: "/brewery/balmain-brewing-company.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10845763_10153118669868745_3771962632087142041_o.jpg?oh=0f0031cf738169b32e45cbda04fcc4ee&oe=59F618FD
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10845763_10153118669868745_3771962632087142041_o.jpg?oh=0c545c49036104022d72f7bcde357a61&oe=5A1DA5FD
 beer-date: "2015-02-27"
 desc: "Pretty plain, time to move onto something stronger today"
 permalink: /beer/:title.html

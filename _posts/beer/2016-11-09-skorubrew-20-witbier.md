@@ -8,7 +8,7 @@ brewery: "Skorubrew"
 breweryURL: "/brewery/skorubrew.html"
 style: "Witbier"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17883573_10155111574968745_12368754508205681_n.jpg?oh=897d92c54925c66d022ae83974659bb9&oe=59EE8EB9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17883573_10155111574968745_12368754508205681_n.jpg?oh=1616e57e425b66ec83f8e590d03c378e&oe=5A161BB9
 beer-date: "2017-04-11"
 desc: "Love the colour I got with this one but not much else. A really yeast driven beer and perhaps too much for my taste"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "St. Peter’s Brewery Co."
 breweryURL: "/brewery/st-peters-brewery-co.html"
 style: "Golden Ale"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/37805_10151929069633745_1476415530_n.jpg?oh=40e7141d3e315e2fa58addf4dd771e47&oe=59F51E95
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/37805_10151929069633745_1476415530_n.jpg?oh=7452b6db01aa7072719eebc16ad0d0b7&oe=5A1CAB95
 beer-date: "2013-09-19"
 desc: "One of those brewing companies that thinks traditional means better"
 permalink: /beer/:title.html

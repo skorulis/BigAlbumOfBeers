@@ -9,7 +9,7 @@ brewery: "Brabante Cervezas"
 breweryURL: "/brewery/brabante-cervezas.html"
 style: "Witbier"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/535112_10153966650528745_107085668519640662_n.jpg?oh=0291c172625b0afd8e5270a5c1a409d5&oe=59ED4DE7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/535112_10153966650528745_107085668519640662_n.jpg?oh=f8f6752002c1086733cf0d7c4977b9a1&oe=5A14DAE7
 beer-date: "2016-03-16"
 desc: "Surprisingly this cheap beer is one of the better wheat beers that I’ve had. The tang is really well balanced. That said it is a bit light on flavour"
 permalink: /beer/:title.html

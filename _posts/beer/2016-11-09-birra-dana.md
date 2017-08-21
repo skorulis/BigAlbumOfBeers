@@ -9,7 +9,7 @@ brewery: "Birra Peroni"
 breweryURL: "/brewery/birra-peroni.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19894591_10155413266648745_629811071784337406_n.jpg?oh=168c02cb621d4ee4f01188a41fb0c1be&oe=59F4D336
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19894591_10155413266648745_629811071784337406_n.jpg?oh=e79c92bd496031ff84bb78ffe79498fc&oe=5A1C6036
 beer-date: "2017-07-12"
 desc: "Cheap boring lager"
 permalink: /beer/:title.html

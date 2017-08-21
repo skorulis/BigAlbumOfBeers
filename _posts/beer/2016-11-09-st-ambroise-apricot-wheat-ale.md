@@ -9,7 +9,7 @@ brewery: "Brasserie McAuslan (St-Ambroise)"
 breweryURL: "/brewery/brasserie-mcauslan-st-ambroise.html"
 style: "Fruit Beer"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12687816_10153890413098745_7756341127358562624_n.jpg?oh=5188c9c861b88acbd6a67c3da813c595&oe=59F14229
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12687816_10153890413098745_7756341127358562624_n.jpg?oh=91fd1790d71dc16eb8136494f78ece36&oe=5A18CF29
 beer-date: "2016-02-14"
 desc: "The apricot is very faint but kind of interferes with the other flavours in an unpleasant way"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Shepherd Neame"
 breweryURL: "/brewery/shepherd-neame.html"
 style: "Golden Ale"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/282837_10151380245908745_185055294_n.jpg?oh=629fccc8b86751032671d3ee5c89bb6a&oe=59F7DF49
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/282837_10151380245908745_185055294_n.jpg?oh=dee549b15ac3d15f8a0b7d4a6f00c7b5&oe=5A1F6C49
 beer-date: "2012-12-15"
 desc: "Leaves a horrible bitter after taste"
 permalink: /beer/:title.html

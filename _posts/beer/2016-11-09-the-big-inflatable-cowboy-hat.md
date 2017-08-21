@@ -9,7 +9,7 @@ brewery: "Siren Craft Brew"
 breweryURL: "/brewery/siren-craft-brew.html"
 style: "IPA - Imperial / Double"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970683_10151860442323745_1389595186_n.jpg?oh=bfbe18d646b6c53e0935baa1ce92964c&oe=59F71051
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970683_10151860442323745_1389595186_n.jpg?oh=6bc2ce1ec4afc81243e26007d869394a&oe=5A1E9D51
 beer-date: "2013-08-18"
 desc: "Flavourful without being too strong"
 permalink: /beer/:title.html

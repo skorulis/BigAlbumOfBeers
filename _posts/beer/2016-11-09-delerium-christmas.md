@@ -9,7 +9,7 @@ brewery: "Brouwerij Huyghe"
 breweryURL: "/brewery/brouwerij-huyghe.html"
 style: "Winter Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1623626_10152280800643745_1481530083_n.jpg?oh=2a9c2ef9140128509eb119d7c36b5891&oe=59F0B13C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1623626_10152280800643745_1481530083_n.jpg?oh=111bfeb1db84aa9e10aa7c97de956388&oe=5A183E3C
 beer-date: "2014-02-23"
 desc: "Stronger than the originals and a little less unique"
 permalink: /beer/:title.html

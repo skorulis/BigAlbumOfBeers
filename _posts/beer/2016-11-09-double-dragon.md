@@ -9,7 +9,7 @@ brewery: "Felinfoel Brewery Co Ltd"
 breweryURL: "/brewery/felinfoel-brewery-co-ltd.html"
 style: "English Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/148410_10151356728003745_1112766365_n.jpg?oh=b13f778d49acfc96daba2a686b11d79c&oe=59EC8839
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/148410_10151356728003745_1112766365_n.jpg?oh=cbdb8fa28f3775a17fb481ddfc9284fc&oe=5A141539
 beer-date: "2012-12-01"
 desc: ""
 permalink: /beer/:title.html

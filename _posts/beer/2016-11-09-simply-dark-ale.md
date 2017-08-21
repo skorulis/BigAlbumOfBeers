@@ -9,7 +9,7 @@ brewery: "Tesco Stores Ltd."
 breweryURL: "/brewery/tesco-stores-ltd.html"
 style: "Dark Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/521606_10151396303973745_830089732_n.jpg?oh=03d7fe93a49c118d7e0b6c1d119b10bf&oe=59F61F76
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/521606_10151396303973745_830089732_n.jpg?oh=0b0418d6f755a7684b3645bf589d07a5&oe=5A1DAC76
 beer-date: "2012-12-25"
 desc: "Flavoursome"
 permalink: /beer/:title.html

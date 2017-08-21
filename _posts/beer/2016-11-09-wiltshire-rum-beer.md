@@ -9,7 +9,7 @@ brewery: "Wadworth Co."
 breweryURL: "/brewery/wadworth-co.html"
 style: "Extra Special / Strong Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/935047_10151649176048745_1239205144_n.jpg?oh=3ac00e693953133a3ce44ffa1c970647&oe=59EFB594
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/935047_10151649176048745_1239205144_n.jpg?oh=9777110d8a8c8d6ff86e2b0ee2dd3625&oe=5A174294
 beer-date: "2013-04-27"
 desc: "Can't really taste the rum"
 permalink: /beer/:title.html

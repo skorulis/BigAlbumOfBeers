@@ -9,7 +9,7 @@ brewery: "Charles Wells Brewery"
 breweryURL: "/brewery/charles-wells-brewery.html"
 style: "Golden Ale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/551487_10151649173073745_178044172_n.jpg?oh=94ecf58067b0f5a82b3cab0add66619f&oe=59EE1A78
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/551487_10151649173073745_178044172_n.jpg?oh=651e8f955db42718316cc69959e578db&oe=5A15A778
 beer-date: "2013-04-27"
 desc: "Boring"
 permalink: /beer/:title.html

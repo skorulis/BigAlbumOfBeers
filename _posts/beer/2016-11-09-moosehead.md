@@ -9,7 +9,7 @@ brewery: "Moosehead Breweries Limited"
 breweryURL: "/brewery/moosehead-breweries-limited.html"
 style: "Lager - North American Adjunct"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1000219_10151798818558745_1372926994_n.jpg?oh=c8668a9a408f2853ef8f9b83d411aab1&oe=59FD17AC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1000219_10151798818558745_1372926994_n.jpg?oh=74de2b965f02ccbe92b979b094bbffd2&oe=5A24A4AC
 beer-date: "2013-07-19"
 desc: "Would take some getting used to"
 permalink: /beer/:title.html

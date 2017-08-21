@@ -9,7 +9,7 @@ brewery: "Coopers Brewery"
 breweryURL: "/brewery/coopers-brewery.html"
 style: "Australian Sparkling Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/528845_10151602295348745_1649172027_n.jpg?oh=4772bb358b4087b85071f2ebb5391646&oe=59F40AD2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/528845_10151602295348745_1649172027_n.jpg?oh=93ec5a93dcbe72b4b38e8418a9795087&oe=5A1B97D2
 beer-date: "2013-03-28"
 desc: "Not as good as the green, but has more kick"
 permalink: /beer/:title.html

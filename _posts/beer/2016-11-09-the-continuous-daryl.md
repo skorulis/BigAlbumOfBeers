@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "IPA - Imperial / Double"
 score: 9.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13423996_10154200938528745_8109251558112727055_n.jpg?oh=b40c6b0f3edcfaaaefa33652061c1c80&oe=59F90482
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13423996_10154200938528745_8109251558112727055_n.jpg?oh=db85c93f75669a5c99fbfebd1f2d5095&oe=5A209182
 beer-date: "2016-06-16"
 desc: "One amazing beer. Spot on with bitterness and fruitiness"
 permalink: /beer/:title.html

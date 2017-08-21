@@ -9,7 +9,7 @@ brewery: "Valhalla Brewing"
 breweryURL: "/brewery/valhalla-brewing.html"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20597088_10155494017943745_5311569861261571484_n.jpg?oh=6333bf85792ab2946d8f1d763ef323e9&oe=59F3FE51
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20597088_10155494017943745_5311569861261571484_n.jpg?oh=e73fc48527a7da1468cb6a3c67b28406&oe=5A1B8B51
 beer-date: "2017-08-06"
 desc: "Slightly harsh burnt coffee taste"
 permalink: /beer/:title.html

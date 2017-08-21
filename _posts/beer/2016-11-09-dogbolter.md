@@ -9,7 +9,7 @@ brewery: "Matilda Bay Brewing Company"
 breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Lager - Dunkel Munich"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10409678_10152534301618745_7574186216754130853_n.jpg?oh=ab828c762abf2fd4739aeab947533dbd&oe=59F4F904
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10409678_10152534301618745_7574186216754130853_n.jpg?oh=8930fb83653b89a51024264942469a88&oe=5A1C8604
 beer-date: "2014-06-21"
 desc: "A very nice malty flavour"
 permalink: /beer/:title.html

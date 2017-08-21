@@ -9,7 +9,7 @@ brewery: "Magic Rock Brewing"
 breweryURL: "/brewery/magic-rock-brewing.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13423871_10154200938833745_2449878580533037042_n.jpg?oh=54703af4ae7bf0e8fe0902a294e7c953&oe=59FBCBBE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13423871_10154200938833745_2449878580533037042_n.jpg?oh=2f7667a06de7076e1298052c4336a589&oe=5A2358BE
 beer-date: "2016-06-16"
 desc: "Fruity like a soft drink but still bitter like a beer. Smells a little bit like past. Different and refreshing"
 permalink: /beer/:title.html

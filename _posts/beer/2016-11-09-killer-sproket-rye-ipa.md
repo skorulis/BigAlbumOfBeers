@@ -9,7 +9,7 @@ brewery: "Killer Sprocket"
 breweryURL: "/brewery/killer-sprocket.html"
 style: "Rye IPA"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1660722_10153811639283745_5357595767484756321_n.jpg?oh=acd55ef1eebf7eec8e4446b4fe4cf2ee&oe=59F6A099
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1660722_10153811639283745_5357595767484756321_n.jpg?oh=143cb4a8dc857ea5c286c578dce00f5a&oe=5A1E2D99
 beer-date: "2016-01-07"
 desc: "I haven’t had many rye IPAs but so far they’ve all been great beers"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Thwaites Brewery"
 breweryURL: "/brewery/thwaites-brewery.html"
 style: "English Mild Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1173809_10151860441013745_1894761382_n.jpg?oh=22645eaee4d5398213263a80862a2dde&oe=59F5B723
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1173809_10151860441013745_1894761382_n.jpg?oh=912915ce37f0e7cd4923aa87a61432e4&oe=5A1D4423
 beer-date: "2013-08-18"
 desc: "Not as awful as expected"
 permalink: /beer/:title.html

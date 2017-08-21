@@ -9,7 +9,7 @@ brewery: "Newstead Brewing Co."
 breweryURL: "/brewery/newstead-brewing-co.html"
 style: "IPA - American"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098667_10154984566278745_6187259561881568410_n.jpg?oh=b64bb1a71330e9190ff92e68ec5b4652&oe=59F9C730
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098667_10154984566278745_6187259561881568410_n.jpg?oh=fea9302f1b50368a67f600fef66dd777&oe=5A215430
 beer-date: "2017-03-03"
 desc: "Not sure what's in this IPA but it's all wrong. Like really difficult to drink"
 permalink: /beer/:title.html
