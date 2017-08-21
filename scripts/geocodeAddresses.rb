@@ -6,6 +6,9 @@ def updateCoords(filename,key)
 	places = data[key]
 	places.each do |p|
 		loc = p["location"]
+		if loc == nil || loc["address"] == nil
+			next
+		end
 		puts loc["address"]
 		if loc["address"].length >0 && loc["lat"] == nil
 			result = Geocoder.search(loc["address"])
