@@ -675,7 +675,8 @@
         "features": [
           "growler",
           "bar",
-          "foodtruck"
+          "foodtruck",
+          "games"
         ]
       }
     },
@@ -1458,7 +1459,8 @@
         "features": [
           "growler",
           "bar",
-          "food"
+          "food",
+          "games"
         ],
         "reviews": {
           "venue": "Not what you would expect from a brewery located inside a sports club. Feels much more like an up market hipster spot. With 25 taps there's always something new on offer. If you're looking for a brewery without having to go all the way into the city then it's a good option. ",
@@ -1915,6 +1917,66 @@
       "image": "brewery-DadDaves_34849.jpeg",
       "extra": {
         "no_bar": true
+      }
+    },
+    {
+      "brewery_id": 4096,
+      "brewery_name": "Paddy's Brewery",
+      "brewery_slug": "paddy-s-brewery",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-PaddysBrewery_4096.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": false,
+        "claimed_slug": "",
+        "follow_status": false,
+        "follower_count": 0,
+        "uid": 0,
+        "mute_status": "none"
+      },
+      "beer_count": 26,
+      "contact": {
+        "twitter": "PaddysBrewery",
+        "facebook": "https://www.facebook.com/themarketshotel/",
+        "instagram": "",
+        "url": "http://www.marketshotel.com.au/paddys-brewery/",
+        "phone": "02 9764 3500 "
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "address": "268 Parramatta Rd, Flemington",
+        "lat": 40.5123,
+        "lng": -74.8593
+      },
+      "rating": {
+        "count": 295,
+        "rating_score": 3.351
+      },
+      "stats": {
+        "total_count": 573,
+        "unique_count": 193,
+        "monthly_count": 8,
+        "weekly_count": 0,
+        "user_count": 0,
+        "age_on_service": 2305.2390625
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "locations": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "image": "brewery-PaddysBrewery_4096.jpeg",
+      "extra": {
+        "place_id": "ChIJtxiYbTa7EmsRAu8bVB8uX2E"
       }
     },
     {

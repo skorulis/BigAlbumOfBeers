@@ -27,4 +27,5 @@ end
 
 updateCoords("_data/pubs.json","pubs")
 updateCoords("_data/bottleshops.json","shops")
+updateCoords("_data/breweries.json","breweries")
 
