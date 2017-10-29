@@ -9,7 +9,7 @@ brewery: "Belhaven Brewery"
 breweryURL: "/brewery/belhaven-brewery.html"
 style: "Scottish Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10342506_10153966649853745_2082231274376560811_n.jpg?oh=3bffc3d0b1f23591ec5bf4789838636e&oe=5A241336
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10342506_10153966649853745_2082231274376560811_n.jpg?oh=576735fc28f14e62234b1069e86407fc&oe=5A732D36
 beer-date: "2016-03-16"
 desc: "Scottish ale isn’t one of my favourite styles so I can’t give it a top rating"
 permalink: /beer/:title.html

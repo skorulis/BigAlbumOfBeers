@@ -9,7 +9,7 @@ brewery: "3 Pub Circus"
 breweryURL: "/brewery/3-pub-circus.html"
 style: "Pale Ale - Australian"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509407_10153811619193745_3070555167581402785_n.jpg?oh=5633d0905c9c62d3a911e3f3d4114cb3&oe=5A144900
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509407_10153811619193745_3070555167581402785_n.jpg?oh=d7b330f6d683d7c1a3a3bf06165edd75&oe=5A636300
 beer-date: "2016-01-07"
 desc: "A bit of a harsh flavour. Disappointing after the kolsch"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1003490_10151798796948745_2041837456_n.jpg?oh=24471c51d948374e9650af8d5213d670&oe=5A186FD4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1003490_10151798796948745_2041837456_n.jpg?oh=95628a8fd77bcacc4de68517d058fef1&oe=5A6789D4
 beer-date: "2013-07-19"
 desc: "A beer for anyone"
 permalink: /beer/:title.html

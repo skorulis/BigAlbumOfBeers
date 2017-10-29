@@ -9,7 +9,7 @@ brewery: "Tumut River Brewing Co"
 breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Ginger Beer"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20882907_10155535939878745_5104203235635904210_n.jpg?oh=b4502a5e2bfb3eab23a5d60fb5a8c4b3&oe=5A1A20EC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20882907_10155535939878745_5104203235635904210_n.jpg?oh=560d08bcfe61549701abe69a5def3a9c&oe=5A693AEC
 beer-date: "2017-08-21"
 desc: "A little bit overly sweet"
 permalink: /beer/:title.html

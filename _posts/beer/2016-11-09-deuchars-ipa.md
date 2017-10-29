@@ -9,7 +9,7 @@ brewery: "Caledonian Brewing Company "
 breweryURL: "/brewery/caledonian-brewing-company.html"
 style: "IPA - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/603151_10151428525283745_670825446_n.jpg?oh=945a489c5ecc2790a5e89ee32d0a9dc9&oe=5A2BADB0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/603151_10151428525283745_670825446_n.jpg?oh=d7f29ab2c3035c2d67d9d505c3727799&oe=5A7AC7B0
 beer-date: "2013-01-13"
 desc: "Gets better after a few sips"
 permalink: /beer/:title.html

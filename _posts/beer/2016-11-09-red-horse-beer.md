@@ -9,7 +9,7 @@ brewery: "San Miguel Brewery"
 breweryURL: "/brewery/san-miguel-brewery.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12744494_10153890418648745_513314091064162487_n.jpg?oh=ac6b57c81a079d183064126913c32af5&oe=5A1D1EEB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12744494_10153890418648745_513314091064162487_n.jpg?oh=cff7b2ab9d16b66c603eedbe78f73fc7&oe=5A6C38EB
 beer-date: "2016-02-14"
 desc: "Nicer than expected. Has a slightly spicy finish"
 permalink: /beer/:title.html

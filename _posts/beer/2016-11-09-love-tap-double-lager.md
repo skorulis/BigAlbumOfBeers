@@ -9,7 +9,7 @@ brewery: "Moon Dog Craft Brewery"
 breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Lager - Euro Strong"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11206105_10153268265533745_1005147961464463270_n.jpg?oh=2eabf7ee8eb1e3087989dbaa03f229e8&oe=5A285DAA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11206105_10153268265533745_1005147961464463270_n.jpg?oh=626b6eb86ac725a5c0120557851da9bf&oe=5A7777AA
 beer-date: "2015-05-01"
 desc: "Have to love a nice strong lager"
 permalink: /beer/:title.html

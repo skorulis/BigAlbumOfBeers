@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Stout - Irish Dry"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698361_10155251933083745_5336548126989681854_n.jpg?oh=4094a8322c898697074a19297ddc15a3&oe=5A1DD191
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698361_10155251933083745_5336548126989681854_n.jpg?oh=8cdbbf40b25297eb0730794d1f87a7e3&oe=5A6CEB91
 beer-date: "2017-05-27"
 desc: "Looks a lot like a Guinness but it's not as dry so easier to drink. No strong flavours but a decent session beer"
 permalink: /beer/:title.html

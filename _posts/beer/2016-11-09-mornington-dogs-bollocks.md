@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Extra Special / Strong Bitter"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14330073_10154470816203745_282816465036444454_n.jpg?oh=3fa1f8ec023340e4774656364af1c02f&oe=5A32B6F1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14330073_10154470816203745_282816465036444454_n.jpg?oh=50e308fbb159a0e6286cb755c1486e51&oe=5AA95DF1
 beer-date: "2016-09-21"
 desc: "Oh so smooth. One of easiest drinking beers I’ve ever had"
 permalink: /beer/:title.html

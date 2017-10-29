@@ -9,7 +9,7 @@ brewery: "Globe Brewing Company "
 breweryURL: "/brewery/globe-brewing-company.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14716_10153225365973745_9134185236353368363_n.jpg?oh=baa8c6efc0e2439bd2cb51e9294b98ce&oe=5A31C8E7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14716_10153225365973745_9134185236353368363_n.jpg?oh=c9463baa14712826463c2c36798bc239&oe=5AA86FE7
 beer-date: "2015-04-13"
 desc: "Standard lager. Like the can though"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Willie The Boatman"
 breweryURL: "/brewery/willie-the-boatman.html"
 style: "Australian Sparkling Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12728843_10153890420703745_1906734589373356822_n.jpg?oh=1a11613bd9413aeb90e74020728d3e75&oe=5A1AC6FB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12728843_10153890420703745_1906734589373356822_n.jpg?oh=039a4c12f5926408fa286de7b8f59bf8&oe=5A69E0FB
 beer-date: "2016-02-14"
 desc: "Pretty much a lager. Much less exciting than I thought"
 permalink: /beer/:title.html

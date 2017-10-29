@@ -9,7 +9,7 @@ brewery: "Hasseröder Brauerei"
 breweryURL: "/brewery/hasseroder-brauerei.html"
 style: "Pilsner - German"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105732_10155314455608745_7472804526033013835_n.jpg?oh=e18432ad8ebd386c46b6be66813548c4&oe=5A2E6D94
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105732_10155314455608745_7472804526033013835_n.jpg?oh=5dfd2d1ba4a39354e72091496238fa9e&oe=5A7D8794
 beer-date: "2017-06-15"
 desc: "Not exactly premium but not awful"
 permalink: /beer/:title.html

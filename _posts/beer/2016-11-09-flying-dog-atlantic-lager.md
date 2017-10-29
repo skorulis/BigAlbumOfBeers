@@ -9,7 +9,7 @@ brewery: "Flying Dog Brewery"
 breweryURL: "/brewery/flying-dog-brewery.html"
 style: "Lager - Pale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/993032_10152293086873745_958885686_n.jpg?oh=0d2ded61be7e81024ed95159a05ba1f9&oe=59EA9928
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/993032_10152293086873745_958885686_n.jpg?oh=61e241279984f25f60358783a9e0c52a&oe=5A614028
 beer-date: "2014-03-01"
 desc: "Fruity and mild"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Riverside Brewing Company"
 breweryURL: "/brewery/riverside-brewing-company.html"
 style: "Porter - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13230311_10154147276338745_1922289556115965636_n.jpg?oh=40e9f8534c0c5274897dd778c76f9bb4&oe=5A361F61
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13230311_10154147276338745_1922289556115965636_n.jpg?oh=5b0daa71155539c6b5755dfd493d9da0&oe=5AACC661
 beer-date: "2016-05-24"
 desc: "One of the less sweet porters I’ve had but still not bitter. Not my favourite"
 permalink: /beer/:title.html

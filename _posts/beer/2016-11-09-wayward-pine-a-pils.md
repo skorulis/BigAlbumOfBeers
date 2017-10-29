@@ -9,7 +9,7 @@ brewery: "Wayward Brewing"
 breweryURL: "/brewery/wayward-brewing.html"
 style: "Pilsner - Other"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16194947_10154858014708745_4781494435371062598_n.jpg?oh=f156085180ce3fb0307d992e4ad1a73c&oe=5A2D7B7C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16194947_10154858014708745_4781494435371062598_n.jpg?oh=517d814f8238d8df0ae6f6377f0e8c97&oe=5A7C957C
 beer-date: "2017-01-21"
 desc: "Nice hoppiness but theres a harshness to it that detracts a little bit"
 permalink: /beer/:title.html

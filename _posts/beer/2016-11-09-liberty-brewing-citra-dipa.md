@@ -9,7 +9,7 @@ brewery: "Liberty Brewing"
 breweryURL: "/brewery/liberty-brewing.html"
 style: "IPA - Imperial / Double"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16682035_10154923952878745_7943193494374730033_n.jpg?oh=5d6c0692998f0ee9cda75a13ec46dea7&oe=5A2F44C8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16682035_10154923952878745_7943193494374730033_n.jpg?oh=0b0fce520c816ae5ecf494927e04e327&oe=5AA5EBC8
 beer-date: "2017-02-11"
 desc: "Has a really strange tang, not bad, just unexpected. Probably a tad too bitter for the amount of flavour packed in. Could be that I just ate a steak and a whole cob loaf and didn't have the space in my stomach left"
 permalink: /beer/:title.html

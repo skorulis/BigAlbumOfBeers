@@ -9,7 +9,7 @@ brewery: "Molson Coors (UK)"
 breweryURL: "/brewery/molson-coors-uk.html"
 style: "Pilsner - Imperial / Double"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/374324_10151461684623745_844347532_n.jpg?oh=5ad495c696464feaea63192abb777e2c&oe=5A32B734
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/374324_10151461684623745_844347532_n.jpg?oh=6667f71947102f0c70a636c0436de517&oe=5AA95E34
 beer-date: "2013-02-01"
 desc: "Nicer, stronger and bigger than it's crappy cousin. That's why it's the king"
 permalink: /beer/:title.html

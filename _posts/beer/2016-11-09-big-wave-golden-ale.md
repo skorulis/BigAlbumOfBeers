@@ -9,7 +9,7 @@ brewery: "Kona Brewing Company"
 breweryURL: "/brewery/kona-brewing-company.html"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142932_10154858213933745_1116010504942046413_n.jpg?oh=4f0ce0ad5bf2a3b49f3f02d193e2c622&oe=5A2BB084
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16142932_10154858213933745_1116010504942046413_n.jpg?oh=83043c05a6cdeeb427d7b31866bcf4bc&oe=5A7ACA84
 beer-date: "2017-01-21"
 desc: "Very refreshing. Has a slight creaminess"
 permalink: /beer/:title.html

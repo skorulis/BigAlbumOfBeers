@@ -78,7 +78,9 @@ extraData.each do |item|
 end
 
 missing = extraData.select {|key,value| value["untappd"]["id"].length == 0 && value["homebrew"] == nil}
-puts missing.keys
+puts missing.keys.map { |e|  
+	"https://untappd.com/search?q=" + e
+}
 
 
 

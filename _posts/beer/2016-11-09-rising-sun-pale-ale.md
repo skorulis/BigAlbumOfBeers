@@ -9,7 +9,7 @@ brewery: "Baird Brewing Company"
 breweryURL: "/brewery/baird-brewing-company.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10985454_10153268299563745_9155074984245162225_n.jpg?oh=c6a224d1a469be9c58262dcc45796b20&oe=5A16FD13
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10985454_10153268299563745_9155074984245162225_n.jpg?oh=2563ff7149c0c44bf5b8c13449b806b1&oe=5A661713
 beer-date: "2015-05-01"
 desc: "Was expecting more from this. It’s the nice pale flavour but with too much harshness"
 permalink: /beer/:title.html

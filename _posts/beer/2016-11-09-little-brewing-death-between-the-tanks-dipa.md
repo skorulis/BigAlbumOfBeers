@@ -9,7 +9,7 @@ brewery: "The Little Brewing Company"
 breweryURL: "/brewery/the-little-brewing-company.html"
 style: "IPA - Imperial / Double"
 score: 9.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15078999_10154633841473745_8903335512713450426_n.jpg?oh=0c2278e57257f0ac4aeb45eda9106e53&oe=5A3977A6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15078999_10154633841473745_8903335512713450426_n.jpg?oh=6c60d5db2a6cfa73542cb7e3e5764efc&oe=5AB01EA6
 beer-date: "2016-11-13"
 desc: "After having 2 IPAs this was the perfect follow on. My palate was fully ready to ignore the 113 IBUs and delve into the flavours beneath. It’s full of citrusy hops which give you fruitiness but with the undeniable awareness that this is a strong beer. As I finish my glass I look at the bottom with sadness that I have no more of this supreme liquid, I’m left only with the hoppy smell of the bottle and the realisation that the next beer will not be as good"
 permalink: /beer/:title.html

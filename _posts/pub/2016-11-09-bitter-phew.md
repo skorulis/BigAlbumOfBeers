@@ -9,4 +9,5 @@ instagram: 'bitterphew'
 twitter: 'BitterPhew'
 facebook: 'https://www.facebook.com/bitterphewcraftbeerbar/'
 google_place: ChIJx04xTheuEmsRc_KYpV3Ssac
+review_venue: "Clean modern fixtures mixed with an industrial aspect. Lights down low with chilled out music. Very decent range and knowledgeable staff. Seems a little pricey. "
 ---

@@ -9,7 +9,7 @@ brewery: "Southern Tier Brewing Company"
 breweryURL: "/brewery/southern-tier-brewing-company.html"
 style: "IPA - Imperial / Double"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20992519_10155535940423745_8006437162486486616_n.jpg?oh=84df85dd7cc8d7e42b6210525b10e15b&oe=5A2962B7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20992519_10155535940423745_8006437162486486616_n.jpg?oh=e4f73c6bdbcd5326ef53b3f240dce548&oe=5A787CB7
 beer-date: "2017-08-21"
 desc: "Very little aroma but a nice bit of hops on the tongue. The bitterness overwhelms the earthy and floral hops a little bit but not too much. Would be happy with another"
 permalink: /beer/:title.html

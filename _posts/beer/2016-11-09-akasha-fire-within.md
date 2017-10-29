@@ -9,7 +9,7 @@ brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13254029_10154147277223745_2166868226944171155_n.jpg?oh=9f8fd870242a013ac291b357c4aa514f&oe=5A34DE48
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13254029_10154147277223745_2166868226944171155_n.jpg?oh=b7248345b84932ca8b5d0506d9c4a754&oe=5AAB8548
 beer-date: "2016-05-24"
 desc: "Pretty spot on for what I expect from an amber ale but doesn't have a flavour I love"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Monteith's Brewing Co. "
 breweryURL: "/brewery/monteiths-brewing-co.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10456077_10152534300758745_7454080799516274626_n.jpg?oh=05e16a5dd3ea5346e70bb57296c0324c&oe=5A2BCC0B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10456077_10152534300758745_7454080799516274626_n.jpg?oh=ce46b07922bb4b372d037aaf996cebf9&oe=5A7AE60B
 beer-date: "2014-06-21"
 desc: "What you want on a summer afternoon"
 permalink: /beer/:title.html

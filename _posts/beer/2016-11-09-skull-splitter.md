@@ -9,7 +9,7 @@ brewery: "Orkney Brewery"
 breweryURL: "/brewery/orkney-brewery.html"
 style: "Scotch Ale / Wee Heavy"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/292440_10151694537253745_171550675_n.jpg?oh=87f12fd09fe3c0172d5f9688d08c8df6&oe=5A370A90
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/292440_10151694537253745_171550675_n.jpg?oh=143c86610d6e04bd48fe4dae560d0fda&oe=5AADB190
 beer-date: "2013-05-25"
 desc: "Every mouthful is like being punched in the neck. A mans bev"
 permalink: /beer/:title.html

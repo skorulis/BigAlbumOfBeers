@@ -9,7 +9,7 @@ brewery: "Hardknott"
 breweryURL: "/brewery/hardknott.html"
 style: "IPA - Belgian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1520670_10152147736383745_1604295852_n.jpg?oh=424b1cae98f560fa31a75f0ee7304703&oe=5A27A917
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1520670_10152147736383745_1604295852_n.jpg?oh=6ed1319f25ec3c106cbf618c31202b5c&oe=5A76C317
 beer-date: "2013-12-23"
 desc: "A nice strong flavour"
 permalink: /beer/:title.html

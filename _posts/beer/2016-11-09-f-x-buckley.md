@@ -9,7 +9,7 @@ brewery: "Metalman Brewing"
 breweryURL: "/brewery/metalman-brewing.html"
 style: "Pale Ale - English"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1174601_10151888668333745_2024277149_n.jpg?oh=ae82ae321563e65cdf93d488c96ca44a&oe=5A33A94D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1174601_10151888668333745_2024277149_n.jpg?oh=80b903f792231dfdb4162b15d89bf996&oe=5AAA504D
 beer-date: "2013-09-01"
 desc: "Ges ugly really quick"
 permalink: /beer/:title.html

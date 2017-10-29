@@ -9,7 +9,7 @@ brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20915390_10155535941203745_263000322410053837_n.jpg?oh=d5909ec190e592a2e74437ba2d1aa617&oe=5A33F6CB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20915390_10155535941203745_263000322410053837_n.jpg?oh=3c5d6f963401f0a1779122a1f0cc8267&oe=5AAA9DCB
 beer-date: "2017-08-21"
 desc: "Really nice mix between stout and IPA. Just a little taste of hops after the stoutiness subsides"
 permalink: /beer/:title.html

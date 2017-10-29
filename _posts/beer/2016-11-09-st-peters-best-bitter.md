@@ -9,7 +9,7 @@ brewery: "St. Peter’s Brewery Co."
 breweryURL: "/brewery/st-peters-brewery-co.html"
 style: "English Bitter"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1233387_10151929070703745_1019382535_n.jpg?oh=e711aa63789954f168d7287d1ae38392&oe=5A1431BB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1233387_10151929070703745_1019382535_n.jpg?oh=533c0a2ee42c5b4de08765c4c690c6bb&oe=5A634BBB
 beer-date: "2013-09-19"
 desc: "I'll never understand what people see in a bitter"
 permalink: /beer/:title.html

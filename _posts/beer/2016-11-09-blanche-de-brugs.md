@@ -9,7 +9,7 @@ brewery: "Brouwerij Alken-Maes"
 breweryURL: "/brewery/brouwerij-alken-maes.html"
 style: "Witbier"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18813278_10155271709518745_9058742615816036342_n.jpg?oh=fab220d613605abb7aeba3e21dca3e40&oe=5A1ADCED
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18813278_10155271709518745_9058742615816036342_n.jpg?oh=cc1cf959c3f45b14d6de94a4f490aab7&oe=5A69F6ED
 beer-date: "2017-06-02"
 desc: "Bang on for a witbeer. Starts out yeasty buy the lemon cuts through it. Really easy drinking and refreshing"
 permalink: /beer/:title.html

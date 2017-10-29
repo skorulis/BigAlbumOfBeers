@@ -9,7 +9,7 @@ brewery: "Mad River Brewing Company"
 breweryURL: "/brewery/mad-river-brewing-company.html"
 style: "Spiced / Herbed Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12112175_10153656864428745_274214784974027443_n.jpg?oh=2519d938c1c472ca6349d7039e0fcfbe&oe=5A1E26A7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12112175_10153656864428745_274214784974027443_n.jpg?oh=39031cf77d568a72e32387f637917c51&oe=5A6D40A7
 beer-date: "2015-10-17"
 desc: "Mild but with an underlying taste that’s really nice"
 permalink: /beer/:title.html

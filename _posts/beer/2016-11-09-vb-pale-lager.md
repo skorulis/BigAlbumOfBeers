@@ -9,7 +9,7 @@ brewery: "Carlton & United Breweries"
 breweryURL: "/brewery/carlton-united-breweries.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/559250_10151602286458745_792577618_n.jpg?oh=9b32f5d21b010c5ff97fbabfe11755cf&oe=5A1D5826
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/559250_10151602286458745_792577618_n.jpg?oh=853354a3fe36c5e3d13cbad89ce61c76&oe=5A6C7226
 beer-date: "2013-03-28"
 desc: "Not quite as bad as regular VB"
 permalink: /beer/:title.html

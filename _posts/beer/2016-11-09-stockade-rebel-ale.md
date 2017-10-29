@@ -9,7 +9,7 @@ brewery: "Stockade Brew Co"
 breweryURL: "/brewery/stockade-brew-co.html"
 style: "Pale Ale - Belgian"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10494628_10153225354518745_289668608818495871_n.jpg?oh=df93942994bebbb8304182f3cd6b714d&oe=5A3683EF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10494628_10153225354518745_289668608818495871_n.jpg?oh=979d414ea2833548def1cde8f7009e75&oe=5AAD2AEF
 beer-date: "2015-04-13"
 desc: "A little stronger than a lager"
 permalink: /beer/:title.html

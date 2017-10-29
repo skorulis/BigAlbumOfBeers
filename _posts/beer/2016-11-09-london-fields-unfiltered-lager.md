@@ -9,7 +9,7 @@ brewery: "London Fields Brewery"
 breweryURL: "/brewery/london-fields-brewery.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/931410_10151694532138745_1297410335_n.jpg?oh=45ef7ce7d6c60a7a7b12faed6f65fe0f&oe=5A293176
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/931410_10151694532138745_1297410335_n.jpg?oh=fde65e594b718b73b412980f2bec2ded&oe=5A784B76
 beer-date: "2013-05-25"
 desc: "A flavour I can't pick"
 permalink: /beer/:title.html

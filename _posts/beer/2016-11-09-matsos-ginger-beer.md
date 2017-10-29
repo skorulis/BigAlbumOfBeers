@@ -9,7 +9,7 @@ brewery: "Matso's Broome Brewery"
 breweryURL: "/brewery/matsos-broome-brewery.html"
 style: "Ginger Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10390539_10152534306248745_2125625178149511710_n.jpg?oh=8ba16bec1c1fdc951f260ca93fa3637a&oe=5A2DA446
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10390539_10152534306248745_2125625178149511710_n.jpg?oh=3ea6c351ba4985ade0f8c32912eb288f&oe=5A7CBE46
 beer-date: "2014-06-21"
 desc: "Very gingery but a little bit too fizzy"
 permalink: /beer/:title.html

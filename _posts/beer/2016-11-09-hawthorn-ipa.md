@@ -9,7 +9,7 @@ brewery: "Hawthorn Brewing Company"
 breweryURL: "/brewery/hawthorn-brewing-company.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/580369_10153966656363745_4315787602585071997_n.jpg?oh=c7e6ed5f7ba7079748a1c94c5a64cbdf&oe=5A165E7D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/580369_10153966656363745_4315787602585071997_n.jpg?oh=4d355b8f3d39dd9313cab2a4eb38a8e2&oe=5A65787D
 beer-date: "2016-03-16"
 desc: "Delicious. A little bitter but lots of hoppy flavour"
 permalink: /beer/:title.html

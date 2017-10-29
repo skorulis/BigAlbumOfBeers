@@ -9,7 +9,7 @@ brewery: "Hawthorn Brewing Company"
 breweryURL: "/brewery/hawthorn-brewing-company.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12112425_10153656864393745_4992271544321247491_n.jpg?oh=bb2911afae751db1b9071bf0acc3643b&oe=5A2C5448
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12112425_10153656864393745_4992271544321247491_n.jpg?oh=ff08e46be9a5a3aabbdb614a1d5c94a2&oe=5A7B6E48
 beer-date: "2015-10-17"
 desc: "Decent but there’s just a little something wrong"
 permalink: /beer/:title.html

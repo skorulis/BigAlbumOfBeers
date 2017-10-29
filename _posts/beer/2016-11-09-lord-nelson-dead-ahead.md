@@ -9,7 +9,7 @@ brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Golden Ale"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13393976_10154200939438745_8730033578411056337_n.jpg?oh=de3b21dbf63211dda5e17467c801e47e&oe=5A2AF92B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13393976_10154200939438745_8730033578411056337_n.jpg?oh=42bac968481c01da5a4534725e32e573&oe=5A7A132B
 beer-date: "2016-06-16"
 desc: "There's an interesting background flavour, perhaps honey, but it's overwhelmed by the bitterness. A little disappointing"
 permalink: /beer/:title.html

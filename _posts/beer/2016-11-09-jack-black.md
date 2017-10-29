@@ -9,7 +9,7 @@ brewery: "Brains"
 breweryURL: "/brewery/brains.html"
 style: "Stout - Oatmeal"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/293855_10151331663163745_2099861357_n.jpg?oh=f4e0d85f877a1ddc434300ee21a2f821&oe=5A2ECEC7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/293855_10151331663163745_2099861357_n.jpg?oh=0274387fa858fc0790e8851c144db4c6&oe=5A7DE8C7
 beer-date: "2012-11-13"
 desc: ""
 permalink: /beer/:title.html

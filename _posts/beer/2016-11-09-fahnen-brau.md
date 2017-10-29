@@ -9,7 +9,7 @@ brewery: "H-West B.V."
 breweryURL: "/brewery/h-west-b-v.html"
 style: "Pilsner - German"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19990463_10155413267223745_1434974600180980493_n.jpg?oh=6dfec52bb0e4799cb0cdd03ea785ed59&oe=5A162D9E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19990463_10155413267223745_1434974600180980493_n.jpg?oh=5b350c674188f3fc1096e269ce16e440&oe=5A65479E
 beer-date: "2017-07-12"
 desc: "Basic easy drinking beer"
 permalink: /beer/:title.html

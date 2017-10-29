@@ -9,7 +9,7 @@ brewery: "Modus Operandi Brewing Co."
 breweryURL: "/brewery/modus-operandi-brewing-co.html"
 style: "IPA - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16426042_10154888757963745_4726476974727549552_n.jpg?oh=e64a8481a09cad65cdce0fc5a3ea0c66&oe=5A1A564C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16426042_10154888757963745_4726476974727549552_n.jpg?oh=18241d409c0e8966b3d427ddddad04e8&oe=5A69704C
 beer-date: "2017-01-30"
 desc: "Surprisingly low of aroma but big on taste. Bitter to start but great to finish. Need to get more into this brewery"
 permalink: /beer/:title.html

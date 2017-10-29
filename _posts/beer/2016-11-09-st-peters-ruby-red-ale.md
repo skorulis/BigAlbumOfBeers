@@ -9,7 +9,7 @@ brewery: "St. Peter’s Brewery Co."
 breweryURL: "/brewery/st-peters-brewery-co.html"
 style: "Red Ale - American Amber / Red"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1233970_10151929073588745_1740349447_n.jpg?oh=ceb3152674e2a8c62edf589b2469306c&oe=5A1F5AE8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1233970_10151929073588745_1740349447_n.jpg?oh=f0bcaa60eca872618b04f714e5f64bc9&oe=5A6E74E8
 beer-date: "2013-09-19"
 desc: "Probably the best of a bad bunch"
 permalink: /beer/:title.html

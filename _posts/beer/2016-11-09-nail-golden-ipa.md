@@ -9,7 +9,7 @@ brewery: "Nail Brewing Australia"
 breweryURL: "/brewery/nail-brewing-australia.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12733411_10153890412873745_394127344743781782_n.jpg?oh=f9302744183d73240dfcd3fca40355b5&oe=5A2A3B17
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12733411_10153890412873745_394127344743781782_n.jpg?oh=0c63551d433ef0e0383bdddf8de39c5d&oe=5A795517
 beer-date: "2016-02-14"
 desc: "A little too much bitterness without the flavour to back it up"
 permalink: /beer/:title.html

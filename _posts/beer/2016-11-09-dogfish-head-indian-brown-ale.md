@@ -9,7 +9,7 @@ brewery: "Dogfish Head Craft Brewery"
 breweryURL: "/brewery/dogfish-head-craft-brewery.html"
 style: "Brown Ale - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1545766_10153966653998745_8815895665252384924_n.jpg?oh=6f435e461cdd46cd10ee276e11d325e7&oe=5A1AB31C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1545766_10153966653998745_8815895665252384924_n.jpg?oh=f346fad4c0b4cdc6601ebd73b152ce4c&oe=5A69CD1C
 beer-date: "2016-03-16"
 desc: "One of the nicer browns I’ve had"
 permalink: /beer/:title.html

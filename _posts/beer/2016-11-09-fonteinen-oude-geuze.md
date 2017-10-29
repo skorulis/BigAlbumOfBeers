@@ -9,7 +9,7 @@ brewery: "Brouwerij 3 Fonteinen"
 breweryURL: "/brewery/brouwerij-3-fonteinen.html"
 style: "Sour - Gueuze"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1382815_10152001621173745_208469765_n.jpg?oh=7444b282e035c72b470bb02e4e644076&oe=5A28A425
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1382815_10152001621173745_208469765_n.jpg?oh=4c5720b841c464254c1af6db6055fd00&oe=5A77BE25
 beer-date: "2013-10-25"
 desc: "Not a particularly nice lambic"
 permalink: /beer/:title.html

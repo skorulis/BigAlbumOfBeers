@@ -9,7 +9,7 @@ brewery: "Partizan Brewing"
 breweryURL: "/brewery/partizan-brewing.html"
 style: "Belgian Strong Golden Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1497799_10152147732653745_1203656587_n.jpg?oh=4daac5105cdb886adbaa051727ebc23e&oe=5A27F441
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1497799_10152147732653745_1203656587_n.jpg?oh=16e7e5d7c969c6d460a211ebaa5d43b2&oe=5A770E41
 beer-date: "2013-12-23"
 desc: "A bit harsh for what I would call a golden ale"
 permalink: /beer/:title.html

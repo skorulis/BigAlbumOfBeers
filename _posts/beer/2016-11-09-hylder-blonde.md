@@ -9,7 +9,7 @@ brewery: "Dark Star Brewing Co."
 breweryURL: "/brewery/dark-star-brewing-co.html"
 style: "Blonde Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542217_10151860441663745_480799893_n.jpg?oh=250c24d0832e76d63b4f51587507ed0f&oe=5A2EA31D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542217_10151860441663745_480799893_n.jpg?oh=788165c9e3e165c99bbb8a74e35c0f54&oe=5A7DBD1D
 beer-date: "2013-08-18"
 desc: "A little bit too much flower"
 permalink: /beer/:title.html

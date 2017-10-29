@@ -9,7 +9,7 @@ brewery: "Samuel Smith's Old Brewery"
 breweryURL: "/brewery/samuel-smiths-old-brewery.html"
 style: "Stout - Other"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/317875_10151303867498745_1098897913_n.jpg?oh=8a4eff59fceb686a9108c70dd2d22af2&oe=5A3564E7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/317875_10151303867498745_1098897913_n.jpg?oh=d52dc7848cc144f1714c06f9c34822e1&oe=5AAC0BE7
 beer-date: "2012-10-27"
 desc: "Like Guinness with a taste of ashtray"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Cascade Brewery Co. (Australia)"
 breweryURL: "/brewery/cascade-brewery-co-australia.html"
 style: "Stout - Other"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10501746_10153055791938745_8029415469669135648_n.jpg?oh=a132fde6a705b5a23515622c86ac03c1&oe=5A1E3BC9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10501746_10153055791938745_8029415469669135648_n.jpg?oh=0f7b3b03d329cbba813ad9abf60ca37d&oe=5A6D55C9
 beer-date: "2015-01-29"
 desc: "Not a very nice stout"
 permalink: /beer/:title.html

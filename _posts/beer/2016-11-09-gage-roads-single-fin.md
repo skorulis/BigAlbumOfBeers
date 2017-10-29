@@ -9,7 +9,7 @@ brewery: "Gage Roads Brewing Co "
 breweryURL: "/brewery/gage-roads-brewing-co.html"
 style: "Golden Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11737813_10153438035548745_1721256026335429959_n.jpg?oh=91fa950c566538701a691095ef83cda6&oe=5A30A103
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11737813_10153438035548745_1721256026335429959_n.jpg?oh=4cb3df2cfb59a837b2068b8cfbf5cf84&oe=5AA74803
 beer-date: "2015-07-10"
 desc: "Floral and tangy. Much better than expected"
 permalink: /beer/:title.html

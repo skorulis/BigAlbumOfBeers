@@ -9,7 +9,7 @@ brewery: "Bayerische Staatsbrauerei Weihenstephan"
 breweryURL: "/brewery/bayerische-staatsbrauerei-weihenstephan.html"
 style: "Pilsner - German"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717710_10153890417503745_4345190063055237739_n.jpg?oh=5dfeb58ca3df0419f1632c99531f0cdc&oe=5A1E4209
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717710_10153890417503745_4345190063055237739_n.jpg?oh=75a1ea0cabfe83cd822320089c36eb6d&oe=5A6D5C09
 beer-date: "2016-02-14"
 desc: "Refreshing but not my favourite flavour"
 permalink: /beer/:title.html

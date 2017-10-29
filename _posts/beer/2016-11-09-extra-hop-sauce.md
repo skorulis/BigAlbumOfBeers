@@ -9,7 +9,7 @@ brewery: "Sauce Brewing Co"
 breweryURL: "/brewery/sauce-brewing-co.html"
 style: "IPA - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17103273_10154984571378745_3034916292049147945_n.jpg?oh=18fa83d21e03af536659d9f0bcdf998f&oe=5A28A151
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17103273_10154984571378745_3034916292049147945_n.jpg?oh=b0ac495b19c8f8fb4cba73760f83e623&oe=5A77BB51
 beer-date: "2017-03-03"
 desc: "Medium bitterness and heavy on earthy hops. Good middle of the road IPA"
 permalink: /beer/:title.html

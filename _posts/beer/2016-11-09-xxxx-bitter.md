@@ -9,7 +9,7 @@ brewery: "Castlemaine Perkins"
 breweryURL: "/brewery/castlemaine-perkins.html"
 style: "Lager - North American Adjunct"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12108168_10153656865913745_802278422732824770_n.jpg?oh=d0ba4d6c6f96abf2e4f3d0ebf5cf92eb&oe=5A1A7D8A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12108168_10153656865913745_802278422732824770_n.jpg?oh=c8c2d4b7bde642403a22e92fe1b5048f&oe=5A69978A
 beer-date: "2015-10-17"
 desc: "So hard to find the full strength XXXX even in QLD. And it's easy to see why. Needs a shot of vodka like in the old days"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Badlands Brewery"
 breweryURL: "/brewery/badlands-brewery.html"
 style: "IPA - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q83/p480x480/12065989_10153656863158745_690647153577625477_n.jpg?oh=3442c483859269956c26600bf7d3eea0&oe=5A38EB22
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q83/p480x480/12065989_10153656863158745_690647153577625477_n.jpg?oh=eb1d1ea8f3194cc14a2f8c3f4d996a09&oe=5AAF9222
 beer-date: "2015-10-17"
 desc: "Nicer than the pale"
 permalink: /beer/:title.html

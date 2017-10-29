@@ -9,7 +9,7 @@ brewery: "Mildura Brewery"
 breweryURL: "/brewery/mildura-brewery.html"
 style: "Pale Ale - Australian"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10945640_10153053840143745_2674301376011904832_n.jpg?oh=04a314457504c4449ac06f317b0160b0&oe=5A264923
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10945640_10153053840143745_2674301376011904832_n.jpg?oh=9af25b311a8c1163ba8cb914ec7e201b&oe=5A756323
 beer-date: "2015-01-28"
 desc: "Pretty average"
 permalink: /beer/:title.html

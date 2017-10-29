@@ -9,7 +9,7 @@ brewery: "Moa Brewing Company"
 breweryURL: "/brewery/moa-brewing-company.html"
 style: "Belgian Tripel"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11025707_10153268294958745_151299719186905005_n.jpg?oh=2b928e04e17e66d6d407ba6906713ea2&oe=5A384D6D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11025707_10153268294958745_151299719186905005_n.jpg?oh=1b055c08561a782eb518e936f74ac391&oe=5AAEF46D
 beer-date: "2015-05-01"
 desc: "Not the best triple but a nice flavour none the less"
 permalink: /beer/:title.html

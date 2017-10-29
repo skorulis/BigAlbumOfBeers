@@ -9,7 +9,7 @@ brewery: "Abita Brewing Company"
 breweryURL: "/brewery/abita-brewing-company.html"
 style: "Lager - American Amber / Red"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1434_10153811640518745_1774691229893967268_n.jpg?oh=fe8b921d07fd03d4e0cf8a6c69fae366&oe=5A331CEF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1434_10153811640518745_1774691229893967268_n.jpg?oh=56b07870ac2f2abb01f0eefce06c92b9&oe=5AA9C3EF
 beer-date: "2016-01-07"
 desc: "An ok beer but there was a slight tang that I didn’t like. I feel like this brewery has so much more to offer"
 permalink: /beer/:title.html

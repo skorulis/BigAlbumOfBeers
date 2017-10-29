@@ -9,7 +9,7 @@ brewery: "Cruzcampo (Heineken España)"
 breweryURL: "/brewery/cruzcampo-heineken-espana.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/264403_10151694536708745_1298889096_n.jpg?oh=7201d2558d2bad7720f7fb4e6de526f4&oe=5A36D8E3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/264403_10151694536708745_1298889096_n.jpg?oh=3651a9f6ec713d650d734077d6c3a4d8&oe=5AAD7FE3
 beer-date: "2013-05-25"
 desc: "Easy drinking"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Murray's Craft Brewing Co"
 breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "Pale Wheat Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1622815_10152293133083745_1090580214_n.jpg?oh=d4ff2b924713456d34ecbd290814387c&oe=5A20A850
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1622815_10152293133083745_1090580214_n.jpg?oh=0f717a430587d99727444c34313b196c&oe=5A6FC250
 beer-date: "2014-03-01"
 desc: "The smell seems wrong to me since it's a wheat beer but the flavour is ok"
 permalink: /beer/:title.html

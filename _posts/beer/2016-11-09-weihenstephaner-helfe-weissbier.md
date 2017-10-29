@@ -9,7 +9,7 @@ brewery: "Bayerische Staatsbrauerei Weihenstephan"
 breweryURL: "/brewery/bayerische-staatsbrauerei-weihenstephan.html"
 style: "Hefeweizen"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509736_10153811610538745_2189727718735863015_n.jpg?oh=6299961eaea9098f4e38c674c60c0c8a&oe=5A188B1B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509736_10153811610538745_2189727718735863015_n.jpg?oh=36efa78a45e438fa115bdf1358f6d657&oe=5A67A51B
 beer-date: "2016-01-06"
 desc: "A very mild flavoured wheat beer"
 permalink: /beer/:title.html

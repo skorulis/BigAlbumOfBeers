@@ -9,7 +9,7 @@ brewery: "Sierra Nevada Brewing Co."
 breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "Rye IPA"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/9185_10153966659098745_8275916423969475463_n.jpg?oh=bc76f02bbf9470e57cfe2becec45c1d2&oe=5A1CEC79
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/9185_10153966659098745_8275916423969475463_n.jpg?oh=ce2ba8d438c5daceac93dd89cf3226f8&oe=5A6C0679
 beer-date: "2016-03-16"
 desc: "Smells really good but the taste is a little harsh"
 permalink: /beer/:title.html

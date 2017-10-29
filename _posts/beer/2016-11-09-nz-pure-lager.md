@@ -9,7 +9,7 @@ brewery: "Boundary Road Brewery"
 breweryURL: "/brewery/boundary-road-brewery.html"
 style: "Lager - Pale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/181067_10151602294978745_1842165802_n.jpg?oh=445a123d856fda16f59091a3b5f1f430&oe=5A175541
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/181067_10151602294978745_1842165802_n.jpg?oh=83c08404a0630c1ad25ff1958e0b98a9&oe=5A666F41
 beer-date: "2013-03-28"
 desc: "Something is wrong with this flavour"
 permalink: /beer/:title.html

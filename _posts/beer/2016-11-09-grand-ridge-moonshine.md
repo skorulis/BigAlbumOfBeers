@@ -9,7 +9,7 @@ brewery: "Grand Ridge Brewery"
 breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Scotch Ale / Wee Heavy"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10462829_10153268294448745_4601669711477307040_n.jpg?oh=595ae53a73a17f1f10223389eadc4623&oe=5A2ACBF2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10462829_10153268294448745_4601669711477307040_n.jpg?oh=d0e955f0ccaa434d00dd42cc887808a2&oe=5A79E5F2
 beer-date: "2015-05-01"
 desc: "The description on the bottle makes this sound awful but it’s not too bad. Could be a little bit smoother but the overall flavour is really nice"
 permalink: /beer/:title.html

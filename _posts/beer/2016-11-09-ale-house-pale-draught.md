@@ -9,7 +9,7 @@ brewery: "Australian Beer Company"
 breweryURL: "/brewery/australian-beer-company.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11212761_10153268295198745_2192040651986082448_n.jpg?oh=7e7d530fea96c28249c386c8faf77556&oe=5A27BC15
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11212761_10153268295198745_2192040651986082448_n.jpg?oh=df09fd19ffc576c34ab2d39ffbfa0ba9&oe=5A76D615
 beer-date: "2015-05-01"
 desc: "Too much like a lager"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Partizan Brewing"
 breweryURL: "/brewery/partizan-brewing.html"
 style: "Belgian Quad"
 score: null
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1486770_10152147730063745_1162438061_n.jpg?oh=d430a04e7d83709898e65bd32dfb30d0&oe=5A29ABFD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1486770_10152147730063745_1162438061_n.jpg?oh=0be484eba75d8631d7c1c5d438af7874&oe=5A78C5FD
 beer-date: "2013-12-23"
 desc: "One of the strangest beers I’ve tasted. Like trying to cross a lambic with a stout"
 permalink: /beer/:title.html

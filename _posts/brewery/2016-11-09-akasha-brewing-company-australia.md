@@ -10,4 +10,5 @@ instagram: 'akashabrew'
 twitter: 'akashabrew'
 facebook: 'https://www.facebook.com/akashabrew'
 google_place: ChIJ6Q4zlLW6EmsRYX9YA34C-bY
+review_venue: "Rather lively and friendly brewery. Standard pallet table fixtures in a small but open space. Staff are always at hand to help with questions and provide information or even to share a beer."
 ---
