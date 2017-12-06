@@ -88,6 +88,12 @@ def dumpPlainJS()
 
 	file = File.new("_data/raw.json","wb");
 	file.write(JSON.pretty_generate(@allBeers))
+
+	file = File.new("json/full.json","wb");
+	dictObj = Hash[];
+	dictObj["beers"] = @allBeers;
+	file.write(JSON.pretty_generate(dictObj))	
+
 end
 
 def downloadData(albumId)
