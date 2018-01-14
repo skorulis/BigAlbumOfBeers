@@ -9,7 +9,7 @@ brewery: "Anheuser-Busch"
 breweryURL: "/brewery/anheuser-busch.html"
 style: "Lager - North American Adjunct"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12558_10151356728378745_471931293_n.jpg?oh=ebbb54d04287dd7ade91fa7c882ac269&oe=5AAC6519
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12558_10151356728378745_471931293_n.jpg?oh=ae1ba73ce53c67f5852112ed41e2de4b&oe=5AFB7F19
 beer-date: "2012-12-01"
 desc: "Beer flavoured water"
 permalink: /beer/:title.html

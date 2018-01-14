@@ -9,7 +9,7 @@ brewery: "Greene King"
 breweryURL: "/brewery/greene-king.html"
 style: "IPA - English"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/189043_10151315683658745_1443395751_n.jpg?oh=9af08931027e3ee96a11b6a807bd1c38&oe=5AAA5BF3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/189043_10151315683658745_1443395751_n.jpg?oh=d3225cb18c601c661bd62967096b5eff&oe=5AF975F3
 beer-date: "2012-11-02"
 desc: "Just tastes a bit wrong"
 permalink: /beer/:title.html

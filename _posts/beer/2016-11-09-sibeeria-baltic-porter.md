@@ -9,7 +9,7 @@ brewery: "Sibeeria"
 breweryURL: "/brewery/sibeeria.html"
 style: "Porter - Baltic"
 score: 9.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19113992_10155314454263745_8065034501066897392_n.jpg?oh=5c2753a930a84c947002683d79af5ee1&oe=5A70FE1E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19113992_10155314454263745_8065034501066897392_n.jpg?oh=9b1a95ef03b3883212ea82fefe717489&oe=5AE7A51E
 beer-date: "2017-06-15"
 desc: "Damn this is good. So rich with a slight nuttiness. A little smokey too"
 permalink: /beer/:title.html

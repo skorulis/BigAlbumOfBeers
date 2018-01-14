@@ -9,7 +9,7 @@ brewery: "Siren Craft Brew"
 breweryURL: "/brewery/siren-craft-brew.html"
 style: "Pale Ale - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18814231_10155271708593745_1688977243777588300_n.jpg?oh=7857bd4f48cfc2b58f68c9253ff546f9&oe=5A7324CF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18814231_10155271708593745_1688977243777588300_n.jpg?oh=a3c9ac2b36c2c3f348985c5188fbc166&oe=5AE9CBCF
 beer-date: "2017-06-02"
 desc: "Quite flavourful and full of hops. I like the haze but I wish it was a little creamier. Pretty good but misses its potential"
 permalink: /beer/:title.html

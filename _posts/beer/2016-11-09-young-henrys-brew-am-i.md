@@ -9,7 +9,7 @@ brewery: "Young Henrys Brewing Company"
 breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "Blonde Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11204930_10153268294698745_7123736277636761157_n.jpg?oh=2f8c106b787d7840db0792b12a973ea8&oe=5AAE66DE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11204930_10153268294698745_7123736277636761157_n.jpg?oh=5b1a8cc81d4e1e1d6aa9733518aee91a&oe=5AFD80DE
 beer-date: "2015-05-01"
 desc: "Young henry’s haven’t let me down yet"
 permalink: /beer/:title.html

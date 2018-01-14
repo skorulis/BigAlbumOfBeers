@@ -9,7 +9,7 @@ brewery: "Pact Beer Co."
 breweryURL: "/brewery/pact-beer-co.html"
 style: "Pale Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1923172_10153811640033745_626679474657757195_n.jpg?oh=31a20c381186f487e57bc6d2103fd0c0&oe=5AAA9B7B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1923172_10153811640033745_626679474657757195_n.jpg?oh=25512fe26e253c8879daf51af8e9ceab&oe=5AF9B57B
 beer-date: "2016-01-07"
 desc: "Another pale ale that falls short. Seems like too many Australian pales are targeting the lager audience"
 permalink: /beer/:title.html

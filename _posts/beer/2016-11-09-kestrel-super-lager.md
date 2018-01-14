@@ -9,7 +9,7 @@ brewery: "Caledonian Brewing Company "
 breweryURL: "/brewery/caledonian-brewing-company.html"
 style: "Lager - Euro Strong"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16679_10151428525733745_2106487431_n.jpg?oh=9b7ac385506fe1363dba8a658d311c68&oe=5A7D00AA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16679_10151428525733745_2106487431_n.jpg?oh=d6998313d986235fd13b0c1adebbf3c6&oe=5AF3A7AA
 beer-date: "2013-01-13"
 desc: "Must be consumer quickly. Before the taste sets in"
 permalink: /beer/:title.html

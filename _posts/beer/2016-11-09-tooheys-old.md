@@ -9,7 +9,7 @@ brewery: "Tooheys Brewing"
 breweryURL: "/brewery/tooheys-brewing.html"
 style: "Dark Ale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644421_10151563947083745_12453002_n.jpg?oh=80aa2574493ca548419305df90a6e692&oe=5A7BE430
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644421_10151563947083745_12453002_n.jpg?oh=c8f00ed1b58cf5f041f8216cc72e984f&oe=5AF28B30
 beer-date: "2013-03-09"
 desc: "Not a stout, not a lager. Some sort of strange crossbreed"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Brasserie Lefebvre"
 breweryURL: "/brewery/brasserie-lefebvre.html"
 style: "Belgian Strong Dark Ale"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10940507_10153055792123745_6951460612562111481_n.jpg?oh=3f782d220135fce607252382d6d6c77f&oe=5A6D4D90
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10940507_10153055792123745_6951460612562111481_n.jpg?oh=e70b698ad167611eff151e8f15bad51b&oe=5AE3F490
 beer-date: "2015-01-29"
 desc: "Just an awful flavour combination"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "KAIJU! Beer"
 breweryURL: "/brewery/kaiju-beer.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17457864_10155045844158745_2674866516737086122_n.jpg?oh=0b6e0bc6996206f0a6bc406c5877fe05&oe=5AAEFABA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17457864_10155045844158745_2674866516737086122_n.jpg?oh=a8b3cff574ed8e2f7ebee35bf4e9433b&oe=5AFE14BA
 beer-date: "2017-03-22"
 desc: "Heavy and full of flavour. Good mix of hops in the middle of floral and earthy . High starting bitterness but it doesn't linger"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Carlton & United Breweries"
 breweryURL: "/brewery/carlton-united-breweries.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/600269_10151602300508745_808991925_n.jpg?oh=d7097fead314ddfc966407f12b085ddc&oe=5A708543
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/600269_10151602300508745_808991925_n.jpg?oh=83d283ddf3b562683f9cda12a4fb0d16&oe=5AE72C43
 beer-date: "2013-03-28"
 desc: "Decent Aussie beer"
 permalink: /beer/:title.html

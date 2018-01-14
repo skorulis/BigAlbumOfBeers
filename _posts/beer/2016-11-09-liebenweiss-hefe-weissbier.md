@@ -9,7 +9,7 @@ brewery: "Allgäuer Brauhaus"
 breweryURL: "/brewery/allgauer-brauhaus.html"
 style: "Hefeweizen"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14390784_10154470829463745_472986184778146969_n.jpg?oh=241447e187c1f44e024a2bd7e9f1318f&oe=5A75B307
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14390784_10154470829463745_472986184778146969_n.jpg?oh=ab97747c708f69008534d330991a86fa&oe=5AEC5A07
 beer-date: "2016-09-21"
 desc: "Really citrusy which hides the yeastiness"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Aldaris"
 breweryURL: "/brewery/aldaris.html"
 style: "Porter - Baltic"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1891209_10152293116448745_1394991978_n.jpg?oh=2c535a2d00a158c47ada456201a5946d&oe=5A65CBFD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1891209_10152293116448745_1394991978_n.jpg?oh=7124d41fcce24a25345d86a0bccc5108&oe=5AB4E5FD
 beer-date: "2014-03-01"
 desc: "Not a bad porter"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Coopers Brewery"
 breweryURL: "/brewery/coopers-brewery.html"
 style: "IPA - English"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16684390_10154923954038745_3907314938493339871_n.jpg?oh=375b516990e21f6b26a4a8536a2c88a6&oe=5A634F3C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16684390_10154923954038745_3907314938493339871_n.jpg?oh=a72f3774032afffa7d9302bbb2b3606f&oe=5AB2693C
 beer-date: "2017-02-11"
 desc: "Pretty flavourless IPA. Was expecting more from coopers"
 permalink: /beer/:title.html

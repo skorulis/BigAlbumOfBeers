@@ -9,7 +9,7 @@ brewery: "Sierra Nevada Brewing Co."
 breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "Pale Ale - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698208_10155251932738745_7895023498767972308_n.jpg?oh=bbacd3a5ac821b2265f25df5c4f81626&oe=5A64FB42
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698208_10155251932738745_7895023498767972308_n.jpg?oh=bd92cacb8cf6d8561089351bd53e1005&oe=5AB41542
 beer-date: "2017-05-27"
 desc: "Very orange in color, smells a little like an unpeeled orange but it doesn’t really carry through to the flavour. I like the idea but it doesn’t come together that well"
 permalink: /beer/:title.html

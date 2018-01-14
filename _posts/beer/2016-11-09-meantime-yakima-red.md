@@ -9,7 +9,7 @@ brewery: "Meantime Brewing Company"
 breweryURL: "/brewery/meantime-brewing-company.html"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/992917_10151798801088745_1382376594_n.jpg?oh=26161a98976b48f23b832e33867e2037&oe=5A72D1EA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/992917_10151798801088745_1382376594_n.jpg?oh=e138f2fbd980cd2c406ddfbe2afc5c07&oe=5AE978EA
 beer-date: "2013-07-19"
 desc: "Pleasant"
 permalink: /beer/:title.html

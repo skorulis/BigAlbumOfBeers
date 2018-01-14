@@ -9,7 +9,7 @@ brewery: "Stone Brewing"
 breweryURL: "/brewery/stone-brewing.html"
 style: "Stout - Milk / Sweet"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13241124_10154147274053745_6203121244694342567_n.jpg?oh=6a3480e7b86d954968387f8cdd99caff&oe=5A7DD24E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13241124_10154147274053745_6203121244694342567_n.jpg?oh=6dbe1869da22bceff3ac9dd472c108ad&oe=5AF4794E
 beer-date: "2016-05-24"
 desc: "Creamy, rich and oh so dark. The coffee flavour is mild enough for me to enjoy"
 permalink: /beer/:title.html

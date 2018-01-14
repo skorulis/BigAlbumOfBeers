@@ -9,7 +9,7 @@ brewery: "Flack Manor"
 breweryURL: "/brewery/flack-manor.html"
 style: "Golden Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19223_10151428534118745_318984545_n.jpg?oh=0be167c2171e06652049826b38579d53&oe=5A67AF75
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19223_10151428534118745_318984545_n.jpg?oh=51b997656701ffcc64ccf10d834967f2&oe=5AB6C975
 beer-date: "2013-01-13"
 desc: "Average"
 permalink: /beer/:title.html

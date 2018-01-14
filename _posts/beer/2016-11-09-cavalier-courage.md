@@ -9,7 +9,7 @@ brewery: "Cavalier Brewing"
 breweryURL: "/brewery/cavalier-brewing.html"
 style: "Blonde Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11077960_10153225352783745_1418047245676555322_n.jpg?oh=9f9025517de2323dfe60762a3718c25a&oe=5AAF5656
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11077960_10153225352783745_1418047245676555322_n.jpg?oh=d8dfa08bae44386fa0bf5cf66ccb64b0&oe=5AFE7056
 beer-date: "2015-04-13"
 desc: "A bit plain for me but very good for what it is"
 permalink: /beer/:title.html

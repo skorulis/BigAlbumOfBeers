@@ -9,7 +9,7 @@ brewery: "Sierra Nevada Brewing Co."
 breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115843_10153656864518745_6379524063255293794_n.jpg?oh=e2573bc44ce7c36573e30c63fcf53ac0&oe=5A692175
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115843_10153656864518745_6379524063255293794_n.jpg?oh=d6a9dfbec150e234868ec8c72a4c3b84&oe=5ADFC875
 beer-date: "2015-10-17"
 desc: "Very hoppy with a nice finish"
 permalink: /beer/:title.html

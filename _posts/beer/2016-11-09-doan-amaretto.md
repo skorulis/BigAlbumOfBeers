@@ -9,7 +9,7 @@ brewery: "Doan's Craft Brewing Company"
 breweryURL: "/brewery/doans-craft-brewing-company.html"
 style: "Altbier"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700037_10155251933138745_9163828849589561360_n.jpg?oh=04c6feeeec51eb30cce204cf768ec640&oe=5AAD843D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700037_10155251933138745_9163828849589561360_n.jpg?oh=1e13bc73eb5b99114e0496616c88a921&oe=5AFC9E3D
 beer-date: "2017-05-27"
 desc: "Quite a lot going on but it's hard to pick out. Both a little smokey and quite creamy. There's a sweetness too but it doesn't fight with the other flavours"
 permalink: /beer/:title.html

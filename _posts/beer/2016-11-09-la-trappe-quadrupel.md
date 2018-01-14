@@ -9,7 +9,7 @@ brewery: "Bierbrouwerij De Koningshoeven"
 breweryURL: "/brewery/bierbrouwerij-de-koningshoeven.html"
 style: "Belgian Quad"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10838255_10153055792378745_3160802427352478420_o.jpg?oh=7fbf5721c9142d7af473e9b968de5ccf&oe=5A692E17
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10838255_10153055792378745_3160802427352478420_o.jpg?oh=23171e321d4a5f89820c5e481352a417&oe=5ADFD517
 beer-date: "2015-01-29"
 desc: "Such a lovely beer all round. Makes me want to go back to Belgium"
 permalink: /beer/:title.html

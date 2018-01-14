@@ -9,7 +9,7 @@ brewery: "Binding Brauerei"
 breweryURL: "/brewery/binding-brauerei.html"
 style: "Lager - Helles"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955215_10153055772023745_950968910298192775_n.jpg?oh=daac9ed35a91328dff77283e84b32e14&oe=5A6F0558
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955215_10153055772023745_950968910298192775_n.jpg?oh=710ce1dc4b32420ee26e89a61eba5eb8&oe=5AE5AC58
 beer-date: "2015-01-29"
 desc: "Very bland"
 permalink: /beer/:title.html

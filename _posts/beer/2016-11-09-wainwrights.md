@@ -9,7 +9,7 @@ brewery: "Marston's Brewery"
 breweryURL: "/brewery/marstons-brewery.html"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/401229_10151356729468745_228573429_n.jpg?oh=58113bdbc6bd1f5d4455f8c76b55008a&oe=5AAFE168
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/401229_10151356729468745_228573429_n.jpg?oh=dcf1766d05ae07c300c7d41eef583691&oe=5AFEFB68
 beer-date: "2012-12-01"
 desc: "Not too bad at all"
 permalink: /beer/:title.html

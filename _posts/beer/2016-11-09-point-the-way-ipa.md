@@ -9,7 +9,7 @@ brewery: "Golden Road Brewing"
 breweryURL: "/brewery/golden-road-brewing.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12088452_10153656866578745_7251403189729284400_n.jpg?oh=f3df740e4e4b4acd227a759f96cadc86&oe=5A7B4F12
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12088452_10153656866578745_7251403189729284400_n.jpg?oh=567bdaefce153a4e3eac4c6f52e0f8c9&oe=5AF1F612
 beer-date: "2015-10-17"
 desc: "Really good example of an IPA"
 permalink: /beer/:title.html

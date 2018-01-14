@@ -9,7 +9,7 @@ brewery: "Australian Beer Company"
 breweryURL: "/brewery/australian-beer-company.html"
 style: "IPA - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11024597_10153118627558745_640038091949927094_n.jpg?oh=66ca874438ef3cfe2788e64d9e81022c&oe=5A67989A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11024597_10153118627558745_640038091949927094_n.jpg?oh=0a78b4839a0129eb84ebcd1f62fe66ca&oe=5AB6B29A
 beer-date: "2015-02-27"
 desc: "Strong on alcohol, mild on flavour. Perfect for getting drunk quickly"
 permalink: /beer/:title.html

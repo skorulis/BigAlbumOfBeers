@@ -9,7 +9,7 @@ brewery: "La Sirène Brewing"
 breweryURL: "/brewery/la-sirene-brewing.html"
 style: "Saison / Farmhouse Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17458263_10155045843218745_5684029553934159601_n.jpg?oh=e9072782cb993f5fbd4d9f392bb4e92d&oe=5AA81744
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17458263_10155045843218745_5684029553934159601_n.jpg?oh=facfa2ece51249e5c59dbfd67e09caa9&oe=5AF73144
 beer-date: "2017-03-22"
 desc: "Straight away has a saison yeasty tang. More restrained on the hops than I expected from a pale. Light, refreshing and easy to drink, just not what I expected"
 permalink: /beer/:title.html

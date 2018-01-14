@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Red Ale - Imperial / Double"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12871500_10154147275008745_8435099638862141389_n.jpg?oh=0765143e0a3acfca92bfe49ad8f2042c&oe=5A69F246
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12871500_10154147275008745_8435099638862141389_n.jpg?oh=837a2c4f5f6dae249dd8209621591587&oe=5AE09946
 beer-date: "2016-05-24"
 desc: "Pretty much a red IPA. Nice flavour but doesn't have as much floral aroma as I like"
 permalink: /beer/:title.html

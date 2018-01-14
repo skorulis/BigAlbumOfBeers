@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Blonde Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16797_10153053852143745_3087580206529630401_n.jpg?oh=3f2b8f8971f1297c10eb89a9956b37ce&oe=5AAFEFD1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16797_10153053852143745_3087580206529630401_n.jpg?oh=1a3e19eed942e768957120a01cf8a21d&oe=5AFF09D1
 beer-date: "2015-01-28"
 desc: "A great beer for a nice day"
 permalink: /beer/:title.html

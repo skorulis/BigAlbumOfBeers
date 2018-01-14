@@ -9,7 +9,7 @@ brewery: "Brouwerij Corsendonk"
 breweryURL: "/brewery/brouwerij-corsendonk.html"
 style: "Belgian Dubbel"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1534405_10152147734558745_724921108_n.jpg?oh=6d6485f401a303e86d738ff34ad16f95&oe=5A711CD5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1534405_10152147734558745_724921108_n.jpg?oh=34e05e88119704ca807b01cf0bd1062f&oe=5AE7C3D5
 beer-date: "2013-12-23"
 desc: "Not as easy to drink as I was hoping"
 permalink: /beer/:title.html

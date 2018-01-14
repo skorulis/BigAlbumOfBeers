@@ -9,7 +9,7 @@ brewery: "Evil Twin Brewing"
 breweryURL: "/brewery/evil-twin-brewing.html"
 style: "Pale Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10953214_10153055770813745_8713996460827737605_n.jpg?oh=60bd235d69d2e768f27c43fce369a2d8&oe=5AAA1CD1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10953214_10153055770813745_8713996460827737605_n.jpg?oh=bc7845403dcc82f82869387a78697f64&oe=5AF936D1
 beer-date: "2015-01-29"
 desc: "Just not really hitting the spot tonight"
 permalink: /beer/:title.html

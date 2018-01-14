@@ -9,7 +9,7 @@ brewery: "Tooheys Brewing"
 breweryURL: "/brewery/tooheys-brewing.html"
 style: "Pale Ale - Australian"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12107775_10153656864253745_3676978926907656134_n.jpg?oh=3c4e7ab4b56e645e7d8a9cf9188f4e22&oe=5A739C73
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12107775_10153656864253745_3676978926907656134_n.jpg?oh=c0d6626a5650d9a2218aedfa549137f3&oe=5AEA4373
 beer-date: "2015-10-17"
 desc: "Not that different from a new"
 permalink: /beer/:title.html

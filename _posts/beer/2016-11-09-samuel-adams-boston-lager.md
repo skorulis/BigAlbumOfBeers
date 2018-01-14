@@ -9,7 +9,7 @@ brewery: "Boston Beer Company"
 breweryURL: "/brewery/boston-beer-company.html"
 style: "Lager - Vienna"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11025711_10153118793008745_157967989601698522_n.jpg?oh=d6550eb4b53d6a652c3a46e544e9b23a&oe=5AA93714
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11025711_10153118793008745_157967989601698522_n.jpg?oh=01879f9f575c105fc8d1225c6f1dbad9&oe=5AF85114
 beer-date: "2015-02-27"
 desc: "A classic. Need to find this on tap somewhere"
 permalink: /beer/:title.html

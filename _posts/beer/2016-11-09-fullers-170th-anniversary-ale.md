@@ -9,7 +9,7 @@ brewery: "Fuller, Smith & Turner "
 breweryURL: "/brewery/fuller-smith-turner.html"
 style: "Strong Ale - English"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789196_10155717526328745_3400089290812808025_n.jpg?oh=ca0eac7d56d3a2dec6fce980080e26eb&oe=5A7B348D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789196_10155717526328745_3400089290812808025_n.jpg?oh=46b34994b37915dbb1079129ebe1c6e3&oe=5AF1DB8D
 beer-date: "2017-10-28"
 desc: "Really missing the mark from what you expect with an aged ale"
 permalink: /beer/:title.html

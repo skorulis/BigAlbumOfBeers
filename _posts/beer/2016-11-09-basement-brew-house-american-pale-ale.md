@@ -9,7 +9,7 @@ brewery: "Basement Brewhouse"
 breweryURL: "/brewery/basement-brewhouse.html"
 style: "Pale Ale - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15037221_10154633843548745_8836639246743876067_n.jpg?oh=eca20eefc5c435b7675ebd5ac8aa8075&oe=5A701B68
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15037221_10154633843548745_8836639246743876067_n.jpg?oh=96500d1dd39819cde90f44dea26bf7f5&oe=5AE6C268
 beer-date: "2016-11-13"
 desc: "Has a nice balance between IPA bitterness and the easy drinking of a pale. It's not special but it's a crowd pleaser"
 permalink: /beer/:title.html

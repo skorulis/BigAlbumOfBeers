@@ -9,7 +9,7 @@ brewery: "Bacchus Brewing Co."
 breweryURL: "/brewery/bacchus-brewing-co.html"
 style: "Saison / Farmhouse Ale"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700270_10155251934043745_7091025037710462648_n.jpg?oh=758a8ce3db78abf1fc4d4c04583aece8&oe=5A74705A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700270_10155251934043745_7091025037710462648_n.jpg?oh=c13a1a846cff715cb30e9bcff37d9e3f&oe=5AEB175A
 beer-date: "2017-05-27"
 desc: "Looks like a feminine beer but it definitely isn't. Has a very strong Belgian taste to it. The hibiscus comes through as well. Doesn't have the freshness that I expected"
 permalink: /beer/:title.html

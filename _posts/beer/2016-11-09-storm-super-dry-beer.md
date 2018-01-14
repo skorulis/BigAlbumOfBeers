@@ -9,7 +9,7 @@ brewery: "Storm Brewing Co (Aldi)"
 breweryURL: "/brewery/storm-brewing-co-aldi.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11038700_10153118669473745_5502916115063582938_n.jpg?oh=0845ca7fd8db71113ebb92464d3c4075&oe=5A7A1F4B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11038700_10153118669473745_5502916115063582938_n.jpg?oh=239281fc9862aeb7698e56933ae6c69e&oe=5AF0C64B
 beer-date: "2015-02-27"
 desc: "Your regular plain cheap lager"
 permalink: /beer/:title.html

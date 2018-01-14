@@ -9,7 +9,7 @@ brewery: "Volfas Engelman"
 breweryURL: "/brewery/volfas-engelman.html"
 style: "Lager - Euro"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1176307_10151888665863745_1280335301_n.jpg?oh=cf8d4da92eecc46b042c6a599ed38c7b&oe=5AAFAFF2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1176307_10151888665863745_1280335301_n.jpg?oh=2593f2ac71357c8675564a144765be44&oe=5AFEC9F2
 beer-date: "2013-09-01"
 desc: "Unimpressive"
 permalink: /beer/:title.html

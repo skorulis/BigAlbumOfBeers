@@ -9,7 +9,7 @@ brewery: "Moscow-Efes Brewery (Пивоварня Москва-Эфес)"
 breweryURL: "/brewery/moscow-efes-brewery-pivovarnya-moskva-efyes.html"
 style: "Lager - Euro Dark"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185029_10151860445333745_1637600629_n.jpg?oh=aeda4e3b4af0583bb88648b181b7208d&oe=5A7CA078
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185029_10151860445333745_1637600629_n.jpg?oh=4353d9ed73b3112328118f0652b25268&oe=5AF34778
 beer-date: "2013-08-18"
 desc: "An all round average beer. But with a cool bottle"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Clare Valley Brewing Co."
 breweryURL: "/brewery/clare-valley-brewing-co.html"
 style: "Pale Ale - Australian"
 score: 4.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14448985_10154470807198745_1941773766117119359_n.jpg?oh=26d2c702e2b4c956e65e7345e81681a1&oe=5A652451
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14448985_10154470807198745_1941773766117119359_n.jpg?oh=f14a283d2d451d632d81ba7087bcc809&oe=5AB43E51
 beer-date: "2016-09-21"
 desc: "Overly bitter with no hop profile"
 permalink: /beer/:title.html

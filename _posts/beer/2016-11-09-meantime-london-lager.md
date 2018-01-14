@@ -9,7 +9,7 @@ brewery: "Meantime Brewing Company"
 breweryURL: "/brewery/meantime-brewing-company.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/547553_10151396304058745_42264123_n.jpg?oh=da1b1fd1170e71a2d29d897bb891d34f&oe=5AA66FDD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/547553_10151396304058745_42264123_n.jpg?oh=cf8a3b7376e42b1814bb11b1578639ab&oe=5AF589DD
 beer-date: "2012-12-25"
 desc: "A decent Lager"
 permalink: /beer/:title.html

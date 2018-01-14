@@ -9,7 +9,7 @@ brewery: "Magic Rock Brewing"
 breweryURL: "/brewery/magic-rock-brewing.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/943639_10151798797268745_543942826_n.jpg?oh=b5d88deca6f27f06f79d0fdbf2abb8ab&oe=5AABA8F5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/943639_10151798797268745_543942826_n.jpg?oh=5567e89fcd4199e7bb23b6e04a3b3107&oe=5AFAC2F5
 beer-date: "2013-07-19"
 desc: "Flowery"
 permalink: /beer/:title.html

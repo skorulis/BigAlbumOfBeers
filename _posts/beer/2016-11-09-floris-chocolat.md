@@ -9,7 +9,7 @@ brewery: "Brouwerij Huyghe"
 breweryURL: "/brewery/brouwerij-huyghe.html"
 style: "Spiced / Herbed Beer"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/945065_10151694533818745_1511619525_n.jpg?oh=b5408b2e6e38080192c1b9d04026bf5c&oe=5A6E6FB7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/945065_10151694533818745_1511619525_n.jpg?oh=4d8797a2e6d84fa118267a9dc6276fce&oe=5AE516B7
 beer-date: "2013-05-25"
 desc: "Fizzy bad chocolate"
 permalink: /beer/:title.html

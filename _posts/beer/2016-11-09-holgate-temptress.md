@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Porter - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13418736_10154200938698745_7920734449371306402_n.jpg?oh=a428ded03815771bd7dd80b17d8cb3bd&oe=5A739280
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13418736_10154200938698745_7920734449371306402_n.jpg?oh=0271ddebaa73d1927cc87337d4f41530&oe=5AEA3980
 beer-date: "2016-06-16"
 desc: "A little bit too bitter and too stouty for me. Not getting any chocolate either"
 permalink: /beer/:title.html

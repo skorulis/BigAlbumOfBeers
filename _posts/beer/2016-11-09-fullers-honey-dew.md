@@ -9,7 +9,7 @@ brewery: "Fuller, Smith & Turner "
 breweryURL: "/brewery/fuller-smith-turner.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/969679_10151694516258745_1883640684_n.jpg?oh=1d3c6d75907de8fb278dc74b06b9b232&oe=5A728DA2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/969679_10151694516258745_1883640684_n.jpg?oh=f6ef8cbc53e1253c3fed9c7a2eff5508&oe=5AE934A2
 beer-date: "2013-05-25"
 desc: "Needs more honey"
 permalink: /beer/:title.html
