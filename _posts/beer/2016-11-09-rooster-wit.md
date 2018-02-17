@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-rooster-wit.md
 title: Rooster wit
 category: beer
 untappd: "https://untappd.com/b/rooster-beers--rooster-wit/2377771"
-country: "Vietnam"
+country: "Viet Nam"
 brewery: "Rooster Beers "
 breweryURL: "/brewery/rooster-beers.html"
 style: "Belgian Blond(e)"

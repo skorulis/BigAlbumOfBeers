@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-pasteur-street-passionfruit-wheat.md
 title: Pasteur street passionfruit wheat
 category: beer
 untappd: "https://untappd.com/b/pasteur-street-brewing-company-passionfruit-wheat-ale/985873"
-country: "Vietnam"
+country: "Viet Nam"
 brewery: "Pasteur Street Brewing Company"
 breweryURL: "/brewery/pasteur-street-brewing-company.html"
 style: "Pale Wheat Ale - American"

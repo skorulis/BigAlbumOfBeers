@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-rivet-lager.md
 title: Rivet lager
 category: beer
 untappd: "https://untappd.com/b/rivet-lager/1365884"
-country: "Vietnam"
+country: "Viet Nam"
 brewery: "Rivet"
 breweryURL: "/brewery/rivet.html"
 style: "Lager - Pale"

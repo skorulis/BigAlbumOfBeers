@@ -18,6 +18,8 @@ countryMapping["England"] = "United Kingdom";
 countryMapping["Scotland"] = "United Kingdom";
 countryMapping["China / People's Republic of China"] = "China";
 countryMapping["Russia"] = "Russian Federation";
+countryMapping["Vietnam"] = "Viet Nam";
+countryMapping["Laos"] = "Lao People's Democratic Republic";
 
 def increment(hash,key)
 	if key != nil && key.length > 0

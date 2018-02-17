@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-pasteur-street-pomelo-ipa.md
 title: Pasteur street pomelo IPA
 category: beer
 untappd: "https://untappd.com/b/pasteur-street-brewing-company-pomelo-ipa/1910925"
-country: "Vietnam"
+country: "Viet Nam"
 brewery: "Pasteur Street Brewing Company"
 breweryURL: "/brewery/pasteur-street-brewing-company.html"
 style: "IPA - American"

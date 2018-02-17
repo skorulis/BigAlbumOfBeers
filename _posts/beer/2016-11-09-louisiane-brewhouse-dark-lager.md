@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-louisiane-brewhouse-dark-lager.md
 title: Louisiane brewhouse dark lager
 category: beer
 untappd: "https://untappd.com/b/louisiane-brewhouse-louisiane-brewhouse-dark-lager/129294"
-country: "Vietnam"
+country: "Viet Nam"
 brewery: "Louisiane Brewhouse"
 breweryURL: "/brewery/louisiane-brewhouse.html"
 style: "Lager - Dark"

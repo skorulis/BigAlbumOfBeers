@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-saigon-special.md
 title: Saigon special
 category: beer
 untappd: "https://untappd.com/b/sabeco-saigon-special/17357"
-country: "Vietnam"
+country: "Viet Nam"
 brewery: "Sabeco"
 breweryURL: "/brewery/sabeco.html"
 style: "Lager - Pale"

@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-louisiane-brewhouse-crystal-ale.md
 title: Louisiane brewhouse crystal ale
 category: beer
 untappd: "https://untappd.com/b/louisiane-brewhouse-crystal-ale/398841"
-country: "Vietnam"
+country: "Viet Nam"
 brewery: "Louisiane Brewhouse"
 breweryURL: "/brewery/louisiane-brewhouse.html"
 style: "Red Ale - American Amber / Red"

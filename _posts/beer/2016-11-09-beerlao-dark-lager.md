@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-beerlao-dark-lager.md
 title: Beerlao dark lager
 category: beer
 untappd: "https://untappd.com/b/lao-brewery-beerlao-dark/251717"
-country: "Laos"
+country: "Lao People's Democratic Republic"
 brewery: "Lao Brewery"
 breweryURL: "/brewery/lao-brewery.html"
 style: "Lager - Dark"

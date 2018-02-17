@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-rooster-ipa.md
 title: Rooster IPA
 category: beer
 untappd: "https://untappd.com/b/rooster-beers--rooster-ipa/2377772"
-country: "Vietnam"
+country: "Viet Nam"
 brewery: "Rooster Beers "
 breweryURL: "/brewery/rooster-beers.html"
 style: "IPA - American"

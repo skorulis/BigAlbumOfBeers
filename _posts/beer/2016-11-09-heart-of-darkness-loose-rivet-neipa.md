@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-heart-of-darkness-loose-rivet-neipa.md
 title: Heart of darkness loose rivet NEIPA
 category: beer
 untappd: "https://untappd.com/b/heart-of-darkness-brewery-saigon-loose-rivet-ipa/2213431"
-country: "Vietnam"
+country: "Viet Nam"
 brewery: "Heart of Darkness Brewery Saigon"
 breweryURL: "/brewery/heart-of-darkness-brewery-saigon.html"
 style: "IPA - New England"

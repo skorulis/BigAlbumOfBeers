@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-pasteur-street-jasmine-ipa.md
 title: Pasteur street jasmine IPA
 category: beer
 untappd: "https://untappd.com/b/pasteur-street-brewing-company-jasmine-ipa/954736"
-country: "Vietnam"
+country: "Viet Nam"
 brewery: "Pasteur Street Brewing Company"
 breweryURL: "/brewery/pasteur-street-brewing-company.html"
 style: "IPA - American"
