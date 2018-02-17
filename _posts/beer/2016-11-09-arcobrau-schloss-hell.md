@@ -9,7 +9,7 @@ brewery: "Arcobräu Gräfliches Brauhaus"
 breweryURL: "/brewery/arcobrau-grafliches-brauhaus.html"
 style: "Lager - Helles"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10356419_10153268265598745_7305179253101068466_n.jpg?oh=f426b59b525eaa1256a4de8b96ab606b&oe=5AF9ECC3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10356419_10153268265598745_7305179253101068466_n.jpg?oh=afd398e36d954488227705ac656a2582&oe=5B2179C3
 beer-date: "2015-05-01"
 desc: "Got it from Aldi, wasn’t expecting much"
 permalink: /beer/:title.html

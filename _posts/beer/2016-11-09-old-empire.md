@@ -9,7 +9,7 @@ brewery: "Marston's Brewery"
 breweryURL: "/brewery/marstons-brewery.html"
 style: "IPA - English"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/73511_10151356728858745_1899006793_n.jpg?oh=5256c6d50b79727fb37e7eefbfbb6018&oe=5AB63620
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/73511_10151356728858745_1899006793_n.jpg?oh=98a1853daf22d23f1f1c066c5eba57f1&oe=5B055020
 beer-date: "2012-12-01"
 desc: "Not at all an ipa "
 permalink: /beer/:title.html

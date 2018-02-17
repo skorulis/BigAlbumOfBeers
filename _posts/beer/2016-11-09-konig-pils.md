@@ -9,7 +9,7 @@ brewery: "König Brauerei"
 breweryURL: "/brewery/konig-brauerei.html"
 style: "Pilsner - German"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1743537_10152293088048745_37653094_n.jpg?oh=b4a6e83429b870ac6eb0866d66edc9c7&oe=5AE3E187
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1743537_10152293088048745_37653094_n.jpg?oh=e9b428755c8273a626eb11df4ffd1871&oe=5B0B6E87
 beer-date: "2014-03-01"
 desc: "Standard German"
 permalink: /beer/:title.html

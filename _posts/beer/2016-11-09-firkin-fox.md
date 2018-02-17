@@ -9,7 +9,7 @@ brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "/brewery/badger-ales-hall-woodhouse.html"
 style: "English Bitter"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542858_10151563945898745_1345565555_n.jpg?oh=d68760f1435bdcc61b4efea43d18af3e&oe=5AEFB95F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542858_10151563945898745_1345565555_n.jpg?oh=9631389b5b2032c2cb97dd329d1e9443&oe=5B17465F
 beer-date: "2013-03-09"
 desc: "Firkin terrible"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Brouwerij Alken-Maes"
 breweryURL: "/brewery/brouwerij-alken-maes.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1517454_10152293087538745_1520731799_n.jpg?oh=b35b4aa56e6bcf203836f58085e434b9&oe=5AFDEEC6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1517454_10152293087538745_1520731799_n.jpg?oh=bc1ee1edfe8e952d121216673f285500&oe=5B257BC6
 beer-date: "2014-03-01"
 desc: "An ok Trappist"
 permalink: /beer/:title.html

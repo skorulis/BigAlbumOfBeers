@@ -9,7 +9,7 @@ brewery: "Pike’s Beer Company"
 breweryURL: "/brewery/pikes-beer-company.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11205492_10153268265378745_5159414108787972846_n.jpg?oh=5e36fa506fc484ee12070723aa7815eb&oe=5AFDAE41
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11205492_10153268265378745_5159414108787972846_n.jpg?oh=7867fb78b78e6067cc4603e73d07475f&oe=5B253B41
 beer-date: "2015-05-01"
 desc: "No fish taste at all"
 permalink: /beer/:title.html

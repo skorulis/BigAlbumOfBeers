@@ -9,7 +9,7 @@ brewery: "Barossa Valley Brewing"
 breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Witbier"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333606_10154470807043745_5024248083203116549_n.jpg?oh=34f981efe81b72d785620a66f417ce0b&oe=5AF24834
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333606_10154470807043745_5024248083203116549_n.jpg?oh=8ced6010b6d39fb07b71ffb53b2109fd&oe=5B19D534
 beer-date: "2016-09-21"
 desc: "Really refreshing. Would go great on a hot day. One of the better wit beers I've had"
 permalink: /beer/:title.html

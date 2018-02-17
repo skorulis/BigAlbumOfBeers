@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11026787_10153438035418745_3190886247129001905_n.jpg?oh=23f1b8af4eda4cbfdc28b1f761e660f9&oe=5AF8AB20
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11026787_10153438035418745_3190886247129001905_n.jpg?oh=b71eed5f13eacac7a905c970dc926b71&oe=5B203820
 beer-date: "2015-07-10"
 desc: "A little better than a standard lager"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "United Dutch Breweries"
 breweryURL: "/brewery/united-dutch-breweries.html"
 style: "Lager - Euro"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/544204_10151563945568745_9282207_n.jpg?oh=145681054ddaacc6235b7b20a914b084&oe=5AB28E41
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/544204_10151563945568745_9282207_n.jpg?oh=81969a56aeac1ccc74c57a9e1ce58782&oe=5B01A841
 beer-date: "2013-03-09"
 desc: "Easy drinking fun"
 permalink: /beer/:title.html

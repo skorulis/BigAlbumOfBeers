@@ -9,7 +9,7 @@ brewery: "Lao Brewery"
 breweryURL: "/brewery/lao-brewery.html"
 style: "Lager - Dark"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10888489_10153656865543745_7177566089678444243_n.jpg?oh=0366ea93858926c6e0b82e61989ae838&oe=5AE3AE29
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10888489_10153656865543745_7177566089678444243_n.jpg?oh=cb225ef1cdddbc11a9aac9369c0702ff&oe=5B0B3B29
 beer-date: "2015-10-17"
 desc: "Doesn’t really taste like a dark lager, just a really crisp and clean lager"
 permalink: /beer/:title.html

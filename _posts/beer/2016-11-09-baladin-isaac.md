@@ -9,7 +9,7 @@ brewery: "Birra Baladin"
 breweryURL: "/brewery/birra-baladin.html"
 style: "Witbier"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16683980_10154923954098745_5236104987817215822_n.jpg?oh=f90f957a49f3df248fb599ca7f27fa41&oe=5AF3E2BA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16683980_10154923954098745_5236104987817215822_n.jpg?oh=bf7be18874b73ddc93f3d33f54779d7d&oe=5B1B6FBA
 beer-date: "2017-02-11"
 desc: "One of the better wheat ales I've had. Almost no bitterness, really refreshing and just a little bit sweet. The wheat flavour is clearly there but not bothering me"
 permalink: /beer/:title.html

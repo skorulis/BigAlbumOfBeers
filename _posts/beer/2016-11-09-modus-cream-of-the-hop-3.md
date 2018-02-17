@@ -9,7 +9,7 @@ brewery: "Modus Operandi Brewing Co."
 breweryURL: "/brewery/modus-operandi-brewing-co.html"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509647_10153811618828745_7009333713246897313_n.jpg?oh=4cf689179a7b1e5cb558a406d9882cdc&oe=5AF1F8C6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509647_10153811618828745_7009333713246897313_n.jpg?oh=ac4d8d9d41ed9a7c8bde14b870c1c87c&oe=5B1985C6
 beer-date: "2016-01-07"
 desc: "Actually more creamy than a normal beer. Really nice"
 permalink: /beer/:title.html

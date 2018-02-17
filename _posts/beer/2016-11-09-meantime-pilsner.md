@@ -9,7 +9,7 @@ brewery: "Meantime Brewing Company"
 breweryURL: "/brewery/meantime-brewing-company.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/999024_10151798817478745_821421302_n.jpg?oh=0523848853409dfb8744a9721fadd21f&oe=5AF5F748
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/999024_10151798817478745_821421302_n.jpg?oh=0cc82e268903cf912bf55e8123847e92&oe=5B1D8448
 beer-date: "2013-07-19"
 desc: "Not my favourite pilsner"
 permalink: /beer/:title.html

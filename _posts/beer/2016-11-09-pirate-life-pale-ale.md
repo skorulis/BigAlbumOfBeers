@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10401879_10153966655348745_3642236879798361206_n.jpg?oh=e776e11d115e3b87dd0a50233383e475&oe=5AE6F79E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10401879_10153966655348745_3642236879798361206_n.jpg?oh=bb1b9bb63855df32aa14979540cd6986&oe=5B0E849E
 beer-date: "2016-03-16"
 desc: "Had more flavour than anticipated, it’s actually a lot like the IIPA but with less bitterness"
 permalink: /beer/:title.html

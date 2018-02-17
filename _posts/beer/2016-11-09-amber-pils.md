@@ -9,7 +9,7 @@ brewery: "Browar Amber"
 breweryURL: "/brewery/browar-amber.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1902891_10153118668708745_4563543533450469126_n.jpg?oh=7b792527ba02dedf180ce46395ca9fe3&oe=5AFE1057
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1902891_10153118668708745_4563543533450469126_n.jpg?oh=2ca4139057f5a8f096500022ea218c18&oe=5B259D57
 beer-date: "2015-02-27"
 desc: "Not exciting"
 permalink: /beer/:title.html

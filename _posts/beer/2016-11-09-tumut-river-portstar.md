@@ -9,7 +9,7 @@ brewery: "Tumut River Brewing Co"
 breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Smoked Beer"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20622191_10155494018618745_5247744020091513952_n.jpg?oh=6903ff67d92c64f702a8533d2301b0eb&oe=5AB5DF4C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20622191_10155494018618745_5247744020091513952_n.jpg?oh=58734322ed10c0890bea28179f16caff&oe=5B04F94C
 beer-date: "2017-08-06"
 desc: "Pretty well balanced with a nice sweetness. Only a little smokey"
 permalink: /beer/:title.html

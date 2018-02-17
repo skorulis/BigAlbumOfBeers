@@ -9,7 +9,7 @@ brewery: "Little Creatures Brewing"
 breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Stout - Other"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333103_10154470826493745_1969706286448885118_n.jpg?oh=0360ba807d14eaf683b858aafbb3eab9&oe=5AB5AC96
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333103_10154470826493745_1969706286448885118_n.jpg?oh=795aba4c578509389e96ac32839a3e9a&oe=5B04C696
 beer-date: "2016-09-21"
 desc: "Really mild easy drinking stout. Kind of lacks any interesting depth of flavour"
 permalink: /beer/:title.html

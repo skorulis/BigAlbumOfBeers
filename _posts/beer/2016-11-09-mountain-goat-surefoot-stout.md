@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Stout - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115556_10153656864648745_1260864511539950726_n.jpg?oh=8ea9a07338f28f969f6f2cfc49f2a7e4&oe=5AF781D5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115556_10153656864648745_1260864511539950726_n.jpg?oh=a79d428e3d81e28d5fd237ec51e49a58&oe=5B1F0ED5
 beer-date: "2015-10-17"
 desc: "A fairly mild stout"
 permalink: /beer/:title.html

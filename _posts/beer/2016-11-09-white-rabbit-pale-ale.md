@@ -9,7 +9,7 @@ brewery: "White Rabbit"
 breweryURL: "/brewery/white-rabbit.html"
 style: "Pale Ale - Belgian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11024705_10153118793433745_1941343873752633305_n.jpg?oh=6a19b6b6f62866bdbc7c00cee8ddefe4&oe=5AF9D2E3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11024705_10153118793433745_1941343873752633305_n.jpg?oh=476092300d193a5203aa5e14dd5f3a45&oe=5B215FE3
 beer-date: "2015-02-27"
 desc: "I’m a fan"
 permalink: /beer/:title.html

@@ -8,7 +8,7 @@ brewery: "Skorubrew"
 breweryURL: "/brewery/skorubrew.html"
 style: "Pale Ale - Australian"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16105688_10154858016988745_3807515094057046519_n.jpg?oh=2ef352eae9dc6dce9d2e75042934c57a&oe=5AE95360
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16105688_10154858016988745_3807515094057046519_n.jpg?oh=9afc4796e41e9427b096de598a38d214&oe=5B10E060
 beer-date: "2017-01-21"
 desc: "Smells citrusy and yeasty, the yeasty smell probably being the biggest let down. Has a sweet and very mild taste. A very refreshing and easy drinking beer. Also it just look beautiful"
 permalink: /beer/:title.html

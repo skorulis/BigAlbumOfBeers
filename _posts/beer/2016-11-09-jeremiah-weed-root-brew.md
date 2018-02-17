@@ -9,7 +9,7 @@ brewery: "The Jeremiah Weed Distilling Company"
 breweryURL: "/brewery/the-jeremiah-weed-distilling-company.html"
 style: "Ginger Beer"
 score: null
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/184446_10151428525538745_507755493_n.jpg?oh=31d956cc75115fdc3ad99c8550ad6a98&oe=5AF4A506
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/184446_10151428525538745_507755493_n.jpg?oh=cf247744e4b188a6079e690753fce670&oe=5B1C3206
 beer-date: "2013-01-13"
 desc: "Tastes like a ginger beer. But it's not"
 permalink: /beer/:title.html

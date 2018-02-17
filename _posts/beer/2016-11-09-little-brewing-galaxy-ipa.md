@@ -9,7 +9,7 @@ brewery: "The Little Brewing Company"
 breweryURL: "/brewery/the-little-brewing-company.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12688166_10153890414098745_93931054277212370_n.jpg?oh=9a7f6abce65a3128d285a5d3840279a6&oe=5AF604FC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12688166_10153890414098745_93931054277212370_n.jpg?oh=c9004313e5d0655b208e6932b5df7d81&oe=5B1D91FC
 beer-date: "2016-02-14"
 desc: "Low on bitterness, high on aroma. Can't decide between this and the citra"
 permalink: /beer/:title.html

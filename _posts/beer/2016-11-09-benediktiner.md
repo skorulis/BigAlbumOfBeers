@@ -9,7 +9,7 @@ brewery: "Benediktiner Weißbräu"
 breweryURL: "/brewery/benediktiner-weibbrau.html"
 style: "Hefeweizen"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/598459_10151331653573745_57128822_n.jpg?oh=a91e3c3a29feb2908c5339ec3fe6266e&oe=5AF184BC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/598459_10151331653573745_57128822_n.jpg?oh=eb0611139cb6a0752b7c46fd087b9db4&oe=5B1911BC
 beer-date: "2012-11-13"
 desc: ""
 permalink: /beer/:title.html

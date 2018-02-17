@@ -9,7 +9,7 @@ brewery: "Švyturys"
 breweryURL: "/brewery/svyturys.html"
 style: "Hefeweizen"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/563535_10151929074098745_379750960_n.jpg?oh=0e108805ad9d0fa31c252e4669e4d5c0&oe=5AEA3782
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/563535_10151929074098745_379750960_n.jpg?oh=521272a718d0f4620f172712ad5a4b90&oe=5B11C482
 beer-date: "2013-09-19"
 desc: "Can't get over the bite of wheat beers"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Oskar Blues Brewery"
 breweryURL: "/brewery/oskar-blues-brewery.html"
 style: "Pilsner - Czech"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1187248_10151929072773745_1085795541_n.jpg?oh=46a875faecfadca06f5c4e3f78ea32e9&oe=5AFBA5D7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1187248_10151929072773745_1085795541_n.jpg?oh=7a4f9a673fd63a033613251ba98f597f&oe=5B2332D7
 beer-date: "2013-09-19"
 desc: "An easy drinking pils"
 permalink: /beer/:title.html

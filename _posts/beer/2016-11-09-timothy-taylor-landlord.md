@@ -9,7 +9,7 @@ brewery: "Timothy Taylor & Co. Ltd"
 breweryURL: "/brewery/timothy-taylor-co-ltd.html"
 style: "Pale Ale - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/577972_10151563945378745_1586746946_n.jpg?oh=19744d444916dc07372c5c1cd7d974ed&oe=5AEA1683
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/577972_10151563945378745_1586746946_n.jpg?oh=f143b7631f86458b56cb22ad4b756288&oe=5B11A383
 beer-date: "2013-03-09"
 desc: "Orangey tasting"
 permalink: /beer/:title.html

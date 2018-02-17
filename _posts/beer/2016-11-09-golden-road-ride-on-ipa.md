@@ -9,7 +9,7 @@ brewery: "Golden Road Brewing"
 breweryURL: "/brewery/golden-road-brewing.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13237689_10154147274093745_5794071140903192166_n.jpg?oh=c01afa768ffde7c8eb0c0902d7c07c89&oe=5AE4BFB7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13237689_10154147274093745_5794071140903192166_n.jpg?oh=b0483b8fba82237a7702c32435120581&oe=5B0C4CB7
 beer-date: "2016-05-24"
 desc: "Huge floral hop aroma. Perhaps just a tad too bitter but very enjoyable"
 permalink: /beer/:title.html

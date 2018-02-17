@@ -9,7 +9,7 @@ brewery: "Evil Twin Brewing"
 breweryURL: "/brewery/evil-twin-brewing.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13043371_10154072541163745_2624244242033439826_n.jpg?oh=8d0b794f2c0533e86eb8dde8defa1778&oe=5AF14F8F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13043371_10154072541163745_2624244242033439826_n.jpg?oh=72255df0c06e1b086ec2eceff20e4a9f&oe=5B18DC8F
 beer-date: "2016-04-21"
 desc: "A little more bitter than I was hoping but has a nice hop finish"
 permalink: /beer/:title.html

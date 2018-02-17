@@ -9,7 +9,7 @@ brewery: "Vilkmerges Alus"
 breweryURL: "/brewery/vilkmerges-alus.html"
 style: "Witbier"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10356398_10153966651813745_6716954315521047307_n.jpg?oh=4d2850e36c3fe3b7add189227396a21e&oe=5AFBE50F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10356398_10153966651813745_6716954315521047307_n.jpg?oh=49200a799620374c2996121980b31d4f&oe=5B23720F
 beer-date: "2016-03-16"
 desc: "Pretty standard wheat beer"
 permalink: /beer/:title.html

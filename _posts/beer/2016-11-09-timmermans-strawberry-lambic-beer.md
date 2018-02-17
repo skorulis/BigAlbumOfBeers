@@ -9,7 +9,7 @@ brewery: "Brewery John Martin & Brewery Timmermans"
 breweryURL: "/brewery/brewery-john-martin-brewery-timmermans.html"
 style: "Lambic - Fruit"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/537448_10151461684443745_989699337_n.jpg?oh=7518d1dc4ed3e0d7a9bc5b48f8244d1f&oe=5ADFDE56
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/537448_10151461684443745_989699337_n.jpg?oh=2ebde6590f6f6fc7d2b1f6fd586919f6&oe=5B076B56
 beer-date: "2013-02-01"
 desc: "Not too much strawberry"
 permalink: /beer/:title.html

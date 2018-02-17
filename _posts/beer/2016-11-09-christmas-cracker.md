@@ -9,7 +9,7 @@ brewery: "Carlsberg UK"
 breweryURL: "/brewery/carlsberg-uk.html"
 style: "English Bitter"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/408606_10151428525743745_1997517717_n.jpg?oh=8a10c7e9921233360ab5ee602e94052d&oe=5ADF8C3F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/408606_10151428525743745_1997517717_n.jpg?oh=e35212cd8113d929ff0573199570ee76&oe=5B07193F
 beer-date: "2013-01-13"
 desc: "Bitter and nutty"
 permalink: /beer/:title.html

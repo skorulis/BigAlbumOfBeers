@@ -9,7 +9,7 @@ brewery: "Thai Beverage PLC"
 breweryURL: "/brewery/thai-beverage-plc.html"
 style: "Lager - Pale"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1969273_10152280801073745_1139224814_n.jpg?oh=8869b95bc6f796d986ee652841d14af6&oe=5AE05CE5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1969273_10152280801073745_1139224814_n.jpg?oh=e62cadea5b66f82c0cea3e23fdbd688d&oe=5B07E9E5
 beer-date: "2014-02-23"
 desc: "Take the regular low quality chang and add way too much malt"
 permalink: /beer/:title.html

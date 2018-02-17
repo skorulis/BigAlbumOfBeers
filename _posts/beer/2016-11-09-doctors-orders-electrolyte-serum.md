@@ -9,7 +9,7 @@ brewery: "Doctor's Orders Brewing"
 breweryURL: "/brewery/doctors-orders-brewing.html"
 style: "Sour - Gose"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698196_10155251933538745_1628187055584645091_n.jpg?oh=ac3650e321e09db2eae810df3eda67f1&oe=5AF22C3B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698196_10155251933538745_1628187055584645091_n.jpg?oh=4cf01cf7b08629521b30439ca513d48b&oe=5B19B93B
 beer-date: "2017-05-27"
 desc: "Tastes more like a wheat ale than a gose. Not bad but I wanted more"
 permalink: /beer/:title.html

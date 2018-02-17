@@ -9,7 +9,7 @@ brewery: "Brains"
 breweryURL: "/brewery/brains.html"
 style: "English Bitter"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542989_10151331668478745_1709226964_n.jpg?oh=a88f5557b906dedf7c81ff5af438ad00&oe=5AE0727E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542989_10151331668478745_1709226964_n.jpg?oh=f51f948f4fd318c16b84cfa74c6fae30&oe=5B07FF7E
 beer-date: "2012-11-13"
 desc: ""
 permalink: /beer/:title.html

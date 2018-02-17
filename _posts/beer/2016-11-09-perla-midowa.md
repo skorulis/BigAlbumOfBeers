@@ -9,7 +9,7 @@ brewery: "Perła – Browary Lubelskie S.A."
 breweryURL: "/brewery/perla-browary-lubelskie-s-a.html"
 style: "Spiced / Herbed Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11018324_10153118669153745_6177767464748408498_n.jpg?oh=e59da0842e1df0462d1cc41ea985d8c2&oe=5AB67E42
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11018324_10153118669153745_6177767464748408498_n.jpg?oh=3b089447665df8cdd1bfc8db6da592dc&oe=5B059842
 beer-date: "2015-02-27"
 desc: "A nice hint of honey. Sweeter than most beers"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "South African Breweries"
 breweryURL: "/brewery/south-african-breweries.html"
 style: "Lager - Pale"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17424888_10155045841583745_8551257520253678084_n.jpg?oh=9edc292852ed47f0e2d9f936b8e0deed&oe=5ADEE5CC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17424888_10155045841583745_8551257520253678084_n.jpg?oh=d3e3da092ede2b065e41ac00ab4dd7f1&oe=5B0672CC
 beer-date: "2017-03-22"
 desc: "Fairly dry with a little hint of malt in the back. A little stronger than most lagers which is nice. Easy drinking but it’s not an exciting beer"
 permalink: /beer/:title.html

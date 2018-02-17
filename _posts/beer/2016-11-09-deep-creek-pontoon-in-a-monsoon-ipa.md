@@ -9,7 +9,7 @@ brewery: "Deep Creek Brewing Co."
 breweryURL: "/brewery/deep-creek-brewing-co.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20953889_10155535940378745_4866668074018207153_n.jpg?oh=686b1fcfc94a06942e1dc704e89e3723&oe=5AE6568E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20953889_10155535940378745_4866668074018207153_n.jpg?oh=75fd0c78f7b1f4fa12a0be02c47ce35f&oe=5B0DE38E
 beer-date: "2017-08-21"
 desc: "A bit of a dank IPA. Decent hops and not too bitter. Very enjoyable"
 permalink: /beer/:title.html

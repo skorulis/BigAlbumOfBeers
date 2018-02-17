@@ -9,7 +9,7 @@ brewery: "Capital Brewing Co"
 breweryURL: "/brewery/capital-brewing-co.html"
 style: "IPA - Red"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22780478_10155717527598745_1467579881734151995_n.jpg?oh=44f15288f8588cb4116c7e846ef9dfd7&oe=5AE0410C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22780478_10155717527598745_1467579881734151995_n.jpg?oh=1fc6666e395de5bcff9b4690f49df5ed&oe=5B07CE0C
 beer-date: "2017-10-28"
 desc: "Nice hoppy aroma. Probably a little strong on bitterness but has a good red flavour. Really grows on you"
 permalink: /beer/:title.html

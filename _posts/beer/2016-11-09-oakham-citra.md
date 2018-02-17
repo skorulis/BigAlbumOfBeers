@@ -9,7 +9,7 @@ brewery: "Oakham Ales"
 breweryURL: "/brewery/oakham-ales.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1237019_10151929068538745_647712352_n.jpg?oh=c7e5aa1de023a3a7810949d51cc4e503&oe=5AF632A5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1237019_10151929068538745_647712352_n.jpg?oh=6abb13b7d673f244cb417888484c6cd3&oe=5B1DBFA5
 beer-date: "2013-09-19"
 desc: "Nice hops but otherwise average"
 permalink: /beer/:title.html

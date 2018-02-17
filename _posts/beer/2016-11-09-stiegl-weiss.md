@@ -9,7 +9,7 @@ brewery: "Stieglbrauerei zu Salzburg"
 breweryURL: "/brewery/stieglbrauerei-zu-salzburg.html"
 style: "Hefeweizen"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19146230_10155314454743745_88519625143672357_n.jpg?oh=5aab0f2ddaf9c874e4b90f0d5d68c7ec&oe=5AF4275B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19146230_10155314454743745_88519625143672357_n.jpg?oh=cc449611978d2e3a29779f01bdfad1ae&oe=5B1BB45B
 beer-date: "2017-06-15"
 desc: "A great smooth weissbier with a mild yeastiness"
 permalink: /beer/:title.html

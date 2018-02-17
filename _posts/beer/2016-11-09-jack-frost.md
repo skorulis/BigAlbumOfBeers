@@ -9,7 +9,7 @@ brewery: "Fuller, Smith & Turner "
 breweryURL: "/brewery/fuller-smith-turner.html"
 style: "Winter Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/32180_10151461673683745_1033363252_n.jpg?oh=cecd6394b38e2df9c485094d42387dd4&oe=5AE18D71
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/32180_10151461673683745_1033363252_n.jpg?oh=4f4ecf1359b3f7e4edbe3878110eb442&oe=5B091A71
 beer-date: "2013-02-01"
 desc: ""
 permalink: /beer/:title.html

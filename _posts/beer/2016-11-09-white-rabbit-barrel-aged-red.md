@@ -9,7 +9,7 @@ brewery: "White Rabbit"
 breweryURL: "/brewery/white-rabbit.html"
 style: "Sour - Flanders Red Ale"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15032114_10154633844938745_2224669951803352879_n.jpg?oh=89e40a74f9defc4e1f44ff7cebe78f16&oe=5AFCC051
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15032114_10154633844938745_2224669951803352879_n.jpg?oh=a40afbf56f0e4ce6c0a0284e2d09f8b0&oe=5B244D51
 beer-date: "2016-11-13"
 desc: "An interesting style. Kind of a half sour beer.  Hints of cherry. Worth a look if you want something new"
 permalink: /beer/:title.html

@@ -1,7 +1,7 @@
 Instructions:
 
 ruby scripts/albumscrape.rb [token]
-ruby scripts/buildExtra.rb
+ruby scripts/buildExtra.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 Set beer ids
 ruby scripts/buildExtra.rb
 ruby scripts/stats.rb

@@ -9,7 +9,7 @@ brewery: "San Miguel Brewery"
 breweryURL: "/brewery/san-miguel-brewery.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q86/p480x480/12108847_10153656865618745_952249772663413561_n.jpg?oh=eae6fd195f5bb6d806d01b6c0dbd5a09&oe=5AFEE4C7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q86/p480x480/12108847_10153656865618745_952249772663413561_n.jpg?oh=a7f59db08ac19d6b32ed70193d63c899&oe=5B2671C7
 beer-date: "2015-10-17"
 desc: "Filipino version of San Miguel. Not nearly as nice as the Spanish version"
 permalink: /beer/:title.html

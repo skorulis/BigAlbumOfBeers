@@ -9,7 +9,7 @@ brewery: "Grupo Damm"
 breweryURL: "/brewery/grupo-damm.html"
 style: "Märzen"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/293097_10151694536623745_633779128_n.jpg?oh=8f95d9d9b5bbd781426e1b2ae8fad646&oe=5AE43065
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/293097_10151694536623745_633779128_n.jpg?oh=9dd1b05675c7ee3a7f7ce06944741efc&oe=5B0BBD65
 beer-date: "2013-05-25"
 desc: "Quite malty"
 permalink: /beer/:title.html

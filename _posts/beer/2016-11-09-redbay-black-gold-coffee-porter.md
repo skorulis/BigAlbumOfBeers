@@ -7,7 +7,7 @@ country: "Australia"
 brewery: "Redbay Brewing Company"
 breweryURL: "/brewery/redbay-brewing-company.html"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14390723_10154470829368745_5229900954620895810_n.jpg?oh=311da1732a23006471020c5cfe418d2f&oe=5AEAD075
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14390723_10154470829368745_5229900954620895810_n.jpg?oh=aa8423dd225f795056cb351ec2ab311d&oe=5B125D75
 beer-date: "2016-09-21"
 desc: "A nice balance between beer and coffee. Could do with some more sweetness"
 permalink: /beer/:title.html

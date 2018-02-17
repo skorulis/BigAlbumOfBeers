@@ -9,7 +9,7 @@ brewery: "Young Henrys Brewing Company"
 breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "Rye Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12143171_10153656865058745_383441333102974608_n.jpg?oh=d19ef24a64666ec3fef42eba8412114a&oe=5AE71219
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12143171_10153656865058745_383441333102974608_n.jpg?oh=fe785ab964800164a6e89bf61f2ad773&oe=5B0E9F19
 beer-date: "2015-10-17"
 desc: "Strong and bitter, could do to be a bit more floral"
 permalink: /beer/:title.html
