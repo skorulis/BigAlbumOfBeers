@@ -9,7 +9,7 @@ brewery: "Brauerei Göss"
 breweryURL: "/brewery/brauerei-goss.html"
 style: "Märzen"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19145779_10155314454433745_406515410682123558_n.jpg?oh=2ea0d8e8dfed9e326640274b3baa0f1c&oe=5B264ACF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19145779_10155314454433745_406515410682123558_n.jpg?oh=a1141774dbeef8f85676748182119af6&oe=5B4DD7CF
 beer-date: "2017-06-15"
 desc: "Another fairly plain lager. Goes down easy though"
 permalink: /beer/:title.html

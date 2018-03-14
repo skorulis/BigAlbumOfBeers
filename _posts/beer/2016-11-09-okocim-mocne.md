@@ -9,7 +9,7 @@ brewery: "Browar Okocim (Carlsberg Polska)"
 breweryURL: "/brewery/browar-okocim-carlsberg-polska.html"
 style: "Lager - Euro Strong"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/301917_10151649177953745_1459071565_n.jpg?oh=55ece085a0fad2e27882d4054d640d78&oe=5B147B45
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/301917_10151649177953745_1459071565_n.jpg?oh=7c23b673311a328cae1edd03dc9771eb&oe=5B3C0845
 beer-date: "2013-04-27"
 desc: "Sweet and a little bit wrong"
 permalink: /beer/:title.html

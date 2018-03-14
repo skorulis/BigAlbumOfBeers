@@ -9,7 +9,7 @@ brewery: "Two Birds Brewing"
 breweryURL: "/brewery/two-birds-brewing.html"
 style: "Red Ale - American Amber / Red"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/484855_10151602282628745_1452325767_n.jpg?oh=e1451e2fa8e9b1225267037c336b807d&oe=5B17BF5F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/484855_10151602282628745_1452325767_n.jpg?oh=7bb25cdbc48f8a6b5385053d4f010635&oe=5B3F4C5F
 beer-date: "2013-03-28"
 desc: "Slightly fruity, have to get used to it before judgement"
 permalink: /beer/:title.html

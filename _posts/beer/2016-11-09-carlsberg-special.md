@@ -9,7 +9,7 @@ brewery: "Carlsberg Group"
 breweryURL: "/brewery/carlsberg-group.html"
 style: "Pilsner - Imperial / Double"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/429525_10151356729088745_1307200238_n.jpg?oh=9428b481c9c66929b1f17d03284de3aa&oe=5B10B712
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/429525_10151356729088745_1307200238_n.jpg?oh=0442a959fbc8c9c700d34d6e2a83e0b6&oe=5B384412
 beer-date: "2012-12-01"
 desc: "Tennants super for the discerning bum"
 permalink: /beer/:title.html

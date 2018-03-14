@@ -9,7 +9,7 @@ brewery: "Yulli's Brews"
 breweryURL: "/brewery/yullis-brews.html"
 style: "Pale Ale - Australian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11403010_10153438034973745_575409467690114271_n.jpg?oh=afb7e3936a38288a63fa39a2224c37c7&oe=5B11BCEB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11403010_10153438034973745_575409467690114271_n.jpg?oh=c1e9879e7d965bb47b6c727d6f51d2d1&oe=5B3949EB
 beer-date: "2015-07-10"
 desc: "The logo looks dodgy but it's actually a nice mild pale ale"
 permalink: /beer/:title.html

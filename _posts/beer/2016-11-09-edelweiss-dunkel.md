@@ -9,7 +9,7 @@ brewery: "Brau Union Österreich"
 breweryURL: "/brewery/brau-union-osterreich.html"
 style: "Dunkelweizen"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19106069_10155314457053745_8361170384263594331_n.jpg?oh=b29104221dc3b4872bed519ac86e8129&oe=5B1F42B7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19106069_10155314457053745_8361170384263594331_n.jpg?oh=6d36d02f284b316364da27cc1e07cba6&oe=5B46CFB7
 beer-date: "2017-06-15"
 desc: "Absolutely awesome compared to the lagers I've been having. Full of wheat and yeast but with a smooth mouthfeel"
 permalink: /beer/:title.html

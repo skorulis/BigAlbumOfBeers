@@ -9,7 +9,7 @@ brewery: "Adnams"
 breweryURL: "/brewery/adnams.html"
 style: "Blonde Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069901_10151798803058745_68050022_n.jpg?oh=8b8416cb5c069abf91dc4d9b4776b9aa&oe=5B20EC87
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069901_10151798803058745_68050022_n.jpg?oh=1174d883ed3950a76fa861accae39b7f&oe=5B487987
 beer-date: "2013-07-19"
 desc: "Kind of a pale ale taste. The first time I've seen a beer in a blue bottle"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Hijos de Rivera"
 breweryURL: "/brewery/hijos-de-rivera.html"
 style: "Lager - North American Adjunct"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/988265_10151798820448745_1825630126_n.jpg?oh=1713be2906ec62af82d45e3cb612ea73&oe=5B12B243
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/988265_10151798820448745_1825630126_n.jpg?oh=dedd08aef2bbc074ac04a80e37cb3f98&oe=5B3A3F43
 beer-date: "2013-07-19"
 desc: "A bit more malty than the regular"
 permalink: /beer/:title.html

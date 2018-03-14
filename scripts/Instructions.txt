@@ -3,9 +3,9 @@ Instructions:
 ruby scripts/albumscrape.rb [token]
 ruby scripts/buildExtra.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 Set beer ids
-ruby scripts/buildExtra.rb
+ruby scripts/buildExtra.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 ruby scripts/stats.rb
-ruby scripts/getBreweries.rb
+ruby scripts/getBreweries.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 ruby scripts/breweryList.rb
 
 ruby scripts/distributeBreweries.rb

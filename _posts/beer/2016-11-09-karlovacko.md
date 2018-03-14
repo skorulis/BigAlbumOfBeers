@@ -9,7 +9,7 @@ brewery: "Karlovačka Pivovara (Heineken Croatia)"
 breweryURL: "/brewery/karlovacka-pivovara-heineken-croatia.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27866962_10156021374883745_6943079945311835272_n.jpg?oh=47c0f1490250055bb47db87cc1babc8d&oe=5B14EF9D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27866962_10156021374883745_6943079945311835272_n.jpg?oh=b2d264f45a73fef9e2b1a2f78f1c092b&oe=5B3C7C9D
 beer-date: "2018-02-17"
 desc: "Standard malty lager"
 permalink: /beer/:title.html

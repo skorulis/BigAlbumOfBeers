@@ -9,7 +9,7 @@ brewery: "Fox Hat Brewing"
 breweryURL: "/brewery/fox-hat-brewing.html"
 style: "IPA - Imperial / Double"
 score: 9.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16003000_10154858019813745_8841869433513318442_n.jpg?oh=e0ae9a3431152e5a87a9ec4e93ac1c46&oe=5B242EB1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16003000_10154858019813745_8841869433513318442_n.jpg?oh=2d4eeddfb25d8b3d52bacee82028bd7a&oe=5B4BBBB1
 beer-date: "2017-01-21"
 desc: "Given the 80 IBU it’s amazing how smooth and easy drinking this beer is. Great to see a west coast IPA which strives for balance over just packing in hops"
 permalink: /beer/:title.html

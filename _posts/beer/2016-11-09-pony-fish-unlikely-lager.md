@@ -9,7 +9,7 @@ brewery: "Melbourne City Brewing Company"
 breweryURL: "/brewery/melbourne-city-brewing-company.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11096283_10153225353503745_2273426521907233162_n.jpg?oh=27e5e0b6ea36d818cbd969f8f395f005&oe=5B157C78
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11096283_10153225353503745_2273426521907233162_n.jpg?oh=074048d29fcfa8f87b6d3baefc132f15&oe=5B3D0978
 beer-date: "2015-04-13"
 desc: "Lager with something extra but nothing special"
 permalink: /beer/:title.html

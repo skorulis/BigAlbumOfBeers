@@ -9,7 +9,7 @@ brewery: "John Boston"
 breweryURL: "/brewery/john-boston.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10955559_10153055749933745_9217798578543309687_o.jpg?oh=af0bb4543cc9d3b2272c89a620f04d06&oe=5B1CB0C4
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10955559_10153055749933745_9217798578543309687_o.jpg?oh=1a6459e1a4d6a615022ce39b69e9396e&oe=5B443DC4
 beer-date: "2015-01-29"
 desc: "Not my favourite pale ale"
 permalink: /beer/:title.html

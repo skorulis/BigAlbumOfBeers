@@ -9,7 +9,7 @@ brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1934561_10153966658683745_1961182541822640883_n.jpg?oh=fa34e20a8baaa709c33683cab47a794a&oe=5B1BE1D2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1934561_10153966658683745_1961182541822640883_n.jpg?oh=482a957f5a783bac45ad831554b3e5d2&oe=5B436ED2
 beer-date: "2016-03-16"
 desc: "Mild on hops but also low on bitterness"
 permalink: /beer/:title.html

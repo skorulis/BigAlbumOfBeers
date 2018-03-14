@@ -9,7 +9,7 @@ brewery: "Stevens Point Brewery"
 breweryURL: "/brewery/stevens-point-brewery.html"
 style: "Pale Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185998_10151860443158745_158593717_n.jpg?oh=56f31f73aa932a74d5386502b9131801&oe=5B212FE9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1185998_10151860443158745_158593717_n.jpg?oh=1800673420ac2b0bbab4779fe597476b&oe=5B48BCE9
 beer-date: "2013-08-18"
 desc: "Pretty mundane"
 permalink: /beer/:title.html

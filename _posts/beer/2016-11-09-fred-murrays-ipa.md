@@ -9,7 +9,7 @@ brewery: "Murray's Craft Brewing Co"
 breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q86/p480x480/11988711_10153656863543745_374129198357931998_n.jpg?oh=ca9be4f8063a792b6d633f338fc00417&oe=5B1D71BF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q86/p480x480/11988711_10153656863543745_374129198357931998_n.jpg?oh=fc42e084440a19f05177670cb8e552aa&oe=5B44FEBF
 beer-date: "2015-10-17"
 desc: "Nothing special but nothing wrong with it"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Birra del Borgo"
 breweryURL: "/brewery/birra-del-borgo.html"
 style: "Pilsner - Imperial / Double"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1473040_10153225353703745_3939681785801200434_n.jpg?oh=50773d4447f1bb04a07d17b4d2354558&oe=5B0D11B3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1473040_10153225353703745_3939681785801200434_n.jpg?oh=fc18c0537b43f70783e11a714f411cbe&oe=5B349EB3
 beer-date: "2015-04-13"
 desc: "Surprisingly this tastes better after I brushed my teeth"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Coopers Brewery"
 breweryURL: "/brewery/coopers-brewery.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/421878_10151563839458745_1540530586_n.jpg?oh=1563cd44520742ca468c6ca365b6bbcf&oe=5B2571A3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/421878_10151563839458745_1540530586_n.jpg?oh=db4d81073e88eef662f4c7566ec853c6&oe=5B4CFEA3
 beer-date: "2013-03-09"
 desc: "Pretty average, but you get used to it"
 permalink: /beer/:title.html

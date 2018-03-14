@@ -9,7 +9,7 @@ brewery: "Brauerei Ried"
 breweryURL: "/brewery/brauerei-ried.html"
 style: "Weizenbock"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20031903_10155413260753745_3062120731586916927_n.jpg?oh=f6068e6503eb5b63a5925c6bc399b5fb&oe=5B206716
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20031903_10155413260753745_3062120731586916927_n.jpg?oh=f06bb9eaf6b7aba1c494727d3a10b71c&oe=5B47F416
 beer-date: "2017-07-12"
 desc: "A little yeasty and easy drinking"
 permalink: /beer/:title.html

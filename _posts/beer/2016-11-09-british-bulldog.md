@@ -9,7 +9,7 @@ brewery: "Westerham Brewery Company Ltd."
 breweryURL: "/brewery/westerham-brewery-company-ltd.html"
 style: "English Bitter"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/479882_10151563844403745_1566533959_n.jpg?oh=277158d7c30c08e46021942a549d753c&oe=5B125539
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/479882_10151563844403745_1566533959_n.jpg?oh=e276545b0a5abade50f8232da90ca731&oe=5B39E239
 beer-date: "2013-03-09"
 desc: "Not bad for a bitter"
 permalink: /beer/:title.html

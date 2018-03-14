@@ -9,7 +9,7 @@ brewery: "Shenanigans Brewing Co."
 breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "Smoked Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174519_10154858210323745_9095266115132092169_n.jpg?oh=2091b8dde1b19cb0175373a488273dd6&oe=5B0F9D2B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174519_10154858210323745_9095266115132092169_n.jpg?oh=842b945166244697aeb08a59097c93bf&oe=5B372A2B
 beer-date: "2017-01-21"
 desc: "One of the better smoked beers that I've had due. From the first sip one of the strangest beers I've had but it definitely got better. By the end the smokiness was less evident and I could enjoy the multitude of other flavours"
 permalink: /beer/:title.html

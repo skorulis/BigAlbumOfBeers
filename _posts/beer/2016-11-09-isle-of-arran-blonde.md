@@ -9,7 +9,7 @@ brewery: "Isle of Arran Brewery Co."
 breweryURL: "/brewery/isle-of-arran-brewery-co.html"
 style: "Blonde Ale"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29588_10151396304143745_1361559358_n.jpg?oh=5a611d781670def5757c8c643915e25d&oe=5B2291E1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29588_10151396304143745_1361559358_n.jpg?oh=ddc86f7691ac8805aa2d4bcaf9ae2de1&oe=5B4A1EE1
 beer-date: "2012-12-25"
 desc: "No idea why anyone would buy this twice"
 permalink: /beer/:title.html

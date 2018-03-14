@@ -9,7 +9,7 @@ brewery: "De Gouden Boom"
 breweryURL: "/brewery/de-gouden-boom.html"
 style: "Witbier"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1911696_10152280800918745_1929684638_n.jpg?oh=3baebc57af61d2a30d4d2dbf6b86e59e&oe=5B25DE9F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1911696_10152280800918745_1929684638_n.jpg?oh=dbd88158d69f2dd07bef22d2aabd72be&oe=5B4D6B9F
 beer-date: "2014-02-23"
 desc: "Not the biggest fan of this wheat beer"
 permalink: /beer/:title.html

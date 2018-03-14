@@ -9,7 +9,7 @@ brewery: "Colonial Brewing Co"
 breweryURL: "/brewery/colonial-brewing-co.html"
 style: "Kölsch"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17424749_10155045840293745_1285842060691308055_n.jpg?oh=5869f7e24d2cec2e5c5025bc51a2a01c&oe=5B0E6C73
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17424749_10155045840293745_1285842060691308055_n.jpg?oh=9bdddb4c7cb9a8b7d1d2f810f8ebd7fa&oe=5B35F973
 beer-date: "2017-03-22"
 desc: "A great refreshing beer. Malt driven but not to the level of European lagers. Exactly what I expect from a kölsch"
 permalink: /beer/:title.html

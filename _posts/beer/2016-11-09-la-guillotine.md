@@ -9,7 +9,7 @@ brewery: "Brouwerij Huyghe"
 breweryURL: "/brewery/brouwerij-huyghe.html"
 style: "Belgian Strong Golden Ale"
 score: 10
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11156123_10153225366453745_4053445365399151631_n.jpg?oh=1d5ca43c814f76b812f5168a0ecbd4fd&oe=5B17F478
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11156123_10153225366453745_4053445365399151631_n.jpg?oh=c58f8c49d1d7cf3519ec7c191e444f18&oe=5B3F8178
 beer-date: "2015-04-13"
 desc: "Absolutely amazing"
 permalink: /beer/:title.html

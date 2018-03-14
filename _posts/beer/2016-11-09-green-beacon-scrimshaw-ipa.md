@@ -9,7 +9,7 @@ brewery: "Green Beacon Brewing Company"
 breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "IPA - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27868026_10156021377153745_6481807826923620624_n.jpg?oh=3e7e89028cfde4724268492e2040d6c6&oe=5B0F7EE6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27868026_10156021377153745_6481807826923620624_n.jpg?oh=23887ca4c2cfd47bb1686deb1e5cfe2a&oe=5B370BE6
 beer-date: "2018-02-17"
 desc: "Has a real deep dank hoppiness. Quite easy drinking"
 permalink: /beer/:title.html

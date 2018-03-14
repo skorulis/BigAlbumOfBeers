@@ -9,7 +9,7 @@ brewery: "Barossa Valley Brewing"
 breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Smoked Beer"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14364803_10154470805213745_3875462672312387508_n.jpg?oh=2be615a4fdee1f48e96de29d8a219906&oe=5B10E9C1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14364803_10154470805213745_3875462672312387508_n.jpg?oh=7f6d5782f8491b74057e179b4c298ff8&oe=5B3876C1
 beer-date: "2016-09-21"
 desc: "Super smokey but not overwhelming. Definitely evokes memories of bacon"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Adnams"
 breweryURL: "/brewery/adnams.html"
 style: "English Bitter"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1006000_10151798819328745_2080424026_n.jpg?oh=be1e1bbb5dfc5b0fe28850e56556ac2e&oe=5B19C2E6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1006000_10151798819328745_2080424026_n.jpg?oh=a9788022d26bfd9145511c919856d4e1&oe=5B414FE6
 beer-date: "2013-07-19"
 desc: "The bitterness takes some time to get used to"
 permalink: /beer/:title.html

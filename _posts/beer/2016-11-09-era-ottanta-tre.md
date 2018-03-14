@@ -9,7 +9,7 @@ brewery: "Doreca"
 breweryURL: "/brewery/doreca.html"
 style: "Pilsner - Other"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19905219_10155413269723745_1256683850294191302_n.jpg?oh=576333e1dd84bc95efbf1e22aca60aba&oe=5B26A7B1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19905219_10155413269723745_1256683850294191302_n.jpg?oh=a4be3960954b5ca5633df58887d50e64&oe=5B4E34B1
 beer-date: "2017-07-12"
 desc: "Strangely good. Just that little bit of maltiness which balances out well. The kind of drink you could smash down without realising the strength"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Lager - Helles"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13232982_10154147274688745_9124860390189621549_n.jpg?oh=ef96c25f894f52867cdfebf40f8de0eb&oe=5B25D337
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13232982_10154147274688745_9124860390189621549_n.jpg?oh=8066e68066fc3c018187faf9ee0e890c&oe=5B4D6037
 beer-date: "2016-05-24"
 desc: "A very sweet lager with much more flavour than your average lager"
 permalink: /beer/:title.html

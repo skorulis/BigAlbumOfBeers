@@ -9,7 +9,7 @@ brewery: "Birra Moretti"
 breweryURL: "/brewery/birra-moretti.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19894870_10155413260773745_4872202688199079062_n.jpg?oh=ccba1b0650a62a3f81855fae60b30be1&oe=5B15A97E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19894870_10155413260773745_4872202688199079062_n.jpg?oh=9fb98eec7f3672d648dd860a3d49282b&oe=5B3D367E
 beer-date: "2017-07-12"
 desc: "Very Belgian tasting. Probably a little too harsh without having any great flavours"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Mildura Brewery"
 breweryURL: "/brewery/mildura-brewery.html"
 style: "Strong Ale - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10929144_10153055792013745_3943691173139596791_n.jpg?oh=380e5041017cd51ffb2ce6ec5255cb28&oe=5B24CB7C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10929144_10153055792013745_3943691173139596791_n.jpg?oh=7bf32b53783b939c8e1a89de23045339&oe=5B4C587C
 beer-date: "2015-01-29"
 desc: "Enjoyed this more than I expected"
 permalink: /beer/:title.html

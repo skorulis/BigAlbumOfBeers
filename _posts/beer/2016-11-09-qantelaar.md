@@ -9,7 +9,7 @@ brewery: "D'Oude Maalderij"
 breweryURL: "/brewery/doude-maalderij.html"
 style: "Belgian Strong Dark Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1924797_10152293087133745_1742289591_n.jpg?oh=a6eff8da62669046d4508cf1d701983e&oe=5B1C8ACC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1924797_10152293087133745_1742289591_n.jpg?oh=d7cc5b82444b3b778ed85e1699b368bf&oe=5B4417CC
 beer-date: "2014-03-01"
 desc: "Very flavoursome but not too sweet. Not worth the €18 I paid though"
 permalink: /beer/:title.html

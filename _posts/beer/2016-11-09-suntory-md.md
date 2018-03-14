@@ -9,7 +9,7 @@ brewery: "Suntory Beer Limited"
 breweryURL: "/brewery/suntory-beer-limited.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10426644_10152534289858745_1229530734473771808_n.jpg?oh=d06986cf85544e1575353f9b83554ba6&oe=5B206C73
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10426644_10152534289858745_1229530734473771808_n.jpg?oh=7edfe315e0630c8f4395e66c3b42eacd&oe=5B47F973
 beer-date: "2014-06-21"
 desc: "A slightly strange lager"
 permalink: /beer/:title.html

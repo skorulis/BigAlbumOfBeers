@@ -9,7 +9,7 @@ brewery: "Bacchus Brewing Co."
 breweryURL: "/brewery/bacchus-brewing-co.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700230_10155251933723745_4865147908016806941_n.jpg?oh=d2213a81345b2951e4fdb3b75b98751a&oe=5B251B0C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700230_10155251933723745_4865147908016806941_n.jpg?oh=a482ab17073cc213cedd74e69ef8e371&oe=5B4CA80C
 beer-date: "2017-05-27"
 desc: "Pretty dank and tasty. The rum comes through but it's really faint"
 permalink: /beer/:title.html

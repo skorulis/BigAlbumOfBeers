@@ -9,7 +9,7 @@ brewery: "Nomad Brewing Co."
 breweryURL: "/brewery/nomad-brewing-co.html"
 style: "Pale Ale - Australian"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11692763_10153438038563745_2254106052941195483_n.jpg?oh=50c569d31364b84618023974b6f0134e&oe=5B203F35
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11692763_10153438038563745_2254106052941195483_n.jpg?oh=03940ebded8ff60618a7fc84ea3d03a8&oe=5B47CC35
 beer-date: "2015-07-10"
 desc: "This beer is just all wrong. Tastes more like an IPA than a pale and the fizz is just strange"
 permalink: /beer/:title.html

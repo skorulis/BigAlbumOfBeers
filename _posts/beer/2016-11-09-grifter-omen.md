@@ -9,7 +9,7 @@ brewery: "Grifter Brewing Company"
 breweryURL: "/brewery/grifter-brewing-company.html"
 style: "Stout - Oatmeal"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18767547_10155251935198745_415090311944723160_n.jpg?oh=b1dbabb9f820c6b62caafd9a422dd0c5&oe=5B211274
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18767547_10155251935198745_415090311944723160_n.jpg?oh=e7c5e67c6090eb185f0217e7db6d9347&oe=5B489F74
 beer-date: "2017-05-27"
 desc: "Good stout which causes no qualms but delivers nothing special"
 permalink: /beer/:title.html

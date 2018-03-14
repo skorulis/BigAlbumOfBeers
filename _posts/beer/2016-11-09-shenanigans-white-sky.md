@@ -9,7 +9,7 @@ brewery: "Shenanigans Brewing Co."
 breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "Witbier"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10561728_10153811610893745_8053139554847988051_n.jpg?oh=0c6ff7d47ced5c915e9ededccf5db793&oe=5B1FEA13
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10561728_10153811610893745_8053139554847988051_n.jpg?oh=aa90d430ca335ad119a398ec199d9e2f&oe=5B477713
 beer-date: "2016-01-06"
 desc: "Never quite tasted right but perhaps I was having an off day"
 permalink: /beer/:title.html

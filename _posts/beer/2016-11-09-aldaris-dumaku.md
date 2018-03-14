@@ -9,7 +9,7 @@ brewery: "Aldaris"
 breweryURL: "/brewery/aldaris.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1381516_10152001638348745_1868079701_n.jpg?oh=104ecfe4d182aa8ec3fea7fabb428350&oe=5B0FE5AC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1381516_10152001638348745_1868079701_n.jpg?oh=d172e4e2d89e03b5ed5195e7e17b0a7d&oe=5B3772AC
 beer-date: "2013-10-25"
 desc: "Pretty nice"
 permalink: /beer/:title.html

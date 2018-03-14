@@ -9,7 +9,7 @@ brewery: "Privatbrauerei Gaffel Becker"
 breweryURL: "/brewery/privatbrauerei-gaffel-becker.html"
 style: "Kölsch"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19145903_10155314453548745_7973596675603842731_n.jpg?oh=8f5bc74c6a7138863aba34bdd3b32e73&oe=5B1EFBA3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19145903_10155314453548745_7973596675603842731_n.jpg?oh=082bec2c00e523e7c0740c85adf4b077&oe=5B4688A3
 beer-date: "2017-06-15"
 desc: "At first it seems like the malt is overwhelming but it's hiding a hint of spice"
 permalink: /beer/:title.html

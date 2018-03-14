@@ -9,7 +9,7 @@ brewery: "Eel River Brewing Company"
 breweryURL: "/brewery/eel-river-brewing-company.html"
 style: "Pale Ale - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26730845_10155922812588745_1732859244765963341_n.jpg?oh=cd5d33edcc0bb504be43d20075841e0d&oe=5B250155
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26730845_10155922812588745_1732859244765963341_n.jpg?oh=6886bafe55008685761cb2acbf897418&oe=5B4C8E55
 beer-date: "2018-01-13"
 desc: "Started off a little bitter but mellowed out and had a decent amount of flavour"
 permalink: /beer/:title.html

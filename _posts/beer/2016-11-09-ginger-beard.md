@@ -9,7 +9,7 @@ brewery: "Wychwood Brewery"
 breweryURL: "/brewery/wychwood-brewery.html"
 style: "Ginger Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/184456_10151428533288745_183483934_n.jpg?oh=db3bc52a099a728b363ed7930f9f1fa0&oe=5B229479
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/184456_10151428533288745_183483934_n.jpg?oh=847306d6d0ca82eb03dd25a0aaa0f7cd&oe=5B4A2179
 beer-date: "2013-01-13"
 desc: "A tasty ginger beer"
 permalink: /beer/:title.html

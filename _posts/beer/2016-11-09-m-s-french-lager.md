@@ -9,7 +9,7 @@ brewery: "Brasserie Champigneulles"
 breweryURL: "/brewery/brasserie-champigneulles.html"
 style: "Lager - Pale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/486557_10151563840963745_1674492557_n.jpg?oh=6c2dcb0240c04c9e02d8181dd6b3840d&oe=5B112581
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/486557_10151563840963745_1674492557_n.jpg?oh=30e2e834b9a618f1e1f93129f1acd773&oe=5B38B281
 beer-date: "2013-03-09"
 desc: "Not as good as the Belgian one"
 permalink: /beer/:title.html

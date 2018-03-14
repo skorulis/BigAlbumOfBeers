@@ -9,7 +9,7 @@ brewery: "Charles Wells Brewery"
 breweryURL: "/brewery/charles-wells-brewery.html"
 style: "Scottish Export Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1384073_10152001619653745_1344996131_n.jpg?oh=51e90d173cc8cdeefc78f06ea7431597&oe=5B146038
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1384073_10152001619653745_1344996131_n.jpg?oh=6d3f0560096efe25bb321e18e230f958&oe=5B3BED38
 beer-date: "2013-10-25"
 desc: "Not as rubbish as the the can looks"
 permalink: /beer/:title.html

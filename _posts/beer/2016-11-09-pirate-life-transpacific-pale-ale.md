@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Pale Ale - Australian"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20638302_10155494019108745_3876014023666033547_n.jpg?oh=0b6896bec4f79cd59decb578db6babac&oe=5B0CDFD8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20638302_10155494019108745_3876014023666033547_n.jpg?oh=de71ed52719d175716fc784cbfe686c3&oe=5B346CD8
 beer-date: "2017-08-06"
 desc: "More bitter than you would expect from a pale but nicely hoppy"
 permalink: /beer/:title.html

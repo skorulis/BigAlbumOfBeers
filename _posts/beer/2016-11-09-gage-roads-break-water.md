@@ -9,7 +9,7 @@ brewery: "Gage Roads Brewing Co "
 breweryURL: "/brewery/gage-roads-brewing-co.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11178233_10153268265658745_1088283222834381460_n.jpg?oh=20434e3f1b1a62d0f6e9b6df39fd93ca&oe=5B070E6C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11178233_10153268265658745_1088283222834381460_n.jpg?oh=2980623aefb30e560149ace042fb2d0e&oe=5B2E9B6C
 beer-date: "2015-05-01"
 desc: "Slightly better than your standard"
 permalink: /beer/:title.html

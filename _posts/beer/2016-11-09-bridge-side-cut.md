@@ -9,7 +9,7 @@ brewery: "Bridge Brewing Company"
 breweryURL: "/brewery/bridge-brewing-company.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17861510_10155111575338745_1712328127950934071_n.jpg?oh=16bae80093dc4b306862ec93d55016d9&oe=5B1299B0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17861510_10155111575338745_1712328127950934071_n.jpg?oh=49f7daeb43a4fd9370bba53de1d8bf3e&oe=5B3A26B0
 beer-date: "2017-04-11"
 desc: "Loving the haze on this beer. Full of floral and citrus hops with a little bit of pine. It's biter but it balances perfectly. Full of flavour but I could drink a bunch of these"
 permalink: /beer/:title.html

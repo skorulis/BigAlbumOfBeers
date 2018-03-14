@@ -9,7 +9,7 @@ brewery: "Karl Strauss Brewing Company"
 breweryURL: "/brewery/karl-strauss-brewing-company.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12036567_10153966649818745_3762140237584842223_n.jpg?oh=329be71fa115a861fbbbc76f9cb03249&oe=5B17068B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12036567_10153966649818745_3762140237584842223_n.jpg?oh=b29f5bfefeb8bd56f4a78c04a61c0ac4&oe=5B3E938B
 beer-date: "2016-03-16"
 desc: "An IPA with a sweet finish"
 permalink: /beer/:title.html

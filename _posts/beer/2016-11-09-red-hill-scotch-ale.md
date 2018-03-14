@@ -9,7 +9,7 @@ brewery: "Red Hill Brewery"
 breweryURL: "/brewery/red-hill-brewery.html"
 style: "Scotch Ale / Wee Heavy"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12495170_10153811611453745_4249513101009687446_n.jpg?oh=ee73d3f3086f5d45dec76072162dc18b&oe=5B116E73
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12495170_10153811611453745_4249513101009687446_n.jpg?oh=ddcb35d79d212579a5aaab1e27d31da6&oe=5B38FB73
 beer-date: "2016-01-06"
 desc: "Fizzed for about 10 minutes and then just tasted a little blemished"
 permalink: /beer/:title.html

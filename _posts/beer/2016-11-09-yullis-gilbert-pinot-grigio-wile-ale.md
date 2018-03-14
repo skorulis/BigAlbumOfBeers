@@ -9,7 +9,7 @@ brewery: "Yulli's Brews"
 breweryURL: "/brewery/yullis-brews.html"
 style: "Sour - Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22780691_10155717525693745_586275896309001639_n.jpg?oh=d852df0a0fb7a2bac30bda13b97b12ad&oe=5B0A3F76
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22780691_10155717525693745_586275896309001639_n.jpg?oh=425ef86f8da54b14036051f4688fa3cb&oe=5B31CC76
 beer-date: "2017-10-28"
 desc: "So beautifully sour in a tart way which doesn't linger in the mouth but sits on your lips. Drink it quick because it takes a while for the taste buds to adjust"
 permalink: /beer/:title.html

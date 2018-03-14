@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13241326_10154147277883745_7683110725231850309_n.jpg?oh=4e8a92b4b5e1e5b9f7aaa1056a415c23&oe=5B25C3D2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13241326_10154147277883745_7683110725231850309_n.jpg?oh=6e3d0cd78061ff94e646cb68c8e7be17&oe=5B4D50D2
 beer-date: "2016-05-24"
 desc: "A little bit too stouty and bitter for me but otherwise good"
 permalink: /beer/:title.html

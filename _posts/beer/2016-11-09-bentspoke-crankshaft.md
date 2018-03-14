@@ -9,7 +9,7 @@ brewery: "Bentspoke Brewing Co"
 breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12744268_10153890413753745_5060146557255132828_n.jpg?oh=a1f3dabdd427cdf257c96af781a46a89&oe=5B255099
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12744268_10153890413753745_5060146557255132828_n.jpg?oh=7078b3cb8e52edb3b9d4ce94f0840b49&oe=5B4CDD99
 beer-date: "2016-02-14"
 desc: "Really strong on the hops, just a little too bitter"
 permalink: /beer/:title.html

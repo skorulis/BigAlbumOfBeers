@@ -9,7 +9,7 @@ brewery: "Victory Brewing Company"
 breweryURL: "/brewery/victory-brewing-company.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12072602_10153656863733745_7824943187452200119_n.jpg?oh=c5809db18093005b13d33157584f5aeb&oe=5B07D294
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12072602_10153656863733745_7824943187452200119_n.jpg?oh=037a44ffc39a47a8e219d3ce07c21749&oe=5B2F5F94
 beer-date: "2015-10-17"
 desc: "A pretty average IPA which slightly misses the mark"
 permalink: /beer/:title.html

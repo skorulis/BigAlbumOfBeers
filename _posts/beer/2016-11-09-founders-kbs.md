@@ -9,7 +9,7 @@ brewery: "Founders Brewing Co."
 breweryURL: "/brewery/founders-brewing-co.html"
 style: "Stout - American Imperial / Double"
 score: 9.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18765896_10155251933463745_3047295771730983754_n.jpg?oh=51edbea002032735e454c94f6c64406f&oe=5B1DB4B6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18765896_10155251933463745_3047295771730983754_n.jpg?oh=83a4da3559379959d606b6a11cc27063&oe=5B4541B6
 beer-date: "2017-05-27"
 desc: "Super packed with flavour. The bourbon comes through as well as a huge amount of toastyness. Can't taste the booze at all. Still not worth the price"
 permalink: /beer/:title.html

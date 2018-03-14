@@ -9,7 +9,7 @@ brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
 breweryURL: "/brewery/cerveceria-mexicana-s-de-r-l-de-c-v-tecate.html"
 style: "Red Ale - American Amber / Red"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/67811_10151368077158745_1890584013_n.jpg?oh=15958f2a1e56f5c9d58c10acf98b33fa&oe=5B0727C3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/67811_10151368077158745_1890584013_n.jpg?oh=77ccc6bcbc95b53132a0347418bce623&oe=5B2EB4C3
 beer-date: "2012-12-09"
 desc: "Tastes more like an american beer than a mexican one"
 permalink: /beer/:title.html

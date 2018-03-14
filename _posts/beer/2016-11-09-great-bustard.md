@@ -9,7 +9,7 @@ brewery: "Stonehenge Ales"
 breweryURL: "/brewery/stonehenge-ales.html"
 style: "English Bitter"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/485453_10151694536548745_106155626_n.jpg?oh=b94006985106b1b9fc4e7deb62c54339&oe=5B2470A1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/485453_10151694536548745_106155626_n.jpg?oh=de64099d8754e81bb2a8ae7267808372&oe=5B4BFDA1
 beer-date: "2013-05-25"
 desc: "Black and vomity"
 permalink: /beer/:title.html

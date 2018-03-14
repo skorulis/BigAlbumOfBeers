@@ -9,7 +9,7 @@ brewery: "Magic Hat Brewing Company"
 breweryURL: "/brewery/magic-hat-brewing-company.html"
 style: "Pale Wheat Ale - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14445970_10154470815508745_4236605545443642954_n.jpg?oh=5ed0f51919028c90fb107ee527ab9f46&oe=5B14E8D3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14445970_10154470815508745_4236605545443642954_n.jpg?oh=651eff747593558f3563e0b02effbccc&oe=5B3C75D3
 beer-date: "2016-09-21"
 desc: "Really nice ginger hit"
 permalink: /beer/:title.html

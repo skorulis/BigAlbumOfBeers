@@ -9,7 +9,7 @@ brewery: "Prickly Moses"
 breweryURL: "/brewery/prickly-moses.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11071649_10153438036343745_3147415906093292508_n.jpg?oh=6aa75948c42eda7edbfd7b31d28a2d83&oe=5B095D34
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11071649_10153438036343745_3147415906093292508_n.jpg?oh=39c989e7d540ef811d385082b3d4e0b7&oe=5B30EA34
 beer-date: "2015-07-10"
 desc: "A mild IPA that really hits the spot. Nice floral aroma"
 permalink: /beer/:title.html

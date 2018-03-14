@@ -9,7 +9,7 @@ brewery: "Redbay Brewing Company"
 breweryURL: "/brewery/redbay-brewing-company.html"
 style: "Pale Ale - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14358894_10154470827368745_3712421249999347669_n.jpg?oh=0b7e09ef0418f2e482fdc71c55049d1a&oe=5B1F780B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14358894_10154470827368745_3712421249999347669_n.jpg?oh=65b94ff685166119c89f5d1cad30d8f0&oe=5B47050B
 beer-date: "2016-09-21"
 desc: "Crisp and dry. Very easy drinking, a great pale ale for someone new to beer"
 permalink: /beer/:title.html

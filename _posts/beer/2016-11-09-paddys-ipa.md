@@ -3,6 +3,11 @@ layout: beer
 filename: _posts/beer/2016-11-09-paddys-ipa.md
 title: Paddys IPA
 category: beer
+untappd: "https://untappd.com/b/paddys-brewery-india-pale-ale/754326"
+country: "Australia"
+brewery: "Paddy's Brewery"
+breweryURL: "/brewery/paddys-brewery.html"
+style: "IPA - American"
 score: 5.5
 img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789032_10155717525343745_615996017498045168_n.jpg?oh=5f099fdcc78ea6fbde88e75181a13feb&oe=5B02AB0A
 beer-date: "2017-10-28"

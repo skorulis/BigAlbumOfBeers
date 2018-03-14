@@ -9,7 +9,7 @@ brewery: "Founders Brewing Co."
 breweryURL: "/brewery/founders-brewing-co.html"
 style: "Scottish Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11707850_10153438037263745_7444067883763013637_n.jpg?oh=17fff13d8b25598c1ec9043b48a42f5a&oe=5B125AD0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11707850_10153438037263745_7444067883763013637_n.jpg?oh=e8353cc36ee35a8690c610a8b504cd8a&oe=5B39E7D0
 beer-date: "2015-07-10"
 desc: "A lot of flavour in this beer but it’s not quite right"
 permalink: /beer/:title.html

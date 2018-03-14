@@ -3,11 +3,13 @@ layout: beer
 filename: _posts/beer/2016-11-09-redbay-black-gold-coffee-porter.md
 title: Redbay Black gold coffee porter
 category: beer
+untappd: "https://untappd.com/b/redbay-brewery-cleveland-lighthouse-black-gold/1124843"
 country: "Australia"
-brewery: "Redbay Brewing Company"
-breweryURL: "/brewery/redbay-brewing-company.html"
+brewery: "Redbay Brewery"
+breweryURL: "/brewery/redbay-brewery.html"
+style: "Porter - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14390723_10154470829368745_5229900954620895810_n.jpg?oh=aa8423dd225f795056cb351ec2ab311d&oe=5B125D75
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14390723_10154470829368745_5229900954620895810_n.jpg?oh=c5354813ad0d1487c2dc665d9e480ad2&oe=5B39EA75
 beer-date: "2016-09-21"
 desc: "A nice balance between beer and coffee. Could do with some more sweetness"
 permalink: /beer/:title.html

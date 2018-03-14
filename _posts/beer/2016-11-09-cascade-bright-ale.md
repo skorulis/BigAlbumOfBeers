@@ -9,7 +9,7 @@ brewery: "Cascade Brewery Co. (Australia)"
 breweryURL: "/brewery/cascade-brewery-co-australia.html"
 style: "Pale Ale - Australian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10462761_10152534306183745_7006650351412791308_n.jpg?oh=04f3e4a8d852308d9fc64dd4a8fb4584&oe=5B253B75
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10462761_10152534306183745_7006650351412791308_n.jpg?oh=36932e8efc3c67448a0321a0a04742de&oe=5B4CC875
 beer-date: "2014-06-21"
 desc: "An all round good beer"
 permalink: /beer/:title.html

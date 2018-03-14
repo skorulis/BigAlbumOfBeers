@@ -9,7 +9,7 @@ brewery: "Brewmeister Brewery"
 breweryURL: "/brewery/brewmeister-brewery.html"
 style: "Eisbock"
 score: 0
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1521885_10152147732818745_1092668016_n.jpg?oh=2a64d8052d892c1c02a60a4a654454cf&oe=5B0BC7C3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1521885_10152147732818745_1092668016_n.jpg?oh=d99d3c196629af62304c3501cf5e7e85&oe=5B3354C3
 beer-date: "2013-12-23"
 desc: "Was supposedly the strongest beer in the world but that is a complete lie. This beer is max 20% abv. I've never been lied too this badly in my life"
 permalink: /beer/:title.html

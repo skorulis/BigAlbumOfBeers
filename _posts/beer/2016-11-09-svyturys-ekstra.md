@@ -9,7 +9,7 @@ brewery: "Švyturys"
 breweryURL: "/brewery/svyturys.html"
 style: "Lager - Dortmunder / Export"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1146736_10151860444768745_544406358_n.jpg?oh=7d71c338724953320a7b2b5305861efe&oe=5B10C6FF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1146736_10151860444768745_544406358_n.jpg?oh=444f15e21c9755c76a4e3ccae411d961&oe=5B3853FF
 beer-date: "2013-08-18"
 desc: "So much better than expected considering it's an extra"
 permalink: /beer/:title.html
