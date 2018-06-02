@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Sour - Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13407034_10154200938858745_1959407752907879656_n.jpg?oh=cb6ed2f95630ce263bd0ec7a95d934be&oe=5B4BCA0C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13407034_10154200938858745_1959407752907879656_n.jpg?_nc_cat=0&oh=fdf7af92a09ac28d980a42626af83710&oe=5BC2710C
 beer-date: "2016-06-16"
 desc: "An interesting beer. Could do with a little more hop flavour to go with the sourness but refreshing as it is"
 permalink: /beer/:title.html

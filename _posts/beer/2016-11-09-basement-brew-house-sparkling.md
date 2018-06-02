@@ -9,7 +9,7 @@ brewery: "Basement Brewhouse"
 breweryURL: "/brewery/basement-brewhouse.html"
 style: "Australian Sparkling Ale"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15095095_10154633843283745_1240876872041420459_n.jpg?oh=7d055517193bb683c1d727725b32a98c&oe=5B3A9795
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15095095_10154633843283745_1240876872041420459_n.jpg?_nc_cat=0&oh=9cb2dcb7a94cd2b50f200a9abee96d93&oe=5B89B195
 beer-date: "2016-11-13"
 desc: "Strong on galaxy hops, low on bitterness. Really easy drinking but in no way plain"
 permalink: /beer/:title.html

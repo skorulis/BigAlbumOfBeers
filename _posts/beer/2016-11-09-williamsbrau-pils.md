@@ -9,7 +9,7 @@ brewery: "Willianbrau"
 breweryURL: "/brewery/willianbrau.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19990486_10155413265328745_3862483341813009562_n.jpg?oh=1b3117d3118cef903e63ae5deef7dd34&oe=5B47C41A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19990486_10155413265328745_3862483341813009562_n.jpg?_nc_cat=0&oh=783de72190cf90ddd4fb918d7f94651d&oe=5BBE6B1A
 beer-date: "2017-07-12"
 desc: "Very mild, almost water beer. Good for a cheap easy drinking beer"
 permalink: /beer/:title.html

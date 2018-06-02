@@ -9,7 +9,7 @@ brewery: "Belhaven Brewery"
 breweryURL: "/brewery/belhaven-brewery.html"
 style: "Golden Ale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644743_10151649174378745_793600072_n.jpg?oh=59240f79136474623b2b6f269775e951&oe=5B3E6D97
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644743_10151649174378745_793600072_n.jpg?_nc_cat=0&oh=426e9ac2788cee0230869f58f2706040&oe=5BB51497
 beer-date: "2013-04-27"
 desc: "A mild and average flavour"
 permalink: /beer/:title.html

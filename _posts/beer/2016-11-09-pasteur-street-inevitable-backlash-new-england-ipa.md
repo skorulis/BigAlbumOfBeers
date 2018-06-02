@@ -9,7 +9,7 @@ brewery: "Pasteur Street Brewing Company"
 breweryURL: "/brewery/pasteur-street-brewing-company.html"
 style: "IPA - New England"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27858045_10156021381008745_4984812843090084642_n.jpg?oh=c840e4351848de4610e6b5f3283ffad2&oe=5B40DA05
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27858045_10156021381008745_4984812843090084642_n.jpg?_nc_cat=0&oh=2596bbdf2e6328fea472d1dd16917414&oe=5BB78105
 beer-date: "2018-02-17"
 desc: "Lots of orange flavour, only the bitterness stops it from being a juice"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Hacker-Pschorr"
 breweryURL: "/brewery/hacker-pschorr.html"
 style: "Märzen"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1376515_10152001625798745_1787795583_n.jpg?oh=61373437496cac6a0d3de90d19a244ff&oe=5B3E4D4A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1376515_10152001625798745_1787795583_n.jpg?_nc_cat=0&oh=2695390b968078338ad0a8b1e69f1c2d&oe=5BB4F44A
 beer-date: "2013-10-25"
 desc: "Oktoberfest goodness"
 permalink: /beer/:title.html

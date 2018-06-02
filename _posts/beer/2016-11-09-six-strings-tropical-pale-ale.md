@@ -9,7 +9,7 @@ brewery: "Six String Brewing Company"
 breweryURL: "/brewery/six-string-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27867376_10156021374643745_7404108646896438369_n.jpg?oh=343ae6abfb272d6dafd7b19e583e0195&oe=5B013DB4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27867376_10156021374643745_7404108646896438369_n.jpg?_nc_cat=0&oh=ddfe7ebae61124a86f497a2bc2414714&oe=5B77E4B4
 beer-date: "2018-02-17"
 desc: "Zesty and refreshing. Lots of citrus but really easy to drink"
 permalink: /beer/:title.html

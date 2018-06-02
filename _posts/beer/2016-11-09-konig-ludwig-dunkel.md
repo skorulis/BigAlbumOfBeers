@@ -9,7 +9,7 @@ brewery: "König Ludwig Schlossbrauerei Kaltenberg"
 breweryURL: "/brewery/konig-ludwig-schlossbrauerei-kaltenberg.html"
 style: "Lager - Dunkel Munich"
 score: 4.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19990017_10155413262243745_7654542027229422842_n.jpg?oh=eaa92a8d5882c9266c5a26cac01fe504&oe=5B421605
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19990017_10155413262243745_7654542027229422842_n.jpg?_nc_cat=0&oh=608a29259cc72704594a4052c5875ffb&oe=5BB8BD05
 beer-date: "2017-07-12"
 desc: "Has a strange metallic taste to it. There is a slight stoutiness but it's hard to pick"
 permalink: /beer/:title.html

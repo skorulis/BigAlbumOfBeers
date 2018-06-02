@@ -9,7 +9,7 @@ brewery: "Oskar Blues Brewery"
 breweryURL: "/brewery/oskar-blues-brewery.html"
 style: "Porter - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698475_10155251932593745_3890391583902975734_n.jpg?oh=b72ae0823c0f2bb2b64605fbcb7de631&oe=5B4445A7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698475_10155251932593745_3890391583902975734_n.jpg?_nc_cat=0&oh=ee70ab6174ee2b9d45b620b47075daea&oe=5BBAECA7
 beer-date: "2017-05-27"
 desc: "Not as much coconut as I was expected from the name. I would say there’s actually more vanilla than coconut. It’s nicely smooth, but perhaps a little bit overly sweet. Interesting to try but I’m not rushing for another"
 permalink: /beer/:title.html

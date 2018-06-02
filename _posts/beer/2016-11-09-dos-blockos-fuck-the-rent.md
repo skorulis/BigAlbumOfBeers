@@ -9,7 +9,7 @@ brewery: "East 9th Brewing Co."
 breweryURL: "/brewery/east-9th-brewing-co.html"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18766152_10155251932523745_2170796113322472874_n.jpg?oh=703186f8e62d33ba5a3503caf4e53f08&oe=5B011B36
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18766152_10155251932523745_2170796113322472874_n.jpg?_nc_cat=0&oh=bb3c420a181403b432766f568dfe6b26&oe=5B77C236
 beer-date: "2017-05-27"
 desc: "Really flavourful golden ale full of malty goodness. Not a special beer but a decent staple"
 permalink: /beer/:title.html

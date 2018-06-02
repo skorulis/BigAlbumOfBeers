@@ -9,7 +9,7 @@ brewery: "Panhead Custom Ales"
 breweryURL: "/brewery/panhead-custom-ales.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13239385_10154147273588745_8270989544774283167_n.jpg?oh=a384f3e338b254385a268c936e052dbc&oe=5B49F857
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13239385_10154147273588745_8270989544774283167_n.jpg?_nc_cat=0&oh=88609edf4e00f4f66d87b238a802bdbd&oe=5BC09F57
 beer-date: "2016-05-24"
 desc: "Interesting smell but the taste is covered up too much by the bitterness"
 permalink: /beer/:title.html

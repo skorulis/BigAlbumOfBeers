@@ -1,0 +1,3266 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.365,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.015,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 1248251,
+      "beer_name": "Rotbier",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 5.3,
+      "beer_ibu": 0,
+      "beer_description": "",
+      "beer_style": "Red Ale - American Amber / Red",
+      "is_in_production": 1,
+      "beer_slug": "berliner-marcus-brau-rotbier",
+      "is_homebrew": 0,
+      "created_at": "Thu, 24 Sep 2015 05:17:30 +0000",
+      "rating_count": 160,
+      "rating_score": 3.32656,
+      "stats": {
+        "total_count": 190,
+        "monthly_count": 12,
+        "total_user_count": 183,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 72773,
+        "brewery_name": "Berliner Marcus Bräu",
+        "brewery_slug": "berliner-marcus-br-u",
+        "brewery_type": "Brew Pub",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+        "country_name": "Germany",
+        "contact": {
+          "twitter": "",
+          "facebook": "http://www.facebook.com/MarcusBraeu",
+          "url": "http://www.brau-dein-bier.de/"
+        },
+        "location": {
+          "brewery_city": "Berlin",
+          "brewery_state": "",
+          "lat": 52.524,
+          "lng": 13.4093
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 133616971,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_04/587fef4f433d3cb778da49a77aa590b4_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_04/587fef4f433d3cb778da49a77aa590b4_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_04/587fef4f433d3cb778da49a77aa590b4_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_04/587fef4f433d3cb778da49a77aa590b4_raw.jpeg"
+            },
+            "created_at": "Fri, 04 Aug 2017 22:31:30 +0000",
+            "checkin_id": 486848991,
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 60,
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.327,
+              "rating_count": 160,
+              "count": 160,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3024959,
+              "user_name": "Beeel57",
+              "first_name": "Bill",
+              "last_name": "E",
+              "user_avatar": "https://untappd.akamaized.net/profile/7beec8e25480be2d475505f43a6bb222_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5125984,
+                "venue_name": "Marcus-Bräu",
+                "venue_slug": "marcusbrau",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Berlin",
+                  "venue_state": "Berlin",
+                  "lat": 52.524,
+                  "lng": 13.4094
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "579610f3498ebdaabfbdb774",
+                  "foursquare_url": "http://4sq.com/2adHNMU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 132471359,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_28/be240702d9a2881c877258633c563cd5_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_28/be240702d9a2881c877258633c563cd5_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_28/be240702d9a2881c877258633c563cd5_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_28/be240702d9a2881c877258633c563cd5_raw.jpg"
+            },
+            "created_at": "Fri, 28 Jul 2017 13:45:09 +0000",
+            "checkin_id": 483525452,
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 60,
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.327,
+              "rating_count": 160,
+              "count": 160,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2220703,
+              "user_name": "drca100",
+              "first_name": "daniel",
+              "last_name": "a",
+              "user_avatar": "https://untappd.akamaized.net/profile/ba4764529d94c5f159264b1bd1c3f48d_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5125984,
+                "venue_name": "Marcus-Bräu",
+                "venue_slug": "marcusbrau",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Berlin",
+                  "venue_state": "Berlin",
+                  "lat": 52.524,
+                  "lng": 13.4094
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "579610f3498ebdaabfbdb774",
+                  "foursquare_url": "http://4sq.com/2adHNMU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 131641509,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_22/af879495bef72e10f6b9e679e9d23365_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_22/af879495bef72e10f6b9e679e9d23365_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_22/af879495bef72e10f6b9e679e9d23365_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_22/af879495bef72e10f6b9e679e9d23365_raw.jpeg"
+            },
+            "created_at": "Sat, 22 Jul 2017 11:49:13 +0000",
+            "checkin_id": 481084193,
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 60,
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.327,
+              "rating_count": 160,
+              "count": 160,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3350029,
+              "user_name": "Ferrugen",
+              "first_name": "Lucas",
+              "last_name": "",
+              "user_avatar": "https://gravatar.com/avatar/fd023c8202c4f4efc9df653cda7113c4?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 129661151,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_08/f0fb295f0c970eeb2b643f7563dd7f9e_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_08/f0fb295f0c970eeb2b643f7563dd7f9e_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_08/f0fb295f0c970eeb2b643f7563dd7f9e_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_08/f0fb295f0c970eeb2b643f7563dd7f9e_raw.jpg"
+            },
+            "created_at": "Sat, 08 Jul 2017 08:21:09 +0000",
+            "checkin_id": 475222177,
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 60,
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.327,
+              "rating_count": 160,
+              "count": 160,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3925367,
+              "user_name": "Edelbrauer",
+              "first_name": "Pól",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/e79d45c2f2fa55ef38fb845ee5c960c4_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5125984,
+                "venue_name": "Marcus-Bräu",
+                "venue_slug": "marcusbrau",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Berlin",
+                  "venue_state": "Berlin",
+                  "lat": 52.524,
+                  "lng": 13.4094
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "579610f3498ebdaabfbdb774",
+                  "foursquare_url": "http://4sq.com/2adHNMU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 129359499,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_06/efba6ebdaa823f0604e4f681cd08d6a4_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_06/efba6ebdaa823f0604e4f681cd08d6a4_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_06/efba6ebdaa823f0604e4f681cd08d6a4_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_06/efba6ebdaa823f0604e4f681cd08d6a4_raw.jpg"
+            },
+            "created_at": "Thu, 06 Jul 2017 11:48:37 +0000",
+            "checkin_id": 474334262,
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 60,
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.327,
+              "rating_count": 160,
+              "count": 160,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3456248,
+              "user_name": "SenorDittsche",
+              "first_name": "Dennis",
+              "last_name": "H",
+              "user_avatar": "https://gravatar.com/avatar/f35ad0f01b0a759244bd9653791a1315?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 129294492,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_05/7a33a69e594feabed90d1bd2a7021311_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_05/7a33a69e594feabed90d1bd2a7021311_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_05/7a33a69e594feabed90d1bd2a7021311_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_05/7a33a69e594feabed90d1bd2a7021311_raw.jpg"
+            },
+            "created_at": "Wed, 05 Jul 2017 19:34:28 +0000",
+            "checkin_id": 474127397,
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 60,
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.327,
+              "rating_count": 160,
+              "count": 160,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3765765,
+              "user_name": "Futski",
+              "first_name": "Jakob ",
+              "last_name": "P",
+              "user_avatar": "https://untappd.akamaized.net/profile/8e2512b31b8afb481f7dca017cbbba73_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5125984,
+                "venue_name": "Marcus-Bräu",
+                "venue_slug": "marcusbrau",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Berlin",
+                  "venue_state": "Berlin",
+                  "lat": 52.524,
+                  "lng": 13.4094
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "579610f3498ebdaabfbdb774",
+                  "foursquare_url": "http://4sq.com/2adHNMU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 128412803,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_30/9437d3fd888220991fed8f113e026990_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_06_30/9437d3fd888220991fed8f113e026990_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_30/9437d3fd888220991fed8f113e026990_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_06_30/9437d3fd888220991fed8f113e026990_raw.jpg"
+            },
+            "created_at": "Fri, 30 Jun 2017 13:02:28 +0000",
+            "checkin_id": 471394107,
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 60,
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.327,
+              "rating_count": 160,
+              "count": 160,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3984412,
+              "user_name": "DrWestman",
+              "first_name": "Jonas",
+              "last_name": "W",
+              "user_avatar": "https://gravatar.com/avatar/191ab3314eace80357bb57cdc72fbe4e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5125984,
+                "venue_name": "Marcus-Bräu",
+                "venue_slug": "marcusbrau",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Berlin",
+                  "venue_state": "Berlin",
+                  "lat": 52.524,
+                  "lng": 13.4094
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "579610f3498ebdaabfbdb774",
+                  "foursquare_url": "http://4sq.com/2adHNMU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 127463049,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_23/252bb318e99a3c54078a15f414d64635_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_06_23/252bb318e99a3c54078a15f414d64635_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_23/252bb318e99a3c54078a15f414d64635_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_06_23/252bb318e99a3c54078a15f414d64635_raw.jpg"
+            },
+            "created_at": "Fri, 23 Jun 2017 12:31:51 +0000",
+            "checkin_id": 468495549,
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 60,
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.327,
+              "rating_count": 160,
+              "count": 160,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3432190,
+              "user_name": "bencrites",
+              "first_name": "Ben",
+              "last_name": "C",
+              "user_avatar": "https://gravatar.com/avatar/74c19cbc8d45d03ab81e748b8aa02fef?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 126191247,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_13/decc2d417fd6c5359002eefa201ced25_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_06_13/decc2d417fd6c5359002eefa201ced25_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_13/decc2d417fd6c5359002eefa201ced25_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_06_13/decc2d417fd6c5359002eefa201ced25_raw.jpeg"
+            },
+            "created_at": "Tue, 13 Jun 2017 15:18:06 +0000",
+            "checkin_id": 464628358,
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 60,
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.327,
+              "rating_count": 160,
+              "count": 160,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3731709,
+              "user_name": "StefanieAlexa",
+              "first_name": "Stefanie",
+              "last_name": "F",
+              "user_avatar": "https://gravatar.com/avatar/e9fc5cc012aa3433ddf94ef63fd31f06?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5125984,
+                "venue_name": "Marcus-Bräu",
+                "venue_slug": "marcusbrau",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Berlin",
+                  "venue_state": "Berlin",
+                  "lat": 52.524,
+                  "lng": 13.4094
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "579610f3498ebdaabfbdb774",
+                  "foursquare_url": "http://4sq.com/2adHNMU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 124876987,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_03/d1c1b2b170969ada913ae9a37b268d0c_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_06_03/d1c1b2b170969ada913ae9a37b268d0c_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_03/d1c1b2b170969ada913ae9a37b268d0c_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_06_03/d1c1b2b170969ada913ae9a37b268d0c_raw.jpeg"
+            },
+            "created_at": "Sat, 03 Jun 2017 16:20:32 +0000",
+            "checkin_id": 460474364,
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 60,
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.327,
+              "rating_count": 160,
+              "count": 160,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3815284,
+              "user_name": "Willempy",
+              "first_name": "Willem",
+              "last_name": "v",
+              "user_avatar": "https://untappd.akamaized.net/profile/7cd358b86322414a23968721d80f0104_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5125984,
+                "venue_name": "Marcus-Bräu",
+                "venue_slug": "marcusbrau",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Berlin",
+                  "venue_state": "Berlin",
+                  "lat": 52.524,
+                  "lng": 13.4094
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "579610f3498ebdaabfbdb774",
+                  "foursquare_url": "http://4sq.com/2adHNMU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 486848991,
+            "created_at": "Fri, 04 Aug 2017 22:30:10 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 3024959,
+              "user_name": "Beeel57",
+              "first_name": "Bill",
+              "last_name": "E.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/7beec8e25480be2d475505f43a6bb222_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4465066,
+                  "user": {
+                    "uid": 4465066,
+                    "user_name": "mickyoung",
+                    "first_name": "Mick",
+                    "last_name": "Y.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://gravatar.com/avatar/2e56fec7ff70cbdd7b7d5da17dc6cb89?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 404836332,
+                  "like_owner": false,
+                  "created_at": "Fri, 04 Aug 2017 22:40:13 +0000"
+                },
+                {
+                  "uid": 3024959,
+                  "user": {
+                    "uid": 3024959,
+                    "user_name": "Beeel57",
+                    "first_name": "Bill",
+                    "last_name": "E.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7beec8e25480be2d475505f43a6bb222_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 404829899,
+                  "like_owner": false,
+                  "created_at": "Fri, 04 Aug 2017 22:30:23 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 133616971,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_04/587fef4f433d3cb778da49a77aa590b4_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_04/587fef4f433d3cb778da49a77aa590b4_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_04/587fef4f433d3cb778da49a77aa590b4_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_04/587fef4f433d3cb778da49a77aa590b4_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 486683539,
+            "created_at": "Fri, 04 Aug 2017 18:43:55 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1017838,
+              "user_name": "OnkelP",
+              "first_name": "Peter",
+              "last_name": "T.",
+              "location": "Göteborg",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/a41f0b824edc285e01cad7d7fe94879d?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 34705,
+                  "user_badge_id": 212086898,
+                  "badge_name": "Middle of the Road",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 5 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 2!",
+                  "created_at": "Fri, 04 Aug 2017 18:43:56 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 499,
+                  "user_badge_id": 212086900,
+                  "badge_name": "Das Boot (Level 9)",
+                  "badge_description": "Das sind mindestens 45 deutsche Biere! David Hasselhoff would be proud of you. Prost!\r\n\r\nThat's 45 different German Beers! Try 5 more for Level 10.",
+                  "created_at": "Fri, 04 Aug 2017 18:43:56 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DasBoot16_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DasBoot16_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DasBoot16_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 486577395,
+            "created_at": "Fri, 04 Aug 2017 13:58:03 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1913836,
+              "user_name": "Dhwtyhtp",
+              "first_name": "Emma",
+              "last_name": "G.",
+              "location": "Durham, NC",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/2ad2e144fc758827949addfc2855fd84?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 220311,
+              "venue_name": "Alexanderplatz",
+              "venue_slug": "alexanderplatz",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Plaza",
+                    "category_id": "4bf58dd8d48988d164941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Alexanderstr.",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.5217,
+                "lng": 13.4131
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://de.wikipedia.org/wiki/Alexanderplatz"
+              },
+              "foursquare": {
+                "foursquare_id": "4be5826a78e895219ea964ce",
+                "foursquare_url": "http://4sq.com/adGHVp"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2760,
+                  "user_badge_id": 211998545,
+                  "badge_name": "Das Boot  (Level 14)",
+                  "badge_description": "Das sind mindestens 70 deutsche Biere! David Hasselhoff would be proud of you. Prost!\r\n\r\nThat's 70 different German Beers! Try 5 more for Level 15.",
+                  "created_at": "Fri, 04 Aug 2017 13:58:04 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DasBoot16_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DasBoot16_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DasBoot16_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 486335513,
+            "created_at": "Thu, 03 Aug 2017 22:48:14 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 1914640,
+              "user_name": "fanderssons",
+              "first_name": "Fredrik",
+              "last_name": "A.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/53fc7779f3d54721ae7612d65792f0be?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3810,
+                  "user_badge_id": 211774134,
+                  "badge_name": "Bar Explorer (Level 28)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 140 distinct venues!",
+                  "created_at": "Thu, 03 Aug 2017 22:48:15 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 486150425,
+            "created_at": "Thu, 03 Aug 2017 15:28:06 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 2164947,
+              "user_name": "Enkku",
+              "first_name": "john",
+              "last_name": "d.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/84252fe74f703466303fb95791fa6211?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 3574,
+                  "user_badge_id": 211590763,
+                  "badge_name": "Paint the Town Red (Level 2)",
+                  "badge_description": "Get out there and raise a ruckus with your favorite Amber or Red Ale! That is 10 different beers with the style of American Amber / Red Ale, American Amber / Red Lager, Irish Red Ale or Imperial / Double Red Ale. Try 5 more for Level 3!",
+                  "created_at": "Thu, 03 Aug 2017 15:28:07 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaintRed_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaintRed_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaintRed_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 494,
+                  "user_badge_id": 211590764,
+                  "badge_name": "Das Boot (Level 4)",
+                  "badge_description": "Das sind mindestens 20 deutsche Biere! David Hasselhoff would be proud of you. Prost!\r\n\r\nThat's 20 different German Beers! Try 5 more for Level 5.",
+                  "created_at": "Thu, 03 Aug 2017 15:28:07 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DasBoot16_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DasBoot16_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DasBoot16_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 483673686,
+            "created_at": "Fri, 28 Jul 2017 19:59:21 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 1189030,
+              "user_name": "Louise1972",
+              "first_name": "louise",
+              "last_name": "n.",
+              "location": "Eskilstuna, Sweden",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/26efb6a2728d8ccb629c54153dd70bd5_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 1922675,
+                  "user": {
+                    "uid": 1922675,
+                    "user_name": "Gunilla",
+                    "first_name": "Gunilla",
+                    "last_name": "G.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://gravatar.com/avatar/ca030277077214cd6ff9c88c786b4c04?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 401971341,
+                  "like_owner": false,
+                  "created_at": "Fri, 28 Jul 2017 20:32:48 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3577,
+                  "user_badge_id": 209980409,
+                  "badge_name": "Paint the Town Red (Level 5)",
+                  "badge_description": "Get out there and raise a ruckus with your favorite Amber or Red Ale! That is 25 different beers with the style of American Amber / Red Ale, American Amber / Red Lager, Irish Red Ale or Imperial / Double Red Ale. Try 5 more for Level 6!",
+                  "created_at": "Fri, 28 Jul 2017 19:59:23 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaintRed_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaintRed_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaintRed_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 483525452,
+            "created_at": "Fri, 28 Jul 2017 13:45:08 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 2220703,
+              "user_name": "drca100",
+              "first_name": "daniel",
+              "last_name": "a.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/ba4764529d94c5f159264b1bd1c3f48d_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 132471359,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_28/be240702d9a2881c877258633c563cd5_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_28/be240702d9a2881c877258633c563cd5_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_28/be240702d9a2881c877258633c563cd5_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_28/be240702d9a2881c877258633c563cd5_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 2761,
+                  "user_badge_id": 209873537,
+                  "badge_name": "Das Boot  (Level 15)",
+                  "badge_description": "Das sind mindestens 75 deutsche Biere! David Hasselhoff would be proud of you. Prost!\r\n\r\nThat's 75 different German Beers! Try 5 more for Level 16.",
+                  "created_at": "Fri, 28 Jul 2017 13:45:09 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DasBoot16_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DasBoot16_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DasBoot16_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 361,
+                  "user_badge_id": 209873538,
+                  "badge_name": "Find the Source (Level 7)",
+                  "badge_description": "Everyone loves fresh beer, but obviously not as much as you do. You went straight to the source. \r\n\r\nThat's a beer at 35 different venues categorized as a Brewery. Visit 5 more different ones for Level 8!",
+                  "created_at": "Fri, 28 Jul 2017 13:45:09 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_findSource_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_findSource_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_findSource_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 481302039,
+            "created_at": "Sat, 22 Jul 2017 19:14:35 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 2161241,
+              "user_name": "tomtickler",
+              "first_name": "Tom",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/1b964e9d6c5bbc68f52349c02143469d_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 481123074,
+            "created_at": "Sat, 22 Jul 2017 14:44:35 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 2679465,
+              "user_name": "Mads2k",
+              "first_name": "Mads",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/2366123c64b613c7ce0a52622a9261fe?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 3793,
+                  "user_badge_id": 208251661,
+                  "badge_name": "Bar Explorer (Level 11)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 55 distinct venues!",
+                  "created_at": "Sat, 22 Jul 2017 14:44:36 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3574,
+                  "user_badge_id": 208251662,
+                  "badge_name": "Paint the Town Red (Level 2)",
+                  "badge_description": "Get out there and raise a ruckus with your favorite Amber or Red Ale! That is 10 different beers with the style of American Amber / Red Ale, American Amber / Red Lager, Irish Red Ale or Imperial / Double Red Ale. Try 5 more for Level 3!",
+                  "created_at": "Sat, 22 Jul 2017 14:44:36 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaintRed_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaintRed_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaintRed_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 481084193,
+            "created_at": "Sat, 22 Jul 2017 11:49:02 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 3350029,
+              "user_name": "Ferrugen",
+              "first_name": "Lucas",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/fd023c8202c4f4efc9df653cda7113c4?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 131641509,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_22/af879495bef72e10f6b9e679e9d23365_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_22/af879495bef72e10f6b9e679e9d23365_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_22/af879495bef72e10f6b9e679e9d23365_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_22/af879495bef72e10f6b9e679e9d23365_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5636,
+                  "user_badge_id": 208225750,
+                  "badge_name": "Wheel of Styles (Level 7)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 35 different styles. Try 5 more for Level 8!",
+                  "created_at": "Sat, 22 Jul 2017 11:49:03 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 476416822,
+            "created_at": "Mon, 10 Jul 2017 18:48:27 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 3307469,
+              "user_name": "stwoo77",
+              "first_name": "Simon",
+              "last_name": "W.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/be10a391e9bbd4b9d2e9aa4f6f438446?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 79200,
+                  "user": {
+                    "uid": 79200,
+                    "user_name": "RichBlack",
+                    "first_name": "Rich",
+                    "last_name": "B.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://gravatar.com/avatar/77b08c80d445ed7d62ed359c003eefd2?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 395298466,
+                  "like_owner": false,
+                  "created_at": "Mon, 10 Jul 2017 18:51:46 +0000"
+                },
+                {
+                  "uid": 3305492,
+                  "user": {
+                    "uid": 3305492,
+                    "user_name": "Freedrinkdave",
+                    "first_name": "David",
+                    "last_name": "T.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3bec971cefb50e6157cb1373e2f247f0_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 395298203,
+                  "like_owner": false,
+                  "created_at": "Mon, 10 Jul 2017 18:50:44 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 475421541,
+            "created_at": "Sat, 08 Jul 2017 18:49:34 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 701678,
+              "user_name": "sbmitschke",
+              "first_name": "Stephen",
+              "last_name": "M.",
+              "location": "Austin, TX",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/1968c8f7107465d9585bee6e595f87d4?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 475222177,
+            "created_at": "Sat, 08 Jul 2017 08:21:01 +0000",
+            "checkin_comment": "Flat, warm and forgetful.",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 3925367,
+              "user_name": "Edelbrauer",
+              "first_name": "Pól",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/e79d45c2f2fa55ef38fb845ee5c960c4_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 129661151,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_08/f0fb295f0c970eeb2b643f7563dd7f9e_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_08/f0fb295f0c970eeb2b643f7563dd7f9e_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_08/f0fb295f0c970eeb2b643f7563dd7f9e_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_08/f0fb295f0c970eeb2b643f7563dd7f9e_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 1819,
+                  "user_badge_id": 204368765,
+                  "badge_name": "Photogenic Brew  (Level 33)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 165 check-ins with a photo. ",
+                  "created_at": "Sat, 08 Jul 2017 13:21:01 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3574,
+                  "user_badge_id": 204368766,
+                  "badge_name": "Paint the Town Red (Level 2)",
+                  "badge_description": "Get out there and raise a ruckus with your favorite Amber or Red Ale! That is 10 different beers with the style of American Amber / Red Ale, American Amber / Red Lager, Irish Red Ale or Imperial / Double Red Ale. Try 5 more for Level 3!",
+                  "created_at": "Sat, 08 Jul 2017 13:21:01 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaintRed_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaintRed_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaintRed_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 474334262,
+            "created_at": "Thu, 06 Jul 2017 11:48:27 +0000",
+            "checkin_comment": "Süffig, durchschnittlich",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 3456248,
+              "user_name": "SenorDittsche",
+              "first_name": "Dennis",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/f35ad0f01b0a759244bd9653791a1315?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 129359499,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_06/efba6ebdaa823f0604e4f681cd08d6a4_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_06/efba6ebdaa823f0604e4f681cd08d6a4_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_06/efba6ebdaa823f0604e4f681cd08d6a4_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_06/efba6ebdaa823f0604e4f681cd08d6a4_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 6179,
+                  "user_badge_id": 203766443,
+                  "badge_name": "Cheers To You!",
+                  "badge_description": "Happy Untappd anniversary to you! Thanks for sticking around and drinking socially with us. Cheers! That's 1 year on Untappd!",
+                  "created_at": "Thu, 06 Jul 2017 16:48:27 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HeresToYou_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HeresToYou_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HeresToYou_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 474127397,
+            "created_at": "Wed, 05 Jul 2017 19:34:15 +0000",
+            "checkin_comment": "Super Lækker red ale. Fed malt, let lakridsagtig.",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 3765765,
+              "user_name": "Futski",
+              "first_name": "Jakob ",
+              "last_name": "P.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/8e2512b31b8afb481f7dca017cbbba73_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1248251,
+              "beer_name": "Rotbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "berliner-marcus-brau-rotbier",
+              "beer_description": "",
+              "beer_style": "Red Ale - American Amber / Red",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 72773,
+              "brewery_name": "Berliner Marcus Bräu",
+              "brewery_slug": "berliner-marcus-br-u",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BistroKneipe_72773_af31f.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/MarcusBraeu",
+                "url": "http://www.brau-dein-bier.de/"
+              },
+              "location": {
+                "brewery_city": "Berlin",
+                "brewery_state": "",
+                "lat": 52.524,
+                "lng": 13.4093
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5125984,
+              "venue_name": "Marcus-Bräu",
+              "venue_slug": "marcusbrau",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.524,
+                "lng": 13.4094
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "579610f3498ebdaabfbdb774",
+                "foursquare_url": "http://4sq.com/2adHNMU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2623249,
+                  "user": {
+                    "uid": 2623249,
+                    "user_name": "emi21",
+                    "first_name": "Emilia",
+                    "last_name": "C.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/742bd2881a18f9ecbe66ce15b497f8f4_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 393924245,
+                  "like_owner": false,
+                  "created_at": "Fri, 07 Jul 2017 20:29:25 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 129294492,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_05/7a33a69e594feabed90d1bd2a7021311_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_05/7a33a69e594feabed90d1bd2a7021311_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_05/7a33a69e594feabed90d1bd2a7021311_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_05/7a33a69e594feabed90d1bd2a7021311_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/1248251?min_id=486848991",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/1248251?max_id=474127397",
+          "max_id": 474127397
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.8,
+            "beer": {
+              "bid": 487261,
+              "beer_name": "Wisco Disco -- Citra Dry Hop - Firkin BAHS",
+              "beer_abv": 5.1,
+              "beer_ibu": 47,
+              "beer_slug": "stillmank-brewing-company-wisco-disco-citra-dry-hop-firkin-bahs",
+              "beer_style": "Red Ale - American Amber / Red",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-_487261_sm_96c6eda43c323ab3e55843e3856f24.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 30233,
+              "brewery_name": "Stillmank Brewing Company",
+              "brewery_slug": "stillmank-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-stillmankbrewingcompany_30233.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "wiscodiscobeer",
+                "facebook": "http://www.facebook.com/StillmankBeerCompany",
+                "instagram": "stillmankbrewing",
+                "url": "https://www.stillmankbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "Green Bay",
+                "brewery_state": "WI",
+                "lat": 44.5045,
+                "lng": -87.9784
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.56818,
+            "beer": {
+              "bid": 1380710,
+              "beer_name": "Hoi Polloi Diablo Red Ale",
+              "beer_abv": 5.6,
+              "beer_ibu": 30,
+              "beer_slug": "hoi-polloi-brewing-hoi-polloi-diablo-red-ale",
+              "beer_style": "Red Ale - American Amber / Red",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 131610,
+              "brewery_name": "Hoi Polloi Brewing",
+              "brewery_slug": "hoi-polloi-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-131610_43b43.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "hoipolloibrew",
+                "facebook": "https://www.facebook.com/hoipolloibrewpub",
+                "instagram": "hoipolloibrewing",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Berkeley",
+                "brewery_state": "CA",
+                "lat": 37.8489,
+                "lng": -122.272
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.54545,
+            "beer": {
+              "bid": 277949,
+              "beer_name": "Amethyst Amber",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "sleeping-giant-brewing-co-amethyst-amber",
+              "beer_style": "Red Ale - American Amber / Red",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3915,
+              "brewery_name": "Sleeping Giant Brewing Co.",
+              "brewery_slug": "sleeping-giant-brewing-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3915_51026.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "sleepgiantbrew",
+                "facebook": "http://www.facebook.com/SleepingGiantBrewingCo",
+                "instagram": "",
+                "url": "http://www.sleepinggiantbrewing.ca/"
+              },
+              "location": {
+                "brewery_city": "Thunder Bay",
+                "brewery_state": "ON",
+                "lat": 48.4092,
+                "lng": -89.2562
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.53846,
+            "beer": {
+              "bid": 1325511,
+              "beer_name": "Twisted Amber",
+              "beer_abv": 5.4,
+              "beer_ibu": 45,
+              "beer_slug": "flounder-brewing-co-twisted-amber",
+              "beer_style": "Red Ale - American Amber / Red",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1325511_1e7c6_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 32344,
+              "brewery_name": "Flounder Brewing Co",
+              "brewery_slug": "flounder-brewing-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32344_1af81.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "flounderbrewing",
+                "facebook": "http://facebook.com/flounderbrewing",
+                "instagram": "flounderbrewing",
+                "url": "http://www.flounderbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Hillsborough",
+                "brewery_state": "NJ",
+                "lat": 40.4905,
+                "lng": -74.644
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.5,
+            "beer": {
+              "bid": 385464,
+              "beer_name": "Wisco Disco (Dry Hopped w/ Citra)",
+              "beer_abv": 5.1,
+              "beer_ibu": 47,
+              "beer_slug": "stillmank-beer-company-wisco-disco-dry-hopped-w-citra",
+              "beer_style": "Red Ale - American Amber / Red",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-_385464_sm_ba9ad4d6319da2e344415604c35f85.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 30233,
+              "brewery_name": "Stillmank Brewing Company",
+              "brewery_slug": "stillmank-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-stillmankbrewingcompany_30233.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "wiscodiscobeer",
+                "facebook": "http://www.facebook.com/StillmankBeerCompany",
+                "instagram": "stillmankbrewing",
+                "url": "https://www.stillmankbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "Green Bay",
+                "brewery_state": "WI",
+                "lat": 44.5045,
+                "lng": -87.9784
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.5395,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

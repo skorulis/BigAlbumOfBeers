@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.45,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.011,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 291,
+      "brewery_name": "Brouwerij Rodenbach",
+      "brewery_slug": "brouwerij-rodenbach",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-291_86d0e.jpeg",
+      "country_name": "Belgium",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "palmbreweries",
+        "follow_status": false,
+        "follower_count": 19889,
+        "uid": 118109,
+        "mute_status": "none"
+      },
+      "beer_count": 19,
+      "contact": {
+        "twitter": "rodenbachbeer",
+        "facebook": "http://www.facebook.com/rodenbachbeer",
+        "instagram": "rodenbachbeer",
+        "url": "http://www.rodenbach.be"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "Spanjestraat 133",
+        "brewery_city": "Roeselare",
+        "brewery_state": "West-Vlaanderen",
+        "brewery_lat": 50.946,
+        "brewery_lng": 3.1381
+      },
+      "rating": {
+        "count": 263398,
+        "rating_score": 3.926
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 361921,
+        "unique_count": 174590,
+        "monthly_count": 8021,
+        "weekly_count": 1991,
+        "user_count": 0,
+        "age_on_service": 2465.4547337962963
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 967,
+            "is_brewery_group": 0,
+            "brewery_name": "Brouwerij Palm"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 107243,
+              "venue_name": "Brouwerij Rodenbach",
+              "venue_slug": "brouwerij-rodenbach",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Spanjestraat 133",
+                "venue_city": "Roeselare",
+                "venue_state": "West-Vlaanderen",
+                "venue_country": "België",
+                "lat": 50.9462,
+                "lng": 3.13756
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.rodenbach.be"
+              },
+              "foursquare": {
+                "foursquare_id": "4bd41010a8b3a593123d6b5f",
+                "foursquare_url": "http://4sq.com/9xo0T8"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

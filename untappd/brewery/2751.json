@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.359,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.01,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 2751,
+      "brewery_name": "Birra Castello",
+      "brewery_slug": "birra-castello",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirraCastellodiUdine_2751.jpeg",
+      "country_name": "Italy",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": false,
+        "claimed_slug": "",
+        "follow_status": false,
+        "follower_count": 0,
+        "uid": 0,
+        "mute_status": "none"
+      },
+      "beer_count": 45,
+      "contact": {
+        "twitter": "birracastello",
+        "facebook": "http://www.facebook.com/BirraCastello",
+        "instagram": "",
+        "url": "http://www.birracastello.it"
+      },
+      "brewery_type": "Macro Brewery",
+      "brewery_type_id": 1,
+      "location": {
+        "brewery_address": "Via Enrico Fermi 42",
+        "brewery_city": "33058 San Giorgio di Nogaro",
+        "brewery_state": "UD",
+        "brewery_lat": 45.8227,
+        "brewery_lng": 13.2746
+      },
+      "rating": {
+        "count": 11050,
+        "rating_score": 2.793
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 13829,
+        "unique_count": 10228,
+        "monthly_count": 960,
+        "weekly_count": 273,
+        "user_count": 0,
+        "age_on_service": 2452.3059722222224
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 2019512,
+              "venue_name": "Birra Castello",
+              "venue_slug": "birra-castello",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Via Enrico Fermi 42",
+                "venue_city": "San Giorgio di Nogaro",
+                "venue_state": "Friuli Venezia Giulia",
+                "venue_country": "Italia",
+                "lat": 45.7953,
+                "lng": 13.2267
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.birracastello.it"
+              },
+              "foursquare": {
+                "foursquare_id": "4ca51e1db7106dcb13bb51a5",
+                "foursquare_url": "http://4sq.com/dixVzX"
+              },
+              "venue_icon": {
+                "sm": "https://ss1.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss1.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss1.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

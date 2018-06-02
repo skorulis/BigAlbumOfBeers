@@ -9,7 +9,7 @@ brewery: "Oskar Blues Brewery"
 breweryURL: "/brewery/oskar-blues-brewery.html"
 style: "Lager - Vienna"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17903522_10155111578178745_2236783876327836617_n.jpg?oh=5a47ad47c11a61b67b3c60eaa3c0dda2&oe=5B3074BA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17903522_10155111578178745_2236783876327836617_n.jpg?_nc_cat=0&oh=1d434cc7fe11052618c31315a35d70a8&oe=5B7F8EBA
 beer-date: "2017-04-11"
 desc: "Expected something light and tasteless. It’s actually quite malty and full of flavour. Still not exciting enough to bring me back"
 permalink: /beer/:title.html

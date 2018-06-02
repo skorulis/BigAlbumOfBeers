@@ -9,7 +9,7 @@ brewery: "Golden Road Brewing"
 breweryURL: "/brewery/golden-road-brewing.html"
 style: "IPA - Triple"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16831997_10154957442543745_3868732408476457752_n.jpg?oh=37c60a9dd578c67f1aa643c6f57bb6e0&oe=5B339F48
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16831997_10154957442543745_3868732408476457752_n.jpg?_nc_cat=0&oh=77602a4f75d6cb0e1ffc9c9c9face9cb&oe=5B82B948
 beer-date: "2017-02-22"
 desc: "Surprisingly smooth. Not actually that bitter. It's amazing when you can knock off this amount of booze and still feel like it's a fresh beer"
 permalink: /beer/:title.html

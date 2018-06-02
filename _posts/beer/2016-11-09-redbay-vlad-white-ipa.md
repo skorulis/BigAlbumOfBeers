@@ -9,7 +9,7 @@ brewery: "Redbay Brewery"
 breweryURL: "/brewery/redbay-brewery.html"
 style: "IPA - White"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14355084_10154470829398745_6813450556520253908_n.jpg?oh=4fa092cbb3e22a057dd7469f4d15d02f&oe=5B47838F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14355084_10154470829398745_6813450556520253908_n.jpg?_nc_cat=0&oh=a7cd8f067c314e38d8f2ca763f8ccd42&oe=5BBE2A8F
 beer-date: "2016-09-21"
 desc: "The hops cut through what I normally dislike in a wheat beer. Nicely aromatic and not too bitter"
 permalink: /beer/:title.html

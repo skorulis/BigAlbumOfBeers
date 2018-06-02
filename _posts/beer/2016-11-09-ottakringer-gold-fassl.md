@@ -9,7 +9,7 @@ brewery: "Ottakringer Brauerei"
 breweryURL: "/brewery/ottakringer-brauerei.html"
 style: "Lager - Dunkel Munich"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19113808_10155314455813745_2962940784884298388_n.jpg?oh=2e28d184336311d9eca8ad6557a8b9fb&oe=5B3911D8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19113808_10155314455813745_2962940784884298388_n.jpg?_nc_cat=0&oh=aeba1ab8baf0184d91f273c80a0dfd0b&oe=5B882BD8
 beer-date: "2017-06-15"
 desc: "Sweet and a little malty"
 permalink: /beer/:title.html

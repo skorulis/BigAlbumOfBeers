@@ -9,7 +9,7 @@ brewery: "Galway Hooker Brewery"
 breweryURL: "/brewery/galway-hooker-brewery.html"
 style: "Pale Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542152_10151428526223745_595487151_n.jpg?oh=8e29d02acf587695a832558d043fc4ff&oe=5B4DFA9D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/542152_10151428526223745_595487151_n.jpg?_nc_cat=0&oh=efa8e908c1349f9ebd80f7cd13afcd33&oe=5BC4A19D
 beer-date: "2013-01-13"
 desc: "A little bit off"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Fixation Brewing Co"
 breweryURL: "/brewery/fixation-brewing-co.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16196006_10154858212143745_7484622789742011688_n.jpg?oh=7c525e040df1348e9d558e641f356cb4&oe=5B3E9263
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16196006_10154858212143745_7484622789742011688_n.jpg?_nc_cat=0&oh=ee59e691d934a354ac78944cd1d8f22e&oe=5BB53963
 beer-date: "2017-01-21"
 desc: "Really floral hop profile. Not nearly as big as I expected from the description but it's a nice balance that I could drink a few of"
 permalink: /beer/:title.html

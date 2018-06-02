@@ -9,7 +9,7 @@ brewery: "Pivovar v Hurbanove"
 breweryURL: "/brewery/pivovar-v-hurbanove.html"
 style: "Pilsner - Czech"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1507155_10152147733883745_1859906756_n.jpg?oh=2ba786a1efb80ab20675909c81d3ca59&oe=5B3B77D8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1507155_10152147733883745_1859906756_n.jpg?_nc_cat=0&oh=33b9052ad098312e5864597aca2c9524&oe=5B8A91D8
 beer-date: "2013-12-23"
 desc: "A tasteless Slovakian lager"
 permalink: /beer/:title.html

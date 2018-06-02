@@ -9,7 +9,7 @@ brewery: "Brouwerij Palm"
 breweryURL: "/brewery/brouwerij-palm.html"
 style: "Pale Ale - Belgian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12742633_10153890416108745_3638813966682726331_n.jpg?oh=5173632126bc482f4626ee88c49a6b50&oe=5B4799ED
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12742633_10153890416108745_3638813966682726331_n.jpg?_nc_cat=0&oh=b6358fd451c8c23cfcbb5bae31278272&oe=5BBE40ED
 beer-date: "2016-02-14"
 desc: "I expected more, there's a slight metallic taste which shouldn't be in a nice beer"
 permalink: /beer/:title.html

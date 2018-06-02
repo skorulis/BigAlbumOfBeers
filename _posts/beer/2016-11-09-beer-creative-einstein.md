@@ -9,7 +9,7 @@ brewery: "Beer Creative"
 breweryURL: "/brewery/beer-creative.html"
 style: "Schwarzbier"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18699975_10155251932773745_5479720467969386451_n.jpg?oh=5e52bf1ada205b7a2b36e6008b247e30&oe=5B3E96FE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18699975_10155251932773745_5479720467969386451_n.jpg?_nc_cat=0&oh=f39cccefe2c87d8c1cbffa6c02e9933c&oe=5BB53DFE
 beer-date: "2017-05-27"
 desc: "Mostly malt driven. A little bit of a roasted flavour. It's decent but not that exciting, quite easy to drink though"
 permalink: /beer/:title.html

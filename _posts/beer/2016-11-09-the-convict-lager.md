@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/526421_10151602285463745_410487487_n.jpg?oh=2081c5e1ed5cb138185e5c27b4f4c8a5&oe=5B3CB3AC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/526421_10151602285463745_410487487_n.jpg?_nc_cat=0&oh=8c7dabe7c24edc9400cfe6ff925bf4ce&oe=5BB35AAC
 beer-date: "2013-03-28"
 desc: ""
 permalink: /beer/:title.html

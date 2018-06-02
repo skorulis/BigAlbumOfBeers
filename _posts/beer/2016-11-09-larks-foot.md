@@ -9,7 +9,7 @@ brewery: "Sail & Anchor"
 breweryURL: "/brewery/sail-anchor.html"
 style: "Golden Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10055_10151602300248745_313412556_n.jpg?oh=202438d7618df6566cb546a98628bc7f&oe=5B49B5FB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10055_10151602300248745_313412556_n.jpg?_nc_cat=0&oh=facafd464e8d1881a6977e22ddebd85a&oe=5BC05CFB
 beer-date: "2013-03-28"
 desc: "Pretty average"
 permalink: /beer/:title.html

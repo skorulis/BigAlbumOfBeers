@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.604,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.014,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 2351,
+      "brewery_name": "The Little Brewing Company",
+      "brewery_slug": "the-little-brewing-company",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-TheLittleBrewingCompany_2351.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "thelittlebrewingcompany",
+        "follow_status": false,
+        "follower_count": 1011,
+        "uid": 181121,
+        "mute_status": "none"
+      },
+      "beer_count": 17,
+      "contact": {
+        "twitter": "LittleBrewingCo",
+        "facebook": "http://www.facebook.com/thelittlebrewingcompany",
+        "instagram": "thelittlebrewingco",
+        "url": "http://www.thelittlebrewingcompany.com.au"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "58 Uralla Road",
+        "brewery_city": "Port Macquarie",
+        "brewery_state": "NSW",
+        "brewery_lat": -31.4561,
+        "brewery_lng": 152.883
+      },
+      "rating": {
+        "count": 10830,
+        "rating_score": 3.709
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 15345,
+        "unique_count": 5355,
+        "monthly_count": 237,
+        "weekly_count": 59,
+        "user_count": 0,
+        "age_on_service": 2458.669861111111
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 431148,
+              "venue_name": "The Little Brewing Company",
+              "venue_slug": "the-little-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Uralla Road",
+                "venue_city": "Port Macquarie",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -31.4563,
+                "lng": 152.883
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4c92dfbe6cfea09355c8b58b",
+                "foursquare_url": "http://4sq.com/b1uEZs"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

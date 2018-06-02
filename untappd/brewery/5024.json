@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.449,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.01,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 5024,
+      "brewery_name": "Fabbrica di Pedavena",
+      "brewery_slug": "fabbrica-di-pedavena",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-FabbricadiPedavena_5024.jpeg",
+      "country_name": "Italy",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": false,
+        "claimed_slug": "",
+        "follow_status": false,
+        "follower_count": 0,
+        "uid": 0,
+        "mute_status": "none"
+      },
+      "beer_count": 37,
+      "contact": {
+        "twitter": "",
+        "facebook": "http://www.facebook.com/Fabbrica.di.Pedavena",
+        "instagram": "",
+        "url": "www.fabbricadipedavena.it"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "Viale Vittorio Veneto 78",
+        "brewery_city": "32034 Pedavena",
+        "brewery_state": "BL",
+        "brewery_lat": 46.0378,
+        "brewery_lng": 11.8817
+      },
+      "rating": {
+        "count": 11110,
+        "rating_score": 3.025
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 13698,
+        "unique_count": 8960,
+        "monthly_count": 980,
+        "weekly_count": 319,
+        "user_count": 0,
+        "age_on_service": 2411.255798611111
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 2751,
+            "is_brewery_group": 0,
+            "brewery_name": "Birra Castello"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 2216855,
+              "venue_name": "Fabbrica di Pedavena",
+              "venue_slug": "fabbrica-di-pedavena",
+              "primary_category": "Professional & Other Places",
+              "parent_category_id": "4d4b7105d754a06375d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Factory",
+                    "category_id": "4eb1bea83b7b6f98df247e06",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Viale Vittorio Veneto, 78",
+                "venue_city": "Pedavena",
+                "venue_state": "Veneto",
+                "venue_country": "Italia",
+                "lat": 46.0343,
+                "lng": 11.8847
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.fabbricadipedavena.it"
+              },
+              "foursquare": {
+                "foursquare_id": "4ff96f2ee4b0a7f7418b46f0",
+                "foursquare_url": "http://4sq.com/MN1mtH"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/factory_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/factory_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/factory_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

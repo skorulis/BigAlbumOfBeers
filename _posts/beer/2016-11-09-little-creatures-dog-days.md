@@ -9,7 +9,7 @@ brewery: "Little Creatures Brewing"
 breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717186_10153890415423745_6451428281725925044_n.jpg?oh=86e75c03aa631d3ed381498a3808636c&oe=5B2F2B32
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717186_10153890415423745_6451428281725925044_n.jpg?_nc_cat=0&oh=79b68155b871bb4b4156f0dfb673dd24&oe=5B7E4532
 beer-date: "2016-02-14"
 desc: "Surprisingly flavourful for a summer beer. Nice little tang to it"
 permalink: /beer/:title.html

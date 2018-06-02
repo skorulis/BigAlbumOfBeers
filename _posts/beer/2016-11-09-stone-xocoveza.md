@@ -9,7 +9,7 @@ brewery: "Stone Brewing"
 breweryURL: "/brewery/stone-brewing.html"
 style: "Stout - Imperial Milk / Sweet"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19247722_10155314453598745_5964314215318845264_n.jpg?oh=4d6429ed369837e2d5d5fb5bb59131bf&oe=5B427462
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19247722_10155314453598745_5964314215318845264_n.jpg?_nc_cat=0&oh=caa9245bf77198714d8ea2b1aaca9443&oe=5BB91B62
 beer-date: "2017-06-15"
 desc: "Has a very strange taste. Apart from the bitterness it’s not much like a beer at all. It’s pretty good but not something I would go back for"
 permalink: /beer/:title.html

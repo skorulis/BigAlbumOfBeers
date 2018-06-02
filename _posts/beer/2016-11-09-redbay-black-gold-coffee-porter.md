@@ -9,7 +9,7 @@ brewery: "Redbay Brewery"
 breweryURL: "/brewery/redbay-brewery.html"
 style: "Porter - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14390723_10154470829368745_5229900954620895810_n.jpg?oh=c5354813ad0d1487c2dc665d9e480ad2&oe=5B39EA75
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14390723_10154470829368745_5229900954620895810_n.jpg?_nc_cat=0&oh=f603336b8a0df5dbc85de23e83cf5a22&oe=5B890475
 beer-date: "2016-09-21"
 desc: "A nice balance between beer and coffee. Could do with some more sweetness"
 permalink: /beer/:title.html

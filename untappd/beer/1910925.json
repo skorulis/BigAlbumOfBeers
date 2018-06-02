@@ -1,0 +1,3451 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.138,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 1910925,
+      "beer_name": "Pomelo IPA",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 7,
+      "beer_ibu": 0,
+      "beer_description": "",
+      "beer_style": "IPA - American",
+      "is_in_production": 1,
+      "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+      "is_homebrew": 0,
+      "created_at": "Mon, 16 Jan 2017 14:46:27 +0000",
+      "rating_count": 600,
+      "rating_score": 3.58375,
+      "stats": {
+        "total_count": 733,
+        "monthly_count": 63,
+        "total_user_count": 692,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 181244,
+        "brewery_name": "Pasteur Street Brewing Company",
+        "brewery_slug": "pasteur-street-brewing-company",
+        "brewery_type": "Micro Brewery",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+        "country_name": "Vietnam",
+        "contact": {
+          "twitter": "",
+          "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+          "url": "http://pasteurstreet.com"
+        },
+        "location": {
+          "brewery_city": "Ho Chi Minh City",
+          "brewery_state": "",
+          "lat": 10.7748,
+          "lng": 106.701
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 159685725,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_15/10d9fe393d87008d4cbe2f6c7698c88c_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_15/10d9fe393d87008d4cbe2f6c7698c88c_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_15/10d9fe393d87008d4cbe2f6c7698c88c_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_15/10d9fe393d87008d4cbe2f6c7698c88c_raw.jpg"
+            },
+            "created_at": "Thu, 15 Feb 2018 11:15:07 +0000",
+            "checkin_id": 562021434,
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.584,
+              "rating_count": 600,
+              "count": 600,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3960188,
+              "user_name": "gmrpinfold",
+              "first_name": "Geoff Riley",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/650a0838aadc3902b841e0567ee00cfc_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5585325,
+                "venue_name": "Pasteur Street Brewing Company",
+                "venue_slug": "pasteur-street-brewing-company",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Hà Nội",
+                  "venue_state": "Thành Phố Hà Nội",
+                  "lat": 21.0286,
+                  "lng": 105.848
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://pasteurstreet.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "581ec0238d169071e5eb60ec",
+                  "foursquare_url": "http://4sq.com/2f65B7h"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 159596358,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_14/365dd3030c34b05dcecb2f0fab6fc517_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_14/365dd3030c34b05dcecb2f0fab6fc517_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_14/365dd3030c34b05dcecb2f0fab6fc517_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_14/365dd3030c34b05dcecb2f0fab6fc517_raw.jpeg"
+            },
+            "created_at": "Wed, 14 Feb 2018 14:48:06 +0000",
+            "checkin_id": 561775133,
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.584,
+              "rating_count": 600,
+              "count": 600,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5037308,
+              "user_name": "TobzZero90",
+              "first_name": "Tobias",
+              "last_name": "R",
+              "user_avatar": "https://gravatar.com/avatar/587f8dbe9194265c712e2200414d2b4a?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 159440581,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_12/51082c2192646035132512f37b75f269_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_12/51082c2192646035132512f37b75f269_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_12/51082c2192646035132512f37b75f269_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_12/51082c2192646035132512f37b75f269_raw.jpeg"
+            },
+            "created_at": "Mon, 12 Feb 2018 12:05:09 +0000",
+            "checkin_id": 561344748,
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.584,
+              "rating_count": 600,
+              "count": 600,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3777683,
+              "user_name": "parichino",
+              "first_name": "Karl",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/8303a31b1b74330384dd9b4fa9956237_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2485343,
+                "venue_name": "Pasteur Street Brewing Company",
+                "venue_slug": "pasteur-street-brewing-company",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "144 Pasteur",
+                  "venue_city": "Quận 1",
+                  "venue_state": "Tp. Hồ Chí Minh",
+                  "lat": 10.775,
+                  "lng": 106.701
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://pasteurstreet.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "54a92801498e9a30915fdc11",
+                  "foursquare_url": "http://4sq.com/1tIRnME"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 159438971,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_12/087189866044d6753ec73164e170b4db_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_12/087189866044d6753ec73164e170b4db_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_12/087189866044d6753ec73164e170b4db_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_12/087189866044d6753ec73164e170b4db_raw.jpg"
+            },
+            "created_at": "Mon, 12 Feb 2018 09:55:54 +0000",
+            "checkin_id": 561341166,
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.584,
+              "rating_count": 600,
+              "count": 600,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3687736,
+              "user_name": "thirstyz",
+              "first_name": "joe",
+              "last_name": "z",
+              "user_avatar": "https://untappd.akamaized.net/profile/28f11dafcc464c9153201690e2eb5c48_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2485343,
+                "venue_name": "Pasteur Street Brewing Company",
+                "venue_slug": "pasteur-street-brewing-company",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "144 Pasteur",
+                  "venue_city": "Quận 1",
+                  "venue_state": "Tp. Hồ Chí Minh",
+                  "lat": 10.775,
+                  "lng": 106.701
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://pasteurstreet.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "54a92801498e9a30915fdc11",
+                  "foursquare_url": "http://4sq.com/1tIRnME"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 159106376,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_10/6455da75df0490321743835caa30136c_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_10/6455da75df0490321743835caa30136c_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_10/6455da75df0490321743835caa30136c_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_10/6455da75df0490321743835caa30136c_raw.jpeg"
+            },
+            "created_at": "Sat, 10 Feb 2018 16:06:06 +0000",
+            "checkin_id": 560350594,
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.584,
+              "rating_count": 600,
+              "count": 600,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4373851,
+              "user_name": "RoelEgberts",
+              "first_name": "Roel",
+              "last_name": "E",
+              "user_avatar": "https://untappd.akamaized.net/profile/2160866cb5d81c77d24c3bebc007ca47_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2485343,
+                "venue_name": "Pasteur Street Brewing Company",
+                "venue_slug": "pasteur-street-brewing-company",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "144 Pasteur",
+                  "venue_city": "Quận 1",
+                  "venue_state": "Tp. Hồ Chí Minh",
+                  "lat": 10.775,
+                  "lng": 106.701
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://pasteurstreet.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "54a92801498e9a30915fdc11",
+                  "foursquare_url": "http://4sq.com/1tIRnME"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 159091723,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_10/231f3dd3ec6a1a7f6f1879e6402885ed_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_10/231f3dd3ec6a1a7f6f1879e6402885ed_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_10/231f3dd3ec6a1a7f6f1879e6402885ed_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_10/231f3dd3ec6a1a7f6f1879e6402885ed_raw.jpeg"
+            },
+            "created_at": "Sat, 10 Feb 2018 13:41:49 +0000",
+            "checkin_id": 560318074,
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.584,
+              "rating_count": 600,
+              "count": 600,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3111924,
+              "user_name": "Pedro_Dilo",
+              "first_name": "Pierre",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/cb29ad2b8b30bdc8386a3cb1c46d98d2_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2485343,
+                "venue_name": "Pasteur Street Brewing Company",
+                "venue_slug": "pasteur-street-brewing-company",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "144 Pasteur",
+                  "venue_city": "Quận 1",
+                  "venue_state": "Tp. Hồ Chí Minh",
+                  "lat": 10.775,
+                  "lng": 106.701
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://pasteurstreet.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "54a92801498e9a30915fdc11",
+                  "foursquare_url": "http://4sq.com/1tIRnME"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 159090902,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_10/04b58a94095dd523dd254e8eea585954_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_10/04b58a94095dd523dd254e8eea585954_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_10/04b58a94095dd523dd254e8eea585954_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_10/04b58a94095dd523dd254e8eea585954_raw.jpeg"
+            },
+            "created_at": "Sat, 10 Feb 2018 13:30:12 +0000",
+            "checkin_id": 560316126,
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.584,
+              "rating_count": 600,
+              "count": 600,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 811871,
+              "user_name": "kammio",
+              "first_name": "Roni",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/9a148bb5089b333e09b4af1fc59e9cdd_thumb.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4485011,
+                "venue_name": "Freehouse",
+                "venue_slug": "freehouse",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Community Center",
+                      "category_id": "52e81612bcbc57f1066b7a34",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "21A Boon Tat St",
+                  "venue_city": "Singapore",
+                  "venue_state": "",
+                  "lat": 1.28125,
+                  "lng": 103.849
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://freehouse.com.sg/"
+                },
+                "foursquare": {
+                  "foursquare_id": "56e9512acd10cabb2f042d09",
+                  "foursquare_url": "http://4sq.com/1Rm9vAW"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 159081082,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_10/38f145242674197bfde7a4516682f801_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_10/38f145242674197bfde7a4516682f801_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_10/38f145242674197bfde7a4516682f801_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_10/38f145242674197bfde7a4516682f801_raw.jpeg"
+            },
+            "created_at": "Sat, 10 Feb 2018 09:12:10 +0000",
+            "checkin_id": 560293113,
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.584,
+              "rating_count": 600,
+              "count": 600,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2521816,
+              "user_name": "thePsyke",
+              "first_name": "Pavel",
+              "last_name": "K",
+              "user_avatar": "https://untappd.akamaized.net/profile/327a525a0cd02f6abd5ffa4e5413a88a_100x100.png",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2485343,
+                "venue_name": "Pasteur Street Brewing Company",
+                "venue_slug": "pasteur-street-brewing-company",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "144 Pasteur",
+                  "venue_city": "Quận 1",
+                  "venue_state": "Tp. Hồ Chí Minh",
+                  "lat": 10.775,
+                  "lng": 106.701
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://pasteurstreet.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "54a92801498e9a30915fdc11",
+                  "foursquare_url": "http://4sq.com/1tIRnME"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 158905931,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_09/08ff9715a222e4e44fc240d8facb48d7_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_09/08ff9715a222e4e44fc240d8facb48d7_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_09/08ff9715a222e4e44fc240d8facb48d7_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_09/08ff9715a222e4e44fc240d8facb48d7_raw.jpeg"
+            },
+            "created_at": "Fri, 09 Feb 2018 10:14:02 +0000",
+            "checkin_id": 559809858,
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.584,
+              "rating_count": 600,
+              "count": 600,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3914426,
+              "user_name": "the_beergery",
+              "first_name": "Beer",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/ebaf5522e141b8233c00810750f09db9_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 6354987,
+                "venue_name": "Five Marbles Craft Beer Bistro",
+                "venue_slug": "five-marbles-craft-beer-bistro",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bistro",
+                      "category_id": "52e81612bcbc57f1066b79f1",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Hotel",
+                      "category_id": "4bf58dd8d48988d1fa931735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "#01-05, The Courtyard, Rendezous Hotel",
+                  "venue_city": "Singapore",
+                  "venue_state": "",
+                  "lat": 1.29863,
+                  "lng": 103.849
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.fivemarbles.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "59421b986fa81f7c56759645",
+                  "foursquare_url": "http://4sq.com/2rjvK5L"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 158905661,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_09/5bd8991efe93f905330057ec246a3f9f_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_09/5bd8991efe93f905330057ec246a3f9f_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_09/5bd8991efe93f905330057ec246a3f9f_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_09/5bd8991efe93f905330057ec246a3f9f_raw.jpg"
+            },
+            "created_at": "Fri, 09 Feb 2018 09:57:55 +0000",
+            "checkin_id": 559809302,
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.584,
+              "rating_count": 600,
+              "count": 600,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1658462,
+              "user_name": "jeffreykliu",
+              "first_name": "Jeffrey",
+              "last_name": "L",
+              "user_avatar": "https://untappd.akamaized.net/profile/5183978d5b3d33c109380229ec711034_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4485011,
+                "venue_name": "Freehouse",
+                "venue_slug": "freehouse",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Community Center",
+                      "category_id": "52e81612bcbc57f1066b7a34",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "21A Boon Tat St",
+                  "venue_city": "Singapore",
+                  "venue_state": "",
+                  "lat": 1.28125,
+                  "lng": 103.849
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://freehouse.com.sg/"
+                },
+                "foursquare": {
+                  "foursquare_id": "56e9512acd10cabb2f042d09",
+                  "foursquare_url": "http://4sq.com/1Rm9vAW"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 562317318,
+            "created_at": "Fri, 16 Feb 2018 13:08:01 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 4941298,
+              "user_name": "yourfavoritebeersux",
+              "first_name": "J",
+              "last_name": "D.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/434e8e8dd7b29d203c9d0d6113beda6b?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 562283048,
+            "created_at": "Fri, 16 Feb 2018 04:39:16 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 2732049,
+              "user_name": "PilsHunter14",
+              "first_name": "Matt",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/71aec1be8eca16b698fa007abcf96923?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 18,
+                  "user_badge_id": 305571821,
+                  "badge_name": "Top of the Mornin",
+                  "badge_description": "Hair of the dog? You know how to start the day off right. Have at least 5 brews before noon.",
+                  "created_at": "Fri, 16 Feb 2018 04:39:16 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_topMornin_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_topMornin_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_topMornin_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34707,
+                  "user_badge_id": 305571822,
+                  "badge_name": "Middle of the Road (Level 3)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 15 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 4!",
+                  "created_at": "Fri, 16 Feb 2018 04:39:16 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 562030512,
+            "created_at": "Thu, 15 Feb 2018 14:44:04 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 2029388,
+              "user_name": "Slendrick",
+              "first_name": "Jeppe",
+              "last_name": "K.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/435716dac6e0c57c1a86695b01e4ee28?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2485343,
+              "venue_name": "Pasteur Street Brewing Company",
+              "venue_slug": "pasteur-street-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "144 Pasteur",
+                "venue_city": "Quận 1",
+                "venue_state": "Tp. Hồ Chí Minh",
+                "venue_country": "Việt Nam",
+                "lat": 10.775,
+                "lng": 106.701
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://pasteurstreet.com"
+              },
+              "foursquare": {
+                "foursquare_id": "54a92801498e9a30915fdc11",
+                "foursquare_url": "http://4sq.com/1tIRnME"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 93340,
+                  "user_badge_id": 305316109,
+                  "badge_name": "I Believe in IPA! (Level 55)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 275 different IPAs.  Try 5 more for Level 56!",
+                  "created_at": "Thu, 15 Feb 2018 14:44:05 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 562021434,
+            "created_at": "Thu, 15 Feb 2018 11:14:12 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 3960188,
+              "user_name": "gmrpinfold",
+              "first_name": "Geoff Riley",
+              "last_name": "",
+              "location": "Monton",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/650a0838aadc3902b841e0567ee00cfc_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5585325,
+              "venue_name": "Pasteur Street Brewing Company",
+              "venue_slug": "pasteur-street-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Hà Nội",
+                "venue_state": "Thành Phố Hà Nội",
+                "venue_country": "Việt Nam",
+                "lat": 21.0286,
+                "lng": 105.848
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://pasteurstreet.com"
+              },
+              "foursquare": {
+                "foursquare_id": "581ec0238d169071e5eb60ec",
+                "foursquare_url": "http://4sq.com/2f65B7h"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 223053,
+                  "user": {
+                    "uid": 223053,
+                    "user_name": "paulgoddard",
+                    "first_name": "Paul",
+                    "last_name": "G.",
+                    "bio": "Good beer, pizza, horror films and reruns of Father Ted.",
+                    "location": "Newport",
+                    "user_avatar": "https://untappd.akamaized.net/profile/dd80adc4d888f794b34a00661b9ef3f4_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 477708517,
+                  "like_owner": false,
+                  "created_at": "Thu, 15 Feb 2018 11:23:03 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 159685725,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_15/10d9fe393d87008d4cbe2f6c7698c88c_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_15/10d9fe393d87008d4cbe2f6c7698c88c_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_15/10d9fe393d87008d4cbe2f6c7698c88c_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_15/10d9fe393d87008d4cbe2f6c7698c88c_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133265,
+                  "user_badge_id": 305306524,
+                  "badge_name": "Draft City (Level 12)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 60 checkins with the serving style of Draft. Try 5 more for Level 13!",
+                  "created_at": "Thu, 15 Feb 2018 11:14:14 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DraftCity_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 562019685,
+            "created_at": "Thu, 15 Feb 2018 10:19:15 +0000",
+            "checkin_comment": "Grapefruit grapefruit grapefruit. Could use a bit more sweetness to balance the bitter",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1545380,
+              "user_name": "monkeytrash32",
+              "first_name": "Larry",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/9a23345cb2af24436bb2d3c93a7b6835?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5585325,
+              "venue_name": "Pasteur Street Brewing Company",
+              "venue_slug": "pasteur-street-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Hà Nội",
+                "venue_state": "Thành Phố Hà Nội",
+                "venue_country": "Việt Nam",
+                "lat": 21.0286,
+                "lng": 105.848
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://pasteurstreet.com"
+              },
+              "foursquare": {
+                "foursquare_id": "581ec0238d169071e5eb60ec",
+                "foursquare_url": "http://4sq.com/2f65B7h"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34740,
+                  "user_badge_id": 305304889,
+                  "badge_name": "Middle of the Road (Level 36)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 180 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 37!",
+                  "created_at": "Thu, 15 Feb 2018 10:19:16 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 561775133,
+            "created_at": "Wed, 14 Feb 2018 14:47:33 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 5037308,
+              "user_name": "TobzZero90",
+              "first_name": "Tobias",
+              "last_name": "R.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/587f8dbe9194265c712e2200414d2b4a?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4845670,
+                  "user": {
+                    "uid": 4845670,
+                    "user_name": "Kellerbierz",
+                    "first_name": "Keller",
+                    "last_name": "B.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://gravatar.com/avatar/f048521873799da650f7c1cbe262b858?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 478144125,
+                  "like_owner": false,
+                  "created_at": "Fri, 16 Feb 2018 20:41:42 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 159596358,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_14/365dd3030c34b05dcecb2f0fab6fc517_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_14/365dd3030c34b05dcecb2f0fab6fc517_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_14/365dd3030c34b05dcecb2f0fab6fc517_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_14/365dd3030c34b05dcecb2f0fab6fc517_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 34709,
+                  "user_badge_id": 305009113,
+                  "badge_name": "Middle of the Road (Level 5)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 25 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 6!",
+                  "created_at": "Wed, 14 Feb 2018 14:47:33 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 12259,
+                  "user_badge_id": 305009114,
+                  "badge_name": "The Backpacker (Level 2)",
+                  "badge_description": "Equipped with nothing more than a passport, backpack, and thirst, your sudsy adventure through South East Asia is just beginning. That's 10 different beers from a brewery from one of the folllowing South East Asian countries: Myanmar, Thailand, Malaysia, Philippines, Singapore, Indonesia, East Timor, Vietnam, Cambodia, Laos, Taiwan and Brunei. Try 5 more for Level 3!\n",
+                  "created_at": "Wed, 14 Feb 2018 14:47:33 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 561774609,
+            "created_at": "Wed, 14 Feb 2018 14:35:52 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 4278405,
+              "user_name": "Greta1",
+              "first_name": "Greta",
+              "last_name": "O.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/7b214959fa20c2c8326aa837cff7da9c_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5585325,
+              "venue_name": "Pasteur Street Brewing Company",
+              "venue_slug": "pasteur-street-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Hà Nội",
+                "venue_state": "Thành Phố Hà Nội",
+                "venue_country": "Việt Nam",
+                "lat": 21.0286,
+                "lng": 105.848
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://pasteurstreet.com"
+              },
+              "foursquare": {
+                "foursquare_id": "581ec0238d169071e5eb60ec",
+                "foursquare_url": "http://4sq.com/2f65B7h"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 561769712,
+            "created_at": "Wed, 14 Feb 2018 12:44:21 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 163787,
+              "user_name": "beerfreak-org",
+              "first_name": "alex",
+              "last_name": "s.",
+              "location": "ukraine",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Beer reviewer and fan! Have my own blog in russian at beerfreak.org! Also play bass in a hard rock band.",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/5313fc735b895a8cbe927f15b5112104?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 5,
+              "count": 5,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2190591,
+                  "user": {
+                    "uid": 2190591,
+                    "user_name": "yagova",
+                    "first_name": "Alex",
+                    "last_name": "Y.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3cae6c229a75fcf9d7ed5ec9a3f75e9c_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 477795756,
+                  "like_owner": false,
+                  "created_at": "Thu, 15 Feb 2018 20:46:59 +0000"
+                },
+                {
+                  "uid": 1413969,
+                  "user": {
+                    "uid": 1413969,
+                    "user_name": "ElHefe-hXc",
+                    "first_name": "Alexander",
+                    "last_name": "O.",
+                    "bio": "",
+                    "location": "Kyiv, Ukraine",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7db55a24b84dfc043500380390394632_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 477524146,
+                  "like_owner": false,
+                  "created_at": "Wed, 14 Feb 2018 20:38:31 +0000"
+                },
+                {
+                  "uid": 4170849,
+                  "user": {
+                    "uid": 4170849,
+                    "user_name": "ozerova",
+                    "first_name": "Alena",
+                    "last_name": "O.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/e2a78d66e7b99a20c89eeed2da67a633_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 477477376,
+                  "like_owner": false,
+                  "created_at": "Wed, 14 Feb 2018 16:43:13 +0000"
+                },
+                {
+                  "uid": 3553009,
+                  "user": {
+                    "uid": 3553009,
+                    "user_name": "exhilarate",
+                    "first_name": "Vitalii",
+                    "last_name": "V.",
+                    "bio": "",
+                    "location": "Kharkiv, Ukraine",
+                    "user_avatar": "https://untappd.akamaized.net/profile/065ae37ce2e3b61c0d20e64537e703b5_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 477470940,
+                  "like_owner": false,
+                  "created_at": "Wed, 14 Feb 2018 15:45:10 +0000"
+                },
+                {
+                  "uid": 1413938,
+                  "user": {
+                    "uid": 1413938,
+                    "user_name": "igorek-hxc",
+                    "first_name": "Igor",
+                    "last_name": "O.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/768aa96fd6066ce852596b1a8b314d29_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 477457561,
+                  "like_owner": false,
+                  "created_at": "Wed, 14 Feb 2018 13:20:12 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 12276,
+                  "user_badge_id": 305002512,
+                  "badge_name": "The Backpacker (Level 19)",
+                  "badge_description": "Equipped with nothing more than a passport, backpack, and thirst, your sudsy adventure through South East Asia is just beginning. That's 95 different beers from a brewery from one of the folllowing South East Asian countries: Myanmar, Thailand, Malaysia, Philippines, Singapore, Indonesia, East Timor, Vietnam, Cambodia, Laos, Taiwan and Brunei. Try 5 more for Level 20!\n",
+                  "created_at": "Wed, 14 Feb 2018 12:44:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 561353644,
+            "created_at": "Mon, 12 Feb 2018 14:58:36 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 4346438,
+              "user_name": "bzr182",
+              "first_name": "Ben",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/03881dda962bfab772e04f81f7661b5f?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2485343,
+              "venue_name": "Pasteur Street Brewing Company",
+              "venue_slug": "pasteur-street-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "144 Pasteur",
+                "venue_city": "Quận 1",
+                "venue_state": "Tp. Hồ Chí Minh",
+                "venue_country": "Việt Nam",
+                "lat": 10.775,
+                "lng": 106.701
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://pasteurstreet.com"
+              },
+              "foursquare": {
+                "foursquare_id": "54a92801498e9a30915fdc11",
+                "foursquare_url": "http://4sq.com/1tIRnME"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 191871,
+                  "user_badge_id": 304453128,
+                  "badge_name": "Mardi Gras (2018)",
+                  "badge_description": "Happy Fat Tuesday and cheers to Mardi Gras. Get your beads and beer ready because it's time to celebrate!",
+                  "created_at": "Mon, 12 Feb 2018 14:58:36 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_MardiGras2018_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_MardiGras2018_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_MardiGras2018_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 561344748,
+            "created_at": "Mon, 12 Feb 2018 12:04:30 +0000",
+            "checkin_comment": "Muy citrica, amarga",
+            "rating_score": 3,
+            "user": {
+              "uid": 3777683,
+              "user_name": "parichino",
+              "first_name": "Karl",
+              "last_name": "",
+              "location": "Lloret de mar, Catalunya, Spain",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "I'm a beer lover, the more I taste the better I feel...",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/8303a31b1b74330384dd9b4fa9956237_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2485343,
+              "venue_name": "Pasteur Street Brewing Company",
+              "venue_slug": "pasteur-street-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "144 Pasteur",
+                "venue_city": "Quận 1",
+                "venue_state": "Tp. Hồ Chí Minh",
+                "venue_country": "Việt Nam",
+                "lat": 10.775,
+                "lng": 106.701
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://pasteurstreet.com"
+              },
+              "foursquare": {
+                "foursquare_id": "54a92801498e9a30915fdc11",
+                "foursquare_url": "http://4sq.com/1tIRnME"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 159440581,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_12/51082c2192646035132512f37b75f269_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_12/51082c2192646035132512f37b75f269_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_12/51082c2192646035132512f37b75f269_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_12/51082c2192646035132512f37b75f269_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 94343,
+                  "user_badge_id": 304443963,
+                  "badge_name": "Photogenic Brew (Level 58)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s That's 290 check-ins with a photo.  Try 5 more for Level 59!",
+                  "created_at": "Mon, 12 Feb 2018 12:04:30 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 561341166,
+            "created_at": "Mon, 12 Feb 2018 09:55:34 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 3687736,
+              "user_name": "thirstyz",
+              "first_name": "joe",
+              "last_name": "z.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/28f11dafcc464c9153201690e2eb5c48_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2485343,
+              "venue_name": "Pasteur Street Brewing Company",
+              "venue_slug": "pasteur-street-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "144 Pasteur",
+                "venue_city": "Quận 1",
+                "venue_state": "Tp. Hồ Chí Minh",
+                "venue_country": "Việt Nam",
+                "lat": 10.775,
+                "lng": 106.701
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://pasteurstreet.com"
+              },
+              "foursquare": {
+                "foursquare_id": "54a92801498e9a30915fdc11",
+                "foursquare_url": "http://4sq.com/1tIRnME"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2265416,
+                  "user": {
+                    "uid": 2265416,
+                    "user_name": "ftenchjf",
+                    "first_name": "john",
+                    "last_name": "f.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://gravatar.com/avatar/f433ac274956f3f96fd5f0ce4eebaa6e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 477705276,
+                  "like_owner": false,
+                  "created_at": "Thu, 15 Feb 2018 10:40:58 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 159438971,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_12/087189866044d6753ec73164e170b4db_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_12/087189866044d6753ec73164e170b4db_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_12/087189866044d6753ec73164e170b4db_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_12/087189866044d6753ec73164e170b4db_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3787,
+                  "user_badge_id": 304440599,
+                  "badge_name": "Bar Explorer (Level 5)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 25 distinct venues!",
+                  "created_at": "Mon, 12 Feb 2018 09:55:34 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 560350594,
+            "created_at": "Sat, 10 Feb 2018 16:05:44 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 4373851,
+              "user_name": "RoelEgberts",
+              "first_name": "Roel",
+              "last_name": "E.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/2160866cb5d81c77d24c3bebc007ca47_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2485343,
+              "venue_name": "Pasteur Street Brewing Company",
+              "venue_slug": "pasteur-street-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "144 Pasteur",
+                "venue_city": "Quận 1",
+                "venue_state": "Tp. Hồ Chí Minh",
+                "venue_country": "Việt Nam",
+                "lat": 10.775,
+                "lng": 106.701
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://pasteurstreet.com"
+              },
+              "foursquare": {
+                "foursquare_id": "54a92801498e9a30915fdc11",
+                "foursquare_url": "http://4sq.com/1tIRnME"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 159106376,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_10/6455da75df0490321743835caa30136c_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_10/6455da75df0490321743835caa30136c_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_10/6455da75df0490321743835caa30136c_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_10/6455da75df0490321743835caa30136c_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 560318074,
+            "created_at": "Sat, 10 Feb 2018 13:41:17 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 3111924,
+              "user_name": "Pedro_Dilo",
+              "first_name": "Pierre",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/cb29ad2b8b30bdc8386a3cb1c46d98d2_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2485343,
+              "venue_name": "Pasteur Street Brewing Company",
+              "venue_slug": "pasteur-street-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "144 Pasteur",
+                "venue_city": "Quận 1",
+                "venue_state": "Tp. Hồ Chí Minh",
+                "venue_country": "Việt Nam",
+                "lat": 10.775,
+                "lng": 106.701
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://pasteurstreet.com"
+              },
+              "foursquare": {
+                "foursquare_id": "54a92801498e9a30915fdc11",
+                "foursquare_url": "http://4sq.com/1tIRnME"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 2,
+              "count": 2,
+              "items": [
+                {
+                  "user": {
+                    "uid": 5024839,
+                    "user_name": "lupololoco",
+                    "first_name": "Marino",
+                    "last_name": "I.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://untappd.akamaized.net/profile/2061433e6bde23905b6f178c504340a1_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 560318074,
+                  "comment_id": 40043221,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Je l ai bue en Argentine...t as trouvé ça où?",
+                  "created_at": "Sat, 10 Feb 2018 16:34:22 +0000",
+                  "comment_source": "API"
+                },
+                {
+                  "user": {
+                    "uid": 3111924,
+                    "user_name": "Pedro_Dilo",
+                    "first_name": "Pierre",
+                    "last_name": "M.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://untappd.akamaized.net/profile/cb29ad2b8b30bdc8386a3cb1c46d98d2_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 560318074,
+                  "comment_id": 40045603,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Ça devait être le même nom, mais probablement pas la même brasserie, c'est une brasserie de Ho Chi Minh City",
+                  "created_at": "Sat, 10 Feb 2018 18:12:20 +0000",
+                  "comment_source": "API"
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 5024839,
+                  "user": {
+                    "uid": 5024839,
+                    "user_name": "lupololoco",
+                    "first_name": "Marino",
+                    "last_name": "I.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/2061433e6bde23905b6f178c504340a1_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 476075407,
+                  "like_owner": false,
+                  "created_at": "Sat, 10 Feb 2018 16:33:52 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 159091723,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_10/231f3dd3ec6a1a7f6f1879e6402885ed_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_10/231f3dd3ec6a1a7f6f1879e6402885ed_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_10/231f3dd3ec6a1a7f6f1879e6402885ed_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_10/231f3dd3ec6a1a7f6f1879e6402885ed_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 787,
+                  "user_badge_id": 303504042,
+                  "badge_name": "Photogenic Brew (Level 2)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 10 check-ins with a photo. ",
+                  "created_at": "Sat, 10 Feb 2018 13:41:18 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2631,
+                  "user_badge_id": 303504044,
+                  "badge_name": "I Believe in IPA!  (Level 45)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 225 different IPAs. Try 5 more for Level 46!",
+                  "created_at": "Sat, 10 Feb 2018 13:41:18 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 560316126,
+            "created_at": "Sat, 10 Feb 2018 13:29:55 +0000",
+            "checkin_comment": "Good. A bit more pomelo would be even better",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 811871,
+              "user_name": "kammio",
+              "first_name": "Roni",
+              "last_name": "S.",
+              "location": "Helsinki",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Beer enthusiast, home brewer and hell raiser",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/9a148bb5089b333e09b4af1fc59e9cdd_thumb.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4485011,
+              "venue_name": "Freehouse",
+              "venue_slug": "freehouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Community Center",
+                    "category_id": "52e81612bcbc57f1066b7a34",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "21A Boon Tat St",
+                "venue_city": "Singapore",
+                "venue_state": "",
+                "venue_country": "Singapore",
+                "lat": 1.28125,
+                "lng": 103.849
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://freehouse.com.sg/"
+              },
+              "foursquare": {
+                "foursquare_id": "56e9512acd10cabb2f042d09",
+                "foursquare_url": "http://4sq.com/1Rm9vAW"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2781331,
+                  "user": {
+                    "uid": 2781331,
+                    "user_name": "spinebrain",
+                    "first_name": "M-T",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/1a746a91273c4f1642f5fa981b524d20_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 476208254,
+                  "like_owner": false,
+                  "created_at": "Sat, 10 Feb 2018 20:35:12 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 159090902,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_10/04b58a94095dd523dd254e8eea585954_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_10/04b58a94095dd523dd254e8eea585954_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_10/04b58a94095dd523dd254e8eea585954_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_10/04b58a94095dd523dd254e8eea585954_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 560314003,
+            "created_at": "Sat, 10 Feb 2018 13:16:40 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 1108374,
+              "user_name": "LazerLaaksonen",
+              "first_name": "Lauri",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/8b812228525672f16b2d7a077ca619e6?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1910925,
+              "beer_name": "Pomelo IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pasteur-street-brewing-company-pomelo-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 181244,
+              "brewery_name": "Pasteur Street Brewing Company",
+              "brewery_slug": "pasteur-street-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-181244_108e5.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/PasteurStreetBrewing/",
+                "url": "http://pasteurstreet.com"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh City",
+                "brewery_state": "",
+                "lat": 10.7748,
+                "lng": 106.701
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4485011,
+              "venue_name": "Freehouse",
+              "venue_slug": "freehouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Community Center",
+                    "category_id": "52e81612bcbc57f1066b7a34",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "21A Boon Tat St",
+                "venue_city": "Singapore",
+                "venue_state": "",
+                "venue_country": "Singapore",
+                "lat": 1.28125,
+                "lng": 103.849
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://freehouse.com.sg/"
+              },
+              "foursquare": {
+                "foursquare_id": "56e9512acd10cabb2f042d09",
+                "foursquare_url": "http://4sq.com/1Rm9vAW"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_4485011_a18d26ef_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 584140,
+                  "user": {
+                    "uid": 584140,
+                    "user_name": "uncletomas",
+                    "first_name": "Tomas",
+                    "last_name": "L.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/2026c0392d480b8d7dbe0a2d3866d311_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 476072108,
+                  "like_owner": false,
+                  "created_at": "Sat, 10 Feb 2018 16:24:51 +0000"
+                },
+                {
+                  "uid": 210204,
+                  "user": {
+                    "uid": 210204,
+                    "user_name": "jyrki",
+                    "first_name": "Jyrki",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Helsinki",
+                    "user_avatar": "https://untappd.akamaized.net/profile/e902ab9e644804f0ee386f352efeafb2_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 476068531,
+                  "like_owner": false,
+                  "created_at": "Sat, 10 Feb 2018 16:14:12 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 34721,
+                  "user_badge_id": 303500320,
+                  "badge_name": "Middle of the Road (Level 17)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 85 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 18!",
+                  "created_at": "Sat, 10 Feb 2018 13:16:41 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 12262,
+                  "user_badge_id": 303500322,
+                  "badge_name": "The Backpacker (Level 5)",
+                  "badge_description": "Equipped with nothing more than a passport, backpack, and thirst, your sudsy adventure through South East Asia is just beginning. That's 25 different beers from a brewery from one of the folllowing South East Asian countries: Myanmar, Thailand, Malaysia, Philippines, Singapore, Indonesia, East Timor, Vietnam, Cambodia, Laos, Taiwan and Brunei. Try 5 more for Level 6!\n",
+                  "created_at": "Sat, 10 Feb 2018 13:16:41 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/1910925?max_id=562317318",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/1910925?max_id=560314003",
+          "max_id": 560314003
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 3.92518,
+            "beer": {
+              "bid": 2213431,
+              "beer_name": "Loose Rivet IPA",
+              "beer_abv": 7,
+              "beer_ibu": 61,
+              "beer_slug": "heart-of-darkness-brewery-saigon-loose-rivet-ipa",
+              "beer_style": "IPA - New England",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 304054,
+              "brewery_name": "Heart of Darkness Brewery Saigon",
+              "brewery_slug": "heart-of-darkness-brewery-saigon",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304054_2b3c6.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/heartofdarknessbrewery/",
+                "instagram": "",
+                "url": "http://www.heartofdarknessbrewery.com"
+              },
+              "location": {
+                "brewery_city": "HCMC",
+                "brewery_state": "",
+                "lat": 10.7797,
+                "lng": 106.703
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.54119,
+            "beer": {
+              "bid": 1826,
+              "beer_name": "Brooklyn East IPA",
+              "beer_abv": 6.9,
+              "beer_ibu": 47,
+              "beer_slug": "brooklyn-brewery-brooklyn-east-ipa",
+              "beer_style": "IPA - English",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-EastIndiaPaleAleIPA_1826.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "instagram": "brooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.5791,
+            "beer": {
+              "bid": 980801,
+              "beer_name": "Crazy Train IPA",
+              "beer_abv": 6.5,
+              "beer_ibu": 75,
+              "beer_slug": "off-the-rail-brewing-crazy-train-ipa",
+              "beer_style": "IPA - English",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-980801_ea72e_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 186988,
+              "brewery_name": "Off The Rail Brewing",
+              "brewery_slug": "off-the-rail-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-186988_29f97.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "OffTheRailBeer",
+                "facebook": "https://www.facebook.com/pages/Off-The-Rail-Brewing-Co/286997414805699",
+                "instagram": "offtherailbeer",
+                "url": "http://offtherailbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "Vancouver",
+                "brewery_state": "BC",
+                "lat": 49.2779,
+                "lng": -123.076
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.81126,
+            "beer": {
+              "bid": 1810191,
+              "beer_name": "Kurtz's Insane IPA",
+              "beer_abv": 7.1,
+              "beer_ibu": 102,
+              "beer_slug": "heart-of-darkness-brewery-saigon-kurtz-s-insane-ipa",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1810191_e9048_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 304054,
+              "brewery_name": "Heart of Darkness Brewery Saigon",
+              "brewery_slug": "heart-of-darkness-brewery-saigon",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304054_2b3c6.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/heartofdarknessbrewery/",
+                "instagram": "",
+                "url": "http://www.heartofdarknessbrewery.com"
+              },
+              "location": {
+                "brewery_city": "HCMC",
+                "brewery_state": "",
+                "lat": 10.7797,
+                "lng": 106.703
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.52381,
+            "beer": {
+              "bid": 1982010,
+              "beer_name": "Mango IPA",
+              "beer_abv": 5.5,
+              "beer_ibu": 41,
+              "beer_slug": "lac-brewing-co-mango-ipa",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 255643,
+              "brewery_name": "Lac Brewing Co",
+              "brewery_slug": "lac-brewing-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-255643_fb82d.jpeg",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/lacbrewing",
+                "instagram": "lacbeer",
+                "url": "https://www.lacbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "Ho Chi Minh",
+                "brewery_state": "",
+                "lat": 10.7214,
+                "lng": 106.712
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.59639,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

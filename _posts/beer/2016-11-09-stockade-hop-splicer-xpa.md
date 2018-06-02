@@ -9,7 +9,7 @@ brewery: "Stockade Brew Co"
 breweryURL: "/brewery/stockade-brew-co.html"
 style: "Pale Ale - Australian"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26239033_10155922810193745_7799480384596222735_n.jpg?oh=92dfe059dcfffe1cf90dfe36ab7733db&oe=5B471EDB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26239033_10155922810193745_7799480384596222735_n.jpg?_nc_cat=0&oh=cda8a950e360ed326416297dabf21f38&oe=5BBDC5DB
 beer-date: "2018-01-13"
 desc: "Super floral without being too bitter. Great from the start to the end"
 permalink: /beer/:title.html

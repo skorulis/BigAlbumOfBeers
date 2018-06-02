@@ -9,7 +9,7 @@ brewery: "Fuller, Smith & Turner "
 breweryURL: "/brewery/fuller-smith-turner.html"
 style: "English Bitter"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/734258_10151461672898745_380826809_n.jpg?oh=5302519987c0735f842bf514e8c3bafe&oe=5B46C579
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/734258_10151461672898745_380826809_n.jpg?_nc_cat=0&oh=fa6270c46a4aa3f19dc16ff9f2bd66de&oe=5BBD6C79
 beer-date: "2013-02-01"
 desc: "The standard London Ale to measure against"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Brasserie du Mont Blanc"
 breweryURL: "/brewery/brasserie-du-mont-blanc.html"
 style: "Spiced / Herbed Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13001187_10154072541123745_7747103315223526141_n.jpg?oh=c57e2afd6aaac69dac31faae8f225c71&oe=5B39FA28
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13001187_10154072541123745_7747103315223526141_n.jpg?_nc_cat=0&oh=3891b75c686c921f4c680fc912538b37&oe=5B891428
 beer-date: "2016-04-21"
 desc: "Kind of tastes how it looks. Like a like cordial mixed with beer. The little bit of spice ties it together and makes for a nice sweet beer"
 permalink: /beer/:title.html

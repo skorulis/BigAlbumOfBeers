@@ -9,7 +9,7 @@ brewery: "Sydney Brewery"
 breweryURL: "/brewery/sydney-brewery.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1044239_10153053840773745_1317709767507240437_n.jpg?oh=d34f8aa2f7b5ab8a80c5fd763d32e320&oe=5B4A5DF4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1044239_10153053840773745_1317709767507240437_n.jpg?_nc_cat=0&oh=e31db20b78a8ff78a298d6f67104525f&oe=5BC104F4
 beer-date: "2015-01-28"
 desc: "Probably just a rebrand of some other generic beer"
 permalink: /beer/:title.html

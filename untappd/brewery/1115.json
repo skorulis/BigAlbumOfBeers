@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.432,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.01,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 1115,
+      "brewery_name": "Schloss Eggenberg",
+      "brewery_slug": "schloss-eggenberg",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-SchlossEggenberg_1115.jpeg",
+      "country_name": "Austria",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": false,
+        "claimed_slug": "",
+        "follow_status": false,
+        "follower_count": 0,
+        "uid": 0,
+        "mute_status": "none"
+      },
+      "beer_count": 48,
+      "contact": {
+        "twitter": "",
+        "facebook": "http://www.facebook.com/BrauereiSchlossEggenberg?ref=ts",
+        "instagram": "",
+        "url": "www.schloss-eggenberg.at"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "Eggenberg 1",
+        "brewery_city": "Vorchdorf",
+        "brewery_state": "",
+        "brewery_lat": 47.9898,
+        "brewery_lng": 13.9225
+      },
+      "rating": {
+        "count": 64709,
+        "rating_score": 3.654
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 83613,
+        "unique_count": 54194,
+        "monthly_count": 1457,
+        "weekly_count": 447,
+        "user_count": 0,
+        "age_on_service": 2486.338773148148
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 404895,
+              "venue_name": "Schloss Eggenberg",
+              "venue_slug": "schloss-eggenberg",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Eggenberg 1",
+                "venue_city": "Vorchdorf",
+                "venue_state": "Oberösterreich",
+                "venue_country": "Österreich",
+                "lat": 47.9901,
+                "lng": 13.9221
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4c52fb23b6dabe9a49321114",
+                "foursquare_url": "http://4sq.com/aKpbhT"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

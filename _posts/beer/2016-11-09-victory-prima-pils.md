@@ -9,7 +9,7 @@ brewery: "Victory Brewing Company"
 breweryURL: "/brewery/victory-brewing-company.html"
 style: "Pilsner - German"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20954030_10155535939573745_250600535890952612_n.jpg?oh=aa604466775fe688cf0a118965e3b330&oe=5B3BE1AA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20954030_10155535939573745_250600535890952612_n.jpg?_nc_cat=0&oh=91d1946f87ea4a584b527007acf8b67f&oe=5BB288AA
 beer-date: "2017-08-21"
 desc: "This beer really blew me away. It’s not that it’s the best but I was not expecting it to pack in the flavour that it does. So much sweetness without that cheap malty taste that you get in most pilsners. Gets a little bitter if it sits for too long but otherwise nothing wrong"
 permalink: /beer/:title.html

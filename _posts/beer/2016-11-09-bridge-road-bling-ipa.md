@@ -9,7 +9,7 @@ brewery: "Bridge Road Brewers"
 breweryURL: "/brewery/bridge-road-brewers.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10350421_10153656864623745_1423000334986932771_n.jpg?oh=2ce2c63077cc3050fe5dbc883b6e8e94&oe=5B489C48
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10350421_10153656864623745_1423000334986932771_n.jpg?_nc_cat=0&oh=eb7daa03c71c1d9b437d6b0d63a4d601&oe=5BBF4348
 beer-date: "2015-10-17"
 desc: "Lacking the rounded finish that I was hoping for, but not too bad"
 permalink: /beer/:title.html

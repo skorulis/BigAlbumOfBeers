@@ -9,7 +9,7 @@ brewery: "Aukštaitijos Bravorai"
 breweryURL: "/brewery/aukstaitijos-bravorai.html"
 style: "Blonde Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1186120_10151860445063745_1601572346_n.jpg?oh=97ef8b77c3c3515a09ff73e20fe39f0f&oe=5B35314E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1186120_10151860445063745_1601572346_n.jpg?_nc_cat=0&oh=c835e2400d4fe455b3e2e334f54287ba&oe=5B844B4E
 beer-date: "2013-08-18"
 desc: "Malty goodness in a great bottle"
 permalink: /beer/:title.html

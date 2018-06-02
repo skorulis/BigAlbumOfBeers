@@ -1,0 +1,3633 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 1.54,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 1.004,
+      "measure": "seconds"
+    }
+  },
+  "notifications": {
+    "type": "notifications",
+    "unread_count": {
+      "comments": 0,
+      "toasts": 0,
+      "friends": 0,
+      "messages": 0,
+      "news": 0
+    }
+  },
+  "response": {
+    "beer": {
+      "bid": 1292592,
+      "beer_name": "Duncan!",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+      "beer_label_hd": "https://untappd.akamaized.net/site/beer_logos_hd/beer-1292592_c02ee_hd.jpeg",
+      "beer_abv": 3.9,
+      "beer_ibu": 0,
+      "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+      "beer_style": "Sour - Gose",
+      "is_in_production": 1,
+      "beer_slug": "wig-pen-brewery-duncan",
+      "is_homebrew": 0,
+      "created_at": "Thu, 29 Oct 2015 11:08:20 +0000",
+      "rating_count": 25,
+      "rating_score": 3.54,
+      "stats": {
+        "total_count": 31,
+        "monthly_count": 0,
+        "total_user_count": 30,
+        "user_count": 1
+      },
+      "brewery": {
+        "brewery_id": 12216,
+        "brewery_name": "Wig & Pen Brewery",
+        "brewery_slug": "wig-pen-brewery",
+        "brewery_type": "Brew Pub",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "wig_and_pen",
+          "facebook": "http://www.facebook.com/wigandpen.canberra",
+          "url": ""
+        },
+        "location": {
+          "brewery_city": "Canberra",
+          "brewery_state": "ACT",
+          "lat": -35.2784,
+          "lng": 149.13
+        }
+      },
+      "auth_rating": 4,
+      "wish_list": false,
+      "media": {
+        "count": 7,
+        "items": [
+          {
+            "photo_id": 66853283,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2016_02_20/d9ad73efc899fa2b17e46f76c8be398e_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2016_02_20/d9ad73efc899fa2b17e46f76c8be398e_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2016_02_20/d9ad73efc899fa2b17e46f76c8be398e_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2016_02_20/d9ad73efc899fa2b17e46f76c8be398e_raw.jpg"
+            },
+            "created_at": "Sat, 20 Feb 2016 07:46:47 +0000",
+            "checkin_id": 279293934,
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 136309,
+              "user_name": "samrdk",
+              "first_name": "sam",
+              "last_name": "m",
+              "user_avatar": "https://untappd.akamaized.net/profile/6baabefadbcce9627727556cc05dd304_thumb.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 825648,
+                "venue_name": "National Press Club of Australia",
+                "venue_slug": "national-press-club-of-australia",
+                "primary_category": "Professional & Other Places",
+                "parent_category_id": "4d4b7105d754a06375d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Event Space",
+                      "category_id": "4bf58dd8d48988d171941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Auditorium",
+                      "category_id": "4bf58dd8d48988d173941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "16 National Cct",
+                  "venue_city": "Barton",
+                  "venue_state": "ACT",
+                  "lat": -35.3107,
+                  "lng": 149.133
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": false,
+                "foursquare": {
+                  "foursquare_id": "4bc3a03874a9a59345d5d4f6",
+                  "foursquare_url": "http://4sq.com/aOhyOb"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 65063560,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2016_02_03/b5515273d237859e30ebedc15e979dee_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2016_02_03/b5515273d237859e30ebedc15e979dee_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2016_02_03/b5515273d237859e30ebedc15e979dee_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2016_02_03/b5515273d237859e30ebedc15e979dee_raw.jpg"
+            },
+            "created_at": "Wed, 03 Feb 2016 06:36:47 +0000",
+            "checkin_id": 273301506,
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 321338,
+              "user_name": "GusB",
+              "first_name": "Angus",
+              "last_name": "B",
+              "user_avatar": "https://gravatar.com/avatar/ef573c42404d62d10fcef56366345c9e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2500367,
+                "venue_name": "Wig & Pen",
+                "venue_slug": "wig-and-pen",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Music School",
+                      "category_id": "4f04b10d2fb6e1c99f3db0be",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Building 100, William Herbert Pl.",
+                  "venue_city": "",
+                  "venue_state": "Australian Capital Territory",
+                  "lat": -35.2804,
+                  "lng": 149.124
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": false,
+                "foursquare": {
+                  "foursquare_id": "54b78c69498e112621c2126b",
+                  "foursquare_url": "http://4sq.com/1KMCGx4"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 65062046,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2016_02_03/7690c0be474eb513476d493a47120d8e_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2016_02_03/7690c0be474eb513476d493a47120d8e_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2016_02_03/7690c0be474eb513476d493a47120d8e_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2016_02_03/7690c0be474eb513476d493a47120d8e_raw.jpg"
+            },
+            "created_at": "Wed, 03 Feb 2016 05:26:51 +0000",
+            "checkin_id": 273295642,
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2348616,
+              "user_name": "Donnwaan",
+              "first_name": "Lindon",
+              "last_name": "H",
+              "user_avatar": "https://untappd.akamaized.net/profile/487aec310eb7b52cf8f5759eefd19add_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2500367,
+                "venue_name": "Wig & Pen",
+                "venue_slug": "wig-and-pen",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Music School",
+                      "category_id": "4f04b10d2fb6e1c99f3db0be",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Building 100, William Herbert Pl.",
+                  "venue_city": "",
+                  "venue_state": "Australian Capital Territory",
+                  "lat": -35.2804,
+                  "lng": 149.124
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": false,
+                "foursquare": {
+                  "foursquare_id": "54b78c69498e112621c2126b",
+                  "foursquare_url": "http://4sq.com/1KMCGx4"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 63782035,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2016_01_22/8a2ff14bc35346de652b750b7aa9d300_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2016_01_22/8a2ff14bc35346de652b750b7aa9d300_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2016_01_22/8a2ff14bc35346de652b750b7aa9d300_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2016_01_22/8a2ff14bc35346de652b750b7aa9d300_raw.jpg"
+            },
+            "created_at": "Fri, 22 Jan 2016 01:21:16 +0000",
+            "checkin_id": 269040941,
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 455629,
+              "user_name": "evilbenius",
+              "first_name": "Dustin",
+              "last_name": "F",
+              "user_avatar": "https://untappd.akamaized.net/profile/c99bddeb6fccb4627569d3f04cf544c0_100x100.png",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2500367,
+                "venue_name": "Wig & Pen",
+                "venue_slug": "wig-and-pen",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Music School",
+                      "category_id": "4f04b10d2fb6e1c99f3db0be",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Building 100, William Herbert Pl.",
+                  "venue_city": "",
+                  "venue_state": "Australian Capital Territory",
+                  "lat": -35.2804,
+                  "lng": 149.124
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": false,
+                "foursquare": {
+                  "foursquare_id": "54b78c69498e112621c2126b",
+                  "foursquare_url": "http://4sq.com/1KMCGx4"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 63552899,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2016_01_18/4c1a8c037e4f2c9fa8966dd935c570ec_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2016_01_18/4c1a8c037e4f2c9fa8966dd935c570ec_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2016_01_18/4c1a8c037e4f2c9fa8966dd935c570ec_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2016_01_18/4c1a8c037e4f2c9fa8966dd935c570ec_raw.jpg"
+            },
+            "created_at": "Mon, 18 Jan 2016 09:45:06 +0000",
+            "checkin_id": 268283078,
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "relationship": "friends",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2500367,
+                "venue_name": "Wig & Pen",
+                "venue_slug": "wig-and-pen",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Music School",
+                      "category_id": "4f04b10d2fb6e1c99f3db0be",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Building 100, William Herbert Pl.",
+                  "venue_city": "",
+                  "venue_state": "Australian Capital Territory",
+                  "lat": -35.2804,
+                  "lng": 149.124
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": false,
+                "foursquare": {
+                  "foursquare_id": "54b78c69498e112621c2126b",
+                  "foursquare_url": "http://4sq.com/1KMCGx4"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 60501746,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2015_12_23/1f7905d1f598f6b7f54f1418a4e47ce3_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2015_12_23/1f7905d1f598f6b7f54f1418a4e47ce3_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2015_12_23/1f7905d1f598f6b7f54f1418a4e47ce3_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2015_12_23/1f7905d1f598f6b7f54f1418a4e47ce3_raw.jpg"
+            },
+            "created_at": "Wed, 23 Dec 2015 06:48:48 +0000",
+            "checkin_id": 258330474,
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2609983,
+              "user_name": "MrTDubya",
+              "first_name": "Evan",
+              "last_name": "T",
+              "user_avatar": "https://gravatar.com/avatar/7b434f6e725aacf1d33b34dfd296c3c4?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2500367,
+                "venue_name": "Wig & Pen",
+                "venue_slug": "wig-and-pen",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Music School",
+                      "category_id": "4f04b10d2fb6e1c99f3db0be",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Building 100, William Herbert Pl.",
+                  "venue_city": "",
+                  "venue_state": "Australian Capital Territory",
+                  "lat": -35.2804,
+                  "lng": 149.124
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": false,
+                "foursquare": {
+                  "foursquare_id": "54b78c69498e112621c2126b",
+                  "foursquare_url": "http://4sq.com/1KMCGx4"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 57987257,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2015_11_28/9b3ddb83f6884e45267d324d4cd83b07_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2015_11_28/9b3ddb83f6884e45267d324d4cd83b07_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2015_11_28/9b3ddb83f6884e45267d324d4cd83b07_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2015_11_28/9b3ddb83f6884e45267d324d4cd83b07_raw.jpg"
+            },
+            "created_at": "Sat, 28 Nov 2015 08:42:34 +0000",
+            "checkin_id": 250099817,
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 777173,
+              "user_name": "NamTaf",
+              "first_name": "Adam",
+              "last_name": "",
+              "user_avatar": "https://gravatar.com/avatar/3563cd993df686f9c7d75cdae70cd3cc?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 133016,
+                "venue_name": "The Scratch",
+                "venue_slug": "the-scratch",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Dive Bar",
+                      "category_id": "4bf58dd8d48988d118941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1 Park Rd.",
+                  "venue_city": "Milton",
+                  "venue_state": "QLD",
+                  "lat": -27.4699,
+                  "lng": 153.004
+                },
+                "contact": {
+                  "twitter": "@thescratchbar",
+                  "venue_url": "http://scratchbar.com"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "4ed736147ee53b380f813132",
+                  "foursquare_url": "http://4sq.com/s8V0ll"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 279293934,
+            "created_at": "Sat, 20 Feb 2016 07:46:40 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 136309,
+              "user_name": "samrdk",
+              "first_name": "sam",
+              "last_name": "m.",
+              "location": "canberra",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/6baabefadbcce9627727556cc05dd304_thumb.jpg",
+              "is_private": 0,
+              "contact": {
+                "twitter": "sam_rdk",
+                "facebook": "543125954"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 825648,
+              "venue_name": "National Press Club of Australia",
+              "venue_slug": "national-press-club-of-australia",
+              "primary_category": "Professional & Other Places",
+              "parent_category_id": "4d4b7105d754a06375d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Event Space",
+                    "category_id": "4bf58dd8d48988d171941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Auditorium",
+                    "category_id": "4bf58dd8d48988d173941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "16 National Cct",
+                "venue_city": "Barton",
+                "venue_state": "ACT",
+                "venue_country": "Australia",
+                "lat": -35.3107,
+                "lng": 149.133
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "4bc3a03874a9a59345d5d4f6",
+                "foursquare_url": "http://4sq.com/aOhyOb"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 1964988,
+                  "user": {
+                    "uid": 1964988,
+                    "user_name": "becal",
+                    "first_name": "Ben",
+                    "last_name": "C.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://gravatar.com/avatar/e3b29ff208069187a2e9e351519b8bfe?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/becal"
+                  },
+                  "like_id": 194513190,
+                  "like_owner": false,
+                  "created_at": "Sat, 20 Feb 2016 14:38:57 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 66853283,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2016_02_20/d9ad73efc899fa2b17e46f76c8be398e_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2016_02_20/d9ad73efc899fa2b17e46f76c8be398e_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2016_02_20/d9ad73efc899fa2b17e46f76c8be398e_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2016_02_20/d9ad73efc899fa2b17e46f76c8be398e_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 277473046,
+            "created_at": "Sun, 14 Feb 2016 07:28:41 +0000",
+            "checkin_comment": "Perfect beer for 32degree weather",
+            "rating_score": 4,
+            "user": {
+              "uid": 909659,
+              "user_name": "johnbdrysdale",
+              "first_name": "John",
+              "last_name": "D.",
+              "location": "Brisbane",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/bef016cbaab8a8f381ad9c17adbae8a6_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "689531382"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 133016,
+              "venue_name": "The Scratch",
+              "venue_slug": "the-scratch",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Dive Bar",
+                    "category_id": "4bf58dd8d48988d118941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1 Park Rd.",
+                "venue_city": "Milton",
+                "venue_state": "QLD",
+                "venue_country": "Australia",
+                "lat": -27.4699,
+                "lng": 153.004
+              },
+              "contact": {
+                "twitter": "@thescratchbar",
+                "venue_url": "http://scratchbar.com"
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "4ed736147ee53b380f813132",
+                "foursquare_url": "http://4sq.com/s8V0ll"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 273304400,
+            "created_at": "Wed, 03 Feb 2016 07:39:37 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 2178965,
+              "user_name": "michael_or",
+              "first_name": "Michael",
+              "last_name": "O.",
+              "location": "Canberra",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/96df49dfdc8ac36ddf9e623e2762a40b_100x100.jpeg",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 313,
+                  "user_badge_id": 99694942,
+                  "badge_name": "Pucker Up (Level 10)",
+                  "badge_description": "Right about now you’re feeling your face tighten and your taste buds explode. The full pucker is quickly setting in and you can’t get enough. This is the wonder of the sour. That's 50 different Sour Beers. Try 5 more for Level 11.",
+                  "created_at": "Wed, 03 Feb 2016 07:39:37 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_SourBrew_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_SourBrew_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_SourBrew_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 273301506,
+            "created_at": "Wed, 03 Feb 2016 06:36:59 +0000",
+            "checkin_comment": "Softly sour, sweet wheaty malt, building saltiness.",
+            "rating_score": 3,
+            "user": {
+              "uid": 321338,
+              "user_name": "GusB",
+              "first_name": "Angus",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Go drunk home, you're Gus.",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/ef573c42404d62d10fcef56366345c9e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": {
+                "facebook": "226381921066893"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 1,
+              "count": 1,
+              "items": [
+                {
+                  "user": {
+                    "uid": 297088,
+                    "user_name": "Sulti",
+                    "first_name": "Pablo",
+                    "last_name": "S.",
+                    "bio": "Play it by beer!",
+                    "location": "Brunswick",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://untappd.akamaized.net/profile/855ad95f045ae50e917d80243232bafa_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Sulti"
+                  },
+                  "checkin_id": 273301506,
+                  "comment_id": 22199169,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Gotta love a building Sultiness ;)",
+                  "created_at": "Wed, 03 Feb 2016 08:48:42 +0000",
+                  "comment_source": "API",
+                  "tags": {
+                    "count": 0,
+                    "items": [
+
+                    ]
+                  },
+                  "entities": [
+
+                  ]
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 297088,
+                  "user": {
+                    "uid": 297088,
+                    "user_name": "Sulti",
+                    "first_name": "Pablo",
+                    "last_name": "S.",
+                    "bio": "Play it by beer!",
+                    "location": "Brunswick",
+                    "user_avatar": "https://untappd.akamaized.net/profile/855ad95f045ae50e917d80243232bafa_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Sulti"
+                  },
+                  "like_id": 188407399,
+                  "like_owner": false,
+                  "created_at": "Wed, 03 Feb 2016 08:48:43 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 65063560,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2016_02_03/b5515273d237859e30ebedc15e979dee_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2016_02_03/b5515273d237859e30ebedc15e979dee_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2016_02_03/b5515273d237859e30ebedc15e979dee_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2016_02_03/b5515273d237859e30ebedc15e979dee_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 79,
+                  "user_badge_id": 99693928,
+                  "badge_name": "Brew Traveler",
+                  "badge_description": "You're exploring this great country the best way possible, one delicious beer at a time! That's one beer while in at least 5 states or countries.",
+                  "created_at": "Wed, 03 Feb 2016 06:36:59 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_traveller_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_traveller_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_traveller_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2399,
+                  "user_badge_id": 99693929,
+                  "badge_name": "Down Under  (Level 13)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 65 different beers from Australia. Try 5 more for Level 14.",
+                  "created_at": "Wed, 03 Feb 2016 06:36:59 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 273295642,
+            "created_at": "Wed, 03 Feb 2016 05:27:34 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 2348616,
+              "user_name": "Donnwaan",
+              "first_name": "Lindon",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/487aec310eb7b52cf8f5759eefd19add_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "1275695009123911"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 65062046,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2016_02_03/7690c0be474eb513476d493a47120d8e_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2016_02_03/7690c0be474eb513476d493a47120d8e_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2016_02_03/7690c0be474eb513476d493a47120d8e_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2016_02_03/7690c0be474eb513476d493a47120d8e_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 1823,
+                  "user_badge_id": 99691992,
+                  "badge_name": "Photogenic Brew  (Level 37)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 185 check-ins with a photo. ",
+                  "created_at": "Wed, 03 Feb 2016 05:27:35 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 269040941,
+            "created_at": "Fri, 22 Jan 2016 01:21:33 +0000",
+            "checkin_comment": "Light and refreshing.",
+            "rating_score": 3,
+            "user": {
+              "uid": 455629,
+              "user_name": "evilbenius",
+              "first_name": "Dustin",
+              "last_name": "F.",
+              "location": "Green Lane, PA",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/c99bddeb6fccb4627569d3f04cf544c0_100x100.png",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10512623",
+                "twitter": "EvilBenius",
+                "foursquare": "29805457"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 63782035,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2016_01_22/8a2ff14bc35346de652b750b7aa9d300_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2016_01_22/8a2ff14bc35346de652b750b7aa9d300_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2016_01_22/8a2ff14bc35346de652b750b7aa9d300_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2016_01_22/8a2ff14bc35346de652b750b7aa9d300_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2198,
+                  "user_badge_id": 98081983,
+                  "badge_name": "Pucker Up  (Level 12)",
+                  "badge_description": "Right about now you’re feeling your face tighten and your taste buds explode. The full pucker is quickly setting in and you can’t get enough. This is the wonder of the sour. That's 60 different Sour Beers. Try 5 more for Level 13.",
+                  "created_at": "Fri, 22 Jan 2016 01:21:34 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_SourBrew_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_SourBrew_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_SourBrew_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 268283078,
+            "created_at": "Mon, 18 Jan 2016 09:45:30 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "Skorulis",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "self",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "578408744"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 1464973,
+                  "user": {
+                    "uid": 1464973,
+                    "user_name": "WigPenBreweryTavern",
+                    "first_name": "Wig & Pen Brewery",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+                    "account_type": "brewery",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": {
+                      "brewery_id": 12216
+                    },
+                    "user_link": "https://untappd.com/brewery/12216"
+                  },
+                  "like_id": 183699085,
+                  "like_owner": false,
+                  "created_at": "Wed, 20 Jan 2016 07:04:07 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 63552899,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2016_01_18/4c1a8c037e4f2c9fa8966dd935c570ec_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2016_01_18/4c1a8c037e4f2c9fa8966dd935c570ec_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2016_01_18/4c1a8c037e4f2c9fa8966dd935c570ec_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2016_01_18/4c1a8c037e4f2c9fa8966dd935c570ec_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 1831,
+                  "user_badge_id": 97785536,
+                  "badge_name": "Photogenic Brew  (Level 45)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 225 check-ins with a photo. ",
+                  "created_at": "Mon, 18 Jan 2016 09:45:31 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 266775070,
+            "created_at": "Fri, 15 Jan 2016 06:02:06 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 977780,
+              "user_name": "CraigReedy",
+              "first_name": "Craig",
+              "last_name": "R.",
+              "location": "",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "Sydney burbs dweller, deep in the craft beer wastelands.",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/723967b5581f1e732dfb170292bdfa44_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "697568425",
+                "twitter": "Craig_Reedy"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 3,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 701289,
+                  "user": {
+                    "uid": 701289,
+                    "user_name": "Delia",
+                    "first_name": "Delia",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Sydney Australia ",
+                    "user_avatar": "https://untappd.akamaized.net/profile/0084bc77079d7328f3a010ab1b64ffe6_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Delia"
+                  },
+                  "like_id": 181869802,
+                  "like_owner": false,
+                  "created_at": "Fri, 15 Jan 2016 06:49:22 +0000"
+                },
+                {
+                  "uid": 215273,
+                  "user": {
+                    "uid": 215273,
+                    "user_name": "SwillyGal",
+                    "first_name": "Helen",
+                    "last_name": "",
+                    "bio": "so much beer, so little time....\n\nlenny.untappd@gmail.com",
+                    "location": "Melbourne, Oz",
+                    "user_avatar": "https://untappd.akamaized.net/profile/a5c8cce17371c1819c378fff975670b2_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/SwillyGal"
+                  },
+                  "like_id": 181864745,
+                  "like_owner": false,
+                  "created_at": "Fri, 15 Jan 2016 06:04:56 +0000"
+                },
+                {
+                  "uid": 1073630,
+                  "user": {
+                    "uid": 1073630,
+                    "user_name": "Enjoyingcraftbeers",
+                    "first_name": "George",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Umina Beach, NSW Australia ",
+                    "user_avatar": "https://untappd.akamaized.net/profile/2e5447a6ace2075d971130c5906a8cc1_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Enjoyingcraftbeers"
+                  },
+                  "like_id": 181864718,
+                  "like_owner": false,
+                  "created_at": "Fri, 15 Jan 2016 06:04:14 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 266754788,
+            "created_at": "Fri, 15 Jan 2016 04:10:14 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2598096,
+              "user_name": "AnubisShock",
+              "first_name": "Matt",
+              "last_name": "N.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/4ed91bf60a66ac1d3a5282a2cabfb88d?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10153711747496340"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 1,
+              "count": 1,
+              "items": [
+                {
+                  "user": {
+                    "uid": 1979305,
+                    "user_name": "michaelschneider2",
+                    "first_name": "Michael",
+                    "last_name": "S.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://untappd.akamaized.net/profile/9eb70bd2a95a16b906576f88889e59aa_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/michaelschneider2"
+                  },
+                  "checkin_id": 266754788,
+                  "comment_id": 21656775,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "I miss the wig & pen",
+                  "created_at": "Fri, 15 Jan 2016 09:30:14 +0000",
+                  "comment_source": "API",
+                  "tags": {
+                    "count": 0,
+                    "items": [
+
+                    ]
+                  },
+                  "entities": [
+
+                  ]
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 1979305,
+                  "user": {
+                    "uid": 1979305,
+                    "user_name": "michaelschneider2",
+                    "first_name": "Michael",
+                    "last_name": "S.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/9eb70bd2a95a16b906576f88889e59aa_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/michaelschneider2"
+                  },
+                  "like_id": 181881575,
+                  "like_owner": false,
+                  "created_at": "Fri, 15 Jan 2016 09:30:34 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 266535129,
+            "created_at": "Thu, 14 Jan 2016 08:47:53 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 607282,
+              "user_name": "MickOR",
+              "first_name": "Mick",
+              "last_name": "",
+              "location": "Watson, ACT",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/f23b02064536da24c61bf868a8092302_thumb.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "100006227352035"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 266269054,
+            "created_at": "Wed, 13 Jan 2016 02:02:16 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1028697,
+              "user_name": "Daemin",
+              "first_name": "Dominik",
+              "last_name": "G.",
+              "location": "Warsaw",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/704e34cccf484f4ee708d00657093674?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": {
+                "twitter": "Daemin"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 184,
+                  "user_badge_id": 97016470,
+                  "badge_name": "Pucker Up",
+                  "badge_description": "Right about now you’re feeling your face tighten and your taste buds explode. The full pucker is quickly setting in and you can’t get enough. This is the wonder of the sour. That's 5 different Sour Beers. Try 5 more for Level 2.",
+                  "created_at": "Wed, 13 Jan 2016 02:02:17 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_SourBrew_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_SourBrew_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_SourBrew_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 265968367,
+            "created_at": "Mon, 11 Jan 2016 10:22:22 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 55397,
+              "user_name": "gwavz",
+              "first_name": "Brad",
+              "last_name": "G.",
+              "location": "Australia",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/60a284c49fc83bfbfa18c90e4fd6110a_thumb.jpg",
+              "is_private": 0,
+              "contact": {
+                "twitter": "gwavz",
+                "facebook": "533541393"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 7194,
+                  "user": {
+                    "uid": 7194,
+                    "user_name": "Daimo",
+                    "first_name": "Damian",
+                    "last_name": "P.",
+                    "bio": "If you cheat for badges or unique totals, don't add me as a friend",
+                    "location": "Melbourne",
+                    "user_avatar": "https://untappd.akamaized.net/profile/fc7b45caee53d870a20d78cc22ae16a1_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Daimo"
+                  },
+                  "like_id": 181010556,
+                  "like_owner": false,
+                  "created_at": "Mon, 11 Jan 2016 10:52:04 +0000"
+                },
+                {
+                  "uid": 34171,
+                  "user": {
+                    "uid": 34171,
+                    "user_name": "vicbeeroclock",
+                    "first_name": "Vicbeeroclock",
+                    "last_name": "",
+                    "bio": "A Bloke from the Bush who loves a good beer.",
+                    "location": "The Bush",
+                    "user_avatar": "https://untappd.akamaized.net/profile/206fe01cd89139ed5a3d1fd5e1365eeb_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/vicbeeroclock"
+                  },
+                  "like_id": 181009407,
+                  "like_owner": false,
+                  "created_at": "Mon, 11 Jan 2016 10:28:25 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 265964915,
+            "created_at": "Mon, 11 Jan 2016 07:41:05 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 1584107,
+              "user_name": "andrewptierney",
+              "first_name": "Andrew",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/d1c1cb88542f4bd7eb143d698791ae7f_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "600897684"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Windows Phone",
+              "app_website": "http://untappd.com/windows"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 258330474,
+            "created_at": "Wed, 23 Dec 2015 06:49:14 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 2609983,
+              "user_name": "MrTDubya",
+              "first_name": "Evan",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/7b434f6e725aacf1d33b34dfd296c3c4?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 60501746,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2015_12_23/1f7905d1f598f6b7f54f1418a4e47ce3_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2015_12_23/1f7905d1f598f6b7f54f1418a4e47ce3_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2015_12_23/1f7905d1f598f6b7f54f1418a4e47ce3_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2015_12_23/1f7905d1f598f6b7f54f1418a4e47ce3_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 252198016,
+            "created_at": "Sat, 05 Dec 2015 04:00:55 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1291581,
+              "user_name": "ausbeerjourney",
+              "first_name": "adrian",
+              "last_name": "m.",
+              "location": "canberra , act",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Hobbies include drinking craft beer, enjoying craft beer and talking about craft beer. st.kilda fc, liverpool and wwe",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/710288439bbaef5e450735bef066f981_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10154386827239278"
+              }
+            },
+            "beer": {
+              "bid": 1292592,
+              "beer_name": "Duncan!",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1292592_a7d91_sm.jpeg",
+              "beer_abv": 3.9,
+              "beer_ibu": 0,
+              "beer_slug": "wig-pen-brewery-duncan",
+              "beer_description": "Duncan! is a Gose, a little-known German style originating in Goslar, near Leipzig. It is characterised by its light body and salty and sour flavour, as well as citrus notes from coriander seeds. Duncan! contains 1.08g of salt per litre.",
+              "is_in_production": 1,
+              "beer_style_id": 81,
+              "beer_style": "Sour - Gose",
+              "auth_rating": 4,
+              "wish_list": false,
+              "rating_score": 3.54,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 12216,
+              "brewery_name": "Wig & Pen Brewery",
+              "brewery_slug": "wig-pen-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-12216_39874.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wig_and_pen",
+                "facebook": "http://www.facebook.com/wigandpen.canberra",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Canberra",
+                "brewery_state": "ACT",
+                "lat": -35.2784,
+                "lng": 149.13
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2500367,
+              "venue_name": "Wig & Pen",
+              "venue_slug": "wig-and-pen",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Music School",
+                    "category_id": "4f04b10d2fb6e1c99f3db0be",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 100, William Herbert Pl.",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2804,
+                "lng": 149.124
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "54b78c69498e112621c2126b",
+                "foursquare_url": "http://4sq.com/1KMCGx4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 2,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 1159508,
+                  "user": {
+                    "uid": 1159508,
+                    "user_name": "Kymothy",
+                    "first_name": "Kym",
+                    "last_name": "R.",
+                    "bio": "",
+                    "location": "Canberra",
+                    "user_avatar": "https://untappd.akamaized.net/profile/6d315f37592a126dcb941d68e2b21df1_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Kymothy"
+                  },
+                  "like_id": 167733167,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Dec 2015 11:01:11 +0000"
+                },
+                {
+                  "uid": 2079961,
+                  "user": {
+                    "uid": 2079961,
+                    "user_name": "wonnwonn",
+                    "first_name": "Wonn",
+                    "last_name": "W.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7c4e1906e6f1bd10bb2d8dd32714fde9_100x100.gif",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/wonnwonn"
+                  },
+                  "like_id": 167711145,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Dec 2015 07:10:16 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/1292592?min_id=279293934",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/1292592?max_id=252198016",
+          "max_id": 252198016
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.66577,
+            "beer": {
+              "bid": 1824337,
+              "beer_name": "Never Never Again Again",
+              "beer_abv": 5.1,
+              "beer_ibu": 0,
+              "beer_slug": "the-veil-brewing-co-never-never-again-again",
+              "beer_style": "Sour - Gose",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1824337_6984a_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 245461,
+              "brewery_name": "The Veil Brewing Co.",
+              "brewery_slug": "the-veil-brewing-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-245461_253bb.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "TheVeilBrewing",
+                "facebook": "https://www.facebook.com/theveilbrewing/",
+                "instagram": "TheVeilBrewing",
+                "url": "http://www.theveilbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Richmond",
+                "brewery_state": "VA",
+                "lat": 37.5684,
+                "lng": -77.4752
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.5875,
+            "beer": {
+              "bid": 867237,
+              "beer_name": "Tritonia With Tart Cherry",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "creature-comforts-brewing-company-tritonia-with-tart-cherry",
+              "beer_style": "Sour - Gose",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-867237_d34dd_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 8509,
+              "brewery_name": "Creature Comforts Brewing Company",
+              "brewery_slug": "creature-comforts-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-8509_7c3bc.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "creaturebeer",
+                "facebook": "http://www.facebook.com/pages/Creature-Comforts/105530756204580",
+                "instagram": "creaturecomfortsbeer",
+                "url": "http://www.creaturecomfortsbeer.com/"
+              },
+              "location": {
+                "brewery_city": "Athens",
+                "brewery_state": "GA",
+                "lat": 33.9589,
+                "lng": -83.38
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.58099,
+            "beer": {
+              "bid": 1757605,
+              "beer_name": "Return of the Lac",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "rar-brewing-return-of-the-lac",
+              "beer_style": "Sour - Gose",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 68522,
+              "brewery_name": "RAR Brewing ",
+              "brewery_slug": "rar-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-68522_cfccb.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "rarbrew",
+                "facebook": "http://www.facebook.com/rarbrewing",
+                "instagram": "rarbrew",
+                "url": "http://rarbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Cambridge",
+                "brewery_state": "MD",
+                "lat": 38.5704,
+                "lng": -76.0774
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.56,
+            "beer": {
+              "bid": 1692206,
+              "beer_name": "Stonefruit Funkadelic",
+              "beer_abv": 6.5,
+              "beer_ibu": 2,
+              "beer_slug": "dionysus-brewing-company-stonefruit-funkadelic",
+              "beer_style": "Sour - Gose",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 83319,
+              "brewery_name": "Dionysus Brewing Company",
+              "brewery_slug": "dionysus-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-83319_6c8ff.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "dionysusbrewingco",
+                "facebook": "https://www.facebook.com/pages/Dionysus-Brewing-Company/746507505457411",
+                "instagram": "dionysusbrewingco",
+                "url": "http://www.dionysusbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Bakersfield",
+                "brewery_state": "CA",
+                "lat": 35.316,
+                "lng": -119.072
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.54464,
+            "beer": {
+              "bid": 1821372,
+              "beer_name": "Tyger Blud 4.0 (Andall)",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "the-answer-tyger-blud-4-0-andall",
+              "beer_style": "Sour - Gose",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1206196_9f0a9_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 114660,
+              "brewery_name": "The Answer ",
+              "brewery_slug": "the-answer",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-114660_3e2f7.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "theanswerbrew",
+                "facebook": "https://www.facebook.com/theanswerbrewpub",
+                "instagram": "theanswerva",
+                "url": "http://www.theanswerbrewpub.com"
+              },
+              "location": {
+                "brewery_city": "Richmond",
+                "brewery_state": "VA",
+                "lat": 37.5931,
+                "lng": -77.5071
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "weighted_rating_score": 3.60835,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "subscribe_status": {
+        "is_subscribed": 0
+      }
+    }
+  }
+}

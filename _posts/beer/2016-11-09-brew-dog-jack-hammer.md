@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1507888_10153966650763745_3858788343816093746_n.jpg?oh=6c2ae4c02e62045dd736f87ab0604d44&oe=5B372755
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1507888_10153966650763745_3858788343816093746_n.jpg?_nc_cat=0&oh=7b675fea5a77a5eae8c44411a4e027a6&oe=5B864155
 beer-date: "2016-03-16"
 desc: "So much floral and citrus aroma. More bitterness than I would like but once you get used to it the flavour is amazing"
 permalink: /beer/:title.html

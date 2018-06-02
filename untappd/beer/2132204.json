@@ -1,0 +1,2814 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.21,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.011,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 2132204,
+      "beer_name": "IPA",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 5.7,
+      "beer_ibu": 60,
+      "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+      "beer_style": "IPA - International",
+      "is_in_production": 1,
+      "beer_slug": "basement-brewhouse-ipa",
+      "is_homebrew": 0,
+      "created_at": "Tue, 06 Jun 2017 23:55:15 +0000",
+      "rating_count": 19,
+      "rating_score": 3.42105,
+      "stats": {
+        "total_count": 26,
+        "monthly_count": 11,
+        "total_user_count": 22,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 304416,
+        "brewery_name": "Basement Brewhouse",
+        "brewery_slug": "basement-brewhouse",
+        "brewery_type": "Brew Pub",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "",
+          "facebook": "https://www.facebook.com/basementbrewhouse/",
+          "url": "https://www.bankstownsports.com/brewhouse"
+        },
+        "location": {
+          "brewery_city": "",
+          "brewery_state": "",
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 4,
+        "items": [
+          {
+            "photo_id": 132643337,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_29/08c6085f426e0cc784aa32cf1bb78093_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_29/08c6085f426e0cc784aa32cf1bb78093_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_29/08c6085f426e0cc784aa32cf1bb78093_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_29/08c6085f426e0cc784aa32cf1bb78093_raw.jpg"
+            },
+            "created_at": "Sat, 29 Jul 2017 06:44:14 +0000",
+            "checkin_id": 484056252,
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "is_in_production": 1,
+              "beer_style_id": 260,
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.421,
+              "rating_count": 19,
+              "count": 19,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 265208,
+              "user_name": "theworstbill",
+              "first_name": "Bill",
+              "last_name": "A",
+              "user_avatar": "https://untappd.akamaized.net/profile/44a3d2f2f75caa3e90b4818127916cf6_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 640387,
+                "venue_name": "Basement Brewhouse",
+                "venue_slug": "basement-brewhouse",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Sports Bar",
+                      "category_id": "4bf58dd8d48988d11d941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "General Entertainment",
+                      "category_id": "4bf58dd8d48988d1f1931735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "8 Greenfield Parade",
+                  "venue_city": "Bankstown",
+                  "venue_state": "NSW",
+                  "lat": -33.9201,
+                  "lng": 151.034
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.bankstownsports.com/brewhouse"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b52c4eff964a520b98727e3",
+                  "foursquare_url": "http://4sq.com/9Iyzd4"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 132643241,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_29/723eab1b820587f0833e098e27acde4b_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_29/723eab1b820587f0833e098e27acde4b_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_29/723eab1b820587f0833e098e27acde4b_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_29/723eab1b820587f0833e098e27acde4b_raw.jpg"
+            },
+            "created_at": "Sat, 29 Jul 2017 06:40:22 +0000",
+            "checkin_id": 484055901,
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "is_in_production": 1,
+              "beer_style_id": 260,
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.421,
+              "rating_count": 19,
+              "count": 19,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 265208,
+              "user_name": "theworstbill",
+              "first_name": "Bill",
+              "last_name": "A",
+              "user_avatar": "https://untappd.akamaized.net/profile/44a3d2f2f75caa3e90b4818127916cf6_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 640387,
+                "venue_name": "Basement Brewhouse",
+                "venue_slug": "basement-brewhouse",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Sports Bar",
+                      "category_id": "4bf58dd8d48988d11d941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "General Entertainment",
+                      "category_id": "4bf58dd8d48988d1f1931735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "8 Greenfield Parade",
+                  "venue_city": "Bankstown",
+                  "venue_state": "NSW",
+                  "lat": -33.9201,
+                  "lng": 151.034
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.bankstownsports.com/brewhouse"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b52c4eff964a520b98727e3",
+                  "foursquare_url": "http://4sq.com/9Iyzd4"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 132617742,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_29/9001407fb0071687cb23a1842322d989_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_29/9001407fb0071687cb23a1842322d989_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_29/9001407fb0071687cb23a1842322d989_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_29/9001407fb0071687cb23a1842322d989_raw.jpeg"
+            },
+            "created_at": "Sat, 29 Jul 2017 02:08:16 +0000",
+            "checkin_id": 483963611,
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "is_in_production": 1,
+              "beer_style_id": 260,
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.421,
+              "rating_count": 19,
+              "count": 19,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1567661,
+              "user_name": "Deadly",
+              "first_name": "Sally",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/7c90c69c5498b9ece719deeff34dac2a_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3122489,
+                "venue_name": "Monkey Mania",
+                "venue_slug": "monkey-mania",
+                "primary_category": "Arts & Entertainment",
+                "parent_category_id": "4d4b7104d754a06370d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Theme Park",
+                      "category_id": "4bf58dd8d48988d182941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "8 Greenfield Parade",
+                  "venue_city": "Bankstown",
+                  "venue_state": "NSW",
+                  "lat": -33.9203,
+                  "lng": 151.035
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "4f12464be4b0960dffb8273e",
+                  "foursquare_url": "http://4sq.com/y6sJBx"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 128405199,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_30/9c645d610d2e946a5d235e4f2cd84cff_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_06_30/9c645d610d2e946a5d235e4f2cd84cff_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_30/9c645d610d2e946a5d235e4f2cd84cff_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_06_30/9c645d610d2e946a5d235e4f2cd84cff_raw.jpg"
+            },
+            "created_at": "Fri, 30 Jun 2017 07:28:17 +0000",
+            "checkin_id": 471374103,
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "is_in_production": 1,
+              "beer_style_id": 260,
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.421,
+              "rating_count": 19,
+              "count": 19,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2674561,
+              "user_name": "Torana24",
+              "first_name": "Rob",
+              "last_name": "D",
+              "user_avatar": "https://untappd.akamaized.net/profile/87a32c8fdda0f3001025407d1a4daf91_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 640387,
+                "venue_name": "Basement Brewhouse",
+                "venue_slug": "basement-brewhouse",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Sports Bar",
+                      "category_id": "4bf58dd8d48988d11d941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "General Entertainment",
+                      "category_id": "4bf58dd8d48988d1f1931735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "8 Greenfield Parade",
+                  "venue_city": "Bankstown",
+                  "venue_state": "NSW",
+                  "lat": -33.9201,
+                  "lng": 151.034
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.bankstownsports.com/brewhouse"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b52c4eff964a520b98727e3",
+                  "foursquare_url": "http://4sq.com/9Iyzd4"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 487066647,
+            "created_at": "Sat, 05 Aug 2017 02:57:01 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 3310681,
+              "user_name": "Graeme1",
+              "first_name": "Graeme",
+              "last_name": "G.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/4c15bfa3175970688861e01901c0c04c?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 46229,
+                  "user_badge_id": 212394294,
+                  "badge_name": "IPA Day (2017)",
+                  "badge_description": "Grab your hoppiest India Pale Ale and get ready to celebrate IPA Day! One of the most iconic and popular styles in the beer world, let’s all raise a glass in celebration!",
+                  "created_at": "Sat, 05 Aug 2017 02:57:01 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_IPADay2017_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_IPADay2017_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_IPADay2017_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2600,
+                  "user_badge_id": 212394298,
+                  "badge_name": "I Believe in IPA!  (Level 14)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 70 different IPAs. Try 5 more for Level 15!",
+                  "created_at": "Sat, 05 Aug 2017 02:57:02 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 485514809,
+            "created_at": "Tue, 01 Aug 2017 10:36:02 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 4043790,
+              "user_name": "jcloch",
+              "first_name": "Joe",
+              "last_name": "L.",
+              "location": "Maumee, OH",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Life is just a tire swing",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/0640eb5c7ae6629bae9fe05bf8e0be3d_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 15109,
+                  "user_badge_id": 211148325,
+                  "badge_name": "Basement Dweller",
+                  "badge_description": "Thanks for joining us! Keep checking in your beers when with us in the Basement Brewhouse to jump to the next level. Claim prizes at level 2 & level 4.\n",
+                  "created_at": "Tue, 01 Aug 2017 10:36:02 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/b6c51c5fb255743742a23319e9df451c_sm.jpeg",
+                    "md": "https://untappd.akamaized.net/badges/b6c51c5fb255743742a23319e9df451c_md.jpeg",
+                    "lg": "https://untappd.akamaized.net/badges/b6c51c5fb255743742a23319e9df451c_lg.jpeg"
+                  }
+                },
+                {
+                  "badge_id": 34713,
+                  "user_badge_id": 211148326,
+                  "badge_name": "Middle of the Road (Level 9)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 45 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 10!",
+                  "created_at": "Tue, 01 Aug 2017 10:36:02 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 484069886,
+            "created_at": "Sat, 29 Jul 2017 10:05:26 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 811148,
+              "user_name": "Typhoon132",
+              "first_name": "Byron",
+              "last_name": "L.",
+              "location": "Sydney ",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/9a860de1d1dc50b8f4a53120702907a8_thumb.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3332852,
+              "venue_name": "Bankstown RSL",
+              "venue_slug": "bankstown-rsl",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Food Court",
+                    "category_id": "4bf58dd8d48988d120951735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "32 Kitchener Pde.",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9159,
+                "lng": 151.032
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4b9cb4f6f964a520797736e3",
+                "foursquare_url": "http://4sq.com/aKsyFd"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 484056366,
+            "created_at": "Sat, 29 Jul 2017 06:45:23 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 77963,
+              "user_name": "terminal2k",
+              "first_name": "Fat",
+              "last_name": "C.",
+              "location": "St Leonards",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/07d9314869385f50b91092620c679f19_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 1008611,
+                  "user": {
+                    "uid": 1008611,
+                    "user_name": "Lucazoccatelli",
+                    "first_name": "Luca",
+                    "last_name": "Z.",
+                    "bio": "Wog boy with a passion for craft beer",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3e3f439b073218a8ffd9c1e159b7a0c2_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 402229643,
+                  "like_owner": false,
+                  "created_at": "Sat, 29 Jul 2017 07:06:17 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 16418,
+                  "user_badge_id": 210233504,
+                  "badge_name": "Basement Dweller (Level 4)",
+                  "badge_description": "Thanks for joining us! Keep checking in your beers when with us in the Basement Brewhouse to jump to the next level. Claim prizes at level 2 & level 4.\n",
+                  "created_at": "Sat, 29 Jul 2017 06:45:24 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/b6c51c5fb255743742a23319e9df451c_sm.jpeg",
+                    "md": "https://untappd.akamaized.net/badges/b6c51c5fb255743742a23319e9df451c_md.jpeg",
+                    "lg": "https://untappd.akamaized.net/badges/b6c51c5fb255743742a23319e9df451c_lg.jpeg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 484056252,
+            "created_at": "Sat, 29 Jul 2017 06:44:09 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 265208,
+              "user_name": "theworstbill",
+              "first_name": "Bill",
+              "last_name": "A.",
+              "location": "Lockout Law City",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/44a3d2f2f75caa3e90b4818127916cf6_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2029897,
+                  "user": {
+                    "uid": 2029897,
+                    "user_name": "nikitadmitruk",
+                    "first_name": "Nikita",
+                    "last_name": "D.",
+                    "bio": "",
+                    "location": "Saint-Petersburg",
+                    "user_avatar": "https://untappd.akamaized.net/profile/a7bfbd2503fdb041216eca0e817f19b8_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 402237848,
+                  "like_owner": false,
+                  "created_at": "Sat, 29 Jul 2017 08:13:12 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 132643337,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_29/08c6085f426e0cc784aa32cf1bb78093_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_29/08c6085f426e0cc784aa32cf1bb78093_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_29/08c6085f426e0cc784aa32cf1bb78093_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_29/08c6085f426e0cc784aa32cf1bb78093_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 484055901,
+            "created_at": "Sat, 29 Jul 2017 06:40:16 +0000",
+            "checkin_comment": "Disappointing, like the all the Trumps",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 265208,
+              "user_name": "theworstbill",
+              "first_name": "Bill",
+              "last_name": "A.",
+              "location": "Lockout Law City",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/44a3d2f2f75caa3e90b4818127916cf6_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 132643241,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_29/723eab1b820587f0833e098e27acde4b_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_29/723eab1b820587f0833e098e27acde4b_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_29/723eab1b820587f0833e098e27acde4b_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_29/723eab1b820587f0833e098e27acde4b_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 484055408,
+            "created_at": "Sat, 29 Jul 2017 06:35:00 +0000",
+            "checkin_comment": "Bill A. Procured a second by accident",
+            "rating_score": 2,
+            "user": {
+              "uid": 927334,
+              "user_name": "Unit92",
+              "first_name": "Jim",
+              "last_name": "C.",
+              "location": "Sydney Australia",
+              "url": "http://worldbeerexperience.blogspot.com.au/",
+              "is_supporter": 1,
+              "bio": "I beer therefore i am",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/6d431f63f11282081a57962c3a88d331_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 484048567,
+            "created_at": "Sat, 29 Jul 2017 05:38:34 +0000",
+            "checkin_comment": "Pretty abysmal. Unbalanced. Galaxy comes Instrong and the bitterness is cloying. Leaves an earthy residue. Needs more dryhop",
+            "rating_score": 2,
+            "user": {
+              "uid": 927334,
+              "user_name": "Unit92",
+              "first_name": "Jim",
+              "last_name": "C.",
+              "location": "Sydney Australia",
+              "url": "http://worldbeerexperience.blogspot.com.au/",
+              "is_supporter": 1,
+              "bio": "I beer therefore i am",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/6d431f63f11282081a57962c3a88d331_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2672027,
+                  "user": {
+                    "uid": 2672027,
+                    "user_name": "Ggeers",
+                    "first_name": "Glenn",
+                    "last_name": "G.",
+                    "bio": "Home is where the beer is.",
+                    "location": "I come from a land downunder",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3ca7db6b62c34bba82f9213710386810_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 402217827,
+                  "like_owner": false,
+                  "created_at": "Sat, 29 Jul 2017 05:39:34 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 483963611,
+            "created_at": "Sat, 29 Jul 2017 02:08:14 +0000",
+            "checkin_comment": "Seems to be the best of the Basement offerings. Decent hoppy IPA.",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 1567661,
+              "user_name": "Deadly",
+              "first_name": "Sally",
+              "last_name": "B.",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/7c90c69c5498b9ece719deeff34dac2a_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3122489,
+              "venue_name": "Monkey Mania",
+              "venue_slug": "monkey-mania",
+              "primary_category": "Arts & Entertainment",
+              "parent_category_id": "4d4b7104d754a06370d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Theme Park",
+                    "category_id": "4bf58dd8d48988d182941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9203,
+                "lng": 151.035
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4f12464be4b0960dffb8273e",
+                "foursquare_url": "http://4sq.com/y6sJBx"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 379556,
+                  "user": {
+                    "uid": 379556,
+                    "user_name": "PlinyDownUnder",
+                    "first_name": "Steve",
+                    "last_name": "S.",
+                    "bio": "",
+                    "location": "Sydney",
+                    "user_avatar": "https://untappd.akamaized.net/profile/f1844802de27553968aaa1a68afd8c8f_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 402161892,
+                  "like_owner": false,
+                  "created_at": "Sat, 29 Jul 2017 02:42:15 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 132617742,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_29/9001407fb0071687cb23a1842322d989_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_29/9001407fb0071687cb23a1842322d989_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_29/9001407fb0071687cb23a1842322d989_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_29/9001407fb0071687cb23a1842322d989_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 478094600,
+            "created_at": "Sat, 15 Jul 2017 06:05:51 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 1959547,
+              "user_name": "jimterrie",
+              "first_name": "Jim",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/ca676879ff5397c5c7860d4e67430ceb?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 99,
+                  "user_badge_id": 206253549,
+                  "badge_name": "I Believe in IPA! (Level 5)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 25 different IPAs. Try 5 more for Level 6.",
+                  "created_at": "Sat, 15 Jul 2017 11:05:52 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 475856384,
+            "created_at": "Sun, 09 Jul 2017 03:05:50 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 3781120,
+              "user_name": "knewms7",
+              "first_name": "Kyle",
+              "last_name": "N.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/2dd84268590b8ca1b6dfe4822f75d164_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34705,
+                  "user_badge_id": 204775768,
+                  "badge_name": "Middle of the Road",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 5 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 2!",
+                  "created_at": "Sun, 09 Jul 2017 08:05:50 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 475190714,
+            "created_at": "Sat, 08 Jul 2017 04:16:43 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 622865,
+              "user_name": "Hugewick",
+              "first_name": "Rian",
+              "last_name": "W.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/f82484a7168ada86e1406033a045af0e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 474326790,
+            "created_at": "Thu, 06 Jul 2017 09:00:34 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 3093189,
+              "user_name": "ThrillhouseMillhouse",
+              "first_name": "Thrillhouse",
+              "last_name": "M.",
+              "location": "Sydney, Australia",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "The famous Millhouse, whisky nerd, brewing enthusiast & several other drinks related things @IareMillhouse",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/cc6c96d73be3c36448e16edbfd87dc86_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 474326651,
+            "created_at": "Thu, 06 Jul 2017 08:56:48 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 1782224,
+              "user_name": "AdamSharpe",
+              "first_name": "Adam",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/d3930331b74804cb40b07f82130eeccc_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5594,
+                  "user_badge_id": 203760594,
+                  "badge_name": "Verified Adventure (Level 14)",
+                  "badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 70 check-ins at venue that is verified. Try 5 more for Level 15!",
+                  "created_at": "Thu, 06 Jul 2017 13:56:49 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 471374103,
+            "created_at": "Fri, 30 Jun 2017 07:28:12 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 2674561,
+              "user_name": "Torana24",
+              "first_name": "Rob",
+              "last_name": "D.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/87a32c8fdda0f3001025407d1a4daf91_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2132204,
+              "beer_name": "IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.7,
+              "beer_ibu": 60,
+              "beer_slug": "basement-brewhouse-ipa",
+              "beer_description": "Our IPA is unapologetically bold. Expect intense citric, grassy and tropical flavours and aromas from a triple dose of Australian and American hops all rounded out by a smooth lingering bitterness. A definite must try for the hop forward beer lover.",
+              "beer_style": "IPA - International",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 304416,
+              "brewery_name": "Basement Brewhouse",
+              "brewery_slug": "basement-brewhouse",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304416_8a5c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/basementbrewhouse/",
+                "url": "https://www.bankstownsports.com/brewhouse"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_8f1e160a_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2398763,
+                  "user": {
+                    "uid": 2398763,
+                    "user_name": "Dobby67",
+                    "first_name": "Dobby ",
+                    "last_name": "t.",
+                    "bio": "",
+                    "location": "From Sydney, Australia ",
+                    "user_avatar": "https://untappd.akamaized.net/profile/0cd3a3839ae17d69443f57a89b512bb8_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 390840570,
+                  "like_owner": false,
+                  "created_at": "Fri, 30 Jun 2017 07:34:00 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 128405199,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_30/9c645d610d2e946a5d235e4f2cd84cff_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_06_30/9c645d610d2e946a5d235e4f2cd84cff_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_30/9c645d610d2e946a5d235e4f2cd84cff_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_06_30/9c645d610d2e946a5d235e4f2cd84cff_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 15109,
+                  "user_badge_id": 201743285,
+                  "badge_name": "Basement Dweller",
+                  "badge_description": "Thanks for joining us! Keep checking in your beers when with us in the Basement Brewhouse to jump to the next level. Claim prizes at level 2 & level 4.\n",
+                  "created_at": "Fri, 30 Jun 2017 12:28:12 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/b6c51c5fb255743742a23319e9df451c_sm.jpeg",
+                    "md": "https://untappd.akamaized.net/badges/b6c51c5fb255743742a23319e9df451c_md.jpeg",
+                    "lg": "https://untappd.akamaized.net/badges/b6c51c5fb255743742a23319e9df451c_lg.jpeg"
+                  }
+                },
+                {
+                  "badge_id": 790,
+                  "user_badge_id": 201743286,
+                  "badge_name": "Photogenic Brew (Level 5)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 25 check-ins with a photo. ",
+                  "created_at": "Fri, 30 Jun 2017 12:28:12 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 92,
+                  "user_badge_id": 201743287,
+                  "badge_name": "I Believe in IPA! (Level 4)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 20 different IPAs. Try 5 more for Level 5.",
+                  "created_at": "Fri, 30 Jun 2017 12:28:12 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/2132204?min_id=487066647",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/2132204?max_id=471374103",
+          "max_id": 471374103
+        }
+      },
+      "similar": {
+        "count": 4,
+        "items": [
+          {
+            "rating_score": 3.51035,
+            "beer": {
+              "bid": 677170,
+              "beer_name": "Sharkinator",
+              "beer_abv": 4.8,
+              "beer_ibu": 40,
+              "beer_slug": "lost-coast-brewery-sharkinator",
+              "beer_style": "IPA - White",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-677170_f178a_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 803,
+              "brewery_name": "Lost Coast Brewery",
+              "brewery_slug": "lost-coast-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-803_5ae80.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "lostcoastbrewer",
+                "facebook": "http://www.facebook.com/pages/Lost-Coast-Brewery/18938996622",
+                "instagram": "lostcoastbrewery",
+                "url": "http://www.lostcoast.com"
+              },
+              "location": {
+                "brewery_city": "Eureka",
+                "brewery_state": "CA",
+                "lat": 40.7674,
+                "lng": -124.189
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.61576,
+            "beer": {
+              "bid": 756453,
+              "beer_name": "Jet Lag IPA (Finger Lime IPA)",
+              "beer_abv": 6,
+              "beer_ibu": 55,
+              "beer_slug": "nomad-brewing-co-jet-lag-ipa-finger-lime-ipa",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-756453_f83e8_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 145688,
+              "brewery_name": "Nomad Brewing Co.",
+              "brewery_slug": "nomad-brewing-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-145688_932b2.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "NomadsBrewing",
+                "facebook": "https://www.facebook.com/NomadBrewingCo",
+                "instagram": "NomadsBrewing",
+                "url": "http://www.nomadbrewingco.com.au"
+              },
+              "location": {
+                "brewery_city": "Brookvale",
+                "brewery_state": "NSW",
+                "lat": -33.7639,
+                "lng": 151.272
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.09629,
+            "beer": {
+              "bid": 757814,
+              "beer_name": "Former Tenant",
+              "beer_abv": 7.8,
+              "beer_ibu": 0,
+              "beer_slug": "modus-operandi-brewing-co-former-tenant",
+              "beer_style": "IPA - Red",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-757814_eafdd_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 145927,
+              "brewery_name": "Modus Operandi Brewing Co.",
+              "brewery_slug": "modus-operandi-brewing-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-145927_ac0fb.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "MOBrewing",
+                "facebook": "https://www.facebook.com/ModusOperandiBrewing",
+                "instagram": "modusoperandibrewing",
+                "url": "http://www.mobrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Mona Vale",
+                "brewery_state": "NSW",
+                "lat": -33.6759,
+                "lng": 151.306
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.15157,
+            "beer": {
+              "bid": 995897,
+              "beer_name": "IIPA",
+              "beer_abv": 8.8,
+              "beer_ibu": 120,
+              "beer_slug": "pirate-life-brewing-iipa",
+              "beer_style": "IPA - Imperial / Double",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-995897_72b82_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_06438.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "instagram": "PirateLifeBeer",
+                "url": "www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Hindmarsh",
+                "brewery_state": "SA",
+                "lat": -34.9056,
+                "lng": 138.566
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.63771,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

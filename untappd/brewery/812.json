@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.769,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.014,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 812,
+      "brewery_name": "Magic Hat Brewing Company",
+      "brewery_slug": "magic-hat-brewing-company",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-812_78347.jpeg",
+      "country_name": "United States",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "magichat",
+        "follow_status": false,
+        "follower_count": 64250,
+        "uid": 119193,
+        "mute_status": "none"
+      },
+      "beer_count": 83,
+      "contact": {
+        "twitter": "magichat",
+        "facebook": "http://facebook.com/magichatbrewing",
+        "instagram": "magichatbrewing",
+        "url": "http://www.magichat.net/"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "5 Bartlett Bay Rd",
+        "brewery_city": "South Burlington",
+        "brewery_state": "VT",
+        "brewery_lat": 44.429,
+        "brewery_lng": -73.2135
+      },
+      "rating": {
+        "count": 1022164,
+        "rating_score": 3.416
+      },
+      "brewery_description": "Where ancient alchemy meets modern day science to create the best tasting beer on the planet.",
+      "stats": {
+        "total_count": 1540709,
+        "unique_count": 387865,
+        "monthly_count": 17850,
+        "weekly_count": 5387,
+        "user_count": 0,
+        "age_on_service": 2498.9843171296297
+      },
+      "owners": {
+        "count": 2,
+        "items": [
+          {
+            "brewery_id": 195747,
+            "is_brewery_group": 0,
+            "brewery_name": "Florida Ice and Farm Company S.A."
+          },
+          {
+            "brewery_id": 2336,
+            "is_brewery_group": 0,
+            "brewery_name": "Cerveceria Costa Rica (Florida Bebidas)"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 72019,
+              "venue_name": "Magic Hat Brewing Company",
+              "venue_slug": "magic-hat-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "5 Bartlett Bay Rd",
+                "venue_city": "South Burlington",
+                "venue_state": "VT",
+                "venue_country": "United States",
+                "lat": 44.4287,
+                "lng": -73.2129
+              },
+              "contact": {
+                "twitter": "@magichat",
+                "venue_url": "http://www.magichat.net"
+              },
+              "foursquare": {
+                "foursquare_id": "4aa57909f964a520834820e3",
+                "foursquare_url": "http://4sq.com/7M7ZvW"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

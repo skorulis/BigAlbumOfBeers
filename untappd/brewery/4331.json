@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.506,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.009,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 4331,
+      "brewery_name": "Grand Ridge Brewery",
+      "brewery_slug": "grand-ridge-brewery",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-4331_22104.jpeg",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "GrandRidgeBrewery",
+        "follow_status": false,
+        "follower_count": 444,
+        "uid": 884262,
+        "mute_status": "none"
+      },
+      "beer_count": 31,
+      "contact": {
+        "twitter": "grandridgebeer",
+        "facebook": "http://www.facebook.com/pages/Grand-Ridge-Brewery/149607794490",
+        "instagram": "grandridgebeer",
+        "url": "http://www.grand-ridge.com.au"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "1 Baromi Road",
+        "brewery_city": "Mirboo North",
+        "brewery_state": "VIC",
+        "brewery_lat": -38.4011,
+        "brewery_lng": 146.163
+      },
+      "rating": {
+        "count": 9617,
+        "rating_score": 3.258
+      },
+      "brewery_description": "Victoria's oldest microbrewery, set in a 1920's butter factory in the picturesque town of Mirboo North atop the Strzelecki Ranges.",
+      "stats": {
+        "total_count": 12259,
+        "unique_count": 4042,
+        "monthly_count": 119,
+        "weekly_count": 27,
+        "user_count": 0,
+        "age_on_service": 2415.939479166667
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 23009,
+              "venue_name": "Grand Ridge Brewery",
+              "venue_slug": "grand-ridge-brewery",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1 Baromi Rd",
+                "venue_city": "Mirboo North",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -38.4008,
+                "lng": 146.162
+              },
+              "contact": {
+                "twitter": "@grandridgebeer",
+                "venue_url": "http://www.grand-ridge.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4bf74fee5317a5933df6fd7e",
+                "foursquare_url": "http://4sq.com/dngVAE"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

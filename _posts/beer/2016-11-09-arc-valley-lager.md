@@ -9,7 +9,7 @@ brewery: "Pinnacle Drinks Group (Woolworths)"
 breweryURL: "/brewery/pinnacle-drinks-group-woolworths.html"
 style: "Lager - Euro"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13413137_10154200938153745_6141742786313639808_n.jpg?oh=bcaea9ba0b356846cf74d0e295736117&oe=5B3A30EE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13413137_10154200938153745_6141742786313639808_n.jpg?_nc_cat=0&oh=40680dd4850af53dce819d29c9d114ac&oe=5B894AEE
 beer-date: "2016-06-16"
 desc: "Nothing particularly good about this beer. It’s drinkable but that’s about it"
 permalink: /beer/:title.html

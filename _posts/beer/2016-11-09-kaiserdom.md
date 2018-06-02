@@ -9,7 +9,7 @@ brewery: "Privatbrauerei Kaiserdom"
 breweryURL: "/brewery/privatbrauerei-kaiserdom.html"
 style: "Pilsner - German"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p320x320/10931372_10153055725393745_7415839926658912556_n.jpg?oh=51d0266cfc0d6df2001665eed328407f&oe=5B41AF2B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p320x320/10931372_10153055725393745_7415839926658912556_n.jpg?_nc_cat=0&oh=b49f62f8b1b61fbfa7193aaa1b220357&oe=5BB8562B
 beer-date: "2015-01-29"
 desc: "Just a standard cheap german Lager. But such an awesome can"
 permalink: /beer/:title.html

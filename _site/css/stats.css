@@ -1,0 +1,93 @@
+.land {
+  fill: #222;
+}
+.boundary {
+  fill: none;
+  stroke: #888;
+  stroke-width: 1px;
+}
+#tooltip-container {
+  position: absolute;
+  background-color: #fff;
+  color: #000;
+  padding: 10px;
+  border: 1px solid;
+  display: none;
+}
+.tooltip_key {
+  font-weight: bold;
+}
+.tooltip_value {
+  margin-left: 20px;
+  float: right;
+}
+
+.tooltip_beer {
+  font-size: 14px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.bar {
+  fill: #BE6C01;
+  fill-opacity: 1.0;
+}
+
+.bar:hover {
+  fill-opacity: 0.7;
+}
+
+text {
+  font: 12px sans-serif;
+  color: white;
+}
+
+.bar text {
+  fill: white;
+}
+
+text.label {
+  fill:black;
+}
+
+.switch-field input {
+  display: none;
+}
+
+.switch-field {
+  display: flex;
+}
+
+.switch-field label {
+  float: left;
+  display: inline-block;
+  background-color: #FFF;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  padding: 6px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.switch-field label:hover {
+    cursor: pointer;
+}
+
+.switch-field input:checked + label {
+  background-color: #BE6C01;
+  color:#FFF;
+}
+
+.switch-field label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+.dot {
+  fill: #F3BA06;
+  stroke: #444;
+}

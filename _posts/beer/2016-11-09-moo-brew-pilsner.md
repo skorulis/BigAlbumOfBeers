@@ -9,7 +9,7 @@ brewery: "Moo Brew"
 breweryURL: "/brewery/moo-brew.html"
 style: "Pilsner - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/483798_10151602282778745_989104715_n.jpg?oh=5cf4bac1dd2d96dbb787ea3ae8cf091f&oe=5B438FDB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/483798_10151602282778745_989104715_n.jpg?_nc_cat=0&oh=bfece4ab29f9aedc7810747894a01e4f&oe=5BBA36DB
 beer-date: "2013-03-28"
 desc: "Rather nice"
 permalink: /beer/:title.html

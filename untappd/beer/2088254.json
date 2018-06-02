@@ -1,0 +1,3451 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.482,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.014,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 2088254,
+      "beer_name": "Hazelnut Porter",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 5.5,
+      "beer_ibu": 14,
+      "beer_description": "",
+      "beer_style": "Porter - Other",
+      "is_in_production": 1,
+      "beer_slug": "birrificio-lambrate-hazelnut-porter",
+      "is_homebrew": 0,
+      "created_at": "Thu, 11 May 2017 21:40:50 +0000",
+      "rating_count": 199,
+      "rating_score": 3.87312,
+      "stats": {
+        "total_count": 228,
+        "monthly_count": 47,
+        "total_user_count": 219,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 3013,
+        "brewery_name": "Birrificio Lambrate",
+        "brewery_slug": "birrificio-lambrate",
+        "brewery_type": "Micro Brewery",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+        "country_name": "Italy",
+        "contact": {
+          "twitter": "",
+          "facebook": "http://www.facebook.com/BirrificioLambrate",
+          "url": "http://www.birrificiolambrate.com"
+        },
+        "location": {
+          "brewery_city": "Milan",
+          "brewery_state": "",
+          "lat": 45.4857,
+          "lng": 9.23157
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 133616835,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_04/94deb61b4447fdf5a7dc7d128a10f21b_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_04/94deb61b4447fdf5a7dc7d128a10f21b_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_04/94deb61b4447fdf5a7dc7d128a10f21b_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_04/94deb61b4447fdf5a7dc7d128a10f21b_raw.jpg"
+            },
+            "created_at": "Fri, 04 Aug 2017 22:31:03 +0000",
+            "checkin_id": 486849686,
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 40,
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.873,
+              "rating_count": 199,
+              "count": 199,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2513231,
+              "user_name": "iwannarunfast",
+              "first_name": "Ryan",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/5d9e2f21f4e65d6c39bc7f02a224b325_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2581670,
+                "venue_name": "The Italian Job",
+                "venue_slug": "the-italian-job",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "13 Devonshire Rd",
+                  "venue_city": "Chiswick",
+                  "venue_state": "Greater London",
+                  "lat": 51.4918,
+                  "lng": -0.255884
+                },
+                "contact": {
+                  "twitter": "@theitalianjobw4",
+                  "venue_url": "http://www.theitalianjobpub.co.uk"
+                },
+                "foursquare": {
+                  "foursquare_id": "54de6add498e87a1ea8986ce",
+                  "foursquare_url": "http://4sq.com/1vrKyds"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 132278241,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_26/99a546eaae15287431081d8f55a59e9c_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_26/99a546eaae15287431081d8f55a59e9c_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_26/99a546eaae15287431081d8f55a59e9c_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_26/99a546eaae15287431081d8f55a59e9c_raw.jpg"
+            },
+            "created_at": "Wed, 26 Jul 2017 22:18:20 +0000",
+            "checkin_id": 482943886,
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 40,
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.873,
+              "rating_count": 199,
+              "count": 199,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2124941,
+              "user_name": "diegominach",
+              "first_name": "Diego",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/2488cc2a3c75832d932fd1d176a72d1a_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 131749360,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_22/87aa0d35a177c44d37476a43fdb5e9a2_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_22/87aa0d35a177c44d37476a43fdb5e9a2_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_22/87aa0d35a177c44d37476a43fdb5e9a2_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_22/87aa0d35a177c44d37476a43fdb5e9a2_raw.jpeg"
+            },
+            "created_at": "Sat, 22 Jul 2017 20:22:55 +0000",
+            "checkin_id": 481370774,
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 40,
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.873,
+              "rating_count": 199,
+              "count": 199,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 977192,
+              "user_name": "mlacerda",
+              "first_name": "Marcos",
+              "last_name": "L",
+              "user_avatar": "https://untappd.akamaized.net/profile/e0c4e50714a9ea372d73ba5327ab46f6_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 131691476,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_22/6fcfac123d028f7a1476a6d00c9a2585_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_22/6fcfac123d028f7a1476a6d00c9a2585_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_22/6fcfac123d028f7a1476a6d00c9a2585_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_22/6fcfac123d028f7a1476a6d00c9a2585_raw.jpg"
+            },
+            "created_at": "Sat, 22 Jul 2017 17:27:43 +0000",
+            "checkin_id": 481207768,
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 40,
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.873,
+              "rating_count": 199,
+              "count": 199,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3810547,
+              "user_name": "Mentalmind",
+              "first_name": "Toni",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/8070a707df77d0c09d8fa3ee8a11a2cf_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 97227,
+                "venue_name": "Open Baladin",
+                "venue_slug": "open-baladin",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Via Degli Specchi, 6",
+                  "venue_city": "Roma",
+                  "venue_state": "Lazio",
+                  "lat": 41.8937,
+                  "lng": 12.4746
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.openbaladinroma.it"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b815a15f964a520ffa030e3",
+                  "foursquare_url": "http://4sq.com/axvHpI"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 131691111,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_22/92141639fbdc47d1fda2c64fd1fb1a85_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_22/92141639fbdc47d1fda2c64fd1fb1a85_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_22/92141639fbdc47d1fda2c64fd1fb1a85_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_22/92141639fbdc47d1fda2c64fd1fb1a85_raw.jpeg"
+            },
+            "created_at": "Sat, 22 Jul 2017 17:26:24 +0000",
+            "checkin_id": 481206787,
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 40,
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.873,
+              "rating_count": 199,
+              "count": 199,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3810552,
+              "user_name": "ulpukka",
+              "first_name": "Ulla",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/205c19eb2bf7e0c75d0a0ee9849c3911_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 97227,
+                "venue_name": "Open Baladin",
+                "venue_slug": "open-baladin",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Via Degli Specchi, 6",
+                  "venue_city": "Roma",
+                  "venue_state": "Lazio",
+                  "lat": 41.8937,
+                  "lng": 12.4746
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.openbaladinroma.it"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b815a15f964a520ffa030e3",
+                  "foursquare_url": "http://4sq.com/axvHpI"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 131644849,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_22/b83c7d30faf3ad5dc976221aa0123ae1_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_22/b83c7d30faf3ad5dc976221aa0123ae1_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_22/b83c7d30faf3ad5dc976221aa0123ae1_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_22/b83c7d30faf3ad5dc976221aa0123ae1_raw.jpg"
+            },
+            "created_at": "Sat, 22 Jul 2017 12:34:23 +0000",
+            "checkin_id": 481091999,
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 40,
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.873,
+              "rating_count": 199,
+              "count": 199,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2702857,
+              "user_name": "CarolineAikin",
+              "first_name": "Caroline",
+              "last_name": "A",
+              "user_avatar": "https://untappd.akamaized.net/profile/f0c9c0bc8acefd4f2eca519ecb97438a_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 97227,
+                "venue_name": "Open Baladin",
+                "venue_slug": "open-baladin",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Via Degli Specchi, 6",
+                  "venue_city": "Roma",
+                  "venue_state": "Lazio",
+                  "lat": 41.8937,
+                  "lng": 12.4746
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.openbaladinroma.it"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b815a15f964a520ffa030e3",
+                  "foursquare_url": "http://4sq.com/axvHpI"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 131353550,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_20/31c2a622377bd7ac89f9ec5b8c712782_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_20/31c2a622377bd7ac89f9ec5b8c712782_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_20/31c2a622377bd7ac89f9ec5b8c712782_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_20/31c2a622377bd7ac89f9ec5b8c712782_raw.jpg"
+            },
+            "created_at": "Thu, 20 Jul 2017 19:06:03 +0000",
+            "checkin_id": 480221546,
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 40,
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.873,
+              "rating_count": 199,
+              "count": 199,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2243106,
+              "user_name": "Jblue62",
+              "first_name": "Jamie",
+              "last_name": "C",
+              "user_avatar": "https://gravatar.com/avatar/4cf35f5ec3e9dca64756f717cf36494e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 97227,
+                "venue_name": "Open Baladin",
+                "venue_slug": "open-baladin",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Via Degli Specchi, 6",
+                  "venue_city": "Roma",
+                  "venue_state": "Lazio",
+                  "lat": 41.8937,
+                  "lng": 12.4746
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.openbaladinroma.it"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b815a15f964a520ffa030e3",
+                  "foursquare_url": "http://4sq.com/axvHpI"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 131318228,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_20/e2eb0d2646cc59540c196b2252aea8b8_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_20/e2eb0d2646cc59540c196b2252aea8b8_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_20/e2eb0d2646cc59540c196b2252aea8b8_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_20/e2eb0d2646cc59540c196b2252aea8b8_raw.jpeg"
+            },
+            "created_at": "Thu, 20 Jul 2017 12:43:25 +0000",
+            "checkin_id": 480141947,
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 40,
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.873,
+              "rating_count": 199,
+              "count": 199,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2688946,
+              "user_name": "cole2139",
+              "first_name": "Cole",
+              "last_name": "B",
+              "user_avatar": "https://gravatar.com/avatar/c695927b69b272d112e388c6b3f8f736?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 97227,
+                "venue_name": "Open Baladin",
+                "venue_slug": "open-baladin",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Via Degli Specchi, 6",
+                  "venue_city": "Roma",
+                  "venue_state": "Lazio",
+                  "lat": 41.8937,
+                  "lng": 12.4746
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.openbaladinroma.it"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b815a15f964a520ffa030e3",
+                  "foursquare_url": "http://4sq.com/axvHpI"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 131317393,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_20/5a3f9e1e3c680657699f62e3d4de2eeb_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_20/5a3f9e1e3c680657699f62e3d4de2eeb_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_20/5a3f9e1e3c680657699f62e3d4de2eeb_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_20/5a3f9e1e3c680657699f62e3d4de2eeb_raw.jpg"
+            },
+            "created_at": "Thu, 20 Jul 2017 12:20:07 +0000",
+            "checkin_id": 480140332,
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 40,
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.873,
+              "rating_count": 199,
+              "count": 199,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1071260,
+              "user_name": "dbkroeff",
+              "first_name": "Diogo",
+              "last_name": "K",
+              "user_avatar": "https://gravatar.com/avatar/007d9060ecbc1c25fcaad53c510191d9?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 97227,
+                "venue_name": "Open Baladin",
+                "venue_slug": "open-baladin",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Via Degli Specchi, 6",
+                  "venue_city": "Roma",
+                  "venue_state": "Lazio",
+                  "lat": 41.8937,
+                  "lng": 12.4746
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.openbaladinroma.it"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b815a15f964a520ffa030e3",
+                  "foursquare_url": "http://4sq.com/axvHpI"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 131113369,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_18/29f25c5634767aaacf45d45213a6dd64_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_18/29f25c5634767aaacf45d45213a6dd64_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_18/29f25c5634767aaacf45d45213a6dd64_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_18/29f25c5634767aaacf45d45213a6dd64_raw.jpeg"
+            },
+            "created_at": "Tue, 18 Jul 2017 16:57:19 +0000",
+            "checkin_id": 479550592,
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 40,
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.873,
+              "rating_count": 199,
+              "count": 199,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 817583,
+              "user_name": "aitor8a",
+              "first_name": "Aitor",
+              "last_name": "L",
+              "user_avatar": "https://untappd.akamaized.net/profile/059e52dd57ef2426a662b1ea703a2047_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 486849686,
+            "created_at": "Fri, 04 Aug 2017 22:30:56 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 2513231,
+              "user_name": "iwannarunfast",
+              "first_name": "Ryan",
+              "last_name": "S.",
+              "location": "London",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/5d9e2f21f4e65d6c39bc7f02a224b325_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2581670,
+              "venue_name": "The Italian Job",
+              "venue_slug": "the-italian-job",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "13 Devonshire Rd",
+                "venue_city": "Chiswick",
+                "venue_state": "Greater London",
+                "venue_country": "United Kingdom",
+                "lat": 51.4918,
+                "lng": -0.255884
+              },
+              "contact": {
+                "twitter": "@theitalianjobw4",
+                "venue_url": "http://www.theitalianjobpub.co.uk"
+              },
+              "foursquare": {
+                "foursquare_id": "54de6add498e87a1ea8986ce",
+                "foursquare_url": "http://4sq.com/1vrKyds"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 133616835,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_04/94deb61b4447fdf5a7dc7d128a10f21b_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_04/94deb61b4447fdf5a7dc7d128a10f21b_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_04/94deb61b4447fdf5a7dc7d128a10f21b_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_04/94deb61b4447fdf5a7dc7d128a10f21b_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 485841711,
+            "created_at": "Wed, 02 Aug 2017 16:40:51 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 4395416,
+              "user_name": "Drew_B",
+              "first_name": "Andrea",
+              "last_name": "B.",
+              "location": "50136",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/00d75c07ab99c67730cacfbace3ae3a7?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 482943886,
+            "created_at": "Wed, 26 Jul 2017 22:18:08 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 2124941,
+              "user_name": "diegominach",
+              "first_name": "Diego",
+              "last_name": "M.",
+              "location": "Milano",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/2488cc2a3c75832d932fd1d176a72d1a_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 132278241,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_26/99a546eaae15287431081d8f55a59e9c_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_26/99a546eaae15287431081d8f55a59e9c_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_26/99a546eaae15287431081d8f55a59e9c_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_26/99a546eaae15287431081d8f55a59e9c_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 2649,
+                  "user_badge_id": 209452427,
+                  "badge_name": "New Brew Thursday  (Level 23)",
+                  "badge_description": "It's New Brew Thursday! Drink a new beer on three Thursdays in a 30 day period! Find out how <a href=\"http://newbrewthursday.com\" rel=\"link-out\">New Brew Thursday</a> was started, and catch up on old episodes.",
+                  "created_at": "Wed, 26 Jul 2017 22:18:09 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_nbt_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_nbt_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_nbt_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 1866,
+                  "user_badge_id": 209452430,
+                  "badge_name": "The Gondolier  (Level 40)",
+                  "badge_description": "Some may argue that wine is better than beer, especially in a country so well known for its vineyards. We all know they’re wrong. Cheers! That’s 200 different beers from a brewery in Italy. Try 5 more for Level 41.",
+                  "created_at": "Wed, 26 Jul 2017 22:18:09 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_italy_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_italy_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_italy_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 482525299,
+            "created_at": "Tue, 25 Jul 2017 17:02:56 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2103787,
+              "user_name": "BetaZeta",
+              "first_name": "Matteo",
+              "last_name": "Z.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/ebd3c7e69d53da5bd3612eed0812d202_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5052775,
+              "venue_name": "Viale Manzoni",
+              "venue_slug": "viale-manzoni",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Scenic Lookout",
+                    "category_id": "4bf58dd8d48988d165941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Italia",
+                "lat": 44.7906,
+                "lng": 10.8818
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4ee4942ae30005f8b7f9e8c2",
+                "foursquare_url": "http://4sq.com/rG2r4q"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 4,
+              "count": 4,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3689289,
+                  "user": {
+                    "uid": 3689289,
+                    "user_name": "inter8889",
+                    "first_name": "Danilo",
+                    "last_name": "",
+                    "bio": "...A dream is purer than an obsession. There is pride in a dream, anywhere in the world....",
+                    "location": "Roma, Napoli, Italia",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7321ffdf1a3f4407b0f3bb9bee948817_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 400933706,
+                  "like_owner": false,
+                  "created_at": "Tue, 25 Jul 2017 20:25:42 +0000"
+                },
+                {
+                  "uid": 3416869,
+                  "user": {
+                    "uid": 3416869,
+                    "user_name": "WouterBier",
+                    "first_name": "Wouter",
+                    "last_name": "S.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/d040a6c6961b8ca79929a97724a0bd45_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 400912874,
+                  "like_owner": false,
+                  "created_at": "Tue, 25 Jul 2017 19:19:39 +0000"
+                },
+                {
+                  "uid": 3335445,
+                  "user": {
+                    "uid": 3335445,
+                    "user_name": "Fra0",
+                    "first_name": "Fra0123456789",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Ferrara",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b494f2f021123e55cf8b79cc05a9befd_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 400899748,
+                  "like_owner": false,
+                  "created_at": "Tue, 25 Jul 2017 18:34:26 +0000"
+                },
+                {
+                  "uid": 2653830,
+                  "user": {
+                    "uid": 2653830,
+                    "user_name": "formeg",
+                    "first_name": "Fab",
+                    "last_name": "",
+                    "bio": "Life is too short to drink industrial beer!\nFav styles: IPA/APA/DIPA/BIPA/ISA, Stout/Porter/IS/IP. New beers everyday.",
+                    "location": "Terracina",
+                    "user_avatar": "https://untappd.akamaized.net/profile/bb0b81c5df0c85ede2d4ed121a740351_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 400883649,
+                  "like_owner": false,
+                  "created_at": "Tue, 25 Jul 2017 17:24:50 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 482492742,
+            "created_at": "Tue, 25 Jul 2017 12:58:16 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 2974631,
+              "user_name": "Gio94",
+              "first_name": "Giorgia",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/24348080693e902833a2c05fda9b64ad_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 144016,
+              "venue_name": "Birrificio Lambrate",
+              "venue_slug": "birrificio-lambrate",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Via Camillo Golgi 60",
+                "venue_city": "Milano",
+                "venue_state": "Lombardia",
+                "venue_country": "Italia",
+                "lat": 45.4798,
+                "lng": 9.23434
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.birrificiolambrate.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4eec9c4677c82b92f7001c5b",
+                "foursquare_url": "http://4sq.com/uE4hCN"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 34706,
+                  "user_badge_id": 209134365,
+                  "badge_name": "Middle of the Road (Level 2)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 10 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 3!",
+                  "created_at": "Tue, 25 Jul 2017 12:58:16 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 1837,
+                  "user_badge_id": 209134366,
+                  "badge_name": "The Gondolier  (Level 11)",
+                  "badge_description": "Some may argue that wine is better than beer, especially in a country so well known for its vineyards. We all know they’re wrong. Cheers! That’s 55 different beers from a brewery in Italy. Try 5 more for Level 12.",
+                  "created_at": "Tue, 25 Jul 2017 12:58:16 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_italy_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_italy_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_italy_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 482492231,
+            "created_at": "Tue, 25 Jul 2017 12:51:55 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 2878149,
+              "user_name": "FlaviusAetius",
+              "first_name": "Ezio",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/01c2e4047c5dedbf9dc2492537a065f2_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 144016,
+              "venue_name": "Birrificio Lambrate",
+              "venue_slug": "birrificio-lambrate",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Via Camillo Golgi 60",
+                "venue_city": "Milano",
+                "venue_state": "Lombardia",
+                "venue_country": "Italia",
+                "lat": 45.4798,
+                "lng": 9.23434
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.birrificiolambrate.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4eec9c4677c82b92f7001c5b",
+                "foursquare_url": "http://4sq.com/uE4hCN"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 481877915,
+            "created_at": "Sun, 23 Jul 2017 17:16:39 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 4262493,
+              "user_name": "Waltteri80",
+              "first_name": "Vili",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/4ff3137192ad3a13932bf3d3df1c8579?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 481877486,
+            "created_at": "Sun, 23 Jul 2017 17:15:38 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 4262493,
+              "user_name": "Waltteri80",
+              "first_name": "Vili",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/4ff3137192ad3a13932bf3d3df1c8579?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34706,
+                  "user_badge_id": 208739849,
+                  "badge_name": "Middle of the Road (Level 2)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 10 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 3!",
+                  "created_at": "Sun, 23 Jul 2017 17:15:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 481821105,
+            "created_at": "Sun, 23 Jul 2017 14:22:37 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 1203022,
+              "user_name": "Krisalmquist",
+              "first_name": "Kris",
+              "last_name": "A.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/e746a9cb0182776429eb4d1bd5df0fb8?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 97227,
+              "venue_name": "Open Baladin",
+              "venue_slug": "open-baladin",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Via Degli Specchi, 6",
+                "venue_city": "Roma",
+                "venue_state": "Lazio",
+                "venue_country": "Italia",
+                "lat": 41.8937,
+                "lng": 12.4746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.openbaladinroma.it"
+              },
+              "foursquare": {
+                "foursquare_id": "4b815a15f964a520ffa030e3",
+                "foursquare_url": "http://4sq.com/axvHpI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 643,
+                  "user_badge_id": 208702302,
+                  "badge_name": "Beer Connoisseur (Level 2)",
+                  "badge_description": "Travel much? You must be a \"brewsetter\". That's at least a beer from 10 different countries. Try 5 more for Level 3!",
+                  "created_at": "Sun, 23 Jul 2017 14:22:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_connoiseur_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_connoiseur_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_connoiseur_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3001,
+                  "user_badge_id": 208702303,
+                  "badge_name": "Heavy Weight  (Level 15)",
+                  "badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 75 different beers with the style of Porter or Stout. Try 5 more to unlock Level 16.",
+                  "created_at": "Sun, 23 Jul 2017 14:22:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_heavyWeight_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_heavyWeight_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 11958,
+                  "user_badge_id": 208702304,
+                  "badge_name": "To The Port",
+                  "badge_description": "Dating back to the 18th century, porters remain an extremely popular style to this day. That is 5 different beers with the style of Porter. Try 5 more Level 2!",
+                  "created_at": "Sun, 23 Jul 2017 14:22:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_ToThePort_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_ToThePort_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_ToThePort_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 481468082,
+            "created_at": "Sat, 22 Jul 2017 22:00:54 +0000",
+            "checkin_comment": "Blaskig/lätt men rätt palett",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 1785348,
+              "user_name": "FoxyBearCat",
+              "first_name": "FoxyBearCat",
+              "last_name": "",
+              "location": "Uppsala",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/d88d6e461eea051eaac1a6abb80f2683_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 97227,
+              "venue_name": "Open Baladin",
+              "venue_slug": "open-baladin",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Via Degli Specchi, 6",
+                "venue_city": "Roma",
+                "venue_state": "Lazio",
+                "venue_country": "Italia",
+                "lat": 41.8937,
+                "lng": 12.4746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.openbaladinroma.it"
+              },
+              "foursquare": {
+                "foursquare_id": "4b815a15f964a520ffa030e3",
+                "foursquare_url": "http://4sq.com/axvHpI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 481436857,
+            "created_at": "Sat, 22 Jul 2017 21:29:34 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 1783105,
+              "user_name": "gattone22",
+              "first_name": "Roberto",
+              "last_name": "G.",
+              "location": "Mantua, Italy",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/d889593615b17ae7ab9f08caebd277a1_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3994738,
+              "venue_name": "Teatro delle Birre",
+              "venue_slug": "teatro-delle-birre",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Beer Store",
+                    "category_id": "5370f356bcbc57f1066c94c2",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Via Calvi 43/45",
+                "venue_city": "Mantova",
+                "venue_state": "Lombardia",
+                "venue_country": "Italia",
+                "lat": 45.1573,
+                "lng": 10.794
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.teatrodellebirre.it"
+              },
+              "foursquare": {
+                "foursquare_id": "562bbff3498e107a3f900fce",
+                "foursquare_url": "http://4sq.com/1OYwpkh"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 580,
+                  "user_badge_id": 208460097,
+                  "badge_name": "The Gondolier (Level 8)",
+                  "badge_description": "Some may argue that wine is better than beer, especially in a country so well known for its vineyards. We all know they’re wrong. Cheers! That’s 40 different beers from a brewery in Italy. Try 5 more for Level 9.",
+                  "created_at": "Sat, 22 Jul 2017 21:29:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_italy_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_italy_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_italy_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 481370774,
+            "created_at": "Sat, 22 Jul 2017 20:22:41 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 977192,
+              "user_name": "mlacerda",
+              "first_name": "Marcos",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/e0c4e50714a9ea372d73ba5327ab46f6_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 131749360,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_22/87aa0d35a177c44d37476a43fdb5e9a2_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_22/87aa0d35a177c44d37476a43fdb5e9a2_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_22/87aa0d35a177c44d37476a43fdb5e9a2_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_22/87aa0d35a177c44d37476a43fdb5e9a2_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 1833,
+                  "user_badge_id": 208416910,
+                  "badge_name": "Photogenic Brew  (Level 47)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 235 check-ins with a photo. ",
+                  "created_at": "Sat, 22 Jul 2017 20:22:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2998,
+                  "user_badge_id": 208416913,
+                  "badge_name": "Heavy Weight  (Level 12)",
+                  "badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 60 different beers with the style of Porter or Stout. Try 5 more to unlock Level 13.",
+                  "created_at": "Sat, 22 Jul 2017 20:22:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_heavyWeight_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_heavyWeight_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 481207768,
+            "created_at": "Sat, 22 Jul 2017 17:27:37 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3810547,
+              "user_name": "Mentalmind",
+              "first_name": "Toni",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/8070a707df77d0c09d8fa3ee8a11a2cf_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 97227,
+              "venue_name": "Open Baladin",
+              "venue_slug": "open-baladin",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Via Degli Specchi, 6",
+                "venue_city": "Roma",
+                "venue_state": "Lazio",
+                "venue_country": "Italia",
+                "lat": 41.8937,
+                "lng": 12.4746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.openbaladinroma.it"
+              },
+              "foursquare": {
+                "foursquare_id": "4b815a15f964a520ffa030e3",
+                "foursquare_url": "http://4sq.com/axvHpI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 131691476,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_22/6fcfac123d028f7a1476a6d00c9a2585_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_22/6fcfac123d028f7a1476a6d00c9a2585_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_22/6fcfac123d028f7a1476a6d00c9a2585_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_22/6fcfac123d028f7a1476a6d00c9a2585_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 265,
+                  "user_badge_id": 208308424,
+                  "badge_name": "Heavy Weight (Level 8)",
+                  "badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 40 different beers with the style of Porter or Stout. Try 5 more to unlock Level 9.",
+                  "created_at": "Sat, 22 Jul 2017 17:27:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_heavyWeight_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_heavyWeight_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 481206787,
+            "created_at": "Sat, 22 Jul 2017 17:26:27 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 3810552,
+              "user_name": "ulpukka",
+              "first_name": "Ulla",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/205c19eb2bf7e0c75d0a0ee9849c3911_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 97227,
+              "venue_name": "Open Baladin",
+              "venue_slug": "open-baladin",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Via Degli Specchi, 6",
+                "venue_city": "Roma",
+                "venue_state": "Lazio",
+                "venue_country": "Italia",
+                "lat": 41.8937,
+                "lng": 12.4746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.openbaladinroma.it"
+              },
+              "foursquare": {
+                "foursquare_id": "4b815a15f964a520ffa030e3",
+                "foursquare_url": "http://4sq.com/axvHpI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 131691111,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_22/92141639fbdc47d1fda2c64fd1fb1a85_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_22/92141639fbdc47d1fda2c64fd1fb1a85_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_22/92141639fbdc47d1fda2c64fd1fb1a85_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_22/92141639fbdc47d1fda2c64fd1fb1a85_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 481091999,
+            "created_at": "Sat, 22 Jul 2017 12:34:20 +0000",
+            "checkin_comment": "Couldn't resist this one.",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 2702857,
+              "user_name": "CarolineAikin",
+              "first_name": "Caroline",
+              "last_name": "A.",
+              "location": "Preston",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/f0c9c0bc8acefd4f2eca519ecb97438a_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2088254,
+              "beer_name": "Hazelnut Porter",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 5.5,
+              "beer_ibu": 14,
+              "beer_slug": "birrificio-lambrate-hazelnut-porter",
+              "beer_description": "",
+              "beer_style": "Porter - Other",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3013,
+              "brewery_name": "Birrificio Lambrate",
+              "brewery_slug": "birrificio-lambrate",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirrificiodiLambrate_3013.jpeg",
+              "country_name": "Italy",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/BirrificioLambrate",
+                "url": "http://www.birrificiolambrate.com"
+              },
+              "location": {
+                "brewery_city": "Milan",
+                "brewery_state": "",
+                "lat": 45.4857,
+                "lng": 9.23157
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 97227,
+              "venue_name": "Open Baladin",
+              "venue_slug": "open-baladin",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Via Degli Specchi, 6",
+                "venue_city": "Roma",
+                "venue_state": "Lazio",
+                "venue_country": "Italia",
+                "lat": 41.8937,
+                "lng": 12.4746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.openbaladinroma.it"
+              },
+              "foursquare": {
+                "foursquare_id": "4b815a15f964a520ffa030e3",
+                "foursquare_url": "http://4sq.com/axvHpI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 13,
+              "count": 10,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3032324,
+                  "user": {
+                    "uid": 3032324,
+                    "user_name": "Northbang",
+                    "first_name": "Mattias",
+                    "last_name": "N.",
+                    "bio": "Halvgammal och svårt gråsprängd. \nSemi oldtimer and heavily grizzled.",
+                    "location": "Tveta, Södertälje, Sweden",
+                    "user_avatar": "https://untappd.akamaized.net/profile/5e467a826e49eae5e15a9a78f30f1c86_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 400099685,
+                  "like_owner": false,
+                  "created_at": "Sun, 23 Jul 2017 08:16:33 +0000"
+                },
+                {
+                  "uid": 1923187,
+                  "user": {
+                    "uid": 1923187,
+                    "user_name": "yorks72",
+                    "first_name": "Gary",
+                    "last_name": "S.",
+                    "bio": "",
+                    "location": "Barnby Dun",
+                    "user_avatar": "https://untappd.akamaized.net/profile/19b38b0db24eb4b147c450f7ea7fd29c_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 399620381,
+                  "like_owner": false,
+                  "created_at": "Sat, 22 Jul 2017 15:29:06 +0000"
+                },
+                {
+                  "uid": 1802377,
+                  "user": {
+                    "uid": 1802377,
+                    "user_name": "neilbontoft",
+                    "first_name": "Neil",
+                    "last_name": "B.",
+                    "bio": "Amateur beer geek. The following check-ins occur in real time…",
+                    "location": "Preston",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3356bb7652263c522d7c906a7f1f5059_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 399617402,
+                  "like_owner": false,
+                  "created_at": "Sat, 22 Jul 2017 15:19:50 +0000"
+                },
+                {
+                  "uid": 981021,
+                  "user": {
+                    "uid": 981021,
+                    "user_name": "widiablo",
+                    "first_name": "Roger",
+                    "last_name": "A.",
+                    "bio": "I dig beer!",
+                    "location": "El Diablo's Lair",
+                    "user_avatar": "https://untappd.akamaized.net/profile/c1c446c7576203dbbe627fa72a7fff43_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 399610562,
+                  "like_owner": false,
+                  "created_at": "Sat, 22 Jul 2017 14:58:16 +0000"
+                },
+                {
+                  "uid": 2748223,
+                  "user": {
+                    "uid": 2748223,
+                    "user_name": "Bristolbob",
+                    "first_name": "Bob",
+                    "last_name": "D.",
+                    "bio": "Someone that enjoys the hunt for beer",
+                    "location": "Lombard ill",
+                    "user_avatar": "https://untappd.akamaized.net/profile/aaaba6c9a409a437051d4c2baf2c9c39_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 399608029,
+                  "like_owner": false,
+                  "created_at": "Sat, 22 Jul 2017 14:49:20 +0000"
+                },
+                {
+                  "uid": 367139,
+                  "user": {
+                    "uid": 367139,
+                    "user_name": "Berka",
+                    "first_name": "Mathias",
+                    "last_name": "B.",
+                    "bio": "I love beer!\n\nInstagram @berrkha",
+                    "location": "Degerfors, Sweden",
+                    "user_avatar": "https://untappd.akamaized.net/profile/12ebceefd7c269cbf57cb597fb9dd401_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 399602305,
+                  "like_owner": false,
+                  "created_at": "Sat, 22 Jul 2017 14:31:18 +0000"
+                },
+                {
+                  "uid": 816148,
+                  "user": {
+                    "uid": 816148,
+                    "user_name": "craft_kent",
+                    "first_name": "Ricki",
+                    "last_name": "S.",
+                    "bio": "Lost in the Garden of England.\n\n\n\nTwitter @RICKISMITH\nInstagram rickismith31",
+                    "location": "Maidstone",
+                    "user_avatar": "https://untappd.akamaized.net/profile/9b5a6f68c9e10f01b79053c505a4e2b5_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 399591482,
+                  "like_owner": false,
+                  "created_at": "Sat, 22 Jul 2017 13:52:54 +0000"
+                },
+                {
+                  "uid": 1631127,
+                  "user": {
+                    "uid": 1631127,
+                    "user_name": "Ladder",
+                    "first_name": "Kevin",
+                    "last_name": "",
+                    "bio": "Seen big hitters come and go and crash and burn on here. Untapped is not a fad. It's for life. No toast whores please.",
+                    "location": " England",
+                    "user_avatar": "https://untappd.akamaized.net/profile/36331638ef5982d12cef7d3fbccd1988_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 399586797,
+                  "like_owner": false,
+                  "created_at": "Sat, 22 Jul 2017 13:36:06 +0000"
+                },
+                {
+                  "uid": 19170,
+                  "user": {
+                    "uid": 19170,
+                    "user_name": "kimmer23",
+                    "first_name": "Kimberly",
+                    "last_name": "M.",
+                    "bio": "",
+                    "location": "Millersville",
+                    "user_avatar": "https://untappd.akamaized.net/profile/c062bd5d6828b36307b3ff073990e0d7_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 399585244,
+                  "like_owner": false,
+                  "created_at": "Sat, 22 Jul 2017 13:30:06 +0000"
+                },
+                {
+                  "uid": 3282597,
+                  "user": {
+                    "uid": 3282597,
+                    "user_name": "Shotsey",
+                    "first_name": "Terry",
+                    "last_name": "G.",
+                    "bio": "Full-time RVer and full time craft beer lover.",
+                    "location": "All over America.",
+                    "user_avatar": "https://untappd.akamaized.net/profile/c44e6dbaf1b470c2e1aa481c838806f6_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 399576555,
+                  "like_owner": false,
+                  "created_at": "Sat, 22 Jul 2017 12:57:08 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 131644849,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_07_22/b83c7d30faf3ad5dc976221aa0123ae1_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_07_22/b83c7d30faf3ad5dc976221aa0123ae1_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_07_22/b83c7d30faf3ad5dc976221aa0123ae1_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_07_22/b83c7d30faf3ad5dc976221aa0123ae1_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 34605,
+                  "user_badge_id": 208230901,
+                  "badge_name": "Hopped Down",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 5 different beers with an IBU of 20 or below. Try 5 more for Level 2!",
+                  "created_at": "Sat, 22 Jul 2017 12:34:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34716,
+                  "user_badge_id": 208230902,
+                  "badge_name": "Middle of the Road (Level 12)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 60 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 13!",
+                  "created_at": "Sat, 22 Jul 2017 12:34:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_MiddleOfTheRoad_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/2088254?min_id=486849686",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/2088254?max_id=481091999",
+          "max_id": 481091999
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.63636,
+            "beer": {
+              "bid": 756365,
+              "beer_name": "Peanut Butter Cup Porter - WLP001 California Ale",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "white-labs-peanut-butter-cup-porter-wlp001-california-ale",
+              "beer_style": "Porter - Other",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 26814,
+              "brewery_name": "White Labs",
+              "brewery_slug": "white-labs",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-WhiteLabs_26814.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "whitelabs",
+                "facebook": "https://www.facebook.com/whitelabs",
+                "instagram": "",
+                "url": "http://www.whitelabs.com"
+              },
+              "location": {
+                "brewery_city": "San Diego",
+                "brewery_state": "CA",
+                "lat": 32.8958,
+                "lng": -117.121
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.625,
+            "beer": {
+              "bid": 2022590,
+              "beer_name": "Fortuna",
+              "beer_abv": 7.3,
+              "beer_ibu": 0,
+              "beer_slug": "mortalis-brewing-company-fortuna",
+              "beer_style": "Porter - Other",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2022590_7a89c_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 332604,
+              "brewery_name": "Mortalis Brewing Company",
+              "brewery_slug": "mortalis-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-332604_925a8.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "mortalisbrewingcompany",
+                "facebook": "https://www.facebook.com/pg/mortalisbrewingcompany/",
+                "instagram": "mortalisbrewingcompany",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.57895,
+            "beer": {
+              "bid": 139017,
+              "beer_name": "Chipotle Porter",
+              "beer_abv": 5.2,
+              "beer_ibu": 25,
+              "beer_slug": "great-south-bay-brewery-chipotle-porter",
+              "beer_style": "Porter - Other",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-139017_28fe9_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 2142,
+              "brewery_name": "Great South Bay Brewery",
+              "brewery_slug": "great-south-bay-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-GreatSouthBayBrewery_2142.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "greatsouthbay",
+                "facebook": "http://facebook.com/greatsouthbaybrewery",
+                "instagram": "greatsouthbay",
+                "url": "http://www.greatsouthbaybrewery.com"
+              },
+              "location": {
+                "brewery_city": "Bay Shore",
+                "brewery_state": "NY",
+                "lat": 40.7612,
+                "lng": -73.2635
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.5,
+            "beer": {
+              "bid": 2206366,
+              "beer_name": "Темные Видения",
+              "beer_abv": 8.5,
+              "beer_ibu": 0,
+              "beer_slug": "lovecraft-weird-brewery-temnye-videniya",
+              "beer_style": "Porter - Other",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2206366_9489e_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 84328,
+              "brewery_name": "Lovecraft Weird Brewery",
+              "brewery_slug": "lovecraft-weird-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-84328_e940b.jpeg",
+              "country_name": "Russia",
+              "contact": {
+                "twitter": "WBLovecraft",
+                "facebook": "http://www.facebook.com/lovecraftwb",
+                "instagram": "lovecraft_weird_brewery",
+                "url": "http://www.lovecraft.beer"
+              },
+              "location": {
+                "brewery_city": "Krasnodar",
+                "brewery_state": "",
+                "lat": 45.0333,
+                "lng": 38.9667
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.48611,
+            "beer": {
+              "bid": 1559154,
+              "beer_name": "Infusion A: Peanut Butter Coffee Beershake",
+              "beer_abv": 3.1,
+              "beer_ibu": 0,
+              "beer_slug": "hoppin-frog-brewery-infusion-a-peanut-butter-coffee-beershake",
+              "beer_style": "Porter - Other",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 673,
+              "brewery_name": "Hoppin' Frog Brewery",
+              "brewery_slug": "hoppin-frog-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-HoppinFrogBrewery_673.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "hoppinfrog",
+                "facebook": "http://www.facebook.com/hoppinfrog",
+                "instagram": "hoppinfrogbrewery",
+                "url": "http://www.hoppinfrog.com/"
+              },
+              "location": {
+                "brewery_city": "Akron",
+                "brewery_state": "OH",
+                "lat": 41.0246,
+                "lng": -81.4677
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.73883,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

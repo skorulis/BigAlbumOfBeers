@@ -1,0 +1,994 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.228,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.012,
+      "measure": "seconds"
+    }
+  },
+  "notifications": {
+    "type": "notifications",
+    "unread_count": {
+      "comments": 0,
+      "toasts": 0,
+      "friends": 0,
+      "messages": 0,
+      "news": 8
+    }
+  },
+  "response": {
+    "beer": {
+      "bid": 1970656,
+      "beer_name": "Pale Ale",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 4.8,
+      "beer_ibu": 0,
+      "beer_description": "",
+      "beer_style": "Pale Ale - Australian",
+      "is_in_production": 1,
+      "beer_slug": "wrong-side-brewing-pale-ale",
+      "is_homebrew": 0,
+      "created_at": "Sun, 26 Feb 2017 00:55:59 +0000",
+      "rating_count": 2,
+      "rating_score": 0,
+      "stats": {
+        "total_count": 3,
+        "monthly_count": 2,
+        "total_user_count": 3,
+        "user_count": 1
+      },
+      "brewery": {
+        "brewery_id": 322299,
+        "brewery_name": "Wrong Side Brewing",
+        "brewery_slug": "wrong-side-brewing",
+        "brewery_type": "Micro Brewery",
+        "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "",
+          "facebook": "",
+          "url": ""
+        },
+        "location": {
+          "brewery_city": "",
+          "brewery_state": "",
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "auth_rating": 2.75,
+      "wish_list": false,
+      "media": {
+        "count": 2,
+        "items": [
+          {
+            "photo_id": 112942962,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_03_03/a588e3eb9e1a9b5444a6c4dcc7620f66_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_03_03/a588e3eb9e1a9b5444a6c4dcc7620f66_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_03_03/a588e3eb9e1a9b5444a6c4dcc7620f66_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_03_03/a588e3eb9e1a9b5444a6c4dcc7620f66_raw.jpeg"
+            },
+            "created_at": "Fri, 03 Mar 2017 08:22:57 +0000",
+            "checkin_id": 423482935,
+            "beer": {
+              "bid": 1970656,
+              "beer_name": "Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "wrong-side-brewing-pale-ale",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 2,
+              "count": 2,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 322299,
+              "brewery_name": "Wrong Side Brewing",
+              "brewery_slug": "wrong-side-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2284433,
+              "user_name": "firklover",
+              "first_name": "Max",
+              "last_name": "R",
+              "user_avatar": "https://untappd.akamaized.net/profile/30d51f1c7e7db54ad46ef15deded9cc3_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5033373,
+                "venue_name": "Jamieson",
+                "venue_slug": "jamieson",
+                "primary_category": "Outdoors & Recreation",
+                "parent_category_id": "4d4b7105d754a06377d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "City",
+                      "category_id": "50aa9e094b90af0d42d5de0d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Victoria",
+                  "lat": -37.2828,
+                  "lng": 146.144
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": false,
+                "foursquare": {
+                  "foursquare_id": "535a000b498ec4854619709f",
+                  "foursquare_url": "http://4sq.com/1ip3iIB"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 112478180,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_26/e62f855b8c7f095e29bc61c257e0ab6e_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_26/e62f855b8c7f095e29bc61c257e0ab6e_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_26/e62f855b8c7f095e29bc61c257e0ab6e_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_26/e62f855b8c7f095e29bc61c257e0ab6e_raw.jpeg"
+            },
+            "created_at": "Sun, 26 Feb 2017 01:06:37 +0000",
+            "checkin_id": 421910606,
+            "beer": {
+              "bid": 1970656,
+              "beer_name": "Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "wrong-side-brewing-pale-ale",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 2,
+              "count": 2,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 322299,
+              "brewery_name": "Wrong Side Brewing",
+              "brewery_slug": "wrong-side-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1793161,
+              "user_name": "Shanebrooks",
+              "first_name": "Shane",
+              "last_name": "B",
+              "user_avatar": "https://gravatar.com/avatar/cc8b1c3148b4ba72135ceee00d971200?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5645477,
+                "venue_name": "Mansfield Golf Club",
+                "venue_slug": "mansfield-golf-club",
+                "primary_category": "Outdoors & Recreation",
+                "parent_category_id": "4d4b7105d754a06377d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Golf Course",
+                      "category_id": "4bf58dd8d48988d1e6941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": -37.0549,
+                  "lng": 146.072
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "4f939520e4b04d6ccbda33f6",
+                  "foursquare_url": "http://4sq.com/IitwXY"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 3,
+        "items": [
+          {
+            "checkin_id": 423699084,
+            "created_at": "Fri, 03 Mar 2017 22:59:44 +0000",
+            "checkin_comment": "Wrong side brewing pale ale 5.0%\nA little biscuity but otherwise a pretty plain and tasteless beer 5.5/10",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "Skorulis",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "self",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "578408744"
+              }
+            },
+            "beer": {
+              "bid": 1970656,
+              "beer_name": "Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "wrong-side-brewing-pale-ale",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "auth_rating": 2.75,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 2,
+              "count": 2,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 322299,
+              "brewery_name": "Wrong Side Brewing",
+              "brewery_slug": "wrong-side-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 113027874,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_03_03/771e7acf118ca9270421a8e38d9183e5_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_03_03/771e7acf118ca9270421a8e38d9183e5_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_03_03/771e7acf118ca9270421a8e38d9183e5_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_03_03/771e7acf118ca9270421a8e38d9183e5_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd Web",
+              "app_website": "http://untappd.com"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "retail_venue": [
+
+            ],
+            "serving_types": [
+
+            ],
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 423482935,
+            "created_at": "Fri, 03 Mar 2017 08:22:49 +0000",
+            "checkin_comment": "Not bad, quite hoppy for a pale",
+            "rating_score": 3,
+            "user": {
+              "uid": 2284433,
+              "user_name": "firklover",
+              "first_name": "Max",
+              "last_name": "R.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/30d51f1c7e7db54ad46ef15deded9cc3_100x100.jpg",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 1970656,
+              "beer_name": "Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "wrong-side-brewing-pale-ale",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "auth_rating": 2.75,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 2,
+              "count": 2,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 322299,
+              "brewery_name": "Wrong Side Brewing",
+              "brewery_slug": "wrong-side-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5033373,
+              "venue_name": "Jamieson",
+              "venue_slug": "jamieson",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "City",
+                    "category_id": "50aa9e094b90af0d42d5de0d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Victoria",
+                "venue_country": "Australia",
+                "lat": -37.2828,
+                "lng": 146.144
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "535a000b498ec4854619709f",
+                "foursquare_url": "http://4sq.com/1ip3iIB"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 112942962,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_03_03/a588e3eb9e1a9b5444a6c4dcc7620f66_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_03_03/a588e3eb9e1a9b5444a6c4dcc7620f66_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_03_03/a588e3eb9e1a9b5444a6c4dcc7620f66_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_03_03/a588e3eb9e1a9b5444a6c4dcc7620f66_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": {
+              "count": 1,
+              "items": [
+                {
+                  "tag_id": 97,
+                  "tag_name": "Hoppy"
+                }
+              ]
+            },
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "container_id": 2,
+              "container_image_url": "https://untappd.akamaized.net/static_app_assets/bottle@3x.png",
+              "container_name": "Bottle"
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 421910606,
+            "created_at": "Sun, 26 Feb 2017 01:06:22 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 1793161,
+              "user_name": "Shanebrooks",
+              "first_name": "Shane",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/cc8b1c3148b4ba72135ceee00d971200?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 1970656,
+              "beer_name": "Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "wrong-side-brewing-pale-ale",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "auth_rating": 2.75,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 2,
+              "count": 2,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 322299,
+              "brewery_name": "Wrong Side Brewing",
+              "brewery_slug": "wrong-side-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5645477,
+              "venue_name": "Mansfield Golf Club",
+              "venue_slug": "mansfield-golf-club",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Golf Course",
+                    "category_id": "4bf58dd8d48988d1e6941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Australia",
+                "lat": -37.0549,
+                "lng": 146.072
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "4f939520e4b04d6ccbda33f6",
+                "foursquare_url": "http://4sq.com/IitwXY"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/golfcourse_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 112478180,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_26/e62f855b8c7f095e29bc61c257e0ab6e_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_26/e62f855b8c7f095e29bc61c257e0ab6e_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_26/e62f855b8c7f095e29bc61c257e0ab6e_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_26/e62f855b8c7f095e29bc61c257e0ab6e_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 445,
+                  "user_badge_id": 174062892,
+                  "badge_name": "Can in One (Level 2)",
+                  "badge_description": "Do you prefer 9 or 18 holes? It doesn't matter, as long as you have your koozie with your favorite beer. Fore! \r\n\r\nThat's a beer at 10 different venues categorized as a Golf Course. Visit 5 more Level 3.",
+                  "created_at": "Sun, 26 Feb 2017 01:06:24 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_golf_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_golf_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_golf_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2190,
+                  "user_badge_id": 174062895,
+                  "badge_name": "Pale as the Moon  (Level 44)",
+                  "badge_description": "Ahh, the trusty pale ale; crisp, refreshing, and always a good choice in a bind. That's 220 different Pale Ales. Try 5 more for Level 45.",
+                  "created_at": "Sun, 26 Feb 2017 01:06:24 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaleMoon_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaleMoon_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaleMoon_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "retail_venue": [
+
+            ],
+            "serving_types": [
+
+            ],
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "next_url": "",
+          "max_id": ""
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.325,
+            "beer": {
+              "bid": 1947315,
+              "beer_name": "Quantum Galaxy Pale Ale",
+              "beer_abv": 5.2,
+              "beer_ibu": 0,
+              "beer_slug": "york-chester-brewing-quantum-galaxy-pale-ale",
+              "beer_style": "Pale Ale - Australian",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 200856,
+              "brewery_name": "York Chester Brewing",
+              "brewery_slug": "york-chester-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-200856_b1040.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/yorkchesterbrew",
+                "instagram": "yorkchesterbrewco",
+                "url": "http://yorkchesterbrew.com"
+              },
+              "location": {
+                "brewery_city": "Belmont",
+                "brewery_state": "NC",
+                "lat": 35.2368,
+                "lng": -81.0157
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.294,
+            "beer": {
+              "bid": 1888911,
+              "beer_name": "River To River",
+              "beer_abv": 4.9,
+              "beer_ibu": 0,
+              "beer_slug": "hidden-river-brewing-company-river-to-river",
+              "beer_style": "Pale Ale - Australian",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208617,
+              "brewery_name": "Hidden River Brewing Company",
+              "brewery_slug": "hidden-river-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-208617_ba6c0.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "HiddenRiverBeer",
+                "facebook": "https://www.facebook.com/pages/Hidden-River-Brewing-Company/817924511562128",
+                "instagram": "HiddenRiverBeer",
+                "url": "http://www.hiddenriverbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Douglassville",
+                "brewery_state": "PA",
+                "lat": 40.2581,
+                "lng": -75.7263
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.22973,
+            "beer": {
+              "bid": 1559036,
+              "beer_name": "Beer Cocktail",
+              "beer_abv": 8.5,
+              "beer_ibu": 65,
+              "beer_slug": "beaver-brewing-company-pennsylvania-beer-cocktail",
+              "beer_style": "Pale Ale - Australian",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1559036_0a34f_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 9096,
+              "brewery_name": "Beaver Brewing Company (Pennsylvania)",
+              "brewery_slug": "beaver-brewing-company-pennsylvania",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BeaverBrewing_9096.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "beaverbrewing",
+                "facebook": "http://www.facebook.com/beaverbrewingcompany",
+                "instagram": "",
+                "url": "http://www.beaverbrewingcompany.com/"
+              },
+              "location": {
+                "brewery_city": "Beaver Falls",
+                "brewery_state": "PA",
+                "lat": 40.7561,
+                "lng": -80.3352
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.14706,
+            "beer": {
+              "bid": 1814206,
+              "beer_name": "Local",
+              "beer_abv": 4.5,
+              "beer_ibu": 40,
+              "beer_slug": "currumbin-valley-brewing-local",
+              "beer_style": "Pale Ale - Australian",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1814206_0e653_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 304299,
+              "brewery_name": "Currumbin Valley Brewing",
+              "brewery_slug": "currumbin-valley-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-304299_4d40a.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/currumbinvalleybeer",
+                "instagram": "currumbinvalleybeer",
+                "url": "http://www.currumbinvalleybrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.10537,
+            "beer": {
+              "bid": 1140370,
+              "beer_name": "Derivative: Galaxy",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "proclamation-ale-company-derivative-galaxy",
+              "beer_style": "Pale Ale - Australian",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1140370_566eb_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 104234,
+              "brewery_name": "Proclamation Ale Company",
+              "brewery_slug": "proclamation-ale-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-proclamationaleco_104234.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "proclamationale",
+                "facebook": "https://www.facebook.com/Proclamationaleco",
+                "instagram": "proclamationale",
+                "url": "http://www.proclamationaleco.com"
+              },
+              "location": {
+                "brewery_city": "West Kingston",
+                "brewery_state": "RI",
+                "lat": 41.482,
+                "lng": -71.5651
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "weighted_rating_score": 3.6259,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "subscribe_status": {
+        "is_subscribed": 0
+      }
+    }
+  }
+}

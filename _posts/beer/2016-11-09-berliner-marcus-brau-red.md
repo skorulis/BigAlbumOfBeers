@@ -9,7 +9,7 @@ brewery: "Berliner Marcus Bräu"
 breweryURL: "/brewery/berliner-marcus-brau.html"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19225649_10155314453868745_7855055378765884898_n.jpg?oh=d5903cedc17e45a35165a1e29f4902dc&oe=5B39E392
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19225649_10155314453868745_7855055378765884898_n.jpg?_nc_cat=0&oh=3b34af876e845eb65568e8c1913e156c&oe=5B88FD92
 beer-date: "2017-06-15"
 desc: "A little tangy, seems like a mix between a pilsner and a gose. Not something I would rave about, but decent"
 permalink: /beer/:title.html

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.316,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.011,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 135600,
+      "brewery_name": "Pivovar Velké Popovice",
+      "brewery_slug": "pivovar-velke-popovice",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-135600_74de9.jpeg",
+      "country_name": "Czech Republic",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": false,
+        "claimed_slug": "",
+        "follow_status": false,
+        "follower_count": 0,
+        "uid": 0,
+        "mute_status": "none"
+      },
+      "beer_count": 13,
+      "contact": {
+        "twitter": "",
+        "facebook": "https://www.facebook.com/KozelCZ",
+        "instagram": "",
+        "url": "http://www.kozelbeer.com"
+      },
+      "brewery_type": "Macro Brewery",
+      "brewery_type_id": 1,
+      "location": {
+        "brewery_address": "Ringhofferova 1",
+        "brewery_city": "Velké Popovice",
+        "brewery_state": "",
+        "brewery_lat": 49.9225,
+        "brewery_lng": 14.6361
+      },
+      "rating": {
+        "count": 63870,
+        "rating_score": 3.223
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 91288,
+        "unique_count": 53872,
+        "monthly_count": 4080,
+        "weekly_count": 1155,
+        "user_count": 0,
+        "age_on_service": 1155.0445833333333
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 1459,
+            "is_brewery_group": 0,
+            "brewery_name": "Plzeňský Prazdroj"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 1685595,
+              "venue_name": "Pivovar Velké Popovice",
+              "venue_slug": "pivovar-velke-popovice",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Ringhofferova 1",
+                "venue_city": "Velké Popovice",
+                "venue_state": "Středočeský",
+                "venue_country": "Česká republika",
+                "lat": 49.9232,
+                "lng": 14.6354
+              },
+              "contact": {
+                "twitter": "@prazdroj1",
+                "venue_url": "http://www.prazdrojvisit.cz"
+              },
+              "foursquare": {
+                "foursquare_id": "4c1358067f7f2d7f2eeede68",
+                "foursquare_url": "http://4sq.com/aE0ArW"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -9,7 +9,7 @@ brewery: "Radeberger Gruppe"
 breweryURL: "/brewery/radeberger-gruppe.html"
 style: "Kölsch"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19113508_10155314453123745_6352710072111467361_n.jpg?oh=ee811aa6c1407631468512bf5e811224&oe=5B4DBD9E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19113508_10155314453123745_6352710072111467361_n.jpg?_nc_cat=0&oh=63ff4a3817689072edafcafa0564e867&oe=5BC4649E
 beer-date: "2017-06-15"
 desc: "Malty, low on bitterness and easy drinking. Even Amy had one"
 permalink: /beer/:title.html

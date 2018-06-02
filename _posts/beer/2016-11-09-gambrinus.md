@@ -9,7 +9,7 @@ brewery: "Plzeňský Prazdroj"
 breweryURL: "/brewery/plzensky-prazdroj.html"
 style: "Pilsner - Czech"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/226421_10151563853523745_546548236_n.jpg?oh=34d9a8fa22ecd7fafc63331fc52b0498&oe=5B3795B4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/226421_10151563853523745_546548236_n.jpg?_nc_cat=0&oh=d97538ccbd91b56d8fbd1ef35738cddc&oe=5B86AFB4
 beer-date: "2013-03-09"
 desc: "A poor mans beer"
 permalink: /beer/:title.html

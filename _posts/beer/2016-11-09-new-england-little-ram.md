@@ -9,7 +9,7 @@ brewery: "New England Brewing Co."
 breweryURL: "/brewery/new-england-brewing-co.html"
 style: "Table Beer"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26231065_10155922806713745_306568484212192530_n.jpg?oh=e8de19c280821db848f35470b2c2f297&oe=5B3AE22C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26231065_10155922806713745_306568484212192530_n.jpg?_nc_cat=0&oh=ca4ca225ab0906f226782eda79fc8148&oe=5B89FC2C
 beer-date: "2018-01-13"
 desc: "Straight up yeasty and Belgian. Too much of that for the alcohol percentage"
 permalink: /beer/:title.html

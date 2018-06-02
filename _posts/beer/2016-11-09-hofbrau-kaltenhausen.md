@@ -9,7 +9,7 @@ brewery: "Hofbräu Kaltenhausen"
 breweryURL: "/brewery/hofbrau-kaltenhausen.html"
 style: "Kellerbier / Zwickelbier"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19961190_10155413263248745_7689516243845444776_n.jpg?oh=b6332293775efbbc4c2a9ec87fc9ec47&oe=5B39F4E1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19961190_10155413263248745_7689516243845444776_n.jpg?_nc_cat=0&oh=8d09d0f045340137e0d903e26df0de81&oe=5B890EE1
 beer-date: "2017-07-12"
 desc: "Mild and well rounded lager"
 permalink: /beer/:title.html

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.482,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.013,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 3736,
+      "brewery_name": "R&B Brewing",
+      "brewery_slug": "rb-brewing-co",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3736_3b158.jpeg",
+      "country_name": "Canada",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "RandBBrewingCo",
+        "follow_status": false,
+        "follower_count": 704,
+        "uid": 433669,
+        "mute_status": "none"
+      },
+      "beer_count": 24,
+      "contact": {
+        "twitter": "RandBBrewing",
+        "facebook": "http://facebook.com/RBBrewing",
+        "instagram": "rbbrewing",
+        "url": "http://randbbrewing.com"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "54 East 4th Ave",
+        "brewery_city": "Vancouver",
+        "brewery_state": "BC",
+        "brewery_lat": 49.2674,
+        "brewery_lng": -123.103
+      },
+      "rating": {
+        "count": 13110,
+        "rating_score": 3.522
+      },
+      "brewery_description": "Opened in 1997 by Barry Benson and Rick Dellow",
+      "stats": {
+        "total_count": 17092,
+        "unique_count": 6099,
+        "monthly_count": 668,
+        "weekly_count": 179,
+        "user_count": 0,
+        "age_on_service": 2461.1364351851853
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 3609,
+            "is_brewery_group": 0,
+            "brewery_name": "Howe Sound Brewing"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 336463,
+              "venue_name": "R & B Brewing Co.",
+              "venue_slug": "r-and-b-brewing-co",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "54 E 4th Ave",
+                "venue_city": "Vancouver",
+                "venue_state": "BC",
+                "venue_country": "Canada",
+                "lat": 49.2673,
+                "lng": -123.104
+              },
+              "contact": {
+                "twitter": "@randbbrewing",
+                "venue_url": "http://www.r-and-b.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4ab2c5fbf964a520446c20e3",
+                "foursquare_url": "http://4sq.com/byCMiB"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

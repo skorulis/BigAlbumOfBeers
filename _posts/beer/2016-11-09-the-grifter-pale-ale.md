@@ -9,7 +9,7 @@ brewery: "Grifter Brewing Company"
 breweryURL: "/brewery/grifter-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1939940_10152293133933745_1195913989_n.jpg?oh=3a3d7e8bb179b3a7aac2cecc762d8b6a&oe=5B42EAF7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1939940_10152293133933745_1195913989_n.jpg?_nc_cat=0&oh=eac1f61e3c72fcc8dbfdf92d01104515&oe=5BB991F7
 beer-date: "2014-03-01"
 desc: "A nice pale"
 permalink: /beer/:title.html

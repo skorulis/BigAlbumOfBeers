@@ -9,7 +9,7 @@ brewery: "Abbaye Notre-Dame de Saint-Rémy"
 breweryURL: "/brewery/abbaye-notre-dame-de-saint-remy.html"
 style: "Belgian Strong Dark Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22815080_10155717525478745_3613633349060392072_n.jpg?oh=fff1dd0fb683d9d3899a33badbb789fc&oe=5B042C1B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22815080_10155717525478745_3613633349060392072_n.jpg?_nc_cat=0&oh=b1113a693b310173adaab318b980dea3&oe=5B7AD31B
 beer-date: "2017-10-28"
 desc: "Really strong taste and aroma. Takes a little while to get used to but great towards the end"
 permalink: /beer/:title.html

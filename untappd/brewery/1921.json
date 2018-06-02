@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.405,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.012,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 1921,
+      "brewery_name": "Birra Peroni",
+      "brewery_slug": "birra-peroni",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BirraPeroniSpA_1921.jpeg",
+      "country_name": "Italy",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": false,
+        "claimed_slug": "",
+        "follow_status": false,
+        "follower_count": 0,
+        "uid": 0,
+        "mute_status": "none"
+      },
+      "beer_count": 37,
+      "contact": {
+        "twitter": "Birra_Peroni",
+        "facebook": "http://www.facebook.com/birraperoni",
+        "instagram": "",
+        "url": "www.peroni.it"
+      },
+      "brewery_type": "Macro Brewery",
+      "brewery_type_id": 1,
+      "location": {
+        "brewery_address": "via Renato Birolli 8",
+        "brewery_city": "Roma",
+        "brewery_state": "RM",
+        "brewery_lat": 41.9028,
+        "brewery_lng": 12.5991
+      },
+      "rating": {
+        "count": 278469,
+        "rating_score": 3.109
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 442322,
+        "unique_count": 250304,
+        "monthly_count": 15014,
+        "weekly_count": 4450,
+        "user_count": 0,
+        "age_on_service": 2498.8062847222222
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 0,
+            "is_brewery_group": 1,
+            "brewery_name": "SABMiller"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 1178562,
+              "venue_name": "Birra Peroni",
+              "venue_slug": "birra-peroni",
+              "primary_category": "Professional & Other Places",
+              "parent_category_id": "4d4b7105d754a06375d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Office",
+                    "category_id": "4bf58dd8d48988d124941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Food",
+                    "category_id": "4d4b7105d754a06374d81259",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Other Great Outdoors",
+                    "category_id": "4bf58dd8d48988d162941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Via Renato Birolli 8",
+                "venue_city": "Roma",
+                "venue_state": "Lazio",
+                "venue_country": "Italia",
+                "lat": 41.9043,
+                "lng": 12.597
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.peroni.it"
+              },
+              "foursquare": {
+                "foursquare_id": "4cd12de701eaf04d05cbbc5d",
+                "foursquare_url": "http://4sq.com/bBryfV"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/default_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

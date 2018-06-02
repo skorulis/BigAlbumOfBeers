@@ -9,7 +9,7 @@ brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717308_10153890415688745_8114544610484440853_n.jpg?oh=cb1c916061254acdc3deabcc11f82f69&oe=5B032D93
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717308_10153890415688745_8114544610484440853_n.jpg?_nc_cat=0&oh=829c460de69be3cb89cb2502763a2937&oe=5B79D493
 beer-date: "2016-02-14"
 desc: "Easy drinking lager. Good for an all day drink"
 permalink: /beer/:title.html

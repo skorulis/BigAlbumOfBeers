@@ -9,7 +9,7 @@ brewery: "Oskar Blues Brewery"
 breweryURL: "/brewery/oskar-blues-brewery.html"
 style: "IPA - Session / India Session Ale"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16105525_10154858017758745_7974618225684961840_n.jpg?oh=53b1d1f75b8c7f441211bebc204148dd&oe=5B053826
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16105525_10154858017758745_7974618225684961840_n.jpg?_nc_cat=0&oh=5380b2db679a340059708879f5937ef5&oe=5B7BDF26
 beer-date: "2017-01-21"
 desc: "Amazingly crisp smell of passionfruit coming through. Doesn’t carry through as much in the taste but it’s still there. There’s a bitterness too but it’s nicely balanced and overall delicious. This beer delivers everything it says on the can"
 permalink: /beer/:title.html

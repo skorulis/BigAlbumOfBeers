@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.448,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.011,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 878,
+      "brewery_name": "Molson Coors Canada",
+      "brewery_slug": "molson-coors-canada",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-MolsonCoorsCanada_878.jpeg",
+      "country_name": "Canada",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "MolsonCoors",
+        "follow_status": false,
+        "follower_count": 11249,
+        "uid": 146488,
+        "mute_status": "none"
+      },
+      "beer_count": 181,
+      "contact": {
+        "twitter": "molsoncoors",
+        "facebook": "",
+        "instagram": "",
+        "url": "http://www.molsoncoors.com"
+      },
+      "brewery_type": "Macro Brewery",
+      "brewery_type_id": 1,
+      "location": {
+        "brewery_address": "33 Carlingview Dr",
+        "brewery_city": "Toronto",
+        "brewery_state": "ON",
+        "brewery_lat": 43.6751,
+        "brewery_lng": -79.5902
+      },
+      "rating": {
+        "count": 244237,
+        "rating_score": 2.914
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 449261,
+        "unique_count": 143821,
+        "monthly_count": 8428,
+        "weekly_count": 2656,
+        "user_count": 0,
+        "age_on_service": 2502.4671296296297
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 0,
+            "is_brewery_group": 1,
+            "brewery_name": "Molson Coors Brewing Company"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 1225027,
+              "venue_name": "Molson Coors Canada",
+              "venue_slug": "molson-coors-canada",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "33 Carlingview Dr.",
+                "venue_city": "Toronto",
+                "venue_state": "ON",
+                "venue_country": "Canada",
+                "lat": 43.6742,
+                "lng": -79.5891
+              },
+              "contact": {
+                "twitter": "@molsoncoors",
+                "venue_url": "http://www.molsoncoors.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4ae84456f964a52062ae21e3",
+                "foursquare_url": "http://4sq.com/8wjN5w"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

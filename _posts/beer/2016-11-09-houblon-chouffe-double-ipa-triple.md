@@ -9,7 +9,7 @@ brewery: "Brasserie d'Achouffe"
 breweryURL: "/brewery/brasserie-dachouffe.html"
 style: "IPA - Belgian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12494908_10153966651838745_649551942505437131_n.jpg?oh=7a37b6f62ce2018fd01d452f14f1058b&oe=5B3E1E4D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12494908_10153966651838745_649551942505437131_n.jpg?_nc_cat=0&oh=5c8a9cc145de203aa3b98e4d09c94ec0&oe=5BB4C54D
 beer-date: "2016-03-16"
 desc: "Doesn’t really taste much like an IPA, nor is it the best Belgian blonde"
 permalink: /beer/:title.html

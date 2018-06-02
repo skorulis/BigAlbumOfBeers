@@ -97,6 +97,7 @@ end
 
 def downloadData(albumId)
 	firstUrl = urlForAlbum(albumId)
+    puts firstUrl
 	downloadChunk(firstUrl);
 	while @next != nil do
 		downloadChunk(@next)

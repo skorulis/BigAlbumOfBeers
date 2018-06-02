@@ -9,7 +9,7 @@ brewery: "Brouwerij Lindemans"
 breweryURL: "/brewery/brouwerij-lindemans.html"
 style: "Lambic - Gueuze"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29214980_10156095063403745_8920318586103267328_n.jpg?oh=d65c604652d31ad2437dbbc7058a3ab9&oe=5B389B51
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29214980_10156095063403745_8920318586103267328_n.jpg?_nc_cat=0&oh=3dad2ecb3c66901ff3214b05ac2808df&oe=5B87B551
 beer-date: "2018-03-13"
 desc: "Tastes much better than it smells. The sourness is nice but there’s something which tastes slightly off. An interesting beer"
 permalink: /beer/:title.html

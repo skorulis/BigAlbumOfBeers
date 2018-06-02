@@ -9,7 +9,7 @@ brewery: "Coopers Brewery"
 breweryURL: "/brewery/coopers-brewery.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11178189_10153268257113745_2486098126429601238_n.jpg?oh=45b4de6ee80c67fd5716c3b19f112ff7&oe=5B4DB028
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11178189_10153268257113745_2486098126429601238_n.jpg?_nc_cat=0&oh=e59505b208d040f8a4246635c0248637&oe=5BC45728
 beer-date: "2015-05-01"
 desc: "Not nearly as good as their other offerings"
 permalink: /beer/:title.html

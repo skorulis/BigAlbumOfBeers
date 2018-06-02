@@ -9,7 +9,7 @@ brewery: "Berliner-Kindl-Schultheiss-Brauerei"
 breweryURL: "/brewery/berliner-kindl-schultheiss-brauerei.html"
 style: "Pilsner - German"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19060094_10155314453983745_7614476436012394567_n.jpg?oh=d65e103a1b795e1801b72d51b8c6b385&oe=5B021D31
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19060094_10155314453983745_7614476436012394567_n.jpg?_nc_cat=0&oh=0338b57149a0071a4c2b070f4ba8f6be&oe=5B78C431
 beer-date: "2017-06-15"
 desc: "A little harsh to start but not too bad"
 permalink: /beer/:title.html

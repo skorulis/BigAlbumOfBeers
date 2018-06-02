@@ -1,0 +1,3184 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.202,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 2177237,
+      "beer_name": "That's How You Make Porridge",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+      "beer_label_hd": "https://untappd.akamaized.net/site/beer_logos_hd/beer-2177237_5fa2e_hd.jpeg",
+      "beer_abv": 6.5,
+      "beer_ibu": 20,
+      "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+      "beer_style": "Brown Ale - Other",
+      "is_in_production": 1,
+      "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+      "is_homebrew": 0,
+      "created_at": "Tue, 04 Jul 2017 00:19:27 +0000",
+      "rating_count": 361,
+      "rating_score": 3.67175,
+      "stats": {
+        "total_count": 426,
+        "monthly_count": 8,
+        "total_user_count": 402,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 3262,
+        "brewery_name": " Australian Brewery",
+        "brewery_slug": "australian-brewery",
+        "brewery_type": "Micro Brewery",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "AusBrewery",
+          "facebook": "http://www.facebook.com/ausbrewery",
+          "url": "http://www.australianbrewery.com"
+        },
+        "location": {
+          "brewery_city": "Rouse Hill",
+          "brewery_state": "NSW",
+          "lat": -33.6745,
+          "lng": 150.913
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 155007730,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2018_01_07/8866d9aca81ea8a72d7ab60b01e6137d_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2018_01_07/8866d9aca81ea8a72d7ab60b01e6137d_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2018_01_07/8866d9aca81ea8a72d7ab60b01e6137d_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2018_01_07/8866d9aca81ea8a72d7ab60b01e6137d_raw.jpeg"
+            },
+            "created_at": "Sun, 07 Jan 2018 09:06:39 +0000",
+            "checkin_id": 548635228,
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "is_in_production": 1,
+              "beer_style_id": 266,
+              "beer_style": "Brown Ale - Other",
+              "rating_score": 3.672,
+              "rating_count": 361,
+              "count": 361,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2356124,
+              "user_name": "timeliot",
+              "first_name": "Tim",
+              "last_name": "E",
+              "user_avatar": "https://gravatar.com/avatar/7f5098fcc15b8a08cc8d1ccc97e57f33?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 1240410,
+                "venue_name": "Artarmon",
+                "venue_slug": "artarmon",
+                "primary_category": "Outdoors & Recreation",
+                "parent_category_id": "4d4b7105d754a06377d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Neighborhood",
+                      "category_id": "4f2a25ac4b909258e854f55f",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Artarmon",
+                  "venue_state": "NSW",
+                  "lat": -33.8093,
+                  "lng": 151.18
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "4cdb95533f6a8cfa3433ecea",
+                  "foursquare_url": "http://4sq.com/d0LoGP"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 154535156,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2018_01_04/da707e3b5ed2f1d26ceb612b18f9e7d9_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2018_01_04/da707e3b5ed2f1d26ceb612b18f9e7d9_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2018_01_04/da707e3b5ed2f1d26ceb612b18f9e7d9_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2018_01_04/da707e3b5ed2f1d26ceb612b18f9e7d9_raw.jpeg"
+            },
+            "created_at": "Thu, 04 Jan 2018 06:10:49 +0000",
+            "checkin_id": 547339364,
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "is_in_production": 1,
+              "beer_style_id": 266,
+              "beer_style": "Brown Ale - Other",
+              "rating_score": 3.672,
+              "rating_count": 361,
+              "count": 361,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 582720,
+              "user_name": "bushaxe",
+              "first_name": "Josh",
+              "last_name": "S",
+              "user_avatar": "https://gravatar.com/avatar/3043eb70603f54e06c71c414b2c3ff40?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3281708,
+                "venue_name": "Mad Laboratory",
+                "venue_slug": "mad-laboratory",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": -34.92,
+                  "lng": 138.575
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "4e1e8641aeb7fe88acddea0b",
+                  "foursquare_url": "http://4sq.com/pJzifa"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 154460193,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2018_01_03/02444ce1d4b38a1cda76016e94a84462_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2018_01_03/02444ce1d4b38a1cda76016e94a84462_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2018_01_03/02444ce1d4b38a1cda76016e94a84462_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2018_01_03/02444ce1d4b38a1cda76016e94a84462_raw.jpeg"
+            },
+            "created_at": "Wed, 03 Jan 2018 10:54:02 +0000",
+            "checkin_id": 547135374,
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "is_in_production": 1,
+              "beer_style_id": 266,
+              "beer_style": "Brown Ale - Other",
+              "rating_score": 3.672,
+              "rating_count": 361,
+              "count": 361,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1165815,
+              "user_name": "dal82",
+              "first_name": "Dallas",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/b309604b0ee3f2d6b3b5945fca02fc17_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 154382317,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2018_01_02/4e535ca323e18eb5c7753b2bab615641_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2018_01_02/4e535ca323e18eb5c7753b2bab615641_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2018_01_02/4e535ca323e18eb5c7753b2bab615641_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2018_01_02/4e535ca323e18eb5c7753b2bab615641_raw.jpeg"
+            },
+            "created_at": "Tue, 02 Jan 2018 06:48:14 +0000",
+            "checkin_id": 546923886,
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "is_in_production": 1,
+              "beer_style_id": 266,
+              "beer_style": "Brown Ale - Other",
+              "rating_score": 3.672,
+              "rating_count": 361,
+              "count": 361,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 307136,
+              "user_name": "gazzabot",
+              "first_name": "Gary",
+              "last_name": "G",
+              "user_avatar": "https://gravatar.com/avatar/9123d73eb59cbf8c0b724e4ca2da7d31?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 153746491,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_12_30/be13119a17f9680a0760d6db8a9da82c_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_12_30/be13119a17f9680a0760d6db8a9da82c_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_12_30/be13119a17f9680a0760d6db8a9da82c_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_12_30/be13119a17f9680a0760d6db8a9da82c_raw.jpeg"
+            },
+            "created_at": "Sat, 30 Dec 2017 06:05:52 +0000",
+            "checkin_id": 545180891,
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "is_in_production": 1,
+              "beer_style_id": 266,
+              "beer_style": "Brown Ale - Other",
+              "rating_score": 3.672,
+              "rating_count": 361,
+              "count": 361,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1539009,
+              "user_name": "Denise_library",
+              "first_name": "Denise",
+              "last_name": "B",
+              "user_avatar": "https://gravatar.com/avatar/951942baf756ec3734d1526aa3ed1123?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 149194224,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_11_29/5e1c5118a7d8b114c547a215494c9aa7_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_11_29/5e1c5118a7d8b114c547a215494c9aa7_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_11_29/5e1c5118a7d8b114c547a215494c9aa7_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_11_29/5e1c5118a7d8b114c547a215494c9aa7_raw.jpg"
+            },
+            "created_at": "Wed, 29 Nov 2017 07:21:26 +0000",
+            "checkin_id": 532610005,
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "is_in_production": 1,
+              "beer_style_id": 266,
+              "beer_style": "Brown Ale - Other",
+              "rating_score": 3.672,
+              "rating_count": 361,
+              "count": 361,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1730313,
+              "user_name": "Nickf32",
+              "first_name": "Nick",
+              "last_name": "F",
+              "user_avatar": "https://untappd.akamaized.net/profile/88a2f945fe8c64d2f2f8a67e8d3b65ba_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 340447,
+                "venue_name": "Beer DeLuxe - Hawthorn",
+                "venue_slug": "beer-deluxe",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "329 Burwood Rd",
+                  "venue_city": "Hawthorn",
+                  "venue_state": "VIC",
+                  "lat": -37.8224,
+                  "lng": 145.034
+                },
+                "contact": {
+                  "twitter": "@bdhawthorn",
+                  "venue_url": "http://beerdeluxe.com.au/beerdeluxe-hawthorn/"
+                },
+                "foursquare": {
+                  "foursquare_id": "501b6e7d16482a76c0c3c784",
+                  "foursquare_url": "http://4sq.com/MUdQjW"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_340447_728a0ef5_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_340447_728a0ef5_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_340447_728a0ef5_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 148061366,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_11_20/456e17f7939c2c25931394442c808b70_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_11_20/456e17f7939c2c25931394442c808b70_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_11_20/456e17f7939c2c25931394442c808b70_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_11_20/456e17f7939c2c25931394442c808b70_raw.jpeg"
+            },
+            "created_at": "Mon, 20 Nov 2017 07:49:40 +0000",
+            "checkin_id": 529264376,
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "is_in_production": 1,
+              "beer_style_id": 266,
+              "beer_style": "Brown Ale - Other",
+              "rating_score": 3.672,
+              "rating_count": 361,
+              "count": 361,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2413697,
+              "user_name": "mwatties",
+              "first_name": "Matt",
+              "last_name": "W",
+              "user_avatar": "https://untappd.akamaized.net/profile/5d9c39198f1f8c4963bbf7c10418c222_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 1149440,
+                "venue_name": "Coffin Sally",
+                "venue_slug": "coffin-sally",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Pizza Place",
+                      "category_id": "4bf58dd8d48988d1ca941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "33 Sackville St",
+                  "venue_city": "Port Fairy",
+                  "venue_state": "VIC",
+                  "lat": -38.3847,
+                  "lng": 142.237
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.coffinsally.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "50f7b8b5e4b0bf9b4ef385c4",
+                  "foursquare_url": "http://4sq.com/XghNP1"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 147907198,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_11_19/50d2121c06c2037b1feaa4991291e95e_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_11_19/50d2121c06c2037b1feaa4991291e95e_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_11_19/50d2121c06c2037b1feaa4991291e95e_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_11_19/50d2121c06c2037b1feaa4991291e95e_raw.jpg"
+            },
+            "created_at": "Sun, 19 Nov 2017 03:16:47 +0000",
+            "checkin_id": 528805111,
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "is_in_production": 1,
+              "beer_style_id": 266,
+              "beer_style": "Brown Ale - Other",
+              "rating_score": 3.672,
+              "rating_count": 361,
+              "count": 361,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2717879,
+              "user_name": "Michele7",
+              "first_name": "Michele",
+              "last_name": "M",
+              "user_avatar": "https://gravatar.com/avatar/35d0a6a35cc15636edf9ee529f3f1971?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 6128640,
+                "venue_name": "High Street Social",
+                "venue_slug": "high-street-social",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "562 High Street",
+                  "venue_city": "Penrith",
+                  "venue_state": "NSW",
+                  "lat": -33.7526,
+                  "lng": 150.693
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "589fe2bc4bafb713bd9f56ca",
+                  "foursquare_url": "http://4sq.com/2kfIMll"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 147698864,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_11_18/e9d2e4aa39ec46cbfc8485869c7bb367_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_11_18/e9d2e4aa39ec46cbfc8485869c7bb367_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_11_18/e9d2e4aa39ec46cbfc8485869c7bb367_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_11_18/e9d2e4aa39ec46cbfc8485869c7bb367_raw.jpg"
+            },
+            "created_at": "Sat, 18 Nov 2017 07:54:22 +0000",
+            "checkin_id": 528201658,
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "is_in_production": 1,
+              "beer_style_id": 266,
+              "beer_style": "Brown Ale - Other",
+              "rating_score": 3.672,
+              "rating_count": 361,
+              "count": 361,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 115151,
+              "user_name": "Nicko767",
+              "first_name": "nick",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/9987b24311b9030b735a634eef62cea3_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 7012148,
+                "venue_name": "Nick's Hop House",
+                "venue_slug": "nicks-hop-house",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Belmont",
+                  "venue_state": "NSW",
+                  "lat": -33.0298,
+                  "lng": 151.66
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5a0ab54a8173cb789e555f49",
+                  "foursquare_url": "http://4sq.com/2AFL9RV"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 147522247,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_11_17/d04d44a6a0c7d4b0a967d5022827e506_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_11_17/d04d44a6a0c7d4b0a967d5022827e506_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_11_17/d04d44a6a0c7d4b0a967d5022827e506_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_11_17/d04d44a6a0c7d4b0a967d5022827e506_raw.jpeg"
+            },
+            "created_at": "Fri, 17 Nov 2017 09:43:10 +0000",
+            "checkin_id": 527706068,
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "is_in_production": 1,
+              "beer_style_id": 266,
+              "beer_style": "Brown Ale - Other",
+              "rating_score": 3.672,
+              "rating_count": 361,
+              "count": 361,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3116474,
+              "user_name": "rikvanopstal",
+              "first_name": "Rik",
+              "last_name": "v",
+              "user_avatar": "https://untappd.akamaized.net/profile/7aebe34204e2cf96b1050349bd0c7d75_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4758425,
+                "venue_name": "One Darling Harbour",
+                "venue_slug": "one-darling-harbour",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Residential Building (Apartment / Condo)",
+                      "category_id": "4d954b06a243a5684965b473",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": -33.8709,
+                  "lng": 151.198
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "57123cd1498e183ba1d2c4be",
+                  "foursquare_url": "http://4sq.com/1W6FJWU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 549318912,
+            "created_at": "Wed, 10 Jan 2018 10:14:38 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.25,
+            "user": {
+              "uid": 5067157,
+              "user_name": "bassettauthor",
+              "first_name": "Thurston",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/7e4742697e619cfbac0ca546f486439c?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 281553,
+              "venue_name": "City of Portland",
+              "venue_slug": "city-of-portland",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Neighborhood",
+                    "category_id": "4f2a25ac4b909258e854f55f",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Portland",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -38.3446,
+                "lng": 141.604
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4ce87b5cf1c6236a0d3860f0",
+                "foursquare_url": "http://4sq.com/aoY7fe"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 34610,
+                  "user_badge_id": 291968012,
+                  "badge_name": "Hopped Down (Level 6)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 30 different beers with an IBU of 20 or below. Try 5 more for Level 7!",
+                  "created_at": "Wed, 10 Jan 2018 10:14:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 93587,
+                  "user_badge_id": 291968013,
+                  "badge_name": "Down Under (Level 52)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 260 different beers from Australia. Try 5 more for Level 52!",
+                  "created_at": "Wed, 10 Jan 2018 10:14:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 548786954,
+            "created_at": "Sun, 07 Jan 2018 21:11:16 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 382100,
+              "user_name": "nick_wilko",
+              "first_name": "Nick",
+              "last_name": "W.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/3bd8ac31f211e53b3b019c36c9adc83b?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 6183,
+                  "user_badge_id": 291502436,
+                  "badge_name": "Cheers To You! (Level 5)",
+                  "badge_description": "Happy Untappd anniversary to you! Thanks for sticking around and drinking socially with us. Cheers! That's 5 years on Untappd!",
+                  "created_at": "Sun, 07 Jan 2018 21:11:17 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HeresToYou_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HeresToYou_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HeresToYou_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3408,
+                  "user_badge_id": 291502438,
+                  "badge_name": "Better Together",
+                  "badge_description": "What happens when you take two or more amazing breweries, throw them into the tank and let them ferment together? An amazing collaboration beer, that’s what! Cheers to working together to create the perfect flavor. That's 5 different beers that have been brewed as a collaboration. Try 5 more for Level 2!",
+                  "created_at": "Sun, 07 Jan 2018 21:11:17 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BetterTogether_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BetterTogether_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BetterTogether_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 548635228,
+            "created_at": "Sun, 07 Jan 2018 09:06:34 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 2356124,
+              "user_name": "timeliot",
+              "first_name": "Tim",
+              "last_name": "E.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/7f5098fcc15b8a08cc8d1ccc97e57f33?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 1240410,
+              "venue_name": "Artarmon",
+              "venue_slug": "artarmon",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Neighborhood",
+                    "category_id": "4f2a25ac4b909258e854f55f",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Artarmon",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8093,
+                "lng": 151.18
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4cdb95533f6a8cfa3433ecea",
+                "foursquare_url": "http://4sq.com/d0LoGP"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 155007730,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2018_01_07/8866d9aca81ea8a72d7ab60b01e6137d_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2018_01_07/8866d9aca81ea8a72d7ab60b01e6137d_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2018_01_07/8866d9aca81ea8a72d7ab60b01e6137d_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2018_01_07/8866d9aca81ea8a72d7ab60b01e6137d_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 548029215,
+            "created_at": "Sat, 06 Jan 2018 06:08:50 +0000",
+            "checkin_comment": "Noice",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3554971,
+              "user_name": "bfulleruk",
+              "first_name": "Ben",
+              "last_name": "F.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/00c25793bbe5eef7da71d7327c8acaf1?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 576934,
+                  "user": {
+                    "uid": 576934,
+                    "user_name": "wolty",
+                    "first_name": "Wolty",
+                    "last_name": "",
+                    "bio": "Craft beer nut. Love the hops, love the darks.",
+                    "location": "Brisbane",
+                    "user_avatar": "https://untappd.akamaized.net/profile/544d560410826c63c17abed06f858aa3_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 463700951,
+                  "like_owner": false,
+                  "created_at": "Sat, 06 Jan 2018 06:13:32 +0000"
+                },
+                {
+                  "uid": 1298384,
+                  "user": {
+                    "uid": 1298384,
+                    "user_name": "pete_dicko",
+                    "first_name": "Peter",
+                    "last_name": "D.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/bfa98aad4fdce121b3b700cadc52d818_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 463700788,
+                  "like_owner": false,
+                  "created_at": "Sat, 06 Jan 2018 06:12:28 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 547339364,
+            "created_at": "Thu, 04 Jan 2018 06:10:40 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 582720,
+              "user_name": "bushaxe",
+              "first_name": "Josh",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "I like trains! And beer...",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/3043eb70603f54e06c71c414b2c3ff40?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3281708,
+              "venue_name": "Mad Laboratory",
+              "venue_slug": "mad-laboratory",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Australia",
+                "lat": -34.92,
+                "lng": 138.575
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4e1e8641aeb7fe88acddea0b",
+                "foursquare_url": "http://4sq.com/pJzifa"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3044327,
+                  "user": {
+                    "uid": 3044327,
+                    "user_name": "PhilBrau",
+                    "first_name": "Philbert",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Sydney, Australia ",
+                    "user_avatar": "https://untappd.akamaized.net/profile/49a05dbd568a508f994c7663ecaa3be2_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 463000466,
+                  "like_owner": false,
+                  "created_at": "Thu, 04 Jan 2018 07:57:14 +0000"
+                },
+                {
+                  "uid": 1354011,
+                  "user": {
+                    "uid": 1354011,
+                    "user_name": "youngstar",
+                    "first_name": "michael",
+                    "last_name": "y.",
+                    "bio": "I just enjoy drinking in foreign theme parks",
+                    "location": "Sydney",
+                    "user_avatar": "https://untappd.akamaized.net/profile/05e73b82ff271caebc707df0942beb5d_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 462999389,
+                  "like_owner": false,
+                  "created_at": "Thu, 04 Jan 2018 07:44:41 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 154535156,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2018_01_04/da707e3b5ed2f1d26ceb612b18f9e7d9_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2018_01_04/da707e3b5ed2f1d26ceb612b18f9e7d9_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2018_01_04/da707e3b5ed2f1d26ceb612b18f9e7d9_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2018_01_04/da707e3b5ed2f1d26ceb612b18f9e7d9_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34610,
+                  "user_badge_id": 290192689,
+                  "badge_name": "Hopped Down (Level 6)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 30 different beers with an IBU of 20 or below. Try 5 more for Level 7!",
+                  "created_at": "Thu, 04 Jan 2018 06:10:41 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 547273817,
+            "created_at": "Thu, 04 Jan 2018 01:10:19 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 5059700,
+              "user_name": "Gbass",
+              "first_name": "Garth",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/f0dbee8f01bf86163b91ac3db0374fbc_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 281553,
+              "venue_name": "City of Portland",
+              "venue_slug": "city-of-portland",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Neighborhood",
+                    "category_id": "4f2a25ac4b909258e854f55f",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Portland",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -38.3446,
+                "lng": 141.604
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4ce87b5cf1c6236a0d3860f0",
+                "foursquare_url": "http://4sq.com/aoY7fe"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34607,
+                  "user_badge_id": 290129060,
+                  "badge_name": "Hopped Down (Level 3)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 15 different beers with an IBU of 20 or below. Try 5 more for Level 4!",
+                  "created_at": "Thu, 04 Jan 2018 01:10:19 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 547135374,
+            "created_at": "Wed, 03 Jan 2018 10:53:54 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 1165815,
+              "user_name": "dal82",
+              "first_name": "Dallas",
+              "last_name": "",
+              "location": "Cameron Park",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/b309604b0ee3f2d6b3b5945fca02fc17_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2460355,
+                  "user": {
+                    "uid": 2460355,
+                    "user_name": "GlennD64",
+                    "first_name": "Glenn",
+                    "last_name": "D.",
+                    "bio": "",
+                    "location": "Newcastle, Australia",
+                    "user_avatar": "https://untappd.akamaized.net/profile/8255d4bca737bb5033452c6e3ae9e6e2_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 462782945,
+                  "like_owner": false,
+                  "created_at": "Wed, 03 Jan 2018 11:08:42 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 154460193,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2018_01_03/02444ce1d4b38a1cda76016e94a84462_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2018_01_03/02444ce1d4b38a1cda76016e94a84462_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2018_01_03/02444ce1d4b38a1cda76016e94a84462_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2018_01_03/02444ce1d4b38a1cda76016e94a84462_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 546923886,
+            "created_at": "Tue, 02 Jan 2018 06:48:07 +0000",
+            "checkin_comment": "Rich creamy mouthfeel. Balance between sweetness and bitterness is sublime. I think it would benefit by just a hint of more booziness",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 307136,
+              "user_name": "gazzabot",
+              "first_name": "Gary",
+              "last_name": "G.",
+              "location": "",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/9123d73eb59cbf8c0b724e4ca2da7d31?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 1639172,
+                  "user": {
+                    "uid": 1639172,
+                    "user_name": "hopofcommons",
+                    "first_name": "darren",
+                    "last_name": "c.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3b1c0bb11ace09eaa9ee6cd3af2e1371_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 462536624,
+                  "like_owner": false,
+                  "created_at": "Tue, 02 Jan 2018 07:24:54 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 154382317,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2018_01_02/4e535ca323e18eb5c7753b2bab615641_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2018_01_02/4e535ca323e18eb5c7753b2bab615641_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2018_01_02/4e535ca323e18eb5c7753b2bab615641_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2018_01_02/4e535ca323e18eb5c7753b2bab615641_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 3417,
+                  "user_badge_id": 289767354,
+                  "badge_name": "Better Together (Level 10)",
+                  "badge_description": "What happens when you take two or more amazing breweries, throw them into the tank and let them ferment together? An amazing collaboration beer, that’s what! Cheers to working together to create the perfect flavor. That's 50 different beers that have been brewed as a collaboration. Try 5 more for Level 11!",
+                  "created_at": "Tue, 02 Jan 2018 06:48:09 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BetterTogether_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BetterTogether_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BetterTogether_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34629,
+                  "user_badge_id": 289767356,
+                  "badge_name": "Hopped Down (Level 25)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 125 different beers with an IBU of 20 or below. Try 5 more for Level 26!",
+                  "created_at": "Tue, 02 Jan 2018 06:48:09 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 545180891,
+            "created_at": "Sat, 30 Dec 2017 06:05:39 +0000",
+            "checkin_comment": "Yum,  yum and yum.  Beautiful flavour,  although not full malty,  I love it.    Thanks Phil n Kiz",
+            "rating_score": 4.75,
+            "user": {
+              "uid": 1539009,
+              "user_name": "Denise_library",
+              "first_name": "Denise",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/951942baf756ec3734d1526aa3ed1123?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 1,
+              "count": 1,
+              "items": [
+                {
+                  "user": {
+                    "uid": 847706,
+                    "user_name": "phildozer",
+                    "first_name": "Phil",
+                    "last_name": "B.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://untappd.akamaized.net/profile/798ef9e0a693858c69bcc102b9271e73_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 545180891,
+                  "comment_id": 39211187,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "you're welcome :)",
+                  "created_at": "Sun, 31 Dec 2017 07:06:21 +0000",
+                  "comment_source": "API"
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 847706,
+                  "user": {
+                    "uid": 847706,
+                    "user_name": "phildozer",
+                    "first_name": "Phil",
+                    "last_name": "B.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/798ef9e0a693858c69bcc102b9271e73_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 461378146,
+                  "like_owner": false,
+                  "created_at": "Sun, 31 Dec 2017 07:06:05 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 153746491,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_12_30/be13119a17f9680a0760d6db8a9da82c_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_12_30/be13119a17f9680a0760d6db8a9da82c_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_12_30/be13119a17f9680a0760d6db8a9da82c_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_12_30/be13119a17f9680a0760d6db8a9da82c_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 544132920,
+            "created_at": "Thu, 28 Dec 2017 10:38:39 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 4037347,
+              "user_name": "GrahamAlvarez",
+              "first_name": "Graham",
+              "last_name": "A.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/d03ca063c87f453bac3840fdfad21fc1?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34712,
+                  "user_badge_id": 286864622,
+                  "badge_name": "Middle of the Road (Level 8)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 40 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 9!",
+                  "created_at": "Thu, 28 Dec 2017 10:38:39 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 541563370,
+            "created_at": "Sat, 23 Dec 2017 10:40:28 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 1454390,
+              "user_name": "Byrontv",
+              "first_name": "Byron",
+              "last_name": "t.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/7cb50f1b3a20d90bbc9aae42613eff68?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 4,
+              "items": [
+                {
+                  "badge_id": 163779,
+                  "user_badge_id": 284156459,
+                  "badge_name": "Merry Brew-mas (2017)",
+                  "badge_description": "Wishing you a merry brew-mas full of joy, cheer, and great beer! We hope you find some amazing beers waiting for you under the tree.",
+                  "created_at": "Sat, 23 Dec 2017 10:40:28 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_Christmas2017_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_Christmas2017_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_Christmas2017_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3408,
+                  "user_badge_id": 284156460,
+                  "badge_name": "Better Together",
+                  "badge_description": "What happens when you take two or more amazing breweries, throw them into the tank and let them ferment together? An amazing collaboration beer, that’s what! Cheers to working together to create the perfect flavor. That's 5 different beers that have been brewed as a collaboration. Try 5 more for Level 2!",
+                  "created_at": "Sat, 23 Dec 2017 10:40:28 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BetterTogether_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BetterTogether_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BetterTogether_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34605,
+                  "user_badge_id": 284156461,
+                  "badge_name": "Hopped Down",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 5 different beers with an IBU of 20 or below. Try 5 more for Level 2!",
+                  "created_at": "Sat, 23 Dec 2017 10:40:29 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34706,
+                  "user_badge_id": 284156462,
+                  "badge_name": "Middle of the Road (Level 2)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 10 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 3!",
+                  "created_at": "Sat, 23 Dec 2017 10:40:29 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 540058503,
+            "created_at": "Tue, 19 Dec 2017 09:54:07 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 3048769,
+              "user_name": "Thecorduroykid",
+              "first_name": "Cords",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/69185397df048004958ce1c4413754f2_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 34171,
+                  "user": {
+                    "uid": 34171,
+                    "user_name": "vicbeeroclock",
+                    "first_name": "VBOC",
+                    "last_name": "",
+                    "bio": "A Bloke from the Bush.",
+                    "location": "The Bush",
+                    "user_avatar": "https://untappd.akamaized.net/profile/206fe01cd89139ed5a3d1fd5e1365eeb_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 455559458,
+                  "like_owner": false,
+                  "created_at": "Tue, 19 Dec 2017 10:31:14 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 160772,
+                  "user_badge_id": 282705104,
+                  "badge_name": "Hoppy Hanukkah (2017)",
+                  "badge_description": "Happy Hanukkah one and all! We wish you a wonderful eight nights of celebration filled with friends, family, and the best thing of all, great craft beer!",
+                  "created_at": "Tue, 19 Dec 2017 09:54:07 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_Hanukkah2017_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_Hanukkah2017_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_Hanukkah2017_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34716,
+                  "user_badge_id": 282705107,
+                  "badge_name": "Middle of the Road (Level 12)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 60 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 13!",
+                  "created_at": "Tue, 19 Dec 2017 09:54:07 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 539126608,
+            "created_at": "Sat, 16 Dec 2017 22:27:27 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2328302,
+              "user_name": "dustyscoop",
+              "first_name": "Darren",
+              "last_name": "O.",
+              "location": "Melbourne",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "I am partial to a stout or an IPA, especially of the imperial variety.",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/39ee3aa47aa928e3704039e960bb7af9_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 1149440,
+              "venue_name": "Coffin Sally",
+              "venue_slug": "coffin-sally",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Pizza Place",
+                    "category_id": "4bf58dd8d48988d1ca941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "33 Sackville St",
+                "venue_city": "Port Fairy",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -38.3847,
+                "lng": 142.237
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.coffinsally.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "50f7b8b5e4b0bf9b4ef385c4",
+                "foursquare_url": "http://4sq.com/XghNP1"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133354,
+                  "user_badge_id": 281807861,
+                  "badge_name": "For the Can",
+                  "badge_description": "Canning is all the rage and it's not hard to see why - travels well, more environmentally friendly, and no need to carry your bottle opener. That's 5 checkins with the serving style of Can. Try 5 more for Level 2!",
+                  "created_at": "Sat, 16 Dec 2017 22:27:28 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_GloryCan_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_GloryCan_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_GloryCan_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 537985823,
+            "created_at": "Thu, 14 Dec 2017 06:54:17 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1765903,
+              "user_name": "Weiss7",
+              "first_name": "Nick",
+              "last_name": "D.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/7437625eadc83771b172c518597233f9_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 340447,
+              "venue_name": "Beer DeLuxe - Hawthorn",
+              "venue_slug": "beer-deluxe",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "329 Burwood Rd",
+                "venue_city": "Hawthorn",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.8224,
+                "lng": 145.034
+              },
+              "contact": {
+                "twitter": "@bdhawthorn",
+                "venue_url": "http://beerdeluxe.com.au/beerdeluxe-hawthorn/"
+              },
+              "foursquare": {
+                "foursquare_id": "501b6e7d16482a76c0c3c784",
+                "foursquare_url": "http://4sq.com/MUdQjW"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_340447_728a0ef5_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_340447_728a0ef5_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_340447_728a0ef5_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 4,
+              "items": [
+                {
+                  "badge_id": 5611,
+                  "user_badge_id": 280541991,
+                  "badge_name": "Verified Adventure (Level 31)",
+                  "badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 155 check-ins at venue that is verified. Try 5 more for Level 32!",
+                  "created_at": "Thu, 14 Dec 2017 06:54:18 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34612,
+                  "user_badge_id": 280541999,
+                  "badge_name": "Hopped Down (Level 8)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 40 different beers with an IBU of 20 or below. Try 5 more for Level 9!",
+                  "created_at": "Thu, 14 Dec 2017 06:54:18 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 65611,
+                  "user_badge_id": 280542000,
+                  "badge_name": "Middle of the Road (Level 76)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 380 beers with an ABV greater than 5% and less than 10%.  Try 5 more for Level 77!",
+                  "created_at": "Thu, 14 Dec 2017 06:54:18 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 752,
+                  "user_badge_id": 280542001,
+                  "badge_name": "Bravo for Brown (Level 2)",
+                  "badge_description": "Dating back to the 17th century, Brown Ales come in a number of varities. With malty, nutty characteristics and a smooth finish, it's sure to cure your cravings.  That's 10 different Brown Ales. Try 5 more for Level 3.",
+                  "created_at": "Thu, 14 Dec 2017 06:54:18 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BravoForBrown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BravoForBrown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BravoForBrown_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 537731747,
+            "created_at": "Wed, 13 Dec 2017 07:46:35 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3643402,
+              "user_name": "Kampfmesser87",
+              "first_name": "Lachlan",
+              "last_name": "D.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/3f9eff34c3a39d30cb85d6949df2e123_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2177237,
+              "beer_name": "That's How You Make Porridge",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2177237_9e73c_sm.jpeg",
+              "beer_abv": 6.5,
+              "beer_ibu": 20,
+              "beer_slug": "australian-brewery-that-s-how-you-make-porridge",
+              "beer_description": "COLLABORATION WITH BUCKET BOYS \nA Breakfast Brown Ale \nMade with real honey \nGolden Naked Oats \nLactose for body and sweetness ",
+              "beer_style": "Brown Ale - Other",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 588263,
+              "venue_name": "The Wanderer",
+              "venue_slug": "the-wanderer",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Wine Bar",
+                    "category_id": "4bf58dd8d48988d123941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "501 Elizabeth St",
+                "venue_city": "Surry Hills",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8879,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "@thewanderertav",
+                "venue_url": "http://the-wanderer.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "50a4a5b2e4b060a803125418",
+                "foursquare_url": "http://4sq.com/QffYVz"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 93626,
+                  "user_badge_id": 280234845,
+                  "badge_name": "Down Under (Level 91)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 455 different beers from Australia. Try 5 more for Level 91!",
+                  "created_at": "Wed, 13 Dec 2017 07:46:36 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/2177237?min_id=549318912",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/2177237?max_id=537731747",
+          "max_id": 537731747
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 3.63769,
+            "beer": {
+              "bid": 37770,
+              "beer_name": "Brown",
+              "beer_abv": 5,
+              "beer_ibu": 30,
+              "beer_slug": "cavalier-brewing-brown",
+              "beer_style": "Brown Ale - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-37770_f2532_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 9386,
+              "brewery_name": "Cavalier Brewing",
+              "brewery_slug": "cavalier-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-9386_a72c2.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "CavalierBrewing",
+                "facebook": "http://www.facebook.com/pages/Cavalier-Brewing/208438119170864",
+                "instagram": "",
+                "url": "http://www.cavalierbeer.com.au"
+              },
+              "location": {
+                "brewery_city": "Derrimut",
+                "brewery_state": "VIC",
+                "lat": -37.8104,
+                "lng": 144.756
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.3194,
+            "beer": {
+              "bid": 49425,
+              "beer_name": "Australian Pale Ale",
+              "beer_abv": 4.8,
+              "beer_ibu": 26,
+              "beer_slug": "australian-brewery-australian-pale-ale",
+              "beer_style": "Pale Ale - Australian",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-49425_87930_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3262,
+              "brewery_name": " Australian Brewery",
+              "brewery_slug": "australian-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3262_b5613.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AusBrewery",
+                "facebook": "http://www.facebook.com/ausbrewery",
+                "instagram": "ausbrewery",
+                "url": "http://www.australianbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Rouse Hill",
+                "brewery_state": "NSW",
+                "lat": -33.6745,
+                "lng": 150.913
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.53499,
+            "beer": {
+              "bid": 1525455,
+              "beer_name": "Trail Pale Ale",
+              "beer_abv": 4.7,
+              "beer_ibu": 45,
+              "beer_slug": "capital-brewing-co-trail-pale-ale",
+              "beer_style": "Pale Ale - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1525455_d1338_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_ce05c.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "www.facebook.com/capitalbrewing",
+                "instagram": "capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "ACT",
+                "lat": -35.3219,
+                "lng": 149.164
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.66026,
+            "beer": {
+              "bid": 1977266,
+              "beer_name": "Pale Ale",
+              "beer_abv": 5.4,
+              "beer_ibu": 35,
+              "beer_slug": "the-craft-and-co-pale-ale",
+              "beer_style": "Pale Ale - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1977266_5b95b_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 245480,
+              "brewery_name": "The Craft & Co",
+              "brewery_slug": "the-craft-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-245480_3ac42.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/TheCraftandCo",
+                "instagram": "",
+                "url": "http://thecraftandco.com.au"
+              },
+              "location": {
+                "brewery_city": "Collingwood",
+                "brewery_state": "",
+                "lat": -37.797,
+                "lng": 144.985
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.79565,
+            "beer": {
+              "bid": 2225639,
+              "beer_name": "Orange Velvet IPA",
+              "beer_abv": 5.5,
+              "beer_ibu": 29,
+              "beer_slug": "lervig-orange-velvet-ipa",
+              "beer_style": "Pale Ale - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2225639_74ceb_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 6826,
+              "brewery_name": "LERVIG",
+              "brewery_slug": "lervig",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-6826_d3c95.jpeg",
+              "country_name": "Norway",
+              "contact": {
+                "twitter": "LervigBeer",
+                "facebook": "http://www.facebook.com/lervig.no",
+                "instagram": "LervigBeer",
+                "url": "http://www.lervig.no/en"
+              },
+              "location": {
+                "brewery_city": "4016 Stavanger",
+                "brewery_state": "",
+                "lat": 58.9457,
+                "lng": 5.74581
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.64787,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "collaborations_with": {
+        "count": 1,
+        "items": [
+          {
+            "brewery": {
+              "brewery_id": 271343,
+              "brewery_name": "Bucket Boys Craft Beer Co",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-271343_85ec1.jpeg",
+              "country_name": "Australia",
+              "location": {
+                "brewery_city": "Marrickville",
+                "brewery_state": "NSW"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

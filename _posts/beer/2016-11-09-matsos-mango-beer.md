@@ -9,7 +9,7 @@ brewery: "Matso's Broome Brewery"
 breweryURL: "/brewery/matsos-broome-brewery.html"
 style: "Fruit Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10294225_10152425241078745_7192155480482123122_n.jpg?oh=03e3117191414c986571b976d33f700b&oe=5B3A47A3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10294225_10152425241078745_7192155480482123122_n.jpg?_nc_cat=0&oh=23019900cc928e8ceacf1874d856339a&oe=5B8961A3
 beer-date: "2014-05-03"
 desc: "Kind of tangy but can’t taste the mango"
 permalink: /beer/:title.html

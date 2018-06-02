@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "IPA - Imperial / Double"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29216216_10156095060873745_882576415952732160_n.jpg?oh=eb1ec8634d70f95773673336af77101d&oe=5B3F8F90
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29216216_10156095060873745_882576415952732160_n.jpg?_nc_cat=0&oh=797bfbcf202246a6396c064fd8e067fb&oe=5BB63690
 beer-date: "2018-03-13"
 desc: "Not as punchy as expected, no big flavours. Rich and complex mix of hops without anything being overwhelming"
 permalink: /beer/:title.html

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.38,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.009,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 98,
+      "brewery_name": "Belhaven Brewery",
+      "brewery_slug": "belhaven-brewery",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BelhavenBrewery_98.jpeg",
+      "country_name": "Scotland",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "BelhavenBrewery",
+        "follow_status": false,
+        "follower_count": 13302,
+        "uid": 1038220,
+        "mute_status": "none"
+      },
+      "beer_count": 123,
+      "contact": {
+        "twitter": "",
+        "facebook": "",
+        "instagram": "",
+        "url": "http://www.belhaven.co.uk"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "Spott Rd",
+        "brewery_city": "Dunbar",
+        "brewery_state": "East Lothian",
+        "brewery_lat": 55.9933,
+        "brewery_lng": -2.50964
+      },
+      "rating": {
+        "count": 243971,
+        "rating_score": 3.5
+      },
+      "brewery_description": "It is one of the oldest regional breweries in Scotland, with a commercial brewing history documented back to 1719, although it is probable that a brewery has existed on site since at least the middle ages. Belhaven Brewery was family owned until 1984 and since then has been subject to continual investment, and more recently the addition of a new Brewhouse in 2011.\n\nThe portfolio of products brewed at Belhaven is diverse and includes cask ales such as Belhaven IPA and 80/- as well as keg products, including Belhaven’s flagship brand and Scotland’s number one ale brand, Belhaven Best. You’ll find Belhaven beers across the globe,  exported as far away as Australia.",
+      "stats": {
+        "total_count": 322593,
+        "unique_count": 175283,
+        "monthly_count": 8969,
+        "weekly_count": 2898,
+        "user_count": 0,
+        "age_on_service": 2509.394224537037
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 612,
+            "is_brewery_group": 0,
+            "brewery_name": "Greene King"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 1703704,
+              "venue_name": "Belhaven Brewery",
+              "venue_slug": "belhaven-brewery",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Dunbar",
+                "venue_state": "East Lothian",
+                "venue_country": "United Kingdom",
+                "lat": 55.9983,
+                "lng": -2.5134
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "50e18a6ce4b0eb1ff15894ac",
+                "foursquare_url": "http://4sq.com/Xabwtz"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

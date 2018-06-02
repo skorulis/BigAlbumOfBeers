@@ -9,7 +9,7 @@ brewery: "Dainton Family Brewery"
 breweryURL: "/brewery/dainton-family-brewery.html"
 style: "Red Ale - American Amber / Red"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26230000_10155922800333745_2694729462339903275_n.jpg?oh=669a6a6adc3bed4cb8577d593f28fb09&oe=5B3CF593
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26230000_10155922800333745_2694729462339903275_n.jpg?_nc_cat=0&oh=473eb5b736d6203ea84b882dccd11d1e&oe=5BB39C93
 beer-date: "2018-01-13"
 desc: "The rye fits really well with the bitterness levels. Lovely roundness towards the end. Matches perfectly with what the can says"
 permalink: /beer/:title.html

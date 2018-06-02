@@ -9,7 +9,7 @@ brewery: "Moa Brewing Company"
 breweryURL: "/brewery/moa-brewing-company.html"
 style: "IPA - English"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12105748_10153656863078745_1274782812792168869_n.jpg?oh=4eb8b64a97a801dfe1651778e3370e62&oe=5B352570
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12105748_10153656863078745_1274782812792168869_n.jpg?_nc_cat=0&oh=4bc991cb35b474d99732ca2376e0f7e5&oe=5B843F70
 beer-date: "2015-10-17"
 desc: "I really wanted to like this beer because of the cool bottle but the flavour just isn’t right"
 permalink: /beer/:title.html

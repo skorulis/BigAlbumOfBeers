@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10411207_10153053839443745_1628460253644107712_n.jpg?oh=4e30c36d23a522c515bf758e74922d0b&oe=5B06178D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10411207_10153053839443745_1628460253644107712_n.jpg?_nc_cat=0&oh=82a7a92c3b126ccd72e2be7aceb3486e&oe=5B7CBE8D
 beer-date: "2015-01-28"
 desc: "A fairly plain IPA. A good choice if you’ve never had one before"
 permalink: /beer/:title.html

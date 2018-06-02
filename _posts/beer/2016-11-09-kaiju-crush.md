@@ -9,7 +9,7 @@ brewery: "KAIJU! Beer"
 breweryURL: "/brewery/kaiju-beer.html"
 style: "Pale Ale - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17862511_10155111576073745_6472503670234133609_n.jpg?oh=6125f95d977753a54287ca8e980a7809&oe=5B06A0C3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17862511_10155111576073745_6472503670234133609_n.jpg?_nc_cat=0&oh=a77e9a70008216ce3a730bce9d3e8ed7&oe=5B7D47C3
 beer-date: "2017-04-11"
 desc: "I’ve been dying to try out this beer. The hops are all floral and citrus but without any of the bitterness that normally comes with such a hoppy beer. It manages to be refreshing while still packing in tons of flavour. Reminds me a lot of the pirate life pale ale"
 permalink: /beer/:title.html

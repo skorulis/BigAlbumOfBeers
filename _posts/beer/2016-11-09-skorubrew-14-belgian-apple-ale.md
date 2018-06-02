@@ -8,7 +8,7 @@ brewery: "Skorubrew"
 breweryURL: "/brewery/skorubrew.html"
 style: "Belgian Dubbel"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114094_10154858210088745_1565220583191282789_n.jpg?oh=f5e1e7ac19d5976a3a2bede0e0eb6326&oe=5B058D7D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114094_10154858210088745_1565220583191282789_n.jpg?_nc_cat=0&oh=8a21df98234a6e7ae58baf40126ab48c&oe=5B7C347D
 beer-date: "2017-01-21"
 desc: "Really rounded flavour. Much less hoppy than my other brews and the slight apple tang adds something that you wouldn’t normally see. The high ABV adds another element. Overall a decent and unique beer"
 permalink: /beer/:title.html

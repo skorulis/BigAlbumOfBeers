@@ -9,7 +9,7 @@ brewery: "BrewCult"
 breweryURL: "/brewery/brewcult.html"
 style: "Brown Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15037333_10154633846433745_6730955490670727997_n.jpg?oh=e0cff772486defd6690f183e1b7b7968&oe=5B312C4C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15037333_10154633846433745_6730955490670727997_n.jpg?_nc_cat=0&oh=e369519d197abce58f350131e7486b19&oe=5B80464C
 beer-date: "2016-11-13"
 desc: "More of a stout than a brown due to the lack of sweetness. Kind of disappointing"
 permalink: /beer/:title.html

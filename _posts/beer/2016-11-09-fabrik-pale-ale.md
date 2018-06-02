@@ -9,7 +9,7 @@ brewery: "Bierfabrik"
 breweryURL: "/brewery/bierfabrik.html"
 style: "Pale Ale - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105933_10155314453428745_1990242842254687030_n.jpg?oh=bf459ae8b95578cada0854942f3c0410&oe=5B2F17B6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105933_10155314453428745_1990242842254687030_n.jpg?_nc_cat=0&oh=4c1e5d2ab0b4e31eb4acb41948085996&oe=5B7E31B6
 beer-date: "2017-06-15"
 desc: "A little bitter and has a strange smell and after taste but overall pretty good"
 permalink: /beer/:title.html

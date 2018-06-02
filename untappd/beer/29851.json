@@ -1,0 +1,3379 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.47,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.006,
+      "measure": "seconds"
+    }
+  },
+  "notifications": {
+    "type": "notifications",
+    "unread_count": {
+      "comments": 0,
+      "toasts": 0,
+      "friends": 0,
+      "messages": 0,
+      "news": 0
+    }
+  },
+  "response": {
+    "beer": {
+      "bid": 29851,
+      "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+      "beer_label_hd": "",
+      "beer_abv": 5,
+      "beer_ibu": 15,
+      "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+      "beer_style": "Fruit Beer",
+      "is_in_production": 1,
+      "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+      "is_homebrew": 0,
+      "created_at": "Fri, 11 Feb 2011 21:50:37 +0000",
+      "rating_count": 13756,
+      "rating_score": 3.50182,
+      "stats": {
+        "total_count": 19757,
+        "monthly_count": 244,
+        "total_user_count": 15310,
+        "user_count": 1
+      },
+      "brewery": {
+        "brewery_id": 198,
+        "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+        "brewery_slug": "brasserie-mcauslan-st-ambroise",
+        "brewery_type": "Micro Brewery",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+        "country_name": "Canada",
+        "contact": {
+          "twitter": "bierestambroise",
+          "facebook": "http://www.facebook.com/bierestambroise",
+          "url": "http://mcauslan.com"
+        },
+        "location": {
+          "brewery_city": "Montreal",
+          "brewery_state": "QC",
+          "lat": 45.4685,
+          "lng": -73.5908
+        }
+      },
+      "auth_rating": 2,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 110003100,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_05/57cde2a66e39ad46823d9988fd8acb8d_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_05/57cde2a66e39ad46823d9988fd8acb8d_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_05/57cde2a66e39ad46823d9988fd8acb8d_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_05/57cde2a66e39ad46823d9988fd8acb8d_raw.jpeg"
+            },
+            "created_at": "Sun, 05 Feb 2017 04:02:48 +0000",
+            "checkin_id": 413947685,
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3014882,
+              "user_name": "Inglorious",
+              "first_name": "taylor",
+              "last_name": "b",
+              "user_avatar": "https://gravatar.com/avatar/0fc1d1064d3ab2f9fc3bbc5493cc666f?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3053,
+                "venue_name": "99 Bottles of Beer on the Wall",
+                "venue_slug": "99-bottles-of-beer-on-the-wall",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "110 Walnut Ave",
+                  "venue_city": "Santa Cruz",
+                  "venue_state": "CA",
+                  "lat": 36.9734,
+                  "lng": -122.027
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://99bottles.com"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "4ab56a66f964a5207c7420e3",
+                  "foursquare_url": "http://4sq.com/di4dDs"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 109947366,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_04/d2465b4b152c22156e98e44984663f17_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_04/d2465b4b152c22156e98e44984663f17_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_04/d2465b4b152c22156e98e44984663f17_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_04/d2465b4b152c22156e98e44984663f17_raw.jpg"
+            },
+            "created_at": "Sat, 04 Feb 2017 23:48:21 +0000",
+            "checkin_id": 413728555,
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3068497,
+              "user_name": "YuriyK",
+              "first_name": "Yuriy",
+              "last_name": "K",
+              "user_avatar": "https://gravatar.com/avatar/1b548b633c5eb5ae267f3d6bf9f7ebd5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 109936206,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_04/ac0eb5e7362fee649a61eb3e1c30c2f0_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_04/ac0eb5e7362fee649a61eb3e1c30c2f0_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_04/ac0eb5e7362fee649a61eb3e1c30c2f0_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_04/ac0eb5e7362fee649a61eb3e1c30c2f0_raw.jpeg"
+            },
+            "created_at": "Sat, 04 Feb 2017 23:09:41 +0000",
+            "checkin_id": 413687136,
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4011678,
+              "user_name": "swickenden",
+              "first_name": "Sara",
+              "last_name": "W",
+              "user_avatar": "https://untappd.akamaized.net/profile/ad0a6afe99e8cbaefe1c31d7e73c654c_100x100.jpeg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 109909755,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_04/08c9bab8562b464a08a93284b9758bc1_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_04/08c9bab8562b464a08a93284b9758bc1_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_04/08c9bab8562b464a08a93284b9758bc1_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_04/08c9bab8562b464a08a93284b9758bc1_raw.jpg"
+            },
+            "created_at": "Sat, 04 Feb 2017 21:42:12 +0000",
+            "checkin_id": 413596852,
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4069885,
+              "user_name": "klroy4657",
+              "first_name": "TheRoy's",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/126f1dd8a33bbc24ef5eeed8c7e58f15_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3708053,
+                "venue_name": "Taphouse Northern Grill",
+                "venue_slug": "taphouse-northern-grill-and-pub",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1500 Regent St",
+                  "venue_city": "Sudbury",
+                  "venue_state": "ON",
+                  "lat": 46.4588,
+                  "lng": -81.009
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://taphousenortherngrill.ca"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "56076bc0498e96c1a555483e",
+                  "foursquare_url": "http://4sq.com/1FrmMJj"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_3708053_2d3919c0_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_3708053_2d3919c0_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_3708053_2d3919c0_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 109900193,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_04/4032c1affbc05db418fa2eb986d7db62_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_04/4032c1affbc05db418fa2eb986d7db62_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_04/4032c1affbc05db418fa2eb986d7db62_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_04/4032c1affbc05db418fa2eb986d7db62_raw.jpg"
+            },
+            "created_at": "Sat, 04 Feb 2017 21:13:13 +0000",
+            "checkin_id": 413566530,
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3975408,
+              "user_name": "veromachine",
+              "first_name": "Veronique",
+              "last_name": "P",
+              "user_avatar": "https://untappd.akamaized.net/profile/dffd239de121ff49063d00961b25fa2c_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 1790379,
+                "venue_name": "Rawdon (ville)",
+                "venue_slug": "rawdon-ville",
+                "primary_category": "Arts & Entertainment",
+                "parent_category_id": "4d4b7104d754a06370d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Historic Site",
+                      "category_id": "4deefb944765f83613cdba6e",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": 46.0424,
+                  "lng": -73.7064
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": false,
+                "foursquare": {
+                  "foursquare_id": "4f54bf8be4b0754d5a228338",
+                  "foursquare_url": "http://4sq.com/wGmxr7"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 109621576,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_03/ea2846ed1bd2eb7fc0a6bacb1847d776_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_03/ea2846ed1bd2eb7fc0a6bacb1847d776_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_03/ea2846ed1bd2eb7fc0a6bacb1847d776_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_03/ea2846ed1bd2eb7fc0a6bacb1847d776_raw.jpeg"
+            },
+            "created_at": "Fri, 03 Feb 2017 03:40:51 +0000",
+            "checkin_id": 412735401,
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3696188,
+              "user_name": "dstamoulis",
+              "first_name": "Dimitrios",
+              "last_name": "S",
+              "user_avatar": "https://gravatar.com/avatar/ff9d0729f16383c68dd040a21bb29675?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3664632,
+                "venue_name": "La Brasserie Saint-Denis",
+                "venue_slug": "la-brasserie-saintdenis",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "4350, rue Saint-Denis",
+                  "venue_city": "Montréal",
+                  "venue_state": "QC",
+                  "lat": 45.5228,
+                  "lng": -73.5806
+                },
+                "contact": {
+                  "twitter": "@labrasseriesd",
+                  "venue_url": "http://labrasseriesaintdenis.com"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "55e60c8e498e28b8085be669",
+                  "foursquare_url": "http://4sq.com/1XcUuYw"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 109603019,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_03/bea47d18da4049ea50d9d1713001e3bd_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_03/bea47d18da4049ea50d9d1713001e3bd_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_03/bea47d18da4049ea50d9d1713001e3bd_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_03/bea47d18da4049ea50d9d1713001e3bd_raw.jpg"
+            },
+            "created_at": "Fri, 03 Feb 2017 01:15:40 +0000",
+            "checkin_id": 412668416,
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2833736,
+              "user_name": "TheWorld",
+              "first_name": "Jeff",
+              "last_name": "D",
+              "user_avatar": "https://untappd.akamaized.net/profile/2b2d71632d5afd79cc6f16c02e98542d_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 753160,
+                "venue_name": "Ancaster, Ontario",
+                "venue_slug": "ancaster-ontario",
+                "primary_category": "Outdoors & Recreation",
+                "parent_category_id": "4d4b7105d754a06377d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "City",
+                      "category_id": "50aa9e094b90af0d42d5de0d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Ontario",
+                  "lat": 43.2127,
+                  "lng": -79.9954
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": false,
+                "foursquare": {
+                  "foursquare_id": "4b4a39f2f964a520a07f26e3",
+                  "foursquare_url": "http://4sq.com/56y93a"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 109593045,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_03/a37fcc3750f71d19702bf66286b2f811_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_03/a37fcc3750f71d19702bf66286b2f811_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_03/a37fcc3750f71d19702bf66286b2f811_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_03/a37fcc3750f71d19702bf66286b2f811_raw.jpg"
+            },
+            "created_at": "Fri, 03 Feb 2017 00:10:41 +0000",
+            "checkin_id": 412633425,
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2495729,
+              "user_name": "Eyez-Only",
+              "first_name": "James",
+              "last_name": "F",
+              "user_avatar": "https://untappd.akamaized.net/profile/f88ad37c7948ce8ad17f5adc8ea56a1c_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 109518121,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_02/46dc513cdd8384ec0e37340e43652cf4_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_02/46dc513cdd8384ec0e37340e43652cf4_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_02/46dc513cdd8384ec0e37340e43652cf4_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_02/46dc513cdd8384ec0e37340e43652cf4_raw.jpeg"
+            },
+            "created_at": "Thu, 02 Feb 2017 01:26:21 +0000",
+            "checkin_id": 412411236,
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1348793,
+              "user_name": "Muffin42",
+              "first_name": "Martin",
+              "last_name": "R",
+              "user_avatar": "https://untappd.akamaized.net/profile/79f993cb2d3f552194109fe4beaaf493_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 109383630,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_01_31/bc29cf5710dc884fede882bed615547a_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_01_31/bc29cf5710dc884fede882bed615547a_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_01_31/bc29cf5710dc884fede882bed615547a_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_01_31/bc29cf5710dc884fede882bed615547a_raw.jpg"
+            },
+            "created_at": "Tue, 31 Jan 2017 01:29:40 +0000",
+            "checkin_id": 411996184,
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3520439,
+              "user_name": "Potelin",
+              "first_name": "Nicolas",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/0a7aaf3d68db5732b2bddc84d3d408cc_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5423960,
+                "venue_name": "Brew Club Chez Vanier",
+                "venue_slug": "brew-club-chez-vanier",
+                "primary_category": "Professional & Other Places",
+                "parent_category_id": "4d4b7105d754a06375d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Building",
+                      "category_id": "4bf58dd8d48988d130941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Rimouski",
+                  "venue_state": "QC",
+                  "lat": 48.447,
+                  "lng": -68.5181
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "private_venue": false,
+                "foursquare": {
+                  "foursquare_id": "57e73065498e66942287029b",
+                  "foursquare_url": "http://4sq.com/2da2uKT"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/building/default_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/building/default_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/building/default_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 413947685,
+            "created_at": "Sun, 05 Feb 2017 04:02:36 +0000",
+            "checkin_comment": "Yummy!",
+            "rating_score": 0,
+            "user": {
+              "uid": 3014882,
+              "user_name": "Inglorious",
+              "first_name": "taylor",
+              "last_name": "b.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/0fc1d1064d3ab2f9fc3bbc5493cc666f?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10153513105996295"
+              }
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3053,
+              "venue_name": "99 Bottles of Beer on the Wall",
+              "venue_slug": "99-bottles-of-beer-on-the-wall",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "110 Walnut Ave",
+                "venue_city": "Santa Cruz",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 36.9734,
+                "lng": -122.027
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://99bottles.com"
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "4ab56a66f964a5207c7420e3",
+                "foursquare_url": "http://4sq.com/di4dDs"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 110003100,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_05/57cde2a66e39ad46823d9988fd8acb8d_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_05/57cde2a66e39ad46823d9988fd8acb8d_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_05/57cde2a66e39ad46823d9988fd8acb8d_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_05/57cde2a66e39ad46823d9988fd8acb8d_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 711,
+                  "user_badge_id": 169815051,
+                  "badge_name": "Fruits of Your Labor",
+                  "badge_description": "It’s been a long day and now it’s time for a reward. Crisp, tasty and refreshing, enjoy that delicious fruit beer! That's 5 different beers Fruit Beers. Try 5 more for Level 2.",
+                  "created_at": "Sun, 05 Feb 2017 04:02:37 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_FruitsOfYourLabor_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_FruitsOfYourLabor_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_FruitsOfYourLabor_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413934081,
+            "created_at": "Sun, 05 Feb 2017 03:38:59 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 4031478,
+              "user_name": "thompspa",
+              "first_name": "Paige",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/5b3248d2c77b07f60f4488ee23c01c80?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5963,
+                  "user_badge_id": 169808379,
+                  "badge_name": "Riding Steady",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 5 different beers with an ABV of 5% and lower. Try 5 more for Level 2!",
+                  "created_at": "Sun, 05 Feb 2017 03:38:59 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413923138,
+            "created_at": "Sun, 05 Feb 2017 03:22:08 +0000",
+            "checkin_comment": "Decent. Must be cold.",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 4111868,
+              "user_name": "jamestoye",
+              "first_name": "James",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/b83d304a766848c0b0b55e9f3664e295?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": {
+                "facebook": "708626420"
+              }
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5686559,
+              "venue_name": "Thumbprint Craft Beer Market",
+              "venue_slug": "thumbprint-craft-beer-market",
+              "primary_category": "Shop & Service",
+              "parent_category_id": "4d4b7105d754a06378d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Beer Store",
+                    "category_id": "5370f356bcbc57f1066c94c2",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "403 MacKenzie Way SW",
+                "venue_city": "Airdrie",
+                "venue_state": "AB",
+                "venue_country": "Canada",
+                "lat": 51.2891,
+                "lng": -114.023
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.thumbprintcraftbeer.ca"
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "584991d70923923fdd24b1dc",
+                "foursquare_url": "http://4sq.com/2goxUxZ"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_5686559_ba5035a4_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_5686559_ba5035a4_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_5686559_ba5035a4_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413909756,
+            "created_at": "Sun, 05 Feb 2017 03:02:53 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 592055,
+              "user_name": "Childersc",
+              "first_name": "Caleb",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/331f2af6bb522a62fa41b8638200f8df_100x100.jpg",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 1,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 1850762,
+                  "user": {
+                    "uid": 1850762,
+                    "user_name": "achill527",
+                    "first_name": "Alex",
+                    "last_name": "H.",
+                    "bio": "I'm just out here tryna function",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/e4ceb3d6d2e342fbb42cc3c65c177689_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/achill527"
+                  },
+                  "like_id": 333082987,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 03:19:47 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413909598,
+            "created_at": "Sun, 05 Feb 2017 03:02:38 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 2074136,
+              "user_name": "Dillybar84",
+              "first_name": "Dan",
+              "last_name": "R.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/c9366a52b41510765b66794302158534?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10153199652626457"
+              }
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 66818,
+              "venue_name": "The Revel Room",
+              "venue_slug": "the-revel-room",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Lounge",
+                    "category_id": "4bf58dd8d48988d121941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "238 Abbott St",
+                "venue_city": "Vancouver",
+                "venue_state": "BC",
+                "venue_country": "Canada",
+                "lat": 49.2831,
+                "lng": -123.107
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.revelroom.ca"
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "4aa74438f964a5208a4c20e3",
+                "foursquare_url": "http://4sq.com/5OBhaz"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413842899,
+            "created_at": "Sun, 05 Feb 2017 01:42:52 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 3207667,
+              "user_name": "NikiPaulus",
+              "first_name": "Niki",
+              "last_name": "G.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/3183051835f9d1c3da6f3c04f2d92ffa_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "1340088456016911"
+              }
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2550305,
+              "venue_name": "Gnarly Brews Tap Room",
+              "venue_slug": "gnarly-brews-tap-room",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "224 Stockton St",
+                "venue_city": "Phillipsburg",
+                "venue_state": "NJ",
+                "venue_country": "United States",
+                "lat": 40.6883,
+                "lng": -75.1864
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "54ce9461498e778070f3c29c",
+                "foursquare_url": "http://4sq.com/1Dusu73"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 4,
+              "count": 4,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 3039494,
+                  "user": {
+                    "uid": 3039494,
+                    "user_name": "Staytipsy",
+                    "first_name": "Mike",
+                    "last_name": "F.",
+                    "bio": "Work work drink drink sleep repeat.",
+                    "location": "West side bethlehem",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b320f66e9f14e61fb59d270ea07a7205_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Staytipsy"
+                  },
+                  "like_id": 333071928,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 03:02:42 +0000"
+                },
+                {
+                  "uid": 3808246,
+                  "user": {
+                    "uid": 3808246,
+                    "user_name": "brodster91",
+                    "first_name": "brodmp",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://gravatar.com/avatar/c516dde96e572684407c6c2fcc86289f?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/brodster91"
+                  },
+                  "like_id": 333062707,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 02:50:12 +0000"
+                },
+                {
+                  "uid": 3022783,
+                  "user": {
+                    "uid": 3022783,
+                    "user_name": "JDilla",
+                    "first_name": "Josh",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "up da street ",
+                    "user_avatar": "https://untappd.akamaized.net/profile/e433786758b634101858d500b176a9ce_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/JDilla"
+                  },
+                  "like_id": 333054235,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 02:39:58 +0000"
+                },
+                {
+                  "uid": 3058818,
+                  "user": {
+                    "uid": 3058818,
+                    "user_name": "Bullock4987",
+                    "first_name": "Shawn",
+                    "last_name": "B.",
+                    "bio": "",
+                    "location": "America",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3c77187d58a98462dca23cce91d91552_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Bullock4987"
+                  },
+                  "like_id": 333023935,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 02:03:59 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 409,
+                  "user_badge_id": 169763034,
+                  "badge_name": "The Great White North",
+                  "badge_description": "Out on the pond for some ice fishing, or perhaps watching some hockey, eh?  That’s 5 beers from a brewery in Canada! Try 5 more for Level 2!",
+                  "created_at": "Sun, 05 Feb 2017 01:42:53 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_canada_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_canada_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_canada_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 712,
+                  "user_badge_id": 169763036,
+                  "badge_name": "Fruits of Your Labor (Level 2)",
+                  "badge_description": "It’s been a long day and now it’s time for a reward. Crisp, tasty and refreshing, enjoy that delicious fruit beer! That's 10 different beers Fruit Beers. Try 5 more for Level 3.",
+                  "created_at": "Sun, 05 Feb 2017 01:42:53 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_FruitsOfYourLabor_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_FruitsOfYourLabor_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_FruitsOfYourLabor_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413804703,
+            "created_at": "Sun, 05 Feb 2017 01:02:51 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3058818,
+              "user_name": "Bullock4987",
+              "first_name": "Shawn",
+              "last_name": "B.",
+              "location": "America",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/3c77187d58a98462dca23cce91d91552_100x100.jpeg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10156545820575327"
+              }
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2550305,
+              "venue_name": "Gnarly Brews Tap Room",
+              "venue_slug": "gnarly-brews-tap-room",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "224 Stockton St",
+                "venue_city": "Phillipsburg",
+                "venue_state": "NJ",
+                "venue_country": "United States",
+                "lat": 40.6883,
+                "lng": -75.1864
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "54ce9461498e778070f3c29c",
+                "foursquare_url": "http://4sq.com/1Dusu73"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 5,
+              "count": 5,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 1717427,
+                  "user": {
+                    "uid": 1717427,
+                    "user_name": "Minaphilbill",
+                    "first_name": "Brooke",
+                    "last_name": "H.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://gravatar.com/avatar/28bafe0a79bb19bec680c3530ecfd7ec?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Minaphilbill"
+                  },
+                  "like_id": 333103804,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 03:51:19 +0000"
+                },
+                {
+                  "uid": 3039494,
+                  "user": {
+                    "uid": 3039494,
+                    "user_name": "Staytipsy",
+                    "first_name": "Mike",
+                    "last_name": "F.",
+                    "bio": "Work work drink drink sleep repeat.",
+                    "location": "West side bethlehem",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b320f66e9f14e61fb59d270ea07a7205_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Staytipsy"
+                  },
+                  "like_id": 333072034,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 03:02:50 +0000"
+                },
+                {
+                  "uid": 3239873,
+                  "user": {
+                    "uid": 3239873,
+                    "user_name": "njwriker",
+                    "first_name": "nick",
+                    "last_name": "w.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://gravatar.com/avatar/7d7c5d83cb689d797a1d2580e9fd25f6?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/njwriker"
+                  },
+                  "like_id": 333066708,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 02:55:10 +0000"
+                },
+                {
+                  "uid": 1717361,
+                  "user": {
+                    "uid": 1717361,
+                    "user_name": "hockingj",
+                    "first_name": "Jordan",
+                    "last_name": "H.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/d991055c20ffd9065b497bd53f3db3dc_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/hockingj"
+                  },
+                  "like_id": 333036115,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 02:19:04 +0000"
+                },
+                {
+                  "uid": 3207667,
+                  "user": {
+                    "uid": 3207667,
+                    "user_name": "NikiPaulus",
+                    "first_name": "Niki",
+                    "last_name": "G.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3183051835f9d1c3da6f3c04f2d92ffa_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/NikiPaulus"
+                  },
+                  "like_id": 332972346,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 01:03:38 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413795548,
+            "created_at": "Sun, 05 Feb 2017 00:53:46 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3120387,
+              "user_name": "JackBarrelAgedBauer",
+              "first_name": "JackBarrelAged",
+              "last_name": "B.",
+              "location": "Victoria",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/61c3cace1e1b23d56e6b18fec9517ad0?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413785253,
+            "created_at": "Sun, 05 Feb 2017 00:43:28 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 1237547,
+              "user_name": "kdb76",
+              "first_name": "Kristen",
+              "last_name": "",
+              "location": "Victoria,  BC",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/15e7974944086adba89e0b5f0c002eea_100x100.jpeg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "585195159"
+              }
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 826391,
+              "venue_name": "Langford Lake",
+              "venue_slug": "langford-lake",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Lake",
+                    "category_id": "4bf58dd8d48988d161941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Canada",
+                "lat": 48.4441,
+                "lng": -123.533
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "4c5208ee048b1b8db8a9e52f",
+                "foursquare_url": "http://4sq.com/akddWW"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 1,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 3411421,
+                  "user": {
+                    "uid": 3411421,
+                    "user_name": "puckslapper19",
+                    "first_name": "PuckSlapper19",
+                    "last_name": "",
+                    "bio": "Beer!!!  Hockey!!!",
+                    "location": "Soo",
+                    "user_avatar": "https://untappd.akamaized.net/profile/5f76658074c6e13ab091f1dcf4e007ca_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/puckslapper19"
+                  },
+                  "like_id": 332973382,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 01:04:46 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 714,
+                  "user_badge_id": 169734525,
+                  "badge_name": "Fruits of Your Labor (Level 4)",
+                  "badge_description": "It’s been a long day and now it’s time for a reward. Crisp, tasty and refreshing, enjoy that delicious fruit beer! That's 20 different beers Fruit Beers. Try 5 more for Level 5.",
+                  "created_at": "Sun, 05 Feb 2017 00:43:29 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_FruitsOfYourLabor_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_FruitsOfYourLabor_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_FruitsOfYourLabor_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413772309,
+            "created_at": "Sun, 05 Feb 2017 00:30:39 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2915967,
+              "user_name": "feldem",
+              "first_name": "Félix",
+              "last_name": "D.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/a31316f8c36b14bc2097d832b2286cf3_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10206920787410615"
+              }
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5965,
+                  "user_badge_id": 169727966,
+                  "badge_name": "Riding Steady (Level 3)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 15 different beers with an ABV of 5% and lower. Try 5 more for Level 4!",
+                  "created_at": "Sun, 05 Feb 2017 00:30:39 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413728640,
+            "created_at": "Sat, 04 Feb 2017 23:48:11 +0000",
+            "checkin_comment": "Très fruitée et excellent",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 4021438,
+              "user_name": "boubou94",
+              "first_name": "Renaud",
+              "last_name": "A.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/d508332b33597279e284f47719ff286c?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413728555,
+            "created_at": "Sat, 04 Feb 2017 23:48:06 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3068497,
+              "user_name": "YuriyK",
+              "first_name": "Yuriy",
+              "last_name": "K.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/1b548b633c5eb5ae267f3d6bf9f7ebd5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 109947366,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_04/d2465b4b152c22156e98e44984663f17_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_04/d2465b4b152c22156e98e44984663f17_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_04/d2465b4b152c22156e98e44984663f17_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_04/d2465b4b152c22156e98e44984663f17_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413687136,
+            "created_at": "Sat, 04 Feb 2017 23:09:35 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 4011678,
+              "user_name": "swickenden",
+              "first_name": "Sara",
+              "last_name": "W.",
+              "location": "Kitchener",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/ad0a6afe99e8cbaefe1c31d7e73c654c_100x100.jpeg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10154662162906206"
+              }
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 109936206,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_04/ac0eb5e7362fee649a61eb3e1c30c2f0_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_04/ac0eb5e7362fee649a61eb3e1c30c2f0_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_04/ac0eb5e7362fee649a61eb3e1c30c2f0_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_04/ac0eb5e7362fee649a61eb3e1c30c2f0_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 791,
+                  "user_badge_id": 169685228,
+                  "badge_name": "Photogenic Brew (Level 6)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 30 check-ins with a photo. ",
+                  "created_at": "Sat, 04 Feb 2017 23:09:35 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413653777,
+            "created_at": "Sat, 04 Feb 2017 22:37:17 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 940203,
+              "user_name": "lazelaine",
+              "first_name": "LauraM",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/7228cd69d02961d0dafffff4f9903718_thumb.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "728185242",
+                "twitter": "LauraELM",
+                "foursquare": "85998426"
+              }
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 1941818,
+              "venue_name": "Dr. Bunsen Honeydew's Lab",
+              "venue_slug": "dr-bunsen-honeydews-lab",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Speakeasy",
+                    "category_id": "4bf58dd8d48988d1d4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Canada",
+                "lat": 43.5329,
+                "lng": -80.26
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": false,
+              "foursquare": {
+                "foursquare_id": "53e2b3ed498e1ea2b74fdcf5",
+                "foursquare_url": "http://4sq.com/1zVzpoP"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 649552,
+                  "user": {
+                    "uid": 649552,
+                    "user_name": "JSASUALUM",
+                    "first_name": "Jeff A",
+                    "last_name": "S.",
+                    "bio": "Tampa's #1 Syracuse fan Westchase resident Taco Mac Chancellor World of Beer 700 & Tampa Bay Brewing mug club member",
+                    "location": "Tampa",
+                    "user_avatar": "https://untappd.akamaized.net/profile/6511ae02bd6accff0f5f8f7eb0edf465_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/JSASUALUM"
+                  },
+                  "like_id": 333062482,
+                  "like_owner": false,
+                  "created_at": "Sun, 05 Feb 2017 02:49:56 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 413596852,
+            "created_at": "Sat, 04 Feb 2017 21:41:55 +0000",
+            "checkin_comment": "",
+            "rating_score": 5,
+            "user": {
+              "uid": 4069885,
+              "user_name": "klroy4657",
+              "first_name": "TheRoy's",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/126f1dd8a33bbc24ef5eeed8c7e58f15_100x100.jpg",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 29851,
+              "beer_name": "St-Ambroise Abricot (Apricot Wheat Ale)",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-StAmbroiseApricotWheatAle_29851.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "brasserie-mcauslan-st-ambroise-st-ambroise-apricot-wheat-ale",
+              "beer_description": "Apricot Wheat Ale blends various barley malts with malted wheat and natural apricot essence to create an original-tasting beer with a clean, fruit nose",
+              "is_in_production": 1,
+              "beer_style_id": 21,
+              "beer_style": "Fruit Beer",
+              "auth_rating": 2,
+              "wish_list": false,
+              "rating_score": 3.502,
+              "rating_count": 13756,
+              "count": 13756,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 198,
+              "brewery_name": "Brasserie McAuslan (St-Ambroise)",
+              "brewery_slug": "brasserie-mcauslan-st-ambroise",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-brasseriemcauslanstambroise_198.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "bierestambroise",
+                "facebook": "http://www.facebook.com/bierestambroise",
+                "url": "http://mcauslan.com"
+              },
+              "location": {
+                "brewery_city": "Montreal",
+                "brewery_state": "QC",
+                "lat": 45.4685,
+                "lng": -73.5908
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3708053,
+              "venue_name": "Taphouse Northern Grill",
+              "venue_slug": "taphouse-northern-grill-and-pub",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1500 Regent St",
+                "venue_city": "Sudbury",
+                "venue_state": "ON",
+                "venue_country": "Canada",
+                "lat": 46.4588,
+                "lng": -81.009
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://taphousenortherngrill.ca"
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "56076bc0498e96c1a555483e",
+                "foursquare_url": "http://4sq.com/1FrmMJj"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_3708053_2d3919c0_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_3708053_2d3919c0_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_3708053_2d3919c0_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 109909755,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_02_04/08c9bab8562b464a08a93284b9758bc1_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_02_04/08c9bab8562b464a08a93284b9758bc1_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_02_04/08c9bab8562b464a08a93284b9758bc1_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_02_04/08c9bab8562b464a08a93284b9758bc1_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 788,
+                  "user_badge_id": 169638668,
+                  "badge_name": "Photogenic Brew (Level 3)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 15 check-ins with a photo. ",
+                  "created_at": "Sat, 04 Feb 2017 21:41:55 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/29851?min_id=413947685",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/29851?max_id=413596852",
+          "max_id": 413596852
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 3.27847,
+            "beer": {
+              "bid": 207899,
+              "beer_name": "Löwenbräu Radler",
+              "beer_abv": 2.5,
+              "beer_ibu": 0,
+              "beer_slug": "spaten-franziskaner-lowenbrau-gruppe-lowenbrau-radler",
+              "beer_style": "Shandy / Radler",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-207899_cfa85_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 1176,
+              "brewery_name": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+              "brewery_slug": "spatenfranziskanerlowenbraugruppe",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-SpatenFranziskanerBrau_1176.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "DrinkSpaten",
+                "facebook": "https://www.facebook.com/pages/Spaten-Franziskaner-Bräu/112121258800107",
+                "instagram": "",
+                "url": "https://www.franziskaner-weissbier.de/ext/visitorcenters/de/index"
+              },
+              "location": {
+                "brewery_city": "München",
+                "brewery_state": "",
+                "lat": 48.1477,
+                "lng": 11.5561
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.97896,
+            "beer": {
+              "bid": 2961,
+              "beer_name": "Apple Ale (Thumbprint)",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "new-glarus-brewing-company-apple-ale-thumbprint",
+              "beer_style": "Fruit Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2961_51214_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 907,
+              "brewery_name": "New Glarus Brewing Company",
+              "brewery_slug": "new-glarus-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-NewGlarusBrewingCompany_907.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "newglarusbeer",
+                "facebook": "http://www.facebook.com/newglarusbrewing",
+                "instagram": "",
+                "url": "http://www.newglarusbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "New Glarus",
+                "brewery_state": "WI",
+                "lat": 42.8171,
+                "lng": -89.6306
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.50625,
+            "beer": {
+              "bid": 35361,
+              "beer_name": "What The Huck",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "fernie-brewing-company-what-the-huck",
+              "beer_style": "Fruit Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-_35361_sm_76b5a0b2417a86f6b36bde9b0d0219.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 4052,
+              "brewery_name": "Fernie Brewing Company",
+              "brewery_slug": "fernie-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-FernieBrewingCompany_4052.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "FernieBrewingCo",
+                "facebook": "http://www.facebook.com/pages/Fernie-Brewing-Company/170347052983672",
+                "instagram": "",
+                "url": "http://www.ferniebrewing.com"
+              },
+              "location": {
+                "brewery_city": "Fernie",
+                "brewery_state": "BC",
+                "lat": 49.5269,
+                "lng": -115.045
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.09522,
+            "beer": {
+              "bid": 703734,
+              "beer_name": "Mad Jack Premium Apple Lager",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "molson-coors-canada-mad-jack-premium-apple-lager",
+              "beer_style": "Fruit Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-703734_c08be_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 878,
+              "brewery_name": "Molson Coors Canada",
+              "brewery_slug": "molson-coors-canada",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-MolsonCoorsCanada_878.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "molsoncoors",
+                "facebook": "",
+                "instagram": "",
+                "url": "http://www.molsoncoors.com"
+              },
+              "location": {
+                "brewery_city": "Toronto",
+                "brewery_state": "ON",
+                "lat": 43.6751,
+                "lng": -79.5902
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.60266,
+            "beer": {
+              "bid": 1065410,
+              "beer_name": "Honeymoon Peach Radler",
+              "beer_abv": 3.5,
+              "beer_ibu": 0,
+              "beer_slug": "niagara-brewing-company-honeymoon-peach-radler",
+              "beer_style": "Shandy / Radler",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1065410_9a1d2_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 199977,
+              "brewery_name": "Niagara Brewing Company",
+              "brewery_slug": "niagara-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-199977_bff39.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "NiagaraBrewCo",
+                "facebook": "https://www.facebook.com/pages/Niagara-Brewing-Company/1401774803470771",
+                "instagram": "niagarabrewingcompany",
+                "url": "www.NiagaraBrewingCompany.com"
+              },
+              "location": {
+                "brewery_city": "Niagara Falls",
+                "brewery_state": "ON",
+                "lat": 43.0908,
+                "lng": -79.0732
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "weighted_rating_score": 3.505,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "subscribe_status": {
+        "is_subscribed": 0
+      }
+    }
+  }
+}

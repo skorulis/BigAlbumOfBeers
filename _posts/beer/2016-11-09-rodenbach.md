@@ -9,7 +9,7 @@ brewery: "Brouwerij Rodenbach"
 breweryURL: "/brewery/brouwerij-rodenbach.html"
 style: "Sour - Flanders Red Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715222_10153890417253745_2655298397910190348_n.jpg?oh=b9bb626e5383f21d1e85e5359a72ae95&oe=5B03CFFA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715222_10153890417253745_2655298397910190348_n.jpg?_nc_cat=0&oh=943533448491737d7c6d6dcb66ff91e6&oe=5B7A76FA
 beer-date: "2016-02-14"
 desc: "Surprisingly tangy with very little bitterness. Worth a try"
 permalink: /beer/:title.html

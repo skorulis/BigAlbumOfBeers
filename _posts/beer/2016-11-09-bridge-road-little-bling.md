@@ -9,7 +9,7 @@ brewery: "Bridge Road Brewers"
 breweryURL: "/brewery/bridge-road-brewers.html"
 style: "IPA - Session / India Session Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12744494_10153890418973745_1506888197203194129_n.jpg?oh=7b587eb759aecf9582b5185ff14b8a13&oe=5B491252
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12744494_10153890418973745_1506888197203194129_n.jpg?_nc_cat=0&oh=37f86e1eae8a534d37484b130f707aab&oe=5BBFB952
 beer-date: "2016-02-14"
 desc: "Not tasty enough to justify the low alcohol"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26239702_10155922809888745_7331329375326799480_n.jpg?oh=7f6366afb554fd2c5e8c12876ca99f76&oe=5B2EA195
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26239702_10155922809888745_7331329375326799480_n.jpg?_nc_cat=0&oh=f01b324fe1d2d1868315641617e9f622&oe=5B7DBB95
 beer-date: "2018-01-13"
 desc: "Nice mix of pine and dank hops. The bitterness is right on point. Surprisingly easy drinking"
 permalink: /beer/:title.html

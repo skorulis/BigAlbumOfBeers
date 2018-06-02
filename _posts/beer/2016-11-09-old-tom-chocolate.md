@@ -9,7 +9,7 @@ brewery: "Robinsons Brewery"
 breweryURL: "/brewery/robinsons-brewery.html"
 style: "Strong Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10891448_10153055770573745_4712183690457686836_n.jpg?oh=cbb4c5dff5fc72dab5f7d48a2e79a25c&oe=5B473063
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10891448_10153055770573745_4712183690457686836_n.jpg?_nc_cat=0&oh=eb5c74c9ecba55181f7a9def101b02a3&oe=5BBDD763
 beer-date: "2015-01-29"
 desc: "A slight hint of chocolate"
 permalink: /beer/:title.html

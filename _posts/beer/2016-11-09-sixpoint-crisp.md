@@ -9,7 +9,7 @@ brewery: "Sixpoint Brewery"
 breweryURL: "/brewery/sixpoint-brewery.html"
 style: "Pilsner - German"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11084248_10153225365988745_6811395875070848425_n.jpg?oh=b5e9c8d08109daaa2dad8446ae462336&oe=5B485869
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11084248_10153225365988745_6811395875070848425_n.jpg?_nc_cat=0&oh=899b3d10981ca2c731befa11fd7982d4&oe=5BBEFF69
 beer-date: "2015-04-13"
 desc: "More harsh than crisp. A little bit more bitter than it should be"
 permalink: /beer/:title.html

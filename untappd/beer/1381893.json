@@ -1,0 +1,3521 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.23,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 1381893,
+      "beer_name": "Lager",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 4,
+      "beer_ibu": 0,
+      "beer_description": "",
+      "beer_style": "Lager - Pale",
+      "is_in_production": 1,
+      "beer_slug": "viet-duc-brewery-lager",
+      "is_homebrew": 0,
+      "created_at": "Thu, 07 Jan 2016 14:14:45 +0000",
+      "rating_count": 46,
+      "rating_score": 2.11413,
+      "stats": {
+        "total_count": 51,
+        "monthly_count": 1,
+        "total_user_count": 51,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 85667,
+        "brewery_name": "Viet Duc Brewery",
+        "brewery_slug": "viet-duc-brewery",
+        "brewery_type": "Macro Brewery",
+        "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+        "country_name": "Vietnam",
+        "contact": {
+          "twitter": "",
+          "facebook": "",
+          "url": ""
+        },
+        "location": {
+          "brewery_city": "",
+          "brewery_state": "",
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 159508370,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_13/c84558d0785334866270343e40e7e574_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_13/c84558d0785334866270343e40e7e574_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_13/c84558d0785334866270343e40e7e574_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_13/c84558d0785334866270343e40e7e574_raw.jpeg"
+            },
+            "created_at": "Tue, 13 Feb 2018 07:54:08 +0000",
+            "checkin_id": 561533493,
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 2.114,
+              "rating_count": 46,
+              "count": 46,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5149588,
+              "user_name": "Henkeq",
+              "first_name": "Henrik",
+              "last_name": "Q",
+              "user_avatar": "https://untappd.akamaized.net/profile/daaf4f1c97f4de0669333149ada781c1_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 7363534,
+                "venue_name": "Shantaram",
+                "venue_slug": "shantaram",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Hookah Bar",
+                      "category_id": "4bf58dd8d48988d119941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Nha Trang",
+                  "venue_state": "Tỉnh Khánh Hòa",
+                  "lat": 12.2811,
+                  "lng": 109.201
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "59afe841364d9735c3ae5d32",
+                  "foursquare_url": "http://4sq.com/2vLJdcV"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 150740319,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_12_10/f4ab7c6e42844b2553ecffd1c8a04c64_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_12_10/f4ab7c6e42844b2553ecffd1c8a04c64_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_12_10/f4ab7c6e42844b2553ecffd1c8a04c64_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_12_10/f4ab7c6e42844b2553ecffd1c8a04c64_raw.jpeg"
+            },
+            "created_at": "Sun, 10 Dec 2017 11:36:53 +0000",
+            "checkin_id": 536930673,
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 2.114,
+              "rating_count": 46,
+              "count": 46,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1726459,
+              "user_name": "liamboothroyd",
+              "first_name": "Liam",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/dff6f9277778b6541deb1661622fb129_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 7117261,
+                "venue_name": "Venus Hotel",
+                "venue_slug": "venus-hotel",
+                "primary_category": "Travel & Transport",
+                "parent_category_id": "4d4b7105d754a06379d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Hotel",
+                      "category_id": "4bf58dd8d48988d1fa931735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": 12.2355,
+                  "lng": 109.197
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5550744c498e05b6d6f63e4b",
+                  "foursquare_url": "http://4sq.com/1KzUWHV"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 150315112,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_12_08/7d6ec7ab80c75173142878c061fd0f3d_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_12_08/7d6ec7ab80c75173142878c061fd0f3d_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_12_08/7d6ec7ab80c75173142878c061fd0f3d_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_12_08/7d6ec7ab80c75173142878c061fd0f3d_raw.jpg"
+            },
+            "created_at": "Fri, 08 Dec 2017 13:08:23 +0000",
+            "checkin_id": 535748785,
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 2.114,
+              "rating_count": 46,
+              "count": 46,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2093738,
+              "user_name": "niinine",
+              "first_name": "Timo",
+              "last_name": "N",
+              "user_avatar": "https://untappd.akamaized.net/profile/c559d465c56c73d4fcace2400e892fc0_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3290512,
+                "venue_name": "Hotel Novotel Nha Trang",
+                "venue_slug": "hotel-novotel-nha-trang",
+                "primary_category": "Travel & Transport",
+                "parent_category_id": "4d4b7105d754a06379d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Hotel",
+                      "category_id": "4bf58dd8d48988d1fa931735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Spa",
+                      "category_id": "4bf58dd8d48988d1ed941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Hotel Pool",
+                      "category_id": "4bf58dd8d48988d132951735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "50 Trần Phú",
+                  "venue_city": "Nha Trang",
+                  "venue_state": "Khánh Hoà",
+                  "lat": 12.2378,
+                  "lng": 109.197
+                },
+                "contact": {
+                  "twitter": "@novotelnt",
+                  "venue_url": "http://www.novotelnhatrang.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4bbc0c21e4529521af8e55a4",
+                  "foursquare_url": "http://4sq.com/9D1z2f"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 149378822,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_12_01/077d06ff7d8d5f54a7189cf29cc1d526_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_12_01/077d06ff7d8d5f54a7189cf29cc1d526_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_12_01/077d06ff7d8d5f54a7189cf29cc1d526_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_12_01/077d06ff7d8d5f54a7189cf29cc1d526_raw.jpg"
+            },
+            "created_at": "Fri, 01 Dec 2017 11:02:20 +0000",
+            "checkin_id": 533132272,
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 2.114,
+              "rating_count": 46,
+              "count": 46,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4926174,
+              "user_name": "haahof",
+              "first_name": "Håvard",
+              "last_name": "H",
+              "user_avatar": "https://gravatar.com/avatar/28713215a2223a7259c3f8a101a546e0?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3290512,
+                "venue_name": "Hotel Novotel Nha Trang",
+                "venue_slug": "hotel-novotel-nha-trang",
+                "primary_category": "Travel & Transport",
+                "parent_category_id": "4d4b7105d754a06379d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Hotel",
+                      "category_id": "4bf58dd8d48988d1fa931735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Spa",
+                      "category_id": "4bf58dd8d48988d1ed941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Hotel Pool",
+                      "category_id": "4bf58dd8d48988d132951735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "50 Trần Phú",
+                  "venue_city": "Nha Trang",
+                  "venue_state": "Khánh Hoà",
+                  "lat": 12.2378,
+                  "lng": 109.197
+                },
+                "contact": {
+                  "twitter": "@novotelnt",
+                  "venue_url": "http://www.novotelnhatrang.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4bbc0c21e4529521af8e55a4",
+                  "foursquare_url": "http://4sq.com/9D1z2f"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 148504783,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_11_24/fc6b9517d2471bb60aabd564b6efa601_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_11_24/fc6b9517d2471bb60aabd564b6efa601_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_11_24/fc6b9517d2471bb60aabd564b6efa601_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_11_24/fc6b9517d2471bb60aabd564b6efa601_raw.jpg"
+            },
+            "created_at": "Fri, 24 Nov 2017 11:31:02 +0000",
+            "checkin_id": 530597275,
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 2.114,
+              "rating_count": 46,
+              "count": 46,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4587382,
+              "user_name": "madie_moo",
+              "first_name": "Mads",
+              "last_name": "G",
+              "user_avatar": "https://gravatar.com/avatar/4b58420af55466669feafaf063832854?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 1331221,
+                "venue_name": "Omar's Indian Restaurant",
+                "venue_slug": "omars-indian-restaurant",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Indian Restaurant",
+                      "category_id": "4bf58dd8d48988d10f941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "96а/8 Tran Phu",
+                  "venue_city": "Nha Trang",
+                  "venue_state": "Khánh Hòa Province",
+                  "lat": 12.2281,
+                  "lng": 109.2
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5187533f498e470e87c74819",
+                  "foursquare_url": "http://4sq.com/YySr5J"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 145692249,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_11_02/c44af2908a8151031100b4752d497bc3_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_11_02/c44af2908a8151031100b4752d497bc3_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_11_02/c44af2908a8151031100b4752d497bc3_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_11_02/c44af2908a8151031100b4752d497bc3_raw.jpeg"
+            },
+            "created_at": "Thu, 02 Nov 2017 21:14:20 +0000",
+            "checkin_id": 522275420,
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 2.114,
+              "rating_count": 46,
+              "count": 46,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4062152,
+              "user_name": "angelhispano",
+              "first_name": "angel",
+              "last_name": "H",
+              "user_avatar": "https://untappd.akamaized.net/profile/c02702a63051e222bcae518227b1cb4c_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 144393010,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_10_22/8eeae0b8c100e07e5240e5d18d372ddd_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_10_22/8eeae0b8c100e07e5240e5d18d372ddd_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_10_22/8eeae0b8c100e07e5240e5d18d372ddd_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_10_22/8eeae0b8c100e07e5240e5d18d372ddd_raw.jpeg"
+            },
+            "created_at": "Sun, 22 Oct 2017 16:05:58 +0000",
+            "checkin_id": 518550887,
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 2.114,
+              "rating_count": 46,
+              "count": 46,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4630115,
+              "user_name": "kulebratskiy_maskong",
+              "first_name": "Sergei",
+              "last_name": "I",
+              "user_avatar": "https://untappd.akamaized.net/profile/f3966de2f8758ea8884b70f28271675c_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 6589936,
+                "venue_name": "Богатырский, 33, корп. 2",
+                "venue_slug": "bogatyrskij-33-korp-2",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Residential Building (Apartment / Condo)",
+                      "category_id": "4d954b06a243a5684965b473",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Богатырский просп., 33, корп. 2",
+                  "venue_city": "Санкт-Петербург",
+                  "venue_state": "Санкт-Петербург",
+                  "lat": 60.0043,
+                  "lng": 30.2429
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "4fca08fae4b087d229fd2d61",
+                  "foursquare_url": "http://4sq.com/L87biq"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 140897210,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_09_26/b56d65e4eb82f967d2bc7df0c2fc8a44_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_09_26/b56d65e4eb82f967d2bc7df0c2fc8a44_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_09_26/b56d65e4eb82f967d2bc7df0c2fc8a44_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_09_26/b56d65e4eb82f967d2bc7df0c2fc8a44_raw.jpeg"
+            },
+            "created_at": "Tue, 26 Sep 2017 07:01:10 +0000",
+            "checkin_id": 508273121,
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 2.114,
+              "rating_count": 46,
+              "count": 46,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2750655,
+              "user_name": "Joenep1991",
+              "first_name": "Jeroen",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/ea39557e7d28a5094fc58131e6595f89_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 6803853,
+                "venue_name": "морячок cafe",
+                "venue_slug": "moryachok-cafe",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Russian Restaurant",
+                      "category_id": "5293a7563cf9994f4e043a44",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": 12.2274,
+                  "lng": 109.201
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "556acc6f498e0aec1325586c",
+                  "foursquare_url": "http://4sq.com/1crcDhC"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/russian_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/russian_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/russian_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 140830444,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_09_25/68ebc7874e836936eb50b0013a1cee54_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_09_25/68ebc7874e836936eb50b0013a1cee54_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_09_25/68ebc7874e836936eb50b0013a1cee54_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_09_25/68ebc7874e836936eb50b0013a1cee54_raw.jpeg"
+            },
+            "created_at": "Mon, 25 Sep 2017 12:30:11 +0000",
+            "checkin_id": 508076585,
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 2.114,
+              "rating_count": 46,
+              "count": 46,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2750714,
+              "user_name": "Tempert",
+              "first_name": "Sander",
+              "last_name": "T",
+              "user_avatar": "https://gravatar.com/avatar/44e11eaa2d59659d6cf0092b8fad78e2?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 1331221,
+                "venue_name": "Omar's Indian Restaurant",
+                "venue_slug": "omars-indian-restaurant",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Indian Restaurant",
+                      "category_id": "4bf58dd8d48988d10f941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "96а/8 Tran Phu",
+                  "venue_city": "Nha Trang",
+                  "venue_state": "Khánh Hòa Province",
+                  "lat": 12.2281,
+                  "lng": 109.2
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5187533f498e470e87c74819",
+                  "foursquare_url": "http://4sq.com/YySr5J"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 125975980,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_11/4e1074874b4aee13c16c18408a48a801_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_06_11/4e1074874b4aee13c16c18408a48a801_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_11/4e1074874b4aee13c16c18408a48a801_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_06_11/4e1074874b4aee13c16c18408a48a801_raw.jpeg"
+            },
+            "created_at": "Sun, 11 Jun 2017 11:47:09 +0000",
+            "checkin_id": 463966615,
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 2.114,
+              "rating_count": 46,
+              "count": 46,
+              "beer_active": 1,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1239285,
+              "user_name": "denisd",
+              "first_name": "Денис",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/f176f2954841f9aa18378bd75808c6c8_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4630743,
+                "venue_name": "Azura Hôtel",
+                "venue_slug": "azura-hotel",
+                "primary_category": "Travel & Transport",
+                "parent_category_id": "4d4b7105d754a06379d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Resort",
+                      "category_id": "4bf58dd8d48988d12f951735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": 12.2331,
+                  "lng": 109.195
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "55893aea498e8610d59286b1",
+                  "foursquare_url": "http://4sq.com/1Jg1O0K"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/travel/resort_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/travel/resort_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/travel/resort_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 561533493,
+            "created_at": "Tue, 13 Feb 2018 07:54:03 +0000",
+            "checkin_comment": "",
+            "rating_score": 2,
+            "user": {
+              "uid": 5149588,
+              "user_name": "Henkeq",
+              "first_name": "Henrik",
+              "last_name": "Q.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/daaf4f1c97f4de0669333149ada781c1_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 7363534,
+              "venue_name": "Shantaram",
+              "venue_slug": "shantaram",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Hookah Bar",
+                    "category_id": "4bf58dd8d48988d119941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Nha Trang",
+                "venue_state": "Tỉnh Khánh Hòa",
+                "venue_country": "Việt Nam",
+                "lat": 12.2811,
+                "lng": 109.201
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "59afe841364d9735c3ae5d32",
+                "foursquare_url": "http://4sq.com/2vLJdcV"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 159508370,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_02_13/c84558d0785334866270343e40e7e574_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_02_13/c84558d0785334866270343e40e7e574_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_02_13/c84558d0785334866270343e40e7e574_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_02_13/c84558d0785334866270343e40e7e574_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 191871,
+                  "user_badge_id": 304704497,
+                  "badge_name": "Mardi Gras (2018)",
+                  "badge_description": "Happy Fat Tuesday and cheers to Mardi Gras. Get your beads and beer ready because it's time to celebrate!",
+                  "created_at": "Tue, 13 Feb 2018 07:54:03 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_MardiGras2018_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_MardiGras2018_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_MardiGras2018_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 140,
+                  "user_badge_id": 304704498,
+                  "badge_name": "Bar Explorer",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 5 distinct venues!",
+                  "created_at": "Tue, 13 Feb 2018 07:54:04 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 547132051,
+            "created_at": "Wed, 03 Jan 2018 08:41:11 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.25,
+            "user": {
+              "uid": 2326507,
+              "user_name": "liyirna",
+              "first_name": "Tanya",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/a514ecc2ffda22d8a8540291a9d1c3af_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 165084,
+                  "user_badge_id": 289980534,
+                  "badge_name": "Happy Brew Year (2018)",
+                  "badge_description": "Ring in the new year with your favorite brew. Cheers to 2018 and all the great beer adventures it will bring! What're you looking forward to trying most?",
+                  "created_at": "Wed, 03 Jan 2018 08:41:12 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_NewYears2018_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_NewYears2018_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_NewYears2018_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 545134609,
+            "created_at": "Sat, 30 Dec 2017 03:50:18 +0000",
+            "checkin_comment": "",
+            "rating_score": 2,
+            "user": {
+              "uid": 4305104,
+              "user_name": "benshamanen",
+              "first_name": "Benjamin",
+              "last_name": "W.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/13e4d7a96175bb9d7a51b7e6db4831d2?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 3,
+                  "user_badge_id": 287810263,
+                  "badge_name": "Journeyman",
+                  "badge_description": "You're getting the hang of it, but there’s much more to try. That’s over 50 unique brews!",
+                  "created_at": "Sat, 30 Dec 2017 03:50:19 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_check50_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_check50_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_check50_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 133157,
+                  "user_badge_id": 287810264,
+                  "badge_name": "99 Bottles (Level 4)",
+                  "badge_description": "99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around.... That's 20 checkins with the serving style of Bottle. Try 5 more for Level 5!",
+                  "created_at": "Sat, 30 Dec 2017 03:50:19 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_99Bottles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_99Bottles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_99Bottles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 536930673,
+            "created_at": "Sun, 10 Dec 2017 11:36:48 +0000",
+            "checkin_comment": "",
+            "rating_score": 0.75,
+            "user": {
+              "uid": 1726459,
+              "user_name": "liamboothroyd",
+              "first_name": "Liam",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/dff6f9277778b6541deb1661622fb129_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 7117261,
+              "venue_name": "Venus Hotel",
+              "venue_slug": "venus-hotel",
+              "primary_category": "Travel & Transport",
+              "parent_category_id": "4d4b7105d754a06379d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Hotel",
+                    "category_id": "4bf58dd8d48988d1fa931735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Việt Nam",
+                "lat": 12.2355,
+                "lng": 109.197
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5550744c498e05b6d6f63e4b",
+                "foursquare_url": "http://4sq.com/1KzUWHV"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 150740319,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_12_10/f4ab7c6e42844b2553ecffd1c8a04c64_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_12_10/f4ab7c6e42844b2553ecffd1c8a04c64_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_12_10/f4ab7c6e42844b2553ecffd1c8a04c64_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_12_10/f4ab7c6e42844b2553ecffd1c8a04c64_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 133173,
+                  "user_badge_id": 279416450,
+                  "badge_name": "99 Bottles (Level 20)",
+                  "badge_description": "99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around.... That's 100 checkins with the serving style of Bottle. Try 5 more for Level 21!",
+                  "created_at": "Sun, 10 Dec 2017 11:36:49 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_99Bottles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_99Bottles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_99Bottles_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2077,
+                  "user_badge_id": 279416451,
+                  "badge_name": "Hotel Hopper  (Level 11)",
+                  "badge_description": "Whether you’re having a room party or hanging at the hotel bar, you know the essential part of any trip, an awesome beer!\r\n\r\nThat's a beer at 55 different venues categorized as a Hotel! Visit 5 more different ones for Level 12!",
+                  "created_at": "Sun, 10 Dec 2017 11:36:49 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HotelHopper_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HotelHopper_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HotelHopper_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 535748785,
+            "created_at": "Fri, 08 Dec 2017 13:08:13 +0000",
+            "checkin_comment": "No nyt on kyllä kuraa",
+            "rating_score": 1,
+            "user": {
+              "uid": 2093738,
+              "user_name": "niinine",
+              "first_name": "Timo",
+              "last_name": "N.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/c559d465c56c73d4fcace2400e892fc0_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3290512,
+              "venue_name": "Hotel Novotel Nha Trang",
+              "venue_slug": "hotel-novotel-nha-trang",
+              "primary_category": "Travel & Transport",
+              "parent_category_id": "4d4b7105d754a06379d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Hotel",
+                    "category_id": "4bf58dd8d48988d1fa931735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Spa",
+                    "category_id": "4bf58dd8d48988d1ed941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Hotel Pool",
+                    "category_id": "4bf58dd8d48988d132951735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "50 Trần Phú",
+                "venue_city": "Nha Trang",
+                "venue_state": "Khánh Hoà",
+                "venue_country": "Việt Nam",
+                "lat": 12.2378,
+                "lng": 109.197
+              },
+              "contact": {
+                "twitter": "@novotelnt",
+                "venue_url": "http://www.novotelnhatrang.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4bbc0c21e4529521af8e55a4",
+                "foursquare_url": "http://4sq.com/9D1z2f"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 150315112,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_12_08/7d6ec7ab80c75173142878c061fd0f3d_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_12_08/7d6ec7ab80c75173142878c061fd0f3d_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_12_08/7d6ec7ab80c75173142878c061fd0f3d_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_12_08/7d6ec7ab80c75173142878c061fd0f3d_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 6011,
+                  "user_badge_id": 278364960,
+                  "badge_name": "Riding Steady (Level 49)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 245 different beers with an ABV of 5% and lower. Try 5 more for Level 50!",
+                  "created_at": "Fri, 08 Dec 2017 13:08:14 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 533132272,
+            "created_at": "Fri, 01 Dec 2017 11:02:13 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.25,
+            "user": {
+              "uid": 4926174,
+              "user_name": "haahof",
+              "first_name": "Håvard",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/28713215a2223a7259c3f8a101a546e0?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3290512,
+              "venue_name": "Hotel Novotel Nha Trang",
+              "venue_slug": "hotel-novotel-nha-trang",
+              "primary_category": "Travel & Transport",
+              "parent_category_id": "4d4b7105d754a06379d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Hotel",
+                    "category_id": "4bf58dd8d48988d1fa931735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Spa",
+                    "category_id": "4bf58dd8d48988d1ed941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Hotel Pool",
+                    "category_id": "4bf58dd8d48988d132951735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "50 Trần Phú",
+                "venue_city": "Nha Trang",
+                "venue_state": "Khánh Hoà",
+                "venue_country": "Việt Nam",
+                "lat": 12.2378,
+                "lng": 109.197
+              },
+              "contact": {
+                "twitter": "@novotelnt",
+                "venue_url": "http://www.novotelnhatrang.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4bbc0c21e4529521af8e55a4",
+                "foursquare_url": "http://4sq.com/9D1z2f"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3259519,
+                  "user": {
+                    "uid": 3259519,
+                    "user_name": "Craft_bier_viking",
+                    "first_name": "Lars",
+                    "last_name": "E.",
+                    "bio": "",
+                    "location": "Norway",
+                    "user_avatar": "https://untappd.akamaized.net/profile/6f22b7434317b1b952eb00f51c95429a_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 448519308,
+                  "like_owner": false,
+                  "created_at": "Fri, 01 Dec 2017 12:56:08 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 149378822,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_12_01/077d06ff7d8d5f54a7189cf29cc1d526_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_12_01/077d06ff7d8d5f54a7189cf29cc1d526_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_12_01/077d06ff7d8d5f54a7189cf29cc1d526_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_12_01/077d06ff7d8d5f54a7189cf29cc1d526_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 793,
+                  "user_badge_id": 276030408,
+                  "badge_name": "Photogenic Brew (Level 8)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 40 check-ins with a photo. ",
+                  "created_at": "Fri, 01 Dec 2017 11:02:14 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 133157,
+                  "user_badge_id": 276030409,
+                  "badge_name": "99 Bottles (Level 4)",
+                  "badge_description": "99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around.... That's 20 checkins with the serving style of Bottle. Try 5 more for Level 5!",
+                  "created_at": "Fri, 01 Dec 2017 11:02:14 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_99Bottles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_99Bottles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_99Bottles_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 12261,
+                  "user_badge_id": 276030410,
+                  "badge_name": "The Backpacker (Level 4)",
+                  "badge_description": "Equipped with nothing more than a passport, backpack, and thirst, your sudsy adventure through South East Asia is just beginning. That's 20 different beers from a brewery from one of the folllowing South East Asian countries: Myanmar, Thailand, Malaysia, Philippines, Singapore, Indonesia, East Timor, Vietnam, Cambodia, Laos, Taiwan and Brunei. Try 5 more for Level 5!\n",
+                  "created_at": "Fri, 01 Dec 2017 11:02:14 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 530597275,
+            "created_at": "Fri, 24 Nov 2017 10:40:52 +0000",
+            "checkin_comment": "Pretty average but can't really go wrong when you're only spending 60 cents",
+            "rating_score": 2,
+            "user": {
+              "uid": 4587382,
+              "user_name": "madie_moo",
+              "first_name": "Mads",
+              "last_name": "G.",
+              "location": "Melbourne",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/4b58420af55466669feafaf063832854?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 1331221,
+              "venue_name": "Omar's Indian Restaurant",
+              "venue_slug": "omars-indian-restaurant",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Indian Restaurant",
+                    "category_id": "4bf58dd8d48988d10f941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "96а/8 Tran Phu",
+                "venue_city": "Nha Trang",
+                "venue_state": "Khánh Hòa Province",
+                "venue_country": "Việt Nam",
+                "lat": 12.2281,
+                "lng": 109.2
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5187533f498e470e87c74819",
+                "foursquare_url": "http://4sq.com/YySr5J"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 148504783,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_11_24/fc6b9517d2471bb60aabd564b6efa601_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_11_24/fc6b9517d2471bb60aabd564b6efa601_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_11_24/fc6b9517d2471bb60aabd564b6efa601_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_11_24/fc6b9517d2471bb60aabd564b6efa601_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 4,
+              "items": [
+                {
+                  "badge_id": 153268,
+                  "user_badge_id": 273503965,
+                  "badge_name": "Beer-giving (2017)",
+                  "badge_description": "As we gather together with friends and family, it's time to give thanks. There is much to be grateful for, especially in the world of beer. Crack open your favorite and celebrate. Cheers and happy Thanksgiving!",
+                  "created_at": "Fri, 24 Nov 2017 10:40:52 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_Thanksgiving2017_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_Thanksgiving2017_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_Thanksgiving2017_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 643,
+                  "user_badge_id": 273503966,
+                  "badge_name": "Beer Connoisseur (Level 2)",
+                  "badge_description": "Travel much? You must be a \"brewsetter\". That's at least a beer from 10 different countries. Try 5 more for Level 3!",
+                  "created_at": "Fri, 24 Nov 2017 10:40:53 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_connoiseur_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_connoiseur_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_connoiseur_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5968,
+                  "user_badge_id": 273503967,
+                  "badge_name": "Riding Steady (Level 6)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 30 different beers with an ABV of 5% and lower. Try 5 more for Level 7!",
+                  "created_at": "Fri, 24 Nov 2017 10:40:53 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 187,
+                  "user_badge_id": 273503968,
+                  "badge_name": "Lager Jack",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren’t you?. That’s 5 different Lagers! Try 5 more to unlock Level 2.",
+                  "created_at": "Fri, 24 Nov 2017 10:40:53 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 529285401,
+            "created_at": "Mon, 20 Nov 2017 15:54:07 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 2983853,
+              "user_name": "Trappertony",
+              "first_name": "Tony",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/96405f6af0a58496baad8afd3c552ebc?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5180945,
+              "venue_name": "Carlo's Pizza",
+              "venue_slug": "carlos-pizza",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Pizza Place",
+                    "category_id": "4bf58dd8d48988d1ca941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "91a Nguyen Thien Thuat",
+                "venue_city": "Nha Trang",
+                "venue_state": "Tỉnh Khánh Hòa",
+                "venue_country": "Việt Nam",
+                "lat": 12.2368,
+                "lng": 109.194
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.carlosnhatrang.com"
+              },
+              "foursquare": {
+                "foursquare_id": "51a0526f498e3795bbba48ea",
+                "foursquare_url": "http://4sq.com/14L9GAi"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 522275420,
+            "created_at": "Thu, 02 Nov 2017 21:14:15 +0000",
+            "checkin_comment": "",
+            "rating_score": 2,
+            "user": {
+              "uid": 4062152,
+              "user_name": "angelhispano",
+              "first_name": "angel",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/c02702a63051e222bcae518227b1cb4c_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 145692249,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_11_02/c44af2908a8151031100b4752d497bc3_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_11_02/c44af2908a8151031100b4752d497bc3_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_11_02/c44af2908a8151031100b4752d497bc3_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_11_02/c44af2908a8151031100b4752d497bc3_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 1799,
+                  "user_badge_id": 265778259,
+                  "badge_name": "Photogenic Brew  (Level 13)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 65 check-ins with a photo. ",
+                  "created_at": "Thu, 02 Nov 2017 21:14:16 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 93938,
+                  "user_badge_id": 265778261,
+                  "badge_name": "Lager Jack (Level 53)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 265 different Lagers!  Try 5 more for Level 54!",
+                  "created_at": "Thu, 02 Nov 2017 21:14:16 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 518550941,
+            "created_at": "Sun, 22 Oct 2017 16:06:04 +0000",
+            "checkin_comment": "Странный привкус",
+            "rating_score": 1.75,
+            "user": {
+              "uid": 3817157,
+              "user_name": "tamara_cat",
+              "first_name": "Tamara",
+              "last_name": "C.",
+              "location": "Russia",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/c4444e089dffa45ef3226ee9767d9ced?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 6589936,
+              "venue_name": "Богатырский, 33, корп. 2",
+              "venue_slug": "bogatyrskij-33-korp-2",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Residential Building (Apartment / Condo)",
+                    "category_id": "4d954b06a243a5684965b473",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Богатырский просп., 33, корп. 2",
+                "venue_city": "Санкт-Петербург",
+                "venue_state": "Санкт-Петербург",
+                "venue_country": "Россия",
+                "lat": 60.0043,
+                "lng": 30.2429
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4fca08fae4b087d229fd2d61",
+                "foursquare_url": "http://4sq.com/L87biq"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133202,
+                  "user_badge_id": 261622952,
+                  "badge_name": "99 Bottles (Level 49)",
+                  "badge_description": "99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around.... That's 245 checkins with the serving style of Bottle. Try 5 more for Level 50!",
+                  "created_at": "Sun, 22 Oct 2017 16:06:06 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_99Bottles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_99Bottles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_99Bottles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 518550887,
+            "created_at": "Sun, 22 Oct 2017 16:05:55 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 4630115,
+              "user_name": "kulebratskiy_maskong",
+              "first_name": "Sergei",
+              "last_name": "I.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/f3966de2f8758ea8884b70f28271675c_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 6589936,
+              "venue_name": "Богатырский, 33, корп. 2",
+              "venue_slug": "bogatyrskij-33-korp-2",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Residential Building (Apartment / Condo)",
+                    "category_id": "4d954b06a243a5684965b473",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Богатырский просп., 33, корп. 2",
+                "venue_city": "Санкт-Петербург",
+                "venue_state": "Санкт-Петербург",
+                "venue_country": "Россия",
+                "lat": 60.0043,
+                "lng": 30.2429
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4fca08fae4b087d229fd2d61",
+                "foursquare_url": "http://4sq.com/L87biq"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 144393010,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_10_22/8eeae0b8c100e07e5240e5d18d372ddd_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_10_22/8eeae0b8c100e07e5240e5d18d372ddd_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_10_22/8eeae0b8c100e07e5240e5d18d372ddd_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_10_22/8eeae0b8c100e07e5240e5d18d372ddd_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 1806,
+                  "user_badge_id": 261622884,
+                  "badge_name": "Photogenic Brew  (Level 20)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 100 check-ins with a photo. ",
+                  "created_at": "Sun, 22 Oct 2017 16:05:55 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 133166,
+                  "user_badge_id": 261622898,
+                  "badge_name": "99 Bottles (Level 13)",
+                  "badge_description": "99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around.... That's 65 checkins with the serving style of Bottle. Try 5 more for Level 14!",
+                  "created_at": "Sun, 22 Oct 2017 16:05:56 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_99Bottles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_99Bottles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_99Bottles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 508273121,
+            "created_at": "Tue, 26 Sep 2017 07:00:10 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 2750655,
+              "user_name": "Joenep1991",
+              "first_name": "Jeroen",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/ea39557e7d28a5094fc58131e6595f89_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 6803853,
+              "venue_name": "морячок cafe",
+              "venue_slug": "moryachok-cafe",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Russian Restaurant",
+                    "category_id": "5293a7563cf9994f4e043a44",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Việt Nam",
+                "lat": 12.2274,
+                "lng": 109.201
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "556acc6f498e0aec1325586c",
+                "foursquare_url": "http://4sq.com/1crcDhC"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/russian_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/russian_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/russian_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3754131,
+                  "user": {
+                    "uid": 3754131,
+                    "user_name": "Joelchef038",
+                    "first_name": "Joël",
+                    "last_name": "v.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/24df09e3f6842e29e491eeca66874824_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 424676228,
+                  "like_owner": false,
+                  "created_at": "Tue, 26 Sep 2017 20:14:41 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 140897210,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_09_26/b56d65e4eb82f967d2bc7df0c2fc8a44_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_09_26/b56d65e4eb82f967d2bc7df0c2fc8a44_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_09_26/b56d65e4eb82f967d2bc7df0c2fc8a44_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_09_26/b56d65e4eb82f967d2bc7df0c2fc8a44_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 12064,
+                  "user_badge_id": 250800415,
+                  "badge_name": "Beer Foodie (Level 7)",
+                  "badge_description": "Wine isn't the only beverage worthy of pairing with a delicious meal. With so many styles widely available, there’s a perfect pint for any cuisine of your choosing. That's a beer at 35 different venues categorized as a Restaurant. Try 5 more for Level 8!",
+                  "created_at": "Tue, 26 Sep 2017 07:00:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 508076585,
+            "created_at": "Mon, 25 Sep 2017 12:30:05 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 2750714,
+              "user_name": "Tempert",
+              "first_name": "Sander",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/44e11eaa2d59659d6cf0092b8fad78e2?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 1331221,
+              "venue_name": "Omar's Indian Restaurant",
+              "venue_slug": "omars-indian-restaurant",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Indian Restaurant",
+                    "category_id": "4bf58dd8d48988d10f941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "96а/8 Tran Phu",
+                "venue_city": "Nha Trang",
+                "venue_state": "Khánh Hòa Province",
+                "venue_country": "Việt Nam",
+                "lat": 12.2281,
+                "lng": 109.2
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5187533f498e470e87c74819",
+                "foursquare_url": "http://4sq.com/YySr5J"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/indian_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 140830444,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_09_25/68ebc7874e836936eb50b0013a1cee54_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_09_25/68ebc7874e836936eb50b0013a1cee54_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_09_25/68ebc7874e836936eb50b0013a1cee54_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_09_25/68ebc7874e836936eb50b0013a1cee54_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 4,
+              "items": [
+                {
+                  "badge_id": 613,
+                  "user_badge_id": 250633882,
+                  "badge_name": "Brew Traveler (Level 2)",
+                  "badge_description": "You're exploring this great country the best way possible, one delicious beer at a time! That's one beer while in at least 10 states or countries. Visit 5 more for Level 3!",
+                  "created_at": "Mon, 25 Sep 2017 12:30:06 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_traveller_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_traveller_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_traveller_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 1803,
+                  "user_badge_id": 250633883,
+                  "badge_name": "Photogenic Brew  (Level 17)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 85 check-ins with a photo. ",
+                  "created_at": "Mon, 25 Sep 2017 12:30:06 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 281,
+                  "user_badge_id": 250633884,
+                  "badge_name": "Lager Jack (Level 5)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 25 different Lagers! Try 5 more to unlock Level 6.",
+                  "created_at": "Mon, 25 Sep 2017 12:30:06 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 12258,
+                  "user_badge_id": 250633885,
+                  "badge_name": "The Backpacker",
+                  "badge_description": "Equipped with nothing more than a passport, backpack, and thirst, your sudsy adventure through South East Asia is just beginning. That's 5 different beers from a brewery from one of the folllowing South East Asian countries: Myanmar, Thailand, Malaysia, Philippines, Singapore, Indonesia, East Timor, Vietnam, Cambodia, Laos, Taiwan and Brunei. Try 5 more for Level 2!\n",
+                  "created_at": "Mon, 25 Sep 2017 12:30:06 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TheBackpacker_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 465981279,
+            "created_at": "Sat, 17 Jun 2017 02:12:43 +0000",
+            "checkin_comment": "\"Original Quality\" beer helping settle my breakfast for the long ride to Da Lat. Actually one of the more unique lagers to be found here.",
+            "rating_score": 3,
+            "user": {
+              "uid": 1228411,
+              "user_name": "Five_Four_Plus",
+              "first_name": "Tran's Son",
+              "last_name": "",
+              "location": "Golden State",
+              "url": "http://www.soulclimbing.com",
+              "is_supporter": 0,
+              "bio": "trad climber. free soloist. freestyle rapper. boarder. brewer. bigfoot believer. happy. hyphy. hoppy. happa.",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/38e270d96355fc83506d5b1335f2cb87_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 6340107,
+              "venue_name": "An Vista Hotel",
+              "venue_slug": "an-vista-hotel",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Housing Development",
+                    "category_id": "4f2a210c4b9023bd5841ed28",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Việt Nam",
+                "lat": 12.2273,
+                "lng": 109.198
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "57010929cd102e9eccf5bcd5",
+                "foursquare_url": "http://4sq.com/238xGex"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/housingdevelopment_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/housingdevelopment_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/housingdevelopment_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 4,
+              "count": 4,
+              "items": [
+                {
+                  "user": {
+                    "uid": 1228411,
+                    "user_name": "Five_Four_Plus",
+                    "first_name": "Tran's Son",
+                    "last_name": "",
+                    "bio": "trad climber. free soloist. freestyle rapper. boarder. brewer. bigfoot believer. happy. hyphy. hoppy. happa.",
+                    "location": "Golden State",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://untappd.akamaized.net/profile/38e270d96355fc83506d5b1335f2cb87_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 465981279,
+                  "comment_id": 34954659,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Less solventy, and even a tiny bit toasty! No wonder this one cost 20,000 VD at the corner market!",
+                  "created_at": "Sat, 17 Jun 2017 02:13:43 +0000",
+                  "comment_source": "API"
+                },
+                {
+                  "user": {
+                    "uid": 134497,
+                    "user_name": "sweber70",
+                    "first_name": "Scott",
+                    "last_name": "W.",
+                    "bio": "I love cookies and.....beer.",
+                    "location": "STL, MO",
+                    "relationship": "none",
+                    "is_supporter": 1,
+                    "user_avatar": "https://untappd.akamaized.net/profile/d2b1309181904f2bd742772e69885c70_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 465981279,
+                  "comment_id": 34955700,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Sorry we missed ya while we were tripping through CA",
+                  "created_at": "Sat, 17 Jun 2017 02:39:23 +0000",
+                  "comment_source": "API"
+                },
+                {
+                  "user": {
+                    "uid": 1228411,
+                    "user_name": "Five_Four_Plus",
+                    "first_name": "Tran's Son",
+                    "last_name": "",
+                    "bio": "trad climber. free soloist. freestyle rapper. boarder. brewer. bigfoot believer. happy. hyphy. hoppy. happa.",
+                    "location": "Golden State",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://untappd.akamaized.net/profile/38e270d96355fc83506d5b1335f2cb87_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 465981279,
+                  "comment_id": 34956464,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "No way! Did you text?? Sorry, I've been out of the country with no phone. Where'd you go?",
+                  "created_at": "Sat, 17 Jun 2017 02:59:24 +0000",
+                  "comment_source": "API"
+                },
+                {
+                  "user": {
+                    "uid": 134497,
+                    "user_name": "sweber70",
+                    "first_name": "Scott",
+                    "last_name": "W.",
+                    "bio": "I love cookies and.....beer.",
+                    "location": "STL, MO",
+                    "relationship": "none",
+                    "is_supporter": 1,
+                    "user_avatar": "https://untappd.akamaized.net/profile/d2b1309181904f2bd742772e69885c70_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 465981279,
+                  "comment_id": 34956705,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Tried texting awhile back and didn't hear from ya so thought you changed numbers. Pretty much the whole state!",
+                  "created_at": "Sat, 17 Jun 2017 03:06:12 +0000",
+                  "comment_source": "API"
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 572809,
+                  "user": {
+                    "uid": 572809,
+                    "user_name": "Vdubku",
+                    "first_name": "Valerie",
+                    "last_name": "W.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/c2fb5743c1a6fcac42a6169271b75706_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 385866592,
+                  "like_owner": false,
+                  "created_at": "Sat, 17 Jun 2017 02:15:09 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 463966615,
+            "created_at": "Sun, 11 Jun 2017 11:47:00 +0000",
+            "checkin_comment": "",
+            "rating_score": 1.25,
+            "user": {
+              "uid": 1239285,
+              "user_name": "denisd",
+              "first_name": "Денис",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/f176f2954841f9aa18378bd75808c6c8_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1381893,
+              "beer_name": "Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4,
+              "beer_ibu": 0,
+              "beer_slug": "viet-duc-brewery-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 85667,
+              "brewery_name": "Viet Duc Brewery",
+              "brewery_slug": "viet-duc-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Vietnam",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4630743,
+              "venue_name": "Azura Hôtel",
+              "venue_slug": "azura-hotel",
+              "primary_category": "Travel & Transport",
+              "parent_category_id": "4d4b7105d754a06379d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Resort",
+                    "category_id": "4bf58dd8d48988d12f951735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Việt Nam",
+                "lat": 12.2331,
+                "lng": 109.195
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "55893aea498e8610d59286b1",
+                "foursquare_url": "http://4sq.com/1Jg1O0K"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/travel/resort_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/travel/resort_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/travel/resort_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 125975980,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_11/4e1074874b4aee13c16c18408a48a801_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_06_11/4e1074874b4aee13c16c18408a48a801_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_11/4e1074874b4aee13c16c18408a48a801_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_06_11/4e1074874b4aee13c16c18408a48a801_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 1821,
+                  "user_badge_id": 197721911,
+                  "badge_name": "Photogenic Brew  (Level 35)",
+                  "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 175 check-ins with a photo. ",
+                  "created_at": "Sun, 11 Jun 2017 11:47:01 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/1381893?max_id=561533493",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/1381893?max_id=463966615",
+          "max_id": 463966615
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.53125,
+            "beer": {
+              "bid": 1451642,
+              "beer_name": "Via Lustrumbier MMXVI",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "brouwerij-troost-via-lustrumbier-mmxvi",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 114090,
+              "brewery_name": "Brouwerij Troost",
+              "brewery_slug": "brouwerij-troost",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-114090_8e956.jpeg",
+              "country_name": "Netherlands",
+              "contact": {
+                "twitter": "brouwerijtroost",
+                "facebook": "https://www.facebook.com/brouwerijtroost",
+                "instagram": "brouwerijtroost",
+                "url": "http://www.brouwerijtroost.nl/"
+              },
+              "location": {
+                "brewery_city": "Amsterdam",
+                "brewery_state": "Noord-Holland",
+                "lat": 52.3505,
+                "lng": 4.89118
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.375,
+            "beer": {
+              "bid": 1253939,
+              "beer_name": "Lemon Sun Honey",
+              "beer_abv": 6.8,
+              "beer_ibu": 0,
+              "beer_slug": "minneapolis-town-hall-brewery-lemon-sun-honey",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 869,
+              "brewery_name": "Minneapolis Town Hall Brewery",
+              "brewery_slug": "minneapolis-town-hall-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-MinneapolisTownHallBrewery_869.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "THBrewery",
+                "facebook": "https://www.facebook.com/townhallbrewery",
+                "instagram": "townhallbrewery",
+                "url": "http://www.townhallbrewery.com/"
+              },
+              "location": {
+                "brewery_city": "Minneapolis",
+                "brewery_state": "MN",
+                "lat": 44.9733,
+                "lng": -93.2479
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.32692,
+            "beer": {
+              "bid": 2324078,
+              "beer_name": "Uthmärkt Lager",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "aros-brewing-co-uthmarkt-lager",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 337688,
+              "brewery_name": "Aros Brewing Co",
+              "brewery_slug": "aros-brewing-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-337688_7f397.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/arosbrewingco",
+                "instagram": "arosbrewingco",
+                "url": "http://www.arosbrewingco.se/"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.27273,
+            "beer": {
+              "bid": 1219988,
+              "beer_name": "Anniversary Beer",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "ulele-spring-brewery-anniversary-beer",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 140721,
+              "brewery_name": "Ulele Spring Brewery",
+              "brewery_slug": "ulele-spring-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-140721_4ed0a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/uleletampaheights?ref=br_tf",
+                "instagram": "",
+                "url": "www.ulele.com/ulele-spring-brewery/"
+              },
+              "location": {
+                "brewery_city": "Tampa",
+                "brewery_state": "FL",
+                "lat": 27.9602,
+                "lng": -82.4628
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.25,
+            "beer": {
+              "bid": 2470466,
+              "beer_name": "Lake Blalock",
+              "beer_abv": 3.5,
+              "beer_ibu": 9,
+              "beer_slug": "new-groove-artisan-brewery-lake-blalock",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2470466_bf00f_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 321778,
+              "brewery_name": "New Groove Artisan Brewery",
+              "brewery_slug": "new-groove-artisan-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-321778_df482.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "newgroovebrew",
+                "facebook": "http://facebook.com/newgroovebrew",
+                "instagram": "newgroovebrew",
+                "url": "http://www.newgroovebrew.com"
+              },
+              "location": {
+                "brewery_city": "Boiling Springs",
+                "brewery_state": "SC",
+                "lat": 35.0524,
+                "lng": -81.9885
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.41643,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

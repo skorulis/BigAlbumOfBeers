@@ -1,0 +1,1414 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.217,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.006,
+      "measure": "seconds"
+    }
+  },
+  "notifications": {
+    "type": "notifications",
+    "unread_count": {
+      "comments": 0,
+      "toasts": 0,
+      "friends": 0,
+      "messages": 0,
+      "news": 0
+    }
+  },
+  "response": {
+    "beer": {
+      "bid": 1490972,
+      "beer_name": "Legal Tender",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 4.5,
+      "beer_ibu": 1,
+      "beer_description": "Bankstown sports beer ",
+      "beer_style": "Lager - Pale",
+      "is_in_production": 1,
+      "beer_slug": "bankstown-sports-legal-tender",
+      "is_homebrew": 0,
+      "created_at": "Fri, 01 Apr 2016 04:30:50 +0000",
+      "rating_count": 6,
+      "rating_score": 0,
+      "stats": {
+        "total_count": 6,
+        "monthly_count": 0,
+        "total_user_count": 6,
+        "user_count": 1
+      },
+      "brewery": {
+        "brewery_id": 261136,
+        "brewery_name": "Bankstown Sports ",
+        "brewery_slug": "bankstown-sports",
+        "brewery_type": "Brew Pub",
+        "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "",
+          "facebook": "",
+          "url": ""
+        },
+        "location": {
+          "brewery_city": "",
+          "brewery_state": "",
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "auth_rating": 2.75,
+      "wish_list": false,
+      "media": {
+        "count": 3,
+        "items": [
+          {
+            "photo_id": 80701107,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2016_06_15/c106aa1c1641f2cbdbcc5c2df3f577c3_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2016_06_15/c106aa1c1641f2cbdbcc5c2df3f577c3_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2016_06_15/c106aa1c1641f2cbdbcc5c2df3f577c3_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2016_06_15/c106aa1c1641f2cbdbcc5c2df3f577c3_raw.jpg"
+            },
+            "created_at": "Wed, 15 Jun 2016 11:30:20 +0000",
+            "checkin_id": 323774003,
+            "beer": {
+              "bid": 1490972,
+              "beer_name": "Legal Tender",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.5,
+              "beer_ibu": 1,
+              "beer_slug": "bankstown-sports-legal-tender",
+              "beer_description": "Bankstown sports beer ",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 6,
+              "count": 6,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 261136,
+              "brewery_name": "Bankstown Sports ",
+              "brewery_slug": "bankstown-sports",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "relationship": "friends",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 640387,
+                "venue_name": "Basement Brewhouse",
+                "venue_slug": "bankstown-sports-club",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Sports Bar",
+                      "category_id": "4bf58dd8d48988d11d941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "General Entertainment",
+                      "category_id": "4bf58dd8d48988d1f1931735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "8 Greenfield Parade",
+                  "venue_city": "Bankstown",
+                  "venue_state": "NSW",
+                  "lat": -33.9201,
+                  "lng": 151.034
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.bankstownsports.com/brewhouse"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "4b52c4eff964a520b98727e3",
+                  "foursquare_url": "http://4sq.com/9Iyzd4"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_5d94c8a9_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_640387_5d94c8a9_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_5d94c8a9_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 72303656,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2016_04_08/79b57fc1a6ee8dbf2b73d6fda094ce7c_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2016_04_08/79b57fc1a6ee8dbf2b73d6fda094ce7c_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2016_04_08/79b57fc1a6ee8dbf2b73d6fda094ce7c_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2016_04_08/79b57fc1a6ee8dbf2b73d6fda094ce7c_raw.jpg"
+            },
+            "created_at": "Fri, 08 Apr 2016 09:26:17 +0000",
+            "checkin_id": 297078732,
+            "beer": {
+              "bid": 1490972,
+              "beer_name": "Legal Tender",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.5,
+              "beer_ibu": 1,
+              "beer_slug": "bankstown-sports-legal-tender",
+              "beer_description": "Bankstown sports beer ",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 6,
+              "count": 6,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 261136,
+              "brewery_name": "Bankstown Sports ",
+              "brewery_slug": "bankstown-sports",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1139318,
+              "user_name": "BPMILL3R",
+              "first_name": "Ben",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/2d187a2bdfc00c3d4d9c92a080558891_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 72177530,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2016_04_07/6cb1e5f6f41de303507f50902e175275_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2016_04_07/6cb1e5f6f41de303507f50902e175275_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2016_04_07/6cb1e5f6f41de303507f50902e175275_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2016_04_07/6cb1e5f6f41de303507f50902e175275_raw.jpg"
+            },
+            "created_at": "Thu, 07 Apr 2016 09:10:06 +0000",
+            "checkin_id": 296666520,
+            "beer": {
+              "bid": 1490972,
+              "beer_name": "Legal Tender",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.5,
+              "beer_ibu": 1,
+              "beer_slug": "bankstown-sports-legal-tender",
+              "beer_description": "Bankstown sports beer ",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 6,
+              "count": 6,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 261136,
+              "brewery_name": "Bankstown Sports ",
+              "brewery_slug": "bankstown-sports",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1512437,
+              "user_name": "Griz69",
+              "first_name": "Griz",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/c59f2247b3d1b1a5fd5cc80028fb75e6_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 541893,
+                "venue_name": "Baulkham Hills Sports Club",
+                "venue_slug": "baulkham-hills-sports-club",
+                "primary_category": "Arts & Entertainment",
+                "parent_category_id": "4d4b7104d754a06370d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "General Entertainment",
+                      "category_id": "4bf58dd8d48988d1f1931735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "11 Renown Rd",
+                  "venue_city": "Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.7634,
+                  "lng": 151.004
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.baulkhamhillssports.com"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "4bd2f92d77b29c7415a08f82",
+                  "foursquare_url": "http://4sq.com/coa5uf"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 6,
+        "items": [
+          {
+            "checkin_id": 380420560,
+            "created_at": "Mon, 07 Nov 2016 08:08:45 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.25,
+            "user": {
+              "uid": 3853221,
+              "user_name": "Nielsenjohn",
+              "first_name": "John",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/1ef9f0a21a9f60a6e04a572041f2dabf_100x100.jpg",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 1490972,
+              "beer_name": "Legal Tender",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.5,
+              "beer_ibu": 1,
+              "beer_slug": "bankstown-sports-legal-tender",
+              "beer_description": "Bankstown sports beer ",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "auth_rating": 2.75,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 6,
+              "count": 6,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 261136,
+              "brewery_name": "Bankstown Sports ",
+              "brewery_slug": "bankstown-sports",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 1,
+                  "user_badge_id": 148912825,
+                  "badge_name": "Newbie",
+                  "badge_description": "So, you're new around here? Congrats on your first brew! This one's for you.",
+                  "created_at": "Mon, 07 Nov 2016 08:08:45 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_newbie_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_newbie_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_newbie_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 326881768,
+            "created_at": "Thu, 23 Jun 2016 08:29:20 +0000",
+            "checkin_comment": "Ah the first place I was legally allowed to drink in... Of course I opted not to due to getting plastered three days prior",
+            "rating_score": 3,
+            "user": {
+              "uid": 2423934,
+              "user_name": "brendanmackay",
+              "first_name": "Brendan",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/ae4e4e545de2538f889bef8dbcb55927_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10155794628075010"
+              }
+            },
+            "beer": {
+              "bid": 1490972,
+              "beer_name": "Legal Tender",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.5,
+              "beer_ibu": 1,
+              "beer_slug": "bankstown-sports-legal-tender",
+              "beer_description": "Bankstown sports beer ",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "auth_rating": 2.75,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 6,
+              "count": 6,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 261136,
+              "brewery_name": "Bankstown Sports ",
+              "brewery_slug": "bankstown-sports",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4939773,
+              "venue_name": "Bistro @ Sports Club",
+              "venue_slug": "bistro-sports-club",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Food",
+                    "category_id": "4d4b7105d754a06374d81259",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Bankstown Sports Club Baulkham Hills",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.7635,
+                "lng": 151.005
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "4e8917eeb634e694e4018211",
+                "foursquare_url": "http://4sq.com/mXcAg5"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3820,
+                  "user_badge_id": 122306503,
+                  "badge_name": "Bar Explorer (Level 38)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 190 distinct venues!",
+                  "created_at": "Thu, 23 Jun 2016 08:29:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 323774003,
+            "created_at": "Wed, 15 Jun 2016 11:29:47 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "Skorulis",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "self",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "578408744"
+              }
+            },
+            "beer": {
+              "bid": 1490972,
+              "beer_name": "Legal Tender",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.5,
+              "beer_ibu": 1,
+              "beer_slug": "bankstown-sports-legal-tender",
+              "beer_description": "Bankstown sports beer ",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "auth_rating": 2.75,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 6,
+              "count": 6,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 261136,
+              "brewery_name": "Bankstown Sports ",
+              "brewery_slug": "bankstown-sports",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "bankstown-sports-club",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9201,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_5d94c8a9_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_5d94c8a9_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_5d94c8a9_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 80701107,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2016_06_15/c106aa1c1641f2cbdbcc5c2df3f577c3_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2016_06_15/c106aa1c1641f2cbdbcc5c2df3f577c3_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2016_06_15/c106aa1c1641f2cbdbcc5c2df3f577c3_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2016_06_15/c106aa1c1641f2cbdbcc5c2df3f577c3_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 297078732,
+            "created_at": "Fri, 08 Apr 2016 09:26:09 +0000",
+            "checkin_comment": "This is a top notch lager. Wow. Lots of flavour and mouthfeel.",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 1139318,
+              "user_name": "BPMILL3R",
+              "first_name": "Ben",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/2d187a2bdfc00c3d4d9c92a080558891_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "100002971234495"
+              }
+            },
+            "beer": {
+              "bid": 1490972,
+              "beer_name": "Legal Tender",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.5,
+              "beer_ibu": 1,
+              "beer_slug": "bankstown-sports-legal-tender",
+              "beer_description": "Bankstown sports beer ",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "auth_rating": 2.75,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 6,
+              "count": 6,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 261136,
+              "brewery_name": "Bankstown Sports ",
+              "brewery_slug": "bankstown-sports",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 1089007,
+                  "user": {
+                    "uid": 1089007,
+                    "user_name": "golf1419",
+                    "first_name": "Luke",
+                    "last_name": "M.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3272eec4d326d084a188e0e692620ab2_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/golf1419"
+                  },
+                  "like_id": 212491083,
+                  "like_owner": false,
+                  "created_at": "Fri, 08 Apr 2016 11:12:52 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 72303656,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2016_04_08/79b57fc1a6ee8dbf2b73d6fda094ce7c_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2016_04_08/79b57fc1a6ee8dbf2b73d6fda094ce7c_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2016_04_08/79b57fc1a6ee8dbf2b73d6fda094ce7c_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2016_04_08/79b57fc1a6ee8dbf2b73d6fda094ce7c_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 296666520,
+            "created_at": "Thu, 07 Apr 2016 09:09:56 +0000",
+            "checkin_comment": "Clean, refreshing lager. Quite nice",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 1512437,
+              "user_name": "Griz69",
+              "first_name": "Griz",
+              "last_name": "M.",
+              "location": "Griz's Brewery ",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Passionate about all things Beer. Love trying different beers for inspiration to brewing my own. Whilst I don't sell it,",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/c59f2247b3d1b1a5fd5cc80028fb75e6_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "100003473143348"
+              }
+            },
+            "beer": {
+              "bid": 1490972,
+              "beer_name": "Legal Tender",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.5,
+              "beer_ibu": 1,
+              "beer_slug": "bankstown-sports-legal-tender",
+              "beer_description": "Bankstown sports beer ",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "auth_rating": 2.75,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 6,
+              "count": 6,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 261136,
+              "brewery_name": "Bankstown Sports ",
+              "brewery_slug": "bankstown-sports",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 541893,
+              "venue_name": "Baulkham Hills Sports Club",
+              "venue_slug": "baulkham-hills-sports-club",
+              "primary_category": "Arts & Entertainment",
+              "parent_category_id": "4d4b7104d754a06370d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "11 Renown Rd",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.7634,
+                "lng": 151.004
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.baulkhamhillssports.com"
+              },
+              "public_venue": true,
+              "foursquare": {
+                "foursquare_id": "4bd2f92d77b29c7415a08f82",
+                "foursquare_url": "http://4sq.com/coa5uf"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 1666132,
+                  "user": {
+                    "uid": 1666132,
+                    "user_name": "Stuckey_Stuckey",
+                    "first_name": "Stuckey ",
+                    "last_name": "",
+                    "bio": "Adelaide guy back in Adelaide. Enjoying this big wide place I call Flavour Country.... it's a big country.",
+                    "location": "Adelaide",
+                    "user_avatar": "https://untappd.akamaized.net/profile/90edacba8bd4559dfac87c8eda87afe9_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ],
+                    "user_link": "https://untappd.com/user/Stuckey_Stuckey"
+                  },
+                  "like_id": 212038357,
+                  "like_owner": false,
+                  "created_at": "Thu, 07 Apr 2016 09:13:22 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 72177530,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2016_04_07/6cb1e5f6f41de303507f50902e175275_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2016_04_07/6cb1e5f6f41de303507f50902e175275_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2016_04_07/6cb1e5f6f41de303507f50902e175275_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2016_04_07/6cb1e5f6f41de303507f50902e175275_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5007,
+                  "user_badge_id": 109732633,
+                  "badge_name": "National Beer Day (2016)",
+                  "badge_description": "Water, barley, yeast, and hops - such simple ingredients to produce such a marvelous concoction! Let's raise a toast to your favorite beverage on this National Beer Day!",
+                  "created_at": "Thu, 07 Apr 2016 09:09:56 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_NationalBeerDay2016_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_NationalBeerDay2016_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_NationalBeerDay2016_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          },
+          {
+            "checkin_id": 294290329,
+            "created_at": "Fri, 01 Apr 2016 04:33:40 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 1225971,
+              "user_name": "Rooster86",
+              "first_name": "Matt",
+              "last_name": "R.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/dd44f78e7aeafe1999163a09ea595e7d_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "644403792"
+              }
+            },
+            "beer": {
+              "bid": 1490972,
+              "beer_name": "Legal Tender",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.5,
+              "beer_ibu": 1,
+              "beer_slug": "bankstown-sports-legal-tender",
+              "beer_description": "Bankstown sports beer ",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "auth_rating": 2.75,
+              "wish_list": false,
+              "rating_score": 0,
+              "rating_count": 6,
+              "count": 6,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 261136,
+              "brewery_name": "Bankstown Sports ",
+              "brewery_slug": "bankstown-sports",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2123,
+                  "user_badge_id": 108758266,
+                  "badge_name": "Lager Jack  (Level 17)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 85 different Lagers! Try 5 more to unlock Level 18.",
+                  "created_at": "Fri, 01 Apr 2016 04:33:40 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ]
+          }
+        ],
+        "pagination": {
+          "next_url": "",
+          "max_id": ""
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.55357,
+            "beer": {
+              "bid": 1451642,
+              "beer_name": "Via Lustrumbier MMXVI",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "brouwerij-troost-via-lustrumbier-mmxvi",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 114090,
+              "brewery_name": "Brouwerij Troost",
+              "brewery_slug": "brouwerij-troost",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-114090_8e956.jpeg",
+              "country_name": "Netherlands",
+              "contact": {
+                "twitter": "brouwerijtroost",
+                "facebook": "https://www.facebook.com/brouwerijtroost",
+                "instagram": "brouwerijtroost",
+                "url": "http://www.brouwerijtroost.nl/"
+              },
+              "location": {
+                "brewery_city": "Amsterdam",
+                "brewery_state": "Noord-Holland",
+                "lat": 52.3505,
+                "lng": 4.89118
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.375,
+            "beer": {
+              "bid": 1253939,
+              "beer_name": "Lemon Sun Honey",
+              "beer_abv": 6.8,
+              "beer_ibu": 0,
+              "beer_slug": "minneapolis-town-hall-brewery-lemon-sun-honey",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 869,
+              "brewery_name": "Minneapolis Town Hall Brewery",
+              "brewery_slug": "minneapolis-town-hall-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-MinneapolisTownHallBrewery_869.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "THBrewery",
+                "facebook": "https://www.facebook.com/townhallbrewery",
+                "instagram": "townhallbrewery",
+                "url": "http://www.townhallbrewery.com/"
+              },
+              "location": {
+                "brewery_city": "Minneapolis",
+                "brewery_state": "MN",
+                "lat": 44.9733,
+                "lng": -93.2479
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.3,
+            "beer": {
+              "bid": 1219988,
+              "beer_name": "Anniversary Beer",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "ulele-spring-brewery-anniversary-beer",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 140721,
+              "brewery_name": "Ulele Spring Brewery",
+              "brewery_slug": "ulele-spring-brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-140721_4ed0a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/uleletampaheights?ref=br_tf",
+                "instagram": "",
+                "url": "www.ulele.com/ulele-spring-brewery/"
+              },
+              "location": {
+                "brewery_city": "Tampa",
+                "brewery_state": "FL",
+                "lat": 27.9602,
+                "lng": -82.4628
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.24038,
+            "beer": {
+              "bid": 1155008,
+              "beer_name": "Barrel Aged Pale Ale",
+              "beer_abv": 5.5,
+              "beer_ibu": 0,
+              "beer_slug": "czann-s-brewing-company-barrel-aged-pale-ale",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 41613,
+              "brewery_name": "Czann's Brewing Company",
+              "brewery_slug": "czanns-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-41613_dacc0.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "czanns",
+                "facebook": "http://facebook.com/Czanns",
+                "instagram": "czanns",
+                "url": "http://czanns.com"
+              },
+              "location": {
+                "brewery_city": "Nashville",
+                "brewery_state": "TN",
+                "lat": 36.1535,
+                "lng": -86.7742
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.20455,
+            "beer": {
+              "bid": 1568689,
+              "beer_name": "Zoe With Tweed Coffee",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "hops-and-grain-brewing-zoe-with-tweed-coffee",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 17860,
+              "brewery_name": "Hops & Grain Brewing",
+              "brewery_slug": "hops-grain-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-HopsGrain_17860.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "hopsandgrain",
+                "facebook": "http://www.facebook.com/pages/Hops-and-Grain/190074009287",
+                "instagram": "hopsandgrain",
+                "url": "http://www.hopsandgrain.com/"
+              },
+              "location": {
+                "brewery_city": "Austin",
+                "brewery_state": "TX",
+                "lat": 30.2583,
+                "lng": -97.7126
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "weighted_rating_score": 3.56732,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "subscribe_status": {
+        "is_subscribed": 0
+      }
+    }
+  }
+}

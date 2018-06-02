@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Beer Stats</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="The big album of beers tracks all the unique beers that I've consumed over the years">
+
+    <meta name="author" content="Alex Skorulis">
+    <link rel="canonical" href="http://localhost:4000/stats/">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link rel="stylesheet" href="/style.css">
+    <link rel="shortcut icon" type="image/png" href="/img/icon-64.png">
+
+    <!-- Google verification -->
+    
+
+    <!-- Bing Verification -->
+    
+
+    <!-- Custom Fonts -->
+    <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <meta property="og:description" content="The big album of beers tracks all the unique beers that I've consumed over the years">
+    <meta property="og:site_name" content="The Big Album of Beers">
+
+    <meta property="og:title" content="Beer Stats">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://bigalbumofbeers.com/stats/">
+    
+        <meta property="og:image"
+    content="http://bigalbumofbeers.com/img/cloud.png" />
+    
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+    <link href="/css/stats.css" rel="stylesheet">
+
+    <body id="page-top" class="index">
+       <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                
+                    <a class="navbar-brand" href="/">Big Album Of Beers</a>
+                
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="/"></a>
+                    </li>
+                    <li>
+                        <a href="/beers">The beers</a>
+                    </li>
+                    <li>
+                        <a href="/stats">Stats</a>
+                    </li>
+                    <li>
+                        <a href="/blog">Blog</a>
+                    </li>
+                    <li>
+                        <a href="/about">About</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+        <!-- Header -->
+    <header>
+    
+        <div class="container-slim">
+            <div class="intro-text">
+                <span class="name">Beer Stats</span>
+            </div>
+        </div>
+    
+
+        
+    </header>
+
+    <div id="tooltip-container">
+      <span class=tooltip_key></span>
+      <span class="tooltip_value"></span>
+      <p class="tooltip_beer">
+
+      </p>
+    </div>
+
+    <div class="container">
+      <p class="stat-intro">
+      I've consumed <span class="stat-big" id="beer-count"> 1297</span> different beers from <span class="stat-big" id="brewery-count">582</span> breweries located in <span class="stat-big" id="country-count">65</span> countries over a period of <span class="stat-big" id="time-period">5 years</span>
+      </p>
+
+      <h3>Breakdown by country of manufacture</h3>
+      <form id="map-form">
+        <div class="switch-field">
+          <input type="radio" name="metric" id="m_1" value="count" checked>
+          <label for="m_1">Count</label>
+          <input type="radio" name="metric" id="m_2" value="rating">
+          <label for="m_2">Rating</label>
+        </div>
+        
+      </form>
+
+      <div id="map"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
+      <p class="caption">65 countries seems like a lot but there's some big gaps in that map that I really want to fill</p>
+
+      <h3>Breakdown by beer style</h3>
+      <form id="style-form">
+        <div class="switch-field">
+          <input type="radio" name="metric" id="sm_1" value="count" checked>
+          <label for="sm_1">Count</label>
+          <input type="radio" name="metric" id="sm_2" value="rating">
+          <label for="sm_2">Rating</label>
+        </div>
+
+        <div class="switch-field">
+          <input type="radio" name="quantity" id="sq_1" value="top" checked>
+          <label for="sq_1">Top</label>
+          <input type="radio" name="quantity" id="sq_2" value="all">
+          <label for="sq_2">All</label>
+        </div>
+      </form>
+      <div id="style-svg"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
+
+      <h3>Breakdown by brewery</h3>
+      <form id="brewery-form">
+        <div class="switch-field">
+          <input type="radio" name="metric" id="bm_1" value="count" checked>
+          <label for="bm_1">Count</label>
+          <input type="radio" name="metric" id="bm_2" value="rating">
+          <label for="bm_2">Rating</label>
+        </div>
+
+        <div class="switch-field">
+          <input type="radio" name="quantity" id="bq_1" value="top" checked>
+          <label for="bq_1">Top</label>
+          <input type="radio" name="quantity" id="bq_2" value="all">
+          <label for="bq_2">All</label>
+        </div>
+      </form>
+      <div id="brewery-svg"></div>
+      <form id="brewery-form">
+        <div class="switch-field">
+          <input type="radio" name="metric" id="bm_1" value="count" checked>
+          <label for="bm_1">Count</label>
+          <input type="radio" name="metric" id="bm_2" value="rating">
+          <label for="bm_2">Rating</label>
+        </div>
+
+        <div class="switch-field">
+          <input type="radio" name="quantity" id="bq_1" value="top" checked>
+          <label for="bq_1">Top</label>
+          <input type="radio" name="quantity" id="bq_2" value="all">
+          <label for="bq_2">All</label>
+        </div>
+      </form>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
+      <p class="caption">My brewery choices are mostly unaffected by what breweries I like and depend on what beer ranges are readily available</p>
+
+      <h3>Top beers</h3>
+      <form id="top-form">
+        <div class="switch-field">
+          <input type="radio" name="quantity" id="cq_1" value="top" checked>
+          <label for="cq_1">Top</label>
+          <input type="radio" name="quantity" id="cq_2" value="all">
+          <label for="cq_2">All</label>
+        </div>
+        <div class="switch-field">
+          <input type="radio" name="metric" id="t_1" value="abv">
+          <label for="t_1">ABV%</label>
+          <input type="radio" name="metric" id="t_2" value="rating" checked>
+          <label for="t_2">Rating</label>
+          <input type="radio" name="metric" id="t_3" value="uts">
+          <label for="t_3">Untappd rating</label>
+          <input type="radio" name="metric" id="t_4" value="ibu">
+          <label for="t_4">IBU</label>
+        </div>
+      </form>
+      <div id="top-svg"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
+
+      <h3>My ratings vs Untapped</h3>
+
+      <div id="score-svg"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
+      <p class="caption">In general it seems I'm a harsher rater than other people on untappd but my ratings are less clustered as well</p>
+
+      <h3>Scatterplot with adjustable axes</h3>
+      <form id="scatter-form">
+          X axis <br/>
+        <div class="switch-field">
+          <input type="radio" name="x" id="x_1" value="abv">
+          <label for="x_1">ABV%</label>
+          <input type="radio" name="x" id="x_2" value="rating">
+          <label for="x_2">Rating</label>
+          <input type="radio" name="x" id="x_3" value="uts" checked>
+          <label for="x_3">Untappd rating</label>
+          <input type="radio" name="x" id="x_4" value="ibu">
+          <label for="x_4">IBU</label>
+        </div>
+        
+
+        Y axis <br/>
+
+        <div class="switch-field">
+          <input type="radio" name="y" id="y_1" value="abv">
+          <label for="y_1">ABV%</label>
+          <input type="radio" name="y" id="y_2" value="rating" checked>
+          <label for="y_2">Rating</label>
+          <input type="radio" name="y" id="y_3" value="uts">
+          <label for="y_3">Untappd rating</label>
+          <input type="radio" name="y" id="y_4" value="ibu">
+          <label for="y_4">IBU</label>
+        </div>
+      </form>
+      <div id="scatterplot-svg"></div>
+      <noscript>
+        This graph needs javascript enabled
+      </noscript>
+      
+
+      <h3>Most common review words</h3>
+
+      <img class="img-responsive" src="/img/cloud.png">
+
+      <p>These stats are generated from 3 Facebook albums combined with extra data taken from Untappd. You can find the full data on <a href="https://github.com/skorulis/BigAlbumOfBeers">Github</a></p>
+    </div>
+
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.1.0/topojson.min.js"></script>
+    <script src="/js/jquery-3.1.1.min.js"></script>
+    <script src="/js/stats.js"></script> 
+
+    <!-- Contact Section -->
+<section id="contact">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<hr class="star-primary">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2">
+				<form  action="//formspree.io/bigalbumofbeers@skorulis.com" method="POST" name="sentMessage" class="small-form" id="contactForm" novalidate>
+					<h2>Keep up to date</h2>
+					<div class="row control-group" style="width:100%">
+						<input type="email" name="_replyto" class="signup-input" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+						<p class="help-block text-danger"></p>
+					</div>
+					<div>
+						<input type="hidden"  name="_subject" value="New Email address">
+						<input type="text" name="_gotcha" style="display:none" />
+					</div>
+					<br>
+					<div id="success"></div>
+					<div class="row">
+						<div class="form-group col-xs-12">
+							<button type="submit" class="signup-button">Subscribe</button>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+
+        <!-- Footer -->
+    <footer class="text-center">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Get in touch</h3>
+                        <ul class="list-inline">
+                            
+                            <li>
+                                <a href="https://www.instagram.com/skorulis/" class="btn-social btn-outline"><i class="icon-instagram"></i></a>
+                            </li>
+		                    
+                            <li>
+                                <a href="https://www.facebook.com/skorulis" class="btn-social btn-outline"><i class="icon-facebook"></i></a>
+                            </li>
+		                    
+                            <li>
+                                <a href="https://twitter.com/skorulis" class="btn-social btn-outline"><i class="icon-twitter"></i></a>
+                            </li>
+		                    
+                            <li>
+                                <a href="https://github.com/skorulis/BigAlbumOfBeers" class="btn-social btn-outline"><i class="icon-github"></i></a>
+                            </li>
+		                    
+                            <li>
+                                <a href="https://untappd.com/user/Skorulis" class="btn-social btn-outline"><i class="icon-untappd"></i></a>
+                            </li>
+		                    
+                            <li>
+                                <a href="mailto:contact@bigalbumofbeers.com" class="btn-social btn-outline"><i class="icon-envelope-o"></i></a>
+                            </li>
+		                    
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <a href="http://skorulis.com" style="color:white">
+                        Copyright &copy; Alex Skorulis 2017
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90419964-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    
+    <script src="/js/jquery-3.1.1.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.lazyload.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="/js/jquery.easing.min.js"></script>
+    <script src="/js/classie.js"></script>
+    <script src="/js/cbpAnimatedHeader.js"></script>
+    <script src="/js/jqBootstrapValidation.js"></script>
+    <script src="/js/contact_me_static.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="/js/main.js"></script>
+
+    <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-589023129f5c2447"></script>  
+
+    </body>
+</html>

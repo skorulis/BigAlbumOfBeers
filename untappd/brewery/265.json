@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.293,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.011,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 265,
+      "brewery_name": "Stella Artois",
+      "brewery_slug": "stella-artois",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-265_7be0f.jpeg",
+      "country_name": "Belgium",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "StellaArtois",
+        "follow_status": false,
+        "follower_count": 24522,
+        "uid": 1656452,
+        "mute_status": "none"
+      },
+      "beer_count": 18,
+      "contact": {
+        "twitter": "StellaArtois",
+        "facebook": "http://www.facebook.com/StellaArtois",
+        "instagram": "StellaArtois",
+        "url": "http://www.stellaartois.com"
+      },
+      "brewery_type": "Macro Brewery",
+      "brewery_type_id": 1,
+      "location": {
+        "brewery_address": "Brouwerijplein 1",
+        "brewery_city": "Leuven",
+        "brewery_state": "Vlaams-Brabant",
+        "brewery_lat": 50.8852,
+        "brewery_lng": 4.70805
+      },
+      "rating": {
+        "count": 427794,
+        "rating_score": 3.276
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 962125,
+        "unique_count": 438510,
+        "monthly_count": 15915,
+        "weekly_count": 4661,
+        "user_count": 0,
+        "age_on_service": 2513.1125
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 0,
+            "is_brewery_group": 1,
+            "brewery_name": "Anheuser-Busch InBev"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 1044812,
+              "venue_name": "Brouwzaal",
+              "venue_slug": "brouwzaal",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "AB InBev",
+                "venue_city": "Leuven",
+                "venue_state": "Vlaams-Brabant",
+                "venue_country": "België",
+                "lat": 50.8883,
+                "lng": 4.70868
+              },
+              "contact": {
+                "twitter": "@abinbevnews",
+                "venue_url": "http://www.ab-inbev.com"
+              },
+              "foursquare": {
+                "foursquare_id": "521490d111d2e8d35cc3a174",
+                "foursquare_url": "http://4sq.com/12orEJ8"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

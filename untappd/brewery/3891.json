@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.643,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.01,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 3891,
+      "brewery_name": "Anchor Brewing Company",
+      "brewery_slug": "anchor-brewing-company",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-AnchorBrewingCompany_3891.jpeg",
+      "country_name": "United States",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "anchorbrewing",
+        "follow_status": false,
+        "follower_count": 60156,
+        "uid": 115272,
+        "mute_status": "none"
+      },
+      "beer_count": 113,
+      "contact": {
+        "twitter": "AnchorBrewing",
+        "facebook": "http://www.facebook.com/anchorbrewing",
+        "instagram": "anchorbrewing",
+        "url": "http://www.anchorbrewing.com"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "1705 Mariposa Street",
+        "brewery_city": "San Francisco",
+        "brewery_state": "CA",
+        "brewery_lat": 37.7635,
+        "brewery_lng": -122.401
+      },
+      "rating": {
+        "count": 911832,
+        "rating_score": 3.514
+      },
+      "brewery_description": "Brewing hand-crafted beer in the heart of San Francisco since 1896.",
+      "stats": {
+        "total_count": 1263093,
+        "unique_count": 437712,
+        "monthly_count": 20252,
+        "weekly_count": 5694,
+        "user_count": 0,
+        "age_on_service": 2496.1413078703704
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 4779,
+            "is_brewery_group": 0,
+            "brewery_name": "Sapporo Breweries"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 19772,
+              "venue_name": "Anchor Brewing Company",
+              "venue_slug": "anchor-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Factory",
+                    "category_id": "4eb1bea83b7b6f98df247e06",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1705 Mariposa St",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7634,
+                "lng": -122.401
+              },
+              "contact": {
+                "twitter": "@anchorbrewing",
+                "venue_url": "http://www.anchorbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "43a16022f964a5202c2c1fe3",
+                "foursquare_url": "http://4sq.com/4nfLD4"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

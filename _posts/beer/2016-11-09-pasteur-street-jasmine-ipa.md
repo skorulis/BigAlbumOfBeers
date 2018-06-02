@@ -9,7 +9,7 @@ brewery: "Pasteur Street Brewing Company"
 breweryURL: "/brewery/pasteur-street-brewing-company.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27972364_10156021379823745_2225638188030970591_n.jpg?oh=960b8353eb14efb8fda485409172b0ed&oe=5B014B43
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27972364_10156021379823745_2225638188030970591_n.jpg?_nc_cat=0&oh=fb79304517fb81b989578ae42bf91ec2&oe=5B77F243
 beer-date: "2018-02-17"
 desc: "Quite floral but perhaps too bitter. Magically cured my hangover"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Hop Nation Brewing Co"
 breweryURL: "/brewery/hop-nation-brewing-co.html"
 style: "Sour - Gose"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20952993_10155535939138745_2610641781226174593_n.jpg?oh=bdab5e5bd8c02925be8fa73161f18f92&oe=5B48177A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20952993_10155535939138745_2610641781226174593_n.jpg?_nc_cat=0&oh=4cb1a3128d3fcd5b381074baa3ec9a46&oe=5BBEBE7A
 beer-date: "2017-08-21"
 desc: "Really strong mango smell and an interesting mix of flavours. The mango doesn’t come through as much in the taste as the mild sourness covers it up. Very easy drinking regardless and gets better as it goes down"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16265441_10154888758138745_4481479706439391791_n.jpg?oh=96abdddc762207f237f02dddab39d275&oe=5B02EAAB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16265441_10154888758138745_4481479706439391791_n.jpg?_nc_cat=0&oh=d497207adefa78e2e66b787ad47bc6a0&oe=5B7991AB
 beer-date: "2017-01-30"
 desc: "Really nice smell and color but the taste doesn't meet my expectations. Too resiny and bitter. Gets better but it's too late"
 permalink: /beer/:title.html

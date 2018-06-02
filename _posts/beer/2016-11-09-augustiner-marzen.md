@@ -9,7 +9,7 @@ brewery: "Augustiner Bräu Kloster Mülln"
 breweryURL: "/brewery/augustiner-brau-kloster-mulln.html"
 style: "Märzen"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19905109_10155413269528745_1435704613752562446_n.jpg?oh=7f01646057a97239ddd73f8dea88d256&oe=5B05AED9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19905109_10155413269528745_1435704613752562446_n.jpg?_nc_cat=0&oh=757c65d6ec4a6b6391aed0163c64d404&oe=5B7C55D9
 beer-date: "2017-07-12"
 desc: "Surprisingly good. A little sweet but it's subtle and the beer is so well rounded that it's done before you know it"
 permalink: /beer/:title.html

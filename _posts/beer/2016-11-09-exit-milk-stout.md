@@ -9,7 +9,7 @@ brewery: "Exit Brewing"
 breweryURL: "/brewery/exit-brewing.html"
 style: "Stout - Milk / Sweet"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13450864_10154200938523745_2403941117496205897_n.jpg?oh=506e35b1b8145ebbc88019e9211304de&oe=5B4C7D91
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13450864_10154200938523745_2403941117496205897_n.jpg?_nc_cat=0&oh=e0395f47c5b3a732700c3426a98a8be5&oe=5BC32491
 beer-date: "2016-06-16"
 desc: "Not nearly as sweet as I expected, almost had a sour note. Once I got used to it it was an enjoyable drink"
 permalink: /beer/:title.html

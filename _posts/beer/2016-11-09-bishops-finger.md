@@ -9,7 +9,7 @@ brewery: "Shepherd Neame"
 breweryURL: "/brewery/shepherd-neame.html"
 style: "Extra Special / Strong Bitter"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/533497_10151356728563745_544345125_n.jpg?oh=5df97f34754cd0f0d604fe08f5b084ca&oe=5B00AA91
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/533497_10151356728563745_544345125_n.jpg?_nc_cat=0&oh=edfe63cf46c5372e587c7f0e4b8888a2&oe=5B775191
 beer-date: "2012-12-01"
 desc: "Written on the back: At 5.4% It's near the knuckle. "
 permalink: /beer/:title.html

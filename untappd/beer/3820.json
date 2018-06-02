@@ -1,0 +1,2998 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.22,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.01,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 3820,
+      "beer_name": "Prima Pils",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+      "beer_label_hd": "https://untappd.akamaized.net/site/beer_logos_hd/beer-3820_f1507_hd.jpeg",
+      "beer_abv": 5.3,
+      "beer_ibu": 0,
+      "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+      "beer_style": "Pilsner - German",
+      "is_in_production": 1,
+      "beer_slug": "victory-brewing-company-prima-pils",
+      "is_homebrew": 0,
+      "created_at": "Sat, 21 Aug 2010 09:26:35 +0000",
+      "rating_count": 88563,
+      "rating_score": 3.47174,
+      "stats": {
+        "total_count": 141224,
+        "monthly_count": 1190,
+        "total_user_count": 101275,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 1326,
+        "brewery_name": "Victory Brewing Company",
+        "brewery_slug": "victory-brewing-company",
+        "brewery_type": "Micro Brewery",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+        "country_name": "United States",
+        "contact": {
+          "twitter": "VictoryBeer",
+          "facebook": "https://www.facebook.com/victorybeer",
+          "url": "http://victorybeer.com/"
+        },
+        "location": {
+          "brewery_city": "Downingtown",
+          "brewery_state": "PA",
+          "lat": 40.0061,
+          "lng": -75.6942
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 136114969,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_21/c91f67202804cba20001f2c955f8e1b7_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_21/c91f67202804cba20001f2c955f8e1b7_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_21/c91f67202804cba20001f2c955f8e1b7_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_21/c91f67202804cba20001f2c955f8e1b7_raw.jpeg"
+            },
+            "created_at": "Mon, 21 Aug 2017 03:20:10 +0000",
+            "checkin_id": 494254197,
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "is_in_production": 1,
+              "beer_style_id": 104,
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.472,
+              "rating_count": 88563,
+              "count": 88563,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1451927,
+              "user_name": "ddebont",
+              "first_name": "dirk",
+              "last_name": "d",
+              "user_avatar": "https://untappd.akamaized.net/profile/a243bd62f678971b1ce0c9527113be1b_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 307439,
+                "venue_name": "Story Tavern",
+                "venue_slug": "story-tavern",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "150 S San Fernando Blvd Ste 40",
+                  "venue_city": "Burbank",
+                  "venue_state": "CA",
+                  "lat": 34.1805,
+                  "lng": -118.308
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://storytavernburbank.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e87dc614901a74c4063b777",
+                  "foursquare_url": "http://4sq.com/pNgXWF"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 136108557,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_21/2619ca58feb828af727683d8120c9f17_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_21/2619ca58feb828af727683d8120c9f17_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_21/2619ca58feb828af727683d8120c9f17_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_21/2619ca58feb828af727683d8120c9f17_raw.jpg"
+            },
+            "created_at": "Mon, 21 Aug 2017 01:57:45 +0000",
+            "checkin_id": 494231627,
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "is_in_production": 1,
+              "beer_style_id": 104,
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.472,
+              "rating_count": 88563,
+              "count": 88563,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4682754,
+              "user_name": "BigChiefJosh",
+              "first_name": "Josh",
+              "last_name": "K",
+              "user_avatar": "https://untappd.akamaized.net/profile/4bbe2fd254e1d061ed318d57a55f6649_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 136057362,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_20/9bfd1e7f06489a83e931f48e6def6a78_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_20/9bfd1e7f06489a83e931f48e6def6a78_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_20/9bfd1e7f06489a83e931f48e6def6a78_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_20/9bfd1e7f06489a83e931f48e6def6a78_raw.jpg"
+            },
+            "created_at": "Sun, 20 Aug 2017 20:50:47 +0000",
+            "checkin_id": 494063112,
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "is_in_production": 1,
+              "beer_style_id": 104,
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.472,
+              "rating_count": 88563,
+              "count": 88563,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2118955,
+              "user_name": "Yogimeister",
+              "first_name": "Y",
+              "last_name": "Y",
+              "user_avatar": "https://untappd.akamaized.net/profile/0c2c0c1740c7da5413f2a7e954d77805_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4918874,
+                "venue_name": "Band Rehearsal",
+                "venue_slug": "band-rehearsal",
+                "primary_category": null,
+                "parent_category_id": null,
+                "categories": {
+                  "count": 0,
+                  "items": [
+
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "TX",
+                  "lat": 32.9963,
+                  "lng": -96.6443
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "4d9d01a8a695721efb5b080d",
+                  "foursquare_url": "http://4sq.com/dOfBC0"
+                },
+                "venue_icon": {
+                  "sm": "https://foursquare.com/img/categories_v2/none_bg_64.png",
+                  "md": "https://foursquare.com/img/categories_v2/none_bg_88.png",
+                  "lg": "https://foursquare.com/img/categories_v2/none_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 136039355,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_20/bceb2bc081af575f6458fd44b0b5d834_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_20/bceb2bc081af575f6458fd44b0b5d834_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_20/bceb2bc081af575f6458fd44b0b5d834_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_20/bceb2bc081af575f6458fd44b0b5d834_raw.jpg"
+            },
+            "created_at": "Sun, 20 Aug 2017 19:29:49 +0000",
+            "checkin_id": 494009715,
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "is_in_production": 1,
+              "beer_style_id": 104,
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.472,
+              "rating_count": 88563,
+              "count": 88563,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3618226,
+              "user_name": "king1060",
+              "first_name": "Jon",
+              "last_name": "K",
+              "user_avatar": "https://untappd.akamaized.net/profile/789df137c227fcb331006a0b32089652_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 136474,
+                "venue_name": "Longwood Gardens",
+                "venue_slug": "longwood-gardens",
+                "primary_category": "Outdoors & Recreation",
+                "parent_category_id": "4d4b7105d754a06377d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Botanical Garden",
+                      "category_id": "52e81612bcbc57f1066b7a22",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1001 Longwood Rd",
+                  "venue_city": "Kennett Square",
+                  "venue_state": "PA",
+                  "lat": 39.8713,
+                  "lng": -75.6746
+                },
+                "contact": {
+                  "twitter": "@longwoodgardens",
+                  "venue_url": "http://www.longwoodgardens.org"
+                },
+                "foursquare": {
+                  "foursquare_id": "4ab64abdf964a5207d7620e3",
+                  "foursquare_url": "http://4sq.com/7LJZ9B"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/botanicalgarden_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/botanicalgarden_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/botanicalgarden_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 136000183,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_20/12d29b3133ec1a22d794da0e601ada8b_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_20/12d29b3133ec1a22d794da0e601ada8b_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_20/12d29b3133ec1a22d794da0e601ada8b_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_20/12d29b3133ec1a22d794da0e601ada8b_raw.jpeg"
+            },
+            "created_at": "Sun, 20 Aug 2017 16:01:03 +0000",
+            "checkin_id": 493902649,
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "is_in_production": 1,
+              "beer_style_id": 104,
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.472,
+              "rating_count": 88563,
+              "count": 88563,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3960438,
+              "user_name": "sujithrnair",
+              "first_name": "Sujith",
+              "last_name": "R",
+              "user_avatar": "https://gravatar.com/avatar/b628b7391b366698a0bf5a80dd59312e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 135990673,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_20/696c1f58b9c30153372d067b9c4c6360_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_20/696c1f58b9c30153372d067b9c4c6360_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_20/696c1f58b9c30153372d067b9c4c6360_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_20/696c1f58b9c30153372d067b9c4c6360_raw.jpg"
+            },
+            "created_at": "Sun, 20 Aug 2017 14:44:03 +0000",
+            "checkin_id": 493881373,
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "is_in_production": 1,
+              "beer_style_id": 104,
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.472,
+              "rating_count": 88563,
+              "count": 88563,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 687297,
+              "user_name": "theangrybyrd",
+              "first_name": "jimmy",
+              "last_name": "b",
+              "user_avatar": "https://untappd.akamaized.net/profile/1d4f836b3ac18a8a0af1e96c4e78fd86_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5165934,
+                "venue_name": "Railyard Grill & Tap Room",
+                "venue_slug": "railyard-grill-and-tap-room",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "New American Restaurant",
+                      "category_id": "4bf58dd8d48988d157941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "413 Railroad Street",
+                  "venue_city": "Bridgeville",
+                  "venue_state": "PA",
+                  "lat": 40.3586,
+                  "lng": -80.1098
+                },
+                "contact": {
+                  "twitter": "@railyardtap",
+                  "venue_url": "http://railyardtap.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "579f784e498e8c84f986f470",
+                  "foursquare_url": "http://4sq.com/2afZV4S"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 135942132,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_20/8e42155412cd151901f8e93ab03d23fc_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_20/8e42155412cd151901f8e93ab03d23fc_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_20/8e42155412cd151901f8e93ab03d23fc_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_20/8e42155412cd151901f8e93ab03d23fc_raw.jpg"
+            },
+            "created_at": "Sun, 20 Aug 2017 01:56:35 +0000",
+            "checkin_id": 493731122,
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "is_in_production": 1,
+              "beer_style_id": 104,
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.472,
+              "rating_count": 88563,
+              "count": 88563,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 570279,
+              "user_name": "Hoff1199",
+              "first_name": "Jack",
+              "last_name": "H",
+              "user_avatar": "https://gravatar.com/avatar/d90a9dfa6b709e7a1294555b6bde20d8?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 1666975,
+                "venue_name": "Hoffman Swim Club",
+                "venue_slug": "hoffman-swim-club",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "PA",
+                  "lat": 39.9646,
+                  "lng": -75.5568
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "53825e1a498eefac4569b0a0",
+                  "foursquare_url": "http://4sq.com/1nJhV8v"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 135933323,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_20/578f99466398d74872f7ee47667ba52e_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_20/578f99466398d74872f7ee47667ba52e_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_20/578f99466398d74872f7ee47667ba52e_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_20/578f99466398d74872f7ee47667ba52e_raw.jpeg"
+            },
+            "created_at": "Sun, 20 Aug 2017 01:15:19 +0000",
+            "checkin_id": 493698689,
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "is_in_production": 1,
+              "beer_style_id": 104,
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.472,
+              "rating_count": 88563,
+              "count": 88563,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3136071,
+              "user_name": "TagArmour",
+              "first_name": "Kevin",
+              "last_name": "J",
+              "user_avatar": "https://untappd.akamaized.net/profile/eb1befacaaa571ae2fab5c9f679c9df7_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 135929488,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_20/f9ec73b829cf593ce57543633693d71c_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_20/f9ec73b829cf593ce57543633693d71c_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_20/f9ec73b829cf593ce57543633693d71c_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_20/f9ec73b829cf593ce57543633693d71c_raw.jpg"
+            },
+            "created_at": "Sun, 20 Aug 2017 00:59:26 +0000",
+            "checkin_id": 493684983,
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "is_in_production": 1,
+              "beer_style_id": 104,
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.472,
+              "rating_count": 88563,
+              "count": 88563,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3627343,
+              "user_name": "ddail478",
+              "first_name": "danny",
+              "last_name": "d",
+              "user_avatar": "https://untappd.akamaized.net/profile/88f436da95001dfdf36a6466995a9f70_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5247867,
+                "venue_name": "Daileys' Tavern",
+                "venue_slug": "daileys-tavern",
+                "primary_category": "Professional & Other Places",
+                "parent_category_id": "4d4b7105d754a06375d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Cultural Center",
+                      "category_id": "52e81612bcbc57f1066b7a32",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Greer",
+                  "venue_state": "SC",
+                  "lat": 34.9253,
+                  "lng": -82.21
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "57b0ebb5498e73b5d13c6ff8",
+                  "foursquare_url": "http://4sq.com/2b4tABN"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/building/default_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/building/default_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/building/default_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 135927023,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_20/8ba53852fe31e7e0e15c3be4cc642862_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_20/8ba53852fe31e7e0e15c3be4cc642862_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_20/8ba53852fe31e7e0e15c3be4cc642862_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_20/8ba53852fe31e7e0e15c3be4cc642862_raw.jpg"
+            },
+            "created_at": "Sun, 20 Aug 2017 00:49:18 +0000",
+            "checkin_id": 493676226,
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "is_in_production": 1,
+              "beer_style_id": 104,
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.472,
+              "rating_count": 88563,
+              "count": 88563,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2964968,
+              "user_name": "Hksdvm",
+              "first_name": "Hill",
+              "last_name": "S",
+              "user_avatar": "https://gravatar.com/avatar/f0b440fe068b8032af4a5d328296a87f?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 163748,
+                "venue_name": "Portside Bar & Grill",
+                "venue_slug": "portside-bar-and-grill",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "242 E Main St",
+                  "venue_city": "Port Jefferson",
+                  "venue_state": "NY",
+                  "lat": 40.9457,
+                  "lng": -73.0677
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.portsidebarandgrill.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4c008674df6c0f476f978b22",
+                  "foursquare_url": "http://4sq.com/bp0Qhd"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 494265422,
+            "created_at": "Mon, 21 Aug 2017 04:40:25 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 4700304,
+              "user_name": "lionelmuller",
+              "first_name": "Lionel",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/77890b275dc4d32a8548d8ede352c575?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 33262,
+              "venue_name": "Taproom No. 307",
+              "venue_slug": "taproom-no-307",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "307 3rd Ave",
+                "venue_city": "New York",
+                "venue_state": "NY",
+                "venue_country": "United States",
+                "lat": 40.7391,
+                "lng": -73.983
+              },
+              "contact": {
+                "twitter": "@taproom307",
+                "venue_url": "http://www.taproom307.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4d5b409222ad2d43527ce695",
+                "foursquare_url": "http://4sq.com/hZsm5k"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_33262_8b5f2f4d_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_33262_8b5f2f4d_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_33262_8b5f2f4d_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 23,
+                  "user_badge_id": 234311590,
+                  "badge_name": "Night Out",
+                  "badge_description": "Enjoying a nice Night Out on the town? Thanks for taking untappd along.",
+                  "created_at": "Mon, 21 Aug 2017 04:40:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_barCrawl_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_barCrawl_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_barCrawl_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 1,
+                  "user_badge_id": 234311591,
+                  "badge_name": "Newbie",
+                  "badge_description": "So, you're new around here? Congrats on your first brew! This one's for you.",
+                  "created_at": "Mon, 21 Aug 2017 04:40:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_newbie_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_newbie_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_newbie_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 32405,
+                  "user_badge_id": 234311589,
+                  "badge_name": "307 Beer Aficionado",
+                  "badge_description": "Thanks for your dedication to drinking at Taproom 307! Keep checking in to level up. Please show this to your bartender or server for a free 4oz shot of our Taproom House Lager!",
+                  "created_at": "Mon, 21 Aug 2017 04:40:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/50ff3c4e8a1c37211cbb9c02c3055ff5_sm.jpeg",
+                    "md": "https://untappd.akamaized.net/badges/50ff3c4e8a1c37211cbb9c02c3055ff5_md.jpeg",
+                    "lg": "https://untappd.akamaized.net/badges/50ff3c4e8a1c37211cbb9c02c3055ff5_lg.jpeg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 494254197,
+            "created_at": "Mon, 21 Aug 2017 03:19:49 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1451927,
+              "user_name": "ddebont",
+              "first_name": "dirk",
+              "last_name": "d.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/a243bd62f678971b1ce0c9527113be1b_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 307439,
+              "venue_name": "Story Tavern",
+              "venue_slug": "story-tavern",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "150 S San Fernando Blvd Ste 40",
+                "venue_city": "Burbank",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 34.1805,
+                "lng": -118.308
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://storytavernburbank.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4e87dc614901a74c4063b777",
+                "foursquare_url": "http://4sq.com/pNgXWF"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 1223105,
+                  "user": {
+                    "uid": 1223105,
+                    "user_name": "Bartt9",
+                    "first_name": "Bart",
+                    "last_name": "C.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/fa3d52058f29c3260177c16aaca48082_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 411555997,
+                  "like_owner": false,
+                  "created_at": "Mon, 21 Aug 2017 05:15:11 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 136114969,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_21/c91f67202804cba20001f2c955f8e1b7_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_21/c91f67202804cba20001f2c955f8e1b7_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_21/c91f67202804cba20001f2c955f8e1b7_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_21/c91f67202804cba20001f2c955f8e1b7_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 494244420,
+            "created_at": "Mon, 21 Aug 2017 02:38:47 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 4655,
+              "user_name": "growtiltall",
+              "first_name": "Allen ",
+              "last_name": "T.",
+              "location": "Baltimore",
+              "url": "http://tumblr.com/allenthomson",
+              "is_supporter": 0,
+              "bio": "I like to drink my beers warm. I like to take my pants off. I like a little ink on my girl",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/dbe0cf95da7cb00c0ba1a49946628a6b_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 20008,
+              "venue_name": "Tsunami",
+              "venue_slug": "tsunami",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Sushi Restaurant",
+                    "category_id": "4bf58dd8d48988d1d2941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "51 West St",
+                "venue_city": "Annapolis",
+                "venue_state": "MD",
+                "venue_country": "United States",
+                "lat": 38.9783,
+                "lng": -76.4954
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.kapowgroup.com/tsunami"
+              },
+              "foursquare": {
+                "foursquare_id": "45841859f964a520953f1fe3",
+                "foursquare_url": "http://4sq.com/aUztE0"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/sushi_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/sushi_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/sushi_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 414,
+                  "user_badge_id": 234251756,
+                  "badge_name": "Crisp as Day",
+                  "badge_description": "Light and crisp, a Pilsner is all you need to make your day great. Though, perhaps another one would make it even better. That’s 5 different Pilsners. Try 5 more to unlock Level 2",
+                  "created_at": "Mon, 21 Aug 2017 02:38:47 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_pilsner_lg.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_pilsner_lg.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_pilsner_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 494236672,
+            "created_at": "Mon, 21 Aug 2017 02:13:40 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 149201,
+              "user_name": "sleepydew",
+              "first_name": "Paul",
+              "last_name": "D.",
+              "location": "Chester Springs, PA",
+              "url": "http://facebook.com/paul.j.dewey",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/b872188880410da7ff9df7141658b146_thumb.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34713,
+                  "user_badge_id": 234229869,
+                  "badge_name": "Middle of the Road (Level 9)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 45 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 10!",
+                  "created_at": "Mon, 21 Aug 2017 02:13:41 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 494231627,
+            "created_at": "Mon, 21 Aug 2017 01:57:42 +0000",
+            "checkin_comment": "I don't like Pils. It's like a slightly better Miller lite.",
+            "rating_score": 1.75,
+            "user": {
+              "uid": 4682754,
+              "user_name": "BigChiefJosh",
+              "first_name": "Josh",
+              "last_name": "K.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/4bbe2fd254e1d061ed318d57a55f6649_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4686352,
+                  "user": {
+                    "uid": 4686352,
+                    "user_name": "Bri_guy13",
+                    "first_name": "Brian",
+                    "last_name": "E.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/63a8c6e7eb87bc8e6ed9d9292c118714_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 411526123,
+                  "like_owner": false,
+                  "created_at": "Mon, 21 Aug 2017 02:31:44 +0000"
+                },
+                {
+                  "uid": 1537539,
+                  "user": {
+                    "uid": 1537539,
+                    "user_name": "pvm0760",
+                    "first_name": "Paul",
+                    "last_name": "M.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/d77cf72973ad0308e8c703e244d86b11_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 411516490,
+                  "like_owner": false,
+                  "created_at": "Mon, 21 Aug 2017 02:00:10 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 136108557,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_08_21/2619ca58feb828af727683d8120c9f17_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_08_21/2619ca58feb828af727683d8120c9f17_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_08_21/2619ca58feb828af727683d8120c9f17_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_08_21/2619ca58feb828af727683d8120c9f17_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 5115,
+                  "user_badge_id": 234215782,
+                  "badge_name": "Wheel of Styles",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 5 different styles. Try 5 more for Level 2!",
+                  "created_at": "Mon, 21 Aug 2017 01:57:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34706,
+                  "user_badge_id": 234215783,
+                  "badge_name": "Middle of the Road (Level 2)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 10 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 3!",
+                  "created_at": "Mon, 21 Aug 2017 01:57:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 494209194,
+            "created_at": "Mon, 21 Aug 2017 01:03:46 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3485687,
+              "user_name": "b_mart21",
+              "first_name": "Brandon",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/792a6efe4a2fa76d5a8506c9524af005?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 76,
+                  "user_badge_id": 234151093,
+                  "badge_name": "Brewery Loyalist",
+                  "badge_description": "Some may call you picky, others narrow minded, but we call you loyal. Other breweries may try to tempt you, but you know what you like. Enjoy 10 beers from the same brewery in 30 days.",
+                  "created_at": "Mon, 21 Aug 2017 01:03:47 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_breweryLoyalist_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_breweryLoyalist_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_breweryLoyalist_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 494195382,
+            "created_at": "Mon, 21 Aug 2017 00:37:06 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 1315022,
+              "user_name": "irunforcraftbeer",
+              "first_name": "William",
+              "last_name": "J.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/7d4b9ff107538010fc69bbf97bf8126e_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 494180594,
+            "created_at": "Mon, 21 Aug 2017 00:08:26 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 4333149,
+              "user_name": "ecarrius",
+              "first_name": "Ed",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/c4e969e878b2547483943bb9365cd2cb?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 957569,
+              "venue_name": "Dunbarton, NH",
+              "venue_slug": "dunbarton-nh",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "City",
+                    "category_id": "50aa9e094b90af0d42d5de0d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "NH",
+                "venue_country": "United States",
+                "lat": 43.1033,
+                "lng": -71.6166
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4e5eaaf945dd21543f5801dd",
+                "foursquare_url": "http://4sq.com/qUQnMx"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 494178968,
+            "created_at": "Mon, 21 Aug 2017 00:05:16 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 3517638,
+              "user_name": "beans09",
+              "first_name": "Kim",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/106c2374eceea956c0ab9e8ed2792a5a?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4740685,
+              "venue_name": "Little Jack's Tavern",
+              "venue_slug": "little-jacks-tavern",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "710 King St",
+                "venue_city": "Charleston",
+                "venue_state": "SC",
+                "venue_country": "United States",
+                "lat": 32.7989,
+                "lng": -79.9466
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5712ed9d498eaadf3c061b2b",
+                "foursquare_url": "http://4sq.com/26822QD"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 494172332,
+            "created_at": "Sun, 20 Aug 2017 23:52:38 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 48602,
+              "user_name": "kingmatthew76",
+              "first_name": "matthew",
+              "last_name": "s.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/eb9411e299ed2697490886647d290717_thumb.JPG",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5285231,
+              "venue_name": "Media Dental Associates",
+              "venue_slug": "media-dental-associates",
+              "primary_category": "Professional & Other Places",
+              "parent_category_id": "4d4b7105d754a06375d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Dentist's Office",
+                    "category_id": "4bf58dd8d48988d178941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "PA",
+                "venue_country": "United States",
+                "lat": 39.9245,
+                "lng": -75.3754
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4bcc7145937ca5937e10ab92",
+                "foursquare_url": "http://4sq.com/fR3kSu"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/medical_dentist_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/medical_dentist_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/medical_dentist_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 494161524,
+            "created_at": "Sun, 20 Aug 2017 23:33:05 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 4397141,
+              "user_name": "mbraccoo",
+              "first_name": "Mike",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/031fcc6573ef63e84c1d31709b857246?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 494155163,
+            "created_at": "Sun, 20 Aug 2017 23:21:35 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 3420521,
+              "user_name": "courtryan",
+              "first_name": "Courtney",
+              "last_name": "R.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/6bc3e3cee0c5177868164a287a760a9a?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2017,
+                  "user_badge_id": 233989281,
+                  "badge_name": "Land of the Free  (Level 31)",
+                  "badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 155 different beers from a brewery in the United States. Try 5 more for Level 32.",
+                  "created_at": "Sun, 20 Aug 2017 23:21:35 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_america_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_america_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_america_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 494137222,
+            "created_at": "Sun, 20 Aug 2017 22:50:46 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2769792,
+              "user_name": "hamzahowe",
+              "first_name": "Tim",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/f6785ae988d3deac521019c4bc685be9_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 538795,
+              "venue_name": "Casper, WY",
+              "venue_slug": "casper-wy",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "City",
+                    "category_id": "50aa9e094b90af0d42d5de0d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "WY",
+                "venue_country": "United States",
+                "lat": 42.866,
+                "lng": -106.314
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.casperwy.gov"
+              },
+              "foursquare": {
+                "foursquare_id": "4c41ddbece54e21e56b20b1a",
+                "foursquare_url": "http://4sq.com/aOWeyd"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 418,
+                  "user_badge_id": 233937414,
+                  "badge_name": "Crisp as Day (Level 5)",
+                  "badge_description": "Light and crisp, a Pilsner is all you need to make your day great. Though, perhaps another one would make it even better. That’s 25 different Pilsners. Try 5 more to unlock Level 6.",
+                  "created_at": "Sun, 20 Aug 2017 22:50:47 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_pilsner_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_pilsner_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_pilsner_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 494121985,
+            "created_at": "Sun, 20 Aug 2017 22:24:57 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 200188,
+              "user_name": "ram8766",
+              "first_name": "Rick",
+              "last_name": "M.",
+              "location": "Pittsburgh",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Journalist, music/movie/tv/beer lover",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/feaf9b6bc4d22aed75e8e7a8760f84cc?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 155585,
+              "venue_name": "Mineo's Pizza",
+              "venue_slug": "mineos-pizza",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Pizza Place",
+                    "category_id": "4bf58dd8d48988d1ca941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "2128 Murray Ave",
+                "venue_city": "Pittsburgh",
+                "venue_state": "PA",
+                "venue_country": "United States",
+                "lat": 40.4329,
+                "lng": -79.9232
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.mineospizza.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4ad7c0ebf964a520600e21e3",
+                "foursquare_url": "http://4sq.com/4rxYud"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/pizza_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 494114039,
+            "created_at": "Sun, 20 Aug 2017 22:12:07 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 3546381,
+              "user_name": "gregonaroll",
+              "first_name": "Greg",
+              "last_name": "A.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/39ada4a7e40134a15b274a2243966512?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3820,
+              "beer_name": "Prima Pils",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3820_425c8_sm.jpeg",
+              "beer_abv": 5.3,
+              "beer_ibu": 0,
+              "beer_slug": "victory-brewing-company-prima-pils",
+              "beer_description": "Refreshingly bold and perfectly balanced, Prima has set the gold standard for pilsners since 1996 with its German and Czech Noble hops and German malt. \n\nLoads of earthy, herbal noble hop character with subtle malt complexity in the aroma. Flavor is very hop forward with ample bitterness. Balanced malt and clean fermentation. ",
+              "beer_style": "Pilsner - German",
+              "auth_rating": 0,
+              "wish_list": false,
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 1326,
+              "brewery_name": "Victory Brewing Company",
+              "brewery_slug": "victory-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1326_6ca88.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "VictoryBeer",
+                "facebook": "https://www.facebook.com/victorybeer",
+                "url": "http://victorybeer.com/"
+              },
+              "location": {
+                "brewery_city": "Downingtown",
+                "brewery_state": "PA",
+                "lat": 40.0061,
+                "lng": -75.6942
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3609,
+              "venue_name": "Victory Brewing Company",
+              "venue_slug": "victory-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "420 Acorn Ln",
+                "venue_city": "Downingtown",
+                "venue_state": "PA",
+                "venue_country": "United States",
+                "lat": 40.0046,
+                "lng": -75.694
+              },
+              "contact": {
+                "twitter": "@victorybeer",
+                "venue_url": "http://www.victorybeer.com/"
+              },
+              "foursquare": {
+                "foursquare_id": "4b19934cf964a520cddf23e3",
+                "foursquare_url": "http://4sq.com/6scnJb"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_3609_280200be_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_3609_280200be_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_3609_280200be_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 5582,
+                  "user_badge_id": 233867275,
+                  "badge_name": "Verified Adventure (Level 2)",
+                  "badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 10 check-ins at venue that is verified. Try 5 more for Level 3!",
+                  "created_at": "Sun, 20 Aug 2017 22:12:08 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 414,
+                  "user_badge_id": 233867280,
+                  "badge_name": "Crisp as Day",
+                  "badge_description": "Light and crisp, a Pilsner is all you need to make your day great. Though, perhaps another one would make it even better. That’s 5 different Pilsners. Try 5 more to unlock Level 2",
+                  "created_at": "Sun, 20 Aug 2017 22:12:08 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_pilsner_lg.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_pilsner_lg.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_pilsner_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/3820?min_id=494265422",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/3820?max_id=494114039",
+          "max_id": 494114039
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 2.40882,
+            "beer": {
+              "bid": 3811,
+              "beer_name": "Miller Lite",
+              "beer_abv": 4.17,
+              "beer_ibu": 10,
+              "beer_slug": "miller-brewing-company-miller-lite",
+              "beer_style": "Pilsner - Other",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3811_00614_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 863,
+              "brewery_name": "Miller Brewing Company",
+              "brewery_slug": "miller-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-millerBrewing.jpg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "MillerCoors",
+                "facebook": "http://www.facebook.com/MillerCoors",
+                "instagram": "",
+                "url": "http://www.millercoors.com"
+              },
+              "location": {
+                "brewery_city": "Milwaukee",
+                "brewery_state": "WI",
+                "lat": 43.0426,
+                "lng": -87.9628
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.20972,
+            "beer": {
+              "bid": 17252,
+              "beer_name": "Bitburger Premium Pils / Premium Beer",
+              "beer_abv": 4.8,
+              "beer_ibu": 38,
+              "beer_slug": "bitburger-braugruppe-bitburger-premium-pils-premium-beer",
+              "beer_style": "Pilsner - German",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-BitburgerPremiumPils_17252.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 131,
+              "brewery_name": "Bitburger Braugruppe",
+              "brewery_slug": "bitburger-braugruppe",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BitburgerBrauerei_131.jpeg",
+              "country_name": "Germany",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "instagram": "",
+                "url": "http://www.bitburger.de"
+              },
+              "location": {
+                "brewery_city": "Bitburg",
+                "brewery_state": "Rheinland-Pfalz",
+                "lat": 49.9748,
+                "lng": 6.52107
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.57324,
+            "beer": {
+              "bid": 2090808,
+              "beer_name": "Out of Office",
+              "beer_abv": 5,
+              "beer_ibu": 17,
+              "beer_slug": "10-barrel-brewing-co-out-of-office",
+              "beer_style": "Pilsner - Other",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2090808_22229_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3436,
+              "brewery_name": "10 Barrel Brewing Co.",
+              "brewery_slug": "10-barrel-brewing-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3436_62123.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "10BarrelBrewing",
+                "facebook": "http://www.facebook.com/10BarrelBrewingCompany",
+                "instagram": "10barrelbrewing",
+                "url": "http://www.10barrel.com/"
+              },
+              "location": {
+                "brewery_city": "Bend",
+                "brewery_state": "OR",
+                "lat": 44.0864,
+                "lng": -121.281
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.35428,
+            "beer": {
+              "bid": 37936,
+              "beer_name": "Pilsner Urquell",
+              "beer_abv": 4.4,
+              "beer_ibu": 40,
+              "beer_slug": "plzensky-prazdroj-pilsner-urquell",
+              "beer_style": "Pilsner - Czech",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-37936_ebe52_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1459,
+              "brewery_name": "Plzeňský Prazdroj",
+              "brewery_slug": "plzea-ska-1-2-prazdroj",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1459_c1a81.jpeg",
+              "country_name": "Czech Republic",
+              "contact": {
+                "twitter": "Prazdroj1",
+                "facebook": "https://www.facebook.com/plzen.prazdroj/",
+                "instagram": "pilsnerurquell",
+                "url": "http://www.prazdroj.cz"
+              },
+              "location": {
+                "brewery_city": "Plzeň",
+                "brewery_state": "",
+                "lat": 49.7466,
+                "lng": 13.3861
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.53366,
+            "beer": {
+              "bid": 1462897,
+              "beer_name": "Sound Czech Pils",
+              "beer_abv": 5.2,
+              "beer_ibu": 42,
+              "beer_slug": "terrapin-beer-co-sound-czech-pils",
+              "beer_style": "Pilsner - Czech",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1462897_fd97c_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1243,
+              "brewery_name": "Terrapin Beer Co. ",
+              "brewery_slug": "terrapin-beer-co",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1243_f9dda.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "TerrapinBeerCo",
+                "facebook": "http://www.facebook.com/terrapinbeerco",
+                "instagram": "terrapinbeerco",
+                "url": "http://terrapinbeer.com/"
+              },
+              "location": {
+                "brewery_city": "Athens",
+                "brewery_state": "GA",
+                "lat": 33.9804,
+                "lng": -83.3957
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.47235,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,3596 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.383,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0.006,
+      "measure": "seconds"
+    }
+  },
+  "notifications": {
+    "type": "notifications",
+    "unread_count": {
+      "comments": 0,
+      "toasts": 1,
+      "friends": 0,
+      "messages": 0,
+      "others": 0,
+      "news": 1
+    }
+  },
+  "response": {
+    "beer": {
+      "bid": 2100523,
+      "beer_name": "The Banshee",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+      "beer_label_hd": "https://untappd.akamaized.net/site/beer_logos_hd/beer-2100523_d04df_hd.jpeg",
+      "beer_abv": 4.6,
+      "beer_ibu": 0,
+      "beer_description": "",
+      "beer_style": "Schwarzbier",
+      "is_in_production": 1,
+      "beer_slug": "grifter-brewing-company-the-banshee",
+      "is_homebrew": 0,
+      "created_at": "Fri, 19 May 2017 05:40:35 +0000",
+      "rating_count": 25,
+      "rating_score": 3.63,
+      "stats": {
+        "total_count": 27,
+        "monthly_count": 27,
+        "total_user_count": 27,
+        "user_count": 1
+      },
+      "brewery": {
+        "brewery_id": 32845,
+        "brewery_name": "Grifter Brewing Company",
+        "brewery_slug": "grifter-brewing-company",
+        "brewery_type": "Micro Brewery",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "thegrifterbrew",
+          "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+          "url": "http://www.thegrifter.com.au"
+        },
+        "location": {
+          "brewery_city": "Sydney",
+          "brewery_state": "NSW",
+          "lat": -33.8688,
+          "lng": 151.209
+        }
+      },
+      "auth_rating": 3,
+      "wish_list": false,
+      "media": {
+        "count": 9,
+        "items": [
+          {
+            "photo_id": 123856632,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_27/971d9dce7ef57d633c3bbd6e56148b00_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_27/971d9dce7ef57d633c3bbd6e56148b00_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_27/971d9dce7ef57d633c3bbd6e56148b00_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_27/971d9dce7ef57d633c3bbd6e56148b00_raw.jpeg"
+            },
+            "created_at": "Sat, 27 May 2017 07:28:02 +0000",
+            "checkin_id": 457334172,
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 43,
+              "beer_style": "Schwarzbier",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.63,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3153021,
+              "user_name": "Strangebrew1967",
+              "first_name": "Shaun",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/b4128129cc94c9723000102a35fb5b4f_100x100.jpeg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 133016,
+                "venue_name": "The Scratch",
+                "venue_slug": "the-scratch",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Dive Bar",
+                      "category_id": "4bf58dd8d48988d118941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1 Park Rd.",
+                  "venue_city": "Milton",
+                  "venue_state": "QLD",
+                  "lat": -27.4699,
+                  "lng": 153.004
+                },
+                "contact": {
+                  "twitter": "@thescratchbar",
+                  "venue_url": "http://scratchbar.com"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "4ed736147ee53b380f813132",
+                  "foursquare_url": "http://4sq.com/s8V0ll"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 123855250,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_27/1e68f4763138f5e7d76b404434a7e7d5_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_27/1e68f4763138f5e7d76b404434a7e7d5_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_27/1e68f4763138f5e7d76b404434a7e7d5_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_27/1e68f4763138f5e7d76b404434a7e7d5_raw.jpeg"
+            },
+            "created_at": "Sat, 27 May 2017 06:31:26 +0000",
+            "checkin_id": 457329265,
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 43,
+              "beer_style": "Schwarzbier",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.63,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 238360,
+              "user_name": "adam.mccosh.7",
+              "first_name": "Adam",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/36bf043cfc0f8cb136b3197f06592fcf_100x100.jpeg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 133016,
+                "venue_name": "The Scratch",
+                "venue_slug": "the-scratch",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Dive Bar",
+                      "category_id": "4bf58dd8d48988d118941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1 Park Rd.",
+                  "venue_city": "Milton",
+                  "venue_state": "QLD",
+                  "lat": -27.4699,
+                  "lng": 153.004
+                },
+                "contact": {
+                  "twitter": "@thescratchbar",
+                  "venue_url": "http://scratchbar.com"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "4ed736147ee53b380f813132",
+                  "foursquare_url": "http://4sq.com/s8V0ll"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 123649510,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_26/b40ba01b8500edbdf4147df227d232b8_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_26/b40ba01b8500edbdf4147df227d232b8_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_26/b40ba01b8500edbdf4147df227d232b8_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_26/b40ba01b8500edbdf4147df227d232b8_raw.jpeg"
+            },
+            "created_at": "Fri, 26 May 2017 02:27:05 +0000",
+            "checkin_id": 456705625,
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 43,
+              "beer_style": "Schwarzbier",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.63,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 914136,
+              "user_name": "Seanathonbyrne",
+              "first_name": "Sean",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/e9fd3ac4463cc4803329b15e887248b7_100x100.jpeg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 123054825,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_20/bd337417a19b46fb6e934534c9939f39_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_20/bd337417a19b46fb6e934534c9939f39_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_20/bd337417a19b46fb6e934534c9939f39_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_20/bd337417a19b46fb6e934534c9939f39_raw.jpg"
+            },
+            "created_at": "Sat, 20 May 2017 23:27:17 +0000",
+            "checkin_id": 454901083,
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 43,
+              "beer_style": "Schwarzbier",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.63,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4331458,
+              "user_name": "debepenn",
+              "first_name": "Debe",
+              "last_name": "P",
+              "user_avatar": "https://untappd.akamaized.net/profile/b0bb72b6372a2a80e3c4eab909e02e1e_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4004524,
+                "venue_name": "Grifter Brewing Company",
+                "venue_slug": "grifter-brewing-company",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1/391 Enmore Rd",
+                  "venue_city": "marrickville",
+                  "venue_state": "NSW",
+                  "lat": -33.9048,
+                  "lng": 151.168
+                },
+                "contact": {
+                  "twitter": "@thegrifterbrew",
+                  "venue_url": "http://thegrifter.com.au"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "56677aec498ef770068567eb",
+                  "foursquare_url": "http://4sq.com/1RD99tP"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 122885703,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_20/5c22f7a649480cd4cb7ee5c085da52a0_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_20/5c22f7a649480cd4cb7ee5c085da52a0_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_20/5c22f7a649480cd4cb7ee5c085da52a0_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_20/5c22f7a649480cd4cb7ee5c085da52a0_raw.jpeg"
+            },
+            "created_at": "Sat, 20 May 2017 06:53:30 +0000",
+            "checkin_id": 454384597,
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 43,
+              "beer_style": "Schwarzbier",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.63,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4331467,
+              "user_name": "dunkthedrunk",
+              "first_name": "Duncan",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/76906731f031eaf280d9dbffd0316a56_100x100.jpeg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 122885671,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_20/fa9901524b279fbf27ed5a0ad4100e36_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_20/fa9901524b279fbf27ed5a0ad4100e36_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_20/fa9901524b279fbf27ed5a0ad4100e36_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_20/fa9901524b279fbf27ed5a0ad4100e36_raw.jpg"
+            },
+            "created_at": "Sat, 20 May 2017 06:52:33 +0000",
+            "checkin_id": 454384494,
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 43,
+              "beer_style": "Schwarzbier",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.63,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3253355,
+              "user_name": "sbszine",
+              "first_name": "Phil",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/47e8369636707495654a59fc6e98ff1f_100x100.jpg",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4004524,
+                "venue_name": "Grifter Brewing Company",
+                "venue_slug": "grifter-brewing-company",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1/391 Enmore Rd",
+                  "venue_city": "marrickville",
+                  "venue_state": "NSW",
+                  "lat": -33.9048,
+                  "lng": 151.168
+                },
+                "contact": {
+                  "twitter": "@thegrifterbrew",
+                  "venue_url": "http://thegrifter.com.au"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "56677aec498ef770068567eb",
+                  "foursquare_url": "http://4sq.com/1RD99tP"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 122878876,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_20/e8daf463b99a04256c9266078c118477_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_20/e8daf463b99a04256c9266078c118477_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_20/e8daf463b99a04256c9266078c118477_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_20/e8daf463b99a04256c9266078c118477_raw.jpg"
+            },
+            "created_at": "Sat, 20 May 2017 04:28:36 +0000",
+            "checkin_id": 454358667,
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 43,
+              "beer_style": "Schwarzbier",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.63,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "relationship": "friends",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 941644,
+                "venue_name": "The Henson",
+                "venue_slug": "the-henson",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "91 Illawarra Rd.",
+                  "venue_city": "Marrickville",
+                  "venue_state": "NSW",
+                  "lat": -33.9052,
+                  "lng": 151.161
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.thehenson.com.au"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "51ea6a435019f55eb83ab339",
+                  "foursquare_url": "http://4sq.com/12V8mH6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 122877877,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_20/7f64986343c17b36de8d756a23ec86ba_100x100.JPG",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_20/7f64986343c17b36de8d756a23ec86ba_320x320.JPG",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_20/7f64986343c17b36de8d756a23ec86ba_640x640.JPG",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_20/7f64986343c17b36de8d756a23ec86ba_raw.JPG"
+            },
+            "created_at": "Sat, 20 May 2017 04:16:24 +0000",
+            "checkin_id": 454354606,
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 43,
+              "beer_style": "Schwarzbier",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.63,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2288212,
+              "user_name": "sionide",
+              "first_name": "Simon",
+              "last_name": "",
+              "user_avatar": "https://gravatar.com/avatar/98744bb068e0056586f971caeb9b6b18?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 941644,
+                "venue_name": "The Henson",
+                "venue_slug": "the-henson",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "91 Illawarra Rd.",
+                  "venue_city": "Marrickville",
+                  "venue_state": "NSW",
+                  "lat": -33.9052,
+                  "lng": 151.161
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.thehenson.com.au"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "51ea6a435019f55eb83ab339",
+                  "foursquare_url": "http://4sq.com/12V8mH6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 122719513,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_19/6b8c3be052ee92584d7e9fa8653c780e_100x100.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_19/6b8c3be052ee92584d7e9fa8653c780e_320x320.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_19/6b8c3be052ee92584d7e9fa8653c780e_640x640.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_19/6b8c3be052ee92584d7e9fa8653c780e_raw.jpg"
+            },
+            "created_at": "Fri, 19 May 2017 14:51:53 +0000",
+            "checkin_id": 453870689,
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 43,
+              "beer_style": "Schwarzbier",
+              "auth_rating": 0,
+              "wish_list": false,
+              "rating_score": 3.63,
+              "rating_count": 25,
+              "count": 25,
+              "beer_active": 1,
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3378259,
+              "user_name": "SimonMDay",
+              "first_name": "Simon",
+              "last_name": "D",
+              "user_avatar": "https://untappd.akamaized.net/profile/7c6e7eebee5c079b3dc9b1b7d86b71d3_100x100.JPG",
+              "relationship": "none",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 35006,
+                "venue_name": "Rainbow Hotel",
+                "venue_slug": "rainbow-hotel",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Music Venue",
+                      "category_id": "4bf58dd8d48988d1e5931735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "27 St David St",
+                  "venue_city": "Melbourne",
+                  "venue_state": "VIC",
+                  "lat": -37.8006,
+                  "lng": 144.979
+                },
+                "contact": {
+                  "twitter": "@rainbow_fitzroy",
+                  "venue_url": "http://therainbow.com.au"
+                },
+                "private_venue": true,
+                "foursquare": {
+                  "foursquare_id": "4ba5a240f964a5203f1839e3",
+                  "foursquare_url": "http://4sq.com/ay6rh3"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 457334172,
+            "created_at": "Sat, 27 May 2017 07:27:55 +0000",
+            "checkin_comment": "Dark robust roasted malt and chocolate taste with a mild smoky finish.   You dont realise this is a lager.  A very fine drop indeed",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 3153021,
+              "user_name": "Strangebrew1967",
+              "first_name": "Shaun",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/b4128129cc94c9723000102a35fb5b4f_100x100.jpeg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10209355432353574"
+              }
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 133016,
+              "venue_name": "The Scratch",
+              "venue_slug": "the-scratch",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Dive Bar",
+                    "category_id": "4bf58dd8d48988d118941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1 Park Rd.",
+                "venue_city": "Milton",
+                "venue_state": "QLD",
+                "venue_country": "Australia",
+                "lat": -27.4699,
+                "lng": 153.004
+              },
+              "contact": {
+                "twitter": "@thescratchbar",
+                "venue_url": "http://scratchbar.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4ed736147ee53b380f813132",
+                "foursquare_url": "http://4sq.com/s8V0ll"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 123856632,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_27/971d9dce7ef57d633c3bbd6e56148b00_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_27/971d9dce7ef57d633c3bbd6e56148b00_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_27/971d9dce7ef57d633c3bbd6e56148b00_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_27/971d9dce7ef57d633c3bbd6e56148b00_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5979,
+                  "user_badge_id": 194269361,
+                  "badge_name": "Riding Steady (Level 17)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 85 different beers with an ABV of 5% and lower. Try 5 more for Level 18!",
+                  "created_at": "Sat, 27 May 2017 07:27:56 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 457329265,
+            "created_at": "Sat, 27 May 2017 06:31:20 +0000",
+            "checkin_comment": "Very nice schwartzbier",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 238360,
+              "user_name": "adam.mccosh.7",
+              "first_name": "Adam",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/36bf043cfc0f8cb136b3197f06592fcf_100x100.jpeg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "1524130916"
+              }
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 133016,
+              "venue_name": "The Scratch",
+              "venue_slug": "the-scratch",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Dive Bar",
+                    "category_id": "4bf58dd8d48988d118941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1 Park Rd.",
+                "venue_city": "Milton",
+                "venue_state": "QLD",
+                "venue_country": "Australia",
+                "lat": -27.4699,
+                "lng": 153.004
+              },
+              "contact": {
+                "twitter": "@thescratchbar",
+                "venue_url": "http://scratchbar.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4ed736147ee53b380f813132",
+                "foursquare_url": "http://4sq.com/s8V0ll"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 3,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 1812073,
+                  "user": {
+                    "uid": 1812073,
+                    "user_name": "Would-he",
+                    "first_name": "Alex",
+                    "last_name": "W.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://gravatar.com/avatar/903bc8de566e07dbdf300814a2ff4900?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 377824036,
+                  "like_owner": false,
+                  "created_at": "Sat, 27 May 2017 07:04:11 +0000"
+                },
+                {
+                  "uid": 4148547,
+                  "user": {
+                    "uid": 4148547,
+                    "user_name": "N3moh",
+                    "first_name": "Ian",
+                    "last_name": "L.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https://untappd.akamaized.net/profile/8864469b964b3cba71e56de1e2129cd5_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 377823822,
+                  "like_owner": false,
+                  "created_at": "Sat, 27 May 2017 07:02:47 +0000"
+                },
+                {
+                  "uid": 1698792,
+                  "user": {
+                    "uid": 1698792,
+                    "user_name": "beer2man",
+                    "first_name": "jason",
+                    "last_name": "h.",
+                    "bio": "I like beers.",
+                    "location": "Brisbane, Australia.",
+                    "user_avatar": "https://untappd.akamaized.net/profile/79c075e10b75fcff4c5380fe4a2cd87c_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 377822174,
+                  "like_owner": false,
+                  "created_at": "Sat, 27 May 2017 06:50:59 +0000"
+                }
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 123855250,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_27/1e68f4763138f5e7d76b404434a7e7d5_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_27/1e68f4763138f5e7d76b404434a7e7d5_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_27/1e68f4763138f5e7d76b404434a7e7d5_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_27/1e68f4763138f5e7d76b404434a7e7d5_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5972,
+                  "user_badge_id": 194266952,
+                  "badge_name": "Riding Steady (Level 10)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 50 different beers with an ABV of 5% and lower. Try 5 more for Level 11!",
+                  "created_at": "Sat, 27 May 2017 06:31:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "container_id": 3,
+              "container_image_url": "https://untappd.akamaized.net/static_app_assets/draft@3x.png",
+              "container_name": "Draft"
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456790277,
+            "created_at": "Fri, 26 May 2017 14:05:56 +0000",
+            "checkin_comment": "",
+            "rating_score": 5,
+            "user": {
+              "uid": 2447823,
+              "user_name": "Wolfeman55",
+              "first_name": "Robert",
+              "last_name": "W.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/00f0a60a17254eb8e48df3f85e00de32?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456765641,
+            "created_at": "Fri, 26 May 2017 10:43:25 +0000",
+            "checkin_comment": "It's a dark lager",
+            "rating_score": 3,
+            "user": {
+              "uid": 2421222,
+              "user_name": "JOYALXR",
+              "first_name": "J-Lo",
+              "last_name": "",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/4bd330126a55df2373d908af743a8c29_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10152895636836332"
+              }
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 17058,
+              "venue_name": "Union Hotel Newtown ",
+              "venue_slug": "the-union-hotel",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "576 Kings Street",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.904,
+                "lng": 151.18
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.unionnewtown.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4b2f3617f964a5203cea24e3",
+                "foursquare_url": "http://4sq.com/bADXTw"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5986,
+                  "user_badge_id": 193965059,
+                  "badge_name": "Riding Steady (Level 24)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 120 different beers with an ABV of 5% and lower. Try 5 more for Level 25!",
+                  "created_at": "Fri, 26 May 2017 10:43:26 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456760358,
+            "created_at": "Fri, 26 May 2017 09:17:38 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1914034,
+              "user_name": "nathanbelgrove",
+              "first_name": "Nathan",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/fa2e23522a0f16ebd6d172435d348154?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": {
+                "facebook": "100001953783848"
+              }
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 133016,
+              "venue_name": "The Scratch",
+              "venue_slug": "the-scratch",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Dive Bar",
+                    "category_id": "4bf58dd8d48988d118941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1 Park Rd.",
+                "venue_city": "Milton",
+                "venue_state": "QLD",
+                "venue_country": "Australia",
+                "lat": -27.4699,
+                "lng": 153.004
+              },
+              "contact": {
+                "twitter": "@thescratchbar",
+                "venue_url": "http://scratchbar.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4ed736147ee53b380f813132",
+                "foursquare_url": "http://4sq.com/s8V0ll"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5636,
+                  "user_badge_id": 193961851,
+                  "badge_name": "Wheel of Styles (Level 7)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 35 different styles. Try 5 more for Level 8!",
+                  "created_at": "Fri, 26 May 2017 09:17:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456753727,
+            "created_at": "Fri, 26 May 2017 06:46:08 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 1466093,
+              "user_name": "Gordeauz",
+              "first_name": "Tom",
+              "last_name": "G.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/2df90cb6606dc8b7a3556647cc2c85e0_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10156072815730447"
+              }
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4004524,
+              "venue_name": "Grifter Brewing Company",
+              "venue_slug": "grifter-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1/391 Enmore Rd",
+                "venue_city": "marrickville",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9048,
+                "lng": 151.168
+              },
+              "contact": {
+                "twitter": "@thegrifterbrew",
+                "venue_url": "http://thegrifter.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "56677aec498ef770068567eb",
+                "foursquare_url": "http://4sq.com/1RD99tP"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 613,
+                  "user_badge_id": 193958279,
+                  "badge_name": "Brew Traveler (Level 2)",
+                  "badge_description": "You're exploring this great country the best way possible, one delicious beer at a time! That's one beer while in at least 10 states or countries. Visit 5 more for Level 3!",
+                  "created_at": "Fri, 26 May 2017 06:46:08 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_traveller_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_traveller_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_traveller_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2435,
+                  "user_badge_id": 193958280,
+                  "badge_name": "Down Under  (Level 49)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 245 different beers from Australia. Try 5 more for Level 50.",
+                  "created_at": "Fri, 26 May 2017 06:46:09 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456706837,
+            "created_at": "Fri, 26 May 2017 02:29:03 +0000",
+            "checkin_comment": "Incredible",
+            "rating_score": 5,
+            "user": {
+              "uid": 1809317,
+              "user_name": "colinflem",
+              "first_name": "Colin",
+              "last_name": "F.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/205134fe53bbdcc3566c66a150867cd5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 69004,
+              "venue_name": "Somerville, MA",
+              "venue_slug": "somerville-ma",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "City",
+                    "category_id": "50aa9e094b90af0d42d5de0d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "MA",
+                "venue_country": "United States",
+                "lat": 42.3883,
+                "lng": -71.0943
+              },
+              "contact": {
+                "twitter": "@somervillecity",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4d4eb9438af6721ef5371388",
+                "foursquare_url": "http://4sq.com/gEMRM7"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3790,
+                  "user_badge_id": 193934125,
+                  "badge_name": "Bar Explorer (Level 8)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 40 distinct venues!",
+                  "created_at": "Fri, 26 May 2017 02:29:03 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456705810,
+            "created_at": "Fri, 26 May 2017 02:26:45 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 917933,
+              "user_name": "SoCrispin",
+              "first_name": "Andrew",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/3b4eb36fdcf51ee8512855c956b8061b?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5967,
+                  "user_badge_id": 193933574,
+                  "badge_name": "Riding Steady (Level 5)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 25 different beers with an ABV of 5% and lower. Try 5 more for Level 6!",
+                  "created_at": "Fri, 26 May 2017 02:26:46 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456705625,
+            "created_at": "Fri, 26 May 2017 02:26:19 +0000",
+            "checkin_comment": "Smooth and from 'straya",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 914136,
+              "user_name": "Seanathonbyrne",
+              "first_name": "Sean",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/e9fd3ac4463cc4803329b15e887248b7_100x100.jpeg",
+              "is_private": 0,
+              "contact": {
+                "twitter": "seanathonbyrne",
+                "facebook": "1502649565"
+              }
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 123649510,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_26/b40ba01b8500edbdf4147df227d232b8_100x100.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_26/b40ba01b8500edbdf4147df227d232b8_320x320.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_26/b40ba01b8500edbdf4147df227d232b8_640x640.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_26/b40ba01b8500edbdf4147df227d232b8_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456379862,
+            "created_at": "Thu, 25 May 2017 10:52:06 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 64278,
+              "user_name": "Aramgutang",
+              "first_name": "Aram",
+              "last_name": "D.",
+              "location": "Sydney, Australia",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "I write code.",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/cd422ca7a602b283370d8a285db7f8a0?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": {
+                "twitter": "Aramgutang",
+                "foursquare": "1493078"
+              }
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 17058,
+              "venue_name": "Union Hotel Newtown ",
+              "venue_slug": "the-union-hotel",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "576 Kings Street",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.904,
+                "lng": 151.18
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.unionnewtown.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4b2f3617f964a5203cea24e3",
+                "foursquare_url": "http://4sq.com/bADXTw"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 522,
+                  "user_badge_id": 193739710,
+                  "badge_name": "Down Under (Level 5)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 25 different beers from Australia. Try 5 more for Level 6.",
+                  "created_at": "Thu, 25 May 2017 10:52:06 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456372442,
+            "created_at": "Thu, 25 May 2017 08:47:21 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 841084,
+              "user_name": "sherisherblue",
+              "first_name": "Sheridan",
+              "last_name": "P.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/c356ce9818237cfb4956c4d492307669?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 17058,
+              "venue_name": "Union Hotel Newtown ",
+              "venue_slug": "the-union-hotel",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "576 Kings Street",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.904,
+                "lng": 151.18
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.unionnewtown.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4b2f3617f964a5203cea24e3",
+                "foursquare_url": "http://4sq.com/bADXTw"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 2649,
+                  "user_badge_id": 193735193,
+                  "badge_name": "New Brew Thursday  (Level 23)",
+                  "badge_description": "It's New Brew Thursday! Drink a new beer on three Thursdays in a 30 day period! Find out how <a href=\"http://newbrewthursday.com\" rel=\"link-out\">New Brew Thursday</a> was started, and catch up on old episodes.",
+                  "created_at": "Thu, 25 May 2017 08:47:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_nbt_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_nbt_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_nbt_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5589,
+                  "user_badge_id": 193735202,
+                  "badge_name": "Verified Adventure (Level 9)",
+                  "badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 45 check-ins at venue that is verified. Try 5 more for Level 10!",
+                  "created_at": "Thu, 25 May 2017 08:47:22 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "container_id": 3,
+              "container_image_url": "https://untappd.akamaized.net/static_app_assets/draft@3x.png",
+              "container_name": "Draft"
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456372117,
+            "created_at": "Thu, 25 May 2017 08:39:02 +0000",
+            "checkin_comment": "Pretty good! Not screaming about my death though",
+            "rating_score": 3,
+            "user": {
+              "uid": 836587,
+              "user_name": "Mechanomancy",
+              "first_name": "Richard",
+              "last_name": "",
+              "location": "Sydney, Australia",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/e9d04454eb12626c93270c362cc86653_thumb.jpeg",
+              "is_private": 0,
+              "contact": {
+                "twitter": "Mechanomancy"
+              }
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 2669,
+                  "user_badge_id": 193734991,
+                  "badge_name": "New Brew Thursday  (Level 43)",
+                  "badge_description": "It's New Brew Thursday! Drink a new beer on three Thursdays in a 30 day period! Find out how <a href=\"http://newbrewthursday.com\" rel=\"link-out\">New Brew Thursday</a> was started, and catch up on old episodes.",
+                  "created_at": "Thu, 25 May 2017 08:39:02 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_nbt_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_nbt_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_nbt_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5982,
+                  "user_badge_id": 193734992,
+                  "badge_name": "Riding Steady (Level 20)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 100 different beers with an ABV of 5% and lower. Try 5 more for Level 21!",
+                  "created_at": "Thu, 25 May 2017 08:39:03 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 456067550,
+            "created_at": "Wed, 24 May 2017 13:44:57 +0000",
+            "checkin_comment": "Decent schwarzbier",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 3654169,
+              "user_name": "Katiloebach",
+              "first_name": "Kati",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/ec4e751fe66ef52037446763d40433a6_100x100.jpg",
+              "is_private": 0,
+              "contact": {
+                "facebook": "10206210355687408"
+              }
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 23013,
+              "venue_name": "The Cricketers Arms Hotel",
+              "venue_slug": "the-cricketers-arms-hotel",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "106 Fitzroy St",
+                "venue_city": "Surry Hills",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8857,
+                "lng": 151.217
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.cricketersarmshotel.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4b09f81df964a520932023e3",
+                "foursquare_url": "http://4sq.com/9uVLx0"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 454901083,
+            "created_at": "Sat, 20 May 2017 23:26:43 +0000",
+            "checkin_comment": "Easy drinking enough but could do with a bit more depth.",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 4331458,
+              "user_name": "debepenn",
+              "first_name": "Debe",
+              "last_name": "P.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://untappd.akamaized.net/profile/b0bb72b6372a2a80e3c4eab909e02e1e_100x100.jpg",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4004524,
+              "venue_name": "Grifter Brewing Company",
+              "venue_slug": "grifter-brewing-company",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1/391 Enmore Rd",
+                "venue_city": "marrickville",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9048,
+                "lng": 151.168
+              },
+              "contact": {
+                "twitter": "@thegrifterbrew",
+                "venue_url": "http://thegrifter.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "56677aec498ef770068567eb",
+                "foursquare_url": "http://4sq.com/1RD99tP"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": false,
+              "items": [
+                {
+                  "uid": 3253355,
+                  "user": {
+                    "uid": 3253355,
+                    "user_name": "sbszine",
+                    "first_name": "Phil",
+                    "last_name": "",
+                    "bio": "Inner West brewery enthusiast and bon vivant. Currently favouring boozy grapefruity IIPAs.",
+                    "location": "Sydney",
+                    "user_avatar": "https://untappd.akamaized.net/profile/47e8369636707495654a59fc6e98ff1f_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 375459663,
+                  "like_owner": false,
+                  "created_at": "Sat, 20 May 2017 23:45:04 +0000"
+                }
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 123054825,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_20/bd337417a19b46fb6e934534c9939f39_100x100.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2017_05_20/bd337417a19b46fb6e934534c9939f39_320x320.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_20/bd337417a19b46fb6e934534c9939f39_640x640.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2017_05_20/bd337417a19b46fb6e934534c9939f39_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "container_id": 3,
+              "container_image_url": "https://untappd.akamaized.net/static_app_assets/draft@3x.png",
+              "container_name": "Draft"
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 454392450,
+            "created_at": "Sat, 20 May 2017 08:41:00 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 599223,
+              "user_name": "Chalabain",
+              "first_name": "A",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": "none",
+              "user_avatar": "https://gravatar.com/avatar/0be44367be3ea67e99a096d91d7feaa2?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+              "is_private": 0,
+              "contact": [
+
+              ]
+            },
+            "beer": {
+              "bid": 2100523,
+              "beer_name": "The Banshee",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100523_1b43f_sm.jpeg",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "grifter-brewing-company-the-banshee",
+              "beer_description": "",
+              "beer_style": "Schwarzbier",
+              "auth_rating": 3,
+              "wish_list": false,
+              "has_had": true,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 32845,
+              "brewery_name": "Grifter Brewing Company",
+              "brewery_slug": "grifter-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-32845_07a8e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thegrifterbrew",
+                "facebook": "http://www.facebook.com/TheGrifterBrewingCompany",
+                "url": "http://www.thegrifter.com.au"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8688,
+                "lng": 151.209
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 941644,
+              "venue_name": "The Henson",
+              "venue_slug": "the-henson",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "91 Illawarra Rd.",
+                "venue_city": "Marrickville",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9052,
+                "lng": 151.161
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.thehenson.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "51ea6a435019f55eb83ab339",
+                "foursquare_url": "http://4sq.com/12V8mH6"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ],
+              "custom_icon": false,
+              "custom_active_icon": false
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "entities": [
+
+            ],
+            "flavor_profile": [
+
+            ],
+            "retail_venue": [
+
+            ],
+            "serving_types": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "friend_tags": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "http://api.untappd.com/v4/beer/checkins/2100523?min_id=457334172",
+          "next_url": "http://api.untappd.com/v4/beer/checkins/2100523?max_id=454392450",
+          "max_id": 454392450
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.35417,
+            "beer": {
+              "bid": 861459,
+              "beer_name": "Nick Koukarakis/David Sawyer/The Livery Barrel Aged Sojourner",
+              "beer_abv": 9.8,
+              "beer_ibu": 50,
+              "beer_slug": "the-livery-nick-koukarakis-david-sawyer-the-livery-barrel-aged-sojourner",
+              "beer_style": "Schwarzbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 1250,
+              "brewery_name": "The Livery",
+              "brewery_slug": "the-livery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-TheLivery_1250.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "liverybrew",
+                "facebook": "https://www.facebook.com/liverymicrobrewery",
+                "instagram": "liverybrew",
+                "url": "http://liverybrew.com"
+              },
+              "location": {
+                "brewery_city": "Benton Harbor",
+                "brewery_state": "MI",
+                "lat": 42.1181,
+                "lng": -86.4536
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.325,
+            "beer": {
+              "bid": 1666913,
+              "beer_name": "General Schwartztoff",
+              "beer_abv": 4.8,
+              "beer_ibu": 12,
+              "beer_slug": "tin-man-brewing-company-general-schwartztoff",
+              "beer_style": "Schwarzbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 23813,
+              "brewery_name": "Tin Man Brewing Company",
+              "brewery_slug": "tin-man-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-TinManBrewingCompany_23813.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "tinmanbrewing",
+                "facebook": "http://www.facebook.com/tinmanbrewing",
+                "instagram": "tinmanbrewing",
+                "url": "http://www.tinmanbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Evansville",
+                "brewery_state": "IN",
+                "lat": 37.98,
+                "lng": -87.5854
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.21667,
+            "beer": {
+              "bid": 1701740,
+              "beer_name": "Gaslight Black Lager (w/ Coffee)",
+              "beer_abv": 5.2,
+              "beer_ibu": 0,
+              "beer_slug": "keg-and-lantern-brewing-company-gaslight-black-lager-w-coffee",
+              "beer_style": "Schwarzbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 153284,
+              "brewery_name": "Keg & Lantern Brewing Company",
+              "brewery_slug": "keg-lantern-brewing-company",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-153284_f03f1.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "kegandlantern",
+                "facebook": "https://www.facebook.com/thekegandlantern",
+                "instagram": "kegandlantern",
+                "url": "http://www.kegandlanternbrooklyn.com/"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7241,
+                "lng": -73.9504
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.16071,
+            "beer": {
+              "bid": 1712927,
+              "beer_name": "Dark & Dusty Schwarzbier",
+              "beer_abv": 5.2,
+              "beer_ibu": 23,
+              "beer_slug": "green-dragon-brew-crew-dark-and-dusty-schwarzbier",
+              "beer_style": "Schwarzbier",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1712927_201cb_sm.jpeg",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56055,
+              "brewery_name": "Green Dragon Brewing",
+              "brewery_slug": "green-dragon-brew-crew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-56055_e68a5.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "GDBrewcrew",
+                "facebook": "http://www.facebook.com/PDXGREENDRAGON",
+                "instagram": "greendragonbrewcrew",
+                "url": "http://www.pdxgreendragon.com"
+              },
+              "location": {
+                "brewery_city": "Portland",
+                "brewery_state": "OR",
+                "lat": 45.5159,
+                "lng": -122.657
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.1375,
+            "beer": {
+              "bid": 678497,
+              "beer_name": "Nobody's Darlin",
+              "beer_abv": 7.7,
+              "beer_ibu": 47,
+              "beer_slug": "great-raft-brewing-nobody-s-darlin",
+              "beer_style": "Schwarzbier",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 42968,
+              "brewery_name": "Great Raft Brewing",
+              "brewery_slug": "great-raft-brewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-GreatRaftBrewing_42968.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "instagram": "greatraftbeer",
+                "url": "http://www.greatraftbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Shreveport",
+                "brewery_state": "LA",
+                "lat": 32.4886,
+                "lng": -93.7562
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "weighted_rating_score": 3.64959,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "subscribe_status": {
+        "is_subscribed": 0
+      }
+    }
+  }
+}

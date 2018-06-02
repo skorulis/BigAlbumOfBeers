@@ -9,7 +9,7 @@ brewery: "BlackFont Brewhouse"
 breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "Kölsch"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/12745536_10153890419543745_6014336509869834605_n.jpg?oh=9d6c8bbd9af1a2f9930ec6bdb96502f9&oe=5B3EBA35
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/12745536_10153890419543745_6014336509869834605_n.jpg?_nc_cat=0&oh=213491ac7ebe6bf89302bfdbb5ca24f7&oe=5BB56135
 beer-date: "2016-02-14"
 desc: "I love a good kolsch. So easy drinking but without being flavourless"
 permalink: /beer/:title.html

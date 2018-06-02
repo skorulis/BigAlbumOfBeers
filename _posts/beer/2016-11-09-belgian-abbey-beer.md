@@ -9,7 +9,7 @@ brewery: "Brasserie du Bocq"
 breweryURL: "/brewery/brasserie-du-bocq.html"
 style: "Belgian Tripel"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/424785_10151368077728745_484320810_n.jpg?oh=c3b4050d13202713159aafa37915aaed&oe=5B035A7F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/424785_10151368077728745_484320810_n.jpg?_nc_cat=0&oh=bebc812ef99c76d3428b38a461d255b0&oe=5B7A017F
 beer-date: "2012-12-09"
 desc: "Cool bottle. Terrible taste"
 permalink: /beer/:title.html

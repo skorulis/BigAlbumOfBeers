@@ -9,7 +9,7 @@ brewery: "Tortured Gum"
 breweryURL: "/brewery/tortured-gum.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717222_10153890415308745_1813544797541172385_n.jpg?oh=39fd72b1de2084b363a9fa8d35fd3872&oe=5B4C5000
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717222_10153890415308745_1813544797541172385_n.jpg?_nc_cat=0&oh=5638b4a4158a546184ebf2ca1de73afa&oe=5BC2F700
 beer-date: "2016-02-14"
 desc: "A little tangy for a pale but still nice. Though on further tasting I've found some bottles to be a little bit too tangy and tastes more like an imperfection than a feature"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Red Ale - Imperial / Double"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10478660_10153966656973745_8240271036615712554_n.jpg?oh=a2eb654fb713f144864fba4ff7d4d6dd&oe=5B0494E0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10478660_10153966656973745_8240271036615712554_n.jpg?_nc_cat=0&oh=19a00ad76dd5ab2017387c15f38668be&oe=5B7B3BE0
 beer-date: "2016-03-16"
 desc: "So thick coming out of bottle. The initial taste is bitter but behind that is a strong and sweet flavour that while not what I normally go for is still really nice"
 permalink: /beer/:title.html

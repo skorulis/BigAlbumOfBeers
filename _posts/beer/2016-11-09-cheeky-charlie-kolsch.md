@@ -9,7 +9,7 @@ brewery: "3 Pub Circus"
 breweryURL: "/brewery/3-pub-circus.html"
 style: "Kölsch"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509088_10153811619033745_702562891235220957_n.jpg?oh=9303f76610032af3db97768611697546&oe=5B38FFAF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509088_10153811619033745_702562891235220957_n.jpg?_nc_cat=0&oh=5e0e42aec86956d94786b50da31dd348&oe=5B8819AF
 beer-date: "2016-01-07"
 desc: "Really well balanced but a little lacking in flavour"
 permalink: /beer/:title.html

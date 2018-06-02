@@ -9,7 +9,7 @@ brewery: "Hahn Brewing Co. Pty Ltd"
 breweryURL: "/brewery/hahn-brewing-co-pty-ltd.html"
 style: "Lager - North American Adjunct"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11214280_10153438037523745_4286815657184147844_n.jpg?oh=4e2560f97e8e5078197ee31a608e705c&oe=5B449331
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11214280_10153438037523745_4286815657184147844_n.jpg?_nc_cat=0&oh=5bb50674cd725a50f2c7542c43000bfc&oe=5BBB3A31
 beer-date: "2015-07-10"
 desc: "A crappier version of the regular superdry"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Moon Dog Craft Brewery"
 breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Dark Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20953132_10155535941158745_7335535618398563116_n.jpg?oh=af10c0be2ab1c77ca59a23148f861d2d&oe=5B03B678
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20953132_10155535941158745_7335535618398563116_n.jpg?_nc_cat=0&oh=d0ba3657b4a4ba33cce433413747e27e&oe=5B7A5D78
 beer-date: "2017-08-21"
 desc: "Comes off almost sour outside the stout flavour. Drinkable but kind of thin, only bought it for the name"
 permalink: /beer/:title.html

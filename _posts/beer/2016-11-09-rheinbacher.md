@@ -9,7 +9,7 @@ brewery: "ALDI Stores UK"
 breweryURL: "/brewery/aldi-stores-uk.html"
 style: "Pilsner - German"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644125_10151296241128745_1291306382_n.jpg?oh=5c04121c89e361b9af6bb0613cb1f3c7&oe=5B482836
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644125_10151296241128745_1291306382_n.jpg?_nc_cat=0&oh=6c5da7abf119637cd33f007cf87da381&oe=5BBECF36
 beer-date: "2012-10-22"
 desc: ""
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "IPA - Session / India Session Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195098_10154858056873745_8822363536692654837_n.jpg?oh=1f59858213ae0c130cf9a19acd71974e&oe=5B301DC5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195098_10154858056873745_8822363536692654837_n.jpg?_nc_cat=0&oh=ae7688c3c82f8c489df6cf039c3120fa&oe=5B7F37C5
 beer-date: "2017-01-21"
 desc: "Lots of flavour given that it’s a session IPA. Seemed a little too bitter at first but once you get used to that it’s easy drinking. More earthy than floral but well balanced"
 permalink: /beer/:title.html

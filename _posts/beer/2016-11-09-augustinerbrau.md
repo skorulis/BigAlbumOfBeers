@@ -9,7 +9,7 @@ brewery: "Augustiner-Bräu München"
 breweryURL: "/brewery/augustiner-brau-munchen.html"
 style: "Lager - Helles"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1375936_10152001624743745_1619318099_n.jpg?oh=878d2ad3d79304b5af877d3a194fb7ee&oe=5B442192
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1375936_10152001624743745_1619318099_n.jpg?_nc_cat=0&oh=63b933e7ae211f40be4e9c2e37963dbe&oe=5BBAC892
 beer-date: "2013-10-25"
 desc: "Alright"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Shenanigans Brewing Co."
 breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12510233_10153811610863745_3262758970154145170_n.jpg?oh=bdbb11ab8a7e7e3d89f2ce6997ecf50f&oe=5B04A43E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12510233_10153811610863745_3262758970154145170_n.jpg?_nc_cat=0&oh=0f96defbe2c34a848dc7112c96b4c361&oe=5B7B4B3E
 beer-date: "2016-01-06"
 desc: "I great IPA for people who are new to beers with flavour. Mild but really well done"
 permalink: /beer/:title.html

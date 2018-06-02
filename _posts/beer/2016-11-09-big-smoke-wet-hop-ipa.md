@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11233171_10153438036778745_7460779125459519208_n.jpg?oh=3a42a11b64fcb488aa01b27e62a051e3&oe=5B4B3E56
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11233171_10153438036778745_7460779125459519208_n.jpg?_nc_cat=0&oh=db925f864135e1e0c6346643e40c6f82&oe=5BC1E556
 beer-date: "2015-07-10"
 desc: "Like the wet hop, need to find more"
 permalink: /beer/:title.html

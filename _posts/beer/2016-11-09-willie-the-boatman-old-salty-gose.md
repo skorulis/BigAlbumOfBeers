@@ -9,7 +9,7 @@ brewery: "Willie The Boatman"
 breweryURL: "/brewery/willie-the-boatman.html"
 style: "Sour - Gose"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12745969_10153890420683745_2326162512188830203_n.jpg?oh=834651eb1539fb6327406811d26c1f14&oe=5B48A239
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12745969_10153890420683745_2326162512188830203_n.jpg?_nc_cat=0&oh=22d962d17749b886e2f9907bf00cb556&oe=5BBF4939
 beer-date: "2016-02-14"
 desc: "Perhaps the saltiest beer I've ever tasted. But once the initial salt is gone there's a really pleasant flavour without the normal beer bitterness"
 permalink: /beer/:title.html
