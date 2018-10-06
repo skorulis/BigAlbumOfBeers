@@ -9,7 +9,7 @@ brewery: "Balter Brewing Company"
 breweryURL: "/brewery/balter-brewing-company.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17103414_10154984570593745_7809862144525068040_n.jpg?_nc_cat=0&oh=be1475f2f469aa43786bbc76e129f07c&oe=5BC06162
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17103414_10154984570593745_7809862144525068040_n.jpg?_nc_cat=108&oh=19b582c561dc182180cc830213e15f0b&oe=5C5E9562
 beer-date: "2017-03-03"
 desc: "A nice bit of hops with low bitterness. I've never been a fan of XPAs before but I really see how this works as a style. Also the can is smiling at me"
 permalink: /beer/:title.html

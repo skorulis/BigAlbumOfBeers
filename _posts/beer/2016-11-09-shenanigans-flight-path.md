@@ -9,7 +9,7 @@ brewery: "Shenanigans Brewing Co."
 breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13239234_10154147275958745_6647175011009867398_n.jpg?_nc_cat=0&oh=f9002d7295553e45a3b7aa7e36d94324&oe=5B76639C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13239234_10154147275958745_6647175011009867398_n.jpg?_nc_cat=107&oh=0e1837cc91fbdd677c6e8cdef58bda5e&oe=5C14979C
 beer-date: "2016-05-24"
 desc: "Smells like and IPA, tastes like a stout. But still pretty good"
 permalink: /beer/:title.html

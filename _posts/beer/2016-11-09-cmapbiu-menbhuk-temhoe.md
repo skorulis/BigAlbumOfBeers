@@ -9,7 +9,7 @@ brewery: "Moscow-Efes Brewery (Пивоварня Москва-Эфес)"
 breweryURL: "/brewery/moscow-efes-brewery-pivovarnya-moskva-efyes.html"
 style: "Lager - Euro Dark"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1390556_10152001638343745_1466512598_n.jpg?_nc_cat=0&oh=e41640710051da0d48b2e421d4ba1b4d&oe=5B7972E6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1390556_10152001638343745_1466512598_n.jpg?_nc_cat=111&oh=c572f7e6d8c8a93ced24a6e3c316f039&oe=5C17A6E6
 beer-date: "2013-10-25"
 desc: "The purple label made me expect poison. But it's actually a decent beer"
 permalink: /beer/:title.html

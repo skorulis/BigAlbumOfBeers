@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12814792_10153966648923745_359987341393808655_n.jpg?_nc_cat=0&oh=898064968be41b93176be0059b931397&oe=5BC483B5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12814792_10153966648923745_359987341393808655_n.jpg?_nc_cat=100&oh=df2cb700005d371fcd7b7a21bf0a2ee0&oe=5C62B7B5
 beer-date: "2016-03-16"
 desc: "Really refreshing with the right amount of hop flavour for a pale ale"
 permalink: /beer/:title.html

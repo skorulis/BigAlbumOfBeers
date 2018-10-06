@@ -9,7 +9,7 @@ brewery: "Brussels Beer Project"
 breweryURL: "/brewery/brussels-beer-project.html"
 style: "IPA - Belgian"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19113871_10155314452878745_4136603759035168107_n.jpg?_nc_cat=0&oh=a191eb494b41a55432935c74d7d55ad7&oe=5BB7ED64
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19113871_10155314452878745_4136603759035168107_n.jpg?_nc_cat=106&oh=7a89fe5931b46c43ad90b808f1825801&oe=5C562164
 beer-date: "2017-06-15"
 desc: "The first Belgian IPA I’ve found that actually resembles an IPA. Not too bitter and moderately hoppy"
 permalink: /beer/:title.html

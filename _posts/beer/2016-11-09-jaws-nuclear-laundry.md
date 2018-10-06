@@ -9,7 +9,7 @@ brewery: "Jaws Brewery"
 breweryURL: "/brewery/jaws-brewery.html"
 style: "IPA - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19225006_10155314453703745_2555578569392147246_n.jpg?_nc_cat=0&oh=9ecce1306328a6a0365f22aacbc99eb3&oe=5B79F407
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19225006_10155314453703745_2555578569392147246_n.jpg?_nc_cat=102&oh=a58d195432359d4f5a810b1125ddba66&oe=5C182807
 beer-date: "2017-06-15"
 desc: "Pretty decent hop punch with a nice dankness. Surprisingly easy to drink despite this"
 permalink: /beer/:title.html

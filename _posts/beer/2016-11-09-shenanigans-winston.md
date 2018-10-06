@@ -9,7 +9,7 @@ brewery: "Shenanigans Brewing Co."
 breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "Pale Ale - International"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28056374_10156021381498745_7790726952117506323_n.jpg?_nc_cat=0&oh=bb6175f05af718433e171dfece7fa035&oe=5B83736E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28056374_10156021381498745_7790726952117506323_n.jpg?_nc_cat=109&oh=51d2088aee8b113b104a842c09e04854&oe=5C49346E
 beer-date: "2018-02-17"
 desc: "Sits in between an IPA and a pale. Hops mostly have bitterness and there’s nothing exciting about this"
 permalink: /beer/:title.html

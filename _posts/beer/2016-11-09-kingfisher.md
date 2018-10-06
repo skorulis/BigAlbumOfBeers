@@ -9,7 +9,7 @@ brewery: "United Breweries (India)"
 breweryURL: "/brewery/united-breweries-india.html"
 style: "Lager - North American Adjunct"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/733981_10151563846938745_1548720674_n.jpg?_nc_cat=0&oh=0f9f8e6c49daa6c9a58b50fa3f18fd02&oe=5B850017
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/733981_10151563846938745_1548720674_n.jpg?_nc_cat=111&oh=4aecc0a1c3d49bc71ca09a2d3f8203b4&oe=5C4AC117
 beer-date: "2013-03-09"
 desc: "The better Indian beer"
 permalink: /beer/:title.html

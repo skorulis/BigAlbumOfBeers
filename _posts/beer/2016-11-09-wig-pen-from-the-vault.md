@@ -9,7 +9,7 @@ brewery: "Wig & Pen Brewery"
 breweryURL: "/brewery/wig-pen-brewery.html"
 style: "Lambic - Other"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12687895_10153890414198745_3642229716769396500_n.jpg?_nc_cat=0&oh=067802a75ccb1cdaf7d17ffd54eb496a&oe=5B85BE49
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12687895_10153890414198745_3642229716769396500_n.jpg?_nc_cat=100&oh=2f43269defb63060a73203dfba31be09&oe=5C4B7F49
 beer-date: "2016-02-14"
 desc: "Such an amazing sour lambic. The nerd reference is just a bonus"
 permalink: /beer/:title.html

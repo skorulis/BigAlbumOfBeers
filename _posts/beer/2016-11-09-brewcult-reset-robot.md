@@ -9,7 +9,7 @@ brewery: "BrewCult"
 breweryURL: "/brewery/brewcult.html"
 style: "Pale Ale - International"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12417859_10153811611533745_6524426791759855644_n.jpg?_nc_cat=0&oh=eceb54955556425253bd94ac2b9fd592&oe=5B86ED41
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12417859_10153811611533745_6524426791759855644_n.jpg?_nc_cat=100&oh=34f59d9a536c0fdbb93883db5077a575&oe=5C4CAE41
 beer-date: "2016-01-06"
 desc: "A little on the weak side but a really good pale flavour"
 permalink: /beer/:title.html

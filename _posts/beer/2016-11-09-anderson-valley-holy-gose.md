@@ -9,7 +9,7 @@ brewery: "Anderson Valley Brewing Company"
 breweryURL: "/brewery/anderson-valley-brewing-company.html"
 style: "Sour - Gose"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q87/p480x480/16427672_10154888758563745_2693958913355750701_n.jpg?_nc_cat=0&oh=b5868b7131a80580039c98d4790206c3&oe=5BBEEEB8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q87/p480x480/16427672_10154888758563745_2693958913355750701_n.jpg?_nc_cat=108&oh=21781e5a7a866e492c3357d6526ea358&oe=5C5D22B8
 beer-date: "2017-01-30"
 desc: "Perfectly balances the salt,sour and sweetness to hit that gose sweet spot. Unfortunately I was in a bit of a rush so I had to slam this down, and while it is refreshing it also has enough flavour to make that difficult so I may have enjoyed this less than I could have"
 permalink: /beer/:title.html

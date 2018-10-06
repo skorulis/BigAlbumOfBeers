@@ -9,7 +9,7 @@ brewery: "Oriental Brewery"
 breweryURL: "/brewery/oriental-brewery.html"
 style: "Lager - American Light"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11665626_10153438035338745_1942830826260024445_n.jpg?_nc_cat=0&oh=960c6f7c8aa8722edae009ab8ee4e412&oe=5BB5AF90
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11665626_10153438035338745_1942830826260024445_n.jpg?_nc_cat=110&oh=3db4ee96c58db32902640861dc23ce7e&oe=5C53E390
 beer-date: "2015-07-10"
 desc: "A little more flavourful than normal german beer"
 permalink: /beer/:title.html

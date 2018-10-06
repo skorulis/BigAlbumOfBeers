@@ -9,7 +9,7 @@ brewery: "Moo Brew"
 breweryURL: "/brewery/moo-brew.html"
 style: "Hefeweizen"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11182307_10153268257633745_3691539250579390263_n.jpg?_nc_cat=0&oh=0fdc8c447f393b0d49d15749f11d685d&oe=5BB72F15
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11182307_10153268257633745_3691539250579390263_n.jpg?_nc_cat=102&oh=f3e1bdfe67eb9f9db341a60e72281571&oe=5C556315
 beer-date: "2015-05-01"
 desc: "Wouldn’t want another"
 permalink: /beer/:title.html

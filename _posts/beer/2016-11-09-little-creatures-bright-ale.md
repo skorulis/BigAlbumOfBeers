@@ -9,7 +9,7 @@ brewery: "Little Creatures Brewing"
 breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/488165_10151602292853745_953241846_n.jpg?_nc_cat=0&oh=597fd1d883f3f64466d89112a0cd7fec&oe=5B7A32C3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/488165_10151602292853745_953241846_n.jpg?_nc_cat=109&oh=177baaf4b5d6dd993fb486279681d579&oe=5C1866C3
 beer-date: "2013-03-28"
 desc: "Terrible photo, decent beer"
 permalink: /beer/:title.html

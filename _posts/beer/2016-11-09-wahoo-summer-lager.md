@@ -9,7 +9,7 @@ brewery: "Gage Roads Brewing Co "
 breweryURL: "/brewery/gage-roads-brewing-co.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115651_10153656864028745_2911616261438807210_n.jpg?_nc_cat=0&oh=23892e9a40a552ac2f49b965d253fbfa&oe=5BB9A83C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115651_10153656864028745_2911616261438807210_n.jpg?_nc_cat=106&oh=a0b22b1c09705919e6f4fea1a53c8342&oe=5C57DC3C
 beer-date: "2015-10-17"
 desc: "Water with a hint of beer. Good for a summer day"
 permalink: /beer/:title.html

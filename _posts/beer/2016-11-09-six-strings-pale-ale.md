@@ -9,7 +9,7 @@ brewery: "Six String Brewing Company"
 breweryURL: "/brewery/six-string-brewing-company.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10570347_10153966659658745_1644353854355421040_n.jpg?_nc_cat=0&oh=23afc7478a1817653c6485b042298f53&oe=5BBD92F8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10570347_10153966659658745_1644353854355421040_n.jpg?_nc_cat=100&oh=b7e10bfc12dc2c639b251ec1bc12ce70&oe=5C5BC6F8
 beer-date: "2016-03-16"
 desc: "The bitterness is a tad too harsh but it’s nicely hopped"
 permalink: /beer/:title.html

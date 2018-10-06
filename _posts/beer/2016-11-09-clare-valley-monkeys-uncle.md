@@ -9,7 +9,7 @@ brewery: "Clare Valley Brewing Co."
 breweryURL: "/brewery/clare-valley-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14370253_10154470814018745_7440993665823569606_n.jpg?_nc_cat=0&oh=eb32f90318dc325b7d9d6857896a6419&oe=5BB49803
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14370253_10154470814018745_7440993665823569606_n.jpg?_nc_cat=106&oh=2c56e997919b043bae4744d1218ea090&oe=5C52CC03
 beer-date: "2016-09-21"
 desc: "Another bitter beer but tastes like a red ale. Decent flavours behind the bitterness"
 permalink: /beer/:title.html

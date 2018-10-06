@@ -9,7 +9,7 @@ brewery: "Shenanigans Brewing Co."
 breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "IPA - International"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28166292_10156021379303745_2696596201550215834_n.jpg?_nc_cat=0&oh=a4e0a52198e3428c0642bbf6a3687c1e&oe=5B85370C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28166292_10156021379303745_2696596201550215834_n.jpg?_nc_cat=107&oh=cb12451e55b9dd12ab5270922d59034a&oe=5C4AF80C
 beer-date: "2018-02-17"
 desc: "A little too bitter in the back but an ok flavour"
 permalink: /beer/:title.html

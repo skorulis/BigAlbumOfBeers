@@ -9,7 +9,7 @@ brewery: "Magic Hat Brewing Company"
 breweryURL: "/brewery/magic-hat-brewing-company.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14359032_10154470814043745_5966474147333652109_n.jpg?_nc_cat=0&oh=6f1eb19c5e8bb7b0c3320aff359ef51f&oe=5B78E2DB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14359032_10154470814043745_5966474147333652109_n.jpg?_nc_cat=110&oh=2ed78f54fdaf5b5a26a738d22268718f&oe=5C1716DB
 beer-date: "2016-09-21"
 desc: "Definitely an IPA but not terribly nice. Surprisingly the bitterness went away as it got warmer and it was a bit nicer"
 permalink: /beer/:title.html

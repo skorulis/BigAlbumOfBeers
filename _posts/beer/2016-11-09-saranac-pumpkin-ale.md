@@ -9,7 +9,7 @@ brewery: "The Matt Brewing Company (Saranac)"
 breweryURL: "/brewery/the-matt-brewing-company-saranac.html"
 style: "Pumpkin / Yam Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10262192_10152534301808745_668535654445517750_n.jpg?_nc_cat=0&oh=f99e8745cca963ab2e938c42d3efb67e&oe=5BBF3CC4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10262192_10152534301808745_668535654445517750_n.jpg?_nc_cat=106&oh=07928f100adfcaf4b766cd1d4bd95ea0&oe=5C5D70C4
 beer-date: "2014-06-21"
 desc: "Not that pumkiny"
 permalink: /beer/:title.html

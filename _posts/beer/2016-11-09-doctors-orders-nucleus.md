@@ -9,7 +9,7 @@ brewery: "Doctor's Orders Brewing"
 breweryURL: "/brewery/doctors-orders-brewing.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22815074_10155717515953745_9105152136100073283_n.jpg?_nc_cat=0&oh=246f540be1767fa14d15150449b42542&oe=5B870599
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22815074_10155717515953745_9105152136100073283_n.jpg?_nc_cat=110&oh=9704e073532f52b7a9c3ab5b450e126a&oe=5C4CC699
 beer-date: "2017-10-28"
 desc: "Starts with an instant hit of belgianness. A lot of sweetness too. Doesn’t really provide anything else that it promised"
 permalink: /beer/:title.html

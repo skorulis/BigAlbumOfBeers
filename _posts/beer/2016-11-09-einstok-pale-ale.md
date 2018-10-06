@@ -9,7 +9,7 @@ brewery: "Einstök Ölgerð"
 breweryURL: "/brewery/einstok-olgero.html"
 style: "Pale Ale - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/559118_10151798821313745_705644987_n.jpg?_nc_cat=0&oh=1c1c009ac21f403d6b7b9d4b49e96f9e&oe=5B83B65E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/559118_10151798821313745_705644987_n.jpg?_nc_cat=106&oh=c14f56aae59b44a2cb9603cb2c560b81&oe=5C49775E
 beer-date: "2013-07-19"
 desc: "A nice pale ale with a hint of volcano"
 permalink: /beer/:title.html

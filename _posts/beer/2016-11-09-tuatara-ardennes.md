@@ -9,7 +9,7 @@ brewery: "Tuatara Brewery"
 breweryURL: "/brewery/tuatara-brewery.html"
 style: "Belgian Strong Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13239986_10154147273578745_3214682018646558241_n.jpg?_nc_cat=0&oh=1a1786f0232b083cc93234d4f1bf8576&oe=5B8A25A7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13239986_10154147273578745_3214682018646558241_n.jpg?_nc_cat=101&oh=af7179785c8dd3f0f6e361ae0231f328&oe=5C4FE6A7
 beer-date: "2016-05-24"
 desc: "The Belgian flavour makes it taste stronger than it is. It’s fairly good but there are so many better Belgian beers out there that it’s not doing enough to bring me back"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Karlsberg Brauerei"
 breweryURL: "/brewery/karlsberg-brauerei.html"
 style: "Lager - Euro"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16427371_10154888758968745_1601381519013997452_n.jpg?_nc_cat=0&oh=17b646a43f2d245eeed04c9ddaf92326&oe=5BBD3135
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16427371_10154888758968745_1601381519013997452_n.jpg?_nc_cat=108&oh=ed75b11de531ff3ab961760082fc959f&oe=5C5B6535
 beer-date: "2017-01-30"
 desc: "A fairly plain and easy drinking beer. Giving it an extra point because of the sheer size of it. Managed to get through the whole thing in one sitting"
 permalink: /beer/:title.html

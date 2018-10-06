@@ -9,7 +9,7 @@ brewery: "Coopers Brewery"
 breweryURL: "/brewery/coopers-brewery.html"
 style: "Pilsner - Czech"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10942756_10153055770968745_4182424304505127141_n.jpg?_nc_cat=0&oh=6a114fe0ae34a97e0784e9eba3163680&oe=5BB8620B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10942756_10153055770968745_4182424304505127141_n.jpg?_nc_cat=100&oh=ee59bddee7889fd1909cb1bb765e1b66&oe=5C56960B
 beer-date: "2015-01-29"
 desc: "Coopers seem to have a huge range of random beers, sadly the quality varies quite a bit"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Little Creatures Brewing"
 breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Red Ale - American Amber / Red"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10482595_10152534291158745_997791426307345458_n.jpg?_nc_cat=0&oh=147adf85b14dc4d388fe47c5c34af05c&oe=5BBFE777
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10482595_10152534291158745_997791426307345458_n.jpg?_nc_cat=105&oh=7a48db2dcf2f9f50217458d15e68c555&oe=5C5E1B77
 beer-date: "2014-06-21"
 desc: "A lager with a bit of a tang"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Louisiane Brewhouse"
 breweryURL: "/brewery/louisiane-brewhouse.html"
 style: "Pilsner - Czech"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27973304_10156021376248745_6182542729752471651_n.jpg?_nc_cat=0&oh=6bb789edf3220917fab4aa0d0dce2fd3&oe=5B8354A2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27973304_10156021376248745_6182542729752471651_n.jpg?_nc_cat=101&oh=d6a74da26b6b75e0b360874b22699fec&oe=5C4915A2
 beer-date: "2018-02-17"
 desc: "Fairly mild in all respects. A good summer beer"
 permalink: /beer/:title.html

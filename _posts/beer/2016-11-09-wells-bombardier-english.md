@@ -9,7 +9,7 @@ brewery: "Charles Wells Brewery"
 breweryURL: "/brewery/charles-wells-brewery.html"
 style: "English Bitter"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12402_10151649175493745_949451993_n.jpg?_nc_cat=0&oh=40a8560a0a4f2d064d0e9ba013940baa&oe=5B7D989F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12402_10151649175493745_949451993_n.jpg?_nc_cat=103&oh=f3fccd0bc1c994baf857680792436827&oe=5C1BCC9F
 beer-date: "2013-04-27"
 desc: "I'm a fan of this mild ale"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Sixpoint Brewery"
 breweryURL: "/brewery/sixpoint-brewery.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11148760_10153225354163745_4060898664025313434_n.jpg?_nc_cat=0&oh=dc467971c01a789e929f6d570976c7d7&oe=5B852AF0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11148760_10153225354163745_4060898664025313434_n.jpg?_nc_cat=104&oh=f116b94c55f966dc7a989ada1a3c0b82&oe=5C4AEBF0
 beer-date: "2015-04-13"
 desc: "Lots of subtle character"
 permalink: /beer/:title.html

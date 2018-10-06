@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Porter - English"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11130116_10153225365978745_2851210165116478542_n.jpg?_nc_cat=0&oh=9cd7c84e1bf643242a301cf4fa39efef&oe=5BC35398
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11130116_10153225365978745_2851210165116478542_n.jpg?_nc_cat=106&oh=d686c2733b2214065f707adbec0a0699&oe=5C618798
 beer-date: "2015-04-13"
 desc: "A very nice chocolate flavour"
 permalink: /beer/:title.html

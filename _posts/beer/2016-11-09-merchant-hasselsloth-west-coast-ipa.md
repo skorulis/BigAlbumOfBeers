@@ -9,7 +9,7 @@ brewery: "Merchant Brewing Co."
 breweryURL: "/brewery/merchant-brewing-co.html"
 style: "IPA - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15056359_10154633841048745_7424132168615349111_n.jpg?_nc_cat=0&oh=2246e6f734fc5e79a0aabfbd9e7bcf95&oe=5BC51A2A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15056359_10154633841048745_7424132168615349111_n.jpg?_nc_cat=100&oh=11a14539664f5c7b8284412276d75239&oe=5C634E2A
 beer-date: "2016-11-13"
 desc: "After the IPA I just had this seems a bit tasteless. It’s not bad in any way it’s just that I had already been spoiled somewhat during the evening. The name is of course what drew me in and can’t be faulted but the beer isn’t as flavourful as I would like"
 permalink: /beer/:title.html

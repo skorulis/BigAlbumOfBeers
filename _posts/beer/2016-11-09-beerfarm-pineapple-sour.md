@@ -9,7 +9,7 @@ brewery: "Beerfarm"
 breweryURL: "/brewery/beerfarm.html"
 style: "Sour - Berliner Weisse"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34133089_10156301082058745_5532827272148418560_n.jpg?_nc_cat=0&oh=c2b581ce4c9790d79719f57cbca4e50f&oe=5BC0CD49
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34133089_10156301082058745_5532827272148418560_n.jpg?_nc_cat=102&oh=73debc6ade7001f2a9a8b9f8ef7a3d4e&oe=5C5F0149
 beer-date: "2018-06-02"
 desc: "Pineapple comes through with a nice level of sourness that isn’t messed up by too much sugar"
 permalink: /beer/:title.html

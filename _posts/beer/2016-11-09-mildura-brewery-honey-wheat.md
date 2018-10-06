@@ -9,7 +9,7 @@ brewery: "Mildura Brewery"
 breweryURL: "/brewery/mildura-brewery.html"
 style: "Witbier"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10393575_10152534291018745_4203149759533116955_n.jpg?_nc_cat=0&oh=bf34e3a04fca2df5ffa28a4e064dfef4&oe=5B88E2BF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10393575_10152534291018745_4203149759533116955_n.jpg?_nc_cat=108&oh=fb49706f22ea9fe63a99abce810424c3&oe=5C4EA3BF
 beer-date: "2014-06-21"
 desc: "A fairly standard beer"
 permalink: /beer/:title.html

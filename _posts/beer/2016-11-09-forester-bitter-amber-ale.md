@@ -9,7 +9,7 @@ brewery: "Two Metre Tall"
 breweryURL: "/brewery/two-metre-tall.html"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1936970_10153966655368745_7839777973772364383_n.jpg?_nc_cat=0&oh=e92f3a0b44151c8e3bb49b2c14b8881c&oe=5BBC282B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1936970_10153966655368745_7839777973772364383_n.jpg?_nc_cat=104&oh=61bf08c85b85b5c14552697a102b1613&oe=5C5A5C2B
 beer-date: "2016-03-16"
 desc: "A little sour but not in a bad way"
 permalink: /beer/:title.html

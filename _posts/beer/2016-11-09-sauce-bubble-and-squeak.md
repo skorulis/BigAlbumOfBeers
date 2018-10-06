@@ -9,7 +9,7 @@ brewery: "Sauce Brewing Co"
 breweryURL: "/brewery/sauce-brewing-co.html"
 style: "IPA - New England"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29136129_10156095077223745_2778054816365019136_n.jpg?_nc_cat=0&oh=a15abf66477bbd81a920848fbf12685c&oe=5B81707E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29136129_10156095077223745_2778054816365019136_n.jpg?_nc_cat=104&oh=aa76f03322e487a957e53f7cd3e77f0d&oe=5C1FA47E
 beer-date: "2018-03-13"
 desc: "The sweetness from the hops cuts through the bitterness and gives a nice juiciness"
 permalink: /beer/:title.html

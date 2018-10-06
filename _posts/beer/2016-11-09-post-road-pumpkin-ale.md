@@ -9,7 +9,7 @@ brewery: "Brooklyn Brewery"
 breweryURL: "/brewery/brooklyn-brewery.html"
 style: "Pumpkin / Yam Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1512830_10152147731138745_971828677_n.jpg?_nc_cat=0&oh=94b7d7b50fbad14bad0dcfa41750f160&oe=5B77B80A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1512830_10152147731138745_971828677_n.jpg?_nc_cat=102&oh=d891b3c82b81e82f0dd66d96d29a9f50&oe=5C15EC0A
 beer-date: "2013-12-23"
 desc: "Tastes like christmas"
 permalink: /beer/:title.html

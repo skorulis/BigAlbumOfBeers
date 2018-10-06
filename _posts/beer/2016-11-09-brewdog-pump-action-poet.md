@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "IPA - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26229673_10155922805803745_2188051413604844320_n.jpg?_nc_cat=0&oh=c08d5e3e59f7a1526b50e61db3e8c64f&oe=5BB29F65
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26229673_10155922805803745_2188051413604844320_n.jpg?_nc_cat=104&oh=2603c7988ab18c0c4c7dd8327d3bea66&oe=5C50D365
 beer-date: "2018-01-13"
 desc: "Decent IPA, lots of stone fruit coming from the hops"
 permalink: /beer/:title.html

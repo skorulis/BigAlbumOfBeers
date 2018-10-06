@@ -9,7 +9,7 @@ brewery: "Yeastie Boys"
 breweryURL: "/brewery/yeastie-boys.html"
 style: "Porter - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10347498_10153966651168745_482800618815663484_n.jpg?_nc_cat=0&oh=29fc50377c4da9e1c46d615eb3875f13&oe=5B81A7EC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10347498_10153966651168745_482800618815663484_n.jpg?_nc_cat=111&oh=551660502fe58780d7a08814cc9c6ce3&oe=5C1FDBEC
 beer-date: "2016-03-16"
 desc: "Pretty good for a dark beer. Fairly smooth and rich but perhaps a little too bitter"
 permalink: /beer/:title.html

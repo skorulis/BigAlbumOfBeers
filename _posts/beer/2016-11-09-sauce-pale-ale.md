@@ -9,7 +9,7 @@ brewery: "Sauce Brewing Co"
 breweryURL: "/brewery/sauce-brewing-co.html"
 style: "Pale Ale - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20914503_10155535940528745_6296570771859086968_n.jpg?_nc_cat=0&oh=36a2ea78936f902a5a6c082a0809bf5c&oe=5B86130B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20914503_10155535940528745_6296570771859086968_n.jpg?_nc_cat=100&oh=2b9dbbf1bc15418610c5e9ab7a6e5eca&oe=5C4BD40B
 beer-date: "2017-08-21"
 desc: "A little bitter to start but that fades away. Kind of lacks the hops you would expect from a pale ale"
 permalink: /beer/:title.html

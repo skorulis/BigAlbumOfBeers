@@ -9,7 +9,7 @@ brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
 breweryURL: "/brewery/cerveceria-mexicana-s-de-r-l-de-c-v-tecate.html"
 style: "Hefeweizen"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11159507_10153225354628745_6658479749281312928_n.jpg?_nc_cat=0&oh=6cfb6149ed685641363a7bca3f3eac26&oe=5BC308D2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11159507_10153225354628745_6658479749281312928_n.jpg?_nc_cat=111&oh=80a2189581b5f746971da096d6e6cfbd&oe=5C613CD2
 beer-date: "2015-04-13"
 desc: "Basic wheat beer"
 permalink: /beer/:title.html

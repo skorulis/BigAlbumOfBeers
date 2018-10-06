@@ -9,7 +9,7 @@ brewery: "Edge Brewing Project"
 breweryURL: "/brewery/edge-brewing-project.html"
 style: "IPA - American"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10911454_10153055725923745_4540481012810101778_o.jpg?_nc_cat=0&oh=e9c2f885de76211f9555a1d886b5b386&oe=5BBF7C7D
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10911454_10153055725923745_4540481012810101778_o.jpg?_nc_cat=102&oh=a10546deaa4849d57d4658ee0704786e&oe=5C5DB07D
 beer-date: "2015-01-29"
 desc: "Rum flavour in beer is no good for anybody"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Tesco Stores Ltd."
 breweryURL: "/brewery/tesco-stores-ltd.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/480275_10151356728773745_1268031446_n.jpg?_nc_cat=0&oh=eb7ea663895f1f36b17c85055e4b8790&oe=5B7E22D5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/480275_10151356728773745_1268031446_n.jpg?_nc_cat=111&oh=4735e433ff8e49880d47e857e2347cc3&oe=5C1C56D5
 beer-date: "2012-12-01"
 desc: ""
 permalink: /beer/:title.html

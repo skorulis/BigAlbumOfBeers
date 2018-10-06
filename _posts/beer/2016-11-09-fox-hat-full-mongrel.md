@@ -9,7 +9,7 @@ brewery: "Fox Hat Brewing"
 breweryURL: "/brewery/fox-hat-brewing.html"
 style: "Stout - Russian Imperial"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26229890_10155922803093745_3452210780886231325_n.jpg?_nc_cat=0&oh=49c10e5ee2d50fe3aacc8ee388f015b8&oe=5B79DAFC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26229890_10155922803093745_3452210780886231325_n.jpg?_nc_cat=100&oh=489ea0ecbe108befe0b5aab13905894a&oe=5C180EFC
 beer-date: "2018-01-13"
 desc: "So much bitterness and flavour packed in. Once it smoothes out its a solid beer"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "IPA - International"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12728900_10153890419808745_8114701954738943189_n.jpg?_nc_cat=0&oh=6c9cf6cef4578947b6b0585f442b0983&oe=5BB8369B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12728900_10153890419808745_8114701954738943189_n.jpg?_nc_cat=101&oh=fd6d99626292f07883b5e2af35054452&oe=5C566A9B
 beer-date: "2016-02-14"
 desc: "The mango flavour doesn't overpower what is already a fantastic IPA"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Birra Baladin"
 breweryURL: "/brewery/birra-baladin.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19990374_10155413263983745_2848254889207939251_n.jpg?_nc_cat=0&oh=fe9dba8f0e890ad60a3c618e6991b99a&oe=5BBD21A5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19990374_10155413263983745_2848254889207939251_n.jpg?_nc_cat=103&oh=0761754a0d09550ee8179d3a8d8853fc&oe=5C5B55A5
 beer-date: "2017-07-12"
 desc: "Yeasty and refreshing. The flavour tends to linger a little but there's something to this that really elevates it. Nice amount of fizz"
 permalink: /beer/:title.html

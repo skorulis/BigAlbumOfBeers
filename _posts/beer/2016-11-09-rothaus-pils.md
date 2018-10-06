@@ -9,7 +9,7 @@ brewery: "Badische Staatsbrauerei Rothaus"
 breweryURL: "/brewery/badische-staatsbrauerei-rothaus.html"
 style: "Pilsner - German"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/263281_10151428533418745_1142185316_n.jpg?_nc_cat=0&oh=337d899c887e9c9267e5e79e8e01bdd7&oe=5B7FDC80
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/263281_10151428533418745_1142185316_n.jpg?_nc_cat=106&oh=cfd3a2e345a9511308823de734ef50bb&oe=5C1E1080
 beer-date: "2013-01-13"
 desc: ""
 permalink: /beer/:title.html

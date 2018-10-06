@@ -9,7 +9,7 @@ brewery: "Sixpoint Brewery"
 breweryURL: "/brewery/sixpoint-brewery.html"
 style: "Red Ale - Imperial / Double"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11196336_10153268256713745_6680283658542121771_n.jpg?_nc_cat=0&oh=605fe321362f45040585360139230131&oe=5B8A16ED
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11196336_10153268256713745_6680283658542121771_n.jpg?_nc_cat=104&oh=9f90aff41c1a3752d18fe202aa940a64&oe=5C4FD7ED
 beer-date: "2015-05-01"
 desc: "Tangy, strong"
 permalink: /beer/:title.html

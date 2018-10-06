@@ -9,7 +9,7 @@ brewery: "Hargreaves Hill Brewing Company Pty. Ltd."
 breweryURL: "/brewery/hargreaves-hill-brewing-company-pty-ltd.html"
 style: "Pale Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/247107_10153268256703745_3742881335896716752_n.jpg?_nc_cat=0&oh=0fba0400766ccffebb4a70b64c1fac0b&oe=5BB7212C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/247107_10153268256703745_3742881335896716752_n.jpg?_nc_cat=102&oh=e08f6d41ec47c99e6fb3153bdd844e9c&oe=5C55552C
 beer-date: "2015-05-01"
 desc: "Like a winery pretending to make a beer"
 permalink: /beer/:title.html

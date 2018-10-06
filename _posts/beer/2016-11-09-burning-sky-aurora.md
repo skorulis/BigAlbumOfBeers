@@ -9,7 +9,7 @@ brewery: "Burning Sky Brewery"
 breweryURL: "/brewery/burning-sky-brewery.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1476223_10152147732298745_333484722_n.jpg?_nc_cat=0&oh=54ef2fae78be4ec761c5b1d65f91f652&oe=5B777107
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1476223_10152147732298745_333484722_n.jpg?_nc_cat=103&oh=9fa8e75347b0b0262e586048f247fbec&oe=5C15A507
 beer-date: "2013-12-23"
 desc: "Not too bitter with a mild hoppy taste"
 permalink: /beer/:title.html

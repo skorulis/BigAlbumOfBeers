@@ -9,7 +9,7 @@ brewery: "Brouwerij Oud Beersel"
 breweryURL: "/brewery/brouwerij-oud-beersel.html"
 style: "Belgian Tripel"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18814285_10155271710113745_3851702774084524817_n.jpg?_nc_cat=0&oh=2b3899c09a689893186d01c54ce3146c&oe=5BBBA9A6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18814285_10155271710113745_3851702774084524817_n.jpg?_nc_cat=109&oh=88b038bb9f49caee65f074a76e4ddf3d&oe=5C59DDA6
 beer-date: "2017-06-02"
 desc: "It's good but something just seems off about it. Gets better with time but never what I'm hoping for"
 permalink: /beer/:title.html

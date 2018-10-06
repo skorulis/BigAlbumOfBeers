@@ -9,7 +9,7 @@ brewery: "Hop Nation Brewing Co"
 breweryURL: "/brewery/hop-nation-brewing-co.html"
 style: "IPA - New England"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34133051_10156301078033745_9034188425502130176_n.jpg?_nc_cat=0&oh=b46d8e413e7cbf47405e2177fcefa2fb&oe=5B7648DA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34133051_10156301078033745_9034188425502130176_n.jpg?_nc_cat=109&oh=7b306f8f5b40b1f9edbbec48ba776e91&oe=5C147CDA
 beer-date: "2018-06-02"
 desc: "Super juicy and very easy drinking. Perfectly on point for a NEIPA"
 permalink: /beer/:title.html

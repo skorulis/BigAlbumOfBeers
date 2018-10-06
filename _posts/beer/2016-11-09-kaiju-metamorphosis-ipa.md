@@ -9,7 +9,7 @@ brewery: "KAIJU! Beer"
 breweryURL: "/brewery/kaiju-beer.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17426102_10155045838653745_94653151956156542_n.jpg?_nc_cat=0&oh=c616fc0b739f7dbb88d717e246d9d124&oe=5BB6FD64
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17426102_10155045838653745_94653151956156542_n.jpg?_nc_cat=105&oh=fee69f0a2ddaec2db37811bac01b5397&oe=5C553164
 beer-date: "2017-03-22"
 desc: "Too heavy on the bitterness for my liking and quite piney and resiny. Having a couple would be nice to give me more time to get used to it and pick out the hop flavours over the bitterness"
 permalink: /beer/:title.html

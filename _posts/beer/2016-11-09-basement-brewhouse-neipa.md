@@ -9,7 +9,7 @@ brewery: "Basement Brewhouse"
 breweryURL: "/brewery/basement-brewhouse.html"
 style: "IPA - New England"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29186384_10156095061063745_381806069875212288_n.jpg?_nc_cat=0&oh=9a9f7889bae20df274aea10a744d83d7&oe=5BBC11C0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29186384_10156095061063745_381806069875212288_n.jpg?_nc_cat=108&oh=5d4781871af77a9676e3d116f1cb0ef5&oe=5C5A45C0
 beer-date: "2018-03-13"
 desc: "It’s a decent beer but not that great on the NEIPA scale. Rounded hop profile but lacking the depth of flavour"
 permalink: /beer/:title.html

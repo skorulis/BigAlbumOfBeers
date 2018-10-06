@@ -9,7 +9,7 @@ brewery: "Hofbräu Kaltenhausen"
 breweryURL: "/brewery/hofbrau-kaltenhausen.html"
 style: "Lager - Helles"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19148937_10155314456903745_1844042501606059112_n.jpg?_nc_cat=0&oh=92a6bfc768f384cc53b5916ef2ba736d&oe=5BC0E07C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19148937_10155314456903745_1844042501606059112_n.jpg?_nc_cat=102&oh=e45981538ae472a743ba1b317c31e15a&oe=5C5F147C
 beer-date: "2017-06-15"
 desc: "Really smooth but mostly flavourless"
 permalink: /beer/:title.html

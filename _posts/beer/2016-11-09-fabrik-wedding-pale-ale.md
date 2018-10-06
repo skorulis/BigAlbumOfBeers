@@ -9,7 +9,7 @@ brewery: "Bierfabrik"
 breweryURL: "/brewery/bierfabrik.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19149206_10155314453328745_3364755495534095112_n.jpg?_nc_cat=0&oh=c4e521b249d831a30e8661f144e327e2&oe=5B77FFF5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19149206_10155314453328745_3364755495534095112_n.jpg?_nc_cat=104&oh=e30d4b13b06fd30809c742ac5dcbb448&oe=5C1633F5
 beer-date: "2017-06-15"
 desc: "A bit hoppy, a bit tangy. Rather nice all round"
 permalink: /beer/:title.html

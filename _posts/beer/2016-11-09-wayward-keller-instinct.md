@@ -9,7 +9,7 @@ brewery: "Wayward Brewing"
 breweryURL: "/brewery/wayward-brewing.html"
 style: "Kellerbier / Zwickelbier"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15036443_10154633844778745_8868726654336200982_n.jpg?_nc_cat=0&oh=6abfd763f767f9db3e3979166015ccb0&oe=5B795BCA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15036443_10154633844778745_8868726654336200982_n.jpg?_nc_cat=102&oh=15fe22e4f306fcd5d36995af6bf9d590&oe=5C178FCA
 beer-date: "2016-11-13"
 desc: "Has a really strange flavour in the back. Interesting as something I've not had before but not going to bring me back"
 permalink: /beer/:title.html

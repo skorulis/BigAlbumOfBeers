@@ -9,7 +9,7 @@ brewery: "White Rabbit"
 breweryURL: "/brewery/white-rabbit.html"
 style: "Witbier"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1932304_10153268279663745_7818150974405781457_n.jpg?_nc_cat=0&oh=aa76969b76c5ef75f6addde372c62834&oe=5BBC4F9B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1932304_10153268279663745_7818150974405781457_n.jpg?_nc_cat=104&oh=91481e68d5443d09bd113a23ef40095b&oe=5C5A839B
 beer-date: "2015-05-01"
 desc: "One of the nicest white beers I’ve had. Another winner from White Rabbit"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Carlton & United Breweries"
 breweryURL: "/brewery/carlton-united-breweries.html"
 style: "Lager - Pale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13530_10153268279263745_7432093397688380903_n.jpg?_nc_cat=0&oh=198427015045cb8fa799145231502bfe&oe=5BB354E4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13530_10153268279263745_7432093397688380903_n.jpg?_nc_cat=111&oh=510b299d610f57cb4de60c7c1e845cce&oe=5C5188E4
 beer-date: "2015-05-01"
 desc: "Of the standard Australian beers this one ranks pretty low"
 permalink: /beer/:title.html

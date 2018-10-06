@@ -9,7 +9,7 @@ brewery: "Anderson Valley Brewing Company"
 breweryURL: "/brewery/anderson-valley-brewing-company.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15037208_10154633841058745_7320029792917556199_n.jpg?_nc_cat=0&oh=7dccd5cbd6d833fa06c212e9700758ba&oe=5B77FC2E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15037208_10154633841058745_7320029792917556199_n.jpg?_nc_cat=101&oh=2a15c3dd210b9455fae7a9114b873bf1&oe=5C16302E
 beer-date: "2016-11-13"
 desc: "Super flavourful. Initially it’s very bitter but once you get over that it’s amazing. It’s exactly what I expect when a beer says it’s an IPA. Not to mention it just looks beautiful in a glass. If you see it try it out"
 permalink: /beer/:title.html

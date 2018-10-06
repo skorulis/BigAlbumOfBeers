@@ -9,7 +9,7 @@ brewery: "Coal Harbour Brewing Company"
 breweryURL: "/brewery/coal-harbour-brewing-company.html"
 style: "Smoked Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698356_10155251934348745_2428067561899796215_n.jpg?_nc_cat=0&oh=cb752d8c05a5c74ffbdb8cc2ea1e6def&oe=5B812B39
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698356_10155251934348745_2428067561899796215_n.jpg?_nc_cat=105&oh=139ee9683fef5049ee47bd087f818728&oe=5C1F5F39
 beer-date: "2017-05-27"
 desc: "Super smokey, in fact too much for the size of the bottle. It was smooth otherwise so there wasn't much to cover the smokiness"
 permalink: /beer/:title.html

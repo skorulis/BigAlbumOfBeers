@@ -9,7 +9,7 @@ brewery: "Anderson Valley Brewing Company"
 breweryURL: "/brewery/anderson-valley-brewing-company.html"
 style: "Sour - Gose"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14344683_10154470826643745_4940801353933151559_n.jpg?_nc_cat=0&oh=73133546c71636386cad14d6e2379316&oe=5B88A28C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14344683_10154470826643745_4940801353933151559_n.jpg?_nc_cat=108&oh=1581dbaa82270e1a3485293f6155d993&oe=5C4E638C
 beer-date: "2016-09-21"
 desc: "Takes a bit of getting used to, orange doesn’t usually go with salty. Not something I would buy again"
 permalink: /beer/:title.html

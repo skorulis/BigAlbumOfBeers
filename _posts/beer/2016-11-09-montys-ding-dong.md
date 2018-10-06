@@ -9,7 +9,7 @@ brewery: "Monty's Brewery"
 breweryURL: "/brewery/montys-brewery.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1911822_10152280800298745_1797219050_n.jpg?_nc_cat=0&oh=1a333e97c273176eaa6c0c7558b3a19f&oe=5B7F605D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1911822_10152280800298745_1797219050_n.jpg?_nc_cat=101&oh=a32fdb282214b915e1349ff6456ec254&oe=5C1D945D
 beer-date: "2014-02-23"
 desc: "Light and festive and drinkable"
 permalink: /beer/:title.html

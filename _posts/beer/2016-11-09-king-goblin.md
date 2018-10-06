@@ -9,7 +9,7 @@ brewery: "Wychwood Brewery"
 breweryURL: "/brewery/wychwood-brewery.html"
 style: "Strong Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1656157_10152293086848745_1506561898_n.jpg?_nc_cat=0&oh=eec427fff648d3ad98b5948984a751ec&oe=5B87F68B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1656157_10152293086848745_1506561898_n.jpg?_nc_cat=102&oh=c5861ec63d9458266fb37f971ee5829d&oe=5C4DB78B
 beer-date: "2014-03-01"
 desc: "Better than the standard hobgoblin"
 permalink: /beer/:title.html

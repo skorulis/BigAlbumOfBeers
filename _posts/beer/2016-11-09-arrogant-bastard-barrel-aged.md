@@ -9,7 +9,7 @@ brewery: "Arrogant Brewing"
 breweryURL: "/brewery/arrogant-brewing.html"
 style: "Strong Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12508899_10153811619303745_6510580439583908445_n.jpg?_nc_cat=0&oh=e15459b2cf604df459ef03f89e5f6bf6&oe=5B7E232D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12508899_10153811619303745_6510580439583908445_n.jpg?_nc_cat=103&oh=c98234bc207bde5153c58222cf9433e0&oe=5C1C572D
 beer-date: "2016-01-07"
 desc: "Really nice secondary flavour. Could drink a lot of these"
 permalink: /beer/:title.html

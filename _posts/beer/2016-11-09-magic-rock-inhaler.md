@@ -9,7 +9,7 @@ brewery: "Magic Rock Brewing"
 breweryURL: "/brewery/magic-rock-brewing.html"
 style: "IPA - Session / India Session Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/20621903_10155494019303745_6180616107592366698_n.jpg?_nc_cat=0&oh=a06e9bcc652ff6de75c659ffd37ba252&oe=5B7EFE6F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/20621903_10155494019303745_6180616107592366698_n.jpg?_nc_cat=101&oh=f414bbc43164f16ce12895d99996c16d&oe=5C1D326F
 beer-date: "2017-08-06"
 desc: "Not really juicy, more tastes like there’s a little bit of fruit juice behind the bitterness. Doesn’t really work well together. Gets better towards the end but misses the mark"
 permalink: /beer/:title.html

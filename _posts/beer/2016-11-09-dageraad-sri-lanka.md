@@ -9,7 +9,7 @@ brewery: "Dageraad Brewing"
 breweryURL: "/brewery/dageraad-brewing.html"
 style: "Belgian Dubbel"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700275_10155251933148745_7385822046292316880_n.jpg?_nc_cat=0&oh=33e814a34bad6c87ef7f1ec820a25778&oe=5B8835AE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700275_10155251933148745_7385822046292316880_n.jpg?_nc_cat=100&oh=ed0ca1ae6ffc2f2e0e5c6b1fd4631192&oe=5C4DF6AE
 beer-date: "2017-05-27"
 desc: "Definitely a Belgian ale but it’s hard to say if it’s anything more"
 permalink: /beer/:title.html

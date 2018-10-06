@@ -9,7 +9,7 @@ brewery: "Hope Brewhouse"
 breweryURL: "/brewery/hope-brewhouse.html"
 style: "Red Ale - American Amber / Red"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29134072_10156095062318745_5894071083014815744_n.jpg?_nc_cat=0&oh=685046e26cf22ee71020816c518fe35c&oe=5BB38CFC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29134072_10156095062318745_5894071083014815744_n.jpg?_nc_cat=109&oh=6aef81c7d903f5f27e993dadb64328cc&oe=5C51C0FC
 beer-date: "2018-03-13"
 desc: "Very mild bitterness and a little taste of hops"
 permalink: /beer/:title.html

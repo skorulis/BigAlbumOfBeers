@@ -9,7 +9,7 @@ brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Stout - Irish Dry"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10003507_10152327617578745_898249905_n.jpg?_nc_cat=0&oh=211ac137b39650738d033a2c5785c6ad&oe=5BC12150
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10003507_10152327617578745_898249905_n.jpg?_nc_cat=103&oh=dd36f9c9e0b4df54f668b2140b36e746&oe=5C5F5550
 beer-date: "2014-03-18"
 desc: "A beer crossed with a coffee"
 permalink: /beer/:title.html

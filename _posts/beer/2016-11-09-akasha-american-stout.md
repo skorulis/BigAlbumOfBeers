@@ -9,7 +9,7 @@ brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Stout - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20882901_10155535939953745_8410300835262596687_n.jpg?_nc_cat=0&oh=6a0517c12c5a9815f5fd32355f713837&oe=5BB85947
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20882901_10155535939953745_8410300835262596687_n.jpg?_nc_cat=101&oh=07aef58c8e2db7951259a2f06f378420&oe=5C568D47
 beer-date: "2017-08-21"
 desc: "Solid stout with a little bit of coffee. Love the creamy head but that doesn't carry through to the liquid"
 permalink: /beer/:title.html

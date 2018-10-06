@@ -9,7 +9,7 @@ brewery: "Pasteur Street Brewing Company"
 breweryURL: "/brewery/pasteur-street-brewing-company.html"
 style: "Stout - American Imperial / Double"
 score: .
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27858357_10156021382183745_7029079048262281795_n.jpg?_nc_cat=0&oh=eb5c35581ae554d684c056b51c15bec7&oe=5BB80EDE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27858357_10156021382183745_7029079048262281795_n.jpg?_nc_cat=111&oh=bb737f9aff65298180bea62bc4158e34&oe=5C5642DE
 beer-date: "2018-02-17"
 desc: "Like a super dark bitter chocolate. Almost as if they fermented a bar of chocolate. That little bit of vanilla at the end just rounds it out perfectly/10"
 permalink: /beer/:title.html

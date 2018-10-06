@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Stout - Oatmeal"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26230155_10155922799623745_3448026620404468629_n.jpg?_nc_cat=0&oh=c80f124af791223527124ffc5d7de5aa&oe=5BB2F3F5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26230155_10155922799623745_3448026620404468629_n.jpg?_nc_cat=104&oh=bddce6bf225a1eb858577e8636a62804&oe=5C5127F5
 beer-date: "2018-01-13"
 desc: "Very solid stout. Strong and creamy but s little too bitter for me"
 permalink: /beer/:title.html

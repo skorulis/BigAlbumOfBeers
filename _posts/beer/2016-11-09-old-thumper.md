@@ -9,7 +9,7 @@ brewery: "Shipyard Brewing Company"
 breweryURL: "/brewery/shipyard-brewing-company.html"
 style: "English Bitter"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/62117_10151396305243745_1878047628_n.jpg?_nc_cat=0&oh=09a11590dd7b8b590511f84174b9a159&oe=5B84336C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/62117_10151396305243745_1878047628_n.jpg?_nc_cat=109&oh=9ce06173b7fa63b5e27130b30831958c&oe=5C49F46C
 beer-date: "2012-12-25"
 desc: "Gave my taste buds a thumping"
 permalink: /beer/:title.html

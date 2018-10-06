@@ -9,7 +9,7 @@ brewery: "Charles Wells Brewery"
 breweryURL: "/brewery/charles-wells-brewery.html"
 style: "Stout - Milk / Sweet"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11146531_10153225353988745_3855298969416355875_n.jpg?_nc_cat=0&oh=6539b98aa7112cdef1d8243e85dd98e9&oe=5BC41743
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11146531_10153225353988745_3855298969416355875_n.jpg?_nc_cat=107&oh=2b02848972acdba666b21962ad4c238d&oe=5C624B43
 beer-date: "2015-04-13"
 desc: "A nice chocolate flavour"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "H-West B.V."
 breweryURL: "/brewery/h-west-b-v.html"
 style: "Lager - Euro"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11000604_10153118667938745_2598821758352900098_n.jpg?_nc_cat=0&oh=70b6264ee91a055480e17fe4bb3d0b09&oe=5BC08BE9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11000604_10153118667938745_2598821758352900098_n.jpg?_nc_cat=101&oh=15d348e4472af4464f4521ec5cc0746c&oe=5C5EBFE9
 beer-date: "2015-02-27"
 desc: "Seems like it's a cheap flavourless wheat beer but since I don't like wheat beer I'm ok with that"
 permalink: /beer/:title.html

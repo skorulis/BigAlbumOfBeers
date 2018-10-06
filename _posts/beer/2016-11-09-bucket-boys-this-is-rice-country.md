@@ -9,7 +9,7 @@ brewery: "Bucket Boys Craft Beer Co"
 breweryURL: "/brewery/bucket-boys-craft-beer-co.html"
 style: "Lager - Japanese Rice"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18740533_10155251933988745_5097399707715147047_n.jpg?_nc_cat=0&oh=2081fa95f279c52a10849f3edaa63deb&oe=5BC416E1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18740533_10155251933988745_5097399707715147047_n.jpg?_nc_cat=111&oh=8309c9f572e5e8e94f0b6ff05cd8c43e&oe=5C624AE1
 beer-date: "2017-05-27"
 desc: "Very light. Has almost a slight spicyness"
 permalink: /beer/:title.html

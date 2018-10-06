@@ -9,7 +9,7 @@ brewery: "Grifter Brewing Company"
 breweryURL: "/brewery/grifter-brewing-company.html"
 style: "Schwarzbier"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18670800_10155251934828745_7407934732478259602_n.jpg?_nc_cat=0&oh=faf9351787f29bd8cb7c69c85c876f5b&oe=5B88C78A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18670800_10155251934828745_7407934732478259602_n.jpg?_nc_cat=102&oh=1fd87d1ee9f00997024210c372ca07cc&oe=5C4E888A
 beer-date: "2017-05-27"
 desc: "Slight toastyness. Like a very thin stout. Easy drinking but lacks depth"
 permalink: /beer/:title.html

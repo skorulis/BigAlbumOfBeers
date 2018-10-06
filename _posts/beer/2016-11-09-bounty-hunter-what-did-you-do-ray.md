@@ -9,7 +9,7 @@ brewery: "Bounty Hunter Brewing Co."
 breweryURL: "/brewery/bounty-hunter-brewing-co.html"
 style: "Brown Ale - Other"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29136904_10156095063483745_2892366083912630272_n.jpg?_nc_cat=0&oh=158faa8a7f82eb0776bc61dbcc459e32&oe=5BBB0446
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29136904_10156095063483745_2892366083912630272_n.jpg?_nc_cat=104&oh=f754ca0a13df462ab81955f67410329a&oe=5C593846
 beer-date: "2018-03-13"
 desc: "Smells of marshmallows and smoke. Taste is smooth and slightly sweet. Very smooth"
 permalink: /beer/:title.html

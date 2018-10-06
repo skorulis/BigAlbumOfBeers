@@ -9,7 +9,7 @@ brewery: "Baird Brewing Company"
 breweryURL: "/brewery/baird-brewing-company.html"
 style: "Pale Ale - Belgian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715222_10153890415008745_8479217372208836383_n.jpg?_nc_cat=0&oh=3fd6a616a24af15f64f1a4d817d70492&oe=5B87C777
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715222_10153890415008745_8479217372208836383_n.jpg?_nc_cat=106&oh=8f6047a46a5bb71fa32d86d5a4cf58bf&oe=5C4D8877
 beer-date: "2016-02-14"
 desc: "Perhaps not the best beer at 10am. The Belgian flavour seemed a bit too wheaty"
 permalink: /beer/:title.html

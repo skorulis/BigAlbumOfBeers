@@ -9,7 +9,7 @@ brewery: "Capital Brewing Co"
 breweryURL: "/brewery/capital-brewing-co.html"
 style: "Pale Wheat Ale - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22815431_10155717531588745_6946562036089649335_n.jpg?_nc_cat=0&oh=7b527c3238ee99295f49dd963ae145dc&oe=5B8222F7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22815431_10155717531588745_6946562036089649335_n.jpg?_nc_cat=111&oh=85dad5045cf9be7c0518b6aa339b9d01&oe=5C2056F7
 beer-date: "2017-10-28"
 desc: "Fairly mild wheat flavour, easy drinking. Feels like it's missing something"
 permalink: /beer/:title.html

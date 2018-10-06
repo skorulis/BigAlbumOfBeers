@@ -9,7 +9,7 @@ brewery: "Wychwood Brewery"
 breweryURL: "/brewery/wychwood-brewery.html"
 style: "Golden Ale"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15111_10151331658713745_2003438525_n.jpg?_nc_cat=0&oh=fdeab3407d0ae5829410b7182517e65b&oe=5B7EBF12
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15111_10151331658713745_2003438525_n.jpg?_nc_cat=104&oh=53aefa17e88952886b62febe693387fc&oe=5C1CF312
 beer-date: "2012-11-13"
 desc: "Tastes just like the name"
 permalink: /beer/:title.html

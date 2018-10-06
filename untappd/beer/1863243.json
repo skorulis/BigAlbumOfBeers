@@ -1,0 +1,3346 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.332,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 1863243,
+      "beer_name": "Mosaic IPA",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+      "beer_label_hd": "https://untappd.akamaized.net/site/beer_logos_hd/beer-1863243_34284_hd.jpeg",
+      "beer_abv": 7.2,
+      "beer_ibu": 60,
+      "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+      "beer_style": "IPA - American",
+      "is_in_production": 1,
+      "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+      "is_homebrew": 0,
+      "created_at": "Wed, 14 Dec 2016 07:54:29 +0000",
+      "rating_count": 972,
+      "rating_score": 4.01466,
+      "stats": {
+        "total_count": 1311,
+        "monthly_count": 255,
+        "total_user_count": 1039,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 188552,
+        "brewery_name": "Akasha Brewing Company (Australia)",
+        "brewery_slug": "akasha-brewing-company-australia",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/akashabrew",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "akashabrew",
+          "facebook": "https://www.facebook.com/akashabrew",
+          "url": "http://www.akashabrewing.com.au/"
+        },
+        "location": {
+          "brewery_city": "Five Dock",
+          "brewery_state": "NSW",
+          "lat": -33.8696,
+          "lng": 151.118
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 195434449,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/d7400b4c0a3fa2038094d80fd5a3c147_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/d7400b4c0a3fa2038094d80fd5a3c147_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/d7400b4c0a3fa2038094d80fd5a3c147_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/d7400b4c0a3fa2038094d80fd5a3c147_raw.jpg"
+            },
+            "created_at": "Fri, 05 Oct 2018 10:44:48 +0000",
+            "checkin_id": 659750980,
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 4.015,
+              "rating_count": 972,
+              "count": 972,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2424783,
+              "user_name": "Dunderlinger",
+              "first_name": "James",
+              "last_name": "D",
+              "user_avatar": "https://untappd.akamaized.net/profile/29137fbeaa3ff5b37874317746b69e1a_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2462168,
+                "venue_name": "Ghetto Bay",
+                "venue_slug": "ghetto-bay",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Dee Why",
+                  "venue_state": "NSW",
+                  "lat": -33.75,
+                  "lng": 151.286
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "4e4a5c9318a83cda37da9743",
+                  "foursquare_url": "http://4sq.com/nRTVUA"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 195433678,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/5c590087d0723a7ac26844bbb63d5d7e_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/5c590087d0723a7ac26844bbb63d5d7e_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/5c590087d0723a7ac26844bbb63d5d7e_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/5c590087d0723a7ac26844bbb63d5d7e_raw.jpg"
+            },
+            "created_at": "Fri, 05 Oct 2018 10:22:50 +0000",
+            "checkin_id": 659749298,
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 4.015,
+              "rating_count": 972,
+              "count": 972,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1298384,
+              "user_name": "pete_dicko",
+              "first_name": "Peter",
+              "last_name": "D",
+              "user_avatar": "https://untappd.akamaized.net/profile/41634475db0c71911ac1d94599a14fbd_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5800108,
+                "venue_name": "Lard Lad Donuts",
+                "venue_slug": "lard-lad-donuts",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": -33.89,
+                  "lng": 151.131
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "58709c14727ba307bf7e9c25",
+                  "foursquare_url": "http://4sq.com/2iSwTjM"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 195432405,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/eb34a5cabcd8d8d0e360b108fde47b04_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/eb34a5cabcd8d8d0e360b108fde47b04_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/eb34a5cabcd8d8d0e360b108fde47b04_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/eb34a5cabcd8d8d0e360b108fde47b04_raw.jpg"
+            },
+            "created_at": "Fri, 05 Oct 2018 09:27:57 +0000",
+            "checkin_id": 659746485,
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 4.015,
+              "rating_count": 972,
+              "count": 972,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1325570,
+              "user_name": "Octobernights",
+              "first_name": "Andrew",
+              "last_name": "D",
+              "user_avatar": "https://untappd.akamaized.net/profile/8c67f22e913661f70d9ff1566a9489c8_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5800108,
+                "venue_name": "Lard Lad Donuts",
+                "venue_slug": "lard-lad-donuts",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": -33.89,
+                  "lng": 151.131
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "58709c14727ba307bf7e9c25",
+                  "foursquare_url": "http://4sq.com/2iSwTjM"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 195431895,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2018_10_05/f5beeab92d99bdea95e90af68d8dc0c5_c_659745174_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2018_10_05/f5beeab92d99bdea95e90af68d8dc0c5_c_659745174_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2018_10_05/f5beeab92d99bdea95e90af68d8dc0c5_c_659745174_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2018_10_05/f5beeab92d99bdea95e90af68d8dc0c5_c_659745174_raw.jpg"
+            },
+            "created_at": "Fri, 05 Oct 2018 08:57:48 +0000",
+            "checkin_id": 659745174,
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 4.015,
+              "rating_count": 972,
+              "count": 972,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 538877,
+              "user_name": "Jacko1971",
+              "first_name": "Dale",
+              "last_name": "J",
+              "user_avatar": "https://untappd.akamaized.net/profile/78f32f39b7e8a3a869ec6ed6d6e0ad30_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 195430295,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/a35a1158d55f80e7fc51b8a6a7bdc986_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/a35a1158d55f80e7fc51b8a6a7bdc986_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/a35a1158d55f80e7fc51b8a6a7bdc986_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/a35a1158d55f80e7fc51b8a6a7bdc986_raw.jpeg"
+            },
+            "created_at": "Fri, 05 Oct 2018 07:21:47 +0000",
+            "checkin_id": 659741190,
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 4.015,
+              "rating_count": 972,
+              "count": 972,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 241499,
+              "user_name": "pewilee12",
+              "first_name": "Lee",
+              "last_name": "W",
+              "user_avatar": "https://untappd.akamaized.net/profile/02bf13899ffa6adac68bcfbe77b0d3d0_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2963988,
+                "venue_name": "Boilermaker House",
+                "venue_slug": "boilermaker-house",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 4,
+                  "items": [
+                    {
+                      "category_name": "Whisky Bar",
+                      "category_id": "4bf58dd8d48988d122941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Cocktail Bar",
+                      "category_id": "4bf58dd8d48988d11e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "209-211 Lonsdale St",
+                  "venue_city": "Melbourne",
+                  "venue_state": "VIC",
+                  "lat": -37.8113,
+                  "lng": 144.966
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://boilermakerhouse.com.au/"
+                },
+                "foursquare": {
+                  "foursquare_id": "552db1fd498ef6abfdb29b4c",
+                  "foursquare_url": "http://4sq.com/1OyOFiL"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_2963988_1d3cdf90_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_2963988_1d3cdf90_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_2963988_1d3cdf90_bg_88.png"
+                }
+              }
+            ]
+          },
+          {
+            "photo_id": 195429607,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/ba1155e42a2c9a90f0c9df08042ee77d_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/ba1155e42a2c9a90f0c9df08042ee77d_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/ba1155e42a2c9a90f0c9df08042ee77d_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/ba1155e42a2c9a90f0c9df08042ee77d_raw.jpeg"
+            },
+            "created_at": "Fri, 05 Oct 2018 06:43:51 +0000",
+            "checkin_id": 659739313,
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 4.015,
+              "rating_count": 972,
+              "count": 972,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2482072,
+              "user_name": "GrogMundi",
+              "first_name": "Corry",
+              "last_name": "A",
+              "user_avatar": "https://untappd.akamaized.net/profile/97bfdf60480ec3849b18e68e002bf507_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 195428743,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/6dde0d1884483ef06d4782d1b53b0866_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/6dde0d1884483ef06d4782d1b53b0866_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/6dde0d1884483ef06d4782d1b53b0866_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/6dde0d1884483ef06d4782d1b53b0866_raw.jpeg"
+            },
+            "created_at": "Fri, 05 Oct 2018 05:53:48 +0000",
+            "checkin_id": 659736748,
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 4.015,
+              "rating_count": 972,
+              "count": 972,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3744862,
+              "user_name": "Travis_Capt",
+              "first_name": "Travis",
+              "last_name": "C",
+              "user_avatar": "https://untappd.akamaized.net/profile/5466c0410aeeeeaa4092c22716bddd3c_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 195407290,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/576246ac1b87c50cbb6270bd2269401a_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/576246ac1b87c50cbb6270bd2269401a_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/576246ac1b87c50cbb6270bd2269401a_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/576246ac1b87c50cbb6270bd2269401a_raw.jpg"
+            },
+            "created_at": "Fri, 05 Oct 2018 01:17:53 +0000",
+            "checkin_id": 659671394,
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 4.015,
+              "rating_count": 972,
+              "count": 972,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1008611,
+              "user_name": "Lucazoccatelli",
+              "first_name": "Luca",
+              "last_name": "Z",
+              "user_avatar": "https://untappd.akamaized.net/profile/3e3f439b073218a8ffd9c1e159b7a0c2_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 195308497,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_04/343e3fd481bc31ee149ef85ae58680fc_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_04/343e3fd481bc31ee149ef85ae58680fc_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_04/343e3fd481bc31ee149ef85ae58680fc_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_04/343e3fd481bc31ee149ef85ae58680fc_raw.jpeg"
+            },
+            "created_at": "Thu, 04 Oct 2018 09:27:50 +0000",
+            "checkin_id": 659421087,
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 4.015,
+              "rating_count": 972,
+              "count": 972,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5793388,
+              "user_name": "af89",
+              "first_name": "Alex",
+              "last_name": "F",
+              "user_avatar": "https://gravatar.com/avatar/764f8ba32a0deb3e3e6e321f8266b50f?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 195215400,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_03/2bd70012e7d4de463197706e2c9ca077_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_03/2bd70012e7d4de463197706e2c9ca077_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_03/2bd70012e7d4de463197706e2c9ca077_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_03/2bd70012e7d4de463197706e2c9ca077_raw.jpeg"
+            },
+            "created_at": "Wed, 03 Oct 2018 14:17:59 +0000",
+            "checkin_id": 659173274,
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 4.015,
+              "rating_count": 972,
+              "count": 972,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3044327,
+              "user_name": "PhilBrau",
+              "first_name": "Philbert",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/49a05dbd568a508f994c7663ecaa3be2_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 659764105,
+            "created_at": "Fri, 05 Oct 2018 12:58:01 +0000",
+            "checkin_comment": "Great.",
+            "rating_score": 4,
+            "user": {
+              "uid": 4356107,
+              "user_name": "mangy78",
+              "first_name": "Michael",
+              "last_name": "E.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/0f1d60ba2b0023e21a73966948f1a85d_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2418,
+                  "user_badge_id": 403090765,
+                  "badge_name": "Down Under  (Level 32)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 160 different beers from Australia. Try 5 more for Level 33.",
+                  "created_at": "Fri, 05 Oct 2018 12:58:01 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 659750980,
+            "created_at": "Fri, 05 Oct 2018 10:44:11 +0000",
+            "checkin_comment": "New tin, same awesome beer. Akasha make wicked IPA’s",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 2424783,
+              "user_name": "Dunderlinger",
+              "first_name": "James",
+              "last_name": "D.",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/29137fbeaa3ff5b37874317746b69e1a_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2462168,
+              "venue_name": "Ghetto Bay",
+              "venue_slug": "ghetto-bay",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Dee Why",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.75,
+                "lng": 151.286
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4e4a5c9318a83cda37da9743",
+                "foursquare_url": "http://4sq.com/nRTVUA"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/home_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 13,
+              "count": 9,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2672027,
+                  "user": {
+                    "uid": 2672027,
+                    "user_name": "Ggeers",
+                    "first_name": "Glenn",
+                    "last_name": "G.",
+                    "bio": "Home is where the beer is.",
+                    "location": "I come from a land downunder",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3ca7db6b62c34bba82f9213710386810_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 570110329,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 20:56:16 +0000"
+                },
+                {
+                  "uid": 3090309,
+                  "user": {
+                    "uid": 3090309,
+                    "user_name": "Mayhemms",
+                    "first_name": "Joel",
+                    "last_name": "",
+                    "bio": "Amateur beer taster looking to go pro. ",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/98202863a0d70d9a2fd701e7c7450f57_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 570011369,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 17:57:18 +0000"
+                },
+                {
+                  "uid": 3231877,
+                  "user": {
+                    "uid": 3231877,
+                    "user_name": "Dustin_J",
+                    "first_name": "Dustin",
+                    "last_name": "J.",
+                    "bio": "",
+                    "location": "KCMO",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/8b78209629a8fff8802bcc5fa8ed0168_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 570001034,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 17:36:20 +0000"
+                },
+                {
+                  "uid": 2366717,
+                  "user": {
+                    "uid": 2366717,
+                    "user_name": "kernow",
+                    "first_name": "Dave kernow ",
+                    "last_name": "",
+                    "bio": "A Cornishman Living In Suffolk...... Camra Member (West Suffolk and Borders Branch) on 1001 beers journey.",
+                    "location": "England ",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/413f08fc78dfb07b560b182fe7b8210d_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569923168,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 12:34:19 +0000"
+                },
+                {
+                  "uid": 2795150,
+                  "user": {
+                    "uid": 2795150,
+                    "user_name": "AndyTheBeerTaster",
+                    "first_name": "Andreas ツ",
+                    "last_name": "@.",
+                    "bio": "Have fun, be blessed & cheers 2 u!\nA warm welcome from Switzerland.",
+                    "location": "Bern, Switzerland",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7e641663faf839af6c58da88098acb9d_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569922464,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 12:29:14 +0000"
+                },
+                {
+                  "uid": 2460355,
+                  "user": {
+                    "uid": 2460355,
+                    "user_name": "GlennD64",
+                    "first_name": "Glenn",
+                    "last_name": "D.",
+                    "bio": "“A bottle of beer contains more philosophy than all the books in the world.” Louis Pasteur.",
+                    "location": "Newcastle, Australia",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/8255d4bca737bb5033452c6e3ae9e6e2_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569922267,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 12:28:01 +0000"
+                },
+                {
+                  "uid": 5294310,
+                  "user": {
+                    "uid": 5294310,
+                    "user_name": "ChuysCantina",
+                    "first_name": "Jesse ",
+                    "last_name": "G.",
+                    "bio": "Hombre!!!  That was good!!",
+                    "location": "Grand Rapids, MI",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/ac5648c34614d7be4682ed3053e50985_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569920429,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 12:15:54 +0000"
+                },
+                {
+                  "uid": 915616,
+                  "user": {
+                    "uid": 915616,
+                    "user_name": "Arthurdewit",
+                    "first_name": "Arthur",
+                    "last_name": "",
+                    "bio": "Likes drinking with friends",
+                    "location": "woerden",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3bf1622f8c0d032c4a1f9021c0178a7a_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569913613,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 11:27:53 +0000"
+                },
+                {
+                  "uid": 215273,
+                  "user": {
+                    "uid": 215273,
+                    "user_name": "SwillyGal",
+                    "first_name": "Helen",
+                    "last_name": "",
+                    "bio": "so much beer, so little time....\n\nlenny.untappd@gmail.com",
+                    "location": "Melbourne, Oz",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/a5c8cce17371c1819c378fff975670b2_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569912804,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 11:22:16 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 195434449,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/d7400b4c0a3fa2038094d80fd5a3c147_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/d7400b4c0a3fa2038094d80fd5a3c147_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/d7400b4c0a3fa2038094d80fd5a3c147_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/d7400b4c0a3fa2038094d80fd5a3c147_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 659749298,
+            "created_at": "Fri, 05 Oct 2018 10:21:38 +0000",
+            "checkin_comment": "Friday’s for the win.",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1298384,
+              "user_name": "pete_dicko",
+              "first_name": "Peter",
+              "last_name": "D.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/41634475db0c71911ac1d94599a14fbd_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5800108,
+              "venue_name": "Lard Lad Donuts",
+              "venue_slug": "lard-lad-donuts",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Australia",
+                "lat": -33.89,
+                "lng": 151.131
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "58709c14727ba307bf7e9c25",
+                "foursquare_url": "http://4sq.com/2iSwTjM"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2672027,
+                  "user": {
+                    "uid": 2672027,
+                    "user_name": "Ggeers",
+                    "first_name": "Glenn",
+                    "last_name": "G.",
+                    "bio": "Home is where the beer is.",
+                    "location": "I come from a land downunder",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3ca7db6b62c34bba82f9213710386810_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 570109607,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 20:55:00 +0000"
+                },
+                {
+                  "uid": 1325570,
+                  "user": {
+                    "uid": 1325570,
+                    "user_name": "Octobernights",
+                    "first_name": "Andrew",
+                    "last_name": "D.",
+                    "bio": "",
+                    "location": "Sydney , Australia",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/8c67f22e913661f70d9ff1566a9489c8_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569907183,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 10:36:41 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 195433678,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/5c590087d0723a7ac26844bbb63d5d7e_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/5c590087d0723a7ac26844bbb63d5d7e_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/5c590087d0723a7ac26844bbb63d5d7e_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/5c590087d0723a7ac26844bbb63d5d7e_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133404,
+                  "user_badge_id": 403074743,
+                  "badge_name": "For the Can (Level 51)",
+                  "badge_description": "Canning is all the rage and it's not hard to see why - travels well, more environmentally friendly, and no need to carry your bottle opener. That's 255 checkins with the serving style of Can. Try 5 more for Level 52!",
+                  "created_at": "Fri, 05 Oct 2018 10:21:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_GloryCan_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_GloryCan_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_GloryCan_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 659748773,
+            "created_at": "Fri, 05 Oct 2018 10:13:23 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 2154933,
+              "user_name": "Smithysman",
+              "first_name": "Alex",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/dc4a5b959f989e4d8ad091536612ac42_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 659746485,
+            "created_at": "Fri, 05 Oct 2018 09:26:52 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 1325570,
+              "user_name": "Octobernights",
+              "first_name": "Andrew",
+              "last_name": "D.",
+              "location": "Sydney , Australia",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/8c67f22e913661f70d9ff1566a9489c8_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5800108,
+              "venue_name": "Lard Lad Donuts",
+              "venue_slug": "lard-lad-donuts",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Australia",
+                "lat": -33.89,
+                "lng": 151.131
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "58709c14727ba307bf7e9c25",
+                "foursquare_url": "http://4sq.com/2iSwTjM"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 4,
+              "count": 3,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2672027,
+                  "user": {
+                    "uid": 2672027,
+                    "user_name": "Ggeers",
+                    "first_name": "Glenn",
+                    "last_name": "G.",
+                    "bio": "Home is where the beer is.",
+                    "location": "I come from a land downunder",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3ca7db6b62c34bba82f9213710386810_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569905230,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 10:20:37 +0000"
+                },
+                {
+                  "uid": 1298384,
+                  "user": {
+                    "uid": 1298384,
+                    "user_name": "pete_dicko",
+                    "first_name": "Peter",
+                    "last_name": "D.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/41634475db0c71911ac1d94599a14fbd_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569902484,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 09:54:56 +0000"
+                },
+                {
+                  "uid": 2549403,
+                  "user": {
+                    "uid": 2549403,
+                    "user_name": "Gav679",
+                    "first_name": "Gav",
+                    "last_name": "",
+                    "bio": "I like beer, that's why I'm here!",
+                    "location": "Sydeney",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/0d646eca9b3c2b3d40714a50fe18ff2e_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569900728,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 09:33:57 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 195432405,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/eb34a5cabcd8d8d0e360b108fde47b04_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/eb34a5cabcd8d8d0e360b108fde47b04_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/eb34a5cabcd8d8d0e360b108fde47b04_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/eb34a5cabcd8d8d0e360b108fde47b04_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 659745482,
+            "created_at": "Fri, 05 Oct 2018 09:04:19 +0000",
+            "checkin_comment": "Really nice",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 3439416,
+              "user_name": "djowen88",
+              "first_name": "daniel",
+              "last_name": "o.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/e7ed058c0ecbb154abcf4d96f8fd591a_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2963988,
+              "venue_name": "Boilermaker House",
+              "venue_slug": "boilermaker-house",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_name": "Whisky Bar",
+                    "category_id": "4bf58dd8d48988d122941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Cocktail Bar",
+                    "category_id": "4bf58dd8d48988d11e941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "209-211 Lonsdale St",
+                "venue_city": "Melbourne",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.8113,
+                "lng": 144.966
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://boilermakerhouse.com.au/"
+              },
+              "foursquare": {
+                "foursquare_id": "552db1fd498ef6abfdb29b4c",
+                "foursquare_url": "http://4sq.com/1OyOFiL"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_2963988_1d3cdf90_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_2963988_1d3cdf90_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_2963988_1d3cdf90_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3443572,
+                  "user": {
+                    "uid": 3443572,
+                    "user_name": "ssjtrunks77",
+                    "first_name": "Ryan",
+                    "last_name": "E.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/a3eab5dec6266d944684c56d252e792c_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569902002,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 09:49:31 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 65596,
+                  "user_badge_id": 403070886,
+                  "badge_name": "Middle of the Road (Level 61)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 305 beers with an ABV greater than 5% and less than 10%.  Try 5 more for Level 62!",
+                  "created_at": "Fri, 05 Oct 2018 09:04:19 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 659745174,
+            "created_at": "Fri, 05 Oct 2018 08:57:41 +0000",
+            "checkin_comment": "I like",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 538877,
+              "user_name": "Jacko1971",
+              "first_name": "Dale",
+              "last_name": "J.",
+              "location": "Hobart",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/78f32f39b7e8a3a869ec6ed6d6e0ad30_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 195431895,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2018_10_05/f5beeab92d99bdea95e90af68d8dc0c5_c_659745174_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2018_10_05/f5beeab92d99bdea95e90af68d8dc0c5_c_659745174_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2018_10_05/f5beeab92d99bdea95e90af68d8dc0c5_c_659745174_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2018_10_05/f5beeab92d99bdea95e90af68d8dc0c5_c_659745174_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 93347,
+                  "user_badge_id": 403070597,
+                  "badge_name": "I Believe in IPA! (Level 62)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 310 different IPAs.  Try 5 more for Level 63!",
+                  "created_at": "Fri, 05 Oct 2018 08:57:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 659741190,
+            "created_at": "Fri, 05 Oct 2018 07:21:32 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 241499,
+              "user_name": "pewilee12",
+              "first_name": "Lee",
+              "last_name": "W.",
+              "location": "Melbourne, Australia",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/02bf13899ffa6adac68bcfbe77b0d3d0_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2963988,
+              "venue_name": "Boilermaker House",
+              "venue_slug": "boilermaker-house",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_name": "Whisky Bar",
+                    "category_id": "4bf58dd8d48988d122941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Cocktail Bar",
+                    "category_id": "4bf58dd8d48988d11e941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "209-211 Lonsdale St",
+                "venue_city": "Melbourne",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.8113,
+                "lng": 144.966
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://boilermakerhouse.com.au/"
+              },
+              "foursquare": {
+                "foursquare_id": "552db1fd498ef6abfdb29b4c",
+                "foursquare_url": "http://4sq.com/1OyOFiL"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_2963988_1d3cdf90_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_2963988_1d3cdf90_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_2963988_1d3cdf90_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 34171,
+                  "user": {
+                    "uid": 34171,
+                    "user_name": "vicbeeroclock",
+                    "first_name": "VBOC",
+                    "last_name": "",
+                    "bio": "A Bloke from the Bush.",
+                    "location": "The Bush",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/206fe01cd89139ed5a3d1fd5e1365eeb_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569891349,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 07:33:37 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 195430295,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/a35a1158d55f80e7fc51b8a6a7bdc986_200x200.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/a35a1158d55f80e7fc51b8a6a7bdc986_640x640.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/a35a1158d55f80e7fc51b8a6a7bdc986_1280x1280.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/a35a1158d55f80e7fc51b8a6a7bdc986_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 243506,
+                  "user_badge_id": 403066665,
+                  "badge_name": "Brewery Pioneer (Level 11)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 55 different breweries. Try 5 more for Level 12!",
+                  "created_at": "Fri, 05 Oct 2018 07:21:33 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 659739313,
+            "created_at": "Fri, 05 Oct 2018 06:42:48 +0000",
+            "checkin_comment": "So much hoppy goodness.",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2482072,
+              "user_name": "GrogMundi",
+              "first_name": "Corry",
+              "last_name": "A.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/97bfdf60480ec3849b18e68e002bf507_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 5966681,
+                  "user": {
+                    "uid": 5966681,
+                    "user_name": "VasuDrinksBeers",
+                    "first_name": "Vasu",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/e70ac8d0e1166f99f272c027b4bf0da0?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569918522,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 12:02:24 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 195429607,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/ba1155e42a2c9a90f0c9df08042ee77d_200x200.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/ba1155e42a2c9a90f0c9df08042ee77d_640x640.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/ba1155e42a2c9a90f0c9df08042ee77d_1280x1280.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/ba1155e42a2c9a90f0c9df08042ee77d_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 659738359,
+            "created_at": "Fri, 05 Oct 2018 06:22:08 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 696278,
+              "user_name": "Ror",
+              "first_name": "Rory",
+              "last_name": "M.",
+              "location": "Freshwater",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/6b4ca2cd8b18f6ae1354ed572ed2f0ad_thumb.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 34171,
+                  "user": {
+                    "uid": 34171,
+                    "user_name": "vicbeeroclock",
+                    "first_name": "VBOC",
+                    "last_name": "",
+                    "bio": "A Bloke from the Bush.",
+                    "location": "The Bush",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/206fe01cd89139ed5a3d1fd5e1365eeb_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569886838,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 06:29:45 +0000"
+                },
+                {
+                  "uid": 550152,
+                  "user": {
+                    "uid": 550152,
+                    "user_name": "Bradflowers",
+                    "first_name": "Brad",
+                    "last_name": "F.",
+                    "bio": "Ever feel like Craft Beer has taken over your life",
+                    "location": "Sydney",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/fa64365a8f00c5a4a40fc6ae5dfd8913_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569886324,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 06:23:50 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 659736748,
+            "created_at": "Fri, 05 Oct 2018 05:53:11 +0000",
+            "checkin_comment": "First sample of core range, just as good as seasonal. Getting a bit more melon & other tropical fruits rather than usual gang.",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 3744862,
+              "user_name": "Travis_Capt",
+              "first_name": "Travis",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/5466c0410aeeeeaa4092c22716bddd3c_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 5094034,
+                  "user": {
+                    "uid": 5094034,
+                    "user_name": "Sinpai",
+                    "first_name": "Evan",
+                    "last_name": "C.",
+                    "bio": "Now this is a story all about how Untappd flipped my life turned upside down",
+                    "location": "Brunswick in heart, Collingwood in spirit.",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/15b77ef826432d48b630d4baa243d67e_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569896099,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 08:33:59 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 195428743,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/6dde0d1884483ef06d4782d1b53b0866_200x200.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/6dde0d1884483ef06d4782d1b53b0866_640x640.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/6dde0d1884483ef06d4782d1b53b0866_1280x1280.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/6dde0d1884483ef06d4782d1b53b0866_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 659719071,
+            "created_at": "Fri, 05 Oct 2018 03:27:34 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 183762,
+              "user_name": "marlin",
+              "first_name": "Ben",
+              "last_name": "",
+              "location": "NM",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/dc1f32f244b6cb88f67f00ac4e8eef25_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8066,
+              "venue_name": "The Australian Heritage Hotel",
+              "venue_slug": "the-australian-heritage-hotel",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Hotel",
+                    "category_id": "4bf58dd8d48988d1fa931735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Pizza Place",
+                    "category_id": "4bf58dd8d48988d1ca941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_name": "Australian Restaurant",
+                    "category_id": "4bf58dd8d48988d169941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "100 Cumberland St",
+                "venue_city": "The Rocks",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8596,
+                "lng": 151.207
+              },
+              "contact": {
+                "twitter": "@australianhotel",
+                "venue_url": "http://australianheritagehotel.com/"
+              },
+              "foursquare": {
+                "foursquare_id": "4b161b8ff964a520f4b623e3",
+                "foursquare_url": "http://4sq.com/7DP4nk"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_8066_9c6c49e2_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_8066_9c6c49e2_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_8066_9c6c49e2_bg_88.png"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 168196,
+                  "user_badge_id": 403043749,
+                  "badge_name": "Taster, Please (Level 10)",
+                  "badge_description": "At a new place and don't want to choose a pint of something you may not like? Grab a few tasters! Enjoy some small pours and then decide which to upgrade to a full pour. That's 50 checkins with the serving style of Taster. Try 5 more for Level 11!",
+                  "created_at": "Fri, 05 Oct 2018 03:27:34 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TastersPlease_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TastersPlease_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TastersPlease_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 659706120,
+            "created_at": "Fri, 05 Oct 2018 02:39:21 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 2219872,
+              "user_name": "JohnA300",
+              "first_name": "John",
+              "last_name": "A.",
+              "location": "Brisneyland, Australia",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/37a25b6c2c21507aaf122ec584a1ff68_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2221333,
+              "venue_name": "Malt Traders",
+              "venue_slug": "malt-traders",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_name": "Liquor Store",
+                    "category_id": "4bf58dd8d48988d186941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "10 Market St",
+                "venue_city": "Brisbane",
+                "venue_state": "QLD",
+                "venue_country": "Australia",
+                "lat": -27.4696,
+                "lng": 153.03
+              },
+              "contact": {
+                "twitter": "@malttraders",
+                "venue_url": "http://malttraders.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "544f48b2498e810408ea72cb",
+                "foursquare_url": "http://4sq.com/ZVk2jd"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3597461,
+                  "user": {
+                    "uid": 3597461,
+                    "user_name": "chaosworrier",
+                    "first_name": "©haos",
+                    "last_name": "➿.",
+                    "bio": "I have been drinking good beer for many years but only recently got convinced to keep my tasting notes in Untappd.",
+                    "location": "Brisbane",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/78c688e5ffef8df0e7b5c3676d5e686c_100x100.gif",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569856550,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 03:16:40 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 659671394,
+            "created_at": "Fri, 05 Oct 2018 01:17:24 +0000",
+            "checkin_comment": "Lci. Solid!",
+            "rating_score": 4,
+            "user": {
+              "uid": 1008611,
+              "user_name": "Lucazoccatelli",
+              "first_name": "Luca",
+              "last_name": "Z.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Wog boy with a passion for craft beer",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/3e3f439b073218a8ffd9c1e159b7a0c2_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4064573,
+                  "user": {
+                    "uid": 4064573,
+                    "user_name": "Beer_Newb",
+                    "first_name": "Beer",
+                    "last_name": " .",
+                    "bio": "So many beers, not enough time or $$",
+                    "location": "Cairns",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/acbb58c1de25e78eb57bfed1b5ad0724_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569883971,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 06:00:01 +0000"
+                },
+                {
+                  "uid": 1073630,
+                  "user": {
+                    "uid": 1073630,
+                    "user_name": "Enjoyingcraftbeers",
+                    "first_name": "George",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Umina Beach, Australia ",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/2e5447a6ace2075d971130c5906a8cc1_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 569833191,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Oct 2018 02:08:25 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 195407290,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_10_05/576246ac1b87c50cbb6270bd2269401a_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_10_05/576246ac1b87c50cbb6270bd2269401a_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_10_05/576246ac1b87c50cbb6270bd2269401a_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_10_05/576246ac1b87c50cbb6270bd2269401a_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 659427408,
+            "created_at": "Thu, 04 Oct 2018 11:39:49 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 4189826,
+              "user_name": "k_veitch",
+              "first_name": "Keith",
+              "last_name": "V.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/0dd641c952ff03965ccf8795a408f178?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1863243,
+              "beer_name": "Mosaic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1863243_79d8f_sm.jpeg",
+              "beer_abv": 7.2,
+              "beer_ibu": 60,
+              "beer_slug": "akasha-brewing-company-australia-mosaic-ipa",
+              "beer_description": "Mosaic is without a doubt the favourite hop of our brewers. Bursting with tropical fruit, peach and melon on the nose and palate, balanced by a moderate bitterness and light malt base.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company (Australia)",
+              "brewery_slug": "akasha-brewing-company-australia",
+              "brewery_page_url": "/akashabrew",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_53073.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "NSW",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/1863243?max_id=659764105",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/1863243?max_id=659427408",
+          "max_id": 659427408
+        }
+      },
+      "similar": {
+        "method": "es",
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.0324,
+            "beer": {
+              "bid": 828339,
+              "beer_name": "Cluster 8",
+              "beer_abv": 8.8,
+              "beer_ibu": 65,
+              "beer_slug": "bentspoke-brewing-co-cluster-8",
+              "beer_style": "IPA - Imperial / Double",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-828339_193ff_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 134857,
+              "brewery_name": "Bentspoke Brewing Co",
+              "brewery_slug": "bentspoke-brewing-co",
+              "brewery_page_url": "/BentspokeBrewingCo",
+              "brewery_type": "Brew Pub",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-134857_58058.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BentSpokeBeer",
+                "facebook": "https://www.facebook.com/BentSpokeBrewing",
+                "instagram": "",
+                "url": "http://www.bentspokebrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Braddon",
+                "brewery_state": "ACT",
+                "lat": -35.273,
+                "lng": 149.132
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.15729,
+            "beer": {
+              "bid": 2744223,
+              "beer_name": "Music City Hazy Mosaic IPA",
+              "beer_abv": 6.3,
+              "beer_ibu": 40,
+              "beer_slug": "behemoth-brewing-company-music-city-hazy-mosiac-ipa",
+              "beer_style": "IPA - New England",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2744223_87796_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 73616,
+              "brewery_name": "Behemoth Brewing Company",
+              "brewery_slug": "behemoth-brewing-company",
+              "brewery_page_url": "/BehemothBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-73616_cc140.jpeg",
+              "country_name": "New Zealand",
+              "contact": {
+                "twitter": "BehemothbeerNZ",
+                "facebook": "https://www.facebook.com/BehemothBrewingCompany",
+                "instagram": "behemothbrewingcompany",
+                "url": "http://www.behemothbrewing.co.nz/"
+              },
+              "location": {
+                "brewery_city": "Auckland",
+                "brewery_state": "",
+                "lat": -36.8485,
+                "lng": 174.763
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.80432,
+            "beer": {
+              "bid": 2531082,
+              "beer_name": "Unfazed By The Haze",
+              "beer_abv": 6.2,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-unfazed-by-the-haze",
+              "beer_style": "IPA - New England",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2531082_2f615_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_06438.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "instagram": "PirateLifeBeer",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Hindmarsh",
+                "brewery_state": "SA",
+                "lat": -34.9056,
+                "lng": 138.566
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 0,
+            "beer": {
+              "bid": 2870472,
+              "beer_name": "NZ IPA",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "noosa-beer-co-nz-ipa",
+              "beer_style": "IPA - International",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 361290,
+              "brewery_name": "Noosa Beer Co.",
+              "brewery_slug": "noosa-beer-co",
+              "brewery_page_url": "/w/noosa-beer-co/361290",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-361290_71a2c.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/thenoosabeercompany/",
+                "instagram": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Noosaville",
+                "brewery_state": "QLD",
+                "lat": -26.4185,
+                "lng": 153.046
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.21536,
+            "beer": {
+              "bid": 2819171,
+              "beer_name": "The Dawn",
+              "beer_abv": 9,
+              "beer_ibu": 0,
+              "beer_slug": "hop-nation-brewing-co-the-dawn",
+              "beer_style": "IPA - Imperial / Double New England",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2819171_b5425_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 205876,
+              "brewery_name": "Hop Nation Brewing Co",
+              "brewery_slug": "hop-nation-brewing-co",
+              "brewery_page_url": "/HopNationBrewingCo",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-205876_e6298.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "hopnationbeer",
+                "facebook": "https://www.facebook.com/HopNationBrewery",
+                "instagram": "hopnationbeer",
+                "url": "http://www.hopnation.com.au"
+              },
+              "location": {
+                "brewery_city": "Footscray",
+                "brewery_state": "VIC",
+                "lat": -37.8101,
+                "lng": 144.904
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.93208,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

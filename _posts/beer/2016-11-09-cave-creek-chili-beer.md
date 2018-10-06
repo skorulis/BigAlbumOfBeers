@@ -9,7 +9,7 @@ brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
 breweryURL: "/brewery/cerveceria-mexicana-s-de-r-l-de-c-v-tecate.html"
 style: "Spiced / Herbed Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1378394_10152001620853745_543682046_n.jpg?_nc_cat=0&oh=cc1ceec35a363d3e5f1b90ffe493eea6&oe=5BC458D7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1378394_10152001620853745_543682046_n.jpg?_nc_cat=106&oh=1bbc15daa354bd731b50b6343584339f&oe=5C628CD7
 beer-date: "2013-10-25"
 desc: "A nice balance of chilli and beer. And yes that is a whole chilli in the bottle"
 permalink: /beer/:title.html

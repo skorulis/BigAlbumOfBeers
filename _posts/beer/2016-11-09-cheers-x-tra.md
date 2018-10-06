@@ -9,7 +9,7 @@ brewery: "Thai Asia Pacific Brewery"
 breweryURL: "/brewery/thai-asia-pacific-brewery.html"
 style: "Lager - Euro Strong"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11201812_10153656865613745_2836886776655090085_n.jpg?_nc_cat=0&oh=c86dbf1a759eeb2a402ec88540b20a42&oe=5B801F38
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11201812_10153656865613745_2836886776655090085_n.jpg?_nc_cat=110&oh=a0251a25a14e44dda748c830faf36152&oe=5C1E5338
 beer-date: "2015-10-17"
 desc: "A slightly stronger and nicer version of the regular cheers"
 permalink: /beer/:title.html

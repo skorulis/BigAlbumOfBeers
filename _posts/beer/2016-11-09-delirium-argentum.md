@@ -9,7 +9,7 @@ brewery: "Brouwerij Huyghe"
 breweryURL: "/brewery/brouwerij-huyghe.html"
 style: "IPA - Belgian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13256284_10154147274343745_1195107616388760793_n.jpg?_nc_cat=0&oh=f6ff3c3579bd51bde971cafc2c19bf24&oe=5B84F08C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13256284_10154147274343745_1195107616388760793_n.jpg?_nc_cat=106&oh=ac4de0809becd6dfd27e51f9a8f22753&oe=5C4AB18C
 beer-date: "2016-05-24"
 desc: "Had a slightly metallic taste to start but otherwise it’s a really clean and crisp beer. Much milder in taste than other Belgian beers. I’m beginning to get the feeling that Belgian IPAs don’t have the hop profile that I expect"
 permalink: /beer/:title.html
