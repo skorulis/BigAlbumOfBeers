@@ -9,7 +9,7 @@ brewery: "Willie The Boatman"
 breweryURL: "/brewery/willie-the-boatman.html"
 style: "Saison / Farmhouse Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43331231_10156603266898745_6560196935548928000_n.jpg?_nc_cat=108&oh=e0c9b62c5a4dadd84f767b9e44f9710e&oe=5C198006
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43331231_10156603266898745_6560196935548928000_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=ebb2cd5ca190512a23635a5b9de1a7ca&oe=5C410D06
 beer-date: "2018-10-05"
 desc: "Very smooth with a bit of saison. Lots of banana making it feel really fruity"
 permalink: /beer/:title.html

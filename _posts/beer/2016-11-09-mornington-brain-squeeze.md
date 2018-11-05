@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Sour - Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664423_10155251935023745_9083513875473421779_n.jpg?_nc_cat=104&oh=620a2f946f34e18d0986fca1419f827c&oe=5C62FDBF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664423_10155251935023745_9083513875473421779_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=26e73ef180c5adaa8cd2f8b8742d4c39&oe=5C8A8ABF
 beer-date: "2017-05-27"
 desc: "Classic Mornington quality. Slightly sour and easy drinking. A good all day beverage"
 permalink: /beer/:title.html

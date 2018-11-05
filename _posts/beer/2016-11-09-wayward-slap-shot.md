@@ -9,7 +9,7 @@ brewery: "Wayward Brewing"
 breweryURL: "/brewery/wayward-brewing.html"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43255894_10156603261553745_3815981380530077696_n.jpg?_nc_cat=110&oh=ace127d8c3f145e51b5c8655bf270c80&oe=5C1D4399
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43255894_10156603261553745_3815981380530077696_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=a96ee2de2b99c7856eb1755f03e4a810&oe=5C44D099
 beer-date: "2018-10-05"
 desc: "Nice mix of hops and stout flavours. Really fits together well. Not a style you see often but worth trying. Goes down very easy"
 permalink: /beer/:title.html

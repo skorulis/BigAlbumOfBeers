@@ -9,7 +9,7 @@ brewery: "Stone Brewing"
 breweryURL: "/brewery/stone-brewing.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43167124_10156603265528745_5828110482816368640_n.jpg?_nc_cat=111&oh=be63e4b3b0474b2cc41f76485453ac0b&oe=5C4DE329
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43167124_10156603265528745_5828110482816368640_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=22f4053076f8589d84cae6d7eb20f396&oe=5C757029
 beer-date: "2018-10-05"
 desc: "Starts off slightly sour but ok once you get used to that"
 permalink: /beer/:title.html

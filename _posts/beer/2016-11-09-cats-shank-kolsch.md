@@ -9,7 +9,7 @@ brewery: "Sail & Anchor"
 breweryURL: "/brewery/sail-anchor.html"
 style: "Kölsch"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10491226_10152534290818745_8400776013361245843_n.jpg?_nc_cat=111&oh=06a1141f4a37d8a5afdc912c297b309f&oe=5C5A111F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10491226_10152534290818745_8400776013361245843_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=24c93b602ddc7a3221632677d14fbf9e&oe=5C819E1F
 beer-date: "2014-06-21"
 desc: "Good all round"
 permalink: /beer/:title.html

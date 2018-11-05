@@ -9,7 +9,7 @@ brewery: "Tuatara Brewery"
 breweryURL: "/brewery/tuatara-brewery.html"
 style: "Pale Ale - Australian"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13423884_10154200939238745_5620898802714048410_n.jpg?_nc_cat=110&oh=8725719e2ebef42501e025b32405c113&oe=5C15BC4F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13423884_10154200939238745_5620898802714048410_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=e8dc142aeb02ec9fb738c81d52d2fe6b&oe=5C3D494F
 beer-date: "2016-06-16"
 desc: "More of a Belgian flavour than I expected. Ok but not great"
 permalink: /beer/:title.html

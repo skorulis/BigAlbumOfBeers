@@ -9,7 +9,7 @@ brewery: "Hermitage Brewing"
 breweryURL: "/brewery/hermitage-brewing.html"
 style: "Sour - Ale"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34157345_10156301083338745_5245427388052930560_n.jpg?_nc_cat=109&oh=6fe735763aae79e30b0f854fb13f8e23&oe=5C4B1DB8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34157345_10156301083338745_5245427388052930560_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=b56d8152ce826a237345a79d3088c160&oe=5C72AAB8
 beer-date: "2018-06-02"
 desc: "A slow drinking beer full of flavour. Low bitterness but lots of sour. That almond cherry mix is just amazing"
 permalink: /beer/:title.html

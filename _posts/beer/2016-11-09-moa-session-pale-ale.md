@@ -9,7 +9,7 @@ brewery: "Moa Brewing Company"
 breweryURL: "/brewery/moa-brewing-company.html"
 style: "Pale Ale - New Zealand"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717761_10153890412778745_1469082473536049223_n.jpg?_nc_cat=109&oh=73c44939b618f5aab5352e4df1c15dbb&oe=5C1A7B3D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717761_10153890412778745_1469082473536049223_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=a002b1203e48a20fe4898306ca6b2677&oe=5C42083D
 beer-date: "2016-02-14"
 desc: "A little bit harsh for a session beer"
 permalink: /beer/:title.html

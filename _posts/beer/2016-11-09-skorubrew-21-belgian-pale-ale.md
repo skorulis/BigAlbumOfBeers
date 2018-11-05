@@ -8,7 +8,7 @@ brewery: "Skorubrew"
 breweryURL: "/brewery/skorubrew.html"
 style: "Belgian pale ale"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22885784_10155717525748745_9073232650232623693_n.jpg?_nc_cat=110&oh=0f0c499645638418dc6f75223e0d9100&oe=5C1D1BDB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22885784_10155717525748745_9073232650232623693_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=9918dc2d146e81ca3f99c03e716e73b3&oe=5C44A8DB
 beer-date: "2017-10-28"
 desc: "Has a really refreshing sweetness. Starts off really nice but gets a little off towards the end"
 permalink: /beer/:title.html

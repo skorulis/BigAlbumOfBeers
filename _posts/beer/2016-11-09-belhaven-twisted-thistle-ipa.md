@@ -9,7 +9,7 @@ brewery: "Belhaven Brewery"
 breweryURL: "/brewery/belhaven-brewery.html"
 style: "IPA - International"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/943951_10153890422103745_2064605675608289445_n.jpg?_nc_cat=111&oh=b2301964f86f25c798946eb4583f68e6&oe=5C5DD110
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/943951_10153890422103745_2064605675608289445_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=75def65816256b1e9e6215a73accc5e8&oe=5C855E10
 beer-date: "2016-02-14"
 desc: "Started off with a bit of a tang but seemed to lose it towards the end"
 permalink: /beer/:title.html

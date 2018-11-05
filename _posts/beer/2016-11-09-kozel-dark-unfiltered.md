@@ -9,7 +9,7 @@ brewery: "Pivovar Velké Popovice"
 breweryURL: "/brewery/pivovar-velke-popovice.html"
 style: "Lager - Dark"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105703_10155314453768745_28308992826749635_n.jpg?_nc_cat=108&oh=f91fda09971bdbef8080e8a25f1a223f&oe=5C60E13D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105703_10155314453768745_28308992826749635_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=1b2be505f1386d20aee5bf8160d17ebb&oe=5C886E3D
 beer-date: "2017-06-15"
 desc: "Mild in flavour and quite easy drinking. A little sweet but not malty. Not what you would expect from a dark beer"
 permalink: /beer/:title.html

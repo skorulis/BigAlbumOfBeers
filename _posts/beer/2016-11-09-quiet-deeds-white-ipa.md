@@ -9,7 +9,7 @@ brewery: "Red Island Brewing Co."
 breweryURL: "/brewery/red-island-brewing-co.html"
 style: "IPA - White"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q84/p480x480/11053929_10153268257438745_724512553237905656_n.jpg?_nc_cat=104&oh=47a89ec0e24ff8035c961cf308651ec7&oe=5C168215
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q84/p480x480/11053929_10153268257438745_724512553237905656_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=d7f08bad360a0582f50c891ae8519755&oe=5C3E0F15
 beer-date: "2015-05-01"
 desc: "A strange combination. Maybe not quite one I could get used to"
 permalink: /beer/:title.html

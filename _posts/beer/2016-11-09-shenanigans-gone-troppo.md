@@ -9,7 +9,7 @@ brewery: "Shenanigans Brewing Co."
 breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16681785_10154923952078745_6704547861926255458_n.jpg?_nc_cat=105&oh=fbcc843c2e72b695a5febf4fda9c7a37&oe=5C527775
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16681785_10154923952078745_6704547861926255458_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=ecfc8cc5ea601b37894906f160654f61&oe=5C7A0475
 beer-date: "2017-02-11"
 desc: "Tropical smell but not too strong. They've managed to get a lot of tropical flavour in there as well. Still had the bitterness of an IPA but it's not overwhelming. All round a delicious beer that delivers what it promises"
 permalink: /beer/:title.html

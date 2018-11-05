@@ -9,7 +9,7 @@ brewery: "Bath Ales"
 breweryURL: "/brewery/bath-ales.html"
 style: "English Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/423793_10151694518423745_774842906_n.jpg?_nc_cat=100&oh=e61bdb1f30f35b5887792d020e1c04bf&oe=5C57D0BF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/423793_10151694518423745_774842906_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=5489b02bea889c0048590f12dcc12260&oe=5C7F5DBF
 beer-date: "2013-05-25"
 desc: "Not too bitter"
 permalink: /beer/:title.html

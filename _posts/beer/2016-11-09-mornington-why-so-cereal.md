@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13062012_10154072540558745_5299069403089933354_n.jpg?_nc_cat=100&oh=bcca4dd81c29c537fdf68c2fc2611ab4&oe=5C5C42AE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13062012_10154072540558745_5299069403089933354_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=9d8dc825540a597511f46a74eaae8cf5&oe=5C83CFAE
 beer-date: "2016-04-21"
 desc: "Really nice. Not too strong on flavour but well balanced. Give it a go if you're new to pale ales"
 permalink: /beer/:title.html

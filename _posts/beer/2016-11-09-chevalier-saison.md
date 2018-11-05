@@ -9,7 +9,7 @@ brewery: "Bridge Road Brewers"
 breweryURL: "/brewery/bridge-road-brewers.html"
 style: "Saison / Farmhouse Ale"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34092569_10156301077293745_9075028427706204160_n.jpg?_nc_cat=102&oh=3249eba267d784ac70c1f44a80fe2d15&oe=5C5AA9AB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34092569_10156301077293745_9075028427706204160_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=fed57311ab02ce884e22cd8c62a4b384&oe=5C8236AB
 beer-date: "2018-06-02"
 desc: "Takes a little getting used to. Strong  Belgian taste"
 permalink: /beer/:title.html

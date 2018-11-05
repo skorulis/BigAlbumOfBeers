@@ -9,7 +9,7 @@ brewery: "Golden Road Brewing"
 breweryURL: "/brewery/golden-road-brewing.html"
 style: "Stout - Imperial / Double"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195202_10154858218653745_3692327285212141901_n.jpg?_nc_cat=101&oh=a32fb64a80bec3b8ec569ad24d7fe6ea&oe=5C54B929
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195202_10154858218653745_3692327285212141901_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=20fbf607a0957922819724523055ae84&oe=5C7C4629
 beer-date: "2017-01-21"
 desc: "You can really taste the gingerbread. There's also a lot of stoutiness. Can't say I would buy another but it's very interesting"
 permalink: /beer/:title.html

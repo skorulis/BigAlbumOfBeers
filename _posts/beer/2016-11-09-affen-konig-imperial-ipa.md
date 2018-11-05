@@ -9,7 +9,7 @@ brewery: "Brew Age"
 breweryURL: "/brewery/brew-age.html"
 style: "IPA - Imperial / Double"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19990342_10155413263618745_8690826175791103472_n.jpg?_nc_cat=106&oh=453ac79852fad39e7af024d8d9ce204e&oe=5C1F020D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19990342_10155413263618745_8690826175791103472_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=cce6b35d9f2f1796699d4760221b346b&oe=5C468F0D
 beer-date: "2017-07-12"
 desc: "Very floral aroma and rather bitter taste. Could be a little better balanced and have some more hop flavours"
 permalink: /beer/:title.html

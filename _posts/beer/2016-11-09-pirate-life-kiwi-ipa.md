@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "IPA - International"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29133491_10156095060638745_138378516222705664_n.jpg?_nc_cat=107&oh=575529ced879e5c0b88f02367bc09c8a&oe=5C51C413
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29133491_10156095060638745_138378516222705664_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=75c89f6e3aa165a643992fbc0c89f40b&oe=5C795113
 beer-date: "2018-03-13"
 desc: "Fresh pine smell. Taste lacks and big flavours but it fits together well and keeps you coming back for more"
 permalink: /beer/:title.html

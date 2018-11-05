@@ -9,7 +9,7 @@ brewery: "Matilda Bay Brewing Company"
 breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Kristallweizen "
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10488390_10152534290478745_4494982556291999381_n.jpg?_nc_cat=110&oh=b164bcf17521c5b3c972c2a1544e535d&oe=5C61FCD8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10488390_10152534290478745_4494982556291999381_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=88ec37eccb759b260330d4b61d626b06&oe=5C8989D8
 beer-date: "2014-06-21"
 desc: "Reminds me of some belgian beers but not nearly as good"
 permalink: /beer/:title.html

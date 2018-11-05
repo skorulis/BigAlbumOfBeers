@@ -9,7 +9,7 @@ brewery: "Curious Drinks (Chapel Down)"
 breweryURL: "/brewery/curious-drinks-chapel-down.html"
 style: "Pilsner - Other"
 score: 4.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18882102_10155271710078745_1442157124947238559_n.jpg?_nc_cat=106&oh=70a27bacc358219878aca2f85f82d384&oe=5C61451A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18882102_10155271710078745_1442157124947238559_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=9bb6edc837d62642a89e5afd95cde9c7&oe=5C88D21A
 beer-date: "2017-06-02"
 desc: "Surprisingly malty but not much else going on. It was drinkable after already being rather smashed but I wouldn’t want another one"
 permalink: /beer/:title.html

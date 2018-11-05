@@ -9,7 +9,7 @@ brewery: "Tennent's Caledonian Brewery"
 breweryURL: "/brewery/tennents-caledonian-brewery.html"
 style: "Lager - Euro"
 score: 2.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26219911_10155922812728745_3431236915375950282_n.jpg?_nc_cat=107&oh=eba54b91427804b711457b7520989e03&oe=5C4EE45E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26219911_10155922812728745_3431236915375950282_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=6b68142a2af25191777a7bf0934c062d&oe=5C76715E
 beer-date: "2018-01-13"
 desc: "Perhaps not the worst beer I’ve had"
 permalink: /beer/:title.html

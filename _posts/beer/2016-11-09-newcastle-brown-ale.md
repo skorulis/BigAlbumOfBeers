@@ -9,7 +9,7 @@ brewery: "John Smith's"
 breweryURL: "/brewery/john-smiths.html"
 style: "Brown Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644361_10151563845228745_821469901_n.jpg?_nc_cat=108&oh=14193bb1344b553e349702c64bf82977&oe=5C4C34B6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/644361_10151563845228745_821469901_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=6e37cfb93016b282f02da2867a355e7c&oe=5C73C1B6
 beer-date: "2013-03-09"
 desc: "Looks kind of like the runoff from some industrial process. Really makes me wonder what I'm drinking. Amazingly it doesn't taste that bad"
 permalink: /beer/:title.html

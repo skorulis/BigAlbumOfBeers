@@ -9,7 +9,7 @@ brewery: "Founders Brewing Co."
 breweryURL: "/brewery/founders-brewing-co.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11693847_10153438035713745_940540476039083000_n.jpg?_nc_cat=104&oh=309605e0ba5328ae697677d3b6a27d55&oe=5C4A6763
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11693847_10153438035713745_940540476039083000_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=090d812eff0b7ffbda25c963acc21bad&oe=5C71F463
 beer-date: "2015-07-10"
 desc: "Much hoppier than a normal pale"
 permalink: /beer/:title.html

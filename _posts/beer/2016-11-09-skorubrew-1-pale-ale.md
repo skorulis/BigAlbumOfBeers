@@ -8,7 +8,7 @@ brewery: "Skorubrew"
 breweryURL: "/brewery/skorubrew.html"
 style: "Pale Ale - Australian"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13015479_10154072539743745_2413857034853958131_n.jpg?_nc_cat=103&oh=baa6aaeedc881a68b098feaac922bad5&oe=5C571493
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13015479_10154072539743745_2413857034853958131_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=4a73845653092af0498dabad89dbcddf&oe=5C7EA193
 beer-date: "2016-04-21"
 desc: "A bit too much yeastyness which overrides the other flavours, this has reduced considerably as the beer has aged. Otherwise rather mild on flavour without much hop punch"
 permalink: /beer/:title.html

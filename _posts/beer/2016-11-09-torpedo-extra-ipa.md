@@ -9,7 +9,7 @@ brewery: "Sierra Nevada Brewing Co."
 breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10686865_10153055771228745_3010927456136598269_n.jpg?_nc_cat=102&oh=3aeaa3851961528cc5b5be889d1a0dc4&oe=5C4D7C8E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10686865_10153055771228745_3010927456136598269_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=c86bee77cc9373ff0b72b3175f3318c9&oe=5C75098E
 beer-date: "2015-01-29"
 desc: "So much flavour, so much booze. What’s not to love"
 permalink: /beer/:title.html

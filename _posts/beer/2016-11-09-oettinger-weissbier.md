@@ -9,7 +9,7 @@ brewery: "Oettinger Brauerei"
 breweryURL: "/brewery/oettinger-brauerei.html"
 style: "Hefeweizen"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19961169_10155413264653745_242982259120543992_n.jpg?_nc_cat=109&oh=7fff3ed271745aa537f81bbd49ece03a&oe=5C58EB4A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19961169_10155413264653745_242982259120543992_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=872875422d99ef71d016fb3236295e8c&oe=5C80784A
 beer-date: "2017-07-12"
 desc: "A very mild weissbier that works well. Much better than the plain one"
 permalink: /beer/:title.html

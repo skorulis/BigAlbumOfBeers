@@ -9,7 +9,7 @@ brewery: "Brabante Cervezas"
 breweryURL: "/brewery/brabante-cervezas.html"
 style: "Lager - Euro"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13256370_10154147278128745_521618674616706499_n.jpg?_nc_cat=111&oh=d67d8165de137bf75c05c2de18b52de1&oe=5C5EB8F7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13256370_10154147278128745_521618674616706499_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=ddc59866f22c95245a08ee42e44ab53e&oe=5C8645F7
 beer-date: "2016-05-24"
 desc: "Pretty plain lager, slightly better than your standard Australian beers"
 permalink: /beer/:title.html

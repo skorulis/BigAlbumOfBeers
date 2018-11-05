@@ -9,7 +9,7 @@ brewery: "Deeds Brewing"
 breweryURL: "/brewery/deeds-brewing.html"
 style: "IPA - New England"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34300141_10156301077383745_5635550327089397760_n.jpg?_nc_cat=107&oh=0129a04f407513c16d32437c3aebd6e9&oe=5C51DEC1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34300141_10156301077383745_5635550327089397760_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=02ba1c724f289830c2eb9e4cea7d568f&oe=5C796BC1
 beer-date: "2018-06-02"
 desc: "Nice level of juicy ness with just a tad too much bitterness. Nice piney smell but that doesn’t come through much in the taste"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Schloss Eggenberg"
 breweryURL: "/brewery/schloss-eggenberg.html"
 style: "Lager - Helles"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19148922_10155314457583745_560746355570751525_n.jpg?_nc_cat=100&oh=efc627de223c2e607cf1702a90368ba9&oe=5C1E3433
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19148922_10155314457583745_560746355570751525_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=f4d701d3120eab29bb7ea36f72b1a7ef&oe=5C45C133
 beer-date: "2017-06-15"
 desc: "Very plain beer"
 permalink: /beer/:title.html

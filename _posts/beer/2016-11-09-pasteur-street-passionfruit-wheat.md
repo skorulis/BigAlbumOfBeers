@@ -9,7 +9,7 @@ brewery: "Pasteur Street Brewing Company"
 breweryURL: "/brewery/pasteur-street-brewing-company.html"
 style: "Pale Wheat Ale - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27971658_10156021381688745_8424291355965184677_n.jpg?_nc_cat=109&oh=ec0b62edf2b8923981932ec96913fb77&oe=5C1CEBF0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27971658_10156021381688745_8424291355965184677_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=83978f5c403eec3b71dc020ea57f1156&oe=5C4478F0
 beer-date: "2018-02-17"
 desc: "Absolutely full of passionfruit, don’t know how they managed to keep it through fermentation. Low on bitterness with just a slight hint of wheat. Even if you didn’t like beer you would like this"
 permalink: /beer/:title.html

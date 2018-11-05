@@ -9,7 +9,7 @@ brewery: "Yulli's Brews"
 breweryURL: "/brewery/yullis-brews.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29178544_10156095062188745_8420088521141780480_n.jpg?_nc_cat=104&oh=3dcc585d184eeb0021167dbf4a962fa7&oe=5C572EE7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29178544_10156095062188745_8420088521141780480_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=a20f28936e99a0b9f10e3ddc06bbd8fd&oe=5C7EBBE7
 beer-date: "2018-03-13"
 desc: "Not a lot of mango and mostly bitter hops. It’s not a bad beer, but fails to deliver anything spectacular"
 permalink: /beer/:title.html

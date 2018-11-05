@@ -9,7 +9,7 @@ brewery: "BrewCult"
 breweryURL: "/brewery/brewcult.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12112199_10153656866448745_6538817725943333095_n.jpg?_nc_cat=108&oh=3ba304cf5c4fd085c2ce6c20c72b00c2&oe=5C4BBF32
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12112199_10153656866448745_6538817725943333095_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=7e5a081db9496a8a1484157243bad139&oe=5C734C32
 beer-date: "2015-10-17"
 desc: "Gotta love citra hops"
 permalink: /beer/:title.html

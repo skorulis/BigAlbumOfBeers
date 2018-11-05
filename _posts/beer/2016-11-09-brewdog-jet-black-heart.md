@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "Stout - Milk / Sweet"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174548_10154858017753745_1535997877852308223_n.jpg?_nc_cat=109&oh=79c993e4a827022cf73c5d596638df6d&oe=5C5E0C92
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174548_10154858017753745_1535997877852308223_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=7f8c2c4b46cc898c1307a11a785c1b3d&oe=5C859992
 beer-date: "2017-01-21"
 desc: "Reminds me of drinking in Shoreditch. Initially lots of coffee and chocolate but then a slight milkiness. Easy drinking and also lots of flavour"
 permalink: /beer/:title.html

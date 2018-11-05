@@ -9,7 +9,7 @@ brewery: "Fox Hat Brewing"
 breweryURL: "/brewery/fox-hat-brewing.html"
 style: "Lager - Euro Strong"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114917_10154858211963745_3970347282156621209_n.jpg?_nc_cat=110&oh=2b29b9ade5081e98654f1e576047928c&oe=5C5ABE6D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114917_10154858211963745_3970347282156621209_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=6e7ce1f9009d33785ab9ff6a24f80b24&oe=5C824B6D
 beer-date: "2017-01-21"
 desc: "Like taking a regular lager and boosting it in every way. Stronger, more flavour and less harshness. Good for enjoying at a moderate pace"
 permalink: /beer/:title.html

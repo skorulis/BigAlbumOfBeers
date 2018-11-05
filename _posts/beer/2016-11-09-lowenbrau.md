@@ -9,7 +9,7 @@ brewery: "Spaten-Franziskaner-Löwenbräu-Gruppe"
 breweryURL: "/brewery/spaten-franziskaner-lowenbrau-gruppe.html"
 style: "Lager - Helles"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1006322_10151854990003745_1367385970_n.jpg?_nc_cat=108&oh=ba968bc2dcd7448834d1d6aa21be6098&oe=5C4B112B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1006322_10151854990003745_1367385970_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=532c87fef2d3f026f7ad351575bc98a6&oe=5C729E2B
 beer-date: "2013-08-15"
 desc: "An old favourite"
 permalink: /beer/:title.html

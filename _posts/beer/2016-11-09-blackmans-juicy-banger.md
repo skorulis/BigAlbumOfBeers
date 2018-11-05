@@ -9,7 +9,7 @@ brewery: "Blackman's Brewery"
 breweryURL: "/brewery/blackmans-brewery.html"
 style: "Lager - IPL (India Pale Lager)"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34274689_10156301080488745_945050902866165760_n.jpg?_nc_cat=106&oh=c7c97aa108f19db8a64122b9246d0f6a&oe=5C544D90
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34274689_10156301080488745_945050902866165760_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=496c0e21019800f5c050ab88a84a8163&oe=5C7BDA90
 beer-date: "2018-06-02"
 desc: "Surprisingly floral with a very clean finish. Nicely flavourful but still easy drinking and refreshing"
 permalink: /beer/:title.html

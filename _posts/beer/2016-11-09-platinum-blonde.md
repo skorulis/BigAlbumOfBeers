@@ -9,7 +9,7 @@ brewery: "Hahn Brewing Co. Pty Ltd"
 breweryURL: "/brewery/hahn-brewing-co-pty-ltd.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/576008_10151563947183745_1748647687_n.jpg?_nc_cat=103&oh=58b1d76694fd7cd8eebf99f7f6c31842&oe=5C583280
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/576008_10151563947183745_1748647687_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=6e753d5a243f802c3ac842605a4686b6&oe=5C7FBF80
 beer-date: "2013-03-09"
 desc: "Meh"
 permalink: /beer/:title.html

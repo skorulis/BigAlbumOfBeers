@@ -9,7 +9,7 @@ brewery: "Magic Rock Brewing"
 breweryURL: "/brewery/magic-rock-brewing.html"
 style: "IPA - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13413596_10154200938458745_5561217537478071831_n.jpg?_nc_cat=104&oh=dd6e305e6e44edddc06cc2c352dd33f2&oe=5C4E1316
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13413596_10154200938458745_5561217537478071831_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=1428c0a304883d6bdb04d42aeefb4ce2&oe=5C75A016
 beer-date: "2016-06-16"
 desc: "Has the floral smell that I love in an IPA and a nice balance of bitterness and hops. A great example of an IPA"
 permalink: /beer/:title.html

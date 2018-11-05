@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "IPA - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43180678_10156603264523745_4593177857592655872_n.jpg?_nc_cat=102&oh=28e6899d3808c336ac7b40b3cc88dd21&oe=5C5D3AC7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43180678_10156603264523745_4593177857592655872_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=64e45ae0a2c4b3f8c203c678ad94a5d3&oe=5C84C7C7
 beer-date: "2018-10-05"
 desc: "Slightly sour but easy drinking. Very refreshing. Not a style I’m familiar with but would look for this again. Lots of subtle flavours that really work well together"
 permalink: /beer/:title.html

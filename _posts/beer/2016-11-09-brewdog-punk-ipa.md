@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/954631_10151694534143745_666636865_n.jpg?_nc_cat=100&oh=559fe6f5acf0616b252d7782413437f6&oe=5C1857B6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/954631_10151694534143745_666636865_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=701b45383bf94a316d06beb5da38176c&oe=5C3FE4B6
 beer-date: "2013-05-25"
 desc: "Quality IPA"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "IPA - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10330353_10152425241028745_6945284873150801200_n.jpg?_nc_cat=102&oh=8fce52e2eda6fa9f6d59851de925788b&oe=5C545BF4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10330353_10152425241028745_6945284873150801200_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=1e70e6f56084c31bf0f22d698690981b&oe=5C7BE8F4
 beer-date: "2014-05-03"
 desc: "A fairly mild IPA"
 permalink: /beer/:title.html

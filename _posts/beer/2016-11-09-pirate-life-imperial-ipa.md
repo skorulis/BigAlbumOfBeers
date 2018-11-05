@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "IPA - Imperial / Double"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/62366_10153966653993745_718097065966967009_n.jpg?_nc_cat=105&oh=79019d88505a5d2a9b96e1ec127350f2&oe=5C4A748D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/62366_10153966653993745_718097065966967009_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=fe482084553796a57b17ab46246962e7&oe=5C72018D
 beer-date: "2016-03-16"
 desc: "Hugely fragrant and really tasty"
 permalink: /beer/:title.html

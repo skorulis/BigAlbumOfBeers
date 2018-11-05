@@ -9,7 +9,7 @@ brewery: "Budějovický Budvar"
 breweryURL: "/brewery/budejovicky-budvar.html"
 style: "Pilsner - Czech"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/165000_10151428534173745_615410288_n.jpg?_nc_cat=105&oh=6d2be23e8fe15f237a4dba148a10583a&oe=5C159F2F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/165000_10151428534173745_615410288_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=bae2562abc19ca13daeed5dd7a7ffec0&oe=5C3D2C2F
 beer-date: "2013-01-13"
 desc: "Far better than its american cousin"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "HopDog BeerWorks"
 breweryURL: "/brewery/hopdog-beerworks.html"
 style: "Pale Wheat Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10155860_10152425240628745_5749004272951603123_n.jpg?_nc_cat=103&oh=c3dab9d285a58a879922c6e0ec8efc82&oe=5C165792
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10155860_10152425240628745_5749004272951603123_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=9ed770ac00e15b26ce6d03f50723f173&oe=5C3DE492
 beer-date: "2014-05-03"
 desc: "A zesty wheat beer"
 permalink: /beer/:title.html

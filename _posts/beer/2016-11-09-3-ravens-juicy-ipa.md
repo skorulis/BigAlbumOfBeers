@@ -9,7 +9,7 @@ brewery: "3 Ravens Brewery"
 breweryURL: "/brewery/3-ravens-brewery.html"
 style: "IPA - New England"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789097_10155717515753745_4282065805511104839_n.jpg?_nc_cat=105&oh=bf84a7feed4be0cbd327109e18bc1b1d&oe=5C1B88DA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789097_10155717515753745_4282065805511104839_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=39d8932c9bbd2a90a9079c94cf52469d&oe=5C4315DA
 beer-date: "2017-10-28"
 desc: "Looks super juicy but is actually pretty mild. Decent balance of hops but not much punch"
 permalink: /beer/:title.html

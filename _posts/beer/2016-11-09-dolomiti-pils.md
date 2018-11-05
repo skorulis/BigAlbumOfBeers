@@ -9,7 +9,7 @@ brewery: "Fabbrica di Pedavena"
 breweryURL: "/brewery/fabbrica-di-pedavena.html"
 style: "Pilsner - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19894529_10155413264023745_7361926702202257729_n.jpg?_nc_cat=103&oh=adeb75eb7bc42d3bb90ffd4a08c5c474&oe=5C51619A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19894529_10155413264023745_7361926702202257729_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=eccb9b0ff7f348a12805fd008cf668a0&oe=5C78EE9A
 beer-date: "2017-07-12"
 desc: "Mild maltiness. Pretty refreshing and easy to drink"
 permalink: /beer/:title.html

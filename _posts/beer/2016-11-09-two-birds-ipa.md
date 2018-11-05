@@ -9,7 +9,7 @@ brewery: "Two Birds Brewing"
 breweryURL: "/brewery/two-birds-brewing.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q84/p480x480/43292338_10156603266703745_6331986292112359424_n.jpg?_nc_cat=108&oh=4ecf297f5dac4a82080eae39fcf9ec74&oe=5C154222
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q84/p480x480/43292338_10156603266703745_6331986292112359424_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=6ca10137a97b707991c805bb2c06e929&oe=5C3CCF22
 beer-date: "2018-10-05"
 desc: "Pretty average all round. Overly harsh with some average earthy hops"
 permalink: /beer/:title.html

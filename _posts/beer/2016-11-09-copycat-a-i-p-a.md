@@ -9,7 +9,7 @@ brewery: "Mash Brewing"
 breweryURL: "/brewery/mash-brewing.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1797322_10153118666983745_5915201915827958878_n.jpg?_nc_cat=104&oh=f0ef5fe711a5ba46f8b64a923e05e5e3&oe=5C5042BD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1797322_10153118666983745_5915201915827958878_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=5a281a89850c73bfab01b317dae565f0&oe=5C77CFBD
 beer-date: "2015-02-27"
 desc: "A nice floral aroma but a little bit harsh"
 permalink: /beer/:title.html

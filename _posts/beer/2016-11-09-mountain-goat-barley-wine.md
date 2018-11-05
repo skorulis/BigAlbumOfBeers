@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Barleywine - English"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43152677_10156603261253745_2961448180442464256_n.jpg?_nc_cat=103&oh=eb9473206fa301434fb9480dc3a1fe76&oe=5C17DAA6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43152677_10156603261253745_2961448180442464256_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=93ebffbefc3a6c284d4cd9a87fd8ce5a&oe=5C3F67A6
 beer-date: "2018-10-05"
 desc: "Very sweet with a rice deep flavour. Perhaps a bit too much, or maybe I’m just drinking too fast"
 permalink: /beer/:title.html

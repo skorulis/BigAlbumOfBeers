@@ -9,7 +9,7 @@ brewery: "Ginga Kogen Beer Co."
 breweryURL: "/brewery/ginga-kogen-beer-co.html"
 style: "Hefeweizen"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22853046_10155717526928745_2582848099361886923_n.jpg?_nc_cat=108&oh=351a525d6c0bf615b96ab83473d8a6e5&oe=5C164E9D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22853046_10155717526928745_2582848099361886923_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=74986b5f70899a875b9cdabd2a5a5fc5&oe=5C3DDB9D
 beer-date: "2017-10-28"
 desc: "Very wheaty but not yeasty. Fairly light but full flavoured"
 permalink: /beer/:title.html

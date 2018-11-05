@@ -9,7 +9,7 @@ brewery: "Newstead Brewing Co."
 breweryURL: "/brewery/newstead-brewing-co.html"
 style: "Rye Beer"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17426354_10155045842963745_1816212001622006847_n.jpg?_nc_cat=103&oh=9550261e90dcde8c6035bc7573f74ff8&oe=5C500A66
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17426354_10155045842963745_1816212001622006847_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=e455a4278077b7b33593f2dbafe6240a&oe=5C779766
 beer-date: "2017-03-22"
 desc: "Really loving rye in beers lately where it’s not overwhelming. Because this isn’t a hoppy beer it’s still the hero"
 permalink: /beer/:title.html

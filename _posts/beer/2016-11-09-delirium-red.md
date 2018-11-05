@@ -9,7 +9,7 @@ brewery: "Brouwerij Huyghe"
 breweryURL: "/brewery/brouwerij-huyghe.html"
 style: "Fruit Beer"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18835934_10155271709623745_4779515099071548373_n.jpg?_nc_cat=105&oh=4c3354ad2bc99665c5d6608eff759a45&oe=5C185933
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18835934_10155271709623745_4779515099071548373_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=079fc200dca69e678087316dfbe7df94&oe=5C3FE633
 beer-date: "2017-06-02"
 desc: "Expected an amber ale but got a cherry beer. Very easy drinking and refreshing without the fruit being too strong"
 permalink: /beer/:title.html

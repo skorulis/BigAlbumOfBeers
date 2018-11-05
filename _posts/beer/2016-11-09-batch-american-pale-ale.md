@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13254124_10154147274953745_3000260124675662961_n.jpg?_nc_cat=101&oh=f7fe2683a49dcb1b4bb30e46621af6b3&oe=5C5EFDC7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13254124_10154147274953745_3000260124675662961_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=183e5fd981bf7d2f87ec1140a3a84116&oe=5C868AC7
 beer-date: "2016-05-24"
 desc: "Pretty good pale ale. Nothing super exciting"
 permalink: /beer/:title.html

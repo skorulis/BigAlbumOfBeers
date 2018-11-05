@@ -9,7 +9,7 @@ brewery: "The Coastal Brewing Company"
 breweryURL: "/brewery/the-coastal-brewing-company.html"
 style: "Pale Ale - American"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34309081_10156301082123745_741843433018097664_n.jpg?_nc_cat=101&oh=b52bdbd672e8fd8016c51c3ece275e91&oe=5C17E412
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34309081_10156301082123745_741843433018097664_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=04579b9a81e93220a53fa2d2a9139b39&oe=5C3F7112
 beer-date: "2018-06-02"
 desc: "Full bodied and bitter. Mild hop aroma but almost no hop flavours"
 permalink: /beer/:title.html

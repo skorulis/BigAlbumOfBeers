@@ -9,7 +9,7 @@ brewery: "Wayward Brewing"
 breweryURL: "/brewery/wayward-brewing.html"
 style: "IPA - White"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26804566_10155922809023745_8613913073422949023_n.jpg?_nc_cat=108&oh=9364a767eaeaf8c9a36c709ca3a10730&oe=5C53F9C5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26804566_10155922809023745_8613913073422949023_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=ecc9af0bf5f7e305556337a728801731&oe=5C7B86C5
 beer-date: "2018-01-13"
 desc: "Very bitter but has the flavour to back that up. Solid but as the name says, not a NEIPA"
 permalink: /beer/:title.html

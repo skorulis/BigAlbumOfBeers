@@ -9,7 +9,7 @@ brewery: "Nomad Brewing Co."
 breweryURL: "/brewery/nomad-brewing-co.html"
 style: "Sour - Berliner Weisse"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17883575_10155111574493745_7674336736283818167_n.jpg?_nc_cat=108&oh=f067a835849ee06b1bcee6824784e794&oe=5C52A36F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17883575_10155111574493745_7674336736283818167_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=74a299a3ceda68d555f4f21230b4cf38&oe=5C7A306F
 beer-date: "2017-04-11"
 desc: "I think this is the best berliner weisse I’ve found. Really refreshing and easy drinking with just a slight sourness"
 permalink: /beer/:title.html

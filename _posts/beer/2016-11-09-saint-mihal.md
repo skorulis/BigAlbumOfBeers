@@ -9,7 +9,7 @@ brewery: "Saint-Mihal"
 breweryURL: "/brewery/saint-mihal.html"
 style: "Lager - Euro"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10985916_10153268279573745_5444654809518299041_n.jpg?_nc_cat=105&oh=fb6dcb8fcdefc27b039dce98c3bede03&oe=5C1DF3DF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10985916_10153268279573745_5444654809518299041_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=def3e3e7a9844c8bd7a7fd16279a8b20&oe=5C4580DF
 beer-date: "2015-05-01"
 desc: "Pretty mild but overall ok. Better than expected"
 permalink: /beer/:title.html

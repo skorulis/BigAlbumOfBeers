@@ -9,7 +9,7 @@ brewery: "London Fields Brewery"
 breweryURL: "/brewery/london-fields-brewery.html"
 style: "Hefeweizen"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/947193_10151694532673745_349270642_n.jpg?_nc_cat=103&oh=d891478cedbe940d0a44f2368473f942&oe=5C5EFA22
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/947193_10151694532673745_349270642_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=ac498f2838514a1870e03d480db3c882&oe=5C868722
 beer-date: "2013-05-25"
 desc: "Very wheaty"
 permalink: /beer/:title.html

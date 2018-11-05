@@ -9,7 +9,7 @@ brewery: "Brasserie Scassenes"
 breweryURL: "/brewery/brasserie-scassenes.html"
 style: "Belgian Strong Golden Ale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1932219_10152280800273745_138064221_n.jpg?_nc_cat=111&oh=75439e2fc8b1fb6f3c6aeb251be34007&oe=5C5404A5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1932219_10152280800273745_138064221_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=abb31bf2163f777f0d5ff5789a3c38b6&oe=5C7B91A5
 beer-date: "2014-02-23"
 desc: "Not as much cookie flavour as I was hoping"
 permalink: /beer/:title.html

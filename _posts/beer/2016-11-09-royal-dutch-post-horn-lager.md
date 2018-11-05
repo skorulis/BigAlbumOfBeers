@@ -9,7 +9,7 @@ brewery: "United Dutch Breweries"
 breweryURL: "/brewery/united-dutch-breweries.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1936964_10153811640493745_4599335124953015175_n.jpg?_nc_cat=103&oh=2cde05f4bd9053cd214e5a7c9e23e3e9&oe=5C509E99
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1936964_10153811640493745_4599335124953015175_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=af2320f291ebdce03b3ec44ef50939f9&oe=5C782B99
 beer-date: "2016-01-07"
 desc: "It’s beer"
 permalink: /beer/:title.html

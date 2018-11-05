@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "IPA - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34199445_10156301083283745_8148673989925928960_n.jpg?_nc_cat=104&oh=0fc2e938acc9d935f6ab4bf666e93a1b&oe=5C1B8F91
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34199445_10156301083283745_8148673989925928960_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=206f5b217dedffbc7dd4414b04ed00c6&oe=5C431C91
 beer-date: "2018-06-02"
 desc: "Looks like a lager, tastes like a mild west coast IPA. Drinkable but not exciting"
 permalink: /beer/:title.html

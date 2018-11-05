@@ -9,7 +9,7 @@ brewery: "Sailors Grave Brewing"
 breweryURL: "/brewery/sailors-grave-brewing.html"
 style: "Sour - Gose"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26733951_10155922805528745_360176123615130138_n.jpg?_nc_cat=100&oh=378f5afc53665e28eb66aac474baee96&oe=5C52A696
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26733951_10155922805528745_360176123615130138_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=a471bafb4827acd1fe2a9e1e9ed38900&oe=5C7A3396
 beer-date: "2018-01-13"
 desc: "Starts off a little metallic but that fades and it turns out pretty good. Not much sour or saltiness but pretty solid"
 permalink: /beer/:title.html

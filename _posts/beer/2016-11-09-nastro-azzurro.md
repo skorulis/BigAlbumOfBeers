@@ -9,7 +9,7 @@ brewery: "Birra Peroni"
 breweryURL: "/brewery/birra-peroni.html"
 style: "Lager - Euro"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19958892_10155413285843745_928110663342860128_n.jpg?_nc_cat=111&oh=66db65e18191378606b427675a68f856&oe=5C161B90
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19958892_10155413285843745_928110663342860128_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=131f226b02aae04dcb752933e016a7f3&oe=5C3DA890
 beer-date: "2017-07-12"
 desc: "Golden color with a crisp refreshing taste and nice level of fizz. Great on a hot Italian day. No good once warm"
 permalink: /beer/:title.html

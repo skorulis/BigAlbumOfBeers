@@ -9,7 +9,7 @@ brewery: "Flying Dog Brewery"
 breweryURL: "/brewery/flying-dog-brewery.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1982179_10152293086923745_434038155_n.jpg?_nc_cat=100&oh=49d68283507b53aa5a6b243fd81c7d5d&oe=5C4A1F95
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1982179_10152293086923745_434038155_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=e1006eb332ee528d12f806f546ac6c76&oe=5C71AC95
 beer-date: "2014-03-01"
 desc: "A little harsh"
 permalink: /beer/:title.html

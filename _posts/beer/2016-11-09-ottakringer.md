@@ -9,7 +9,7 @@ brewery: "Ottakringer Brauerei"
 breweryURL: "/brewery/ottakringer-brauerei.html"
 style: "Lager - Helles"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105631_10155314456933745_8621663950457277374_n.jpg?_nc_cat=109&oh=39f05de0e239bc0732169bcc217e7dc4&oe=5C208B30
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105631_10155314456933745_8621663950457277374_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=9afad28e21f503df5afd19a46985c4c8&oe=5C481830
 beer-date: "2017-06-15"
 desc: "Very light lager"
 permalink: /beer/:title.html

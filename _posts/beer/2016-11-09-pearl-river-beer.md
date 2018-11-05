@@ -9,7 +9,7 @@ brewery: "Guangzhou Zhujiang Brewery Group Co Ltd"
 breweryURL: "/brewery/guangzhou-zhujiang-brewery-group-co-ltd.html"
 style: "Lager - Pale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10945514_10153053852213745_6703947153036432278_n.jpg?_nc_cat=105&oh=06f48473898b8d1c17b208e4e775f03b&oe=5C173E4D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10945514_10153053852213745_6703947153036432278_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=1f674e64ae9f3f8c3a4694b2d068708a&oe=5C3ECB4D
 beer-date: "2015-01-28"
 desc: "So so bland"
 permalink: /beer/:title.html

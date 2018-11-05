@@ -9,7 +9,7 @@ brewery: "Pasteur Street Brewing Company"
 breweryURL: "/brewery/pasteur-street-brewing-company.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28166593_10156021375543745_8633413202129893367_n.jpg?_nc_cat=102&oh=a34afa1fc09a8bdfe04ec3fa57df63dc&oe=5C4CB7D9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28166593_10156021375543745_8633413202129893367_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=3b0a08cfac2f3328a93e5d63aa537147&oe=5C7444D9
 beer-date: "2018-02-17"
 desc: "Really great level of bitterness that brings out the pomelo. An IPA that you could just keep on drinking"
 permalink: /beer/:title.html

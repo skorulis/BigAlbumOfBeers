@@ -9,7 +9,7 @@ brewery: "Stockade Brew Co"
 breweryURL: "/brewery/stockade-brew-co.html"
 style: "Pilsner - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13015652_10154072540083745_7009465615847756409_n.jpg?_nc_cat=111&oh=4bd84f744a9925d86b3978ccf59fb41f&oe=5C18B8E1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13015652_10154072540083745_7009465615847756409_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=756658fece8ed252b005483f19aa860a&oe=5C4045E1
 beer-date: "2016-04-21"
 desc: "Nicer than I expected, quite a bit of hop aroma coming off this and a well rounded taste"
 permalink: /beer/:title.html

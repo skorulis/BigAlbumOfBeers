@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Stout - Imperial / Double"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14359220_10154470824843745_4704165971419825465_n.jpg?_nc_cat=107&oh=eee8074928f15b41ae3f9dfbd5860e3f&oe=5C20F1D1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14359220_10154470824843745_4704165971419825465_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=e1906dffd9c0e88ad9cf05b5fa29a8e0&oe=5C487ED1
 beer-date: "2016-09-21"
 desc: "There's a beautiful flavour but it's hidden behind some harshness which slightly spoils it"
 permalink: /beer/:title.html

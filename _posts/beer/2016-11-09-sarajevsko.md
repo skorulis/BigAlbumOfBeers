@@ -9,7 +9,7 @@ brewery: "Sarajevska Pivara"
 breweryURL: "/brewery/sarajevska-pivara.html"
 style: "Lager - Pale"
 score: 4.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43182025_10156603264758745_8186780400064921600_n.jpg?_nc_cat=105&oh=16e83c1d24365537e5d70afaa6fa6bc4&oe=5C583E0F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43182025_10156603264758745_8186780400064921600_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=b30348d9291bd3d328c401016e6f3246&oe=5C7FCB0F
 beer-date: "2018-10-05"
 desc: "Somehow malty and dry at the same time. Perhaps it’s just a shock but this seems exceptionally bad"
 permalink: /beer/:title.html

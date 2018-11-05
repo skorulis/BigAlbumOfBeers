@@ -9,7 +9,7 @@ brewery: "ENDEAVOUR Brewing Co."
 breweryURL: "/brewery/endeavour-brewing-co.html"
 style: "IPA - Imperial / Double"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34186481_10156301083668745_7145719832623710208_n.jpg?_nc_cat=102&oh=58d46b93b8c3d8cab1d6078ec44c100f&oe=5C181ABE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34186481_10156301083668745_7145719832623710208_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=665934aba189f0d2a5edd24485e531f8&oe=5C3FA7BE
 beer-date: "2018-06-02"
 desc: "Strong pine in this west coast IPA. It’s pretty on point for a double IPA but its not something I would race back to"
 permalink: /beer/:title.html
