@@ -9,7 +9,7 @@ brewery: "Green Beacon Brewing Company"
 breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "Pale Wheat Ale - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22814333_10155717528133745_7992357262081617651_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=19f37734c8cb79596ee4b640ea1c652f&oe=5C40734A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22814333_10155717528133745_7992357262081617651_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=0b9726c4940f888b090ebb903c9df61e&oe=5C8F8D4A
 beer-date: "2017-10-28"
 desc: "So so smooth. Not what you expect from a wheat ale, they wheat is mild and comes through a little fruity instead. Great session beer"
 permalink: /beer/:title.html

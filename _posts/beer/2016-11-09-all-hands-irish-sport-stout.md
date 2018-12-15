@@ -9,7 +9,7 @@ brewery: "All Hands Brewing House"
 breweryURL: "/brewery/all-hands-brewing-house.html"
 style: "Stout - Irish Dry"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34268839_10156301078813745_7531864626921734144_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=7746f5674f3522f57538554e663b938d&oe=5C742BE6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34268839_10156301078813745_7531864626921734144_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=4a9f4dcf3454bd742530f7dcaa0cc4a3&oe=5C9BB8E6
 beer-date: "2018-06-02"
 desc: "Really smooth stout. Like a Guinness but not as metallic. Nice sweetness at the end"
 permalink: /beer/:title.html

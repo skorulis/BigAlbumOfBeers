@@ -9,7 +9,7 @@ brewery: "Tree Brewing Co."
 breweryURL: "/brewery/tree-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20638766_10155494018148745_6128275166063624057_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=ec5c1509b37b31b33c51ba71f1c9a5fb&oe=5C3C2068
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20638766_10155494018148745_6128275166063624057_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=b8bbf27c972100b157e70b3f69d96df5&oe=5C8B3A68
 beer-date: "2017-08-06"
 desc: "Fairly on point for style. No exciting flavours going on though"
 permalink: /beer/:title.html

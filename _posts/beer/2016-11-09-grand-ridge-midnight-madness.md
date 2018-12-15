@@ -9,7 +9,7 @@ brewery: "Grand Ridge Brewery"
 breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Dark Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45361694_10156673533933745_5390772392769355776_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=fe322938e76a00ae514e88c61ad7ea2c&oe=5C3DA223
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45361694_10156673533933745_5390772392769355776_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=3657d2f8f55271bdf13ae1e0afea50a2&oe=5C8CBC23
 beer-date: "2018-11-05"
 desc: "Very creamy and a little vanillaery. Lemon comes through once again but it’s not too strong"
 permalink: /beer/:title.html

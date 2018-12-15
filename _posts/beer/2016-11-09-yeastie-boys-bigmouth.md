@@ -9,7 +9,7 @@ brewery: "Yeastie Boys"
 breweryURL: "/brewery/yeastie-boys.html"
 style: "IPA - Session / India Session Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17155780_10154988847423745_2170992690612111907_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=d43a23af0101731ddecb42aa11d1f356&oe=5C896858
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17155780_10154988847423745_2170992690612111907_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=b6d73f23777437bc59c4f3a4ea68ab63&oe=5CB0F558
 beer-date: "2017-03-05"
 desc: "Fairly sessionable but not as good as other things I've had from them. But perhaps I've just hit the point where I've had enough beer for the night"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Wig & Pen Brewery"
 breweryURL: "/brewery/wig-pen-brewery.html"
 style: "Sour - Gose"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12733543_10153890414603745_2708879129886926163_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=ef951d06bd81470eb8707a03cf39e25f&oe=5C73B3CD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12733543_10153890414603745_2708879129886926163_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=54f19b917acb138d93754396a413e872&oe=5C9B40CD
 beer-date: "2016-02-14"
 desc: "Perhaps one of the mildest beers I've ever had but has a great balance between sour and salty. Deducting points because it's a mid strength"
 permalink: /beer/:title.html

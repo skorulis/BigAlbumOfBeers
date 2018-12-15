@@ -9,7 +9,7 @@ brewery: "Hook Norton Brewery"
 breweryURL: "/brewery/hook-norton-brewery.html"
 style: "Strong Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1924574_10153055725888745_6113742952542006972_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=aa3a1b6a20023b7fa4c60f2ff33af2d6&oe=5C3D7EB3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1924574_10153055725888745_6113742952542006972_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=ad0038a9bf7e8916411de06aa0d8616d&oe=5C8C98B3
 beer-date: "2015-01-29"
 desc: "A little bit nutty"
 permalink: /beer/:title.html

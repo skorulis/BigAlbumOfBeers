@@ -9,7 +9,7 @@ brewery: "Stockade Brew Co"
 breweryURL: "/brewery/stockade-brew-co.html"
 style: "Stout - Russian Imperial"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29186368_10156095076713745_3563210881439367168_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=cd682a7c82a00ae31068010ed2aadb29&oe=5C47EC11
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29186368_10156095076713745_3563210881439367168_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=731ac78d69779c024d0df021ba6b3581&oe=5C970611
 beer-date: "2018-03-13"
 desc: "Slightly oily due to the high alcohol content. There’s a lot of depth but a few odd flavours mess it up"
 permalink: /beer/:title.html

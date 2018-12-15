@@ -9,7 +9,7 @@ brewery: "Camden Town Brewery"
 breweryURL: "/brewery/camden-town-brewery.html"
 style: "Lager - Helles"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1469967_10152147735243745_1919940570_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=00c764c5dfff974252b7adeb491d3156&oe=5C8972A0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1469967_10152147735243745_1919940570_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=f42c0a081ada1a340c13fdd24775d95e&oe=5CB0FFA0
 beer-date: "2013-12-23"
 desc: "Not too bad"
 permalink: /beer/:title.html

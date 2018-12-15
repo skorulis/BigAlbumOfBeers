@@ -9,7 +9,7 @@ brewery: "2 Brothers Brewery "
 breweryURL: "/brewery/2-brothers-brewery.html"
 style: "Brown Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11148587_10153268299343745_976562173073925737_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=09cf4a33d73d4db10592aa9cebf2a056&oe=5C7E2839
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11148587_10153268299343745_976562173073925737_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=4e583106a31425b868b4fda57b41ae37&oe=5CA5B539
 beer-date: "2015-05-01"
 desc: "Mild sweet brown ale. Surprisingly easy drinking"
 permalink: /beer/:title.html

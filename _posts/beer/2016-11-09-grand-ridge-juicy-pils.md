@@ -9,7 +9,7 @@ brewery: "Grand Ridge Brewery"
 breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45467621_10156673534203745_6219830050175320064_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=eed977f0327ee5620d77b5b7e21382f9&oe=5C76BA6D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45467621_10156673534203745_6219830050175320064_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=aee11489e681410a3dba55d87a486bc4&oe=5C9E476D
 beer-date: "2018-11-05"
 desc: "It’s like too opposite styles merged together. It’s ok, but you just can’t make that work. Lemony again"
 permalink: /beer/:title.html

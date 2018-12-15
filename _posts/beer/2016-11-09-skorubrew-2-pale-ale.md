@@ -8,7 +8,7 @@ brewery: "Skorubrew"
 breweryURL: "/brewery/skorubrew.html"
 style: "Pale Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/942882_10154072540043745_2361335499708872878_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=a4550f8601215025bb3491a245661054&oe=5C72E4C4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/942882_10154072540043745_2361335499708872878_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=4633689eb3ad9b41e94243c9af04605b&oe=5C9A71C4
 beer-date: "2016-04-21"
 desc: "Has a bit of a yeasty smell but it’s covered up a bit by a mild hop aroma. Low on bitterness with a bit of sweetness and not too malty. All round quite drinkable"
 permalink: /beer/:title.html

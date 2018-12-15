@@ -9,7 +9,7 @@ brewery: "Wayward Brewing"
 breweryURL: "/brewery/wayward-brewing.html"
 style: "Lager - IPL (India Pale Lager)"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114204_10154858012328745_8584170128208902612_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=88ddebe2a98c5ad5262f2f75a3654853&oe=5C7C53AF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114204_10154858012328745_8584170128208902612_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=e752e9df00d2d3635113b3d1fb6267d6&oe=5CA3E0AF
 beer-date: "2017-01-21"
 desc: "Ok, but a little mild. For some reason I thought it was an IPA not a lager"
 permalink: /beer/:title.html

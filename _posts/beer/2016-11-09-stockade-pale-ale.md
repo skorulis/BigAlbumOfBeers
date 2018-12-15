@@ -9,7 +9,7 @@ brewery: "Stockade Brew Co"
 breweryURL: "/brewery/stockade-brew-co.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12140701_10153656867523745_8057771070522060863_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=ac442d094b06a9e1870981540354cb9f&oe=5C428C2C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12140701_10153656867523745_8057771070522060863_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=1af612441466673897c9f65bb5e03b7d&oe=5C91A62C
 beer-date: "2015-10-17"
 desc: "A regular beer pretending to be something more"
 permalink: /beer/:title.html

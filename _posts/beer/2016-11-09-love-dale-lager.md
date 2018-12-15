@@ -9,7 +9,7 @@ brewery: "Lovedale Brewery"
 breweryURL: "/brewery/lovedale-brewery.html"
 style: "Lager - Helles"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10687355_10153118669793745_4229208713620347909_o.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=216a4f7ab36b1db04f09251e69cb7955&oe=5C43086B
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10687355_10153118669793745_4229208713620347909_o.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=40f35723d35a36de608479fb760470dc&oe=5C92226B
 beer-date: "2015-02-27"
 desc: "Quite a smooth lager. Or could just be that it’s the first beer on Friday"
 permalink: /beer/:title.html

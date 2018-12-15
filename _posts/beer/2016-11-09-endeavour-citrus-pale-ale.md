@@ -9,7 +9,7 @@ brewery: "ENDEAVOUR Brewing Co."
 breweryURL: "/brewery/endeavour-brewing-co.html"
 style: "Pale Ale - Australian"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34117808_10156301082713745_3632856980189609984_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=0e7b66b2b1597c83e212a7143091b444&oe=5C3F7E0B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34117808_10156301082713745_3632856980189609984_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=6f4b9dbbcb5cee605c907bdd7df78e02&oe=5C8E980B
 beer-date: "2018-06-02"
 desc: "Like a lager with a sweet tang on the tip of your tongue. A bit strange but works well"
 permalink: /beer/:title.html

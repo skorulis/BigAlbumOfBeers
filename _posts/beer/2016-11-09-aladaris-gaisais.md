@@ -9,7 +9,7 @@ brewery: "Aldaris"
 breweryURL: "/brewery/aldaris.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/603023_10152001619908745_1091913425_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=88dcc6f2dc60a25e89922e2ce16fe567&oe=5C759502
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/603023_10152001619908745_1091913425_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=f0c55ed72580e89f95a1d71fcc9af60c&oe=5C9D2202
 beer-date: "2013-10-25"
 desc: "Another quality baltic beer"
 permalink: /beer/:title.html

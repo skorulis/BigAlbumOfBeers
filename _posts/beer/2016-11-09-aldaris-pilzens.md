@@ -9,7 +9,7 @@ brewery: "Aldaris"
 breweryURL: "/brewery/aldaris.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238101_10151888670483745_714083820_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=49264ef1e39316b4effd0dda5c3ff32e&oe=5C3F8E0A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238101_10151888670483745_714083820_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=058b1c6fe4f3daeecb96004e9e7b9fc0&oe=5C8EA80A
 beer-date: "2013-09-01"
 desc: "Lacks any real flavour"
 permalink: /beer/:title.html

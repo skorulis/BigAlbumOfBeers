@@ -9,7 +9,7 @@ brewery: "Wayward Brewing"
 breweryURL: "/brewery/wayward-brewing.html"
 style: "Rauchbier"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16113952_10154858012358745_2714578525056693097_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=804cdf06d5123a96d076e4836891b7be&oe=5C8A8A55
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16113952_10154858012358745_2714578525056693097_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=d92c47c6099da76d7ce5917770a863cd&oe=5CB21755
 beer-date: "2017-01-21"
 desc: "The smokiness enhances the bitterness without adding much"
 permalink: /beer/:title.html

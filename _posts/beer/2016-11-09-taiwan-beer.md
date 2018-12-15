@@ -9,7 +9,7 @@ brewery: "Taiwan Tobacco & Liquor Corporation"
 breweryURL: "/brewery/taiwan-tobacco-liquor-corporation.html"
 style: "Lager - North American Adjunct"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27972567_10156021376928745_4474785245816854937_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=ceacd20837ba3502d015a44f2270eca0&oe=5C40117D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27972567_10156021376928745_4474785245816854937_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=b02d95f8cf9e47ed83a8253b7adec9e7&oe=5C8F2B7D
 beer-date: "2018-02-17"
 desc: "Malty, needs  work"
 permalink: /beer/:title.html

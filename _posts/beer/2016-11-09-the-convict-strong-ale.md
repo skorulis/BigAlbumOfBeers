@@ -9,7 +9,7 @@ brewery: "Gage Roads Brewing Co "
 breweryURL: "/brewery/gage-roads-brewing-co.html"
 style: "Strong Ale - American"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/581629_10151602301103745_358423449_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=7c9255b623c3e21f8069869f78f1a678&oe=5C7E9B86
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/581629_10151602301103745_358423449_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=f2809986c856de32020a59b4ffa65a88&oe=5CA62886
 beer-date: "2013-03-28"
 desc: "A strong and average flavour"
 permalink: /beer/:title.html

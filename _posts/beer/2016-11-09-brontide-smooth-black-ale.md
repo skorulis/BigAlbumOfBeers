@@ -9,7 +9,7 @@ brewery: "Stillwater Artisanal Ales"
 breweryURL: "/brewery/stillwater-artisanal-ales.html"
 style: "Dark Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12734008_10153890416878745_633217613773642603_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=c3519c6fd4c3fd61152e69452c50162f&oe=5C3C2009
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12734008_10153890416878745_633217613773642603_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=95fcc11b62d686f79ec468b8f168a4c0&oe=5C8B3A09
 beer-date: "2016-02-14"
 desc: "Started off a bit harsh but was a lot better than other black ales. Makes me want to try more dark beers"
 permalink: /beer/:title.html

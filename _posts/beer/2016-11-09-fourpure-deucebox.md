@@ -9,7 +9,7 @@ brewery: "Fourpure Brewing Co"
 breweryURL: "/brewery/fourpure-brewing-co.html"
 style: "IPA - Imperial / Double"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27866963_10156021376468745_8205855799908928037_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=a88047a73d376687e90d0257cd30cceb&oe=5C7CD528
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27866963_10156021376468745_8205855799908928037_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=1381dd80acc00ceff3723c9ba04150f3&oe=5CA46228
 beer-date: "2018-02-17"
 desc: "Lots of citrus and dank hops. Fairly easy drinking for the strength and very enjoyable"
 permalink: /beer/:title.html

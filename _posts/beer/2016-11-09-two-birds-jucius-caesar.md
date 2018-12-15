@@ -9,7 +9,7 @@ brewery: "Two Birds Brewing"
 breweryURL: "/brewery/two-birds-brewing.html"
 style: "IPA - New England"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43156443_10156603264023745_7237872315919237120_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=31a3052078c5e6b1fc672fe30964d20b&oe=5C43A85D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43156443_10156603264023745_7237872315919237120_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=2f86c4135bc89ea4bd78699fc0fa3f52&oe=5C92C25D
 beer-date: "2018-10-05"
 desc: "Lots of citrus smell and a smooth bitterness. Not my perfect IPA but a nice tasty beverage"
 permalink: /beer/:title.html

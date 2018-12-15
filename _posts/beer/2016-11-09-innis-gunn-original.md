@@ -9,7 +9,7 @@ brewery: "Innis & Gunn"
 breweryURL: "/brewery/innis-gunn.html"
 style: "Scottish Export Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11196243_10153268257703745_5034055497574956739_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=d6f670b697cae783ab2ae8186b0527c7&oe=5C42BB01
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11196243_10153268257703745_5034055497574956739_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=1b157bcf980a423ea2bc3ba65a357265&oe=5C91D501
 beer-date: "2015-05-01"
 desc: "Not what I expected. Sweet and strange"
 permalink: /beer/:title.html

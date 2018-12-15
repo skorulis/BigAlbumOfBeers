@@ -9,7 +9,7 @@ brewery: "Allgäuer Brauhaus"
 breweryURL: "/brewery/allgauer-brauhaus.html"
 style: "Lager - Helles"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11182040_10153268265373745_4318030430351182427_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=249da80aa190dfe0c5573b4ea52e4714&oe=5C46ACD9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11182040_10153268265373745_4318030430351182427_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=f0bae68b6ba27582954a2d3e969cab36&oe=5C95C6D9
 beer-date: "2015-05-01"
 desc: "Such a cool name and bottle"
 permalink: /beer/:title.html

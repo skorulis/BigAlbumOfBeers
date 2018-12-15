@@ -9,7 +9,7 @@ brewery: "Kassatly Chtaura"
 breweryURL: "/brewery/kassatly-chtaura.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13230125_10154147273808745_8826087779815602957_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=7c8589b92fb86d0d64b9abf810ba01ef&oe=5C7E3287
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13230125_10154147273808745_8826087779815602957_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=c361b403821954adab6fe0c04a6b7338&oe=5CA5BF87
 beer-date: "2016-05-24"
 desc: "Tastes like a cheap Eastern European beer"
 permalink: /beer/:title.html

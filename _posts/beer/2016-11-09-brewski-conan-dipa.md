@@ -9,7 +9,7 @@ brewery: "Brewski"
 breweryURL: "/brewery/brewski.html"
 style: "IPA - Imperial / Double"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26229633_10155922801273745_7486407542822584506_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=63760c605e223eafe396e4486c358c26&oe=5C7F8675
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26229633_10155922801273745_7486407542822584506_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=fa631e70c3b1ea69b42f7f9f12ac8ec1&oe=5CA71375
 beer-date: "2018-01-13"
 desc: "Lovely golden colour. Seems a little bit sour. Not as good as I expected for the price"
 permalink: /beer/:title.html

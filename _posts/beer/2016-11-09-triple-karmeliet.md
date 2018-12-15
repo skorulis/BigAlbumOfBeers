@@ -9,7 +9,7 @@ brewery: "Brouwerij Bosteels"
 breweryURL: "/brewery/brouwerij-bosteels.html"
 style: "Belgian Tripel"
 score: 10
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1654211_10152293087868745_1642505899_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=27a659d5ddff1dc1ff817a013f70b943&oe=5C3F2C23
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1654211_10152293087868745_1642505899_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=e827b214656af8657753109e4e0eb46b&oe=5C8E4623
 beer-date: "2014-03-01"
 desc: "I choose this above Delerium"
 permalink: /beer/:title.html

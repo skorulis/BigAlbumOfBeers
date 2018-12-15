@@ -9,7 +9,7 @@ brewery: "Basement Brewhouse"
 breweryURL: "/brewery/basement-brewhouse.html"
 style: "Pilsner - Czech"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29216381_10156095061333745_7846050199112777728_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=e832c0eab5748fd815ee039d93956465&oe=5C460868
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29216381_10156095061333745_7846050199112777728_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=2ac093f79ce503984b24934c30b9cc2e&oe=5C952268
 beer-date: "2018-03-13"
 desc: "A classic dry Pilsner with a slight tang"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Doctor's Orders Brewing"
 breweryURL: "/brewery/doctors-orders-brewing.html"
 style: "Witbier"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16711716_10154923952023745_1754583250088868265_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=589abfcdb3745d162db72474ab53b46f&oe=5C87A358
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16711716_10154923952023745_1754583250088868265_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=3c39f52a89a6c39648565e0cc805da7d&oe=5CAF3058
 beer-date: "2017-02-11"
 desc: "Very refreshing which is exactly what I need on a 40C day. Certainly has a taste of tonic, in a good way. I'm torn between loving this as an easy drinking beer and missing more interesting flavours"
 permalink: /beer/:title.html

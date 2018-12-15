@@ -9,7 +9,7 @@ brewery: "Desperados NL"
 breweryURL: "/brewery/desperados-nl.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/305829_10151649178053745_1663963670_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=ed38d6d0f7a112c108a79c3f437efc05&oe=5C7DCD37
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/305829_10151649178053745_1663963670_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=2a800e6a9856c2ccf81dedea7d1992f9&oe=5CA55A37
 beer-date: "2013-04-27"
 desc: "Kind of a girls beer"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Opera Bar"
 breweryURL: "/brewery/opera-bar.html"
 style: "Pale Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10154926_10152425240573745_3819970704734320665_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=c74e2ae22ecff1b9cbffc40e5269788e&oe=5C7F7CCD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10154926_10152425240573745_3819970704734320665_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=59c7be5bbf7aaaeb2a1f93b599756d0e&oe=5CA709CD
 beer-date: "2014-05-03"
 desc: "Flavourless"
 permalink: /beer/:title.html

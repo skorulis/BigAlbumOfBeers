@@ -9,7 +9,7 @@ brewery: "Boatrocker Brewing Company"
 breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16939514_10154984570568745_5588884472100129576_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=c75cbf08c6cc7d3e6a651ec726f22032&oe=5C894B47
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16939514_10154984570568745_5588884472100129576_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=1c65684bca59b982d3fe529284148894&oe=5CB0D847
 beer-date: "2017-03-03"
 desc: "Has a weird after taste that doesn't belong in this beer. There's something interesting as well but altogether it doesn't quite work"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Charles Wells Brewery"
 breweryURL: "/brewery/charles-wells-brewery.html"
 style: "English Bitter"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11038987_10153438038293745_6155510821012537170_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=a1f2511bfc5f0cc590cbbd2bacbf2039&oe=5C3C7490
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11038987_10153438038293745_6155510821012537170_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=b06f73672c55df2f522c542fa0197bb2&oe=5C8B8E90
 beer-date: "2015-07-10"
 desc: "Pretty run of the mill english ale"
 permalink: /beer/:title.html

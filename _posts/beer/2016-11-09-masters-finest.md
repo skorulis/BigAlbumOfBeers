@@ -9,7 +9,7 @@ brewery: "Elaboraday"
 breweryURL: "/brewery/elaboraday.html"
 style: "Pale Ale - American"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10368217_10153966651078745_5301100254520843348_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=13caeb5b0449850b64bc882f42ce9a52&oe=5C7CBCB9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10368217_10153966651078745_5301100254520843348_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=78696f44cdfa79e1f22609f1d7109e82&oe=5CA449B9
 beer-date: "2016-03-16"
 desc: "No flavour except some bitterness"
 permalink: /beer/:title.html

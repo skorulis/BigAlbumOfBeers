@@ -9,7 +9,7 @@ brewery: "ENDEAVOUR Vintage Beer Co."
 breweryURL: "/brewery/endeavour-vintage-beer-co.html"
 style: "Red Ale - American Amber / Red"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p480x480/10403262_10153268279703745_1182589880637374526_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=10e6076f053ee24d500c07415823c552&oe=5C770C19
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p480x480/10403262_10153268279703745_1182589880637374526_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=5ab660d29e22268477bba67c93cea2e4&oe=5C9E9919
 beer-date: "2015-05-01"
 desc: "This tastes like a dark ale but isn’t supposed to. The taste is ok but I’m worried by how badly this is labeled"
 permalink: /beer/:title.html

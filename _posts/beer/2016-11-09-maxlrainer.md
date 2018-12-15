@@ -9,7 +9,7 @@ brewery: "Schlossbrauerei Maxlrain"
 breweryURL: "/brewery/schlossbrauerei-maxlrain.html"
 style: "Lager - Dortmunder / Export"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1385612_10152001625738745_155180417_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=b34b799b5ea331d0aef3872308c02e82&oe=5C78C19F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1385612_10152001625738745_155180417_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=fdaa7bab55c7a1c4007879e14b590d58&oe=5CA04E9F
 beer-date: "2013-10-25"
 desc: "Not too bad"
 permalink: /beer/:title.html

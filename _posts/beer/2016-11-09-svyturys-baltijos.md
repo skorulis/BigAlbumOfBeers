@@ -9,7 +9,7 @@ brewery: "Švyturys"
 breweryURL: "/brewery/svyturys.html"
 style: "Märzen"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1208565_10151929069708745_1120619541_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=c1787f5cc75d1be298634472d07ff1f2&oe=5C7659E9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1208565_10151929069708745_1120619541_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=16d8568ea8579ce83c70dbaa17ead98a&oe=5C9DE6E9
 beer-date: "2013-09-19"
 desc: "A little bit too bitter for my taste"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13239358_10154147274213745_2832924558842747402_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=1ca086f62e87fbf96aa3ac02b5023329&oe=5C7EFB5C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13239358_10154147274213745_2832924558842747402_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=b58b4129d3e131c97b3f720cf5e1a550&oe=5CA6885C
 beer-date: "2016-05-24"
 desc: "Another great beer from Pirate Life. Nicely hoppy"
 permalink: /beer/:title.html

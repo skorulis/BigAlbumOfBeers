@@ -9,7 +9,7 @@ brewery: "Greenock Brewers"
 breweryURL: "/brewery/greenock-brewers.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34119111_10156301081818745_3871878086374981632_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=bb888caaff90d03df762e4d99e39476b&oe=5C822052
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34119111_10156301081818745_3871878086374981632_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=82a4fa49646875550e10a0e8a42553d4&oe=5CA9AD52
 beer-date: "2018-06-02"
 desc: "Fairly mild hop profile but it’s perfectly rounded"
 permalink: /beer/:title.html

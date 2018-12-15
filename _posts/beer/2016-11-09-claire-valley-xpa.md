@@ -9,7 +9,7 @@ brewery: "Clare Valley Brewing Co."
 breweryURL: "/brewery/clare-valley-brewing-co.html"
 style: "Pale Ale - International"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34101517_10156301081898745_4493705487304359936_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=b822792e05073aa550e7e2610ce4b53e&oe=5C847787
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34101517_10156301081898745_4493705487304359936_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=d888d81bb774313a0773d70663713f35&oe=5CAC0487
 beer-date: "2018-06-02"
 desc: "Good all round XPA, very similar to the balter one. Lots of hop aroma and a mild taste"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Lager - Helles"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16388218_10154888757668745_7230590597008067776_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=e167896800352d54db031f790a74f882&oe=5C85E908
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16388218_10154888757668745_7230590597008067776_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=5f76a6ecaa812517e704aeeccad4e6bb&oe=5CAD7608
 beer-date: "2017-01-30"
 desc: "Very easy drinking. Would be great for getting pissed. Can't complain"
 permalink: /beer/:title.html

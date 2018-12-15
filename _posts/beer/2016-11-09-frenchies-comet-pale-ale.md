@@ -9,7 +9,7 @@ brewery: "Frenchies"
 breweryURL: "/brewery/frenchies.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43190281_10156603260493745_372685380404641792_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=f186177be6c5ab040552910fec52f6d9&oe=5C742584
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43190281_10156603260493745_372685380404641792_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=c5cf311c83712172fb9711d3046759b8&oe=5C9BB284
 beer-date: "2018-10-05"
 desc: "Very mild in a nice way. Worth a try"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "King Beer"
 breweryURL: "/brewery/king-beer.html"
 style: "Pale Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/579360_10152147733223745_1201965133_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=26ece2480d810a87c2ee59de8c0cb100&oe=5C76E614
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/579360_10152147733223745_1201965133_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=7a4a65f8a26503cca1b876d6fbaeb2a2&oe=5C9E7314
 beer-date: "2013-12-23"
 desc: "Kind of tasty lager"
 permalink: /beer/:title.html

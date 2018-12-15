@@ -9,7 +9,7 @@ brewery: "Birranova"
 breweryURL: "/brewery/birranova.html"
 style: "Sour - Gose"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19961526_10155413282833745_9019463084345957336_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=9f520dfea177b41f8d88657462a9a877&oe=5C7890EE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19961526_10155413282833745_9019463084345957336_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=386e68e3e92449a9b699ee569ecfdc97&oe=5CA01DEE
 beer-date: "2017-07-12"
 desc: "Interesting balance. More salty than sour. Not as refreshing as I hoped"
 permalink: /beer/:title.html

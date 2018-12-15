@@ -9,7 +9,7 @@ brewery: "Oxfordshire Ales"
 breweryURL: "/brewery/oxfordshire-ales.html"
 style: "Winter Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1966869_10152293086653745_1230920015_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=99929ce199cecb1449be2005239cf334&oe=5C856C28
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1966869_10152293086653745_1230920015_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=80c0766d8298f4beb7d7fe3424b73744&oe=5CACF928
 beer-date: "2014-03-01"
 desc: "No one was being cheap when making this one"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "The 5 Lamps Dublin Brewery"
 breweryURL: "/brewery/the-5-lamps-dublin-brewery.html"
 style: "Lager - Pale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/486257_10151428526493745_65566473_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=54647216a1c63b5fe1338085fca6b6e0&oe=5C73A2FD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/486257_10151428526493745_65566473_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=4cb6204755b66c7cd80e3b2acc44b411&oe=5C9B2FFD
 beer-date: "2013-01-13"
 desc: "Bad to start, bad to finish"
 permalink: /beer/:title.html

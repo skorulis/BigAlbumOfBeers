@@ -9,7 +9,7 @@ brewery: "CoConspirators Brewing Company"
 breweryURL: "/brewery/coconspirators-brewing-company.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34131805_10156301080173745_2847174584053006336_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=8c21d1f555834f8ac75f93143ceac10f&oe=5C873F0C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34131805_10156301080173745_2847174584053006336_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=cbca9e31c0f96129641fe2669d267513&oe=5CAECC0C
 beer-date: "2018-06-02"
 desc: "Fairly mild pale ale with a rounded body"
 permalink: /beer/:title.html

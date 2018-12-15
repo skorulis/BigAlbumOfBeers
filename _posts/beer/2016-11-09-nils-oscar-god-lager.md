@@ -9,7 +9,7 @@ brewery: "Nils Oscar"
 breweryURL: "/brewery/nils-oscar.html"
 style: "Lager - Dortmunder / Export"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/485993_10151563842368745_684144336_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=b85c30fc3db3ae843a3680adf8785179&oe=5C7AB9D8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/485993_10151563842368745_684144336_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=8d2b17c54508b5030f52ccec316b3b59&oe=5CA246D8
 beer-date: "2013-03-09"
 desc: "Not too bad"
 permalink: /beer/:title.html

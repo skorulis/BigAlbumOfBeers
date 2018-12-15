@@ -9,7 +9,7 @@ brewery: "Rehn Bier"
 breweryURL: "/brewery/rehn-bier.html"
 style: "Rauchbier"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34276660_10156301082853745_6284596121184501760_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=91780b7613658a330811dac93aadec3b&oe=5C88DF55
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34276660_10156301082853745_6284596121184501760_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=a86a1590eac3b90b835cd4c67fa9ecd5&oe=5CB06C55
 beer-date: "2018-06-02"
 desc: "A good smokeyness which is the focus of the beer"
 permalink: /beer/:title.html

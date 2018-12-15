@@ -9,7 +9,7 @@ brewery: "Blackman's Brewery"
 breweryURL: "/brewery/blackmans-brewery.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26239387_10155922800353745_2913596732860015570_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=4a9319f08cb7de661f25ffc26987034b&oe=5C7E8052
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26239387_10155922800353745_2913596732860015570_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=9dcd90f27a77a3be033e6293d742d09e&oe=5CA60D52
 beer-date: "2018-01-13"
 desc: "Wasn’t expecting much but it delivers a nice dank IPA without any harsh bitterness"
 permalink: /beer/:title.html

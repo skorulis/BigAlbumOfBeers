@@ -9,7 +9,7 @@ brewery: "Stieglbrauerei zu Salzburg"
 breweryURL: "/brewery/stieglbrauerei-zu-salzburg.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105594_10155314455888745_4030644709334540811_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=acb99b801e65bf442b059ead3313528c&oe=5C8AE73D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105594_10155314455888745_4030644709334540811_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=0e5ebdec77cb6b150675b1b4d1b5d9a9&oe=5CDA013D
 beer-date: "2017-06-15"
 desc: "Surprising hoppy for an Austrian beer. High quality beer"
 permalink: /beer/:title.html

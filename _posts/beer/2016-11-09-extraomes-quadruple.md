@@ -9,7 +9,7 @@ brewery: "Extraomnes"
 breweryURL: "/brewery/extraomnes.html"
 style: "Belgian Quad"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19959065_10155413282923745_7126969616767797855_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=25df8354d509bbea3ed86eebb7bf5e9c&oe=5C4012A4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19959065_10155413282923745_7126969616767797855_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=4b812401502df0707852b0e5e5251cdf&oe=5C8F2CA4
 beer-date: "2017-07-12"
 desc: "A really bad example of a quad. The sourness becomes slightly offensive and makes it hard to get through"
 permalink: /beer/:title.html

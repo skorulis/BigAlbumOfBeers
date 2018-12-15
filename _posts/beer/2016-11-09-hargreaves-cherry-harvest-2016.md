@@ -9,7 +9,7 @@ brewery: "Hargreaves Hill Brewing Company Pty. Ltd."
 breweryURL: "/brewery/hargreaves-hill-brewing-company-pty-ltd.html"
 style: "Sour - Ale"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20914715_10155535939568745_8907242226738170079_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=d99ef40651f424ca443981265a43f627&oe=5C440D6D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20914715_10155535939568745_8907242226738170079_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=deab4ab34455802f9f59472c94335c5b&oe=5C93276D
 beer-date: "2017-08-21"
 desc: "Really lovely pale orange/peach colouring. Rather sour but balances out well with the other flavours. Not what you would expect from a beer but bang on for a sour"
 permalink: /beer/:title.html

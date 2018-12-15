@@ -9,7 +9,7 @@ brewery: "Australian Beer Company"
 breweryURL: "/brewery/australian-beer-company.html"
 style: "Pale Ale - Australian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11251267_10153438038418745_6850868855690668787_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=951f7bf1c8377857f82ff5ec24a0bec0&oe=5C74DCF4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11251267_10153438038418745_6850868855690668787_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=b44ca0b87da732fe64b06a2c37cd4456&oe=5C9C69F4
 beer-date: "2015-07-10"
 desc: "A really nice sweet hit of flavour"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Brouwerij Lindemans"
 breweryURL: "/brewery/brouwerij-lindemans.html"
 style: "Faro"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/252348_10151694537033745_65345877_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=1a1067f881d58e0f7b99d63395277187&oe=5C40F2DA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/252348_10151694537033745_65345877_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=bbbe562d5fe0d1feced32194bd1cefda&oe=5C900CDA
 beer-date: "2013-05-25"
 desc: "A kind of tangy flavour"
 permalink: /beer/:title.html

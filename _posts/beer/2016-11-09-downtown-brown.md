@@ -9,7 +9,7 @@ brewery: "Lost Coast Brewery"
 breweryURL: "/brewery/lost-coast-brewery.html"
 style: "Brown Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12400634_10153811610548745_7658175171400136673_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=61d5db0fa24ff6d0f4809d054f00e178&oe=5C409A55
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12400634_10153811610548745_7658175171400136673_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=6a238403d57728cdca28bab270d19e5e&oe=5C8FB455
 beer-date: "2016-01-06"
 desc: "A fairly unsweet brown"
 permalink: /beer/:title.html

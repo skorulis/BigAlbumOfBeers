@@ -9,7 +9,7 @@ brewery: "Hermitage Brewing"
 breweryURL: "/brewery/hermitage-brewing.html"
 style: "American Wild Ale"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34202895_10156301084088745_3985438743963107328_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=d4f9d1f61f1e8575fd136a4e3a3b7a1f&oe=5C453781
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34202895_10156301084088745_3985438743963107328_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=66f9421b2b9ed58cad87680b13d4755f&oe=5C945181
 beer-date: "2018-06-02"
 desc: "A mild sour beer mixed with delicious chocolate"
 permalink: /beer/:title.html

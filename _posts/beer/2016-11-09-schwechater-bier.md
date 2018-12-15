@@ -9,7 +9,7 @@ brewery: "Brauerei Schwechat"
 breweryURL: "/brewery/brauerei-schwechat.html"
 style: "Lager - Helles"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19248033_10155314456823745_3545826925413184065_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=872deba0d75cbaba098c2b5f64ef44d1&oe=5C8AD5B2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19248033_10155314456823745_3545826925413184065_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=903e201e7c47a19588dcdd271d4506d3&oe=5CD9EFB2
 beer-date: "2017-06-15"
 desc: "Another plain Austrian lager. A little sweet and otherwise flavourless"
 permalink: /beer/:title.html

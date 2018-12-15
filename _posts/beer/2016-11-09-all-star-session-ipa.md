@@ -9,7 +9,7 @@ brewery: " Australian Brewery"
 breweryURL: "/brewery/australian-brewery.html"
 style: "IPA - Session / India Session Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700317_10155251932883745_8367110251602063510_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=d4bbcc5d61b68b271aef619b8d3abefc&oe=5C41CC2C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700317_10155251932883745_8367110251602063510_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=5229c4eb2a06587aba2b21341c2a976d&oe=5C90E62C
 beer-date: "2017-05-27"
 desc: "A little bitter with mostly earthy hops"
 permalink: /beer/:title.html

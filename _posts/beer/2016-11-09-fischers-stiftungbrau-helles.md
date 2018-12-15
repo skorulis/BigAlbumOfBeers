@@ -9,7 +9,7 @@ brewery: "Fischer's Stiftungsbräu"
 breweryURL: "/brewery/fischers-stiftungsbrau.html"
 style: "Lager - Helles"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1016879_10151798800588745_1406598038_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=6ec8862fac40bf0713e7fe419d898c3a&oe=5C7A6F22
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1016879_10151798800588745_1406598038_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=f76f31a243df128187267e3a9fe1fdc9&oe=5CA1FC22
 beer-date: "2013-07-19"
 desc: "Could drink this all day"
 permalink: /beer/:title.html

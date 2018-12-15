@@ -9,7 +9,7 @@ brewery: "Prancing Pony Brewery"
 breweryURL: "/brewery/prancing-pony-brewery.html"
 style: "Red Ale - American Amber / Red"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12821411_10153966656918745_380719159889184662_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=a65f6a360a4dcc9bca63544a4fc3108c&oe=5C8A38FE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12821411_10153966656918745_380719159889184662_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=696f1e0be1836d0dfb2a4507ffa3005f&oe=5CB1C5FE
 beer-date: "2016-03-16"
 desc: "Overly bitter and without much malt flavour. Still yet to find a great amber"
 permalink: /beer/:title.html

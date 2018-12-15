@@ -9,7 +9,7 @@ brewery: "Paddy's Brewery"
 breweryURL: "/brewery/paddys-brewery.html"
 style: "IPA - American"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789032_10155717525343745_615996017498045168_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=467ccc3e2ce1fc8bb34b030ba43ad207&oe=5C3F130A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789032_10155717525343745_615996017498045168_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=c42c214eaa8aebc215d4f9c0020e5f7e&oe=5C8E2D0A
 beer-date: "2017-10-28"
 desc: "Nice aroma but a little bitter and has some harshness in the back without any strong hop flavours coming through. Drinkable but not exciting"
 permalink: /beer/:title.html

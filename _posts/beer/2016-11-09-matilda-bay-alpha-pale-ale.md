@@ -9,7 +9,7 @@ brewery: "Matilda Bay Brewing Company"
 breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10659329_10153268257393745_1308545288385225140_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=8713218d16342ae93ff8ff33e88df4e7&oe=5C41489E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10659329_10153268257393745_1308545288385225140_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=bee64031dcbbb0d8b340a053081fe5ba&oe=5C90629E
 beer-date: "2015-05-01"
 desc: "Standard Matilda bay beer"
 permalink: /beer/:title.html

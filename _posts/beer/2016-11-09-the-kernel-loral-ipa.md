@@ -9,7 +9,7 @@ brewery: "The Kernel Brewery"
 breweryURL: "/brewery/the-kernel-brewery.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18920490_10155271708513745_9092018390766256741_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=dfe2e6edb38cff9645cb54823a70bd5e&oe=5C46C916
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18920490_10155271708513745_9092018390766256741_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=38f5aa08013fe35769feea663dd6b211&oe=5C95E316
 beer-date: "2017-06-02"
 desc: "It's a strange hop. Kind of a pine and floral mix and something else I can't pinpoint"
 permalink: /beer/:title.html

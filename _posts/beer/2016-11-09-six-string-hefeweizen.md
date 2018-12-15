@@ -9,7 +9,7 @@ brewery: "Six String Brewing Company"
 breweryURL: "/brewery/six-string-brewing-company.html"
 style: "Hefeweizen"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10957577_10153055725708745_5392401214475659109_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=5007acacd394771daf3d7dbef357fad0&oe=5C71DF03
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10957577_10153055725708745_5392401214475659109_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=9632096573d475058ae0aef21334c9e3&oe=5C996C03
 beer-date: "2015-01-29"
 desc: "One of the nicer wheat bears I've tasted"
 permalink: /beer/:title.html

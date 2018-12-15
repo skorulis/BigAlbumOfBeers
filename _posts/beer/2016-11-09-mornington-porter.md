@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Porter - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174690_10154858210328745_1747042745805335072_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=12b074b2c9f8251495526e87b81d1542&oe=5C425991
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16174690_10154858210328745_1747042745805335072_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=1c58214ed2bb20ca6926c6c9632c0f2c&oe=5C917391
 beer-date: "2017-01-21"
 desc: "A good beer to enjoy slowly. Unmistakably a porter but it all fits together well"
 permalink: /beer/:title.html

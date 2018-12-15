@@ -9,7 +9,7 @@ brewery: "Grupo Modelo S.A. de C.V."
 breweryURL: "/brewery/grupo-modelo-s-a-de-c-v.html"
 style: "Lager - North American Adjunct"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/382796_10151396306023745_1333802839_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=a84639ea954c46b81b0899d947e843f0&oe=5C46386B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/382796_10151396306023745_1333802839_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=c61eb2b5d8570647e324f4a432d7d490&oe=5C95526B
 beer-date: "2012-12-25"
 desc: "A fairly standard beer"
 permalink: /beer/:title.html
