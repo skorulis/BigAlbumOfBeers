@@ -9,7 +9,7 @@ brewery: "Yeastie Boys"
 breweryURL: "/brewery/yeastie-boys.html"
 style: "Spiced / Herbed Beer"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12646945_10153890415153745_1313474125480375485_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=e4695804eee41f410a027f3f047ada4f&oe=5CAD5B31
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12646945_10153890415153745_1313474125480375485_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=874c223663bc7a7d96a0405f29d1d288&oe=5CD4E831
 beer-date: "2016-02-14"
 desc: "Amazingly floral but with so little bitterness. Has a slight spicyness as well which balances perfectly"
 permalink: /beer/:title.html

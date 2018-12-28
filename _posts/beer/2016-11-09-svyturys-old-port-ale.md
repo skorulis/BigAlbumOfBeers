@@ -9,7 +9,7 @@ brewery: "Švyturys"
 breweryURL: "/brewery/svyturys.html"
 style: "Scottish Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1234836_10152293116538745_626754395_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=c5d04f1ea1e8641975afd58cacac053d&oe=5CAD3142
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1234836_10152293116538745_626754395_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=8527a7e83dcbb854c11a28b772218f3a&oe=5CD4BE42
 beer-date: "2014-03-01"
 desc: "A lot smoother than expected"
 permalink: /beer/:title.html

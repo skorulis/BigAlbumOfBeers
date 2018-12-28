@@ -9,7 +9,7 @@ brewery: "Dad & Dave's Brewing"
 breweryURL: "/brewery/dad-daves-brewing.html"
 style: "IPA - Belgian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13238891_10154147276503745_6482757969464081061_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=7c212454f99f7cae5255a66105bbc7b2&oe=5CA428C2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13238891_10154147276503745_6482757969464081061_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=c16ca3f098b02e605dd558030cf88deb&oe=5CCBB5C2
 beer-date: "2016-05-24"
 desc: "Like other Belgian IPAs it’s not very hoppy"
 permalink: /beer/:title.html

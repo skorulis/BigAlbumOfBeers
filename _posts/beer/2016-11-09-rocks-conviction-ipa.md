@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "IPA - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20638096_10155494019103745_8662232016386244818_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=3e4c12736939fb346647a3a5662fbb47&oe=5CA7B30E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20638096_10155494019103745_8662232016386244818_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=1d661ecea13ae6dc400b5d8c8552572f&oe=5CCF400E
 beer-date: "2017-08-06"
 desc: "Nice bit of dankness and a little bit of fruit. Very little harsh bitterness. Never really gets better from the first sip"
 permalink: /beer/:title.html

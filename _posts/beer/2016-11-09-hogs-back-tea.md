@@ -9,7 +9,7 @@ brewery: "Hogs Back Brewery"
 breweryURL: "/brewery/hogs-back-brewery.html"
 style: "Traditional Ale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/282869_10151396304613745_908615539_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=111231a49a531f2db6b44b0179a67e74&oe=5CA3AF82
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/282869_10151396304613745_908615539_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=99d184bd0335d95ad0c0fe36729c2ad5&oe=5CCB3C82
 beer-date: "2012-12-25"
 desc: "Only has a hint of tea"
 permalink: /beer/:title.html

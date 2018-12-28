@@ -9,7 +9,7 @@ brewery: "Köstritzer Schwarzbierbrauerei"
 breweryURL: "/brewery/kostritzer-schwarzbierbrauerei.html"
 style: "Schwarzbier"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1920083_10152293088098745_591597385_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=a04e2757e70e27445c6e9600a49c58b8&oe=5CA3ED1A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1920083_10152293088098745_591597385_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=d16a38a5a50f0fd56693863cb861c8bd&oe=5CCB7A1A
 beer-date: "2014-03-01"
 desc: "Milder than a dark beer normally is"
 permalink: /beer/:title.html

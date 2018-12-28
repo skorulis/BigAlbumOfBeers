@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "IPA - New England"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34274688_10156301083508745_320340045577846784_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=a44bb77adbd742740f00319febd3a266&oe=5CB0F3E9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34274688_10156301083508745_320340045577846784_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=bd221b1c98f9cca3cd155f61566d3233&oe=5CD880E9
 beer-date: "2018-06-02"
 desc: "Starts off very biscuity. Not as much in the way of hops as I would expect from a NEIPA. One of the rare times when I would criticise pirate life for missing the mark"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Est.33"
 breweryURL: "/brewery/est-33.html"
 style: "Hefeweizen"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43006792_10156603260018745_3249927059106955264_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=d2601424d99ed6d99f3ec928d1d1d597&oe=5CACBAE2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43006792_10156603260018745_3249927059106955264_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=ecb057a7509fde90c034d2be0e3dd040&oe=5CD447E2
 beer-date: "2018-10-05"
 desc: "Very cloudy and a nice level of yeast"
 permalink: /beer/:title.html

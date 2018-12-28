@@ -9,7 +9,7 @@ brewery: "Brouwerij Martens"
 breweryURL: "/brewery/brouwerij-martens.html"
 style: "Lager - Euro"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19884225_10155413264968745_1211208339021252293_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=c84fe1483435a8e098b0a434dea1da5f&oe=5CAD507A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19884225_10155413264968745_1211208339021252293_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=2a6284d4623372cdd956b31b8af66ca5&oe=5CD4DD7A
 beer-date: "2017-07-12"
 desc: "Pretty plain lager"
 permalink: /beer/:title.html

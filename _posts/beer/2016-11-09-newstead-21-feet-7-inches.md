@@ -9,7 +9,7 @@ brewery: "Newstead Brewing Co."
 breweryURL: "/brewery/newstead-brewing-co.html"
 style: "Porter - Other"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17903520_10155111574488745_2744426459263409548_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=6a2443684841521afccee800a8335081&oe=5CB201AF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17903520_10155111574488745_2744426459263409548_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=400cfad24dc65c5d53fc220e901d605c&oe=5CD98EAF
 beer-date: "2017-04-11"
 desc: "Such a smooth dark beer. Dominated by a rich coffee flavour. I don’t even like coffee but I like this. Not much malt going on. Fairly light on the sweetness but the bitterness also so that’s balances out for me"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Bacchus Brewing Co."
 breweryURL: "/brewery/bacchus-brewing-co.html"
 style: "Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700110_10155251933903745_4900044277947664617_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=fe39dc806811ee9d8ff8191f3e65f83f&oe=5CA56391
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700110_10155251933903745_4900044277947664617_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=b08921dd133effa6a89a2efaacea28ef&oe=5CCCF091
 beer-date: "2017-05-27"
 desc: "A fairly thin dark ale. The chocolate and orange are fairly mild. Interesting but I probably didn't need a pint"
 permalink: /beer/:title.html

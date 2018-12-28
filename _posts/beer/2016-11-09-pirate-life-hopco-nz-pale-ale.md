@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Pale Ale - New Zealand"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13238891_10154147274018745_2218348989364359233_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=c7dd7d49a23a3d8410de82750dc9dff5&oe=5CA562C2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13238891_10154147274018745_2218348989364359233_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=f40c9ad5deb27b2731878b5b3eb03606&oe=5CCCEFC2
 beer-date: "2016-05-24"
 desc: "Doesn’t have the same floral taste that their other beers have. It’s still hoppy but more of the bitterness is coming through"
 permalink: /beer/:title.html

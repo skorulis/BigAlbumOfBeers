@@ -9,7 +9,7 @@ brewery: "Birra del Borgo"
 breweryURL: "/brewery/birra-del-borgo.html"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098559_10154984565428745_1885840357363654446_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=81fe4946a98c59d35dac1acb244568d3&oe=5CAF7AC8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098559_10154984565428745_1885840357363654446_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=eb2d70632b3c0a5e031ff269b536326b&oe=5CD707C8
 beer-date: "2017-03-03"
 desc: "One of the most over carbonated beers I’ve found. Took forever for the head to reach drinkable levels. Smells of some slightly funky yeast and that carries though to the taste but the flavour is mild otherwise. It’s in a spot where it’s almost amazing but doesn’t quite manage to get there"
 permalink: /beer/:title.html

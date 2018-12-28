@@ -9,7 +9,7 @@ brewery: "Carlton & United Breweries"
 breweryURL: "/brewery/carlton-united-breweries.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10942454_10153053851308745_7500988424962232002_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=8184823279273ec8b6e4987d8c9c6883&oe=5CB0135E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10942454_10153053851308745_7500988424962232002_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=7774d88e40a7c92e28b062b8445434b4&oe=5CD7A05E
 beer-date: "2015-01-28"
 desc: "Not my favourite golden ale. Only slightly better than regular crown"
 permalink: /beer/:title.html

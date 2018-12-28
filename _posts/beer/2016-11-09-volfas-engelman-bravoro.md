@@ -9,7 +9,7 @@ brewery: "Volfas Engelman"
 breweryURL: "/brewery/volfas-engelman.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1236122_10151929070963745_949716381_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=83a1f5f8d64d91a50d9865032edb0909&oe=5CAA6BFD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1236122_10151929070963745_949716381_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=e273604402872bb10e36e5e9b244bb19&oe=5CD1F8FD
 beer-date: "2013-09-19"
 desc: "A little bit wrong"
 permalink: /beer/:title.html

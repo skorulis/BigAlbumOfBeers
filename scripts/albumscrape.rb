@@ -5,7 +5,7 @@ require 'json'
 
 # Need to generate a new token every hour or so
 @token = ARGV[0]
-@albums = ["10151283325498745","10152534310003745","10154858207913745"]
+@albums = ["10151283325498745","10152534310003745","10154858207913745","10156797308368745"]
 @allBeers = [];
 @next = ""
 

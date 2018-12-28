@@ -9,7 +9,7 @@ brewery: "The Jeremiah Weed Distilling Company"
 breweryURL: "/brewery/the-jeremiah-weed-distilling-company.html"
 style: "Cider"
 score: null
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/409508_10151396305103745_1792863383_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=3c4af66d1d8e4a81d62d4cf596feda41&oe=5CAD20CF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/409508_10151396305103745_1792863383_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=c7a63d58b935beb0ac65eccce21620ed&oe=5CD4ADCF
 beer-date: "2012-12-25"
 desc: "Mike would drink this. It's not beer"
 permalink: /beer/:title.html

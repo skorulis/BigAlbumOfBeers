@@ -9,7 +9,7 @@ brewery: "Adnams"
 breweryURL: "/brewery/adnams.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238809_10151888666788745_1212313484_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=5562ddb9db46d2c3c048d04a81d0fad1&oe=5CADC773
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238809_10151888666788745_1212313484_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=98b2fb96e938e3fe52df744b5c8289ae&oe=5CD55473
 beer-date: "2013-09-01"
 desc: "A nice pale but just a bit of wrongness"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "St Austell Brewery"
 breweryURL: "/brewery/st-austell-brewery.html"
 style: "Pale Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1513323_10152147734918745_1271199559_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=232711f12bc990113aa76b2feae58fb5&oe=5CA5E065
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1513323_10152147734918745_1271199559_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=201eabe54914c5d8da1f76e070128d82&oe=5CCD6D65
 beer-date: "2013-12-23"
 desc: "A slightly tangly pale ale"
 permalink: /beer/:title.html

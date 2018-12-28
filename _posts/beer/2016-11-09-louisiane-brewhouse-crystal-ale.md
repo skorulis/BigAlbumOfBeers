@@ -9,7 +9,7 @@ brewery: "Louisiane Brewhouse"
 breweryURL: "/brewery/louisiane-brewhouse.html"
 style: "Red Ale - American Amber / Red"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/27867110_10156021381863745_175276676461283696_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=0193227386dd68c4576ca4df23bef551&oe=5CACFF66
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/27867110_10156021381863745_175276676461283696_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=4a65917e297df51c4bf41a234f3ab67c&oe=5CD48C66
 beer-date: "2018-02-17"
 desc: "Nice rounded malt dominates what almost seems like a mild red"
 permalink: /beer/:title.html

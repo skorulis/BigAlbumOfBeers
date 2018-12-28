@@ -9,7 +9,7 @@ brewery: "Rehn Bier"
 breweryURL: "/brewery/rehn-bier.html"
 style: "Stout - Other"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34103332_10156301079098745_2005393665853227008_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=2c9fba3d4531b977ebce904334d5e39a&oe=5CA38097
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34103332_10156301079098745_2005393665853227008_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=9efc93d86e8554d338f8b39200586837&oe=5CCB0D97
 beer-date: "2018-06-02"
 desc: "Lots of vanilla and chocolate without much stoutyness. Smooth and easy drinking"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Grifter Brewing Company"
 breweryURL: "/brewery/grifter-brewing-company.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13241213_10154147275538745_4637541751661074474_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=5852beed3c1405c32b982f631f0618db&oe=5CAE4D4E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13241213_10154147275538745_4637541751661074474_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=a9f7ad1454b308c4cbb9dc5fd6d78035&oe=5CD5DA4E
 beer-date: "2016-05-24"
 desc: "Nicely floral, not too bitter. All round good IPA"
 permalink: /beer/:title.html

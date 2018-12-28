@@ -9,7 +9,7 @@ brewery: "Burleigh Brewing Co."
 breweryURL: "/brewery/burleigh-brewing-co.html"
 style: "Lager - Euro"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64725_10151602286543745_838192247_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=c992717e53125b561459f24d04561685&oe=5CAD0BAC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64725_10151602286543745_838192247_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=e6b2160791a1e2f8abb1b44215f1542b&oe=5CD498AC
 beer-date: "2013-03-28"
 desc: "Tastes like a rusty nail left in a glass of water"
 permalink: /beer/:title.html

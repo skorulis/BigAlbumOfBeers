@@ -9,7 +9,7 @@ brewery: "Eight Degrees Brewing"
 breweryURL: "/brewery/eight-degrees-brewing.html"
 style: "Red Ale - Irish"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12734008_10153890412458745_3823076669808581993_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=52464737ed1aefb58fc6559c008fc75d&oe=5CAE8AD6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12734008_10153890412458745_3823076669808581993_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=aa16723024ff18b15495acce5ba1145a&oe=5CD617D6
 beer-date: "2016-02-14"
 desc: "There’s a fair bit of flavour but it’s just harsh. Not my cup of tea"
 permalink: /beer/:title.html

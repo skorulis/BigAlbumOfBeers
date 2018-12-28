@@ -9,7 +9,7 @@ brewery: "Guinness"
 breweryURL: "/brewery/guinness.html"
 style: "Red Ale - Irish"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14944_10151428531923745_1130605177_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=71c8510eaebffd1cdc214f32ba0dfcf2&oe=5CA9395F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14944_10151428531923745_1130605177_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=9203686ab58ad697d9f90eaec7f3d427&oe=5CD0C65F
 beer-date: "2013-01-13"
 desc: "A smooth ale"
 permalink: /beer/:title.html

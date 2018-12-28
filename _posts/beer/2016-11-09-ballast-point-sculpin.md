@@ -9,7 +9,7 @@ brewery: "Ballast Point Brewing Company"
 breweryURL: "/brewery/ballast-point-brewing-company.html"
 style: "IPA - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26230630_10155922804523745_5729776180107807809_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=a17cbe09a60983d346574efee9d1355c&oe=5CB1CA90
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26230630_10155922804523745_5729776180107807809_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=eb748452d65140414c8f53251e763034&oe=5CD95790
 beer-date: "2018-01-13"
 desc: "Very west coast but manages to stay balanced"
 permalink: /beer/:title.html

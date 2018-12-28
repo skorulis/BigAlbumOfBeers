@@ -9,7 +9,7 @@ brewery: "White Rabbit"
 breweryURL: "/brewery/white-rabbit.html"
 style: "Dark Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/11168124_10153268299693745_7328518567704258929_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=c93cfcf73ca2cf8e7403afaac1fe29ca&oe=5CB0A369
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/11168124_10153268299693745_7328518567704258929_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=775e19541a8f670cdd493d0c0df57b7f&oe=5CD83069
 beer-date: "2015-05-01"
 desc: "Not what I usually expect from a dark ale"
 permalink: /beer/:title.html

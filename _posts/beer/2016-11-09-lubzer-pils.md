@@ -9,7 +9,7 @@ brewery: "Mecklenburgische Brauerei Lübz"
 breweryURL: "/brewery/mecklenburgische-brauerei-lubz.html"
 style: "Pilsner - German"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19060098_10155314453758745_6218943165926117757_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=c40e57a4edebeab4f9d96197bd925c8c&oe=5CADE17F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19060098_10155314453758745_6218943165926117757_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=b0b13cb8ca9482f7b53fc72081f3dd8d&oe=5CD56E7F
 beer-date: "2017-06-15"
 desc: "A little bitter and malty but lacking any real flavour. Not something you want more of"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Staatliches Hofbräuhaus München"
 breweryURL: "/brewery/staatliches-hofbrauhaus-munchen.html"
 style: "Dunkelweizen"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/10462761_10152534310558745_1029523877930371907_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=0e926041d2f87078c0619789fcc89aed&oe=5CAFA321
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/10462761_10152534310558745_1029523877930371907_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=2f2a5dad2317626d2c855fd7ce58cdbb&oe=5CD73021
 beer-date: "2014-06-21"
 desc: "Tastes really metallic. Might just have been the taps"
 permalink: /beer/:title.html

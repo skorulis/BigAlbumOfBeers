@@ -9,7 +9,7 @@ brewery: "H-West B.V."
 breweryURL: "/brewery/h-west-b-v.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11140753_10153225352778745_8798373029749618991_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=0f4f508a89698db50b13281fbad0813a&oe=5CB2075A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11140753_10153225352778745_8798373029749618991_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=a7ae678f07301c129102bdf541f0ccab&oe=5CD9945A
 beer-date: "2015-04-13"
 desc: "Standard lager"
 permalink: /beer/:title.html

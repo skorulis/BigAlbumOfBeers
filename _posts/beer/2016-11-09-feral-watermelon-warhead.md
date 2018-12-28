@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-feral-watermelon-warhead.md
+title: Feral watermelon Warhead
+category: beer
+untappd: "https://untappd.com/b/feral-brewing-company-watermelon-warhead/169741"
+country: "Australia"
+brewery: "Feral Brewing Company"
+breweryURL: "/brewery/feral-brewing-company.html"
+style: "Sour - Berliner Weisse"
+score: 7.5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48421620_10156797310998745_7628600883999145984_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=a5c122340682a5f2725f19128d2633f7&oe=5CCECF62
+beer-date: "2018-12-27"
+desc: "I don’t usually like watermelon in beer but this works well with the sourness. I mean, it’s weak enough to be classed as water, but it’s a nice flavoured water"
+permalink: /beer/:title.html
+---

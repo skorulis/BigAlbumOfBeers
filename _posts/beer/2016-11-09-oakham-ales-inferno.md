@@ -9,7 +9,7 @@ brewery: "Oakham Ales"
 breweryURL: "/brewery/oakham-ales.html"
 style: "Golden Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/942020_10151694533608745_2056877210_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=11d6033c27f86ae52a64e7e34a415b20&oe=5CAA1DD1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/942020_10151694533608745_2056877210_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=a17bccb5e35f5dc97cd85a5c777a84c9&oe=5CD1AAD1
 beer-date: "2013-05-25"
 desc: "I think a beer called inferno needs chilli"
 permalink: /beer/:title.html

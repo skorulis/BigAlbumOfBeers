@@ -9,7 +9,7 @@ brewery: "Barossa Valley Brewing"
 breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26230306_10155922809823745_1510462702548715925_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=d082cf4e75b8d4ce5131b4b158e17522&oe=5CA6FA30
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26230306_10155922809823745_1510462702548715925_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=e3d07f2e07d54d3117f5779a700c7983&oe=5CCE8730
 beer-date: "2018-01-13"
 desc: "Quite hoppy for the strength but feels like something is lacking"
 permalink: /beer/:title.html
