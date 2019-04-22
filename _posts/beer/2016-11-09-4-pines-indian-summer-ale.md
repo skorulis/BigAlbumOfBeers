@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195073_10154858215448745_7085530304765501234_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=3bcc65a1b9d4c44be459076fc8428093&oe=5CD52741
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195073_10154858215448745_7085530304765501234_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=0f93af2e5fb56681e5f3d0a2d47c7125&oe=5D735B41
 beer-date: "2017-01-21"
 desc: "Refreshing and easy drinking. Low bitterness, not much in the way of hops but enough to make it tasty"
 permalink: /beer/:title.html

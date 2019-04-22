@@ -9,7 +9,7 @@ brewery: "Tumut River Brewing Co"
 breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Blonde Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20621151_10155494018763745_2237131364616894425_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=7ec075ce245f03326b952d22487739da&oe=5CCA7FF6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20621151_10155494018763745_2237131364616894425_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=94d7cf58b61d35ae224b879de7635688&oe=5D4126F6
 beer-date: "2017-08-06"
 desc: "Nice slightly Belgian ale. Pretty easy drinking"
 permalink: /beer/:title.html

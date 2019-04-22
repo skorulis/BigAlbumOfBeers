@@ -9,7 +9,7 @@ brewery: "Krombacher Gruppe"
 breweryURL: "/brewery/krombacher-gruppe.html"
 style: "Pilsner - German"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48421299_10156797311723745_6344476147203440640_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=f94c30da71e664104353e5ca0bb2a038&oe=5C920902
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48421299_10156797311723745_6344476147203440640_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=3255946086a9304f19e1abbd2d1a3fba&oe=5D303D02
 beer-date: "2018-12-27"
 desc: "A nice mild pilsner, very German in its simplicity. A good hot weather beer"
 permalink: /beer/:title.html

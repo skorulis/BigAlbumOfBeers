@@ -9,7 +9,7 @@ brewery: "Badlands Brewery"
 breweryURL: "/brewery/badlands-brewery.html"
 style: "Märzen"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26731295_10155922810813745_4336070583078277858_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=8d436e12d1302738b29c53c3e18a6629&oe=5C90B6E4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26731295_10155922810813745_4336070583078277858_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=f10cc48f8045cee6faa1d57f82accb12&oe=5D2EEAE4
 beer-date: "2018-01-13"
 desc: "Very lagerish. Ok but I’m not excited about it"
 permalink: /beer/:title.html

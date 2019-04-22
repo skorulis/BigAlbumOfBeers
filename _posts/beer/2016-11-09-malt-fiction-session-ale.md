@@ -9,7 +9,7 @@ brewery: "Malt Fiction"
 breweryURL: "/brewery/malt-fiction.html"
 style: "Pale Ale - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333020_10154470814048745_257468858783913286_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=49e3c0eb775b957eb4ce4457c1403489&oe=5CCCF1E3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333020_10154470814048745_257468858783913286_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=c6b9ebfa4660836f00848acdf36e41cd&oe=5D4398E3
 beer-date: "2016-09-21"
 desc: "Very easy drinking. Not a lot of flavour but for something you’re drinking all day this would be great. A little bit tangy"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Buxton Brewery"
 breweryURL: "/brewery/buxton-brewery.html"
 style: "Sour - Ale"
 score: 1.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098269_10154984570803745_5509508095958645458_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=500882f9c18660069a9a400b4226c08a&oe=5C939C5C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17098269_10154984570803745_5509508095958645458_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=44b61a812b55483e66c550daf09d1c41&oe=5D31D05C
 beer-date: "2017-03-03"
 desc: "Unfortunately this beer has a sourness that just tastes off. Like rotten fruit or beer mixed with shit wine"
 permalink: /beer/:title.html

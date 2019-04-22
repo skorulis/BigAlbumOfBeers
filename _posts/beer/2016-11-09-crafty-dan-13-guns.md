@@ -9,7 +9,7 @@ brewery: "Thwaites Brewery"
 breweryURL: "/brewery/thwaites-brewery.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18670852_10155251934423745_2414909086341188022_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=9008bfb0d271225666a04f68fd73244b&oe=5C915CD0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18670852_10155251934423745_2414909086341188022_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=a3e6ce090fbdfd605971b37f00559e12&oe=5D2F90D0
 beer-date: "2017-05-27"
 desc: "Decent hop aroma but it doesn't come through much in the taste. Fairly smooth for an IPA but it's not enough to save it"
 permalink: /beer/:title.html

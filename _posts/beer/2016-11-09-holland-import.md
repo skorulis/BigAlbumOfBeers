@@ -9,7 +9,7 @@ brewery: "H-West B.V."
 breweryURL: "/brewery/h-west-b-v.html"
 style: "Pilsner - Other"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10154146_10152425240233745_4967152943053850733_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=cdee9fc19f6116c1bbf5e00876cc3e59&oe=5C944760
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10154146_10152425240233745_4967152943053850733_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=a8b5f87423d5df34be6439f5c8c11723&oe=5D327B60
 beer-date: "2014-05-03"
 desc: "A cheap lager"
 permalink: /beer/:title.html

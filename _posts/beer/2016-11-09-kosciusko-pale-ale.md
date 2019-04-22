@@ -9,7 +9,7 @@ brewery: "Kosciuszko Brewing Company"
 breweryURL: "/brewery/kosciuszko-brewing-company.html"
 style: "Pale Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10492453_10153055771438745_3655493043304213188_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=27da620a72367e158daff658a3a962cd&oe=5CA01AA6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10492453_10153055771438745_3655493043304213188_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=b7253619fb0ef9d2a29f90a47117eed5&oe=5D3E4EA6
 beer-date: "2015-01-29"
 desc: "Never heard of this, was hoping for something better"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Pale Ale - Australian"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49064881_10156797309953745_4921642731459051520_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=2a1d15dd76422d424f0605de0b1f66e0&oe=5CCDCC01
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49064881_10156797309953745_4921642731459051520_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=f725e916dd42a045b68ad2eb611f5708&oe=5D447301
 beer-date: "2018-12-27"
 desc: "Smells like a nice IPA, then you take a sip and it starts fine and ends up like water. Leaves me questioning why I’m even bothering to have a beer at all. I guess if you want something with just a tinge of hops and not much alcohol then this would be the beer for you"
 permalink: /beer/:title.html

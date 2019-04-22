@@ -9,7 +9,7 @@ brewery: "Belgian Blue Brewing Company"
 breweryURL: "/brewery/belgian-blue-brewing-company.html"
 style: "Lager - Euro"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11742655_10153438036023745_7783155327321003667_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=9d20fd32955abc95331350531b3b6d4b&oe=5CD76B04
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11742655_10153438036023745_7783155327321003667_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=46e5b28ffcda61af99a2c8b34798d753&oe=5D759F04
 beer-date: "2015-07-10"
 desc: "Nothing premium about this"
 permalink: /beer/:title.html

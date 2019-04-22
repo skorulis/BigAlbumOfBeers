@@ -9,7 +9,7 @@ brewery: "BrewCult"
 breweryURL: "/brewery/brewcult.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12107838_10153656867113745_341030388742417750_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=ac1b087cead1cb80f36bbbc407f04ac4&oe=5C99E43A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12107838_10153656867113745_341030388742417750_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=6875c60d016acb1bfcb6eb69430466fe&oe=5D38183A
 beer-date: "2015-10-17"
 desc: "A little bit of a let down from the IPAs"
 permalink: /beer/:title.html

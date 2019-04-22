@@ -9,7 +9,7 @@ brewery: "Badlands Brewery"
 breweryURL: "/brewery/badlands-brewery.html"
 style: "Pale Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12109067_10153656863173745_3852359078129229777_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=84bae872a82059dcee23b6faed411dd1&oe=5C8F65FA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12109067_10153656863173745_3852359078129229777_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=96bb4722e745134de26441385e4b1f37&oe=5D2D99FA
 beer-date: "2015-10-17"
 desc: "Missing the boxes it's trying to tick"
 permalink: /beer/:title.html

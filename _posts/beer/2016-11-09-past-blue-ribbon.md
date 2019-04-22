@@ -9,7 +9,7 @@ brewery: "Pabst Brewing Company"
 breweryURL: "/brewery/pabst-brewing-company.html"
 style: "Lager - North American Adjunct"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1926933_10153118792373745_471015037580664056_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=b5bfbd1028fd21a5d45daf14ed60d126&oe=5C944BBB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1926933_10153118792373745_471015037580664056_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=601152033f045694e477fc28d639fe85&oe=5D327FBB
 beer-date: "2015-02-27"
 desc: "Not sure why this gets branded as a hipster beer. It’s just a bland lager"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Basement Brewhouse"
 breweryURL: "/brewery/basement-brewhouse.html"
 style: "Lager - Dark"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26229448_10155922810018745_5656909207117620973_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=94655196471e8cb0dd735c653af48734&oe=5C9F7052
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26229448_10155922810018745_5656909207117620973_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=731c84b29b219cd05caf47f00ecf89eb&oe=5D3DA452
 beer-date: "2018-01-13"
 desc: "A nice malty addition to a normal lager. A little sweetness on the tip of the tongue which fits well"
 permalink: /beer/:title.html

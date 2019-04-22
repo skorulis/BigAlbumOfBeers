@@ -9,7 +9,7 @@ brewery: "Blue Point Brewing Company"
 breweryURL: "/brewery/blue-point-brewing-company.html"
 style: "Lager - American Amber / Red"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18881761_10155271708668745_4157413213387517616_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=e4e6ff991006f59a6a8fec94549232c8&oe=5C8CAE64
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18881761_10155271708668745_4157413213387517616_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=21b7e34b6755cce1decf707b42e1ca60&oe=5D2AE264
 beer-date: "2017-06-02"
 desc: "Fairly mild lager but with a little bit of something extra. Could be called an amber ale. Pretty solid all round"
 permalink: /beer/:title.html

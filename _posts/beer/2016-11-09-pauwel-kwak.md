@@ -9,7 +9,7 @@ brewery: "Brouwerij Bosteels"
 breweryURL: "/brewery/brouwerij-bosteels.html"
 style: "Belgian Strong Golden Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1521828_10152147734533745_969043237_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=cac5d37f847dd1fb9791b153f420679a&oe=5C9AB49E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1521828_10152147734533745_969043237_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=454ef69cde84a1585d4fd58fd8a23423&oe=5D38E89E
 beer-date: "2013-12-23"
 desc: "A mild Belgian beer. +1 for the sweet glass"
 permalink: /beer/:title.html

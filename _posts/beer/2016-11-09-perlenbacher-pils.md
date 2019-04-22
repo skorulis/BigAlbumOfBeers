@@ -9,7 +9,7 @@ brewery: "Mauritius Brauerei"
 breweryURL: "/brewery/mauritius-brauerei.html"
 style: "Pilsner - German"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19149243_10155314455493745_6613604635700706417_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=69da69e32ae56d83464528b5ccdc03e0&oe=5C916047
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19149243_10155314455493745_6613604635700706417_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=d6a77969b69eff6839002870f12bd223&oe=5D2F9447
 beer-date: "2017-06-15"
 desc: "Cheap and malty. You can't really complain at 29¢ a can"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Ridgeway Brewing"
 breweryURL: "/brewery/ridgeway-brewing.html"
 style: "IPA - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17362848_10155045842968745_2800366112619640706_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=c0a00d369610c69050b18a902daa9d79&oe=5CD4F96D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17362848_10155045842968745_2800366112619640706_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=a09f21636b86ddc41ff1efcfee4d89e2&oe=5D732D6D
 beer-date: "2017-03-22"
 desc: "Has a mild Belgian yeastiness. Not at all what I expect from an IPA but it’s enjoyable nonetheless. Mild and easy drinking with a slight taste of hops"
 permalink: /beer/:title.html

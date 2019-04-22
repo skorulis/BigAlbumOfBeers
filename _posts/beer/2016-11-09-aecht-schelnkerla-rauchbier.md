@@ -9,7 +9,7 @@ brewery: "Schlenkerla ("Heller-Bräu" Trum)"
 breweryURL: "/brewery/schlenkerla-heller-brau-trum.html"
 style: "Rauchbier"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789053_10155717525258745_7962681529201851923_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=599f26553abb5b2efd53162d9d4d8444&oe=5CCFFFAB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789053_10155717525258745_7962681529201851923_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=9169143e75b9a37c1718c19238807cf1&oe=5D6E33AB
 beer-date: "2017-10-28"
 desc: "Love the smokey flavours coming through, almost like bacon. Tastes a little stronger than it is"
 permalink: /beer/:title.html

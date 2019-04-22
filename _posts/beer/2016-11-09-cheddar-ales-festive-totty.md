@@ -9,7 +9,7 @@ brewery: "Cheddar Ales"
 breweryURL: "/brewery/cheddar-ales.html"
 style: "Winter Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/988380_10152293086573745_484773090_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=4093c3a84276b21c792a105e4a731ee5&oe=5C99F9A3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/988380_10152293086573745_484773090_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=b53d712904790e73cbe9cc134f239d0f&oe=5D382DA3
 beer-date: "2014-03-01"
 desc: "Not sure how totty applies in this context"
 permalink: /beer/:title.html

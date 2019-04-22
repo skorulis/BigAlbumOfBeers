@@ -9,7 +9,7 @@ brewery: "Abbaye Notre-Dame de Saint-Rémy"
 breweryURL: "/brewery/abbaye-notre-dame-de-saint-remy.html"
 style: "Belgian Quad"
 score: 9.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/22780478_10155717525993745_1892872624222650455_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=73cf728b3f13a507ab6ec9ea9523d894&oe=5CD8A70D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/22780478_10155717525993745_1892872624222650455_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=a0205aa04dacfb78536dd68a79b99fcc&oe=5D76DB0D
 beer-date: "2017-10-28"
 desc: "Really warming due to the alcohol. After a few sips the strong flavour becomes natural and it goes down easy with a nice sweetness at the end. A solid beverage"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Boatrocker Brewing Company"
 breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Belgian Tripel"
 score: 10
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16143318_10154858019488745_7361016964513483944_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=ef67933e5a41d2945b1072ad02903479&oe=5C91C7A3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16143318_10154858019488745_7361016964513483944_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=d4cb32c7459341088c3c9f4b12accb36&oe=5D2FFBA3
 beer-date: "2017-01-21"
 desc: "Has a lovely nice yeasty aroma. There’s a rich warming sensation as you drink combined with a rich full flavour that is exactly what I expect from a tripel. Absolutely no harshness despite the high percentage and barely any perceptible bitterness"
 permalink: /beer/:title.html

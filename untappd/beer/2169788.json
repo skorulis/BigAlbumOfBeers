@@ -1,0 +1,3311 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.192,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 2169788,
+      "beer_name": "Billy's Lager",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 0,
+      "beer_ibu": 0,
+      "beer_description": "",
+      "beer_style": "Lager - Pale",
+      "is_in_production": 1,
+      "beer_slug": "billy-barry-s-billy-s-lager",
+      "is_homebrew": 0,
+      "created_at": "Fri, 30 Jun 2017 08:14:46 +0000",
+      "rating_count": 21,
+      "rating_score": 3.11905,
+      "stats": {
+        "total_count": 25,
+        "monthly_count": 0,
+        "total_user_count": 23,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 348344,
+        "brewery_name": "Billy Barry's",
+        "brewery_slug": "billy-barry-s",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/w/billy-barry-s/348344",
+        "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "",
+          "facebook": "",
+          "url": ""
+        },
+        "location": {
+          "brewery_city": "",
+          "brewery_state": "",
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 221452171,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_03_23/c31e3ec7017fb82ea6ebaa889fb2f6c5_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_03_23/c31e3ec7017fb82ea6ebaa889fb2f6c5_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_03_23/c31e3ec7017fb82ea6ebaa889fb2f6c5_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_03_23/c31e3ec7017fb82ea6ebaa889fb2f6c5_raw.jpg"
+            },
+            "created_at": "Sat, 23 Mar 2019 03:26:11 +0000",
+            "checkin_id": 726994059,
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 3.119,
+              "rating_count": 21,
+              "count": 21,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4867095,
+              "user_name": "Rybonus",
+              "first_name": "Ryan",
+              "last_name": "S",
+              "user_avatar": "https://gravatar.com/avatar/6afa8ca0e331680ad975168b410b12d2?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2392416,
+                "venue_name": "billy  barry's",
+                "venue_slug": "billy-barry-s",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Blue at",
+                  "venue_city": "North Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.841,
+                  "lng": 151.208
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "548e7f59498e83b58db0b404",
+                  "foursquare_url": "http://4sq.com/135oH3r"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 210795036,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_01_11/dcf63ea63a664b64657828f87b865736_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_01_11/dcf63ea63a664b64657828f87b865736_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_01_11/dcf63ea63a664b64657828f87b865736_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_01_11/dcf63ea63a664b64657828f87b865736_raw.jpg"
+            },
+            "created_at": "Fri, 11 Jan 2019 01:29:21 +0000",
+            "checkin_id": 699514918,
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 3.119,
+              "rating_count": 21,
+              "count": 21,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2392416,
+                "venue_name": "billy  barry's",
+                "venue_slug": "billy-barry-s",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Blue at",
+                  "venue_city": "North Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.841,
+                  "lng": 151.208
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "548e7f59498e83b58db0b404",
+                  "foursquare_url": "http://4sq.com/135oH3r"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 210123845,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_01_05/d29e990c12d27607f2120c96e5c42f05_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_01_05/d29e990c12d27607f2120c96e5c42f05_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_01_05/d29e990c12d27607f2120c96e5c42f05_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_01_05/d29e990c12d27607f2120c96e5c42f05_raw.jpg"
+            },
+            "created_at": "Sat, 05 Jan 2019 07:05:02 +0000",
+            "checkin_id": 697769675,
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 3.119,
+              "rating_count": 21,
+              "count": 21,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3828043,
+              "user_name": "flitter",
+              "first_name": "les",
+              "last_name": "",
+              "user_avatar": "https://gravatar.com/avatar/addd90a35dfcc4348eef3809962a520e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2392416,
+                "venue_name": "billy  barry's",
+                "venue_slug": "billy-barry-s",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Blue at",
+                  "venue_city": "North Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.841,
+                  "lng": 151.208
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "548e7f59498e83b58db0b404",
+                  "foursquare_url": "http://4sq.com/135oH3r"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 208224288,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_12_26/5a3215df6cdff2f7fbee944b3414cb9f_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_12_26/5a3215df6cdff2f7fbee944b3414cb9f_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_12_26/5a3215df6cdff2f7fbee944b3414cb9f_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_12_26/5a3215df6cdff2f7fbee944b3414cb9f_raw.jpg"
+            },
+            "created_at": "Wed, 26 Dec 2018 16:45:16 +0000",
+            "checkin_id": 692939651,
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 3.119,
+              "rating_count": 21,
+              "count": 21,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1857114,
+              "user_name": "Frans5",
+              "first_name": "Frans",
+              "last_name": "V",
+              "user_avatar": "https://untappd.akamaized.net/profile/7c9b50e2028097d220ed1f2718e385f8_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 490446,
+                "venue_name": "Barney's Tavern",
+                "venue_slug": "barney-s-tavern",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": null,
+                      "category_name": null,
+                      "category_id": "4d4b7104d754a06370d81259",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Marine Dr.",
+                  "venue_city": "Ibhayi",
+                  "venue_state": "Eastern Cape",
+                  "lat": -33.9801,
+                  "lng": 25.6568
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.barneystavern.co.za"
+                },
+                "foursquare": {
+                  "foursquare_id": "4c0ea7f27189c928f2dad8b6",
+                  "foursquare_url": "http://4sq.com/bcZGhZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 189877086,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_08_28/990e7927134e6b8cfa2769167e28efc9_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_08_28/990e7927134e6b8cfa2769167e28efc9_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_08_28/990e7927134e6b8cfa2769167e28efc9_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_08_28/990e7927134e6b8cfa2769167e28efc9_raw.jpg"
+            },
+            "created_at": "Tue, 28 Aug 2018 13:23:12 +0000",
+            "checkin_id": 644702517,
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 3.119,
+              "rating_count": 21,
+              "count": 21,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1016480,
+              "user_name": "nickjensen",
+              "first_name": "Nick",
+              "last_name": "J",
+              "user_avatar": "https://gravatar.com/avatar/c7fba6eec11a91b97457fd4e8762bff5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2392416,
+                "venue_name": "billy  barry's",
+                "venue_slug": "billy-barry-s",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Blue at",
+                  "venue_city": "North Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.841,
+                  "lng": 151.208
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "548e7f59498e83b58db0b404",
+                  "foursquare_url": "http://4sq.com/135oH3r"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 182853908,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_07_17/06d25fd9c42581d7e3a4ead3cd78949f_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_07_17/06d25fd9c42581d7e3a4ead3cd78949f_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_07_17/06d25fd9c42581d7e3a4ead3cd78949f_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_07_17/06d25fd9c42581d7e3a4ead3cd78949f_raw.jpeg"
+            },
+            "created_at": "Tue, 17 Jul 2018 08:16:42 +0000",
+            "checkin_id": 626045860,
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 3.119,
+              "rating_count": 21,
+              "count": 21,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4081611,
+              "user_name": "marty2049",
+              "first_name": "Martin",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/d4cdd20e57361f65c4a5d801cdbbfb00_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2392416,
+                "venue_name": "billy  barry's",
+                "venue_slug": "billy-barry-s",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Blue at",
+                  "venue_city": "North Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.841,
+                  "lng": 151.208
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "548e7f59498e83b58db0b404",
+                  "foursquare_url": "http://4sq.com/135oH3r"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 173901785,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_05_23/77e3d27a1559e4b7d566c926d9b42f77_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_05_23/77e3d27a1559e4b7d566c926d9b42f77_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_05_23/77e3d27a1559e4b7d566c926d9b42f77_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_05_23/77e3d27a1559e4b7d566c926d9b42f77_raw.jpg"
+            },
+            "created_at": "Wed, 23 May 2018 09:44:40 +0000",
+            "checkin_id": 601809021,
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 3.119,
+              "rating_count": 21,
+              "count": 21,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3771395,
+              "user_name": "ah9579",
+              "first_name": "Andrew",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/f55d6de858a58f54cf9e74d0cd0ec0a5_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2392416,
+                "venue_name": "billy  barry's",
+                "venue_slug": "billy-barry-s",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Blue at",
+                  "venue_city": "North Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.841,
+                  "lng": 151.208
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "548e7f59498e83b58db0b404",
+                  "foursquare_url": "http://4sq.com/135oH3r"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 173901782,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_05_23/e6d9e5c297c23066380b3495ef646d13_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_05_23/e6d9e5c297c23066380b3495ef646d13_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_05_23/e6d9e5c297c23066380b3495ef646d13_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_05_23/e6d9e5c297c23066380b3495ef646d13_raw.jpeg"
+            },
+            "created_at": "Wed, 23 May 2018 09:44:45 +0000",
+            "checkin_id": 601809013,
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 3.119,
+              "rating_count": 21,
+              "count": 21,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4039369,
+              "user_name": "NCHANT",
+              "first_name": "Nicholas",
+              "last_name": "C",
+              "user_avatar": "https://untappd.akamaized.net/profile/4810d76ffabb74d3803681e5eccf7a06_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2392416,
+                "venue_name": "billy  barry's",
+                "venue_slug": "billy-barry-s",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Blue at",
+                  "venue_city": "North Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.841,
+                  "lng": 151.208
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "548e7f59498e83b58db0b404",
+                  "foursquare_url": "http://4sq.com/135oH3r"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 171579569,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_05_08/c1fe8dfc986ef34564e21d56dd5df6c7_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_05_08/c1fe8dfc986ef34564e21d56dd5df6c7_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_05_08/c1fe8dfc986ef34564e21d56dd5df6c7_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_05_08/c1fe8dfc986ef34564e21d56dd5df6c7_raw.jpg"
+            },
+            "created_at": "Tue, 08 May 2018 03:01:54 +0000",
+            "checkin_id": 595330939,
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 3.119,
+              "rating_count": 21,
+              "count": 21,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 16919,
+              "user_name": "backoftheferry",
+              "first_name": "BackoftheFerry",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/11c465167aae146a7af523a7ac9e3ee8_thumb.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2392416,
+                "venue_name": "billy  barry's",
+                "venue_slug": "billy-barry-s",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Blue at",
+                  "venue_city": "North Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.841,
+                  "lng": 151.208
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "548e7f59498e83b58db0b404",
+                  "foursquare_url": "http://4sq.com/135oH3r"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 168600837,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2018_04_19/d8aa0878da1d85a845163ba20bb77306_100x100.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2018_04_19/d8aa0878da1d85a845163ba20bb77306_320x320.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2018_04_19/d8aa0878da1d85a845163ba20bb77306_640x640.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2018_04_19/d8aa0878da1d85a845163ba20bb77306_raw.jpeg"
+            },
+            "created_at": "Thu, 19 Apr 2018 10:56:45 +0000",
+            "checkin_id": 587174145,
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 3.119,
+              "rating_count": 21,
+              "count": 21,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3044327,
+              "user_name": "PhilBrau",
+              "first_name": "Philbert",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/49a05dbd568a508f994c7663ecaa3be2_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2392416,
+                "venue_name": "billy  barry's",
+                "venue_slug": "billy-barry-s",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Blue at",
+                  "venue_city": "North Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.841,
+                  "lng": 151.208
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "548e7f59498e83b58db0b404",
+                  "foursquare_url": "http://4sq.com/135oH3r"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 726994059,
+            "created_at": "Sat, 23 Mar 2019 03:26:04 +0000",
+            "checkin_comment": "Yea not bad",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 4867095,
+              "user_name": "Rybonus",
+              "first_name": "Ryan",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/6afa8ca0e331680ad975168b410b12d2?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 221452171,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_03_23/c31e3ec7017fb82ea6ebaa889fb2f6c5_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_03_23/c31e3ec7017fb82ea6ebaa889fb2f6c5_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_03_23/c31e3ec7017fb82ea6ebaa889fb2f6c5_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_03_23/c31e3ec7017fb82ea6ebaa889fb2f6c5_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 704507972,
+            "created_at": "Fri, 25 Jan 2019 05:32:19 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3622906,
+              "user_name": "Houso",
+              "first_name": "Houso",
+              "last_name": "J.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/978ae107c00e7e7d8382a4196431f2a6_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 243502,
+                  "user_badge_id": 454254678,
+                  "badge_name": "Brewery Pioneer (Level 7)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 35 different breweries. Try 5 more for Level 8!",
+                  "created_at": "Fri, 25 Jan 2019 05:32:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 701117014,
+            "created_at": "Mon, 14 Jan 2019 08:11:41 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 2828496,
+              "user_name": "sosborne64",
+              "first_name": "Scott",
+              "last_name": "O.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/84105370d40c43ec5fdd128aacc1c43d?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 699514918,
+            "created_at": "Fri, 11 Jan 2019 01:28:41 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 210795036,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_01_11/dcf63ea63a664b64657828f87b865736_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_01_11/dcf63ea63a664b64657828f87b865736_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_01_11/dcf63ea63a664b64657828f87b865736_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_01_11/dcf63ea63a664b64657828f87b865736_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133290,
+                  "user_badge_id": 449039023,
+                  "badge_name": "Draft City (Level 37)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 185 checkins with the serving style of Draft. Try 5 more for Level 38!",
+                  "created_at": "Fri, 11 Jan 2019 01:28:41 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DraftCity_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 697769675,
+            "created_at": "Sat, 05 Jan 2019 07:04:13 +0000",
+            "checkin_comment": "Fruity lager",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 3828043,
+              "user_name": "flitter",
+              "first_name": "les",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/addd90a35dfcc4348eef3809962a520e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 210123845,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_01_05/d29e990c12d27607f2120c96e5c42f05_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_01_05/d29e990c12d27607f2120c96e5c42f05_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_01_05/d29e990c12d27607f2120c96e5c42f05_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_01_05/d29e990c12d27607f2120c96e5c42f05_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 692939651,
+            "created_at": "Wed, 26 Dec 2018 16:41:44 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 1857114,
+              "user_name": "Frans5",
+              "first_name": "Frans",
+              "last_name": "V.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/7c9b50e2028097d220ed1f2718e385f8_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 490446,
+              "venue_name": "Barney's Tavern",
+              "venue_slug": "barney-s-tavern",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": null,
+                    "category_name": null,
+                    "category_id": "4d4b7104d754a06370d81259",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Marine Dr.",
+                "venue_city": "Ibhayi",
+                "venue_state": "Eastern Cape",
+                "venue_country": "iNingizimu Afrika",
+                "lat": -33.9801,
+                "lng": 25.6568
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.barneystavern.co.za"
+              },
+              "foursquare": {
+                "foursquare_id": "4c0ea7f27189c928f2dad8b6",
+                "foursquare_url": "http://4sq.com/bcZGhZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 965774,
+                  "user": {
+                    "uid": 965774,
+                    "user_name": "Strijpersniper",
+                    "first_name": "Mike",
+                    "last_name": "V.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7f1a102a75c310f18a02c9e219f3a8e5_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 602866300,
+                  "like_owner": false,
+                  "created_at": "Wed, 26 Dec 2018 18:53:37 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 208224288,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_12_26/5a3215df6cdff2f7fbee944b3414cb9f_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_12_26/5a3215df6cdff2f7fbee944b3414cb9f_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_12_26/5a3215df6cdff2f7fbee944b3414cb9f_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_12_26/5a3215df6cdff2f7fbee944b3414cb9f_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 661730751,
+            "created_at": "Tue, 09 Oct 2018 09:57:18 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 2618008,
+              "user_name": "Majalenko",
+              "first_name": "Antony",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/0e7a12a61b4011714d184931c6cd3b90_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4047763,
+                  "user": {
+                    "uid": 4047763,
+                    "user_name": "IllMill",
+                    "first_name": "Adam",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/344be37b0d4c708005e14597533ba7b4_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 572470394,
+                  "like_owner": false,
+                  "created_at": "Fri, 12 Oct 2018 04:28:34 +0000"
+                },
+                {
+                  "uid": 2421473,
+                  "user": {
+                    "uid": 2421473,
+                    "user_name": "helmie",
+                    "first_name": "Michael",
+                    "last_name": "H.",
+                    "bio": "Unique beer hunter!",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b10734bff796231f1566927122e9f1c1_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 572091704,
+                  "like_owner": false,
+                  "created_at": "Thu, 11 Oct 2018 00:16:04 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2147,
+                  "user_badge_id": 405162029,
+                  "badge_name": "Lager Jack  (Level 41)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 205 different Lagers! Try 5 more to unlock Level 42.",
+                  "created_at": "Tue, 09 Oct 2018 09:57:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 656576173,
+            "created_at": "Thu, 27 Sep 2018 02:16:36 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 2543568,
+              "user_name": "sijnstra",
+              "first_name": "Shawn",
+              "last_name": "S.",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/6d8190f7341c8334099d3aa152fdebd2?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 644942130,
+            "created_at": "Wed, 29 Aug 2018 10:33:55 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 4064624,
+              "user_name": "bsahlqvist",
+              "first_name": "brent",
+              "last_name": "s.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/8b3470bfd5342554fdf0d3a44f3abd52?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 644702517,
+            "created_at": "Tue, 28 Aug 2018 13:22:22 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 1016480,
+              "user_name": "nickjensen",
+              "first_name": "Nick",
+              "last_name": "J.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/c7fba6eec11a91b97457fd4e8762bff5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 189877086,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_08_28/990e7927134e6b8cfa2769167e28efc9_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_08_28/990e7927134e6b8cfa2769167e28efc9_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_08_28/990e7927134e6b8cfa2769167e28efc9_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_08_28/990e7927134e6b8cfa2769167e28efc9_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 626045860,
+            "created_at": "Tue, 17 Jul 2018 08:16:25 +0000",
+            "checkin_comment": "Pretty clean but a long way off memorable.",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 4081611,
+              "user_name": "marty2049",
+              "first_name": "Martin",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/d4cdd20e57361f65c4a5d801cdbbfb00_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 182853908,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_07_17/06d25fd9c42581d7e3a4ead3cd78949f_200x200.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_07_17/06d25fd9c42581d7e3a4ead3cd78949f_640x640.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_07_17/06d25fd9c42581d7e3a4ead3cd78949f_1280x1280.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_07_17/06d25fd9c42581d7e3a4ead3cd78949f_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133289,
+                  "user_badge_id": 369693590,
+                  "badge_name": "Draft City (Level 36)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 180 checkins with the serving style of Draft. Try 5 more for Level 37!",
+                  "created_at": "Tue, 17 Jul 2018 13:16:26 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DraftCity_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 611465703,
+            "created_at": "Fri, 15 Jun 2018 05:26:14 +0000",
+            "checkin_comment": "This is a great lager.",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 712458,
+              "user_name": "tnargus",
+              "first_name": "tnargus",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/53f12f0d0539dfd45537a2f0dcda384d_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2134,
+                  "user_badge_id": 351094680,
+                  "badge_name": "Lager Jack  (Level 28)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 140 different Lagers! Try 5 more to unlock Level 29.",
+                  "created_at": "Fri, 15 Jun 2018 10:26:14 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 611464844,
+            "created_at": "Fri, 15 Jun 2018 05:16:03 +0000",
+            "checkin_comment": "",
+            "rating_score": 2,
+            "user": {
+              "uid": 2941197,
+              "user_name": "SLCoady",
+              "first_name": "Sebastian",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/73e95b4b5ad315f35af9ae11df083f36?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 1,
+              "count": 1,
+              "items": [
+                {
+                  "user": {
+                    "uid": 3769583,
+                    "user_name": "nicholasxanthis",
+                    "first_name": "Nick",
+                    "last_name": "X.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://untappd.akamaized.net/profile/1047c2dfa091186f43bd9da955ad0e8b_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 611464844,
+                  "comment_id": 42818114,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "😂😂😂",
+                  "created_at": "Fri, 15 Jun 2018 17:27:02 +0000",
+                  "comment_source": "API"
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 601809021,
+            "created_at": "Wed, 23 May 2018 09:44:25 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 3771395,
+              "user_name": "ah9579",
+              "first_name": "Andrew",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/f55d6de858a58f54cf9e74d0cd0ec0a5_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 173901785,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_05_23/77e3d27a1559e4b7d566c926d9b42f77_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_05_23/77e3d27a1559e4b7d566c926d9b42f77_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_05_23/77e3d27a1559e4b7d566c926d9b42f77_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_05_23/77e3d27a1559e4b7d566c926d9b42f77_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2123,
+                  "user_badge_id": 342622848,
+                  "badge_name": "Lager Jack  (Level 17)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 85 different Lagers! Try 5 more to unlock Level 18.",
+                  "created_at": "Wed, 23 May 2018 14:44:26 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 601809013,
+            "created_at": "Wed, 23 May 2018 09:44:10 +0000",
+            "checkin_comment": "Not a bad for a pint run on Wednesday",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 4039369,
+              "user_name": "NCHANT",
+              "first_name": "Nicholas",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/4810d76ffabb74d3803681e5eccf7a06_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2169788,
+              "beer_name": "Billy's Lager",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "billy-barry-s-billy-s-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 348344,
+              "brewery_name": "Billy Barry's",
+              "brewery_slug": "billy-barry-s",
+              "brewery_page_url": "/w/billy-barry-s/348344",
+              "brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2392416,
+              "venue_name": "billy  barry's",
+              "venue_slug": "billy-barry-s",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Blue at",
+                "venue_city": "North Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.841,
+                "lng": 151.208
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "548e7f59498e83b58db0b404",
+                "foursquare_url": "http://4sq.com/135oH3r"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 173901782,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2018_05_23/e6d9e5c297c23066380b3495ef646d13_200x200.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2018_05_23/e6d9e5c297c23066380b3495ef646d13_640x640.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2018_05_23/e6d9e5c297c23066380b3495ef646d13_1280x1280.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2018_05_23/e6d9e5c297c23066380b3495ef646d13_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 3799,
+                  "user_badge_id": 342622841,
+                  "badge_name": "Bar Explorer (Level 17)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 85 distinct venues!",
+                  "created_at": "Wed, 23 May 2018 14:44:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2117,
+                  "user_badge_id": 342622842,
+                  "badge_name": "Lager Jack  (Level 11)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 55 different Lagers! Try 5 more to unlock Level 12.",
+                  "created_at": "Wed, 23 May 2018 14:44:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/2169788?max_id=726994059",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/2169788?max_id=601809013",
+          "max_id": 601809013
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.78846,
+            "beer": {
+              "bid": 2579263,
+              "beer_name": "Lechuza With Lime, Cilantro & Ancho Chilis",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "dry-county-brewing-company-lechuza-with-lime-cilantro-and-ancho-chilis",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2579263_fb83a_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 234004,
+              "brewery_name": "Dry County Brewing Company",
+              "brewery_slug": "dry-county-brewing-company",
+              "brewery_page_url": "/DryCountyBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-234004_0b09a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "drycountybrewco",
+                "facebook": "http://www.facebook.com/drycountybrewco",
+                "instagram": "drycountybrewco",
+                "url": "http://www.drycountybrewco.com"
+              },
+              "location": {
+                "brewery_city": "Kennesaw",
+                "brewery_state": "GA",
+                "lat": 34.0216,
+                "lng": -84.5937
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.675,
+            "beer": {
+              "bid": 3079170,
+              "beer_name": "#NoFilter",
+              "beer_abv": 5,
+              "beer_ibu": 16,
+              "beer_slug": "st-patrick-s-beer-nofilter",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3079170_91b99_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 421906,
+              "brewery_name": "St. Patrick's Beer",
+              "brewery_slug": "st-patrick-s-beer",
+              "brewery_page_url": "/StPatricksBeer",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-421906_d79a7.jpeg",
+              "country_name": "Brazil",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/stpatricksbeer",
+                "instagram": "stpatricksbeer",
+                "url": "http://www.stpatricksbeer.com.br"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.55357,
+            "beer": {
+              "bid": 2622631,
+              "beer_name": "SMASH Lager",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "dry-county-brewing-company-smash-lager",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2622631_76810_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 234004,
+              "brewery_name": "Dry County Brewing Company",
+              "brewery_slug": "dry-county-brewing-company",
+              "brewery_page_url": "/DryCountyBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-234004_0b09a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "drycountybrewco",
+                "facebook": "http://www.facebook.com/drycountybrewco",
+                "instagram": "drycountybrewco",
+                "url": "http://www.drycountybrewco.com"
+              },
+              "location": {
+                "brewery_city": "Kennesaw",
+                "brewery_state": "GA",
+                "lat": 34.0216,
+                "lng": -84.5937
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.53125,
+            "beer": {
+              "bid": 1451642,
+              "beer_name": "Via Lustrumbier MMXVI",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "brouwerij-troost-via-lustrumbier-mmxvi",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 114090,
+              "brewery_name": "Brouwerij Troost",
+              "brewery_slug": "brouwerij-troost",
+              "brewery_page_url": "/BrouwerijTroost",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-114090_c9e49.jpeg",
+              "country_name": "Netherlands",
+              "contact": {
+                "twitter": "brouwerijtroost",
+                "facebook": "https://www.facebook.com/brouwerijtroost",
+                "instagram": "brouwerijtroost",
+                "url": "http://www.brouwerijtroost.nl/"
+              },
+              "location": {
+                "brewery_city": "Amsterdam",
+                "brewery_state": "Noord-Holland",
+                "lat": 52.3505,
+                "lng": 4.89118
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.52083,
+            "beer": {
+              "bid": 3072884,
+              "beer_name": "Hop Lager",
+              "beer_abv": 4.5,
+              "beer_ibu": 22,
+              "beer_slug": "hespanha-brewery-hop-lager",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3072884_b29e1_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 364773,
+              "brewery_name": "Hespanha Brewery",
+              "brewery_slug": "hespanha-brewery",
+              "brewery_page_url": "/HespanhaBrewery",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-364773_9b762.jpeg",
+              "country_name": "Brazil",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/HespanhaBrewery/",
+                "instagram": "https://www.instagram.com/hespanhabrewery",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Paranaguá",
+                "brewery_state": "Paraná",
+                "lat": -25.5149,
+                "lng": -48.5226
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.61159,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

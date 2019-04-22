@@ -9,7 +9,7 @@ brewery: "Tesco Stores Ltd."
 breweryURL: "/brewery/tesco-stores-ltd.html"
 style: "IPA - English"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/998582_10151860439493745_805468360_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=db6655c8e43f90bbaa8a93d9c2df297f&oe=5CCE443D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/998582_10151860439493745_805468360_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=b4614e3578f50ebcf7d2d219f4864845&oe=5D44EB3D
 beer-date: "2013-08-18"
 desc: "Just awful. Not even an IPA"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Balter Brewing Company"
 breweryURL: "/brewery/balter-brewing-company.html"
 style: "Pilsner - German"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26814604_10155922802943745_7590879348130754179_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=0bf78f148bb7ed2105fadaf4bb24592c&oe=5C9682DB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26814604_10155922802943745_7590879348130754179_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=47eda5461cbbdaa762bfd6a918ed1fd1&oe=5D34B6DB
 beer-date: "2018-01-13"
 desc: "A little plain and bitter"
 permalink: /beer/:title.html

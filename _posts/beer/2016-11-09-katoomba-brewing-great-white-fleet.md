@@ -9,7 +9,7 @@ brewery: "Katoomba Brewing Company"
 breweryURL: "/brewery/katoomba-brewing-company.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16003259_10154858223573745_6426982720169353754_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=7bba372acd6a1715d9d1629c2adbe80c&oe=5C8B99D5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16003259_10154858223573745_6426982720169353754_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=4805dce08e99135854a463bd33ad9a30&oe=5D29CDD5
 beer-date: "2017-01-21"
 desc: "Not the greatest pale. Just not the hops for me. But it's not offensive"
 permalink: /beer/:title.html

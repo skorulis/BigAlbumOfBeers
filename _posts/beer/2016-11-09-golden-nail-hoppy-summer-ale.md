@@ -9,7 +9,7 @@ brewery: "Nail Brewing Australia"
 breweryURL: "/brewery/nail-brewing-australia.html"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10945677_10153053839853745_7181309439289874351_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=99034cfb4b8143a93e6d5fef88af5dc7&oe=5CD5B13E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10945677_10153053839853745_7181309439289874351_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=96d2afd7b469b0eebe6ed92e4d55e110&oe=5D73E53E
 beer-date: "2015-01-28"
 desc: "Nicely hoppy"
 permalink: /beer/:title.html

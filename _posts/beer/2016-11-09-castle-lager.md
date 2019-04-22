@@ -9,7 +9,7 @@ brewery: "South African Breweries"
 breweryURL: "/brewery/south-african-breweries.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17426272_10155045841608745_5446160028410845000_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=27140de5e62d15758cfd9098e1aaf570&oe=5CCC8BF3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17426272_10155045841608745_5446160028410845000_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=80319d061537fd72a426927ae619299f&oe=5D4332F3
 beer-date: "2017-03-22"
 desc: "It’s lager. Nothing much else to say"
 permalink: /beer/:title.html

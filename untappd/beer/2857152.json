@@ -1,0 +1,3427 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.206,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 2857152,
+      "beer_name": "Victoria Pale Ale",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+      "beer_label_hd": "https://untappd.akamaized.net/site/beer_logos_hd/beer-2857152_bee3f_hd.jpeg",
+      "beer_abv": 4.2,
+      "beer_ibu": 25,
+      "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+      "beer_style": "Pale Ale - Australian",
+      "is_in_production": 1,
+      "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+      "is_homebrew": 0,
+      "created_at": "Sat, 22 Sep 2018 03:24:27 +0000",
+      "rating_count": 371,
+      "rating_score": 3.44542,
+      "stats": {
+        "total_count": 431,
+        "monthly_count": 24,
+        "total_user_count": 406,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 207139,
+        "brewery_name": "Bad Shepherd Brewing Co.",
+        "brewery_slug": "bad-shepherd-brewing-co",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/BadShepherd",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "BadShepherdBrew",
+          "facebook": "https://www.facebook.com/badshepherdbrewery",
+          "url": "http://badshepherd.com.au/"
+        },
+        "location": {
+          "brewery_city": "Cheltenham",
+          "brewery_state": "VIC",
+          "lat": -37.9566,
+          "lng": 145.039
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 226507720,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photo/2019_04_21/0953a8b30e48d022f356ca40a367b9f3_c_739622028_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photo/2019_04_21/0953a8b30e48d022f356ca40a367b9f3_c_739622028_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photo/2019_04_21/0953a8b30e48d022f356ca40a367b9f3_c_739622028_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photo/2019_04_21/0953a8b30e48d022f356ca40a367b9f3_c_739622028_raw.jpg"
+            },
+            "created_at": "Sun, 21 Apr 2019 11:46:27 +0000",
+            "checkin_id": 739622028,
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "rating_score": 3.445,
+              "rating_count": 371,
+              "count": 371,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4929578,
+              "user_name": "OvergroundPeeveMonster",
+              "first_name": "Blair",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/7f5e77f92fe86eb7ca09236789377d8f_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 176497,
+                "venue_name": "Richmond",
+                "venue_slug": "richmond",
+                "primary_category": "Outdoors & Recreation",
+                "parent_category_id": "4d4b7105d754a06377d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "neighborhood",
+                      "category_name": "Neighborhood",
+                      "category_id": "4f2a25ac4b909258e854f55f",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Melbourne",
+                  "venue_state": "VIC",
+                  "lat": -37.8198,
+                  "lng": 145
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.yarracity.vic.gov.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "4c92cf84418ea1cda775a885",
+                  "foursquare_url": "http://4sq.com/9gz8Eo"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 226493195,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_21/8f30f770723a2c167d9fb58c7ee9cfe3_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_21/8f30f770723a2c167d9fb58c7ee9cfe3_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_21/8f30f770723a2c167d9fb58c7ee9cfe3_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_21/8f30f770723a2c167d9fb58c7ee9cfe3_raw.jpg"
+            },
+            "created_at": "Sun, 21 Apr 2019 06:23:04 +0000",
+            "checkin_id": 739592742,
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "rating_score": 3.445,
+              "rating_count": 371,
+              "count": 371,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6582462,
+              "user_name": "MrGAus",
+              "first_name": "Gabriel",
+              "last_name": "L",
+              "user_avatar": "https://gravatar.com/avatar/a5b2396a2dbd69ca5bf1bdff38a3708c?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 226176309,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_20/22e0207c857c696c6fdfe8346ec1a26a_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_20/22e0207c857c696c6fdfe8346ec1a26a_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_20/22e0207c857c696c6fdfe8346ec1a26a_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_20/22e0207c857c696c6fdfe8346ec1a26a_raw.jpg"
+            },
+            "created_at": "Sat, 20 Apr 2019 06:22:05 +0000",
+            "checkin_id": 738806593,
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "rating_score": 3.445,
+              "rating_count": 371,
+              "count": 371,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3479074,
+              "user_name": "camboer1990",
+              "first_name": "Cam",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/f0f9806a97d7e98bdf9d26639b80bfeb_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 1201130,
+                "venue_name": "Freight Bar & Restaurant",
+                "venue_slug": "freight-bar-restaurant",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": -37.5605,
+                  "lng": 143.864
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "528f13a711d288ab26793148",
+                  "foursquare_url": "http://4sq.com/I7hE0c"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 226154675,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_20/bf8c5ab573a37e2d58ce6af42fc7953c_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_20/bf8c5ab573a37e2d58ce6af42fc7953c_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_20/bf8c5ab573a37e2d58ce6af42fc7953c_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_20/bf8c5ab573a37e2d58ce6af42fc7953c_raw.jpg"
+            },
+            "created_at": "Sat, 20 Apr 2019 02:31:05 +0000",
+            "checkin_id": 738743787,
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "rating_score": 3.445,
+              "rating_count": 371,
+              "count": 371,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3044786,
+              "user_name": "Whizzplank",
+              "first_name": "Phil",
+              "last_name": "T",
+              "user_avatar": "https://untappd.akamaized.net/profile/5bdc5f5b07de5bdf4c36b624eb09f0cf_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 224899426,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_13/0722c99ea1db5aeeeb6c76cac4424ea9_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_13/0722c99ea1db5aeeeb6c76cac4424ea9_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_13/0722c99ea1db5aeeeb6c76cac4424ea9_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_13/0722c99ea1db5aeeeb6c76cac4424ea9_raw.jpg"
+            },
+            "created_at": "Sat, 13 Apr 2019 02:55:41 +0000",
+            "checkin_id": 735657463,
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "rating_score": 3.445,
+              "rating_count": 371,
+              "count": 371,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 962428,
+              "user_name": "katebooth",
+              "first_name": "Kate",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/ba553b4d7287b3f6c5938aa94666d380_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3967428,
+                "venue_name": "Bad Shepherd Brewing Co.",
+                "venue_slug": "bad-shepherd-brewing-co",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "386 Reserve Rd",
+                  "venue_city": "Cheltenham",
+                  "venue_state": "VIC",
+                  "lat": -37.9567,
+                  "lng": 145.039
+                },
+                "contact": {
+                  "twitter": "@badshepherdbrew",
+                  "venue_url": "http://badshepherd.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "565e42af498e35ccb1a8659f",
+                  "foursquare_url": "http://4sq.com/1SvsHhT"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 224688958,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_12/cde1a673db68fc6e655add09c8a83ffe_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_12/cde1a673db68fc6e655add09c8a83ffe_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_12/cde1a673db68fc6e655add09c8a83ffe_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_12/cde1a673db68fc6e655add09c8a83ffe_raw.jpg"
+            },
+            "created_at": "Fri, 12 Apr 2019 09:59:11 +0000",
+            "checkin_id": 735148670,
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "rating_score": 3.445,
+              "rating_count": 371,
+              "count": 371,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6145918,
+              "user_name": "Craig327",
+              "first_name": "Craig",
+              "last_name": "Y",
+              "user_avatar": "https://gravatar.com/avatar/33397445fb0a898c3f8d50b603b31876?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 224264495,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_08/3bf25a3c5904c6979aa31d388b3aa4e2_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_08/3bf25a3c5904c6979aa31d388b3aa4e2_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_08/3bf25a3c5904c6979aa31d388b3aa4e2_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_08/3bf25a3c5904c6979aa31d388b3aa4e2_raw.jpg"
+            },
+            "created_at": "Mon, 08 Apr 2019 08:14:04 +0000",
+            "checkin_id": 734091185,
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "rating_score": 3.445,
+              "rating_count": 371,
+              "count": 371,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3946543,
+              "user_name": "Guenni60",
+              "first_name": "Guenther",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/e2a2f70fa32973837c21c09f029734f8_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5665253,
+                "venue_name": "Hopscotch",
+                "venue_slug": "hopscotch",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 4,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "cocktail_bar",
+                      "category_name": "Cocktail Bar",
+                      "category_id": "4bf58dd8d48988d11e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": null,
+                      "category_name": null,
+                      "category_id": "4d4b7105d754a06374d81259",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "2 Riverside Quay, 4",
+                  "venue_city": "Southbank",
+                  "venue_state": "VIC",
+                  "lat": -37.8207,
+                  "lng": 144.963
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.hopscotchmelbourne.com.au/"
+                },
+                "foursquare": {
+                  "foursquare_id": "5791808ccd10d3822318c5a3",
+                  "foursquare_url": "http://4sq.com/2afokg3"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_5665253_fc511764_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_5665253_fc511764_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_5665253_fc511764_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 224071806,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_07/ed56c7edb9324d3d8cc4d933d93febc4_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_07/ed56c7edb9324d3d8cc4d933d93febc4_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_07/ed56c7edb9324d3d8cc4d933d93febc4_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_07/ed56c7edb9324d3d8cc4d933d93febc4_raw.jpg"
+            },
+            "created_at": "Sun, 07 Apr 2019 09:56:04 +0000",
+            "checkin_id": 733617008,
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "rating_score": 3.445,
+              "rating_count": 371,
+              "count": 371,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 499473,
+              "user_name": "tmaybo",
+              "first_name": "Tim",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/1b5a2280cf98e65e04f636d8cac034b9_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 223744769,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_06/f934b84649a9b1e38ee4fbd0e229b446_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_06/f934b84649a9b1e38ee4fbd0e229b446_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_06/f934b84649a9b1e38ee4fbd0e229b446_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_06/f934b84649a9b1e38ee4fbd0e229b446_raw.jpg"
+            },
+            "created_at": "Sat, 06 Apr 2019 10:49:49 +0000",
+            "checkin_id": 732786016,
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "rating_score": 3.445,
+              "rating_count": 371,
+              "count": 371,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2893433,
+              "user_name": "bassar",
+              "first_name": "Bassar",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/ceb77cb48448ddefbf026a30c6f9d74e_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3318728,
+                "venue_name": "Bayswater",
+                "venue_slug": "bayswater",
+                "primary_category": "Outdoors & Recreation",
+                "parent_category_id": "4d4b7105d754a06377d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "neighborhood",
+                      "category_name": "Neighborhood",
+                      "category_id": "4f2a25ac4b909258e854f55f",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": -31.919,
+                  "lng": 115.912
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5314f9d0e4b0e72a36e357e1",
+                  "foursquare_url": "http://4sq.com/1e0temK"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 223741235,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_06/0903e624b4357a4f2fa9903e8aae1149_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_06/0903e624b4357a4f2fa9903e8aae1149_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_06/0903e624b4357a4f2fa9903e8aae1149_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_06/0903e624b4357a4f2fa9903e8aae1149_raw.jpg"
+            },
+            "created_at": "Sat, 06 Apr 2019 09:57:13 +0000",
+            "checkin_id": 732778283,
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "is_in_production": 1,
+              "beer_style_id": 244,
+              "beer_style": "Pale Ale - Australian",
+              "rating_score": 3.445,
+              "rating_count": 371,
+              "count": 371,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2328302,
+              "user_name": "dustyscoop",
+              "first_name": "Darren",
+              "last_name": "O",
+              "user_avatar": "https://untappd.akamaized.net/profile/0221e441d6f8e766aecf0c726074b529_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 23010,
+                "venue_name": "The Old Bar",
+                "venue_slug": "the-old-bar",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "rock_club",
+                      "category_name": "Rock Club",
+                      "category_id": "4bf58dd8d48988d1e9931735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "dive_bar",
+                      "category_name": "Dive Bar",
+                      "category_id": "4bf58dd8d48988d118941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "74-76 Johnston St.",
+                  "venue_city": "Melbourne",
+                  "venue_state": "VIC",
+                  "lat": -37.7982,
+                  "lng": 144.977
+                },
+                "contact": {
+                  "twitter": "@theoldbar",
+                  "venue_url": "http://www.theoldbar.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b058748f964a520c48822e3",
+                  "foursquare_url": "http://4sq.com/8hlEqD"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 739622028,
+            "created_at": "Sun, 21 Apr 2019 11:46:09 +0000",
+            "checkin_comment": "Delicious",
+            "rating_score": 5,
+            "user": {
+              "uid": 4929578,
+              "user_name": "OvergroundPeeveMonster",
+              "first_name": "Blair",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/7f5e77f92fe86eb7ca09236789377d8f_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 176497,
+              "venue_name": "Richmond",
+              "venue_slug": "richmond",
+              "primary_category_key": "Outdoors & Recreation",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "neighborhood",
+                    "category_name": "Neighborhood",
+                    "category_id": "4f2a25ac4b909258e854f55f",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Melbourne",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.8198,
+                "lng": 145
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.yarracity.vic.gov.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4c92cf84418ea1cda775a885",
+                "foursquare_url": "http://4sq.com/9gz8Eo"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 226507720,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photo/2019_04_21/0953a8b30e48d022f356ca40a367b9f3_c_739622028_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photo/2019_04_21/0953a8b30e48d022f356ca40a367b9f3_c_739622028_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photo/2019_04_21/0953a8b30e48d022f356ca40a367b9f3_c_739622028_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photo/2019_04_21/0953a8b30e48d022f356ca40a367b9f3_c_739622028_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2177,
+                  "user_badge_id": 492300114,
+                  "badge_name": "Pale as the Moon  (Level 31)",
+                  "badge_description": "Ahh, the trusty pale ale; crisp, refreshing, and always a good choice in a bind. That's 155 different Pale Ales. Try 5 more for Level 32.",
+                  "created_at": "Sun, 21 Apr 2019 11:46:09 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaleMoon_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaleMoon_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaleMoon_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 739592742,
+            "created_at": "Sun, 21 Apr 2019 06:22:31 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 6582462,
+              "user_name": "MrGAus",
+              "first_name": "Gabriel",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/a5b2396a2dbd69ca5bf1bdff38a3708c?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 226493195,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_21/8f30f770723a2c167d9fb58c7ee9cfe3_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_21/8f30f770723a2c167d9fb58c7ee9cfe3_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_21/8f30f770723a2c167d9fb58c7ee9cfe3_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_21/8f30f770723a2c167d9fb58c7ee9cfe3_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 739181782,
+            "created_at": "Sat, 20 Apr 2019 20:09:27 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 4248300,
+              "user_name": "rleighton94",
+              "first_name": "Rhys",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/7200f7dc6180eed44a976e32b222d989?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2164,
+                  "user_badge_id": 491852701,
+                  "badge_name": "Pale as the Moon  (Level 18)",
+                  "badge_description": "Ahh, the trusty pale ale; crisp, refreshing, and always a good choice in a bind. That's 90 different Pale Ales. Try 5 more for Level 19.",
+                  "created_at": "Sat, 20 Apr 2019 20:09:27 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaleMoon_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaleMoon_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaleMoon_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 738816243,
+            "created_at": "Sat, 20 Apr 2019 08:11:42 +0000",
+            "checkin_comment": "Would have been popular during the 6 o'clock swill",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 574494,
+              "user_name": "J_Keefy",
+              "first_name": "John",
+              "last_name": "E.",
+              "location": "Melbourne",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Home brewer, hop head & beer snob",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/65d03af6f5ac7087076e4156ad08fc0e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2050721,
+              "venue_name": "Meatmaiden",
+              "venue_slug": "meatmaiden",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_key": "bbq_joint",
+                    "category_name": "BBQ Joint",
+                    "category_id": "4bf58dd8d48988d1df931735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "southern_soul_food_restaurant",
+                    "category_name": "Southern / Soul Food Restaurant",
+                    "category_id": "4bf58dd8d48988d14f941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "building",
+                    "category_name": "Building",
+                    "category_id": "4bf58dd8d48988d130941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "195 Little Collins St",
+                "venue_city": "Melbourne",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.8143,
+                "lng": 144.968
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.meatmaiden.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "53fc4965498ed8daa098062a",
+                "foursquare_url": "http://4sq.com/1mLLfdi"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 243497,
+                  "user_badge_id": 491490003,
+                  "badge_name": "Brewery Pioneer (Level 2)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 10 different breweries. Try 5 more for Level 3!",
+                  "created_at": "Sat, 20 Apr 2019 08:11:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                },
+                {
+                  "badge_id": 290,
+                  "user_badge_id": 491490004,
+                  "badge_name": "Pale as the Moon (Level 5)",
+                  "badge_description": "Ahh, the trusty pale ale; crisp, refreshing, and always a good choice in a bind. That's 25 different Pale Ales. Try 5 more for Level 6.",
+                  "created_at": "Sat, 20 Apr 2019 08:11:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaleMoon_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaleMoon_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaleMoon_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2400,
+                  "user_badge_id": 491490005,
+                  "badge_name": "Down Under  (Level 14)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 70 different beers from Australia. Try 5 more for Level 15.",
+                  "created_at": "Sat, 20 Apr 2019 08:11:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 738806593,
+            "created_at": "Sat, 20 Apr 2019 06:21:57 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3479074,
+              "user_name": "camboer1990",
+              "first_name": "Cam",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/f0f9806a97d7e98bdf9d26639b80bfeb_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 1201130,
+              "venue_name": "Freight Bar & Restaurant",
+              "venue_slug": "freight-bar-restaurant",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Australia",
+                "lat": -37.5605,
+                "lng": 143.864
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "528f13a711d288ab26793148",
+                "foursquare_url": "http://4sq.com/I7hE0c"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 293642,
+                  "user": {
+                    "uid": 293642,
+                    "user_name": "stephenafrancis",
+                    "first_name": "Stephen",
+                    "last_name": "F.",
+                    "bio": "Huge array of beers from my travels around North America, Europe and Australia. I ❤️ BEER",
+                    "location": "Ballarat",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3c09dec16ddab2fa2a85273f3c489d51_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 650078236,
+                  "like_owner": false,
+                  "created_at": "Sat, 20 Apr 2019 10:25:58 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 226176309,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_20/22e0207c857c696c6fdfe8346ec1a26a_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_20/22e0207c857c696c6fdfe8346ec1a26a_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_20/22e0207c857c696c6fdfe8346ec1a26a_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_20/22e0207c857c696c6fdfe8346ec1a26a_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 94385,
+                  "user_badge_id": 491481403,
+                  "badge_name": "Photogenic Brew (Level 100)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That's 500 check-ins with a photo. You have reached the top!",
+                  "created_at": "Sat, 20 Apr 2019 06:21:58 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 738798637,
+            "created_at": "Sat, 20 Apr 2019 05:17:52 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 2089057,
+              "user_name": "MoreBeersPlease",
+              "first_name": "Michael",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/f594469716d29cde45358fd6a6363056?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 738798271,
+            "created_at": "Sat, 20 Apr 2019 05:15:39 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 1722223,
+              "user_name": "dminett1",
+              "first_name": "David",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/18c9cb6d8dbeae0bf39189f697398914?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 738743787,
+            "created_at": "Sat, 20 Apr 2019 02:30:26 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3044786,
+              "user_name": "Whizzplank",
+              "first_name": "Phil",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/5bdc5f5b07de5bdf4c36b624eb09f0cf_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4075393,
+                  "user": {
+                    "uid": 4075393,
+                    "user_name": "gkamino",
+                    "first_name": "Gary",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/1650a76a929ed830254203ef5bc0965d?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 651159242,
+                  "like_owner": false,
+                  "created_at": "Sun, 21 Apr 2019 20:59:09 +0000"
+                },
+                {
+                  "uid": 1683173,
+                  "user": {
+                    "uid": 1683173,
+                    "user_name": "apalmer6",
+                    "first_name": "Ashley",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b08e84b0a8ea1c51d33cc06f2d0a776c_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 650004801,
+                  "like_owner": false,
+                  "created_at": "Sat, 20 Apr 2019 03:48:53 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 226154675,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_20/bf8c5ab573a37e2d58ce6af42fc7953c_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_20/bf8c5ab573a37e2d58ce6af42fc7953c_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_20/bf8c5ab573a37e2d58ce6af42fc7953c_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_20/bf8c5ab573a37e2d58ce6af42fc7953c_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 737744936,
+            "created_at": "Thu, 18 Apr 2019 07:16:40 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 1447994,
+              "user_name": "tanks",
+              "first_name": "Ian",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/56275eace91cbd442a305b31b7d5d4e4_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 1149437,
+              "venue_name": "Clocks At Flinders",
+              "venue_slug": "clocks-at-flinders",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "other_nightlife",
+                    "category_name": "Other Nightlife",
+                    "category_id": "4bf58dd8d48988d11a941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "St Kilda Rd.",
+                "venue_city": "Melbourne",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.8185,
+                "lng": 144.968
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4e2d391a6284b96d7b8f5071",
+                "foursquare_url": "http://4sq.com/rmvR6j"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2401,
+                  "user_badge_id": 490352011,
+                  "badge_name": "Down Under  (Level 15)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 75 different beers from Australia. Try 5 more for Level 16.",
+                  "created_at": "Thu, 18 Apr 2019 07:16:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 736509263,
+            "created_at": "Sun, 14 Apr 2019 09:24:56 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 778980,
+              "user_name": "Flavour2804",
+              "first_name": "Fraser",
+              "last_name": "N.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/714e55407eabe8dd1739924e5a1bb565?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2817814,
+                  "user": {
+                    "uid": 2817814,
+                    "user_name": "BadShepherd",
+                    "first_name": "Bad Shepherd",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+                    "account_type": "brewery",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": {
+                      "brewery_id": 207139
+                    },
+                    "user_link": "https://untappd.com/brewery/207139"
+                  },
+                  "like_id": 648056137,
+                  "like_owner": false,
+                  "created_at": "Mon, 15 Apr 2019 04:28:46 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 735667446,
+            "created_at": "Sat, 13 Apr 2019 03:16:53 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 172185,
+              "user_name": "MarcKeppler",
+              "first_name": "Marc",
+              "last_name": "K.",
+              "location": "Melbourne",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/20b3eb03216a4f21f0dcad3f304841fb_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3967428,
+              "venue_name": "Bad Shepherd Brewing Co.",
+              "venue_slug": "bad-shepherd-brewing-co",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "386 Reserve Rd",
+                "venue_city": "Cheltenham",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.9567,
+                "lng": 145.039
+              },
+              "contact": {
+                "twitter": "@badshepherdbrew",
+                "venue_url": "http://badshepherd.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "565e42af498e35ccb1a8659f",
+                "foursquare_url": "http://4sq.com/1SvsHhT"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2817814,
+                  "user": {
+                    "uid": 2817814,
+                    "user_name": "BadShepherd",
+                    "first_name": "Bad Shepherd",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+                    "account_type": "brewery",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": {
+                      "brewery_id": 207139
+                    },
+                    "user_link": "https://untappd.com/brewery/207139"
+                  },
+                  "like_id": 648056208,
+                  "like_owner": false,
+                  "created_at": "Mon, 15 Apr 2019 04:29:23 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 93915,
+                  "user_badge_id": 488221143,
+                  "badge_name": "Pale as the Moon (Level 80)",
+                  "badge_description": "Ahh, the trusty pale ale; crisp, refreshing, and always a good choice in a bind. That's 400 different Pale Ales.  Try 5 more for Level 81!",
+                  "created_at": "Sat, 13 Apr 2019 03:16:54 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaleMoon_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaleMoon_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaleMoon_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 735659455,
+            "created_at": "Sat, 13 Apr 2019 02:59:38 +0000",
+            "checkin_comment": "Fresh as fresh can be.",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1242546,
+              "user_name": "nathandalley",
+              "first_name": "Nathan",
+              "last_name": "D.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/d052e64473eca6f4922cfcf0d8ae6944_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2817814,
+                  "user": {
+                    "uid": 2817814,
+                    "user_name": "BadShepherd",
+                    "first_name": "Bad Shepherd",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+                    "account_type": "brewery",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": {
+                      "brewery_id": 207139
+                    },
+                    "user_link": "https://untappd.com/brewery/207139"
+                  },
+                  "like_id": 648056223,
+                  "like_owner": false,
+                  "created_at": "Mon, 15 Apr 2019 04:29:30 +0000"
+                },
+                {
+                  "uid": 172185,
+                  "user": {
+                    "uid": 172185,
+                    "user_name": "MarcKeppler",
+                    "first_name": "Marc",
+                    "last_name": "K.",
+                    "bio": "",
+                    "location": "Melbourne",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/20b3eb03216a4f21f0dcad3f304841fb_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 646797932,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Apr 2019 03:16:19 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5981,
+                  "user_badge_id": 488213018,
+                  "badge_name": "Riding Steady (Level 19)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 95 different beers with an ABV of 5% and lower. Try 5 more for Level 20!",
+                  "created_at": "Sat, 13 Apr 2019 02:59:39 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 735658517,
+            "created_at": "Sat, 13 Apr 2019 02:57:37 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2665506,
+              "user_name": "holehead",
+              "first_name": "Holly",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/8e19e1b7acf3e41860671f6b9bd574ba_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3967428,
+              "venue_name": "Bad Shepherd Brewing Co.",
+              "venue_slug": "bad-shepherd-brewing-co",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "386 Reserve Rd",
+                "venue_city": "Cheltenham",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.9567,
+                "lng": 145.039
+              },
+              "contact": {
+                "twitter": "@badshepherdbrew",
+                "venue_url": "http://badshepherd.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "565e42af498e35ccb1a8659f",
+                "foursquare_url": "http://4sq.com/1SvsHhT"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 3,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2817814,
+                  "user": {
+                    "uid": 2817814,
+                    "user_name": "BadShepherd",
+                    "first_name": "Bad Shepherd",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+                    "account_type": "brewery",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": {
+                      "brewery_id": 207139
+                    },
+                    "user_link": "https://untappd.com/brewery/207139"
+                  },
+                  "like_id": 648056230,
+                  "like_owner": false,
+                  "created_at": "Mon, 15 Apr 2019 04:29:34 +0000"
+                },
+                {
+                  "uid": 962428,
+                  "user": {
+                    "uid": 962428,
+                    "user_name": "katebooth",
+                    "first_name": "Kate",
+                    "last_name": "B.",
+                    "bio": "",
+                    "location": "Melbourne",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/ba553b4d7287b3f6c5938aa94666d380_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 646822889,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Apr 2019 04:30:33 +0000"
+                },
+                {
+                  "uid": 1010957,
+                  "user": {
+                    "uid": 1010957,
+                    "user_name": "MikeConnick",
+                    "first_name": "Mike",
+                    "last_name": "C.",
+                    "bio": "Leveling up one beer at a time.\n\n\nIG: MikeConnick",
+                    "location": "Lansing, Michigan more or less",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/4afb2ca693ea6594261aa9e82a8a2ffd_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 646793161,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Apr 2019 03:05:58 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133321,
+                  "user_badge_id": 488212006,
+                  "badge_name": "Draft City (Level 68)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 340 checkins with the serving style of Draft. Try 5 more for Level 69!",
+                  "created_at": "Sat, 13 Apr 2019 02:57:37 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DraftCity_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 735657463,
+            "created_at": "Sat, 13 Apr 2019 02:55:23 +0000",
+            "checkin_comment": "Straight from the tank",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 962428,
+              "user_name": "katebooth",
+              "first_name": "Kate",
+              "last_name": "B.",
+              "location": "Melbourne",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/ba553b4d7287b3f6c5938aa94666d380_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3967428,
+              "venue_name": "Bad Shepherd Brewing Co.",
+              "venue_slug": "bad-shepherd-brewing-co",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "386 Reserve Rd",
+                "venue_city": "Cheltenham",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.9567,
+                "lng": 145.039
+              },
+              "contact": {
+                "twitter": "@badshepherdbrew",
+                "venue_url": "http://badshepherd.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "565e42af498e35ccb1a8659f",
+                "foursquare_url": "http://4sq.com/1SvsHhT"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 5,
+              "count": 5,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 927320,
+                  "user": {
+                    "uid": 927320,
+                    "user_name": "hjbooth",
+                    "first_name": "Hayden",
+                    "last_name": "B.",
+                    "bio": "Just a man and his liver enjoying good beer.",
+                    "location": "Melbourne, Australia",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b3c6b938342e324fc5ebb370960e8f91_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 648368750,
+                  "like_owner": false,
+                  "created_at": "Tue, 16 Apr 2019 10:43:15 +0000"
+                },
+                {
+                  "uid": 2817814,
+                  "user": {
+                    "uid": 2817814,
+                    "user_name": "BadShepherd",
+                    "first_name": "Bad Shepherd",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+                    "account_type": "brewery",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": {
+                      "brewery_id": 207139
+                    },
+                    "user_link": "https://untappd.com/brewery/207139"
+                  },
+                  "like_id": 648056243,
+                  "like_owner": false,
+                  "created_at": "Mon, 15 Apr 2019 04:29:39 +0000"
+                },
+                {
+                  "uid": 2990214,
+                  "user": {
+                    "uid": 2990214,
+                    "user_name": "jhb5858",
+                    "first_name": "John",
+                    "last_name": "b.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/39e11e760640a8aa02b0aea12f3cefc3?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 646859507,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Apr 2019 07:40:28 +0000"
+                },
+                {
+                  "uid": 706742,
+                  "user": {
+                    "uid": 706742,
+                    "user_name": "Broje",
+                    "first_name": "Jenny",
+                    "last_name": "b.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7ddf85a3b29f5f969efe11e37e07a16f_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 646823481,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Apr 2019 04:32:43 +0000"
+                },
+                {
+                  "uid": 241499,
+                  "user": {
+                    "uid": 241499,
+                    "user_name": "pewilee12",
+                    "first_name": "Lee",
+                    "last_name": "W.",
+                    "bio": "",
+                    "location": "Melbourne, Australia",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/02bf13899ffa6adac68bcfbe77b0d3d0_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 646810990,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Apr 2019 03:51:07 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 224899426,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_04_13/0722c99ea1db5aeeeb6c76cac4424ea9_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_04_13/0722c99ea1db5aeeeb6c76cac4424ea9_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_04_13/0722c99ea1db5aeeeb6c76cac4424ea9_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_04_13/0722c99ea1db5aeeeb6c76cac4424ea9_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 735656948,
+            "created_at": "Sat, 13 Apr 2019 02:54:22 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 962428,
+              "user_name": "katebooth",
+              "first_name": "Kate",
+              "last_name": "B.",
+              "location": "Melbourne",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/ba553b4d7287b3f6c5938aa94666d380_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2857152,
+              "beer_name": "Victoria Pale Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2857152_fba44_sm.jpeg",
+              "beer_abv": 4.2,
+              "beer_ibu": 25,
+              "beer_slug": "bad-shepherd-brewing-co-victoria-pale-ale",
+              "beer_description": "A crisp, easy drinking session pale ale with tropical aromas. Grown here, made here. 100% Victorian hops, malt AND yeast.",
+              "beer_style": "Pale Ale - Australian",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3967428,
+              "venue_name": "Bad Shepherd Brewing Co.",
+              "venue_slug": "bad-shepherd-brewing-co",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "386 Reserve Rd",
+                "venue_city": "Cheltenham",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.9567,
+                "lng": 145.039
+              },
+              "contact": {
+                "twitter": "@badshepherdbrew",
+                "venue_url": "http://badshepherd.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "565e42af498e35ccb1a8659f",
+                "foursquare_url": "http://4sq.com/1SvsHhT"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 5,
+              "count": 5,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 927320,
+                  "user": {
+                    "uid": 927320,
+                    "user_name": "hjbooth",
+                    "first_name": "Hayden",
+                    "last_name": "B.",
+                    "bio": "Just a man and his liver enjoying good beer.",
+                    "location": "Melbourne, Australia",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b3c6b938342e324fc5ebb370960e8f91_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 648368752,
+                  "like_owner": false,
+                  "created_at": "Tue, 16 Apr 2019 10:43:17 +0000"
+                },
+                {
+                  "uid": 2817814,
+                  "user": {
+                    "uid": 2817814,
+                    "user_name": "BadShepherd",
+                    "first_name": "Bad Shepherd",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+                    "account_type": "brewery",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": {
+                      "brewery_id": 207139
+                    },
+                    "user_link": "https://untappd.com/brewery/207139"
+                  },
+                  "like_id": 648056257,
+                  "like_owner": false,
+                  "created_at": "Mon, 15 Apr 2019 04:29:43 +0000"
+                },
+                {
+                  "uid": 2990214,
+                  "user": {
+                    "uid": 2990214,
+                    "user_name": "jhb5858",
+                    "first_name": "John",
+                    "last_name": "b.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/39e11e760640a8aa02b0aea12f3cefc3?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 646859551,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Apr 2019 07:40:49 +0000"
+                },
+                {
+                  "uid": 706742,
+                  "user": {
+                    "uid": 706742,
+                    "user_name": "Broje",
+                    "first_name": "Jenny",
+                    "last_name": "b.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7ddf85a3b29f5f969efe11e37e07a16f_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 646823512,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Apr 2019 04:32:52 +0000"
+                },
+                {
+                  "uid": 241499,
+                  "user": {
+                    "uid": 241499,
+                    "user_name": "pewilee12",
+                    "first_name": "Lee",
+                    "last_name": "W.",
+                    "bio": "",
+                    "location": "Melbourne, Australia",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/02bf13899ffa6adac68bcfbe77b0d3d0_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 646811009,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Apr 2019 03:51:12 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2163,
+                  "user_badge_id": 488210410,
+                  "badge_name": "Pale as the Moon  (Level 17)",
+                  "badge_description": "Ahh, the trusty pale ale; crisp, refreshing, and always a good choice in a bind. That's 85 different Pale Ales. Try 5 more for Level 18.",
+                  "created_at": "Sat, 13 Apr 2019 02:54:23 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaleMoon_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaleMoon_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaleMoon_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/2857152?max_id=739622028",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/2857152?max_id=735656948",
+          "max_id": 735656948
+        }
+      },
+      "similar": {
+        "method": "es",
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 3.593,
+            "beer": {
+              "bid": 2477207,
+              "beer_name": "Pale Ale",
+              "beer_abv": 5.2,
+              "beer_ibu": 40,
+              "beer_slug": "ballistic-beer-pale-ale",
+              "beer_style": "Pale Ale - Australian",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2477207_9ec95_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 283429,
+              "brewery_name": "Ballistic Beer",
+              "brewery_slug": "ballistic-beer",
+              "brewery_page_url": "/Ballistic-Beer",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-283429_c90cd.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "ballisticbeer",
+                "facebook": "https://www.facebook.com/ballisticbeer/",
+                "instagram": "ballisticbeer",
+                "url": "http://www.ballisticbeer.com.au"
+              },
+              "location": {
+                "brewery_city": "Salisbury",
+                "brewery_state": "QLD",
+                "lat": -27.5483,
+                "lng": 153.032
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.02559,
+            "beer": {
+              "bid": 1834959,
+              "beer_name": "Double Choc Hazelnut Brown",
+              "beer_abv": 7.8,
+              "beer_ibu": 32,
+              "beer_slug": "bad-shepherd-brewing-co-double-choc-hazelnut-brown",
+              "beer_style": "Brown Ale - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1834959_88693_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 207139,
+              "brewery_name": "Bad Shepherd Brewing Co.",
+              "brewery_slug": "bad-shepherd-brewing-co",
+              "brewery_page_url": "/BadShepherd",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-207139_00ea7.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "BadShepherdBrew",
+                "facebook": "https://www.facebook.com/badshepherdbrewery",
+                "instagram": "badshepherdbrewingco",
+                "url": "http://badshepherd.com.au/"
+              },
+              "location": {
+                "brewery_city": "Cheltenham",
+                "brewery_state": "VIC",
+                "lat": -37.9566,
+                "lng": 145.039
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.42935,
+            "beer": {
+              "bid": 3056693,
+              "beer_name": "XPA",
+              "beer_abv": 5.1,
+              "beer_ibu": 24,
+              "beer_slug": "detour-beer-co-xpa",
+              "beer_style": "Pale Ale - Australian",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3056693_a2074_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 420383,
+              "brewery_name": "Detour Beer - Co.",
+              "brewery_slug": "detour-beer-co",
+              "brewery_page_url": "/detourbeerco",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-420383_9ce54.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "instagram": "",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Coldstream",
+                "brewery_state": "Victoria",
+                "lat": -37.6924,
+                "lng": 145.407
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.81061,
+            "beer": {
+              "bid": 3111796,
+              "beer_name": "McConaughaze",
+              "beer_abv": 5.1,
+              "beer_ibu": 0,
+              "beer_slug": "mr-banks-brewing-co-mcconaughaze",
+              "beer_style": "Pale Ale - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3111796_7dff8_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Mr Banks Brewing co",
+              "brewery_slug": "mr-banks-brewing-co",
+              "brewery_page_url": "/MrBanksBrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-274053_fd933.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://Mrbanksbrewing",
+                "instagram": "Mrbanksbeer",
+                "url": "http://www.mrbanksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "VIC",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.30596,
+            "beer": {
+              "bid": 1540401,
+              "beer_name": "Wild Yak",
+              "beer_abv": 4.2,
+              "beer_ibu": 15,
+              "beer_slug": "matilda-bay-brewing-company-wild-yak",
+              "beer_style": "Pale Ale - Australian",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1540401_a8154_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 835,
+              "brewery_name": "Matilda Bay Brewing Company",
+              "brewery_slug": "matilda-bay-brewing-company",
+              "brewery_page_url": "/MatildaBayBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-MatildaBayBrewingCompanyCUB_835.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "matildabaybeer",
+                "facebook": "https://www.facebook.com/MatildaBayBrewingCo",
+                "instagram": "",
+                "url": "http://www.matildabay.com.au"
+              },
+              "location": {
+                "brewery_city": "Port Melbourne",
+                "brewery_state": "VIC",
+                "lat": -37.8285,
+                "lng": 144.937
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.53122,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

@@ -9,7 +9,7 @@ brewery: "Grand Ridge Brewery"
 breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Golden Ale"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45508348_10156673534628745_6735294845172056064_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=da5a3ad90eef66d5f6c1f6c1da81e850&oe=5CCF0453
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45508348_10156673534628745_6735294845172056064_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=9bd0398d02c0f0b0de3954c4f64f0865&oe=5D6D3853
 beer-date: "2018-11-05"
 desc: "Really strange lemon smell that you wouldn’t expect from a golden ale. The flavour has something strange as well but it feels lost as to what it wants to be"
 permalink: /beer/:title.html

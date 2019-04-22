@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Pilsner - Other"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17265108_10155045843993745_1409048234950026591_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=cfaf929c326e1e95d4629400ec6e3c12&oe=5C908E7C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17265108_10155045843993745_1409048234950026591_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=2f57ba8fee816bae8e181feb663228fc&oe=5D2EC27C
 beer-date: "2017-03-22"
 desc: "Has a really lovely spicyness which gives this beer a little more flavour than a regular pilsner. Still easy drinking and smooth but with enough depth to keep me happy"
 permalink: /beer/:title.html

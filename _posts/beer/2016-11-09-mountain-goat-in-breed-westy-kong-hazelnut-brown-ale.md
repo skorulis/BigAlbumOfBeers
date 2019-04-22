@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Brown Ale - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p480x480/43178557_10156603265623745_2089745693970268160_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=c7aaafe1c7e3592710f8c0f45ff5d31c&oe=5CA0F6DF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p480x480/43178557_10156603265623745_2089745693970268160_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=f9688a11229b4cd2a3633f9cb64ef207&oe=5D3F2ADF
 beer-date: "2018-10-05"
 desc: "Very mild ok the hazelnut which is overwhelmed by the bitterness and slight sourness"
 permalink: /beer/:title.html

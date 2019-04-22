@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Lager - Pale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/5556_10151602286983745_1392314300_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=28ef39d7a132152516fa8511975c7d97&oe=5C914A26
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/5556_10151602286983745_1392314300_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=9dc90dbce01ad3ecf204eceab5329ab6&oe=5D2F7E26
 beer-date: "2013-03-28"
 desc: "A good amount of flavour but still easy to smash down"
 permalink: /beer/:title.html

@@ -8,9 +8,9 @@ country: "Australia"
 brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "IPA - American"
-score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26239702_10155922809888745_7331329375326799480_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=ccb8478819a38919029438ac0e8a1299&oe=5C929695
-beer-date: "2018-01-13"
-desc: "Nice mix of pine and dank hops. The bitterness is right on point. Surprisingly easy drinking"
+score: 7.5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57538031_10157070476653745_5421410099593740288_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=3ed4a8841ffda06412adb092a6de6a46&oe=5D457FB1
+beer-date: "2019-04-22"
+desc: "Interesting hop profile but not something that would keep me coming back"
 permalink: /beer/:title.html
 ---

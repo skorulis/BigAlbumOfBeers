@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12523010_10153811617993745_3799427315794683212_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=11e54d8ddcdb5a7b56c8fbccd4a299c7&oe=5CCD39BF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12523010_10153811617993745_3799427315794683212_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=96dfd2003060cac4c2af72c41dd3dda9&oe=5D43E0BF
 beer-date: "2016-01-07"
 desc: "Just can't get into this. It's heavy without a nice flavour behind it"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Inbev France"
 breweryURL: "/brewery/inbev-france.html"
 style: "Lager - Euro"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10410488_10153225353563745_8285613091047049802_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=d1a4d0332f0649680a1c04de4dae3cb0&oe=5CD9A79E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10410488_10153225353563745_8285613091047049802_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=1e5ef49fbfee4cad1cbd05b9fea90ecc&oe=5D77DB9E
 beer-date: "2015-04-13"
 desc: "Average Aldi lager"
 permalink: /beer/:title.html

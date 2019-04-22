@@ -9,7 +9,7 @@ brewery: "Heineken Česká republika"
 breweryURL: "/brewery/heineken-ceska-republika.html"
 style: "Lager - Dark"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/482349_10151563944993745_189404530_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=0920109cf1b6cb853800da8c0f5eec0f&oe=5CDA00E9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/482349_10151563944993745_189404530_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=19b2a63c676bb8f4c446a414cfca5f6f&oe=5D7834E9
 beer-date: "2013-03-09"
 desc: "A nice amber ale"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Brouwerij Martens"
 breweryURL: "/brewery/brouwerij-martens.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12072622_10153656866868745_684969190381396266_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=38b49824b4673f1ccf54176fb2b54297&oe=5CA0C82A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12072622_10153656866868745_684969190381396266_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=f4a7fa83a5efa676f4565d0fff9cd520&oe=5D3EFC2A
 beer-date: "2015-10-17"
 desc: "A good session beer"
 permalink: /beer/:title.html

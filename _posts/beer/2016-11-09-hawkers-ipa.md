@@ -9,7 +9,7 @@ brewery: "Hawkers Beer"
 breweryURL: "/brewery/hawkers-beer.html"
 style: "IPA - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16681941_10154923952718745_5686674869882045152_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=2afe36c71c2e060c44c70a08e1a95e55&oe=5C9CACF1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16681941_10154923952718745_5686674869882045152_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=b9c272828e48a3f395e229b3077ccfb0&oe=5D3AE0F1
 beer-date: "2017-02-11"
 desc: "Fairly well rounded, not too bitter. Easy drinking for an IPA and the ABV. More pine than floral with the hops but it woks well"
 permalink: /beer/:title.html

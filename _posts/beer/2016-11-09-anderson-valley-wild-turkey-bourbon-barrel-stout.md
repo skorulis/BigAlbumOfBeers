@@ -9,7 +9,7 @@ brewery: "Anderson Valley Brewing Company"
 breweryURL: "/brewery/anderson-valley-brewing-company.html"
 style: "Stout - Oatmeal"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/6841_10153811639248745_4589085530063719353_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=581f7d4e0e9cdd391e2cae9dc33ad237&oe=5C9EDF07
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/6841_10153811639248745_4589085530063719353_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=db0d3be83798545f8c23aab32dd829f9&oe=5D3D1307
 beer-date: "2016-01-07"
 desc: "Better than I expected, but then I was pretty worried about this one"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Van Pur"
 breweryURL: "/brewery/van-pur.html"
 style: "Hefeweizen"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43149313_10156603266483745_4267093628263858176_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=940dcb5edb20980deffe7dcd978e2d2d&oe=5CCC8677
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43149313_10156603266483745_4267093628263858176_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=991f944e008ca5af2af219d54fa92b92&oe=5D432D77
 beer-date: "2018-10-05"
 desc: "Really great hit of wheat balanced with a fresh sweetness"
 permalink: /beer/:title.html

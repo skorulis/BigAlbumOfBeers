@@ -9,7 +9,7 @@ brewery: "Nomad Brewing Co."
 breweryURL: "/brewery/nomad-brewing-co.html"
 style: "Sour - Gose"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26219619_10155922802818745_1411898520162300292_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=ce1eba69114661fe2dc72872a033a657&oe=5CCE2E20
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26219619_10155922802818745_1411898520162300292_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=a7c6e0d26e9104ff031e06daa8feb46e&oe=5D44D520
 beer-date: "2018-01-13"
 desc: "Slightly salty but a really mild balanced flavour. Just a tad of orange and sweetness. Very refreshing"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Southern Beverages Australia"
 breweryURL: "/brewery/southern-beverages-australia.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11703056_10153438035233745_914090365741131285_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=259f16e8817c19d5ce5281a034ba1603&oe=5CCB5693
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11703056_10153438035233745_914090365741131285_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=317aef5051f69f55d241c74bb17f821a&oe=5D41FD93
 beer-date: "2015-07-10"
 desc: "As I expected a plain flavourless lager"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Sixpoint Brewery"
 breweryURL: "/brewery/sixpoint-brewery.html"
 style: "Blonde Ale"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34268754_10156301079433745_5601735572826619904_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=48e08c45eaee38b0a9ccd6751c6a5ba6&oe=5CA1F12E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34268754_10156301079433745_5601735572826619904_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=8409abd3d2ee01d677571a3d76bdb593&oe=5D40252E
 beer-date: "2018-06-02"
 desc: "A nice level of sweetness. A very refreshing beer"
 permalink: /beer/:title.html

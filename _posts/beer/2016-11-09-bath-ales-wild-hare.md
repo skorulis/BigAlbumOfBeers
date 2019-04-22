@@ -9,7 +9,7 @@ brewery: "Bath Ales"
 breweryURL: "/brewery/bath-ales.html"
 style: "Pale Ale - English"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/935469_10151694516713745_1078233688_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=75c8c7019a5e672e8898b0989c28a016&oe=5CCC6E45
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/935469_10151694516713745_1078233688_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=4f26ca298640ffcf6f6dc58db7f1d8c6&oe=5D431545
 beer-date: "2013-05-25"
 desc: "Lovely and sweet"
 permalink: /beer/:title.html

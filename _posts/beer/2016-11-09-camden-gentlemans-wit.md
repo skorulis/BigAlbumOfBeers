@@ -9,7 +9,7 @@ brewery: "Camden Town Brewery"
 breweryURL: "/brewery/camden-town-brewery.html"
 style: "Witbier"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1176312_10151860443023745_856797078_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=f796e85e190fa0bae5e8bd4c70901732&oe=5CD4539D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1176312_10151860443023745_856797078_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=60ca19a54f088de0c36844e40ac075b3&oe=5D72879D
 beer-date: "2013-08-18"
 desc: "I remember nothing about this beer. Must have been a good night"
 permalink: /beer/:title.html

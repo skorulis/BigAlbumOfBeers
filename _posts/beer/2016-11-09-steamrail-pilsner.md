@@ -9,7 +9,7 @@ brewery: "Steamrail Brewing Company (Coles)"
 breweryURL: "/brewery/steamrail-brewing-company-coles.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11667503_10153438034893745_6099533991518812550_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=8e4f0dc12c35dcd5f54477457c62f219&oe=5C8DB124
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11667503_10153438034893745_6099533991518812550_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=0e93de14dfb51547f359abdf9b4d954c&oe=5D2BE524
 beer-date: "2015-07-10"
 desc: "A bit too much like a standard lager"
 permalink: /beer/:title.html

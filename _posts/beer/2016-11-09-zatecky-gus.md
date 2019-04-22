@@ -9,7 +9,7 @@ brewery: "Baltika Breweries (Балтика)"
 breweryURL: "/brewery/baltika-breweries-baltika.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664504_10155251934593745_1480990348594821219_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=4f7d17a6e842835b5bb9eddb39b26699&oe=5CD0D2A6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664504_10155251934593745_1480990348594821219_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=b64a0c829d93aa5574a3be4accfde0d5&oe=5D6F06A6
 beer-date: "2017-05-27"
 desc: "Your basic flavourless lager except in a giant can. Just what I need right now"
 permalink: /beer/:title.html

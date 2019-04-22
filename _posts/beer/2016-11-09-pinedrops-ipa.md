@@ -9,7 +9,7 @@ brewery: "Deschutes Brewery"
 breweryURL: "/brewery/deschutes-brewery.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/581926_10153811639323745_2485735585097388298_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=7db75f4c7f65a8f3f200e38c996db02e&oe=5C8B71F4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/581926_10153811639323745_2485735585097388298_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=bda52d6777db41385965e1538b945b0d&oe=5D29A5F4
 beer-date: "2016-01-07"
 desc: "A solid IPA, better than I expected"
 permalink: /beer/:title.html

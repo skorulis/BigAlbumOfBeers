@@ -9,7 +9,7 @@ brewery: "Kiuchi Brewery"
 breweryURL: "/brewery/kiuchi-brewery.html"
 style: "Ginger Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/942413_10151798927708745_1675671077_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=0a97deeafc2a092aa5fa844c1a4883fe&oe=5C9A42BD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/942413_10151798927708745_1675671077_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=4e123f43062234114e5130310a21e995&oe=5D3876BD
 beer-date: "2013-07-19"
 desc: "A mild ginger taste. The warming sensation makes me think this isn't meant for summer"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Sour - Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11148511_10153225354708745_902540998621637913_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=293338eba8aa1c461ff303bc626fc1b3&oe=5C93E76B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11148511_10153225354708745_902540998621637913_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=410da074124f174a9ff80e1986f493ce&oe=5D321B6B
 beer-date: "2015-04-13"
 desc: "Nicely hopped"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Sydney Brewery"
 breweryURL: "/brewery/sydney-brewery.html"
 style: "Pale Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11665515_10153438035968745_4205414644516816644_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=967eb92574bb63a947e8efb0263e18cf&oe=5CCDF0CD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11665515_10153438035968745_4205414644516816644_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=b230176f7a0530c8fda09f27d8e042ec&oe=5D4497CD
 beer-date: "2015-07-10"
 desc: "No idea how this can be called a pale ale"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Dainton Family Brewery"
 breweryURL: "/brewery/dainton-family-brewery.html"
 style: "Porter - Baltic"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29178570_10156095060933745_4434810546394497024_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=8bf89256cfa6116609ce6cf099487867&oe=5CA1B354
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29178570_10156095060933745_4434810546394497024_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=158ccadac19ff24f9314280168233123&oe=5D3FE754
 beer-date: "2018-03-13"
 desc: "Milder than expected. Hard to describe it, but it’s very enjoyable"
 permalink: /beer/:title.html

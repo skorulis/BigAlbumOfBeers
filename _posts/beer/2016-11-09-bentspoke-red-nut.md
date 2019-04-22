@@ -9,7 +9,7 @@ brewery: "BentSpoke Brewing Co"
 breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "IPA - Red"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48376892_10156797295938745_218199272238088192_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=8be5b0004db6435ad66c7b6ebb5ce3db&oe=5C9B591D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48376892_10156797295938745_218199272238088192_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=fb3a18ac5f8f02f091aa2e0141b8a976&oe=5D398D1D
 beer-date: "2018-12-27"
 desc: "Love the balance of red and hops. Goes in full of flavour, goes down smooth ready for the next sip"
 permalink: /beer/:title.html

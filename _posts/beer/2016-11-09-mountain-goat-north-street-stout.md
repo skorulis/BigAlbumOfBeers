@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Stout - Other"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/45496785_10156673533658745_5792806629032329216_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=3e459125f237e695e4b9910e007523eb&oe=5CD7D3CB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/45496785_10156673533658745_5792806629032329216_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=a0a9bff4d2f39b563c268e1fd57c711d&oe=5D7607CB
 beer-date: "2018-11-05"
 desc: "Fairly middle of the range stout. Nice thickness but no overwhelming flavours. A good slow or winter beverage"
 permalink: /beer/:title.html

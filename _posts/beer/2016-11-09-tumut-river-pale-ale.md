@@ -9,7 +9,7 @@ brewery: "Tumut River Brewing Co"
 breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Pale Ale - Australian"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20621252_10155494018678745_1219976220663414477_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=38c435bfb8977804d37e97e616a524ec&oe=5C9D1B03
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20621252_10155494018678745_1219976220663414477_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=516eb5923012f16501febefc0f78de41&oe=5D3B4F03
 beer-date: "2017-08-06"
 desc: "Slightly tangy pale ale. Doesn't really have the level of hops I hoped for"
 permalink: /beer/:title.html

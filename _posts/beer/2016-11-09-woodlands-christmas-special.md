@@ -9,7 +9,7 @@ brewery: "Woodlands Brewing Company"
 breweryURL: "/brewery/woodlands-brewing-company.html"
 style: "Winter Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1623661_10152293086658745_850862784_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=a2a2038d782ecc733306d743f170d803&oe=5CD69777
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1623661_10152293086658745_850862784_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=ae518aa39364c352b7f09480c8350089&oe=5D74CB77
 beer-date: "2014-03-01"
 desc: "Very good for a British ale"
 permalink: /beer/:title.html

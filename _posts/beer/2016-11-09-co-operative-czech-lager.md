@@ -9,7 +9,7 @@ brewery: "Pivovary Staropramen"
 breweryURL: "/brewery/pivovary-staropramen.html"
 style: "Pilsner - Czech"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1976956_10152293116608745_971300903_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=f16863f5b55f37271b048b47a1ad7410&oe=5C9EE175
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1976956_10152293116608745_971300903_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=3609112caa8eaa34c693e0fb3d797b54&oe=5D3D1575
 beer-date: "2014-03-01"
 desc: "Piss water"
 permalink: /beer/:title.html

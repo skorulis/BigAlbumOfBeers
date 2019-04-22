@@ -9,7 +9,7 @@ brewery: "Charles Wells Brewery"
 breweryURL: "/brewery/charles-wells-brewery.html"
 style: "Fruit Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/68598_10151428533853745_1576633844_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=b9c371f4268dd85635ad8a08f16fef1d&oe=5C9D6081
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/68598_10151428533853745_1576633844_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=b121b4c5703ed4d619b39c0d4cdeb82f&oe=5D3B9481
 beer-date: "2013-01-13"
 desc: "You can really taste the banana"
 permalink: /beer/:title.html

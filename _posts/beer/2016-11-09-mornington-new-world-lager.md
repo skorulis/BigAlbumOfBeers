@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Lager - IPL (India Pale Lager)"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48423158_10156797308863745_3358836413142401024_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=b5d8ef611134af8130db3122235ef026&oe=5CA065CB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48423158_10156797308863745_3358836413142401024_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=398611a1ff08a0c1aa451c93e6d4c706&oe=5D3E99CB
 beer-date: "2018-12-27"
 desc: "Nice tropical hoppy smell uncharacteristic of a lager. Tastes like a clean crisp lager without much bitterness. Just a little bit of biscuity citrusy goodness to balance it out. Perfect for a hot day"
 permalink: /beer/:title.html

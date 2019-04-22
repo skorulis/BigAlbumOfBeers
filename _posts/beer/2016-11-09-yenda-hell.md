@@ -9,7 +9,7 @@ brewery: "Australian Beer Company"
 breweryURL: "/brewery/australian-beer-company.html"
 style: "Lager - Helles"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14449987_10154470803333745_1465091648994242942_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=5ee75d195fb17bcf8ec9fd749573dd38&oe=5C9B6C12
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14449987_10154470803333745_1465091648994242942_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=9d5eb992882d6c2c2e796165bf5dda7d&oe=5D39A012
 beer-date: "2016-09-21"
 desc: "Almost tasteless. Absolutely nothing exciting about this beer"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Brouwerij Van Honsebrouck"
 breweryURL: "/brewery/brouwerij-van-honsebrouck.html"
 style: "Fruit Beer"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18893358_10155271709418745_408690614029900356_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=e3067674f2cf2ade45818fc583dcac96&oe=5C90963F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18893358_10155271709418745_408690614029900356_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=fdb7da3e9a382840125e052720995783&oe=5D2ECA3F
 beer-date: "2017-06-02"
 desc: "Another cherry beer. Really need to learn what to expect from a rouge beer"
 permalink: /beer/:title.html

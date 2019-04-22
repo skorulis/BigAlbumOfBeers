@@ -9,7 +9,7 @@ brewery: "Macarthur Grange Brewery"
 breweryURL: "/brewery/macarthur-grange-brewery.html"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34176564_10156301078963745_6665811358178607104_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=13f25fcebf344ffbbc241f8b89572899&oe=5CD6FD15
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34176564_10156301078963745_6665811358178607104_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=dfc3aec9d2e379074bccbbda89db56ff&oe=5D753115
 beer-date: "2018-06-02"
 desc: "Nicely sweet ale. Surprisingly good"
 permalink: /beer/:title.html

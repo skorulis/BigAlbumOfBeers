@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "IPA - Red"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28059230_10156021375348745_2000890067030227813_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=363cc0813a16c4d7c2b4c146467df6ff&oe=5CD7926E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28059230_10156021375348745_2000890067030227813_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=f6e3bd8a55babf84ca0e128af059791f&oe=5D75C66E
 beer-date: "2018-02-17"
 desc: "Really well rounded IPA. Very smooth and low on bitterness"
 permalink: /beer/:title.html

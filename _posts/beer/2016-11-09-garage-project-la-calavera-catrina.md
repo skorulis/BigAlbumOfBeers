@@ -9,7 +9,7 @@ brewery: "Garage Project"
 breweryURL: "/brewery/garage-project.html"
 style: "Spiced / Herbed Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12705503_10153890412498745_7528959077834200322_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=7bedcbdccbca5f4210f4815654040125&oe=5C928322
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12705503_10153890412498745_7528959077834200322_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=e0cb0b345b3dd030c79eeed3a529da10&oe=5D30B722
 beer-date: "2016-02-14"
 desc: "I may be unique in that I find that chilli and beer are a perfect combination; and this is the best one I’ve had so far"
 permalink: /beer/:title.html

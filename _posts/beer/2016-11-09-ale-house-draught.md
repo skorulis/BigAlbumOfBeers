@@ -9,7 +9,7 @@ brewery: "Australian Beer Co."
 breweryURL: "/brewery/australian-beer-co.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43273632_10156603265258745_7473982907451703296_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=6d4ae3d5b3e1dc04a2be44becbbc49e5&oe=5C950659
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43273632_10156603265258745_7473982907451703296_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=ebe571ebb02f9f06b9331529eb2336c7&oe=5D333A59
 beer-date: "2018-10-05"
 desc: "Very dry, tastes like an Australian mainstream beer, even has the strength of one"
 permalink: /beer/:title.html

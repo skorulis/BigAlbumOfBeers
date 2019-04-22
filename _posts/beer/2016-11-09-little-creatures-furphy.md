@@ -9,7 +9,7 @@ brewery: "Little Creatures Brewing"
 breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Kölsch"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509006_10153811639708745_4922522512256088245_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=cefe114a39189b8aba3308da387b0b15&oe=5CD86615
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12509006_10153811639708745_4922522512256088245_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=8e47de80d1ae03ba6a9e3af06f1030f0&oe=5D769A15
 beer-date: "2016-01-07"
 desc: "Saw this a lot in Melbourne and wish it would start showing up in Sydney. Glad to see some more brewers making Kölschs"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Big Shed Brewing Concern"
 breweryURL: "/brewery/big-shed-brewing-concern.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717177_10153890413993745_4407733928412012176_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=f81439d0ea1f0c37d4245338f09bfbc6&oe=5CCDDAB9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717177_10153890413993745_4407733928412012176_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=1ee5cb178bb61e9f0f40d27e5b37acf0&oe=5D4481B9
 beer-date: "2016-02-14"
 desc: "A textbook IPA. Bitter with a strong hop flavour. I just picked it because of the bears having sex on the label"
 permalink: /beer/:title.html

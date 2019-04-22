@@ -9,7 +9,7 @@ brewery: "Dainton Family Brewery"
 breweryURL: "/brewery/dainton-family-brewery.html"
 style: "IPA - New England"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26230689_10155922809468745_7273015641231301758_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=5d80e10e9a2502633cc11115b324e00d&oe=5C999A90
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26230689_10155922809468745_7273015641231301758_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=de15bd2ec2fe608fae1f7d782c3eb4b4&oe=5D37CE90
 beer-date: "2018-01-13"
 desc: "Decent except a little too bitter"
 permalink: /beer/:title.html

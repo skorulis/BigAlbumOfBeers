@@ -9,7 +9,7 @@ brewery: "West End Brewery"
 breweryURL: "/brewery/west-end-brewery.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333654_10154470805553745_6025478775328181204_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=3f98d586ec8fadcdb6dab0fd7fc1a5d6&oe=5CD260E7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14333654_10154470805553745_6025478775328181204_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=61b4e336f494686d9cbe5e6d6bf17727&oe=5D7094E7
 beer-date: "2016-09-21"
 desc: "Uninspired south Australian lager. Not as bitter as other Australian brews but there's no hops or malt to make it s decent beer"
 permalink: /beer/:title.html

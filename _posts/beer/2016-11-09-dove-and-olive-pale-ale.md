@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43296943_10156603266243745_4904069370256293888_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=128ec1c0a35466099037eca0084d2b9f&oe=5C97EDF1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43296943_10156603266243745_4904069370256293888_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=0625cfa968eba9d8a5a570ac04a7b807&oe=5D3621F1
 beer-date: "2018-10-05"
 desc: "Fairly plain pale ale. Slightly harsh bitterness but i doesn’t stop it being easy drinking"
 permalink: /beer/:title.html

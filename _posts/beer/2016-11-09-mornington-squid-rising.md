@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "IPA - New England"
 score: 9.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34068392_10156301084298745_3668028394362109952_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=9a503d866475758fecae44dbcc3966a6&oe=5CD0DE54
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34068392_10156301084298745_3668028394362109952_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=a166615ad5f783ec82f697706b2627a2&oe=5D6F1254
 beer-date: "2018-06-02"
 desc: "Light on aroma but big on flavour. A heavenly drop that just keeps you coming back for more. In under 15 minutes the delicious liquid was gone and then I felt as if something was now missing from my life. I know I could buy another can but right now"
 permalink: /beer/:title.html

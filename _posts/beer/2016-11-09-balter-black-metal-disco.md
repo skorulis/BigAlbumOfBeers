@@ -9,7 +9,7 @@ brewery: "Balter Brewing Company"
 breweryURL: "/brewery/balter-brewing-company.html"
 style: "Stout - Other"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26238827_10155922805413745_2755170156781478606_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=ca05ef1042eecd4019451a76e63412ea&oe=5C8C9C93
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26238827_10155922805413745_2755170156781478606_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=3ce2b80478822f7951698324aed24953&oe=5D2AD093
 beer-date: "2018-01-13"
 desc: "So good from the first drop. Quite a bit of coffee and chocolate and a nice hit of sweetness. Glad it comes in a big can"
 permalink: /beer/:title.html

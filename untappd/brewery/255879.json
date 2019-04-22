@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.256,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 255879,
+      "brewery_name": "Shambles Brewery",
+      "brewery_slug": "shambles-brewery",
+      "brewery_page_url": "/ShamblesBrewery",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-255879_12ccc.jpeg",
+      "brewery_label_hd": "",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "ShamblesBrewery",
+        "follow_status": false,
+        "follower_count": 100,
+        "uid": 3153252,
+        "mute_status": "none"
+      },
+      "beer_count": 21,
+      "contact": {
+        "twitter": "",
+        "facebook": "https://www.facebook.com/shamblesbrewery",
+        "instagram": "",
+        "url": "http://www.shamblesbrewery.com.au"
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_type_id": 2,
+      "location": {
+        "brewery_address": "222 Elizabeth St",
+        "brewery_city": "Hobart",
+        "brewery_state": "TAS",
+        "brewery_lat": -42.8787,
+        "brewery_lng": 147.32
+      },
+      "rating": {
+        "count": 3586,
+        "rating_score": 3.67
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 4211,
+        "unique_count": 1573,
+        "monthly_count": 85,
+        "weekly_count": 4,
+        "user_count": 0,
+        "age_on_service": 1144.1763425925926
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 4414771,
+              "venue_name": "Shambles Brewery",
+              "venue_slug": "shambles-brewery",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "222 Elizabeth Street",
+                "venue_city": "Hobart",
+                "venue_state": "TAS",
+                "venue_country": "Australia",
+                "lat": -42.8783,
+                "lng": 147.32
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "56d7f8adcd10353ae1901ee2",
+                "foursquare_url": "http://4sq.com/1RrvwP5"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

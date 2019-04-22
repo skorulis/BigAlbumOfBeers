@@ -9,7 +9,7 @@ brewery: "Desnoes & Geddes"
 breweryURL: "/brewery/desnoes-geddes.html"
 style: "Stout - Other"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/968780_10151694532678745_1443848773_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=a70f41538f953347703b04c032dd04ee&oe=5C92ECA0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/968780_10151694532678745_1443848773_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=926f47c8f7438bd2902819a9133df307&oe=5D3120A0
 beer-date: "2013-05-25"
 desc: "So bad I can't believe they bottle this"
 permalink: /beer/:title.html

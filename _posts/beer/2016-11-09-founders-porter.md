@@ -9,7 +9,7 @@ brewery: "Founders Brewing Co."
 breweryURL: "/brewery/founders-brewing-co.html"
 style: "Porter - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1075890_10151798799218745_348684892_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=0b2d23f640b67ee2046ce63ae3bc430b&oe=5C8D3AE6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1075890_10151798799218745_348684892_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=3beed9d741b961b123954504666048ca&oe=5D2B6EE6
 beer-date: "2013-07-19"
 desc: "Unexpectedly smooth"
 permalink: /beer/:title.html

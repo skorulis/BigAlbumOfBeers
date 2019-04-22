@@ -9,7 +9,7 @@ brewery: "AleSmith Brewing Company"
 breweryURL: "/brewery/alesmith-brewing-company.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22788669_10155717525113745_8679996643566381995_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=9cb39ad2b418f7aac859dc8fd9e456a5&oe=5C9527F7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22788669_10155717525113745_8679996643566381995_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=6d931d5581e56ed5e4ad25ad46d18ee7&oe=5D335BF7
 beer-date: "2017-10-28"
 desc: "Fruity and a solid pale ale. Easily sessionable"
 permalink: /beer/:title.html

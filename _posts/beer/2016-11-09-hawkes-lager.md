@@ -9,7 +9,7 @@ brewery: "Hawke's Brewing Co. "
 breweryURL: "/brewery/hawkes-brewing-co.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20620884_10155494019388745_492562944010498922_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=7c8955e82d72911f19dc064c85fb830c&oe=5C953B9D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20620884_10155494019388745_492562944010498922_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=917ae6bb3b6e72640dbcb4552cf85d02&oe=5D336F9D
 beer-date: "2017-08-06"
 desc: "Slightly tangy lager. The name is cool but it’s overpriced for what it is"
 permalink: /beer/:title.html

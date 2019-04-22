@@ -9,7 +9,7 @@ brewery: "Kamenitza (StarBev)"
 breweryURL: "/brewery/kamenitza-starbev.html"
 style: "Lager - Euro"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43245677_10156603265143745_1658833429048852480_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=4fd1ba4aea370e1015f56f4badc7ddc2&oe=5C8B4FC7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43245677_10156603265143745_1658833429048852480_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=4feafed7f0f910aec9a78d3076835a0e&oe=5D2983C7
 beer-date: "2018-10-05"
 desc: "Very inoffensive lager"
 permalink: /beer/:title.html

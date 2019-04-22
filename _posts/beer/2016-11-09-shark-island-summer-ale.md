@@ -9,7 +9,7 @@ brewery: "Shark Island Brewing Co."
 breweryURL: "/brewery/shark-island-brewing-co.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14355645_10154470822778745_4715676910602713492_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=78a521000fdb5043c8422dfa97a4e927&oe=5C9A1CAB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14355645_10154470822778745_4715676910602713492_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=6c266a14423dbda39763e578cf55c5d0&oe=5D3850AB
 beer-date: "2016-09-21"
 desc: "A little bit too yeasty. Not what I expect from a summer ale"
 permalink: /beer/:title.html

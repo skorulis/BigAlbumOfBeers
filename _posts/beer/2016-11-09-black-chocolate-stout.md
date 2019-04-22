@@ -9,7 +9,7 @@ brewery: "Brooklyn Brewery"
 breweryURL: "/brewery/brooklyn-brewery.html"
 style: "Stout - Russian Imperial"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1001078_10151798818383745_544568245_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=26eaeece8ab94c7107e5a0421f238724&oe=5C9DCC8F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1001078_10151798818383745_544568245_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=449ec55bdc74c8a9d7da5c81f312bb00&oe=5D3C008F
 beer-date: "2013-07-19"
 desc: "Be ready for a kick"
 permalink: /beer/:title.html

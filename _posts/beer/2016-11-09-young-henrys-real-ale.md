@@ -9,7 +9,7 @@ brewery: "Young Henrys Brewing Company"
 breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "English Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1797480_10152293132838745_183692179_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=9cdfbeffab5e10ae4d1fa8e92b663c06&oe=5CD4AEE7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1797480_10152293132838745_183692179_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=bbd985c49bbbb59290a048502af1439e&oe=5D72E2E7
 beer-date: "2014-03-01"
 desc: "Strong ale flavour in a lager"
 permalink: /beer/:title.html

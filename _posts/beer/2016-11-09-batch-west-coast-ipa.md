@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12510395_10153811618823745_3574564297259479731_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=9d5a400ed7524574e1f6fa6da7b98f21&oe=5C9040F2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12510395_10153811618823745_3574564297259479731_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=a8afb903f294b91311532b4a9a3e6e38&oe=5D2E74F2
 beer-date: "2016-01-07"
 desc: "Mild but very tasty. One of the first from batch that I really like"
 permalink: /beer/:title.html
