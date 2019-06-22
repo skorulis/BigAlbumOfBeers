@@ -9,7 +9,7 @@ brewery: "The Australian Brewery"
 breweryURL: "/brewery/the-australian-brewery.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17103571_10154984571943745_6524450336505358917_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=914a5ec0ef29d196bcf7feb5eec7491e&oe=5D2B5B52
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17103571_10154984571943745_6524450336505358917_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=99b2c988bb68ecc7bb813ff05fce4c67&oe=5D7A7552
 beer-date: "2017-03-03"
 desc: "A little too dry for my liking"
 permalink: /beer/:title.html

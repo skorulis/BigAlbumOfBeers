@@ -9,7 +9,7 @@ brewery: "Black Sheep"
 breweryURL: "/brewery/black-sheep.html"
 style: "English Bitter"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/485855_10151283325868745_1357546171_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=c94c47efff88b1f3b02998c6993a15dc&oe=5D310F5F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/485855_10151283325868745_1357546171_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=8f2b044d35e4f606301d1a65367cf3c7&oe=5D80295F
 beer-date: "2012-10-13"
 desc: "Black and average"
 permalink: /beer/:title.html

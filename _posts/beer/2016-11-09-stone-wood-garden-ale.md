@@ -9,7 +9,7 @@ brewery: "Stone & Wood"
 breweryURL: "/brewery/stone-wood.html"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16143264_10154858022773745_4959615740157477518_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=ff773867dc44916a88cdeb3fcc831cef&oe=5D34B28A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16143264_10154858022773745_4959615740157477518_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=b46188d7641c7907b0713d2b02a79031&oe=5D83CC8A
 beer-date: "2017-01-21"
 desc: "A little lacking in flavour but easily drinkable"
 permalink: /beer/:title.html

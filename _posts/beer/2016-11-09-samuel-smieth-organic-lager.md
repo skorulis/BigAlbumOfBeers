@@ -9,7 +9,7 @@ brewery: "Samuel Smith's Old Brewery"
 breweryURL: "/brewery/samuel-smiths-old-brewery.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1526342_10152147734658745_1378507161_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=8469f42224bf8e0c73772c056ac447f7&oe=5D4172BD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1526342_10152147734658745_1378507161_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=7476efdf754fc5187dbab02b5c8a32b2&oe=5D908CBD
 beer-date: "2013-12-23"
 desc: "Nothing special"
 permalink: /beer/:title.html

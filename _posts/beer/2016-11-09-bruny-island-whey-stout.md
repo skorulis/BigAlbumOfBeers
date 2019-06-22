@@ -9,7 +9,7 @@ brewery: "Bruny Island Beer Co"
 breweryURL: "/brewery/bruny-island-beer-co.html"
 style: "Stout - Milk / Sweet"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57447319_10157070263158745_6901505273458851840_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=d6739c85a42d829b4f1d74374699eba8&oe=5D3536AE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57447319_10157070263158745_6901505273458851840_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=c41c4cc9a244c7406e471d877e65dfd9&oe=5D8450AE
 beer-date: "2019-04-22"
 desc: "Solid stout, has a nice creaminess from the whey. If you’re after a straight stout then it’s hard to fault this one"
 permalink: /beer/:title.html

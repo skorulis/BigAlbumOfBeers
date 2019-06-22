@@ -9,7 +9,7 @@ brewery: "Blizzard Brewing Company"
 breweryURL: "/brewery/blizzard-brewing-company.html"
 style: "Pale Ale - Belgian"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20993106_10155535940793745_8507331141015704730_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=dc1e4a3c091f8d811518a8a363faa723&oe=5D71050F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20993106_10155535940793745_8507331141015704730_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=53f43e4b3f5b25590384b86fa32c486d&oe=5DC01F0F
 beer-date: "2017-08-21"
 desc: "Fairly mild on the Belgian flavours which lets some more hops come through. Solid beer all the way and well rounded"
 permalink: /beer/:title.html

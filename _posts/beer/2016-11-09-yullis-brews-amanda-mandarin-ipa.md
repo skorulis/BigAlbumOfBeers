@@ -9,7 +9,7 @@ brewery: "Yulli's Brews"
 breweryURL: "/brewery/yullis-brews.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49209846_10156797295743745_2212664020144488448_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=3dd97ba37eb1cf5bcc5493a89196804e&oe=5D321860
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49209846_10156797295743745_2212664020144488448_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=6644ce91dc07cd9f2a57d5abca5a3bd6&oe=5D813260
 beer-date: "2018-12-27"
 desc: "Mild mandarin with a little hoppy kick. A bit unremarkable"
 permalink: /beer/:title.html

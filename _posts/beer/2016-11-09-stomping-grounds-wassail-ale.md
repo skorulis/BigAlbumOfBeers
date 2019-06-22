@@ -9,7 +9,7 @@ brewery: "Stomping Ground Brewing Co"
 breweryURL: "/brewery/stomping-ground-brewing-co.html"
 style: "Winter Ale"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48930787_10156797311408745_3518058135069655040_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=67a6f3f13730a04d5de4caf478785151&oe=5D316764
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48930787_10156797311408745_3518058135069655040_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=0253d848a26ad4548e8e6e8447483494&oe=5D808164
 beer-date: "2018-12-27"
 desc: "A bit of a hearty winter ale, which might not fit the best with an Australian Christmas. Very smooth with malt coming through like toasted bread. I wish I had a few more"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34134759_10156301083578745_2830903654502891520_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=51143990ae989432fa44f3dc499bd419&oe=5D2B8AE3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34134759_10156301083578745_2830903654502891520_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=11a60d0bc95d761d4ee17cfc07e34690&oe=5D7AA4E3
 beer-date: "2018-06-02"
 desc: "Notes of fruit coming through in the aroma. My first sip made me think it was way too bitter but it gets better. As I continued the subtle lime flavours begin to come through. Not good with food but a great beer by itself"
 permalink: /beer/:title.html

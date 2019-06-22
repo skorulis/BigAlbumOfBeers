@@ -9,7 +9,7 @@ brewery: "Fixation Brewing Co"
 breweryURL: "/brewery/fixation-brewing-co.html"
 style: "IPA - Session / India Session Ale"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48422163_10156797308478745_7195079529524625408_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=316e2bb78756076dc15e57f496346552&oe=5D29E526
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48422163_10156797308478745_7195079529524625408_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=dc23c67fd6ab89ed7db9327af9daca74&oe=5D78FF26
 beer-date: "2018-12-27"
 desc: "Theres bitterness in the smell but it doesn’t carry through to the taste. What it does have is a whole bunch of fruity, hoppy flavours. Truely a session IPA, I could drink these all day"
 permalink: /beer/:title.html

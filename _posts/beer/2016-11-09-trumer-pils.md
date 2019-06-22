@@ -9,7 +9,7 @@ brewery: "Trumer"
 breweryURL: "/brewery/trumer.html"
 style: "Pilsner - German"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10953955_10153055770883745_7624310153191779880_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=92a4542bd5e26c2c11a79031aa1338b5&oe=5D431D5C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10953955_10153055770883745_7624310153191779880_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=23c35b8985c20aac67e1d5f0821266f5&oe=5D92375C
 beer-date: "2015-01-29"
 desc: "An ok pilsner"
 permalink: /beer/:title.html

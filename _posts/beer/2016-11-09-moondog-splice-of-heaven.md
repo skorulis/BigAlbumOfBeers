@@ -9,7 +9,7 @@ brewery: "Moon Dog Craft Brewery"
 breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "IPA - American"
 score: null
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17759827_10155111577163745_1180965533785387458_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=935b365ac963b693043acf35f976f08b&oe=5D3874BC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17759827_10155111577163745_1180965533785387458_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=9b5f04ec23cb3cab7dfa95ee387ae59d&oe=5D878EBC
 beer-date: "2017-04-11"
 desc: "The bottle kicked off the experience by frothing all over the table. Definitely smells like lime but I can’t taste it"
 permalink: /beer/:title.html

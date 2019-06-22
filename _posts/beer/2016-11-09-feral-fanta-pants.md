@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - Red"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18670863_10155251933448745_1210804026671660953_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=755fb702c01486a1c7e69fb2fc0e98df&oe=5D765F2F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18670863_10155251933448745_1210804026671660953_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=2535121c127d3fc3fc6dcff2130a8654&oe=5DC5792F
 beer-date: "2017-05-27"
 desc: "Finally found a beer that lets me understand the dankness of an IPA. The bitterness is high but it’s well rounded. Seems a bit like it has many different styles of hops involved which all come together to give that dank"
 permalink: /beer/:title.html

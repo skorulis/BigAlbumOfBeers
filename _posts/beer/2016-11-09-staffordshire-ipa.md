@@ -9,7 +9,7 @@ brewery: "Marks & Spencer"
 breweryURL: "/brewery/marks-spencer.html"
 style: "Burton Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/535438_10151461674053745_360684095_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=06f6c0d0e3c9bfe272b0cb38dc2f61fb&oe=5D3BFDC7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/535438_10151461674053745_360684095_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=b2d10a7bf05bd734da1ed72e24b97f43&oe=5D8B17C7
 beer-date: "2013-02-01"
 desc: "A mild IPA"
 permalink: /beer/:title.html

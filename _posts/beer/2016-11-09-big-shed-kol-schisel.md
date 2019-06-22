@@ -9,7 +9,7 @@ brewery: "Big Shed Brewing Concern"
 breweryURL: "/brewery/big-shed-brewing-concern.html"
 style: "Kölsch"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715804_10153890415748745_782298131807112307_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=b898c188a10925781c969ea723c1fa1a&oe=5D3BDC15
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715804_10153890415748745_782298131807112307_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=555fc9caeb85ab6abac21ba476eb8660&oe=5D8AF615
 beer-date: "2016-02-14"
 desc: "Fairly plain and easy drinking"
 permalink: /beer/:title.html

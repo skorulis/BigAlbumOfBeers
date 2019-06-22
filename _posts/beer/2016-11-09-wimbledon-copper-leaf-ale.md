@@ -9,7 +9,7 @@ brewery: "Wimbledon Brewery"
 breweryURL: "/brewery/wimbledon-brewery.html"
 style: "Red Ale - American Amber / Red"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18882133_10155271709253745_7697426752712115606_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=f6ccc7e28f362ae9f4bc414e878d1461&oe=5D296C5F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18882133_10155271709253745_7697426752712115606_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=9b3e50ce130780dc95e6cce0089c73b6&oe=5D78865F
 beer-date: "2017-06-02"
 desc: "A rather mild real ale. Easy drinking but ultimately lacking flavour"
 permalink: /beer/:title.html

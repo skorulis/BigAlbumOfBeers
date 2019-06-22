@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-mornington-bucket-boys-kb.md
 title: Mornington + bucket boys + kB
 category: beer
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26231766_10155922814138745_1310949905622298153_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=0ab15ddb340702224c7b10d8007ee408&oe=5D6E409C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26231766_10155922814138745_1310949905622298153_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=fc9ee66a96902ddaeb6cda3c72828653&oe=5DBD5A9C
 beer-date: "2018-01-13"
 desc: "I thought this amalgamation would work well but it comes off too bitter. Perhaps just too many tonight"
 permalink: /beer/:title.html

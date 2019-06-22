@@ -9,7 +9,7 @@ brewery: "Harvey & Son (Harveys)"
 breweryURL: "/brewery/harvey-son-harveys.html"
 style: "Pale Ale - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1482844_10152147733228745_1616012407_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=44dee4b21d0423aba274f135a804a577&oe=5D31758B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1482844_10152147733228745_1616012407_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=ef5e3ea531dc3b7f918f6f51c10c27d1&oe=5D808F8B
 beer-date: "2013-12-23"
 desc: "Kind of warming. Better than the label suggests"
 permalink: /beer/:title.html

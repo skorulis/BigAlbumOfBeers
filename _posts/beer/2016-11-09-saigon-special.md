@@ -9,7 +9,7 @@ brewery: "Sabeco"
 breweryURL: "/brewery/sabeco.html"
 style: "Lager - Pale"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28059004_10156021380443745_7688286077909474212_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=7744815d220be994028be47aa5191d16&oe=5D3A1E6B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28059004_10156021380443745_7688286077909474212_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=e0ab1ae5098fac520257b8176c75e6db&oe=5D89386B
 beer-date: "2018-02-17"
 desc: "Somwhere in the middle between saigon green and saigon red"
 permalink: /beer/:title.html

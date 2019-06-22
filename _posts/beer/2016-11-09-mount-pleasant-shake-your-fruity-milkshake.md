@@ -9,7 +9,7 @@ brewery: "R&B Brewing Co."
 breweryURL: "/brewery/r-b-brewing-co.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17862722_10155111575753745_6516307979807440219_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=07f59ab04a1f62e836af00dd4469dcce&oe=5D437BC5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17862722_10155111575753745_6516307979807440219_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=3651f98bad53b73bda949a000015a323&oe=5D9295C5
 beer-date: "2017-04-11"
 desc: "Clear but full of particles. There's something odd in this beer, not bad just a flavour I can't pick out. Bitterness is completely overshadowed by the hops, just how I like my IPA"
 permalink: /beer/:title.html

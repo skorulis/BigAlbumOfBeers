@@ -9,7 +9,7 @@ brewery: "Bacchus Brewing Co."
 breweryURL: "/brewery/bacchus-brewing-co.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11130263_10153225366548745_4430696674965972638_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=f9e6efc53e1c83379b51f6b52a138327&oe=5D3FFA45
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11130263_10153225366548745_4430696674965972638_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=e051d20613778b84fbc98d7da260355e&oe=5D8F1445
 beer-date: "2015-04-13"
 desc: "Perfect level of bitterness"
 permalink: /beer/:title.html

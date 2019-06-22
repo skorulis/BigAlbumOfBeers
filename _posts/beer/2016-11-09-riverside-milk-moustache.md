@@ -9,7 +9,7 @@ brewery: "Riverside Brewing Company"
 breweryURL: "/brewery/riverside-brewing-company.html"
 style: "Stout - Milk / Sweet"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43155769_10156603266363745_3876001705950707712_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=af9b62b832003053d337500268b66dd9&oe=5D40F561
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43155769_10156603266363745_3876001705950707712_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=7f509a1379153060d35a6e43aacd6a06&oe=5D900F61
 beer-date: "2018-10-05"
 desc: "Really rice milkiness coming through. Smooth with low bitterness and no offending flavours"
 permalink: /beer/:title.html

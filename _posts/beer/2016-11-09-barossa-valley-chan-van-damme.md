@@ -9,7 +9,7 @@ brewery: "Barossa Valley Brewing"
 breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Witbier"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26220093_10155922814183745_5626777175831322488_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=703719383bbe2656347729f3bf2137fd&oe=5D29AA08
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26220093_10155922814183745_5626777175831322488_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=111eb06acbdbc1e926803c5bad7473a8&oe=5D78C408
 beer-date: "2018-01-13"
 desc: "Like a Belgian wit with a strong tang of lemongrass. Gets better as you become adjusted to it"
 permalink: /beer/:title.html

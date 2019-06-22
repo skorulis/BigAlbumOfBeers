@@ -9,7 +9,7 @@ brewery: "Bankstown Sports "
 breweryURL: "/brewery/bankstown-sports.html"
 style: "Lager - Pale"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13445722_10154200939418745_7912390867396221069_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=135253ac764e900ea27042dc961d8ff2&oe=5D4364DD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13445722_10154200939418745_7912390867396221069_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=99cf5f8f04d5ce162b1de778c1d556eb&oe=5D927EDD
 beer-date: "2016-06-16"
 desc: "Has a slightly sweet taste and a spicy finish. Drink it quick before it gets warm"
 permalink: /beer/:title.html

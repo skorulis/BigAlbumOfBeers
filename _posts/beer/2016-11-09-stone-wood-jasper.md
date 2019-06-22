@@ -9,7 +9,7 @@ brewery: "Stone & Wood"
 breweryURL: "/brewery/stone-wood.html"
 style: "Altbier"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955201_10153053852088745_6663961286785907822_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=ef0c41826298c7ea171bd8290827fcf9&oe=5D71B6DF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955201_10153053852088745_6663961286785907822_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=279a2348f430acd33fad5efd0232a8e3&oe=5DC0D0DF
 beer-date: "2015-01-28"
 desc: "Rich but not right"
 permalink: /beer/:title.html

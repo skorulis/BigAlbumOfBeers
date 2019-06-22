@@ -9,7 +9,7 @@ brewery: "Rogue Ales & Spirits"
 breweryURL: "/brewery/rogue-ales-spirits.html"
 style: "Maibock/Helles Bock"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13445293_10154200938923745_8996401406387609840_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=61ce74ad9bf83278f58e1f8a54fc020d&oe=5D702292
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13445293_10154200938923745_8996401406387609840_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=0fbdcd358e6fdefedf5db6d0868cfa2b&oe=5DBF3C92
 beer-date: "2016-06-16"
 desc: "Like a really sweet IPA. There’s something else in there that I can’t put my finger on"
 permalink: /beer/:title.html

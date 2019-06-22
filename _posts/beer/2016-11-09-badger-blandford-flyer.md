@@ -9,7 +9,7 @@ brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "/brewery/badger-ales-hall-woodhouse.html"
 style: "Spiced / Herbed Beer"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/74705_10151798802528745_954132420_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=32d71ce1a61f44d10c9db2962e61c65a&oe=5D328AB0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/74705_10151798802528745_954132420_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=3330739bcc55f7ad0bb1e1eb6c7c58d5&oe=5D81A4B0
 beer-date: "2013-07-19"
 desc: "Mild ginger"
 permalink: /beer/:title.html

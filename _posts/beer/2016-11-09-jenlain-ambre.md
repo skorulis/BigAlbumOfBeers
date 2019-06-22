@@ -9,7 +9,7 @@ brewery: "Brasserie Duyck"
 breweryURL: "/brewery/brasserie-duyck.html"
 style: "Bière de Garde"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955719_10153053840738745_4377010572225479820_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=42b97b71ce26d34134d70d64b7ddba96&oe=5D3426E6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10955719_10153053840738745_4377010572225479820_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=e3491b573d43c385d09d2101f3d867c9&oe=5D8340E6
 beer-date: "2015-01-28"
 desc: "Was hoping for so much more than with this giant beer"
 permalink: /beer/:title.html

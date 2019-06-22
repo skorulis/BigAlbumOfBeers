@@ -9,7 +9,7 @@ brewery: "CoConspirators Brewing Company"
 breweryURL: "/brewery/coconspirators-brewing-company.html"
 style: "IPA - New England"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26730968_10155922806388745_7545231709409452907_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=eec957ce413c8ac2f9b5e359afb24872&oe=5D6FED1D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26730968_10155922806388745_7545231709409452907_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=188aa24449007702b555e46a844ae122&oe=5DBF071D
 beer-date: "2018-01-13"
 desc: "Solid floral and citrus smells but it doesn’t carry through fully into the taste. Gets better as it goes down. Very easy drinking though"
 permalink: /beer/:title.html

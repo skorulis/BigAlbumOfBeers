@@ -9,7 +9,7 @@ brewery: "Pivovar Clock"
 breweryURL: "/brewery/pivovar-clock.html"
 style: "IPA - Red"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19146159_10155314454408745_1431245341467572115_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=9a529831d497ca28622bd57d0564fddf&oe=5D31F3CB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19146159_10155314454408745_1431245341467572115_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=cd20429e7acd6d1fa9feeec47077eed1&oe=5D810DCB
 beer-date: "2017-06-15"
 desc: "Such a great hop aroma. Much milder on the palette but well balanced. Wouldn't be upset with a few of these"
 permalink: /beer/:title.html

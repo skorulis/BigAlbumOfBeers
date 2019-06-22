@@ -9,7 +9,7 @@ brewery: "Island Brewing Co. (Fiji)"
 breweryURL: "/brewery/island-brewing-co-fiji.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11707520_10153438035303745_142890088110404042_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=8fe96a0fd15421b04e85d472a50bd71c&oe=5D313591
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11707520_10153438035303745_142890088110404042_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=5c98bed7f51e9f72412d0cf3472452be&oe=5D804F91
 beer-date: "2015-07-10"
 desc: "Surprisingly good and well rounded"
 permalink: /beer/:title.html

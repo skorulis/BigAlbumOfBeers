@@ -9,7 +9,7 @@ brewery: "Cricketers Arms"
 breweryURL: "/brewery/cricketers-arms.html"
 style: "IPA - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10995650_10153118627158745_3441161072765169256_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=82cf43903d6c8c764064499eda1c6df6&oe=5D780A96
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10995650_10153118627158745_3441161072765169256_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=fa4cce5ae10756a9cf0c79220ddd4656&oe=5DC72496
 beer-date: "2015-02-27"
 desc: "A very mild IPA. Easy drinking but not what I want from an IPA"
 permalink: /beer/:title.html

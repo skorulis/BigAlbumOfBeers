@@ -9,7 +9,7 @@ brewery: "Shenanigans Brewing Co."
 breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "Spiced / Herbed Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18739746_10155251935233745_6606962823786344566_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=b16edc90a1e9bf2cfda748cfd0677492&oe=5D30F802
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18739746_10155251935233745_6606962823786344566_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=323499f3525392a0924182770a1d63bf&oe=5D801202
 beer-date: "2017-05-27"
 desc: "Straight away you get the jalapeño but it's only the taste and no heat. Fairly hoppy on the nose but it's hard to pick that up in the taste"
 permalink: /beer/:title.html

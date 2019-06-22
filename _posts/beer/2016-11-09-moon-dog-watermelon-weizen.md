@@ -9,7 +9,7 @@ brewery: "Moon Dog Craft Brewery"
 breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Hefeweizen"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11136648_10153225354308745_6098979194311010987_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=0b849ade8b8671958292c17db35021ba&oe=5D3272F2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11136648_10153225354308745_6098979194311010987_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=038d06b559bf7419685faf636a5fa8d9&oe=5D818CF2
 beer-date: "2015-04-13"
 desc: "Really subtle watermelon taste. Takes a while to get used to"
 permalink: /beer/:title.html

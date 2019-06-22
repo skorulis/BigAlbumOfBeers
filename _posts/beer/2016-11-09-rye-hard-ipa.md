@@ -9,7 +9,7 @@ brewery: "Temple Brewing Co."
 breweryURL: "/brewery/temple-brewing-co.html"
 style: "Rye Beer"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717260_10153890413303745_2949419762809562441_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=3baa9138138652f1de7d885f141f6c88&oe=5D333279
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717260_10153890413303745_2949419762809562441_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=71550e5892561139bb9f5059f887f03b&oe=5D824C79
 beer-date: "2016-02-14"
 desc: "Super bitter without a bold IPA flavour. Sadly the awesome name doesn't translate into flavour"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Viking Ölgerd"
 breweryURL: "/brewery/viking-olgerd.html"
 style: "Porter - Baltic"
 score: null
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10437609_10153118667103745_274358326202189719_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=1bf037535537bd9aad438879abc5bdfd&oe=5D39DFD0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10437609_10153118667103745_274358326202189719_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=17d38eadd42c194dfd786e602bd150c1&oe=5D88F9D0
 beer-date: "2015-02-27"
 desc: "Like a crappy lager but black"
 permalink: /beer/:title.html

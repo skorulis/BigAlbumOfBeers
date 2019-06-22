@@ -9,7 +9,7 @@ brewery: "Euphoria"
 breweryURL: "/brewery/euphoria.html"
 style: "Spiced / Herbed Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105984_10155314454198745_8297447283840357481_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=e2610b9a48ee993bc75ae59b8a71b09c&oe=5D72C98E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19105984_10155314454198745_8297447283840357481_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=604847ae7d78420655da8d38067ba049&oe=5DC1E38E
 beer-date: "2017-06-15"
 desc: "Really weird flavour, kind of like a sour gummy worm mixed with beer"
 permalink: /beer/:title.html

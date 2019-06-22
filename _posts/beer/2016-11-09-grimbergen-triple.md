@@ -9,7 +9,7 @@ brewery: "Brouwerij Alken-Maes"
 breweryURL: "/brewery/brouwerij-alken-maes.html"
 style: "Belgian Tripel"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18813417_10155271709743745_6047937939601353507_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=39bcc1bd506e8cbf3683968473083175&oe=5D3CFB8F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18813417_10155271709743745_6047937939601353507_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=e0ebc742d1ba795cd61b1201d84af29d&oe=5D8C158F
 beer-date: "2017-06-02"
 desc: "A fairly light triple but the yeast just seems a bit off"
 permalink: /beer/:title.html

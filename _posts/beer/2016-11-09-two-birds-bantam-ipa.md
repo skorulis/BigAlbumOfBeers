@@ -9,7 +9,7 @@ brewery: "Two Birds Brewing"
 breweryURL: "/brewery/two-birds-brewing.html"
 style: "IPA - Session / India Session Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115580_10153656867073745_1898684720680152438_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=6b7ccb7925257d1085cf33cea3e474b2&oe=5D34F5FA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12115580_10153656867073745_1898684720680152438_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=90b9267946f529f74d4d2a3807ae145c&oe=5D840FFA
 beer-date: "2015-10-17"
 desc: "My biggest disappointment so far from two birds"
 permalink: /beer/:title.html

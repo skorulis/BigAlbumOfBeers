@@ -9,7 +9,7 @@ brewery: "Cervecería de Baja California (Cucapa Brewing Co.)"
 breweryURL: "/brewery/cerveceria-de-baja-california-cucapa-brewing-co.html"
 style: "Brown Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12821335_10153966659288745_8654410515493028710_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=9b9f685a1c5b630be11fbb1300263e06&oe=5D3DEBF3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12821335_10153966659288745_8654410515493028710_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=95f975f1bb21239ff1c55d28101071c2&oe=5D8D05F3
 beer-date: "2016-03-16"
 desc: "It’s not awful but I can’t really get into it"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Schloss Eggenberg"
 breweryURL: "/brewery/schloss-eggenberg.html"
 style: "Märzen"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19060230_10155314457098745_6889790722709430205_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=39b0748bf84fe16649d7808d68a2415e&oe=5D2B86F4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19060230_10155314457098745_6889790722709430205_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=de6e5d9212b865a453d32aaa6a771acc&oe=5D7AA0F4
 beer-date: "2017-06-15"
 desc: "A little malty and not too bitter. Sessionable"
 permalink: /beer/:title.html

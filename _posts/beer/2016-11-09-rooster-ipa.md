@@ -9,7 +9,7 @@ brewery: "Rooster Beers "
 breweryURL: "/brewery/rooster-beers.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27973141_10156021379338745_646657025823746534_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=b3280902ee647b5ca6dbac6a0a4d08cd&oe=5D442CFD
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27973141_10156021379338745_646657025823746534_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=ac56ed18f4c89c4b8d36150e0cd6c6a6&oe=5D9346FD
 beer-date: "2018-02-17"
 desc: "Took a gamble with an IPA on a hot day but it’s well designed for the climate. Low bitterness with citrus hops fits in perfectly with the surrounding"
 permalink: /beer/:title.html

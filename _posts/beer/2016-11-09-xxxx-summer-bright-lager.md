@@ -9,7 +9,7 @@ brewery: "Castlemaine Perkins"
 breweryURL: "/brewery/castlemaine-perkins.html"
 style: "Lager - Pale"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16712037_10154923954508745_227781593129184903_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=12441df300bb0e8199cd311e375446c7&oe=5D3C1188
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16712037_10154923954508745_227781593129184903_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=4a38f54a040940ccf716247c1fec9841&oe=5D8B2B88
 beer-date: "2017-02-11"
 desc: "As it warms up it gets a real wheaty malt flavour. Mostly just a plain lager"
 permalink: /beer/:title.html

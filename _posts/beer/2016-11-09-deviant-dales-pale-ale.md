@@ -9,7 +9,7 @@ brewery: "Oskar Blues Brewery"
 breweryURL: "/brewery/oskar-blues-brewery.html"
 style: "IPA - Imperial / Double"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/526556_10151929072623745_428217529_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=e796c00384f7b222ae8cee8f9ee93538&oe=5D43C818
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/526556_10151929072623745_428217529_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=d883bc3336791927e724515d06ade82c&oe=5D92E218
 beer-date: "2013-09-19"
 desc: "Light for the strength"
 permalink: /beer/:title.html

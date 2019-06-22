@@ -9,7 +9,7 @@ brewery: "Kalnapilio-Tauro Grupe UAB "
 breweryURL: "/brewery/kalnapilio-tauro-grupe-uab.html"
 style: "Lager - Pale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1381183_10152001624088745_284273692_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=00e846067a7ee81c6e34e25740360711&oe=5D348C7F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1381183_10152001624088745_284273692_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=fc4e81972944c41871a96a76d87a99d2&oe=5D83A67F
 beer-date: "2013-10-25"
 desc: "A bit of a hobo taste, but not terrible"
 permalink: /beer/:title.html

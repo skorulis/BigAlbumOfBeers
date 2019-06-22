@@ -9,7 +9,7 @@ brewery: "Wayward Brewing"
 breweryURL: "/brewery/wayward-brewing.html"
 style: "Kölsch"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13240606_10154147274448745_3348024943795201690_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=aecc83c9dfabe1c35c3b15d6e20cecad&oe=5D3FFFAF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13240606_10154147274448745_3348024943795201690_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=8135e79b73ed5913b896714c8d680211&oe=5D8F19AF
 beer-date: "2016-05-24"
 desc: "Great kölsch. Crisp and clean but keeps you coming back"
 permalink: /beer/:title.html

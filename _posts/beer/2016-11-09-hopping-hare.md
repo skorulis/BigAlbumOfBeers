@@ -9,7 +9,7 @@ brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "/brewery/badger-ales-hall-woodhouse.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/399346_10151380245588745_647361323_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=d1b2fbf15442185dc7c9af27e824479c&oe=5D2EBEF3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/399346_10151380245588745_647361323_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=44734a4617544a020025601745f590da&oe=5D7DD8F3
 beer-date: "2012-12-15"
 desc: ""
 permalink: /beer/:title.html

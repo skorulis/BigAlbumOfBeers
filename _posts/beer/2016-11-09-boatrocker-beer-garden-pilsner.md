@@ -9,7 +9,7 @@ brewery: "Boatrocker Brewing Company"
 breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Pilsner - Other"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49069662_10156797311478745_8223175059578028032_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=e5a3b85ceff7bcf23ba9f6a8d61be656&oe=5D34EA4C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49069662_10156797311478745_8223175059578028032_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=6aad3ba9769782c0ec71216218f19ff4&oe=5D84044C
 beer-date: "2018-12-27"
 desc: "One of the better pilsners I’ve had. It’s distinctively a pilsner but mellow enough to not let that get in the way of being a nice summer beer"
 permalink: /beer/:title.html

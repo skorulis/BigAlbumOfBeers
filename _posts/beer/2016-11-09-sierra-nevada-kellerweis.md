@@ -9,7 +9,7 @@ brewery: "Sierra Nevada Brewing Co."
 breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "Hefeweizen"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10411228_10152534305933745_5912326499497887080_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=788556b76e75286805f49d9825c98965&oe=5D2BA00D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10411228_10152534305933745_5912326499497887080_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=151c4780aa793812b8e63a7b9285a0a7&oe=5D7ABA0D
 beer-date: "2014-06-21"
 desc: "A true weisbeer. I don't like it"
 permalink: /beer/:title.html

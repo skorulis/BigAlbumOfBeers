@@ -9,7 +9,7 @@ brewery: "Anchor Brewing Company"
 breweryURL: "/brewery/anchor-brewing-company.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/75534_10153966650468745_295000144566915941_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=bb8913494992e3b7a96a69f1613ddda3&oe=5D44FC24
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/75534_10153966650468745_295000144566915941_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=7aab6f83ff50f223f289ad0dfd2e9ef1&oe=5DBBA324
 beer-date: "2016-03-16"
 desc: "I can’t enjoy this while eating. The bitterness difference is just too large for my taste buds to cope. Outside of that the bitterness is still a little too strong for the hop aroma"
 permalink: /beer/:title.html

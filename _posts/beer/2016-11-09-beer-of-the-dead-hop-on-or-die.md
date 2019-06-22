@@ -9,7 +9,7 @@ brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
 breweryURL: "/brewery/cerveceria-mexicana-s-de-r-l-de-c-v-tecate.html"
 style: "IPA - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16938861_10154984568403745_8421328149822001928_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=487d730e8e54db58bcf8c232752b4c3e&oe=5D29B7BA
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16938861_10154984568403745_8421328149822001928_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=2857e8d8af4842148d1b45ec46832b35&oe=5D78D1BA
 beer-date: "2017-03-03"
 desc: "I don’t think my cat isn’t too happy about being used as a prop. There’s a nice warmingness but it goes down pretty easy. No great hoppyness but it’s well balanced"
 permalink: /beer/:title.html

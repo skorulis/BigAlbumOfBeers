@@ -9,7 +9,7 @@ brewery: "John Boston"
 breweryURL: "/brewery/john-boston.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10690124_10153055770718745_5622367894684528293_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=9c6fe97a5ffe53429ecdb762a6811cde&oe=5D3DC9E0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10690124_10153055770718745_5622367894684528293_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=135d7736cc4ee50401924a5ce82fff0b&oe=5D8CE3E0
 beer-date: "2015-01-29"
 desc: "I do like an easy drinking golden ale"
 permalink: /beer/:title.html

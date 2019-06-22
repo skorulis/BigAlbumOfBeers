@@ -9,7 +9,7 @@ brewery: "Panhead Custom Ales"
 breweryURL: "/brewery/panhead-custom-ales.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28166340_10156021376403745_3288265835735801855_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=5acbb298919b502ad8a023647b700a42&oe=5D3DC024
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/28166340_10156021376403745_3288265835735801855_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=1563061c1ae8d9b3d592e473f83437a5&oe=5D8CDA24
 beer-date: "2018-02-17"
 desc: "Just plain average. It’s got a little hoppiness but otherwise it would be a lager"
 permalink: /beer/:title.html

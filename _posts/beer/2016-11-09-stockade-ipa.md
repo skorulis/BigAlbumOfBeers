@@ -9,7 +9,7 @@ brewery: "Stockade Brew Co"
 breweryURL: "/brewery/stockade-brew-co.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10882109_10153055725553745_9030008793027639075_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=dc78669b6410a3ed385367aa39401479&oe=5D3E9CCC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10882109_10153055725553745_9030008793027639075_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=a9dbf3716292e3ec68965c54f95aff06&oe=5D8DB6CC
 beer-date: "2015-01-29"
 desc: "A nice balanced IPA"
 permalink: /beer/:title.html

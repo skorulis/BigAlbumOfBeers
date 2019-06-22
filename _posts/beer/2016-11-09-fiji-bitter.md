@@ -9,7 +9,7 @@ brewery: "Paradise Beverages"
 breweryURL: "/brewery/paradise-beverages.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11698631_10153438034358745_1791286718120294864_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=6f2343d7c55f3c5cfa219876232e28d2&oe=5D3A2414
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11698631_10153438034358745_1791286718120294864_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=f23f75e9371f19190a091df9ba8292a5&oe=5D893E14
 beer-date: "2015-07-10"
 desc: "Has a slight tang to it that you don’t get with Australian bitters"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Wold Top Brewery "
 breweryURL: "/brewery/wold-top-brewery.html"
 style: "Gluten-Free"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/555458_10151428533018745_1322698428_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=fa8a7a933fc99cf885c45ae16df14ff3&oe=5D3DE18C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/555458_10151428533018745_1322698428_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=252715aa887d8e8ab2d37fcd4de88340&oe=5D8CFB8C
 beer-date: "2013-01-13"
 desc: "Too harsh"
 permalink: /beer/:title.html

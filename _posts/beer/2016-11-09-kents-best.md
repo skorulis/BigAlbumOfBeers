@@ -9,7 +9,7 @@ brewery: "Shepherd Neame"
 breweryURL: "/brewery/shepherd-neame.html"
 style: "English Bitter"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/539055_10151461672828745_520276173_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=5adeeff110b99d79b6266b9f0cbdda0a&oe=5D2B624A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/539055_10151461672828745_520276173_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=efb96d6a5ad86ac8a327ebbead2032d5&oe=5D7A7C4A
 beer-date: "2013-02-01"
 desc: "Would hate to see the worst"
 permalink: /beer/:title.html

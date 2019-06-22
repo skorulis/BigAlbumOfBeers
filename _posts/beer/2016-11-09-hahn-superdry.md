@@ -9,7 +9,7 @@ brewery: "Hahn Brewing Co. Pty Ltd"
 breweryURL: "/brewery/hahn-brewing-co-pty-ltd.html"
 style: "Lager - North American Adjunct"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/602093_10151563947313745_1098411203_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=7dc008861b38008c95aaa418db909680&oe=5D2B5E79
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/602093_10151563947313745_1098411203_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=a433b0803f743f43322855cb431b5b01&oe=5D7A7879
 beer-date: "2013-03-09"
 desc: "Decent"
 permalink: /beer/:title.html

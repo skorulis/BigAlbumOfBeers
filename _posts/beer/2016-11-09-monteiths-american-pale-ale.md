@@ -9,7 +9,7 @@ brewery: "Monteith's Brewing Co. "
 breweryURL: "/brewery/monteiths-brewing-co.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22311_10153268299368745_777193479112346497_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=45a300a7d8386f8e99e7a747e09ceb7f&oe=5D2C2972
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22311_10153268299368745_777193479112346497_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=68b8c416611f2bf274672045ddb2eb8b&oe=5D7B4372
 beer-date: "2015-05-01"
 desc: "Was hoping for a hoppier taste. More of a pale ale for getting smashed"
 permalink: /beer/:title.html

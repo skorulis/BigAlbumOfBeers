@@ -9,7 +9,7 @@ brewery: "Two Metre Tall"
 breweryURL: "/brewery/two-metre-tall.html"
 style: "Sour - Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13221636_10154147277423745_6025488422010352804_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=1072e0685ff1d42f21396a539e8d0837&oe=5D2B2888
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13221636_10154147277423745_6025488422010352804_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=18953590e03c94356341a108f6ad99eb&oe=5D7A4288
 beer-date: "2016-05-24"
 desc: "Only slightly sour and it all comes together well. It's not a style that I'm used to but I do enjoy it"
 permalink: /beer/:title.html

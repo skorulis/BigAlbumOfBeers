@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45472384_10156673534688745_8615633125088690176_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=188cda7db81d457095f3bbe2f72730dc&oe=5D76D871
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45472384_10156673534688745_8615633125088690176_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=ce57fd171719f74af2085fc39a084c3d&oe=5DC5F271
 beer-date: "2018-11-05"
 desc: "Very malty and pretty easy to drink"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "All Hands Brewing House"
 breweryURL: "/brewery/all-hands-brewing-house.html"
 style: "Scottish Ale"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34368021_10156301083158745_3443564517185814528_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=086c95b4d37271873bd11a993374c10e&oe=5D399F86
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34368021_10156301083158745_3443564517185814528_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=3ada5711278a3fb69980216f0ec2f24a&oe=5D88B986
 beer-date: "2018-06-02"
 desc: "Well rounded ale. High in booze but low in flavour. Matches well with salty food"
 permalink: /beer/:title.html

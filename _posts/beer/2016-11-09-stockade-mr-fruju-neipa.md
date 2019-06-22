@@ -9,7 +9,7 @@ brewery: "Stockade Brew Co"
 breweryURL: "/brewery/stockade-brew-co.html"
 style: "IPA - New England"
 score: 4.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49371685_10156797311883745_5487023705089376256_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=4c75cc935dbee89e0d6fbd1ad4f217bc&oe=5D6FE8A7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49371685_10156797311883745_5487023705089376256_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=f07b0c4f64aa07ebb1d38635e6122056&oe=5DBF02A7
 beer-date: "2018-12-27"
 desc: "The head on this looks like dish soap, probably because the beer is flat. Tastes a bit like dirty dishes as well. Gets a bit better as it goes down but never quite good"
 permalink: /beer/:title.html

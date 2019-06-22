@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Witbier"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43210586_10156603265678745_1194423764998160384_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=6790f79968c3d9e6e28b41c7a8d2ae73&oe=5D35C3B7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43210586_10156603265678745_1194423764998160384_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=05871430cfb3a71bfb6809fbe9b41f21&oe=5D84DDB7
 beer-date: "2018-10-05"
 desc: "Not much tea but a perfectly balanced wit beer. Bravo rocks"
 permalink: /beer/:title.html

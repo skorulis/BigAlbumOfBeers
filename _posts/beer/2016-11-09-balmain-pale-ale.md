@@ -9,7 +9,7 @@ brewery: "Balmain Brewing Company"
 breweryURL: "/brewery/balmain-brewing-company.html"
 style: "Pale Ale - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11173400_10153268295048745_1794514503671401328_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=0e3df9bf2632abe5d543b904cabf23e9&oe=5D3FB79E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11173400_10153268295048745_1794514503671401328_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=4e5379294df62126885fbd9868cde327&oe=5D8ED19E
 beer-date: "2015-05-01"
 desc: "Mmm, pale ale"
 permalink: /beer/:title.html

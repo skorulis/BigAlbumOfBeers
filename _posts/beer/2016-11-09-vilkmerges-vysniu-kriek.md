@@ -9,7 +9,7 @@ brewery: "Vilkmerges Alus"
 breweryURL: "/brewery/vilkmerges-alus.html"
 style: "Fruit Beer"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12116003_10153656865943745_8818428390735256762_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=e337143285023d6a57bc60dcf873665b&oe=5D75471E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12116003_10153656865943745_8818428390735256762_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=8f23fcf53447aedbd2b2d79e6e11cb9f&oe=5DC4611E
 beer-date: "2015-10-17"
 desc: "A cherry beer. A little bit too see to drink much but nice in small doses"
 permalink: /beer/:title.html

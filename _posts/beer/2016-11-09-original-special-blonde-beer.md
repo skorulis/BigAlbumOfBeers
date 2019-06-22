@@ -9,7 +9,7 @@ brewery: "Bavaria Brouwerij"
 breweryURL: "/brewery/bavaria-brouwerij.html"
 style: "Lager - Euro Strong"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12079418_10153656865038745_406494349310437104_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=ec2cfb14faaccfff14ba988a62163cc7&oe=5D371C26
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12079418_10153656865038745_406494349310437104_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=db9a577a9e87c3e55de3ed209a7ea471&oe=5D863626
 beer-date: "2015-10-17"
 desc: "Super strong, comes in a giant can and tastes better than normal lager. An all round winner"
 permalink: /beer/:title.html

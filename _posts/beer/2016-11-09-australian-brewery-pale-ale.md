@@ -9,7 +9,7 @@ brewery: "The Australian Brewery"
 breweryURL: "/brewery/the-australian-brewery.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10341507_10152425240228745_8265904163887562785_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=c29952408d063cf03b909f6ac4ab4aca&oe=5D35E23F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10341507_10152425240228745_8265904163887562785_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=f8da053082e8b43ca82499b1498b7b2a&oe=5D84FC3F
 beer-date: "2014-05-03"
 desc: "A slightly bitter pale ale"
 permalink: /beer/:title.html

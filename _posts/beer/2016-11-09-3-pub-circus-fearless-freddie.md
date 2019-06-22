@@ -9,7 +9,7 @@ brewery: "3 Pub Circus"
 breweryURL: "/brewery/3-pub-circus.html"
 style: "IPA - Session / India Session Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43188568_10156603265868745_1509798974410719232_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=82d52476693a18120d610d2c6bf74f03&oe=5D6F7E8E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43188568_10156603265868745_1509798974410719232_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=f8d0d2b80dfe20e87cb3591e4e0caf60&oe=5DBE988E
 beer-date: "2018-10-05"
 desc: "Slightly tangy which is nice but has a harshness"
 permalink: /beer/:title.html

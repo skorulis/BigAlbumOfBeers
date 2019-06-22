@@ -9,7 +9,7 @@ brewery: "Knee Deep Brewing Company"
 breweryURL: "/brewery/knee-deep-brewing-company.html"
 style: "Stout - Milk / Sweet"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22851848_10155717515718745_8019864793702747878_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=5f753264910f9423c5f38b1fe7bcbd0b&oe=5D2A5A98
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22851848_10155717515718745_8019864793702747878_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=72e7345b489dda9fb2d49202b74b0dad&oe=5D797498
 beer-date: "2017-10-28"
 desc: "Way more nut than chocolate. Nicely creamy but still easy to drink"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Wychwood Brewery"
 breweryURL: "/brewery/wychwood-brewery.html"
 style: "English Bitter"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/431886_10151649178733745_149102435_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=f3bd83975a3e7fd28643ff45a6f9e6a1&oe=5D2A59AE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/431886_10151649178733745_149102435_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=9851ac210c4d177738af35930f7f7dc7&oe=5D7973AE
 beer-date: "2013-04-27"
 desc: "The beer to slay a mighty thirst"
 permalink: /beer/:title.html

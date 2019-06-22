@@ -9,7 +9,7 @@ brewery: "Coopers Brewery"
 breweryURL: "/brewery/coopers-brewery.html"
 style: "Pale Ale - Australian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/549950_10151461681523745_1486815544_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=71c87cfb0fabc359305816b96f23e3aa&oe=5D7449C6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/549950_10151461681523745_1486815544_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=35666622af662d887cc1bc060a2b5779&oe=5DC363C6
 beer-date: "2013-02-01"
 desc: "Tasty"
 permalink: /beer/:title.html

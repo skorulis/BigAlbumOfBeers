@@ -9,7 +9,7 @@ brewery: "The Kernel Brewery"
 breweryURL: "/brewery/the-kernel-brewery.html"
 style: "Pale Ale - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18893368_10155271708378745_1082022449434926034_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=51a76ddd361f4bd8b4fcb6537b0d2301&oe=5D6FA586
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18893368_10155271708378745_1082022449434926034_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=82a3d4ca4ec4271fdd1d553d161f6335&oe=5DBEBF86
 beer-date: "2017-06-02"
 desc: "Another fairly ugly beer, which may be the result of it being badly stored. On the nose it’s mostly citrus with a bit of spice. Full of flavour without being too bitter. Quality all round"
 permalink: /beer/:title.html

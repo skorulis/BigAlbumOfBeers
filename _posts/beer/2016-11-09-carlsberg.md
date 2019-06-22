@@ -9,7 +9,7 @@ brewery: "Carlsberg Group"
 breweryURL: "/brewery/carlsberg-group.html"
 style: "Lager - Euro"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/536444_10151283326338745_1988442948_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=24153bc3f0057878369607fb9d7be301&oe=5D410D93
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/536444_10151283326338745_1988442948_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=4427b286f1db76154bc07e1dd7a2307b&oe=5D902793
 beer-date: "2012-10-13"
 desc: "Standard British pub beer"
 permalink: /beer/:title.html

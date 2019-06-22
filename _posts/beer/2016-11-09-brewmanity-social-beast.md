@@ -9,7 +9,7 @@ brewery: "Brewmanity"
 breweryURL: "/brewery/brewmanity.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57564662_10157070305088745_5425042005543616512_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=7d297195a89b52bf7739a5404a75b261&oe=5D6DCE22
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57564662_10157070305088745_5425042005543616512_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=54fc002602616156bfc36081b6e3b9a6&oe=5DBCE822
 beer-date: "2019-04-22"
 desc: "Fairly dry for a pale ale. No real hops coming through"
 permalink: /beer/:title.html

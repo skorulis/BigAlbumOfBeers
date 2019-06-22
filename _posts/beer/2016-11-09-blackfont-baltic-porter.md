@@ -9,7 +9,7 @@ brewery: "BlackFont Brewhouse"
 breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "Porter - Baltic"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18671291_10155251933738745_3244052670097760708_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=598c5bf8816e893c1b19cfc115622c60&oe=5D374621
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18671291_10155251933738745_3244052670097760708_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=adedc8b0623bc94da3138e7d7729854a&oe=5D866021
 beer-date: "2017-05-27"
 desc: "Creamy for a Baltic and smooth for the strength. Fairly mild in flavour but really easy to drink"
 permalink: /beer/:title.html

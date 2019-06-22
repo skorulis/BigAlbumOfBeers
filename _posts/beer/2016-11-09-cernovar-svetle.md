@@ -9,7 +9,7 @@ brewery: "Tradiční pivovar v Rakovníku"
 breweryURL: "/brewery/tradicni-pivovar-v-rakovniku.html"
 style: "Pilsner - Czech"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11403435_10153438035523745_1440324413921244933_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=655717bc6b4ca480ea66d284e6194ad6&oe=5D38BD0F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11403435_10153438035523745_1440324413921244933_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=21c861676b954257c0a5c8a331f2d410&oe=5D87D70F
 beer-date: "2015-07-10"
 desc: "A bit too malty"
 permalink: /beer/:title.html

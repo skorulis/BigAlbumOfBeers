@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "IPA - Imperial / Double"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/579366_10151602298783745_1455893061_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=ae62c6aae5f87f3caba3c6d51dc4c00b&oe=5D3CD726
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/579366_10151602298783745_1455893061_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=101af5e4d169deba32a6c0ad2705bbb6&oe=5D8BF126
 beer-date: "2013-03-28"
 desc: "A mild IPA for the booze content"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Oakham Ales"
 breweryURL: "/brewery/oakham-ales.html"
 style: "Pale Ale - English"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238244_10151929068473745_105586790_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=3688fbcae4b4b622eb85a9efd9661e0a&oe=5D3C754E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1238244_10151929068473745_105586790_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=5c2bbd97d967832ca09311d27d14aad3&oe=5D8B8F4E
 beer-date: "2013-09-19"
 desc: "Taught me the meaning of pugnacious"
 permalink: /beer/:title.html

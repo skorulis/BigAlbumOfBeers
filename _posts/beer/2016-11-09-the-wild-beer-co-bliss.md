@@ -9,7 +9,7 @@ brewery: "The Wild Beer Co"
 breweryURL: "/brewery/the-wild-beer-co.html"
 style: "Saison / Farmhouse Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1001179_10151798797773745_1783696922_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=7a7384086acd23bf3956f068dfa99831&oe=5D716BF3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1001179_10151798797773745_1783696922_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=5d58f9411d94a2528899f00abab2407e&oe=5DC085F3
 beer-date: "2013-07-19"
 desc: "Weird as hell. Is that ginger ?"
 permalink: /beer/:title.html

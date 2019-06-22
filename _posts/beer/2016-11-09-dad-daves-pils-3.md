@@ -9,7 +9,7 @@ brewery: "Dad & Dave's Brewing"
 breweryURL: "/brewery/dad-daves-brewing.html"
 style: "Pilsner - Czech"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13254038_10154147276793745_7322916825370233688_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=81ec0b69ae6d8e88c5843807d0ceaa46&oe=5D72105C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13254038_10154147276793745_7322916825370233688_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=9aaeb152495940c49f50eb3199192307&oe=5DC12A5C
 beer-date: "2016-05-24"
 desc: "Pretty good pilsner"
 permalink: /beer/:title.html

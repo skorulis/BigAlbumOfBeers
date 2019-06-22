@@ -9,7 +9,7 @@ brewery: "Redhook Brewery"
 breweryURL: "/brewery/redhook-brewery.html"
 style: "Pilsner - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069935_10151798817208745_1577449594_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=0da6a8ec0991a77c149bcf28b488f18d&oe=5D34DADB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069935_10151798817208745_1577449594_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=94f696d496c18454b0e123353e3580f7&oe=5D83F4DB
 beer-date: "2013-07-19"
 desc: "A mild flavour"
 permalink: /beer/:title.html

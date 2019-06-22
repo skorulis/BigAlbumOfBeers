@@ -9,7 +9,7 @@ brewery: "Brouwerij der Trappisten van Westmalle"
 breweryURL: "/brewery/brouwerij-der-trappisten-van-westmalle.html"
 style: "Belgian Tripel"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195662_10154858221528745_3151044074983022981_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=6a73e497b155f3331dbb6de514e7bb9e&oe=5D71954D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195662_10154858221528745_3151044074983022981_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=f91da8c2ef7fbec9cdc7fdbe61827796&oe=5DC0AF4D
 beer-date: "2017-01-21"
 desc: "Pretty good tipple this triple is. Easy drinking, nice and rounded. Slight spiciness. All the things I love"
 permalink: /beer/:title.html

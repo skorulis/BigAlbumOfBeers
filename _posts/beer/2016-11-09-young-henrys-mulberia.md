@@ -9,7 +9,7 @@ brewery: "Young Henrys Brewing Company"
 breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "Sour - Berliner Weisse"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16864930_10154984572673745_8182100214027350282_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=5f5b7eb05a8f050631bd49a441933553&oe=5D425AED
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16864930_10154984572673745_8182100214027350282_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=725c882ad700651a62b4d0a64707b18a&oe=5D9174ED
 beer-date: "2017-03-03"
 desc: "Interesting colour, I expected it to be a little more sour. It's mild and easy drinking but sits in a place that's not quite my thing"
 permalink: /beer/:title.html

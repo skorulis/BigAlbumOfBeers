@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "IPA - New England"
 score: 9.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26734383_10155922803783745_6561848804107165372_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=f6d8230f3ae3debb262be6368ba4db19&oe=5D2F60E2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26734383_10155922803783745_6561848804107165372_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=0584ab6800dfe3eddd6ea1ebb48c9121&oe=5D7E7AE2
 beer-date: "2018-01-13"
 desc: "Great example of a NEIPA. Perfect haze, great fruit flavours, lots of aroma. Could have a lot of these"
 permalink: /beer/:title.html

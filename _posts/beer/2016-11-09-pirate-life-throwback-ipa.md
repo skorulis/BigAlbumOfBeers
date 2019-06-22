@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "IPA - Session / India Session Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10169445_10153966651248745_4831098313362630542_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=a5cfbe7ca8b5e7bd9e6a46322e1e13b1&oe=5D29A011
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10169445_10153966651248745_4831098313362630542_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=1e862c28c9e0150e441ee6c02907cf2c&oe=5D78BA11
 beer-date: "2016-03-16"
 desc: "Great smell but a bit lacking on flavour. A nice session IPA"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Little Creatures Brewing"
 breweryURL: "/brewery/little-creatures-brewing.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17298_10153225353618745_5211021832992114282_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=dc721dac8509cdae1de9af278fa5a0c9&oe=5D395804
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17298_10153225353618745_5211021832992114282_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=45a5471692da0ef3d1aaaf34a58fd073&oe=5D887204
 beer-date: "2015-04-13"
 desc: "Little creatures is like a baseline for a type of drink"
 permalink: /beer/:title.html

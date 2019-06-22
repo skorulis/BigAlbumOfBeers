@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-dainton-matchstyx.md
+title: Dainton Matchstyx
+category: beer
+untappd: "https://untappd.com/b/dainton-family-brewery-matchstyx/3130581"
+country: "Australia"
+brewery: "Dainton Family Brewery"
+breweryURL: "/brewery/dainton-family-brewery.html"
+style: "Stout - Other"
+score: .
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64992584_10157223730968745_6930031836353527808_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=8ba4eaf3081da130fa155161a788c36c&oe=5D8729D0
+beer-date: "2019-06-22"
+desc: "Smells like vanilla and chocolate and so rich. But then you come to the taste and it just blows you away. You get both the chilli and the smoke are there but perfectly subtle so that they add to the beer without overwhelming it.  Leaves a lovely sense of warming inside and a beautiful sweetness on the palette/10"
+permalink: /beer/:title.html
+---

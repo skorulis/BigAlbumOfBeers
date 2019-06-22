@@ -9,7 +9,7 @@ brewery: "Greene King"
 breweryURL: "/brewery/greene-king.html"
 style: "Golden Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/521840_10151396304393745_1554011177_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=e77f961c43cd2df8de51157630f4935a&oe=5D74C992
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/521840_10151396304393745_1554011177_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=dcd113eafe5bd8fc40c5637bf71cbd2e&oe=5DC3E392
 beer-date: "2012-12-25"
 desc: "A little bit too bitter"
 permalink: /beer/:title.html

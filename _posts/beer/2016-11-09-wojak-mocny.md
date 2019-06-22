@@ -9,7 +9,7 @@ brewery: "Kompania Piwowarska"
 breweryURL: "/brewery/kompania-piwowarska.html"
 style: "Lager - Euro Strong"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/321669_10151649177583745_849913582_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=f8ca09b42adfec96a71325fd697b6265&oe=5D7250EB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/321669_10151649177583745_849913582_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=175d82b6132c4a90e3f146290b25ec8b&oe=5DC16AEB
 beer-date: "2013-04-27"
 desc: "Smooth and mild"
 permalink: /beer/:title.html

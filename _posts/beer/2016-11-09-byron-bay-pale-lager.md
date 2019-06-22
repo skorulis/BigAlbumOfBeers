@@ -9,7 +9,7 @@ brewery: "Byron Bay Brewery"
 breweryURL: "/brewery/byron-bay-brewery.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17811_10153118627228745_8196338202734334456_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=7f0b996e7f93b3276b90185cabbcdc39&oe=5D2EF899
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17811_10153118627228745_8196338202734334456_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=1b36b44f29d093ace51499f88641fb61&oe=5D7E1299
 beer-date: "2015-02-27"
 desc: "Plain and boring"
 permalink: /beer/:title.html

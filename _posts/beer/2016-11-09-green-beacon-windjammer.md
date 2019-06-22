@@ -9,7 +9,7 @@ brewery: "Green Beacon Brewing Company"
 breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22852959_10155717526698745_5900859188897524259_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=51d96e43af47d4c660998e3cd3f81878&oe=5D33882C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22852959_10155717526698745_5900859188897524259_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=0d7fe946ab2bf1d80fb38c8468264c44&oe=5D82A22C
 beer-date: "2017-10-28"
 desc: "Solid IPA. Nice balance between bitterness and flavour. It’s not exciting but a perfect baseline "
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Ballast Point Brewing Company"
 breweryURL: "/brewery/ballast-point-brewing-company.html"
 style: "Pale Wheat Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26804527_10155922802123745_510329786509487109_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=688e083412e53e4c79e3b08761a5b0a5&oe=5D409059
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26804527_10155922802123745_510329786509487109_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=36688fb33d7332dc1afe17d70e71b005&oe=5D8FAA59
 beer-date: "2018-01-13"
 desc: "Cherry is much milder than expected which I really like, just a hint at the back"
 permalink: /beer/:title.html

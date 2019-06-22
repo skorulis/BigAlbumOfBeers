@@ -9,7 +9,7 @@ brewery: "ALDI Stores UK"
 breweryURL: "/brewery/aldi-stores-uk.html"
 style: "IPA - American"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18838996_10155271708393745_133358324825095790_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=8770db076f9d9e0c6d99b080cac4f569&oe=5D3DB47C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18838996_10155271708393745_133358324825095790_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=a5cfdff755228599bd9320e2a9934c63&oe=5D8CCE7C
 beer-date: "2017-06-02"
 desc: "Looks and tastes nothing like an IPA. It somehow manages to be malt driven rather than hop driven. It’s not a bad beer but a complete fail for the style"
 permalink: /beer/:title.html

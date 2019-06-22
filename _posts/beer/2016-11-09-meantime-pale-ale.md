@@ -9,7 +9,7 @@ brewery: "Meantime Brewing Company"
 breweryURL: "/brewery/meantime-brewing-company.html"
 style: "Pale Ale - English"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18814062_10155271709063745_8770067347266766180_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=64faf4526ffaae4b43166cf563073ee1&oe=5D403E7D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18814062_10155271709063745_8770067347266766180_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=929a4d8dbd75f3a52ed6a9204d5825ea&oe=5D8F587D
 beer-date: "2017-06-02"
 desc: "Really nice sweetness balanced with the hops. But seems like it is more of an amber than a pale"
 permalink: /beer/:title.html

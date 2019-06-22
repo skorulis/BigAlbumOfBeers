@@ -9,7 +9,7 @@ brewery: "Murray's Brewing Co"
 breweryURL: "/brewery/murrays-brewing-co.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45498070_10156673534493745_202675795846496256_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=949fcb2bd639133f87fa63f45853c8ce&oe=5D72ABD0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45498070_10156673534493745_202675795846496256_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=695bc048b966c943af13fea6d701afbf&oe=5DC1C5D0
 beer-date: "2018-11-05"
 desc: "Starts off bitter but rounds out with some really deep dank hops"
 permalink: /beer/:title.html

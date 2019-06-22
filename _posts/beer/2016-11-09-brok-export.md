@@ -9,7 +9,7 @@ brewery: "Browar w Koszalinie (Van Pur)"
 breweryURL: "/brewery/browar-w-koszalinie-van-pur.html"
 style: "Lager - Euro"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11150982_10153225352773745_2645273460851977484_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=2ef8889feae9c777573bfb206383b90c&oe=5D432E9F
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11150982_10153225352773745_2645273460851977484_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=e90a3f4b3d67cce6ca527ba49ba840ee&oe=5D92489F
 beer-date: "2015-04-13"
 desc: "Too malty. One of the worse polish beers I’ve had"
 permalink: /beer/:title.html

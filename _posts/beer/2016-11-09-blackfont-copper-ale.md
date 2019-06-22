@@ -9,7 +9,7 @@ brewery: "BlackFont Brewhouse"
 breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "English Mild Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715379_10153890419508745_5707512389210281014_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=e48eecff4441fcdc0551951d9e44484a&oe=5D70DFC2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12715379_10153890419508745_5707512389210281014_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=2c27b901f468bcc34d6ec583b01b5945&oe=5DBFF9C2
 beer-date: "2016-02-14"
 desc: "The final sip of this beer made me sad that it was gone"
 permalink: /beer/:title.html
