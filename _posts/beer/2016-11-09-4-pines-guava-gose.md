@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Sour - Gose"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16298686_10154888757033745_9111929559211558177_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=3f36300a253d56ca09bb27a2fcabe7bb&oe=5D9238A7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16298686_10154888757033745_9111929559211558177_n.jpg?_nc_cat=102&_nc_oc=AQn0YHllLodbXnXVsNBIHc3Zgv8YyBJvKPhQRVOwbtea1-Mru0bTmP_c5khb3C0XAH0&_nc_ht=scontent.xx&oh=4eb24ce73358ccdf3b16bf918bf2be99&oe=5DB9C5A7
 beer-date: "2017-01-30"
 desc: "Perfectly on par with what I expect. Salty and sour with some lingering flavour.  Not a great refreshing summer beer but good as a slow drink"
 permalink: /beer/:title.html

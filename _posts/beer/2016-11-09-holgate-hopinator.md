@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "IPA - Imperial / Double"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/577380_10152293133158745_1128439575_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=006faca2f5da0cb98571be86f7bbbe37&oe=5D83BCB5
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/577380_10152293133158745_1128439575_n.jpg?_nc_cat=102&_nc_oc=AQnmsPy3seCOcOjWWu5qVivSoiq4X8CDVUB-QIssCvCirfxczJ5i4OgAASiZLQfbcWM&_nc_ht=scontent.xx&oh=1b054135bf1ebb70587f3240ddb3ee44&oe=5DAB49B5
 beer-date: "2014-03-01"
 desc: "Hoppy as promised"
 permalink: /beer/:title.html

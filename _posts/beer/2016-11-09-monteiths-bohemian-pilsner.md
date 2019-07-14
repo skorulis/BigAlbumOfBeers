@@ -9,7 +9,7 @@ brewery: "Monteith's Brewing Co. "
 breweryURL: "/brewery/monteiths-brewing-co.html"
 style: "Pilsner - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10462530_10152534290193745_4497356221968859858_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=e6e1944ac423da0b6a6bcecba3a5e65a&oe=5DC11E2A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10462530_10152534290193745_4497356221968859858_n.jpg?_nc_cat=110&_nc_oc=AQlD9INxuf5XlcLHljPoqi7TKeI1yZTZ-KfUIfOb3pqB514I2qZJHrWMaLQzh1v4_Iw&_nc_ht=scontent.xx&oh=38c9b84a02b32ab27563fb52dcb8160c&oe=5DC11E2A
 beer-date: "2014-06-21"
 desc: "Smooth with a nice finish"
 permalink: /beer/:title.html

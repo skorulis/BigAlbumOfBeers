@@ -9,7 +9,7 @@ brewery: "Brouwerij De Sint-Sixtusabdij van Westvleteren"
 breweryURL: "/brewery/brouwerij-de-sint-sixtusabdij-van-westvleteren.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1625546_10153966650393745_441647493230179601_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=0f6339804f944d99f1ae323b82797637&oe=5D7B77A9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1625546_10153966650393745_441647493230179601_n.jpg?_nc_cat=103&_nc_oc=AQlD1PIVrIhCO0yYvfUVOxfwW9WHl537oG12TfxYXmdGaqqwM2zgInuBTGYH85p45ok&_nc_ht=scontent.xx&oh=0bc0717cb47623c3eabdd4f9a792aea7&oe=5DA304A9
 beer-date: "2016-03-16"
 desc: "A lot lighter on flavour than I expected but then the bottle I have is older than it should be. That said it is perfectly balanced down to the last drop and there’s a hint of some deliciousness there. Not worth the price you pay in this country but I would love to get a fresh case of this"
 permalink: /beer/:title.html

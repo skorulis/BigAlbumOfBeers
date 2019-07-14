@@ -9,7 +9,7 @@ brewery: "Wrong Side Brewing"
 breweryURL: "/brewery/wrong-side-brewing.html"
 style: "Pale Ale - Australian"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17861851_10155111575463745_8310736407819450225_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=4c44a25e244adde7cfdf2da3cb012bcf&oe=5D8288E2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17861851_10155111575463745_8310736407819450225_n.jpg?_nc_cat=106&_nc_oc=AQkBUT4E4b3xLe6q6lfGQ0UXF74hJZthSOcSkNK7qK58ytd3qR1VXUv6UXwnfqscizQ&_nc_ht=scontent.xx&oh=53e5f98f1b9ea1981a45c8df814923e9&oe=5DAA15E2
 beer-date: "2017-04-11"
 desc: "Definitely has a raspberry flavour in there but fairly mild otherwise. Not sour like you might expect from a fruit beer. Interesting concept but could do with some hops to balance the sweetness"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "HiteJinro"
 breweryURL: "/brewery/hitejinro.html"
 style: "Lager - North American Adjunct"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14344819_10154470803348745_8611392715725012151_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=9d92d3639916f7a907bee1ccfc15dcc0&oe=5D7CD5B8
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14344819_10154470803348745_8611392715725012151_n.jpg?_nc_cat=100&_nc_oc=AQkVS6g-NGOi1qa8vlYNC8u6tWy0gVoCtH6NO9GkM-DxmcBOpuprJ7y0V2cOiD_3Nzw&_nc_ht=scontent.xx&oh=8155c13d88c21757a224c3b76ea4ac9f&oe=5DA462B8
 beer-date: "2016-09-21"
 desc: "Not as cheap tasting as I expected. Low bitterness and a sweet malt profile make it fairly drinkable"
 permalink: /beer/:title.html

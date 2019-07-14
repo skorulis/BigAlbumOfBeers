@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "Pale Ale - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16832120_10154957442783745_4075727791001980618_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=3f4f651bf4b53d7ed60ddaa37c70f606&oe=5D889595
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16832120_10154957442783745_4075727791001980618_n.jpg?_nc_cat=104&_nc_oc=AQmTmsWozleaCiZYA4x3RgKSCwyT5Ir-Lax8lk5OFx4YNRiyntqJgF12S2nKK91fvdY&_nc_ht=scontent.xx&oh=2161c772fecb8b6eddf24f972460aeb6&oe=5DB02295
 beer-date: "2017-02-22"
 desc: "A tad harsh but a decent floral aroma. Just the right level of flavour for a pale ale to be interesting and easily sessionable. Sadly I only have the 1"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Stone & Wood"
 breweryURL: "/brewery/stone-wood.html"
 style: "Kellerbier / Zwickelbier"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10408527_10152534301523745_6253327536631057603_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=286617350c5182e9e5737ab9779d3182&oe=5D8EEC7B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10408527_10152534301523745_6253327536631057603_n.jpg?_nc_cat=106&_nc_oc=AQmaWpHQY67_47LxHT8InbflssS6tCUSyPm_5LYDIFdYtp6Kx8IRLjYUKIrHDbqbWbQ&_nc_ht=scontent.xx&oh=3af0b7ca9061da8179d41bea8570a45a&oe=5DB6797B
 beer-date: "2014-06-21"
 desc: "Such a letdown after the pale ale"
 permalink: /beer/:title.html

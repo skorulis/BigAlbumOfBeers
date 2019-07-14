@@ -9,7 +9,7 @@ brewery: "Williams Brothers Brewing Co."
 breweryURL: "/brewery/williams-brothers-brewing-co.html"
 style: "Stout - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/75028_10151563841203745_1533936884_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=b5aacdffdda80bca3ceea632476edd08&oe=5DC64480
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/75028_10151563841203745_1533936884_n.jpg?_nc_cat=105&_nc_oc=AQnM6nDK9TWHghyDfW-edNMD7a6w3w1vdzHJ7Lb2FYBd-Sp8Qp4C6HA1H6ASVOImtw8&_nc_ht=scontent.xx&oh=4f1409e193d80c630025f5fd9d1939b2&oe=5DEDD180
 beer-date: "2013-03-09"
 desc: "An average stout"
 permalink: /beer/:title.html

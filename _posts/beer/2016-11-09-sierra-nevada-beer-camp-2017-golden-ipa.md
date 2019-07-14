@@ -9,7 +9,7 @@ brewery: "Sierra Nevada Brewing Co."
 breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20638309_10155494017953745_2425083790582263541_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=b33c5b3f01ec569072440ac709c3eb32&oe=5D7FD592
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20638309_10155494017953745_2425083790582263541_n.jpg?_nc_cat=107&_nc_oc=AQlAq5zxTplZ0EX5eaJvaP7cDUJuz6lOLkNthOr372DeJowL_8oOsbHsumV_y-w7ujg&_nc_ht=scontent.xx&oh=a2dd7a9a05c1a4a88551dd62a3b887f9&oe=5DA76292
 beer-date: "2017-08-06"
 desc: "A very refreshing IPA. Slightly floral and very low on bitterness"
 permalink: /beer/:title.html

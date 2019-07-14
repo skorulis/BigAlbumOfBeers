@@ -9,7 +9,7 @@ brewery: "Prancing Pony Brewery"
 breweryURL: "/brewery/prancing-pony-brewery.html"
 style: "Blonde Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14364917_10154470807363745_7728138801464076268_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=e1d92b334de5d2634c525f29f5c43897&oe=5DC69E35
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14364917_10154470807363745_7728138801464076268_n.jpg?_nc_cat=107&_nc_oc=AQkZxoi6hcfSMj5-S7Pyhp76Mw_vZpNyuapMK7nIc4OR_oSsms92NyvQ1M6MOxtOEpg&_nc_ht=scontent.xx&oh=c79d1e6cebf2fc357812e4c80dfd3bc4&oe=5DEE2B35
 beer-date: "2016-09-21"
 desc: "A little bit lacking but not a bad beer"
 permalink: /beer/:title.html

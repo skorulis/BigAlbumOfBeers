@@ -9,7 +9,7 @@ brewery: "Eel River Brewing Company"
 breweryURL: "/brewery/eel-river-brewing-company.html"
 style: "Red Ale - American Amber / Red"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1930332_10153811639763745_6829727140926050001_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=6e84802b324269551688994097ef1a00&oe=5DBBC872
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1930332_10153811639763745_6829727140926050001_n.jpg?_nc_cat=111&_nc_oc=AQns0DjBYbfX3fOLCXMtTWmiB2oe4nsDS-_zlD-sRcsv2x0-VF-Q3mCxpunc5FguxiQ&_nc_ht=scontent.xx&oh=53ab4a8f42842523dbe8ef7cccaf2965&oe=5DBBC872
 beer-date: "2016-01-07"
 desc: "Nothing much to say about this one"
 permalink: /beer/:title.html

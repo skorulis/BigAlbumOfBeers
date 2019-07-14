@@ -1,0 +1,3404 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.176,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 3170769,
+      "beer_name": "Coffee And Donuts",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 6,
+      "beer_ibu": 0,
+      "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+      "beer_style": "Stout - Milk / Sweet",
+      "is_in_production": 1,
+      "beer_slug": "wayward-brewing-coffee-and-donuts",
+      "is_homebrew": 0,
+      "created_at": "Thu, 11 Apr 2019 12:56:32 +0000",
+      "rating_count": 1192,
+      "rating_score": 3.65268,
+      "stats": {
+        "total_count": 1432,
+        "monthly_count": 441,
+        "total_user_count": 1307,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 48019,
+        "brewery_name": "Wayward Brewing",
+        "brewery_slug": "wayward-brewing",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/WaywardBrewing",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "WaywardBeer",
+          "facebook": "http://www.facebook.com/WaywardBrewing",
+          "url": "http://www.waywardbrewing.com.au"
+        },
+        "location": {
+          "brewery_city": "Camperdown",
+          "brewery_state": "NSW",
+          "lat": -33.8858,
+          "lng": 151.175
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 241789643,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/404ac9dc6bc651f11706521d8ac45459_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/404ac9dc6bc651f11706521d8ac45459_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/404ac9dc6bc651f11706521d8ac45459_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/404ac9dc6bc651f11706521d8ac45459_raw.jpg"
+            },
+            "created_at": "Sun, 14 Jul 2019 09:13:10 +0000",
+            "checkin_id": 777200655,
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "is_in_production": 1,
+              "beer_style_id": 231,
+              "beer_style": "Stout - Milk / Sweet",
+              "rating_score": 3.653,
+              "rating_count": 1192,
+              "count": 1192,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3052789,
+              "user_name": "Aussiebeerguru",
+              "first_name": "Aussie",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/355b0d0f2e13be3317c23ddd52edc5cb_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3138161,
+                "venue_name": "Wayward Brewing",
+                "venue_slug": "wayward-brewing-co",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1 Gehrig Ln",
+                  "venue_city": "Annandale",
+                  "venue_state": "NSW",
+                  "lat": -33.8859,
+                  "lng": 151.175
+                },
+                "contact": {
+                  "twitter": "@WaywardBeer",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5590c329498e61fcb7cbfa8a",
+                  "foursquare_url": "http://4sq.com/1GUI8vs"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_3138161_9548560e_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_3138161_9548560e_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_3138161_9548560e_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 241789178,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/013a02b18c7d1f14762014728b1b9ba6_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/013a02b18c7d1f14762014728b1b9ba6_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/013a02b18c7d1f14762014728b1b9ba6_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/013a02b18c7d1f14762014728b1b9ba6_raw.jpg"
+            },
+            "created_at": "Sun, 14 Jul 2019 08:57:07 +0000",
+            "checkin_id": 777199698,
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "is_in_production": 1,
+              "beer_style_id": 231,
+              "beer_style": "Stout - Milk / Sweet",
+              "rating_score": 3.653,
+              "rating_count": 1192,
+              "count": 1192,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 868540,
+              "user_name": "Juffermans",
+              "first_name": "Simon",
+              "last_name": "J",
+              "user_avatar": "https://untappd.akamaized.net/profile/cc13fbbd1f9915496774b69573ed48a1_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 241506197,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_13/50ca508477f891407030b44dcf96bf0a_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_13/50ca508477f891407030b44dcf96bf0a_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_13/50ca508477f891407030b44dcf96bf0a_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_13/50ca508477f891407030b44dcf96bf0a_raw.jpg"
+            },
+            "created_at": "Sat, 13 Jul 2019 14:11:19 +0000",
+            "checkin_id": 776475516,
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "is_in_production": 1,
+              "beer_style_id": 231,
+              "beer_style": "Stout - Milk / Sweet",
+              "rating_score": 3.653,
+              "rating_count": 1192,
+              "count": 1192,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1901776,
+              "user_name": "adambowles315",
+              "first_name": "Adam",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/655ce301b440ee7e74f7d06361c20735_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 241469461,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_13/ab213686e7fefb723d59bfdde1055ffd_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_13/ab213686e7fefb723d59bfdde1055ffd_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_13/ab213686e7fefb723d59bfdde1055ffd_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_13/ab213686e7fefb723d59bfdde1055ffd_raw.jpg"
+            },
+            "created_at": "Sat, 13 Jul 2019 06:02:07 +0000",
+            "checkin_id": 776401514,
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "is_in_production": 1,
+              "beer_style_id": 231,
+              "beer_style": "Stout - Milk / Sweet",
+              "rating_score": 3.653,
+              "rating_count": 1192,
+              "count": 1192,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 927320,
+              "user_name": "hjbooth",
+              "first_name": "Hayden",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/b3c6b938342e324fc5ebb370960e8f91_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8336616,
+                "venue_name": "Albert Tower",
+                "venue_slug": "albert-tower",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "residential_building_apartment_condo",
+                      "category_name": "Residential Building (Apartment / Condo)",
+                      "category_id": "4d954b06a243a5684965b473",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "38 Albert Road",
+                  "venue_city": "South Melbourne",
+                  "venue_state": "VIC",
+                  "lat": -37.8338,
+                  "lng": 144.971
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "52c0f96a498e8d31a25e8aea",
+                  "foursquare_url": "http://4sq.com/1kUxNoN"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 241224373,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_12/704629ab921b09a483d794cc14905b50_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_12/704629ab921b09a483d794cc14905b50_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_12/704629ab921b09a483d794cc14905b50_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_12/704629ab921b09a483d794cc14905b50_raw.jpg"
+            },
+            "created_at": "Fri, 12 Jul 2019 11:50:16 +0000",
+            "checkin_id": 775820775,
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "is_in_production": 1,
+              "beer_style_id": 231,
+              "beer_style": "Stout - Milk / Sweet",
+              "rating_score": 3.653,
+              "rating_count": 1192,
+              "count": 1192,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2935370,
+              "user_name": "beersandballcaps",
+              "first_name": "Zeb",
+              "last_name": "R",
+              "user_avatar": "https://untappd.akamaized.net/profile/37796bf1b0e9660fba312b4886bf14b3_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5549677,
+                "venue_name": "Little Bay Cellars",
+                "venue_slug": "little-bay-cellars",
+                "primary_category": "Shop & Service",
+                "parent_category_id": "4d4b7105d754a06378d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "liquor_store",
+                      "category_name": "Liquor Store",
+                      "category_id": "4bf58dd8d48988d186941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1407 Anzac Parade",
+                  "venue_city": "Little Bay",
+                  "venue_state": "NSW",
+                  "lat": -33.9797,
+                  "lng": 151.244
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5773a7a0498e1f69ad2e11c9",
+                  "foursquare_url": "http://4sq.com/294w2JR"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 241222160,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_12/8011c488d3f5b651aa965f093c8002bc_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_12/8011c488d3f5b651aa965f093c8002bc_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_12/8011c488d3f5b651aa965f093c8002bc_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_12/8011c488d3f5b651aa965f093c8002bc_raw.jpeg"
+            },
+            "created_at": "Fri, 12 Jul 2019 11:12:06 +0000",
+            "checkin_id": 775816414,
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "is_in_production": 1,
+              "beer_style_id": 231,
+              "beer_style": "Stout - Milk / Sweet",
+              "rating_score": 3.653,
+              "rating_count": 1192,
+              "count": 1192,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 204738,
+              "user_name": "timmmiiip",
+              "first_name": "Tim",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/4d46b11c30ff7a14b58f056bce3239aa_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 241221908,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_12/84197733de93b5659b6f0d4611c2118f_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_12/84197733de93b5659b6f0d4611c2118f_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_12/84197733de93b5659b6f0d4611c2118f_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_12/84197733de93b5659b6f0d4611c2118f_raw.jpeg"
+            },
+            "created_at": "Fri, 12 Jul 2019 11:07:14 +0000",
+            "checkin_id": 775815938,
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "is_in_production": 1,
+              "beer_style_id": 231,
+              "beer_style": "Stout - Milk / Sweet",
+              "rating_score": 3.653,
+              "rating_count": 1192,
+              "count": 1192,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5465132,
+              "user_name": "gizzy_raskal",
+              "first_name": "Gizzy ",
+              "last_name": "R",
+              "user_avatar": "https://gravatar.com/avatar/d6df7208548c7473b1d51bcb6943c9b4?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 241221535,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_12/12354c1c7e1ef8523880ac0a282d4946_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_12/12354c1c7e1ef8523880ac0a282d4946_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_12/12354c1c7e1ef8523880ac0a282d4946_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_12/12354c1c7e1ef8523880ac0a282d4946_raw.jpg"
+            },
+            "created_at": "Fri, 12 Jul 2019 11:01:13 +0000",
+            "checkin_id": 775815246,
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "is_in_production": 1,
+              "beer_style_id": 231,
+              "beer_style": "Stout - Milk / Sweet",
+              "rating_score": 3.653,
+              "rating_count": 1192,
+              "count": 1192,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4789472,
+              "user_name": "Simabunz",
+              "first_name": "Sim",
+              "last_name": "C",
+              "user_avatar": "https://gravatar.com/avatar/5e7e0a583e17625ab2cf27d5ae5204ec?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 241056717,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_11/e6f92efee27d50b62fb70b9dd2cc9024_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_11/e6f92efee27d50b62fb70b9dd2cc9024_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_11/e6f92efee27d50b62fb70b9dd2cc9024_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_11/e6f92efee27d50b62fb70b9dd2cc9024_raw.jpg"
+            },
+            "created_at": "Thu, 11 Jul 2019 12:27:02 +0000",
+            "checkin_id": 775430795,
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "is_in_production": 1,
+              "beer_style_id": 231,
+              "beer_style": "Stout - Milk / Sweet",
+              "rating_score": 3.653,
+              "rating_count": 1192,
+              "count": 1192,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2421473,
+              "user_name": "helmie",
+              "first_name": "Helmie",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/aa5cfd7a7e00b937bb72c36987c5e2c4_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 6449445,
+                "venue_name": "Penny Young",
+                "venue_slug": "penny-young",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 4,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "cocktail_bar",
+                      "category_name": "Cocktail Bar",
+                      "category_id": "4bf58dd8d48988d11e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "liquor_store",
+                      "category_name": "Liquor Store",
+                      "category_id": "4bf58dd8d48988d186941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "pizza_place",
+                      "category_name": "Pizza Place",
+                      "category_id": "4bf58dd8d48988d1ca941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "22 Young St",
+                  "venue_city": "Moonee Ponds",
+                  "venue_state": "VIC",
+                  "lat": -37.7678,
+                  "lng": 144.923
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.pennyyoung.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "59617f2c7269fe39b8cca8ed",
+                  "foursquare_url": "http://4sq.com/2t0efY3"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_6449445_1e771d5c_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_6449445_1e771d5c_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_6449445_1e771d5c_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 241051642,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_11/d2958837b9f990985dfa36cdc93f4ae2_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_11/d2958837b9f990985dfa36cdc93f4ae2_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_11/d2958837b9f990985dfa36cdc93f4ae2_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_11/d2958837b9f990985dfa36cdc93f4ae2_raw.jpg"
+            },
+            "created_at": "Thu, 11 Jul 2019 10:27:16 +0000",
+            "checkin_id": 775420658,
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "is_in_production": 1,
+              "beer_style_id": 231,
+              "beer_style": "Stout - Milk / Sweet",
+              "rating_score": 3.653,
+              "rating_count": 1192,
+              "count": 1192,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4633235,
+              "user_name": "drewbay22",
+              "first_name": "Drew",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/08ee0a26c692f087f5a6f6d49c9e2f46_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 777200655,
+            "created_at": "Sun, 14 Jul 2019 09:13:05 +0000",
+            "checkin_comment": "Much nicer at the source! Brilliant",
+            "rating_score": 5,
+            "user": {
+              "uid": 3052789,
+              "user_name": "Aussiebeerguru",
+              "first_name": "Aussie",
+              "last_name": "B.",
+              "location": "Penrith ",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/355b0d0f2e13be3317c23ddd52edc5cb_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3138161,
+              "venue_name": "Wayward Brewing",
+              "venue_slug": "wayward-brewing-co",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1 Gehrig Ln",
+                "venue_city": "Annandale",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8859,
+                "lng": 151.175
+              },
+              "contact": {
+                "twitter": "@WaywardBeer",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5590c329498e61fcb7cbfa8a",
+                "foursquare_url": "http://4sq.com/1GUI8vs"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_3138161_9548560e_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_3138161_9548560e_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_3138161_9548560e_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 241789643,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/404ac9dc6bc651f11706521d8ac45459_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/404ac9dc6bc651f11706521d8ac45459_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/404ac9dc6bc651f11706521d8ac45459_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/404ac9dc6bc651f11706521d8ac45459_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5604,
+                  "user_badge_id": 535335034,
+                  "badge_name": "Verified Adventure (Level 24)",
+                  "badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 120 check-ins at venue that is verified. Try 5 more for Level 25!",
+                  "created_at": "Sun, 14 Jul 2019 09:13:05 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777199698,
+            "created_at": "Sun, 14 Jul 2019 08:57:01 +0000",
+            "checkin_comment": "I got one of the infected ones, more sour then sweet. But still nice 👍",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 868540,
+              "user_name": "Juffermans",
+              "first_name": "Simon",
+              "last_name": "J.",
+              "location": "Adelaide",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Blogger @ The Hop Connoisseur who enjoys a Nice Hoppy Beer & those Wonderful Winter Stouts. No Megaswill here.",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/cc13fbbd1f9915496774b69573ed48a1_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 241789178,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/013a02b18c7d1f14762014728b1b9ba6_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/013a02b18c7d1f14762014728b1b9ba6_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/013a02b18c7d1f14762014728b1b9ba6_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/013a02b18c7d1f14762014728b1b9ba6_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 34742,
+                  "user_badge_id": 535334071,
+                  "badge_name": "Middle of the Road (Level 38)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 190 beers with an ABV greater than 5% and less than 10%. Try 5 more for Level 39!",
+                  "created_at": "Sun, 14 Jul 2019 08:57:02 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 243512,
+                  "user_badge_id": 535334072,
+                  "badge_name": "Brewery Pioneer (Level 17)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 85 different breweries. Try 5 more for Level 18!",
+                  "created_at": "Sun, 14 Jul 2019 08:57:02 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                },
+                {
+                  "badge_id": 93586,
+                  "user_badge_id": 535334073,
+                  "badge_name": "Down Under (Level 51)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 255 different beers from Australia. Try 5 more for Level 52!",
+                  "created_at": "Sun, 14 Jul 2019 08:57:02 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777193250,
+            "created_at": "Sun, 14 Jul 2019 07:09:45 +0000",
+            "checkin_comment": "LOVE",
+            "rating_score": 4.75,
+            "user": {
+              "uid": 3122922,
+              "user_name": "juanbuddha",
+              "first_name": "Juan",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/e9f99c60ab49646fbb1dd98ff0389396_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 1600366,
+                  "user": {
+                    "uid": 1600366,
+                    "user_name": "Totallywired",
+                    "first_name": "Richard",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/e4f337d830dcb1bfbd36c101b8388555_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688653992,
+                  "like_owner": false,
+                  "created_at": "Sun, 14 Jul 2019 07:33:23 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133360,
+                  "user_badge_id": 535327576,
+                  "badge_name": "For the Can (Level 7)",
+                  "badge_description": "Canning is all the rage and it's not hard to see why - travels well, more environmentally friendly, and no need to carry your bottle opener. That's 35 checkins with the serving style of Can. Try 5 more for Level 8!",
+                  "created_at": "Sun, 14 Jul 2019 07:09:46 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_GloryCan_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_GloryCan_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_GloryCan_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777191163,
+            "created_at": "Sun, 14 Jul 2019 06:42:01 +0000",
+            "checkin_comment": "Tasty drop but get more toasted coconut flavours than anything else",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 1404750,
+              "user_name": "Alexanderlee",
+              "first_name": "Alex",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Next door hospitality",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/75e54e5c91084d116b49d73dc0aba785_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 776475516,
+            "created_at": "Sat, 13 Jul 2019 14:11:08 +0000",
+            "checkin_comment": "Like it. Cinnamon at the front, coffee at the back",
+            "rating_score": 4,
+            "user": {
+              "uid": 1901776,
+              "user_name": "adambowles315",
+              "first_name": "Adam",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/655ce301b440ee7e74f7d06361c20735_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 5663416,
+                  "user": {
+                    "uid": 5663416,
+                    "user_name": "ainceputtotulinvietnam",
+                    "first_name": "Name",
+                    "last_name": "L.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/a4e607749ef42eda97bb568adf166931?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688590696,
+                  "like_owner": false,
+                  "created_at": "Sun, 14 Jul 2019 03:00:27 +0000"
+                },
+                {
+                  "uid": 314965,
+                  "user": {
+                    "uid": 314965,
+                    "user_name": "OzAndyP",
+                    "first_name": "Andrew",
+                    "last_name": "H.",
+                    "bio": "Engineer, runner, beer collector.",
+                    "location": "Brisbane",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/8da47887da165ad81451bf08fd9e902b_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688066379,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 14:23:09 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 241506197,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_13/50ca508477f891407030b44dcf96bf0a_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_13/50ca508477f891407030b44dcf96bf0a_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_13/50ca508477f891407030b44dcf96bf0a_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_13/50ca508477f891407030b44dcf96bf0a_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 1804,
+                  "user_badge_id": 534546766,
+                  "badge_name": "Photogenic Brew  (Level 18)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 90 check-ins with a photo. ",
+                  "created_at": "Sat, 13 Jul 2019 14:11:09 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 776440453,
+            "created_at": "Sat, 13 Jul 2019 12:06:12 +0000",
+            "checkin_comment": "🤔",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 2655837,
+              "user_name": "Robolfc",
+              "first_name": "Andy",
+              "last_name": "R.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/4e0eb08e882dacd2ab8773e85552aa69_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2077931,
+              "venue_name": "Saltwater Coast",
+              "venue_slug": "saltwater-coast",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "cafe",
+                    "category_name": "Café",
+                    "category_id": "4bf58dd8d48988d16d941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Australia",
+                "lat": -37.9138,
+                "lng": 144.779
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4cc7758d3c40a35d7e306f2e",
+                "foursquare_url": "http://4sq.com/cvZ8wc"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/cafe_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/cafe_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/cafe_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2638617,
+                  "user": {
+                    "uid": 2638617,
+                    "user_name": "Gazooo",
+                    "first_name": "Gary",
+                    "last_name": "J.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/6aa78c8bf5bbb9b64ba4bf271c58a9b0_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688128044,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 16:32:22 +0000"
+                },
+                {
+                  "uid": 530031,
+                  "user": {
+                    "uid": 530031,
+                    "user_name": "sarah21986",
+                    "first_name": "Sarah",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "Melbourne, Aus",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/c3d3af14fcfd40350ac27ed096ad16ba_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688037085,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 12:59:21 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3022,
+                  "user_badge_id": 534507975,
+                  "badge_name": "Heavy Weight  (Level 36)",
+                  "badge_description": "Porters and Stouts are rich with both history and flavor. Roasty, dark, and delicious, these two styles helped start it all. That’s 180 different beers with the style of Porter or Stout. Try 5 more to unlock Level 37.",
+                  "created_at": "Sat, 13 Jul 2019 12:06:12 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_heavyWeight_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_heavyWeight_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 776431381,
+            "created_at": "Sat, 13 Jul 2019 11:21:58 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 1051564,
+              "user_name": "guivs",
+              "first_name": "Guilherme",
+              "last_name": "s.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/c3ab4f809418ea999eedfd554b8486a1?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 525,
+                  "user_badge_id": 534498184,
+                  "badge_name": "Down Under (Level 8)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 40 different beers from Australia. Try 5 more for Level 9.",
+                  "created_at": "Sat, 13 Jul 2019 11:21:59 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 776424353,
+            "created_at": "Sat, 13 Jul 2019 10:37:19 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 3284111,
+              "user_name": "Stu_Bru",
+              "first_name": "Stu Bru",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/ee18809e61332c44b95f7e392a34bcaf?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 243509,
+                  "user_badge_id": 534490359,
+                  "badge_name": "Brewery Pioneer (Level 14)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 70 different breweries. Try 5 more for Level 15!",
+                  "created_at": "Sat, 13 Jul 2019 10:37:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2406,
+                  "user_badge_id": 534490360,
+                  "badge_name": "Down Under  (Level 20)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 100 different beers from Australia. Try 5 more for Level 21.",
+                  "created_at": "Sat, 13 Jul 2019 10:37:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 776420544,
+            "created_at": "Sat, 13 Jul 2019 10:04:05 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 2330476,
+              "user_name": "Codingcam",
+              "first_name": "Cameron",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/1363f9836ef59a33e6bf2428582ee097?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 260,
+                  "user_badge_id": 534485488,
+                  "badge_name": "Heavy Weight (Level 3)",
+                  "badge_description": "Porters and Stouts are rich with both history and flavor. Roasty, dark, and delicious, these two styles helped start it all. That’s 15 different beers with the style of Porter or Stout. Try 5 more to unlock Level 4.",
+                  "created_at": "Sat, 13 Jul 2019 10:04:05 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_heavyWeight_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_heavyWeight_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 776419408,
+            "created_at": "Sat, 13 Jul 2019 09:52:51 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 962428,
+              "user_name": "katebooth",
+              "first_name": "Kate",
+              "last_name": "B.",
+              "location": "Melbourne",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/ba553b4d7287b3f6c5938aa94666d380_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 4,
+              "count": 4,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 706742,
+                  "user": {
+                    "uid": 706742,
+                    "user_name": "Broje",
+                    "first_name": "Jenny",
+                    "last_name": "b.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7ddf85a3b29f5f969efe11e37e07a16f_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688324544,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 20:34:20 +0000"
+                },
+                {
+                  "uid": 927320,
+                  "user": {
+                    "uid": 927320,
+                    "user_name": "hjbooth",
+                    "first_name": "Hayden",
+                    "last_name": "B.",
+                    "bio": "Just a man and his liver enjoying good beer.",
+                    "location": "Melbourne, Australia",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b3c6b938342e324fc5ebb370960e8f91_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688017452,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 11:54:54 +0000"
+                },
+                {
+                  "uid": 241499,
+                  "user": {
+                    "uid": 241499,
+                    "user_name": "pewilee12",
+                    "first_name": "Lee",
+                    "last_name": "W.",
+                    "bio": "",
+                    "location": "Melbourne, Australia",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/02bf13899ffa6adac68bcfbe77b0d3d0_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688003149,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 10:54:33 +0000"
+                },
+                {
+                  "uid": 34171,
+                  "user": {
+                    "uid": 34171,
+                    "user_name": "vicbeeroclock",
+                    "first_name": "VBOC",
+                    "last_name": "",
+                    "bio": "A Bloke from the Bush.",
+                    "location": "The Bush",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/206fe01cd89139ed5a3d1fd5e1365eeb_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687992624,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 09:55:28 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133383,
+                  "user_badge_id": 534484212,
+                  "badge_name": "For the Can (Level 30)",
+                  "badge_description": "Canning is all the rage and it's not hard to see why - travels well, more environmentally friendly, and no need to carry your bottle opener. That's 150 checkins with the serving style of Can. Try 5 more for Level 31!",
+                  "created_at": "Sat, 13 Jul 2019 09:52:51 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_GloryCan_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_GloryCan_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_GloryCan_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 776415010,
+            "created_at": "Sat, 13 Jul 2019 09:00:22 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2732179,
+              "user_name": "Bigc91",
+              "first_name": "Colin",
+              "last_name": "P.",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/a39d29893336a00794a8899dbfe9ee79_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3138161,
+              "venue_name": "Wayward Brewing",
+              "venue_slug": "wayward-brewing-co",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1 Gehrig Ln",
+                "venue_city": "Annandale",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8859,
+                "lng": 151.175
+              },
+              "contact": {
+                "twitter": "@WaywardBeer",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5590c329498e61fcb7cbfa8a",
+                "foursquare_url": "http://4sq.com/1GUI8vs"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_3138161_9548560e_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_3138161_9548560e_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_3138161_9548560e_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 243500,
+                  "user_badge_id": 534479577,
+                  "badge_name": "Brewery Pioneer (Level 5)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 25 different breweries. Try 5 more for Level 6!",
+                  "created_at": "Sat, 13 Jul 2019 09:00:22 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                },
+                {
+                  "badge_id": 72,
+                  "user_badge_id": 534479578,
+                  "badge_name": "Find the Source",
+                  "badge_description": "Everyone loves fresh beer, but obviously not as much as you do. You went straight to the source. \r\n\r\nThat's a beer at 5 different venues categorized as a Brewery. Visit 5 more different ones for Level 2!",
+                  "created_at": "Sat, 13 Jul 2019 09:00:22 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_findSource_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_findSource_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_findSource_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 776409955,
+            "created_at": "Sat, 13 Jul 2019 07:45:56 +0000",
+            "checkin_comment": "Well balanced between the sweet and bitter.",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 2041849,
+              "user_name": "colinkidd",
+              "first_name": "Colin",
+              "last_name": "K.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/09b7ef3114e12c41b166bb912c651890?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 7403529,
+              "venue_name": "Boys Town Oval",
+              "venue_slug": "boys-town-oval",
+              "primary_category_key": "Outdoors & Recreation",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "soccer_field",
+                    "category_name": "Soccer Field",
+                    "category_id": "4cce455aebf7b749d5e191f5",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Waratah Ave",
+                "venue_city": "Engadine",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -34.0629,
+                "lng": 151.006
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4dc6341452b1e8f9f7e87f6c",
+                "foursquare_url": "http://4sq.com/kvH9wo"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3622997,
+                  "user": {
+                    "uid": 3622997,
+                    "user_name": "crazburg",
+                    "first_name": "greg",
+                    "last_name": "i.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/22c8683bbbbdf4a87729abd59a906a4e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687972916,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 07:48:35 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 266,
+                  "user_badge_id": 534474392,
+                  "badge_name": "Heavy Weight (Level 9)",
+                  "badge_description": "Porters and Stouts are rich with both history and flavor. Roasty, dark, and delicious, these two styles helped start it all. That’s 45 different beers with the style of Porter or Stout. Try 5 more to unlock Level 10.",
+                  "created_at": "Sat, 13 Jul 2019 07:45:57 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_heavyWeight_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_heavyWeight_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 776401514,
+            "created_at": "Sat, 13 Jul 2019 06:01:32 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 927320,
+              "user_name": "hjbooth",
+              "first_name": "Hayden",
+              "last_name": "B.",
+              "location": "Melbourne, Australia",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "Just a man and his liver enjoying good beer.",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/b3c6b938342e324fc5ebb370960e8f91_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8336616,
+              "venue_name": "Albert Tower",
+              "venue_slug": "albert-tower",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "residential_building_apartment_condo",
+                    "category_name": "Residential Building (Apartment / Condo)",
+                    "category_id": "4d954b06a243a5684965b473",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "38 Albert Road",
+                "venue_city": "South Melbourne",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.8338,
+                "lng": 144.971
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "52c0f96a498e8d31a25e8aea",
+                "foursquare_url": "http://4sq.com/1kUxNoN"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 12,
+              "count": 10,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 755720,
+                  "user": {
+                    "uid": 755720,
+                    "user_name": "Tazwicks",
+                    "first_name": "Amanda",
+                    "last_name": "H.",
+                    "bio": "Been trying bottled beers since 93. Work in the brewing industry at Fuller's Griffin Brewery for Asahi",
+                    "location": "Hemel Hempstead",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/c09ff40aafec4c262237b975ba4aefc0_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688014275,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 11:41:36 +0000"
+                },
+                {
+                  "uid": 3954518,
+                  "user": {
+                    "uid": 3954518,
+                    "user_name": "HiddenDragon",
+                    "first_name": "Anna",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/ab940de3d5db891c9ab51a6ae4d1adcc?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688001090,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 10:44:45 +0000"
+                },
+                {
+                  "uid": 962428,
+                  "user": {
+                    "uid": 962428,
+                    "user_name": "katebooth",
+                    "first_name": "Kate",
+                    "last_name": "B.",
+                    "bio": "",
+                    "location": "Melbourne",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/ba553b4d7287b3f6c5938aa94666d380_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687992125,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 09:52:18 +0000"
+                },
+                {
+                  "uid": 34171,
+                  "user": {
+                    "uid": 34171,
+                    "user_name": "vicbeeroclock",
+                    "first_name": "VBOC",
+                    "last_name": "",
+                    "bio": "A Bloke from the Bush.",
+                    "location": "The Bush",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/206fe01cd89139ed5a3d1fd5e1365eeb_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687978439,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 08:24:08 +0000"
+                },
+                {
+                  "uid": 706742,
+                  "user": {
+                    "uid": 706742,
+                    "user_name": "Broje",
+                    "first_name": "Jenny",
+                    "last_name": "b.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7ddf85a3b29f5f969efe11e37e07a16f_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687973718,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 07:53:56 +0000"
+                },
+                {
+                  "uid": 2990214,
+                  "user": {
+                    "uid": 2990214,
+                    "user_name": "jhb5858",
+                    "first_name": "John",
+                    "last_name": "b.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/39e11e760640a8aa02b0aea12f3cefc3?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687972126,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 07:44:01 +0000"
+                },
+                {
+                  "uid": 3149616,
+                  "user": {
+                    "uid": 3149616,
+                    "user_name": "kram1",
+                    "first_name": "mark",
+                    "last_name": "w.",
+                    "bio": "",
+                    "location": "Winsford, Cheshire",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/e7df896edc968d55df7337ca3111e62e_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687972032,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 07:43:31 +0000"
+                },
+                {
+                  "uid": 6488469,
+                  "user": {
+                    "uid": 6488469,
+                    "user_name": "JimmyLynch",
+                    "first_name": "James",
+                    "last_name": "L.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/8f47d6eb44d860a520a81ed786820b6d_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687967764,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 07:14:15 +0000"
+                },
+                {
+                  "uid": 4446414,
+                  "user": {
+                    "uid": 4446414,
+                    "user_name": "jaza86",
+                    "first_name": "Jared",
+                    "last_name": "G.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/24b931dcc4f5ecdd43cea4e1c4ed5fd9_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687966848,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 07:08:47 +0000"
+                },
+                {
+                  "uid": 5890214,
+                  "user": {
+                    "uid": 5890214,
+                    "user_name": "STEREOLOVER",
+                    "first_name": "Aleksey",
+                    "last_name": "M.",
+                    "bio": "I live in Saint-Petersburg. Russia. Youtube: STEREOLOVER.",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/0fa2152092fce137741dc3bf582a889d_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687960471,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 06:32:46 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 241469461,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_13/ab213686e7fefb723d59bfdde1055ffd_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_13/ab213686e7fefb723d59bfdde1055ffd_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_13/ab213686e7fefb723d59bfdde1055ffd_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_13/ab213686e7fefb723d59bfdde1055ffd_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 775827408,
+            "created_at": "Fri, 12 Jul 2019 12:42:33 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 5650946,
+              "user_name": "thommo97",
+              "first_name": "Denis",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/7f738b5a39ff1d41f0411487a3abdbc5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 1,
+              "count": 1,
+              "items": [
+                {
+                  "user": {
+                    "uid": 5650946,
+                    "user_name": "thommo97",
+                    "first_name": "Denis",
+                    "last_name": "T.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://gravatar.com/avatar/7f738b5a39ff1d41f0411487a3abdbc5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 775827408,
+                  "comment_id": 51195024,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "One the best stouts drank the aroma of cinnamon and sweet after taste leave you wanting more",
+                  "created_at": "Sat, 13 Jul 2019 05:23:15 +0000",
+                  "comment_source": "API"
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 5650946,
+                  "user": {
+                    "uid": 5650946,
+                    "user_name": "thommo97",
+                    "first_name": "Denis",
+                    "last_name": "T.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/7f738b5a39ff1d41f0411487a3abdbc5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687946429,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 05:23:18 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 1,
+                  "user_badge_id": 533829889,
+                  "badge_name": "Newbie",
+                  "badge_description": "So, you're new around here? Congrats on your first brew! This one's for you.",
+                  "created_at": "Fri, 12 Jul 2019 12:42:33 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_newbie_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_newbie_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_newbie_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 6179,
+                  "user_badge_id": 533829890,
+                  "badge_name": "Cheers To You!",
+                  "badge_description": "Happy Untappd anniversary to you! Thanks for sticking around and drinking socially with us. Cheers! That's 1 year on Untappd!",
+                  "created_at": "Fri, 12 Jul 2019 12:42:33 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HeresToYou_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HeresToYou_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HeresToYou_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 775823975,
+            "created_at": "Fri, 12 Jul 2019 12:16:54 +0000",
+            "checkin_comment": "Non infected batch. Lovely",
+            "rating_score": 4,
+            "user": {
+              "uid": 1008611,
+              "user_name": "Lucazoccatelli",
+              "first_name": "Luca",
+              "last_name": "Z.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Wog boy with a passion for craft beer",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/3e3f439b073218a8ffd9c1e159b7a0c2_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3170769,
+              "beer_name": "Coffee And Donuts",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "wayward-brewing-coffee-and-donuts",
+              "beer_description": "Coffee and donuts are inseparable as Yin is to Yang. In partnership with Grumpy Donuts and Toby’s Estate roasters, this is a Milk Stout, with actual donuts used in the process. All complemented with a special blend of gently roasted beans. Brewed for GABS 2019.",
+              "beer_style": "Stout - Milk / Sweet",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 48019,
+              "brewery_name": "Wayward Brewing",
+              "brewery_slug": "wayward-brewing",
+              "brewery_page_url": "/WaywardBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-48019_5683e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "WaywardBeer",
+                "facebook": "http://www.facebook.com/WaywardBrewing",
+                "url": "http://www.waywardbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Camperdown",
+                "brewery_state": "NSW",
+                "lat": -33.8858,
+                "lng": 151.175
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 6,
+              "count": 4,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 209370,
+                  "user": {
+                    "uid": 209370,
+                    "user_name": "DaveCroft",
+                    "first_name": "Crofty",
+                    "last_name": "",
+                    "bio": "I'm a Sydney based beer lover in search of great ales and fantastic lagers.\n\ncroftysbeerblog.wordpress.com",
+                    "location": "Western Sydney",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/c0baa539af50e93dbb3e12a420bd4698_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688624878,
+                  "like_owner": false,
+                  "created_at": "Sun, 14 Jul 2019 04:50:22 +0000"
+                },
+                {
+                  "uid": 1793245,
+                  "user": {
+                    "uid": 1793245,
+                    "user_name": "jeff_ricko_14",
+                    "first_name": "Jeff",
+                    "last_name": "R.",
+                    "bio": "",
+                    "location": "Helensburgh (NSW)",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/94cfb0edc0d01c24d650632d00508363_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687922059,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Jul 2019 03:50:25 +0000"
+                },
+                {
+                  "uid": 179342,
+                  "user": {
+                    "uid": 179342,
+                    "user_name": "Jc1",
+                    "first_name": "Jc",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Black Sheep Farm",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/d1bd0046ca2711f8901cb55c51430c93_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687472513,
+                  "like_owner": false,
+                  "created_at": "Fri, 12 Jul 2019 15:45:42 +0000"
+                },
+                {
+                  "uid": 16919,
+                  "user": {
+                    "uid": 16919,
+                    "user_name": "backoftheferry",
+                    "first_name": "BackoftheFerry",
+                    "last_name": "",
+                    "bio": "Reviews of beers, bars and other pasttimes of some blokes that go home via the Back of the Ferry (Manly, Australia).",
+                    "location": "NW Fairlight",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/11c465167aae146a7af523a7ac9e3ee8_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 687421902,
+                  "like_owner": false,
+                  "created_at": "Fri, 12 Jul 2019 12:19:33 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/3170769?max_id=775823975",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/3170769?max_id=775823975",
+          "max_id": 775823975
+        }
+      },
+      "similar": {
+        "method": "es",
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.16911,
+            "beer": {
+              "bid": 2100096,
+              "beer_name": "The Mountie Maple Imperial Stout",
+              "beer_abv": 12,
+              "beer_ibu": 50,
+              "beer_slug": "stockade-brew-co-the-mountie-maple-imperial-stout",
+              "beer_style": "Stout - Russian Imperial",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2100096_baef6_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 86357,
+              "brewery_name": "Stockade Brew Co",
+              "brewery_slug": "stockade-brew-co",
+              "brewery_page_url": "/Stockade",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-86357_063c2.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "stockadebrewco",
+                "facebook": "https://www.facebook.com/stockadebrewco",
+                "instagram": "stockadebrewco",
+                "url": "http://www.stockadebrewco.com.au"
+              },
+              "location": {
+                "brewery_city": "Marrickville",
+                "brewery_state": "NSW",
+                "lat": -33.9105,
+                "lng": 151.166
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.70228,
+            "beer": {
+              "bid": 3231706,
+              "beer_name": "Portside Penny",
+              "beer_abv": 6,
+              "beer_ibu": 30,
+              "beer_slug": "green-beacon-brewing-co-portside-penny",
+              "beer_style": "Stout - Oatmeal",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 50497,
+              "brewery_name": "Green Beacon Brewing Co",
+              "brewery_slug": "green-beacon-brewing-co",
+              "brewery_page_url": "/GBBC",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-50497_2dbea.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "GreenBeaconBrew",
+                "facebook": "http://www.facebook.com/greenbeaconbrewingco",
+                "instagram": "greenbeacon",
+                "url": "http://www.greenbeacon.com.au"
+              },
+              "location": {
+                "brewery_city": "Teneriffe",
+                "brewery_state": "QLD",
+                "lat": -27.4528,
+                "lng": 153.046
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.16832,
+            "beer": {
+              "bid": 2907171,
+              "beer_name": "iStout Affogato",
+              "beer_abv": 10,
+              "beer_ibu": 0,
+              "beer_slug": "8-wired-brewing-co-istout-affogato",
+              "beer_style": "Stout - Imperial / Double Milk",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2907171_23614_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3555,
+              "brewery_name": "8 Wired Brewing Co.",
+              "brewery_slug": "8-wired-brewing-co",
+              "brewery_page_url": "/8WiredBrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3555_c5bdb.jpeg",
+              "country_name": "New Zealand",
+              "contact": {
+                "twitter": "8wiredbrewing",
+                "facebook": "http://www.facebook.com/pages/8-WIRED-BREWING/157213909512?",
+                "instagram": "8wiredbrewing",
+                "url": "http://8wired.co.nz"
+              },
+              "location": {
+                "brewery_city": "Warkworth",
+                "brewery_state": "Auckland",
+                "lat": -36.3987,
+                "lng": 174.661
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.04948,
+            "beer": {
+              "bid": 3218747,
+              "beer_name": "Powder Day",
+              "beer_abv": 8,
+              "beer_ibu": 0,
+              "beer_slug": "nomad-brewing-co-powder-day",
+              "beer_style": "Stout - Imperial / Double Milk",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3218747_0b932_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 145688,
+              "brewery_name": "Nomad Brewing Co.",
+              "brewery_slug": "nomad-brewing-co",
+              "brewery_page_url": "/Nomadsaustralia",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-145688_932b2.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "NomadsBrewing",
+                "facebook": "https://www.facebook.com/NomadBrewingCo",
+                "instagram": "NomadsBrewing",
+                "url": "http://www.nomadbrewingco.com.au"
+              },
+              "location": {
+                "brewery_city": "Brookvale",
+                "brewery_state": "NSW",
+                "lat": -33.7639,
+                "lng": 151.272
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.26756,
+            "beer": {
+              "bid": 3162914,
+              "beer_name": "A Unison of Chaos",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "all-inn-brewing-co-a-unison-of-chaos",
+              "beer_style": "Stout - Other",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 71408,
+              "brewery_name": "All Inn Brewing Co.",
+              "brewery_slug": "all-inn-brewing-co",
+              "brewery_page_url": "/ALLINNBREWINGCo",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-71408_4d9d9.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "ALLINNBREWINGCO",
+                "facebook": "https://www.facebook.com/AllInnBrewingCo?fref=ts",
+                "instagram": "allinnbrewingco",
+                "url": "http://allinnbrewingco.com"
+              },
+              "location": {
+                "brewery_city": "Banyo",
+                "brewery_state": "QLD",
+                "lat": -27.3669,
+                "lng": 153.08
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.6531,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

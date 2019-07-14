@@ -9,7 +9,7 @@ brewery: "Black Brewing Co."
 breweryURL: "/brewery/black-brewing-co.html"
 style: "Stout - Milk / Sweet"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26229455_10155922813083745_1268275987114134243_n.jpg?_nc_cat=108&_nc_ht=scontent.xx&oh=c2273ccb31c9e649892168de8edad3d5&oe=5D8C9EC1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26229455_10155922813083745_1268275987114134243_n.jpg?_nc_cat=108&_nc_oc=AQkaEdHEoeyJa9Nuq7ZSmxM2oaQtyBWf2xmBrNBpll9Fz_Tf4vNpnDmXdVm2fYaJ-GM&_nc_ht=scontent.xx&oh=814a8a3911592f569f5a4ee3bad1823a&oe=5DB42BC1
 beer-date: "2018-01-13"
 desc: "Slightly harsh but the milk sweetness covers it up. Gets better as it goes down"
 permalink: /beer/:title.html

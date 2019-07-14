@@ -9,7 +9,7 @@ brewery: "Grifter Brewing Company"
 breweryURL: "/brewery/grifter-brewing-company.html"
 style: "English Bitter"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698219_10155251934963745_7315221414401750468_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=39f841db490aba58663e7b4c485db8de&oe=5DC1DA84
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18698219_10155251934963745_7315221414401750468_n.jpg?_nc_cat=111&_nc_oc=AQkSpCoIs4xHqkmkPi4T1SOJqfQsLs3i1XJB2zXVZgV_8vDdzcE2OaKrBfsetj5vNtQ&_nc_ht=scontent.xx&oh=62644b471f74432952590fbdfba58cdb&oe=5DC1DA84
 beer-date: "2017-05-27"
 desc: "My favourite of the range so far. Clean and crisp"
 permalink: /beer/:title.html

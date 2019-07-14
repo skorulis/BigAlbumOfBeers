@@ -9,7 +9,7 @@ brewery: "South African Breweries"
 breweryURL: "/brewery/south-african-breweries.html"
 style: "Stout - Milk / Sweet"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20953823_10155535939428745_5551970923306096097_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=8c8d3f807b66c097747c15c0fec70a59&oe=5D78BEAC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20953823_10155535939428745_5551970923306096097_n.jpg?_nc_cat=109&_nc_oc=AQmUFnWyoRxvH6SCODF3jof3wNaVf3HClULuP-cjLR-RP9vF5wtUIGKeILdC3Q4IG4w&_nc_ht=scontent.xx&oh=8521f802112aec9d5915cea19dcd236c&oe=5DA04BAC
 beer-date: "2017-08-21"
 desc: "Quite milky and without much bitterness or harshness. Not what I expected from a mass market beer. A little thin but otherwise no complaints"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Tumut River Brewing Co"
 breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Pale Ale - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20604337_10155494017938745_9156148573043906745_n.jpg?_nc_cat=101&_nc_ht=scontent.xx&oh=f23788b68609635d74f00594854128fa&oe=5DBCD183
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20604337_10155494017938745_9156148573043906745_n.jpg?_nc_cat=101&_nc_oc=AQmT3qiaLocsfg625RNcX3Fx1770qVT0JKRNacBQUcMsc6YZ6ymJ0aDk6yYJk-Roz-M&_nc_ht=scontent.xx&oh=13436b9237227141d3325ff85fe22721&oe=5DBCD183
 beer-date: "2017-08-06"
 desc: "Took forever for the head to settle. Smelled a little sour but doesn’t have much in the flavour"
 permalink: /beer/:title.html

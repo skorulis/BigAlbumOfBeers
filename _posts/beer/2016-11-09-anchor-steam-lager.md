@@ -9,7 +9,7 @@ brewery: "Anchor Brewing Company"
 breweryURL: "/brewery/anchor-brewing-company.html"
 style: "Lager - Pale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11174764_10153268299828745_5386835742329909663_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=6628cacfc322de984b10135e62e71890&oe=5D8D622E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11174764_10153268299828745_5386835742329909663_n.jpg?_nc_cat=104&_nc_oc=AQlYoUFBaCCKSPpoV-Sx_SMiS6REv5p0M3h2ns5hCBZjZRb2FmncmEIKwf2UBIZISsw&_nc_ht=scontent.xx&oh=28270d6cd167be325f54b69b01fe5e66&oe=5DB4EF2E
 beer-date: "2015-05-01"
 desc: "A very flavourful lager"
 permalink: /beer/:title.html

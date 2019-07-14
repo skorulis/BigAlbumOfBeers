@@ -9,7 +9,7 @@ brewery: "Big Shed Brewing Concern"
 breweryURL: "/brewery/big-shed-brewing-concern.html"
 style: "Stout - Other"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17757338_10155111576473745_2053478460898226018_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=609ca2ea0cab863473ba86a15c708597&oe=5D86AB76
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17757338_10155111576473745_2053478460898226018_n.jpg?_nc_cat=106&_nc_oc=AQmgzSUOCcd8_-bIJffr_y380bVkUhzlXXEsKJOSJXbRotEap_d1MjeLg1QAVnordLU&_nc_ht=scontent.xx&oh=2798fd10cf2541c0028d320395bf9d85&oe=5DAE3876
 beer-date: "2017-04-11"
 desc: "Smells like vanilla and cookies, so much so that the initial bitterness is a shock. Seems like an attempt to mix the flavours of an ice cream with beer, which is obviously difficult so it’s a complex beer that just manages to hold together"
 permalink: /beer/:title.html

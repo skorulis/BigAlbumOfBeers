@@ -9,7 +9,7 @@ brewery: "Abbaye de Leffe"
 breweryURL: "/brewery/abbaye-de-leffe.html"
 style: "Belgian Strong Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1902725_10152293087758745_569610046_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=6b7d21854e99b92ec889385b1716128e&oe=5D83C461
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1902725_10152293087758745_569610046_n.jpg?_nc_cat=110&_nc_oc=AQkr9QGU0Omm1OKJk7bAdVSonnRD_csObovr-CqiOOFpNQpr9zuKCYILa1lWWMfYzpE&_nc_ht=scontent.xx&oh=2421bff9f153c84ff2892698f36fedcc&oe=5DAB5161
 beer-date: "2014-03-01"
 desc: "More of a fuller Leffe than a dark beer"
 permalink: /beer/:title.html

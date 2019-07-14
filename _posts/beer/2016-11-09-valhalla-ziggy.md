@@ -9,7 +9,7 @@ brewery: "Valhalla Brewing"
 breweryURL: "/brewery/valhalla-brewing.html"
 style: "Red Ale - Other"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17862811_10155111574453745_1279271178952030182_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=fb01e1af7e97277093485066b26c2091&oe=5D91B761
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17862811_10155111574453745_1279271178952030182_n.jpg?_nc_cat=110&_nc_oc=AQmxGTZ-zFjDg_QJfVVbG9wkxHjaLjzrY6LUOh-Z7XGktS_wv4GTko9fbSfeZatF2V0&_nc_ht=scontent.xx&oh=f583dfee8a845c6c7b4629aefa1a0413&oe=5DB94461
 beer-date: "2017-04-11"
 desc: "Really easy drinking for a red ale, mellow as hell. Usually I love big beers full of flavour but this is a perfect easy drinking craft beer"
 permalink: /beer/:title.html

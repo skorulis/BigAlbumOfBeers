@@ -9,7 +9,7 @@ brewery: "Sierra Nevada Brewing Co."
 breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/23377_10151428526143745_898774029_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=3bec6332a73b06379a8386bd98c7f9f6&oe=5D79CA1D
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/23377_10151428526143745_898774029_n.jpg?_nc_cat=107&_nc_oc=AQlLiE5wAfrYrdu7VG6U4wNlDRIxGGDjlqslWqrNkFpwy9kh39DPzGWfoko93qBJZnk&_nc_ht=scontent.xx&oh=5a63b2f733f7bdec98cde0af3f6341e6&oe=5DA1571D
 beer-date: "2013-01-13"
 desc: "A quality strong flavour"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Browar Namysłów"
 breweryURL: "/brewery/browar-namyslow.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13442354_10154200938273745_8005265126653801521_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=d1b8a24383dd3883ceb2c88bf300f073&oe=5DC37BDE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13442354_10154200938273745_8005265126653801521_n.jpg?_nc_cat=107&_nc_oc=AQmniiUddUquQZB9qD9WqaHN7putmmonr0ZgoR_yjCJyKSQKUZxg3XArgvEZYurQIKQ&_nc_ht=scontent.xx&oh=ab6a0af2cc0a5dd5fa8de35fd1fc6746&oe=5DC37BDE
 beer-date: "2016-06-16"
 desc: "Malty European pils. Nothing special"
 permalink: /beer/:title.html

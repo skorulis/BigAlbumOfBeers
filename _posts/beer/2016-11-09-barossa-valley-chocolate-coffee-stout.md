@@ -9,7 +9,7 @@ brewery: "Barossa Valley Brewing"
 breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Stout - Oatmeal"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26231512_10155922808978745_173600663525109138_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=6fad398c8a8e42272b972a16bac0b26b&oe=5D841F33
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26231512_10155922808978745_173600663525109138_n.jpg?_nc_cat=106&_nc_oc=AQkQ1bua1_s683Ty0K4OqPVddO08EVwk46WBRxlGDG6Qebk7rGeJJdkYIgGJ70gCaq4&_nc_ht=scontent.xx&oh=c2fee05085df20379f3a9bd7a7efebfa&oe=5DABAC33
 beer-date: "2018-01-13"
 desc: "Solid stout flavours, nice and heavy on the chocolate"
 permalink: /beer/:title.html

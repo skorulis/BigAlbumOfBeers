@@ -9,7 +9,7 @@ brewery: "Pacific Western Brewing"
 breweryURL: "/brewery/pacific-western-brewing.html"
 style: "Lager - North American Adjunct"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20954076_10155535940838745_3913715353920153083_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=ed5e63f4409629f7936fc8b3bf9e2790&oe=5D92E07C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20954076_10155535940838745_3913715353920153083_n.jpg?_nc_cat=111&_nc_oc=AQmoAgXmvBxh6bjTTXU2fphDM6n0Di9o21RPPFMZGnwKnDp2iLVPMabOxFh9Odwp4Rc&_nc_ht=scontent.xx&oh=891c9ab1778ea1d2ccd6c8ca682d7eda&oe=5DBA6D7C
 beer-date: "2017-08-21"
 desc: "Very dry. Tastes like a mainstream Australian lager"
 permalink: /beer/:title.html

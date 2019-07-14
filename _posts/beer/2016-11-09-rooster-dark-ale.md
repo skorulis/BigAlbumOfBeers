@@ -9,7 +9,7 @@ brewery: "Rooster Beers "
 breweryURL: "/brewery/rooster-beers.html"
 style: "Dark Ale"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27858556_10156021377928745_2527757657114895509_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=59b1c2d007eb92911382f7f3f5e7c9c1&oe=5D83CA73
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27858556_10156021377928745_2527757657114895509_n.jpg?_nc_cat=106&_nc_oc=AQkiK_fKnaV542tyKMbiB72SN4ML0vLIglZ_cCJbtnhmT7Roh-WVRhrxGZNoTYEJMbs&_nc_ht=scontent.xx&oh=929b1eb440594c01528b5397161d7458&oe=5DAB5773
 beer-date: "2018-02-17"
 desc: "Rich dark ale but not too strong in the coffee flavours. Really great if you wanted to get into dark beers"
 permalink: /beer/:title.html

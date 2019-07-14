@@ -9,7 +9,7 @@ brewery: "Einstök Ölgerð"
 breweryURL: "/brewery/einstok-olgero.html"
 style: "Porter - Baltic"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069403_10151798927653745_683815255_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=743256167b65b710e8c0c80d5badaf69&oe=5D924016
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1069403_10151798927653745_683815255_n.jpg?_nc_cat=107&_nc_oc=AQksJkiTPJCwtCB70XKwJBzBCTy7g1bLWlyFKr4kRdLlcVuZwg6OQRyrUW04FlmF2UU&_nc_ht=scontent.xx&oh=d01d13b6445e6a68fcfecdb0e381ba05&oe=5DB9CD16
 beer-date: "2013-07-19"
 desc: "A good morning beer. With bacon and eggs. Also beer #300!"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Flensburger Brauerei Emil Petersen"
 breweryURL: "/brewery/flensburger-brauerei-emil-petersen.html"
 style: "Pilsner - German"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19146275_10155314454048745_2986073294301966538_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=017e551d4ef71e6934032ee1208d5344&oe=5D88830C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19146275_10155314454048745_2986073294301966538_n.jpg?_nc_cat=103&_nc_oc=AQkMwtdL7qQ0e6YrvpglGTr2i-tzQi1X_swsX8Tjd7qMKAn2Nn4saIdl6IkVrq31M_o&_nc_ht=scontent.xx&oh=67c52ecbb50861ab571d5525d04d6402&oe=5DB0100C
 beer-date: "2017-06-15"
 desc: "Pretty easy to get down. Decent session beer"
 permalink: /beer/:title.html

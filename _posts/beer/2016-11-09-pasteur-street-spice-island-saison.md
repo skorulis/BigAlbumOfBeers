@@ -9,7 +9,7 @@ brewery: "Pasteur Street Brewing Company"
 breweryURL: "/brewery/pasteur-street-brewing-company.html"
 style: "Saison / Farmhouse Ale"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27858400_10156021378613745_1107827561955132712_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=7494a24fc4ab9e1f46088e1e685329e7&oe=5DBE2DC4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27858400_10156021378613745_1107827561955132712_n.jpg?_nc_cat=100&_nc_oc=AQnmlcXmVB5Rf2WF-7RbEDQq4B_aHWEkZ0m6uTVBF9tcg4BcXKA4rO5-yBxNTuJ0iQk&_nc_ht=scontent.xx&oh=d31b5245038548248fbccf4793e48249&oe=5DBE2DC4
 beer-date: "2018-02-17"
 desc: "Not as much Belgian flavour as I expected. The slight fruit flavours complement the saison tinge"
 permalink: /beer/:title.html

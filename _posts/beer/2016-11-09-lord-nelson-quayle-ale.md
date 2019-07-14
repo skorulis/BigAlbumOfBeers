@@ -9,7 +9,7 @@ brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Pale Wheat Ale - American"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/602158_10151602281568745_1269833032_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=7f91f0fbb6413b1b6f565b1f03997794&oe=5D8F7750
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/602158_10151602281568745_1269833032_n.jpg?_nc_cat=105&_nc_oc=AQmGvDwnxeeacJJaKnpGcchgYSh_IiLnTmNnJIUxLNAWypUO1FGsJpbhNiHLAmrw_3I&_nc_ht=scontent.xx&oh=50638c1e413fa4d5a05b15e29210f20a&oe=5DB70450
 beer-date: "2013-03-28"
 desc: "Not as good as expected"
 permalink: /beer/:title.html

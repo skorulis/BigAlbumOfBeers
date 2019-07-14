@@ -9,7 +9,7 @@ brewery: "Magic Hat Brewing Company"
 breweryURL: "/brewery/magic-hat-brewing-company.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15027843_10154633843218745_6421410119970575016_n.jpg?_nc_cat=102&_nc_ht=scontent.xx&oh=805736b7421c75a9175f41f354a77c76&oe=5D91F455
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/15027843_10154633843218745_6421410119970575016_n.jpg?_nc_cat=102&_nc_oc=AQkFMeuPSaB4Izk7acr0bl8TjwIbSgns7w3AAYTWljs8mFN0AXkHqnmNFjDokAZDeUc&_nc_ht=scontent.xx&oh=79d311da70d2b3f14c9e38bab6d724a9&oe=5DB98155
 beer-date: "2016-11-13"
 desc: "Not terribly exciting. The agave seems to smooth it out a bit but not enough to really differentiate it"
 permalink: /beer/:title.html

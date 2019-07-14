@@ -9,7 +9,7 @@ brewery: "Basement Brewhouse"
 breweryURL: "/brewery/basement-brewhouse.html"
 style: "Lager - Helles"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22780627_10155717526558745_7608815441796551638_n.jpg?_nc_cat=111&_nc_ht=scontent.xx&oh=797e79d6b652cd3291ce9e85af4cf88a&oe=5DBCC8F9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22780627_10155717526558745_7608815441796551638_n.jpg?_nc_cat=111&_nc_oc=AQlyGEDmJgH6f2Z-BvqCOWS6DmjuC1zow98YvRBgSwmlwIhBIf8eIzim68chv3Nw_q0&_nc_ht=scontent.xx&oh=eec049de44f6fc2af7fa6b8052102004&oe=5DBCC8F9
 beer-date: "2017-10-28"
 desc: "A little too bitter for my liking but easy drinking once you get used to it"
 permalink: /beer/:title.html

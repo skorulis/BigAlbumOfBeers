@@ -9,7 +9,7 @@ brewery: "Spaten-Franziskaner-Löwenbräu-Gruppe"
 breweryURL: "/brewery/spaten-franziskaner-lowenbrau-gruppe.html"
 style: "Hefeweizen"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19959257_10155413260793745_2895483896495016571_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=bb3fea1f3e94c1fa03779301d64c97fe&oe=5DC33A58
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19959257_10155413260793745_2895483896495016571_n.jpg?_nc_cat=110&_nc_oc=AQmEterRgeszt2iY_RGIEX9IXtjzoqvpiganCYbzYsCstSiMm9zyGluvgUJl6kJlW1k&_nc_ht=scontent.xx&oh=2c8f0fac9ec0c37b535c2e5f06cb153d&oe=5DC33A58
 beer-date: "2017-07-12"
 desc: "The first time I had this it was mixed with orange and lemonade, it was still good but not what I wanted. The second time it was plain which I prefer. Decent all round weissbier"
 permalink: /beer/:title.html

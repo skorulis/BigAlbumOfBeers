@@ -9,7 +9,7 @@ brewery: "Prilepska Pivarnica"
 breweryURL: "/brewery/prilepska-pivarnica.html"
 style: "Lager - Euro"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27972692_10156021376673745_2505385702076331769_n.jpg?_nc_cat=104&_nc_ht=scontent.xx&oh=bbcdba9fed9ae69615d36692c6e8daac&oe=5DC34818
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27972692_10156021376673745_2505385702076331769_n.jpg?_nc_cat=104&_nc_oc=AQk6m8oONo2Nw-HOXEZjn-oyQxNBFDINtTl6ERUr-gftTtqj3Gkdrb4ZF0OBBv6cVCI&_nc_ht=scontent.xx&oh=879d2ac7cd45369b3d32261d7d9cf44c&oe=5DC34818
 beer-date: "2018-02-17"
 desc: "Very mild and easy drinking. Surprisingly good"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Merchant Brewing Co."
 breweryURL: "/brewery/merchant-brewing-co.html"
 style: "Porter - English"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789110_10155717526468745_8439084413651924469_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=0dd84a5fba154347e335ebd6258d9a5b&oe=5DBFA8A1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22789110_10155717526468745_8439084413651924469_n.jpg?_nc_cat=109&_nc_oc=AQmq5SnVykUeaTCl5RCa_r0AoTzjQIjban1TG2czfNU-YVp4Cl4ZgWEWTB1iDsb-tq0&_nc_ht=scontent.xx&oh=84034098afca2210f3286364f0130b20&oe=5DBFA8A1
 beer-date: "2017-10-28"
 desc: "A little metallic but decent after that. A little creamy with a hint of chocolate"
 permalink: /beer/:title.html

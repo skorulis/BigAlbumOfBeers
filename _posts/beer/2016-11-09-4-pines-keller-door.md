@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-4-pines-keller-door.md
 title: 4 pines Keller door
 category: beer
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/527734_10151602296568745_390928601_n.jpg?_nc_cat=109&_nc_ht=scontent.xx&oh=2c30de4432138d0b23b003f344bbf09b&oe=5D8699B1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/527734_10151602296568745_390928601_n.jpg?_nc_cat=109&_nc_oc=AQnvH3Zq0wt6OqWMxiDWJzWwr2ZRle6xG-fW9VjGqz_WlItbYWVIu4AMA5E4GpSszJQ&_nc_ht=scontent.xx&oh=a8f7ca978585860e41daea073b01c510&oe=5DAE26B1
 beer-date: "2013-03-28"
 desc: "Just a little bit extra flavour than a standard lager"
 permalink: /beer/:title.html

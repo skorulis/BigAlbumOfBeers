@@ -9,7 +9,7 @@ brewery: "Colonial Brewing Co"
 breweryURL: "/brewery/colonial-brewing-co.html"
 style: "Stout - Imperial / Double"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43198538_10156603266553745_6131250193691049984_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=7384038f33271542047c3b57bf878ddd&oe=5D847798
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43198538_10156603266553745_6131250193691049984_n.jpg?_nc_cat=103&_nc_oc=AQl6J7ZfASs1TtgWBLs3Z_BvsY_1F0le-TYwmxpHgek4A-xavAUhK4K8vWpso1_v9mU&_nc_ht=scontent.xx&oh=0f8a52d2f57d0de0388b6260b5288d5a&oe=5DAC0498
 beer-date: "2018-10-05"
 desc: "A little bit sugary but super easy to drink. Fairly thick but no really strong flavours"
 permalink: /beer/:title.html

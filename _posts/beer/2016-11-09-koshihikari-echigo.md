@@ -9,7 +9,7 @@ brewery: "Echigo Beer Co."
 breweryURL: "/brewery/echigo-beer-co.html"
 style: "Lager - Japanese Rice"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16806744_10154957443088745_1615450569009881150_n.jpg?_nc_cat=103&_nc_ht=scontent.xx&oh=eb790b56a00c7cbc6690d893b4d4b0ed&oe=5D8A7BBC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16806744_10154957443088745_1615450569009881150_n.jpg?_nc_cat=103&_nc_oc=AQmfFztbYbXTRZIPk5QgEV-WPa8igIE0g_tzwBmLVX7Gj7gmvPkyn0XR1LVZfekrnA8&_nc_ht=scontent.xx&oh=76017ba819ebeb7e767f0a5087636a65&oe=5DB208BC
 beer-date: "2017-02-22"
 desc: "It's decent, slightly better than I expected. Not too much hop forward flavour. Going well with dinner"
 permalink: /beer/:title.html

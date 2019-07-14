@@ -9,7 +9,7 @@ brewery: "Goose Island Beer Co."
 breweryURL: "/brewery/goose-island-beer-co.html"
 style: "Pale Wheat Ale - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18892877_10155271709853745_3656699317545720116_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=b1b03f985243c6fd2103d1a33f28d1c3&oe=5DC0B7F0
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18892877_10155271709853745_3656699317545720116_n.jpg?_nc_cat=100&_nc_oc=AQn7T_0wrWqkdAl_MKMitQcZ7etkuMKv4_sRN-QmCKyyc6nIIi96DTjnXDi_gnT3hBk&_nc_ht=scontent.xx&oh=30df58bd4347dd8a3fe61c9c8004f804&oe=5DC0B7F0
 beer-date: "2017-06-02"
 desc: "Mild in all possible ways but well balanced. The wheat is barely noticeable to the point where you could mistake this for a lager"
 permalink: /beer/:title.html

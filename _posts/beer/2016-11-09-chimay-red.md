@@ -9,7 +9,7 @@ brewery: "Bières de Chimay"
 breweryURL: "/brewery/bieres-de-chimay.html"
 style: "Belgian Dubbel"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1554374_10153656866968745_899111329413653237_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=61f94d36a4f71f7af27546650ea28e6c&oe=5D79807E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1554374_10153656866968745_899111329413653237_n.jpg?_nc_cat=100&_nc_oc=AQno-kxxYQOPEIPbfCP8hvIsS_7_vKz5UMEGfbvU16CBM8HO14p3bWjnUgixEkE-bIg&_nc_ht=scontent.xx&oh=d8753b42af12d327cd5811657426465d&oe=5DA10D7E
 beer-date: "2015-10-17"
 desc: "Well known but not the best example of a belgian dubbel"
 permalink: /beer/:title.html

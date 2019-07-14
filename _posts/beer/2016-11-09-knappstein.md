@@ -9,7 +9,7 @@ brewery: "Knappstein Enterprise Winery & Brewery"
 breweryURL: "/brewery/knappstein-enterprise-winery-brewery.html"
 style: "Lager - Pale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10941856_10153053851368745_8703876646395783250_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=5c2c26093c075d589ea671304d051bce&oe=5DC154F2
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10941856_10153053851368745_8703876646395783250_n.jpg?_nc_cat=105&_nc_oc=AQk1zEUaPyhKO6okxci9xASJUncoL1HbA5bToLEXmIPz7ESUjX5YczNOzZkFcR83qRY&_nc_ht=scontent.xx&oh=60250dab5f4975a41fc1146926ee0677&oe=5DC154F2
 beer-date: "2015-01-28"
 desc: "A little bit harsh. Wouldn't buy again"
 permalink: /beer/:title.html

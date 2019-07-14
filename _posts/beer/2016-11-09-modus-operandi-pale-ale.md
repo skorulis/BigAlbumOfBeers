@@ -9,7 +9,7 @@ brewery: "Modus Operandi Brewing Co."
 breweryURL: "/brewery/modus-operandi-brewing-co.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17884034_10155111577338745_664481427414940226_n.jpg?_nc_cat=110&_nc_ht=scontent.xx&oh=a33ba8b2e040b5a20a5795467b86c981&oe=5D87841C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/17884034_10155111577338745_664481427414940226_n.jpg?_nc_cat=110&_nc_oc=AQmugIPGmW2hyxSVKk4PYSPedGD4r_6d7TOOt1biaz31bF-cQ1BUXVIxlvZ3EIRm-fI&_nc_ht=scontent.xx&oh=f289fbc590c4a6a1b885a5d43c4d7c87&oe=5DAF111C
 beer-date: "2017-04-11"
 desc: "A little more bitter than expected. But there's a delicious sweetness that works well. It's moderately hoppy, somewhere in the middle between easy drinking and flavourful"
 permalink: /beer/:title.html

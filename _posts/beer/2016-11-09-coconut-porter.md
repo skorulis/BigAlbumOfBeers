@@ -9,7 +9,7 @@ brewery: "Maui Brewing Company"
 breweryURL: "/brewery/maui-brewing-company.html"
 style: "Porter - American"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1479322_10152147730723745_835775935_n.jpg?_nc_cat=105&_nc_ht=scontent.xx&oh=ab1c2590ef941be94b6051cf6feb9b56&oe=5DBC8D07
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1479322_10152147730723745_835775935_n.jpg?_nc_cat=105&_nc_oc=AQlrnQxiLRXmrOvXzSiAA6GsMn1pWAXtoVdgxmPyEM6VTVNR2DbL-X_rZO3Pikeq19E&_nc_ht=scontent.xx&oh=dc8ae1bc64c4c848c1b0bc17c7a9d28f&oe=5DBC8D07
 beer-date: "2013-12-23"
 desc: "Can’t really taste the coconut and seems to curdle the stomach. Could just be fighting with the other beers. Or the fried rice"
 permalink: /beer/:title.html

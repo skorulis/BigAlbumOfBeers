@@ -9,7 +9,7 @@ brewery: "Four Winds Brewing"
 breweryURL: "/brewery/four-winds-brewing.html"
 style: "Sour - Ale"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18739973_10155251934533745_7278675421876184352_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=579de235d425ad8451ef308c3734df29&oe=5D805DA7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18739973_10155251934533745_7278675421876184352_n.jpg?_nc_cat=100&_nc_oc=AQltAKPuTMHCtKhW3s9GOHF2nIxww5NMiJ-QMQHhfe1wIPZR2mwMKF4cNvm0J75P2hk&_nc_ht=scontent.xx&oh=e9343bc2d3e7840d97798e4154dc24d3&oe=5DA7EAA7
 beer-date: "2017-05-27"
 desc: "I can’t pick out any of the dry hop flavours but I’m ok with that because it’s a delicious sour. The kind of sour which gets it right without bothering to worry about hiding it with fruit. It’s hard to say much about this because I don’t have much to compare it to. Definitely worth a try for anyone who feels like experimenting with sours"
 permalink: /beer/:title.html

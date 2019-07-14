@@ -1,0 +1,3266 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.17,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 5571,
+      "beer_name": "Brooklyn Summer Ale",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+      "beer_label_hd": "https://untappd.akamaized.net/site/beer_logos_hd/beer-5571_d7132_hd.jpeg",
+      "beer_abv": 5,
+      "beer_ibu": 18,
+      "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+      "beer_style": "Pale Ale - English",
+      "is_in_production": 1,
+      "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+      "is_homebrew": 0,
+      "created_at": "Sat, 21 Aug 2010 14:26:35 +0000",
+      "rating_count": 134914,
+      "rating_score": 3.46323,
+      "stats": {
+        "total_count": 218244,
+        "monthly_count": 2996,
+        "total_user_count": 152127,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 259,
+        "brewery_name": "Brooklyn Brewery",
+        "brewery_slug": "brooklyn-brewery",
+        "brewery_type": "Regional Brewery",
+        "brewery_page_url": "/brooklynbrewery",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+        "country_name": "United States",
+        "contact": {
+          "twitter": "brooklynbrewery",
+          "facebook": "https://www.facebook.com/thebrooklynbrewery",
+          "url": "http://brooklynbrewery.com"
+        },
+        "location": {
+          "brewery_city": "Brooklyn",
+          "brewery_state": "NY",
+          "lat": 40.7215,
+          "lng": -73.9575
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 241777042,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/f3152904808f79cae33f7e9fed99fd9d_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/f3152904808f79cae33f7e9fed99fd9d_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/f3152904808f79cae33f7e9fed99fd9d_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/f3152904808f79cae33f7e9fed99fd9d_raw.jpg"
+            },
+            "created_at": "Sun, 14 Jul 2019 04:10:15 +0000",
+            "checkin_id": 777167367,
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "is_in_production": 1,
+              "beer_style_id": 203,
+              "beer_style": "Pale Ale - English",
+              "rating_score": 3.463,
+              "rating_count": 134914,
+              "count": 134914,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6470864,
+              "user_name": "Dinoraaa",
+              "first_name": "Dinora",
+              "last_name": "L",
+              "user_avatar": "https://untappd.akamaized.net/profile/0131119936c811dc0e0e56fc271d271c_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 31426,
+                "venue_name": "Longstreet's Deli",
+                "venue_slug": "longstreet-s-deli",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "deli_bodega",
+                      "category_name": "Deli / Bodega",
+                      "category_id": "4bf58dd8d48988d146941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "302 N Sycamore St",
+                  "venue_city": "Petersburg",
+                  "venue_state": "VA",
+                  "lat": 37.2319,
+                  "lng": -77.4049
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "4b92cb73f964a5206c1c34e3",
+                  "foursquare_url": "http://4sq.com/cY8hrI"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/deli_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/deli_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/deli_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 241764511,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/37d126d75f6e44e14d92f8db808dd6e3_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/37d126d75f6e44e14d92f8db808dd6e3_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/37d126d75f6e44e14d92f8db808dd6e3_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/37d126d75f6e44e14d92f8db808dd6e3_raw.jpeg"
+            },
+            "created_at": "Sun, 14 Jul 2019 02:38:18 +0000",
+            "checkin_id": 777130532,
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "is_in_production": 1,
+              "beer_style_id": 203,
+              "beer_style": "Pale Ale - English",
+              "rating_score": 3.463,
+              "rating_count": 134914,
+              "count": 134914,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3023361,
+              "user_name": "Junie18",
+              "first_name": "June",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/b3f8f4b9db53f020d33f27c70d07246e_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 241763179,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/e3a86fa415d6a8024647ceac61f24d81_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/e3a86fa415d6a8024647ceac61f24d81_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/e3a86fa415d6a8024647ceac61f24d81_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/e3a86fa415d6a8024647ceac61f24d81_raw.jpg"
+            },
+            "created_at": "Sun, 14 Jul 2019 02:31:19 +0000",
+            "checkin_id": 777126642,
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "is_in_production": 1,
+              "beer_style_id": 203,
+              "beer_style": "Pale Ale - English",
+              "rating_score": 3.463,
+              "rating_count": 134914,
+              "count": 134914,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2149623,
+              "user_name": "BudmansDaughter12",
+              "first_name": "Kinsey",
+              "last_name": "H",
+              "user_avatar": "https://untappd.akamaized.net/profile/1fec1890b694080bfda33f6db4266fa5_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 26474,
+                "venue_name": "The Mohawk",
+                "venue_slug": "the-mohawk",
+                "primary_category": "Arts & Entertainment",
+                "parent_category_id": "4d4b7104d754a06370d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "rock_club",
+                      "category_name": "Rock Club",
+                      "category_id": "4bf58dd8d48988d1e9931735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "music_venue",
+                      "category_name": "Music Venue",
+                      "category_id": "4bf58dd8d48988d1e5931735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "912 Red River St",
+                  "venue_city": "Austin",
+                  "venue_state": "TX",
+                  "lat": 30.27,
+                  "lng": -97.7359
+                },
+                "contact": {
+                  "twitter": "@mohawkaustin",
+                  "venue_url": "http://mohawkaustin.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "45f4fde8f964a52001441fe3",
+                  "foursquare_url": "http://4sq.com/2sgNU0"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 241748662,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/8a0d388227f783e66dce6a030ece4b6d_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/8a0d388227f783e66dce6a030ece4b6d_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/8a0d388227f783e66dce6a030ece4b6d_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/8a0d388227f783e66dce6a030ece4b6d_raw.jpg"
+            },
+            "created_at": "Sun, 14 Jul 2019 01:26:30 +0000",
+            "checkin_id": 777084045,
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "is_in_production": 1,
+              "beer_style_id": 203,
+              "beer_style": "Pale Ale - English",
+              "rating_score": 3.463,
+              "rating_count": 134914,
+              "count": 134914,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5470961,
+              "user_name": "sambelliss",
+              "first_name": "Sam",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/ea8242efdabc204518d523ce86c95f8c_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 241748366,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/88abbd32bef8c3be434bc4ab30513f65_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/88abbd32bef8c3be434bc4ab30513f65_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/88abbd32bef8c3be434bc4ab30513f65_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/88abbd32bef8c3be434bc4ab30513f65_raw.jpeg"
+            },
+            "created_at": "Sun, 14 Jul 2019 01:25:20 +0000",
+            "checkin_id": 777083100,
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "is_in_production": 1,
+              "beer_style_id": 203,
+              "beer_style": "Pale Ale - English",
+              "rating_score": 3.463,
+              "rating_count": 134914,
+              "count": 134914,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 12210,
+              "user_name": "hawkgey",
+              "first_name": "Dave",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/38384f94e19dc652dd9d6fd2d6ee6351_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 241742240,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/39388628982bb19a5e61071bec49644f_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/39388628982bb19a5e61071bec49644f_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/39388628982bb19a5e61071bec49644f_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/39388628982bb19a5e61071bec49644f_raw.jpg"
+            },
+            "created_at": "Sun, 14 Jul 2019 01:01:48 +0000",
+            "checkin_id": 777065165,
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "is_in_production": 1,
+              "beer_style_id": 203,
+              "beer_style": "Pale Ale - English",
+              "rating_score": 3.463,
+              "rating_count": 134914,
+              "count": 134914,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3087475,
+              "user_name": "markmurph1983",
+              "first_name": "Mark",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/838d289770cc6befd2e84d6f67388506_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 362630,
+                "venue_name": "The Crystal Tea Room",
+                "venue_slug": "the-crystal-tea-room",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "tea_room",
+                      "category_name": "Tea Room",
+                      "category_id": "4bf58dd8d48988d1dc931735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "100 E Penn Sq Fl 11",
+                  "venue_city": "Philadelphia",
+                  "venue_state": "PA",
+                  "lat": 39.951,
+                  "lng": -75.1622
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://finleycatering.com/crystal-tea-room/"
+                },
+                "foursquare": {
+                  "foursquare_id": "4c4ca89a50710f47a3cb7032",
+                  "foursquare_url": "http://4sq.com/9TFwuS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 241734548,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/de1563d649b3c844081cd1847cd919f0_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/de1563d649b3c844081cd1847cd919f0_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/de1563d649b3c844081cd1847cd919f0_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/de1563d649b3c844081cd1847cd919f0_raw.jpg"
+            },
+            "created_at": "Sun, 14 Jul 2019 00:34:25 +0000",
+            "checkin_id": 777041207,
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "is_in_production": 1,
+              "beer_style_id": 203,
+              "beer_style": "Pale Ale - English",
+              "rating_score": 3.463,
+              "rating_count": 134914,
+              "count": 134914,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2384010,
+              "user_name": "Jackib",
+              "first_name": "Jacki",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/f5b5dff53d6bea464be41d6a9eac79eb_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2681279,
+                "venue_name": "Section 101 Row D",
+                "venue_slug": "section-101-row-d",
+                "primary_category": "Arts & Entertainment",
+                "parent_category_id": "4d4b7104d754a06370d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "concert_hall",
+                      "category_name": "Concert Hall",
+                      "category_id": "5032792091d4c4b30a586d5c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "performing_arts_venue",
+                      "category_name": "Performing Arts Venue",
+                      "category_id": "4bf58dd8d48988d1f2931735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "PNC Banks Art Center",
+                  "venue_city": "Holmdel",
+                  "venue_state": "NJ",
+                  "lat": 40.3934,
+                  "lng": -74.1755
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "4e3ddc5eaeb73139a17fd5ed",
+                  "foursquare_url": "http://4sq.com/nTLpSy"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 241732095,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/7adbebbe2010e5f85733175ea9ec6e3c_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/7adbebbe2010e5f85733175ea9ec6e3c_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/7adbebbe2010e5f85733175ea9ec6e3c_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/7adbebbe2010e5f85733175ea9ec6e3c_raw.jpg"
+            },
+            "created_at": "Sun, 14 Jul 2019 00:26:15 +0000",
+            "checkin_id": 777033406,
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "is_in_production": 1,
+              "beer_style_id": 203,
+              "beer_style": "Pale Ale - English",
+              "rating_score": 3.463,
+              "rating_count": 134914,
+              "count": 134914,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6749599,
+              "user_name": "nrnovakowski",
+              "first_name": "Nicholas",
+              "last_name": "R",
+              "user_avatar": "https://untappd.akamaized.net/profile/f6c52a8b953c401cd5981df5695989b0-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 241732056,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/2a2b871ca267264586262ccf9ca1999a_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/2a2b871ca267264586262ccf9ca1999a_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/2a2b871ca267264586262ccf9ca1999a_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/2a2b871ca267264586262ccf9ca1999a_raw.jpg"
+            },
+            "created_at": "Sun, 14 Jul 2019 00:26:11 +0000",
+            "checkin_id": 777035107,
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "is_in_production": 1,
+              "beer_style_id": 203,
+              "beer_style": "Pale Ale - English",
+              "rating_score": 3.463,
+              "rating_count": 134914,
+              "count": 134914,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4023963,
+              "user_name": "BDALINDY",
+              "first_name": "Christina",
+              "last_name": "L",
+              "user_avatar": "https://untappd.akamaized.net/profile/84c3362a64e6507da92ae8677145374c_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5396010,
+                "venue_name": "The Douglass",
+                "venue_slug": "the-douglass",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "gastropub",
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "149 4th Ave",
+                  "venue_city": "Brooklyn",
+                  "venue_state": "NY",
+                  "lat": 40.6793,
+                  "lng": -73.9818
+                },
+                "contact": {
+                  "twitter": "@TheDouglassBK",
+                  "venue_url": "http://www.thedouglass.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "57dec905498ea530e5f407b7",
+                  "foursquare_url": "http://4sq.com/2cHHvhJ"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_5396010_5bc38988_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_5396010_5bc38988_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_5396010_5bc38988_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 241721310,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_13/503dee8f94e5879dbd25c9441bbeefdc_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_13/503dee8f94e5879dbd25c9441bbeefdc_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_13/503dee8f94e5879dbd25c9441bbeefdc_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_13/503dee8f94e5879dbd25c9441bbeefdc_raw.jpg"
+            },
+            "created_at": "Sat, 13 Jul 2019 23:50:38 +0000",
+            "checkin_id": 777003540,
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "is_in_production": 1,
+              "beer_style_id": 203,
+              "beer_style": "Pale Ale - English",
+              "rating_score": 3.463,
+              "rating_count": 134914,
+              "count": 134914,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3275190,
+              "user_name": "bja5006",
+              "first_name": "Brian",
+              "last_name": "",
+              "user_avatar": "https://gravatar.com/avatar/4a6cefb02f776e2d637b9874d3750e38?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 262905,
+                "venue_name": "The Governors' Pub",
+                "venue_slug": "the-governors-pub",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "211 W High St",
+                  "venue_city": "Bellefonte",
+                  "venue_state": "PA",
+                  "lat": 40.9116,
+                  "lng": -77.7801
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "4b218d6af964a520b93d24e3",
+                  "foursquare_url": "http://4sq.com/8zr9v6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 777191192,
+            "created_at": "Sun, 14 Jul 2019 06:42:24 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 4864980,
+              "user_name": "Ridenori",
+              "first_name": "Hidenori",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/b54aabe6fb753d8e5a0e7557f68a9f62?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 276005,
+                  "user_badge_id": 535325374,
+                  "badge_name": "Cheers to Independent U.S. Craft Breweries (Level 2)",
+                  "badge_description": "Cheers, beer patriot! You are supporting the small and independent American craft brewer. When you see the seal -- shaped like an upside-down beer bottle -- that's independence you're tasting. Try 4 more to earn Level 3!",
+                  "created_at": "Sun, 14 Jul 2019 06:42:24 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BAIndySeal18_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BAIndySeal18_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BAIndySeal18_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777167367,
+            "created_at": "Sun, 14 Jul 2019 04:10:07 +0000",
+            "checkin_comment": "Tasty",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 6470864,
+              "user_name": "Dinoraaa",
+              "first_name": "Dinora",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/0131119936c811dc0e0e56fc271d271c_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 31426,
+              "venue_name": "Longstreet's Deli",
+              "venue_slug": "longstreet-s-deli",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "deli_bodega",
+                    "category_name": "Deli / Bodega",
+                    "category_id": "4bf58dd8d48988d146941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "302 N Sycamore St",
+                "venue_city": "Petersburg",
+                "venue_state": "VA",
+                "venue_country": "United States",
+                "lat": 37.2319,
+                "lng": -77.4049
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4b92cb73f964a5206c1c34e3",
+                "foursquare_url": "http://4sq.com/cY8hrI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/deli_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/deli_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/deli_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 241777042,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/f3152904808f79cae33f7e9fed99fd9d_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/f3152904808f79cae33f7e9fed99fd9d_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/f3152904808f79cae33f7e9fed99fd9d_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/f3152904808f79cae33f7e9fed99fd9d_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 12059,
+                  "user_badge_id": 535300652,
+                  "badge_name": "Beer Foodie (Level 2)",
+                  "badge_description": "Wine isn't the only beverage worthy of pairing with a delicious meal. With so many styles widely available, there’s a perfect pint for any cuisine of your choosing. That's a beer at 10 different venues categorized as a Restaurant. Try 5 more for Level 3!",
+                  "created_at": "Sun, 14 Jul 2019 04:10:07 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777165663,
+            "created_at": "Sun, 14 Jul 2019 04:04:10 +0000",
+            "checkin_comment": "Excellent light summer ale. Tasty and refreshing",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 6134911,
+              "user_name": "Craft_Nate",
+              "first_name": "Nate",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Eating and drinking my way around the world",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/d162def4f0f025da29f84775dcdc5df6_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3306,
+              "venue_name": "Mission Bar & Grill",
+              "venue_slug": "mission-bar-grill",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "724 Huntington Ave",
+                "venue_city": "Boston",
+                "venue_state": "MA",
+                "venue_country": "United States",
+                "lat": 42.3339,
+                "lng": -71.1051
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://themissionbar.com"
+              },
+              "foursquare": {
+                "foursquare_id": "456fe47bf964a520473e1fe3",
+                "foursquare_url": "http://4sq.com/61pjTG"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3786,
+                  "user_badge_id": 535298924,
+                  "badge_name": "Bar Explorer (Level 4)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 20 distinct venues!",
+                  "created_at": "Sun, 14 Jul 2019 04:04:10 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777159519,
+            "created_at": "Sun, 14 Jul 2019 03:44:35 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 6837629,
+              "user_name": "mirandab224",
+              "first_name": "Miranda",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/f4081af9f1e23c1ee692bd1e03e45102_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6458607,
+                  "user": {
+                    "uid": 6458607,
+                    "user_name": "lrgreen18",
+                    "first_name": "Luke",
+                    "last_name": "G.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/106d66646e9b2ec114342745d6c22ff8?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 688608017,
+                  "like_owner": false,
+                  "created_at": "Sun, 14 Jul 2019 03:45:33 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 78,
+                  "user_badge_id": 535292559,
+                  "badge_name": "Playing the Field",
+                  "badge_description": "Does the word picking favorites mean anything to you? Obviously not. That's 10 different beers in a row.",
+                  "created_at": "Sun, 14 Jul 2019 03:44:35 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_playingTheField_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_playingTheField_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_playingTheField_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34605,
+                  "user_badge_id": 535292560,
+                  "badge_name": "Hopped Down",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 5 different beers with an IBU of 20 or below. Try 5 more for Level 2!",
+                  "created_at": "Sun, 14 Jul 2019 03:44:35 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 345817,
+                  "user_badge_id": 535292561,
+                  "badge_name": "Beer of the World",
+                  "badge_description": "Traveling the world is hard, but not for you. It's as easy as cracking opening a new brew! You have had a beer from at least 5 different regions around the world. Try 5 more for Level 2!\n",
+                  "created_at": "Sun, 14 Jul 2019 03:44:35 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beers-of-the-world_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beers-of-the-world_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beers-of-the-world_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777158562,
+            "created_at": "Sun, 14 Jul 2019 03:41:45 +0000",
+            "checkin_comment": "",
+            "rating_score": 5,
+            "user": {
+              "uid": 2170305,
+              "user_name": "Cips916",
+              "first_name": "M",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/238b9df9e19af5af9fc5bc9225d08df5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 6147576,
+              "venue_name": "The Springs Tavern",
+              "venue_slug": "the-springs-tavern",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "15 Fort Pond Blvd",
+                "venue_city": "East Hampton",
+                "venue_state": "NY",
+                "venue_country": "United States",
+                "lat": 41.032,
+                "lng": -72.1703
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.thespringstavern.com"
+              },
+              "foursquare": {
+                "foursquare_id": "583b4ef883622d31849c2d15",
+                "foursquare_url": "http://4sq.com/2gl5kLW"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34622,
+                  "user_badge_id": 535291651,
+                  "badge_name": "Hopped Down (Level 18)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 90 different beers with an IBU of 20 or below. Try 5 more for Level 19!",
+                  "created_at": "Sun, 14 Jul 2019 03:41:46 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777157059,
+            "created_at": "Sun, 14 Jul 2019 03:37:20 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 1620755,
+              "user_name": "atellis3",
+              "first_name": "Andrew",
+              "last_name": "E.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/36ac93af5fee5a194ee54595cf8e680e_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 287,
+                  "user_badge_id": 535290151,
+                  "badge_name": "Pale as the Moon (Level 2)",
+                  "badge_description": "Ahh, the trusty pale ale; crisp, refreshing, and always a good choice in a bind. That's 10 different Pale Ales. Try 5 more for Level 3.",
+                  "created_at": "Sun, 14 Jul 2019 03:37:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_PaleMoon_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_PaleMoon_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_PaleMoon_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777156452,
+            "created_at": "Sun, 14 Jul 2019 03:35:47 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 3993870,
+              "user_name": "theharshbergler",
+              "first_name": "Matt",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/34e9451ce1c9f7437f6dd1a78361b5c5?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 87328,
+              "venue_name": "The Corrib Pub and Restaurant",
+              "venue_slug": "the-corrib-pub-and-restaurant",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "396 Market St",
+                "venue_city": "Boston",
+                "venue_state": "MA",
+                "venue_country": "United States",
+                "lat": 42.3499,
+                "lng": -71.1528
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.corribpub.com"
+              },
+              "foursquare": {
+                "foursquare_id": "43a6baf0f964a520612c1fe3",
+                "foursquare_url": "http://4sq.com/5Onw3U"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 34612,
+                  "user_badge_id": 535289527,
+                  "badge_name": "Hopped Down (Level 8)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 40 different beers with an IBU of 20 or below. Try 5 more for Level 9!",
+                  "created_at": "Sun, 14 Jul 2019 03:35:47 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 243508,
+                  "user_badge_id": 535289528,
+                  "badge_name": "Brewery Pioneer (Level 13)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 65 different breweries. Try 5 more for Level 14!",
+                  "created_at": "Sun, 14 Jul 2019 03:35:47 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777154084,
+            "created_at": "Sun, 14 Jul 2019 03:29:24 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 516532,
+              "user_name": "PowerCrazy",
+              "first_name": "Bryan",
+              "last_name": "P.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/2cc9bcdd9fbcf2800c727578f7b53c21_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 19121,
+              "venue_name": "Commonwealth",
+              "venue_slug": "commonwealth",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "497 5th Ave",
+                "venue_city": "Brooklyn",
+                "venue_state": "NY",
+                "venue_country": "United States",
+                "lat": 40.6673,
+                "lng": -73.9878
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://commonwealthbar.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4116be80f964a520020c1fe3",
+                "foursquare_url": "http://4sq.com/IOIDx"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 777150747,
+            "created_at": "Sun, 14 Jul 2019 03:20:48 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 2824308,
+              "user_name": "TJmidlin95",
+              "first_name": "Tighe",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/b2771aec54f62a6f8d9850d7bb3f3220?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 2,
+              "count": 2,
+              "items": [
+                {
+                  "user": {
+                    "uid": 2094968,
+                    "user_name": "DelMontePeaches",
+                    "first_name": "Christian",
+                    "last_name": "D.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://untappd.akamaized.net/profile/e38169ac42f7882a4588d293a39e73ac_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 777150747,
+                  "comment_id": 51227595,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Shall I call you Sir Flid of new Camelot",
+                  "created_at": "Sun, 14 Jul 2019 03:31:05 +0000",
+                  "comment_source": "API"
+                },
+                {
+                  "user": {
+                    "uid": 2824308,
+                    "user_name": "TJmidlin95",
+                    "first_name": "Tighe",
+                    "last_name": "C.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://gravatar.com/avatar/b2771aec54f62a6f8d9850d7bb3f3220?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 777150747,
+                  "comment_id": 51228709,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Nay. Sir Lancelittle",
+                  "created_at": "Sun, 14 Jul 2019 04:47:58 +0000",
+                  "comment_source": "API"
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 777149036,
+            "created_at": "Sun, 14 Jul 2019 03:16:45 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 352790,
+              "user_name": "Sidecar79",
+              "first_name": "Tom",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/92734cd735576427704f4d27f435b7fb_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9108714,
+              "venue_name": "The Boatyard",
+              "venue_slug": "the-boatyard",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "beer_garden",
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Manahawkin",
+                "venue_state": "NJ",
+                "venue_country": "United States",
+                "lat": 39.6607,
+                "lng": -74.1969
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5d17a58dc19598002397dcff",
+                "foursquare_url": "https://4sq.com/2IWAzwR"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 5986,
+                  "user_badge_id": 535281821,
+                  "badge_name": "Riding Steady (Level 24)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 120 different beers with an ABV of 5% and lower. Try 5 more for Level 25!",
+                  "created_at": "Sun, 14 Jul 2019 03:16:46 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 94122,
+                  "user_badge_id": 535281822,
+                  "badge_name": "Land of the Free (Level 87)",
+                  "badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 435 different beers from a brewery in the United States. Try 5 more for Level 88!",
+                  "created_at": "Sun, 14 Jul 2019 03:16:46 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_america_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_america_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_america_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777134602,
+            "created_at": "Sun, 14 Jul 2019 02:45:53 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 3894846,
+              "user_name": "cheezylm",
+              "first_name": "Danielle",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/912c2d92dc45595ce6dfb925c5bbda52_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3262648,
+              "venue_name": "The Clubhouse",
+              "venue_slug": "the-clubhouse",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "seafood_restaurant",
+                    "category_name": "Seafood Restaurant",
+                    "category_id": "4bf58dd8d48988d1ce941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Bellmore",
+                "venue_state": "NY",
+                "venue_country": "United States",
+                "lat": 40.6585,
+                "lng": -73.5195
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "55987249498e4d9fdb37ff47",
+                "foursquare_url": "http://4sq.com/1IBH16j"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/seafood_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/seafood_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/seafood_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3807,
+                  "user_badge_id": 535266938,
+                  "badge_name": "Bar Explorer (Level 25)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 125 distinct venues!",
+                  "created_at": "Sun, 14 Jul 2019 02:45:53 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777133122,
+            "created_at": "Sun, 14 Jul 2019 02:43:07 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 374195,
+              "user_name": "KrAmer0731",
+              "first_name": "Bill",
+              "last_name": "B.",
+              "location": "Alexandria",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Beer me.",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/de9f7d70f70296d30c2f9b9c54eb6a77_thumb.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8987488,
+              "venue_name": "TilVegas - West",
+              "venue_slug": "tilvegas-west",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "lounge",
+                    "category_name": "Lounge",
+                    "category_id": "4bf58dd8d48988d121941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Springfield",
+                "venue_state": "VA",
+                "venue_country": "United States",
+                "lat": 38.7539,
+                "lng": -77.2409
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5ce9faf0535d6f002c643f2a",
+                "foursquare_url": "https://4sq.com/2M9DSVk"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34631,
+                  "user_badge_id": 535265345,
+                  "badge_name": "Hopped Down (Level 27)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 135 different beers with an IBU of 20 or below. Try 5 more for Level 28!",
+                  "created_at": "Sun, 14 Jul 2019 02:43:08 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777130532,
+            "created_at": "Sun, 14 Jul 2019 02:38:10 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 3023361,
+              "user_name": "Junie18",
+              "first_name": "June",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/b3f8f4b9db53f020d33f27c70d07246e_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 241764511,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/37d126d75f6e44e14d92f8db808dd6e3_200x200.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/37d126d75f6e44e14d92f8db808dd6e3_640x640.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/37d126d75f6e44e14d92f8db808dd6e3_1280x1280.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/37d126d75f6e44e14d92f8db808dd6e3_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 276007,
+                  "user_badge_id": 535262540,
+                  "badge_name": "Cheers to Independent U.S. Craft Breweries (Level 4)",
+                  "badge_description": "Cheers, beer patriot! You are supporting the small and independent American craft brewer. When you see the seal -- shaped like an upside-down beer bottle -- that's independence you're tasting. Try 5 more to earn Level 5!",
+                  "created_at": "Sun, 14 Jul 2019 02:38:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BAIndySeal18_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BAIndySeal18_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BAIndySeal18_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 108,
+                  "user_badge_id": 535262541,
+                  "badge_name": "Summer Fun",
+                  "badge_description": "It's time for Summer! It's that time of year where you hit the beach and crack open your favorite Summer brew! That's at least 5 different Summer beers try 5 more for Level 2!",
+                  "created_at": "Sun, 14 Jul 2019 02:38:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_summer2011_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_summer2011_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_summer2011_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2012,
+                  "user_badge_id": 535262542,
+                  "badge_name": "Land of the Free  (Level 26)",
+                  "badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 130 different beers from a brewery in the United States. Try 5 more for Level 27.",
+                  "created_at": "Sun, 14 Jul 2019 02:38:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_america_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_america_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_america_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777128968,
+            "created_at": "Sun, 14 Jul 2019 02:35:20 +0000",
+            "checkin_comment": "New favorite light-ish beer. Mom Jeans, The Wonder Years, State Champs, and Mayday Parade all killed it. Pop punk is best genre👌🏽",
+            "rating_score": 4,
+            "user": {
+              "uid": 3483512,
+              "user_name": "Pezza5150",
+              "first_name": "Matt",
+              "last_name": "P.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/4c4b35acac7276c5259151c69735d07c_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 59905,
+              "venue_name": "Mann Center for the Performing Arts",
+              "venue_slug": "mann-center-for-the-performing-arts",
+              "primary_category_key": "Arts & Entertainment",
+              "primary_category": "Arts & Entertainment",
+              "parent_category_id": "4d4b7104d754a06370d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "performing_arts_venue",
+                    "category_name": "Performing Arts Venue",
+                    "category_id": "4bf58dd8d48988d1f2931735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "concert_hall",
+                    "category_name": "Concert Hall",
+                    "category_id": "5032792091d4c4b30a586d5c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "music_venue",
+                    "category_name": "Music Venue",
+                    "category_id": "4bf58dd8d48988d1e5931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "5201 Parkside Ave",
+                "venue_city": "Philadelphia",
+                "venue_state": "PA",
+                "venue_country": "United States",
+                "lat": 39.9836,
+                "lng": -75.2225
+              },
+              "contact": {
+                "twitter": "@mann_center",
+                "venue_url": "http://www.manncenter.org"
+              },
+              "foursquare": {
+                "foursquare_id": "4bcf41f8caff952105cfccf0",
+                "foursquare_url": "http://4sq.com/a3gBOC"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 3794,
+                  "user_badge_id": 535260824,
+                  "badge_name": "Bar Explorer (Level 12)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 60 distinct venues!",
+                  "created_at": "Sun, 14 Jul 2019 02:35:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5971,
+                  "user_badge_id": 535260825,
+                  "badge_name": "Riding Steady (Level 9)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 45 different beers with an ABV of 5% and lower. Try 5 more for Level 10!",
+                  "created_at": "Sun, 14 Jul 2019 02:35:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2013,
+                  "user_badge_id": 535260826,
+                  "badge_name": "Land of the Free  (Level 27)",
+                  "badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 135 different beers from a brewery in the United States. Try 5 more for Level 28.",
+                  "created_at": "Sun, 14 Jul 2019 02:35:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_america_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_america_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_america_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 777126642,
+            "created_at": "Sun, 14 Jul 2019 02:31:11 +0000",
+            "checkin_comment": "Beats the summer heat here, that’s for sure!",
+            "rating_score": 4,
+            "user": {
+              "uid": 2149623,
+              "user_name": "BudmansDaughter12",
+              "first_name": "Kinsey",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/1fec1890b694080bfda33f6db4266fa5_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5571,
+              "beer_name": "Brooklyn Summer Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-5571_c526e_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 18,
+              "beer_slug": "brooklyn-brewery-brooklyn-summer-ale",
+              "beer_description": "Summer in Brooklyn is all about following your impulses, winging it from beaches and barbecues to stoops and rooftops. Brooklyn Summer Ale is a refreshing, flavorful pale ale made to accompany you on all your warm weather adventures.",
+              "beer_style": "Pale Ale - English",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 259,
+              "brewery_name": "Brooklyn Brewery",
+              "brewery_slug": "brooklyn-brewery",
+              "brewery_page_url": "/brooklynbrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BrooklynBrewery_259.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "brooklynbrewery",
+                "facebook": "https://www.facebook.com/thebrooklynbrewery",
+                "url": "http://brooklynbrewery.com"
+              },
+              "location": {
+                "brewery_city": "Brooklyn",
+                "brewery_state": "NY",
+                "lat": 40.7215,
+                "lng": -73.9575
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 26474,
+              "venue_name": "The Mohawk",
+              "venue_slug": "the-mohawk",
+              "primary_category_key": "Arts & Entertainment",
+              "primary_category": "Arts & Entertainment",
+              "parent_category_id": "4d4b7104d754a06370d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "rock_club",
+                    "category_name": "Rock Club",
+                    "category_id": "4bf58dd8d48988d1e9931735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "music_venue",
+                    "category_name": "Music Venue",
+                    "category_id": "4bf58dd8d48988d1e5931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "912 Red River St",
+                "venue_city": "Austin",
+                "venue_state": "TX",
+                "venue_country": "United States",
+                "lat": 30.27,
+                "lng": -97.7359
+              },
+              "contact": {
+                "twitter": "@mohawkaustin",
+                "venue_url": "http://mohawkaustin.com"
+              },
+              "foursquare": {
+                "foursquare_id": "45f4fde8f964a52001441fe3",
+                "foursquare_url": "http://4sq.com/2sgNU0"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 241763179,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2019_07_14/e3a86fa415d6a8024647ceac61f24d81_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2019_07_14/e3a86fa415d6a8024647ceac61f24d81_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2019_07_14/e3a86fa415d6a8024647ceac61f24d81_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2019_07_14/e3a86fa415d6a8024647ceac61f24d81_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 34606,
+                  "user_badge_id": 535258390,
+                  "badge_name": "Hopped Down (Level 2)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 10 different beers with an IBU of 20 or below. Try 5 more for Level 3!",
+                  "created_at": "Sun, 14 Jul 2019 02:31:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 243500,
+                  "user_badge_id": 535258391,
+                  "badge_name": "Brewery Pioneer (Level 5)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 25 different breweries. Try 5 more for Level 6!",
+                  "created_at": "Sun, 14 Jul 2019 02:31:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/5571?max_id=777126642",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/5571?max_id=777126642",
+          "max_id": 777126642
+        }
+      },
+      "similar": {
+        "method": "es",
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 3.44557,
+            "beer": {
+              "bid": 6481,
+              "beer_name": "Whale's Tale Pale Ale",
+              "beer_abv": 5.6,
+              "beer_ibu": 35,
+              "beer_slug": "cisco-brewers-inc-whale-s-tale-pale-ale",
+              "beer_style": "Pale Ale - English",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-WhalesTalePaleAle_6481.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1549,
+              "brewery_name": "Cisco Brewers Inc.",
+              "brewery_slug": "cisco-brewers-inc",
+              "brewery_page_url": "/ciscobrewers",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-CiscoBrewersInc_1549.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "ciscobrewers",
+                "facebook": "http://www.facebook.com/CiscoBrewers",
+                "instagram": "ciscobrewers",
+                "url": "http://www.ciscobrewers.com"
+              },
+              "location": {
+                "brewery_city": "Nantucket Island",
+                "brewery_state": "MA",
+                "lat": 41.2636,
+                "lng": -70.1314
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.4745,
+            "beer": {
+              "bid": 3288935,
+              "beer_name": "Past Masters 1909 Pale Ale",
+              "beer_abv": 8,
+              "beer_ibu": 40,
+              "beer_slug": "fuller-smith-and-turner-past-masters-1909-pale-ale",
+              "beer_style": "Pale Ale - English",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3296,
+              "brewery_name": "Fuller, Smith & Turner ",
+              "brewery_slug": "fuller-smith-turner",
+              "brewery_page_url": "/fullers",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3296_73351.jpeg",
+              "country_name": "England",
+              "contact": {
+                "twitter": "Fullers",
+                "facebook": "https://www.facebook.com/FullersBrewery",
+                "instagram": "fullers",
+                "url": "http://www.fullers.co.uk/"
+              },
+              "location": {
+                "brewery_city": "London",
+                "brewery_state": "Greater London",
+                "lat": 51.4876,
+                "lng": -0.248823
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.37607,
+            "beer": {
+              "bid": 1536,
+              "beer_name": "Pub Ale",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "boddington-s-brewery-pub-ale",
+              "beer_style": "English Bitter",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1536_e8101_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 148,
+              "brewery_name": "Boddington's Brewery",
+              "brewery_slug": "boddingtons-brewery",
+              "brewery_page_url": "/w/boddingtons-brewery/148",
+              "brewery_type": "Macro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BoddingtonsBreweryInBev_148.jpeg",
+              "country_name": "England",
+              "contact": {
+                "twitter": "abinbevnews",
+                "facebook": "https://www.facebook.com/abinbev",
+                "instagram": "",
+                "url": "http://www.ab-inbev.co.uk"
+              },
+              "location": {
+                "brewery_city": "Shamlesbury",
+                "brewery_state": "Lancashire",
+                "lat": 53.7622,
+                "lng": -2.6113
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.13431,
+            "beer": {
+              "bid": 2467430,
+              "beer_name": "Indie Pale Ale",
+              "beer_abv": 4.2,
+              "beer_ibu": 30,
+              "beer_slug": "brewdog-indie-pale-ale",
+              "beer_style": "Pale Ale - English",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2467430_e2580_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 241,
+              "brewery_name": "BrewDog",
+              "brewery_slug": "brewdog",
+              "brewery_page_url": "/brewdogbrewery",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-241_8c584.jpeg",
+              "country_name": "Scotland",
+              "contact": {
+                "twitter": "BrewDog",
+                "facebook": "http://www.facebook.com/pages/BrewDog/21251598643",
+                "instagram": "brewdogofficial",
+                "url": "http://www.brewdog.com"
+              },
+              "location": {
+                "brewery_city": "Ellon",
+                "brewery_state": "Aberdeenshire",
+                "lat": 57.3716,
+                "lng": -2.04834
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.40856,
+            "beer": {
+              "bid": 6469,
+              "beer_name": "Honkers Ale",
+              "beer_abv": 4.3,
+              "beer_ibu": 30,
+              "beer_slug": "goose-island-beer-co-honkers-ale",
+              "beer_style": "English Bitter",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-6469_f21a0_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 2898,
+              "brewery_name": "Goose Island Beer Co.",
+              "brewery_slug": "goose-island-beer-co",
+              "brewery_page_url": "/gooseisland",
+              "brewery_type": "Macro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2898_7ee53.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "GooseIsland",
+                "facebook": "https://m.facebook.com/Goose-Island-157863547303/",
+                "instagram": "gooseisland",
+                "url": "http://www.gooseisland.com/"
+              },
+              "location": {
+                "brewery_city": "Chicago",
+                "brewery_state": "IL",
+                "lat": 41.8871,
+                "lng": -87.6721
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.4636,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

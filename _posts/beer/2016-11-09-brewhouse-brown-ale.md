@@ -9,7 +9,7 @@ brewery: "Basement Brewhouse"
 breweryURL: "/brewery/basement-brewhouse.html"
 style: "Brown Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22815319_10155717526968745_4785977237389270674_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=35fe9720dcfcc0c21115bc6ef2c06ea0&oe=5DC59E5A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22815319_10155717526968745_4785977237389270674_n.jpg?_nc_cat=107&_nc_oc=AQnLd2PEUbkYdmQp9_UiDbuFfck_WimCDQkv2TovlPBOdhczF0G8ia0iMYBGguMfIqY&_nc_ht=scontent.xx&oh=40d7e39d5586962c66b34dbfaec95aab&oe=5DED2B5A
 beer-date: "2017-10-28"
 desc: "Rather mild brown, not too malty. Can't complain but can't get excited about another"
 permalink: /beer/:title.html

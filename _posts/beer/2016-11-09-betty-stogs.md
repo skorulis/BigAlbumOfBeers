@@ -9,7 +9,7 @@ brewery: "Skinners Brewing Co"
 breweryURL: "/brewery/skinners-brewing-co.html"
 style: "English Bitter"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13890_10151929069588745_726766227_n.jpg?_nc_cat=100&_nc_ht=scontent.xx&oh=84ad384c3a1c79b34caa660818351306&oe=5D8F40F6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13890_10151929069588745_726766227_n.jpg?_nc_cat=100&_nc_oc=AQkFgD0zkh8c5xqaAZ0bGzYJZML3wcRqqzJxp-b2TfLNV9yaC2dRaIRum-L2kQlUIXI&_nc_ht=scontent.xx&oh=671e248072e7d67f3043c240ded0be67&oe=5DB6CDF6
 beer-date: "2013-09-19"
 desc: "Tastes pretty much as you would expect from the name"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "KAIJU! Beer"
 breweryURL: "/brewery/kaiju-beer.html"
 style: "Sour - Other"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/65042013_10157223731233745_7231897608388608000_n.jpg?_nc_cat=107&_nc_ht=scontent.xx&oh=802be0b6d5def6cc146a892d4f0c2d45&oe=5D910D6B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/65042013_10157223731233745_7231897608388608000_n.jpg?_nc_cat=107&_nc_oc=AQm9PUxv3M0aaQzO-7nU53LrPES3xnjL4g4ekNhtWeYSgjtCsGwxuXXpgDfjE2U6ZBs&_nc_ht=scontent.xx&oh=dd6f8dc79e3d0e26ae2fe339600b65af&oe=5DB89A6B
 beer-date: "2019-06-22"
 desc: "Very mild sour. Good refreshing beer for a hot day. Too bad it’s winter. Very smooth and well crafted"
 permalink: /beer/:title.html
