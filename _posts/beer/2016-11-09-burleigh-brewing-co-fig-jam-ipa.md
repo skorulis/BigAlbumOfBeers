@@ -9,7 +9,7 @@ brewery: "Burleigh Brewing Co."
 breweryURL: "/brewery/burleigh-brewing-co.html"
 style: "IPA - American"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10393668_10153656863593745_2358385457397680268_n.jpg?_nc_cat=110&_nc_oc=AQm70I6MtAZR91RZyI7uc2iLvKLAU8c3kdmNqFmjRIChQI-htsdZkB4Au6L2SOP3VvQ&_nc_ht=scontent.xx&oh=e5b6d8fdb00c45c1389c54cc43b3fc24&oe=5DBF3D5C
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12068780_10153656863593745_2358385457397680268_o.jpg?_nc_cat=110&_nc_ohc=i6rB4pm93G8AQmwelmYrrtYHLec44t0PbJtxmjUh_Plifyr1uFwReK5vw&_nc_ht=scontent.xx&oh=aac95089547ef666fe97bd187d209d38&oe=5E89A5B0
 beer-date: "2015-10-17"
 desc: "Has a strange aftertaste that completely ruins the beer"
 permalink: /beer/:title.html

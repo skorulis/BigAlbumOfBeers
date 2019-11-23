@@ -9,7 +9,7 @@ brewery: "Bridge Road Brewers"
 breweryURL: "/brewery/bridge-road-brewers.html"
 style: "IPA - International"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/53639355_10156978747018745_5642482653413244928_n.jpg?_nc_cat=105&_nc_oc=AQnLysY-1TL6v4SVr7btas7JHg-7ykAG0YtmzWSLIdnaXfVzs3BcaXfA0cWEHQ7JUmQ&_nc_ht=scontent.xx&oh=a3585ca54035fa3e63d2f55673939ba2&oe=5DB6CBCE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/54203884_10156978747013745_5145964050080858112_o.jpg?_nc_cat=108&_nc_ohc=pcbPK7ueslYAQm45dElmBDeZ53ZewrNZMGcpw8QV90excl8vM9H7zC-Ow&_nc_ht=scontent.xx&oh=4dbbebbc41a7497e2a7cd9d35d184bb4&oe=5E5241EA
 beer-date: "2019-03-14"
 desc: "Very dank hops. Can definitely taste the difference with the wet hop"
 permalink: /beer/:title.html

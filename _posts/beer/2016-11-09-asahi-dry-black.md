@@ -9,7 +9,7 @@ brewery: "Asahi Breweries"
 breweryURL: "/brewery/asahi-breweries.html"
 style: "Lager - Dark"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/942864_10153890414673745_1846063327846189238_n.jpg?_nc_cat=105&_nc_oc=AQm9otrK4whcezjep_4TDSoz7G7Wzn7mcRc3ww-QVy1Zp-pmMTL_WhNj3Y_Z8OQVzEU&_nc_ht=scontent.xx&oh=ebc9e070c7c60b2bb641a671bcd28236&oe=5DA70C80
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12716399_10153890414673745_1846063327846189238_o.jpg?_nc_cat=105&_nc_ohc=0ONDYQ32dAwAQlVbYQc6yRNWGCngOJLeTS3wV4rbtjaVmdai-VmZluGtg&_nc_ht=scontent.xx&oh=fd26c15d87ad9729d9315f2dade7882b&oe=5E439DBA
 beer-date: "2016-02-14"
 desc: "A rather sweet taste compared to the regular asahi"
 permalink: /beer/:title.html

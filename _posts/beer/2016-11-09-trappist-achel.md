@@ -9,7 +9,7 @@ brewery: "Brouwerij der Sint-Benedictusabdij de Achelse Kluis"
 breweryURL: "/brewery/brouwerij-der-sint-benedictusabdij-de-achelse-kluis.html"
 style: "Belgian Strong Golden Ale"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19149017_10155314452873745_340056933875992295_n.jpg?_nc_cat=100&_nc_oc=AQnp4LstURkrl63MYiqECNfBPLcJbdizie-rqLpJCrVKrMmE1uhLWMkgXmMJL-GYhdU&_nc_ht=scontent.xx&oh=e14effd825c8498beba69809d1e938e9&oe=5DAC0F9A
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/19095409_10155314452873745_340056933875992295_o.jpg?_nc_cat=100&_nc_ohc=Ytojo20Oj6cAQlYL5f5zYeQK-JkbOg3a39Y7XA5Q9iZco42IiWmfNDnMg&_nc_ht=scontent.xx&oh=a7ed63fb0d8df17d80272a90dd76ebdc&oe=5E46F4F0
 beer-date: "2017-06-15"
 desc: "Comes off a little harsh. Ok but there are plenty of better Belgian beers"
 permalink: /beer/:title.html

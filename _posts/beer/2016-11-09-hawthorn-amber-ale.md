@@ -9,7 +9,7 @@ brewery: "Hawthorn Brewing Company"
 breweryURL: "/brewery/hawthorn-brewing-company.html"
 style: "Brown Ale - English"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12109019_10153656873578745_8374191481709518736_n.jpg?_nc_cat=108&_nc_oc=AQk0NZJ-QbD4aA-vyGRoCxyo0IxQjn4-ez9QZfwxcyvd6emVXFlyF1A7g4u6EL_pxU0&_nc_ht=scontent.xx&oh=3ae2c6b3cc4d18ddc9737a4ef9c01290&oe=5DA5A76E
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12087259_10153656873578745_8374191481709518736_o.jpg?_nc_cat=108&_nc_ohc=KrPYsFbGNfoAQn0Q6EUxObX4zVi4dyfDc9yiZ_ZU6-rRPXOl0Hg_fanvA&_nc_ht=scontent.xx&oh=b35df7277e67943da0a5ae8533c89b40&oe=5E82A025
 beer-date: "2015-10-17"
 desc: "A bit too bitter"
 permalink: /beer/:title.html

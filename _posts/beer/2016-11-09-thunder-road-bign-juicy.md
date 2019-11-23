@@ -9,7 +9,7 @@ brewery: "Thunder Road Brewing Company"
 breweryURL: "/brewery/thunder-road-brewing-company.html"
 style: "IPA - New England"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66776078_10157281017073745_140063792670179328_n.jpg?_nc_cat=105&_nc_oc=AQk6EsEbBnIngzXHCiCNEKnyxFHQVdlqrdM69lKwo_pjxKPyqlKCjYuTAuIWOfb4B4Q&_nc_ht=scontent.xx&oh=d9913795ee2a241c2574703c5fa7958c&oe=5DAAAE27
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66599224_10157281017078745_2985560603583578112_o.jpg?_nc_cat=106&_nc_ohc=vs4Pmau9sjUAQkdPnx5XxGZsxEsSH2VoouyVxmtEpyILAaA-9Ro3hHfsQ&_nc_ht=scontent.xx&oh=23b759a60a7f06acf96a1587bbbb6364&oe=5E4CFF72
 beer-date: "2019-07-14"
 desc: "Fairly mellow IPA but enough to keep it interesting"
 permalink: /beer/:title.html

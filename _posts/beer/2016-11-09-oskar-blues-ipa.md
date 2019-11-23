@@ -9,7 +9,7 @@ brewery: "Oskar Blues Brewery"
 breweryURL: "/brewery/oskar-blues-brewery.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16387852_10154888757023745_7417079802532125837_n.jpg?_nc_cat=102&_nc_oc=AQnbtR40iSXtECkTNoLvEZ59dlwcPwVyFEAnDbzsBcAZvOBXmKy1NmaG1AshJlQQ7T4&_nc_ht=scontent.xx&oh=e6a2682847522f3e25eb8eaa1511567c&oe=5DC12DB3
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/16402629_10154888757023745_7417079802532125837_o.jpg?_nc_cat=102&_nc_ohc=UWta2drIwy0AQnuIFV4FUTJAldC4uTqxrEV_q5Je4-PJ5hafcYIBeyxHQ&_nc_ht=scontent.xx&oh=896fb1f21b1ed0f55fa341acc3403115&oe=5E408261
 beer-date: "2017-01-30"
 desc: "Pretty good piney kind of IPA. No depth to it though"
 permalink: /beer/:title.html

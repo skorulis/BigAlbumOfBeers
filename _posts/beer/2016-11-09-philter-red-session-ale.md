@@ -9,7 +9,7 @@ brewery: "Philter Brewing"
 breweryURL: "/brewery/philter-brewing.html"
 style: "Red Ale - Other"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57852719_10157070103128745_9143317046207971328_n.jpg?_nc_cat=101&_nc_oc=AQlf--YGrSn-O4Fe3GTxrxQLLuj7nfFDfDbqPOM1FTALWCr7bOr69ufgW_82qQsjJ7w&_nc_ht=scontent.xx&oh=32b31e1e76462f7373d415ceb4bcf74a&oe=5DB4ABBC
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/58380635_10157070103133745_1988727960089133056_o.jpg?_nc_cat=106&_nc_ohc=ZA944KdJJyEAQm0_DVZ67cNOu40p7hJcieQ0LaLDIA4NOwLTyNfakZJsQ&_nc_ht=scontent.xx&oh=6668424cb027bd168b68d84565d207bf&oe=5E7E28C6
 beer-date: "2019-04-22"
 desc: "Looks like sludge. Tastes ok, fairly smooth. Bit funny towards the end. Still not convinced this keg was ok"
 permalink: /beer/:title.html

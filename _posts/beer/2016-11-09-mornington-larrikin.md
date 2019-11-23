@@ -9,7 +9,7 @@ brewery: "Mornington Peninsula Brewery"
 breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Brown Ale - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66757271_10157281018643745_1798801495487938560_n.jpg?_nc_cat=110&_nc_oc=AQl-5LWhWRr5drZuGk4g6VotYagEVMjqe18S5JxITqIcj675tmHXmqbxQfl5P_WCX6c&_nc_ht=scontent.xx&oh=c4273e77ea6f1166dd0fd08b64cdd7cd&oe=5DC2C161
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/67340273_10157281018648745_223759562669293568_o.jpg?_nc_cat=101&_nc_ohc=hpXkr1QGoV4AQkvpRtGvl9ArH0aZVbA5P9XhYjqpCPCOu8O_RIRZ6RO5w&_nc_ht=scontent.xx&oh=7389b3cd2d9fb206944372230f8ad724&oe=5E476EC1
 beer-date: "2019-07-14"
 desc: "Kind of a strange mix. Gets better as it warms otherwise the bitterness is a bit harsh"
 permalink: /beer/:title.html

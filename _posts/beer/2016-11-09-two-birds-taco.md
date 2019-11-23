@@ -9,7 +9,7 @@ brewery: "Two Birds Brewing"
 breweryURL: "/brewery/two-birds-brewing.html"
 style: "Other"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11693950_10153438034793745_2993920563621018004_n.jpg?_nc_cat=101&_nc_oc=AQnNj_5_0vvPSN1sRoedkbXg_fYkU-uHkqnBrF1fNhyPQlft2ncxzuhcZH2WDJ8OOuw&_nc_ht=scontent.xx&oh=83c99fc3504acd9b04585ca24440f915&oe=5DC0B13D
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/11696415_10153438034793745_2993920563621018004_o.jpg?_nc_cat=101&_nc_ohc=7EXI7IcbbzcAQkzdtPKu0Sn3o-Nmu_0MazNpALAD1c3SUTstf0nvM-qCQ&_nc_ht=scontent.xx&oh=bdd0dbe9d1b2c84eaa70c2eeec0f42a9&oe=5E40DF33
 beer-date: "2015-07-10"
 desc: "The best wheat beer I've ever tasted"
 permalink: /beer/:title.html

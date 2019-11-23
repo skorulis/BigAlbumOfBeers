@@ -9,7 +9,7 @@ brewery: "To Øl"
 breweryURL: "/brewery/to-ol.html"
 style: "IPA - Session / India Session Ale"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34198410_10156301079268745_4690239239399407616_n.jpg?_nc_cat=108&_nc_oc=AQl9sV95NfGxPaYgEieqdI1tJZOKakw4-rQEW6Ntur7zw_GfpNIBosfBmEw3zmCRGJ0&_nc_ht=scontent.xx&oh=15af02886adec0c45ecb1fbf2732a1cc&oe=5DC364BF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34303501_10156301079263745_2456265451253006336_o.jpg?_nc_cat=105&_nc_ohc=T2tiUbme3PEAQmV4A_AF_2aQfuGY3p0C1kF5ruj66lMioTciIESY9n2aw&_nc_ht=scontent.xx&oh=b141992d702b3fb9a360c0cc511117be&oe=5E408871
 beer-date: "2018-06-02"
 desc: "Now I did buy this one at a great discount, so perhaps it wasn’t in the best condition. Very much a Belgian IPA, the yeast really comes through but not much of the hops. Not awful but there’s nothing worth coming back for"
 permalink: /beer/:title.html

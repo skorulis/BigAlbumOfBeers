@@ -9,7 +9,7 @@ brewery: "Bacchus Brewing Co."
 breweryURL: "/brewery/bacchus-brewing-co.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11027435_10153225366763745_2151282598672247864_n.jpg?_nc_cat=100&_nc_oc=AQkNDsMKI7pu1QMtfPqQ1MEousDoPiqjJsGE0nBvqmS8_5mOUJpq9WrmtgRPaSOsfiI&_nc_ht=scontent.xx&oh=c6956bc0fd7621cc80376c30b56f66ff&oe=5DAA908B
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10854282_10153225366763745_2151282598672247864_o.jpg?_nc_cat=100&_nc_ohc=Sbdn7w6mkCkAQma1tyiwiZeFQSALd5osN-Gm8hRTLC2CPLARZKE2RyFAg&_nc_ht=scontent.xx&oh=8989fafea10476816a9a13995abad45b&oe=5E4F6155
 beer-date: "2015-04-13"
 desc: "Really mild on the choc and raspberry so the beer flavour isn't overwhelmed"
 permalink: /beer/:title.html

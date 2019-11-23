@@ -9,7 +9,7 @@ brewery: "Last Rites Brewing Company"
 breweryURL: "/brewery/last-rites-brewing-company.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57395859_10157070102763745_7074865477968723968_n.jpg?_nc_cat=108&_nc_oc=AQmt9GI3TyP7YqwJgkV_N_z3v3zONKSc5OuadmyDZbdJOU9ouaPRZnbg7YOZD1YkAh4&_nc_ht=scontent.xx&oh=16af5f96e9ae806c6f9ab51cd3f58bd0&oe=5DA4F1FE
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57453674_10157070102768745_5408227496342585344_o.jpg?_nc_cat=111&_nc_ohc=TWANqwPCOuMAQlbpw0IwFXmyGrhU6_C0VcYiUnjAxwxel65e09-nK3MJg&_nc_ht=scontent.xx&oh=a4a75e34861dc69664d4cfab545e9e9e&oe=5E4C128E
 beer-date: "2019-04-22"
 desc: "Fairly plain pale ale"
 permalink: /beer/:title.html

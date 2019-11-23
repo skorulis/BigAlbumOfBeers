@@ -9,7 +9,7 @@ brewery: "Grifter Brewing Company"
 breweryURL: "/brewery/grifter-brewing-company.html"
 style: "Smoked Beer"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18700273_10155251935078745_8643929811452637309_n.jpg?_nc_cat=109&_nc_oc=AQkOcRFypH-vHZsD7xFQ0USOqR1uOEzsJbpBi41dOIP1lZ_GvzYg9AjTtjw5HKeDNhk&_nc_ht=scontent.xx&oh=cc062a386470e5fa63703f23d108458a&oe=5DADEAE9
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/18738824_10155251935078745_8643929811452637309_o.jpg?_nc_cat=109&_nc_ohc=2OYeuX9whsYAQlOI319cQuqFjSXCIrrjo1ULlwVeq8eYN4XCEWyfEo3Xw&_nc_ht=scontent.xx&oh=f6e990452a9de22df77f5243f01649a3&oe=5E506FAE
 beer-date: "2017-05-27"
 desc: "It's a good level of smoke but lacks much else"
 permalink: /beer/:title.html

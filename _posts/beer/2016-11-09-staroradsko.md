@@ -9,7 +9,7 @@ brewery: "Koding Gorska Voda"
 breweryURL: "/brewery/koding-gorska-voda.html"
 style: "Pilsner - Other"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49261855_10156797311963745_7104951294380474368_n.jpg?_nc_cat=103&_nc_oc=AQlMGbIvbn7TTTLK6NVvYeOkE4aSLu8OMc4zUFKd-jZhJH6zrG0tFpo-7PhCi3JsPME&_nc_ht=scontent.xx&oh=b5ada18fef73e308991ecf545f95410b&oe=5DBFD00C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49101989_10156797311958745_1294190611129171968_o.jpg?_nc_cat=107&_nc_ohc=fn76BPZiykUAQntQ38CmnSQTQL6sCFl1Ed5Rz3_5GVI3Mpl-LjyFYX8ZA&_nc_ht=scontent.xx&oh=7c8094c7bc23a74de2b77d34fd2c5554&oe=5E518FC6
 beer-date: "2018-12-27"
 desc: "Standard European pilsner. Smells dry and tastes malty"
 permalink: /beer/:title.html

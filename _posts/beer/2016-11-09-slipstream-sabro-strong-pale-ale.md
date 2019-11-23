@@ -9,7 +9,7 @@ brewery: "Slipstream Brewing Company"
 breweryURL: "/brewery/slipstream-brewing-company.html"
 style: "Pale Ale - Australian"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64673109_10157223729333745_1319281032683323392_n.jpg?_nc_cat=103&_nc_oc=AQn-Girh7nkh4ydCzzOa2QHRwuXc0dmiCUTSI_H589mNKvJ4bJiSIsMFVOHfvZhuK4s&_nc_ht=scontent.xx&oh=49de1398365431c720d88d0919581632&oe=5DB559EB
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/65265310_10157223729338745_6294734447321284608_o.jpg?_nc_cat=111&_nc_ohc=SrHTX-tczqcAQnMGQZrCrnfjkWEGODSrbwfm6zVNk8VnTpFNAL23pIs4A&_nc_ht=scontent.xx&oh=76739f2372d7decb8b3b1a2a6a16c0e0&oe=5E471F89
 beer-date: "2019-06-22"
 desc: "Really strange flavour that I can’t quite place. It tastes strong but there’s not actually that much alcohol. Takes a bit of getting used to. As I finally finish the last warm dregs I work out what the taste is, it’s a tiny hint of super tennents. Despite that, it’s not too bad"
 permalink: /beer/:title.html

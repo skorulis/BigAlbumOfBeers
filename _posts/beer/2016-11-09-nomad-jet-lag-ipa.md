@@ -9,7 +9,7 @@ brewery: "Nomad Brewing Co."
 breweryURL: "/brewery/nomad-brewing-co.html"
 style: "IPA - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22780433_10155717524983745_4292465684685883560_n.jpg?_nc_cat=103&_nc_oc=AQmm8xvCxSmgYFjDIW93QEn7VqzgAYd1cYMVTGU7-kHOpPQ-5nWhXO9Vfg3vozibDDo&_nc_ht=scontent.xx&oh=275a7a5df4d3f8b98a571f2795a5a4ca&oe=5DA78069
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/22792608_10155717524983745_4292465684685883560_o.jpg?_nc_cat=103&_nc_ohc=mlgq4WkpwEwAQkSl8_41110UuywAK_603lfsBNadLPk_eEqCyIlvbuc-g&_nc_ht=scontent.xx&oh=ef1a7cf5a52a1c740a4918f8fb4eeda3&oe=5E81F585
 beer-date: "2017-10-28"
 desc: "A little floral on the nose but mostly bitter to taste. Ok but not exciting"
 permalink: /beer/:title.html

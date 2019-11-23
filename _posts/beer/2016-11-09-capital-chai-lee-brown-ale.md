@@ -9,7 +9,7 @@ brewery: "Capital Brewing Co"
 breweryURL: "/brewery/capital-brewing-co.html"
 style: "Spiced / Herbed Beer"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43183198_10156603265053745_6000280440219369472_n.jpg?_nc_cat=101&_nc_oc=AQksHgXfgf4XddLuM22LfKNPzQdaN3oLZWlYfP5DP_pfTaxztB-wy8nr91isZiK3Qxo&_nc_ht=scontent.xx&oh=0162fb1bbfba758bf156fe7b509590a9&oe=5DBB438A
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43374895_10156603265048745_7065138880281837568_o.jpg?_nc_cat=101&_nc_ohc=_2Agsk2ZC-sAQljSUwGq2UPo2QJF_tS1bZP-XIQ8pHdLJVDxq5eg5UHXA&_nc_ht=scontent.xx&oh=93473b6fbc6286e8f202c70cd2ba6f78&oe=5E868BC7
 beer-date: "2018-10-05"
 desc: "The chai gives it a really interesting flavour. It’s not sweet but your mind gets tricked due to the spices. Very interesting and enjoyable"
 permalink: /beer/:title.html

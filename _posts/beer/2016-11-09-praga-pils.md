@@ -9,7 +9,7 @@ brewery: "Praga"
 breweryURL: "/brewery/praga.html"
 style: "Pilsner - Czech"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34092922_10156301079033745_4752664458742988800_n.jpg?_nc_cat=100&_nc_oc=AQnJFMfiqJFpaB2aqsZbyZayT0dIM5OG4h317Eteat0VFdaj6lZ_GN59IoDmI4M_yRM&_nc_ht=scontent.xx&oh=d9a5f10899c9b3e7394da81a257954af&oe=5DB0E8A6
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34133841_10156301079038745_3726297322313744384_o.jpg?_nc_cat=103&_nc_ohc=kgWA41xeNP0AQkuBybq3Xgw1ui1sJ7t1f3DXGrJJNkHxZRBz25CRhQ1GA&_nc_ht=scontent.xx&oh=9dfd6fe53ce16a1b63dbaa136cc4825f&oe=5E85F111
 beer-date: "2018-06-02"
 desc: "A rather dry pilsner. Leaves a slightly strange taste"
 permalink: /beer/:title.html

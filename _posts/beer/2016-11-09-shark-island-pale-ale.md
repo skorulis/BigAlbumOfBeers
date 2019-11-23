@@ -9,7 +9,7 @@ brewery: "Shark Island Brewing Co."
 breweryURL: "/brewery/shark-island-brewing-co.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14449945_10154470822683745_4208137139695558555_n.jpg?_nc_cat=103&_nc_oc=AQkqtRvRoa-qd6PMS7nK2vrsm16xNbMZte5QGH_mdzGVZ4QULx_NQySjMIMjcdaqJMA&_nc_ht=scontent.xx&oh=793d4a092dada20262f1160b8f893600&oe=5DA150B0
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/14352342_10154470822683745_4208137139695558555_o.jpg?_nc_cat=103&_nc_ohc=9FKspyzpV9YAQlYECuqQCcI9W5SAOzqXAbnBYDVmjlRiYA22Mdf76gGdg&_nc_ht=scontent.xx&oh=68da608716e3ab0d733a05ac7410f4f2&oe=5E864B3F
 beer-date: "2016-09-21"
 desc: "My first from this brewery, happy so far. Mild on hops but the sweetness from the malt holds it together"
 permalink: /beer/:title.html

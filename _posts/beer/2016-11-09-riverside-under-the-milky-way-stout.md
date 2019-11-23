@@ -9,7 +9,7 @@ brewery: "Riverside Brewing Company"
 breweryURL: "/brewery/riverside-brewing-company.html"
 style: "Stout - Milk / Sweet"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27867265_10156021377518745_232379756518362703_n.jpg?_nc_cat=103&_nc_oc=AQlAMGXr76h49i2nkmMHOgvOorm29LuEiH2RTOD7X_7PwAankhoq-RtUWPrKYSMgPB8&_nc_ht=scontent.xx&oh=5240bddc0de81b186474ed8ee493ffc8&oe=5DB496D6
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/27913051_10156021377518745_232379756518362703_o.jpg?_nc_cat=103&_nc_ohc=doyqr7RjQ3wAQkaBlMjJvdFL64joyNtSr3OLTFq5gs_Pagm902o2cXZFA&_nc_ht=scontent.xx&oh=ead12efe52c25d1b11837f179919c0c8&oe=5E4AD668
 beer-date: "2018-02-17"
 desc: "Fairly plain stout. Nothing to bring me back"
 permalink: /beer/:title.html

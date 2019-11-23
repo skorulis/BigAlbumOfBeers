@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - Brut"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48423640_10156797311428745_6939133056737345536_n.jpg?_nc_cat=106&_nc_oc=AQm2IYq3ShIch1b7k_1JYDff1PAbUYudQweQkQ76rq94D7rWDMh8j7KY5iJuar63Ipk&_nc_ht=scontent.xx&oh=b1a5e7a9c96080bba874c1be02de25d7&oe=5DA20467
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48391031_10156797311433745_1861514765403160576_o.jpg?_nc_cat=102&_nc_ohc=-hCFp_phfR4AQnkxk5dqe3_pKq40_srQI2DzkGECSiMYnqT_-gBM1AGKA&_nc_ht=scontent.xx&oh=507704b010ee9df723f1db630882e11c&oe=5E7F2001
 beer-date: "2018-12-27"
 desc: "Just a clean beer with a hint of fruit"
 permalink: /beer/:title.html

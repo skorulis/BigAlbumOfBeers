@@ -9,7 +9,7 @@ brewery: "HopDog BeerWorks"
 breweryURL: "/brewery/hopdog-beerworks.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12744551_10153890416133745_1898256782764708907_n.jpg?_nc_cat=106&_nc_oc=AQkhOrVhoiKOB-gJrA_lUP8b5-YKl2qBko_irC-Ox8NzvCQcvxgEJZTCdmW2QEpb9bU&_nc_ht=scontent.xx&oh=c5733f41046b6f7b8878a2649b698153&oe=5DC4B89E
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12716264_10153890416133745_1898256782764708907_o.jpg?_nc_cat=106&_nc_ohc=CTxquYK_WpsAQk5Njjj1uaOwcMe_z1owRZPk7GlanK2l0hYVPPisP7dVg&_nc_ht=scontent.xx&oh=a3c236c44d5d27ea119b213cc19d5f39&oe=5E7FD8C0
 beer-date: "2016-02-14"
 desc: "Well named, you can't quite pick what you're drinking. Not bad but fails to master any category"
 permalink: /beer/:title.html

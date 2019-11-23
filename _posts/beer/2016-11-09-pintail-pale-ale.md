@@ -9,7 +9,7 @@ brewery: "Karl Strauss Brewing Company"
 breweryURL: "/brewery/karl-strauss-brewing-company.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10454293_10152534306298745_7768963216409422880_n.jpg?_nc_cat=103&_nc_oc=AQkB9qASgxnSKeRWQ2FSpVYuESD9kAfE7zCYsKd4HRg1TQ6m5JIwzmCHPUbJJYh0aT0&_nc_ht=scontent.xx&oh=bf5e52b95247815d2cf427aeff4031b6&oe=5DB75C83
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10368851_10152534306298745_7768963216409422880_o.jpg?_nc_cat=103&_nc_ohc=ZOY6AMe07AkAQmaZGv6xQGIrCIBhYY4k6CW5jdGzENuK43oiGe6GinL1w&_nc_ht=scontent.xx&oh=b363fee8fa528aa6f261bcb9f8d46ebf&oe=5E5015D7
 beer-date: "2014-06-21"
 desc: "Kind of a Pale crossed with an IPA"
 permalink: /beer/:title.html

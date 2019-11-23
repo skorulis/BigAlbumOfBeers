@@ -9,7 +9,7 @@ brewery: "Murray's Craft Brewing Co"
 breweryURL: "/brewery/murrays-craft-brewing-co.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1975034_10152293133088745_313669023_n.jpg?_nc_cat=103&_nc_oc=AQmdKzyckX9PzkbP600C3-1Ay3Qpm1oYp1799D3-KJK1BcbereSHGvJS4uUrXtalgoI&_nc_ht=scontent.xx&oh=377854a78d9264b50fc2889a8a8f65e0&oe=5DBE5FB4
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1960918_10152293133088745_313669023_o.jpg?_nc_cat=103&_nc_ohc=BvrnvjkMJfYAQnCs-4_FzZyr2dNkYAqGoQVGYskdsmumfKYdLvH1-TBYA&_nc_ht=scontent.xx&oh=edccb634deb683a7d757037ee529dffc&oe=5E486E9B
 beer-date: "2014-03-01"
 desc: "Pretty good"
 permalink: /beer/:title.html

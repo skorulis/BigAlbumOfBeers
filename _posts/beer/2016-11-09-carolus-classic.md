@@ -9,7 +9,7 @@ brewery: "Brouwerij Het Anker"
 breweryURL: "/brewery/brouwerij-het-anker.html"
 style: "Belgian Strong Dark Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1782108_10152293087803745_1558065696_n.jpg?_nc_cat=106&_nc_oc=AQlu_rMNsA6JGeYrRoeIoI6R7iqem5ENCvK2ssOLAeMZToDEDV1og-iYIGdSsUBHW2o&_nc_ht=scontent.xx&oh=49364581c122bcdebbd7fd4fadc77358&oe=5DA49E85
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1781535_10152293087803745_1558065696_o.jpg?_nc_cat=106&_nc_ohc=Y340yA219toAQlhrqSnOpP_1HVi5hsEpt_bJjag9HKDoQtWtChJVVZffQ&_nc_ht=scontent.xx&oh=c05db8c400970aa5ffb39b6c1fd8941c&oe=5E8CC07D
 beer-date: "2014-03-01"
 desc: "Dark but not heavy"
 permalink: /beer/:title.html

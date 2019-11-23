@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664450_10155251932578745_4098101029380240409_n.jpg?_nc_cat=101&_nc_oc=AQn1LktMJVBGWa5URFj0nelZVVTLm_nE4Va7NeYyL54O9uDVCstkM1Y_mvdDZVEQZzI&_nc_ht=scontent.xx&oh=bc8ad511c6cb3b26321a3e6d5336138a&oe=5DB8ACB6
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/18768218_10155251932578745_4098101029380240409_o.jpg?_nc_cat=101&_nc_ohc=V10Lt6YrxyQAQn2Rt27AGg2B9DSE0rX0P2iKLbEhahsOl6TCRD_57NTxA&_nc_ht=scontent.xx&oh=e32cc145bfb4431cc4c101a93366c2db&oe=5E53D229
 beer-date: "2017-05-27"
 desc: "Love the creamyness on this beer"
 permalink: /beer/:title.html

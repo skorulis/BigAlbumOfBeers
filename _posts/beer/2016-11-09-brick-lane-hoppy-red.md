@@ -9,7 +9,7 @@ brewery: "Brick Lane Brewing Co."
 breweryURL: "/brewery/brick-lane-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/53101194_10156978747218745_7519250179124363264_n.jpg?_nc_cat=105&_nc_oc=AQmYX_mv8if6swgzi-N-gTDRZ-Ic-aiIeAEbPkpAkIrKYuOFotM21fOtsAWwoqfNuz0&_nc_ht=scontent.xx&oh=2fd7200db14fd65dc51faea36df50b36&oe=5DA03B21
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/53742568_10156978747213745_8538466418344067072_o.jpg?_nc_cat=106&_nc_ohc=PSNLyPBI75EAQlJ8smEkI7UJeH0doJs22a4SD09qIuKCEFL_6JuX_ZDYA&_nc_ht=scontent.xx&oh=c038d07d7050dc970481e30ef0b85503&oe=5E82EC3C
 beer-date: "2019-03-14"
 desc: "Very nice hop balance. Easy drinking and very enjoyable"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Hemingway's Brewery"
 breweryURL: "/brewery/hemingways-brewery.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66620908_10157281017533745_8117245343399149568_n.jpg?_nc_cat=104&_nc_oc=AQnqAe4rHXIv6rqRiX6_QknqJLw_8UIXPOTiMRhlQitsZKyZx_Dp64ZUe8QMixs_qE0&_nc_ht=scontent.xx&oh=0e4b511426f21453d85a3f9adb84314b&oe=5DA2D4F4
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66513410_10157281017538745_6944128451594944512_o.jpg?_nc_cat=101&_nc_ohc=a-h2cOAMUvkAQkxd_79bOTOCyfz02rNTx_MEJr3J6u8jlOzNlOJ5Bpvew&_nc_ht=scontent.xx&oh=d52f225259e330d386bd65f00f03f0b3&oe=5E3EE241
 beer-date: "2019-07-14"
 desc: "Seems a little too bitter for an XPA"
 permalink: /beer/:title.html

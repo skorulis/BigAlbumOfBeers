@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "IPA - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57538031_10157070476653745_5421410099593740288_n.jpg?_nc_cat=111&_nc_oc=AQndMQOQ2EXiAg_d-dYxqd17n0rW5_y70SVHz4OjqNCiCwPMXJd0B5jhs9uRtRreTPQ&_nc_ht=scontent.xx&oh=cd288083f2d923d861ac5958ef0c00fb&oe=5DBC26B1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/58049080_10157070476658745_1274282454164701184_o.jpg?_nc_cat=100&_nc_ohc=i63CDFzW0lQAQmhpw1t-jmvphKqx6ZVqFOm23kk8b9HuIt1OMugTMRB5Q&_nc_ht=scontent.xx&oh=d3bb8291fd3514a23203f40c17ce859a&oe=5E7E6AEC
 beer-date: "2019-04-22"
 desc: "Interesting hop profile but not something that would keep me coming back"
 permalink: /beer/:title.html

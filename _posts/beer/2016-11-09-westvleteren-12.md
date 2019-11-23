@@ -9,7 +9,7 @@ brewery: "Brouwerij De Sint-Sixtusabdij van Westvleteren"
 breweryURL: "/brewery/brouwerij-de-sint-sixtusabdij-van-westvleteren.html"
 style: "Belgian Quad"
 score: 10
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19059976_10155314454838745_740127788921154292_n.jpg?_nc_cat=103&_nc_oc=AQn0NoBu_4K2RuDUluUYxWrYFTqnD2M1J-wOVPKUcPwZj_tlwQc736-UjNs-w-_WyqE&_nc_ht=scontent.xx&oh=9929f9adf4d457aa7f32b7b1c82e7d16&oe=5DB1A682
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/19092917_10155314454838745_740127788921154292_o.jpg?_nc_cat=103&_nc_ohc=QyWnFkxS7GMAQnvdbYe0jCMw3HiDP7z0sPb-tqAgVwWFjXvMdX9P7QZRg&_nc_ht=scontent.xx&oh=37dc4391cdaaf596fdaa05026ca5da42&oe=5E89BB49
 beer-date: "2017-06-15"
 desc: "Really full of flavour. It's not harsh on the throat but gives a warming sensation. It's slightly tangy with a lot of candied sugar coming through. It's definitely a sipping beer but it's one you could stay on until you collapsed"
 permalink: /beer/:title.html

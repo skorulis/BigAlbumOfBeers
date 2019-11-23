@@ -9,7 +9,7 @@ brewery: "Redd's Brewing Company"
 breweryURL: "/brewery/redds-brewing-company.html"
 style: "Fruit Beer"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12507414_10153811611358745_6320534595559779603_n.jpg?_nc_cat=110&_nc_oc=AQnoWgV76Ot0BV9Ke3KZPGG5MyTXYfBLCt8UpTLGkiCq8C0dbbvVU_SKeRZ1O9pPxwo&_nc_ht=scontent.xx&oh=d5aea5ad8259b9377f8fe2bebe137930&oe=5DB50CAF
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12491787_10153811611358745_6320534595559779603_o.jpg?_nc_cat=110&_nc_ohc=JGuVcMkgVdAAQn7RlVQ-Am_KvpvdJJm-Y2aLAl8_mmX2Z_lGXZGddWyXg&_nc_ht=scontent.xx&oh=d2ce2a3913cc937013cc08cae159a481&oe=5E3FC322
 beer-date: "2016-01-06"
 desc: "Really mild apple flavour, like a cider without all the sugar"
 permalink: /beer/:title.html

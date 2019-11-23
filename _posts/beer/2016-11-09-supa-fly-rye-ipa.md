@@ -9,7 +9,7 @@ brewery: "BrewCult"
 breweryURL: "/brewery/brewcult.html"
 style: "Rye IPA"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1506594_10152425240263745_7813835679026139769_n.jpg?_nc_cat=111&_nc_oc=AQlhzpf5gMwGo-E4n_GQb5OuVCKzihro9MbtEs-JllTvasYomQr5hvtJ-h8zqpB9nFE&_nc_ht=scontent.xx&oh=dfe41b59feca2b934d6012e36e4ed6c1&oe=5DA0A373
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10012892_10152425240263745_7813835679026139769_o.jpg?_nc_cat=111&_nc_ohc=q0zUpSmAysQAQkEIbxtwQcOQMj56wpVoXKyXksM-D3cN_53U3MKdB-xpQ&_nc_ht=scontent.xx&oh=929f5b1a87d014712b3141af65daef3e&oe=5E87B57C
 beer-date: "2014-05-03"
 desc: "A mild and interesting IPA"
 permalink: /beer/:title.html

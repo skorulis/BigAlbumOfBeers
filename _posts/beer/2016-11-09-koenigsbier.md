@@ -9,7 +9,7 @@ brewery: "Karlsberg Brauerei"
 breweryURL: "/brewery/karlsberg-brauerei.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/983885_10151694536943745_1632093000_n.jpg?_nc_cat=106&_nc_oc=AQlJpsh_arp7uyFhmcF6O2MkECiPn0Vnmi5wInKkgg4zVt-Hm2Ty5LuyK2gq0L9GhqM&_nc_ht=scontent.xx&oh=749c119adedb47d9033621000e3bbe5a&oe=5DBEBA12
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/976626_10151694536943745_1632093000_o.jpg?_nc_cat=106&_nc_ohc=0wJs38ztik4AQkDHjKSHPXOMGXpqmSAOYLVLYSPAeroiC_yWU_oqGOAWQ&_nc_ht=scontent.xx&oh=f8c5ad680d48a38cace07aa36abb76e9&oe=5E4980D3
 beer-date: "2013-05-25"
 desc: ""
 permalink: /beer/:title.html

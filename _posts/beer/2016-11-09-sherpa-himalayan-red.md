@@ -9,7 +9,7 @@ brewery: "Sherpa Brewery"
 breweryURL: "/brewery/sherpa-brewery.html"
 style: "Red Ale - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64738150_10157223727503745_5522448204504760320_n.jpg?_nc_cat=105&_nc_oc=AQnjuYKoyMcjIH2a6632XNxJlhmu12n0Sa3lTz3kjpjE_Gy23XMVORWBXaWsWw7ziNM&_nc_ht=scontent.xx&oh=8896f4bb139fd6eefc778fb189edf84a&oe=5DEE57C9
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64729217_10157223727508745_7261657230624161792_o.jpg?_nc_cat=107&_nc_ohc=iNjSZy3vciEAQkCDJTN_S2V3auYXnzTfxjH-11PnOEflNDqZozU1_y21Q&_nc_ht=scontent.xx&oh=256347a0130d15f8d89200d6a00ed1ce&oe=5E440C1D
 beer-date: "2019-06-22"
 desc: "A bit of rich redness with a pronounced bitterness. Smells like a lager but tastes richer"
 permalink: /beer/:title.html

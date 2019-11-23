@@ -9,7 +9,7 @@ brewery: "Phoenix Beverages"
 breweryURL: "/brewery/phoenix-beverages.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16114063_10154858018613745_4253781782841195253_n.jpg?_nc_cat=104&_nc_oc=AQlDi-fVKYf_3E14e3fSgElsHydmI8a3tjmOW_ufJt4pOrZW_j4AtOyNm93fsqILzoQ&_nc_ht=scontent.xx&oh=50ea540f11c282059d86f0503e1057ad&oe=5DA1880D
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/16177517_10154858018613745_4253781782841195253_o.jpg?_nc_cat=104&_nc_ohc=cOpBJAX28_kAQlEd0_wGp7n5xPYuKrBy81FWKsD8TGMUq5mQSyOAhzmfw&_nc_ht=scontent.xx&oh=3d6c149b3f22b9cf896b7af202e56061&oe=5E850F70
 beer-date: "2017-01-21"
 desc: "Quite a dry beer. Nothing exciting or worth looking for"
 permalink: /beer/:title.html

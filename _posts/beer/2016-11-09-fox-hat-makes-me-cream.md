@@ -9,7 +9,7 @@ brewery: "Fox Hat Brewing"
 breweryURL: "/brewery/fox-hat-brewing.html"
 style: "Pale Wheat Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49044809_10156797296223745_8163296674236596224_n.jpg?_nc_cat=108&_nc_oc=AQmc2xcLTODtd72WqnvK1Y4QDYFHr4JxDdGxNHIHpMWDbI8jWCI9pQYa2l4Vt1xweUI&_nc_ht=scontent.xx&oh=c47a5437b06a1f4201862c855e6c5ed4&oe=5DAA2420
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48999435_10156797296218745_7640073858338258944_o.jpg?_nc_cat=110&_nc_ohc=KdLfZ62Hfv8AQkntOPrh8WuC5aWSjYebAbpWT5O0b0DF-Z38H95CidnVQ&_nc_ht=scontent.xx&oh=1c0e411f4a39b67c60566716a1e96f79&oe=5E426599
 beer-date: "2018-12-27"
 desc: "Super creamy with a slight strawberry hit. Doesn't taste as strong as it is"
 permalink: /beer/:title.html

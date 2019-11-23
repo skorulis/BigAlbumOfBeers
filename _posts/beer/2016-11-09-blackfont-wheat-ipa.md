@@ -9,7 +9,7 @@ brewery: "BlackFont Brewhouse"
 breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "IPA - White"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18664333_10155251934168745_7216272365991672044_n.jpg?_nc_cat=106&_nc_oc=AQnzONSyIPLlpSXmHW275LGnTRdTmmtLFgwGfVL2fUWpHd2qEO6zNqmkhCdA1Zjf8PE&_nc_ht=scontent.xx&oh=4282f461fd0673b88ba8db8764feca29&oe=5DC23775
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/18671757_10155251934168745_7216272365991672044_o.jpg?_nc_cat=106&_nc_ohc=mZozIjMqneAAQkN_ESOkf2IpdqXVrg8klt8EdoKspgVtUX3c_DNNflxgw&_nc_ht=scontent.xx&oh=6e5dbc7b6aec50e9d35f2dec5f85c177&oe=5E4000CD
 beer-date: "2017-05-27"
 desc: "Wheat is there but the hops are the hero. Still fairly light for an IPA and somehow the bitterness barely comes through"
 permalink: /beer/:title.html

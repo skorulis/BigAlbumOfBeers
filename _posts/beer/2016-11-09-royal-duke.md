@@ -9,7 +9,7 @@ brewery: "Bavaria Brouwerij"
 breweryURL: "/brewery/bavaria-brouwerij.html"
 style: "Lager - American Light"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22886053_10155717515958745_3382295998382612179_n.jpg?_nc_cat=105&_nc_oc=AQlHS7MUVYBIk7FPtknEInSc1IXszATmW6i2ClKlEPkr1-qvLGSFyYn5uYtgetBC6e4&_nc_ht=scontent.xx&oh=d2be224b899fb195a41ec138a88982e6&oe=5DA3ECC1
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/22861815_10155717515958745_3382295998382612179_o.jpg?_nc_cat=105&_nc_ohc=aD8xySjve4UAQndR6QViA_zJ0G8pkpuXMwiHTtM5bRfgtVXuR_ERzsEYw&_nc_ht=scontent.xx&oh=13db991c86b1240743a11957e6219cbb&oe=5E8342A4
 beer-date: "2017-10-28"
 desc: "Overly malty but otherwise inoffensive"
 permalink: /beer/:title.html

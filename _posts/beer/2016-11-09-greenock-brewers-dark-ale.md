@@ -9,7 +9,7 @@ brewery: "Greenock Brewers"
 breweryURL: "/brewery/greenock-brewers.html"
 style: "Porter - English"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34189747_10156301083448745_2453148533356756992_n.jpg?_nc_cat=105&_nc_oc=AQn5Kjii7DIJpkT1klBSViZ9vG5a6kv4sObcuJO3Rx0K_g3GRSpEewE7qt5Rmx8yOr4&_nc_ht=scontent.xx&oh=bc94bfe88bbedb65bde8eda8a5648225&oe=5DB99C29
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34139975_10156301083453745_4996612373453209600_o.jpg?_nc_cat=101&_nc_ohc=1u0TP5Op3XwAQnhbDoR2rPQ5B-2EROLeEFyOOkIdHEQ7Tyz4gLvagD_Aw&_nc_ht=scontent.xx&oh=646d900a6bdae3e81e4a1670bb6afb28&oe=5E4B8A8B
 beer-date: "2018-06-02"
 desc: "Great malt driven dark ale. No strong coffee flavours, just a nice sweetness. A very good session dark ale"
 permalink: /beer/:title.html

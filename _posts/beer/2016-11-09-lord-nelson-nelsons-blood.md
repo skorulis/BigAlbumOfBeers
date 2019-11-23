@@ -9,7 +9,7 @@ brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Porter - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64391_10151602282878745_784297964_n.jpg?_nc_cat=102&_nc_oc=AQlUPpUTqjvAkWzzKPEgwa0LzBCEAFfE0hraFk3Vs_3dPXiRHYSIrqgZqdrbEPHepzM&_nc_ht=scontent.xx&oh=51c4019d5a18c0ae44ae61674053f041&oe=5DA529AB
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/894057_10151602282878745_784297964_o.jpg?_nc_cat=102&_nc_ohc=ZN4VL7T-tqsAQlJNnbuNz0gyw9q_t64OoQDS5AWSSqIk_x6-337QJI6ZQ&_nc_ht=scontent.xx&oh=eeb56ddca98b76edf58c2ed1fd77e950&oe=5E8AD1B2
 beer-date: "2013-03-28"
 desc: "A nice stout taste"
 permalink: /beer/:title.html

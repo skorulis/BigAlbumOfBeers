@@ -9,7 +9,7 @@ brewery: "The Little Brewing Company"
 breweryURL: "/brewery/the-little-brewing-company.html"
 style: "Belgian Quad"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12717228_10153890412513745_5272405049843729399_n.jpg?_nc_cat=110&_nc_oc=AQlYgCYjHWA79w4pWjpSCwD1bwPWsUVGCEzN9sfL6hzkNCS7mUAP3wJugmti8BS28_w&_nc_ht=scontent.xx&oh=55107b92910f65475099f0ed9b0659ed&oe=5DA89C1A
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12710925_10153890412513745_5272405049843729399_o.jpg?_nc_cat=110&_nc_ohc=QPxYkX81nbMAQk88g4K1NZD4uPhPU-wcLJxyxgR7SWv89SyJFXN8iURXA&_nc_ht=scontent.xx&oh=0a7e8aa806e0f70fd5726314a776965d&oe=5E81B119
 beer-date: "2016-02-14"
 desc: "Slightly syrupy. Gives that nice warmth that makes sense at Christmas. Just not in Australia. Still great flavour all round"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "/brewery/badger-ales-hall-woodhouse.html"
 style: "Strong Ale - English"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/555262_10151461672288745_1320726068_n.jpg?_nc_cat=103&_nc_oc=AQl4GbCcs7sf2cPSnu7rcYbNvuNuc0BwiIczpMU8LZece7ZXAYt8_giQ1MFm8Vdk8xg&_nc_ht=scontent.xx&oh=8e7093e132ff1eeaf7e6dab627b9e93d&oe=5DC528F0
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/820716_10151461672288745_1320726068_o.jpg?_nc_cat=103&_nc_ohc=UZgwjFrQL-UAQk7to_tOSJAp2UZVTYIsaDRFlyORDe0_h1FKBc8kGnHQA&_nc_ht=scontent.xx&oh=48cc0ba436eae7643a377ca957969053&oe=5E46A823
 beer-date: "2013-02-01"
 desc: "You can really taste the liquorice. Not sure why someone put liquorice in beer"
 permalink: /beer/:title.html

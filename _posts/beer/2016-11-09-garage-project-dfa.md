@@ -9,7 +9,7 @@ brewery: "Garage Project"
 breweryURL: "/brewery/garage-project.html"
 style: "IPA - American"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/67136947_10157281019003745_5656057043581140992_n.jpg?_nc_cat=103&_nc_oc=AQl-qYtSLWpO9spc-ddJyra8VJ7OV0I0XcK3Jhbmc8Lgkb8FYGzdyLIHYKW3-4v9F18&_nc_ht=scontent.xx&oh=d443bb424d7683113268fc8a4dcc9af7&oe=5DC16D3E
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/62343914_10157281019008745_631148489279012864_o.jpg?_nc_cat=108&_nc_ohc=bDsqv2_Ys8AAQm_XqD0O0HvTtHu-MvQNP7EiFn-sKC134SI-b0rxqD12A&_nc_ht=scontent.xx&oh=77d01311f4b63187c2aea98272bf1afd&oe=5E430494
 beer-date: "2019-07-14"
 desc: "Just amazing from the first sip. Full of hops and quite bitter"
 permalink: /beer/:title.html

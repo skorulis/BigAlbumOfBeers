@@ -9,7 +9,7 @@ brewery: "Hope Brewery"
 breweryURL: "/brewery/hope-brewery.html"
 style: "IPA - Triple"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66769730_10157281017283745_6265315385927532544_n.jpg?_nc_cat=104&_nc_oc=AQnJD5brpH8R9adWNw9TO-oyyaBQbX8DgMb2VkqnqRHJf6VeL7pcq_hA81HVJfmeWbk&_nc_ht=scontent.xx&oh=77cc79440b7d4cc2460395571da12ec6&oe=5DAAAC54
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66308235_10157281017278745_3300585412384260096_o.jpg?_nc_cat=103&_nc_ohc=E3TzCoKtGrkAQntx24vWUBRzOZyxx7I-GOMNiy5399pPGEnwicm94RkMw&_nc_ht=scontent.xx&oh=703ae814fbca694a539fab9e5982b8ad&oe=5E84BCEC
 beer-date: "2019-07-14"
 desc: "Smells really mild and not much in the way of hops in the taste. The most prominent taste is really the alcohol. It’s not as bad as that might sound, it does fit together well and leaves me feeling happy and warm inside"
 permalink: /beer/:title.html

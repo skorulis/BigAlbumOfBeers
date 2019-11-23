@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "/brewery/feral-brewing-company.html"
 style: "Sour - Berliner Weisse"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48421620_10156797310998745_7628600883999145984_n.jpg?_nc_cat=102&_nc_oc=AQkcTO2ccJ_7yL3LkZ2NgETaMnAn0aCJybwq-50rzLlnVBEpEQfumnMwn42BYdRvB-U&_nc_ht=scontent.xx&oh=6b1efa6b2b62873801731ab61be6342f&oe=5DBC1D62
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48423628_10156797310993745_8075257146112999424_o.jpg?_nc_cat=101&_nc_ohc=lVvxXw4QeuEAQlzlj9n1ksWl95476YGEHUbzht9DHgt6PUuUmHwkkVgXQ&_nc_ht=scontent.xx&oh=ee238ce739f5da8da03c927a49cbb3e3&oe=5E41CFA3
 beer-date: "2018-12-27"
 desc: "I don’t usually like watermelon in beer but this works well with the sourness. I mean, it’s weak enough to be classed as water, but it’s a nice flavoured water"
 permalink: /beer/:title.html

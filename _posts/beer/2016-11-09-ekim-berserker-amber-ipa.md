@@ -9,7 +9,7 @@ brewery: "Ekim Brewing Co."
 breweryURL: "/brewery/ekim-brewing-co.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66904154_10157281017318745_7334319766510764032_n.jpg?_nc_cat=105&_nc_oc=AQnmke2SJrBMXQJgiuC9Nz9tasU1K6Kt4hDPRMZdDh3SwVFcQdKfAJbhsdG_H4wOOzM&_nc_ht=scontent.xx&oh=7990608d3acf08c2b700c6a6ff54be32&oe=5DA0C40C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66525512_10157281017323745_8172294141095444480_o.jpg?_nc_cat=111&_nc_ohc=KV_S-sIoxg4AQkgx74Lc1TRRe0RBjVd0Ku_pOGNXbGamjX_WNiuOxgNCw&_nc_ht=scontent.xx&oh=1623448c283c48e3b2cafc51cca5001f&oe=5E42965D
 beer-date: "2019-07-14"
 desc: "Really good balance between amber and IPA flavours. Lots of malt and bitterness and a crisp smell"
 permalink: /beer/:title.html

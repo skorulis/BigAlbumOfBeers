@@ -9,7 +9,7 @@ brewery: "Anchor Brewing Company"
 breweryURL: "/brewery/anchor-brewing-company.html"
 style: "California Common"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/983676_10151694533228745_78503103_n.jpg?_nc_cat=111&_nc_oc=AQnu56orEXioFjUg8q97_m5e0qWqmkDHTD2vHXkTdN0tK_AsEFQUlRPZglnPYXSBNiw&_nc_ht=scontent.xx&oh=45a6cdd6429a6a831ec51035ed89787d&oe=5DC39DBF
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/980329_10151694533228745_78503103_o.jpg?_nc_cat=111&_nc_ohc=uIIP7AydKsgAQlc6UkskeNljHSHZWUQkI4ai62Pxh-ZjmGi_YyR-SLyvQ&_nc_ht=scontent.xx&oh=593e30d2062ada2f403eecdbe5fdb7e0&oe=5E4F2D36
 beer-date: "2013-05-25"
 desc: "Like a mild IPA. Tasty"
 permalink: /beer/:title.html

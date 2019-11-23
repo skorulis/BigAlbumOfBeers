@@ -9,7 +9,7 @@ brewery: "Founders Brewing Co."
 breweryURL: "/brewery/founders-brewing-co.html"
 style: "Stout - Oatmeal"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/18699854_10155251933188745_4563438951415973541_n.jpg?_nc_cat=100&_nc_oc=AQmKFwCvCXzKOyE9m80P9YZMSU-QRPIklLg5O99NtHkaWk67Aujcbhyy00mBOMPuq3k&_nc_ht=scontent.xx&oh=d2312d489db262bb5bb265b8587d3432&oe=5DB48644
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/18671813_10155251933188745_4563438951415973541_o.jpg?_nc_cat=100&_nc_ohc=iGf68RIA-CEAQnPbC0D96ehReE2X0Kp3LnKlS9jvIfKhH27nDrnQj65VA&_nc_ht=scontent.xx&oh=772371a8f26e93613564e036297f3c42&oe=5E7CEF72
 beer-date: "2017-05-27"
 desc: "A nice easy drinking mild stout, pretty great example of what a stout should be"
 permalink: /beer/:title.html

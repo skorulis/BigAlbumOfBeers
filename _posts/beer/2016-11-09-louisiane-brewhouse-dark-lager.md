@@ -9,7 +9,7 @@ brewery: "Louisiane Brewhouse"
 breweryURL: "/brewery/louisiane-brewhouse.html"
 style: "Lager - Dark"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/27867316_10156021380178745_6298533291478471829_n.jpg?_nc_cat=108&_nc_oc=AQm0fyZJVHCwZU537tQciOwkJ_JlZILDyfhmLXesOpJAd0yg1M8Lu5hsQz-rgK8OxXA&_nc_ht=scontent.xx&oh=f85976856a594f63d5236883620879f1&oe=5DB7B0F4
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/28071344_10156021380178745_6298533291478471829_o.jpg?_nc_cat=108&_nc_ohc=sKVPE338YoQAQmSY65cgg5gXM2EZwwLpoWVYVEdIwFWDS6LkzC3eSRe_A&_nc_ht=scontent.xx&oh=0536e7901edbbdfdf41029dc45640716&oe=5E46C98B
 beer-date: "2018-02-17"
 desc: "Harsh for what it is but drinkable"
 permalink: /beer/:title.html

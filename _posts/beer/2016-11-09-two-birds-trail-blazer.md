@@ -9,7 +9,7 @@ brewery: "Two Birds Brewing"
 breweryURL: "/brewery/two-birds-brewing.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34157317_10156301078248745_7365761907824787456_n.jpg?_nc_cat=104&_nc_oc=AQmbH3MhQFAzoCJyxpq-wNpC7tXqehU2KgFEEp3cOkpEWZa0EvbWpI-ZQko5oPV5u68&_nc_ht=scontent.xx&oh=0547a661fe3ce5679e04918f646e1535&oe=5DBFBBEF
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34135450_10156301078253745_3239440776194686976_o.jpg?_nc_cat=107&_nc_ohc=CcptI3yNRdkAQkIXrCTF_kZgnUgseliCDXbvW91HxAci8MENa35WtofVg&_nc_ht=scontent.xx&oh=0e2fed60c36bb60c8275198765d70209&oe=5E5157D0
 beer-date: "2018-06-02"
 desc: "Very low on fizz making it the perfect beer to smash down after a run. Very much like a standard Aussie lager with just a little bit more body than the standard fare. Was expecting a little more flavour but god nonetheless"
 permalink: /beer/:title.html

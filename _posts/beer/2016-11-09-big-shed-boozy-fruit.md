@@ -9,7 +9,7 @@ brewery: "Big Shed Brewing Concern"
 breweryURL: "/brewery/big-shed-brewing-concern.html"
 style: "IPA - New England"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64930389_10157223727963745_248227265505132544_n.jpg?_nc_cat=105&_nc_oc=AQm8ZGKsVx-rg1YDidYXZF9TWsAKSH-o_YkL5T-q9OqmuNNeaIlhLxjEZOk6OXtAINY&_nc_ht=scontent.xx&oh=e7e9f70b2734be33cdc0c256ce58375f&oe=5DB95B56
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64996245_10157223727958745_8344805372304818176_o.jpg?_nc_cat=104&_nc_ohc=Hc2qL7NWJ7wAQmhA31dgceftjrOYdmNAKnfKoVde9KVa_dufL3LjJyjqg&_nc_ht=scontent.xx&oh=0259b547ca1fc15269ab0a6122370671&oe=5E895993
 beer-date: "2019-06-22"
 desc: "So so so much fruit in this fella. If you can handle the bitterness it’s like a glass of beer juice. Delivers exactly what it promises"
 permalink: /beer/:title.html

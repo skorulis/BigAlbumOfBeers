@@ -9,7 +9,7 @@ brewery: "Greene King"
 breweryURL: "/brewery/greene-king.html"
 style: "Winter Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/481704_10151368077713745_2078288487_n.jpg?_nc_cat=103&_nc_oc=AQkKoHkkEmFic2dQKHXkeQjD034tQmMcrNCgVDuULc1uR01g_Skga7t8dYh45DeJWXw&_nc_ht=scontent.xx&oh=d8ca1675339b72d70371bebb20be975d&oe=5DA79390
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/704889_10151368077713745_2078288487_o.jpg?_nc_cat=103&_nc_ohc=fahEsb0x4EEAQnXF95NFRDLzWWYoLAHkVq5IK_Gfd_GI4mJ0GMkGPhCdQ&_nc_ht=scontent.xx&oh=4e8a910093f6d8088df0207be239c8c2&oe=5E4AF8EB
 beer-date: "2012-12-09"
 desc: "Makes me feel all Christmasy"
 permalink: /beer/:title.html

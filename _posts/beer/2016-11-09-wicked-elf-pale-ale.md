@@ -9,7 +9,7 @@ brewery: "The Little Brewing Company"
 breweryURL: "/brewery/the-little-brewing-company.html"
 style: "Pale Ale - American"
 score: null
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10464035_10152534310338745_1731994487341714039_n.jpg?_nc_cat=104&_nc_oc=AQnSmypqrK-WahO5YfAl7H5nhLLu7pTWcW-imA1mc7Pr1miWYJW1jRM5zJMkMaN7FdI&_nc_ht=scontent.xx&oh=7ac19463496ec318fe80bd5e53780b5e&oe=5DB26072
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1891402_10152534310338745_1731994487341714039_o.jpg?_nc_cat=104&_nc_ohc=RnXxp77J7_EAQlTkCa0oLiV9lT1ZAwK5iO9gdMQ24AMmS9545gTYjtQ1Q&_nc_ht=scontent.xx&oh=8c8a0e50376c8c08eadc83bd4af1b242&oe=5E421DC3
 beer-date: "2014-06-21"
 desc: "A little bit stouty"
 permalink: /beer/:title.html

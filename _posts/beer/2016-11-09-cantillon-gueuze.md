@@ -9,7 +9,7 @@ brewery: "Brasserie Cantillon"
 breweryURL: "/brewery/brasserie-cantillon.html"
 style: "Lambic - Gueuze"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19146237_10155314455348745_5042985882808233159_n.jpg?_nc_cat=104&_nc_oc=AQlXRX2LozQiJSW3B5Nz-tYio4zUP4wGG9RqgjgCq5BixFxLnW52Nlp5H6SWNHVjjd0&_nc_ht=scontent.xx&oh=470e9cf03a9e9ff8fda074e37c7354f2&oe=5DB167C3
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/19243005_10155314455348745_5042985882808233159_o.jpg?_nc_cat=104&_nc_ohc=K-aE3mgS2b8AQnDnGA1ICLkTtyR7R2uRpz4HC7xlqxzPrw1Uh2n40C00w&_nc_ht=scontent.xx&oh=de8cfd93fb0a08441e12e5e52c1e7682&oe=5E4A9491
 beer-date: "2017-06-15"
 desc: "It's not as sour as I expected. Lots of really subtle flavours that take a while to get used to but it's an interesting experience"
 permalink: /beer/:title.html

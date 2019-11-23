@@ -9,7 +9,7 @@ brewery: "Burleigh Brewing Co."
 breweryURL: "/brewery/burleigh-brewing-co.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10304714_10152425240513745_4080589260215688130_n.jpg?_nc_cat=107&_nc_oc=AQm4jmTo17i5dTXPIwWKunJO3Py9nmH7jfsNqUjowTVEYS7-uj9Mc7IBf5dFs4zMUIA&_nc_ht=scontent.xx&oh=e4bf5f244f276ae35a5780889531e2de&oe=5DBD3979
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10255043_10152425240513745_4080589260215688130_o.jpg?_nc_cat=107&_nc_ohc=88pBP6UjlLYAQnnbzgra2sNwNaq1quB8FOFgpcryTDiPwY3K6K0Kx0-8Q&_nc_ht=scontent.xx&oh=c376dbcca9fe9a32f681ed358be0bdff&oe=5E51E140
 beer-date: "2014-05-03"
 desc: "A little bit too bitter for a pale ale"
 permalink: /beer/:title.html

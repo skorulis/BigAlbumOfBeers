@@ -9,7 +9,7 @@ brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - American"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/20914670_10155535940008745_7219102696879360818_n.jpg?_nc_cat=102&_nc_oc=AQmPmB-h7sMr5PBwXE3BFEaJJfJj4WYoAF695r7csrQaEy75V8OOXIPVAJgrG4mI-Sc&_nc_ht=scontent.xx&oh=fc717f3695f6af2447339c53a204a9e7&oe=5DA9035E
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/20989197_10155535940008745_7219102696879360818_o.jpg?_nc_cat=102&_nc_ohc=xRhiuCe_zDoAQkfOPA2mrabqs3NnpTG84yiX6MtV2CcdqefrOrHv6HOog&_nc_ht=scontent.xx&oh=ec1379db08f374124346f11f073cd5c9&oe=5E42AE79
 beer-date: "2017-08-21"
 desc: "Decent IPA. Not much aroma and a little bitter to start but finishes off nicely"
 permalink: /beer/:title.html

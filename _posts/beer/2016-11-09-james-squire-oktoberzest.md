@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Wheat Beer - Other"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45377514_10156673534443745_4020523000364269568_n.jpg?_nc_cat=110&_nc_oc=AQnfPTsXPAghyaXP2ZMnzMosRY4TVQ4D9kBuh8s7QQTrKnAzxpL6K5VY-zKFUxzk2Nc&_nc_ht=scontent.xx&oh=0b6c7780717ccf224e016f47e72afbd7&oe=5DC21E14
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45624486_10156673534448745_5150023923751976960_o.jpg?_nc_cat=107&_nc_ohc=_ghzASKhmcAAQkSK6wT78bvohwGL88n7GxCOcnIfZGyhDSKQQ4KWlpR1A&_nc_ht=scontent.xx&oh=f53f6a72f5f232b5fd0587ade9aa962d&oe=5E4CC667
 beer-date: "2018-11-05"
 desc: "Very zesty and refreshing. Surprisingly good"
 permalink: /beer/:title.html

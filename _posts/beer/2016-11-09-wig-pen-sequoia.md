@@ -9,7 +9,7 @@ brewery: "Wig & Pen Brewery"
 breweryURL: "/brewery/wig-pen-brewery.html"
 style: "Red Ale - American Amber / Red"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12733610_10153890414378745_2084592148299538325_n.jpg?_nc_cat=105&_nc_oc=AQmoR18x-e882B_m8Uv40XEqJeG403hh6ns6ry-BXBuaRVSLx7CqUIzG-9t5p6IZJ0c&_nc_ht=scontent.xx&oh=d5b174d6408622cced3ff06a6df64ad6&oe=5DA931F6
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12695048_10153890414378745_2084592148299538325_o.jpg?_nc_cat=105&_nc_ohc=INaV9AW3wn8AQluj-9nI6OATgh-RoQR3itZJT5AdZP8bCUBbk-KYR-BFw&_nc_ht=scontent.xx&oh=deb24a775f67bc07942e26a879fccfd2&oe=5E42739A
 beer-date: "2016-02-14"
 desc: "Listed as an amber but kind of like an IPA but a little smoother"
 permalink: /beer/:title.html

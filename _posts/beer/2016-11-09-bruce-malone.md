@@ -9,7 +9,7 @@ brewery: "Yulli's Brews"
 breweryURL: "/brewery/yullis-brews.html"
 style: "IPA - English"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p320x320/11665530_10153438036328745_3370491198453159853_n.jpg?_nc_cat=111&_nc_oc=AQkcFaCE0AFwi75827YjtrsEwJG33CKwbOJhx6OplKQs5tLqzNcqnt9v88CeuSXNl0U&_nc_ht=scontent.xx&oh=a2f5379a4694ed9cd9766646162fd3d6&oe=5DBD7EAD
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p320x320/11058809_10153438036328745_3370491198453159853_o.jpg?_nc_cat=111&_nc_ohc=Dzqb7jcBvL0AQn7oQTeSauRA3QGeBp7a6dKyFMlbLQKLtplrlO7sm-L1Q&_nc_ht=scontent.xx&oh=69f055e47205cf1e374c3f500a37f6e3&oe=5E526E3E
 beer-date: "2015-07-10"
 desc: "Ok, but something is just wrong"
 permalink: /beer/:title.html

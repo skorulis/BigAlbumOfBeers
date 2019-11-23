@@ -9,7 +9,7 @@ brewery: "Innis & Gunn"
 breweryURL: "/brewery/innis-gunn.html"
 style: "Scotch Ale / Wee Heavy"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14446159_10154470816978745_506619917402895971_n.jpg?_nc_cat=110&_nc_oc=AQl8TYjJwRLrd5GILdffYc467BvWLIlRO-vFDc1CQvKuxEDbIDTfIwj2eh5ME61nnrE&_nc_ht=scontent.xx&oh=90acc19ee306ab9f6625b054e05d0696&oe=5DA90324
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/14379806_10154470816978745_506619917402895971_o.jpg?_nc_cat=110&_nc_ohc=XNsDu5rQQsAAQkG_8XFYHAittdLDwSOVmkjcf0TquWoCxZn6aQlwy-gXg&_nc_ht=scontent.xx&oh=5fc22e1e4e0753845a1156a2f83dc4d4&oe=5E438875
 beer-date: "2016-09-21"
 desc: "You can really taste the oak flavours coming through Has a slightly strange flavour but overall pretty nice"
 permalink: /beer/:title.html

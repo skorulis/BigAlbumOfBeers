@@ -9,7 +9,7 @@ brewery: "Sierra Nevada Brewing Co."
 breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "IPA - Imperial / Double"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34162038_10156301079363745_1019815898258604032_n.jpg?_nc_cat=107&_nc_oc=AQlTzMwyf8M0I04NxcKAaVwA-TiCFkJYJ_NMECBUGXgpHeKg5_k7fF6fYZU8BU_qzw8&_nc_ht=scontent.xx&oh=e61ebc7540210e3d0b23c013d4f9794e&oe=5DA60378
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34156414_10156301079368745_8263018582124789760_o.jpg?_nc_cat=103&_nc_ohc=e8QRpaHfeOcAQmjGERYuvRINEAHGsleZ2P_b8hoCCp0FpjRiJyu7tselw&_nc_ht=scontent.xx&oh=5a25f2aec99f1a0704e259a2f2957a05&oe=5E7C977B
 beer-date: "2018-06-02"
 desc: "Surprisingly mild for a double IPA. Slight citrus notes but not much else. Guess you could call it a session DIPA"
 permalink: /beer/:title.html

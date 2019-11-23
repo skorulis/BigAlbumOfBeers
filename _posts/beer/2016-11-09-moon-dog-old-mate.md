@@ -9,7 +9,7 @@ brewery: "Moon Dog Craft Brewery"
 breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64651033_10157281016813745_2985796169654861824_n.jpg?_nc_cat=110&_nc_oc=AQmZPwgaIRnoNGhqBb1I2tYQYYMdwgDx8qoMQXIHhF1tLdk4LOOhqRcr-SHQovG-3U0&_nc_ht=scontent.xx&oh=ed75f5090f4098d91d5df4f7d599a5e9&oe=5DB87DB3
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66762612_10157281016818745_3287209041683546112_o.jpg?_nc_cat=106&_nc_ohc=ctwx1L9kYqMAQkwiHfH--TT_VLOLS9yyIxm4rfbud4Z89-q8qUdRQ0OIA&_nc_ht=scontent.xx&oh=07997697e4b21aafcc63ddce4660a4ae&oe=5E8C7E50
 beer-date: "2019-07-14"
 desc: "Kind of yeasty, tastes cheap and not well put together at all. But it’s still beer"
 permalink: /beer/:title.html

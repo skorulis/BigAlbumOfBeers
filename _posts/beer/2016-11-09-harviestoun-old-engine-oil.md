@@ -9,7 +9,7 @@ brewery: "Harviestoun Brewery"
 breweryURL: "/brewery/harviestoun-brewery.html"
 style: "Porter - Other"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/65190697_10157223727453745_3561972560763551744_n.jpg?_nc_cat=100&_nc_oc=AQmtVTkhKiyGMp6sD6UNP3_ySToVDW95fAiB92rJusWA1cP-wLs725SbciyjaiCVS0s&_nc_ht=scontent.xx&oh=ff9a8d23da69d987da5966be0c429007&oe=5DBED526
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/65018049_10157223727458745_2782206052580458496_o.jpg?_nc_cat=107&_nc_ohc=dYegWbedEqMAQkyVvG9NeHqIvwWfjqPkwyQDNiLukCFKxrlCW8F2a_8HA&_nc_ht=scontent.xx&oh=cdc405d9cf094e1188480b30f6ddfe90&oe=5E8A2069
 beer-date: "2019-06-22"
 desc: "It’s a very rich beverage, but there’s a little toughness that spoils the smoothness"
 permalink: /beer/:title.html

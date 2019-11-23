@@ -9,7 +9,7 @@ brewery: "Magic Rock Brewing"
 breweryURL: "/brewery/magic-rock-brewing.html"
 style: "Sour - Gose"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13423942_10154200939173745_2576605150498271504_n.jpg?_nc_cat=111&_nc_oc=AQngWfVrvJZIyObxxxQHvCwF478ntH7crifaB6dlu4JzxO_o1GqUJy4V1ndrXP3FDW8&_nc_ht=scontent.xx&oh=676e06001e6682b3f2f667065985645b&oe=5DC3C6E5
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/13442560_10154200939173745_2576605150498271504_o.jpg?_nc_cat=111&_nc_ohc=j-sgKKShfqcAQl2z9FJ5bNFUn0DAyoxlOYMOU-lkKO5v_XskCvBbJNs4g&_nc_ht=scontent.xx&oh=6068a745ce112e1c7370459fdeec09e8&oe=5E8C625B
 beer-date: "2016-06-16"
 desc: "Fairly mild on flavour. Easy to drink and refreshing"
 permalink: /beer/:title.html

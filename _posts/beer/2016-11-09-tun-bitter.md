@@ -9,7 +9,7 @@ brewery: "Wow Brands"
 breweryURL: "/brewery/wow-brands.html"
 style: "Lager - North American Adjunct"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10450836_10153118667958745_9176447944373645082_n.jpg?_nc_cat=104&_nc_oc=AQkC8_jYlAjXR_rH7tYMTLDzACkMkg0uyOAQAt5uoWK7S5ckItpFmhBJEFH2xCW5QYU&_nc_ht=scontent.xx&oh=76e8536fb8d03384ecdaa636f2a40490&oe=5DBA6AFF
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1523538_10153118667958745_9176447944373645082_o.jpg?_nc_cat=104&_nc_ohc=204t0TxmU8IAQmx3RJ1Wwg3Noz5YVpzpc6Tpn1r8TR0KvTbhSCqYz3YiQ&_nc_ht=scontent.xx&oh=e75c159146e6466b4bc993eac90c91aa&oe=5E50C7F1
 beer-date: "2015-02-27"
 desc: "Tastes the same as the green one but not as strong"
 permalink: /beer/:title.html

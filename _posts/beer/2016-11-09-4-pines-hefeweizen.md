@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Hefeweizen"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64789671_10157223733178745_744062861663272960_n.jpg?_nc_cat=104&_nc_oc=AQnP4jNIKf_M5x-V4Tg7gMr1cVdeN2uffZYyiLhOiPIOZIFirnDk2SuBF0GQZKULdko&_nc_ht=scontent.xx&oh=4ea7cebd8fa6afc203c3c57b4e6193ca&oe=5DB0EDC7
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64913340_10157223733183745_6832983330858729472_o.jpg?_nc_cat=106&_nc_ohc=1XSnJ0N31n4AQmwmpc1dcHo-f5QDFMJJzjCHv6KxIs9B9xRTL-UzkVRhg&_nc_ht=scontent.xx&oh=56d42ad96bdbf6497b6c3370ddb1d44f&oe=5E515211
 beer-date: "2019-06-22"
 desc: "Lots of banana. Very easy to drink. Great hefeweizen, middle of the road. Upset I haven’t had this sooner"
 permalink: /beer/:title.html

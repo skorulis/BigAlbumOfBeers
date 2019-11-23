@@ -9,7 +9,7 @@ brewery: "To Øl"
 breweryURL: "/brewery/to-ol.html"
 style: "Witbier"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16832074_10154957443143745_1906349478154531984_n.jpg?_nc_cat=108&_nc_oc=AQlofmVjzOalC0YU1ZgbNMj3NFukMJ_mfggrEjJl3rnc0XH8xdO0bIBqwOZKwx5ByeM&_nc_ht=scontent.xx&oh=db8dd1bd8fc5c7ea7e2134c3992af5f8&oe=5DB0362E
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/16797085_10154957443143745_1906349478154531984_o.jpg?_nc_cat=108&_nc_ohc=rjYccBfTha0AQlhvBYw3jVO-XuRrC9B_5z5L6yCKRDpxC_DMrjwNuvyvw&_nc_ht=scontent.xx&oh=21c695fce1eb7da583b8c67bef08f631&oe=5E418444
 beer-date: "2017-02-22"
 desc: "A balance between a wit and a sour but perhaps too bitter to sit in that range. Fairly easy drinking but not as refreshing as I was hoping. Hard to pick out any flavours"
 permalink: /beer/:title.html

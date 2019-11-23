@@ -9,7 +9,7 @@ brewery: "Bridge Road Brewers"
 breweryURL: "/brewery/bridge-road-brewers.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1920508_10152327616563745_674556830_n.jpg?_nc_cat=109&_nc_oc=AQl-a3P-pYPBqBcE6X9U9LqEm84G_DVq9Qaog0SAn2PwYoxsKn7odwtqD_r2fSYhqvg&_nc_ht=scontent.xx&oh=c3883b7cfdca6ec37f68ba51d1781619&oe=5DA52FC8
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1979939_10152327616563745_674556830_o.jpg?_nc_cat=109&_nc_ohc=NHxCtpTsaf8AQmItzazAQgvCYqEBDlQR8MXoygoESfrzpeG6MhQL86Vxw&_nc_ht=scontent.xx&oh=2feb8fde8caa74746715e57f426b4bde&oe=5E48E385
 beer-date: "2014-03-18"
 desc: "a nicely hopped pale ale"
 permalink: /beer/:title.html

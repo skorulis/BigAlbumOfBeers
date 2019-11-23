@@ -9,7 +9,7 @@ brewery: "Barrow Boys Brewing"
 breweryURL: "/brewery/barrow-boys-brewing.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10649831_10153811640038745_8117596568326792946_n.jpg?_nc_cat=110&_nc_oc=AQmUYwi0shHc0wCwu7vIzqm00wQCPL3PSG6ttCmkqwmw96wdGqifJV97F6ukbmdj79I&_nc_ht=scontent.xx&oh=92fedd59277878e3510f304b0a96a967&oe=5DC2F284
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12495977_10153811640038745_8117596568326792946_o.jpg?_nc_cat=110&_nc_ohc=no7lrGG5jAIAQlQ_o2Htr0LhwY3iSK-zIx_-F0ShD5zZScyqkjumU3JVg&_nc_ht=scontent.xx&oh=d94ed5d132e6108f09700e121c6c4500&oe=5E41D15B
 beer-date: "2016-01-07"
 desc: "All round decent pale ale"
 permalink: /beer/:title.html

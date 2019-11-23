@@ -9,7 +9,7 @@ brewery: "Stella Artois"
 breweryURL: "/brewery/stella-artois.html"
 style: "Pale Ale - Belgian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19114022_10155314455163745_2656534065002843015_n.jpg?_nc_cat=100&_nc_oc=AQlFTxq_IfU2hKZfjHO-CJX6g3vK7fSgzGme2vfZiCjMyND-3LgOWkq8E0UQlxeDfcc&_nc_ht=scontent.xx&oh=7afb71837d4ae780292062e7d58cca48&oe=5DB93A0F
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/19095405_10155314455163745_2656534065002843015_o.jpg?_nc_cat=100&_nc_ohc=72BJg5ETeGUAQk7iK7nPkRdr0s9EKI9w9O88P8z-wzOCCvyM4aFEKSMdA&_nc_ht=scontent.xx&oh=3b42defdb4337708185ec0eabaccf46c&oe=5E50FBA3
 beer-date: "2017-06-15"
 desc: "Easy drinking Belgian blonde with a slight malty finish"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Old Wives Ales"
 breweryURL: "/brewery/old-wives-ales.html"
 style: "Sour - Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/58381816_10157070441803745_3283661188243652608_n.jpg?_nc_cat=103&_nc_oc=AQkTlzBt7h48RKJmxycR77rCmj9q8Wt5fTQ4rSztoPDMT90BvmUn7NnDLgNQ9wCacUI&_nc_ht=scontent.xx&oh=902fc8a313086d1b9702a4cc69ee7b0f&oe=5DB84C24
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57456811_10157070441808745_2883801064425914368_o.jpg?_nc_cat=107&_nc_ohc=jlCkpZIHIlUAQmJANgvER9TFAY92wpK27mSihEfelYJYOYw4ldx0LkSvQ&_nc_ht=scontent.xx&oh=394f5d0a804af33270d0ce0f8dabff31&oe=5E8CD94F
 beer-date: "2019-04-22"
 desc: "A bit sour, a bit of lacto but not much hops. Something different about this and really nice"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "IPA - Session / India Session Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/16195567_10154858022973745_8651442478231377897_n.jpg?_nc_cat=109&_nc_oc=AQklIWX2jUbtER6BqenyEF8JEhtfNVm4GyzzkTriA74rLo9QgY2XX4jgWi74wC15qQo&_nc_ht=scontent.xx&oh=3b9448d2e4ea76ca7f9fdde7acc52f4f&oe=5DB87CD7
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/16178605_10154858022973745_8651442478231377897_o.jpg?_nc_cat=109&_nc_ohc=m_KQcDWavP4AQkAHNgQ88QecIfP7G9Jnt7e83NqKBGGFCAR88cJaA2Pmg&_nc_ht=scontent.xx&oh=ae71261fb3ef90fe4afe981b66207b96&oe=5E8C0C7B
 beer-date: "2017-01-21"
 desc: "I love the smell and the floral side of the hops but there’s a harsh bitterness that’s out of place. It’s a decent IPA but there’s nothing amazing going on"
 permalink: /beer/:title.html

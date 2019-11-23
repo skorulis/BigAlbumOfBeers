@@ -9,7 +9,7 @@ brewery: "Royal Unibrew"
 breweryURL: "/brewery/royal-unibrew.html"
 style: "Pilsner - Other"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19961114_10155413265583745_2120728354928735284_n.jpg?_nc_cat=111&_nc_oc=AQnPPOTJLeCCNs9zJatBIjhbli798XV2AJGVpBrI8_Ef2cyiHCARrgw9oq0sVjTiHm8&_nc_ht=scontent.xx&oh=6990cff1ef65d272f1be4b86be53b5bc&oe=5DAE4EBE
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/19944668_10155413265583745_2120728354928735284_o.jpg?_nc_cat=111&_nc_ohc=Hws2Jw0MhgYAQlbZ99wOYdj2AGNE7rt5B_cSycazmJFqztWTUITq4HuAQ&_nc_ht=scontent.xx&oh=42ce6ec8736b4cd5375724bc84f8a412&oe=5E4765E9
 beer-date: "2017-07-12"
 desc: "Pretty plain lager"
 permalink: /beer/:title.html

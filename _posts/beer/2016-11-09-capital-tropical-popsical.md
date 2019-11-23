@@ -9,7 +9,7 @@ brewery: "Capital Brewing Co"
 breweryURL: "/brewery/capital-brewing-co.html"
 style: "Sour - Ale"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48427678_10156797295833745_2431228695315218432_n.jpg?_nc_cat=101&_nc_oc=AQlsMc-gZI5jcud9wDUNT1ReuH5dWaicW82hCVLAVMjXYoQuuajPv-kgDqyJMLf8v4c&_nc_ht=scontent.xx&oh=9d7b70d81b795312299532816fced5cb&oe=5DB94A9C
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49007373_10156797295828745_4353452101892833280_o.jpg?_nc_cat=102&_nc_ohc=Q2S1yGxeEEUAQkQ8XBRqsvCBdMHBDISD8mP1lNcDqV-DEQvISH7crvA1A&_nc_ht=scontent.xx&oh=0dcf13470e4c6aeaee1bdb2be6747ef9&oe=5E45B193
 beer-date: "2018-12-27"
 desc: "Tastes exactly like a frosty fruit. Super impressed with getting this much sweetness in a sour"
 permalink: /beer/:title.html

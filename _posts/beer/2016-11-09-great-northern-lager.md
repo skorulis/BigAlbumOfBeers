@@ -9,7 +9,7 @@ brewery: "Great Northern Brewing Co."
 breweryURL: "/brewery/great-northern-brewing-co.html"
 style: "Lager - North American Adjunct"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/11025812_10153118627363745_3879639136439752978_n.jpg?_nc_cat=103&_nc_oc=AQnhHYqb7YxZBaMKyfpJwuuOGod3bs50S4oY0hM4aCUTz7Bkuf-VHCd9HL7JAS_lU4E&_nc_ht=scontent.xx&oh=05a074077b4d276802b228a92e86b543&oe=5DB54B3D
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/11001632_10153118627363745_3879639136439752978_o.jpg?_nc_cat=103&_nc_ohc=NEROaXC-ubgAQmFgzVybEINB1AIJoCeiBUFPlcHntsFCsicUGduB8QN1A&_nc_ht=scontent.xx&oh=dffd97703625a25aacacb091b76d2247&oe=5E7E5BB3
 beer-date: "2015-02-27"
 desc: "A little bit metallic. Not sure why this was recommended to me"
 permalink: /beer/:title.html

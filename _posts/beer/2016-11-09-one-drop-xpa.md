@@ -9,7 +9,7 @@ brewery: "One Drop Brewing Co"
 breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64834272_10157223728828745_8530218904314707968_n.jpg?_nc_cat=104&_nc_oc=AQnqSxSWUIEv_Yz2gRzjy8esuUhX6kJwf2B2ttRS-prE0_I_AL-1ZMdpRAM5NRAZop8&_nc_ht=scontent.xx&oh=f261dbcc7da5b5f663e4beea07ce6a66&oe=5DB5A260
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/65258046_10157223728823745_8515881203969032192_o.jpg?_nc_cat=103&_nc_ohc=CSSNOocH49wAQnaTnuiw4qXs3vnS9Yvus1jQoMW5T_xnk2Rhthf_tixOg&_nc_ht=scontent.xx&oh=1703cf1790fa25f66143ebe0ec9ef7f6&oe=5E81B4CA
 beer-date: "2019-06-22"
 desc: "Great fruity drop. Not too much bitterness so good with food"
 permalink: /beer/:title.html

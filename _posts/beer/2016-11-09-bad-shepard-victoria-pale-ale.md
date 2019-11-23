@@ -9,7 +9,7 @@ brewery: "Bad Shepherd Brewing Co."
 breweryURL: "/brewery/bad-shepherd-brewing-co.html"
 style: "Pale Ale - Australian"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/58374765_10157070476623745_3430390830286766080_n.jpg?_nc_cat=106&_nc_oc=AQlOF1vQjQBWB4mmLpIybcjA2rG3J8YKzylIafhHGxJ8mQZvHAuCx8uhtboDOKaZyNA&_nc_ht=scontent.xx&oh=8ce9bcb6f121552fedc9b41ccce92a58&oe=5DEDC647
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/58382857_10157070476618745_2721559366309249024_o.jpg?_nc_cat=111&_nc_ohc=a8_YGh950SoAQk0dhPKoUMNHQkUaQ_N0T0bk01QzBAKpPngkogfnYO2fg&_nc_ht=scontent.xx&oh=6bc0086bada1cb8308be1ec37522608e&oe=5E8897A4
 beer-date: "2019-04-22"
 desc: "Fairly mild pale ale. Not much on the nose. More of a lager really. In that respect it’s good, but not enough to justify buying a craft beer"
 permalink: /beer/:title.html

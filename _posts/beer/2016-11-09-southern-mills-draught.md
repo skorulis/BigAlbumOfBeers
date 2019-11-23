@@ -9,7 +9,7 @@ brewery: "Vietnam Brewery"
 breweryURL: "/brewery/vietnam-brewery.html"
 style: "Lager - Amber"
 score: 5.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43149296_10156603263963745_6518588542220763136_n.jpg?_nc_cat=107&_nc_oc=AQklFp5IIkk_54kAjYBx1I_dr3tdwZr5LyeSbMYTlLnoHbNUlaB-OiCo4cF9HnxL5HQ&_nc_ht=scontent.xx&oh=623b23c7305404bc53ab5e1e1d824562&oe=5DB27157
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43270231_10156603263958745_8195799904400965632_o.jpg?_nc_cat=101&_nc_ohc=Aa_RsvwdtecAQkxt49XVXGkiyHO23NK9aFoQe94aKXnzBrwib05oONxvA&_nc_ht=scontent.xx&oh=1cbcc2810a9a5e887adcf046b0775990&oe=5E4EDDBA
 beer-date: "2018-10-05"
 desc: "Pretty standard lager"
 permalink: /beer/:title.html

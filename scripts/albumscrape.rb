@@ -47,7 +47,6 @@ def downloadChunk(url)
 	
 	count = 0;
 	photos.each{|value|
-
 	    lines = value["name"].split(/\r?\n/);
 	    pct = lines[0][/[0-9]?[0-9]?(\.[0-9]{0,2})?%/]
 	    if pct

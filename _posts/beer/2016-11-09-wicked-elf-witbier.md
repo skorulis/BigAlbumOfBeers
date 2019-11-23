@@ -9,7 +9,7 @@ brewery: "The Little Brewing Company"
 breweryURL: "/brewery/the-little-brewing-company.html"
 style: "Witbier"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/10292286_10153118667738745_8355190794765320413_n.jpg?_nc_cat=107&_nc_oc=AQk66mfrSiYIZ_9LFu1r699F32UaRjr4kNmvBdecFaPFQbFUyuCLeiUxDunTUkqlRl4&_nc_ht=scontent.xx&oh=029d1e7e0aa23dffae79f3f67d22b36b&oe=5DBCFA8C
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10984200_10153118667738745_8355190794765320413_o.jpg?_nc_cat=107&_nc_ohc=IqEQbsiJNEwAQlpRrOannGmJdN0KEN8kc3VrfH_mV66Zs41lllVt6bNtw&_nc_ht=scontent.xx&oh=a2f955fa6d37b0cca31a204da46b6dca&oe=5E434F31
 beer-date: "2015-02-27"
 desc: "Fairly mild for a wheat beer"
 permalink: /beer/:title.html

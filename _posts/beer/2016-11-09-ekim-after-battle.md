@@ -9,7 +9,7 @@ brewery: "Ekim Brewing Co."
 breweryURL: "/brewery/ekim-brewing-co.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64662735_10157223731928745_1743296078343569408_n.jpg?_nc_cat=104&_nc_oc=AQnIy4GZo2L9qsoAYxN7l_qG4NVN1lEAoKgfzzcCyuB0KHGTGTanjGmOx5bOay6QRaA&_nc_ht=scontent.xx&oh=6856ceb3ae5b4aa2b84b9454322342f1&oe=5DAABC6B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64783293_10157223731923745_190640859396440064_o.jpg?_nc_cat=106&_nc_ohc=f9IVqhDkazcAQlgt7IvCuBLw6XffWhBe8G9aR5G0vbDvBKrvUn6pgR1Ww&_nc_ht=scontent.xx&oh=b67b2ea8aa4cf6ab19d95db0e74bd3e6&oe=5E406B93
 beer-date: "2019-06-22"
 desc: "Kind of plain. Very inoffensive and easy to drink but nothing exciting"
 permalink: /beer/:title.html

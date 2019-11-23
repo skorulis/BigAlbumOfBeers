@@ -9,7 +9,7 @@ brewery: "Wychwood Brewery"
 breweryURL: "/brewery/wychwood-brewery.html"
 style: "Brown Ale - English"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/484314_10151368077318745_996314221_n.jpg?_nc_cat=110&_nc_oc=AQkjE7M90wEJtIWPmQxFHhh_yYKcaDG5iovfVchS2Ft4BoBDUKQWxxiaYzccJQO_fjs&_nc_ht=scontent.xx&oh=f363fc91f48ca5926d31e3a6efbdc20e&oe=5DA5920A
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/335878_10151368077318745_996314221_o.jpg?_nc_cat=110&_nc_ohc=5wUHEw9vt8wAQmnVLqKM_W0_N_CpID7mF8O4apcv70AfWDYM8TSPcq9zg&_nc_ht=scontent.xx&oh=9d5873c2402297ba1b8065210bab9fd0&oe=5E43FC9C
 beer-date: "2012-12-09"
 desc: "An average ale"
 permalink: /beer/:title.html

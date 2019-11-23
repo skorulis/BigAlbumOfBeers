@@ -9,7 +9,7 @@ brewery: "White Rabbit"
 breweryURL: "/brewery/white-rabbit.html"
 style: "Sour - Ale"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22780278_10155717527168745_3652239766503807373_n.jpg?_nc_cat=106&_nc_oc=AQlgCLg9ZsOPKtvjmbcFAfPmPvWAUDTCKUr7BJI-7xLo2skTmZeg4lNGa1aV7ZjcVPI&_nc_ht=scontent.xx&oh=9254ccad954ad3df2e69a90a0e7c4e14&oe=5DB71CB3
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/22792249_10155717527168745_3652239766503807373_o.jpg?_nc_cat=106&_nc_ohc=imfrQDyFYSMAQmSw-bMtH9_6FNKzBj-IEfqXe2A4OrxWPmhhf18_lLBLA&_nc_ht=scontent.xx&oh=662417ec1d76d886a1f2560969c30f4c&oe=5E7D1EEB
 beer-date: "2017-10-28"
 desc: "Very interesting blend. The sourness mixed with the bitterness and floral flavours from the IPA somehow tastes sweet. A great beer if you want something different"
 permalink: /beer/:title.html

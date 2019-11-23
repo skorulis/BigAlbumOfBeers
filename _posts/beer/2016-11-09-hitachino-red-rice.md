@@ -9,7 +9,7 @@ brewery: "Kiuchi Brewery"
 breweryURL: "/brewery/kiuchi-brewery.html"
 style: "Specialty Grain"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/1157401_10151888670423745_99231248_n.jpg?_nc_cat=110&_nc_oc=AQmmJsPHXvTICUF1KVL6iGbX9QDjCUCk8cUzMW_FTXOn5XADFN6ZPfwhH9rKtf99Ncc&_nc_ht=scontent.xx&oh=fc9fa1a9a7c06c47622652700f1fa3f8&oe=5DB8219A
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1269779_10151888670423745_99231248_o.jpg?_nc_cat=110&_nc_ohc=x4r_MJ4oInMAQnTJEI-fIlJHcgiMVgyDIaAAogbxWrZkEDDpSQrRKNRLw&_nc_ht=scontent.xx&oh=18e0b2b0d6fda3627ee1838dcd98ec2f&oe=5E428C1A
 beer-date: "2013-09-01"
 desc: "A strange taste, takes a bit to get used to"
 permalink: /beer/:title.html

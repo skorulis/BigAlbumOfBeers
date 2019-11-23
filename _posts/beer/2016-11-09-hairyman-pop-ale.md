@@ -9,7 +9,7 @@ brewery: "Hairyman Brewery"
 breweryURL: "/brewery/hairyman-brewery.html"
 style: "Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48423205_10156797296603745_4943660237056901120_n.jpg?_nc_cat=100&_nc_oc=AQleQ1811Apk51-WxORIdWY-2iN9QdYHAUgQ4gy_KA2VIiUvir3oFtVuN7cu__hwhAU&_nc_ht=scontent.xx&oh=558c754c2fcd508b500332db936607e0&oe=5DBA99D1
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48424418_10156797296598745_8374439598675197952_o.jpg?_nc_cat=110&_nc_ohc=QiQgAPSKi5sAQmg0I-rYm5P4-0qehyHPlWSJoOMLk3cjy4wWYCMnigk6g&_nc_ht=scontent.xx&oh=a9cd4596270e15954341f98d9b3cc86c&oe=5E440AA3
 beer-date: "2018-12-27"
 desc: "Pop as in soda pop. Pretty much tastes exactly like creaming soda. Evokes a lot of memories of childhood, but gets you drunk at the same time. It’s probably the sweetest beer I’ve ever had, but not so much that it gets hard to drink. One of the more unique beers I’ve ever had"
 permalink: /beer/:title.html

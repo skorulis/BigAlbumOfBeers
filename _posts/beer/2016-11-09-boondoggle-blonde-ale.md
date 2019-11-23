@@ -9,7 +9,7 @@ brewery: "Ringwood Brewery"
 breweryURL: "/brewery/ringwood-brewery.html"
 style: "Blonde Ale"
 score: null
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/970910_10151860440438745_1474360215_n.jpg?_nc_cat=102&_nc_oc=AQlSXqY6VGb6G4D4LIa0H_wRsRETe8DOJ-DQxiKxLSxnRyNbONp3-lzao-R5KlF6nvk&_nc_ht=scontent.xx&oh=aa8a1e5f0027da3f2b78939686c36f95&oe=5DA44C03
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1149670_10151860440438745_1474360215_o.jpg?_nc_cat=102&_nc_ohc=9iZ0yZFEKe0AQnzpVCDY9teI0Q1_lTB5A_xT31cnWtOfstu5jUPPcZSIA&_nc_ht=scontent.xx&oh=ee54d507cedbc58ebfea3529cfe0bb16&oe=5E838F28
 beer-date: "2013-08-18"
 desc: "Some sort of quasi good beer"
 permalink: /beer/:title.html

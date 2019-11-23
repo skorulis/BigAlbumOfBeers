@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "IPA - International"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45381851_10156673534563745_4119599460567220224_n.jpg?_nc_cat=104&_nc_oc=AQlZk5_2UlQTynWS87g1MIPCvPZL8nS8LLAwOjzNjdybWiJb8eclPpe0qrq9lVa94vo&_nc_ht=scontent.xx&oh=a811af274e66d76a830f6c135cb062ac&oe=5DB29372
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45491577_10156673534568745_6773175425930625024_o.jpg?_nc_cat=108&_nc_ohc=wyCwzZ4efQ0AQlkT51ZAPNG8rUzZ4MoTu9BIi84V1vRvdlNuP6p-FRQjA&_nc_ht=scontent.xx&oh=070992c7ae04d487c327b42d6478c3fe&oe=5E44BD72
 beer-date: "2018-11-05"
 desc: "A little kick of bitterness but not a great amount of hops coming through. Gets better as it goes down"
 permalink: /beer/:title.html

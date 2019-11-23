@@ -9,7 +9,7 @@ brewery: "BrewDog"
 breweryURL: "/brewery/brewdog.html"
 style: "IPA - Imperial / Double"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/537412_10151428532378745_1195699464_n.jpg?_nc_cat=103&_nc_oc=AQlicMRoTcowo2GON27SpzWTfmb3pxbMHENWGcCBWAJJkfKmL1BqSvx2HqtdpV186-o&_nc_ht=scontent.xx&oh=05bbebdcba0aa3dd1f7db4922651f1f4&oe=5DBBCB3A
+img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/740317_10151428532378745_1195699464_o.jpg?_nc_cat=103&_nc_ohc=RfNcW-_9u6UAQnmVWnCDbq7qFoWN2SHNnC9jFO_p1R8GH8kJZA1GhxWGQ&_nc_ht=scontent.xx&oh=f3e1e218f3ba38b209dd446f7079a61a&oe=5E4168DC
 beer-date: "2013-01-13"
 desc: "A lot of flavour. Couldn't handle many"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Tuatara Brewery"
 breweryURL: "/brewery/tuatara-brewery.html"
 style: "IPA - International"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29133750_10156095061223745_8199919684275929088_n.jpg?_nc_cat=101&_nc_oc=AQnFDOpQinvD-AOTiliYxals35BBCzVg2Fz71oG4MsoCWSrJv2CnvRlNNTexBqqw6Xg&_nc_ht=scontent.xx&oh=b29334090e28612d81ae08e441b023c2&oe=5DEE565B
+img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29134044_10156095061218745_7855437047706681344_o.jpg?_nc_cat=111&_nc_ohc=FmhC94ONnqMAQnLzVOpIVbX73FhjvaU12LUQtLxiFiaIsK3KRF4XqFZxw&_nc_ht=scontent.xx&oh=7361193028c86d8df3c47ed70862e21b&oe=5E4F7FA9
 beer-date: "2018-03-13"
 desc: "Very strong hops for the strength. Lots of pine and a little bit of dank"
 permalink: /beer/:title.html
