@@ -86,7 +86,7 @@ puts missing.keys.map { |e|
 allIds = extraData.select { |key,value| value["untappd"]["id"].length > 0 }.values.map {|value| value["untappd"]["id"]}
 
 puts "Duplicate IDS"
-puts allIds.detect { |e| allIds.count(e) > 1}
+puts allIds.select { |e| allIds.count(e) > 1}
 
 
 File.open("js/extra.json","w") do |f|
