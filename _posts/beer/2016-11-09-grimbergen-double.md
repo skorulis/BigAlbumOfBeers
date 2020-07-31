@@ -9,7 +9,7 @@ brewery: "Brouwerij Alken-Maes"
 breweryURL: "/brewery/brouwerij-alken-maes.html"
 style: "Belgian Dubbel"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/19956306_10155413268918745_3410345117602999225_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_ohc=PPnEnm_7E2YAX_e3WjY&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=2f1717cf483c6f0e3494a389226d5b07&oe=5F478BAA
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/19956306_10155413268918745_3410345117602999225_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_ohc=PPnEnm_7E2YAX_e3WjY&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=69bcacc5ffdd1411141aa14478f0db05&oe=5F4B802A
 beer-date: "2017-07-12"
 desc: "Can really taste the candi sugar. Nicely sweet with no bitterness. Surprisingly easy to drink"
 permalink: /beer/:title.html
