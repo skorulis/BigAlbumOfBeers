@@ -9,7 +9,7 @@ brewery: "Birrificio Lambrate"
 breweryURL: "/brewery/birrificio-lambrate.html"
 style: "Porter - Other"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/20023880_10155413282868745_2382469259806849987_o.jpg?_nc_cat=103&_nc_ohc=3xNLhM7Tz4gAQkei-dg2ZEKt3jjIPqG2r94rscb7k85Yokx4ilGkGw31A&_nc_ht=scontent.xx&oh=b947ec8447180ccf0241e39230b8350c&oe=5E805C7C
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/20023880_10155413282868745_2382469259806849987_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_ohc=NEneNpksHUgAX-IudYf&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=b73bb883e8b1bb5c4aeecc76d5f16145&oe=5F47D184
 beer-date: "2017-07-12"
 desc: "Hazelnut is an amazing flavour that works without sweetness. Gives you exactly what you so for"
 permalink: /beer/:title.html

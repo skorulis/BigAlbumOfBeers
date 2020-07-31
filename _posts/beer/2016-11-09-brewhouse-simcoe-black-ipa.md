@@ -9,7 +9,7 @@ brewery: "Basement Brewhouse"
 breweryURL: "/brewery/basement-brewhouse.html"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/58381083_10157070444853745_8366487170373910528_o.jpg?_nc_cat=101&_nc_ohc=wQfLA3oDcQQAQn_2eSyuBE3cO2qBikKFYFDaziC3Yui-raT6ylFNzBpIQ&_nc_ht=scontent.xx&oh=566413df573e3b5c656d4a897309495f&oe=5E47952B
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/58381083_10157070444853745_8366487170373910528_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=iK680W-11_UAX9Bcq03&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=146ed130d10efd0f5ce87451aba9a9b2&oe=5F4939D5
 beer-date: "2019-04-22"
 desc: "Very nice mix of hops and malt"
 permalink: /beer/:title.html

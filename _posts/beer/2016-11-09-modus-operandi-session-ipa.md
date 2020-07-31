@@ -9,7 +9,7 @@ brewery: "Modus Operandi Brewing Co."
 breweryURL: "/brewery/modus-operandi-brewing-co.html"
 style: "IPA - Session / India Session Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/16826101_10154957442713745_6249300064063628656_o.jpg?_nc_cat=111&_nc_ohc=K1ytqAU-04UAQlMZDR3o272PmEWEAUyaT7U-Kkx_rq_J53dH29Af4ApLQ&_nc_ht=scontent.xx&oh=e8fbc1833a0a0781e26685a4438d4f92&oe=5E4D2820
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/16826101_10154957442713745_6249300064063628656_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=JrO-Fd70QUMAX-Py7J7&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=b18c644a8b3d4b2e5db0d5e998f112f2&oe=5F479B60
 beer-date: "2017-02-22"
 desc: "Sweet drinking. Probably a little bit too drunk to fully appreciate this"
 permalink: /beer/:title.html

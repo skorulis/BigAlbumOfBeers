@@ -9,7 +9,7 @@ brewery: "Brouwerij Martens"
 breweryURL: "/brewery/brouwerij-martens.html"
 style: "Lager - Pale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/19955972_10155413261418745_4344905973868021603_o.jpg?_nc_cat=102&_nc_ohc=IjhDOd2d21kAQnWbbFTEg25lx9V6k6O9KOV5yfsxGurwKC3hOlbhwRpHw&_nc_ht=scontent.xx&oh=a4d9acf0a6d0a0d8538602eb384b2f59&oe=5E53D021
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/19955972_10155413261418745_4344905973868021603_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=5q24ndnN0KEAX-9pACs&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=95c5c9b541a5d013779bea3d6f0fadfa&oe=5F48DC5F
 beer-date: "2017-07-12"
 desc: "Mild and refreshing"
 permalink: /beer/:title.html

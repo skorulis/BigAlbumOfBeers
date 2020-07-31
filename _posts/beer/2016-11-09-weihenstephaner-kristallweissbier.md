@@ -9,7 +9,7 @@ brewery: "Bayerische Staatsbrauerei Weihenstephan"
 breweryURL: "/brewery/bayerische-staatsbrauerei-weihenstephan.html"
 style: "Kristallweizen "
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12120159_10153656866648745_4612566258079331508_o.jpg?_nc_cat=108&_nc_ohc=HElSV0hTbWkAQkjeklVtICvXi8A09J8Dy1PvIPAGBRWTzqAbjvN1Z5p5g&_nc_ht=scontent.xx&oh=58cc6502b85c2c0c6b11ed1d1ac2dd78&oe=5E88298C
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/12120159_10153656866648745_4612566258079331508_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=kNlboIBkc-0AX8YZmbj&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=c5ae6947f3fe613da9cdf49657bcf276&oe=5F47ED74
 beer-date: "2015-10-17"
 desc: "Very crisp for a wheat beer"
 permalink: /beer/:title.html

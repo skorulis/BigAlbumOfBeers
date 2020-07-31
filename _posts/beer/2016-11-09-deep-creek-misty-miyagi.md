@@ -9,7 +9,7 @@ brewery: "Deep Creek Brewing Co."
 breweryURL: "/brewery/deep-creek-brewing-co.html"
 style: "IPA - New England"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/65163602_10157223733683745_5289520604645425152_o.jpg?_nc_cat=102&_nc_ohc=sBt0ogy5ie4AQkSpXpddVRrb45-snBMJYQSlLRtIpLDiGVZn7uMBo_BCQ&_nc_ht=scontent.xx&oh=832a4456b24744f86bcf3957eeff87df&oe=5E7F86B0
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/65163602_10157223733683745_5289520604645425152_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=r0fCl5wWsHgAX8U4Xnm&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=dc53665220f716716608e62d80720bcb&oe=5F48A750
 beer-date: "2019-06-22"
 desc: "Lots of floral smells with a lot of hop freshness. Somehow this gets a bit lost in the taste, the bitterness comes through strong and overwhelms the rest"
 permalink: /beer/:title.html

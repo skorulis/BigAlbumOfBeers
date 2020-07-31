@@ -9,7 +9,7 @@ brewery: "Dad & Dave's Brewing"
 breweryURL: "/brewery/dad-daves-brewing.html"
 style: "Golden Ale"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/22792015_10155717516043745_4222111608533923664_o.jpg?_nc_cat=103&_nc_ohc=aiufmZi3KKsAQnRxt56Fxmt52eGAM2mS2373A8P4E0p7sfUR6vW2_77dw&_nc_ht=scontent.xx&oh=e29f0e84a27fc45d693bb865bb1bbf35&oe=5E8988F2
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/22792015_10155717516043745_4222111608533923664_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_ohc=wOHkbGRXh_8AX8ICZyl&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=fc50e1e04becd873f31ea3285d199b21&oe=5F4A828E
 beer-date: "2017-10-28"
 desc: "A little bit of a European malt profile with a hint of hops. Fairly easy drinking but not too exciting"
 permalink: /beer/:title.html

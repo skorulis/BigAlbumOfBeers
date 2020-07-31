@@ -9,7 +9,7 @@ brewery: "Cervecería Cuauhtémoc Moctezuma S.A. de C.V."
 breweryURL: "/brewery/cerveceria-cuauhtemoc-moctezuma-s-a-de-c-v.html"
 style: "Lager - Vienna"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/11154917_10153268279173745_3566359759975585153_o.jpg?_nc_cat=103&_nc_ohc=OVaUiAHS_G0AQkmnTdMofp23ZZE4FBBhqmRifDw8jiUfhyxS2lNOfcZ1g&_nc_ht=scontent.xx&oh=bb11e1f8b558930775fc5f9b67c56131&oe=5E53657F
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/11154917_10153268279173745_3566359759975585153_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_ohc=VN4AkvpJHw8AX8n_ihM&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=53571cbffc294f3c336ad4161e4d8e4e&oe=5F494701
 beer-date: "2015-05-01"
 desc: "Has more of a Polish flavour than Mexican"
 permalink: /beer/:title.html

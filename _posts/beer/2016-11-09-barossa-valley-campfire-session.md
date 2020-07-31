@@ -9,7 +9,7 @@ brewery: "Barossa Valley Brewing"
 breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Brown Ale - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48422224_10156797311163745_8734047482268352512_o.jpg?_nc_cat=102&_nc_ohc=EfeHFaIhQIgAQmV9OHKcARZM5N0khhrTAIelgkErl-qaAWb7YiSRSavOA&_nc_ht=scontent.xx&oh=a02868f724e512693a1af81eb54bed49&oe=5E41639C
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/48422224_10156797311163745_8734047482268352512_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=1qr4fcHciTIAX_FIc2a&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=69ae66f82aa635ed01c5141b3ed0e25a&oe=5F478264
 beer-date: "2018-12-27"
 desc: "Tastes like a strong English ale but it’s actually pretty low in aldohol. Slight caramel malt taste. Very easy drinking and smooth"
 permalink: /beer/:title.html

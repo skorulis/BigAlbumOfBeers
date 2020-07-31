@@ -9,7 +9,7 @@ brewery: "Brakspear Brewing Company"
 breweryURL: "/brewery/brakspear-brewing-company.html"
 style: "Golden Ale"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/858836_10151929068333745_1039559147_o.jpg?_nc_cat=107&_nc_ohc=X9oSjREIup0AQlpWpnYaDH9I3rflgxM4vhb1cjpwmvjs1tKOs5SjnM_Xw&_nc_ht=scontent.xx&oh=3387c5b82eeb5c72c959ae66f641b170&oe=5E7C563D
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/858836_10151929068333745_1039559147_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=vRhTM2dO0PYAX8SJJif&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=0044bf458f698b338e319c260537dfb2&oe=5F47E343
 beer-date: "2013-09-19"
 desc: "Did not deliver what the label promised"
 permalink: /beer/:title.html

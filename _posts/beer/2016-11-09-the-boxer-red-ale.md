@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Red Ale - Irish"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/902230_10151602284348745_1238517334_o.jpg?_nc_cat=106&_nc_ohc=jDGVzGsRQLkAQlxFl79su6hRvcqclSx5bz8pIKe_MoHspHYkQ5tV_Dqyg&_nc_ht=scontent.xx&oh=f0912d860f9e0c3eea9ae2a66730f807&oe=5E8B4C33
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/902230_10151602284348745_1238517334_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=zi8D5c6BnmoAX_8wjWm&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=e964c33ef3bcab53f171a61255e35f9e&oe=5F48BF4D
 beer-date: "2013-03-28"
 desc: "A mild red ale"
 permalink: /beer/:title.html

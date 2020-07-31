@@ -9,7 +9,7 @@ brewery: "Hope Brewhouse"
 breweryURL: "/brewery/hope-brewhouse.html"
 style: "Stout - Foreign / Export"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34258697_10156301080603745_2323952429579632640_o.jpg?_nc_cat=108&_nc_ohc=ZoWIsmRCg24AQl6it73PfjXiX27KkAocdKWfgIEISsY3823SScCH55H-A&_nc_ht=scontent.xx&oh=661dad686cf059e9abda14a9c853918f&oe=5E88FE2F
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/34258697_10156301080603745_2323952429579632640_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=P5h1k8Zjrr0AX-pIUYP&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=7959beb543280bddddb4d2daa15eeafa&oe=5F4B0D51
 beer-date: "2018-06-02"
 desc: "Such a completely black beer but not as stouty as you would expect. Has a sweetness which isn’t too strong. Well rounded and quite smooth"
 permalink: /beer/:title.html

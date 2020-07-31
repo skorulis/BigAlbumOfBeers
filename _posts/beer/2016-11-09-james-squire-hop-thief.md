@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1780076_10152327617588745_1756511326_o.jpg?_nc_cat=105&_nc_ohc=FKJM22GxDxgAQlu_rNUz3ZDVt0U-IfQaPZPp9hubbOHWtXS9zFkLHLVCQ&_nc_ht=scontent.xx&oh=5f2c00f710549e7ea6f02fa6daeb23a2&oe=5E4D39BF
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1780076_10152327617588745_1756511326_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=XYp3wQPC6qwAX9hs6wj&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=b31e9e38fd9771c2f15e54465da53634&oe=5F4789C1
 beer-date: "2014-03-18"
 desc: "Well hopped"
 permalink: /beer/:title.html

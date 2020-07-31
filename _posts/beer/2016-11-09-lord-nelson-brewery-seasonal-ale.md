@@ -9,7 +9,7 @@ brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Pale Ale - English"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10835301_10153268295143745_4412554411779312688_o.jpg?_nc_cat=103&_nc_ohc=QSzFV7g2WPQAQlCtVv-Cqvs7FBr8r2g7fTZlDqDDClV9y-CczagnP7QHA&_nc_ht=scontent.xx&oh=d2a9bd55900c4b5891f2bd7c2c8f7c47&oe=5E426597
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10835301_10153268295143745_4412554411779312688_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_ohc=j_Rolx3e2IUAX9Y0srk&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=682d8fa9f1b75343b8cc583da32d1f21&oe=5F4A74E9
 beer-date: "2015-05-01"
 desc: "Not up to the normal lord nelson standard"
 permalink: /beer/:title.html

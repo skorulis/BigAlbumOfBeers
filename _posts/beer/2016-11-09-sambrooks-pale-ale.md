@@ -9,7 +9,7 @@ brewery: "Sambrook's Brewery"
 breweryURL: "/brewery/sambrooks-brewery.html"
 style: "Pale Ale - English"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1172254_10151860439253745_1854856255_o.jpg?_nc_cat=100&_nc_ohc=fQhiaWg4woIAQlRzzmAu5DUMx71W2x-Dcf9o9vpgcx7-IAR3tp_X9c_eg&_nc_ht=scontent.xx&oh=c3e6b7f5d9c62f0b9e5cd90e163cf2a3&oe=5E81F6D6
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1172254_10151860439253745_1854856255_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_ohc=qcOYSSevXAYAX9U70cl&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=98829bb2ec732a2e110c7a7b85662ed0&oe=5F4A2BAA
 beer-date: "2013-08-18"
 desc: "Another sock flavoured beer"
 permalink: /beer/:title.html

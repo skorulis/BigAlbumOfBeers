@@ -9,7 +9,7 @@ brewery: "Wayward Brewing"
 breweryURL: "/brewery/wayward-brewing.html"
 style: "Pilsner - German"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/76946657_10157643815373745_1022119336464089088_o.jpg?_nc_cat=110&_nc_ohc=5Tz0fXhnogMAQl6zUUqFGftqLPnEj5zIAfGX_CH8_OTwKO5gP0oWy9Vfg&_nc_ht=scontent.xx&oh=6fe35347b37247932c8391d1d8dd3067&oe=5E8C7926
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/76946657_10157643815373745_1022119336464089088_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=jxhfd_U8GFIAX_uYEa7&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=300d14781d60748fb3e3f62b788aa588&oe=5F47925A
 beer-date: "2019-11-22"
 desc: "Not too malty like many pilsners. Like a lager with just a little bit extra flavour"
 permalink: /beer/:title.html

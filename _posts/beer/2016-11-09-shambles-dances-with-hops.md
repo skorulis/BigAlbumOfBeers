@@ -9,7 +9,7 @@ brewery: "Shambles Brewery"
 breweryURL: "/brewery/shambles-brewery.html"
 style: "IPA - American"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57936035_10157070263473745_6628271037614129152_o.jpg?_nc_cat=102&_nc_ohc=CkaJa3RNodEAQn2tRDJ2gFRmspQiyls3hy9gslbaxbRWs-ulltH2Yc-Dg&_nc_ht=scontent.xx&oh=f8efa14ba4cb20b3ea374f0cea48c8b6&oe=5E3F295E
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/57936035_10157070263473745_6628271037614129152_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=vWmkCA1cmXUAX8BWOYC&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=84173d4eec27249c020960088deac611&oe=5F49BCA2
 beer-date: "2019-04-22"
 desc: "Really floral IPA. Not too heavy on the bitterness"
 permalink: /beer/:title.html

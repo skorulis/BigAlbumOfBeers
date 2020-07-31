@@ -9,7 +9,7 @@ brewery: "Steamrail Brewing Company (Coles)"
 breweryURL: "/brewery/steamrail-brewing-company-coles.html"
 style: "Red Ale - American Amber / Red"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/11194540_10153268279943745_3245706738598167550_o.jpg?_nc_cat=106&_nc_ohc=UeQchDbco5MAQm2tMRYJrZ3b-MXbJjc2-ITh_pjpBcWC7fdioOirUPUhg&_nc_ht=scontent.xx&oh=9a2a7f1f1fec6a421c9e2b7f0e252f5f&oe=5E4DB1AC
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/11194540_10153268279943745_3245706738598167550_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=sUnedO5IiQ8AX--3OMQ&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=95efbe26788484e6d12ad041bbab9a97&oe=5F4B0654
 beer-date: "2015-05-01"
 desc: "Not as good as the rest of the range"
 permalink: /beer/:title.html

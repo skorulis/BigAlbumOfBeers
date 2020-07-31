@@ -9,7 +9,7 @@ brewery: "Kereru Brewing Company"
 breweryURL: "/brewery/kereru-brewing-company.html"
 style: "Porter - Imperial / Double"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29196288_10156095075928745_4408053578745249792_o.jpg?_nc_cat=111&_nc_ohc=3seazHm7oskAQl9-LVaOL_Z4QBvUReNoewZ1uolfmCHNEs4kTd62kHVmg&_nc_ht=scontent.xx&oh=c15fc0c0e9e412aaa2aae0fddaa20eda&oe=5E7CF91D
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/29196288_10156095075928745_4408053578745249792_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=WaQUQrA6-7gAX97JslK&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=82d9372f4c86b60729a31a9617bb60a4&oe=5F4B34E3
 beer-date: "2018-03-13"
 desc: "So rich and mellow. The raw chocolate comes through beautifully"
 permalink: /beer/:title.html

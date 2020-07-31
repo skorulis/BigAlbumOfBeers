@@ -9,7 +9,7 @@ brewery: "Deschutes Brewery"
 breweryURL: "/brewery/deschutes-brewery.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/13064579_10154072540863745_3547228142622250194_o.jpg?_nc_cat=106&_nc_ohc=fn000H4UfsEAQk6SPxx2LwbZSvdDNyxL2G4JVF0a4_FuDVAdkp3C3fjxw&_nc_ht=scontent.xx&oh=caabfc9bc6d64d7fcf2b6111761566ee&oe=5E4882C3
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/13064579_10154072540863745_3547228142622250194_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=aGFG8ITByzsAX_jhFjI&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=8cf54e3120c48bec0ba3223b7bcfd962&oe=5F484C3D
 beer-date: "2016-04-21"
 desc: "Could be a little hoppier but it's still smooth and sweet with a nice hint of caramel"
 permalink: /beer/:title.html

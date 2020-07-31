@@ -9,7 +9,7 @@ brewery: "First Lomax (Volkan)"
 breweryURL: "/brewery/first-lomax-volkan.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12492064_10153811618053745_1537940753105870983_o.jpg?_nc_cat=106&_nc_ohc=nBJ4l-q02j8AQlLCCP0uOtP_fLELNfVD7NiGOyAA1e727PtuAVVY8tHzw&_nc_ht=scontent.xx&oh=040889ade75f0b74b7d8af22eafa6735&oe=5E848CD8
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/12492064_10153811618053745_1537940753105870983_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=svsrzwkqGg8AX8Obgkn&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=6b129615d44e38b1774b7650c34546ef&oe=5F4795A8
 beer-date: "2016-01-07"
 desc: "Has a kind of silty texture to it and an Eastern European tang"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "HiteJinro"
 breweryURL: "/brewery/hitejinro.html"
 style: "English Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12795045_10153966658678745_4947349393995850106_o.jpg?_nc_cat=107&_nc_ohc=tGmOxpKfDGwAQmR1_UKlOqZ_SMU6ckgN5F6047hkVMD4RlXTI13Ka3ACw&_nc_ht=scontent.xx&oh=dd289ad62ea7a5573e9625c9a01a82d8&oe=5E7E2ECB
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/12795045_10153966658678745_4947349393995850106_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=HFJ7GbBYfigAX_sxdRA&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=b5227ecdddf2f1f6cbba5864de0c45e2&oe=5F49FF35
 beer-date: "2016-03-16"
 desc: "It’s bitter and a little malty"
 permalink: /beer/:title.html

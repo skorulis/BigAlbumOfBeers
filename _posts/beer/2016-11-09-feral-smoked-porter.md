@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "/brewery/feral-brewing-company.html"
 style: "Smoked Beer"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/14352549_10154470825398745_5928076298632372626_o.jpg?_nc_cat=101&_nc_ohc=8E7nOyBPdrEAQnYZIajG2-iXuN4L5nG2CiGiTipOr3BBDHGafYQSx57pg&_nc_ht=scontent.xx&oh=ad79773d9b6703af881e0e52451e6ea5&oe=5E813BAD
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/14352549_10154470825398745_5928076298632372626_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=kPsDDbhZs8wAX8ZI81h&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=2ae3b4edd71d678de863ca661fc1904f&oe=5F4AE6D3
 beer-date: "2016-09-21"
 desc: "Smooth but without the backing to make it a great beer"
 permalink: /beer/:title.html

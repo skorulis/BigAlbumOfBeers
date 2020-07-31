@@ -9,7 +9,7 @@ brewery: "Grand Ridge Brewery"
 breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Stout - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45424005_10156673534058745_1589249517130088448_o.jpg?_nc_cat=103&_nc_ohc=_8rbhPNpI8kAQmOOCw5APP9u2YDrpG33y4PtajR_RFXlnAUmYb4S5GKrg&_nc_ht=scontent.xx&oh=940e962a95a2538770e9e5c429c40f41&oe=5E8160DD
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/45424005_10156673534058745_1589249517130088448_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_ohc=VVzi_4IdUO0AX-YC9Nn&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=51c683a0e182aade3bf7376299b176b1&oe=5F4AC1A3
 beer-date: "2018-11-05"
 desc: "Sweet rounded flavour. It’s ok but not worth coming back for"
 permalink: /beer/:title.html

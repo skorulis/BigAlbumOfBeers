@@ -9,7 +9,7 @@ brewery: "Green Beacon Brewing Co"
 breweryURL: "/brewery/green-beacon-brewing-co.html"
 style: "Sour - Gose"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/43303801_10156603260053745_8472508098773254144_o.jpg?_nc_cat=102&_nc_ohc=pzacLBpMIrYAQlX3PgoKksUOLSEEs1lDcjeF3XCLUV3mKbt1dTqK-bntg&_nc_ht=scontent.xx&oh=1848bdca13272ba9e99728cc62c37017&oe=5E411E12
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/43303801_10156603260053745_8472508098773254144_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=zdQvdF8YnykAX_Pzxji&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=059b8f57f19511322b18de5947e8a4ff&oe=5F47C7EE
 beer-date: "2018-10-05"
 desc: "Very good amount of sourness. The fruit comes through in the smell but not so much in the taste. Solid gose that’s nicely on target"
 permalink: /beer/:title.html

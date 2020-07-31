@@ -9,7 +9,7 @@ brewery: "Kronenbourg"
 breweryURL: "/brewery/kronenbourg.html"
 style: "Witbier"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/19944605_10155413263238745_1476069667129573151_o.jpg?_nc_cat=100&_nc_ohc=5qnePTw9_gEAQk1BtcsDQ5e7qnFA-Tjo3nPWk0xnNp4q1HLPkUA_RAdIg&_nc_ht=scontent.xx&oh=cf607713762404628c5b2a60b222e84e&oe=5E82D648
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/19944605_10155413263238745_1476069667129573151_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_ohc=U2srS2MbIi4AX-dqh3N&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=2d3cab0279668fdf2539bbf4401f291c&oe=5F494C38
 beer-date: "2017-07-12"
 desc: "Easy drinking and mild yet yeasty Belgian ale"
 permalink: /beer/:title.html

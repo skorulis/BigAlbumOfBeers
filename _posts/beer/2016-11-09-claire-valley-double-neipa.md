@@ -9,7 +9,7 @@ brewery: "Clare Valley Brewing Co."
 breweryURL: "/brewery/clare-valley-brewing-co.html"
 style: "IPA - Imperial / Double New England"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64806847_10157223726898745_4945244659082330112_o.jpg?_nc_cat=108&_nc_ohc=ybj8FHSJnCAAQlEmtokFwsz-4HzeELMg92lPrxGoKIXniOCksLLKmZpGA&_nc_ht=scontent.xx&oh=ef09af96479655109fc5bd08509e999f&oe=5E3F2BD4
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/64806847_10157223726898745_4945244659082330112_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=3_mmyYkNeNQAX_QaiXj&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=6391ba15f581cd295007820cbc7008ba&oe=5F49BA2C
 beer-date: "2019-06-22"
 desc: "Most double IPAs are a punch in the face, this is mild and more malt driven. Rich and deep with no lasting flavours. Maybe the most dangerous beer I’ve had. Without knowing what it was you could just keep knocking these down"
 permalink: /beer/:title.html

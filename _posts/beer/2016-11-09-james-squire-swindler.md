@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Blonde Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10623703_10153966649228745_7093539391186290992_o.jpg?_nc_cat=111&_nc_ohc=XMGhn0-54mQAQkA7X2LtVE_0IUvz2KXrxaOhtl-zftuyXXg1Q1ulXrBiQ&_nc_ht=scontent.xx&oh=8592b35ecfeb3629562328b0f3ce504c&oe=5E4CE9FC
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10623703_10153966649228745_7093539391186290992_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=hCozHNF8hiEAX9iUv0R&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=eb6643a70ca525acd41de318e5679672&oe=5F47D984
 beer-date: "2016-03-16"
 desc: "Disappointingly plain"
 permalink: /beer/:title.html

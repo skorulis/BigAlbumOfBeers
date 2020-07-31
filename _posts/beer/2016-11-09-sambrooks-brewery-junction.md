@@ -9,7 +9,7 @@ brewery: "Sambrook's Brewery"
 breweryURL: "/brewery/sambrooks-brewery.html"
 style: "English Bitter"
 score: 3
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/882141_10151563846178745_1536949417_o.jpg?_nc_cat=102&_nc_ohc=v_d_z_AffI0AQl2IszCmt4-wJmqApLzwxLPmcoRg6v7Cnu1-W7s11q0dw&_nc_ht=scontent.xx&oh=800775230eb93291f74a8b3cf094f0dc&oe=5E7BD8E9
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/882141_10151563846178745_1536949417_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=JF5fEDxc2bgAX8N_JKO&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=7245910aa5f98e43352e6ec1994b2ef8&oe=5F486097
 beer-date: "2013-03-09"
 desc: "Not sure what taste they're going for here… Maybe socks"
 permalink: /beer/:title.html

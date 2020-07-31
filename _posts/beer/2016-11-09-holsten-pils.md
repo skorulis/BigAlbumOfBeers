@@ -9,7 +9,7 @@ brewery: "Holsten-Brauerei"
 breweryURL: "/brewery/holsten-brauerei.html"
 style: "Pilsner - German"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/271415_10151396304968745_547445318_o.jpg?_nc_cat=111&_nc_ohc=iwKAEu6sUUIAQlYQMSmwHeUKKab-0uZXkpUMWtBVANb2f6SdpabAr-_Eg&_nc_ht=scontent.xx&oh=2d989096f08516f5c76e3d091743053a&oe=5E834A5D
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/271415_10151396304968745_547445318_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=Dw3402rjeWsAX8QhJh-&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=059ce0e27c9dcca384ac79a7a5be3bfe&oe=5F48D823
 beer-date: "2012-12-25"
 desc: "Ok when it's really cold, otherwise very average"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Oettinger Brauerei"
 breweryURL: "/brewery/oettinger-brauerei.html"
 style: "Pilsner - German"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10504927_10153055792233745_5985463992710631340_o.jpg?_nc_cat=109&_nc_ohc=9syeRF266okAQmWnrZPW5t7hDLrZ9rcQUimUgSTFz_8fkQYOqVUKMRWIw&_nc_ht=scontent.xx&oh=c008ed1fd2c0a8d526d163cbb81cb027&oe=5E808C50
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10504927_10153055792233745_5985463992710631340_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=R5CSTP7NWsMAX8OaQeP&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=4a4a542b9e62c92dddb7468be20a54e2&oe=5F47A1B0
 beer-date: "2015-01-29"
 desc: "This beer has never been good, but at least it has always been cheap"
 permalink: /beer/:title.html

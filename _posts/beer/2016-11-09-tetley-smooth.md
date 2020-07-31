@@ -9,7 +9,7 @@ brewery: "Carlsberg UK"
 breweryURL: "/brewery/carlsberg-uk.html"
 style: "English Bitter"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/843774_10151461673368745_1651974167_o.jpg?_nc_cat=108&_nc_ohc=n6_xCxkwxk4AQl8hR8HcSZv-HqL_XWeHX0dIsh3Y3K1OGSYukOGS4FImA&_nc_ht=scontent.xx&oh=9813143c7d7f9ca9f6abb4d420b6be8c&oe=5E4CBD15
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/843774_10151461673368745_1651974167_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=hnB1ppIwQpEAX8rBmQ8&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=95d6a50edf1da6c4de337ac38abf9379&oe=5F48066B
 beer-date: "2013-02-01"
 desc: "I much prefer this to tea"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Belching Beaver Brewery"
 breweryURL: "/brewery/belching-beaver-brewery.html"
 style: "Stout - Milk / Sweet"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/16700365_10154923953463745_261558408002737372_o.jpg?_nc_cat=111&_nc_ohc=ugh_dpAO_NcAQmbM_s5eGMDWWIXqnIe5KCRjJ7GQ5X-8UM8z2M9KElwjA&_nc_ht=scontent.xx&oh=640f871ac45507059e4cbcaff1a029aa&oe=5E4B7350
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/16700365_10154923953463745_261558408002737372_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=r2YFBGQ5SEoAX9QQ6ZM&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=7f0d52d77c1303c0e5251414ba7d7d37&oe=5F495030
 beer-date: "2017-02-11"
 desc: "Can't pick out the peanut butter but there's a great smoothness that comes with it. Kind of wish they just called it a stout and didn't get my hopes up"
 permalink: /beer/:title.html

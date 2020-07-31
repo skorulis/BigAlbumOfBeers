@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "IPA - Black / Cascadian Dark Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/14372121_10154470824703745_1117717087850964481_o.jpg?_nc_cat=101&_nc_ohc=Rvlck5rHKIkAQlfzbqSh8Sg0Dt14nXAQdRYL8sxUYpn5qgNRu_49hEfhw&_nc_ht=scontent.xx&oh=bf1114bf6a7f5c4623e62020d9dce4dc&oe=5E4FADB3
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/14372121_10154470824703745_1117717087850964481_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=_bMzBenTeo0AX8JQxe_&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=d55f359884021875ef259f13d3f8090e&oe=5F490A4D
 beer-date: "2016-09-21"
 desc: "So much hop aroma with no bitterness. A style I've been searching for but it could be more balanced"
 permalink: /beer/:title.html

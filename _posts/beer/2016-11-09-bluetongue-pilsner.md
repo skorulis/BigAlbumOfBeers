@@ -9,7 +9,7 @@ brewery: "Bluetongue Brewery (Pacific Beverages)"
 breweryURL: "/brewery/bluetongue-brewery-pacific-beverages.html"
 style: "Pilsner - Other"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/893857_10151602295168745_1910196412_o.jpg?_nc_cat=103&_nc_ohc=vHI8kBMcKhEAQkpy9TcdchfufskT-ljydudoWeIxSmAAV0i4L7aM7c5Nw&_nc_ht=scontent.xx&oh=c325173ede7dd390b6bba1e2c7ee28c5&oe=5E8821CD
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/893857_10151602295168745_1910196412_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_ohc=FdGpq5fMQDsAX8Inix9&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=db849c420f12cec131c2787b8c6531bf&oe=5F47F533
 beer-date: "2013-03-28"
 desc: "Doesn't really taste like a pilsner"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Moon Dog Craft Brewery"
 breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Stout - Other"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/75472916_10157643897463745_9180569217416560640_o.jpg?_nc_cat=111&_nc_ohc=qsZECuBDLsgAQkfpP-YrhZzCAau5RZVRfHsSMWiXVbdjvq3YJZP25IWzQ&_nc_ht=scontent.xx&oh=c4c388bd8ec1ecd24aa66b1ff0879480&oe=5E42F559
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/75472916_10157643897463745_9180569217416560640_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=LBMKYmN6Pr4AX_x1Ja5&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=d7d2528175e1dcdd815ec080f1d639cc&oe=5F49E527
 beer-date: "2019-11-22"
 desc: "Really rich and does remind me of cake. I feel like I’m not devoting enough attention to this and am missing some flavours. Still nice"
 permalink: /beer/:title.html

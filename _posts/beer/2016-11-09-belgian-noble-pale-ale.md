@@ -9,7 +9,7 @@ brewery: "Belgian Blue Brewing Company"
 breweryURL: "/brewery/belgian-blue-brewing-company.html"
 style: "Pale Ale - Belgian"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/11696554_10153438034543745_2281064819509080771_o.jpg?_nc_cat=106&_nc_ohc=y5OlUQ2kTdAAQlboFlVx5U3-kzS5PM1aVkQU573wRezD9-rdxpChJBfVQ&_nc_ht=scontent.xx&oh=bb7a520694388cca11e37eef2aa9cd3e&oe=5E4DB8BD
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/11696554_10153438034543745_2281064819509080771_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=oT5wnd9vLVAAX_ZOYGY&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=8cb1f2ef2bc48b09122080aded5ee2d2&oe=5F4AFF43
 beer-date: "2015-07-10"
 desc: "Was expecting much more. Just a plain lager"
 permalink: /beer/:title.html

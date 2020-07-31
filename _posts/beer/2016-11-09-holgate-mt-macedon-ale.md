@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Pale Ale - Australian"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/901802_10151602297528745_137791391_o.jpg?_nc_cat=106&_nc_ohc=GFnYulOrpRoAQnY-yl4EDolXCB4_gTK6t1Ax8mnGUpm3LkjP8MungcZbw&_nc_ht=scontent.xx&oh=9a8f420dd0dd4d9ad5aae993e47281a6&oe=5E8AD3FE
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/901802_10151602297528745_137791391_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=gbgNTs1ZcQ4AX_-ZhBH&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=5dd6bfd7d35b1605ce9e6bae58fb7cf0&oe=5F493782
 beer-date: "2013-03-28"
 desc: "Smooth and fruity"
 permalink: /beer/:title.html

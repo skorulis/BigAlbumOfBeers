@@ -9,7 +9,7 @@ brewery: "Brasserie Cantillon"
 breweryURL: "/brewery/brasserie-cantillon.html"
 style: "Lambic - Gueuze"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/19092988_10155314455333745_8211803210689968844_o.jpg?_nc_cat=109&_nc_ohc=0XW39_C_3dYAQkDlDIu9J_35kkqOMo17raT-w3NqJl5-HIDzEZwW21o1A&_nc_ht=scontent.xx&oh=c0f35b228b219f216216e03b7a47f195&oe=5E871CB3
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/19092988_10155314455333745_8211803210689968844_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=1xZNonlVQSMAX_OGr8z&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=0ec34e1411905ab40776b1df3a71b4e7&oe=5F48FA4D
 beer-date: "2017-06-15"
 desc: "Flat and rather mild. Feels like a really old style that's hard to compare to normal beers. It's pleasant but not exciting"
 permalink: /beer/:title.html

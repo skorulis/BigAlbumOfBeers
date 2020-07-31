@@ -9,7 +9,7 @@ brewery: "Hardknott"
 breweryURL: "/brewery/hardknott.html"
 style: "IPA - International"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1614622_10152293086743745_608289512_o.jpg?_nc_cat=102&_nc_ohc=KxrqnC5RYekAQn_vZgwLYluXt2rfSLXAC7R1-EzkNY-pCpul0APyLPpQA&_nc_ht=scontent.xx&oh=f855fb4955c0dca64465cffecb33cfd4&oe=5E82FFF8
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1614622_10152293086743745_608289512_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=rF_8Q0z7sakAX_11ULQ&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=3666d591b66e25b88c88c2b8a96e1e3d&oe=5F492288
 beer-date: "2014-03-01"
 desc: "An ok IPA"
 permalink: /beer/:title.html

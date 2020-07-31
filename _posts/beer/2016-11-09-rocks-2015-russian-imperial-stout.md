@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Stout - Russian Imperial"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/66474123_10157281018598745_20376140896010240_o.jpg?_nc_cat=100&_nc_ohc=QSSVc54__eQAQk4Gvc9ckz3W7og9HtYRm-Q9GSs2z0fToi1n68WVOHtdg&_nc_ht=scontent.xx&oh=b1760542492e11a664e1dde18ce098ef&oe=5E40CD6D
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/66474123_10157281018598745_20376140896010240_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_ohc=sV7v6iKOVbYAX_b0AAd&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=bd1de129c7d5069381ffb491f0d69cc5&oe=5F481893
 beer-date: "2019-07-14"
 desc: "Smells like boozy maple syrup. I shouldn’t be eating at the same. Outside of that it’s a good imperial and I want more"
 permalink: /beer/:title.html

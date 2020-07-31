@@ -9,7 +9,7 @@ brewery: "Tennent's Caledonian Brewery"
 breweryURL: "/brewery/tennents-caledonian-brewery.html"
 style: "Lager - Euro Strong"
 score: 2
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/922334_10151649176508745_61534800_o.jpg?_nc_cat=107&_nc_ohc=cnbqXZkRT4oAQn4wZnSOr2ONdL55G7mSJ-2rt3_Rj9ZlXLfAEOHsnB1IQ&_nc_ht=scontent.xx&oh=5f890e466baa181a7e9fd25996e2fd99&oe=5E80AEC2
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/922334_10151649176508745_61534800_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=v6GhAwm-yzMAX8eSmmm&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=c35e6dc9e2793f67ed471dabcdf283f8&oe=5F4B73BE
 beer-date: "2013-04-27"
 desc: "If you're really drunk but want to be mike Stuart drunk then this is the beer for you"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Conwy Brewery"
 breweryURL: "/brewery/conwy-brewery.html"
 style: "Golden Ale"
 score: 6
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/980007_10151694532288745_1231818486_o.jpg?_nc_cat=104&_nc_ohc=3udfDxcEfPkAQlT8LgMo0UXoU3_x6zgfKJVStc6TEQCTxuZVjuWsu5kZg&_nc_ht=scontent.xx&oh=58f23eaa30ab74255cb6acbe64256d36&oe=5E896B5B
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/980007_10151694532288745_1231818486_o.jpg?_nc_cat=104&_nc_sid=e007fa&_nc_ohc=e9CeuZACtGoAX9aIuPC&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=2254c9315d0d77d80b01d7fcc382d905&oe=5F4AA025
 beer-date: "2013-05-25"
 desc: "I could enjoy a few of those"
 permalink: /beer/:title.html

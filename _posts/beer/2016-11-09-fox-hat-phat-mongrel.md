@@ -9,7 +9,7 @@ brewery: "Fox Hat Brewing"
 breweryURL: "/brewery/fox-hat-brewing.html"
 style: "Stout - Oatmeal"
 score: 8.5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/16113320_10154858222618745_215658299512381499_o.jpg?_nc_cat=106&_nc_ohc=KNp942ANFE4AQlsF3oR_23P1f9Xh9YMp4uJ1GT-9usuPc0pFIfjmV-UBw&_nc_ht=scontent.xx&oh=dd4105f600b131322b2c3f1c907e1c07&oe=5E7C2A30
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/16113320_10154858222618745_215658299512381499_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=nf6egWAv9A8AX_gnY7e&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=604668e6faa7dba3d6e2a0f094520acd&oe=5F480F50
 beer-date: "2017-01-21"
 desc: "Low bitterness and the oats add a lot of smoothness. Worth trying even if you're not a fan of stouts. As it goes down the creaminess becomes more evident"
 permalink: /beer/:title.html

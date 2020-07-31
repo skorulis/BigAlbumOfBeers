@@ -9,7 +9,7 @@ brewery: "West City Brewing"
 breweryURL: "/brewery/west-city-brewing.html"
 style: "Stout - Oatmeal"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/45556230_10156673534163745_1388108562206556160_o.jpg?_nc_cat=103&_nc_ohc=OjJV_rjoNgYAQns3HxCbUmCCyetcTgLLyc4DfJUQ-gUWzj50WaKldpbyQ&_nc_ht=scontent.xx&oh=1969a4838b3de9fc6ee8671e84daf1ca&oe=5E7E40CE
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/45556230_10156673534163745_1388108562206556160_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_ohc=aev-xDcU9yoAX8plh3e&_nc_oc=AQkiTnVUKjIagdXIQoNMSCcJ3Zgxga-4vWoJInEEBiNEAIj-SvfOnbdhVGM6ApMy1bY&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=5827634de4543a3561c4d3209b3a6e29&oe=5F49ED32
 beer-date: "2018-11-05"
 desc: "Very coffee and stout focused. Not really a session ale but decent"
 permalink: /beer/:title.html

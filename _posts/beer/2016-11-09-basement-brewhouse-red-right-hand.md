@@ -9,7 +9,7 @@ brewery: "Basement Brewhouse"
 breweryURL: "/brewery/basement-brewhouse.html"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/64667286_10157223730308745_2414366082480472064_o.jpg?_nc_cat=105&_nc_ohc=nLEVjK7CJ74AQkzHaIsQMj-Hmj3aOyJo-3pIXKINdD_bG0UMlSQGWGcvw&_nc_ht=scontent.xx&oh=ecacbec5eb96c195b9a7074fd254f87d&oe=5E50E989
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/64667286_10157223730308745_2414366082480472064_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=8I5Wt2-FkrIAX8X-q8s&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=388bc94f652d443583754f2a381ccdcf&oe=5F47CE77
 beer-date: "2019-06-22"
 desc: "It’s an ok red but only good enough for my left hand"
 permalink: /beer/:title.html

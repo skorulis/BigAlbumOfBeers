@@ -9,7 +9,7 @@ brewery: "Green Beacon "
 breweryURL: "/brewery/green-beacon.html"
 style: "Sour - Flanders Oud Bruin"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/76189142_10157643864243745_261283317544910848_o.jpg?_nc_cat=106&_nc_ohc=1hd15JjDAzsAQltAM9SU4K1_Fb0nGDAxdrEPGkaJ9PASqQCaO_67UqThg&_nc_ht=scontent.xx&oh=a1e622639bbe5f0e78ec2335a6509118&oe=5E7D986C
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/76189142_10157643864243745_261283317544910848_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=TrEUMUk1D58AX-ZWbme&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=636ad851b1d10c08e03a2e49cf439b0c&oe=5F4A9594
 beer-date: "2019-11-22"
 desc: "Strangely sweet and tangy for a brown. Takes a bit of getting used to and not particularly special"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Monteith's Brewing Co. "
 breweryURL: "/brewery/monteiths-brewing-co.html"
 style: "Pale Ale - New Zealand"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/10498559_10153268294398745_8634108256899324103_o.jpg?_nc_cat=102&_nc_ohc=F9L-dCFoS0wAQlWt1tJYPRnx7HCuibOwia-8xIn4CVfDXVLNHjwTYkYZg&_nc_ht=scontent.xx&oh=c5a57b3044129f8a70f7e014bde98b46&oe=5E535B25
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10498559_10153268294398745_8634108256899324103_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=gifHV7yyzFsAX9JYP-w&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=a423d3b17915644f332a0545ff40d275&oe=5F49515B
 beer-date: "2015-05-01"
 desc: "Like a very mild pale ale. Refreshing"
 permalink: /beer/:title.html

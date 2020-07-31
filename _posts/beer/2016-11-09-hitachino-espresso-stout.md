@@ -9,7 +9,7 @@ brewery: "Kiuchi Brewery"
 breweryURL: "/brewery/kiuchi-brewery.html"
 style: "Stout - Coffee"
 score: null
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34340920_10156301082173745_54023090786533376_o.jpg?_nc_cat=108&_nc_ohc=KuLGNej9LFIAQmyxxCvKqowRrM_SJECkMPhzsAezndycviqfED7qATJog&_nc_ht=scontent.xx&oh=c3ccc707d17950addafc9481f053dd10&oe=5E8665D7
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/34340920_10156301082173745_54023090786533376_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=dmytQX0qFyYAX9E-9_W&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=d55865072c7c8e8af655111b669edf79&oe=5F49B129
 beer-date: "2018-06-02"
 desc: "So strong on the coffee and stout flavours. Slightly oily but fits in well with the style. Also very creamy  8.5/20"
 permalink: /beer/:title.html

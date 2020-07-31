@@ -9,7 +9,7 @@ brewery: "Curious Drinks (Chapel Down)"
 breweryURL: "/brewery/curious-drinks-chapel-down.html"
 style: "Pilsner - Other"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/920198_10151649174188745_1546947418_o.jpg?_nc_cat=110&_nc_ohc=EQpC6U-Gbf4AQmrtflBB3qVdW19DGCeV_0MQsgzxFHHxUFeFu19CYC5gw&_nc_ht=scontent.xx&oh=f768f694d2f8a671cb7f1585c787d41a&oe=5E4863BC
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/920198_10151649174188745_1546947418_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=0gmnKhHOIE8AX_6V2aT&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=f7340f09c85fd7febfa4285b4ba929d3&oe=5F486B44
 beer-date: "2013-04-27"
 desc: ""
 permalink: /beer/:title.html

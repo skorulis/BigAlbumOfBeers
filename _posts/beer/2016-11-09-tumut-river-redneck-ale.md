@@ -9,7 +9,7 @@ brewery: "Tumut River Brewing Co"
 breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Red Ale - Other"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/22828964_10155717515453745_1992085920140119144_o.jpg?_nc_cat=108&_nc_ohc=ioEpRi1I-5AAQnl8_TEajp8DKZC0UUgRXc_xfv3rUZPrvKY44Z5XYwYzA&_nc_ht=scontent.xx&oh=84ab923c22ceae2198153ddae498e481&oe=5E4359F0
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/22828964_10155717515453745_1992085920140119144_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=wbwyiVP85RMAX9WEMDf&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=3a3400889d94a2a83b16ff3b3e983fa1&oe=5F498090
 beer-date: "2017-10-28"
 desc: "Has a little bit of sourness which could just be an old beer but overtakes a lot of the other flavours. Drinkable but not exciting"
 permalink: /beer/:title.html

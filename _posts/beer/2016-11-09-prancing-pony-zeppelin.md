@@ -9,7 +9,7 @@ brewery: "Prancing Pony Brewery"
 breweryURL: "/brewery/prancing-pony-brewery.html"
 style: "IPA - New England"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57541791_10157070304258745_7344832837134057472_o.jpg?_nc_cat=105&_nc_ohc=jG6Zh7wmD1gAQlZ0cZy2-tkEz01vLuv4ghzJbdjyI9hZdN1uv4Pd7VMxA&_nc_ht=scontent.xx&oh=d6461f5c583d18db4a4865cc0524cc29&oe=5E48430D
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/57541791_10157070304258745_7344832837134057472_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=4dI8CHzwzXoAX--292A&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=0929dddfd1ba8e1d1c4fbda539aa33a8&oe=5F488BF3
 beer-date: "2019-04-22"
 desc: "A little harsh to start but rounds out. Doesn’t deliver the flavours it promises"
 permalink: /beer/:title.html

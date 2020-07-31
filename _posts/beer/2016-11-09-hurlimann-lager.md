@@ -9,7 +9,7 @@ brewery: "Feldschlösschen"
 breweryURL: "/brewery/feldschlosschen.html"
 style: "Lager - Euro"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/621246_10151283327863745_1299694311_o.jpg?_nc_cat=110&_nc_ohc=kah5ya-GGD4AQlVUGp6ir1ncRUBdeXfZQa_t33mmisayLszw3MW34P95A&_nc_ht=scontent.xx&oh=b030ecdf535c0c597adb29c67ad751cc&oe=5E4CADDD
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/621246_10151283327863745_1299694311_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=b3ehEn38RSEAX9lAFbm&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=036afbee9acf2ec1d3fc20b7ac9f4bca&oe=5F4815A3
 beer-date: "2012-10-13"
 desc: "Rather good"
 permalink: /beer/:title.html

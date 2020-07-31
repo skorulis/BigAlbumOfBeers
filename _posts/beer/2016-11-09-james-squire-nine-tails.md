@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Brown Ale - English"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12120028_10153656867603745_6432235869019497791_o.jpg?_nc_cat=102&_nc_ohc=Z0GfBdYJ0jkAQltVYIijmQw7S_UoqgjW7eKj4hYClCMVs6-hoxjuk_JzA&_nc_ht=scontent.xx&oh=026437eb993374538275910424c7c948&oe=5E3FF0F8
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/12120028_10153656867603745_6432235869019497791_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=8Kxfdx2N0tcAX9orf5R&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=aa71c0558d56b2819b4c4add8f03838a&oe=5F48F508
 beer-date: "2015-10-17"
 desc: "Pretty good all round"
 permalink: /beer/:title.html

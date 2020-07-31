@@ -9,7 +9,7 @@ brewery: "The Wild Beer Co"
 breweryURL: "/brewery/the-wild-beer-co.html"
 style: "Saison / Farmhouse Ale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1026065_10151798799468745_1877528478_o.jpg?_nc_cat=107&_nc_ohc=CjjfnCFA9psAQn-Rk-rltTTPU0ymx2csbQELJGYNp-GRHjOZUsF5Oiukg&_nc_ht=scontent.xx&oh=540f58f57aeed2601a559fb9ee6f0b58&oe=5E4F6A63
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1026065_10151798799468745_1877528478_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=4Zl4cs4bLscAX9XPo7H&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=f56bba57ca1180f6bab1c138babef195&oe=5F494D9D
 beer-date: "2013-07-19"
 desc: "Different but not very good"
 permalink: /beer/:title.html

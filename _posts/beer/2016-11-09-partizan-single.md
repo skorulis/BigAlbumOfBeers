@@ -9,7 +9,7 @@ brewery: "Partizan Brewing"
 breweryURL: "/brewery/partizan-brewing.html"
 style: "Pale Ale - Belgian"
 score: 4
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1009503_10152001622893745_406801645_o.jpg?_nc_cat=104&_nc_ohc=jAQuKEG8c8wAQnMn4uqnsOz4GqKm21cypMqPPtBziFprQJkMbloyHr6EA&_nc_ht=scontent.xx&oh=567e7c54af0bddb0b053626632457a51&oe=5E45496A
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1009503_10152001622893745_406801645_o.jpg?_nc_cat=104&_nc_sid=e007fa&_nc_ohc=f0nqCSJjhRQAX_F4KyL&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=0fa54ff09858b1171450e2fb5ee7b849&oe=5F479116
 beer-date: "2013-10-25"
 desc: "Nice label, shit beer"
 permalink: /beer/:title.html

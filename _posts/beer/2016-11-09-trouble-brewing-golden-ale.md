@@ -9,7 +9,7 @@ brewery: "Trouble Brewing"
 breweryURL: "/brewery/trouble-brewing.html"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/329331_10151428533088745_22640063_o.jpg?_nc_cat=104&_nc_ohc=kDb8PUJRNJ8AQl356irJr-MEe-SWDaAoYRvV7GgLHIf8fh36cWKWa6rbg&_nc_ht=scontent.xx&oh=9c30f64dfaacc54f9a8e2ab129786967&oe=5E4AB393
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/329331_10151428533088745_22640063_o.jpg?_nc_cat=104&_nc_sid=e007fa&_nc_ohc=jaw-85kA7mwAX_lFccg&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=642f8aff7b654317d269c95d539c53d8&oe=5F4A0FED
 beer-date: "2013-01-13"
 desc: "Very malty"
 permalink: /beer/:title.html

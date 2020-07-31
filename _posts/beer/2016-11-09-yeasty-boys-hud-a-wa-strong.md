@@ -9,7 +9,7 @@ brewery: "Yeastie Boys"
 breweryURL: "/brewery/yeastie-boys.html"
 style: "Red Ale - American Amber / Red"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/12747254_10153890419403745_8807635240820254136_o.jpg?_nc_cat=108&_nc_ohc=JF1vPfMFNCwAQkB-MMtZl1FuvmHptxP9A90TJvC8g6pRevg5LslKuS_AQ&_nc_ht=scontent.xx&oh=4ba1c777aceff50b8147e4087af6f0b5&oe=5E7F395C
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/12747254_10153890419403745_8807635240820254136_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=9clzI3_2q5UAX-MWv_j&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=deb935ab03c065bff0da39537da184ca&oe=5F48F4A4
 beer-date: "2016-02-14"
 desc: "An interestingly strong flavour but it maintains a smooth finish"
 permalink: /beer/:title.html

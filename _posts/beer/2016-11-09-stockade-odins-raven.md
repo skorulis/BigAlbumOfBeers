@@ -9,7 +9,7 @@ brewery: "Stockade Brew Co"
 breweryURL: "/brewery/stockade-brew-co.html"
 style: "Witbier"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29177545_10156095076003745_8882844206171684864_o.jpg?_nc_cat=105&_nc_ohc=APXYJOzyKs8AQm7BEiu7ayfYDQKBRTofm-o327M9muoCJ0ReACdLfE6EQ&_nc_ht=scontent.xx&oh=234342e4e3d1bafc6eeb06ebaba6f580&oe=5E418F16
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/29177545_10156095076003745_8882844206171684864_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=_YlmJspqN4QAX8JKweD&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=20704c2b7483f07e529942cffe3297d5&oe=5F4B4B6A
 beer-date: "2018-03-13"
 desc: "The juniper really adds to the wheat  for a fantastic smell. Thirst quenching. The horn slows my drinking down but makes the beer more enjoyable"
 permalink: /beer/:title.html

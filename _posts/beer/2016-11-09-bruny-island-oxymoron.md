@@ -9,7 +9,7 @@ brewery: "Bruny Island Beer Co"
 breweryURL: "/brewery/bruny-island-beer-co.html"
 style: "Dark Ale"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/57882508_10157070264088745_1326471087109701632_o.jpg?_nc_cat=102&_nc_ohc=wJYiVYI-VaoAQnC8KW8BmDgBknoQMX0wrDiSqVoUzKtJXbX03VnDlRC4g&_nc_ht=scontent.xx&oh=d7995240a00b6f1479943d20bc885229&oe=5E4FA3F8
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/57882508_10157070264088745_1326471087109701632_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=TvdiqCpm_esAX9XvBpw&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=b8739c4db3bd775c85c2ae6f3443cd45&oe=5F491408
 beer-date: "2019-04-22"
 desc: "Not really getting much of the pale hoppiness, it’s really just a dark beer. As such it’s ok, but nothing exciting"
 permalink: /beer/:title.html

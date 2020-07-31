@@ -9,7 +9,7 @@ brewery: "Steam Whistle Brewing"
 breweryURL: "/brewery/steam-whistle-brewing.html"
 style: "Pilsner - Other"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/14352163_10154470819568745_6410883825021001969_o.jpg?_nc_cat=111&_nc_ohc=nmGoEIViYWcAQlSYsK8wj0Mj1AnAS5Xt242SCHV8j6TrLNaYv7QBeljwg&_nc_ht=scontent.xx&oh=240062719a6cc1992853b1157806f481&oe=5E81CB9E
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/14352163_10154470819568745_6410883825021001969_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=xk3NIz7iFqIAX-2llDT&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=94300cd301d90349b353f5c9f908c813&oe=5F4A56E2
 beer-date: "2016-09-21"
 desc: "Easy drinking. Fairly dry and not too bitter"
 permalink: /beer/:title.html

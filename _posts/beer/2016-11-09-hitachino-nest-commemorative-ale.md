@@ -9,7 +9,7 @@ brewery: "Kiuchi Brewery"
 breweryURL: "/brewery/kiuchi-brewery.html"
 style: "Spiced / Herbed Beer"
 score: 9
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1082315_10151854991538745_1076029058_o.jpg?_nc_cat=106&_nc_ohc=3CmSeInN5fkAQksDXqVhH9UH9B560IzBWiyInl3GKftiDIF6lAnilx6nw&_nc_ht=scontent.xx&oh=3698550cdc91b5c89c7d0e2db44fd69c&oe=5E8245B8
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1082315_10151854991538745_1076029058_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=wtbXynRl1oIAX_Q2xyB&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=557fbba6656d258db8adf590991401b2&oe=5F49DCC8
 beer-date: "2013-08-15"
 desc: "The perfect beer for new years. Or any other time"
 permalink: /beer/:title.html

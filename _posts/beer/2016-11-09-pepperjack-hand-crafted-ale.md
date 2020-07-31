@@ -9,7 +9,7 @@ brewery: "Matilda Bay Brewing Company"
 breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Fruit Beer"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/892189_10151602294478745_1578225000_o.jpg?_nc_cat=103&_nc_ohc=Z4VqMaYz9IcAQmfONO-76S0RCsy81kOZUaN0cvsCyEj6A5NUmPBtlWh4A&_nc_ht=scontent.xx&oh=37e7c3fd1dff56fa2560c4ea5ee3134a&oe=5E43D28F
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/892189_10151602294478745_1578225000_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_ohc=dREmiuEeHpoAX-9dxRH&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=f09860b7e622f8c8c44f8897e0796a58&oe=5F4907F1
 beer-date: "2013-03-28"
 desc: "Takes a while to get used to, even then it's average"
 permalink: /beer/:title.html

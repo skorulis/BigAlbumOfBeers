@@ -9,7 +9,7 @@ brewery: "New England Brewing Co."
 breweryURL: "/brewery/new-england-brewing-co.html"
 style: "IPA - Brut"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/77313768_10157643740988745_2883194507669536768_o.jpg?_nc_cat=108&_nc_ohc=Gu8uikoTa7wAQnlsLpI2ZZq7PnW9XDN0JMCR9MT6QRSzUQlGzHyQgE2Nw&_nc_ht=scontent.xx&oh=1ab8bf9e894f15242d77420d68fe2cd4&oe=5E528383
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/77313768_10157643740988745_2883194507669536768_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=vojfY-WoMHIAX9Vfo-r&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=c80ead73465d180e7086ec9139d72ff3&oe=5F4A28FD
 beer-date: "2019-11-22"
 desc: "Really wasn’t sure what to expect from this one, and still struggling as I finish it. The brut yeast mellows out the bitterness but also kills the hop flavours. Nothing in it really makes me want to find it again"
 permalink: /beer/:title.html

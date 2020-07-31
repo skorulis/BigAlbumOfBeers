@@ -9,7 +9,7 @@ brewery: "Utenos Alus"
 breweryURL: "/brewery/utenos-alus.html"
 style: "Lager - Pale"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/1093810_10151860444553745_1702342354_o.jpg?_nc_cat=109&_nc_ohc=IAz2IMDCC1kAQkE4W5kuFd84RpO7AVeQq9ZKQFCOrtzMLMNmo9GrmYXgg&_nc_ht=scontent.xx&oh=1a44b09f3ec69c92698b3f1aa043bcfa&oe=5E437AA4
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1093810_10151860444553745_1702342354_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=HXKNvDPeC4UAX_K_-g1&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=ba2a1c99132133fd6352474d3ef3258a&oe=5F495FDC
 beer-date: "2013-08-18"
 desc: "Stock standard beer"
 permalink: /beer/:title.html

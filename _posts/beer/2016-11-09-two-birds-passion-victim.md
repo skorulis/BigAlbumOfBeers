@@ -9,7 +9,7 @@ brewery: "Two Birds Brewing"
 breweryURL: "/brewery/two-birds-brewing.html"
 style: "Golden Ale"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/26756276_10155922806493745_8548237717859429227_o.jpg?_nc_cat=111&_nc_ohc=tfB7H0BqtlEAQkuN4EkRMXP088fokIWW0OT_U1MU2srteFe5VsmXtTr-g&_nc_ht=scontent.xx&oh=b2d028b4dc9ce7b256705e1aa7c91852&oe=5E81E408
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/26756276_10155922806493745_8548237717859429227_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=9oHBGTF3QiYAX-w28BG&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=c6ca7936d5b536d3b042fe2ea228489b&oe=5F4A3E78
 beer-date: "2018-01-13"
 desc: "Definitely get the passion fruit. Nice for what it is but I could go for some more depth"
 permalink: /beer/:title.html

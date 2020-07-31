@@ -9,7 +9,7 @@ brewery: "Boatrocker Brewing Company"
 breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/16113347_10154858219793745_8642676350472823343_o.jpg?_nc_cat=101&_nc_ohc=kqFlQmseQZIAQnbEvij9I5Kqp7pgvtUnrhxbfPnsYMZ80C2yUjbPiiTwg&_nc_ht=scontent.xx&oh=0741c16fd12d1224518cd8e15ba32721&oe=5E7C6753
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/16113347_10154858219793745_8642676350472823343_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=MfoNnVPUjQcAX9hy5yJ&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=cd8e4c2506910fd1e8f0bf42f7a68100&oe=5F47D22D
 beer-date: "2017-01-21"
 desc: "Kind of a mix between an IPA and a pale. Low on bitterness but high on hops. Great as a session beer"
 permalink: /beer/:title.html

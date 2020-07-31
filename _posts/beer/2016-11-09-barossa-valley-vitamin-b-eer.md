@@ -9,7 +9,7 @@ brewery: "Barossa Valley Brewing"
 breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Other"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/58463187_10157070544363745_9010520510001315840_o.jpg?_nc_cat=105&_nc_ohc=k_ETXGlL9I8AQmzNR_eEQ7hFUPoJs2AUH6OsmkF1so0joUwox6yYwKiCA&_nc_ht=scontent.xx&oh=1ac1b1f22abfc4e5466a21d686143dfc&oe=5E49347B
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/58463187_10157070544363745_9010520510001315840_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=LnBWQYvc4DsAX_spdHK&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=725cf60319658a2af18622e6151ebdff&oe=5F479A85
 beer-date: "2019-04-22"
 desc: "It’s a beer filled with super foods and therefore healthy. Red ale flavours mixed with the tartness of berries reminds me a little bit of berocca. Feels both fulfilling and refreshing"
 permalink: /beer/:title.html

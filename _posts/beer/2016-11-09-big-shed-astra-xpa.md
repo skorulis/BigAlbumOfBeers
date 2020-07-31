@@ -9,7 +9,7 @@ brewery: "Big Shed Brewing Concern"
 breweryURL: "/brewery/big-shed-brewing-concern.html"
 style: "Pale Ale - American"
 score: 7.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/48429018_10156797308723745_4824324532082835456_o.jpg?_nc_cat=111&_nc_ohc=Y34Fu_Uhtg8AQnoIRijxzZBiDVZS6-OQol64VMpanEWc4HtdLS1UEhNlg&_nc_ht=scontent.xx&oh=b3db0ffeb1aa2066dffb87824ff8e80e&oe=5E42DC89
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/48429018_10156797308723745_4824324532082835456_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=OEQRxqmojZIAX_8tw0N&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=ef309b2b408be7afdb5ec7666ecb664d&oe=5F49FDF7
 beer-date: "2018-12-27"
 desc: "Fairly easy drinking XPA with a tad of sweetness in the aftertaste. Beautiful golden clarity"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Anchor Brewing Company"
 breweryURL: "/brewery/anchor-brewing-company.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/11203674_10153268299813745_8323582624602808812_o.jpg?_nc_cat=106&_nc_ohc=TU-zhQcriSIAQkehJSA-voC_AFqSkZ5VrI8LdjNfqWoWdvipVo8oMToiw&_nc_ht=scontent.xx&oh=5114eacb7b29844274666a511258458e&oe=5E46DFCE
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/11203674_10153268299813745_8323582624602808812_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=gnNx7ZsmdmAAX9ej7b8&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=5ef9a95173e0fbaa3196b6d7b3f4cfd4&oe=5F49EF32
 beer-date: "2015-05-01"
 desc: "Very nicely done. Great for a session beer"
 permalink: /beer/:title.html

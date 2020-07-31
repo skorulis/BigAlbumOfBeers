@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Golden Ale"
 score: 7
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/16178901_10154858213898745_4630426772459653432_o.jpg?_nc_cat=102&_nc_ohc=GYxLnHwDkjsAQm3KZOv57-D7lvdHGSF6umoEWDnrRSF8H-JIeDJlVkSpg&_nc_ht=scontent.xx&oh=649453f1ac75e5313114c61584879366&oe=5E4ACB8B
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/16178901_10154858213898745_4630426772459653432_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=UGCg9lZWWigAX-ihOu2&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=a3fbab69bba44e0bbb461627b10d678b&oe=5F49F7F5
 beer-date: "2017-01-21"
 desc: "Nicely aromatic. Easy drinking. The mildest beer I've had from the pirate life range"
 permalink: /beer/:title.html

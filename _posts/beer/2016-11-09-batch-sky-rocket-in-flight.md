@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Red Ale - Other"
 score: 8
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/65296269_10157223729078745_568743314547802112_o.jpg?_nc_cat=102&_nc_ohc=Dm3Ugjyj7WgAQkCI3oM9lxtAo8534pKtbb8v8efCi4CEQtXnvII4tK3rQ&_nc_ht=scontent.xx&oh=24da79347e1e9b95572b8babacea4a27&oe=5E4C62B4
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/65296269_10157223729078745_568743314547802112_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=LSxNyUQSB5wAX9FgY5q&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=4a0453a17bf8ea80e198539b6a58abbf&oe=5F4860CC
 beer-date: "2019-06-22"
 desc: "Takes about 5 minutes just to settle.  It’s a slightly sour red but very mild in most ways. By the end I want more, but I don’t want to wait for it to settle again"
 permalink: /beer/:title.html

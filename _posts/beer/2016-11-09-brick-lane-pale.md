@@ -9,7 +9,7 @@ brewery: "Brick Lane Brewing Co."
 breweryURL: "/brewery/brick-lane-brewing-co.html"
 style: "Pale Ale - Australian"
 score: 6.5
-img: https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/49126916_10156797296518745_1702198824778334208_o.jpg?_nc_cat=110&_nc_ohc=3ILSDF7mFe4AQnL06C6EbaGtk7VJXgX2Mrqr6REXMxtbI3G8KCHbSuBZA&_nc_ht=scontent.xx&oh=1974b59e5f6e72ea3631bb967bfcacd2&oe=5E51C0AA
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/49126916_10156797296518745_1702198824778334208_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=5kjktN4JvH8AX8M9a2V&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=6219b0f70be81fbe9cadbb737d64a126&oe=5F4AEBD6
 beer-date: "2018-12-27"
 desc: "It’s ok. That’s about all I can say"
 permalink: /beer/:title.html

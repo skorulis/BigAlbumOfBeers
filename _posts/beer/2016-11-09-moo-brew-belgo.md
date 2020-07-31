@@ -9,7 +9,7 @@ brewery: "Moo Brew"
 breweryURL: "/brewery/moo-brew.html"
 style: "Pale Ale - Belgian"
 score: 5
-img: https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/883134_10151602297908745_1068926570_o.jpg?_nc_cat=105&_nc_ohc=mxW5M-HdJmsAQmHPB-f4Gv4D1ZEJ_XKE4V7RHQ_AEvvC_Old7JRfIO-5Q&_nc_ht=scontent.xx&oh=d04194faabb59ba4b78c44c94232364b&oe=5E86E2FC
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/883134_10151602297908745_1068926570_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=4mLMFZH0DG8AX8FPqIY&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=bb21ebc0b318b5bd1359e2b7c55e014e&oe=5F493404
 beer-date: "2013-03-28"
 desc: "Very belgian without the alcohol content to match"
 permalink: /beer/:title.html
