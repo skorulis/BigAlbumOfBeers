@@ -9,7 +9,7 @@ brewery: "Shepherd Neame"
 breweryURL: "/brewery/shepherd-neame.html"
 style: "Extra Special / Strong Bitter"
 score: 3
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/469152_10151356728563745_544345125_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=vhjzaxOYPB4AX-pV_4w&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=44a911c958d0d87ec5701e32fa5bb704&oe=5F948714
+img: /img/list/bishops-finger.jpeg
 beer-date: "2012-12-01"
 desc: "Written on the back: At 5.4% It's near the knuckle. "
 permalink: /beer/:title.html

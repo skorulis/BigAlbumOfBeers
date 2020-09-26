@@ -9,7 +9,7 @@ brewery: "Coopers Brewery"
 breweryURL: "/brewery/coopers-brewery.html"
 style: "Stout - Foreign / Export"
 score: 3
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/882308_10151602292338745_274952911_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=9GPToAr85ewAX_OR0Ub&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=de327eb0337462e9b6ab3dba696ec6d6&oe=5F92FF65
+img: /img/list/coopers-extra-stout.jpeg
 beer-date: "2013-03-28"
 desc: "Twice the stout taste of a regular stout"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Rocks Brewing Co"
 breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Golden Ale"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/903887_10151602285323745_1585387237_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=ls-Cq82NYzAAX9XPPkH&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=ba52f4d7a2b74c675125b024dee38fab&oe=5F965D02
+img: /img/list/the-governor-golden-ale.jpeg
 beer-date: "2013-03-28"
 desc: ""
 permalink: /beer/:title.html

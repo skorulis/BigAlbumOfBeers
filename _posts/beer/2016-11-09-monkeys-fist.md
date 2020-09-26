@@ -9,7 +9,7 @@ brewery: "Sail & Anchor"
 breweryURL: "/brewery/sail-anchor.html"
 style: "Pale Ale - American"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10257018_10153055749583745_4285986054653809975_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=OagSsje71eEAX8j8hj9&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=7b707b0cd73387291c88577e4b1e0d3e&oe=5F938BC7
+img: /img/list/monkeys-fist.jpeg
 beer-date: "2015-01-29"
 desc: "Not sure why these are always reduced to clear at Dan Murpheys"
 permalink: /beer/:title.html

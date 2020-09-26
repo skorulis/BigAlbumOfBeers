@@ -9,7 +9,7 @@ brewery: "Eight Degrees Brewing"
 breweryURL: "/brewery/eight-degrees-brewing.html"
 style: "Red Ale - Irish"
 score: 4
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/12698366_10153890412458745_3823076669808581993_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=CSDLQFPAi4UAX9nYDlM&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=3346feb6eda9dd9a9bc486cad01dc080&oe=5F9477F4
+img: /img/list/sunburnt-irish-red-ale.jpeg
 beer-date: "2016-02-14"
 desc: "There’s a fair bit of flavour but it’s just harsh. Not my cup of tea"
 permalink: /beer/:title.html

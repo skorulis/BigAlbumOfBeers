@@ -3,8 +3,7 @@ require 'json'
 require 'net/http'
 require 'httpclient'
 
-raw = JSON.parse(File.read('js/raw.json'))
-extra = JSON.parse(File.read('js/extra.json'))
+raw = JSON.parse(File.read('_data/full.json'))
 
 allData = Hash[]
 
@@ -23,4 +22,5 @@ raw.each do |item|
     item["imgPath"] = target
 end
 
-#File.new("js/raw.json")
+rawFile2 = File.new("_data/full.json","wb")
+rawFile2.write(JSON.pretty_generate(raw))

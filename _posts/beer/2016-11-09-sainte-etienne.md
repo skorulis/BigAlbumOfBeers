@@ -9,7 +9,7 @@ brewery: "Inbev France"
 breweryURL: "/brewery/inbev-france.html"
 style: "Lager - Euro"
 score: 5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10849006_10153225353563745_8285613091047049802_o.jpg?_nc_cat=104&_nc_sid=e007fa&_nc_ohc=-6wtqewwLJcAX9O-mhy&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=fec52f2000ec46d9a253a7acd74533a5&oe=5F9463C2
+img: /img/list/sainte-etienne.jpeg
 beer-date: "2015-04-13"
 desc: "Average Aldi lager"
 permalink: /beer/:title.html

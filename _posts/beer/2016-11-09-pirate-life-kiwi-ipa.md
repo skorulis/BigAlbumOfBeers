@@ -9,7 +9,7 @@ brewery: "Pirate Life Brewing"
 breweryURL: "/brewery/pirate-life-brewing.html"
 style: "IPA - International"
 score: 7.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/29133442_10156095060633745_8262127913281781760_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=BCKgvJg8AFkAX_c4ANs&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=a4e797db884b3fad93acc9ce7b907804&oe=5F956962
+img: /img/list/pirate-life-kiwi-ipa.jpeg
 beer-date: "2018-03-13"
 desc: "Fresh pine smell. Taste lacks and big flavours but it fits together well and keeps you coming back for more"
 permalink: /beer/:title.html

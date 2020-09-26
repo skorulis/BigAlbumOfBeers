@@ -9,7 +9,7 @@ brewery: "Hemingway's Brewery"
 breweryURL: "/brewery/hemingways-brewery.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/66513410_10157281017538745_6944128451594944512_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=lH0_DoTNxzEAX8SOQUP&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=b137e0eb63de57583a91dad82b5162da&oe=5F95293F
+img: /img/list/hemingways-dougs-courage.jpeg
 beer-date: "2019-07-14"
 desc: "Seems a little too bitter for an XPA"
 permalink: /beer/:title.html

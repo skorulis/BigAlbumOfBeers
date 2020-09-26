@@ -9,7 +9,7 @@ brewery: "Garage Project"
 breweryURL: "/brewery/garage-project.html"
 style: "Red Ale - American Amber / Red"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/78391563_10157643897748745_3458320281058148352_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=YlGJreb9R5AAX94vtkh&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=5af112119fe144cc5c7bd7284980c497&oe=5F957770
+img: /img/list/garage-project-amber-ale.jpeg
 beer-date: "2019-11-22"
 desc: "Seems very unexciting. Like’s it’s almost great, but just ends up average"
 permalink: /beer/:title.html

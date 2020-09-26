@@ -9,7 +9,7 @@ brewery: "Macarthur Grange Brewery"
 breweryURL: "/brewery/macarthur-grange-brewery.html"
 style: "Golden Ale"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/34207156_10156301078958745_7379772980202569728_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_ohc=byV4FE0L724AX8b9SZM&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=b22dd865b6a45e2147c2a9ac5bc9b184&oe=5F93ED43
+img: /img/list/lorry-boys-golden-ale.jpeg
 beer-date: "2018-06-02"
 desc: "Nicely sweet ale. Surprisingly good"
 permalink: /beer/:title.html

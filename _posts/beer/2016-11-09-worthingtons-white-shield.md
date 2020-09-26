@@ -9,7 +9,7 @@ brewery: "Worthington's"
 breweryURL: "/brewery/worthingtons.html"
 style: "IPA - English"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/883740_10151563843448745_1342021225_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=ixx-WcjxVhAAX9g_MNA&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=acd5601d92e63d00612f556103d0e3b9&oe=5F92FADA
+img: /img/list/worthingtons-white-shield.jpeg
 beer-date: "2013-03-09"
 desc: "Flavoursome"
 permalink: /beer/:title.html

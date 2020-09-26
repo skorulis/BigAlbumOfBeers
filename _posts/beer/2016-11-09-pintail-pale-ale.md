@@ -9,7 +9,7 @@ brewery: "Karl Strauss Brewing Company"
 breweryURL: "/brewery/karl-strauss-brewing-company.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10368851_10152534306298745_7768963216409422880_o.jpg?_nc_cat=103&_nc_sid=e007fa&_nc_ohc=TQXy6CHsBtIAX-cspyh&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=33ae0bf6487da2238089940cea9c25c2&oe=5F93C7A9
+img: /img/list/pintail-pale-ale.jpeg
 beer-date: "2014-06-21"
 desc: "Kind of a Pale crossed with an IPA"
 permalink: /beer/:title.html

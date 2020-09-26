@@ -9,7 +9,7 @@ brewery: "Feral Brewing Company"
 breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - New England"
 score: 8.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/57439904_10157070444118745_7376929814931832832_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=ZUi65n_ZAOEAX_rUyXg&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=4961d8632e820012e0371e155486069c&oe=5F95D33E
+img: /img/list/feral-biggie-juice.jpeg
 beer-date: "2019-04-22"
 desc: "Solid juicy IPA. Hard to decide whether to savour the taste or smash it down"
 permalink: /beer/:title.html

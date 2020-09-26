@@ -9,7 +9,7 @@ brewery: "4 Pines Brewing Company"
 breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Pale Ale - American"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/16143475_10154858215448745_7085530304765501234_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=8HwmRIRV9MMAX8jTBML&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=ff0493c3691a5d01e07f26b78556ed11&oe=5F92DA82
+img: /img/list/4-pines-indian-summer-ale.jpeg
 beer-date: "2017-01-21"
 desc: "Refreshing and easy drinking. Low bitterness, not much in the way of hops but enough to make it tasty"
 permalink: /beer/:title.html

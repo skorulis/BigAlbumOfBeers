@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "IPA - American"
 score: 7.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/120028597_10158639368953745_2517862084793780905_o.jpg?_nc_cat=109&_nc_sid=0be424&_nc_ohc=9ao2nG-wUSYAX99vXQa&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=7f1a6a2f4f4bfdfa0e249049613baf06&oe=5F936C31
+img: /img/list/batch-big-texs-ipa.jpeg
 beer-date: "2020-09-26"
 desc: "Really rounded IPA. Lots of bitterness but without many strong hop flavours"
 permalink: /beer/:title.html

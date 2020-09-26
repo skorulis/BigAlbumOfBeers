@@ -9,7 +9,7 @@ brewery: "Hawkers Beer"
 breweryURL: "/brewery/hawkers-beer.html"
 style: "IPA - Imperial / Double"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/114870873_10158492318293745_8087208687890983332_o.jpg?_nc_cat=108&_nc_sid=0be424&_nc_ohc=vkIQuYy7_tsAX_XSHym&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=3e7a5823e438da8ce1ffebff3006e5d5&oe=5F96A974
+img: /img/list/hawkes-steph-likes-a-party.jpeg
 beer-date: "2020-07-31"
 desc: "Smells like a strong west coast IPA and at first tastes like one but doesn’t hit as hard as expected, probably because there’s a caramel sweetness to balance it out"
 permalink: /beer/:title.html

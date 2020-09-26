@@ -9,7 +9,7 @@ brewery: "Shenanigans Brewing Co."
 breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "Spiced / Herbed Beer"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/18623617_10155251935233745_6606962823786344566_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=LbTOuKwC4v0AX9UDlr4&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=bbd7e618f390a2b724709826b4dfcb48&oe=5F94703C
+img: /img/list/shenanigans-hoppy-gonzales.jpeg
 beer-date: "2017-05-27"
 desc: "Straight away you get the jalapeño but it's only the taste and no heat. Fairly hoppy on the nose but it's hard to pick that up in the taste"
 permalink: /beer/:title.html

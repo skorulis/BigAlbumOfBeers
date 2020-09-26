@@ -9,7 +9,7 @@ brewery: "Nomad Brewing Co."
 breweryURL: "/brewery/nomad-brewing-co.html"
 style: "Saison / Farmhouse Ale"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10996817_10153118669198745_2610490748271486451_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=yfTy_oUf-AQAX8CklvV&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=1891a31b03ba26458d239582e7c99b5e&oe=5F96355D
+img: /img/list/nomad-long-trip-saison.jpeg
 beer-date: "2015-02-27"
 desc: "Very tasty, but the fizz is a bit strange. Sits in such a strange middle ground but I want more"
 permalink: /beer/:title.html

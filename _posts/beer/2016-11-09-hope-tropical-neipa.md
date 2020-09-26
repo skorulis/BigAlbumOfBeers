@@ -9,7 +9,7 @@ brewery: "Hope Brewery"
 breweryURL: "/brewery/hope-brewery.html"
 style: "IPA - New England"
 score: 10
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/66651066_10157281017808745_8649655987696828416_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=l-KDa7mWLxQAX_wp_aP&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=052dcda3517bd00574440cfc47e12426&oe=5F953B0B
+img: /img/list/hope-tropical-neipa.jpeg
 beer-date: "2019-07-14"
 desc: "The amount of aroma coming off this is amazing, like smelling a fresh pineapple🍍. Taste is completely smooth and the bitterness is barely detectable. Even with food all the taste comes through"
 permalink: /beer/:title.html

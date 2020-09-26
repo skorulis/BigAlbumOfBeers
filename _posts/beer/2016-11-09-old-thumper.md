@@ -9,7 +9,7 @@ brewery: "Shipyard Brewing Company"
 breweryURL: "/brewery/shipyard-brewing-company.html"
 style: "English Bitter"
 score: 4
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/334202_10151396305243745_1878047628_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=NTx1-CuBpS8AX-MZX_2&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=8e1a954239b59136fab9b4ebe34566fd&oe=5F96628F
+img: /img/list/old-thumper.jpeg
 beer-date: "2012-12-25"
 desc: "Gave my taste buds a thumping"
 permalink: /beer/:title.html

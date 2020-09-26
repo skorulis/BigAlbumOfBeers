@@ -9,7 +9,7 @@ brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
 breweryURL: "/brewery/cerveceria-mexicana-s-de-r-l-de-c-v-tecate.html"
 style: "Spiced / Herbed Beer"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1402157_10152001620853745_543682046_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=kkm_DLoXfz0AX-5yz5_&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=fa522101e697161aae817c00f657fd32&oe=5F94A9B0
+img: /img/list/cave-creek-chili-beer.jpeg
 beer-date: "2013-10-25"
 desc: "A nice balance of chilli and beer. And yes that is a whole chilli in the bottle"
 permalink: /beer/:title.html

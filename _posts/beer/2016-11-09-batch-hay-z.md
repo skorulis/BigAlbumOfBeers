@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Sour - Ale"
 score: 7.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/26840701_10155922807543745_3972930625843090613_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_ohc=29eWpxTtGrsAX9WmR3P&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=bbb0bc29bf3811ca3d077e83f89cb6d9&oe=5F9455E1
+img: /img/list/batch-hay-z.jpeg
 beer-date: "2018-01-13"
 desc: "A nice easy drinking sour beer. Very refreshing"
 permalink: /beer/:title.html

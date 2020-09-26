@@ -9,7 +9,7 @@ brewery: "Kankiku Meijyo Co."
 breweryURL: "/brewery/kankiku-meijyo-co.html"
 style: "Pale Ale - International"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10986880_10153438037018745_87412937068060294_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=-BLR3pbBcZ8AX_D_Pdn&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=69a27269ff149863c9f66df196e397ec&oe=5F950DBB
+img: /img/list/koshihikari-rice-beer.jpeg
 beer-date: "2015-07-10"
 desc: "Amazing how similar this is to a normal lager"
 permalink: /beer/:title.html

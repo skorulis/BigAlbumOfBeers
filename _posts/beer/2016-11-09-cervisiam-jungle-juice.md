@@ -9,7 +9,7 @@ brewery: "Cervisiam"
 breweryURL: "/brewery/cervisiam.html"
 style: "IPA - Imperial / Double"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/110340486_10158492318658745_1766377698941185827_o.jpg?_nc_cat=106&_nc_sid=0be424&_nc_ohc=VZtgdvjHiwkAX9Sf-uk&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=fbc2b59621423a2110a47adfd811c980&oe=5F951B0C
+img: /img/list/cervisiam-jungle-juice.jpeg
 beer-date: "2020-07-31"
 desc: "The strong dank IPA that I needed at the end of a long day of work. Mild enough to make it easy to drink"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Stone Brewing"
 breweryURL: "/brewery/stone-brewing.html"
 style: "Stout - Imperial Milk / Sweet"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/19143222_10155314453598745_5964314215318845264_o.jpg?_nc_cat=104&_nc_sid=e007fa&_nc_ohc=QFRyryP1BUYAX_kib60&_nc_oc=AQmMvARAKffhh8JbKxe2e0FQANX_ixtfj04d_rdcEiZqwOIMaCSb8HPXy6BtABDFU9g&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=934d1dffe566104fbf1ee77b1800cdbc&oe=5F949D86
+img: /img/list/stone-xocoveza.jpeg
 beer-date: "2017-06-15"
 desc: "Has a very strange taste. Apart from the bitterness it’s not much like a beer at all. It’s pretty good but not something I would go back for"
 permalink: /beer/:title.html

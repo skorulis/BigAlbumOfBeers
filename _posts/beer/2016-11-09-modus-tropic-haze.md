@@ -9,7 +9,7 @@ brewery: "Modus Operandi Brewing Co."
 breweryURL: "/brewery/modus-operandi-brewing-co.html"
 style: "Pale Ale - American"
 score: 6.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/48372492_10156797296103745_1631898026983292928_o.jpg?_nc_cat=104&_nc_sid=e007fa&_nc_ohc=AxSA8L0k-KMAX_Pz2Sw&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=73960d11a7f214063eb0f154d60a6529&oe=5F9442EA
+img: /img/list/modus-tropic-haze.jpeg
 beer-date: "2018-12-27"
 desc: "Nice fruity pale ale.  A little bit harsh considering what it is"
 permalink: /beer/:title.html

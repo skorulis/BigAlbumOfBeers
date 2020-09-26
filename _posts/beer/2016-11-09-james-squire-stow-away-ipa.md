@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "IPA - English"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1979902_10152425241028745_6945284873150801200_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=-WDk2hh40ioAX8RlgHj&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=168d8be71f4804225b6a861c6d1cac78&oe=5F969912
+img: /img/list/james-squire-stow-away-ipa.jpeg
 beer-date: "2014-05-03"
 desc: "A fairly mild IPA"
 permalink: /beer/:title.html

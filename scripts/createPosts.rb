@@ -188,9 +188,9 @@ allBeers.each do |item|
 		if style
 			file.puts('style: "' + style + '"')
 		end
-
+		
 		file.puts('score: ' + item["score"])
-		file.puts('img: ' + item["img"])
+		file.puts('img: /' + item["imgPath"])
 		file.puts('beer-date: "' + item["date"] + '"')
 		file.puts('desc: "' + item["desc"] + '"')
 		file.puts('permalink: /beer/:title.html')

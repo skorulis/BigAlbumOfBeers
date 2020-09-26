@@ -9,7 +9,7 @@ brewery: "Ekim Brewing Co."
 breweryURL: "/brewery/ekim-brewing-co.html"
 style: "Pale Ale - American"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/64783293_10157223731923745_190640859396440064_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=lY-HnIXlkFAAX8zUqld&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=9834efa9fa6cd6304f17e31dd2a8a1f9&oe=5F939FED
+img: /img/list/ekim-after-battle.jpeg
 beer-date: "2019-06-22"
 desc: "Kind of plain. Very inoffensive and easy to drink but nothing exciting"
 permalink: /beer/:title.html

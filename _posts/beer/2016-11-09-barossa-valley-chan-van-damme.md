@@ -9,7 +9,7 @@ brewery: "Barossa Valley Brewing"
 breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Witbier"
 score: 7.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/26756543_10155922814183745_5626777175831322488_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=sWVNQVLrtUIAX-l0_-i&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=2142d1f2873a3149003e7bd00078e1fd&oe=5F94998D
+img: /img/list/barossa-valley-chan-van-damme.jpeg
 beer-date: "2018-01-13"
 desc: "Like a Belgian wit with a strong tang of lemongrass. Gets better as you become adjusted to it"
 permalink: /beer/:title.html

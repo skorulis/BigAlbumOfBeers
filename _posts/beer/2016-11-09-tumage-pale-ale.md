@@ -9,7 +9,7 @@ brewery: "PT Sinar Timur Sukses"
 breweryURL: "/brewery/pt-sinar-timur-sukses.html"
 style: "Pale Ale - International"
 score: 7.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/112430986_10158492317313745_7973046026496794551_o.jpg?_nc_cat=108&_nc_sid=0be424&_nc_ohc=YfEc7x9BYtEAX_9Z2sm&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=a3410aaebdcbd21e85c5ab731f30e1c0&oe=5F95A87A
+img: /img/list/tumage-pale-ale.jpeg
 beer-date: "2020-07-31"
 desc: "Slightly yeasty but otherwise a clean refreshing pale ale. Fairly low on hops but fits in well with the hot humid weather"
 permalink: /beer/:title.html

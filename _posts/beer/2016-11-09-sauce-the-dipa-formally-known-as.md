@@ -9,7 +9,7 @@ brewery: "Sauce Brewing Co"
 breweryURL: "/brewery/sauce-brewing-co.html"
 style: "IPA - Imperial / Double"
 score: 8.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/74670807_10157643769933745_5681913609991487488_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=BIVPwZYt83kAX96bHfN&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=fed136d31a177946f32038718a00fb84&oe=5F958909
+img: /img/list/sauce-the-dipa-formally-known-as.jpeg
 beer-date: "2019-11-22"
 desc: "Very mild for a double IPA, which isn’t to say its a mild beer, but just not as much punch as you might expect. Which just happened to be what I was after as I cooked dinner so I’m very happy with the flavour and a little bit tipsy"
 permalink: /beer/:title.html

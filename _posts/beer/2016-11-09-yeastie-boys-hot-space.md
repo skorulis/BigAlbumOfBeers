@@ -9,7 +9,7 @@ brewery: "Yeastie Boys"
 breweryURL: "/brewery/yeastie-boys.html"
 style: "Pale Ale - New Zealand"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/76200372_10157643863548745_4709565759007752192_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=uonSKsJodQIAX-Av_B1&_nc_oc=AQnVMRxsuM4xJEDWVRqEiUIoTns9cgDPqfQmJPS2axQkWHTCXPxpFk22CQU7Qxprd4I&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=10282f199729e4f8cca72203fc911305&oe=5F93F732
+img: /img/list/yeastie-boys-hot-space.jpeg
 beer-date: "2019-11-22"
 desc: "Really interesting flavour that’s hard to place. Like an XPA with a dash of sweetness. A lot of flavour with very little alcohol"
 permalink: /beer/:title.html

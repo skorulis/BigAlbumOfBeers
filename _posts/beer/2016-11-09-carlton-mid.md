@@ -9,7 +9,7 @@ brewery: "Carlton & United Breweries"
 breweryURL: "/brewery/carlton-united-breweries.html"
 style: "Lager - North American Adjunct"
 score: 3
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10014076_10152327617473745_370150087_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=z5OS_D8g7JIAX-WkqF9&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=44e296efc23b44e377c4465caba97be4&oe=5F95763A
+img: /img/list/carlton-mid.jpeg
 beer-date: "2014-03-18"
 desc: "Not quite as nice as a draught and with less alcohol"
 permalink: /beer/:title.html

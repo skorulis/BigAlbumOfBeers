@@ -9,7 +9,7 @@ brewery: "Stella Artois"
 breweryURL: "/brewery/stella-artois.html"
 style: "Pale Ale - Belgian"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/19095405_10155314455163745_2656534065002843015_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_ohc=LR_qLVcyJngAX-KfOsX&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=9b9d40b8559a652cc18d8e5289731d57&oe=5F92E1DD
+img: /img/list/vieux-temps.jpeg
 beer-date: "2017-06-15"
 desc: "Easy drinking Belgian blonde with a slight malty finish"
 permalink: /beer/:title.html

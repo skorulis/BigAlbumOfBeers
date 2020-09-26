@@ -9,7 +9,7 @@ brewery: "Moa Brewing Company"
 breweryURL: "/brewery/moa-brewing-company.html"
 style: "Pilsner - Other"
 score: 4
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/10258186_10153055726008745_3155144376465393693_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=psHqNU_If7AAX_6k-8L&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=296237f804111f7745866c7de29f8535&oe=5F92C6F1
+img: /img/list/moa-methode.jpeg
 beer-date: "2015-01-29"
 desc: "Tastes way too metallic"
 permalink: /beer/:title.html

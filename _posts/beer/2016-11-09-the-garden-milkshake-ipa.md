@@ -9,7 +9,7 @@ brewery: "The Garden Brewery"
 breweryURL: "/brewery/the-garden-brewery.html"
 style: "IPA - Milkshake"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/64687853_10157223726968745_2818832258075459584_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=tI80VKaNHxkAX9YzTYW&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=e5dedecfd3ea71cfeefa736ffa411eff&oe=5F95CE9A
+img: /img/list/the-garden-milkshake-ipa.jpeg
 beer-date: "2019-06-22"
 desc: "Very full bodied IPA. Doesn’t give the fruit flavours it promises. Not something to smash down but great to savour slowly"
 permalink: /beer/:title.html

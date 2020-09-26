@@ -9,7 +9,7 @@ brewery: "Bentspoke Brewing Co"
 breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "IPA - American"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/12715841_10153890413753745_5060146557255132828_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_ohc=0u3VLhFWU2oAX-qRACY&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=ec1d1507c9bf140e8f4f023415e85403&oe=5F943482
+img: /img/list/bentspoke-crankshaft.jpeg
 beer-date: "2016-02-14"
 desc: "Really strong on the hops, just a little too bitter"
 permalink: /beer/:title.html

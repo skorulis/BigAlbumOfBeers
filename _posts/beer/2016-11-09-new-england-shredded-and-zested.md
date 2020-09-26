@@ -4,7 +4,7 @@ filename: _posts/beer/2016-11-09-new-england-shredded-and-zested.md
 title: New England shredded and zested
 category: beer
 score: 6.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/82762334_10157812394133745_5554107980401606656_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=9GD7PXmgEhsAX9ugy6i&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=ea5ebff95aea2f8e0972797b9cc615a7&oe=5F95C08A
+img: /img/list/new-england-shredded-and-zested.jpeg
 beer-date: "2020-01-16"
 desc: "Very unique. Was expecting sourness but it’s more like eating a bitter pie. Nice to start but now I feel like I’ve eaten a whole pie. Don’t order a pint"
 permalink: /beer/:title.html

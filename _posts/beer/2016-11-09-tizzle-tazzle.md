@@ -9,7 +9,7 @@ brewery: "Duckpond Brewing"
 breweryURL: "/brewery/duckpond-brewing.html"
 style: "Sour - Fruited Berliner Weisse"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/116566997_10158492318678745_8513498316290525009_o.jpg?_nc_cat=104&_nc_sid=0be424&_nc_ohc=yurRV8ORuGEAX8QE0b0&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=19377c8fc472a0a8607a2983c65df7e7&oe=5F95B757
+img: /img/list/tizzle-tazzle.jpeg
 beer-date: "2020-07-31"
 desc: "Standard sour, fairly strong on blueberry. A good level of bitterness vs sweetness for my taste"
 permalink: /beer/:title.html

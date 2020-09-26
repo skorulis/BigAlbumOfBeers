@@ -9,7 +9,7 @@ brewery: "Firestone Walker Brewing Company"
 breweryURL: "/brewery/firestone-walker-brewing-company.html"
 style: "IPA - New England"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/111665923_10158492317253745_2689278153966185608_o.jpg?_nc_cat=105&_nc_sid=0be424&_nc_ohc=x_5WpO1Ix70AX-PLEXK&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=0586c590a9766a377ae6c27d966486d6&oe=5F951FCD
+img: /img/list/firestone-walker-mind-haze.jpeg
 beer-date: "2020-07-31"
 desc: "Beautiful colour with a very mild slightly lemony smell. Very mild on hops and slightly sour. No big flavours but could have a few of these"
 permalink: /beer/:title.html

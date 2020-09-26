@@ -9,7 +9,7 @@ brewery: "Matilda Bay Brewing Company"
 breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Lager - Vienna"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1622437_10152327617388745_1928464789_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=ZnR7wWW_BsUAX9xQ19f&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=e088a8adc2d54d466b735234a8a53b10&oe=5F96AB19
+img: /img/list/little-ripper.jpeg
 beer-date: "2014-03-18"
 desc: "A slightly zesty lager"
 permalink: /beer/:title.html

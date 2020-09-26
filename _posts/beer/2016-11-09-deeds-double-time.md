@@ -9,7 +9,7 @@ brewery: "Deeds Brewing"
 breweryURL: "/brewery/deeds-brewing.html"
 style: "Pale Ale - American"
 score: 4.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/110270655_10158492316713745_5164100357491413640_o.jpg?_nc_cat=107&_nc_sid=0be424&_nc_ohc=SmnPUwWzdekAX901UOB&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=ea2fee59ec8a049ef44f803a369a21c2&oe=5F9445CE
+img: /img/list/deeds-double-time.jpeg
 beer-date: "2020-07-31"
 desc: "Something off about this one. It’s a little sour and bitter but without much to make me want it"
 permalink: /beer/:title.html

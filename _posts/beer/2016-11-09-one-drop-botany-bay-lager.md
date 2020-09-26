@@ -9,7 +9,7 @@ brewery: "One Drop Brewing Co"
 breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "Lager - American"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/64979320_10157223730123745_7100228926298914816_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=8Sn3h6pUyN0AX9yDuUl&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=34a3bad71847920cf71019ca50108336&oe=5F94021B
+img: /img/list/one-drop-botany-bay-lager.jpeg
 beer-date: "2019-06-22"
 desc: "Slightly rounded lager. Easy drinking not much else to say"
 permalink: /beer/:title.html

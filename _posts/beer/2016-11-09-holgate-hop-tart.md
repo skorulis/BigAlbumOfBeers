@@ -9,7 +9,7 @@ brewery: "Holgate Brewhouse"
 breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Sour - Ale"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/13443061_10154200938858745_1959407752907879656_o.jpg?_nc_cat=104&_nc_sid=e007fa&_nc_ohc=JK9RHDdNAScAX9mNZ_2&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=69800b42a651f3fd770e9afe996e4f60&oe=5F934128
+img: /img/list/holgate-hop-tart.jpeg
 beer-date: "2016-06-16"
 desc: "An interesting beer. Could do with a little more hop flavour to go with the sourness but refreshing as it is"
 permalink: /beer/:title.html

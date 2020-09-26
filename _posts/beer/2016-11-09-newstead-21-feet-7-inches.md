@@ -9,7 +9,7 @@ brewery: "Newstead Brewing Co."
 breweryURL: "/brewery/newstead-brewing-co.html"
 style: "Porter - Other"
 score: 7.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/17854826_10155111574488745_2744426459263409548_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=X17BqtWPOkwAX9crNNY&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=7959a05444225d27b05f1557b22d64c2&oe=5F93CC94
+img: /img/list/newstead-21-feet-7-inches.jpeg
 beer-date: "2017-04-11"
 desc: "Such a smooth dark beer. Dominated by a rich coffee flavour. I don’t even like coffee but I like this. Not much malt going on. Fairly light on the sweetness but the bitterness also so that’s balances out for me"
 permalink: /beer/:title.html

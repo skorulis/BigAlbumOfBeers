@@ -9,7 +9,7 @@ brewery: "Bay Rd Brewing"
 breweryURL: "/brewery/bay-rd-brewing.html"
 style: "English Bitter"
 score: 7.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/113769242_10158492319768745_5602743625450580621_o.jpg?_nc_cat=101&_nc_sid=0be424&_nc_ohc=T0gYp-nSaxMAX_n1uP_&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=106f2c821e08265ac408d71dcc7e85b5&oe=5F94492A
+img: /img/list/bay-rd-smoked-esb.jpeg
 beer-date: "2020-07-31"
 desc: "Beautiful looking amber beer. Has just that right level of smoke to make it interesting. Very interesting style of beer worth trying"
 permalink: /beer/:title.html

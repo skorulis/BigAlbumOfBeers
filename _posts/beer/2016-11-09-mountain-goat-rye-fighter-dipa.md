@@ -9,7 +9,7 @@ brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "IPA - Imperial / Double"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/34201955_10156301082633745_8429793467898527744_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_ohc=V16b7qpnpUMAX_MgfDo&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=1bcb8c99fa57484e373caf1a4aa87cb4&oe=5F968BEE
+img: /img/list/mountain-goat-rye-fighter-dipa.jpeg
 beer-date: "2018-06-02"
 desc: "Not getting a lot of rye but plenty of hops"
 permalink: /beer/:title.html
