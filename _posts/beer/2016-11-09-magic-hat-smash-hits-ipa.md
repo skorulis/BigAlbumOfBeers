@@ -9,7 +9,7 @@ brewery: "Magic Hat Brewing Company"
 breweryURL: "/brewery/magic-hat-brewing-company.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/14434863_10154470814043745_5966474147333652109_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=jy-WB4u4xQgAX-3hcJ2&_nc_oc=AQkpD8zoDXbCVTRFR8GWlnCXicUOkgob4lBe_EgAO6jwzsjo8olo7ptzZod_1PBRUpE&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=d77493af9aacba4a65e6a2f4dc404ac0&oe=5F4928E7
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/14434863_10154470814043745_5966474147333652109_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=1FBaeMp9_mQAX_UM4aT&_nc_oc=AQk-UurnxYsiUC1Sh4zQskhA_2CwdPzG1TXJj7d8Oj7vXx7NsXvqeS1SmBDf65sH3z0&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=32675c13ab767c45f4c2609e3f04ac7c&oe=5F944E67
 beer-date: "2016-09-21"
 desc: "Definitely an IPA but not terribly nice. Surprisingly the bitterness went away as it got warmer and it was a bit nicer"
 permalink: /beer/:title.html

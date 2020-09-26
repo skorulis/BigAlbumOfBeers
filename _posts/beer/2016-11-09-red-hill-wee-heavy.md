@@ -9,7 +9,7 @@ brewery: "Red Hill Brewery"
 breweryURL: "/brewery/red-hill-brewery.html"
 style: "Scotch Ale / Wee Heavy"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/76227410_10157643863758745_287712437455552512_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=I-cX60SR5l8AX8stKs2&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=43a9e62726a129fbfe764c5a137dec26&oe=5F4B1947
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/76227410_10157643863758745_287712437455552512_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=eJj4ruOB168AX8ozGb8&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=ed21f43d87556e3f3cc8560fa1998291&oe=5F963EC7
 beer-date: "2019-11-22"
 desc: "Like beer with a little bit of extra alcohol. No hops and not much malt. Seems like a good winter beer"
 permalink: /beer/:title.html

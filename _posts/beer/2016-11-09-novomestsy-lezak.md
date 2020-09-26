@@ -9,7 +9,7 @@ brewery: "Novoměstský pivovar"
 breweryURL: "/brewery/novomestsky-pivovar.html"
 style: "Pilsner - Czech"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/856334_10151563847698745_35732168_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=4CJ_n1m11QgAX8_zjOe&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=db3c2ff02f74770d6236e8e2d885beda&oe=5F4B10AB
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/856334_10151563847698745_35732168_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=wOUDzimz3WAAX9uDNHg&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=c3bb0035cba97044105823373b0ce426&oe=5F96362B
 beer-date: "2013-03-09"
 desc: "A different taste"
 permalink: /beer/:title.html

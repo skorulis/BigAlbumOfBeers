@@ -9,7 +9,7 @@ brewery: "Akasha Brewing Company"
 breweryURL: "/brewery/akasha-brewing-company.html"
 style: "IPA - American"
 score: 8.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/110571771_10158492317173745_1459920932894253250_o.jpg?_nc_cat=101&_nc_sid=0be424&_nc_ohc=fDajfxpCOvcAX8lDqcN&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=e3fd53759e744bf943604ead0e474d76&oe=5F49C0CD
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/110571771_10158492317173745_1459920932894253250_o.jpg?_nc_cat=101&_nc_sid=0be424&_nc_ohc=50VoYYFxWQoAX-3gXjX&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=5a0ad98fa66e9f108e5efe4c0e832ed3&oe=5F94E64D
 beer-date: "2020-07-31"
 desc: "Smells floral and sweet. Almost like elderflower. Taste is more on the dank side"
 permalink: /beer/:title.html

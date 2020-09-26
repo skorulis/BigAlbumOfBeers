@@ -9,7 +9,7 @@ brewery: "Malt Shovel Brewery"
 breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "English Bitter"
 score: 8
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/976218_10152327617748745_242091326_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=knwu5p6Z9TgAX_p-zKN&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=62e699ca19956246b31aaafee7fb6c7c&oe=5F4A8CC4
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/976218_10152327617748745_242091326_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=O10PziPZXngAX9JSI94&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=da83a514cc227eb4a3eeca7b104cbbe8&oe=5F95B244
 beer-date: "2014-03-18"
 desc: "Like a lovely lightly hopped IPA"
 permalink: /beer/:title.html

@@ -9,7 +9,7 @@ brewery: "Kangaroo Island Brewery"
 breweryURL: "/brewery/kangaroo-island-brewery.html"
 style: "Pale Ale - Australian"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/83065330_10157812395068745_1497762702225833984_o.jpg?_nc_cat=104&_nc_sid=e007fa&_nc_ohc=yYZe8p6Z-h8AX-xIMls&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=ad5e4837aff79c32d06aa08a36c064b3&oe=5F483BB3
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/83065330_10157812395068745_1497762702225833984_o.jpg?_nc_cat=104&_nc_sid=e007fa&_nc_ohc=yrKsb5EaTPgAX9PKG1g&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=294b44efcafb86d8e81eedaa952fbe6f&oe=5F936133
 beer-date: "2020-01-16"
 desc: "Fairly lacklustre pale. Hasn’t gotten much in the way of aromatics from the hops"
 permalink: /beer/:title.html

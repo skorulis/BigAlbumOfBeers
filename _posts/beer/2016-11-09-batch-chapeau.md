@@ -9,7 +9,7 @@ brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Sour - Farmhouse IPA"
 score: 4
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/58441144_10157070543773745_2366734723369140224_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=IfVuBwxtHNMAX9eJm62&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=b6c382f61fdf97fcc9cab26567424fc9&oe=5F483305
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/58441144_10157070543773745_2366734723369140224_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=jC11u44cJ-wAX8iqGc-&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=f2ee1126401f2f9aa61d46e2c450150b&oe=5F935885
 beer-date: "2019-04-22"
 desc: "Tastes a lot like raspberry cordial. Too much sugar for me. I guess if you don’t like beer but want to get pissed then it would work for you"
 permalink: /beer/:title.html

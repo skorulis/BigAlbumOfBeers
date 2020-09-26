@@ -9,7 +9,7 @@ brewery: "William Bull Brewery"
 breweryURL: "/brewery/william-bull-brewery.html"
 style: "Pale Ale - Australian"
 score: 7
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/11722606_10153438036188745_6157946174058205755_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=Ifm_suVObjkAX8qhUNZ&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=7a2123a4dc711f49289cb3511ebb0d95&oe=5F4861D1
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/11722606_10153438036188745_6157946174058205755_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=i04gKrAMPUkAX9Fg2d2&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=4988e0a94cd01374285b44d216fe097d&oe=5F938751
 beer-date: "2015-07-10"
 desc: "A slightly bitter but well rounded pale ale"
 permalink: /beer/:title.html

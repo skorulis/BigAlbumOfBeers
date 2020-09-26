@@ -1,0 +1,3403 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.113,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 1557584,
+      "beer_name": "Black Diamond",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+      "beer_label_hd": "https://untappd.akamaized.net/site/beer_logos_hd/beer-1557584_509ea_hd.jpeg",
+      "beer_abv": 6,
+      "beer_ibu": 60,
+      "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+      "beer_style": "IPA - Black / Cascadian Dark Ale",
+      "is_in_production": 1,
+      "beer_slug": "bright-brewery-black-diamond",
+      "is_homebrew": 0,
+      "created_at": "Mon, 16 May 2016 04:50:19 +0000",
+      "rating_count": 545,
+      "rating_score": 3.79881,
+      "stats": {
+        "total_count": 705,
+        "monthly_count": 13,
+        "total_user_count": 582,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 3678,
+        "brewery_name": "Bright Brewery",
+        "brewery_slug": "bright-brewery",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/BrightBrewery",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "brightbrewery",
+          "facebook": "http://www.facebook.com/brightbrewery",
+          "url": "http://www.brightbrewery.com.au"
+        },
+        "location": {
+          "brewery_city": "Bright",
+          "brewery_state": "VIC",
+          "lat": -36.7296,
+          "lng": 146.979
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 319023803,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/77cf1f3f940622ea54210eb237671975_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/77cf1f3f940622ea54210eb237671975_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/77cf1f3f940622ea54210eb237671975_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/77cf1f3f940622ea54210eb237671975_raw.jpg"
+            },
+            "created_at": "Fri, 25 Sep 2020 11:23:40 +0000",
+            "checkin_id": 945985448,
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "is_in_production": 1,
+              "beer_style_id": 115,
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "rating_score": 3.799,
+              "rating_count": 545,
+              "count": 545,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6196367,
+              "user_name": "David_and_Sarah",
+              "first_name": "David and Sarah ",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/c0435eadb85757eb3586b85278b81848_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 31828,
+                "venue_name": "Bright Brewery",
+                "venue_slug": "bright-brewery",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_garden",
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "cafe",
+                      "category_name": "Café",
+                      "category_id": "4bf58dd8d48988d16d941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "121 Great Alpine Rd.",
+                  "venue_city": "Bright",
+                  "venue_state": "VIC",
+                  "lat": -36.7264,
+                  "lng": 146.962
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.brightbrewery.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b401f2bf964a520dbb525e3",
+                  "foursquare_url": "http://4sq.com/7OU6Az"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 319021492,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/a2f1cf7d83df339cb069e982597b5598_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/a2f1cf7d83df339cb069e982597b5598_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/a2f1cf7d83df339cb069e982597b5598_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/a2f1cf7d83df339cb069e982597b5598_raw.jpg"
+            },
+            "created_at": "Fri, 25 Sep 2020 10:22:42 +0000",
+            "checkin_id": 945981074,
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "is_in_production": 1,
+              "beer_style_id": 115,
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "rating_score": 3.799,
+              "rating_count": 545,
+              "count": 545,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3678085,
+              "user_name": "bcrompton52",
+              "first_name": "Brad",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/68e17c5c7d2f0d817beb355e2e707b8f_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 31828,
+                "venue_name": "Bright Brewery",
+                "venue_slug": "bright-brewery",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_garden",
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "cafe",
+                      "category_name": "Café",
+                      "category_id": "4bf58dd8d48988d16d941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "121 Great Alpine Rd.",
+                  "venue_city": "Bright",
+                  "venue_state": "VIC",
+                  "lat": -36.7264,
+                  "lng": 146.962
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.brightbrewery.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b401f2bf964a520dbb525e3",
+                  "foursquare_url": "http://4sq.com/7OU6Az"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 319012280,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/ec5ae798cbf038d708a4f70be11d4b86_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/ec5ae798cbf038d708a4f70be11d4b86_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/ec5ae798cbf038d708a4f70be11d4b86_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/ec5ae798cbf038d708a4f70be11d4b86_raw.jpg"
+            },
+            "created_at": "Fri, 25 Sep 2020 04:20:42 +0000",
+            "checkin_id": 945962147,
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "is_in_production": 1,
+              "beer_style_id": 115,
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "rating_score": 3.799,
+              "rating_count": 545,
+              "count": 545,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5424034,
+              "user_name": "Snotta",
+              "first_name": "Mark",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/24f842bb170497f4d5319f92215f3d67_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 31828,
+                "venue_name": "Bright Brewery",
+                "venue_slug": "bright-brewery",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_garden",
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "cafe",
+                      "category_name": "Café",
+                      "category_id": "4bf58dd8d48988d16d941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "121 Great Alpine Rd.",
+                  "venue_city": "Bright",
+                  "venue_state": "VIC",
+                  "lat": -36.7264,
+                  "lng": 146.962
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.brightbrewery.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b401f2bf964a520dbb525e3",
+                  "foursquare_url": "http://4sq.com/7OU6Az"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 318345185,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_20/04974f27fec78ef8800d0c3a7470d525_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_20/04974f27fec78ef8800d0c3a7470d525_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_20/04974f27fec78ef8800d0c3a7470d525_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_20/04974f27fec78ef8800d0c3a7470d525_raw.jpg"
+            },
+            "created_at": "Sun, 20 Sep 2020 08:15:40 +0000",
+            "checkin_id": 944623585,
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "is_in_production": 1,
+              "beer_style_id": 115,
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "rating_score": 3.799,
+              "rating_count": 545,
+              "count": 545,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 8082903,
+              "user_name": "matthew_trotter_vic",
+              "first_name": "Matthew",
+              "last_name": "T",
+              "user_avatar": "https://untappd.akamaized.net/profile/32d630fb117342fb6aefbfda0614be91_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "untappd-at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Everywhere",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 316048118,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_08/6f58dd83e19b7822a332b5b1df06ba26_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_08/6f58dd83e19b7822a332b5b1df06ba26_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_08/6f58dd83e19b7822a332b5b1df06ba26_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_08/6f58dd83e19b7822a332b5b1df06ba26_raw.jpg"
+            },
+            "created_at": "Tue, 08 Sep 2020 11:23:46 +0000",
+            "checkin_id": 940043638,
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "is_in_production": 1,
+              "beer_style_id": 115,
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "rating_score": 3.799,
+              "rating_count": 545,
+              "count": 545,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7001665,
+              "user_name": "kaleb_tymko_7140",
+              "first_name": "Kaleb",
+              "last_name": "T",
+              "user_avatar": "https://untappd.akamaized.net/profile/cf50053346134d26e59f182e3e1d08a8-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 315316436,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_05/a1e86a7ccd0597ad3897e69cbbbf1179_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_05/a1e86a7ccd0597ad3897e69cbbbf1179_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_05/a1e86a7ccd0597ad3897e69cbbbf1179_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_05/a1e86a7ccd0597ad3897e69cbbbf1179_raw.jpg"
+            },
+            "created_at": "Sat, 05 Sep 2020 10:33:51 +0000",
+            "checkin_id": 938531845,
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "is_in_production": 1,
+              "beer_style_id": 115,
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "rating_score": 3.799,
+              "rating_count": 545,
+              "count": 545,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "untappd-at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Everywhere",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 314742845,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_02/1d25b7f65cd97f876d5cacaf19bb53de_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_02/1d25b7f65cd97f876d5cacaf19bb53de_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_02/1d25b7f65cd97f876d5cacaf19bb53de_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_02/1d25b7f65cd97f876d5cacaf19bb53de_raw.jpg"
+            },
+            "created_at": "Wed, 02 Sep 2020 10:16:36 +0000",
+            "checkin_id": 937394507,
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "is_in_production": 1,
+              "beer_style_id": 115,
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "rating_score": 3.799,
+              "rating_count": 545,
+              "count": 545,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 8203909,
+              "user_name": "Boydy86",
+              "first_name": "John",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/a6c7820c27a1ec16e6d9ff17268ecb94-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "untappd-at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Everywhere",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 314324267,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_08_30/9323e52a2e357466ab5434984843f673_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_08_30/9323e52a2e357466ab5434984843f673_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_08_30/9323e52a2e357466ab5434984843f673_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_08_30/9323e52a2e357466ab5434984843f673_raw.jpg"
+            },
+            "created_at": "Sun, 30 Aug 2020 05:29:46 +0000",
+            "checkin_id": 936550191,
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "is_in_production": 1,
+              "beer_style_id": 115,
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "rating_score": 3.799,
+              "rating_count": 545,
+              "count": 545,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5603791,
+              "user_name": "PreferWhisky",
+              "first_name": "Matthew",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/dbbb2c583680784ec059114ea37381e8_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "untappd-at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Everywhere",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 314318728,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_08_30/e7e67b85862005f503b34fb27ab8ac6b_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_08_30/e7e67b85862005f503b34fb27ab8ac6b_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_08_30/e7e67b85862005f503b34fb27ab8ac6b_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_08_30/e7e67b85862005f503b34fb27ab8ac6b_raw.jpg"
+            },
+            "created_at": "Sun, 30 Aug 2020 04:05:52 +0000",
+            "checkin_id": 936537621,
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "is_in_production": 1,
+              "beer_style_id": 115,
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "rating_score": 3.799,
+              "rating_count": 545,
+              "count": 545,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5346980,
+              "user_name": "BennyWebster17",
+              "first_name": "Ben",
+              "last_name": "W",
+              "user_avatar": "https://untappd.akamaized.net/profile/7c349c9bec73b01ee4a61886e4d6e869_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "untappd-at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Everywhere",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 313707457,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_08_28/d0e274ba4072fae4aabfbf8d1fbb9da9_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_08_28/d0e274ba4072fae4aabfbf8d1fbb9da9_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_08_28/d0e274ba4072fae4aabfbf8d1fbb9da9_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_08_28/d0e274ba4072fae4aabfbf8d1fbb9da9_raw.jpeg"
+            },
+            "created_at": "Fri, 28 Aug 2020 09:51:35 +0000",
+            "checkin_id": 935317953,
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "is_in_production": 1,
+              "beer_style_id": 115,
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "rating_score": 3.799,
+              "rating_count": 545,
+              "count": 545,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 314965,
+              "user_name": "OzAndyP",
+              "first_name": "Andrew",
+              "last_name": "H",
+              "user_avatar": "https://untappd.akamaized.net/profile/8da47887da165ad81451bf08fd9e902b_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "untappd-at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Everywhere",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 945985448,
+            "created_at": "Fri, 25 Sep 2020 11:22:45 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 6196367,
+              "user_name": "David_and_Sarah",
+              "first_name": "David and Sarah ",
+              "last_name": "B.",
+              "location": "Earth",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/c0435eadb85757eb3586b85278b81848_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 31828,
+              "venue_name": "Bright Brewery",
+              "venue_slug": "bright-brewery",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_garden",
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "cafe",
+                    "category_name": "Café",
+                    "category_id": "4bf58dd8d48988d16d941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "121 Great Alpine Rd.",
+                "venue_city": "Bright",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -36.7264,
+                "lng": 146.962
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.brightbrewery.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4b401f2bf964a520dbb525e3",
+                "foursquare_url": "http://4sq.com/7OU6Az"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 319023803,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/77cf1f3f940622ea54210eb237671975_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/77cf1f3f940622ea54210eb237671975_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/77cf1f3f940622ea54210eb237671975_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/77cf1f3f940622ea54210eb237671975_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 65587,
+                  "user_badge_id": 731513798,
+                  "badge_name": "Middle of the Road (Level 52)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 260 beers with an ABV greater than 5% and less than 10%.  Try 5 more for Level 53!",
+                  "created_at": "Fri, 25 Sep 2020 11:22:46 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 945981074,
+            "created_at": "Fri, 25 Sep 2020 10:22:14 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3678085,
+              "user_name": "bcrompton52",
+              "first_name": "Brad",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/68e17c5c7d2f0d817beb355e2e707b8f_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 31828,
+              "venue_name": "Bright Brewery",
+              "venue_slug": "bright-brewery",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_garden",
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "cafe",
+                    "category_name": "Café",
+                    "category_id": "4bf58dd8d48988d16d941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "121 Great Alpine Rd.",
+                "venue_city": "Bright",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -36.7264,
+                "lng": 146.962
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.brightbrewery.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4b401f2bf964a520dbb525e3",
+                "foursquare_url": "http://4sq.com/7OU6Az"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3814277,
+                  "user": {
+                    "uid": 3814277,
+                    "user_name": "Karlsson91",
+                    "first_name": "Thomas",
+                    "last_name": "H.",
+                    "bio": "\"A kid once said to me, 'Do you get hangovers?' I said, 'To get hangovers you have to stop drinking.'\" - L. Kilmister",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/4b52cc18794cf6722677888035e2203e_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 890427809,
+                  "like_owner": false,
+                  "created_at": "Fri, 25 Sep 2020 16:09:34 +0000"
+                },
+                {
+                  "uid": 3366663,
+                  "user": {
+                    "uid": 3366663,
+                    "user_name": "plynch83",
+                    "first_name": "Patrick",
+                    "last_name": "L.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/57875f28bd438c7cb3d769fca723e0a2_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 890345796,
+                  "like_owner": false,
+                  "created_at": "Fri, 25 Sep 2020 10:28:13 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 319021492,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/a2f1cf7d83df339cb069e982597b5598_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/a2f1cf7d83df339cb069e982597b5598_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/a2f1cf7d83df339cb069e982597b5598_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/a2f1cf7d83df339cb069e982597b5598_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 1835,
+                  "user_badge_id": 731508968,
+                  "badge_name": "Photogenic Brew  (Level 49)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 245 check-ins with a photo. ",
+                  "created_at": "Fri, 25 Sep 2020 10:22:14 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 168187,
+                  "user_badge_id": 731508969,
+                  "badge_name": "Taster, Please",
+                  "badge_description": "At a new place and don't want to choose a pint of something you may not like? Grab a few tasters! Enjoy some small pours and then decide which to upgrade to a full pour. That's 5 checkins with the serving style of Taster. Try 5 more for Level 2!",
+                  "created_at": "Fri, 25 Sep 2020 10:22:14 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TastersPlease_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TastersPlease_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TastersPlease_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 12358,
+                  "user_badge_id": 731508970,
+                  "badge_name": "The Dark Side",
+                  "badge_description": "At first taste, dark ales can be overwhelming for even the most skilled of beer drinkers, but your will is weak and with time you will eventually turn to the dark side. That's 5 different beers with the style of Dark Ale, Belgian Strong Dark Ale, Lager - Euro Dark, Lager - Dark, IPA - Black / Cascadian Dark Ale or IPA - Imperial / Double Black.. Try 5 more for Level 2!",
+                  "created_at": "Fri, 25 Sep 2020 10:22:14 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 945962147,
+            "created_at": "Fri, 25 Sep 2020 04:20:35 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 5424034,
+              "user_name": "Snotta",
+              "first_name": "Mark",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/24f842bb170497f4d5319f92215f3d67_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 31828,
+              "venue_name": "Bright Brewery",
+              "venue_slug": "bright-brewery",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_garden",
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "cafe",
+                    "category_name": "Café",
+                    "category_id": "4bf58dd8d48988d16d941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "121 Great Alpine Rd.",
+                "venue_city": "Bright",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -36.7264,
+                "lng": 146.962
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.brightbrewery.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4b401f2bf964a520dbb525e3",
+                "foursquare_url": "http://4sq.com/7OU6Az"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 319012280,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/ec5ae798cbf038d708a4f70be11d4b86_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/ec5ae798cbf038d708a4f70be11d4b86_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/ec5ae798cbf038d708a4f70be11d4b86_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/ec5ae798cbf038d708a4f70be11d4b86_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 944623585,
+            "created_at": "Sun, 20 Sep 2020 08:15:29 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 8082903,
+              "user_name": "matthew_trotter_vic",
+              "first_name": "Matthew",
+              "last_name": "T.",
+              "location": "Richmond, Victoria",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/32d630fb117342fb6aefbfda0614be91_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "untappd-at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Everywhere",
+                "venue_country": "United States",
+                "lat": 34.2347,
+                "lng": -77.9482
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 318345185,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_20/04974f27fec78ef8800d0c3a7470d525_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_20/04974f27fec78ef8800d0c3a7470d525_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_20/04974f27fec78ef8800d0c3a7470d525_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_20/04974f27fec78ef8800d0c3a7470d525_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 99,
+                  "user_badge_id": 730026599,
+                  "badge_name": "I Believe in IPA! (Level 5)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 25 different IPAs. Try 5 more for Level 6!",
+                  "created_at": "Sun, 20 Sep 2020 08:15:29 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 944619962,
+            "created_at": "Sun, 20 Sep 2020 07:18:47 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 6838708,
+              "user_name": "Tapthetop",
+              "first_name": "Jeff",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/792c17b2eaedcbf748ddc3b9c30a9336?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4548744,
+                  "user": {
+                    "uid": 4548744,
+                    "user_name": "pledge182",
+                    "first_name": "Ben",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/1a923f13aa1057630f39f991172e9c7b?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 889919264,
+                  "like_owner": false,
+                  "created_at": "Thu, 24 Sep 2020 09:10:18 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 943384722,
+            "created_at": "Fri, 18 Sep 2020 08:49:08 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 3345685,
+              "user_name": "LukeNuke1992",
+              "first_name": "Lucas",
+              "last_name": "D.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/6bbd991655403919ce3885f2ed0ecd15_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "untappd-at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Everywhere",
+                "venue_country": "United States",
+                "lat": 34.2347,
+                "lng": -77.9482
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133216,
+                  "user_badge_id": 728656186,
+                  "badge_name": "99 Bottles (Level 63)",
+                  "badge_description": "99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around.... That's 315 checkins with the serving style of Bottle. Try 5 more for Level 64!",
+                  "created_at": "Fri, 18 Sep 2020 08:49:08 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_99Bottles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_99Bottles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_99Bottles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 942425330,
+            "created_at": "Mon, 14 Sep 2020 11:58:12 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 1694274,
+              "user_name": "MuggyDriscoll",
+              "first_name": "Andy",
+              "last_name": "K.",
+              "location": "Melbourne",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/dc9a45cda7ab835407960f6a4501d70c_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "untappd-at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Everywhere",
+                "venue_country": "United States",
+                "lat": 34.2347,
+                "lng": -77.9482
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 940797231,
+            "created_at": "Fri, 11 Sep 2020 11:48:43 +0000",
+            "checkin_comment": "Nicely balanced between hop and dark malts.",
+            "rating_score": 4,
+            "user": {
+              "uid": 6543409,
+              "user_name": "ZGratton",
+              "first_name": "Zach",
+              "last_name": "G.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/4b84e6218a751487ec47a8fed6daac1b-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6844405,
+                  "user": {
+                    "uid": 6844405,
+                    "user_name": "Samkeating",
+                    "first_name": "Samuel",
+                    "last_name": "K.",
+                    "bio": "",
+                    "location": "Airlie Beach ",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/d8af804d1e16b3f6d797521b27c1da7b_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 883532323,
+                  "like_owner": false,
+                  "created_at": "Fri, 11 Sep 2020 13:07:00 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 93595,
+                  "user_badge_id": 725780989,
+                  "badge_name": "Down Under (Level 60)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 300 different beers from Australia. Try 5 more for Level 61!",
+                  "created_at": "Fri, 11 Sep 2020 11:48:43 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 940043638,
+            "created_at": "Tue, 08 Sep 2020 11:23:20 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 7001665,
+              "user_name": "kaleb_tymko_7140",
+              "first_name": "Kaleb",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/cf50053346134d26e59f182e3e1d08a8-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 316048118,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_08/6f58dd83e19b7822a332b5b1df06ba26_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_08/6f58dd83e19b7822a332b5b1df06ba26_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_08/6f58dd83e19b7822a332b5b1df06ba26_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_08/6f58dd83e19b7822a332b5b1df06ba26_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 6,
+              "items": [
+                {
+                  "badge_id": 65629,
+                  "user_badge_id": 724928667,
+                  "badge_name": "Middle of the Road (Level 94)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 470 beers with an ABV greater than 5% and less than 10%.  Try 5 more for Level 95!",
+                  "created_at": "Tue, 08 Sep 2020 11:23:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 1821,
+                  "user_badge_id": 724928668,
+                  "badge_name": "Photogenic Brew  (Level 35)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 175 check-ins with a photo. ",
+                  "created_at": "Tue, 08 Sep 2020 11:23:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 133166,
+                  "user_badge_id": 724928669,
+                  "badge_name": "99 Bottles (Level 13)",
+                  "badge_description": "99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around.... That's 65 checkins with the serving style of Bottle. Try 5 more for Level 14!",
+                  "created_at": "Tue, 08 Sep 2020 11:23:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_99Bottles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_99Bottles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_99Bottles_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 93359,
+                  "user_badge_id": 724928670,
+                  "badge_name": "I Believe in IPA! (Level 74)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 370 different IPAs. Try 5 more for Level 75!",
+                  "created_at": "Tue, 08 Sep 2020 11:23:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 12109,
+                  "user_badge_id": 724928671,
+                  "badge_name": "Black as the Night (Level 2)",
+                  "badge_description": "With a bitter bite and a toasted maltiness, this dark style is a perfect combination to be enjoyed any time, day or night. That's 10 different beers with the style of IPA - Black / Cascadian Dark Ale or IPA - Imperial / Double Black. Try 5 more for Level 3!",
+                  "created_at": "Tue, 08 Sep 2020 11:23:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BlackAsTheNight_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BlackAsTheNight_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BlackAsTheNight_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 12360,
+                  "user_badge_id": 724928672,
+                  "badge_name": "The Dark Side (Level 3)",
+                  "badge_description": "At first taste, dark ales can be overwhelming for even the most skilled of beer drinkers, but your will is weak and with time you will eventually turn to the dark side. That's 15 different beers with the style of Dark Ale, Belgian Strong Dark Ale, Lager - Euro Dark, Lager - Dark, IPA - Black / Cascadian Dark Ale or IPA - Imperial / Double Black.. Try 5 more for Level 4!",
+                  "created_at": "Tue, 08 Sep 2020 11:23:20 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 939236745,
+            "created_at": "Sun, 06 Sep 2020 07:27:42 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 40404,
+              "user_name": "joelk_86",
+              "first_name": "Joel",
+              "last_name": "",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/fc28a657ad6f3888d111358e4e7a8bde?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5713537,
+              "venue_name": "Hops & Vine",
+              "venue_slug": "hops-vine",
+              "primary_category_key": "Shop & Service",
+              "primary_category": "Shop & Service",
+              "parent_category_id": "4d4b7105d754a06378d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "liquor_store",
+                    "category_name": "Liquor Store",
+                    "category_id": "4bf58dd8d48988d186941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Hall",
+                "venue_state": "ACT",
+                "venue_country": "Australia",
+                "lat": -35.1705,
+                "lng": 149.07
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5854ce2acc5b6a3de51d61cd",
+                "foursquare_url": "http://4sq.com/2hQXpd8"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 133361,
+                  "user_badge_id": 724056073,
+                  "badge_name": "For the Can (Level 8)",
+                  "badge_description": "Canning is all the rage and it's not hard to see why - travels well, more environmentally friendly, and no need to carry your bottle opener. That's 40 checkins with the serving style of Can. Try 5 more for Level 9!",
+                  "created_at": "Sun, 06 Sep 2020 07:27:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_GloryCan_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_GloryCan_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_GloryCan_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 93370,
+                  "user_badge_id": 724056074,
+                  "badge_name": "I Believe in IPA! (Level 85)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 425 different IPAs. Try 5 more for Level 86!",
+                  "created_at": "Sun, 06 Sep 2020 07:27:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 939235949,
+            "created_at": "Sun, 06 Sep 2020 07:15:25 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.75,
+            "user": {
+              "uid": 3790671,
+              "user_name": "mahislop",
+              "first_name": "Mark",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/d210c41d771b03a2ee4b21766b06120e_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 12359,
+                  "user_badge_id": 724055125,
+                  "badge_name": "The Dark Side (Level 2)",
+                  "badge_description": "At first taste, dark ales can be overwhelming for even the most skilled of beer drinkers, but your will is weak and with time you will eventually turn to the dark side. That's 10 different beers with the style of Dark Ale, Belgian Strong Dark Ale, Lager - Euro Dark, Lager - Dark, IPA - Black / Cascadian Dark Ale or IPA - Imperial / Double Black.. Try 5 more for Level 3!",
+                  "created_at": "Sun, 06 Sep 2020 07:15:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 938531845,
+            "created_at": "Sat, 05 Sep 2020 10:33:44 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "untappd-at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Everywhere",
+                "venue_country": "United States",
+                "lat": 34.2347,
+                "lng": -77.9482
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 315316436,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_05/a1e86a7ccd0597ad3897e69cbbbf1179_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_05/a1e86a7ccd0597ad3897e69cbbbf1179_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_05/a1e86a7ccd0597ad3897e69cbbbf1179_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_05/a1e86a7ccd0597ad3897e69cbbbf1179_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 418010,
+                  "user_badge_id": 723275994,
+                  "badge_name": "Untappd at Home (Level 16)",
+                  "badge_description": "Thanks for staying at home, and checking in with Untappd! It allows us to stay connected to a community of beer lovers, just like you, even if we can't be in the same physical location. From our home to yours, cheers and stay safe!",
+                  "created_at": "Sat, 05 Sep 2020 10:33:44 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_untappdAtHome_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_untappdAtHome_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_untappdAtHome_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 12361,
+                  "user_badge_id": 723275995,
+                  "badge_name": "The Dark Side (Level 4)",
+                  "badge_description": "At first taste, dark ales can be overwhelming for even the most skilled of beer drinkers, but your will is weak and with time you will eventually turn to the dark side. That's 20 different beers with the style of Dark Ale, Belgian Strong Dark Ale, Lager - Euro Dark, Lager - Dark, IPA - Black / Cascadian Dark Ale or IPA - Imperial / Double Black.. Try 5 more for Level 5!",
+                  "created_at": "Sat, 05 Sep 2020 10:33:45 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_TheDarkSide_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 937394507,
+            "created_at": "Wed, 02 Sep 2020 10:16:21 +0000",
+            "checkin_comment": "One of my favorite black IPAs",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 8203909,
+              "user_name": "Boydy86",
+              "first_name": "John",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/a6c7820c27a1ec16e6d9ff17268ecb94-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3165032,
+              "venue_name": "Higgins Shops",
+              "venue_slug": "higgins-shops",
+              "primary_category_key": "Shop & Service",
+              "primary_category": "Shop & Service",
+              "parent_category_id": "4d4b7105d754a06378d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "shopping_plaza",
+                    "category_name": "Shopping Plaza",
+                    "category_id": "5744ccdfe4b0c0459246b4dc",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Fullagar St.",
+                "venue_city": "Higgins",
+                "venue_state": "ACT",
+                "venue_country": "Australia",
+                "lat": -35.2314,
+                "lng": 149.027
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4ba34dd8f964a520453438e3",
+                "foursquare_url": "http://4sq.com/cvb5OX"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/shops/mall_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/shops/mall_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/shops/mall_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 314742845,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_02/1d25b7f65cd97f876d5cacaf19bb53de_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_02/1d25b7f65cd97f876d5cacaf19bb53de_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_02/1d25b7f65cd97f876d5cacaf19bb53de_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_02/1d25b7f65cd97f876d5cacaf19bb53de_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 60,
+                  "user_badge_id": 721989266,
+                  "badge_name": "I Believe in IPA!",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 5 different IPAs. Try 5 more for Level 2!\n",
+                  "created_at": "Wed, 02 Sep 2020 10:16:22 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 936568626,
+            "created_at": "Sun, 30 Aug 2020 10:03:49 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 48160,
+              "user_name": "jord",
+              "first_name": "jord",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/fdc81e917cdcb60b7a41e8cd50a3a3d9_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "untappd-at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Everywhere",
+                "venue_country": "United States",
+                "lat": 34.2347,
+                "lng": -77.9482
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 936566570,
+            "created_at": "Sun, 30 Aug 2020 09:30:43 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 29030,
+              "user_name": "Tipples",
+              "first_name": "Leon",
+              "last_name": "S.",
+              "location": "Melbourne",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/f33416ecd879b427aef4955efe2850ee_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1557584,
+              "beer_name": "Black Diamond",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1557584_e158a_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 60,
+              "beer_slug": "bright-brewery-black-diamond",
+              "beer_description": "Bright Brewery's first India Black Ale is a tribute to the Black Diamond ski runs of Victoria's alpine snow resorts. Slide into smooth layers of earthy and herbal hops, which provide a bold flavour with notes of citrus and pine. Enjoy a clean roast malt finish that will leave you wanting more.",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 3678,
+              "brewery_name": "Bright Brewery",
+              "brewery_slug": "bright-brewery",
+              "brewery_page_url": "/BrightBrewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3678_d101d.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "brightbrewery",
+                "facebook": "http://www.facebook.com/brightbrewery",
+                "url": "http://www.brightbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Bright",
+                "brewery_state": "VIC",
+                "lat": -36.7296,
+                "lng": 146.979
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "untappd-at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Everywhere",
+                "venue_country": "United States",
+                "lat": 34.2347,
+                "lng": -77.9482
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 34171,
+                  "user": {
+                    "uid": 34171,
+                    "user_name": "vicbeeroclock",
+                    "first_name": "VBOC",
+                    "last_name": "",
+                    "bio": "A Bloke from the Bush.",
+                    "location": "The Bush",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/206fe01cd89139ed5a3d1fd5e1365eeb_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 877833963,
+                  "like_owner": false,
+                  "created_at": "Sun, 30 Aug 2020 09:35:37 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 418020,
+                  "user_badge_id": 721073550,
+                  "badge_name": "Untappd at Home (Level 26)",
+                  "badge_description": "Thanks for staying at home, and checking in with Untappd! It allows us to stay connected to a community of beer lovers, just like you, even if we can't be in the same physical location. From our home to yours, cheers and stay safe!",
+                  "created_at": "Sun, 30 Aug 2020 09:30:43 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_untappdAtHome_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_untappdAtHome_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_untappdAtHome_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/1557584?max_id=936566570",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/1557584?max_id=936566570",
+          "max_id": 936566570
+        }
+      },
+      "similar": {
+        "method": "es",
+        "count": 4,
+        "items": [
+          {
+            "rating_score": 4.16489,
+            "beer": {
+              "bid": 3966840,
+              "beer_name": "DAWN PATROL",
+              "beer_abv": 8.1,
+              "beer_ibu": 0,
+              "beer_slug": "mr-banks-brewing-co-dawn-patrol",
+              "beer_style": "IPA - Imperial / Double",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3966840_1e802_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Mr Banks Brewing Co.",
+              "brewery_slug": "mr-banks-brewing-co",
+              "brewery_page_url": "/MrBanksBrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-274053_fd933.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://Mrbanksbrewing",
+                "instagram": "https://www.facebook.com/mrbanksbrewing",
+                "url": "http://www.mrbanksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.0484,
+            "beer": {
+              "bid": 3964792,
+              "beer_name": "Bloodzilla",
+              "beer_abv": 8,
+              "beer_ibu": 0,
+              "beer_slug": "dainton-brewery-bloodzilla",
+              "beer_style": "IPA - Imperial / Double New England",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 73736,
+              "brewery_name": "Dainton Brewery",
+              "brewery_slug": "dainton-brewery",
+              "brewery_page_url": "/DaintonFamilyBrewery",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-73736_94c9e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "danthebrewman",
+                "facebook": "https://www.facebook.com/dainton.beer",
+                "instagram": "dainton.beer",
+                "url": "http://www.dainton.beer"
+              },
+              "location": {
+                "brewery_city": "Carrum Downs",
+                "brewery_state": "Victoria",
+                "lat": -38.1014,
+                "lng": 145.17
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.74697,
+            "beer": {
+              "bid": 2422272,
+              "beer_name": "Anthem IPA",
+              "beer_abv": 6.2,
+              "beer_ibu": 55,
+              "beer_slug": "otherside-brewing-co-anthem-ipa",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2422272_5e9fc_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 258361,
+              "brewery_name": "Otherside Brewing Co.",
+              "brewery_slug": "otherside-brewing-co",
+              "brewery_page_url": "/Otherside",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-258361_e94df.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/pg/othersidebrewingco",
+                "instagram": "Otherside_co",
+                "url": "https://www.othersidebrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Myaree",
+                "brewery_state": "WA",
+                "lat": -32.0422,
+                "lng": 115.821
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.92292,
+            "beer": {
+              "bid": 210694,
+              "beer_name": "Hell Hound IBA",
+              "beer_abv": 7,
+              "beer_ibu": 80,
+              "beer_slug": "black-dog-brewery-hell-hound-iba",
+              "beer_style": "IPA - Black / Cascadian Dark Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-_210694_sm_481346fdedaf8f2a9fbf9175719117.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 16212,
+              "brewery_name": "Black Dog Brewery ",
+              "brewery_slug": "black-dog-brewery",
+              "brewery_page_url": "/blackdogbreweryaus",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-BlackDogBrewery_16212.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "thehowlinghound",
+                "facebook": "http://www.facebook.com/pages/Black-Dog-Brewery/269895509709107",
+                "instagram": "thehowlinghound",
+                "url": "http://blackdogbrewery.com.au"
+              },
+              "location": {
+                "brewery_city": "Taminick",
+                "brewery_state": "VIC",
+                "lat": -36.3776,
+                "lng": 146.185
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.75966,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

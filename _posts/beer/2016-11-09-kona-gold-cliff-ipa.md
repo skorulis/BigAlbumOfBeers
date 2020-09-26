@@ -9,7 +9,7 @@ brewery: "Kona Brewing Company"
 breweryURL: "/brewery/kona-brewing-company.html"
 style: "IPA - American"
 score: 7.5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/82168275_10157812393798745_2510664970153230336_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=E1_yh667zu0AX_kWRTD&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=779227d5fe81db06effc1b2fe763875d&oe=5F49AED4
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t1.0-0/p480x480/82168275_10157812393798745_2510664970153230336_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=xdZzGkO2YzQAX9Qdbsj&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=b6fa34f8837c47850a5bc4469ade7137&oe=5F94D454
 beer-date: "2020-01-16"
 desc: "Very tropical but not bitter enough to have problems with food"
 permalink: /beer/:title.html

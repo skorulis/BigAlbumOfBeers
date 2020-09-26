@@ -9,7 +9,7 @@ brewery: "The Kernel Brewery"
 breweryURL: "/brewery/the-kernel-brewery.html"
 style: "IPA - American"
 score: 6
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/18815337_10155271708358745_1698142376961599388_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=DKUZ8GuBaSUAX--w9q1&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=22fc9cbdcdb4d480340567392be20503&oe=5F4AC911
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/18815337_10155271708358745_1698142376961599388_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=9s6kK44XrmcAX8ZlJ6p&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=7e17356621cdf5e1ded294bbce50c873&oe=5F95EE91
 beer-date: "2017-06-02"
 desc: "It's a very ugly looking IPA. Initially very bitter but that faded. Mostly pine aroma but not much hop flavour coming through. It’s a decent IPA but doesn’t go further than that"
 permalink: /beer/:title.html

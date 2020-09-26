@@ -1,0 +1,3574 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.146,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 3967848,
+      "beer_name": "Slam Dank Triple IPA",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 10.2,
+      "beer_ibu": 82,
+      "beer_description": "",
+      "beer_style": "IPA - Triple",
+      "is_in_production": 1,
+      "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+      "is_homebrew": 0,
+      "created_at": "Thu, 17 Sep 2020 21:18:28 +0000",
+      "rating_count": 51,
+      "rating_score": 3.96667,
+      "stats": {
+        "total_count": 82,
+        "monthly_count": 82,
+        "total_user_count": 78,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 266075,
+        "brewery_name": "Capital Brewing Co",
+        "brewery_slug": "capital-brewing-co",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/CapitalBrewingCo",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "",
+          "facebook": "http://www.facebook.com/capitalbrewing",
+          "url": "http://www.capitalbrewing.co"
+        },
+        "location": {
+          "brewery_city": "Fyshwick",
+          "brewery_state": "Australian Capital Territory",
+          "lat": -35.3209,
+          "lng": 149.165
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 319295089,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_26/19974dad6fc17c00cd6d354342fa7f28_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_26/19974dad6fc17c00cd6d354342fa7f28_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_26/19974dad6fc17c00cd6d354342fa7f28_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_26/19974dad6fc17c00cd6d354342fa7f28_raw.jpg"
+            },
+            "created_at": "Sat, 26 Sep 2020 08:49:35 +0000",
+            "checkin_id": 946526940,
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 248,
+              "beer_style": "IPA - Triple",
+              "rating_score": 3.967,
+              "rating_count": 51,
+              "count": 51,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4062029,
+              "user_name": "AyeTheRubbs",
+              "first_name": "Scott",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/c989200b52dbef98f68b30ba6167ecc2_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10244317,
+                "venue_name": "Rusty Mals",
+                "venue_slug": "rusty-mals",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "pizza_place",
+                      "category_name": "Pizza Place",
+                      "category_id": "4bf58dd8d48988d1ca941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "14 Hackett Place",
+                  "venue_city": "Hackett",
+                  "venue_state": "ACT",
+                  "lat": -35.2485,
+                  "lng": 149.163
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5f66d9ada627503fae7cdfee",
+                  "foursquare_url": "https://4sq.com/2ZQk8dS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 319294518,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_26/29dd716317b0ffad36ec4e3c90f72d92_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_26/29dd716317b0ffad36ec4e3c90f72d92_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_26/29dd716317b0ffad36ec4e3c90f72d92_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_26/29dd716317b0ffad36ec4e3c90f72d92_raw.jpg"
+            },
+            "created_at": "Sat, 26 Sep 2020 08:33:41 +0000",
+            "checkin_id": 946525847,
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 248,
+              "beer_style": "IPA - Triple",
+              "rating_score": 3.967,
+              "rating_count": 51,
+              "count": 51,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4014685,
+              "user_name": "Joshbw",
+              "first_name": "Joshua",
+              "last_name": "W",
+              "user_avatar": "https://untappd.akamaized.net/profile/11243d3ea1e8df7f76658c3e2a145cf9_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4738478,
+                "venue_name": "The Pedlar",
+                "venue_slug": "the-pedlar",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "residential_building_apartment_condo",
+                      "category_name": "Residential Building (Apartment / Condo)",
+                      "category_id": "4d954b06a243a5684965b473",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "65 Constitution Ave",
+                  "venue_city": "",
+                  "venue_state": "Australian Capital Territory",
+                  "lat": -35.2912,
+                  "lng": 149.145
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://thepedlar.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "572d4641498e09865840b5e7",
+                  "foursquare_url": "http://4sq.com/1YdU9DR"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 319293573,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_26/97116482d463fa7b7c817acc6ebd6e7e_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_26/97116482d463fa7b7c817acc6ebd6e7e_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_26/97116482d463fa7b7c817acc6ebd6e7e_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_26/97116482d463fa7b7c817acc6ebd6e7e_raw.jpg"
+            },
+            "created_at": "Sat, 26 Sep 2020 08:05:47 +0000",
+            "checkin_id": 946523962,
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 248,
+              "beer_style": "IPA - Triple",
+              "rating_score": 3.967,
+              "rating_count": 51,
+              "count": 51,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4308714,
+                "venue_name": "The Noble Hops",
+                "venue_slug": "the-noble-hops",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "125 Redfern St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.8925,
+                  "lng": 151.202
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "www.thenoblehops.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "56a8328f498e990781045e02",
+                  "foursquare_url": "http://4sq.com/1ZRDntN"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 319278796,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_26/27769a0a143d9466a401cb008a4cf3ef_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_26/27769a0a143d9466a401cb008a4cf3ef_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_26/27769a0a143d9466a401cb008a4cf3ef_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_26/27769a0a143d9466a401cb008a4cf3ef_raw.jpg"
+            },
+            "created_at": "Sat, 26 Sep 2020 03:36:38 +0000",
+            "checkin_id": 946490827,
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 248,
+              "beer_style": "IPA - Triple",
+              "rating_score": 3.967,
+              "rating_count": 51,
+              "count": 51,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6764683,
+              "user_name": "jjhunter14",
+              "first_name": "Josh",
+              "last_name": "H",
+              "user_avatar": "https://untappd.akamaized.net/profile/3d45fb3a938db8f981399ca044cc04d1_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 6736755,
+                "venue_name": "Capital Brewing Co",
+                "venue_slug": "capital-brewing-co",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Building 3/1 Dairy Rd",
+                  "venue_city": "Fyshwick",
+                  "venue_state": "Australian Capital Territory",
+                  "lat": -35.3219,
+                  "lng": 149.164
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.capitalbrewing.co/"
+                },
+                "foursquare": {
+                  "foursquare_id": "59b34fec35811b271f701b44",
+                  "foursquare_url": "http://4sq.com/2xcmuG7"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 319019395,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/f92af19ad70e8ddce26e2d438158302a_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/f92af19ad70e8ddce26e2d438158302a_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/f92af19ad70e8ddce26e2d438158302a_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/f92af19ad70e8ddce26e2d438158302a_raw.jpg"
+            },
+            "created_at": "Fri, 25 Sep 2020 09:10:38 +0000",
+            "checkin_id": 945977085,
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 248,
+              "beer_style": "IPA - Triple",
+              "rating_score": 3.967,
+              "rating_count": 51,
+              "count": 51,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1956114,
+              "user_name": "lauramarsh7399",
+              "first_name": "CapitalBrewsGal",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/ca424a1b6737bc3c6232d0615840ff2e_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 6736755,
+                "venue_name": "Capital Brewing Co",
+                "venue_slug": "capital-brewing-co",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Building 3/1 Dairy Rd",
+                  "venue_city": "Fyshwick",
+                  "venue_state": "Australian Capital Territory",
+                  "lat": -35.3219,
+                  "lng": 149.164
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.capitalbrewing.co/"
+                },
+                "foursquare": {
+                  "foursquare_id": "59b34fec35811b271f701b44",
+                  "foursquare_url": "http://4sq.com/2xcmuG7"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 319018374,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/c1f974dbeb4a8b4c82f0971b6cb85b30_200x200.jpeg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/c1f974dbeb4a8b4c82f0971b6cb85b30_640x640.jpeg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/c1f974dbeb4a8b4c82f0971b6cb85b30_1280x1280.jpeg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/c1f974dbeb4a8b4c82f0971b6cb85b30_raw.jpeg"
+            },
+            "created_at": "Fri, 25 Sep 2020 08:26:38 +0000",
+            "checkin_id": 945975109,
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 248,
+              "beer_style": "IPA - Triple",
+              "rating_score": 3.967,
+              "rating_count": 51,
+              "count": 51,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3198257,
+              "user_name": "bjd80",
+              "first_name": "Ben",
+              "last_name": "D",
+              "user_avatar": "https://untappd.akamaized.net/profile/2543c0221e401c6e7a58f4fa94f4d28d_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4009249,
+                "venue_name": "Beer DeLuxe - King St Wharf",
+                "venue_slug": "beer-deluxe",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "9 Lime St",
+                  "venue_city": "Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.8664,
+                  "lng": 151.201
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://beerdeluxe.com.au/king-street-wharf/"
+                },
+                "foursquare": {
+                  "foursquare_id": "5667972f498e360d3e2729a4",
+                  "foursquare_url": "http://4sq.com/1PXg1To"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_4009249_3d216278_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_4009249_3d216278_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_4009249_3d216278_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 319017519,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/ed86f0689a99876f9eceeb4f4877343e_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/ed86f0689a99876f9eceeb4f4877343e_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/ed86f0689a99876f9eceeb4f4877343e_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/ed86f0689a99876f9eceeb4f4877343e_raw.jpg"
+            },
+            "created_at": "Fri, 25 Sep 2020 07:46:37 +0000",
+            "checkin_id": 945973464,
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 248,
+              "beer_style": "IPA - Triple",
+              "rating_score": 3.967,
+              "rating_count": 51,
+              "count": 51,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2368410,
+              "user_name": "Curtamerosis",
+              "first_name": "Curtis",
+              "last_name": "P",
+              "user_avatar": "https://untappd.akamaized.net/profile/8d9c9d06b12ad8c1cbb221134e5c538d_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5180540,
+                "venue_name": "Casey Jones Gastropub",
+                "venue_slug": "casey-jones-gastropub",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "gastropub",
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "shopping_mall",
+                      "category_name": "Shopping Mall",
+                      "category_id": "4bf58dd8d48988d1fd941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "15 Kingsland Parade",
+                  "venue_city": "Casey",
+                  "venue_state": "ACT",
+                  "lat": -35.1743,
+                  "lng": 149.096
+                },
+                "contact": {
+                  "twitter": "@caseyjonespub",
+                  "venue_url": "http://caseyjones.pub"
+                },
+                "foursquare": {
+                  "foursquare_id": "577db972498e04ebfd808d86",
+                  "foursquare_url": "http://4sq.com/29ogfD6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 319016468,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/133239469ae66225cf59a1921cf9bcca_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/133239469ae66225cf59a1921cf9bcca_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/133239469ae66225cf59a1921cf9bcca_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/133239469ae66225cf59a1921cf9bcca_raw.jpg"
+            },
+            "created_at": "Fri, 25 Sep 2020 06:56:36 +0000",
+            "checkin_id": 945971372,
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 248,
+              "beer_style": "IPA - Triple",
+              "rating_score": 3.967,
+              "rating_count": 51,
+              "count": 51,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7254774,
+              "user_name": "Tobeornottobe",
+              "first_name": "Tobey",
+              "last_name": "Y",
+              "user_avatar": "https://gravatar.com/avatar/0f724349366597df573e007f2cbc8a9e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4738478,
+                "venue_name": "The Pedlar",
+                "venue_slug": "the-pedlar",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "residential_building_apartment_condo",
+                      "category_name": "Residential Building (Apartment / Condo)",
+                      "category_id": "4d954b06a243a5684965b473",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "65 Constitution Ave",
+                  "venue_city": "",
+                  "venue_state": "Australian Capital Territory",
+                  "lat": -35.2912,
+                  "lng": 149.145
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://thepedlar.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "572d4641498e09865840b5e7",
+                  "foursquare_url": "http://4sq.com/1YdU9DR"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 318866806,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_24/77e06b950c08c1734e93946e63a462a8_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_24/77e06b950c08c1734e93946e63a462a8_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_24/77e06b950c08c1734e93946e63a462a8_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_24/77e06b950c08c1734e93946e63a462a8_raw.jpg"
+            },
+            "created_at": "Thu, 24 Sep 2020 06:32:45 +0000",
+            "checkin_id": 945668394,
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 248,
+              "beer_style": "IPA - Triple",
+              "rating_score": 3.967,
+              "rating_count": 51,
+              "count": 51,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5847791,
+              "user_name": "SpatialMedia",
+              "first_name": "Spatial",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/f738b200055412f6e5728f560362db6b_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4308714,
+                "venue_name": "The Noble Hops",
+                "venue_slug": "the-noble-hops",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "125 Redfern St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.8925,
+                  "lng": 151.202
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "www.thenoblehops.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "56a8328f498e990781045e02",
+                  "foursquare_url": "http://4sq.com/1ZRDntN"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 318866787,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_24/b34b73b71e2819fea93bab3e2b2be36f_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_24/b34b73b71e2819fea93bab3e2b2be36f_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_24/b34b73b71e2819fea93bab3e2b2be36f_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_24/b34b73b71e2819fea93bab3e2b2be36f_raw.jpg"
+            },
+            "created_at": "Thu, 24 Sep 2020 06:31:40 +0000",
+            "checkin_id": 945668358,
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 248,
+              "beer_style": "IPA - Triple",
+              "rating_score": 3.967,
+              "rating_count": 51,
+              "count": 51,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6227715,
+              "user_name": "fnmccrea",
+              "first_name": "Nikki",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/70595e053dcdaf953155869de10c8c36_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4308714,
+                "venue_name": "The Noble Hops",
+                "venue_slug": "the-noble-hops",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "125 Redfern St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.8925,
+                  "lng": 151.202
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "www.thenoblehops.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "56a8328f498e990781045e02",
+                  "foursquare_url": "http://4sq.com/1ZRDntN"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 946530395,
+            "created_at": "Sat, 26 Sep 2020 09:33:23 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 8287781,
+              "user_name": "jeaslouise_94",
+              "first_name": "Jess",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/980e5026b34ecb2545b0e8f51c79241a?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2927523,
+              "venue_name": "The Monkey Bar",
+              "venue_slug": "the-monkey-bar",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "cocktail_bar",
+                    "category_name": "Cocktail Bar",
+                    "category_id": "4bf58dd8d48988d11e941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "24 Wingewarra St",
+                "venue_city": "Dubbo",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -32.2488,
+                "lng": 148.602
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "www.themonkeybar.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4cdcec7d5aeda1cd54aac511",
+                "foursquare_url": "http://4sq.com/cWDpPy"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_2927523_0dcc7645_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_2927523_0dcc7645_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_2927523_0dcc7645_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 23,
+                  "user_badge_id": 732127446,
+                  "badge_name": "Night Out",
+                  "badge_description": "Enjoying a nice Night Out on the town? Thanks for taking untappd along.",
+                  "created_at": "Sat, 26 Sep 2020 09:33:23 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_barCrawl_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_barCrawl_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_barCrawl_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 1,
+                  "user_badge_id": 732127447,
+                  "badge_name": "Newbie",
+                  "badge_description": "So, you're new around here? Congrats on your first brew! This one's for you.",
+                  "created_at": "Sat, 26 Sep 2020 09:33:23 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_newbie_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_newbie_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_newbie_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 946529975,
+            "created_at": "Sat, 26 Sep 2020 09:28:18 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 5912089,
+              "user_name": "CGibso",
+              "first_name": "Corey",
+              "last_name": "G.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/2b7fb281710a3e78d8fd67f0d58585ff?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 6180,
+                  "user_badge_id": 732126993,
+                  "badge_name": "Cheers To You! (Level 2)",
+                  "badge_description": "Happy Untappd anniversary to you! Thanks for sticking around and drinking socially with us. Cheers! That's 2 years on Untappd!",
+                  "created_at": "Sat, 26 Sep 2020 09:28:18 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HeresToYou_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HeresToYou_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HeresToYou_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 243497,
+                  "user_badge_id": 732126994,
+                  "badge_name": "Brewery Pioneer (Level 2)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 10 different breweries. Try 5 more for Level 3!",
+                  "created_at": "Sat, 26 Sep 2020 09:28:18 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 946527413,
+            "created_at": "Sat, 26 Sep 2020 08:55:51 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 3191465,
+              "user_name": "Shimbabwe",
+              "first_name": "Seamus",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/51cff823e811bfe50f699b8cc33d5a73_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2927523,
+              "venue_name": "The Monkey Bar",
+              "venue_slug": "the-monkey-bar",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "cocktail_bar",
+                    "category_name": "Cocktail Bar",
+                    "category_id": "4bf58dd8d48988d11e941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "24 Wingewarra St",
+                "venue_city": "Dubbo",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -32.2488,
+                "lng": 148.602
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "www.themonkeybar.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4cdcec7d5aeda1cd54aac511",
+                "foursquare_url": "http://4sq.com/cWDpPy"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_2927523_0dcc7645_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_2927523_0dcc7645_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_2927523_0dcc7645_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 3207,
+                  "user_badge_id": 732124305,
+                  "badge_name": "Sky's the Limit (Level 2)",
+                  "badge_description": "You don't always intend to go for beers with a double digit ABV, but when you do, you make it count! Cheers to you, but be careful, 10% and up can really pack a punch. That's 10 different beers with an ABV of 10% and up. Try 5 more for Level 3!",
+                  "created_at": "Sat, 26 Sep 2020 08:55:52 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_highABV_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_highABV_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_highABV_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3362,
+                  "user_badge_id": 732124306,
+                  "badge_name": "Hopped Up (Level 5)",
+                  "badge_description": "Load up those hops, watch the IBU grow and drink it down! Now you’re all hopped up. The more bitter, the better. That's 25 different beers with an IBU of 65 or higher. Try 5 more for Level 6!",
+                  "created_at": "Sat, 26 Sep 2020 08:55:52 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedUp_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedUp_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedUp_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2604,
+                  "user_badge_id": 732124307,
+                  "badge_name": "I Believe in IPA! (Level 18)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 90 different IPAs. Try 5 more for Level 19!",
+                  "created_at": "Sat, 26 Sep 2020 08:55:52 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 946526940,
+            "created_at": "Sat, 26 Sep 2020 08:48:31 +0000",
+            "checkin_comment": "Full flavour, light body, dried fruit and citrus peel, dank and strong dry bitter that lingers.",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 4062029,
+              "user_name": "AyeTheRubbs",
+              "first_name": "Scott",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/c989200b52dbef98f68b30ba6167ecc2_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10244317,
+              "venue_name": "Rusty Mals",
+              "venue_slug": "rusty-mals",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pizza_place",
+                    "category_name": "Pizza Place",
+                    "category_id": "4bf58dd8d48988d1ca941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "14 Hackett Place",
+                "venue_city": "Hackett",
+                "venue_state": "ACT",
+                "venue_country": "Australia",
+                "lat": -35.2485,
+                "lng": 149.163
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5f66d9ada627503fae7cdfee",
+                "foursquare_url": "https://4sq.com/2ZQk8dS"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3217073,
+                  "user": {
+                    "uid": 3217073,
+                    "user_name": "Chris4262",
+                    "first_name": "Chris",
+                    "last_name": "S.",
+                    "bio": "",
+                    "location": "Canberra",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b0ad8a0a97b8d52e4c3af0b4ea064aa4_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 891012199,
+                  "like_owner": false,
+                  "created_at": "Sat, 26 Sep 2020 08:49:15 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 319295089,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_26/19974dad6fc17c00cd6d354342fa7f28_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_26/19974dad6fc17c00cd6d354342fa7f28_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_26/19974dad6fc17c00cd6d354342fa7f28_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_26/19974dad6fc17c00cd6d354342fa7f28_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 12065,
+                  "user_badge_id": 732123789,
+                  "badge_name": "Beer Foodie (Level 8)",
+                  "badge_description": "Wine isn't the only beverage worthy of pairing with a delicious meal. With so many styles widely available, there’s a perfect pint for any cuisine of your choosing. That's a beer at 40 different venues categorized as a Restaurant. Try 5 more for Level 9!",
+                  "created_at": "Sat, 26 Sep 2020 08:48:32 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3207,
+                  "user_badge_id": 732123790,
+                  "badge_name": "Sky's the Limit (Level 2)",
+                  "badge_description": "You don't always intend to go for beers with a double digit ABV, but when you do, you make it count! Cheers to you, but be careful, 10% and up can really pack a punch. That's 10 different beers with an ABV of 10% and up. Try 5 more for Level 3!",
+                  "created_at": "Sat, 26 Sep 2020 08:48:32 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_highABV_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_highABV_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_highABV_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 946525847,
+            "created_at": "Sat, 26 Sep 2020 08:32:52 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 4014685,
+              "user_name": "Joshbw",
+              "first_name": "Joshua",
+              "last_name": "W.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/11243d3ea1e8df7f76658c3e2a145cf9_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4738478,
+              "venue_name": "The Pedlar",
+              "venue_slug": "the-pedlar",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "residential_building_apartment_condo",
+                    "category_name": "Residential Building (Apartment / Condo)",
+                    "category_id": "4d954b06a243a5684965b473",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "65 Constitution Ave",
+                "venue_city": "",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.2912,
+                "lng": 149.145
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://thepedlar.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "572d4641498e09865840b5e7",
+                "foursquare_url": "http://4sq.com/1YdU9DR"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 319294518,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_26/29dd716317b0ffad36ec4e3c90f72d92_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_26/29dd716317b0ffad36ec4e3c90f72d92_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_26/29dd716317b0ffad36ec4e3c90f72d92_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_26/29dd716317b0ffad36ec4e3c90f72d92_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 789,
+                  "user_badge_id": 732122574,
+                  "badge_name": "Photogenic Brew (Level 4)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 20 check-ins with a photo. ",
+                  "created_at": "Sat, 26 Sep 2020 08:32:52 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 946523962,
+            "created_at": "Sat, 26 Sep 2020 08:05:25 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4308714,
+              "venue_name": "The Noble Hops",
+              "venue_slug": "the-noble-hops",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "125 Redfern St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8925,
+                "lng": 151.202
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "www.thenoblehops.com"
+              },
+              "foursquare": {
+                "foursquare_id": "56a8328f498e990781045e02",
+                "foursquare_url": "http://4sq.com/1ZRDntN"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_4308714_c188e55a_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 319293573,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_26/97116482d463fa7b7c817acc6ebd6e7e_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_26/97116482d463fa7b7c817acc6ebd6e7e_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_26/97116482d463fa7b7c817acc6ebd6e7e_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_26/97116482d463fa7b7c817acc6ebd6e7e_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3209,
+                  "user_badge_id": 732120516,
+                  "badge_name": "Sky's the Limit (Level 4)",
+                  "badge_description": "You don't always intend to go for beers with a double digit ABV, but when you do, you make it count! Cheers to you, but be careful, 10% and up can really pack a punch. That's 20 different beers with an ABV of 10% and up. Try 5 more for Level 5!",
+                  "created_at": "Sat, 26 Sep 2020 08:05:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_highABV_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_highABV_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_highABV_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 946521484,
+            "created_at": "Sat, 26 Sep 2020 07:31:12 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 4675443,
+              "user_name": "bertiekerr",
+              "first_name": "Robert",
+              "last_name": "K.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/8eda1ff131be08d3767aaf0fc2de92e8_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "untappd-at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Everywhere",
+                "venue_country": "United States",
+                "lat": 34.2347,
+                "lng": -77.9482
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 417997,
+                  "user_badge_id": 732117890,
+                  "badge_name": "Untappd at Home (Level 3)",
+                  "badge_description": "Thanks for staying at home, and checking in with Untappd! It allows us to stay connected to a community of beer lovers, just like you, even if we can't be in the same physical location. From our home to yours, cheers and stay safe!",
+                  "created_at": "Sat, 26 Sep 2020 07:31:12 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_untappdAtHome_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_untappdAtHome_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_untappdAtHome_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 946513673,
+            "created_at": "Sat, 26 Sep 2020 05:52:00 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 994340,
+              "user_name": "philclement",
+              "first_name": "Phil",
+              "last_name": "C.",
+              "location": "Sydney, Australia",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "ALL THE BEERS",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/d21b1918043ed8bf1290708f685c5696_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 1332593,
+              "venue_name": "Bitter Phew",
+              "venue_slug": "bitter-phew",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "137 Oxford St, 1",
+                "venue_city": "Darlinghurst",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8797,
+                "lng": 151.216
+              },
+              "contact": {
+                "twitter": "@BitterPhew",
+                "venue_url": "http://www.bitterphew.com"
+              },
+              "foursquare": {
+                "foursquare_id": "52ca2816498e24e493c6cdff",
+                "foursquare_url": "http://4sq.com/19YxcdU"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_1332593_e514007f_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_1332593_e514007f_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_1332593_e514007f_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 3220,
+                  "user_badge_id": 732109454,
+                  "badge_name": "Sky's the Limit (Level 15)",
+                  "badge_description": "You don't always intend to go for beers with a double digit ABV, but when you do, you make it count! Cheers to you, but be careful, 10% and up can really pack a punch. That's 75 different beers with an ABV of 10% and up. Try 5 more for Level 16!",
+                  "created_at": "Sat, 26 Sep 2020 05:52:00 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_highABV_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_highABV_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_highABV_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 92539,
+                  "user_badge_id": 732109455,
+                  "badge_name": "Hopped Up (Level 54)",
+                  "badge_description": "Load up those hops, watch the IBU grow and drink it down! Now you’re all hopped up. The more bitter, the better. That's 270 different beers with an IBU of 65 or higher.  Try 5 more for Level 55!",
+                  "created_at": "Sat, 26 Sep 2020 05:52:00 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedUp_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedUp_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedUp_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 946490827,
+            "created_at": "Sat, 26 Sep 2020 03:36:15 +0000",
+            "checkin_comment": "Strong as an MJ breakaway slam dunk",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 6764683,
+              "user_name": "jjhunter14",
+              "first_name": "Josh",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/3d45fb3a938db8f981399ca044cc04d1_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 6736755,
+              "venue_name": "Capital Brewing Co",
+              "venue_slug": "capital-brewing-co",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 3/1 Dairy Rd",
+                "venue_city": "Fyshwick",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.3219,
+                "lng": 149.164
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.capitalbrewing.co/"
+              },
+              "foursquare": {
+                "foursquare_id": "59b34fec35811b271f701b44",
+                "foursquare_url": "http://4sq.com/2xcmuG7"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 319278796,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_26/27769a0a143d9466a401cb008a4cf3ef_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_26/27769a0a143d9466a401cb008a4cf3ef_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_26/27769a0a143d9466a401cb008a4cf3ef_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_26/27769a0a143d9466a401cb008a4cf3ef_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133257,
+                  "user_badge_id": 732085893,
+                  "badge_name": "Draft City (Level 4)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 20 checkins with the serving style of Draft. Try 5 more for Level 5!",
+                  "created_at": "Sat, 26 Sep 2020 03:36:16 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DraftCity_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 945979442,
+            "created_at": "Fri, 25 Sep 2020 09:54:43 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 3044078,
+              "user_name": "Joels91",
+              "first_name": "Joel",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/e9be0250abbea36ce023b75e9cd43aba?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 1332593,
+              "venue_name": "Bitter Phew",
+              "venue_slug": "bitter-phew",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "137 Oxford St, 1",
+                "venue_city": "Darlinghurst",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8797,
+                "lng": 151.216
+              },
+              "contact": {
+                "twitter": "@BitterPhew",
+                "venue_url": "http://www.bitterphew.com"
+              },
+              "foursquare": {
+                "foursquare_id": "52ca2816498e24e493c6cdff",
+                "foursquare_url": "http://4sq.com/19YxcdU"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_1332593_e514007f_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_1332593_e514007f_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_1332593_e514007f_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3381,
+                  "user_badge_id": 731507175,
+                  "badge_name": "Hopped Up (Level 24)",
+                  "badge_description": "Load up those hops, watch the IBU grow and drink it down! Now you’re all hopped up. The more bitter, the better. That's 120 different beers with an IBU of 65 or higher. Try 5 more for Level 25!",
+                  "created_at": "Fri, 25 Sep 2020 09:54:44 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_HoppedUp_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_HoppedUp_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_HoppedUp_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 945977085,
+            "created_at": "Fri, 25 Sep 2020 09:09:53 +0000",
+            "checkin_comment": "It's nice to be out at a brewery",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1956114,
+              "user_name": "lauramarsh7399",
+              "first_name": "CapitalBrewsGal",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/ca424a1b6737bc3c6232d0615840ff2e_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 6736755,
+              "venue_name": "Capital Brewing Co",
+              "venue_slug": "capital-brewing-co",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 3/1 Dairy Rd",
+                "venue_city": "Fyshwick",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.3219,
+                "lng": 149.164
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.capitalbrewing.co/"
+              },
+              "foursquare": {
+                "foursquare_id": "59b34fec35811b271f701b44",
+                "foursquare_url": "http://4sq.com/2xcmuG7"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 319019395,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/f92af19ad70e8ddce26e2d438158302a_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/f92af19ad70e8ddce26e2d438158302a_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/f92af19ad70e8ddce26e2d438158302a_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/f92af19ad70e8ddce26e2d438158302a_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 945977027,
+            "created_at": "Fri, 25 Sep 2020 09:08:39 +0000",
+            "checkin_comment": "Very nice",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 8111770,
+              "user_name": "bradley_wilken_6165",
+              "first_name": "Bradley",
+              "last_name": "W.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/26e211532dc753523e3fbea5980450c2-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 6736755,
+              "venue_name": "Capital Brewing Co",
+              "venue_slug": "capital-brewing-co",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Building 3/1 Dairy Rd",
+                "venue_city": "Fyshwick",
+                "venue_state": "Australian Capital Territory",
+                "venue_country": "Australia",
+                "lat": -35.3219,
+                "lng": 149.164
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.capitalbrewing.co/"
+              },
+              "foursquare": {
+                "foursquare_id": "59b34fec35811b271f701b44",
+                "foursquare_url": "http://4sq.com/2xcmuG7"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_6736755_0eca4756_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 23,
+                  "user_badge_id": 731504373,
+                  "badge_name": "Night Out",
+                  "badge_description": "Enjoying a nice Night Out on the town? Thanks for taking untappd along.",
+                  "created_at": "Fri, 25 Sep 2020 09:08:39 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_barCrawl_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_barCrawl_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_barCrawl_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5633,
+                  "user_badge_id": 731504374,
+                  "badge_name": "Wheel of Styles (Level 4)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 20 different styles. Try 5 more for Level 5!",
+                  "created_at": "Fri, 25 Sep 2020 09:08:39 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 945976841,
+            "created_at": "Fri, 25 Sep 2020 09:04:25 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 777142,
+              "user_name": "aberthelsen",
+              "first_name": "Andrew",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/fa3530cf77d50e68e3440b706c7e2e18?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 640387,
+              "venue_name": "Basement Brewhouse",
+              "venue_slug": "basement-brewhouse",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "sports_bar",
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "general_entertainment",
+                    "category_name": "General Entertainment",
+                    "category_id": "4bf58dd8d48988d1f1931735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "8 Greenfield Parade",
+                "venue_city": "Bankstown",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.9196,
+                "lng": 151.034
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.bankstownsports.com/brewhouse"
+              },
+              "foursquare": {
+                "foursquare_id": "4b52c4eff964a520b98727e3",
+                "foursquare_url": "http://4sq.com/9Iyzd4"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_640387_0b001ac9_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_640387_0b001ac9_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_640387_0b001ac9_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 945975109,
+            "created_at": "Fri, 25 Sep 2020 08:25:50 +0000",
+            "checkin_comment": "Dank on my friends!",
+            "rating_score": 4.2,
+            "user": {
+              "uid": 3198257,
+              "user_name": "bjd80",
+              "first_name": "Ben",
+              "last_name": "D.",
+              "location": "",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/2543c0221e401c6e7a58f4fa94f4d28d_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4009249,
+              "venue_name": "Beer DeLuxe - King St Wharf",
+              "venue_slug": "beer-deluxe",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "9 Lime St",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8664,
+                "lng": 151.201
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://beerdeluxe.com.au/king-street-wharf/"
+              },
+              "foursquare": {
+                "foursquare_id": "5667972f498e360d3e2729a4",
+                "foursquare_url": "http://4sq.com/1PXg1To"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_4009249_3d216278_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_4009249_3d216278_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_4009249_3d216278_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3419992,
+                  "user": {
+                    "uid": 3419992,
+                    "user_name": "Rebekah1",
+                    "first_name": "Rebekah",
+                    "last_name": "D.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/8bb62cf2951ecf6083881ff6c72e20ab?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 890931057,
+                  "like_owner": false,
+                  "created_at": "Sat, 26 Sep 2020 03:14:00 +0000"
+                },
+                {
+                  "uid": 5510156,
+                  "user": {
+                    "uid": 5510156,
+                    "user_name": "sammydacheech",
+                    "first_name": "Sam",
+                    "last_name": "N.",
+                    "bio": "That fat Aussie guy with the beard",
+                    "location": "Marion, Iowa",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/d986743e66210f88447b528123e01932_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 890400582,
+                  "like_owner": false,
+                  "created_at": "Fri, 25 Sep 2020 15:06:34 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 319018374,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/c1f974dbeb4a8b4c82f0971b6cb85b30_200x200.jpeg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/c1f974dbeb4a8b4c82f0971b6cb85b30_640x640.jpeg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/c1f974dbeb4a8b4c82f0971b6cb85b30_1280x1280.jpeg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/c1f974dbeb4a8b4c82f0971b6cb85b30_raw.jpeg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 945973464,
+            "created_at": "Fri, 25 Sep 2020 07:46:19 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.75,
+            "user": {
+              "uid": 2368410,
+              "user_name": "Curtamerosis",
+              "first_name": "Curtis",
+              "last_name": "P.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/8d9c9d06b12ad8c1cbb221134e5c538d_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3967848,
+              "beer_name": "Slam Dank Triple IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 10.2,
+              "beer_ibu": 82,
+              "beer_slug": "capital-brewing-co-slam-dank-triple-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - Triple",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5180540,
+              "venue_name": "Casey Jones Gastropub",
+              "venue_slug": "casey-jones-gastropub",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "gastropub",
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "shopping_mall",
+                    "category_name": "Shopping Mall",
+                    "category_id": "4bf58dd8d48988d1fd941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "15 Kingsland Parade",
+                "venue_city": "Casey",
+                "venue_state": "ACT",
+                "venue_country": "Australia",
+                "lat": -35.1743,
+                "lng": 149.096
+              },
+              "contact": {
+                "twitter": "@caseyjonespub",
+                "venue_url": "http://caseyjones.pub"
+              },
+              "foursquare": {
+                "foursquare_id": "577db972498e04ebfd808d86",
+                "foursquare_url": "http://4sq.com/29ogfD6"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 319017519,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_09_25/ed86f0689a99876f9eceeb4f4877343e_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_09_25/ed86f0689a99876f9eceeb4f4877343e_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_09_25/ed86f0689a99876f9eceeb4f4877343e_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_09_25/ed86f0689a99876f9eceeb4f4877343e_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/3967848?max_id=945973464",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/3967848?max_id=945973464",
+          "max_id": 945973464
+        }
+      },
+      "similar": {
+        "method": "es",
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 3.75102,
+            "beer": {
+              "bid": 3923255,
+              "beer_name": "Juicy Pun",
+              "beer_abv": 7,
+              "beer_ibu": 20,
+              "beer_slug": "hargreaves-hill-juicy-pun",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3923255_30bfc_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 4290,
+              "brewery_name": "Hargreaves Hill",
+              "brewery_slug": "hargreaves-hill-brewing-company-pty-ltd",
+              "brewery_page_url": "/HargreavesHillBrewingCo",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-4290_193b1.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "hargreaveshill",
+                "facebook": "http://www.facebook.com/hargreaveshill",
+                "instagram": "hargreaveshill",
+                "url": "http://www.hargreaveshill.com.au"
+              },
+              "location": {
+                "brewery_city": "Yarra Glen",
+                "brewery_state": "VIC",
+                "lat": -37.6582,
+                "lng": 145.374
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.91535,
+            "beer": {
+              "bid": 2888004,
+              "beer_name": "Hang Loose Juice ",
+              "beer_abv": 6,
+              "beer_ibu": 20,
+              "beer_slug": "capital-brewing-co-hang-loose-juice",
+              "beer_style": "IPA - New England",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2888004_820ee_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 266075,
+              "brewery_name": "Capital Brewing Co",
+              "brewery_slug": "capital-brewing-co",
+              "brewery_page_url": "/CapitalBrewingCo",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-266075_44c50.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/capitalbrewing",
+                "instagram": "capitalbrewing",
+                "url": "http://www.capitalbrewing.co"
+              },
+              "location": {
+                "brewery_city": "Fyshwick",
+                "brewery_state": "Australian Capital Territory",
+                "lat": -35.3209,
+                "lng": 149.165
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.02021,
+            "beer": {
+              "bid": 2564793,
+              "beer_name": "IIPA",
+              "beer_abv": 9,
+              "beer_ibu": 0,
+              "beer_slug": "hawkers-beer-iipa",
+              "beer_style": "IPA - Imperial / Double",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2564793_4ca68_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 184662,
+              "brewery_name": "Hawkers Beer",
+              "brewery_slug": "hawkers-beer",
+              "brewery_page_url": "/Hawkersbeer",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-184662_4a690.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "hawkersbeer",
+                "facebook": "http://facebook.com/hawkersbeer",
+                "instagram": "hawkersbeer",
+                "url": "http://www.hawkers.beer"
+              },
+              "location": {
+                "brewery_city": "Reservoir",
+                "brewery_state": "VIC",
+                "lat": -37.7179,
+                "lng": 144.985
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.99237,
+            "beer": {
+              "bid": 2593654,
+              "beer_name": "The Eagle IIIIPA",
+              "beer_abv": 12,
+              "beer_ibu": 0,
+              "beer_slug": "akasha-brewing-company-the-eagle-iiiipa",
+              "beer_style": "IPA - Quadruple",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2593654_b3135_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 188552,
+              "brewery_name": "Akasha Brewing Company",
+              "brewery_slug": "akasha-brewing-company",
+              "brewery_page_url": "/akashabrew",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-188552_6e2fc.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "akashabrew",
+                "facebook": "https://www.facebook.com/akashabrew",
+                "instagram": "akashabrew",
+                "url": "http://www.akashabrewing.com.au/"
+              },
+              "location": {
+                "brewery_city": "Five Dock",
+                "brewery_state": "New South Wales",
+                "lat": -33.8696,
+                "lng": 151.118
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.02659,
+            "beer": {
+              "bid": 3935081,
+              "beer_name": "Rusted On",
+              "beer_abv": 7.3,
+              "beer_ibu": 0,
+              "beer_slug": "white-bay-beer-co-rusted-on",
+              "beer_style": "IPA - Red",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3935081_6cd93_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 452017,
+              "brewery_name": "White Bay Beer Co.",
+              "brewery_slug": "white-bay-beer-co",
+              "brewery_page_url": "/WhiteBayBeerCo",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-452017_78748.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/whitebaybeer/",
+                "instagram": "whitebaybeer",
+                "url": "http://whitebay.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": -33.8651,
+                "lng": 151.178
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.72418,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

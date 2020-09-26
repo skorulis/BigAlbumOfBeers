@@ -9,7 +9,7 @@ brewery: "3 Floyds Brewing Company"
 breweryURL: "/brewery/3-floyds-brewing-company.html"
 style: "IPA - Imperial / Double"
 score: 5
-img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1074820_10151798797103745_60498930_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=BvZuiD4Mg3wAX8ZPN0W&_nc_ht=scontent.fsyd9-1.fna&_nc_tp=6&oh=861eb30c91b1981e5840927c9647f51e&oe=5F4A99FC
+img: https://scontent.fsyd9-1.fna.fbcdn.net/v/t31.0-0/p480x480/1074820_10151798797103745_60498930_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=5kyILPz1uDYAX8ybErk&_nc_ht=scontent.fsyd9-1.fna&tp=6&oh=4ff3dabafd5e75fd3e6e7c98485eb1d8&oe=5F95BF7C
 beer-date: "2013-07-19"
 desc: "Slightly too strong"
 permalink: /beer/:title.html
