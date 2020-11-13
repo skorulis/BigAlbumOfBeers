@@ -1,0 +1,3297 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.17,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 3933305,
+      "beer_name": "Atomic IPA",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+      "beer_label_hd": "https://untappd.akamaized.net/site/beer_logos_hd/beer-3933305_8fa29_hd.jpeg",
+      "beer_abv": 5.6,
+      "beer_ibu": 45,
+      "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+      "beer_style": "IPA - American",
+      "is_in_production": 1,
+      "beer_slug": "atomic-beer-project-atomic-ipa",
+      "is_homebrew": 0,
+      "created_at": "Mon, 24 Aug 2020 06:56:17 +0000",
+      "rating_count": 1361,
+      "rating_score": 3.52193,
+      "stats": {
+        "total_count": 1554,
+        "monthly_count": 32,
+        "total_user_count": 1435,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 474239,
+        "brewery_name": "Atomic Beer Project",
+        "brewery_slug": "atomic-beer-project",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/AtomicBeerProject",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "AtomicBeers",
+          "facebook": "https://facebook.com/atomicbeerproject",
+          "url": "https://atomic.beer"
+        },
+        "location": {
+          "brewery_city": "",
+          "brewery_state": "",
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 326865365,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_07/f1d8cbed71f3946477674337836a09a0_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_07/f1d8cbed71f3946477674337836a09a0_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_07/f1d8cbed71f3946477674337836a09a0_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_07/f1d8cbed71f3946477674337836a09a0_raw.jpg"
+            },
+            "created_at": "Sat, 07 Nov 2020 08:50:40 +0000",
+            "checkin_id": 961720100,
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.522,
+              "rating_count": 1361,
+              "count": 1361,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6024272,
+              "user_name": "JonMecredy",
+              "first_name": "Jon",
+              "last_name": "M",
+              "user_avatar": "https://gravatar.com/avatar/24ba370d7110593c12c28b71e673ff44?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "untappd-at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Everywhere",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 326597229,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_06/011320d105c6df19810dd15027585b14_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_06/011320d105c6df19810dd15027585b14_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_06/011320d105c6df19810dd15027585b14_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_06/011320d105c6df19810dd15027585b14_raw.jpg"
+            },
+            "created_at": "Fri, 06 Nov 2020 06:56:37 +0000",
+            "checkin_id": 961197991,
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.522,
+              "rating_count": 1361,
+              "count": 1361,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 8365115,
+              "user_name": "ItsHaydo",
+              "first_name": "Hayden",
+              "last_name": "J",
+              "user_avatar": "https://gravatar.com/avatar/7ada11c16a4b3b4db134da9abfef7a23?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2151529,
+                "venue_name": "Red Baron",
+                "venue_slug": "red-baron",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "cocktail_bar",
+                      "category_name": "Cocktail Bar",
+                      "category_id": "4bf58dd8d48988d11e941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "",
+                  "lat": -32.9287,
+                  "lng": 151.784
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "53b656ac498e63627891f271",
+                  "foursquare_url": "http://4sq.com/1tYcf0g"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 326355764,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_04/8dd8747ca23fa2b98473d9f101ef7773_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_04/8dd8747ca23fa2b98473d9f101ef7773_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_04/8dd8747ca23fa2b98473d9f101ef7773_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_04/8dd8747ca23fa2b98473d9f101ef7773_raw.jpg"
+            },
+            "created_at": "Wed, 04 Nov 2020 05:36:40 +0000",
+            "checkin_id": 960715833,
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.522,
+              "rating_count": 1361,
+              "count": 1361,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6825036,
+              "user_name": "Jackdup_",
+              "first_name": "Jack",
+              "last_name": "L",
+              "user_avatar": "https://untappd.akamaized.net/profile/848b0ff652113cf9885b5e731edd6318_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 326243764,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_03/ef212fa29763a23c6e35d6bd3f96a029_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_03/ef212fa29763a23c6e35d6bd3f96a029_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_03/ef212fa29763a23c6e35d6bd3f96a029_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_03/ef212fa29763a23c6e35d6bd3f96a029_raw.jpg"
+            },
+            "created_at": "Tue, 03 Nov 2020 06:45:43 +0000",
+            "checkin_id": 960487504,
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.522,
+              "rating_count": 1361,
+              "count": 1361,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3346048,
+              "user_name": "BKeg",
+              "first_name": "Brendan",
+              "last_name": "K",
+              "user_avatar": "https://gravatar.com/avatar/d4c15449d08bc653d1159eed72445915?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 326164584,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_02/c074b8182e5586d33ebbdf0737064f4d_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_02/c074b8182e5586d33ebbdf0737064f4d_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_02/c074b8182e5586d33ebbdf0737064f4d_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_02/c074b8182e5586d33ebbdf0737064f4d_raw.jpg"
+            },
+            "created_at": "Mon, 02 Nov 2020 09:20:40 +0000",
+            "checkin_id": 960325924,
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.522,
+              "rating_count": 1361,
+              "count": 1361,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3828313,
+              "user_name": "hughv",
+              "first_name": "Hugh",
+              "last_name": "",
+              "user_avatar": "https://gravatar.com/avatar/5b89d47252dcb88279e2a337980650dd?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 325954847,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_01/c7f9588b3e1397a2a563e9ae6c8b06d4_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_01/c7f9588b3e1397a2a563e9ae6c8b06d4_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_01/c7f9588b3e1397a2a563e9ae6c8b06d4_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_01/c7f9588b3e1397a2a563e9ae6c8b06d4_raw.jpg"
+            },
+            "created_at": "Sun, 01 Nov 2020 02:00:06 +0000",
+            "checkin_id": 959897139,
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.522,
+              "rating_count": 1361,
+              "count": 1361,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2783828,
+              "user_name": "LukeWoollen",
+              "first_name": "Luke",
+              "last_name": "W",
+              "user_avatar": "https://untappd.akamaized.net/profile/ee2b2067c39b1b52e0655948e830fed7_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 325944596,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_01/b88333955cd9d0f35352d433016f6526_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_01/b88333955cd9d0f35352d433016f6526_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_01/b88333955cd9d0f35352d433016f6526_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_01/b88333955cd9d0f35352d433016f6526_raw.jpg"
+            },
+            "created_at": "Sun, 01 Nov 2020 01:19:46 +0000",
+            "checkin_id": 959873205,
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.522,
+              "rating_count": 1361,
+              "count": 1361,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2860037,
+              "user_name": "Braybro",
+              "first_name": "Jennifer",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/bb3ef303599d9dc585c0e7a5535f8b3a_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 325652398,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_10_31/8105c0f0d5569b337cc52e760037e8c2_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_10_31/8105c0f0d5569b337cc52e760037e8c2_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_10_31/8105c0f0d5569b337cc52e760037e8c2_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_10_31/8105c0f0d5569b337cc52e760037e8c2_raw.jpg"
+            },
+            "created_at": "Sat, 31 Oct 2020 11:33:39 +0000",
+            "checkin_id": 959316178,
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.522,
+              "rating_count": 1361,
+              "count": 1361,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6590739,
+              "user_name": "Cyclone_Smith",
+              "first_name": "Joel",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/ab6968a10f7669e6292ebd14a27d92b1_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "untappd-at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Everywhere",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 325638620,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_10_31/3fa56c1e24d30b469aac8790d07a87cf_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_10_31/3fa56c1e24d30b469aac8790d07a87cf_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_10_31/3fa56c1e24d30b469aac8790d07a87cf_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_10_31/3fa56c1e24d30b469aac8790d07a87cf_raw.jpg"
+            },
+            "created_at": "Sat, 31 Oct 2020 05:05:29 +0000",
+            "checkin_id": 959288727,
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.522,
+              "rating_count": 1361,
+              "count": 1361,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 763883,
+              "user_name": "JSin",
+              "first_name": "Jason",
+              "last_name": "L",
+              "user_avatar": "https://untappd.akamaized.net/profile/1cd207019f413dde65168056cd6cca26_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 325613643,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2020_10_31/1130bfd036adf85464143ebba38d9470_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2020_10_31/1130bfd036adf85464143ebba38d9470_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2020_10_31/1130bfd036adf85464143ebba38d9470_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2020_10_31/1130bfd036adf85464143ebba38d9470_raw.jpg"
+            },
+            "created_at": "Sat, 31 Oct 2020 01:56:53 +0000",
+            "checkin_id": 959231734,
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.522,
+              "rating_count": 1361,
+              "count": 1361,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6642688,
+              "user_name": "marcus_t",
+              "first_name": "Marcus",
+              "last_name": "T",
+              "user_avatar": "https://untappd.akamaized.net/profile/26302b3787423f4575d87f264ac6ea3d_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 963585105,
+            "created_at": "Fri, 13 Nov 2020 06:14:37 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 8131692,
+              "user_name": "winolino",
+              "first_name": "Nat",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/05c5877eea4e51a4e67c94c015e2333c?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.895,
+                "lng": 151.199
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 4,
+                  "user_badge_id": 754387984,
+                  "badge_name": "Artisan",
+                  "badge_description": "Nice job exploring the world of beer. You've sampled over 100 different brews!",
+                  "created_at": "Fri, 13 Nov 2020 06:14:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_check100_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_check100_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_check100_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34710,
+                  "user_badge_id": 754387985,
+                  "badge_name": "Middle of the Road (Level 6)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 30 beers with an ABV greater than 5% and less than 10%. Try 5 more for Level 7!",
+                  "created_at": "Fri, 13 Nov 2020 06:14:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 133268,
+                  "user_badge_id": 754387986,
+                  "badge_name": "Draft City (Level 15)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 75 checkins with the serving style of Draft. Try 5 more for Level 16!",
+                  "created_at": "Fri, 13 Nov 2020 06:14:38 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DraftCity_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 963104703,
+            "created_at": "Wed, 11 Nov 2020 10:08:45 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 6559116,
+              "user_name": "JSMACKAY",
+              "first_name": "Jaason",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/37a543182be7abdb6ae034422280522a-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "untappd-at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Everywhere",
+                "venue_country": "United States",
+                "lat": 34.2347,
+                "lng": -77.9482
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5602,
+                  "user_badge_id": 753623503,
+                  "badge_name": "Verified Adventure (Level 22)",
+                  "badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 110 check-ins at venue that is verified. Try 5 more for Level 23!",
+                  "created_at": "Wed, 11 Nov 2020 10:08:46 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 963103440,
+            "created_at": "Wed, 11 Nov 2020 09:24:07 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 3710670,
+              "user_name": "Colbran",
+              "first_name": "DG",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Beer and Oysters",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/6126a56d5e666e3bddf6b1bffef07e32_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 962298597,
+            "created_at": "Sun, 08 Nov 2020 01:58:47 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.4,
+            "user": {
+              "uid": 853040,
+              "user_name": "Suchy83",
+              "first_name": "Eric",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/020a1e56b063e5b907538c9937c14163_thumb.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.895,
+                "lng": 151.199
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 961720100,
+            "created_at": "Sat, 07 Nov 2020 08:50:24 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 6024272,
+              "user_name": "JonMecredy",
+              "first_name": "Jon",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/24ba370d7110593c12c28b71e673ff44?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "untappd-at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Everywhere",
+                "venue_country": "United States",
+                "lat": 34.2347,
+                "lng": -77.9482
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 326865365,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_07/f1d8cbed71f3946477674337836a09a0_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_07/f1d8cbed71f3946477674337836a09a0_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_07/f1d8cbed71f3946477674337836a09a0_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_07/f1d8cbed71f3946477674337836a09a0_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 4,
+              "items": [
+                {
+                  "badge_id": 5584,
+                  "user_badge_id": 751988499,
+                  "badge_name": "Verified Adventure (Level 4)",
+                  "badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 20 check-ins at venue that is verified. Try 5 more for Level 5!",
+                  "created_at": "Sat, 07 Nov 2020 08:50:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 793,
+                  "user_badge_id": 751988500,
+                  "badge_name": "Photogenic Brew (Level 8)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 40 check-ins with a photo. ",
+                  "created_at": "Sat, 07 Nov 2020 08:50:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2604,
+                  "user_badge_id": 751988501,
+                  "badge_name": "I Believe in IPA! (Level 18)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 90 different IPAs. Try 5 more for Level 19!",
+                  "created_at": "Sat, 07 Nov 2020 08:50:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2427,
+                  "user_badge_id": 751988502,
+                  "badge_name": "Down Under  (Level 41)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 205 different beers from Australia. Try 5 more for Level 42.",
+                  "created_at": "Sat, 07 Nov 2020 08:50:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 961675765,
+            "created_at": "Sat, 07 Nov 2020 03:43:22 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 8337789,
+              "user_name": "Mwatermanoz",
+              "first_name": "Mike",
+              "last_name": "W.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/663bbfce296942edfec0f417d81b2625?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6718093,
+                  "user": {
+                    "uid": 6718093,
+                    "user_name": "Donbarry",
+                    "first_name": "Donnie",
+                    "last_name": "B.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/4224932302e4f507bf6e210e74c6a5b4?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 911603132,
+                  "like_owner": false,
+                  "created_at": "Sat, 07 Nov 2020 03:43:37 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 961662583,
+            "created_at": "Sat, 07 Nov 2020 03:09:32 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 173953,
+              "user_name": "idahodrinker",
+              "first_name": "matt",
+              "last_name": "",
+              "location": "sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/0e6e2a7c5011d036e1c1bac40980a867_thumb.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.895,
+                "lng": 151.199
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 151090,
+                  "user": {
+                    "uid": 151090,
+                    "user_name": "jwfloren",
+                    "first_name": "Joe",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/af74e58387ea6ae76ea188810ec043c5_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 911621759,
+                  "like_owner": false,
+                  "created_at": "Sat, 07 Nov 2020 04:30:03 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 362,
+                  "user_badge_id": 751922821,
+                  "badge_name": "Find the Source (Level 8)",
+                  "badge_description": "Everyone loves fresh beer, but obviously not as much as you do. You went straight to the source. \n\nThat's a beer at 40 different venues categorized as a Brewery, Cidery or Meadery. Visit 5 more different ones for Level 9!",
+                  "created_at": "Sat, 07 Nov 2020 03:09:32 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_findSource_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_findSource_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_findSource_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 961209157,
+            "created_at": "Fri, 06 Nov 2020 11:31:43 +0000",
+            "checkin_comment": "Meh.",
+            "rating_score": 3,
+            "user": {
+              "uid": 941484,
+              "user_name": "stuearl81",
+              "first_name": "stu",
+              "last_name": "e.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/ffcddf4dc1788e6ed14931561049fb2d?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 961208066,
+            "created_at": "Fri, 06 Nov 2020 11:06:11 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 79370,
+              "user_name": "leeroy842",
+              "first_name": "Lee",
+              "last_name": "P.",
+              "location": "Perth",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/e5cef21abf0aa282a41218132c6dab50_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2415,
+                  "user_badge_id": 751355839,
+                  "badge_name": "Down Under  (Level 29)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 145 different beers from Australia. Try 5 more for Level 30.",
+                  "created_at": "Fri, 06 Nov 2020 11:06:12 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 961200975,
+            "created_at": "Fri, 06 Nov 2020 08:02:28 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1512850,
+              "user_name": "RowdyHermit",
+              "first_name": "Simon",
+              "last_name": "A.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/c9007a745db021a9fb4e7b53bf507f48_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 961197991,
+            "created_at": "Fri, 06 Nov 2020 06:55:50 +0000",
+            "checkin_comment": "Nice tasting ipa, decent session beer",
+            "rating_score": 3,
+            "user": {
+              "uid": 8365115,
+              "user_name": "ItsHaydo",
+              "first_name": "Hayden",
+              "last_name": "J.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/7ada11c16a4b3b4db134da9abfef7a23?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2151529,
+              "venue_name": "Red Baron",
+              "venue_slug": "red-baron",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "cocktail_bar",
+                    "category_name": "Cocktail Bar",
+                    "category_id": "4bf58dd8d48988d11e941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "",
+                "venue_country": "Australia",
+                "lat": -32.9287,
+                "lng": 151.784
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "53b656ac498e63627891f271",
+                "foursquare_url": "http://4sq.com/1tYcf0g"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 326597229,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_06/011320d105c6df19810dd15027585b14_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_06/011320d105c6df19810dd15027585b14_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_06/011320d105c6df19810dd15027585b14_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_06/011320d105c6df19810dd15027585b14_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 961197584,
+            "created_at": "Fri, 06 Nov 2020 06:47:57 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 1608557,
+              "user_name": "RachCanada",
+              "first_name": "Rachel",
+              "last_name": "W.",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/7960c325dc51786bbdae0eaf5e5a9935_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.895,
+                "lng": 151.199
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34746,
+                  "user_badge_id": 751343973,
+                  "badge_name": "Middle of the Road (Level 42)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 210 beers with an ABV greater than 5% and less than 10%. Try 5 more for Level 43!",
+                  "created_at": "Fri, 06 Nov 2020 06:47:58 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 960715833,
+            "created_at": "Wed, 04 Nov 2020 05:36:20 +0000",
+            "checkin_comment": "Disappointing. This was very bland and lack lustre for an IPA. Tastes extremely watered down.",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 6825036,
+              "user_name": "Jackdup_",
+              "first_name": "Jack",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Any beer with a lower ABV of 6 should be made illegal",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/848b0ff652113cf9885b5e731edd6318_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.895,
+                "lng": 151.199
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 326355764,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_04/8dd8747ca23fa2b98473d9f101ef7773_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_04/8dd8747ca23fa2b98473d9f101ef7773_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_04/8dd8747ca23fa2b98473d9f101ef7773_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_04/8dd8747ca23fa2b98473d9f101ef7773_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133351,
+                  "user_badge_id": 750734836,
+                  "badge_name": "Draft City (Level 98)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 490 checkins with the serving style of Draft. Try 5 more for Level 99!",
+                  "created_at": "Wed, 04 Nov 2020 05:36:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DraftCity_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 960487504,
+            "created_at": "Tue, 03 Nov 2020 06:44:54 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3346048,
+              "user_name": "BKeg",
+              "first_name": "Brendan",
+              "last_name": "K.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/d4c15449d08bc653d1159eed72445915?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 326243764,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_03/ef212fa29763a23c6e35d6bd3f96a029_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_03/ef212fa29763a23c6e35d6bd3f96a029_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_03/ef212fa29763a23c6e35d6bd3f96a029_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_03/ef212fa29763a23c6e35d6bd3f96a029_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 94362,
+                  "user_badge_id": 750459957,
+                  "badge_name": "Photogenic Brew (Level 77)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That's 385 check-ins with a photo.  Try 5 more for Level 78!",
+                  "created_at": "Tue, 03 Nov 2020 06:44:55 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 243516,
+                  "user_badge_id": 750459958,
+                  "badge_name": "Brewery Pioneer (Level 21)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 105 different breweries. Try 5 more for Level 22!",
+                  "created_at": "Tue, 03 Nov 2020 06:44:55 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2627,
+                  "user_badge_id": 750459959,
+                  "badge_name": "I Believe in IPA! (Level 41)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 205 different IPAs. Try 5 more for Level 42!",
+                  "created_at": "Tue, 03 Nov 2020 06:44:55 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 960325924,
+            "created_at": "Mon, 02 Nov 2020 09:20:06 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 3828313,
+              "user_name": "hughv",
+              "first_name": "Hugh",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/5b89d47252dcb88279e2a337980650dd?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3933305,
+              "beer_name": "Atomic IPA",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3933305_e2501_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 45,
+              "beer_slug": "atomic-beer-project-atomic-ipa",
+              "beer_description": "Bold upfront pine aromas, zesty citrus & tropical fruit characters. Subtle malt, lingering bitterness.",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.895,
+                "lng": 151.199
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 326164584,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2020_11_02/c074b8182e5586d33ebbdf0737064f4d_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2020_11_02/c074b8182e5586d33ebbdf0737064f4d_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2020_11_02/c074b8182e5586d33ebbdf0737064f4d_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2020_11_02/c074b8182e5586d33ebbdf0737064f4d_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/3933305?max_id=960325924",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/3933305?max_id=960325924",
+          "max_id": 960325924
+        }
+      },
+      "similar": {
+        "method": "es",
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 0,
+            "beer": {
+              "bid": 4038236,
+              "beer_name": "Cryo Double Trouble",
+              "beer_abv": 7.5,
+              "beer_ibu": 80,
+              "beer_slug": "atomic-beer-project-cryo-double-trouble",
+              "beer_style": "IPA - Imperial / Double",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4038236_cf2e6_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic Beer Project",
+              "brewery_slug": "atomic-beer-project",
+              "brewery_page_url": "/AtomicBeerProject",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_36366.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "AtomicBeers",
+                "facebook": "https://facebook.com/atomicbeerproject",
+                "instagram": "AtomicBeerProject",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.75,
+            "beer": {
+              "bid": 3996756,
+              "beer_name": "SXC Double IPA",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "fury-and-son-brewing-company-sxc-double-ipa",
+              "beer_style": "IPA - Imperial / Double",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 270134,
+              "brewery_name": "Fury And Son Brewing Company",
+              "brewery_slug": "fury-and-son-brewing-company",
+              "brewery_page_url": "/FuryAndSon",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-270134_b5fa0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/furyandson/?ref=aymt_homepage_panel",
+                "instagram": "furyandson",
+                "url": "http://www.furyandson.com.au"
+              },
+              "location": {
+                "brewery_city": "Keilor Park",
+                "brewery_state": "VIC",
+                "lat": -37.7205,
+                "lng": 144.849
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.12052,
+            "beer": {
+              "bid": 4017342,
+              "beer_name": "Birthday West Coast IIPA",
+              "beer_abv": 9,
+              "beer_ibu": 0,
+              "beer_slug": "feral-brewing-company-birthday-west-coast-iipa",
+              "beer_style": "IPA - Imperial / Double",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4017342_d49d5_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 3162,
+              "brewery_name": "Feral Brewing Company",
+              "brewery_slug": "feral-brewing-company",
+              "brewery_page_url": "/FeralBrewingCompany",
+              "brewery_type": "Macro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-3162_6d78a.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "FeralBrewing",
+                "facebook": "https://www.facebook.com/FeralBrewing",
+                "instagram": "Feralbrewing",
+                "url": "http://www.feralbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Baskerville",
+                "brewery_state": "Western Australia",
+                "lat": -31.7979,
+                "lng": 116.037
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.67208,
+            "beer": {
+              "bid": 1517354,
+              "beer_name": "IPA - 'Homage'",
+              "beer_abv": 6.2,
+              "beer_ibu": 66,
+              "beer_slug": "wolf-of-the-willows-ipa-homage",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1517354_2f8fa_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 166150,
+              "brewery_name": "Wolf Of The Willows",
+              "brewery_slug": "wolf-of-the-willows",
+              "brewery_page_url": "/WolfOfTheWillows",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-166150_56086.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "wolfofthewillow",
+                "facebook": "https://www.facebook.com/wolfofthewillows",
+                "instagram": "wolfofthewillows",
+                "url": "http://www.wolfofthewillows.com.au"
+              },
+              "location": {
+                "brewery_city": "Mordialloc",
+                "brewery_state": "Victoria",
+                "lat": -37.9894,
+                "lng": 145.1
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.64148,
+            "beer": {
+              "bid": 4017304,
+              "beer_name": "Idaho 7",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-idaho-7",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "instagram": "PirateLifeBeer",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.9928,
+                "lng": 138.527
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.54615,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}
