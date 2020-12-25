@@ -55,7 +55,8 @@ def downloadChunk(url)
 	    else
 	        pct = "null"
 	    end
-	    
+		
+		#puts lines
 	    score = lines[1][/[0-9.]{1,3}.10/]
 	    if score
 	        lines[1][score] = "";
