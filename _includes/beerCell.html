@@ -17,10 +17,9 @@
         {% endif %}
     {% endif %}
   </p>
-  {{include.beer.imgPath}}
-  <img class="lazy beer" data-original="{{include.beer.imgPath}}">
+  <img class="lazy beer" data-original="{{include.beer.imgPath | prepend: '/' }}">
   <noscript>
-    <img src="{{include.beer.imgPath}}">
+    <img src="{{include.beer.imgPath | prepend: '/'}}">
   </noscript>
 </a>
 </div>
