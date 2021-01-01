@@ -14,7 +14,7 @@ puts @firstUrl
 puts @token
 
 def urlForAlbum(albumId)
-	return "https://graph.facebook.com/v3.2/"+albumId+"?access_token="+@token + "&fields=photos.limit(150)%7Bimages,created_time,name,id,link%7D"
+	return "https://graph.facebook.com/v9.0/"+albumId+"?access_token="+@token + "&fields=photos.limit(150)%7Bimages,created_time,name,id,link%7D"
 end
 
 def cleanText(s)
