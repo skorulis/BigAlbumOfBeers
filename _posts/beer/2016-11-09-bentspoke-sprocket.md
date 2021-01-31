@@ -10,7 +10,7 @@ breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "IPA - American"
 score: 8
 img: /img/list/bentspoke-sprocket.jpeg
-beer-date: "2016-02-14"
-desc: "Really nice hop profile for a flavoursome IPA"
+beer-date: "2021-01-31"
+desc: "Middle of the road IPA. Good for both a bit of flavour and for having a few of them"
 permalink: /beer/:title.html
 ---
