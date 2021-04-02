@@ -8,9 +8,9 @@ country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "/brewery/mountain-goat-beer.html"
 style: "IPA - Imperial / Double"
-score: 8.5
+score: 9.5
 img: /img/list/mountain-goat-botanical-ipa.jpeg
-beer-date: "2021-01-31"
-desc: "It’s like a gin and tonic but in beer form"
+beer-date: "2021-04-02"
+desc: "This beer is just amazing, it has all the good parts of an IPA and gin mixed together. Despite how that may sound it works perfectly"
 permalink: /beer/:title.html
 ---
