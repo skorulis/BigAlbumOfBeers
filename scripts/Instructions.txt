@@ -3,6 +3,9 @@ Instructions:
 ruby scripts/albumscrape.rb [token]
 ruby scripts/buildExtra.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 Set beer ids in js/extra.json
+
+-------
+
 ruby scripts/buildExtra.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 ruby scripts/stats.rb
 ruby scripts/getBreweries.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
@@ -11,5 +14,9 @@ ruby scripts/getImages.rb
 
 ruby scripts/distributeBreweries.rb
 ruby scripts/createPosts.rb
+
+OR RUN scripts/finalStep [UNTAPPED_ID] [UNTAPPED_SECRET]
+
+------
 
 Update beers.html with the beer count
