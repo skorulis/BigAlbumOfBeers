@@ -8,9 +8,9 @@ country: "Australia"
 brewery: "Big Shed Brewing Concern"
 breweryURL: "/brewery/big-shed-brewing-concern.html"
 style: "IPA - New England"
-score: 9
+score: 8.5
 img: /img/list/big-shed-boozy-fruit.jpeg
-beer-date: "2019-06-22"
-desc: "So so so much fruit in this fella. If you can handle the bitterness it’s like a glass of beer juice. Delivers exactly what it promises"
+beer-date: "2021-11-12"
+desc: "Exactly what the label says, like a bowl of fruit punch with the perfect level of beeryness"
 permalink: /beer/:title.html
 ---

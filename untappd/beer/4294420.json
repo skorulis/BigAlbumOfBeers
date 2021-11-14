@@ -1,0 +1,2439 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.742,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 4294420,
+      "beer_name": "Gin IPA",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 0,
+      "beer_ibu": 0,
+      "beer_description": "",
+      "beer_style": "IPA - American",
+      "is_in_production": 1,
+      "beer_slug": "yoyogi-gin-ipa",
+      "is_homebrew": 0,
+      "created_at": "Sun, 02 May 2021 10:38:02 +0000",
+      "rating_count": 9,
+      "rating_score": 0,
+      "stats": {
+        "total_count": 9,
+        "monthly_count": 5,
+        "total_user_count": 9,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 308475,
+        "brewery_name": "Yoyogi",
+        "brewery_slug": "yoyogi",
+        "brewery_type": "Brew Pub",
+        "brewery_page_url": "/Yoyogi",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "",
+          "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+          "url": "https://yoyogibeer.com/"
+        },
+        "location": {
+          "brewery_city": "Sydney",
+          "brewery_state": "NSW",
+          "lat": -33.8717,
+          "lng": 151.198
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 7,
+        "items": [
+          {
+            "photo_id": 394933066,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_11_05/c59d928e2b77cab20fdabce7986e47f5_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_11_05/c59d928e2b77cab20fdabce7986e47f5_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_11_05/c59d928e2b77cab20fdabce7986e47f5_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_11_05/c59d928e2b77cab20fdabce7986e47f5_raw.jpg"
+            },
+            "created_at": "Fri, 05 Nov 2021 07:26:09 +0000",
+            "checkin_id": 1095299398,
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 0,
+              "rating_count": 9,
+              "count": 9,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3253355,
+              "user_name": "sbszine",
+              "first_name": "Phil",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/47e8369636707495654a59fc6e98ff1f_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8395122,
+                "venue_name": "Harajuku Gyoza Beer Stadium",
+                "venue_slug": "harajuku-gyoza-beer-stadium",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "dumpling_restaurant",
+                      "category_name": "Dumpling Restaurant",
+                      "category_id": "4bf58dd8d48988d108941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "theater",
+                      "category_name": "Theater",
+                      "category_id": "4bf58dd8d48988d137941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1/14 Darling Drive",
+                  "venue_city": "Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.8767,
+                  "lng": 151.201
+                },
+                "contact": {
+                  "twitter": "@harajukugyoza",
+                  "venue_url": "http://harajukugyoza.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                  "foursquare_url": "https://4sq.com/2Fm28zU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 394932359,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_11_05/bd6a18217acfcefb54ccc3be21c6ac95_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_11_05/bd6a18217acfcefb54ccc3be21c6ac95_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_11_05/bd6a18217acfcefb54ccc3be21c6ac95_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_11_05/bd6a18217acfcefb54ccc3be21c6ac95_raw.jpg"
+            },
+            "created_at": "Fri, 05 Nov 2021 06:51:16 +0000",
+            "checkin_id": 1095297855,
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 0,
+              "rating_count": 9,
+              "count": 9,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7343733,
+              "user_name": "Shaynus",
+              "first_name": "Shaynus",
+              "last_name": "",
+              "user_avatar": "https://untappd.akamaized.net/profile/4d7cbd8cb5d96c8c1934e432a58f1aa0_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 393756796,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_10_29/cb6ca1680c62480d80909b991faa423f_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_10_29/cb6ca1680c62480d80909b991faa423f_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_10_29/cb6ca1680c62480d80909b991faa423f_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_10_29/cb6ca1680c62480d80909b991faa423f_raw.jpg"
+            },
+            "created_at": "Fri, 29 Oct 2021 01:23:23 +0000",
+            "checkin_id": 1092918267,
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 0,
+              "rating_count": 9,
+              "count": 9,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1305522,
+              "user_name": "tawny_frogmouth",
+              "first_name": "Tawny",
+              "last_name": "F",
+              "user_avatar": "https://untappd.akamaized.net/profile/838e658b37ae9896594add965d3ce556_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8395122,
+                "venue_name": "Harajuku Gyoza Beer Stadium",
+                "venue_slug": "harajuku-gyoza-beer-stadium",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "dumpling_restaurant",
+                      "category_name": "Dumpling Restaurant",
+                      "category_id": "4bf58dd8d48988d108941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "theater",
+                      "category_name": "Theater",
+                      "category_id": "4bf58dd8d48988d137941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1/14 Darling Drive",
+                  "venue_city": "Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.8767,
+                  "lng": 151.201
+                },
+                "contact": {
+                  "twitter": "@harajukugyoza",
+                  "venue_url": "http://harajukugyoza.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                  "foursquare_url": "https://4sq.com/2Fm28zU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 392582301,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_10_22/b52cd22359045c824d374e13dbe141b2_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_10_22/b52cd22359045c824d374e13dbe141b2_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_10_22/b52cd22359045c824d374e13dbe141b2_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_10_22/b52cd22359045c824d374e13dbe141b2_raw.jpg"
+            },
+            "created_at": "Fri, 22 Oct 2021 10:00:11 +0000",
+            "checkin_id": 1090428661,
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 0,
+              "rating_count": 9,
+              "count": 9,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7263284,
+              "user_name": "kris_3",
+              "first_name": "Kris",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/f80244ffc8aa31e15abd430aa15c6658_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8395122,
+                "venue_name": "Harajuku Gyoza Beer Stadium",
+                "venue_slug": "harajuku-gyoza-beer-stadium",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "dumpling_restaurant",
+                      "category_name": "Dumpling Restaurant",
+                      "category_id": "4bf58dd8d48988d108941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "theater",
+                      "category_name": "Theater",
+                      "category_id": "4bf58dd8d48988d137941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1/14 Darling Drive",
+                  "venue_city": "Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.8767,
+                  "lng": 151.201
+                },
+                "contact": {
+                  "twitter": "@harajukugyoza",
+                  "venue_url": "http://harajukugyoza.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                  "foursquare_url": "https://4sq.com/2Fm28zU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 367061864,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_13/e85da83ab6eb6460c84882f1a3019c73_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_13/e85da83ab6eb6460c84882f1a3019c73_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_13/e85da83ab6eb6460c84882f1a3019c73_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_13/e85da83ab6eb6460c84882f1a3019c73_raw.jpg"
+            },
+            "created_at": "Sun, 13 Jun 2021 03:59:52 +0000",
+            "checkin_id": 1039539223,
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 0,
+              "rating_count": 9,
+              "count": 9,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8395122,
+                "venue_name": "Harajuku Gyoza Beer Stadium",
+                "venue_slug": "harajuku-gyoza-beer-stadium",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "dumpling_restaurant",
+                      "category_name": "Dumpling Restaurant",
+                      "category_id": "4bf58dd8d48988d108941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "theater",
+                      "category_name": "Theater",
+                      "category_id": "4bf58dd8d48988d137941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1/14 Darling Drive",
+                  "venue_city": "Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.8767,
+                  "lng": 151.201
+                },
+                "contact": {
+                  "twitter": "@harajukugyoza",
+                  "venue_url": "http://harajukugyoza.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                  "foursquare_url": "https://4sq.com/2Fm28zU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 363882722,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_05_29/65fd10e9c4853acce7e5ca780b297c1c_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_05_29/65fd10e9c4853acce7e5ca780b297c1c_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_05_29/65fd10e9c4853acce7e5ca780b297c1c_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_05_29/65fd10e9c4853acce7e5ca780b297c1c_raw.jpg"
+            },
+            "created_at": "Sat, 29 May 2021 10:03:44 +0000",
+            "checkin_id": 1033253064,
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 0,
+              "rating_count": 9,
+              "count": 9,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6430747,
+              "user_name": "Papicool",
+              "first_name": "Andres",
+              "last_name": "N",
+              "user_avatar": "https://untappd.akamaized.net/profile/2df0db176dacad08f7cbabcb1354e52b_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8395122,
+                "venue_name": "Harajuku Gyoza Beer Stadium",
+                "venue_slug": "harajuku-gyoza-beer-stadium",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "dumpling_restaurant",
+                      "category_name": "Dumpling Restaurant",
+                      "category_id": "4bf58dd8d48988d108941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "theater",
+                      "category_name": "Theater",
+                      "category_id": "4bf58dd8d48988d137941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1/14 Darling Drive",
+                  "venue_city": "Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.8767,
+                  "lng": 151.201
+                },
+                "contact": {
+                  "twitter": "@harajukugyoza",
+                  "venue_url": "http://harajukugyoza.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                  "foursquare_url": "https://4sq.com/2Fm28zU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 363872594,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_05_29/fea37d8302ccff3d15c8dfdac9315575_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_05_29/fea37d8302ccff3d15c8dfdac9315575_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_05_29/fea37d8302ccff3d15c8dfdac9315575_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_05_29/fea37d8302ccff3d15c8dfdac9315575_raw.jpg"
+            },
+            "created_at": "Sat, 29 May 2021 05:43:49 +0000",
+            "checkin_id": 1033233923,
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 0,
+              "rating_count": 9,
+              "count": 9,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 8792445,
+              "user_name": "stek0",
+              "first_name": "Stefan",
+              "last_name": "",
+              "user_avatar": "https://gravatar.com/avatar/58f3ea9c20fb21423c69fb996e1a0f9d?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8395122,
+                "venue_name": "Harajuku Gyoza Beer Stadium",
+                "venue_slug": "harajuku-gyoza-beer-stadium",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "dumpling_restaurant",
+                      "category_name": "Dumpling Restaurant",
+                      "category_id": "4bf58dd8d48988d108941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "theater",
+                      "category_name": "Theater",
+                      "category_id": "4bf58dd8d48988d137941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1/14 Darling Drive",
+                  "venue_city": "Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.8767,
+                  "lng": 151.201
+                },
+                "contact": {
+                  "twitter": "@harajukugyoza",
+                  "venue_url": "http://harajukugyoza.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                  "foursquare_url": "https://4sq.com/2Fm28zU"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 9,
+        "items": [
+          {
+            "checkin_id": 1095299398,
+            "created_at": "Fri, 05 Nov 2021 07:25:40 +0000",
+            "checkin_comment": "Weird 'international' IPA. Hoppy but coastless and lost.",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 3253355,
+              "user_name": "sbszine",
+              "first_name": "Phil",
+              "last_name": "",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Inner West brewery enthusiast and bon vivant. Currently favouring boozy grapefruity IIPAs.",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/47e8369636707495654a59fc6e98ff1f_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8395122,
+              "venue_name": "Harajuku Gyoza Beer Stadium",
+              "venue_slug": "harajuku-gyoza-beer-stadium",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "dumpling_restaurant",
+                    "category_name": "Dumpling Restaurant",
+                    "category_id": "4bf58dd8d48988d108941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "theater",
+                    "category_name": "Theater",
+                    "category_id": "4bf58dd8d48988d137941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1/14 Darling Drive",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8766785,
+                "lng": 151.2014008
+              },
+              "contact": {
+                "twitter": "@harajukugyoza",
+                "venue_url": "http://harajukugyoza.com"
+              },
+              "foursquare": {
+                "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                "foursquare_url": "https://4sq.com/2Fm28zU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 1587753,
+                  "user": {
+                    "uid": 1587753,
+                    "user_name": "jarredscott",
+                    "first_name": "Jarred",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Seattle",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/a52cbc2449aa3515132591d4b2413587_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1102707649,
+                  "like_owner": false,
+                  "created_at": "Fri, 05 Nov 2021 08:19:34 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 394933066,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_11_05/c59d928e2b77cab20fdabce7986e47f5_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_11_05/c59d928e2b77cab20fdabce7986e47f5_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_11_05/c59d928e2b77cab20fdabce7986e47f5_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_11_05/c59d928e2b77cab20fdabce7986e47f5_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1095297855,
+            "created_at": "Fri, 05 Nov 2021 06:51:10 +0000",
+            "checkin_comment": "Nice! Bitter. Tastes more like lychees than gin.",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 7343733,
+              "user_name": "Shaynus",
+              "first_name": "Shaynus",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/4d7cbd8cb5d96c8c1934e432a58f1aa0_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 394932359,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_11_05/bd6a18217acfcefb54ccc3be21c6ac95_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_11_05/bd6a18217acfcefb54ccc3be21c6ac95_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_11_05/bd6a18217acfcefb54ccc3be21c6ac95_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_11_05/bd6a18217acfcefb54ccc3be21c6ac95_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1092918267,
+            "created_at": "Fri, 29 Oct 2021 01:23:05 +0000",
+            "checkin_comment": "Consistently good beers here. Out from my LGA at last!!!",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 1305522,
+              "user_name": "tawny_frogmouth",
+              "first_name": "Tawny",
+              "last_name": "F.",
+              "location": "Greendale",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "*NOT* affiliated with the local magazine.",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/838e658b37ae9896594add965d3ce556_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8395122,
+              "venue_name": "Harajuku Gyoza Beer Stadium",
+              "venue_slug": "harajuku-gyoza-beer-stadium",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "dumpling_restaurant",
+                    "category_name": "Dumpling Restaurant",
+                    "category_id": "4bf58dd8d48988d108941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "theater",
+                    "category_name": "Theater",
+                    "category_id": "4bf58dd8d48988d137941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1/14 Darling Drive",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8766785,
+                "lng": 151.2014008
+              },
+              "contact": {
+                "twitter": "@harajukugyoza",
+                "venue_url": "http://harajukugyoza.com"
+              },
+              "foursquare": {
+                "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                "foursquare_url": "https://4sq.com/2Fm28zU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 4,
+              "count": 4,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6993269,
+                  "user": {
+                    "uid": 6993269,
+                    "user_name": "Jarous777",
+                    "first_name": "Jaroslav",
+                    "last_name": "K.",
+                    "bio": "Why would you drink a fruit juice if there was beer on tap?",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/86db6967d5412bc98676f6b33db4ffc3_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1101821865,
+                  "like_owner": false,
+                  "created_at": "Tue, 02 Nov 2021 16:46:01 +0000"
+                },
+                {
+                  "uid": 2392183,
+                  "user": {
+                    "uid": 2392183,
+                    "user_name": "DeKaeM",
+                    "first_name": "Marek",
+                    "last_name": "N.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b60d4c6b1c90f2ca31305daa54f68767_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1099542578,
+                  "like_owner": false,
+                  "created_at": "Fri, 29 Oct 2021 06:48:44 +0000"
+                },
+                {
+                  "uid": 8052,
+                  "user": {
+                    "uid": 8052,
+                    "user_name": "mw1414",
+                    "first_name": "Wardy",
+                    "last_name": "",
+                    "bio": "Ratings: 0=undrinkable, 1=yuck, 2=meh, 3=yum, 4.5=wow",
+                    "location": "Fairlight",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/2caea8705d6907872756375e01ff15bb_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1099509829,
+                  "like_owner": false,
+                  "created_at": "Fri, 29 Oct 2021 03:14:16 +0000"
+                },
+                {
+                  "uid": 380418,
+                  "user": {
+                    "uid": 380418,
+                    "user_name": "Charlie_Miso",
+                    "first_name": "Charlie",
+                    "last_name": "M.",
+                    "bio": "Honky sucker pig-head jive-turkey fool",
+                    "location": "2099 - > 4160 ",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/24376cbbe303ad79cf1ce93843d3ce1d_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1099497844,
+                  "like_owner": false,
+                  "created_at": "Fri, 29 Oct 2021 02:34:50 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 393756796,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_10_29/cb6ca1680c62480d80909b991faa423f_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_10_29/cb6ca1680c62480d80909b991faa423f_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_10_29/cb6ca1680c62480d80909b991faa423f_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_10_29/cb6ca1680c62480d80909b991faa423f_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1090983155,
+            "created_at": "Sat, 23 Oct 2021 08:12:26 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 9336481,
+              "user_name": "anthony_alvernes_3598",
+              "first_name": "Anthony",
+              "last_name": "A.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/7425789a9307e42cc84a647f79671c87_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1090428661,
+            "created_at": "Fri, 22 Oct 2021 09:59:54 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 7263284,
+              "user_name": "kris_3",
+              "first_name": "Kris",
+              "last_name": "M.",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/f80244ffc8aa31e15abd430aa15c6658_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8395122,
+              "venue_name": "Harajuku Gyoza Beer Stadium",
+              "venue_slug": "harajuku-gyoza-beer-stadium",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "dumpling_restaurant",
+                    "category_name": "Dumpling Restaurant",
+                    "category_id": "4bf58dd8d48988d108941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "theater",
+                    "category_name": "Theater",
+                    "category_id": "4bf58dd8d48988d137941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1/14 Darling Drive",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8766785,
+                "lng": 151.2014008
+              },
+              "contact": {
+                "twitter": "@harajukugyoza",
+                "venue_url": "http://harajukugyoza.com"
+              },
+              "foursquare": {
+                "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                "foursquare_url": "https://4sq.com/2Fm28zU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 1971226,
+                  "user": {
+                    "uid": 1971226,
+                    "user_name": "jamesandthegiantbeerau",
+                    "first_name": "James",
+                    "last_name": "C.",
+                    "bio": "",
+                    "location": "Australia",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/ecc09d6089db80cdc95448b04c489e71_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1097706783,
+                  "like_owner": false,
+                  "created_at": "Sun, 24 Oct 2021 06:01:12 +0000"
+                },
+                {
+                  "uid": 7318503,
+                  "user": {
+                    "uid": 7318503,
+                    "user_name": "balo-beer",
+                    "first_name": "Alberto",
+                    "last_name": "J.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/6ea7cfe5ba09d18e540bc7cad6d3afdd_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1096312068,
+                  "like_owner": false,
+                  "created_at": "Fri, 22 Oct 2021 10:51:05 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 392582301,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_10_22/b52cd22359045c824d374e13dbe141b2_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_10_22/b52cd22359045c824d374e13dbe141b2_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_10_22/b52cd22359045c824d374e13dbe141b2_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_10_22/b52cd22359045c824d374e13dbe141b2_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1039539223,
+            "created_at": "Sun, 13 Jun 2021 03:59:30 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8395122,
+              "venue_name": "Harajuku Gyoza Beer Stadium",
+              "venue_slug": "harajuku-gyoza-beer-stadium",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "dumpling_restaurant",
+                    "category_name": "Dumpling Restaurant",
+                    "category_id": "4bf58dd8d48988d108941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "theater",
+                    "category_name": "Theater",
+                    "category_id": "4bf58dd8d48988d137941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1/14 Darling Drive",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8766785,
+                "lng": 151.2014008
+              },
+              "contact": {
+                "twitter": "@harajukugyoza",
+                "venue_url": "http://harajukugyoza.com"
+              },
+              "foursquare": {
+                "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                "foursquare_url": "https://4sq.com/2Fm28zU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 367061864,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_13/e85da83ab6eb6460c84882f1a3019c73_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_13/e85da83ab6eb6460c84882f1a3019c73_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_13/e85da83ab6eb6460c84882f1a3019c73_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_13/e85da83ab6eb6460c84882f1a3019c73_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1033253064,
+            "created_at": "Sat, 29 May 2021 10:03:18 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 6430747,
+              "user_name": "Papicool",
+              "first_name": "Andres",
+              "last_name": "N.",
+              "location": "New Caledonia ",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/2df0db176dacad08f7cbabcb1354e52b_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8395122,
+              "venue_name": "Harajuku Gyoza Beer Stadium",
+              "venue_slug": "harajuku-gyoza-beer-stadium",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "dumpling_restaurant",
+                    "category_name": "Dumpling Restaurant",
+                    "category_id": "4bf58dd8d48988d108941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "theater",
+                    "category_name": "Theater",
+                    "category_id": "4bf58dd8d48988d137941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1/14 Darling Drive",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8766785,
+                "lng": 151.2014008
+              },
+              "contact": {
+                "twitter": "@harajukugyoza",
+                "venue_url": "http://harajukugyoza.com"
+              },
+              "foursquare": {
+                "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                "foursquare_url": "https://4sq.com/2Fm28zU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 5472064,
+                  "user": {
+                    "uid": 5472064,
+                    "user_name": "AbsolutKrieg",
+                    "first_name": "Jimmy",
+                    "last_name": "G.",
+                    "bio": "Beer, whiskey and coffee are my loves! I use the uni scoring system for my ratings, and love both strong and light beers",
+                    "location": "Sydney NSW",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/546793ebb7832fa76b913d731a1f03e3_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1019808010,
+                  "like_owner": false,
+                  "created_at": "Sat, 29 May 2021 10:35:28 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 363882722,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_05_29/65fd10e9c4853acce7e5ca780b297c1c_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_05_29/65fd10e9c4853acce7e5ca780b297c1c_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_05_29/65fd10e9c4853acce7e5ca780b297c1c_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_05_29/65fd10e9c4853acce7e5ca780b297c1c_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1033233923,
+            "created_at": "Sat, 29 May 2021 05:43:11 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 8792445,
+              "user_name": "stek0",
+              "first_name": "Stefan",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/58f3ea9c20fb21423c69fb996e1a0f9d?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8395122,
+              "venue_name": "Harajuku Gyoza Beer Stadium",
+              "venue_slug": "harajuku-gyoza-beer-stadium",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "dumpling_restaurant",
+                    "category_name": "Dumpling Restaurant",
+                    "category_id": "4bf58dd8d48988d108941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "theater",
+                    "category_name": "Theater",
+                    "category_id": "4bf58dd8d48988d137941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1/14 Darling Drive",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8766785,
+                "lng": 151.2014008
+              },
+              "contact": {
+                "twitter": "@harajukugyoza",
+                "venue_url": "http://harajukugyoza.com"
+              },
+              "foursquare": {
+                "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                "foursquare_url": "https://4sq.com/2Fm28zU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 363872594,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_05_29/fea37d8302ccff3d15c8dfdac9315575_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_05_29/fea37d8302ccff3d15c8dfdac9315575_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_05_29/fea37d8302ccff3d15c8dfdac9315575_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_05_29/fea37d8302ccff3d15c8dfdac9315575_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 788,
+                  "user_badge_id": 836478787,
+                  "badge_name": "Photogenic Brew (Level 3)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 15 check-ins with a photo. ",
+                  "created_at": "Sat, 29 May 2021 05:43:12 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 60,
+                  "user_badge_id": 836478788,
+                  "badge_name": "I Believe in IPA!",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 5 different IPAs. Try 5 more for Level 2! Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=EhBh7a4YrPk&list=\">podcast</a>\n",
+                  "created_at": "Sat, 29 May 2021 05:43:12 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1023500050,
+            "created_at": "Sun, 02 May 2021 10:38:16 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 227968,
+              "user_name": "schenky",
+              "first_name": "Dave",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/d18d8e4964c63db7cb3d2a8a0c9db2c4?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4294420,
+              "beer_name": "Gin IPA",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "yoyogi-gin-ipa",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 308475,
+              "brewery_name": "Yoyogi",
+              "brewery_slug": "yoyogi",
+              "brewery_page_url": "/Yoyogi",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-308475_94430.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/YoyogiJapaneseCraftBeer/",
+                "url": "https://yoyogibeer.com/"
+              },
+              "location": {
+                "brewery_city": "Sydney",
+                "brewery_state": "NSW",
+                "lat": -33.8717,
+                "lng": 151.198
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8395122,
+              "venue_name": "Harajuku Gyoza Beer Stadium",
+              "venue_slug": "harajuku-gyoza-beer-stadium",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "dumpling_restaurant",
+                    "category_name": "Dumpling Restaurant",
+                    "category_id": "4bf58dd8d48988d108941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "theater",
+                    "category_name": "Theater",
+                    "category_id": "4bf58dd8d48988d137941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1/14 Darling Drive",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8766785,
+                "lng": 151.2014008
+              },
+              "contact": {
+                "twitter": "@harajukugyoza",
+                "venue_url": "http://harajukugyoza.com"
+              },
+              "foursquare": {
+                "foursquare_id": "5be4e9f5a8eb60002ce16a94",
+                "foursquare_url": "https://4sq.com/2Fm28zU"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/dumplings_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 719603,
+                  "user": {
+                    "uid": 719603,
+                    "user_name": "Jason_V_P",
+                    "first_name": "Jason",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "Toowoomba",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3828c5e63bfe7b1aab423881d33b1e40_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1005487561,
+                  "like_owner": false,
+                  "created_at": "Sun, 02 May 2021 10:39:36 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "next_url": "",
+          "max_id": ""
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.8,
+            "beer": {
+              "bid": 4566544,
+              "beer_name": "Xevsuretis Dzala",
+              "beer_abv": 6.5,
+              "beer_ibu": 60,
+              "beer_slug": "megobrebi-brewery-xevsuretis-dzala",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4566544_8c344_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 417509,
+              "brewery_name": "Megobrebi Brewery",
+              "brewery_slug": "megobrebi-brewery",
+              "brewery_page_url": "/Megobrebi1",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-417509_4ad66.jpeg",
+              "country_name": "Georgia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/Megobrebi-Brewery-662287927537945/",
+                "instagram": "megobrebi.brewery",
+                "url": "http://www.mgbrew.com"
+              },
+              "location": {
+                "brewery_city": "Tbilisi",
+                "brewery_state": "თბილისი",
+                "lat": 41.6615982,
+                "lng": 44.921299
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.725,
+            "beer": {
+              "bid": 4444125,
+              "beer_name": "West Coast IPA (Citra & Idaho 7)",
+              "beer_abv": 6.5,
+              "beer_ibu": 55,
+              "beer_slug": "frequentem-brewing-co-west-coast-ipa-citra-and-idaho-7",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 468153,
+              "brewery_name": "Frequentem Brewing Co.",
+              "brewery_slug": "frequentem-brewing-co",
+              "brewery_page_url": "/FrequentemBrewingCo",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-468153_1f79c.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/Frequentem-Brewing-Co-112490587115468",
+                "instagram": "frequentembrewingco",
+                "url": "http://frequentembrewing.com"
+              },
+              "location": {
+                "brewery_city": "Canandaigua",
+                "brewery_state": "NY",
+                "lat": 42.8838997,
+                "lng": -77.2790985
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.7,
+            "beer": {
+              "bid": 1209056,
+              "beer_name": "Lost Bachelor IPA",
+              "beer_abv": 6.22,
+              "beer_ibu": 117,
+              "beer_slug": "4655-brew-co-lost-bachelor-ipa",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1209056_47385_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 211839,
+              "brewery_name": "4655 Brewing Company",
+              "brewery_slug": "4655-brew-co",
+              "brewery_page_url": "/4655BrewCo",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-211839_73261.jpeg",
+              "country_name": "Switzerland",
+              "contact": {
+                "twitter": "4655brewco",
+                "facebook": "https://www.facebook.com/4655BrewCo",
+                "instagram": "4655brewco",
+                "url": "http://4655brew.co"
+              },
+              "location": {
+                "brewery_city": "Stüsslingen",
+                "brewery_state": "Solothurn",
+                "lat": 47.3889008,
+                "lng": 7.9723902
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.7,
+            "beer": {
+              "bid": 4192504,
+              "beer_name": "Primeira Romaria: De Leste A Oeste",
+              "beer_abv": 6.7,
+              "beer_ibu": 38,
+              "beer_slug": "em-nome-do-malte-primeira-romaria-de-leste-a-oeste",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4192504_0f5b6_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 481542,
+              "brewery_name": "Em Nome do Malte",
+              "brewery_slug": "em-nome-do-malte",
+              "brewery_page_url": "/EmNomeDoMalte",
+              "brewery_type": "Bar / Restaurant / Store",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-481542_41f5f.jpeg",
+              "country_name": "Brazil",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/emnomedomalte",
+                "instagram": "emnomedomalte",
+                "url": "https://www.goomer.app/emnomedomalte/menu"
+              },
+              "location": {
+                "brewery_city": "Piracicaba",
+                "brewery_state": "São Paulo",
+                "lat": -22.7208004,
+                "lng": -47.6385994
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.7,
+            "beer": {
+              "bid": 1698071,
+              "beer_name": "The Hermit & His Lantern",
+              "beer_abv": 7.6,
+              "beer_ibu": 63,
+              "beer_slug": "brujos-brewing-the-hermit-and-his-lantern",
+              "beer_style": "IPA - American",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-1698071_c15e5_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 178746,
+              "brewery_name": "Brujos Brewing",
+              "brewery_slug": "brujos-brewing",
+              "brewery_page_url": "/BrujosBrewing",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-178746_32d40.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "Brujos_Brewing",
+                "facebook": "https://www.facebook.com/brujosbrewing",
+                "instagram": "Brujos_Brewing",
+                "url": "http://Brujos.bigcartel.com"
+              },
+              "location": {
+                "brewery_city": "Portland",
+                "brewery_state": "OR",
+                "lat": 45.5051003,
+                "lng": -122.6750031
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.56,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

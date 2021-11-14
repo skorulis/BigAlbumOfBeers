@@ -1,0 +1,3921 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.439,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 4272912,
+      "beer_name": "Vienna Dreamin’",
+      "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 4.8,
+      "beer_ibu": 35,
+      "beer_description": "",
+      "beer_style": "Lager - Vienna",
+      "is_in_production": 1,
+      "beer_slug": "atomic-vienna-dreamin",
+      "is_homebrew": 0,
+      "created_at": "Sun, 18 Apr 2021 04:03:43 +0000",
+      "rating_count": 26,
+      "rating_score": 3.27308,
+      "stats": {
+        "total_count": 29,
+        "monthly_count": 1,
+        "total_user_count": 29,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 474239,
+        "brewery_name": "Atomic",
+        "brewery_slug": "atomic",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/AtomicRedfern",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "atomicbeers",
+          "facebook": "https://facebook.com/atomic.redfern",
+          "url": "https://atomic.beer"
+        },
+        "location": {
+          "brewery_city": "158 Regent Street",
+          "brewery_state": "New South Wales",
+          "lat": -33.8949,
+          "lng": 151.199
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 392314286,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_10_20/ba4e24963cd617c1741f1edcfbf3be1b_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_10_20/ba4e24963cd617c1741f1edcfbf3be1b_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_10_20/ba4e24963cd617c1741f1edcfbf3be1b_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_10_20/ba4e24963cd617c1741f1edcfbf3be1b_raw.jpg"
+            },
+            "created_at": "Wed, 20 Oct 2021 08:12:01 +0000",
+            "checkin_id": 1089868050,
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 50,
+              "beer_style": "Lager - Vienna",
+              "rating_score": 3.273,
+              "rating_count": 26,
+              "count": 26,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7387181,
+              "user_name": "daroness",
+              "first_name": "Carina",
+              "last_name": "G",
+              "user_avatar": "https://untappd.akamaized.net/profile/e9c93bf99f1694a020a7964a1cdd59a7_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 391379955,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_10_15/b3ef8b7705a42072110638334a2ba777_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_10_15/b3ef8b7705a42072110638334a2ba777_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_10_15/b3ef8b7705a42072110638334a2ba777_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_10_15/b3ef8b7705a42072110638334a2ba777_raw.jpg"
+            },
+            "created_at": "Fri, 15 Oct 2021 06:51:08 +0000",
+            "checkin_id": 1087934420,
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 50,
+              "beer_style": "Lager - Vienna",
+              "rating_score": 3.273,
+              "rating_count": 26,
+              "count": 26,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2482072,
+              "user_name": "GrogMundi",
+              "first_name": "Corry",
+              "last_name": "A",
+              "user_avatar": "https://untappd.akamaized.net/profile/2ff155ad92e8dd6036f8c8a071f7a9b9_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 367845831,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_18/415606d6febf8a799419fc3e6bd1d813_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_18/415606d6febf8a799419fc3e6bd1d813_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_18/415606d6febf8a799419fc3e6bd1d813_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_18/415606d6febf8a799419fc3e6bd1d813_raw.jpg"
+            },
+            "created_at": "Fri, 18 Jun 2021 09:53:50 +0000",
+            "checkin_id": 1041088922,
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 50,
+              "beer_style": "Lager - Vienna",
+              "rating_score": 3.273,
+              "rating_count": 26,
+              "count": 26,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4415166,
+              "user_name": "aditalwar",
+              "first_name": "Adi",
+              "last_name": "T",
+              "user_avatar": "https://untappd.akamaized.net/profile/4860bf455d3b94d85e24b97bffcc87a8_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 366736536,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_12/02f8a8b463a06037cb9aac655362afd5_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_12/02f8a8b463a06037cb9aac655362afd5_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_12/02f8a8b463a06037cb9aac655362afd5_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_12/02f8a8b463a06037cb9aac655362afd5_raw.jpg"
+            },
+            "created_at": "Sat, 12 Jun 2021 12:53:36 +0000",
+            "checkin_id": 1038883346,
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 50,
+              "beer_style": "Lager - Vienna",
+              "rating_score": 3.273,
+              "rating_count": 26,
+              "count": 26,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 77397,
+              "user_name": "nickd717",
+              "first_name": "Nick",
+              "last_name": "D",
+              "user_avatar": "https://untappd.akamaized.net/profile/eb13d62519016798e5bbb9a026d25e1f_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 366131214,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_09/5b54b5af8a81cdb542311798e8d28a78_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_09/5b54b5af8a81cdb542311798e8d28a78_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_09/5b54b5af8a81cdb542311798e8d28a78_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_09/5b54b5af8a81cdb542311798e8d28a78_raw.jpg"
+            },
+            "created_at": "Wed, 09 Jun 2021 05:57:49 +0000",
+            "checkin_id": 1037703928,
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 50,
+              "beer_style": "Lager - Vienna",
+              "rating_score": 3.273,
+              "rating_count": 26,
+              "count": 26,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2653162,
+              "user_name": "CornishmanInSydney2020",
+              "first_name": "Adam",
+              "last_name": "O",
+              "user_avatar": "https://untappd.akamaized.net/profile/bd2054119e638d8e6bba503c89bc96d5_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 365714542,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_06/e5b03a3b8882c7c78582353e3a190cf4_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_06/e5b03a3b8882c7c78582353e3a190cf4_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_06/e5b03a3b8882c7c78582353e3a190cf4_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_06/e5b03a3b8882c7c78582353e3a190cf4_raw.jpg"
+            },
+            "created_at": "Sun, 06 Jun 2021 06:16:51 +0000",
+            "checkin_id": 1036884190,
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 50,
+              "beer_style": "Lager - Vienna",
+              "rating_score": 3.273,
+              "rating_count": 26,
+              "count": 26,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S",
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 365324970,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_05/30d35637adb1620974d31b0f7913dca4_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_05/30d35637adb1620974d31b0f7913dca4_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_05/30d35637adb1620974d31b0f7913dca4_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_05/30d35637adb1620974d31b0f7913dca4_raw.jpg"
+            },
+            "created_at": "Sat, 05 Jun 2021 01:22:16 +0000",
+            "checkin_id": 1036100419,
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 50,
+              "beer_style": "Lager - Vienna",
+              "rating_score": 3.273,
+              "rating_count": 26,
+              "count": 26,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5032707,
+              "user_name": "mattysgod",
+              "first_name": "Matty",
+              "last_name": "M",
+              "user_avatar": "https://untappd.akamaized.net/profile/c9fe85bccdc583a74ad7398f302b14eb_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 358832832,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_05_02/5ea07f8523d2018d8c157c723bbdeca1_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_05_02/5ea07f8523d2018d8c157c723bbdeca1_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_05_02/5ea07f8523d2018d8c157c723bbdeca1_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_05_02/5ea07f8523d2018d8c157c723bbdeca1_raw.jpg"
+            },
+            "created_at": "Sun, 02 May 2021 04:11:48 +0000",
+            "checkin_id": 1023468508,
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 50,
+              "beer_style": "Lager - Vienna",
+              "rating_score": 3.273,
+              "rating_count": 26,
+              "count": 26,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2626705,
+              "user_name": "Cjrandall87",
+              "first_name": "Cj",
+              "last_name": "R",
+              "user_avatar": "https://untappd.akamaized.net/profile/7c3570c19916ff0b529c5e7d5e02b622_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 358496520,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_05_01/3b0a6afc114c033925ce8c83ff7bca7e_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_05_01/3b0a6afc114c033925ce8c83ff7bca7e_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_05_01/3b0a6afc114c033925ce8c83ff7bca7e_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_05_01/3b0a6afc114c033925ce8c83ff7bca7e_raw.jpg"
+            },
+            "created_at": "Sat, 01 May 2021 10:33:43 +0000",
+            "checkin_id": 1022817215,
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 50,
+              "beer_style": "Lager - Vienna",
+              "rating_score": 3.273,
+              "rating_count": 26,
+              "count": 26,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 8085998,
+              "user_name": "DawnMalt",
+              "first_name": "Shaun",
+              "last_name": "H",
+              "user_avatar": "https://gravatar.com/avatar/39e35c02422ba97f7dba79c699c0780a?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 358496377,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_05_01/e0e1c98307e1857520417dad875232be_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_05_01/e0e1c98307e1857520417dad875232be_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_05_01/e0e1c98307e1857520417dad875232be_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_05_01/e0e1c98307e1857520417dad875232be_raw.jpg"
+            },
+            "created_at": "Sat, 01 May 2021 10:31:50 +0000",
+            "checkin_id": 1022816998,
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 50,
+              "beer_style": "Lager - Vienna",
+              "rating_score": 3.273,
+              "rating_count": 26,
+              "count": 26,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 8086001,
+              "user_name": "Patchy_G",
+              "first_name": "Patrick",
+              "last_name": "G",
+              "user_avatar": "https://untappd.akamaized.net/profile/bf1ab83000402f40f9adf73238765f81_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10240325,
+                "venue_name": "Atomic Beer Project",
+                "venue_slug": "atomic-beer-project",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "158 Regent St",
+                  "venue_city": "Redfern",
+                  "venue_state": "NSW",
+                  "lat": -33.895,
+                  "lng": 151.199
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.atomic.beer"
+                },
+                "foursquare": {
+                  "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                  "foursquare_url": "https://4sq.com/34iwRbZ"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 1089868050,
+            "created_at": "Wed, 20 Oct 2021 08:11:10 +0000",
+            "checkin_comment": "",
+            "rating_score": 2,
+            "user": {
+              "uid": 7387181,
+              "user_name": "daroness",
+              "first_name": "Carina",
+              "last_name": "G.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/e9c93bf99f1694a020a7964a1cdd59a7_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 392314286,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_10_20/ba4e24963cd617c1741f1edcfbf3be1b_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_10_20/ba4e24963cd617c1741f1edcfbf3be1b_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_10_20/ba4e24963cd617c1741f1edcfbf3be1b_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_10_20/ba4e24963cd617c1741f1edcfbf3be1b_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 1823,
+                  "user_badge_id": 899371286,
+                  "badge_name": "Photogenic Brew  (Level 37)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 185 check-ins with a photo. ",
+                  "created_at": "Wed, 20 Oct 2021 08:11:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1087934420,
+            "created_at": "Fri, 15 Oct 2021 06:50:24 +0000",
+            "checkin_comment": "A really light and crisp lager.",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 2482072,
+              "user_name": "GrogMundi",
+              "first_name": "Corry",
+              "last_name": "A.",
+              "location": "Australia ",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/2ff155ad92e8dd6036f8c8a071f7a9b9_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3551443,
+                  "user": {
+                    "uid": 3551443,
+                    "user_name": "Beer_Morphine",
+                    "first_name": "Vicente",
+                    "last_name": "N.",
+                    "bio": "",
+                    "location": "Niterói - RJ",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/eede4e0d81db839a766ae0e2569a6d07_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1097690307,
+                  "like_owner": false,
+                  "created_at": "Sun, 24 Oct 2021 04:44:45 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 391379955,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_10_15/b3ef8b7705a42072110638334a2ba777_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_10_15/b3ef8b7705a42072110638334a2ba777_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_10_15/b3ef8b7705a42072110638334a2ba777_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_10_15/b3ef8b7705a42072110638334a2ba777_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1042346060,
+            "created_at": "Sun, 20 Jun 2021 06:45:54 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 8980683,
+              "user_name": "Cheezeblast",
+              "first_name": "Axel",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/06cbeeb844d729745b7e03d33c69ae5f?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 1,
+                  "user_badge_id": 846883658,
+                  "badge_name": "Newbie",
+                  "badge_description": "So, you're new around here? Congrats on your first brew! This one's for you.",
+                  "created_at": "Sun, 20 Jun 2021 06:45:54 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_newbie_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_newbie_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_newbie_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1041092221,
+            "created_at": "Fri, 18 Jun 2021 10:44:15 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 4415713,
+              "user_name": "pssidharth",
+              "first_name": "Sid",
+              "last_name": "P.",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/af4bca1a09f596a312b937bc5d23bd8d?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2117,
+                  "user_badge_id": 845445584,
+                  "badge_name": "Lager Jack  (Level 11)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 55 different Lagers! Try 5 more to unlock Level 12.",
+                  "created_at": "Fri, 18 Jun 2021 10:44:15 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1041088922,
+            "created_at": "Fri, 18 Jun 2021 09:53:35 +0000",
+            "checkin_comment": "Great malt bill.. Interesting and delicious flavours with a smooth bold finish",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 4415166,
+              "user_name": "aditalwar",
+              "first_name": "Adi",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/4860bf455d3b94d85e24b97bffcc87a8_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 367845831,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_18/415606d6febf8a799419fc3e6bd1d813_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_18/415606d6febf8a799419fc3e6bd1d813_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_18/415606d6febf8a799419fc3e6bd1d813_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_18/415606d6febf8a799419fc3e6bd1d813_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 90425,
+                  "user_badge_id": 845441992,
+                  "badge_name": "Riding Steady (Level 90)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 450 different beers with an ABV of 5% and lower. ",
+                  "created_at": "Fri, 18 Jun 2021 09:53:36 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1039995573,
+            "created_at": "Mon, 14 Jun 2021 03:50:16 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 6394196,
+              "user_name": "_oco",
+              "first_name": "Matt",
+              "last_name": "O.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Design + interaction\nmattoconnor.net\n_oco",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/e3600a94def1c8ff6813697ba4a5dd34?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 3785,
+                  "user_badge_id": 844080799,
+                  "badge_name": "Bar Explorer (Level 3)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 15 distinct venues!",
+                  "created_at": "Mon, 14 Jun 2021 03:50:17 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 279,
+                  "user_badge_id": 844080800,
+                  "badge_name": "Lager Jack (Level 3)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 15 different Lagers! Try 5 more to unlock Level 4.",
+                  "created_at": "Mon, 14 Jun 2021 03:50:17 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1038883346,
+            "created_at": "Sat, 12 Jun 2021 12:53:21 +0000",
+            "checkin_comment": "Ok weenie lager, caramel, bread, light hop bitterness",
+            "rating_score": 3.1,
+            "user": {
+              "uid": 77397,
+              "user_name": "nickd717",
+              "first_name": "Nick",
+              "last_name": "D.",
+              "location": "'Frisco, CA",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "Recovering Jersey Shore character, made a second life as a Silicon Valley startup guy. Just keep ticking...",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/eb13d62519016798e5bbb9a026d25e1f_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 366736536,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_12/02f8a8b463a06037cb9aac655362afd5_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_12/02f8a8b463a06037cb9aac655362afd5_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_12/02f8a8b463a06037cb9aac655362afd5_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_12/02f8a8b463a06037cb9aac655362afd5_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 243897,
+                  "user_badge_id": 842573654,
+                  "badge_name": "Viennaville (Level 2)",
+                  "badge_description": "With an interesting history based in heritage and innovation, the Vienna Lager has come, gone, and come again, regaining popularity with today's craft brewers. That's 10 different beers with the style of Lager - Vienna. Try 5 more for Level 3!",
+                  "created_at": "Sat, 12 Jun 2021 12:53:22 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_viennaville_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_viennaville_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_viennaville_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1038849593,
+            "created_at": "Sat, 12 Jun 2021 09:46:04 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 6412292,
+              "user_name": "Fabsiyay",
+              "first_name": "Fabian",
+              "last_name": "K.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/d579bf0719cdd527e9e0154934fa5362?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 285,
+                  "user_badge_id": 842521639,
+                  "badge_name": "Lager Jack (Level 9)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 45 different Lagers! Try 5 more to unlock Level 10.",
+                  "created_at": "Sat, 12 Jun 2021 09:46:04 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1037712052,
+            "created_at": "Wed, 09 Jun 2021 10:44:32 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1131193,
+              "user_name": "akumria",
+              "first_name": "Anand",
+              "last_name": "K.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/e0c7a8f9c47a53a79ffebbfba1e7634b_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 93632,
+                  "user_badge_id": 841266422,
+                  "badge_name": "Down Under (Level 97)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 485 different beers from Australia. Try 5 more for Level 98!",
+                  "created_at": "Wed, 09 Jun 2021 10:44:32 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1037703928,
+            "created_at": "Wed, 09 Jun 2021 05:56:21 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 2653162,
+              "user_name": "CornishmanInSydney2020",
+              "first_name": "Adam",
+              "last_name": "O.",
+              "location": "Sydney",
+              "url": "http://www.cornishmaninsydney.com",
+              "is_supporter": 0,
+              "bio": "6 years a Sydneysider since leaving London, loving the Aussie lifestyle but could really do with a decent pasty!",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/bd2054119e638d8e6bba503c89bc96d5_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 5,
+              "count": 5,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2366717,
+                  "user": {
+                    "uid": 2366717,
+                    "user_name": "Kernow",
+                    "first_name": "Dave kernow",
+                    "last_name": "",
+                    "bio": "Camra Member ( West Suffolk and Borders), Nethergate Brewery member....Cornishman living in Suffolk",
+                    "location": "Suffolk, England ",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/8c251aacbc0f50c5305511d42c021522_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1026087584,
+                  "like_owner": false,
+                  "created_at": "Wed, 09 Jun 2021 14:50:13 +0000"
+                },
+                {
+                  "uid": 5461479,
+                  "user": {
+                    "uid": 5461479,
+                    "user_name": "Awpalicious",
+                    "first_name": "Nick",
+                    "last_name": "S.",
+                    "bio": "An IPA a day keeps the doctor away (Dont hold me to that ...)",
+                    "location": "Sydney",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b9f71971fc9f2ffc3a35b71b796bfa0e_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1026054148,
+                  "like_owner": false,
+                  "created_at": "Wed, 09 Jun 2021 10:59:37 +0000"
+                },
+                {
+                  "uid": 6824938,
+                  "user": {
+                    "uid": 6824938,
+                    "user_name": "Camolovesacraft",
+                    "first_name": "Adam",
+                    "last_name": "C.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/9ffae2150932f315834bf5f0494a74d5_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1026034744,
+                  "like_owner": false,
+                  "created_at": "Wed, 09 Jun 2021 07:47:21 +0000"
+                },
+                {
+                  "uid": 6220484,
+                  "user": {
+                    "uid": 6220484,
+                    "user_name": "joannaa",
+                    "first_name": "Joanna",
+                    "last_name": "R.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/e392b95562a3ea9a463642d93cc413dd-fb_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1026034562,
+                  "like_owner": false,
+                  "created_at": "Wed, 09 Jun 2021 07:44:49 +0000"
+                },
+                {
+                  "uid": 223053,
+                  "user": {
+                    "uid": 223053,
+                    "user_name": "fidothedogster",
+                    "first_name": "Paul",
+                    "last_name": "G.",
+                    "bio": "From Wales. Give me sci-fi/horror and Motorhead oh and a bigly cup of covfefe. Trainee inebriologist & badge whore.",
+                    "location": "Newport ",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/d1828232ae8fc78d2aee12ef1ccfc4a7_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1026030679,
+                  "like_owner": false,
+                  "created_at": "Wed, 09 Jun 2021 06:54:15 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 366131214,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_09/5b54b5af8a81cdb542311798e8d28a78_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_09/5b54b5af8a81cdb542311798e8d28a78_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_09/5b54b5af8a81cdb542311798e8d28a78_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_09/5b54b5af8a81cdb542311798e8d28a78_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 133276,
+                  "user_badge_id": 841257902,
+                  "badge_name": "Draft City (Level 23)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 115 checkins with the serving style of Draft. Try 5 more for Level 24!",
+                  "created_at": "Wed, 09 Jun 2021 05:56:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_DraftCity_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 93629,
+                  "user_badge_id": 841257903,
+                  "badge_name": "Down Under (Level 94)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 470 different beers from Australia. Try 5 more for Level 95!",
+                  "created_at": "Wed, 09 Jun 2021 05:56:21 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1036884190,
+            "created_at": "Sun, 06 Jun 2021 06:16:33 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "S.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 7280036,
+                  "user": {
+                    "uid": 7280036,
+                    "user_name": "Beerhunk_yum",
+                    "first_name": "Ayden",
+                    "last_name": "S.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/00b2ab356dc80fdb4250bc6721ebbee8-fb_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1024776573,
+                  "like_owner": false,
+                  "created_at": "Sun, 06 Jun 2021 09:20:04 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 365714542,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_06/e5b03a3b8882c7c78582353e3a190cf4_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_06/e5b03a3b8882c7c78582353e3a190cf4_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_06/e5b03a3b8882c7c78582353e3a190cf4_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_06/e5b03a3b8882c7c78582353e3a190cf4_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1036100419,
+            "created_at": "Sat, 05 Jun 2021 01:22:07 +0000",
+            "checkin_comment": "Heavy coloured lager. Not too special but",
+            "rating_score": 3,
+            "user": {
+              "uid": 5032707,
+              "user_name": "mattysgod",
+              "first_name": "Matty",
+              "last_name": "M.",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/c9fe85bccdc583a74ad7398f302b14eb_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 13,
+              "count": 10,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4291660,
+                  "user": {
+                    "uid": 4291660,
+                    "user_name": "Frossi666",
+                    "first_name": "Frossi",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Leeds",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/d30c75a24fa91cdc46047a2a12001b4a_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1023934226,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Jun 2021 11:24:57 +0000"
+                },
+                {
+                  "uid": 4985553,
+                  "user": {
+                    "uid": 4985553,
+                    "user_name": "londonsalamanda",
+                    "first_name": "Amanda",
+                    "last_name": "V.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/72f792ba02b0e0b373535f4ecc0aba2b_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1023892750,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Jun 2021 08:25:15 +0000"
+                },
+                {
+                  "uid": 719603,
+                  "user": {
+                    "uid": 719603,
+                    "user_name": "Jason_V_P",
+                    "first_name": "Jason",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "Toowoomba",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/3828c5e63bfe7b1aab423881d33b1e40_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1023847673,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Jun 2021 05:03:04 +0000"
+                },
+                {
+                  "uid": 3666334,
+                  "user": {
+                    "uid": 3666334,
+                    "user_name": "mellion108",
+                    "first_name": "Mel",
+                    "last_name": "",
+                    "bio": "Beer and hockey and books and movies!",
+                    "location": "Michigan",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b94ea91bf1367a17c0bd8ef930747dcc_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1023840198,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Jun 2021 04:31:33 +0000"
+                },
+                {
+                  "uid": 1679436,
+                  "user": {
+                    "uid": 1679436,
+                    "user_name": "ChiTownBrews83",
+                    "first_name": "Kevin",
+                    "last_name": "K.",
+                    "bio": "Cause of and solution to all of life's problems",
+                    "location": "Southside Chicago ",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/1562b2266e186cb3c5544470029d1e28_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1023837681,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Jun 2021 04:22:02 +0000"
+                },
+                {
+                  "uid": 4040712,
+                  "user": {
+                    "uid": 4040712,
+                    "user_name": "Kim1105",
+                    "first_name": "Kim",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/dadd35317039c45b82717a500fc3b3ec_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1023830653,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Jun 2021 03:57:23 +0000"
+                },
+                {
+                  "uid": 7769766,
+                  "user": {
+                    "uid": 7769766,
+                    "user_name": "goparb",
+                    "first_name": "Andrey",
+                    "last_name": "M.",
+                    "bio": "instagram.com/mikheev094",
+                    "location": "Russia, Krasnoyarsk",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/0a7b3f637a8e1396b5d4e4c86ecd295f_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1023810174,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Jun 2021 03:08:54 +0000"
+                },
+                {
+                  "uid": 2384389,
+                  "user": {
+                    "uid": 2384389,
+                    "user_name": "viciousfishes",
+                    "first_name": "Parrot!",
+                    "last_name": "",
+                    "bio": "\"Boy, that escalated quickly. I mean, that really got out of hand fast.\"",
+                    "location": "Cedar Park, Texas",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/267c6ce23d37945ed8c28f0161d88ac7_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1023782987,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Jun 2021 02:16:04 +0000"
+                },
+                {
+                  "uid": 3264666,
+                  "user": {
+                    "uid": 3264666,
+                    "user_name": "buslightyear",
+                    "first_name": "Rick",
+                    "last_name": "G.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/7786bc873d96293c2903fe85053a4564_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1023779672,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Jun 2021 02:11:20 +0000"
+                },
+                {
+                  "uid": 2635175,
+                  "user": {
+                    "uid": 2635175,
+                    "user_name": "Lance-H",
+                    "first_name": "Lance",
+                    "last_name": "H.",
+                    "bio": "",
+                    "location": "NZ",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/d4b47f47df6ef7301f322dc487d42278_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1023770618,
+                  "like_owner": false,
+                  "created_at": "Sat, 05 Jun 2021 01:57:27 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 365324970,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_06_05/30d35637adb1620974d31b0f7913dca4_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_06_05/30d35637adb1620974d31b0f7913dca4_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_06_05/30d35637adb1620974d31b0f7913dca4_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_06_05/30d35637adb1620974d31b0f7913dca4_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1026730742,
+            "created_at": "Wed, 12 May 2021 03:30:11 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 6880462,
+              "user_name": "dmilius3",
+              "first_name": "Dan",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/9a57473e36ffa2dc1bf8b1197e7661cc?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 12058,
+                  "user_badge_id": 829221626,
+                  "badge_name": "Beer Foodie",
+                  "badge_description": "Wine isn't the only beverage worthy of pairing with a delicious meal. With so many styles widely available, there’s a perfect pint for any cuisine of your choosing. That's a beer at 5 different venues categorized as a Restaurant. Try 5 more for Level 2!",
+                  "created_at": "Wed, 12 May 2021 03:30:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 187,
+                  "user_badge_id": 829221627,
+                  "badge_name": "Lager Jack",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren’t you?. That’s 5 different Lagers! Try 5 more to unlock Level 2.",
+                  "created_at": "Wed, 12 May 2021 03:30:11 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1024507898,
+            "created_at": "Thu, 06 May 2021 06:48:06 +0000",
+            "checkin_comment": "Urgh",
+            "rating_score": 3,
+            "user": {
+              "uid": 4348280,
+              "user_name": "Jeff__H",
+              "first_name": "Jeff",
+              "last_name": "H.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/d49d6c20e0a1070c6f2527ec4edd946e?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1023468508,
+            "created_at": "Sun, 02 May 2021 04:11:42 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 2626705,
+              "user_name": "Cjrandall87",
+              "first_name": "Cj",
+              "last_name": "R.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/7c3570c19916ff0b529c5e7d5e02b622_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4272912,
+              "beer_name": "Vienna Dreamin’",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 4.8,
+              "beer_ibu": 35,
+              "beer_slug": "atomic-vienna-dreamin",
+              "beer_description": "",
+              "beer_style": "Lager - Vienna",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 474239,
+              "brewery_name": "Atomic",
+              "brewery_slug": "atomic",
+              "brewery_page_url": "/AtomicRedfern",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-474239_e74c0.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "atomicbeers",
+                "facebook": "https://facebook.com/atomic.redfern",
+                "url": "https://atomic.beer"
+              },
+              "location": {
+                "brewery_city": "158 Regent Street",
+                "brewery_state": "New South Wales",
+                "lat": -33.8949,
+                "lng": 151.199
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10240325,
+              "venue_name": "Atomic Beer Project",
+              "venue_slug": "atomic-beer-project",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "158 Regent St",
+                "venue_city": "Redfern",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8949852,
+                "lng": 151.1989746
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.atomic.beer"
+              },
+              "foursquare": {
+                "foursquare_id": "5f3e5e0cbfa64f7e3a0d15cc",
+                "foursquare_url": "https://4sq.com/34iwRbZ"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 358832832,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_05_02/5ea07f8523d2018d8c157c723bbdeca1_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_05_02/5ea07f8523d2018d8c157c723bbdeca1_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_05_02/5ea07f8523d2018d8c157c723bbdeca1_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_05_02/5ea07f8523d2018d8c157c723bbdeca1_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2118,
+                  "user_badge_id": 825594435,
+                  "badge_name": "Lager Jack  (Level 12)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren't you?. That's 60 different Lagers! Try 5 more to unlock Level 13.",
+                  "created_at": "Sun, 02 May 2021 04:11:42 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/4272912?max_id=1023468508",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/4272912?max_id=1023468508",
+          "max_id": 1023468508
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.71154,
+            "beer": {
+              "bid": 3436717,
+              "beer_name": "Lechuza Lime With Prickly Pear",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "dry-county-brewing-company-lechuza-lime-with-prickly-pear",
+              "beer_style": "Lager - Vienna",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 234004,
+              "brewery_name": "Dry County Brewing Company",
+              "brewery_slug": "dry-county-brewing-company",
+              "brewery_page_url": "/DryCountyBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-234004_0b09a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "drycountybrewco",
+                "facebook": "http://www.facebook.com/drycountybrewco",
+                "instagram": "drycountybrewco",
+                "url": "http://www.drycountybrewco.com"
+              },
+              "location": {
+                "brewery_city": "Kennesaw",
+                "brewery_state": "GA",
+                "lat": 34.0215988,
+                "lng": -84.5936966
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.39182,
+            "beer": {
+              "bid": 3765647,
+              "beer_name": "Los Zombies",
+              "beer_abv": 8,
+              "beer_ibu": 0,
+              "beer_slug": "beer-zombies-brewing-co-los-zombies",
+              "beer_style": "Lager - Vienna",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3765647_87221_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 457753,
+              "brewery_name": "Beer Zombies Brewing Co. ",
+              "brewery_slug": "beer-zombies-brewing-co",
+              "brewery_page_url": "/BeerZombiesBrewingCo",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-457753_a5704.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "beerzombies1",
+                "facebook": "https://www.facebook.com/Beer-Zombies-709188702493242/",
+                "instagram": "beerzombies",
+                "url": "http://www.beer-zombies.com"
+              },
+              "location": {
+                "brewery_city": "Las Vegas",
+                "brewery_state": "NV",
+                "lat": 36.075901,
+                "lng": -115.1819992
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.33676,
+            "beer": {
+              "bid": 4079708,
+              "beer_name": "First Turn",
+              "beer_abv": 5.1,
+              "beer_ibu": 0,
+              "beer_slug": "parleaux-beer-lab-first-turn",
+              "beer_style": "Lager - Vienna",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 334616,
+              "brewery_name": "Parleaux Beer Lab",
+              "brewery_slug": "parleaux-beer-lab",
+              "brewery_page_url": "/ParleauxBeerLab",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-334616_07009.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "ParleauxBeerLab",
+                "facebook": "https://facebook.com/parleauxbeerlab/",
+                "instagram": "parleauxbeerlab",
+                "url": "https://www.parleauxbeerlab.com/"
+              },
+              "location": {
+                "brewery_city": "New Orleans",
+                "brewery_state": "LA",
+                "lat": 29.9606991,
+                "lng": -90.0341034
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.32143,
+            "beer": {
+              "bid": 3281117,
+              "beer_name": "Archduke",
+              "beer_abv": 9.1,
+              "beer_ibu": 0,
+              "beer_slug": "square-peg-brewerks-archduke",
+              "beer_style": "Lager - Vienna",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 340151,
+              "brewery_name": "Square Peg Brewerks",
+              "brewery_slug": "square-peg-brewerks",
+              "brewery_page_url": "/SquarePegBrewerks",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-340151_6f643.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/squarepegbrewerks",
+                "instagram": "squarepegbrewerks",
+                "url": "http://www.squarepegbrewerks.com"
+              },
+              "location": {
+                "brewery_city": "Alamosa",
+                "brewery_state": "CO",
+                "lat": 37.4684982,
+                "lng": -105.8669968
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.29444,
+            "beer": {
+              "bid": 4465980,
+              "beer_name": "Lapaki Lele",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "reve-brewing-lapaki-lele",
+              "beer_style": "Lager - Vienna",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4465980_67b92_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 389444,
+              "brewery_name": "REVE Brewing",
+              "brewery_slug": "reve-brewing",
+              "brewery_page_url": "/REVEBrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-389444_514be.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "REVEBrewing",
+                "facebook": "https://www.facebook.com/revebrewing",
+                "instagram": "REVEBrewing",
+                "url": "http://www.REVEBrewing.com"
+              },
+              "location": {
+                "brewery_city": "Atlantic Beach",
+                "brewery_state": "FL",
+                "lat": 30.3337994,
+                "lng": -81.4153976
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.65026,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

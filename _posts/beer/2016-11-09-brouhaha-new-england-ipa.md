@@ -10,7 +10,7 @@ breweryURL: "/brewery/brouhaha-brewery.html"
 style: "IPA - New England"
 score: 8
 img: /img/list/brouhaha-new-england-ipa.jpeg
-beer-date: "2019-06-22"
-desc: "Nice haze, fruity smell and a fresh taste. Basically just a smooth, easy drinking IPA"
+beer-date: "2021-11-12"
+desc: "Nice citrusy and pineapple taste but a little harsh in the smell. Gets better as it goes down as orange comes through"
 permalink: /beer/:title.html
 ---
