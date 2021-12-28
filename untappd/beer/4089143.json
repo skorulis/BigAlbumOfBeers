@@ -1,0 +1,3358 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.274,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 4089143,
+      "beer_name": "Betty’s Beer",
+      "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+      "beer_label_hd": "https://untappd.akamaized.net/site/beer_logos_hd/beer-4089143_5cb2e_hd.jpeg",
+      "beer_abv": 4.5,
+      "beer_ibu": 0,
+      "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+      "beer_style": "Cream Ale",
+      "is_in_production": 1,
+      "beer_slug": "pirate-life-brewing-betty-s-beer",
+      "is_homebrew": 0,
+      "created_at": "Tue, 08 Dec 2020 09:09:48 +0000",
+      "rating_count": 261,
+      "rating_score": 3.3046,
+      "stats": {
+        "total_count": 291,
+        "monthly_count": 33,
+        "total_user_count": 284,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 189380,
+        "brewery_name": "Pirate Life Brewing",
+        "brewery_slug": "pirate-life-brewing",
+        "brewery_type": "Macro Brewery",
+        "brewery_page_url": "/PirateLifeBrewing",
+        "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "PirateLifeBeer",
+          "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+          "url": "http://www.piratelife.com.au"
+        },
+        "location": {
+          "brewery_city": "Adelaide",
+          "brewery_state": "South Australia",
+          "lat": -34.8451,
+          "lng": 138.51
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 404534837,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_27/a1cf44b328545fabbb4d59d276b46d56_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_27/a1cf44b328545fabbb4d59d276b46d56_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_27/a1cf44b328545fabbb4d59d276b46d56_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_27/a1cf44b328545fabbb4d59d276b46d56_raw.jpg"
+            },
+            "created_at": "Mon, 27 Dec 2021 06:29:06 +0000",
+            "checkin_id": 1114464636,
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "is_in_production": 1,
+              "beer_style_id": 79,
+              "beer_style": "Cream Ale",
+              "rating_score": 3.305,
+              "rating_count": 261,
+              "count": 261,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 250553,
+              "user_name": "Rudy86",
+              "first_name": "Paul",
+              "last_name": "R",
+              "user_avatar": "https://untappd.akamaized.net/profile/aef0c9c21fb977a77c2a59cd7eef5c15_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8566850,
+                "venue_name": "Betty’s Burgers",
+                "venue_slug": "betty-s-burgers",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "211-215 Rundle St",
+                  "venue_city": "Adelaide",
+                  "venue_state": "SA",
+                  "lat": -34.9226,
+                  "lng": 138.608
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.bettysburgers.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "5c28503461f070002c2972a3",
+                  "foursquare_url": "https://4sq.com/2EY3AHI"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 404529422,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_27/58fba8999ba7fa739fc8d4d9656d5e52_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_27/58fba8999ba7fa739fc8d4d9656d5e52_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_27/58fba8999ba7fa739fc8d4d9656d5e52_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_27/58fba8999ba7fa739fc8d4d9656d5e52_raw.jpg"
+            },
+            "created_at": "Mon, 27 Dec 2021 04:15:16 +0000",
+            "checkin_id": 1114452181,
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "is_in_production": 1,
+              "beer_style_id": 79,
+              "beer_style": "Cream Ale",
+              "rating_score": 3.305,
+              "rating_count": 261,
+              "count": 261,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7706673,
+              "user_name": "Sugar_ballz",
+              "first_name": "Kalani",
+              "last_name": "R",
+              "user_avatar": "https://gravatar.com/avatar/d9ed171e038b42a7f85e262f0f0ef0d3?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 403658845,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_24/e2877e300c9792a05d47b8429d23fa1d_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_24/e2877e300c9792a05d47b8429d23fa1d_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_24/e2877e300c9792a05d47b8429d23fa1d_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_24/e2877e300c9792a05d47b8429d23fa1d_raw.jpg"
+            },
+            "created_at": "Fri, 24 Dec 2021 04:51:18 +0000",
+            "checkin_id": 1112840592,
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "is_in_production": 1,
+              "beer_style_id": 79,
+              "beer_style": "Cream Ale",
+              "rating_score": 3.305,
+              "rating_count": 261,
+              "count": 261,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 363822,
+              "user_name": "Sneakerphreak",
+              "first_name": "Sneaker",
+              "last_name": "P",
+              "user_avatar": "https://untappd.akamaized.net/profile/97c2dd310208a3f5625f38d92569c649_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10731776,
+                "venue_name": "Betty’s Burgers & Concrete Co",
+                "venue_slug": "betty-s-burgers-concrete-co",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "shopping_plaza",
+                      "category_name": "Shopping Plaza",
+                      "category_id": "5744ccdfe4b0c0459246b4dc",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "West End",
+                  "venue_state": "QLD",
+                  "lat": -27.4776,
+                  "lng": 153.011
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "60d433be22e86b2ff2b64d52",
+                  "foursquare_url": "https://4sq.com/3xIQ1Dm"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 403652940,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_24/daf12d2e18fd1b39c42d9642257d1ee8_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_24/daf12d2e18fd1b39c42d9642257d1ee8_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_24/daf12d2e18fd1b39c42d9642257d1ee8_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_24/daf12d2e18fd1b39c42d9642257d1ee8_raw.jpg"
+            },
+            "created_at": "Fri, 24 Dec 2021 03:54:18 +0000",
+            "checkin_id": 1112826670,
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "is_in_production": 1,
+              "beer_style_id": 79,
+              "beer_style": "Cream Ale",
+              "rating_score": 3.305,
+              "rating_count": 261,
+              "count": 261,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6926549,
+              "user_name": "TheChefCat",
+              "first_name": "Luis",
+              "last_name": "B",
+              "user_avatar": "https://gravatar.com/avatar/2cc5eebec4be255ba7afae17a18d8ec2?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "untappd-at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "Everywhere",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 403648549,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_24/80431b0f7a04b21de3a6380c73283cb8_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_24/80431b0f7a04b21de3a6380c73283cb8_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_24/80431b0f7a04b21de3a6380c73283cb8_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_24/80431b0f7a04b21de3a6380c73283cb8_raw.jpg"
+            },
+            "created_at": "Fri, 24 Dec 2021 03:23:16 +0000",
+            "checkin_id": 1112816469,
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "is_in_production": 1,
+              "beer_style_id": 79,
+              "beer_style": "Cream Ale",
+              "rating_score": 3.305,
+              "rating_count": 261,
+              "count": 261,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2623164,
+              "user_name": "benclues",
+              "first_name": "Ben",
+              "last_name": "C",
+              "user_avatar": "https://untappd.akamaized.net/profile/262d36ee9798f5bb7cbe03761bea5305_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8581019,
+                "venue_name": "Betty’s Burgers",
+                "venue_slug": "betty-s-burgers",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "shopping_mall",
+                      "category_name": "Shopping Mall",
+                      "category_id": "4bf58dd8d48988d1fd941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "Coomera",
+                  "venue_state": "QLD",
+                  "lat": -27.8545,
+                  "lng": 153.316
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5bcaa229f8cbd4002c5e5a87",
+                  "foursquare_url": "https://4sq.com/2yMsp44"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 403397293,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_23/f0aac896a78c56b541793799f8a992e2_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_23/f0aac896a78c56b541793799f8a992e2_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_23/f0aac896a78c56b541793799f8a992e2_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_23/f0aac896a78c56b541793799f8a992e2_raw.jpg"
+            },
+            "created_at": "Thu, 23 Dec 2021 02:08:17 +0000",
+            "checkin_id": 1112319157,
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "is_in_production": 1,
+              "beer_style_id": 79,
+              "beer_style": "Cream Ale",
+              "rating_score": 3.305,
+              "rating_count": 261,
+              "count": 261,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 9125020,
+              "user_name": "ConnorPerry",
+              "first_name": "Connor",
+              "last_name": "P",
+              "user_avatar": "https://untappd.akamaized.net/profile/c2ea3867750291c8b0cf8cbab5cc17ea_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10951783,
+                "venue_name": "Betty’s Burgers & Concrete Co.",
+                "venue_slug": "betty-s-burgers-concrete-co",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "11 Perkins St",
+                  "venue_city": "Newcastle",
+                  "venue_state": "NSW",
+                  "lat": -32.9271,
+                  "lng": 151.779
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.bettysburgers.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "61483c8c930fca4bcaca0f38",
+                  "foursquare_url": "https://4sq.com/39iLoWr"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 403391499,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_23/e7742349bec8951637b7ab48eaf5a03d_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_23/e7742349bec8951637b7ab48eaf5a03d_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_23/e7742349bec8951637b7ab48eaf5a03d_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_23/e7742349bec8951637b7ab48eaf5a03d_raw.jpg"
+            },
+            "created_at": "Thu, 23 Dec 2021 01:33:46 +0000",
+            "checkin_id": 1112305080,
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "is_in_production": 1,
+              "beer_style_id": 79,
+              "beer_style": "Cream Ale",
+              "rating_score": 3.305,
+              "rating_count": 261,
+              "count": 261,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5106707,
+              "user_name": "Brizza001",
+              "first_name": "Brian",
+              "last_name": "E",
+              "user_avatar": "https://untappd.akamaized.net/profile/33dece44bf5501dd0c2ca80c20da75d8_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 403227053,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_22/e9d24bc4287bbb7bf137746a252e4617_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_22/e9d24bc4287bbb7bf137746a252e4617_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_22/e9d24bc4287bbb7bf137746a252e4617_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_22/e9d24bc4287bbb7bf137746a252e4617_raw.jpg"
+            },
+            "created_at": "Wed, 22 Dec 2021 02:33:48 +0000",
+            "checkin_id": 1111983159,
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "is_in_production": 1,
+              "beer_style_id": 79,
+              "beer_style": "Cream Ale",
+              "rating_score": 3.305,
+              "rating_count": 261,
+              "count": 261,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 731929,
+              "user_name": "Bradytj",
+              "first_name": "Tim",
+              "last_name": "B",
+              "user_avatar": "https://untappd.akamaized.net/profile/e41a955f83ce51ab08853b99ca3bf1b4_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9808599,
+                "venue_name": "Betty’s Burgers",
+                "venue_slug": "betty-s-burgers",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "44 Market St",
+                  "venue_city": "Sydney",
+                  "venue_state": "NSW",
+                  "lat": -33.8708,
+                  "lng": 151.206
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.bettysburgers.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "5dae5b4bfaac310008843c04",
+                  "foursquare_url": "https://4sq.com/31xAndx"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 402774947,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_19/08069a9fc74e24a765fcc657ede8e56c_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_19/08069a9fc74e24a765fcc657ede8e56c_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_19/08069a9fc74e24a765fcc657ede8e56c_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_19/08069a9fc74e24a765fcc657ede8e56c_raw.jpg"
+            },
+            "created_at": "Sun, 19 Dec 2021 08:50:57 +0000",
+            "checkin_id": 1111098046,
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "is_in_production": 1,
+              "beer_style_id": 79,
+              "beer_style": "Cream Ale",
+              "rating_score": 3.305,
+              "rating_count": 261,
+              "count": 261,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3662516,
+              "user_name": "MerlinNMunky",
+              "first_name": "Mark",
+              "last_name": "C",
+              "user_avatar": "https://gravatar.com/avatar/26ba281ef87b3db233605d08b00d3a56?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 401776425,
+            "photo": {
+              "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_14/212e6e25b9a0c5e9d4f60a3c2847bbea_200x200.jpg",
+              "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_14/212e6e25b9a0c5e9d4f60a3c2847bbea_640x640.jpg",
+              "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_14/212e6e25b9a0c5e9d4f60a3c2847bbea_1280x1280.jpg",
+              "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_14/212e6e25b9a0c5e9d4f60a3c2847bbea_raw.jpg"
+            },
+            "created_at": "Tue, 14 Dec 2021 07:40:06 +0000",
+            "checkin_id": 1109153494,
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "is_in_production": 1,
+              "beer_style_id": 79,
+              "beer_style": "Cream Ale",
+              "rating_score": 3.305,
+              "rating_count": 261,
+              "count": 261,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7208523,
+              "user_name": "Chayypo",
+              "first_name": "Glenn",
+              "last_name": "C",
+              "user_avatar": "https://untappd.akamaized.net/profile/63b9a0f80cacca8fdb082cf0a0a12bf9_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 1114464636,
+            "created_at": "Mon, 27 Dec 2021 06:28:46 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 250553,
+              "user_name": "Rudy86",
+              "first_name": "Paul",
+              "last_name": "R.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/aef0c9c21fb977a77c2a59cd7eef5c15_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8566850,
+              "venue_name": "Betty’s Burgers",
+              "venue_slug": "betty-s-burgers",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "211-215 Rundle St",
+                "venue_city": "Adelaide",
+                "venue_state": "SA",
+                "venue_country": "Australia",
+                "lat": -34.9226418,
+                "lng": 138.607605
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.bettysburgers.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "5c28503461f070002c2972a3",
+                "foursquare_url": "https://4sq.com/2EY3AHI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2146240,
+                  "user": {
+                    "uid": 2146240,
+                    "user_name": "Wally147",
+                    "first_name": "Wally",
+                    "last_name": "H.",
+                    "bio": "",
+                    "location": "Ingle farm ",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/42e4e6cefbae9e42dc9b520c2ff105c3_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1129041634,
+                  "like_owner": false,
+                  "created_at": "Mon, 27 Dec 2021 07:19:36 +0000"
+                },
+                {
+                  "uid": 3563064,
+                  "user": {
+                    "uid": 3563064,
+                    "user_name": "brod78",
+                    "first_name": "Brod",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/df7054bd190917fd2014e548d0b39e21_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1129034419,
+                  "like_owner": false,
+                  "created_at": "Mon, 27 Dec 2021 06:36:48 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 404534837,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_27/a1cf44b328545fabbb4d59d276b46d56_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_27/a1cf44b328545fabbb4d59d276b46d56_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_27/a1cf44b328545fabbb4d59d276b46d56_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_27/a1cf44b328545fabbb4d59d276b46d56_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1114452181,
+            "created_at": "Mon, 27 Dec 2021 04:15:01 +0000",
+            "checkin_comment": "",
+            "rating_score": 1.75,
+            "user": {
+              "uid": 7706673,
+              "user_name": "Sugar_ballz",
+              "first_name": "Kalani",
+              "last_name": "R.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/d9ed171e038b42a7f85e262f0f0ef0d3?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 404529422,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_27/58fba8999ba7fa739fc8d4d9656d5e52_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_27/58fba8999ba7fa739fc8d4d9656d5e52_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_27/58fba8999ba7fa739fc8d4d9656d5e52_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_27/58fba8999ba7fa739fc8d4d9656d5e52_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1112860715,
+            "created_at": "Fri, 24 Dec 2021 08:17:34 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 8720290,
+              "user_name": "Bpmuntappd",
+              "first_name": "Brian",
+              "last_name": "M.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/09bbc491b589168168e3cefc5af0e873?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8566850,
+              "venue_name": "Betty’s Burgers",
+              "venue_slug": "betty-s-burgers",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "211-215 Rundle St",
+                "venue_city": "Adelaide",
+                "venue_state": "SA",
+                "venue_country": "Australia",
+                "lat": -34.9226418,
+                "lng": 138.607605
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.bettysburgers.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "5c28503461f070002c2972a3",
+                "foursquare_url": "https://4sq.com/2EY3AHI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 17,
+                  "user_badge_id": 926646718,
+                  "badge_name": "Happy Hour Hound",
+                  "badge_description": "It’s been a long day. Time to get your drink on. You’ve had 10 beers from 5PM - 8PM on weekdays at a location in a calendar month.",
+                  "created_at": "Fri, 24 Dec 2021 08:17:35 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_hhh_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_hhh_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_hhh_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5643,
+                  "user_badge_id": 926646719,
+                  "badge_name": "Wheel of Styles (Level 14)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 70 different styles. Try 5 more for Level 15!",
+                  "created_at": "Fri, 24 Dec 2021 08:17:35 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1112840592,
+            "created_at": "Fri, 24 Dec 2021 04:51:10 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 363822,
+              "user_name": "Sneakerphreak",
+              "first_name": "Sneaker",
+              "last_name": "P.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/97c2dd310208a3f5625f38d92569c649_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10731776,
+              "venue_name": "Betty’s Burgers & Concrete Co",
+              "venue_slug": "betty-s-burgers-concrete-co",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "shopping_plaza",
+                    "category_name": "Shopping Plaza",
+                    "category_id": "5744ccdfe4b0c0459246b4dc",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "West End",
+                "venue_state": "QLD",
+                "venue_country": "Australia",
+                "lat": -27.4776077,
+                "lng": 153.0113831
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "60d433be22e86b2ff2b64d52",
+                "foursquare_url": "https://4sq.com/3xIQ1Dm"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 0,
+              "auth_toast": null,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 403658845,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_24/e2877e300c9792a05d47b8429d23fa1d_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_24/e2877e300c9792a05d47b8429d23fa1d_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_24/e2877e300c9792a05d47b8429d23fa1d_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_24/e2877e300c9792a05d47b8429d23fa1d_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 6010,
+                  "user_badge_id": 926624712,
+                  "badge_name": "Riding Steady (Level 48)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 240 different beers with an ABV of 5% and lower. Try 5 more for Level 49!",
+                  "created_at": "Fri, 24 Dec 2021 04:51:10 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 133421,
+                  "user_badge_id": 926624713,
+                  "badge_name": "For the Can (Level 68)",
+                  "badge_description": "Canning is all the rage and it's not hard to see why - travels well, more environmentally friendly, and no need to carry your bottle opener. That's 340 checkins with the serving style of Can. Try 5 more for Level 69! Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=hynmM3Sb83s&t=1s\">podcast</a>",
+                  "created_at": "Fri, 24 Dec 2021 04:51:10 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_GloryCan_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_GloryCan_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_GloryCan_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1112826670,
+            "created_at": "Fri, 24 Dec 2021 03:54:12 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 6926549,
+              "user_name": "TheChefCat",
+              "first_name": "Luis",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/2cc5eebec4be255ba7afae17a18d8ec2?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "untappd-at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "Everywhere",
+                "venue_country": "United States",
+                "lat": 34.2346611,
+                "lng": -77.9482117
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://untappd.akamaized.net/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6134526,
+                  "user": {
+                    "uid": 6134526,
+                    "user_name": "Jaume1984",
+                    "first_name": "Jaume",
+                    "last_name": "F.",
+                    "bio": "",
+                    "location": "Blanes - Girona city",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/9a2eb31cd7d90de5b9860bba94a94789_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1126664083,
+                  "like_owner": false,
+                  "created_at": "Fri, 24 Dec 2021 05:17:37 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 403652940,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_24/daf12d2e18fd1b39c42d9642257d1ee8_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_24/daf12d2e18fd1b39c42d9642257d1ee8_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_24/daf12d2e18fd1b39c42d9642257d1ee8_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_24/daf12d2e18fd1b39c42d9642257d1ee8_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1112816469,
+            "created_at": "Fri, 24 Dec 2021 03:23:00 +0000",
+            "checkin_comment": "Really good.",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 2623164,
+              "user_name": "benclues",
+              "first_name": "Ben",
+              "last_name": "C.",
+              "location": "Capalaba",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/262d36ee9798f5bb7cbe03761bea5305_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8581019,
+              "venue_name": "Betty’s Burgers",
+              "venue_slug": "betty-s-burgers",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "shopping_mall",
+                    "category_name": "Shopping Mall",
+                    "category_id": "4bf58dd8d48988d1fd941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Coomera",
+                "venue_state": "QLD",
+                "venue_country": "Australia",
+                "lat": -27.8544979,
+                "lng": 153.3160248
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5bcaa229f8cbd4002c5e5a87",
+                "foursquare_url": "https://4sq.com/2yMsp44"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 403648549,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_24/80431b0f7a04b21de3a6380c73283cb8_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_24/80431b0f7a04b21de3a6380c73283cb8_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_24/80431b0f7a04b21de3a6380c73283cb8_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_24/80431b0f7a04b21de3a6380c73283cb8_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 4,
+              "items": [
+                {
+                  "badge_id": 92190,
+                  "user_badge_id": 926596830,
+                  "badge_name": "Bar Explorer (Level 55)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least That's 275 distinct venues!",
+                  "created_at": "Fri, 24 Dec 2021 03:23:00 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 12075,
+                  "user_badge_id": 926596831,
+                  "badge_name": "Beer Foodie (Level 18)",
+                  "badge_description": "Wine isn't the only beverage worthy of pairing with a delicious meal. With so many styles widely available, there’s a perfect pint for any cuisine of your choosing. That's a beer at 90 different venues categorized as a Restaurant. Try 5 more for Level 19!",
+                  "created_at": "Fri, 24 Dec 2021 03:23:00 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BeerFoodie_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5432,
+                  "user_badge_id": 926596832,
+                  "badge_name": "Cream of the Crop (Level 2)",
+                  "badge_description": "A relative of the American light lager style, cream ales are crisp, golden brews, often finished with the addition of lager yeast for a lighter body. That's 10 different beers with the style of Cream Ale. Try 5 more for Level 3!",
+                  "created_at": "Fri, 24 Dec 2021 03:23:01 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_CreamCore_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_CreamCore_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_CreamCore_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 12159,
+                  "user_badge_id": 926596833,
+                  "badge_name": "Burger Heaven (Level 2)",
+                  "badge_description": "A big juicy burger, some golden brown french fries, and a pint of your favorite brewskie. What more could you want? That's a beer at 10 different venus with the category of Burger Joint. Try 5 more for Level 3!",
+                  "created_at": "Fri, 24 Dec 2021 03:23:01 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_BurgerHeaven_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_BurgerHeaven_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_BurgerHeaven_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1112366428,
+            "created_at": "Thu, 23 Dec 2021 05:42:24 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 3715381,
+              "user_name": "Hizzlemybizzle",
+              "first_name": "Hayden",
+              "last_name": "L.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/f93b4155af78c4aafbb1bfc3a56e7030?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 5972,
+                  "user_badge_id": 926026887,
+                  "badge_name": "Riding Steady (Level 10)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 50 different beers with an ABV of 5% and lower. Try 5 more for Level 11!",
+                  "created_at": "Thu, 23 Dec 2021 05:42:24 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 133362,
+                  "user_badge_id": 926026888,
+                  "badge_name": "For the Can (Level 9)",
+                  "badge_description": "Canning is all the rage and it's not hard to see why - travels well, more environmentally friendly, and no need to carry your bottle opener. That's 45 checkins with the serving style of Can. Try 5 more for Level 10! Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=hynmM3Sb83s&t=1s\">podcast</a>",
+                  "created_at": "Thu, 23 Dec 2021 05:42:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_GloryCan_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_GloryCan_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_GloryCan_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5638,
+                  "user_badge_id": 926026889,
+                  "badge_name": "Wheel of Styles (Level 9)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 45 different styles. Try 5 more for Level 10!",
+                  "created_at": "Thu, 23 Dec 2021 05:42:25 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1112319157,
+            "created_at": "Thu, 23 Dec 2021 02:07:59 +0000",
+            "checkin_comment": "Every beer tastes great when you have just finished work for the year. Enjoyed this at an end of year lunch before an afternoon at Pinot and Picasso. Very light. You could comfortably have a session on these.",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 9125020,
+              "user_name": "ConnorPerry",
+              "first_name": "Connor",
+              "last_name": "P.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/c2ea3867750291c8b0cf8cbab5cc17ea_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10951783,
+              "venue_name": "Betty’s Burgers & Concrete Co.",
+              "venue_slug": "betty-s-burgers-concrete-co",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "11 Perkins St",
+                "venue_city": "Newcastle",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -32.9271393,
+                "lng": 151.7788086
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.bettysburgers.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "61483c8c930fca4bcaca0f38",
+                "foursquare_url": "https://4sq.com/39iLoWr"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 1,
+              "count": 1,
+              "items": [
+                {
+                  "user": {
+                    "uid": 9125245,
+                    "user_name": "CalumPerry",
+                    "first_name": "Calum",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://untappd.akamaized.net/profile/167d1f5248e7ffc81b623c19b5a96608_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 1112319157,
+                  "comment_id": 70689024,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Didn’t think you’d like a cream ale",
+                  "created_at": "Thu, 23 Dec 2021 04:49:08 +0000",
+                  "comment_source": "API"
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 9336487,
+                  "user": {
+                    "uid": 9336487,
+                    "user_name": "matt_chamberlain_6559",
+                    "first_name": "Matt",
+                    "last_name": "C.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b4110b9870ccc6757a7659b7a1ed1ed8_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1126025550,
+                  "like_owner": false,
+                  "created_at": "Thu, 23 Dec 2021 09:12:55 +0000"
+                },
+                {
+                  "uid": 9125245,
+                  "user": {
+                    "uid": 9125245,
+                    "user_name": "CalumPerry",
+                    "first_name": "Calum",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/167d1f5248e7ffc81b623c19b5a96608_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1125944626,
+                  "like_owner": false,
+                  "created_at": "Thu, 23 Dec 2021 02:51:50 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 403397293,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_23/f0aac896a78c56b541793799f8a992e2_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_23/f0aac896a78c56b541793799f8a992e2_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_23/f0aac896a78c56b541793799f8a992e2_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_23/f0aac896a78c56b541793799f8a992e2_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 4,
+              "items": [
+                {
+                  "badge_id": 1797,
+                  "user_badge_id": 925973885,
+                  "badge_name": "Photogenic Brew  (Level 11)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 55 check-ins with a photo. ",
+                  "created_at": "Thu, 23 Dec 2021 02:08:00 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_beertography_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_beertography_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 133362,
+                  "user_badge_id": 925973886,
+                  "badge_name": "For the Can (Level 9)",
+                  "badge_description": "Canning is all the rage and it's not hard to see why - travels well, more environmentally friendly, and no need to carry your bottle opener. That's 45 checkins with the serving style of Can. Try 5 more for Level 10! Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=hynmM3Sb83s&t=1s\">podcast</a>",
+                  "created_at": "Thu, 23 Dec 2021 02:08:00 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_GloryCan_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_GloryCan_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_GloryCan_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5634,
+                  "user_badge_id": 925973887,
+                  "badge_name": "Wheel of Styles (Level 5)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 25 different styles. Try 5 more for Level 6!",
+                  "created_at": "Thu, 23 Dec 2021 02:08:00 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2397,
+                  "user_badge_id": 925973888,
+                  "badge_name": "Down Under  (Level 11)",
+                  "badge_description": "Do you come from the land down under, where beer does flow, and men chunder? That's at least 55 different beers from Australia. Try 5 more for Level 12.",
+                  "created_at": "Thu, 23 Dec 2021 02:08:00 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_downUnder_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_downUnder_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_downUnder_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1112306320,
+            "created_at": "Thu, 23 Dec 2021 01:36:27 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 5106707,
+              "user_name": "Brizza001",
+              "first_name": "Brian",
+              "last_name": "E.",
+              "location": "Dulwich, SA",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/33dece44bf5501dd0c2ca80c20da75d8_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1112305080,
+            "created_at": "Thu, 23 Dec 2021 01:33:37 +0000",
+            "checkin_comment": "A nice light start to the day",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 5106707,
+              "user_name": "Brizza001",
+              "first_name": "Brian",
+              "last_name": "E.",
+              "location": "Dulwich, SA",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/33dece44bf5501dd0c2ca80c20da75d8_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 7208523,
+                  "user": {
+                    "uid": 7208523,
+                    "user_name": "Chayypo",
+                    "first_name": "Glenn",
+                    "last_name": "C.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/63b9a0f80cacca8fdb082cf0a0a12bf9_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1125999046,
+                  "like_owner": false,
+                  "created_at": "Thu, 23 Dec 2021 06:25:18 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 403391499,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_23/e7742349bec8951637b7ab48eaf5a03d_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_23/e7742349bec8951637b7ab48eaf5a03d_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_23/e7742349bec8951637b7ab48eaf5a03d_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_23/e7742349bec8951637b7ab48eaf5a03d_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1111983159,
+            "created_at": "Wed, 22 Dec 2021 02:33:23 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 731929,
+              "user_name": "Bradytj",
+              "first_name": "Tim",
+              "last_name": "B.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/e41a955f83ce51ab08853b99ca3bf1b4_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9808599,
+              "venue_name": "Betty’s Burgers",
+              "venue_slug": "betty-s-burgers",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "44 Market St",
+                "venue_city": "Sydney",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8708038,
+                "lng": 151.2058563
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.bettysburgers.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "5dae5b4bfaac310008843c04",
+                "foursquare_url": "https://4sq.com/31xAndx"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 1683173,
+                  "user": {
+                    "uid": 1683173,
+                    "user_name": "apalmer6",
+                    "first_name": "Ashley",
+                    "last_name": "P.",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/b08e84b0a8ea1c51d33cc06f2d0a776c_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1125551594,
+                  "like_owner": false,
+                  "created_at": "Wed, 22 Dec 2021 08:02:52 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 403227053,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_22/e9d24bc4287bbb7bf137746a252e4617_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_22/e9d24bc4287bbb7bf137746a252e4617_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_22/e9d24bc4287bbb7bf137746a252e4617_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_22/e9d24bc4287bbb7bf137746a252e4617_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1111734790,
+            "created_at": "Tue, 21 Dec 2021 09:05:19 +0000",
+            "checkin_comment": "Is it a regular pirate life pale? Can't really tell what's different about it besides the can",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 2707379,
+              "user_name": "JCdrinks",
+              "first_name": "JC",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/9c07c6f3fd83b450bb77912dd0421b8d_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8566850,
+              "venue_name": "Betty’s Burgers",
+              "venue_slug": "betty-s-burgers",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "211-215 Rundle St",
+                "venue_city": "Adelaide",
+                "venue_state": "SA",
+                "venue_country": "Australia",
+                "lat": -34.9226418,
+                "lng": 138.607605
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.bettysburgers.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "5c28503461f070002c2972a3",
+                "foursquare_url": "https://4sq.com/2EY3AHI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 486389,
+                  "user_badge_id": 925265646,
+                  "badge_name": "Season of Giving (2021)",
+                  "badge_description": "One of the most important parts of the holiday season is taking time to give back. Need some inspiration? Check out our list of 12 beer businesses that have given back to their community on the <a href=\"https://untappd.com/blog/the-best-breweries-and-businesses-to-celebrate-during-untappd-s-12-days-of-giving/1385\">Untappd Blog</a>\n",
+                  "created_at": "Tue, 21 Dec 2021 09:05:19 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_SeasonofGiving2021_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_SeasonofGiving2021_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_SeasonofGiving2021_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1111098046,
+            "created_at": "Sun, 19 Dec 2021 08:50:43 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 3662516,
+              "user_name": "MerlinNMunky",
+              "first_name": "Mark",
+              "last_name": "C.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/26ba281ef87b3db233605d08b00d3a56?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 402774947,
+                  "photo": {
+                    "photo_img_sm": "https://untappd.akamaized.net/photos/2021_12_19/08069a9fc74e24a765fcc657ede8e56c_200x200.jpg",
+                    "photo_img_md": "https://untappd.akamaized.net/photos/2021_12_19/08069a9fc74e24a765fcc657ede8e56c_640x640.jpg",
+                    "photo_img_lg": "https://untappd.akamaized.net/photos/2021_12_19/08069a9fc74e24a765fcc657ede8e56c_1280x1280.jpg",
+                    "photo_img_og": "https://untappd.akamaized.net/photos/2021_12_19/08069a9fc74e24a765fcc657ede8e56c_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1110462151,
+            "created_at": "Sat, 18 Dec 2021 10:34:40 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.75,
+            "user": {
+              "uid": 9000302,
+              "user_name": "awprice1",
+              "first_name": "Alex",
+              "last_name": "P.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/b176dfd82829d82b422a2eda19e4a666_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9706852,
+              "venue_name": "Betty’s Burgers",
+              "venue_slug": "betty-s-burgers",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "shopping_mall",
+                    "category_name": "Shopping Mall",
+                    "category_id": "4bf58dd8d48988d1fd941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1 Anderson St",
+                "venue_city": "Chatswood",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.7970123,
+                "lng": 151.1835022
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5dff1584f4a5f60008416ca9",
+                "foursquare_url": "https://4sq.com/390F2d2"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 140,
+                  "user_badge_id": 923655063,
+                  "badge_name": "Bar Explorer",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 5 distinct venues!",
+                  "created_at": "Sat, 18 Dec 2021 10:34:41 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5965,
+                  "user_badge_id": 923655064,
+                  "badge_name": "Riding Steady (Level 3)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 15 different beers with an ABV of 5% and lower. Try 5 more for Level 4!",
+                  "created_at": "Sat, 18 Dec 2021 10:34:41 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1110441912,
+            "created_at": "Sat, 18 Dec 2021 05:58:18 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1013372,
+              "user_name": "Jason89",
+              "first_name": "Jason",
+              "last_name": "T.",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "An Australian who loves to travel for history and beer. There is no style I don't like (Except a Pumpkin Yam - Gross)!",
+              "relationship": null,
+              "user_avatar": "https://untappd.akamaized.net/profile/0d511c485f5100745ca603664aa71e5d_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 4089143,
+              "beer_name": "Betty’s Beer",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-4089143_e9d2e_sm.jpeg",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "pirate-life-brewing-betty-s-beer",
+              "beer_description": "Betty's Beer brewed for and only distributed at Betty's Burgers.",
+              "beer_style": "Cream Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 189380,
+              "brewery_name": "Pirate Life Brewing",
+              "brewery_slug": "pirate-life-brewing",
+              "brewery_page_url": "/PirateLifeBrewing",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-189380_f3489.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "PirateLifeBeer",
+                "facebook": "https://www.facebook.com/PirateLifeBrewing?ref=ts&fref=ts",
+                "url": "http://www.piratelife.com.au"
+              },
+              "location": {
+                "brewery_city": "Adelaide",
+                "brewery_state": "South Australia",
+                "lat": -34.8451,
+                "lng": 138.51
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10940806,
+              "venue_name": "Betty's Burgers And Concrete Co",
+              "venue_slug": "betty-s-burgers-and-concrete-co",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pedestrian_plaza",
+                    "category_name": "Pedestrian Plaza",
+                    "category_id": "52e81612bcbc57f1066b7a25",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "Perth",
+                "venue_state": "WA",
+                "venue_country": "Australia",
+                "lat": -31.9520588,
+                "lng": 115.8598557
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://forrestchase.com.au/store/bettys-burgers/"
+              },
+              "foursquare": {
+                "foursquare_id": "61654915b3b18460a80f8cd4",
+                "foursquare_url": "https://4sq.com/3FGDrJF"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/burger_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3562922,
+                  "user": {
+                    "uid": 3562922,
+                    "user_name": "Blain1408",
+                    "first_name": "Ben",
+                    "last_name": "L.",
+                    "bio": "A beer enthusiast whom lkes to share",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://untappd.akamaized.net/profile/8ad0de856ecb5b42102230dc0098f037_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1123364097,
+                  "like_owner": false,
+                  "created_at": "Sat, 18 Dec 2021 07:41:34 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5432,
+                  "user_badge_id": 923629135,
+                  "badge_name": "Cream of the Crop (Level 2)",
+                  "badge_description": "A relative of the American light lager style, cream ales are crisp, golden brews, often finished with the addition of lager yeast for a lighter body. That's 10 different beers with the style of Cream Ale. Try 5 more for Level 3!",
+                  "created_at": "Sat, 18 Dec 2021 05:58:19 +0000",
+                  "badge_image": {
+                    "sm": "https://untappd.akamaized.net/badges/bdg_CreamCore_sm.jpg",
+                    "md": "https://untappd.akamaized.net/badges/bdg_CreamCore_md.jpg",
+                    "lg": "https://untappd.akamaized.net/badges/bdg_CreamCore_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/4089143?max_id=1110441912",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/4089143?max_id=1110441912",
+          "max_id": 1110441912
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.85,
+            "beer": {
+              "bid": 3868014,
+              "beer_name": "Danger, the Floor Is Guava!",
+              "beer_abv": 5.3,
+              "beer_ibu": 10,
+              "beer_slug": "crafted-nano-brewery-danger-the-floor-is-guava",
+              "beer_style": "Cream Ale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 462338,
+              "brewery_name": "Crafted Nano Brewery",
+              "brewery_slug": "crafted-nano-brewery",
+              "brewery_page_url": "/CraftedNanoBrewery",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-462338_b54de.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "craftedfbc",
+                "facebook": "https://www.facebook.com/craftedbrewery/",
+                "instagram": "crafted_nano_brewery",
+                "url": "http://www.craftedfbc.com"
+              },
+              "location": {
+                "brewery_city": "Findlay",
+                "brewery_state": "OH",
+                "lat": 41.049099,
+                "lng": -83.6313019
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.58929,
+            "beer": {
+              "bid": 1595328,
+              "beer_name": "Wild Strawberry Cream Dream",
+              "beer_abv": 6.5,
+              "beer_ibu": 18,
+              "beer_slug": "beagle-brewing-company-wild-strawberry-cream-dream",
+              "beer_style": "Cream Ale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 98139,
+              "brewery_name": "Beagle Brewing Company",
+              "brewery_slug": "beagle-brewing-company",
+              "brewery_page_url": "/BeagleBrewingCompany",
+              "brewery_type": "Contract Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-98139_c2d10.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/BeagleBrewingCompany/?modal=admin_todo_tour",
+                "instagram": "",
+                "url": "https://www.facebook.com/BeagleBrewingCompany/?modal=admin_todo_tour"
+              },
+              "location": {
+                "brewery_city": "Kansas City",
+                "brewery_state": "MO",
+                "lat": 39.0997009,
+                "lng": -94.578598
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.55357,
+            "beer": {
+              "bid": 4030115,
+              "beer_name": "Flamango Cream Ale",
+              "beer_abv": 4.7,
+              "beer_ibu": 0,
+              "beer_slug": "wolf-branch-brewing-flamango-cream-ale",
+              "beer_style": "Cream Ale",
+              "beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 277399,
+              "brewery_name": "Wolf Branch Brewing",
+              "brewery_slug": "wolf-branch-brewing-company",
+              "brewery_page_url": "/WolfBranchBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-277399_6391d.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "wolfbranchbrew",
+                "facebook": "https://www.facebook.com/Wolf-Branch-Brewing-Company-464440343747011/?fref=ts",
+                "instagram": "wolfbranchbrewing",
+                "url": "http://www.wolfbranchbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Eustis",
+                "brewery_state": "FL",
+                "lat": 28.8540993,
+                "lng": -81.6855011
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.55263,
+            "beer": {
+              "bid": 3447486,
+              "beer_name": "Barrel Aged Fire Rescue",
+              "beer_abv": 8,
+              "beer_ibu": 15,
+              "beer_slug": "royal-palm-brewing-company-barrel-aged-fire-rescue",
+              "beer_style": "Cream Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-3447486_994be_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 385018,
+              "brewery_name": "Royal Palm Brewing Company",
+              "brewery_slug": "royal-palm-brewing-company",
+              "brewery_page_url": "/RoyalPalmBrewingCompany",
+              "brewery_type": "Brew Pub",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-385018_06e56.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/royalpalmbrewingcompany/",
+                "instagram": "royalpalmbrewing",
+                "url": "http://royalpalmbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Royal Palm Beach",
+                "brewery_state": "FL",
+                "lat": 26.6870995,
+                "lng": -80.2018967
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.5,
+            "beer": {
+              "bid": 2731085,
+              "beer_name": "Pina Colada Anniversary Beer",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "montauk-brewing-company-pina-colada-anniversary-beer",
+              "beer_style": "Cream Ale",
+              "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2731085_a4335_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 34872,
+              "brewery_name": "Montauk Brewing Company",
+              "brewery_slug": "montauk-brewing-company",
+              "brewery_page_url": "/MontaukBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-34872_67c29.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/pages/Montauk-Brewing-Company/246802085335176",
+                "instagram": "montaukbrewco",
+                "url": "http://www.montaukbrewingco.com"
+              },
+              "location": {
+                "brewery_city": "Montauk",
+                "brewery_state": "NY",
+                "lat": 41.0365982,
+                "lng": -71.9440002
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.49194,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}
