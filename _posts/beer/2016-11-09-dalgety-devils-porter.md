@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-dalgety-devils-porter.md
+title: Dalgety devils porter
+category: beer
+untappd: "https://untappd.com/b/dalgety-brewing-company-devils-porter/3500095"
+country: "Australia"
+brewery: "Dalgety Brewing Company"
+breweryURL: "/brewery/dalgety-brewing-company.html"
+style: "Porter - Other"
+score: 7
+img: /img/list/dalgety-devils-porter.jpeg
+beer-date: "2022-08-07"
+desc: "I was expecting some chilli, but it’s more of a normal porter"
+permalink: /beer/:title.html
+---

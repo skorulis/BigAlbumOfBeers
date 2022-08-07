@@ -8,9 +8,9 @@ country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "/brewery/batch-brewing-company.html"
 style: "Sour - Ale"
-score: 6
+score: null
 img: /img/list/batch-in-a-pickle.jpeg
-beer-date: "2016-05-24"
-desc: "My first cucumber beer. Tastes a lot like pickles. It's interesting but it wouldn't bring me back"
+beer-date: "2022-08-07"
+desc: "Yep, that’s a glass of pickle juice. Wouldn’t want too much"
 permalink: /beer/:title.html
 ---

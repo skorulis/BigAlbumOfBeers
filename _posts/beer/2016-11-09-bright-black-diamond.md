@@ -8,9 +8,9 @@ country: "Australia"
 brewery: "Bright Brewery"
 breweryURL: "/brewery/bright-brewery.html"
 style: "IPA - Black / Cascadian Dark Ale"
-score: 7.5
+score: 5.5
 img: /img/list/bright-black-diamond.jpeg
-beer-date: "2020-09-26"
-desc: "A little bit of extra malt and some extra hops"
+beer-date: "2022-08-07"
+desc: "Not sure i would call this an IPA, just doesn’t have the depth"
 permalink: /beer/:title.html
 ---

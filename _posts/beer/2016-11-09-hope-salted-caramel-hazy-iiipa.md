@@ -8,9 +8,9 @@ country: "Australia"
 brewery: "Hope Brewery"
 breweryURL: "/brewery/hope-brewery.html"
 style: "IPA - Triple"
-score: 9
+score: 8.5
 img: /img/list/hope-salted-caramel-hazy-iiipa.jpeg
-beer-date: "2021-06-05"
-desc: "Not as bitter as I expected which really lets the salted caramel come through but without being sickly sweet"
+beer-date: "2022-08-07"
+desc: "Perfect combination of a beer and caramel"
 permalink: /beer/:title.html
 ---
