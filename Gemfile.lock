@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
+    httpclient (2.8.3)
+    launchy (2.5.0)
+      addressable (~> 2.7)
+    public_suffix (5.0.0)
+    slugify (1.0.7)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  httpclient (= 2.8.3)
+  launchy (= 2.5.0)
+  slugify (= 1.0.7)
+
+BUNDLED WITH
+   2.3.22

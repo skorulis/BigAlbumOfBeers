@@ -1,8 +1,8 @@
-ruby scripts/buildExtra.rb $1 $2
-ruby scripts/stats.rb
-ruby scripts/getBreweries.rb $1 $2
+bundle exec ruby scripts/buildExtra.rb $1 $2
+bundle exec ruby scripts/stats.rb
+bundle exec ruby scripts/getBreweries.rb $1 $2
 
-ruby scripts/breweryList.rb
-ruby scripts/getImages.rb
-ruby scripts/distributeBreweries.rb
-ruby scripts/createPosts.rb
+bundle exec ruby scripts/breweryList.rb
+bundle exec ruby scripts/getImages.rb
+bundle exec ruby scripts/distributeBreweries.rb
+bundle exec ruby scripts/createPosts.rb

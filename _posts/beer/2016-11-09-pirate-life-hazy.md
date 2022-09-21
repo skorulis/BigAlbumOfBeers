@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-pirate-life-hazy.md
+title: Pirate life hazy
+category: beer
+untappd: "https://untappd.com/b/pirate-life-brewing-hazy-ipa/3948075"
+country: "Australia"
+brewery: "Pirate Life Brewing"
+breweryURL: "/brewery/pirate-life-brewing.html"
+style: "IPA - New England / Hazy"
+score: 7
+img: /img/list/pirate-life-hazy.jpeg
+beer-date: "2022-09-21"
+desc: "Pretty mild for a hazy. Feels like it’s missing something"
+permalink: /beer/:title.html
+---

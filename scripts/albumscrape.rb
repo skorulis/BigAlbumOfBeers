@@ -7,6 +7,7 @@ require 'json'
 @token = ARGV[0]
 @albums = ["10151283325498745","10152534310003745","10154858207913745","10156797308368745","10158912005143745"]
 @allBeers = [];
+@years = Hash[];
 @next = ""
 
 puts @firstUrl
@@ -65,6 +66,10 @@ def downloadChunk(url)
 	        score = "null"
 	    end
 
+		date = value["created_time"][0..9]
+		year = date[0..3]
+		count = @years[year] || 0
+		@years[year] = count + 1
 
 		hash = Hash[];
 		hash["name"] = cleanText(lines[0])
@@ -72,7 +77,7 @@ def downloadChunk(url)
 		hash["img"] = value["images"][4]["source"];
 		hash["pct"] = pct;
 		hash["link"] = value["link"]
-		hash["date"] = value["created_time"][0..9]
+		hash["date"] = date
 
 		hash["score"] = score;
 		@allBeers.push(hash);
@@ -110,3 +115,4 @@ end
 dumpPlainJS()
 
 puts "Successfully wrote " + @allBeers.length.to_s() + " beers";
+puts @years
