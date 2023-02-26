@@ -53,18 +53,6 @@ struct Photo: Codable {
     let name: String
     let images: [PhotoImage]
     
-    var details: PhotoComponents {
-        fatalError("TODO")
-    }
-    
-}
-
-
-struct PhotoComponents {
-    let name: String
-    let review: String
-    let pct: String
-    let rating: String
 }
 
 struct PhotoImage: Codable {
