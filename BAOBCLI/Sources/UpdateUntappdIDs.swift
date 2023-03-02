@@ -39,8 +39,22 @@ final class UpdateUntappdIDs: AsyncParsableCommand {
         }.mapValues { $0[0] }
         
         
+        for (key, value) in extra {
+            if value.untappd.id.isEmpty,
+                let entry = entryMap[key],
+                let id = entry.0.untappdID
+            {
+                var mutableValue = value
+                mutableValue.untappd.id = "\(id)"
+                extra[key] = mutableValue
+                print("Filled \(key)")
+            }
+        }
         
-        
+        let encoder = JSONEncoder()
+        encoder.outputFormatting = .prettyPrinted
+        let outputData = try encoder.encode(extra)
+        try outputData.write(to: Self.extraURL)
     }
     
 }

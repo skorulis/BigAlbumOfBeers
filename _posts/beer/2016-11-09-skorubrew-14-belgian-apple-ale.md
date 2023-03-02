@@ -3,10 +3,6 @@ layout: beer
 filename: _posts/beer/2016-11-09-skorubrew-14-belgian-apple-ale.md
 title: Skorubrew #14 belgian apple ale
 category: beer
-country: "Australia"
-brewery: "Skorubrew"
-breweryURL: "/brewery/skorubrew.html"
-style: "Belgian Dubbel"
 score: 7.5
 img: /img/list/skorubrew-14-belgian-apple-ale.jpeg
 beer-date: "2017-01-21"

@@ -1,0 +1,3571 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.805,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 1692043,
+      "beer_name": "Ibex",
+      "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 7.2,
+      "beer_ibu": 65,
+      "beer_description": "",
+      "beer_style": "IPA - American",
+      "is_in_production": 1,
+      "beer_slug": "crooked-goat-brewing-ibex",
+      "is_homebrew": 0,
+      "created_at": "Tue, 16 Aug 2016 03:20:05 +0000",
+      "rating_count": 1067,
+      "rating_score": 3.7059,
+      "stats": {
+        "total_count": 1308,
+        "monthly_count": 8,
+        "total_user_count": 1185,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 208101,
+        "brewery_name": "Crooked Goat Brewing",
+        "brewery_slug": "crooked-goat-brewing",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/CrookedGoatBrewing",
+        "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+        "country_name": "United States",
+        "contact": {
+          "twitter": "",
+          "facebook": "https://www.facebook.com/crookedgoatbrewing",
+          "url": "http://crookedgoatbrewing.com"
+        },
+        "location": {
+          "brewery_city": "Sebastopol",
+          "brewery_state": "CA",
+          "lat": 38.4039,
+          "lng": -122.82
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 472257651,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_02_19/01d3b0ef4e3cec1f1fd8e154fe48dfe6_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_02_19/01d3b0ef4e3cec1f1fd8e154fe48dfe6_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_02_19/01d3b0ef4e3cec1f1fd8e154fe48dfe6_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_02_19/01d3b0ef4e3cec1f1fd8e154fe48dfe6_raw.jpg"
+            },
+            "created_at": "Sun, 19 Feb 2023 02:04:27 +0000",
+            "checkin_id": 1249368587,
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.706,
+              "rating_count": 1067,
+              "count": 1067,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7682391,
+              "user_name": "itsjaypea",
+              "first_name": "Juan",
+              "last_name": "Carrillo",
+              "user_avatar": "https://gravatar.com/avatar/8759829eb51ef4a219ba3b435343088b?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5241322,
+                "venue_name": "Crooked Goat Brewing",
+                "venue_slug": "crooked-goat-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "market",
+                      "category_name": "Market",
+                      "category_id": "50be8ee891d4fa8dcc7199a7",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "120 Morris St",
+                  "venue_city": "Sebastopol",
+                  "venue_state": "CA",
+                  "lat": 38.404,
+                  "lng": -122.82
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://crookedgoatbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                  "foursquare_url": "http://4sq.com/2brwiPS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 470573964,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_02_07/ef2015e88e109b0efc99d5f926cb37d9_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_02_07/ef2015e88e109b0efc99d5f926cb37d9_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_02_07/ef2015e88e109b0efc99d5f926cb37d9_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_02_07/ef2015e88e109b0efc99d5f926cb37d9_raw.jpg"
+            },
+            "created_at": "Tue, 07 Feb 2023 02:03:57 +0000",
+            "checkin_id": 1246003448,
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.706,
+              "rating_count": 1067,
+              "count": 1067,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3840122,
+              "user_name": "rcloveslauri",
+              "first_name": "RC",
+              "last_name": "",
+              "user_avatar": "https://assets.untappd.com/profile/a40f6705c17e934e6a05d437267c0ff4_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5241322,
+                "venue_name": "Crooked Goat Brewing",
+                "venue_slug": "crooked-goat-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "market",
+                      "category_name": "Market",
+                      "category_id": "50be8ee891d4fa8dcc7199a7",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "120 Morris St",
+                  "venue_city": "Sebastopol",
+                  "venue_state": "CA",
+                  "lat": 38.404,
+                  "lng": -122.82
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://crookedgoatbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                  "foursquare_url": "http://4sq.com/2brwiPS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 469412298,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_01_29/e7ac59d3de119e13178b7c0872d89a3e_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_01_29/e7ac59d3de119e13178b7c0872d89a3e_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_01_29/e7ac59d3de119e13178b7c0872d89a3e_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_01_29/e7ac59d3de119e13178b7c0872d89a3e_raw.jpg"
+            },
+            "created_at": "Sun, 29 Jan 2023 00:20:04 +0000",
+            "checkin_id": 1243675554,
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.706,
+              "rating_count": 1067,
+              "count": 1067,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2557175,
+              "user_name": "Magwai20xd6",
+              "first_name": "Jonathan",
+              "last_name": "Mueller",
+              "user_avatar": "https://gravatar.com/avatar/f4eb3c1bb8ecfe7867b048ff7ce8a314?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5241322,
+                "venue_name": "Crooked Goat Brewing",
+                "venue_slug": "crooked-goat-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "market",
+                      "category_name": "Market",
+                      "category_id": "50be8ee891d4fa8dcc7199a7",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "120 Morris St",
+                  "venue_city": "Sebastopol",
+                  "venue_state": "CA",
+                  "lat": 38.404,
+                  "lng": -122.82
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://crookedgoatbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                  "foursquare_url": "http://4sq.com/2brwiPS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 467748595,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_01_15/ddc243335b873c48fbd50bb2e96da525_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_01_15/ddc243335b873c48fbd50bb2e96da525_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_01_15/ddc243335b873c48fbd50bb2e96da525_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_01_15/ddc243335b873c48fbd50bb2e96da525_raw.jpg"
+            },
+            "created_at": "Sun, 15 Jan 2023 23:10:46 +0000",
+            "checkin_id": 1240360818,
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.706,
+              "rating_count": 1067,
+              "count": 1067,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2184572,
+              "user_name": "SirUntapalot",
+              "first_name": "Scott",
+              "last_name": "Oneto",
+              "user_avatar": "https://assets.untappd.com/profile/4d89f7016682283fbc9441ea9a086781_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5241322,
+                "venue_name": "Crooked Goat Brewing",
+                "venue_slug": "crooked-goat-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "market",
+                      "category_name": "Market",
+                      "category_id": "50be8ee891d4fa8dcc7199a7",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "120 Morris St",
+                  "venue_city": "Sebastopol",
+                  "venue_state": "CA",
+                  "lat": 38.404,
+                  "lng": -122.82
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://crookedgoatbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                  "foursquare_url": "http://4sq.com/2brwiPS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 467748462,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_01_15/8946baf440856860dcd835fa46718830_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_01_15/8946baf440856860dcd835fa46718830_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_01_15/8946baf440856860dcd835fa46718830_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_01_15/8946baf440856860dcd835fa46718830_raw.jpg"
+            },
+            "created_at": "Sun, 15 Jan 2023 23:10:05 +0000",
+            "checkin_id": 1240360448,
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.706,
+              "rating_count": 1067,
+              "count": 1067,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2207331,
+              "user_name": "Cfuller114",
+              "first_name": "Chris",
+              "last_name": "Fuller",
+              "user_avatar": "https://assets.untappd.com/profile/eb0820dbfbb62a21d2bf711b0c08d976_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5241322,
+                "venue_name": "Crooked Goat Brewing",
+                "venue_slug": "crooked-goat-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "market",
+                      "category_name": "Market",
+                      "category_id": "50be8ee891d4fa8dcc7199a7",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "120 Morris St",
+                  "venue_city": "Sebastopol",
+                  "venue_state": "CA",
+                  "lat": 38.404,
+                  "lng": -122.82
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://crookedgoatbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                  "foursquare_url": "http://4sq.com/2brwiPS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 467748436,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_01_15/fcccfb56e9188e07b75f97aece709457_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_01_15/fcccfb56e9188e07b75f97aece709457_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_01_15/fcccfb56e9188e07b75f97aece709457_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_01_15/fcccfb56e9188e07b75f97aece709457_raw.jpg"
+            },
+            "created_at": "Sun, 15 Jan 2023 23:09:46 +0000",
+            "checkin_id": 1240360393,
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.706,
+              "rating_count": 1067,
+              "count": 1067,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2184496,
+              "user_name": "Tapalot",
+              "first_name": "Cheryl",
+              "last_name": "Oneto",
+              "user_avatar": "https://assets.untappd.com/profile/cdd60858bed8365ea293241f0b80a81d_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5241322,
+                "venue_name": "Crooked Goat Brewing",
+                "venue_slug": "crooked-goat-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "market",
+                      "category_name": "Market",
+                      "category_id": "50be8ee891d4fa8dcc7199a7",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "120 Morris St",
+                  "venue_city": "Sebastopol",
+                  "venue_state": "CA",
+                  "lat": 38.404,
+                  "lng": -122.82
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://crookedgoatbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                  "foursquare_url": "http://4sq.com/2brwiPS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 467511080,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_01_14/3b8fc769566a318ae7a201e875cebf71_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_01_14/3b8fc769566a318ae7a201e875cebf71_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_01_14/3b8fc769566a318ae7a201e875cebf71_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_01_14/3b8fc769566a318ae7a201e875cebf71_raw.jpg"
+            },
+            "created_at": "Sat, 14 Jan 2023 20:45:59 +0000",
+            "checkin_id": 1239863854,
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.706,
+              "rating_count": 1067,
+              "count": 1067,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3986198,
+              "user_name": "imperialpete",
+              "first_name": "Pete",
+              "last_name": "",
+              "user_avatar": "https://assets.untappd.com/profile/c6a8ccf1146d1e38eaffd45aa36b7b0b_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5241322,
+                "venue_name": "Crooked Goat Brewing",
+                "venue_slug": "crooked-goat-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "market",
+                      "category_name": "Market",
+                      "category_id": "50be8ee891d4fa8dcc7199a7",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "120 Morris St",
+                  "venue_city": "Sebastopol",
+                  "venue_state": "CA",
+                  "lat": 38.404,
+                  "lng": -122.82
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://crookedgoatbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                  "foursquare_url": "http://4sq.com/2brwiPS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 467122705,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_01_12/f226943f0e02f5bb1479cc2d5522249e_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_01_12/f226943f0e02f5bb1479cc2d5522249e_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_01_12/f226943f0e02f5bb1479cc2d5522249e_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_01_12/f226943f0e02f5bb1479cc2d5522249e_raw.jpg"
+            },
+            "created_at": "Thu, 12 Jan 2023 20:48:49 +0000",
+            "checkin_id": 1239113995,
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.706,
+              "rating_count": 1067,
+              "count": 1067,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 10127205,
+              "user_name": "arichards370",
+              "first_name": "AJ",
+              "last_name": "Richards",
+              "user_avatar": "https://gravatar.com/avatar/94f9ed459caf135baf493c0c0cb0e52b?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 4057753,
+                "venue_name": "La Marmotte d'Or",
+                "venue_slug": "la-marmotte-d-or",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "90 route de Morzine",
+                  "venue_city": "Montriond",
+                  "venue_state": "Auvergne-Rhône-Alpes",
+                  "lat": 46.1965,
+                  "lng": 6.69451
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.lamarmottedor.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "5677cb60498e6e41c6e7319c",
+                  "foursquare_url": "http://4sq.com/1kc1aGC"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 465752919,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_01_01/f5191cb59e8a179adc48ed8a9a9205f9_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_01_01/f5191cb59e8a179adc48ed8a9a9205f9_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_01_01/f5191cb59e8a179adc48ed8a9a9205f9_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_01_01/f5191cb59e8a179adc48ed8a9a9205f9_raw.jpg"
+            },
+            "created_at": "Sun, 01 Jan 2023 02:23:09 +0000",
+            "checkin_id": 1236361322,
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.706,
+              "rating_count": 1067,
+              "count": 1067,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 8094451,
+              "user_name": "cindi_millam_2801",
+              "first_name": "Cindi",
+              "last_name": "Millam",
+              "user_avatar": "https://assets.untappd.com/profile/978871dd443afcc714261068bbaede35_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5241322,
+                "venue_name": "Crooked Goat Brewing",
+                "venue_slug": "crooked-goat-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "market",
+                      "category_name": "Market",
+                      "category_id": "50be8ee891d4fa8dcc7199a7",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "120 Morris St",
+                  "venue_city": "Sebastopol",
+                  "venue_state": "CA",
+                  "lat": 38.404,
+                  "lng": -122.82
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://crookedgoatbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                  "foursquare_url": "http://4sq.com/2brwiPS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 465747582,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_01_01/82aba2a088a37b12668c979046b0ab46_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_01_01/82aba2a088a37b12668c979046b0ab46_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_01_01/82aba2a088a37b12668c979046b0ab46_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_01_01/82aba2a088a37b12668c979046b0ab46_raw.jpg"
+            },
+            "created_at": "Sun, 01 Jan 2023 01:33:50 +0000",
+            "checkin_id": 1236360061,
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 128,
+              "beer_style": "IPA - American",
+              "rating_score": 3.706,
+              "rating_count": 1067,
+              "count": 1067,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5061848,
+              "user_name": "David_Millam",
+              "first_name": "David",
+              "last_name": "M",
+              "user_avatar": "https://assets.untappd.com/profile/8670ea1390e8653cbe92c1b5abddc319_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5241322,
+                "venue_name": "Crooked Goat Brewing",
+                "venue_slug": "crooked-goat-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "market",
+                      "category_name": "Market",
+                      "category_id": "50be8ee891d4fa8dcc7199a7",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "120 Morris St",
+                  "venue_city": "Sebastopol",
+                  "venue_state": "CA",
+                  "lat": 38.404,
+                  "lng": -122.82
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://crookedgoatbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                  "foursquare_url": "http://4sq.com/2brwiPS"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 1249822110,
+            "created_at": "Mon, 20 Feb 2023 20:08:57 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.6,
+            "user": {
+              "uid": 1739574,
+              "user_name": "ilovefoiegras",
+              "first_name": "Gurnemanz",
+              "last_name": "Knight",
+              "location": "SF Bay Area ",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "Verein gegen betrügerisches Einschenken",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/13eb1985164a06e29a35ae0584554274_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11311472,
+              "venue_name": "Crooked Goat Brewing-Petaluma",
+              "venue_slug": "crooked-goat-brewing-petaluma",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "110 Howard St",
+                "venue_city": "Petaluma",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.2332191,
+                "lng": -122.6442795
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "629155df422c883042914cd0",
+                "foursquare_url": "https://4sq.com/3t0B2Vw"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3840122,
+                  "user": {
+                    "uid": 3840122,
+                    "user_name": "rcloveslauri",
+                    "first_name": "RC",
+                    "last_name": "",
+                    "bio": "Beer... love to make it... love to drink it with others..... love to discover it...cheers!",
+                    "location": "RC Home Brew",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/a40f6705c17e934e6a05d437267c0ff4_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1313965933,
+                  "like_owner": false,
+                  "created_at": "Wed, 22 Feb 2023 14:16:48 +0000"
+                },
+                {
+                  "uid": 2516312,
+                  "user": {
+                    "uid": 2516312,
+                    "user_name": "ShlomoSiegelman",
+                    "first_name": "Shlomo",
+                    "last_name": "Siegelman",
+                    "bio": "",
+                    "location": "Denver, CO",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/cfc30e3bef942d75eeeb3d259b9b4fca_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1313582586,
+                  "like_owner": false,
+                  "created_at": "Mon, 20 Feb 2023 23:06:04 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1249644183,
+            "created_at": "Sun, 19 Feb 2023 22:11:23 +0000",
+            "checkin_comment": "",
+            "rating_score": 5,
+            "user": {
+              "uid": 3926982,
+              "user_name": "mmbrown",
+              "first_name": "Melanie",
+              "last_name": "Machado",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/83c94c7545dafa5009c3991038ee3fb2_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11311472,
+              "venue_name": "Crooked Goat Brewing-Petaluma",
+              "venue_slug": "crooked-goat-brewing-petaluma",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "110 Howard St",
+                "venue_city": "Petaluma",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.2332191,
+                "lng": -122.6442795
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "629155df422c883042914cd0",
+                "foursquare_url": "https://4sq.com/3t0B2Vw"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3360,
+                  "user_badge_id": 1074567791,
+                  "badge_name": "Hopped Up (Level 3)",
+                  "badge_description": "Load up those hops, watch the IBU grow and drink it down! Now you’re all hopped up. The more bitter, the better. That's 15 different beers with an IBU of 65 or higher. Try 5 more for Level 4!",
+                  "created_at": "Sun, 19 Feb 2023 22:11:23 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_HoppedUp_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_HoppedUp_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_HoppedUp_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1249368587,
+            "created_at": "Sun, 19 Feb 2023 02:03:58 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 7682391,
+              "user_name": "itsjaypea",
+              "first_name": "Juan",
+              "last_name": "Carrillo",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/8759829eb51ef4a219ba3b435343088b?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5241322,
+              "venue_name": "Crooked Goat Brewing",
+              "venue_slug": "crooked-goat-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "market",
+                    "category_name": "Market",
+                    "category_id": "50be8ee891d4fa8dcc7199a7",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "120 Morris St",
+                "venue_city": "Sebastopol",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.4039574,
+                "lng": -122.8198929
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://crookedgoatbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                "foursquare_url": "http://4sq.com/2brwiPS"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 472257651,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_02_19/01d3b0ef4e3cec1f1fd8e154fe48dfe6_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_02_19/01d3b0ef4e3cec1f1fd8e154fe48dfe6_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_02_19/01d3b0ef4e3cec1f1fd8e154fe48dfe6_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_02_19/01d3b0ef4e3cec1f1fd8e154fe48dfe6_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 276019,
+                  "user_badge_id": 1074312924,
+                  "badge_name": "Cheers to Independent U.S. Craft Breweries (Level 16)",
+                  "badge_description": "Cheers, beer patriot! You are supporting the small and independent American craft brewer. When you see the seal -- shaped like an upside-down beer bottle -- that's independence you're tasting. Try 5 more to earn Level 17!",
+                  "created_at": "Sun, 19 Feb 2023 02:03:58 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BAIndySeal18_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BAIndySeal18_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BAIndySeal18_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3359,
+                  "user_badge_id": 1074312925,
+                  "badge_name": "Hopped Up (Level 2)",
+                  "badge_description": "Load up those hops, watch the IBU grow and drink it down! Now you’re all hopped up. The more bitter, the better. That's 10 different beers with an IBU of 65 or higher. Try 5 more for Level 3!",
+                  "created_at": "Sun, 19 Feb 2023 02:03:58 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_HoppedUp_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_HoppedUp_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_HoppedUp_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1248234897,
+            "created_at": "Thu, 16 Feb 2023 00:47:21 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 1477492,
+              "user_name": "stevetitus",
+              "first_name": "Steve",
+              "last_name": "Titus",
+              "location": "Dover, NH",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/b3f3888df1b781f19186dca9bc1e0788_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11311472,
+              "venue_name": "Crooked Goat Brewing-Petaluma",
+              "venue_slug": "crooked-goat-brewing-petaluma",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "110 Howard St",
+                "venue_city": "Petaluma",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.2332191,
+                "lng": -122.6442795
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "629155df422c883042914cd0",
+                "foursquare_url": "https://4sq.com/3t0B2Vw"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2773609,
+                  "user": {
+                    "uid": 2773609,
+                    "user_name": "mrscribbles",
+                    "first_name": "mr",
+                    "last_name": "scribbles",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/240db3e639fe9600b83d69158ee19fee_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1311614154,
+                  "like_owner": false,
+                  "created_at": "Fri, 17 Feb 2023 01:59:55 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3406,
+                  "user_badge_id": 1073223377,
+                  "badge_name": "Hopped Up (Level 49)",
+                  "badge_description": "Load up those hops, watch the IBU grow and drink it down! Now you’re all hopped up. The more bitter, the better. That's 245 different beers with an IBU of 65 or higher. Try 5 more for Level 50!",
+                  "created_at": "Thu, 16 Feb 2023 00:47:22 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_HoppedUp_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_HoppedUp_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_HoppedUp_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1246003448,
+            "created_at": "Tue, 07 Feb 2023 02:03:49 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 3840122,
+              "user_name": "rcloveslauri",
+              "first_name": "RC",
+              "last_name": "",
+              "location": "RC Home Brew",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Beer... love to make it... love to drink it with others..... love to discover it...cheers!",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/a40f6705c17e934e6a05d437267c0ff4_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5241322,
+              "venue_name": "Crooked Goat Brewing",
+              "venue_slug": "crooked-goat-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "market",
+                    "category_name": "Market",
+                    "category_id": "50be8ee891d4fa8dcc7199a7",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "120 Morris St",
+                "venue_city": "Sebastopol",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.4039574,
+                "lng": -122.8198929
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://crookedgoatbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                "foursquare_url": "http://4sq.com/2brwiPS"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 14,
+              "count": 9,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4407751,
+                  "user": {
+                    "uid": 4407751,
+                    "user_name": "dutchred",
+                    "first_name": "Joost",
+                    "last_name": "Luijken",
+                    "bio": "I like my water with barley and hops",
+                    "location": "Etten-Leur ",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/c272969f5641fd074c93d12692d32960_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1308541830,
+                  "like_owner": false,
+                  "created_at": "Thu, 09 Feb 2023 15:12:21 +0000"
+                },
+                {
+                  "uid": 2550232,
+                  "user": {
+                    "uid": 2550232,
+                    "user_name": "Matt-007",
+                    "first_name": "Matt",
+                    "last_name": "Pechin",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/6fe533666f08604dfd522b0da68642e9_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1308170151,
+                  "like_owner": false,
+                  "created_at": "Tue, 07 Feb 2023 23:54:15 +0000"
+                },
+                {
+                  "uid": 5455407,
+                  "user": {
+                    "uid": 5455407,
+                    "user_name": "Firedragon1976",
+                    "first_name": "Kathleen",
+                    "last_name": "M",
+                    "bio": "“Beer...now there’s a temporary solution.”",
+                    "location": "Lewes, Delaware",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/03460fafa6543fb317f2a1c730b16fb9_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1308165437,
+                  "like_owner": false,
+                  "created_at": "Tue, 07 Feb 2023 23:36:17 +0000"
+                },
+                {
+                  "uid": 5890214,
+                  "user": {
+                    "uid": 5890214,
+                    "user_name": "STEREOLOVER",
+                    "first_name": "Aleksey",
+                    "last_name": "Makarov",
+                    "bio": "Be honest and real! Saint-Petersburg. Russia. Youtube and Twitch: STEREOLOVER.",
+                    "location": "Saint-Petersburg, Russia",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/0fa2152092fce137741dc3bf582a889d_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1308068866,
+                  "like_owner": false,
+                  "created_at": "Tue, 07 Feb 2023 16:58:37 +0000"
+                },
+                {
+                  "uid": 4055863,
+                  "user": {
+                    "uid": 4055863,
+                    "user_name": "PP_Dickey",
+                    "first_name": "Joe",
+                    "last_name": "King",
+                    "bio": "",
+                    "location": "(east-central) Indiana",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/13ad344d112fc6325c410677312c3f3f_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1308062761,
+                  "like_owner": false,
+                  "created_at": "Tue, 07 Feb 2023 16:22:28 +0000"
+                },
+                {
+                  "uid": 6741836,
+                  "user": {
+                    "uid": 6741836,
+                    "user_name": "Bastiank244",
+                    "first_name": "Kristen",
+                    "last_name": "B",
+                    "bio": "",
+                    "location": "Pennsylvania",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/d53c3329fb947f739a3a4ea3bcef4319_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1308037736,
+                  "like_owner": false,
+                  "created_at": "Tue, 07 Feb 2023 12:22:03 +0000"
+                },
+                {
+                  "uid": 3371354,
+                  "user": {
+                    "uid": 3371354,
+                    "user_name": "jenbis",
+                    "first_name": "Jenny",
+                    "last_name": "B",
+                    "bio": "Beer makes everything better",
+                    "location": "Sweden",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/bed5f26b9fabe8c7715cd174f950a53b_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1308019738,
+                  "like_owner": false,
+                  "created_at": "Tue, 07 Feb 2023 07:59:24 +0000"
+                },
+                {
+                  "uid": 146255,
+                  "user": {
+                    "uid": 146255,
+                    "user_name": "SummerDave",
+                    "first_name": "SummerDave",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Hershey, PA. Chocolatetown USA",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/97451d09c8cc1a209910ecdad8661f9e_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1308002093,
+                  "like_owner": false,
+                  "created_at": "Tue, 07 Feb 2023 04:16:09 +0000"
+                },
+                {
+                  "uid": 3551443,
+                  "user": {
+                    "uid": 3551443,
+                    "user_name": "Beer_Morphine",
+                    "first_name": "Vicente",
+                    "last_name": "Nicolau Jr.",
+                    "bio": "",
+                    "location": "Niterói - RJ",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/eede4e0d81db839a766ae0e2569a6d07_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1307999536,
+                  "like_owner": false,
+                  "created_at": "Tue, 07 Feb 2023 03:56:40 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 470573964,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_02_07/ef2015e88e109b0efc99d5f926cb37d9_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_02_07/ef2015e88e109b0efc99d5f926cb37d9_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_02_07/ef2015e88e109b0efc99d5f926cb37d9_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_02_07/ef2015e88e109b0efc99d5f926cb37d9_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1245048346,
+            "created_at": "Sat, 04 Feb 2023 03:48:21 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 1412976,
+              "user_name": "tom214",
+              "first_name": "Mike",
+              "last_name": "Lobitz",
+              "location": "Cameron Park, CA",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/ce7056d63eef42ddeb0b41c07579123c_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1245047672,
+            "created_at": "Sat, 04 Feb 2023 03:45:31 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 1412976,
+              "user_name": "tom214",
+              "first_name": "Mike",
+              "last_name": "Lobitz",
+              "location": "Cameron Park, CA",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/ce7056d63eef42ddeb0b41c07579123c_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 276013,
+                  "user_badge_id": 1070177041,
+                  "badge_name": "Cheers to Independent U.S. Craft Breweries (Level 10)",
+                  "badge_description": "Cheers, beer patriot! You are supporting the small and independent American craft brewer. When you see the seal -- shaped like an upside-down beer bottle -- that's independence you're tasting. Try 5 more to earn Level 11!",
+                  "created_at": "Sat, 04 Feb 2023 03:45:32 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BAIndySeal18_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BAIndySeal18_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BAIndySeal18_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3359,
+                  "user_badge_id": 1070177042,
+                  "badge_name": "Hopped Up (Level 2)",
+                  "badge_description": "Load up those hops, watch the IBU grow and drink it down! Now you’re all hopped up. The more bitter, the better. That's 10 different beers with an IBU of 65 or higher. Try 5 more for Level 3!",
+                  "created_at": "Sat, 04 Feb 2023 03:45:32 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_HoppedUp_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_HoppedUp_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_HoppedUp_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1243675554,
+            "created_at": "Sun, 29 Jan 2023 00:18:21 +0000",
+            "checkin_comment": "The middle road is not bad. Very balanced with no strong flavors in any direction, despite appearing hazy.",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 2557175,
+              "user_name": "Magwai20xd6",
+              "first_name": "Jonathan",
+              "last_name": "Mueller",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/f4eb3c1bb8ecfe7867b048ff7ce8a314?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5241322,
+              "venue_name": "Crooked Goat Brewing",
+              "venue_slug": "crooked-goat-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "market",
+                    "category_name": "Market",
+                    "category_id": "50be8ee891d4fa8dcc7199a7",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "120 Morris St",
+                "venue_city": "Sebastopol",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.4039574,
+                "lng": -122.8198929
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://crookedgoatbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                "foursquare_url": "http://4sq.com/2brwiPS"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 469412298,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_01_29/e7ac59d3de119e13178b7c0872d89a3e_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_01_29/e7ac59d3de119e13178b7c0872d89a3e_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_01_29/e7ac59d3de119e13178b7c0872d89a3e_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_01_29/e7ac59d3de119e13178b7c0872d89a3e_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 276014,
+                  "user_badge_id": 1068849417,
+                  "badge_name": "Cheers to Independent U.S. Craft Breweries (Level 11)",
+                  "badge_description": "Cheers, beer patriot! You are supporting the small and independent American craft brewer. When you see the seal -- shaped like an upside-down beer bottle -- that's independence you're tasting. Try 5 more to earn Level 12!",
+                  "created_at": "Sun, 29 Jan 2023 00:18:21 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BAIndySeal18_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BAIndySeal18_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BAIndySeal18_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 34715,
+                  "user_badge_id": 1068849418,
+                  "badge_name": "Middle of the Road (Level 11)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 55 beers with an ABV greater than 5% and less than 10%. Try 5 more for Level 12!",
+                  "created_at": "Sun, 29 Jan 2023 00:18:21 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2597,
+                  "user_badge_id": 1068849419,
+                  "badge_name": "I Believe in IPA! (Level 11)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 55 different IPAs. Try 5 more for Level 12! Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=EhBh7a4YrPk&list=\">podcast</a>",
+                  "created_at": "Sun, 29 Jan 2023 00:18:21 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1243605868,
+            "created_at": "Sat, 28 Jan 2023 22:31:58 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 1149246,
+              "user_name": "resinygirl",
+              "first_name": "Tami",
+              "last_name": "Abrams",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/7d24ae83bd20617cfbc5ba3014564f0d_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11311472,
+              "venue_name": "Crooked Goat Brewing-Petaluma",
+              "venue_slug": "crooked-goat-brewing-petaluma",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "110 Howard St",
+                "venue_city": "Petaluma",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.2332191,
+                "lng": -122.6442795
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "629155df422c883042914cd0",
+                "foursquare_url": "https://4sq.com/3t0B2Vw"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1243161797,
+            "created_at": "Sat, 28 Jan 2023 00:51:04 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 4801369,
+              "user_name": "laxgoalie063",
+              "first_name": "Rab",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/8e86e2247b7ecee4a086e03cbbd25aaa?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5241322,
+              "venue_name": "Crooked Goat Brewing",
+              "venue_slug": "crooked-goat-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "market",
+                    "category_name": "Market",
+                    "category_id": "50be8ee891d4fa8dcc7199a7",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "120 Morris St",
+                "venue_city": "Sebastopol",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.4039574,
+                "lng": -122.8198929
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://crookedgoatbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                "foursquare_url": "http://4sq.com/2brwiPS"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1242922585,
+            "created_at": "Fri, 27 Jan 2023 17:20:30 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 8725049,
+              "user_name": "nickreeve",
+              "first_name": "Nick",
+              "last_name": "Reeve",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/39048ac0162742b09f39d4c61d875c47?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4057753,
+              "venue_name": "La Marmotte d'Or",
+              "venue_slug": "la-marmotte-d-or",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "90 route de Morzine",
+                "venue_city": "Montriond",
+                "venue_state": "Auvergne-Rhône-Alpes",
+                "venue_country": "France",
+                "lat": 46.1964684,
+                "lng": 6.6945148
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.lamarmottedor.com"
+              },
+              "foursquare": {
+                "foursquare_id": "5677cb60498e6e41c6e7319c",
+                "foursquare_url": "http://4sq.com/1kc1aGC"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1242759569,
+            "created_at": "Thu, 26 Jan 2023 21:40:49 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 1768815,
+              "user_name": "erich26",
+              "first_name": "Erich",
+              "last_name": "Balsman",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/8e10abf49ff1c3a8a8857af2997edc04?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5241322,
+              "venue_name": "Crooked Goat Brewing",
+              "venue_slug": "crooked-goat-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "market",
+                    "category_name": "Market",
+                    "category_id": "50be8ee891d4fa8dcc7199a7",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "120 Morris St",
+                "venue_city": "Sebastopol",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.4039574,
+                "lng": -122.8198929
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://crookedgoatbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                "foursquare_url": "http://4sq.com/2brwiPS"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1241920805,
+            "created_at": "Sun, 22 Jan 2023 02:13:15 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 1576348,
+              "user_name": "astrehl",
+              "first_name": "alex",
+              "last_name": "strehl",
+              "location": "San Francisco",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/3993558cb91e9e16f44b0f3952816317_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11311472,
+              "venue_name": "Crooked Goat Brewing-Petaluma",
+              "venue_slug": "crooked-goat-brewing-petaluma",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "110 Howard St",
+                "venue_city": "Petaluma",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.2332191,
+                "lng": -122.6442795
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "629155df422c883042914cd0",
+                "foursquare_url": "https://4sq.com/3t0B2Vw"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1241380156,
+            "created_at": "Sat, 21 Jan 2023 01:14:11 +0000",
+            "checkin_comment": "Obviously, I hated this beer, great body. Would compare to Jennifer Aniston",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 2397454,
+              "user_name": "Maxamounts",
+              "first_name": "Max",
+              "last_name": "Perry",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/2adca48ed39017e96604158012208b55_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5241322,
+              "venue_name": "Crooked Goat Brewing",
+              "venue_slug": "crooked-goat-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "market",
+                    "category_name": "Market",
+                    "category_id": "50be8ee891d4fa8dcc7199a7",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "120 Morris St",
+                "venue_city": "Sebastopol",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.4039574,
+                "lng": -122.8198929
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://crookedgoatbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "57b0f9a9498ec9aa1e774660",
+                "foursquare_url": "http://4sq.com/2brwiPS"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1240571198,
+            "created_at": "Tue, 17 Jan 2023 01:55:17 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 66164,
+              "user_name": "mattverplaetse",
+              "first_name": "Matt",
+              "last_name": "Verplaetse",
+              "location": "California",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/a324b3e804ba2fdd8f5da9a4fcdf7277?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 1692043,
+              "beer_name": "Ibex",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 7.2,
+              "beer_ibu": 65,
+              "beer_slug": "crooked-goat-brewing-ibex",
+              "beer_description": "",
+              "beer_style": "IPA - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 208101,
+              "brewery_name": "Crooked Goat Brewing",
+              "brewery_slug": "crooked-goat-brewing",
+              "brewery_page_url": "/CrookedGoatBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-208101_31228.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/crookedgoatbrewing",
+                "url": "http://crookedgoatbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Sebastopol",
+                "brewery_state": "CA",
+                "lat": 38.4039,
+                "lng": -122.82
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11311472,
+              "venue_name": "Crooked Goat Brewing-Petaluma",
+              "venue_slug": "crooked-goat-brewing-petaluma",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "110 Howard St",
+                "venue_city": "Petaluma",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 38.2332191,
+                "lng": -122.6442795
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "629155df422c883042914cd0",
+                "foursquare_url": "https://4sq.com/3t0B2Vw"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/1692043?max_id=1240571198",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/1692043?max_id=1240571198",
+          "max_id": 1240571198
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.80769,
+            "beer": {
+              "bid": 4497058,
+              "beer_name": "Peach Shark",
+              "beer_abv": 6.3,
+              "beer_ibu": 0,
+              "beer_slug": "dry-county-brewing-company-peach-shark",
+              "beer_style": "IPA - American",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 234004,
+              "brewery_name": "Dry County Brewing Company",
+              "brewery_slug": "dry-county-brewing-company",
+              "brewery_page_url": "/DryCountyBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-234004_0b09a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "drycountybrewco",
+                "facebook": "http://www.facebook.com/drycountybrewco",
+                "instagram": "drycountybrewco",
+                "url": "http://www.drycountybrewco.com"
+              },
+              "location": {
+                "brewery_city": "Kennesaw",
+                "brewery_state": "GA",
+                "lat": 34.0215988,
+                "lng": -84.5936966
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.8,
+            "beer": {
+              "bid": 3572798,
+              "beer_name": "Medalist",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "bakes-brewing-company-medalist",
+              "beer_style": "IPA - American",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3572798_9c3e8_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 452101,
+              "brewery_name": "Bakes Brewing Company",
+              "brewery_slug": "bakes-brewing-company",
+              "brewery_page_url": "/bakesbrewingco",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-452101_39164.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "bakesbrewingco",
+                "facebook": "https://www.facebook.com/bakesbrewingco/",
+                "instagram": "bakesbrewingco",
+                "url": "http://www.bakesbrewingco.com"
+              },
+              "location": {
+                "brewery_city": "Wall",
+                "brewery_state": "NJ",
+                "lat": 40.1607018,
+                "lng": -74.0680008
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.75,
+            "beer": {
+              "bid": 4444125,
+              "beer_name": "West Coast IPA (Citra & Idaho 7)",
+              "beer_abv": 6.5,
+              "beer_ibu": 55,
+              "beer_slug": "frequentem-brewing-co-west-coast-ipa-citra-and-idaho-7",
+              "beer_style": "IPA - American",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 468153,
+              "brewery_name": "Frequentem Brewing Co.",
+              "brewery_slug": "frequentem-brewing-co",
+              "brewery_page_url": "/FrequentemBrewingCo",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-468153_1f79c.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/Frequentem-Brewing-Co-112490587115468",
+                "instagram": "frequentembrewingco",
+                "url": "http://frequentembrewing.com"
+              },
+              "location": {
+                "brewery_city": "Canandaigua",
+                "brewery_state": "NY",
+                "lat": 42.8838997,
+                "lng": -77.2790985
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.69231,
+            "beer": {
+              "bid": 3937171,
+              "beer_name": "Watermelon IPA",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "dry-county-brewing-company-watermelon-ipa",
+              "beer_style": "IPA - American",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 234004,
+              "brewery_name": "Dry County Brewing Company",
+              "brewery_slug": "dry-county-brewing-company",
+              "brewery_page_url": "/DryCountyBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-234004_0b09a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "drycountybrewco",
+                "facebook": "http://www.facebook.com/drycountybrewco",
+                "instagram": "drycountybrewco",
+                "url": "http://www.drycountybrewco.com"
+              },
+              "location": {
+                "brewery_city": "Kennesaw",
+                "brewery_state": "GA",
+                "lat": 34.0215988,
+                "lng": -84.5936966
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.68421,
+            "beer": {
+              "bid": 1745748,
+              "beer_name": "Chocked-Up sMasH IPA - Mosaic",
+              "beer_abv": 8.64,
+              "beer_ibu": 108,
+              "beer_slug": "4655-brew-co-chocked-up-smash-ipa-mosaic",
+              "beer_style": "IPA - American",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-1745748_801cd_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 211839,
+              "brewery_name": "4655 Brewing Company",
+              "brewery_slug": "4655-brew-co",
+              "brewery_page_url": "/4655BrewCo",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-211839_73261.jpeg",
+              "country_name": "Switzerland",
+              "contact": {
+                "twitter": "4655brewco",
+                "facebook": "https://www.facebook.com/4655BrewCo",
+                "instagram": "4655brewco",
+                "url": "http://4655brew.co"
+              },
+              "location": {
+                "brewery_city": "Stüsslingen",
+                "brewery_state": "Solothurn",
+                "lat": 47.3889008,
+                "lng": 7.9723902
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.70462,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

@@ -3,10 +3,6 @@ layout: beer
 filename: _posts/beer/2016-11-09-skorubrew-19-red-rye-ipa.md
 title: Skorubrew #19 red rye IPA
 category: beer
-country: "Australia"
-brewery: "Skorubrew"
-breweryURL: "/brewery/skorubrew.html"
-style: "Rye IPA"
 score: 9
 img: /img/list/skorubrew-19-red-rye-ipa.jpeg
 beer-date: "2017-03-03"

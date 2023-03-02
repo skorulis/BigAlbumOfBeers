@@ -8,9 +8,9 @@ country: "Australia"
 brewery: "Frenchies"
 breweryURL: "/brewery/frenchies.html"
 style: "Farmhouse Ale - Bière de Garde"
-score: 7.5
+score: 7
 img: /img/list/frenchies-kamchatka.jpeg
-beer-date: "2021-04-02"
-desc: "Rich and earthy. A nice solid very dark stout"
+beer-date: "2023-02-26"
+desc: "Very sweet. Nice malty dark lager that goes well with food"
 permalink: /beer/:title.html
 ---

@@ -3,10 +3,6 @@ layout: beer
 filename: _posts/beer/2016-11-09-skorubrew-21-belgian-pale-ale.md
 title: Skorubrew #21 belgian pale ale
 category: beer
-country: "Australia"
-brewery: "Skorubrew"
-breweryURL: "/brewery/skorubrew.html"
-style: "Belgian pale ale"
 score: 6.5
 img: /img/list/skorubrew-21-belgian-pale-ale.jpeg
 beer-date: "2017-10-28"

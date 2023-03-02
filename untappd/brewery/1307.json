@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.35,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 1307,
+      "brewery_name": "Unibroue",
+      "brewery_slug": "unibroue",
+      "brewery_page_url": "/Unibroue",
+      "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-1307_2b88e.jpeg",
+      "brewery_label_hd": "https://assets.untappd.com/site/brewery_logos_hd/brewery-1307_fa680_hd.jpeg",
+      "country_name": "Canada",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "Unibroue",
+        "follow_status": false,
+        "follower_count": 40463,
+        "uid": 280763,
+        "mute_status": "none"
+      },
+      "beer_count": 110,
+      "contact": {
+        "twitter": "Unibroue",
+        "facebook": "https://www.facebook.com/unibroue",
+        "instagram": "Unibroue",
+        "url": "https://www.unibroue.com"
+      },
+      "brewery_type": "Macro Brewery",
+      "brewery_type_id": 1,
+      "location": {
+        "brewery_address": "80 rue des Carrières",
+        "brewery_city": "Chambly",
+        "brewery_state": "QC",
+        "brewery_lat": 45.4418,
+        "brewery_lng": -73.2595
+      },
+      "rating": {
+        "count": 830850,
+        "rating_score": 3.786
+      },
+      "brewery_description": "The first brewery of its kind in North America, Unibroue’s world class bottle refermented ales are proudly inspired by the great Belgian brewing tradition established by Trappist Monks during the past two centuries. \r\n\r\nLa brasserie Unibroue est unique en son genre en Amérique du Nord. Ses bières refermentées, maintes fois primées, sont issues d’une méthode de brassage s’inspirant des grandes traditions brassicoles belges et européennes, établies au cours des deux derniers siècles par les moines trappistes.",
+      "stats": {
+        "total_count": 1152250,
+        "unique_count": 384073,
+        "monthly_count": 2345,
+        "weekly_count": 465,
+        "user_count": 0,
+        "age_on_service": 4530.041631944445
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 4779,
+            "is_brewery_group": 0,
+            "brewery_name": "Sapporo Breweries"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 949601,
+              "venue_name": "Unibroue",
+              "venue_slug": "unibroue",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "80 rue des Carrières",
+                "venue_city": "Chambly",
+                "venue_state": "QC",
+                "venue_country": "Canada",
+                "lat": 45.4414101,
+                "lng": -73.2614899
+              },
+              "contact": {
+                "twitter": "@unibroue",
+                "venue_url": "http://www.unibroue.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4c13c6e277cea593e966cf60",
+                "foursquare_url": "http://4sq.com/bzXlan"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

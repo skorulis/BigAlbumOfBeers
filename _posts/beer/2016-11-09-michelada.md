@@ -3,6 +3,11 @@ layout: beer
 filename: _posts/beer/2016-11-09-michelada.md
 title: Michelada
 category: beer
+untappd: "https://untappd.com/b/anheuser-busch-michelob-ultra/6655"
+country: "United States"
+brewery: "Anheuser-Busch"
+breweryURL: "/brewery/anheuser-busch.html"
+style: "Lager - American Light"
 score: 6
 img: /img/list/michelada.jpeg
 beer-date: "2018-06-02"

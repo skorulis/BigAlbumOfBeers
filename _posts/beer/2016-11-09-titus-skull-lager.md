@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-titus-skull-lager.md
+title: Titus skull lager
+category: beer
+untappd: "https://untappd.com/b/titus-jones-skull-lager/4307294"
+country: "Australia"
+brewery: "Titus Jones"
+breweryURL: "/brewery/titus-jones.html"
+style: "Lager - Pale"
+score: 6
+img: /img/list/titus-skull-lager.jpeg
+beer-date: "2023-02-26"
+desc: "Kind of malty, but easy drinking"
+permalink: /beer/:title.html
+---

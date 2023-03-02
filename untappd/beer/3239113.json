@@ -1,0 +1,3615 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.309,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 3239113,
+      "beer_name": "West Coast Microdose",
+      "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+      "beer_label_hd": "https://assets.untappd.com/site/beer_logos_hd/beer-3239113_66eda_hd.jpeg",
+      "beer_abv": 5.6,
+      "beer_ibu": 0,
+      "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+      "beer_style": "Blonde Ale",
+      "is_in_production": 1,
+      "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+      "is_homebrew": 0,
+      "created_at": "Mon, 20 May 2019 22:08:23 +0000",
+      "rating_count": 167,
+      "rating_score": 3.69012,
+      "stats": {
+        "total_count": 191,
+        "monthly_count": 0,
+        "total_user_count": 187,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 268965,
+        "brewery_name": "Barebottle Brewing Company",
+        "brewery_slug": "barebottle-brewing-company",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/BarebottleBrewingCompany",
+        "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+        "country_name": "United States",
+        "contact": {
+          "twitter": "barebottle",
+          "facebook": "https://www.facebook.com/barebottle",
+          "url": "https://www.barebottle.com"
+        },
+        "location": {
+          "brewery_city": "San Francisco",
+          "brewery_state": "CA",
+          "lat": 37.7401,
+          "lng": -122.409
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 244880966,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2019_07_30/612c5cf44731d53c019870dfa26df433_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2019_07_30/612c5cf44731d53c019870dfa26df433_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2019_07_30/612c5cf44731d53c019870dfa26df433_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2019_07_30/612c5cf44731d53c019870dfa26df433_raw.jpg"
+            },
+            "created_at": "Tue, 30 Jul 2019 02:29:09 +0000",
+            "checkin_id": 784454602,
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "is_in_production": 1,
+              "beer_style_id": 13,
+              "beer_style": "Blonde Ale",
+              "rating_score": 3.69,
+              "rating_count": 167,
+              "count": 167,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6183250,
+              "user_name": "khinokuchi",
+              "first_name": "Keith",
+              "last_name": "Inokuchi",
+              "user_avatar": "https://assets.untappd.com/profile/d4915b1e36ae26f0ab27a65f284ccf89_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3369881,
+                "venue_name": "Drake's Dealership",
+                "venue_slug": "drake-s-dealership",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 4,
+                  "items": [
+                    {
+                      "category_key": "beer_garden",
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "gastropub",
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "food_drink_shop",
+                      "category_name": "Food & Drink Shop",
+                      "category_id": "4bf58dd8d48988d1f9941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "2325 Broadway",
+                  "venue_city": "Oakland",
+                  "venue_state": "CA",
+                  "lat": 37.8128,
+                  "lng": -122.267
+                },
+                "contact": {
+                  "twitter": "@drakesdship",
+                  "venue_url": "http://drinkdrakes.com/visit/dealership/"
+                },
+                "foursquare": {
+                  "foursquare_id": "55a6eee8498e39b5dd60f45a",
+                  "foursquare_url": "http://4sq.com/1Mbga3l"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 244763034,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2019_07_29/9bb187b4ce32b905022151c9ffe2331b_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2019_07_29/9bb187b4ce32b905022151c9ffe2331b_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2019_07_29/9bb187b4ce32b905022151c9ffe2331b_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2019_07_29/9bb187b4ce32b905022151c9ffe2331b_raw.jpg"
+            },
+            "created_at": "Mon, 29 Jul 2019 07:24:04 +0000",
+            "checkin_id": 784194184,
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "is_in_production": 1,
+              "beer_style_id": 13,
+              "beer_style": "Blonde Ale",
+              "rating_score": 3.69,
+              "rating_count": 167,
+              "count": 167,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5627771,
+              "user_name": "brannonn",
+              "first_name": "Brannon",
+              "last_name": "Naito",
+              "user_avatar": "https://assets.untappd.com/profile/29a11ff0e0e152b6eb3111612e68035e_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3369881,
+                "venue_name": "Drake's Dealership",
+                "venue_slug": "drake-s-dealership",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 4,
+                  "items": [
+                    {
+                      "category_key": "beer_garden",
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "gastropub",
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "food_drink_shop",
+                      "category_name": "Food & Drink Shop",
+                      "category_id": "4bf58dd8d48988d1f9941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "2325 Broadway",
+                  "venue_city": "Oakland",
+                  "venue_state": "CA",
+                  "lat": 37.8128,
+                  "lng": -122.267
+                },
+                "contact": {
+                  "twitter": "@drakesdship",
+                  "venue_url": "http://drinkdrakes.com/visit/dealership/"
+                },
+                "foursquare": {
+                  "foursquare_id": "55a6eee8498e39b5dd60f45a",
+                  "foursquare_url": "http://4sq.com/1Mbga3l"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 244152122,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photo/2019_07_26/10f6f84e43f0e2fe8515d31b4c22ded1_c_782682399_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photo/2019_07_26/10f6f84e43f0e2fe8515d31b4c22ded1_c_782682399_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photo/2019_07_26/10f6f84e43f0e2fe8515d31b4c22ded1_c_782682399_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photo/2019_07_26/10f6f84e43f0e2fe8515d31b4c22ded1_c_782682399_raw.jpg"
+            },
+            "created_at": "Fri, 26 Jul 2019 22:57:16 +0000",
+            "checkin_id": 782682399,
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "is_in_production": 1,
+              "beer_style_id": 13,
+              "beer_style": "Blonde Ale",
+              "rating_score": 3.69,
+              "rating_count": 167,
+              "count": 167,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 192030,
+              "user_name": "CapJohn",
+              "first_name": "Captain",
+              "last_name": "John",
+              "user_avatar": "https://assets.untappd.com/profile/3609ed337e1f1009241e29125b62b57c_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9094839,
+                "venue_name": "Brew @ 382",
+                "venue_slug": "brew-382",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "386 Grand Ave",
+                  "venue_city": "South San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.6557,
+                  "lng": -122.412
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5d0ef419ab2fc70023ae4f30",
+                  "foursquare_url": "https://4sq.com/2IB70AY"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_9094839_bdc8af9a_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_9094839_bdc8af9a_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_9094839_bdc8af9a_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 242545076,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2019_07_19/b5bffdf5407ceb1ae106413ab1140d9b_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2019_07_19/b5bffdf5407ceb1ae106413ab1140d9b_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2019_07_19/b5bffdf5407ceb1ae106413ab1140d9b_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2019_07_19/b5bffdf5407ceb1ae106413ab1140d9b_raw.jpg"
+            },
+            "created_at": "Fri, 19 Jul 2019 01:18:11 +0000",
+            "checkin_id": 778945448,
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "is_in_production": 1,
+              "beer_style_id": 13,
+              "beer_style": "Blonde Ale",
+              "rating_score": 3.69,
+              "rating_count": 167,
+              "count": 167,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4096649,
+              "user_name": "dipaman",
+              "first_name": "Brian",
+              "last_name": "",
+              "user_avatar": "https://assets.untappd.com/profile/4a7a2d3cb1c49f31c754db5700fba2e2_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 1064942,
+                "venue_name": "Whole Foods Market",
+                "venue_slug": "whole-foods-market",
+                "primary_category": "Shop & Service",
+                "parent_category_id": "4d4b7105d754a06378d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "grocery_store",
+                      "category_name": "Grocery Store",
+                      "category_id": "4bf58dd8d48988d118951735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "health_food_store",
+                      "category_name": "Health Food Store",
+                      "category_id": "50aa9e744b90af0d42d5de0e",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "3111 Mowry Ave",
+                  "venue_city": "Fremont",
+                  "venue_state": "CA",
+                  "lat": 37.5549,
+                  "lng": -121.985
+                },
+                "contact": {
+                  "twitter": "@wholefoodsnorca",
+                  "venue_url": "http://www.wholefoodsmarket.com/stores/fremont-ca"
+                },
+                "foursquare": {
+                  "foursquare_id": "52041d1b498eb6eb1977a658",
+                  "foursquare_url": "http://4sq.com/13neyJF"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 242396426,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2019_07_18/3a203bd10e02eede068ea0f5d38ecdd7_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2019_07_18/3a203bd10e02eede068ea0f5d38ecdd7_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2019_07_18/3a203bd10e02eede068ea0f5d38ecdd7_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2019_07_18/3a203bd10e02eede068ea0f5d38ecdd7_raw.jpg"
+            },
+            "created_at": "Thu, 18 Jul 2019 06:44:04 +0000",
+            "checkin_id": 778610982,
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "is_in_production": 1,
+              "beer_style_id": 13,
+              "beer_style": "Blonde Ale",
+              "rating_score": 3.69,
+              "rating_count": 167,
+              "count": 167,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5486296,
+              "user_name": "nickEatsBeer",
+              "first_name": "Nick",
+              "last_name": "N",
+              "user_avatar": "https://assets.untappd.com/profile/c4e867062fbbe7ee490242bd238e1293_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 33135,
+                "venue_name": "Valley Tavern",
+                "venue_slug": "valley-tavern",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "beer_garden",
+                      "category_name": "Beer Garden",
+                      "category_id": "4bf58dd8d48988d117941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "4054 24th St",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7515,
+                  "lng": -122.433
+                },
+                "contact": {
+                  "twitter": "@thevalleytavern",
+                  "venue_url": "http://valleytavern.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "42474900f964a52087201fe3",
+                  "foursquare_url": "http://4sq.com/5Hm8El"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 242377922,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2019_07_18/a8c7bda2d9bee6976e321f1da8e9f161_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2019_07_18/a8c7bda2d9bee6976e321f1da8e9f161_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2019_07_18/a8c7bda2d9bee6976e321f1da8e9f161_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2019_07_18/a8c7bda2d9bee6976e321f1da8e9f161_raw.jpg"
+            },
+            "created_at": "Thu, 18 Jul 2019 01:34:07 +0000",
+            "checkin_id": 778559345,
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "is_in_production": 1,
+              "beer_style_id": 13,
+              "beer_style": "Blonde Ale",
+              "rating_score": 3.69,
+              "rating_count": 167,
+              "count": 167,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1883555,
+              "user_name": "kidkrish",
+              "first_name": "Krishna",
+              "last_name": "Prabhakar",
+              "user_avatar": "https://gravatar.com/avatar/4649664f2a3145551fbc5f918ba8fd2b?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 5815163,
+                "venue_name": "Mission Peak Tap Alley",
+                "venue_slug": "mission-peak-tap-alley",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 4,
+                  "items": [
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "grocery_store",
+                      "category_name": "Grocery Store",
+                      "category_id": "4bf58dd8d48988d118951735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "3111 Mowry Ave",
+                  "venue_city": "Fremont",
+                  "venue_state": "CA",
+                  "lat": 37.5546,
+                  "lng": -121.985
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.wholefoodsmarket.com/stores/albany"
+                },
+                "foursquare": {
+                  "foursquare_id": "58745224469aef2da98347d1",
+                  "foursquare_url": "http://4sq.com/2iyszm8"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 242255995,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2019_07_17/90e233569167b1f6efceb7eb48178fe0_200x200.JPG",
+              "photo_img_md": "https://assets.untappd.com/photos/2019_07_17/90e233569167b1f6efceb7eb48178fe0_640x640.JPG",
+              "photo_img_lg": "https://assets.untappd.com/photos/2019_07_17/90e233569167b1f6efceb7eb48178fe0_1280x1280.JPG",
+              "photo_img_og": "https://assets.untappd.com/photos/2019_07_17/90e233569167b1f6efceb7eb48178fe0_raw.JPG"
+            },
+            "created_at": "Wed, 17 Jul 2019 13:36:44 +0000",
+            "checkin_id": 778283259,
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "is_in_production": 1,
+              "beer_style_id": 13,
+              "beer_style": "Blonde Ale",
+              "rating_score": 3.69,
+              "rating_count": 167,
+              "count": 167,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 942196,
+              "user_name": "rlanglands",
+              "first_name": "Rob",
+              "last_name": "Langlands",
+              "user_avatar": "https://assets.untappd.com/profile/e1731fe3727b20ca9682eb47870b8394_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 240761858,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2019_07_09/4453a5e8a01de6dfd9d8ab489399d949_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2019_07_09/4453a5e8a01de6dfd9d8ab489399d949_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2019_07_09/4453a5e8a01de6dfd9d8ab489399d949_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2019_07_09/4453a5e8a01de6dfd9d8ab489399d949_raw.jpg"
+            },
+            "created_at": "Tue, 09 Jul 2019 01:15:22 +0000",
+            "checkin_id": 774734518,
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "is_in_production": 1,
+              "beer_style_id": 13,
+              "beer_style": "Blonde Ale",
+              "rating_score": 3.69,
+              "rating_count": 167,
+              "count": 167,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1208539,
+              "user_name": "BeerMeBarry",
+              "first_name": "Stephen",
+              "last_name": "Barry",
+              "user_avatar": "https://assets.untappd.com/profile/4be108d7146f87344dd41843bde044ea_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 35945,
+                "venue_name": "Wayfare Tavern",
+                "venue_slug": "wayfare-tavern",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "new_american_restaurant",
+                      "category_name": "New American Restaurant",
+                      "category_id": "4bf58dd8d48988d157941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "cocktail_bar",
+                      "category_name": "Cocktail Bar",
+                      "category_id": "4bf58dd8d48988d11e941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "558 Sacramento St",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7939,
+                  "lng": -122.402
+                },
+                "contact": {
+                  "twitter": "@wayfaretavern",
+                  "venue_url": "http://www.wayfaretavern.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4c05a764191f20a11473e314",
+                  "foursquare_url": "http://4sq.com/9EWsfY"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 239465784,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2019_07_02/267a19bac94a7c4b0df028cfd73ccba2_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2019_07_02/267a19bac94a7c4b0df028cfd73ccba2_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2019_07_02/267a19bac94a7c4b0df028cfd73ccba2_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2019_07_02/267a19bac94a7c4b0df028cfd73ccba2_raw.jpg"
+            },
+            "created_at": "Tue, 02 Jul 2019 23:59:51 +0000",
+            "checkin_id": 771543411,
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "is_in_production": 1,
+              "beer_style_id": 13,
+              "beer_style": "Blonde Ale",
+              "rating_score": 3.69,
+              "rating_count": 167,
+              "count": 167,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 194694,
+              "user_name": "plutrono",
+              "first_name": "Phil",
+              "last_name": "DeGreen",
+              "user_avatar": "https://assets.untappd.com/profile/2373268a52d8ea7b4c56296a90498d5d_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 537992,
+                "venue_name": "Asteria Grill",
+                "venue_slug": "asteria-grill",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "greek_restaurant",
+                      "category_name": "Greek Restaurant",
+                      "category_id": "4bf58dd8d48988d10e941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "chinese_restaurant",
+                      "category_name": "Chinese Restaurant",
+                      "category_id": "4bf58dd8d48988d145941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "cafe",
+                      "category_name": "Café",
+                      "category_id": "4bf58dd8d48988d16d941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "502 Ross Dr",
+                  "venue_city": "Sunnyvale",
+                  "venue_state": "CA",
+                  "lat": 37.4018,
+                  "lng": -122.027
+                },
+                "contact": {
+                  "twitter": "@asteriagrillca",
+                  "venue_url": "http://www.asteriagrill.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4fb70413e4b0c776a681ba51",
+                  "foursquare_url": "http://4sq.com/JEOK54"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/greek_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/greek_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/greek_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 239232124,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2019_07_01/5ad6efe8417547d3ae53a16298072115_200x200.jpeg",
+              "photo_img_md": "https://assets.untappd.com/photos/2019_07_01/5ad6efe8417547d3ae53a16298072115_640x640.jpeg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2019_07_01/5ad6efe8417547d3ae53a16298072115_1280x1280.jpeg",
+              "photo_img_og": "https://assets.untappd.com/photos/2019_07_01/5ad6efe8417547d3ae53a16298072115_raw.jpeg"
+            },
+            "created_at": "Mon, 01 Jul 2019 01:04:17 +0000",
+            "checkin_id": 770983048,
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "is_in_production": 1,
+              "beer_style_id": 13,
+              "beer_style": "Blonde Ale",
+              "rating_score": 3.69,
+              "rating_count": 167,
+              "count": 167,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 288986,
+              "user_name": "General_Zod",
+              "first_name": "Vincent",
+              "last_name": "N.",
+              "user_avatar": "https://assets.untappd.com/profile/feb244324c52f0c19b9b70d76fa69a63_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8649805,
+                "venue_name": "MINIBOSS",
+                "venue_slug": "miniboss",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "arcade",
+                      "category_name": "Arcade",
+                      "category_id": "4bf58dd8d48988d1e1931735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "restaurant",
+                      "category_name": "Restaurant",
+                      "category_id": "4bf58dd8d48988d1c4941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "52 E Santa Clara St",
+                  "venue_city": "San Jose",
+                  "venue_state": "CA",
+                  "lat": 37.3366,
+                  "lng": -121.889
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5be0dc41037be1002c89d017",
+                  "foursquare_url": "https://4sq.com/2QmCKLN"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/site/assets/images/temp/verfied-venue_bg_64.png",
+                  "md": "https://assets.untappd.com/site/assets/images/temp/verfied-venue_bg_88.png",
+                  "lg": "https://assets.untappd.com/site/assets/images/temp/verfied-venue_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 820035615,
+            "created_at": "Sun, 20 Oct 2019 20:34:11 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 1540319,
+              "user_name": "csprankles",
+              "first_name": "christina",
+              "last_name": "sprankles",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/f7686c65f8f9ca6fa37d73318856fd21_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 797544533,
+            "created_at": "Wed, 28 Aug 2019 03:23:19 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 242710,
+              "user_name": "ColdOne",
+              "first_name": "Sean",
+              "last_name": "Trabosh",
+              "location": "",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/1b8c024fa3174ea04e0612435fc0acd4_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 622244,
+              "venue_name": "Padrecito",
+              "venue_slug": "padrecito",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "mexican_restaurant",
+                    "category_name": "Mexican Restaurant",
+                    "category_id": "4bf58dd8d48988d1c1941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "901 Cole St",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7657433,
+                "lng": -122.4500656
+              },
+              "contact": {
+                "twitter": "@padrecitosf",
+                "venue_url": "http://padrecitosf.com"
+              },
+              "foursquare": {
+                "foursquare_id": "50ef30e4e4b00a55d27ff6d5",
+                "foursquare_url": "http://4sq.com/XnXYXR"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/mexican_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/mexican_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/mexican_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 1,
+              "count": 1,
+              "items": [
+                {
+                  "user": {
+                    "uid": 246116,
+                    "user_name": "bctucsc",
+                    "first_name": "Bryan",
+                    "last_name": "Townsend",
+                    "bio": "My favorite movie is Pulp Fiction",
+                    "location": "Belmont, CA",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://assets.untappd.com/profile/c6b94c1de4a8a5ea7de95a2e6a268f7a_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 797544533,
+                  "comment_id": 52235309,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Going out in the city at night is dangerous",
+                  "created_at": "Wed, 28 Aug 2019 04:18:11 +0000",
+                  "comment_source": "API"
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 391994,
+                  "user": {
+                    "uid": 391994,
+                    "user_name": "Scarmich",
+                    "first_name": "Steve",
+                    "last_name": "Carmichael",
+                    "bio": "",
+                    "location": "Coeur d'Alene",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/69bbabe4c0f01eaef3366ab1ebe062e8_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 709238104,
+                  "like_owner": false,
+                  "created_at": "Wed, 28 Aug 2019 09:51:22 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 784454602,
+            "created_at": "Tue, 30 Jul 2019 02:28:55 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 6183250,
+              "user_name": "khinokuchi",
+              "first_name": "Keith",
+              "last_name": "Inokuchi",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/d4915b1e36ae26f0ab27a65f284ccf89_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3369881,
+              "venue_name": "Drake's Dealership",
+              "venue_slug": "drake-s-dealership",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_key": "beer_garden",
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "gastropub",
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "food_drink_shop",
+                    "category_name": "Food & Drink Shop",
+                    "category_id": "4bf58dd8d48988d1f9941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "2325 Broadway",
+                "venue_city": "Oakland",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.8128242,
+                "lng": -122.2667389
+              },
+              "contact": {
+                "twitter": "@drakesdship",
+                "venue_url": "http://drinkdrakes.com/visit/dealership/"
+              },
+              "foursquare": {
+                "foursquare_id": "55a6eee8498e39b5dd60f45a",
+                "foursquare_url": "http://4sq.com/1Mbga3l"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 244880966,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2019_07_30/612c5cf44731d53c019870dfa26df433_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2019_07_30/612c5cf44731d53c019870dfa26df433_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2019_07_30/612c5cf44731d53c019870dfa26df433_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2019_07_30/612c5cf44731d53c019870dfa26df433_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 3785,
+                  "user_badge_id": 543457069,
+                  "badge_name": "Bar Explorer (Level 3)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least 15 distinct venues!",
+                  "created_at": "Tue, 30 Jul 2019 02:28:56 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2002,
+                  "user_badge_id": 543457070,
+                  "badge_name": "Land of the Free  (Level 16)",
+                  "badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 80 different beers from a brewery in the United States. Try 5 more for Level 17.",
+                  "created_at": "Tue, 30 Jul 2019 02:28:56 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_america_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_america_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_america_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 345317,
+                  "user_badge_id": 543457071,
+                  "badge_name": "Pure Garden Bliss",
+                  "badge_description": "What's better than enjoying a beer outside with food, music, games all in an enjoyable atmosphere? We couldn't think of anything. That's a beer at 5 different venues with the category of Beer Garden. Visit 5 more for Level 2!\n",
+                  "created_at": "Tue, 30 Jul 2019 02:28:56 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_pure-garden-bliss_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_pure-garden-bliss_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_pure-garden-bliss_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 784194184,
+            "created_at": "Mon, 29 Jul 2019 07:23:58 +0000",
+            "checkin_comment": "Barebottle At drakes, didn’t even have my hazy",
+            "rating_score": 4,
+            "user": {
+              "uid": 5627771,
+              "user_name": "brannonn",
+              "first_name": "Brannon",
+              "last_name": "Naito",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/29a11ff0e0e152b6eb3111612e68035e_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3369881,
+              "venue_name": "Drake's Dealership",
+              "venue_slug": "drake-s-dealership",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_key": "beer_garden",
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "gastropub",
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "food_drink_shop",
+                    "category_name": "Food & Drink Shop",
+                    "category_id": "4bf58dd8d48988d1f9941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "2325 Broadway",
+                "venue_city": "Oakland",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.8128242,
+                "lng": -122.2667389
+              },
+              "contact": {
+                "twitter": "@drakesdship",
+                "venue_url": "http://drinkdrakes.com/visit/dealership/"
+              },
+              "foursquare": {
+                "foursquare_id": "55a6eee8498e39b5dd60f45a",
+                "foursquare_url": "http://4sq.com/1Mbga3l"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 244763034,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2019_07_29/9bb187b4ce32b905022151c9ffe2331b_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2019_07_29/9bb187b4ce32b905022151c9ffe2331b_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2019_07_29/9bb187b4ce32b905022151c9ffe2331b_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2019_07_29/9bb187b4ce32b905022151c9ffe2331b_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 783995577,
+            "created_at": "Sun, 28 Jul 2019 20:48:05 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 4752282,
+              "user_name": "troypc",
+              "first_name": "Troy",
+              "last_name": "Pasion-Caiani",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/b77e3d446985f71e2e3a67eb9d06025b_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3369881,
+              "venue_name": "Drake's Dealership",
+              "venue_slug": "drake-s-dealership",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_key": "beer_garden",
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "gastropub",
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "food_drink_shop",
+                    "category_name": "Food & Drink Shop",
+                    "category_id": "4bf58dd8d48988d1f9941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "2325 Broadway",
+                "venue_city": "Oakland",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.8128242,
+                "lng": -122.2667389
+              },
+              "contact": {
+                "twitter": "@drakesdship",
+                "venue_url": "http://drinkdrakes.com/visit/dealership/"
+              },
+              "foursquare": {
+                "foursquare_id": "55a6eee8498e39b5dd60f45a",
+                "foursquare_url": "http://4sq.com/1Mbga3l"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 5,
+              "items": [
+                {
+                  "badge_id": 12064,
+                  "user_badge_id": 542962338,
+                  "badge_name": "Beer Foodie (Level 7)",
+                  "badge_description": "Wine isn't the only beverage worthy of pairing with a delicious meal. With so many styles widely available, there’s a perfect pint for any cuisine of your choosing. That's a beer at 35 different venues categorized as a Restaurant. Try 5 more for Level 8!",
+                  "created_at": "Sun, 28 Jul 2019 20:48:06 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BeerFoodie_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BeerFoodie_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BeerFoodie_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5643,
+                  "user_badge_id": 542962339,
+                  "badge_name": "Wheel of Styles (Level 14)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 70 different styles. Try 5 more for Level 15!",
+                  "created_at": "Sun, 28 Jul 2019 20:48:06 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 4187,
+                  "user_badge_id": 542962340,
+                  "badge_name": "Fields of Gold (Level 3)",
+                  "badge_description": "Sometimes you need a break from all the hops, fruits, and spices. What better way than with a crisp, smooth Blonde Ale or Golden Ale? Basic but delicious. That's 15 different beers with the style of Blonde Ale or Golden Ale. Try 5 more for Level 4!",
+                  "created_at": "Sun, 28 Jul 2019 20:48:06 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_FieldsOfGold_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_FieldsOfGold_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_FieldsOfGold_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2033,
+                  "user_badge_id": 542962341,
+                  "badge_name": "Land of the Free  (Level 47)",
+                  "badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 235 different beers from a brewery in the United States. Try 5 more for Level 48.",
+                  "created_at": "Sun, 28 Jul 2019 20:48:06 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_america_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_america_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_america_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 288525,
+                  "user_badge_id": 542962342,
+                  "badge_name": "Ye Olde Pub",
+                  "badge_description": "As the hub of the town's social scene, your local pub has what you're craving. Be sure to stop by for a pint or two! That's a beer at 5 different venues with the categories of Pub, Irish Pub or Gastropub. Visit 5 more for Level 2!",
+                  "created_at": "Sun, 28 Jul 2019 20:48:06 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_pub_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_pub_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_pub_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 782682399,
+            "created_at": "Fri, 26 Jul 2019 22:57:08 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 192030,
+              "user_name": "CapJohn",
+              "first_name": "Captain",
+              "last_name": "John",
+              "location": "Broomfield, CO",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "....",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/3609ed337e1f1009241e29125b62b57c_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9094839,
+              "venue_name": "Brew @ 382",
+              "venue_slug": "brew-382",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "386 Grand Ave",
+                "venue_city": "South San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.6557198,
+                "lng": -122.4119797
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5d0ef419ab2fc70023ae4f30",
+                "foursquare_url": "https://4sq.com/2IB70AY"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9094839_bdc8af9a_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9094839_bdc8af9a_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9094839_bdc8af9a_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 244152122,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photo/2019_07_26/10f6f84e43f0e2fe8515d31b4c22ded1_c_782682399_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photo/2019_07_26/10f6f84e43f0e2fe8515d31b4c22ded1_c_782682399_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photo/2019_07_26/10f6f84e43f0e2fe8515d31b4c22ded1_c_782682399_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photo/2019_07_26/10f6f84e43f0e2fe8515d31b4c22ded1_c_782682399_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 782173671,
+            "created_at": "Thu, 25 Jul 2019 23:49:57 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 37843,
+              "user_name": "richblomseth",
+              "first_name": "Rich",
+              "last_name": "Blomseth",
+              "location": "San Jose",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/c09c58be79359009acb82ac204b3f060_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8144257,
+              "venue_name": "Metro City",
+              "venue_slug": "metro-city",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "919 E Duane Ave",
+                "venue_city": "Sunnyvale",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.3890228,
+                "lng": -122.0040588
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5b67aacc270ee7002c71b847",
+                "foursquare_url": "https://4sq.com/2MobgDw"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 778945448,
+            "created_at": "Fri, 19 Jul 2019 01:17:53 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 4096649,
+              "user_name": "dipaman",
+              "first_name": "Brian",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/4a7a2d3cb1c49f31c754db5700fba2e2_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 1064942,
+              "venue_name": "Whole Foods Market",
+              "venue_slug": "whole-foods-market",
+              "primary_category_key": "Shop & Service",
+              "primary_category": "Shop & Service",
+              "parent_category_id": "4d4b7105d754a06378d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "grocery_store",
+                    "category_name": "Grocery Store",
+                    "category_id": "4bf58dd8d48988d118951735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "health_food_store",
+                    "category_name": "Health Food Store",
+                    "category_id": "50aa9e744b90af0d42d5de0e",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "3111 Mowry Ave",
+                "venue_city": "Fremont",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.5549011,
+                "lng": -121.9849396
+              },
+              "contact": {
+                "twitter": "@wholefoodsnorca",
+                "venue_url": "http://www.wholefoodsmarket.com/stores/fremont-ca"
+              },
+              "foursquare": {
+                "foursquare_id": "52041d1b498eb6eb1977a658",
+                "foursquare_url": "http://4sq.com/13neyJF"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 102505,
+                  "user": {
+                    "uid": 102505,
+                    "user_name": "ciscopm",
+                    "first_name": "cisco",
+                    "last_name": "pm",
+                    "bio": "Mountain wizard",
+                    "location": "Santa Cruz Mtns.",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/6bc18704bf14faada7e14c127a80370a_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 690676999,
+                  "like_owner": false,
+                  "created_at": "Fri, 19 Jul 2019 15:16:17 +0000"
+                },
+                {
+                  "uid": 3932855,
+                  "user": {
+                    "uid": 3932855,
+                    "user_name": "efrends",
+                    "first_name": "Eric",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/38a06f9254b7d61412df0b2e1463496c_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 690579201,
+                  "like_owner": false,
+                  "created_at": "Fri, 19 Jul 2019 04:59:59 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 242545076,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2019_07_19/b5bffdf5407ceb1ae106413ab1140d9b_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2019_07_19/b5bffdf5407ceb1ae106413ab1140d9b_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2019_07_19/b5bffdf5407ceb1ae106413ab1140d9b_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2019_07_19/b5bffdf5407ceb1ae106413ab1140d9b_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 1820,
+                  "user_badge_id": 537385111,
+                  "badge_name": "Photogenic Brew  (Level 34)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 170 check-ins with a photo. ",
+                  "created_at": "Fri, 19 Jul 2019 01:17:53 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_beertography_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_beertography_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 778610982,
+            "created_at": "Thu, 18 Jul 2019 06:43:40 +0000",
+            "checkin_comment": "Mildly hoppy, vegetal, slightly tropical. Highly delicious for a low abv beer. I love beers like that - easy to drink,low abv,but delicious!",
+            "rating_score": 4,
+            "user": {
+              "uid": 5486296,
+              "user_name": "nickEatsBeer",
+              "first_name": "Nick",
+              "last_name": "N",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/c4e867062fbbe7ee490242bd238e1293_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 33135,
+              "venue_name": "Valley Tavern",
+              "venue_slug": "valley-tavern",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "beer_garden",
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "4054 24th St",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7515182,
+                "lng": -122.433136
+              },
+              "contact": {
+                "twitter": "@thevalleytavern",
+                "venue_url": "http://valleytavern.com"
+              },
+              "foursquare": {
+                "foursquare_id": "42474900f964a52087201fe3",
+                "foursquare_url": "http://4sq.com/5Hm8El"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 242396426,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2019_07_18/3a203bd10e02eede068ea0f5d38ecdd7_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2019_07_18/3a203bd10e02eede068ea0f5d38ecdd7_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2019_07_18/3a203bd10e02eede068ea0f5d38ecdd7_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2019_07_18/3a203bd10e02eede068ea0f5d38ecdd7_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5639,
+                  "user_badge_id": 536969662,
+                  "badge_name": "Wheel of Styles (Level 10)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 50 different styles. Try 5 more for Level 11!",
+                  "created_at": "Thu, 18 Jul 2019 06:43:40 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 778559345,
+            "created_at": "Thu, 18 Jul 2019 01:34:00 +0000",
+            "checkin_comment": "This tasted hoppier and was better than what I was expecting for this blonde ale.  It’s very light.  Not bad at all.",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1883555,
+              "user_name": "kidkrish",
+              "first_name": "Krishna",
+              "last_name": "Prabhakar",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/4649664f2a3145551fbc5f918ba8fd2b?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 5815163,
+              "venue_name": "Mission Peak Tap Alley",
+              "venue_slug": "mission-peak-tap-alley",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "grocery_store",
+                    "category_name": "Grocery Store",
+                    "category_id": "4bf58dd8d48988d118951735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "3111 Mowry Ave",
+                "venue_city": "Fremont",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.5545731,
+                "lng": -121.9851761
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.wholefoodsmarket.com/stores/albany"
+              },
+              "foursquare": {
+                "foursquare_id": "58745224469aef2da98347d1",
+                "foursquare_url": "http://4sq.com/2iyszm8"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 3,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 313676,
+                  "user": {
+                    "uid": 313676,
+                    "user_name": "Mrphanman",
+                    "first_name": "James",
+                    "last_name": "P",
+                    "bio": "We are all of us in the gutter, \nbut some of us are looking at the stars",
+                    "location": "Chardon, Ohio",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/3419306d9529dff0aa04aaa6190126bc_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 691019783,
+                  "like_owner": false,
+                  "created_at": "Sat, 20 Jul 2019 00:26:14 +0000"
+                },
+                {
+                  "uid": 5172019,
+                  "user": {
+                    "uid": 5172019,
+                    "user_name": "chedrugs",
+                    "first_name": "Chedr",
+                    "last_name": "Ugs",
+                    "bio": "",
+                    "location": "So cal... ECV",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/972f125c2213cf6d164eb7fc8f7c9725_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 690460138,
+                  "like_owner": false,
+                  "created_at": "Thu, 18 Jul 2019 23:40:25 +0000"
+                },
+                {
+                  "uid": 4386420,
+                  "user": {
+                    "uid": 4386420,
+                    "user_name": "Lobos98",
+                    "first_name": "AV",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "NM, TX",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/1ea9b9a27a98ad8d38c7bfdfbcb610a6_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 690160696,
+                  "like_owner": false,
+                  "created_at": "Thu, 18 Jul 2019 05:10:39 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 242377922,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2019_07_18/a8c7bda2d9bee6976e321f1da8e9f161_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2019_07_18/a8c7bda2d9bee6976e321f1da8e9f161_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2019_07_18/a8c7bda2d9bee6976e321f1da8e9f161_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2019_07_18/a8c7bda2d9bee6976e321f1da8e9f161_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 778283259,
+            "created_at": "Wed, 17 Jul 2019 13:36:35 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 942196,
+              "user_name": "rlanglands",
+              "first_name": "Rob",
+              "last_name": "Langlands",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/e1731fe3727b20ca9682eb47870b8394_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 242255995,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2019_07_17/90e233569167b1f6efceb7eb48178fe0_200x200.JPG",
+                    "photo_img_md": "https://assets.untappd.com/photos/2019_07_17/90e233569167b1f6efceb7eb48178fe0_640x640.JPG",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2019_07_17/90e233569167b1f6efceb7eb48178fe0_1280x1280.JPG",
+                    "photo_img_og": "https://assets.untappd.com/photos/2019_07_17/90e233569167b1f6efceb7eb48178fe0_raw.JPG"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd Web",
+              "app_website": "http://untappd.com"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 775333930,
+            "created_at": "Thu, 11 Jul 2019 00:36:04 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1846559,
+              "user_name": "Blawry",
+              "first_name": "Brian B.",
+              "last_name": "Lawry",
+              "location": "South Bay CA",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/4eb98cb95ea0d3e6996f965482577e79_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 622175,
+              "venue_name": "Training and Conference Center (Building 3)",
+              "venue_slug": "training-and-conference-center-building-3",
+              "primary_category_key": "Professional & Other Places",
+              "primary_category": "Professional & Other Places",
+              "parent_category_id": "4d4b7105d754a06375d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "convention_center",
+                    "category_name": "Convention Center",
+                    "category_id": "4bf58dd8d48988d1ff931735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "meeting_room",
+                    "category_name": "Meeting Room",
+                    "category_id": "4bf58dd8d48988d100941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "cafe",
+                    "category_name": "Café",
+                    "category_id": "4bf58dd8d48988d16d941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Moffett Federal Airfield",
+                "venue_city": "Moffett Field",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.4123917,
+                "lng": -122.0557632
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://naccenter.arc.nasa.gov"
+              },
+              "foursquare": {
+                "foursquare_id": "4c5b17d22091a593950361d0",
+                "foursquare_url": "http://4sq.com/9R7AjF"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/building/conventioncenter_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/building/conventioncenter_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/building/conventioncenter_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 774766368,
+            "created_at": "Tue, 09 Jul 2019 03:21:43 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 836680,
+              "user_name": "afitz",
+              "first_name": "Alyssa",
+              "last_name": "FitzGerald",
+              "location": "12210",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/45f475e9783c5196e95c25fa01598f1c_thumb.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 276010,
+                  "user_badge_id": 532617910,
+                  "badge_name": "Cheers to Independent U.S. Craft Breweries (Level 7)",
+                  "badge_description": "Cheers, beer patriot! You are supporting the small and independent American craft brewer. When you see the seal -- shaped like an upside-down beer bottle -- that's independence you're tasting. Try 5 more to earn Level 8!",
+                  "created_at": "Tue, 09 Jul 2019 03:21:43 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BAIndySeal18_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BAIndySeal18_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BAIndySeal18_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 774734518,
+            "created_at": "Tue, 09 Jul 2019 01:15:15 +0000",
+            "checkin_comment": "Killer fried chicken.  Elote.  And great beer.  God bless SF.",
+            "rating_score": 4,
+            "user": {
+              "uid": 1208539,
+              "user_name": "BeerMeBarry",
+              "first_name": "Stephen",
+              "last_name": "Barry",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Me gusta cerveza.",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/4be108d7146f87344dd41843bde044ea_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 35945,
+              "venue_name": "Wayfare Tavern",
+              "venue_slug": "wayfare-tavern",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "new_american_restaurant",
+                    "category_name": "New American Restaurant",
+                    "category_id": "4bf58dd8d48988d157941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "cocktail_bar",
+                    "category_name": "Cocktail Bar",
+                    "category_id": "4bf58dd8d48988d11e941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "558 Sacramento St",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7939034,
+                "lng": -122.4022751
+              },
+              "contact": {
+                "twitter": "@wayfaretavern",
+                "venue_url": "http://www.wayfaretavern.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4c05a764191f20a11473e314",
+                "foursquare_url": "http://4sq.com/9EWsfY"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2617006,
+                  "user": {
+                    "uid": 2617006,
+                    "user_name": "Diedrich-Knickerbocker",
+                    "first_name": "DK",
+                    "last_name": "",
+                    "bio": "\"Piss'd in the brook\"",
+                    "location": "Shangri-La",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/58fa9eb493d802484144be697bbda171_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 686280980,
+                  "like_owner": false,
+                  "created_at": "Tue, 09 Jul 2019 01:30:48 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 240761858,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2019_07_09/4453a5e8a01de6dfd9d8ab489399d949_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2019_07_09/4453a5e8a01de6dfd9d8ab489399d949_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2019_07_09/4453a5e8a01de6dfd9d8ab489399d949_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2019_07_09/4453a5e8a01de6dfd9d8ab489399d949_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 4188,
+                  "user_badge_id": 532582985,
+                  "badge_name": "Fields of Gold (Level 4)",
+                  "badge_description": "Sometimes you need a break from all the hops, fruits, and spices. What better way than with a crisp, smooth Blonde Ale or Golden Ale? Basic but delicious. That's 20 different beers with the style of Blonde Ale or Golden Ale. Try 5 more for Level 5!",
+                  "created_at": "Tue, 09 Jul 2019 01:15:15 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_FieldsOfGold_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_FieldsOfGold_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_FieldsOfGold_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 773991421,
+            "created_at": "Sun, 07 Jul 2019 02:06:15 +0000",
+            "checkin_comment": "Floral, nice hop blend",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 890125,
+              "user_name": "MilwaukeeBoy",
+              "first_name": "Richard",
+              "last_name": "Peske",
+              "location": "Tucson AZ",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/9027b8a5f0b76fad81e259a79c742260_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 3239113,
+              "beer_name": "West Coast Microdose",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3239113_b4bcc_sm.jpeg",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "barebottle-brewing-company-west-coast-microdose",
+              "beer_description": "We’ve been integrating sub-perceptual doses of Chinook, Cashmere, & Ekuanot to achieve higher levels of creativity, more energy, & improved relational skills. It’s a new way of life. \r\n   ",
+              "beer_style": "Blonde Ale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 268965,
+              "brewery_name": "Barebottle Brewing Company",
+              "brewery_slug": "barebottle-brewing-company",
+              "brewery_page_url": "/BarebottleBrewingCompany",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-268965_56c98.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "barebottle",
+                "facebook": "https://www.facebook.com/barebottle",
+                "url": "https://www.barebottle.com"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7401,
+                "lng": -122.409
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 55843,
+              "venue_name": "Double D's Sports Grille",
+              "venue_slug": "double-d-s-sports-grille",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "sports_bar",
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pool_hall",
+                    "category_name": "Pool Hall",
+                    "category_id": "4bf58dd8d48988d1e3931735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "354 N Santa Cruz Ave",
+                "venue_city": "Los Gatos",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.2286415,
+                "lng": -121.9808807
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.doubleds.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4a642eb5f964a52026c61fe3",
+                "foursquare_url": "http://4sq.com/939PJh"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/3239113?max_id=773991421",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/3239113?max_id=773991421",
+          "max_id": 773991421
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.70833,
+            "beer": {
+              "bid": 5223397,
+              "beer_name": "Isabella",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "manic-minds-brewing-isabella",
+              "beer_style": "Blonde Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5223397_e94d2_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 526704,
+              "brewery_name": "Manic Minds Brewing",
+              "brewery_slug": "manic-minds-brewing",
+              "brewery_page_url": "/ManicMindsBrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-526704_859c2.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "instagram": "Manicmindsbrewing",
+                "url": "http://www.manicmindsbrewing.com"
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.69231,
+            "beer": {
+              "bid": 4486338,
+              "beer_name": "Small Batch Special - Honey Jalapeño Blonde",
+              "beer_abv": 5.5,
+              "beer_ibu": 27,
+              "beer_slug": "sj-brewing-company-small-batch-special-honey-jalapeno-blonde",
+              "beer_style": "Blonde Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-4486338_2a2da_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 404864,
+              "brewery_name": "SJ Brewing Company",
+              "brewery_slug": "sj-brewing-company",
+              "brewery_page_url": "/SJ_Brewing_Company",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-404864_afd8f.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/Yuleebeer",
+                "instagram": "yuleebeer",
+                "url": "http://www.sjbrewingco.com"
+              },
+              "location": {
+                "brewery_city": "Yulee Heights",
+                "brewery_state": "FL",
+                "lat": 30.6075001,
+                "lng": -81.5976028
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.56818,
+            "beer": {
+              "bid": 4096795,
+              "beer_name": "White Chocolate Vanilla Blonde",
+              "beer_abv": 6,
+              "beer_ibu": 19,
+              "beer_slug": "dry-falls-brewing-co-white-chocolate-vanilla-blonde",
+              "beer_style": "Blonde Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-4096795_c08ea_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 363109,
+              "brewery_name": "Dry Falls Brewing Co.",
+              "brewery_slug": "dry-falls-brewing-co",
+              "brewery_page_url": "/dryfallsbrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-363109_9386a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "dryfallsbrewing",
+                "facebook": "https://www.facebook.com/dryfallsbrewing/",
+                "instagram": "dryfallsbrewing",
+                "url": "http://www.dryfallsbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Hendersonville",
+                "brewery_state": "NC",
+                "lat": 35.3103981,
+                "lng": -82.4629974
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.56667,
+            "beer": {
+              "bid": 1812120,
+              "beer_name": "Minnie Maniac Coconut Blonde",
+              "beer_abv": 4.8,
+              "beer_ibu": 22,
+              "beer_slug": "checkerhead-brewing-minnie-maniac-coconut-blonde",
+              "beer_style": "Blonde Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-1812120_83c85_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 306992,
+              "brewery_name": "Checkerhead Brewing",
+              "brewery_slug": "checkerhead-brewing",
+              "brewery_page_url": "/CheckerheadBrewing",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-306992_68544.jpeg",
+              "country_name": "Canada",
+              "contact": {
+                "twitter": "checkerheadbrewing",
+                "facebook": "https://www.facebook.com/checkerheadbrewing/",
+                "instagram": "",
+                "url": "https://checkerheadbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Shirley",
+                "brewery_state": "BC",
+                "lat": 48.3986015,
+                "lng": -123.9680023
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.55556,
+            "beer": {
+              "bid": 4399934,
+              "beer_name": "Golden Blonde Coffee Peanut Butter",
+              "beer_abv": 5.5,
+              "beer_ibu": 27,
+              "beer_slug": "sj-brewing-company-golden-blonde-coffee-peanut-butter",
+              "beer_style": "Blonde Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-4399934_ae0fa_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 404864,
+              "brewery_name": "SJ Brewing Company",
+              "brewery_slug": "sj-brewing-company",
+              "brewery_page_url": "/SJ_Brewing_Company",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-404864_afd8f.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/Yuleebeer",
+                "instagram": "yuleebeer",
+                "url": "http://www.sjbrewingco.com"
+              },
+              "location": {
+                "brewery_city": "Yulee Heights",
+                "brewery_state": "FL",
+                "lat": 30.6075001,
+                "lng": -81.5976028
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.69336,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

@@ -3,10 +3,6 @@ layout: beer
 filename: _posts/beer/2016-11-09-skorubrew-2-pale-ale.md
 title: Skorubrew #2 Pale Ale
 category: beer
-country: "Australia"
-brewery: "Skorubrew"
-breweryURL: "/brewery/skorubrew.html"
-style: "Pale Ale - English"
 score: 6
 img: /img/list/skorubrew-2-pale-ale.jpeg
 beer-date: "2016-04-21"

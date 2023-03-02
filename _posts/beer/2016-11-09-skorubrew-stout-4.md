@@ -3,10 +3,6 @@ layout: beer
 filename: _posts/beer/2016-11-09-skorubrew-stout-4.md
 title: Skorubrew stout #4
 category: beer
-country: "Australia"
-brewery: "Skorubrew"
-breweryURL: "/brewery/skorubrew.html"
-style: "Stout - Other"
 score: 7
 img: /img/list/skorubrew-stout-4.jpeg
 beer-date: "2016-05-24"

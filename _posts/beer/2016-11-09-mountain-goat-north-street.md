@@ -3,6 +3,11 @@ layout: beer
 filename: _posts/beer/2016-11-09-mountain-goat-north-street.md
 title: Mountain goat north street
 category: beer
+untappd: "https://untappd.com/b/mountain-goat-beer-north-street-stout/2621515"
+country: "Australia"
+brewery: "Mountain Goat Beer"
+breweryURL: "/brewery/mountain-goat-beer.html"
+style: "Stout - Other"
 score: 7.5
 img: /img/list/mountain-goat-north-street.jpeg
 beer-date: "2018-06-02"

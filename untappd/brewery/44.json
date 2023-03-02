@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.519,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 44,
+      "brewery_name": "Anheuser-Busch",
+      "brewery_slug": "anheuser-busch",
+      "brewery_page_url": "/AnheuserBusch",
+      "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-44_b0ef2.jpeg",
+      "brewery_label_hd": "",
+      "country_name": "United States",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "AnheuserBusch",
+        "follow_status": false,
+        "follower_count": 54356,
+        "uid": 1130620,
+        "mute_status": "none"
+      },
+      "beer_count": 542,
+      "contact": {
+        "twitter": "AnheuserBusch",
+        "facebook": "http://www.facebook.com/AnheuserBusch",
+        "instagram": "AnheuserBusch",
+        "url": "http://www.anheuser-busch.com"
+      },
+      "brewery_type": "Macro Brewery",
+      "brewery_type_id": 1,
+      "location": {
+        "brewery_address": "1 Busch Pl",
+        "brewery_city": "St. Louis",
+        "brewery_state": "MO",
+        "brewery_lat": 38.5985,
+        "brewery_lng": -90.2099
+      },
+      "rating": {
+        "count": 2838313,
+        "rating_score": 2.647
+      },
+      "brewery_description": "The leading American brewer, bringing people together for more than 160 years.",
+      "stats": {
+        "total_count": 6733480,
+        "unique_count": 1068117,
+        "monthly_count": 19301,
+        "weekly_count": 3078,
+        "user_count": 0,
+        "age_on_service": 4547.099884259259
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 0,
+            "is_brewery_group": 1,
+            "brewery_name": "Anheuser-Busch InBev"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 740600,
+              "venue_name": "Anheuser-Busch Brew House and Clock Tower",
+              "venue_slug": "anheuser-busch-brew-house-and-clock-tower",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "historic_site",
+                    "category_name": "Historic Site",
+                    "category_id": "4deefb944765f83613cdba6e",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "factory",
+                    "category_name": "Factory",
+                    "category_id": "4eb1bea83b7b6f98df247e06",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "St Louis",
+                "venue_state": "MO",
+                "venue_country": "United States",
+                "lat": 38.5978432,
+                "lng": -90.2123413
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5038ff74e4b0cee4d5437d0f",
+                "foursquare_url": "http://4sq.com/Oimdom"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -46,10 +46,20 @@ extraData.each do |item|
 
 
 	if hash["id"].length > 0 && (hash["style"] == nil || hash["count"] == nil)
-		url = "https://api.untappd.com/v4/beer/info/" + hash["id"] + "?client_id=" + ACCESS_TOKEN + "&client_secret=" + SECRET
-		clnt = HTTPClient.new;
-		data = clnt.get_content(url)
-		result = JSON.parse(data)
+		
+		filename = "untappd/beer/" + hash["id"] + ".json"
+		if File.exists?(filename)
+			file_content = File.read(filename)
+			result = JSON.parse(file_content)
+		else
+			puts "fetch " + hash["id"]
+			url = "https://api.untappd.com/v4/beer/info/" + hash["id"] + "?client_id=" + ACCESS_TOKEN + "&client_secret=" + SECRET
+			clnt = HTTPClient.new;
+			data = clnt.get_content(url)
+			result = JSON.parse(data)
+			sleep(5)
+		end
+		
 		beer = result["response"]["beer"]
 		brewery = beer["brewery"]
 		hash["style"] = beer["beer_style"]
@@ -64,7 +74,7 @@ extraData.each do |item|
 		hash["users"] = beer["stats"]["total_user_count"]
 		puts "fetch beer " + hash["name"]
 
-		File.open("untappd/beer/" + hash["id"] + ".json","w") do |f|
+		File.open(filename,"w") do |f|
 			f.write(JSON.pretty_generate(result))
 		end
 		count = count + 1

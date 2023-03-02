@@ -1,0 +1,622 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.166,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 5241318,
+      "beer_name": "Jim's Lawn Lager",
+      "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 3.5,
+      "beer_ibu": 0,
+      "beer_description": "Aussie icon Jim's Mowing has teamed up with Bondi Brewing Co. to create Jim's Lawn Lager, a well balanced, crisp and refreshing full-flavoured beer. Perfect after a long day cutting grass.",
+      "beer_style": "Lager - Pale",
+      "is_in_production": 1,
+      "beer_slug": "the-bondi-brewing-co-jim-s-lawn-lager",
+      "is_homebrew": 0,
+      "created_at": "Sat, 18 Feb 2023 03:24:23 +0000",
+      "rating_count": 1,
+      "rating_score": 0,
+      "stats": {
+        "total_count": 2,
+        "monthly_count": 2,
+        "total_user_count": 2,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 410153,
+        "brewery_name": "The Bondi Brewing Co.",
+        "brewery_slug": "the-bondi-brewing-co",
+        "brewery_type": "Nano Brewery",
+        "brewery_page_url": "/BondiBrewingCo",
+        "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-410153_ae3d3.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "bondi_co",
+          "facebook": "http://www.facebook.com/beachbeerbondi",
+          "url": "http://www.bondi.beer"
+        },
+        "location": {
+          "brewery_city": "North Bondi",
+          "brewery_state": "New South Wales",
+          "lat": -33.8857,
+          "lng": 151.281
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 1,
+        "items": [
+          {
+            "photo_id": 472438412,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_02_20/ed4d8a59922f086d32b201ef9bbec277_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_02_20/ed4d8a59922f086d32b201ef9bbec277_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_02_20/ed4d8a59922f086d32b201ef9bbec277_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_02_20/ed4d8a59922f086d32b201ef9bbec277_raw.jpg"
+            },
+            "created_at": "Mon, 20 Feb 2023 06:40:24 +0000",
+            "checkin_id": 1249750649,
+            "beer": {
+              "bid": 5241318,
+              "beer_name": "Jim's Lawn Lager",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.5,
+              "beer_ibu": 0,
+              "beer_slug": "the-bondi-brewing-co-jim-s-lawn-lager",
+              "beer_description": "Aussie icon Jim's Mowing has teamed up with Bondi Brewing Co. to create Jim's Lawn Lager, a well balanced, crisp and refreshing full-flavoured beer. Perfect after a long day cutting grass.",
+              "is_in_production": 1,
+              "beer_style_id": 38,
+              "beer_style": "Lager - Pale",
+              "rating_score": 0,
+              "rating_count": 1,
+              "count": 1,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 410153,
+              "brewery_name": "The Bondi Brewing Co.",
+              "brewery_slug": "the-bondi-brewing-co",
+              "brewery_page_url": "/BondiBrewingCo",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-410153_ae3d3.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "bondi_co",
+                "facebook": "http://www.facebook.com/beachbeerbondi",
+                "url": "http://www.bondi.beer"
+              },
+              "location": {
+                "brewery_city": "North Bondi",
+                "brewery_state": "New South Wales",
+                "lat": -33.8857,
+                "lng": 151.281
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1095002,
+              "user_name": "emarone",
+              "first_name": "Erik the Viking",
+              "last_name": "",
+              "user_avatar": "https://assets.untappd.com/profile/34433d7538e47ce95b0462597cfc1ebf_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 645313,
+                "venue_name": "Ku-Ring-Gai Chase National Park",
+                "venue_slug": "ku-ring-gai-chase-national-park",
+                "primary_category": "Outdoors & Recreation",
+                "parent_category_id": "4d4b7105d754a06377d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "national_park",
+                      "category_name": "National Park",
+                      "category_id": "52e81612bcbc57f1066b7a21",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Bobbin Head Rd",
+                  "venue_city": "",
+                  "venue_state": "New South Wales",
+                  "lat": -33.6627,
+                  "lng": 151.157
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kuringgai-chase-national-park"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b058762f964a520448f22e3",
+                  "foursquare_url": "http://4sq.com/d21hOg"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 2,
+        "items": [
+          {
+            "checkin_id": 1250081916,
+            "created_at": "Wed, 22 Feb 2023 06:09:44 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 965171,
+              "user_name": "crispian",
+              "first_name": "Chris",
+              "last_name": "Harris",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/dfe8a5a3942dc973038ab687b9a9fb3a?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5241318,
+              "beer_name": "Jim's Lawn Lager",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.5,
+              "beer_ibu": 0,
+              "beer_slug": "the-bondi-brewing-co-jim-s-lawn-lager",
+              "beer_description": "Aussie icon Jim's Mowing has teamed up with Bondi Brewing Co. to create Jim's Lawn Lager, a well balanced, crisp and refreshing full-flavoured beer. Perfect after a long day cutting grass.",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 410153,
+              "brewery_name": "The Bondi Brewing Co.",
+              "brewery_slug": "the-bondi-brewing-co",
+              "brewery_page_url": "/BondiBrewingCo",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-410153_ae3d3.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "bondi_co",
+                "facebook": "http://www.facebook.com/beachbeerbondi",
+                "url": "http://www.bondi.beer"
+              },
+              "location": {
+                "brewery_city": "North Bondi",
+                "brewery_state": "New South Wales",
+                "lat": -33.8857,
+                "lng": 151.281
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1249750649,
+            "created_at": "Mon, 20 Feb 2023 06:40:16 +0000",
+            "checkin_comment": "Tastes about like you’d expect for a beer brewed in honor of a landscaping company.",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 1095002,
+              "user_name": "emarone",
+              "first_name": "Erik the Viking",
+              "last_name": "",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/34433d7538e47ce95b0462597cfc1ebf_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5241318,
+              "beer_name": "Jim's Lawn Lager",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.5,
+              "beer_ibu": 0,
+              "beer_slug": "the-bondi-brewing-co-jim-s-lawn-lager",
+              "beer_description": "Aussie icon Jim's Mowing has teamed up with Bondi Brewing Co. to create Jim's Lawn Lager, a well balanced, crisp and refreshing full-flavoured beer. Perfect after a long day cutting grass.",
+              "beer_style": "Lager - Pale",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 410153,
+              "brewery_name": "The Bondi Brewing Co.",
+              "brewery_slug": "the-bondi-brewing-co",
+              "brewery_page_url": "/BondiBrewingCo",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-410153_ae3d3.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "bondi_co",
+                "facebook": "http://www.facebook.com/beachbeerbondi",
+                "url": "http://www.bondi.beer"
+              },
+              "location": {
+                "brewery_city": "North Bondi",
+                "brewery_state": "New South Wales",
+                "lat": -33.8857,
+                "lng": 151.281
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 645313,
+              "venue_name": "Ku-Ring-Gai Chase National Park",
+              "venue_slug": "ku-ring-gai-chase-national-park",
+              "primary_category_key": "Outdoors & Recreation",
+              "primary_category": "Outdoors & Recreation",
+              "parent_category_id": "4d4b7105d754a06377d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "national_park",
+                    "category_name": "National Park",
+                    "category_id": "52e81612bcbc57f1066b7a21",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Bobbin Head Rd",
+                "venue_city": "",
+                "venue_state": "New South Wales",
+                "venue_country": "Australia",
+                "lat": -33.6627274,
+                "lng": 151.1571045
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kuringgai-chase-national-park"
+              },
+              "foursquare": {
+                "foursquare_id": "4b058762f964a520448f22e3",
+                "foursquare_url": "http://4sq.com/d21hOg"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 472438412,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_02_20/ed4d8a59922f086d32b201ef9bbec277_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_02_20/ed4d8a59922f086d32b201ef9bbec277_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_02_20/ed4d8a59922f086d32b201ef9bbec277_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_02_20/ed4d8a59922f086d32b201ef9bbec277_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "next_url": "",
+          "max_id": ""
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.55,
+            "beer": {
+              "bid": 2203002,
+              "beer_name": "First Call W/ Mocha Shot Infusion",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "modist-brewing-co-first-call-w-mocha-shot-infusion",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 263036,
+              "brewery_name": "Modist Brewing Co.",
+              "brewery_slug": "modist-brewing-co",
+              "brewery_page_url": "/ModistBrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-263036_ecc6c.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "modistbrewing",
+                "facebook": "https://www.facebook.com/modistbrewing/",
+                "instagram": "modistbrewing",
+                "url": "http://Modistbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Minneapolis",
+                "brewery_state": "MN",
+                "lat": 44.9852982,
+                "lng": -93.2759018
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.53333,
+            "beer": {
+              "bid": 5193444,
+              "beer_name": "Vladimir Remek",
+              "beer_abv": 5,
+              "beer_ibu": 25,
+              "beer_slug": "andore-homebrewer-vladimir-remek",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5193444_e6f16_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 490426,
+              "brewery_name": "Andore_homebrewer",
+              "brewery_slug": "andore-homebrewer",
+              "brewery_page_url": "/Andorehomebrewer",
+              "brewery_type": "Contract Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-490426_5212b.jpeg",
+              "country_name": "Belarus",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "instagram": "Andore_homebrewer",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.44643,
+            "beer": {
+              "bid": 4557860,
+              "beer_name": "Ivo Pivo Lager",
+              "beer_abv": 4.8,
+              "beer_ibu": 32,
+              "beer_slug": "rashev-brew-ivo-pivo-lager",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-4557860_aef25_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 456030,
+              "brewery_name": "Rashev Brew",
+              "brewery_slug": "rashev-brew",
+              "brewery_page_url": "/RashevBrew",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-456030_57ed1.jpeg",
+              "country_name": "Bulgaria",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "instagram": "rashev.brew",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "",
+                "brewery_state": "",
+                "lat": 0,
+                "lng": 0
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.44118,
+            "beer": {
+              "bid": 2622631,
+              "beer_name": "SMASH Lager",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "dry-county-brewing-company-smash-lager",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-2622631_76810_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 234004,
+              "brewery_name": "Dry County Brewing Company",
+              "brewery_slug": "dry-county-brewing-company",
+              "brewery_page_url": "/DryCountyBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-234004_0b09a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "drycountybrewco",
+                "facebook": "http://www.facebook.com/drycountybrewco",
+                "instagram": "drycountybrewco",
+                "url": "http://www.drycountybrewco.com"
+              },
+              "location": {
+                "brewery_city": "Kennesaw",
+                "brewery_state": "GA",
+                "lat": 34.0215988,
+                "lng": -84.5936966
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.42857,
+            "beer": {
+              "bid": 5170541,
+              "beer_name": "Jsi Připraven?",
+              "beer_abv": 4.4,
+              "beer_ibu": 0,
+              "beer_slug": "koala-san-brew-jsi-pripraven",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5170541_acf49_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 122637,
+              "brewery_name": "Koala San Brew",
+              "brewery_slug": "koala-san-brew",
+              "brewery_page_url": "/KoalaSanBrew",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-122637_c7aa2.jpeg",
+              "country_name": "Brazil",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/KoalaSanBrew",
+                "instagram": "koalasanbrew",
+                "url": "https://koalasanbrew.com"
+              },
+              "location": {
+                "brewery_city": "Nova Lima",
+                "brewery_state": "Minas Gerais",
+                "lat": -20.0580997,
+                "lng": -43.9796982
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.68343,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

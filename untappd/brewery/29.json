@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.339,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 29,
+      "brewery_name": "Alpine Beer Company",
+      "brewery_slug": "alpine-beer-company",
+      "brewery_page_url": "/AlpineBeerCo",
+      "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-29_19acf.jpeg",
+      "brewery_label_hd": "",
+      "country_name": "United States",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "AlpineBeerCo",
+        "follow_status": false,
+        "follower_count": 24330,
+        "uid": 2688379,
+        "mute_status": "none"
+      },
+      "beer_count": 263,
+      "contact": {
+        "twitter": "alpinebeerco",
+        "facebook": "http://www.facebook.com/alpinebeercompany",
+        "instagram": "alpinebeerco",
+        "url": "http://alpinebeerco.com"
+      },
+      "brewery_type": "Regional Brewery",
+      "brewery_type_id": 11,
+      "location": {
+        "brewery_address": "1020 East Lincoln Avenue",
+        "brewery_city": "Fort Collins",
+        "brewery_state": "CO",
+        "brewery_lat": 40.5892,
+        "brewery_lng": -105.059
+      },
+      "rating": {
+        "count": 611107,
+        "rating_score": 3.915
+      },
+      "brewery_description": "Alpine Beer Company is an award-winning craft brewery founded in 1999, and is rated a top 50 brewery in the United States with highly-rated favorites including Nelson IPA and Duet IPA. In 2014, Alpine Beer Company merged with San Diego’s Green Flash Brewing Company, increasing production and distribution of its ales.",
+      "stats": {
+        "total_count": 925560,
+        "unique_count": 281615,
+        "monthly_count": 710,
+        "weekly_count": 121,
+        "user_count": 0,
+        "age_on_service": 4528.104884259259
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 1224,
+            "is_brewery_group": 0,
+            "brewery_name": "SweetWater Brewing Company"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 3961,
+              "venue_name": "Alpine Beer Company",
+              "venue_slug": "alpine-beer-company",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "2363 Alpine Blvd",
+                "venue_city": "Alpine",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 32.8352356,
+                "lng": -116.7626495
+              },
+              "contact": {
+                "twitter": "@alpinebeerco",
+                "venue_url": "http://alpinebeerco.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4c5f4a56cd522d7f27c1cb3f",
+                "foursquare_url": "http://4sq.com/aqvILu"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,3666 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.42,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 2125369,
+      "beer_name": "Berliner Weisse",
+      "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 3.8,
+      "beer_ibu": 8,
+      "beer_description": "",
+      "beer_style": "Sour - Berliner Weisse",
+      "is_in_production": 1,
+      "beer_slug": "southern-pacific-brewing-berliner-weisse",
+      "is_homebrew": 0,
+      "created_at": "Sat, 03 Jun 2017 02:27:32 +0000",
+      "rating_count": 204,
+      "rating_score": 3.29412,
+      "stats": {
+        "total_count": 232,
+        "monthly_count": 0,
+        "total_user_count": 229,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 22999,
+        "brewery_name": "Southern Pacific Brewing",
+        "brewery_slug": "southern-pacific-brewing",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/SouthernPacificBrewing",
+        "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+        "country_name": "United States",
+        "contact": {
+          "twitter": "",
+          "facebook": "https://www.facebook.com/spbrewco",
+          "url": "http://www.southernpacificbrewing.com/"
+        },
+        "location": {
+          "brewery_city": "San Francisco",
+          "brewery_state": "CA",
+          "lat": 37.7601,
+          "lng": -122.414
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 468426429,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_01_21/32ccd19d13753936ac86fe0748562926_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_01_21/32ccd19d13753936ac86fe0748562926_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_01_21/32ccd19d13753936ac86fe0748562926_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_01_21/32ccd19d13753936ac86fe0748562926_raw.jpg"
+            },
+            "created_at": "Sat, 21 Jan 2023 20:35:03 +0000",
+            "checkin_id": 1241699341,
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 171,
+              "beer_style": "Sour - Berliner Weisse",
+              "rating_score": 3.294,
+              "rating_count": 204,
+              "count": 204,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 8302698,
+              "user_name": "dsbuddy",
+              "first_name": "Daniel",
+              "last_name": "Schwartz",
+              "user_avatar": "https://assets.untappd.com/profile/3ddb2fdd0af938acd3a9f65df192d383_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 168417,
+                "venue_name": "Southern Pacific Brewing",
+                "venue_slug": "southern-pacific-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "620 Treat Ave",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7601,
+                  "lng": -122.414
+                },
+                "contact": {
+                  "twitter": "@sopacbrewing",
+                  "venue_url": "http://www.southernpacificbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                  "foursquare_url": "http://4sq.com/onVTq6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 458262652,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2022_11_18/617685c2e4a89ee41b826410afc7a7f4_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2022_11_18/617685c2e4a89ee41b826410afc7a7f4_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2022_11_18/617685c2e4a89ee41b826410afc7a7f4_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2022_11_18/617685c2e4a89ee41b826410afc7a7f4_raw.jpg"
+            },
+            "created_at": "Fri, 18 Nov 2022 06:09:51 +0000",
+            "checkin_id": 1221636848,
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 171,
+              "beer_style": "Sour - Berliner Weisse",
+              "rating_score": 3.294,
+              "rating_count": 204,
+              "count": 204,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "Skorulis",
+              "user_avatar": "https://assets.untappd.com/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 168417,
+                "venue_name": "Southern Pacific Brewing",
+                "venue_slug": "southern-pacific-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "620 Treat Ave",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7601,
+                  "lng": -122.414
+                },
+                "contact": {
+                  "twitter": "@sopacbrewing",
+                  "venue_url": "http://www.southernpacificbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                  "foursquare_url": "http://4sq.com/onVTq6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 407822780,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2022_01_15/bff9d60ab5383d662bff0426098e81ce_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2022_01_15/bff9d60ab5383d662bff0426098e81ce_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2022_01_15/bff9d60ab5383d662bff0426098e81ce_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2022_01_15/bff9d60ab5383d662bff0426098e81ce_raw.jpg"
+            },
+            "created_at": "Sat, 15 Jan 2022 21:30:11 +0000",
+            "checkin_id": 1120813578,
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 171,
+              "beer_style": "Sour - Berliner Weisse",
+              "rating_score": 3.294,
+              "rating_count": 204,
+              "count": 204,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1201870,
+              "user_name": "nearscape",
+              "first_name": "Justin",
+              "last_name": "Bosar",
+              "user_avatar": "https://assets.untappd.com/profile/ee8bc028d8266f6e1eb81129b0df0264_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 168417,
+                "venue_name": "Southern Pacific Brewing",
+                "venue_slug": "southern-pacific-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "620 Treat Ave",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7601,
+                  "lng": -122.414
+                },
+                "contact": {
+                  "twitter": "@sopacbrewing",
+                  "venue_url": "http://www.southernpacificbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                  "foursquare_url": "http://4sq.com/onVTq6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 389191381,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2021_10_02/2080bd3f3911cbbcef763b3867c5f289_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2021_10_02/2080bd3f3911cbbcef763b3867c5f289_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2021_10_02/2080bd3f3911cbbcef763b3867c5f289_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2021_10_02/2080bd3f3911cbbcef763b3867c5f289_raw.jpg"
+            },
+            "created_at": "Sat, 02 Oct 2021 00:08:33 +0000",
+            "checkin_id": 1083376633,
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 171,
+              "beer_style": "Sour - Berliner Weisse",
+              "rating_score": 3.294,
+              "rating_count": 204,
+              "count": 204,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 768179,
+              "user_name": "JKilzi",
+              "first_name": "John",
+              "last_name": "Kilzi",
+              "user_avatar": "https://gravatar.com/avatar/2b188a38723c35472071edc75b414786?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 168417,
+                "venue_name": "Southern Pacific Brewing",
+                "venue_slug": "southern-pacific-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "620 Treat Ave",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7601,
+                  "lng": -122.414
+                },
+                "contact": {
+                  "twitter": "@sopacbrewing",
+                  "venue_url": "http://www.southernpacificbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                  "foursquare_url": "http://4sq.com/onVTq6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 204338968,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2018_12_02/681676b9fb5a336a9505e3d37550d203_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2018_12_02/681676b9fb5a336a9505e3d37550d203_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2018_12_02/681676b9fb5a336a9505e3d37550d203_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2018_12_02/681676b9fb5a336a9505e3d37550d203_raw.jpg"
+            },
+            "created_at": "Sun, 02 Dec 2018 19:34:07 +0000",
+            "checkin_id": 683207496,
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 171,
+              "beer_style": "Sour - Berliner Weisse",
+              "rating_score": 3.294,
+              "rating_count": 204,
+              "count": 204,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1682172,
+              "user_name": "justguy",
+              "first_name": "Guy",
+              "last_name": "Collinsworth",
+              "user_avatar": "https://assets.untappd.com/profile/b5683da3da4914885dc975a6dd447326_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 168417,
+                "venue_name": "Southern Pacific Brewing",
+                "venue_slug": "southern-pacific-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "620 Treat Ave",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7601,
+                  "lng": -122.414
+                },
+                "contact": {
+                  "twitter": "@sopacbrewing",
+                  "venue_url": "http://www.southernpacificbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                  "foursquare_url": "http://4sq.com/onVTq6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 203225000,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2018_11_25/a2089637d61a5aa6fbbe2f19534439ea_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2018_11_25/a2089637d61a5aa6fbbe2f19534439ea_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2018_11_25/a2089637d61a5aa6fbbe2f19534439ea_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2018_11_25/a2089637d61a5aa6fbbe2f19534439ea_raw.jpg"
+            },
+            "created_at": "Sun, 25 Nov 2018 00:04:40 +0000",
+            "checkin_id": 680334078,
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 171,
+              "beer_style": "Sour - Berliner Weisse",
+              "rating_score": 3.294,
+              "rating_count": 204,
+              "count": 204,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2079844,
+              "user_name": "KappaSoBro21",
+              "first_name": "Alex",
+              "last_name": "Thong",
+              "user_avatar": "https://assets.untappd.com/profile/f0745e12e68d89c2622285ea91087197_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 168417,
+                "venue_name": "Southern Pacific Brewing",
+                "venue_slug": "southern-pacific-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "620 Treat Ave",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7601,
+                  "lng": -122.414
+                },
+                "contact": {
+                  "twitter": "@sopacbrewing",
+                  "venue_url": "http://www.southernpacificbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                  "foursquare_url": "http://4sq.com/onVTq6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 201444937,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2018_11_14/6aee7886557fba3ca9326dcba4441f6a_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2018_11_14/6aee7886557fba3ca9326dcba4441f6a_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2018_11_14/6aee7886557fba3ca9326dcba4441f6a_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2018_11_14/6aee7886557fba3ca9326dcba4441f6a_raw.jpg"
+            },
+            "created_at": "Wed, 14 Nov 2018 04:59:11 +0000",
+            "checkin_id": 675624770,
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 171,
+              "beer_style": "Sour - Berliner Weisse",
+              "rating_score": 3.294,
+              "rating_count": 204,
+              "count": 204,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5730961,
+              "user_name": "Jenabler",
+              "first_name": "Jennifer",
+              "last_name": "L.",
+              "user_avatar": "https://assets.untappd.com/profile/282c6511305cce52211f0b7353a1040c_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 168417,
+                "venue_name": "Southern Pacific Brewing",
+                "venue_slug": "southern-pacific-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "620 Treat Ave",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7601,
+                  "lng": -122.414
+                },
+                "contact": {
+                  "twitter": "@sopacbrewing",
+                  "venue_url": "http://www.southernpacificbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                  "foursquare_url": "http://4sq.com/onVTq6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 200197586,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2018_11_04/6658d72e9dc71287cb2de8224a9853ae_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2018_11_04/6658d72e9dc71287cb2de8224a9853ae_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2018_11_04/6658d72e9dc71287cb2de8224a9853ae_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2018_11_04/6658d72e9dc71287cb2de8224a9853ae_raw.jpg"
+            },
+            "created_at": "Sun, 04 Nov 2018 20:49:16 +0000",
+            "checkin_id": 672303277,
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 171,
+              "beer_style": "Sour - Berliner Weisse",
+              "rating_score": 3.294,
+              "rating_count": 204,
+              "count": 204,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 873746,
+              "user_name": "Jefera",
+              "first_name": "Jeff",
+              "last_name": "Alley",
+              "user_avatar": "https://assets.untappd.com/profile/7c0367d2458187e3729bb6d22d2a44ce_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 168417,
+                "venue_name": "Southern Pacific Brewing",
+                "venue_slug": "southern-pacific-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "620 Treat Ave",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7601,
+                  "lng": -122.414
+                },
+                "contact": {
+                  "twitter": "@sopacbrewing",
+                  "venue_url": "http://www.southernpacificbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                  "foursquare_url": "http://4sq.com/onVTq6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 197051459,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2018_10_14/685baf88759778f306de532f3784e104_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2018_10_14/685baf88759778f306de532f3784e104_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2018_10_14/685baf88759778f306de532f3784e104_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2018_10_14/685baf88759778f306de532f3784e104_raw.jpg"
+            },
+            "created_at": "Sun, 14 Oct 2018 19:32:03 +0000",
+            "checkin_id": 664043049,
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 171,
+              "beer_style": "Sour - Berliner Weisse",
+              "rating_score": 3.294,
+              "rating_count": 204,
+              "count": 204,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1285152,
+              "user_name": "linedriveuptheally",
+              "first_name": "Alexandra",
+              "last_name": "Irving",
+              "user_avatar": "https://assets.untappd.com/profile/38e5093d105cf2613d692da1c632950e_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 168417,
+                "venue_name": "Southern Pacific Brewing",
+                "venue_slug": "southern-pacific-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "620 Treat Ave",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7601,
+                  "lng": -122.414
+                },
+                "contact": {
+                  "twitter": "@sopacbrewing",
+                  "venue_url": "http://www.southernpacificbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                  "foursquare_url": "http://4sq.com/onVTq6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 194285348,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2018_09_27/7a8af206fe70ffe70b8cb0fb3efd3327_200x200.jpeg",
+              "photo_img_md": "https://assets.untappd.com/photos/2018_09_27/7a8af206fe70ffe70b8cb0fb3efd3327_640x640.jpeg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2018_09_27/7a8af206fe70ffe70b8cb0fb3efd3327_1280x1280.jpeg",
+              "photo_img_og": "https://assets.untappd.com/photos/2018_09_27/7a8af206fe70ffe70b8cb0fb3efd3327_raw.jpeg"
+            },
+            "created_at": "Thu, 27 Sep 2018 04:13:01 +0000",
+            "checkin_id": 656598830,
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 171,
+              "beer_style": "Sour - Berliner Weisse",
+              "rating_score": 3.294,
+              "rating_count": 204,
+              "count": 204,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 716364,
+              "user_name": "cduff",
+              "first_name": "Charlie",
+              "last_name": "Duff",
+              "user_avatar": "https://assets.untappd.com/profile/c28aa5af37c85d4b90abcf38daee7ff3_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 168417,
+                "venue_name": "Southern Pacific Brewing",
+                "venue_slug": "southern-pacific-brewing",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "american_restaurant",
+                      "category_name": "American Restaurant",
+                      "category_id": "4bf58dd8d48988d14e941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "620 Treat Ave",
+                  "venue_city": "San Francisco",
+                  "venue_state": "CA",
+                  "lat": 37.7601,
+                  "lng": -122.414
+                },
+                "contact": {
+                  "twitter": "@sopacbrewing",
+                  "venue_url": "http://www.southernpacificbrewing.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                  "foursquare_url": "http://4sq.com/onVTq6"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 1241699341,
+            "created_at": "Sat, 21 Jan 2023 20:33:02 +0000",
+            "checkin_comment": "Quite a tart bite. Sweet body, bready aftertaste",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 8302698,
+              "user_name": "dsbuddy",
+              "first_name": "Daniel",
+              "last_name": "Schwartz",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/3ddb2fdd0af938acd3a9f65df192d383_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 168417,
+              "venue_name": "Southern Pacific Brewing",
+              "venue_slug": "southern-pacific-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "620 Treat Ave",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7600784,
+                "lng": -122.4140091
+              },
+              "contact": {
+                "twitter": "@sopacbrewing",
+                "venue_url": "http://www.southernpacificbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                "foursquare_url": "http://4sq.com/onVTq6"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 468426429,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_01_21/32ccd19d13753936ac86fe0748562926_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_01_21/32ccd19d13753936ac86fe0748562926_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_01_21/32ccd19d13753936ac86fe0748562926_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_01_21/32ccd19d13753936ac86fe0748562926_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 34633,
+                  "user_badge_id": 1066924617,
+                  "badge_name": "Hopped Down (Level 29)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 145 different beers with an IBU of 20 or below. Try 5 more for Level 30!",
+                  "created_at": "Sat, 21 Jan 2023 20:33:02 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 133349,
+                  "user_badge_id": 1066924618,
+                  "badge_name": "Draft City (Level 96)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 480 checkins with the serving style of Draft. Try 5 more for Level 97!",
+                  "created_at": "Sat, 21 Jan 2023 20:33:02 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_DraftCity_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1226747773,
+            "created_at": "Sun, 04 Dec 2022 04:09:42 +0000",
+            "checkin_comment": "",
+            "rating_score": 2,
+            "user": {
+              "uid": 9321296,
+              "user_name": "dzinny",
+              "first_name": "Dzintars",
+              "last_name": "Grinfelds",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/3503cd2655ca724cc573aeb96a92aa1b_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 168417,
+              "venue_name": "Southern Pacific Brewing",
+              "venue_slug": "southern-pacific-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "620 Treat Ave",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7600784,
+                "lng": -122.4140091
+              },
+              "contact": {
+                "twitter": "@sopacbrewing",
+                "venue_url": "http://www.southernpacificbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                "foursquare_url": "http://4sq.com/onVTq6"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 7653038,
+                  "user": {
+                    "uid": 7653038,
+                    "user_name": "T-Bomb006",
+                    "first_name": "Tom",
+                    "last_name": "Franich",
+                    "bio": "I love visiting breweries, been to 200+ always looking for a new one. Follow us on Instagram craft_beer_guzzler_reviews",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/d7d9f7262c1d6858ad615bbdd8eeeeb2_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1288241682,
+                  "like_owner": false,
+                  "created_at": "Fri, 23 Dec 2022 04:55:50 +0000"
+                },
+                {
+                  "uid": 7738717,
+                  "user": {
+                    "uid": 7738717,
+                    "user_name": "BigMoney99",
+                    "first_name": "Marcus",
+                    "last_name": "Gonzalez",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/ec30bc9313dbb8919f0a821aa258c3ef?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1280217040,
+                  "like_owner": false,
+                  "created_at": "Sun, 04 Dec 2022 04:13:57 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 5642,
+                  "user_badge_id": 1049895636,
+                  "badge_name": "Wheel of Styles (Level 13)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 65 different styles. Try 5 more for Level 14!",
+                  "created_at": "Sun, 04 Dec 2022 04:09:43 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1221636848,
+            "created_at": "Fri, 18 Nov 2022 06:09:41 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "Skorulis",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 168417,
+              "venue_name": "Southern Pacific Brewing",
+              "venue_slug": "southern-pacific-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "620 Treat Ave",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7600784,
+                "lng": -122.4140091
+              },
+              "contact": {
+                "twitter": "@sopacbrewing",
+                "venue_url": "http://www.southernpacificbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                "foursquare_url": "http://4sq.com/onVTq6"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 458262652,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2022_11_18/617685c2e4a89ee41b826410afc7a7f4_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2022_11_18/617685c2e4a89ee41b826410afc7a7f4_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2022_11_18/617685c2e4a89ee41b826410afc7a7f4_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2022_11_18/617685c2e4a89ee41b826410afc7a7f4_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 90431,
+                  "user_badge_id": 1044395392,
+                  "badge_name": "Riding Steady (Level 96)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 480 different beers with an ABV of 5% and lower. ",
+                  "created_at": "Fri, 18 Nov 2022 06:09:41 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2004,
+                  "user_badge_id": 1044395393,
+                  "badge_name": "Land of the Free  (Level 18)",
+                  "badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 90 different beers from a brewery in the United States. Try 5 more for Level 19.",
+                  "created_at": "Fri, 18 Nov 2022 06:09:41 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_america_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_america_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_america_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1217795871,
+            "created_at": "Fri, 04 Nov 2022 21:42:09 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 7560407,
+              "user_name": "joshing_joshi",
+              "first_name": "Sahil",
+              "last_name": "Joshi",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/b4a2f98f851a6984dfc8d001b4f53181?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 6229,
+                  "user_badge_id": 1040622649,
+                  "badge_name": "Ich Bin Ein Berliner",
+                  "badge_description": "The classic Berliner Weisse is crisp, cloudy, and sour. Once the most popular beer style in Berlin, it's gained notoriety and popularity around the globe making us all proud to be Berliners. That's 5 different beers with the style of Berliner Weisse. Try 5 more for Level 2!\n",
+                  "created_at": "Fri, 04 Nov 2022 21:42:09 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_Berliner_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_Berliner_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_Berliner_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1147278409,
+            "created_at": "Mon, 11 Apr 2022 18:53:34 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 2095691,
+              "user_name": "kleffelt",
+              "first_name": "Tanya",
+              "last_name": "Kleffel",
+              "location": "Pennsylvania ",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/e04f3095165f2b837222c5599c5386dd_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8159828,
+              "venue_name": "Southern Tier Brewing Company, Cleveland",
+              "venue_slug": "southern-tier-brewing-company-cleveland",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "restaurant",
+                    "category_name": "Restaurant",
+                    "category_id": "4bf58dd8d48988d1c4941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "811 Prospect Ave E",
+                "venue_city": "Cleveland",
+                "venue_state": "OH",
+                "venue_country": "United States",
+                "lat": 41.4990997,
+                "lng": -81.6870041
+              },
+              "contact": {
+                "twitter": "@stbcbeer_cle",
+                "venue_url": "https://www.stbcbeer.com/taprooms/cleveland/"
+              },
+              "foursquare": {
+                "foursquare_id": "5b48557c9411f2002cb7861c",
+                "foursquare_url": "https://4sq.com/2mcyf8R"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_8159828_0b060492_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_8159828_0b060492_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_8159828_0b060492_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1120813578,
+            "created_at": "Sat, 15 Jan 2022 21:29:53 +0000",
+            "checkin_comment": "Got a nice spicy kick to it, like some ginger beer or something.",
+            "rating_score": 4,
+            "user": {
+              "uid": 1201870,
+              "user_name": "nearscape",
+              "first_name": "Justin",
+              "last_name": "Bosar",
+              "location": "San Francisco",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/ee8bc028d8266f6e1eb81129b0df0264_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 168417,
+              "venue_name": "Southern Pacific Brewing",
+              "venue_slug": "southern-pacific-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "620 Treat Ave",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7600784,
+                "lng": -122.4140091
+              },
+              "contact": {
+                "twitter": "@sopacbrewing",
+                "venue_url": "http://www.southernpacificbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                "foursquare_url": "http://4sq.com/onVTq6"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 407822780,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2022_01_15/bff9d60ab5383d662bff0426098e81ce_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2022_01_15/bff9d60ab5383d662bff0426098e81ce_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2022_01_15/bff9d60ab5383d662bff0426098e81ce_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2022_01_15/bff9d60ab5383d662bff0426098e81ce_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1120266830,
+            "created_at": "Fri, 14 Jan 2022 21:05:09 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2977076,
+              "user_name": "ericshine",
+              "first_name": "Eric",
+              "last_name": "Shine",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/f0ea95bba0f5ed65d09620efd7d31b99_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 6184,
+                  "user_badge_id": 935162610,
+                  "badge_name": "Cheers To You! (Level 6)",
+                  "badge_description": "Happy Untappd anniversary to you! Thanks for sticking around and drinking socially with us. Cheers! That's 6 years on Untappd!",
+                  "created_at": "Fri, 14 Jan 2022 21:05:09 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_HeresToYou_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_HeresToYou_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_HeresToYou_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2027,
+                  "user_badge_id": 935162611,
+                  "badge_name": "Land of the Free  (Level 41)",
+                  "badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 205 different beers from a brewery in the United States. Try 5 more for Level 42.",
+                  "created_at": "Fri, 14 Jan 2022 21:05:09 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_america_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_america_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_america_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1097629328,
+            "created_at": "Fri, 12 Nov 2021 03:40:58 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 5013500,
+              "user_name": "teraquendya",
+              "first_name": "Nils",
+              "last_name": "Schlupp",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/a5e1bb785a00cd7bf1c13bf7752924c9?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 5047730,
+                  "user": {
+                    "uid": 5047730,
+                    "user_name": "alt01ds",
+                    "first_name": "Bruce",
+                    "last_name": "Nguyen",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/c51a138ab371d1f2d32c6bafa38d4a38_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1106787502,
+                  "like_owner": false,
+                  "created_at": "Sat, 13 Nov 2021 19:16:41 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 483580,
+                  "user_badge_id": 909214573,
+                  "badge_name": "Veteran's Day (2021)",
+                  "badge_description": "During November, many remember those who serve their country. Raise a glass to those who serve - and find ways to support veterans in your community. BeerAdvocate will be donating several Extreme Beer Fest boxes to veterans as a way to say thank you.\n",
+                  "created_at": "Fri, 12 Nov 2021 03:40:58 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_VeteransDay2021_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_VeteransDay2021_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_VeteransDay2021_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1087023082,
+            "created_at": "Mon, 11 Oct 2021 03:08:37 +0000",
+            "checkin_comment": "Yeah classic berliners are horrible if not fruited or sweetened",
+            "rating_score": 2,
+            "user": {
+              "uid": 192450,
+              "user_name": "osakaedo",
+              "first_name": "ed",
+              "last_name": "",
+              "location": "sf",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "The Fifth Loco, -a-Rita Historian",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/b8b63179370b931c14deb1f4891915d3?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 168417,
+              "venue_name": "Southern Pacific Brewing",
+              "venue_slug": "southern-pacific-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "620 Treat Ave",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7600784,
+                "lng": -122.4140091
+              },
+              "contact": {
+                "twitter": "@sopacbrewing",
+                "venue_url": "http://www.southernpacificbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                "foursquare_url": "http://4sq.com/onVTq6"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 1569529,
+                  "user": {
+                    "uid": 1569529,
+                    "user_name": "KurtBLA",
+                    "first_name": "Kurt",
+                    "last_name": "G",
+                    "bio": "Beerly there",
+                    "location": "Los Angeles",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/a6053ddf86ba44cf8b35fa0a5561e1c8_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1091760790,
+                  "like_owner": false,
+                  "created_at": "Mon, 11 Oct 2021 04:51:18 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 65712,
+                  "user_badge_id": 896437421,
+                  "badge_name": "Hopped Down (Level 77)",
+                  "badge_description": "One cannot live on dank hops alone. Tone down the bitterness and enjoy some smooth flavor. That's 385 different beers with an IBU of 20 or below.  Try 5 more for Level 78!",
+                  "created_at": "Mon, 11 Oct 2021 03:08:38 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_HoppedDown_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_HoppedDown_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_HoppedDown_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1086944318,
+            "created_at": "Sun, 10 Oct 2021 22:37:06 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 6019419,
+              "user_name": "TheGlennjamin",
+              "first_name": "Glenn",
+              "last_name": "A",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/53aba41c754609e44e6d360d04d3fb93_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 168417,
+              "venue_name": "Southern Pacific Brewing",
+              "venue_slug": "southern-pacific-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "620 Treat Ave",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7600784,
+                "lng": -122.4140091
+              },
+              "contact": {
+                "twitter": "@sopacbrewing",
+                "venue_url": "http://www.southernpacificbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                "foursquare_url": "http://4sq.com/onVTq6"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 5329397,
+                  "user": {
+                    "uid": 5329397,
+                    "user_name": "Eshaw622",
+                    "first_name": "Eric",
+                    "last_name": "Shaw",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/a56a72adbe0c877b6890f649e47275b4?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1091672219,
+                  "like_owner": false,
+                  "created_at": "Sun, 10 Oct 2021 23:53:48 +0000"
+                },
+                {
+                  "uid": 4176908,
+                  "user": {
+                    "uid": 4176908,
+                    "user_name": "lansneezah",
+                    "first_name": "Josh",
+                    "last_name": "Lansneezah",
+                    "bio": "Aka Sneeze",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/a7adde37d40a5c83595e9defa67c3698_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1091645404,
+                  "like_owner": false,
+                  "created_at": "Sun, 10 Oct 2021 22:56:35 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1083376633,
+            "created_at": "Sat, 02 Oct 2021 00:08:26 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 768179,
+              "user_name": "JKilzi",
+              "first_name": "John",
+              "last_name": "Kilzi",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/2b188a38723c35472071edc75b414786?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 168417,
+              "venue_name": "Southern Pacific Brewing",
+              "venue_slug": "southern-pacific-brewing",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "american_restaurant",
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "620 Treat Ave",
+                "venue_city": "San Francisco",
+                "venue_state": "CA",
+                "venue_country": "United States",
+                "lat": 37.7600784,
+                "lng": -122.4140091
+              },
+              "contact": {
+                "twitter": "@sopacbrewing",
+                "venue_url": "http://www.southernpacificbrewing.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4e8694e50aafe7a08166f7a3",
+                "foursquare_url": "http://4sq.com/onVTq6"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 389191381,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2021_10_02/2080bd3f3911cbbcef763b3867c5f289_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2021_10_02/2080bd3f3911cbbcef763b3867c5f289_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2021_10_02/2080bd3f3911cbbcef763b3867c5f289_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2021_10_02/2080bd3f3911cbbcef763b3867c5f289_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 307,
+                  "user_badge_id": 892602823,
+                  "badge_name": "Pucker Up (Level 4)",
+                  "badge_description": "Right about now you’re feeling your face tighten and your taste buds explode. The full pucker is quickly setting in and you can’t get enough. This is the wonder of the sour. That's 20 different Sour Beers. Try 5 more for Level 5.",
+                  "created_at": "Sat, 02 Oct 2021 00:08:26 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_SourBrew_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_SourBrew_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_SourBrew_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 94135,
+                  "user_badge_id": 892602824,
+                  "badge_name": "Land of the Free (Level 100)",
+                  "badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 500 different beers from a brewery in the United States. You've reached the top!",
+                  "created_at": "Sat, 02 Oct 2021 00:08:26 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_america_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_america_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_america_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 980211177,
+            "created_at": "Sat, 26 Dec 2020 21:38:02 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2096571,
+              "user_name": "misfortune",
+              "first_name": "Erica",
+              "last_name": "Fortune",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/3cd0f2e310fd5e698dd7c1359c2e9d49_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 714479,
+              "venue_name": "Southern Brewing Company",
+              "venue_slug": "southern-brewing-company",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "231 Collins Ind Blvd",
+                "venue_city": "Athens",
+                "venue_state": "GA",
+                "venue_country": "United States",
+                "lat": 33.9844246,
+                "lng": -83.3486633
+              },
+              "contact": {
+                "twitter": "@southernbrewco",
+                "venue_url": "http://www.sobrewco.com/"
+              },
+              "foursquare": {
+                "foursquare_id": "50f5b2858055f0bbf8822350",
+                "foursquare_url": "http://4sq.com/UEBi6D"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_714479_00bf5095_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_714479_00bf5095_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_714479_00bf5095_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2201,
+                  "user_badge_id": 775541332,
+                  "badge_name": "Pucker Up (Level 15)",
+                  "badge_description": "Right about now you’re feeling your face tighten and your taste buds explode. The full pucker is quickly setting in and you can’t get enough. This is the wonder of the sour. That's 75 different Sour Beers. Try 5 more for Level 16.",
+                  "created_at": "Sat, 26 Dec 2020 21:38:03 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_SourBrew_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_SourBrew_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_SourBrew_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 980210732,
+            "created_at": "Sat, 26 Dec 2020 21:37:30 +0000",
+            "checkin_comment": "",
+            "rating_score": 1.75,
+            "user": {
+              "uid": 4078720,
+              "user_name": "smrandazzo",
+              "first_name": "Salvador",
+              "last_name": "Randazzo",
+              "location": "Philadelphia",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/0564f8d6af970d113a053a4521ed722e?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 714479,
+              "venue_name": "Southern Brewing Company",
+              "venue_slug": "southern-brewing-company",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "231 Collins Ind Blvd",
+                "venue_city": "Athens",
+                "venue_state": "GA",
+                "venue_country": "United States",
+                "lat": 33.9844246,
+                "lng": -83.3486633
+              },
+              "contact": {
+                "twitter": "@southernbrewco",
+                "venue_url": "http://www.sobrewco.com/"
+              },
+              "foursquare": {
+                "foursquare_id": "50f5b2858055f0bbf8822350",
+                "foursquare_url": "http://4sq.com/UEBi6D"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_714479_00bf5095_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_714479_00bf5095_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_714479_00bf5095_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 6000,
+                  "user_badge_id": 775540805,
+                  "badge_name": "Riding Steady (Level 38)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 190 different beers with an ABV of 5% and lower. Try 5 more for Level 39!",
+                  "created_at": "Sat, 26 Dec 2020 21:37:31 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 168227,
+                  "user_badge_id": 775540806,
+                  "badge_name": "Taster, Please (Level 41)",
+                  "badge_description": "At a new place and don't want to choose a pint of something you may not like? Grab a few tasters! Enjoy some small pours and then decide which to upgrade to a full pour. That's 205 checkins with the serving style of Taster. Try 5 more for Level 42! Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=dekjPU5CrUg&t=1s\">podcast</a>",
+                  "created_at": "Sat, 26 Dec 2020 21:37:31 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_TastersPlease_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_TastersPlease_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_TastersPlease_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 955280511,
+            "created_at": "Sun, 18 Oct 2020 23:03:37 +0000",
+            "checkin_comment": "Really amazing. I don't know if I could drink a pitcher but a pint is great.",
+            "rating_score": 5,
+            "user": {
+              "uid": 2106383,
+              "user_name": "JasmineKing",
+              "first_name": "Jasmine",
+              "last_name": "King-Kennedy",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/36f310397cc109bbdd1a28b865dc9efd_100x100.jpeg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 4619,
+              "venue_name": "St. Augustine's Craft Brew House & Kitchen",
+              "venue_slug": "st-augustine-s-craft-brew-house-kitchen",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "2360 Commercial Dr",
+                "venue_city": "Vancouver",
+                "venue_state": "BC",
+                "venue_country": "Canada",
+                "lat": 49.2637291,
+                "lng": -123.0695801
+              },
+              "contact": {
+                "twitter": "@staugustinesvan",
+                "venue_url": "http://staugustinesvancouver.com"
+              },
+              "foursquare": {
+                "foursquare_id": "4ad25114f964a520e0e020e3",
+                "foursquare_url": "http://4sq.com/ahAg62"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 275904,
+                  "user_badge_id": 741815912,
+                  "badge_name": "Cheers to Independent U.S. Craft Breweries",
+                  "badge_description": "Cheers, beer patriot! You are supporting the small and independent American craft brewer. When you see the seal -- shaped like an upside-down beer bottle -- that's independence you're tasting. Try 5 more to earn Level 2!",
+                  "created_at": "Sun, 18 Oct 2020 23:03:37 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BAIndySeal18_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BAIndySeal18_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BAIndySeal18_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 308,
+                  "user_badge_id": 741815913,
+                  "badge_name": "Pucker Up (Level 5)",
+                  "badge_description": "Right about now you’re feeling your face tighten and your taste buds explode. The full pucker is quickly setting in and you can’t get enough. This is the wonder of the sour. That's 25 different Sour Beers. Try 5 more for Level 6.",
+                  "created_at": "Sun, 18 Oct 2020 23:03:37 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_SourBrew_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_SourBrew_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_SourBrew_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 903537059,
+            "created_at": "Sat, 06 Jun 2020 20:40:56 +0000",
+            "checkin_comment": "#700!",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1502296,
+              "user_name": "Trank407",
+              "first_name": "Tyler",
+              "last_name": "Rankin",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/62c907df28d4218495b7680719ea584f_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 2125369,
+              "beer_name": "Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 3.8,
+              "beer_ibu": 8,
+              "beer_slug": "southern-pacific-brewing-berliner-weisse",
+              "beer_description": "",
+              "beer_style": "Sour - Berliner Weisse",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 22999,
+              "brewery_name": "Southern Pacific Brewing",
+              "brewery_slug": "southern-pacific-brewing",
+              "brewery_page_url": "/SouthernPacificBrewing",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-SouthernPacificBrewing_22999.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/spbrewco",
+                "url": "http://www.southernpacificbrewing.com/"
+              },
+              "location": {
+                "brewery_city": "San Francisco",
+                "brewery_state": "CA",
+                "lat": 37.7601,
+                "lng": -122.414
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 714479,
+              "venue_name": "Southern Brewing Company",
+              "venue_slug": "southern-brewing-company",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "231 Collins Ind Blvd",
+                "venue_city": "Athens",
+                "venue_state": "GA",
+                "venue_country": "United States",
+                "lat": 33.9844246,
+                "lng": -83.3486633
+              },
+              "contact": {
+                "twitter": "@southernbrewco",
+                "venue_url": "http://www.sobrewco.com/"
+              },
+              "foursquare": {
+                "foursquare_id": "50f5b2858055f0bbf8822350",
+                "foursquare_url": "http://4sq.com/UEBi6D"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_714479_00bf5095_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_714479_00bf5095_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_714479_00bf5095_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 3,
+              "items": [
+                {
+                  "badge_id": 92190,
+                  "user_badge_id": 681418184,
+                  "badge_name": "Bar Explorer (Level 55)",
+                  "badge_description": "Your quest to quench your thirst leaves no stone unturned! That's at least That's 275 distinct venues!",
+                  "created_at": "Sat, 06 Jun 2020 20:40:57 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_goingPlaces_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_goingPlaces_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_goingPlaces_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5620,
+                  "user_badge_id": 681418185,
+                  "badge_name": "Verified Adventure (Level 40)",
+                  "badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 200 check-ins at venue that is verified. Try 5 more for Level 41!",
+                  "created_at": "Sat, 06 Jun 2020 20:40:57 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_VerifiedVenue_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_VerifiedVenue_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_VerifiedVenue_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5992,
+                  "user_badge_id": 681418186,
+                  "badge_name": "Riding Steady (Level 30)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 150 different beers with an ABV of 5% and lower. Try 5 more for Level 31!",
+                  "created_at": "Sat, 06 Jun 2020 20:40:57 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/2125369?max_id=903537059",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/2125369?max_id=903537059",
+          "max_id": 903537059
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.71875,
+            "beer": {
+              "bid": 2834123,
+              "beer_name": "Mango Berliner",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "dry-county-brewing-company-mango-berliner",
+              "beer_style": "Sour - Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 234004,
+              "brewery_name": "Dry County Brewing Company",
+              "brewery_slug": "dry-county-brewing-company",
+              "brewery_page_url": "/DryCountyBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-234004_0b09a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "drycountybrewco",
+                "facebook": "http://www.facebook.com/drycountybrewco",
+                "instagram": "drycountybrewco",
+                "url": "http://www.drycountybrewco.com"
+              },
+              "location": {
+                "brewery_city": "Kennesaw",
+                "brewery_state": "GA",
+                "lat": 34.0215988,
+                "lng": -84.5936966
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.68056,
+            "beer": {
+              "bid": 4306942,
+              "beer_name": "Imperial Berliner Weisse (Grapefruit & Basil)",
+              "beer_abv": 7.1,
+              "beer_ibu": 0,
+              "beer_slug": "frequentem-brewing-co-imperial-berliner-weisse-grapefruit-and-basil",
+              "beer_style": "Sour - Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 468153,
+              "brewery_name": "Frequentem Brewing Co.",
+              "brewery_slug": "frequentem-brewing-co",
+              "brewery_page_url": "/FrequentemBrewingCo",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-468153_1f79c.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/Frequentem-Brewing-Co-112490587115468",
+                "instagram": "frequentembrewingco",
+                "url": "http://frequentembrewing.com"
+              },
+              "location": {
+                "brewery_city": "Canandaigua",
+                "brewery_state": "NY",
+                "lat": 42.8838997,
+                "lng": -77.2790985
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.66667,
+            "beer": {
+              "bid": 2285477,
+              "beer_name": "Neon (Guava   Pineapple)",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "dry-county-brewing-company-neon-guava-pineapple",
+              "beer_style": "Sour - Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 234004,
+              "brewery_name": "Dry County Brewing Company",
+              "brewery_slug": "dry-county-brewing-company",
+              "brewery_page_url": "/DryCountyBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-234004_0b09a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "drycountybrewco",
+                "facebook": "http://www.facebook.com/drycountybrewco",
+                "instagram": "drycountybrewco",
+                "url": "http://www.drycountybrewco.com"
+              },
+              "location": {
+                "brewery_city": "Kennesaw",
+                "brewery_state": "GA",
+                "lat": 34.0215988,
+                "lng": -84.5936966
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.66667,
+            "beer": {
+              "bid": 2291483,
+              "beer_name": "Neon (Guava Apricot)",
+              "beer_abv": 4.5,
+              "beer_ibu": 5,
+              "beer_slug": "dry-county-brewing-company-neon-guava-apricot",
+              "beer_style": "Sour - Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 234004,
+              "brewery_name": "Dry County Brewing Company",
+              "brewery_slug": "dry-county-brewing-company",
+              "brewery_page_url": "/DryCountyBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-234004_0b09a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "drycountybrewco",
+                "facebook": "http://www.facebook.com/drycountybrewco",
+                "instagram": "drycountybrewco",
+                "url": "http://www.drycountybrewco.com"
+              },
+              "location": {
+                "brewery_city": "Kennesaw",
+                "brewery_state": "GA",
+                "lat": 34.0215988,
+                "lng": -84.5936966
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.66269,
+            "beer": {
+              "bid": 3673283,
+              "beer_name": "#InstaLove",
+              "beer_abv": 4.2,
+              "beer_ibu": 2,
+              "beer_slug": "thesis-beer-project-instalove",
+              "beer_style": "Sour - Berliner Weisse",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 440735,
+              "brewery_name": "Thesis Beer Project",
+              "brewery_slug": "thesis-beer-project",
+              "brewery_page_url": "/ThesisBeerProject",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-440735_7c226.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/ThesisBeer",
+                "instagram": "thesisbeer",
+                "url": "https://thesis.beer/"
+              },
+              "location": {
+                "brewery_city": "Rochester",
+                "brewery_state": "MN",
+                "lat": 44.0219002,
+                "lng": -92.4933014
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.5117,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}
