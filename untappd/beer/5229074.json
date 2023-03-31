@@ -1,0 +1,3526 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.288,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 5229074,
+      "beer_name": "JACKED JUICE",
+      "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+      "beer_label_hd": "https://assets.untappd.com/site/beer_logos_hd/beer-5229074_64ecd_hd.jpeg",
+      "beer_abv": 8.6,
+      "beer_ibu": 0,
+      "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+      "beer_style": "IPA - Imperial / Double New England / Hazy",
+      "is_in_production": 1,
+      "beer_slug": "banks-brewing-jacked-juice",
+      "is_homebrew": 0,
+      "created_at": "Thu, 09 Feb 2023 01:07:06 +0000",
+      "rating_count": 247,
+      "rating_score": 4.20304,
+      "stats": {
+        "total_count": 276,
+        "monthly_count": 120,
+        "total_user_count": 268,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 274053,
+        "brewery_name": "Banks Brewing",
+        "brewery_slug": "banks-brewing",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/BanksBrewery",
+        "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "",
+          "facebook": "https://www.facebook.com/banksbrewingco",
+          "url": "http://www.banksbrewing.com.au"
+        },
+        "location": {
+          "brewery_city": "Seaford",
+          "brewery_state": "Victoria",
+          "lat": -38.1161,
+          "lng": 145.138
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 477815023,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_03_31/da9d79ec6fe778d73d05109d0ba05dcf_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_03_31/da9d79ec6fe778d73d05109d0ba05dcf_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_03_31/da9d79ec6fe778d73d05109d0ba05dcf_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_03_31/da9d79ec6fe778d73d05109d0ba05dcf_raw.jpg"
+            },
+            "created_at": "Fri, 31 Mar 2023 08:13:42 +0000",
+            "checkin_id": 1260384270,
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "is_in_production": 1,
+              "beer_style_id": 284,
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "rating_score": 4.203,
+              "rating_count": 247,
+              "count": 247,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5267671,
+              "user_name": "craftybirra",
+              "first_name": "Joe",
+              "last_name": "Capacchione",
+              "user_avatar": "https://assets.untappd.com/profile/55e3bb66a46051bd9341796771e0fe4a_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 2281178,
+                "venue_name": "Beermash",
+                "venue_slug": "beermash",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_store",
+                      "category_name": "Beer Store",
+                      "category_id": "5370f356bcbc57f1066c94c2",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "306 Smith St",
+                  "venue_city": "Collingwood",
+                  "venue_state": "VIC",
+                  "lat": -37.8001,
+                  "lng": 144.984
+                },
+                "contact": {
+                  "twitter": "@beermashstore",
+                  "venue_url": "http://www.beermash.com.au/"
+                },
+                "foursquare": {
+                  "foursquare_id": "546964b1498e7f9936f341a8",
+                  "foursquare_url": "http://4sq.com/1vgoxmR"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_2281178_75eec8f5_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_2281178_75eec8f5_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_2281178_75eec8f5_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 477810981,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_03_31/6f1a5a23f27fe743090594194196a5de_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_03_31/6f1a5a23f27fe743090594194196a5de_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_03_31/6f1a5a23f27fe743090594194196a5de_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_03_31/6f1a5a23f27fe743090594194196a5de_raw.jpg"
+            },
+            "created_at": "Fri, 31 Mar 2023 04:41:26 +0000",
+            "checkin_id": 1260376291,
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "is_in_production": 1,
+              "beer_style_id": 284,
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "rating_score": 4.203,
+              "rating_count": 247,
+              "count": 247,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 20424,
+              "user_name": "hereforthehops",
+              "first_name": "Aaron",
+              "last_name": "",
+              "user_avatar": "https://assets.untappd.com/profile/9150620888f59e0ff73c4772c7905864_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 219600,
+                "venue_name": "the little PUB",
+                "venue_slug": "the-little-pub",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_store",
+                      "category_name": "Beer Store",
+                      "category_id": "5370f356bcbc57f1066c94c2",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "17 Hindley St",
+                  "venue_city": "Adelaide",
+                  "venue_state": "SA",
+                  "lat": -34.9233,
+                  "lng": 138.599
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.thelittlepub.com.au/"
+                },
+                "foursquare": {
+                  "foursquare_id": "4b57c9b4f964a520264128e3",
+                  "foursquare_url": "http://4sq.com/a1v1YQ"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_219600_5f21ae70_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_219600_5f21ae70_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_219600_5f21ae70_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 477696889,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_03_30/42449e9d5e8714caf2a8a030589bc197_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_03_30/42449e9d5e8714caf2a8a030589bc197_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_03_30/42449e9d5e8714caf2a8a030589bc197_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_03_30/42449e9d5e8714caf2a8a030589bc197_raw.jpg"
+            },
+            "created_at": "Thu, 30 Mar 2023 09:31:27 +0000",
+            "checkin_id": 1260149180,
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "is_in_production": 1,
+              "beer_style_id": 284,
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "rating_score": 4.203,
+              "rating_count": 247,
+              "count": 247,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4250660,
+              "user_name": "D1cko",
+              "first_name": "Dicko",
+              "last_name": "",
+              "user_avatar": "https://gravatar.com/avatar/386b339070f3b8c26517025324b3c7ce?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "NC",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 477695411,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_03_30/819850c57010d7432a9a4e6918e1771f_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_03_30/819850c57010d7432a9a4e6918e1771f_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_03_30/819850c57010d7432a9a4e6918e1771f_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_03_30/819850c57010d7432a9a4e6918e1771f_raw.jpg"
+            },
+            "created_at": "Thu, 30 Mar 2023 07:49:34 +0000",
+            "checkin_id": 1260146311,
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "is_in_production": 1,
+              "beer_style_id": 284,
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "rating_score": 4.203,
+              "rating_count": 247,
+              "count": 247,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 280770,
+              "user_name": "Azathoth",
+              "first_name": "Nick",
+              "last_name": "",
+              "user_avatar": "https://assets.untappd.com/profile/059bb958ef710b3d0dba046a7698c93b_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 11803441,
+                "venue_name": "DI Pootle Pants",
+                "venue_slug": "di-pootle-pants",
+                "primary_category": "Nightlife Spot",
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "dive_bar",
+                      "category_name": "Dive Bar",
+                      "category_id": "4bf58dd8d48988d118941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "4 Portrait Way",
+                  "venue_city": "",
+                  "venue_state": "Victoria",
+                  "lat": -37.7312,
+                  "lng": 144.983
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "63db6409cb23ea1b814eb27d",
+                  "foursquare_url": "https://4sq.com/3HQ9cDd"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 477694405,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_03_30/2ba56bef529bf00a9616f78bb5c3b6e7_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_03_30/2ba56bef529bf00a9616f78bb5c3b6e7_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_03_30/2ba56bef529bf00a9616f78bb5c3b6e7_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_03_30/2ba56bef529bf00a9616f78bb5c3b6e7_raw.jpg"
+            },
+            "created_at": "Thu, 30 Mar 2023 06:34:52 +0000",
+            "checkin_id": 1260144264,
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "is_in_production": 1,
+              "beer_style_id": 284,
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "rating_score": 4.203,
+              "rating_count": 247,
+              "count": 247,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7902429,
+              "user_name": "rob_buckett",
+              "first_name": "Rob",
+              "last_name": "Buckett",
+              "user_avatar": "https://assets.untappd.com/profile/26478021df00ce2be914bc1201ffb258_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "NC",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 477692318,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_03_30/a3d80220f117aa2e2dc6959a96f22dd1_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_03_30/a3d80220f117aa2e2dc6959a96f22dd1_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_03_30/a3d80220f117aa2e2dc6959a96f22dd1_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_03_30/a3d80220f117aa2e2dc6959a96f22dd1_raw.jpg"
+            },
+            "created_at": "Thu, 30 Mar 2023 04:32:51 +0000",
+            "checkin_id": 1260140057,
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "is_in_production": 1,
+              "beer_style_id": 284,
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "rating_score": 4.203,
+              "rating_count": 247,
+              "count": 247,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7587196,
+              "user_name": "Harsh69",
+              "first_name": "Swampy",
+              "last_name": "",
+              "user_avatar": "https://assets.untappd.com/profile/5857e61f597df357ab5090b9ea3f3f0f_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 127719,
+                "venue_name": "Gilbert Street Hotel",
+                "venue_slug": "gilbert-street-hotel",
+                "primary_category": "Food",
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 4,
+                  "items": [
+                    {
+                      "category_key": "gastropub",
+                      "category_name": "Gastropub",
+                      "category_id": "4bf58dd8d48988d155941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "music_venue",
+                      "category_name": "Music Venue",
+                      "category_id": "4bf58dd8d48988d1e5931735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "88 Gilbert St",
+                  "venue_city": "Adelaide",
+                  "venue_state": "SA",
+                  "lat": -34.9342,
+                  "lng": 138.597
+                },
+                "contact": {
+                  "twitter": "@gilbersthotel",
+                  "venue_url": "http://www.gilbertsthotel.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "4c6368b4de1b2d7f51e8e470",
+                  "foursquare_url": "http://4sq.com/9cUwpU"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_127719_bbaac138_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_127719_bbaac138_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_127719_bbaac138_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 477603003,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_03_29/5d94ebdfae73c0cbb6b2519467966537_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_03_29/5d94ebdfae73c0cbb6b2519467966537_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_03_29/5d94ebdfae73c0cbb6b2519467966537_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_03_29/5d94ebdfae73c0cbb6b2519467966537_raw.jpg"
+            },
+            "created_at": "Wed, 29 Mar 2023 09:52:03 +0000",
+            "checkin_id": 1259960730,
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "is_in_production": 1,
+              "beer_style_id": 284,
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "rating_score": 4.203,
+              "rating_count": 247,
+              "count": 247,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2976938,
+              "user_name": "Pvcc",
+              "first_name": "Pv",
+              "last_name": "C C",
+              "user_avatar": "https://assets.untappd.com/profile/ba6e38e8eb581c19c372a53910151c27_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 477602772,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_03_29/5210894ae5a201c6aa4e77c55c575eb0_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_03_29/5210894ae5a201c6aa4e77c55c575eb0_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_03_29/5210894ae5a201c6aa4e77c55c575eb0_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_03_29/5210894ae5a201c6aa4e77c55c575eb0_raw.jpg"
+            },
+            "created_at": "Wed, 29 Mar 2023 09:36:24 +0000",
+            "checkin_id": 1259960318,
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "is_in_production": 1,
+              "beer_style_id": 284,
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "rating_score": 4.203,
+              "rating_count": 247,
+              "count": 247,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6315499,
+              "user_name": "kim_not_tim",
+              "first_name": "Kim",
+              "last_name": "Gill",
+              "user_avatar": "https://assets.untappd.com/profile/35b210a660bd6756a5fde52d0b7779cd_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 477521861,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_03_28/2ef9413d4341c9fce24c81f23a9ee4fa_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_03_28/2ef9413d4341c9fce24c81f23a9ee4fa_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_03_28/2ef9413d4341c9fce24c81f23a9ee4fa_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_03_28/2ef9413d4341c9fce24c81f23a9ee4fa_raw.jpg"
+            },
+            "created_at": "Tue, 28 Mar 2023 09:36:26 +0000",
+            "checkin_id": 1259797413,
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "is_in_production": 1,
+              "beer_style_id": 284,
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "rating_score": 4.203,
+              "rating_count": 247,
+              "count": 247,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5562145,
+              "user_name": "brentonmay87",
+              "first_name": "Brenton",
+              "last_name": "May",
+              "user_avatar": "https://gravatar.com/avatar/535a702f634449c7157989efa6e0338d?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 477520922,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_03_28/720fa8f8fe427229fbe6b6786849942d_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_03_28/720fa8f8fe427229fbe6b6786849942d_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_03_28/720fa8f8fe427229fbe6b6786849942d_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_03_28/720fa8f8fe427229fbe6b6786849942d_raw.jpg"
+            },
+            "created_at": "Tue, 28 Mar 2023 08:17:14 +0000",
+            "checkin_id": 1259795698,
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "is_in_production": 1,
+              "beer_style_id": 284,
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "rating_score": 4.203,
+              "rating_count": 247,
+              "count": 247,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7616778,
+              "user_name": "brendan_costello_6770",
+              "first_name": "Brendan",
+              "last_name": "Costello",
+              "user_avatar": "https://assets.untappd.com/profile/6f1429955d2efaac7aa064682b45fb5c-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9917985,
+                "venue_name": "Untappd at Home",
+                "venue_slug": "at-home",
+                "primary_category": "Residence",
+                "parent_category_id": "4e67e38e036454776db1fb3a",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "home_private",
+                      "category_name": "Home (private)",
+                      "category_id": "4bf58dd8d48988d103941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "",
+                  "venue_city": "",
+                  "venue_state": "NC",
+                  "lat": 34.2347,
+                  "lng": -77.9482
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "5e7b4d99c91df60008e8b168",
+                  "foursquare_url": "https://4sq.com/3bDWYuq"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 1260384270,
+            "created_at": "Fri, 31 Mar 2023 08:13:18 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 5267671,
+              "user_name": "craftybirra",
+              "first_name": "Joe",
+              "last_name": "Capacchione",
+              "location": "Melbourne",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/55e3bb66a46051bd9341796771e0fe4a_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2281178,
+              "venue_name": "Beermash",
+              "venue_slug": "beermash",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_store",
+                    "category_name": "Beer Store",
+                    "category_id": "5370f356bcbc57f1066c94c2",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "306 Smith St",
+                "venue_city": "Collingwood",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.8000832,
+                "lng": 144.984314
+              },
+              "contact": {
+                "twitter": "@beermashstore",
+                "venue_url": "http://www.beermash.com.au/"
+              },
+              "foursquare": {
+                "foursquare_id": "546964b1498e7f9936f341a8",
+                "foursquare_url": "http://4sq.com/1vgoxmR"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_2281178_75eec8f5_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_2281178_75eec8f5_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_2281178_75eec8f5_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6207352,
+                  "user": {
+                    "uid": 6207352,
+                    "user_name": "kaje38",
+                    "first_name": "Kaine",
+                    "last_name": "Jefferies",
+                    "bio": "Kills for Pils",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/34b802e1b32d52f17435cb6d91b0a5dd_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1329122524,
+                  "like_owner": false,
+                  "created_at": "Fri, 31 Mar 2023 08:22:40 +0000"
+                },
+                {
+                  "uid": 34171,
+                  "user": {
+                    "uid": 34171,
+                    "user_name": "vicbeeroclock",
+                    "first_name": "VBOC",
+                    "last_name": "",
+                    "bio": "A Bloke from the Bush.",
+                    "location": "The Bush",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/206fe01cd89139ed5a3d1fd5e1365eeb_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1329122086,
+                  "like_owner": false,
+                  "created_at": "Fri, 31 Mar 2023 08:18:52 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477815023,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_31/da9d79ec6fe778d73d05109d0ba05dcf_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_31/da9d79ec6fe778d73d05109d0ba05dcf_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_31/da9d79ec6fe778d73d05109d0ba05dcf_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_31/da9d79ec6fe778d73d05109d0ba05dcf_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 5398,
+                  "user_badge_id": 1085195123,
+                  "badge_name": "2X (Level 18)",
+                  "badge_description": "When a single isn’t enough, make it a double. Doubling the hops and malts in a recipe results in a higher ABV and can pack quite a boozey punch. That's 90 different beers with the style that contains Imperial / Double in its style name. Try 5 more for Level 19!",
+                  "created_at": "Fri, 31 Mar 2023 08:13:18 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_2xCore_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_2xCore_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_2xCore_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 288073,
+                  "user_badge_id": 1085195124,
+                  "badge_name": "Haze for Days (Level 48)",
+                  "badge_description": "You may not be able to see through the haze, but that juicy, hoppy goodness goes down smooth. What started as a trend is here to stay. That's 240 different beers with the style of IPA - New England / Hazy, Pale Ale - New England / Hazy, IPA - Milkshake, or Pale Ale - Milkshake. Try 5 more for Level 49!",
+                  "created_at": "Fri, 31 Mar 2023 08:13:18 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_neipa_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_neipa_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_neipa_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1260377606,
+            "created_at": "Fri, 31 Mar 2023 05:06:21 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 6045290,
+              "user_name": "CloisteR",
+              "first_name": "Peter",
+              "last_name": "Reynolds",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/ebbee2a8bd477a732122d4b80f4ef4c6?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1260376291,
+            "created_at": "Fri, 31 Mar 2023 04:41:16 +0000",
+            "checkin_comment": "Happy Friday!",
+            "rating_score": 4,
+            "user": {
+              "uid": 20424,
+              "user_name": "hereforthehops",
+              "first_name": "Aaron",
+              "last_name": "",
+              "location": "At the bar - Adelaide",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "Embracing mediocrity",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/9150620888f59e0ff73c4772c7905864_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 219600,
+              "venue_name": "the little PUB",
+              "venue_slug": "the-little-pub",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_store",
+                    "category_name": "Beer Store",
+                    "category_id": "5370f356bcbc57f1066c94c2",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "17 Hindley St",
+                "venue_city": "Adelaide",
+                "venue_state": "SA",
+                "venue_country": "Australia",
+                "lat": -34.9232903,
+                "lng": 138.5986481
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.thelittlepub.com.au/"
+              },
+              "foursquare": {
+                "foursquare_id": "4b57c9b4f964a520264128e3",
+                "foursquare_url": "http://4sq.com/a1v1YQ"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_219600_5f21ae70_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_219600_5f21ae70_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_219600_5f21ae70_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 7,
+              "count": 7,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 34171,
+                  "user": {
+                    "uid": 34171,
+                    "user_name": "vicbeeroclock",
+                    "first_name": "VBOC",
+                    "last_name": "",
+                    "bio": "A Bloke from the Bush.",
+                    "location": "The Bush",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/206fe01cd89139ed5a3d1fd5e1365eeb_thumb.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1329109739,
+                  "like_owner": false,
+                  "created_at": "Fri, 31 Mar 2023 06:38:33 +0000"
+                },
+                {
+                  "uid": 544343,
+                  "user": {
+                    "uid": 544343,
+                    "user_name": "vinhol",
+                    "first_name": "Greig",
+                    "last_name": "H",
+                    "bio": "2021 Melbourne earthquake survivor",
+                    "location": "Mooroolbark",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/27102441674131fdfd7d4766c6789a21_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1329107150,
+                  "like_owner": false,
+                  "created_at": "Fri, 31 Mar 2023 06:20:44 +0000"
+                },
+                {
+                  "uid": 7969410,
+                  "user": {
+                    "uid": 7969410,
+                    "user_name": "Mr-Kamil",
+                    "first_name": "Kamil The",
+                    "last_name": "IPA Man",
+                    "bio": "",
+                    "location": "Edmonton, AB",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/13342659e619083af395910ee1acee76_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1329106286,
+                  "like_owner": false,
+                  "created_at": "Fri, 31 Mar 2023 06:13:04 +0000"
+                },
+                {
+                  "uid": 1587704,
+                  "user": {
+                    "uid": 1587704,
+                    "user_name": "Harves10",
+                    "first_name": "Mark",
+                    "last_name": "H",
+                    "bio": "",
+                    "location": "Sydney",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/d7ce25a1a8914694507c38f889e15ce9_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1329105538,
+                  "like_owner": false,
+                  "created_at": "Fri, 31 Mar 2023 06:07:37 +0000"
+                },
+                {
+                  "uid": 2728534,
+                  "user": {
+                    "uid": 2728534,
+                    "user_name": "Thatguyonyaleft",
+                    "first_name": "Jamie",
+                    "last_name": "S",
+                    "bio": "South Aussie livin’ in Melbourne... Go Port Adelaide!",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/8fa654a65eac5ba57ac371df38f72a12_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1329104784,
+                  "like_owner": false,
+                  "created_at": "Fri, 31 Mar 2023 05:59:18 +0000"
+                },
+                {
+                  "uid": 134244,
+                  "user": {
+                    "uid": 134244,
+                    "user_name": "danieelol",
+                    "first_name": "Daniel",
+                    "last_name": "O",
+                    "bio": "Luv beer",
+                    "location": "Sydney",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/8d24bdd22fab536371e54e089afcf582?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1329098537,
+                  "like_owner": false,
+                  "created_at": "Fri, 31 Mar 2023 05:10:31 +0000"
+                },
+                {
+                  "uid": 1073630,
+                  "user": {
+                    "uid": 1073630,
+                    "user_name": "Enjoyingcraftbeers",
+                    "first_name": "G E O R G E",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Umina Beach, Australia",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/d0452140ba0cea5478dc4439ba58b43b_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1329094842,
+                  "like_owner": false,
+                  "created_at": "Fri, 31 Mar 2023 04:43:55 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477810981,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_31/6f1a5a23f27fe743090594194196a5de_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_31/6f1a5a23f27fe743090594194196a5de_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_31/6f1a5a23f27fe743090594194196a5de_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_31/6f1a5a23f27fe743090594194196a5de_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1260149180,
+            "created_at": "Thu, 30 Mar 2023 09:31:19 +0000",
+            "checkin_comment": "",
+            "rating_score": 5,
+            "user": {
+              "uid": 4250660,
+              "user_name": "D1cko",
+              "first_name": "Dicko",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/386b339070f3b8c26517025324b3c7ce?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "NC",
+                "venue_country": "United States",
+                "lat": 34.2346611,
+                "lng": -77.9482117
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2312086,
+                  "user": {
+                    "uid": 2312086,
+                    "user_name": "gmone1",
+                    "first_name": "Geoff",
+                    "last_name": "",
+                    "bio": "One of the @beardedbeerbros [Instagram]",
+                    "location": "Melbourne",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/a58828027857460e4239b16ccb383123_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328777202,
+                  "like_owner": false,
+                  "created_at": "Thu, 30 Mar 2023 09:51:52 +0000"
+                },
+                {
+                  "uid": 9277454,
+                  "user": {
+                    "uid": 9277454,
+                    "user_name": "ben_munro_1543",
+                    "first_name": "Ben",
+                    "last_name": "Munro",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/0252b5800a8466ca62baa7b9158f71f7_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328775921,
+                  "like_owner": false,
+                  "created_at": "Thu, 30 Mar 2023 09:40:09 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477696889,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_30/42449e9d5e8714caf2a8a030589bc197_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_30/42449e9d5e8714caf2a8a030589bc197_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_30/42449e9d5e8714caf2a8a030589bc197_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_30/42449e9d5e8714caf2a8a030589bc197_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 6184,
+                  "user_badge_id": 1084940165,
+                  "badge_name": "Cheers To You! (Level 6)",
+                  "badge_description": "Happy Untappd anniversary to you! Thanks for sticking around and drinking socially with us. Cheers! That's 6 years on Untappd!",
+                  "created_at": "Thu, 30 Mar 2023 09:31:19 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_HeresToYou_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_HeresToYou_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_HeresToYou_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5662,
+                  "user_badge_id": 1084940167,
+                  "badge_name": "Wheel of Styles (Level 33)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 165 different styles. Try 5 more for Level 34!",
+                  "created_at": "Thu, 30 Mar 2023 09:31:19 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1260146311,
+            "created_at": "Thu, 30 Mar 2023 07:49:23 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 280770,
+              "user_name": "Azathoth",
+              "first_name": "Nick",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/059bb958ef710b3d0dba046a7698c93b_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11803441,
+              "venue_name": "DI Pootle Pants",
+              "venue_slug": "di-pootle-pants",
+              "primary_category_key": "Nightlife Spot",
+              "primary_category": "Nightlife Spot",
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "dive_bar",
+                    "category_name": "Dive Bar",
+                    "category_id": "4bf58dd8d48988d118941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "4 Portrait Way",
+                "venue_city": "",
+                "venue_state": "Victoria",
+                "venue_country": "Australia",
+                "lat": -37.731163,
+                "lng": 144.9832458
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "63db6409cb23ea1b814eb27d",
+                "foursquare_url": "https://4sq.com/3HQ9cDd"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477695411,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_30/819850c57010d7432a9a4e6918e1771f_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_30/819850c57010d7432a9a4e6918e1771f_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_30/819850c57010d7432a9a4e6918e1771f_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_30/819850c57010d7432a9a4e6918e1771f_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1260144264,
+            "created_at": "Thu, 30 Mar 2023 06:34:33 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 7902429,
+              "user_name": "rob_buckett",
+              "first_name": "Rob",
+              "last_name": "Buckett",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/26478021df00ce2be914bc1201ffb258_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "NC",
+                "venue_country": "United States",
+                "lat": 34.2346611,
+                "lng": -77.9482117
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477694405,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_30/2ba56bef529bf00a9616f78bb5c3b6e7_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_30/2ba56bef529bf00a9616f78bb5c3b6e7_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_30/2ba56bef529bf00a9616f78bb5c3b6e7_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_30/2ba56bef529bf00a9616f78bb5c3b6e7_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 2638,
+                  "user_badge_id": 1084935171,
+                  "badge_name": "New Brew Thursday  (Level 12)",
+                  "badge_description": "It's New Brew Thursday! Drink any beer you have never had before on three different Thursdays in a 20 day period.",
+                  "created_at": "Thu, 30 Mar 2023 06:34:34 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_NewNewBrewThurs_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_NewNewBrewThurs_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_NewNewBrewThurs_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 5419,
+                  "user_badge_id": 1084935172,
+                  "badge_name": "2X (Level 39)",
+                  "badge_description": "When a single isn’t enough, make it a double. Doubling the hops and malts in a recipe results in a higher ABV and can pack quite a boozey punch. That's 195 different beers with the style that contains Imperial / Double in its style name. Try 5 more for Level 40!",
+                  "created_at": "Thu, 30 Mar 2023 06:34:34 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_2xCore_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_2xCore_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_2xCore_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1260140057,
+            "created_at": "Thu, 30 Mar 2023 04:32:40 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 7587196,
+              "user_name": "Harsh69",
+              "first_name": "Swampy",
+              "last_name": "",
+              "location": "Adelaide, South Australia via old London Town",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/5857e61f597df357ab5090b9ea3f3f0f_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 127719,
+              "venue_name": "Gilbert Street Hotel",
+              "venue_slug": "gilbert-street-hotel",
+              "primary_category_key": "Food",
+              "primary_category": "Food",
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_key": "gastropub",
+                    "category_name": "Gastropub",
+                    "category_id": "4bf58dd8d48988d155941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "music_venue",
+                    "category_name": "Music Venue",
+                    "category_id": "4bf58dd8d48988d1e5931735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "88 Gilbert St",
+                "venue_city": "Adelaide",
+                "venue_state": "SA",
+                "venue_country": "Australia",
+                "lat": -34.9342308,
+                "lng": 138.5970764
+              },
+              "contact": {
+                "twitter": "@gilbersthotel",
+                "venue_url": "http://www.gilbertsthotel.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4c6368b4de1b2d7f51e8e470",
+                "foursquare_url": "http://4sq.com/9cUwpU"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_127719_bbaac138_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_127719_bbaac138_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_127719_bbaac138_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 14,
+              "count": 8,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3706224,
+                  "user": {
+                    "uid": 3706224,
+                    "user_name": "7zark7",
+                    "first_name": "SemifreddoFascistChris",
+                    "last_name": "",
+                    "bio": "Beer, music, boxing and random BS.",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/99eea04fffcd317cd1bb04b619a7f7e6_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328807333,
+                  "like_owner": false,
+                  "created_at": "Thu, 30 Mar 2023 14:15:17 +0000"
+                },
+                {
+                  "uid": 5155133,
+                  "user": {
+                    "uid": 5155133,
+                    "user_name": "MikeShanahan",
+                    "first_name": "Mike",
+                    "last_name": "S",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/91517bf1979196ad51b66c0522de8c28_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328791623,
+                  "like_owner": false,
+                  "created_at": "Thu, 30 Mar 2023 12:14:06 +0000"
+                },
+                {
+                  "uid": 2055899,
+                  "user": {
+                    "uid": 2055899,
+                    "user_name": "Brodabba",
+                    "first_name": "Brodini",
+                    "last_name": "",
+                    "bio": "Did someone say beer…?",
+                    "location": "Mitcham, SA",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/0efdf58058ab7a5e74c1dd3590b13909_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328778474,
+                  "like_owner": false,
+                  "created_at": "Thu, 30 Mar 2023 10:05:41 +0000"
+                },
+                {
+                  "uid": 2728534,
+                  "user": {
+                    "uid": 2728534,
+                    "user_name": "Thatguyonyaleft",
+                    "first_name": "Jamie",
+                    "last_name": "S",
+                    "bio": "South Aussie livin’ in Melbourne... Go Port Adelaide!",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/8fa654a65eac5ba57ac371df38f72a12_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328776357,
+                  "like_owner": false,
+                  "created_at": "Thu, 30 Mar 2023 09:45:13 +0000"
+                },
+                {
+                  "uid": 3987720,
+                  "user": {
+                    "uid": 3987720,
+                    "user_name": "Moosethebeersnob",
+                    "first_name": "Moose",
+                    "last_name": "",
+                    "bio": "Bell curve believer. 1=garbage, 2=won’t have again, 3=good brew, 4=recommended, 5=the BEST. ABV & price matter.",
+                    "location": "Adelaide",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/ef6953d4f9c23606c520bde90e1c6d0e_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328775941,
+                  "like_owner": false,
+                  "created_at": "Thu, 30 Mar 2023 09:40:26 +0000"
+                },
+                {
+                  "uid": 7837176,
+                  "user": {
+                    "uid": 7837176,
+                    "user_name": "JayJayJohnson",
+                    "first_name": "Jarred",
+                    "last_name": "Johnson",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/228bbad959c05d09c62b4c17b850ec01_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328764878,
+                  "like_owner": false,
+                  "created_at": "Thu, 30 Mar 2023 07:32:11 +0000"
+                },
+                {
+                  "uid": 344170,
+                  "user": {
+                    "uid": 344170,
+                    "user_name": "frothin",
+                    "first_name": "James",
+                    "last_name": "Frothingham",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/7da3610da1a731fa2b30ad5977db0949_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328760085,
+                  "like_owner": false,
+                  "created_at": "Thu, 30 Mar 2023 06:43:28 +0000"
+                },
+                {
+                  "uid": 6824938,
+                  "user": {
+                    "uid": 6824938,
+                    "user_name": "Camolovesacraft",
+                    "first_name": "Adam",
+                    "last_name": "Cameron",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/9ffae2150932f315834bf5f0494a74d5_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328758946,
+                  "like_owner": false,
+                  "created_at": "Thu, 30 Mar 2023 06:29:20 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477692318,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_30/a3d80220f117aa2e2dc6959a96f22dd1_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_30/a3d80220f117aa2e2dc6959a96f22dd1_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_30/a3d80220f117aa2e2dc6959a96f22dd1_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_30/a3d80220f117aa2e2dc6959a96f22dd1_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1259960730,
+            "created_at": "Wed, 29 Mar 2023 09:51:52 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 2976938,
+              "user_name": "Pvcc",
+              "first_name": "Pv",
+              "last_name": "C C",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/ba6e38e8eb581c19c372a53910151c27_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3431820,
+                  "user": {
+                    "uid": 3431820,
+                    "user_name": "Manflessh",
+                    "first_name": "Manflesh",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Melburn",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/06f09cb084db41437702b2238acf38f8_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1328491971,
+                  "like_owner": false,
+                  "created_at": "Wed, 29 Mar 2023 10:03:20 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477603003,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_29/5d94ebdfae73c0cbb6b2519467966537_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_29/5d94ebdfae73c0cbb6b2519467966537_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_29/5d94ebdfae73c0cbb6b2519467966537_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_29/5d94ebdfae73c0cbb6b2519467966537_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 5659,
+                  "user_badge_id": 1084742831,
+                  "badge_name": "Wheel of Styles (Level 30)",
+                  "badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 150 different styles. Try 5 more for Level 31!",
+                  "created_at": "Wed, 29 Mar 2023 09:51:52 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_WheelofStyles_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_WheelofStyles_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_WheelofStyles_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 288085,
+                  "user_badge_id": 1084742832,
+                  "badge_name": "Haze for Days (Level 60)",
+                  "badge_description": "You may not be able to see through the haze, but that juicy, hoppy goodness goes down smooth. What started as a trend is here to stay. That's 300 different beers with the style of IPA - New England / Hazy, Pale Ale - New England / Hazy, IPA - Milkshake, or Pale Ale - Milkshake. Try 5 more for Level 61!",
+                  "created_at": "Wed, 29 Mar 2023 09:51:52 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_neipa_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_neipa_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_neipa_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1259960318,
+            "created_at": "Wed, 29 Mar 2023 09:36:07 +0000",
+            "checkin_comment": "Sensational.",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 6315499,
+              "user_name": "kim_not_tim",
+              "first_name": "Kim",
+              "last_name": "Gill",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/35b210a660bd6756a5fde52d0b7779cd_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477602772,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_29/5210894ae5a201c6aa4e77c55c575eb0_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_29/5210894ae5a201c6aa4e77c55c575eb0_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_29/5210894ae5a201c6aa4e77c55c575eb0_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_29/5210894ae5a201c6aa4e77c55c575eb0_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1259957743,
+            "created_at": "Wed, 29 Mar 2023 07:33:22 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 199804,
+              "user_name": "iangw10",
+              "first_name": "Ian",
+              "last_name": "Lilley",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/9448c73fa256a29adc7502dda9ffaf0a_thumb.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 1,
+              "count": 1,
+              "items": [
+                {
+                  "user": {
+                    "uid": 558114,
+                    "user_name": "dmpitts",
+                    "first_name": "David",
+                    "last_name": "Pitts",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://assets.untappd.com/profile/9f3291642c1e58f9e5dc13065a3fca08_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 1259957743,
+                  "comment_id": 76887048,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Hopped for more",
+                  "created_at": "Wed, 29 Mar 2023 09:45:39 +0000",
+                  "comment_source": "API"
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1259797413,
+            "created_at": "Tue, 28 Mar 2023 09:35:59 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 5562145,
+              "user_name": "brentonmay87",
+              "first_name": "Brenton",
+              "last_name": "May",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/535a702f634449c7157989efa6e0338d?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477521861,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_28/2ef9413d4341c9fce24c81f23a9ee4fa_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_28/2ef9413d4341c9fce24c81f23a9ee4fa_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_28/2ef9413d4341c9fce24c81f23a9ee4fa_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_28/2ef9413d4341c9fce24c81f23a9ee4fa_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1259795698,
+            "created_at": "Tue, 28 Mar 2023 08:16:06 +0000",
+            "checkin_comment": "Very good beer, very creamy and well balanced.",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 7616778,
+              "user_name": "brendan_costello_6770",
+              "first_name": "Brendan",
+              "last_name": "Costello",
+              "location": "Tasmania, Australia",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/6f1429955d2efaac7aa064682b45fb5c-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "at-home",
+              "primary_category_key": "Residence",
+              "primary_category": "Residence",
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "NC",
+                "venue_country": "United States",
+                "lat": 34.2346611,
+                "lng": -77.9482117
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477520922,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_28/720fa8f8fe427229fbe6b6786849942d_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_28/720fa8f8fe427229fbe6b6786849942d_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_28/720fa8f8fe427229fbe6b6786849942d_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_28/720fa8f8fe427229fbe6b6786849942d_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 417669,
+                  "user_badge_id": 1084563560,
+                  "badge_name": "To Go Please (Level 85)",
+                  "badge_description": "It's time to give bottle shops some love by adding them as your purchased location. That's 425 check-ins with a purchased location! Tag 5 more to get to Level 86. Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=a3Ra0zZ_FP8&t=1s\">podcast</a>",
+                  "created_at": "Tue, 28 Mar 2023 08:16:07 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_ToGoPlease_2020_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_ToGoPlease_2020_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_ToGoPlease_2020_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2632,
+                  "user_badge_id": 1084563561,
+                  "badge_name": "I Believe in IPA! (Level 46)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 230 different IPAs. Try 5 more for Level 47! Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=EhBh7a4YrPk&list=\">podcast</a>",
+                  "created_at": "Tue, 28 Mar 2023 08:16:07 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1259773754,
+            "created_at": "Tue, 28 Mar 2023 01:14:41 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 1696240,
+              "user_name": "Marc280",
+              "first_name": "Marcus",
+              "last_name": "Haines",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/bc1325e717f72fca07e8eab61f445b9e?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 133413,
+                  "user_badge_id": 1084542148,
+                  "badge_name": "For the Can (Level 60)",
+                  "badge_description": "Canning is all the rage and it's not hard to see why - travels well, more environmentally friendly, and no need to carry your bottle opener. That's 300 checkins with the serving style of Can. Try 5 more for Level 61! Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=hynmM3Sb83s&t=1s\">podcast</a>",
+                  "created_at": "Tue, 28 Mar 2023 01:14:42 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_GloryCan_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_GloryCan_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_GloryCan_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 2634,
+                  "user_badge_id": 1084542149,
+                  "badge_name": "I Believe in IPA! (Level 48)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 240 different IPAs. Try 5 more for Level 49! Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=EhBh7a4YrPk&list=\">podcast</a>",
+                  "created_at": "Tue, 28 Mar 2023 01:14:42 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1259659118,
+            "created_at": "Mon, 27 Mar 2023 11:02:15 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 4263202,
+              "user_name": "davaig",
+              "first_name": "David",
+              "last_name": "Watts",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/0ae1d990d68e2f2b432ff453320c831e?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1259360375,
+            "created_at": "Sun, 26 Mar 2023 10:56:42 +0000",
+            "checkin_comment": "Ahh not sure this is a double of the original, very diff than the single. Mango and nectar on the nose. Good mouthfeel and a great double NEIPA",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 6235847,
+              "user_name": "daz_wasz",
+              "first_name": "Darren",
+              "last_name": "Waszkinel",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/89ded2c1a10c7091a002c5928d354bc7?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "beer": {
+              "bid": 5229074,
+              "beer_name": "JACKED JUICE",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5229074_b939d_sm.jpeg",
+              "beer_abv": 8.6,
+              "beer_ibu": 0,
+              "beer_slug": "banks-brewing-jacked-juice",
+              "beer_description": "Hopped with El Dorado, Citra, Mosaic & Centennial.  Like Juice Fit but Jacked.  The Bigger, Meaner & Juicier Brother. This one packs a punch, juicy, tropical, dank, ALL the good things!\r\n\r\n",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 274053,
+              "brewery_name": "Banks Brewing",
+              "brewery_slug": "banks-brewing",
+              "brewery_page_url": "/BanksBrewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-274053_79172.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/banksbrewingco",
+                "url": "http://www.banksbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Seaford",
+                "brewery_state": "Victoria",
+                "lat": -38.1161,
+                "lng": 145.138
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 477299459,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_03_26/614262c68c2710c25b32d117152634fe_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_03_26/614262c68c2710c25b32d117152634fe_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_03_26/614262c68c2710c25b32d117152634fe_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_03_26/614262c68c2710c25b32d117152634fe_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 93369,
+                  "user_badge_id": 1084150169,
+                  "badge_name": "I Believe in IPA! (Level 84)",
+                  "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 420 different IPAs. Try 5 more for Level 85! Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=EhBh7a4YrPk&list=\">podcast</a>",
+                  "created_at": "Sun, 26 Mar 2023 10:56:42 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_hoptopia_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_hoptopia_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_hoptopia_lg.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/5229074?max_id=1259360375",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/5229074?max_id=1259360375",
+          "max_id": 1259360375
+        }
+      },
+      "similar": {
+        "method": "es",
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.06029,
+            "beer": {
+              "bid": 5230400,
+              "beer_name": "Candy Hearts",
+              "beer_abv": 6.5,
+              "beer_ibu": 0,
+              "beer_slug": "range-brewing-candy-hearts",
+              "beer_style": "IPA - New England / Hazy",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5230400_91eba_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 392009,
+              "brewery_name": "Range Brewing",
+              "brewery_slug": "range-brewing",
+              "brewery_page_url": "/RangeBrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-392009_b4e0a.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/rangebrewing/",
+                "instagram": "rangebrewing",
+                "url": "https://www.rangebrewing.com/"
+              },
+              "location": {
+                "brewery_city": "Newstead",
+                "brewery_state": "Queensland",
+                "lat": -27.4480991,
+                "lng": 153.0440063
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.24973,
+            "beer": {
+              "bid": 5265212,
+              "beer_name": "Void of Form",
+              "beer_abv": 8.2,
+              "beer_ibu": 0,
+              "beer_slug": "mountain-culture-beer-co-void-of-form",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5265212_a4a91_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 446724,
+              "brewery_name": "Mountain Culture Beer Co.",
+              "brewery_slug": "mountain-culture-beer-co",
+              "brewery_page_url": "/MountainCulture",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-446724_146a3.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/mountainculturebeerco/",
+                "instagram": "mountainculturebeerco",
+                "url": "http://mountainculturebeerco.com"
+              },
+              "location": {
+                "brewery_city": "Emu Plains",
+                "brewery_state": "New South Wales",
+                "lat": -33.7452011,
+                "lng": 150.6600037
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.08696,
+            "beer": {
+              "bid": 5275008,
+              "beer_name": "Equinox",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "deeds-brewing-equinox",
+              "beer_style": "IPA - New England / Hazy",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5275008_cba55_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 51713,
+              "brewery_name": "Deeds Brewing",
+              "brewery_slug": "deeds-brewing",
+              "brewery_page_url": "/DeedsBrewing",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-51713_6426b.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/deedsbrewing",
+                "instagram": "deedsbrewing",
+                "url": "http://www.deedsbrewing.com.au"
+              },
+              "location": {
+                "brewery_city": "Glen Iris",
+                "brewery_state": "Victoria",
+                "lat": -37.8591995,
+                "lng": 145.0579987
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.06763,
+            "beer": {
+              "bid": 5218262,
+              "beer_name": "Fresh IPA - FEB 23",
+              "beer_abv": 7,
+              "beer_ibu": 0,
+              "beer_slug": "garage-project-fresh-ipa-feb-23",
+              "beer_style": "IPA - New England / Hazy",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5218262_76035_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 14539,
+              "brewery_name": "Garage Project",
+              "brewery_slug": "garage-project",
+              "brewery_page_url": "/garageproject",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-GarageProject_14539.jpeg",
+              "country_name": "New Zealand",
+              "contact": {
+                "twitter": "garage_project",
+                "facebook": "https://www.facebook.com/garageproject",
+                "instagram": "garageproject",
+                "url": "https://garageproject.co.nz"
+              },
+              "location": {
+                "brewery_city": "Wellington City",
+                "brewery_state": "Wellington",
+                "lat": -41.2952995,
+                "lng": 174.7680054
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.1108,
+            "beer": {
+              "bid": 5228151,
+              "beer_name": "Time Zone Jumping",
+              "beer_abv": 8,
+              "beer_ibu": 0,
+              "beer_slug": "fox-friday-craft-brewery-time-zone-jumping",
+              "beer_style": "IPA - Imperial / Double New England / Hazy",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5228151_cb726_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 269423,
+              "brewery_name": "Fox Friday Craft Brewery",
+              "brewery_slug": "fox-friday-craft-brewery",
+              "brewery_page_url": "/FoxFridayCraftBrewery",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-269423_526de.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "http://www.facebook.com/foxfridaybrewery",
+                "instagram": "foxfridaybrewery",
+                "url": "http://foxfriday.com.au"
+              },
+              "location": {
+                "brewery_city": "Hobart",
+                "brewery_state": "Tasmania",
+                "lat": -42.8814011,
+                "lng": 147.3240051
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.95644,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

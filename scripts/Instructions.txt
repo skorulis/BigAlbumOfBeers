@@ -2,6 +2,7 @@ Instructions:
 
 bundle exec ruby scripts/albumscrape.rb [token]
 bundle exec ruby scripts/buildExtra.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
+swift run --package-path ./BAOBCLI BAOBCLI UpdateIDs --source-file [PATH]
 Set beer ids in js/extra.json
 
 -------
@@ -10,13 +11,15 @@ bundle exec ruby scripts/buildExtra.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 ruby scripts/stats.rb
 bundle exec ruby scripts/getBreweries.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 ruby scripts/breweryList.rb
-ruby scripts/getImages.rb
+bundle exec ruby scripts/getImages.rb
 
 ruby scripts/distributeBreweries.rb
-ruby scripts/createPosts.rb
+bundle exec ruby scripts/createPosts.rb
 
 OR RUN scripts/finalStep [UNTAPPED_ID] [UNTAPPED_SECRET]
 
 ------
+
+
 
 Update beers.html with the beer count

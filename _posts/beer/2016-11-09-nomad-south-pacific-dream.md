@@ -10,7 +10,7 @@ breweryURL: "/brewery/nomad-brewing-co.html"
 style: "Pale Ale - Australian"
 score: 7.5
 img: /img/list/nomad-south-pacific-dream.jpeg
-beer-date: "2019-04-22"
-desc: "Very fruity pale ale"
+beer-date: "2023-03-31"
+desc: "Very tropical. Smells very sugary. It’s a great day for this"
 permalink: /beer/:title.html
 ---
