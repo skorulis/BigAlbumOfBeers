@@ -1,0 +1,716 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.138,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 5247624,
+      "beer_name": "Loco Lager",
+      "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+      "beer_label_hd": "",
+      "beer_abv": 0,
+      "beer_ibu": 0,
+      "beer_description": "",
+      "beer_style": "Lager - Mexican",
+      "is_in_production": 1,
+      "beer_slug": "tio-s-loco-lager",
+      "is_homebrew": 0,
+      "created_at": "Thu, 23 Feb 2023 08:59:24 +0000",
+      "rating_count": 2,
+      "rating_score": 0,
+      "stats": {
+        "total_count": 2,
+        "monthly_count": 0,
+        "total_user_count": 2,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 537374,
+        "brewery_name": "Tio's",
+        "brewery_slug": "tio-s",
+        "brewery_type": "Bar / Restaurant / Store",
+        "brewery_page_url": "/w/tio-s/537374",
+        "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-537374_9589e.jpeg",
+        "country_name": "Australia",
+        "contact": {
+          "twitter": "",
+          "facebook": "",
+          "url": "https://www.tios.com.au/"
+        },
+        "location": {
+          "brewery_city": "Surry Hills",
+          "brewery_state": "New South Wales",
+          "lat": -33.8797,
+          "lng": 151.21
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 1,
+        "items": [
+          {
+            "photo_id": 479185236,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_04_08/f84f274c18b5c1110dd2ce905164fff6_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_04_08/f84f274c18b5c1110dd2ce905164fff6_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_04_08/f84f274c18b5c1110dd2ce905164fff6_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_04_08/f84f274c18b5c1110dd2ce905164fff6_raw.jpg"
+            },
+            "created_at": "Sat, 08 Apr 2023 09:41:58 +0000",
+            "checkin_id": 1263040499,
+            "beer": {
+              "bid": 5247624,
+              "beer_name": "Loco Lager",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "tio-s-loco-lager",
+              "beer_description": "",
+              "is_in_production": 1,
+              "beer_style_id": 355,
+              "beer_style": "Lager - Mexican",
+              "rating_score": 0,
+              "rating_count": 2,
+              "count": 2,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 537374,
+              "brewery_name": "Tio's",
+              "brewery_slug": "tio-s",
+              "brewery_page_url": "/w/tio-s/537374",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-537374_9589e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": "https://www.tios.com.au/"
+              },
+              "location": {
+                "brewery_city": "Surry Hills",
+                "brewery_state": "New South Wales",
+                "lat": -33.8797,
+                "lng": 151.21
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "Skorulis",
+              "user_avatar": "https://assets.untappd.com/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 288408,
+                "venue_name": "Tio's Cervecería",
+                "venue_slug": "tio-s-cerveceria",
+                "primary_category": "Dining and Drinking",
+                "parent_category_id": "63be6904847c3692a84b9bb5",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "cocktail_bar",
+                      "category_name": "Cocktail Bar",
+                      "category_id": "4bf58dd8d48988d11e941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "taco_place",
+                      "category_name": "Taco Place",
+                      "category_id": "4bf58dd8d48988d151941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "4-14 Foster St",
+                  "venue_city": "Surry Hills",
+                  "venue_state": "NSW",
+                  "lat": -33.8796,
+                  "lng": 151.21
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.tioscerveceria.blogspot.com.au"
+                },
+                "foursquare": {
+                  "foursquare_id": "4eeb134099119cf9cdb3f085",
+                  "foursquare_url": "http://4sq.com/v0P34G"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 2,
+        "items": [
+          {
+            "checkin_id": 1290853672,
+            "created_at": "Wed, 05 Jul 2023 09:57:12 +0000",
+            "checkin_comment": "",
+            "rating_score": 3,
+            "user": {
+              "uid": 884672,
+              "user_name": "Brooner",
+              "first_name": "Brooner",
+              "last_name": "",
+              "location": "Sydney",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/ae61c5dc1efdd604be739c78661c1ddd_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5247624,
+              "beer_name": "Loco Lager",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "tio-s-loco-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Mexican",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 537374,
+              "brewery_name": "Tio's",
+              "brewery_slug": "tio-s",
+              "brewery_page_url": "/w/tio-s/537374",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-537374_9589e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": "https://www.tios.com.au/"
+              },
+              "location": {
+                "brewery_city": "Surry Hills",
+                "brewery_state": "New South Wales",
+                "lat": -33.8797,
+                "lng": 151.21
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 288408,
+              "venue_name": "Tio's Cervecería",
+              "venue_slug": "tio-s-cerveceria",
+              "primary_category_key": "Dining and Drinking",
+              "primary_category": "Dining and Drinking",
+              "parent_category_id": "63be6904847c3692a84b9bb5",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "cocktail_bar",
+                    "category_name": "Cocktail Bar",
+                    "category_id": "4bf58dd8d48988d11e941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "taco_place",
+                    "category_name": "Taco Place",
+                    "category_id": "4bf58dd8d48988d151941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "4-14 Foster St",
+                "venue_city": "Surry Hills",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8796234,
+                "lng": 151.2103577
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.tioscerveceria.blogspot.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4eeb134099119cf9cdb3f085",
+                "foursquare_url": "http://4sq.com/v0P34G"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 386688,
+                  "user_badge_id": 1114493768,
+                  "badge_name": "Pass the Guac",
+                  "badge_description": "Holy Guacamole, it sounds like you like to party at Mexican Restaurants! That’s 5 different venues with the category of Mexican Restaurant! Visit 5 more to get to Level 2!\n",
+                  "created_at": "Wed, 05 Jul 2023 09:57:13 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_pass_the_guac_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_pass_the_guac_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_pass_the_guac_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1263040499,
+            "created_at": "Sat, 08 Apr 2023 09:41:36 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.5,
+            "user": {
+              "uid": 528693,
+              "user_name": "Skorulis",
+              "first_name": "Alex",
+              "last_name": "Skorulis",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/9e84288cc8a007adfa870549fee7a479_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5247624,
+              "beer_name": "Loco Lager",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "beer_abv": 0,
+              "beer_ibu": 0,
+              "beer_slug": "tio-s-loco-lager",
+              "beer_description": "",
+              "beer_style": "Lager - Mexican",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 537374,
+              "brewery_name": "Tio's",
+              "brewery_slug": "tio-s",
+              "brewery_page_url": "/w/tio-s/537374",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-537374_9589e.jpeg",
+              "country_name": "Australia",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "url": "https://www.tios.com.au/"
+              },
+              "location": {
+                "brewery_city": "Surry Hills",
+                "brewery_state": "New South Wales",
+                "lat": -33.8797,
+                "lng": 151.21
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 288408,
+              "venue_name": "Tio's Cervecería",
+              "venue_slug": "tio-s-cerveceria",
+              "primary_category_key": "Dining and Drinking",
+              "primary_category": "Dining and Drinking",
+              "parent_category_id": "63be6904847c3692a84b9bb5",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "cocktail_bar",
+                    "category_name": "Cocktail Bar",
+                    "category_id": "4bf58dd8d48988d11e941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "taco_place",
+                    "category_name": "Taco Place",
+                    "category_id": "4bf58dd8d48988d151941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "4-14 Foster St",
+                "venue_city": "Surry Hills",
+                "venue_state": "NSW",
+                "venue_country": "Australia",
+                "lat": -33.8796234,
+                "lng": 151.2103577
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.tioscerveceria.blogspot.com.au"
+              },
+              "foursquare": {
+                "foursquare_id": "4eeb134099119cf9cdb3f085",
+                "foursquare_url": "http://4sq.com/v0P34G"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 479185236,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_04_08/f84f274c18b5c1110dd2ce905164fff6_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_04_08/f84f274c18b5c1110dd2ce905164fff6_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_04_08/f84f274c18b5c1110dd2ce905164fff6_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_04_08/f84f274c18b5c1110dd2ce905164fff6_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 12080,
+                  "user_badge_id": 1087866708,
+                  "badge_name": "Beer Foodie (Level 23)",
+                  "badge_description": "Wine isn't the only beverage worthy of pairing with a delicious meal. With so many styles widely available, there’s a perfect pint for any cuisine of your choosing. That's a beer at 115 different venues categorized as a Restaurant. Try 5 more for Level 24!",
+                  "created_at": "Sat, 08 Apr 2023 09:41:36 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BeerFoodie_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BeerFoodie_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BeerFoodie_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 243563,
+                  "user_badge_id": 1087866709,
+                  "badge_name": "Brewery Pioneer (Level 68)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 340 different breweries. Try 5 more for Level 69!",
+                  "created_at": "Sat, 08 Apr 2023 09:41:36 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "next_url": "",
+          "max_id": ""
+        }
+      },
+      "similar": {
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 4.49615,
+            "beer": {
+              "bid": 5363571,
+              "beer_name": "Coastguard Cove",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "27a-brewing-company-coastguard-cove",
+              "beer_style": "Lager - Mexican",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 152393,
+              "brewery_name": "27A Brewing Company",
+              "brewery_slug": "27a-brewing-company",
+              "brewery_page_url": "/27ABrewingCompany",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-152393_de7c3.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "27ABrewing",
+                "facebook": "https://www.facebook.com/27abrewing",
+                "instagram": "27ABrewing",
+                "url": "https://27abrewing.com/"
+              },
+              "location": {
+                "brewery_city": "Lindenhurst",
+                "brewery_state": "NY",
+                "lat": 40.6882019,
+                "lng": -73.3752975
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.4,
+            "beer": {
+              "bid": 5278241,
+              "beer_name": "Maíz Helles",
+              "beer_abv": 4.6,
+              "beer_ibu": 0,
+              "beer_slug": "zaungast-maiz-helles",
+              "beer_style": "Lager - Mexican",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5278241_10431_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 496229,
+              "brewery_name": "Zaungast",
+              "brewery_slug": "zaungast",
+              "brewery_page_url": "/Zaungast1",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-496229_4ff89.jpeg",
+              "country_name": "Austria",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/Zaungastbeer",
+                "instagram": "zaungastbeer",
+                "url": "https://zaungast.beer"
+              },
+              "location": {
+                "brewery_city": "Wien",
+                "brewery_state": "Wien",
+                "lat": 48.1935005,
+                "lng": 16.3864002
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.34907,
+            "beer": {
+              "bid": 5291869,
+              "beer_name": "Nitrox Mexican Lager",
+              "beer_abv": 4.5,
+              "beer_ibu": 30,
+              "beer_slug": "3bir-nitrox-mexican-lager",
+              "beer_style": "Lager - Mexican",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5291869_544fc_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 300988,
+              "brewery_name": "3bir",
+              "brewery_slug": "3bir",
+              "brewery_page_url": "/3bir",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-300988_40bfd.jpeg",
+              "country_name": "Serbia",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/3birns",
+                "instagram": "3bir_pivara",
+                "url": "https://3bir.rs"
+              },
+              "location": {
+                "brewery_city": "Novi Sad",
+                "brewery_state": "Vojvodina",
+                "lat": 45.2490997,
+                "lng": 19.8185997
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.34091,
+            "beer": {
+              "bid": 2579263,
+              "beer_name": "Lechuza With Lime, Cilantro & Ancho Chilis",
+              "beer_abv": 4.8,
+              "beer_ibu": 0,
+              "beer_slug": "dry-county-brewing-company-lechuza-with-lime-cilantro-and-ancho-chilis",
+              "beer_style": "Lager - Mexican",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-2579263_fb83a_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 234004,
+              "brewery_name": "Dry County Brewing Company",
+              "brewery_slug": "dry-county-brewing-company",
+              "brewery_page_url": "/DryCountyBrewingCompany",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-234004_0b09a.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "drycountybrewco",
+                "facebook": "http://www.facebook.com/drycountybrewco",
+                "instagram": "drycountybrewco",
+                "url": "http://www.drycountybrewco.com"
+              },
+              "location": {
+                "brewery_city": "Kennesaw",
+                "brewery_state": "GA",
+                "lat": 34.0215988,
+                "lng": -84.5936966
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 4.3125,
+            "beer": {
+              "bid": 5031689,
+              "beer_name": "Cervesa De Navegacion",
+              "beer_abv": 5.4,
+              "beer_ibu": 0,
+              "beer_slug": "navigation-brewing-co-cervesa-de-navegacion",
+              "beer_style": "Lager - Mexican",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 111021,
+              "brewery_name": "Navigation Brewing Co.",
+              "brewery_slug": "navigation-brewing-co",
+              "brewery_page_url": "/NavigationBrewingCompany",
+              "brewery_type": "Nano Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-111021_4123d.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "NavigationBrews",
+                "facebook": "https://www.facebook.com/NavigationBrewingCompany",
+                "instagram": "navigationbrewingco",
+                "url": "http://www.navigationbrewing.com"
+              },
+              "location": {
+                "brewery_city": "Lowell",
+                "brewery_state": "MA",
+                "lat": 42.639801,
+                "lng": -71.3191986
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.66936,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

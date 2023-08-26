@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-sailors-grave-hanabi.md
+title: Sailors grave hanabi
+category: beer
+untappd: "https://untappd.com/b/sailors-grave-brewing-hanabi/5232001"
+country: "Australia"
+brewery: "Sailors Grave Brewing"
+breweryURL: "/brewery/sailors-grave-brewing.html"
+style: "Lager - Dark"
+score: 8
+img: /img/list/sailors-grave-hanabi.jpeg
+beer-date: "2023-08-26"
+desc: "Very interesting taste. Kind of sour flavour in there and a bit fruity with a tang. I do like a unique beer"
+permalink: /beer/:title.html
+---

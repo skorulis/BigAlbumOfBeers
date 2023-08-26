@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-mountain-culture-bear-hunt.md
+title: Mountain culture bear hunt
+category: beer
+untappd: "https://untappd.com/b/mountain-culture-beer-co--bear-hunt/5425340"
+country: "Australia"
+brewery: "Mountain Culture Beer Co."
+breweryURL: "/brewery/mountain-culture-beer-co.html"
+style: "IPA - New England / Hazy"
+score: 10
+img: /img/list/mountain-culture-bear-hunt.jpeg
+beer-date: "2023-08-26"
+desc: "The hops in this go perfectly, there’s absolute no harshness. It’s just a glass of peach"
+permalink: /beer/:title.html
+---

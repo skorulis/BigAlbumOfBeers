@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.327,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 3160,
+      "brewery_name": "Red Duck",
+      "brewery_slug": "red-duck",
+      "brewery_page_url": "/RedDuck",
+      "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-3160_6a5d7.jpeg",
+      "brewery_label_hd": "",
+      "country_name": "Australia",
+      "brewery_in_production": 0,
+      "is_independent": 1,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "RedDuck",
+        "follow_status": false,
+        "follower_count": 862,
+        "uid": 337457,
+        "mute_status": "none"
+      },
+      "beer_count": 229,
+      "contact": {
+        "twitter": "redduckbeer1",
+        "facebook": "https://www.facebook.com/pages/Red-Duck-Brewery/383193608478838",
+        "instagram": "redduckbeer",
+        "url": "http://www.redduckbeer.com.au"
+      },
+      "brewery_type": "Nano Brewery",
+      "brewery_type_id": 3,
+      "location": {
+        "brewery_address": "11a Michaels Dr",
+        "brewery_city": "Ballarat",
+        "brewery_state": "Victoria",
+        "brewery_lat": -37.5683,
+        "brewery_lng": 143.809
+      },
+      "rating": {
+        "count": 22163,
+        "rating_score": 3.521
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 26994,
+        "unique_count": 6295,
+        "monthly_count": 45,
+        "weekly_count": 9,
+        "user_count": 0,
+        "age_on_service": 4654.002638888889
+      },
+      "owners": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 554426,
+              "venue_name": "Red Duck",
+              "venue_slug": "red-duck",
+              "primary_category_key": "Dining and Drinking",
+              "primary_category": "Dining and Drinking",
+              "parent_category_id": "63be6904847c3692a84b9bb5",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "11a Michaels Drive",
+                "venue_city": "Alfredton",
+                "venue_state": "VIC",
+                "venue_country": "Australia",
+                "lat": -37.5683594,
+                "lng": 143.8089294
+              },
+              "contact": {
+                "twitter": "@redduckbeer1",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5052a17829a6c2f1b043eea8",
+                "foursquare_url": "http://4sq.com/Rq6Esy"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}
