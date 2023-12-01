@@ -11,6 +11,7 @@ bundle exec ruby scripts/buildExtra.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 ruby scripts/stats.rb
 bundle exec ruby scripts/getBreweries.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 ruby scripts/breweryList.rb
+swift run --package-path ./BAOBCLI BAOBCLI pull-images
 bundle exec ruby scripts/getImages.rb
 
 ruby scripts/distributeBreweries.rb

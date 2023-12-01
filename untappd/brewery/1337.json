@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.438,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "brewery": {
+      "brewery_id": 1337,
+      "brewery_name": "Warsteiner",
+      "brewery_slug": "warsteiner",
+      "brewery_page_url": "/Warsteiner",
+      "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-1337_24802.jpeg",
+      "brewery_label_hd": "https://assets.untappd.com/site/brewery_logos_hd/brewery-1337_92288_hd.jpeg",
+      "country_name": "Germany",
+      "brewery_in_production": 0,
+      "is_independent": 0,
+      "claimed_status": {
+        "is_claimed": true,
+        "claimed_slug": "Warsteiner",
+        "follow_status": false,
+        "follower_count": 15359,
+        "uid": 802086,
+        "mute_status": "none"
+      },
+      "beer_count": 46,
+      "contact": {
+        "twitter": "warsteiner",
+        "facebook": "https://www.facebook.com/Warsteiner",
+        "instagram": "warsteiner",
+        "url": "https://www.warsteiner.de"
+      },
+      "brewery_type": "Macro Brewery",
+      "brewery_type_id": 1,
+      "location": {
+        "brewery_address": "Im Waldpark",
+        "brewery_city": "Warstein",
+        "brewery_state": "Nordrhein-Westfalen",
+        "brewery_lat": 51.4215,
+        "brewery_lng": 8.34323
+      },
+      "rating": {
+        "count": 632237,
+        "rating_score": 3.261
+      },
+      "brewery_description": "",
+      "stats": {
+        "total_count": 918824,
+        "unique_count": 463296,
+        "monthly_count": 8097,
+        "weekly_count": 1876,
+        "user_count": 0,
+        "age_on_service": 4765.527592592593
+      },
+      "owners": {
+        "count": 1,
+        "items": [
+          {
+            "brewery_id": 0,
+            "is_brewery_group": 1,
+            "brewery_name": "Warsteiner Gruppe"
+          }
+        ]
+      },
+      "media": null,
+      "checkins": null,
+      "beer_list": null,
+      "locations": {
+        "count": 1,
+        "items": [
+          {
+            "venue": {
+              "venue_id": 1180935,
+              "venue_name": "Warsteiner Brauerei",
+              "venue_slug": "warsteiner-brauerei",
+              "primary_category_key": "Dining and Drinking",
+              "primary_category": "Dining and Drinking",
+              "parent_category_id": "63be6904847c3692a84b9bb5",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "liquor_store",
+                    "category_name": "Liquor Store",
+                    "category_id": "4bf58dd8d48988d186941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Domring 4-10",
+                "venue_city": "Warstein",
+                "venue_state": "Nordrhein-Westfalen",
+                "venue_country": "Deutschland",
+                "lat": 51.4415665,
+                "lng": 8.3483305
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "4b701113f964a520b8052de3",
+                "foursquare_url": "http://4sq.com/asdUE2"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_512.png"
+              },
+              "is_verified": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}

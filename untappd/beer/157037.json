@@ -1,0 +1,3801 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.221,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 157037,
+      "beer_name": "Vesterbro Brown Ale",
+      "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+      "beer_label_hd": "https://assets.untappd.com/site/beer_logos_hd/beer-157037_8d082_hd.jpeg",
+      "beer_abv": 5,
+      "beer_ibu": 0,
+      "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+      "beer_style": "Brown Ale - American",
+      "is_in_production": 1,
+      "beer_slug": "mikkeller-vesterbro-brown-ale",
+      "is_homebrew": 0,
+      "created_at": "Mon, 09 Apr 2012 17:05:09 +0000",
+      "rating_count": 6974,
+      "rating_score": 3.49329,
+      "stats": {
+        "total_count": 7959,
+        "monthly_count": 110,
+        "total_user_count": 7501,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 2813,
+        "brewery_name": "Mikkeller",
+        "brewery_slug": "mikkeller",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/mikkellerbeer",
+        "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+        "country_name": "Denmark",
+        "contact": {
+          "twitter": "MikkellerBeer",
+          "facebook": "http://www.facebook.com/mikkeller",
+          "url": "http://www.mikkeller.com"
+        },
+        "location": {
+          "brewery_city": "Copenhagen",
+          "brewery_state": "Region Hovedstaden",
+          "lat": 55.6732,
+          "lng": 12.5588
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 509063933,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/a2230617b893f5dcbc8d12ab340432e5_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/a2230617b893f5dcbc8d12ab340432e5_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/a2230617b893f5dcbc8d12ab340432e5_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/a2230617b893f5dcbc8d12ab340432e5_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 21:55:06 +0000",
+            "checkin_id": 1320214961,
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "is_in_production": 1,
+              "beer_style_id": 116,
+              "beer_style": "Brown Ale - American",
+              "rating_score": 3.493,
+              "rating_count": 6974,
+              "count": 6974,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4711751,
+              "user_name": "RagnarVihovde",
+              "first_name": "Ragnar",
+              "last_name": "Vihovde",
+              "user_avatar": "https://assets.untappd.com/profile/9b2fb13c1b4afed0b4639f194a49129f_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 11722258,
+                "venue_name": "Barski",
+                "venue_slug": "barski",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_festival",
+                      "category_name": "Beer Festival",
+                      "category_id": "62d587aeda6648532de2b88c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Torvet 3",
+                  "venue_city": "Lillestrom",
+                  "venue_state": "Akershus",
+                  "lat": 59.9555,
+                  "lng": 11.0493
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "639afa1733066a72e03c6174",
+                  "foursquare_url": "https://4sq.com/3uRdQtp"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 509018951,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/564452b358849034615806ed5339130a_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/564452b358849034615806ed5339130a_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/564452b358849034615806ed5339130a_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/564452b358849034615806ed5339130a_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 19:35:34 +0000",
+            "checkin_id": 1320132272,
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "is_in_production": 1,
+              "beer_style_id": 116,
+              "beer_style": "Brown Ale - American",
+              "rating_score": 3.493,
+              "rating_count": 6974,
+              "count": 6974,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 4278574,
+              "user_name": "Lars1975",
+              "first_name": "Lars",
+              "last_name": "Rasmussen",
+              "user_avatar": "https://assets.untappd.com/profile/047394a1a6cd60cc5de1d79423c59ca5_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 509007621,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/5c9fd4c8e87ac651c56fef80509c7314_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/5c9fd4c8e87ac651c56fef80509c7314_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/5c9fd4c8e87ac651c56fef80509c7314_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/5c9fd4c8e87ac651c56fef80509c7314_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 19:07:01 +0000",
+            "checkin_id": 1320113163,
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "is_in_production": 1,
+              "beer_style_id": 116,
+              "beer_style": "Brown Ale - American",
+              "rating_score": 3.493,
+              "rating_count": 6974,
+              "count": 6974,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 8203299,
+              "user_name": "Kennyst",
+              "first_name": "Ole Kenny",
+              "last_name": "Stokka",
+              "user_avatar": "https://assets.untappd.com/profile/9c72e724da8c659345e28238f526b12e_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 3124,
+                "venue_name": "Mikkeller Viktoriagade",
+                "venue_slug": "mikkeller-viktoriagade",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Viktoriagade 8B-C",
+                  "venue_city": "København",
+                  "venue_state": "Region Hovedstaden",
+                  "lat": 55.6719,
+                  "lng": 12.5575
+                },
+                "contact": {
+                  "twitter": "@mikkellerbeer",
+                  "venue_url": "https://mikkeller.com/locations/mikkeller-viktoriagade"
+                },
+                "foursquare": {
+                  "foursquare_id": "4bdf0ac9be5120a162abfe70",
+                  "foursquare_url": "http://4sq.com/aJLeuS"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 508973922,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/23e8a5f200820710c3b448d9606a4c64_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/23e8a5f200820710c3b448d9606a4c64_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/23e8a5f200820710c3b448d9606a4c64_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/23e8a5f200820710c3b448d9606a4c64_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 17:32:30 +0000",
+            "checkin_id": 1320055772,
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "is_in_production": 1,
+              "beer_style_id": 116,
+              "beer_style": "Brown Ale - American",
+              "rating_score": 3.493,
+              "rating_count": 6974,
+              "count": 6974,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3362428,
+              "user_name": "2905",
+              "first_name": "Baard",
+              "last_name": "",
+              "user_avatar": "https://gravatar.com/avatar/41aa24e51a5ca497149e96325c033a6b?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              [
+
+              ]
+            ]
+          },
+          {
+            "photo_id": 508957901,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/0e9f0d222e3f514c38cb4abcf024ab16_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/0e9f0d222e3f514c38cb4abcf024ab16_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/0e9f0d222e3f514c38cb4abcf024ab16_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/0e9f0d222e3f514c38cb4abcf024ab16_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 16:38:48 +0000",
+            "checkin_id": 1320028346,
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "is_in_production": 1,
+              "beer_style_id": 116,
+              "beer_style": "Brown Ale - American",
+              "rating_score": 3.493,
+              "rating_count": 6974,
+              "count": 6974,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7493129,
+              "user_name": "Trond100",
+              "first_name": "Trond",
+              "last_name": "Sæterøy",
+              "user_avatar": "https://assets.untappd.com/profile/0cd735eb5faad2ccb1a7c64bb12259a6_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 11722258,
+                "venue_name": "Barski",
+                "venue_slug": "barski",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_festival",
+                      "category_name": "Beer Festival",
+                      "category_id": "62d587aeda6648532de2b88c",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Torvet 3",
+                  "venue_city": "Lillestrom",
+                  "venue_state": "Akershus",
+                  "lat": 59.9555,
+                  "lng": 11.0493
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "639afa1733066a72e03c6174",
+                  "foursquare_url": "https://4sq.com/3uRdQtp"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 508933016,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/a3a6ffe4d3d9f55da28bc9d5f98c977f_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/a3a6ffe4d3d9f55da28bc9d5f98c977f_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/a3a6ffe4d3d9f55da28bc9d5f98c977f_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/a3a6ffe4d3d9f55da28bc9d5f98c977f_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 14:37:31 +0000",
+            "checkin_id": 1319987765,
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "is_in_production": 1,
+              "beer_style_id": 116,
+              "beer_style": "Brown Ale - American",
+              "rating_score": 3.493,
+              "rating_count": 6974,
+              "count": 6974,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 318822,
+              "user_name": "DanielEklund",
+              "first_name": "Daniel",
+              "last_name": "Eklund",
+              "user_avatar": "https://gravatar.com/avatar/29a4ec9308acf518403e1ce84b3f90db?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 6014330,
+                "venue_name": "Mikkeller Berlin",
+                "venue_slug": "mikkeller-berlin",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "102 Torstraße",
+                  "venue_city": "Berlin",
+                  "venue_state": "Berlin",
+                  "lat": 52.5295,
+                  "lng": 13.4039
+                },
+                "contact": {
+                  "twitter": "@mikkellerbeer",
+                  "venue_url": "https://mikkeller.com/locations/mikkeller-berlin"
+                },
+                "foursquare": {
+                  "foursquare_id": "57ec9ab7498e1648f157c4ef",
+                  "foursquare_url": "http://4sq.com/2dt7G9N"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_6014330_a0a3bcd9_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_6014330_a0a3bcd9_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_6014330_a0a3bcd9_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 508916178,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/46f3f4d7918584ba5cc260892a5de919_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/46f3f4d7918584ba5cc260892a5de919_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/46f3f4d7918584ba5cc260892a5de919_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/46f3f4d7918584ba5cc260892a5de919_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 10:43:38 +0000",
+            "checkin_id": 1319959326,
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "is_in_production": 1,
+              "beer_style_id": 116,
+              "beer_style": "Brown Ale - American",
+              "rating_score": 3.493,
+              "rating_count": 6974,
+              "count": 6974,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7681031,
+              "user_name": "SexyRacoon96",
+              "first_name": "Szabó",
+              "last_name": "Róbert",
+              "user_avatar": "https://assets.untappd.com/profile/19c13c569dd2d033a529d570c5d2528e_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 14883,
+                "venue_name": "Københavns Lufthavn (CPH) (Københavns Lufthavn)",
+                "venue_slug": "koebenhavns-lufthavn-cph-koebenhavns-lufthavn",
+                "primary_category": "Travel and Transportation",
+                "parent_category_id": "4d4b7105d754a06379d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "international_airport",
+                      "category_name": "International Airport",
+                      "category_id": "63be6904847c3692a84b9c29",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Lufthavnsboulevarden 6",
+                  "venue_city": "Kastrup",
+                  "venue_state": "Region Hovedstaden",
+                  "lat": 55.6283,
+                  "lng": 12.6466
+                },
+                "contact": {
+                  "twitter": "@cphairports",
+                  "venue_url": "https://www.cph.dk"
+                },
+                "foursquare": {
+                  "foursquare_id": "4aebb774f964a5208ec421e3",
+                  "foursquare_url": "http://4sq.com/7MZEs1"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/travel/airport_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/travel/airport_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/travel/airport_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 508916087,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/3904ed5390a89d3822e1b0aac51ccc4e_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/3904ed5390a89d3822e1b0aac51ccc4e_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/3904ed5390a89d3822e1b0aac51ccc4e_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/3904ed5390a89d3822e1b0aac51ccc4e_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 10:41:17 +0000",
+            "checkin_id": 1319959159,
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "is_in_production": 1,
+              "beer_style_id": 116,
+              "beer_style": "Brown Ale - American",
+              "rating_score": 3.493,
+              "rating_count": 6974,
+              "count": 6974,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5376062,
+              "user_name": "kittyket",
+              "first_name": "Yuliia",
+              "last_name": "Basysta",
+              "user_avatar": "https://assets.untappd.com/profile/a2589bfc06e3e64f386e6afff9a85491_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 7795784,
+                "venue_name": "Mikkeller CPH Airport",
+                "venue_slug": "mikkeller-cph-airport",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_store",
+                      "category_name": "Beer Store",
+                      "category_id": "5370f356bcbc57f1066c94c2",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Terminalgade, Terminal 2",
+                  "venue_city": "Kastrup",
+                  "venue_state": "Region Hovedstaden",
+                  "lat": 55.629,
+                  "lng": 12.6447
+                },
+                "contact": {
+                  "twitter": "@mikkellerbeer",
+                  "venue_url": "https://mikkeller.com/locations/mikkeller-copenhagen-airport"
+                },
+                "foursquare": {
+                  "foursquare_id": "5af9cb238c35dc0039faba7e",
+                  "foursquare_url": "https://4sq.com/2KP9IkL"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 508792444,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_05/3bd625bc19ad9b07a43c3df0b8058c22_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_05/3bd625bc19ad9b07a43c3df0b8058c22_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_05/3bd625bc19ad9b07a43c3df0b8058c22_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_05/3bd625bc19ad9b07a43c3df0b8058c22_raw.jpg"
+            },
+            "created_at": "Thu, 05 Oct 2023 09:42:12 +0000",
+            "checkin_id": 1319723671,
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "is_in_production": 1,
+              "beer_style_id": 116,
+              "beer_style": "Brown Ale - American",
+              "rating_score": 3.493,
+              "rating_count": 6974,
+              "count": 6974,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 610356,
+              "user_name": "aberkman2",
+              "first_name": "Andrew",
+              "last_name": "Berkman",
+              "user_avatar": "https://gravatar.com/avatar/42879c6824aa4a2430f8465caddab71e?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8845346,
+                "venue_name": "Beat Cafe Kbh",
+                "venue_slug": "beat-cafe-kbh",
+                "primary_category": "Dining and Drinking",
+                "parent_category_id": "63be6904847c3692a84b9bb5",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "bar",
+                      "category_name": "Bar",
+                      "category_id": "4bf58dd8d48988d116941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "cafe",
+                      "category_name": "Café",
+                      "category_id": "4bf58dd8d48988d16d941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "13 Enghave Plads",
+                  "venue_city": "København",
+                  "venue_state": "Region Hovedstaden",
+                  "lat": 55.6668,
+                  "lng": 12.5458
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.beatcafe.dk"
+                },
+                "foursquare": {
+                  "foursquare_id": "5cab3d953c858d0039a2d605",
+                  "foursquare_url": "https://4sq.com/2YWKtEX"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 508727173,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_04/46708ecf6996bf7393faf60cff9b6475_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_04/46708ecf6996bf7393faf60cff9b6475_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_04/46708ecf6996bf7393faf60cff9b6475_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_04/46708ecf6996bf7393faf60cff9b6475_raw.jpg"
+            },
+            "created_at": "Wed, 04 Oct 2023 18:02:06 +0000",
+            "checkin_id": 1319592299,
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "is_in_production": 1,
+              "beer_style_id": 116,
+              "beer_style": "Brown Ale - American",
+              "rating_score": 3.493,
+              "rating_count": 6974,
+              "count": 6974,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 10469839,
+              "user_name": "ervytis",
+              "first_name": "Ervinas",
+              "last_name": "",
+              "user_avatar": "https://assets.untappd.com/profile/3efc3b683e69869c0d9cce69b3b168ae_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 6014330,
+                "venue_name": "Mikkeller Berlin",
+                "venue_slug": "mikkeller-berlin",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "102 Torstraße",
+                  "venue_city": "Berlin",
+                  "venue_state": "Berlin",
+                  "lat": 52.5295,
+                  "lng": 13.4039
+                },
+                "contact": {
+                  "twitter": "@mikkellerbeer",
+                  "venue_url": "https://mikkeller.com/locations/mikkeller-berlin"
+                },
+                "foursquare": {
+                  "foursquare_id": "57ec9ab7498e1648f157c4ef",
+                  "foursquare_url": "http://4sq.com/2dt7G9N"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_6014330_a0a3bcd9_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_6014330_a0a3bcd9_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_6014330_a0a3bcd9_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 1320214961,
+            "created_at": "Fri, 06 Oct 2023 21:54:38 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 4711751,
+              "user_name": "RagnarVihovde",
+              "first_name": "Ragnar",
+              "last_name": "Vihovde",
+              "location": "Gjerdrum",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/9b2fb13c1b4afed0b4639f194a49129f_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11722258,
+              "venue_name": "Barski",
+              "venue_slug": "barski",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_festival",
+                    "category_name": "Beer Festival",
+                    "category_id": "62d587aeda6648532de2b88c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Torvet 3",
+                "venue_city": "Lillestrom",
+                "venue_state": "Akershus",
+                "venue_country": "Norge",
+                "lat": 59.9555206,
+                "lng": 11.049283
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "639afa1733066a72e03c6174",
+                "foursquare_url": "https://4sq.com/3uRdQtp"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 10180926,
+                  "user": {
+                    "uid": 10180926,
+                    "user_name": "beerbabesteph",
+                    "first_name": "Stephanie",
+                    "last_name": "",
+                    "bio": "I ♥️ Craft BEER • Hazier the Better • Beer Snob\nInstagram: @beerlovinbabe",
+                    "location": "Calgary, Alberta, Canada ",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/4f5a52f2870ff531d253a044f3e8f52b_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414301247,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 22:04:19 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 509063933,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/a2230617b893f5dcbc8d12ab340432e5_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/a2230617b893f5dcbc8d12ab340432e5_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/a2230617b893f5dcbc8d12ab340432e5_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/a2230617b893f5dcbc8d12ab340432e5_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133278,
+                  "user_badge_id": 1143289678,
+                  "badge_name": "Draft City (Level 25)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 125 checkins with the serving style of Draft. Try 5 more for Level 26!",
+                  "created_at": "Fri, 06 Oct 2023 21:54:39 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_DraftCity_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320192098,
+            "created_at": "Fri, 06 Oct 2023 21:12:46 +0000",
+            "checkin_comment": "",
+            "rating_score": 2.25,
+            "user": {
+              "uid": 4862679,
+              "user_name": "cjoj",
+              "first_name": "Christian",
+              "last_name": "Johansson",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/5cacbe8fbe8665ca9ebf47f8400e63af?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3124,
+              "venue_name": "Mikkeller Viktoriagade",
+              "venue_slug": "mikkeller-viktoriagade",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Viktoriagade 8B-C",
+                "venue_city": "København",
+                "venue_state": "Region Hovedstaden",
+                "venue_country": "Danmark",
+                "lat": 55.6719398,
+                "lng": 12.5575066
+              },
+              "contact": {
+                "twitter": "@mikkellerbeer",
+                "venue_url": "https://mikkeller.com/locations/mikkeller-viktoriagade"
+              },
+              "foursquare": {
+                "foursquare_id": "4bdf0ac9be5120a162abfe70",
+                "foursquare_url": "http://4sq.com/aJLeuS"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3960,
+                  "user_badge_id": 1143268982,
+                  "badge_name": "Danish Delight (Level 8)",
+                  "badge_description": "Denmark isn’t just the home of plastic building bricks, it’s also home to nearly 200 different breweries! Try 5 more for Level 9!",
+                  "created_at": "Fri, 06 Oct 2023 21:12:47 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_DanishDelight_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_DanishDelight_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_DanishDelight_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320182684,
+            "created_at": "Fri, 06 Oct 2023 20:56:05 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 5129968,
+              "user_name": "spunkyk014",
+              "first_name": "Kristyn",
+              "last_name": "Galane",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/b6b306204c88317545ce735bac468fb4?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3124,
+              "venue_name": "Mikkeller Viktoriagade",
+              "venue_slug": "mikkeller-viktoriagade",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Viktoriagade 8B-C",
+                "venue_city": "København",
+                "venue_state": "Region Hovedstaden",
+                "venue_country": "Danmark",
+                "lat": 55.6719398,
+                "lng": 12.5575066
+              },
+              "contact": {
+                "twitter": "@mikkellerbeer",
+                "venue_url": "https://mikkeller.com/locations/mikkeller-viktoriagade"
+              },
+              "foursquare": {
+                "foursquare_id": "4bdf0ac9be5120a162abfe70",
+                "foursquare_url": "http://4sq.com/aJLeuS"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 751,
+                  "user_badge_id": 1143260226,
+                  "badge_name": "Bravo for Brown",
+                  "badge_description": "Dating back to the 17th century, Brown Ales come in a number of varieties. With malty, nutty characteristics and a smooth finish, it's sure to cure your cravings. That's 5 different Brown Ales. Try 5 more for 2.\n",
+                  "created_at": "Fri, 06 Oct 2023 20:56:06 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BravoForBrown_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BravoForBrown_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BravoForBrown_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320132272,
+            "created_at": "Fri, 06 Oct 2023 19:34:26 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 4278574,
+              "user_name": "Lars1975",
+              "first_name": "Lars",
+              "last_name": "Rasmussen",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Just as nerdy about my beer as my records, guitars and midcentury furniture.",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/047394a1a6cd60cc5de1d79423c59ca5_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 3,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4171818,
+                  "user": {
+                    "uid": 4171818,
+                    "user_name": "LAudunB",
+                    "first_name": "Lars Audun",
+                    "last_name": "Bråten",
+                    "bio": "",
+                    "location": "Rælingen, Norway",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/cb1272c2f610dc673dd09fe4e38fcde8_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414316543,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 22:31:31 +0000"
+                },
+                {
+                  "uid": 310487,
+                  "user": {
+                    "uid": 310487,
+                    "user_name": "blausen",
+                    "first_name": "Anders",
+                    "last_name": "Aandahl",
+                    "bio": "Øl",
+                    "location": "Trondheim",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/b723d2328c16c5c7d0055310aeff7af8_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414296738,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 21:57:09 +0000"
+                },
+                {
+                  "uid": 378701,
+                  "user": {
+                    "uid": 378701,
+                    "user_name": "MaDz78",
+                    "first_name": "Mads",
+                    "last_name": "W",
+                    "bio": "",
+                    "location": "Drammen",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/f9bdc90c24b6d6741a84b2e81d863f14_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414212724,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 20:02:45 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 509018951,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/564452b358849034615806ed5339130a_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/564452b358849034615806ed5339130a_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/564452b358849034615806ed5339130a_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/564452b358849034615806ed5339130a_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V4)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 4,
+              "items": [
+                {
+                  "badge_id": 417590,
+                  "user_badge_id": 1143211631,
+                  "badge_name": "To Go Please (Level 6)",
+                  "badge_description": "It's time to give bottle shops some love by adding them as your purchased location. That's 30 check-ins with a purchased location! Tag 5 more to get to Level 7. Want to learn more about this badge? Check out our <a rel=\"link-out\" href=\"https://www.youtube.com/watch?v=a3Ra0zZ_FP8&t=1s\">podcast</a>",
+                  "created_at": "Fri, 06 Oct 2023 19:34:27 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_ToGoPlease_2020_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_ToGoPlease_2020_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_ToGoPlease_2020_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 133316,
+                  "user_badge_id": 1143211632,
+                  "badge_name": "Draft City (Level 63)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 315 checkins with the serving style of Draft. Try 5 more for Level 64!",
+                  "created_at": "Fri, 06 Oct 2023 19:34:27 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_DraftCity_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 751,
+                  "user_badge_id": 1143211633,
+                  "badge_name": "Bravo for Brown",
+                  "badge_description": "Dating back to the 17th century, Brown Ales come in a number of varieties. With malty, nutty characteristics and a smooth finish, it's sure to cure your cravings. That's 5 different Brown Ales. Try 5 more for 2.\n",
+                  "created_at": "Fri, 06 Oct 2023 19:34:27 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BravoForBrown_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BravoForBrown_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BravoForBrown_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3971,
+                  "user_badge_id": 1143211634,
+                  "badge_name": "Danish Delight (Level 19)",
+                  "badge_description": "Denmark isn’t just the home of plastic building bricks, it’s also home to nearly 200 different breweries! Try 5 more for Level 20!",
+                  "created_at": "Fri, 06 Oct 2023 19:34:27 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_DanishDelight_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_DanishDelight_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_DanishDelight_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320113163,
+            "created_at": "Fri, 06 Oct 2023 19:05:51 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 8203299,
+              "user_name": "Kennyst",
+              "first_name": "Ole Kenny",
+              "last_name": "Stokka",
+              "location": "Kor’enn tappen e",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "Certified Beer Lover",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/9c72e724da8c659345e28238f526b12e_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3124,
+              "venue_name": "Mikkeller Viktoriagade",
+              "venue_slug": "mikkeller-viktoriagade",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Viktoriagade 8B-C",
+                "venue_city": "København",
+                "venue_state": "Region Hovedstaden",
+                "venue_country": "Danmark",
+                "lat": 55.6719398,
+                "lng": 12.5575066
+              },
+              "contact": {
+                "twitter": "@mikkellerbeer",
+                "venue_url": "https://mikkeller.com/locations/mikkeller-viktoriagade"
+              },
+              "foursquare": {
+                "foursquare_id": "4bdf0ac9be5120a162abfe70",
+                "foursquare_url": "http://4sq.com/aJLeuS"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 3,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6285506,
+                  "user": {
+                    "uid": 6285506,
+                    "user_name": "sebastianlolv",
+                    "first_name": "Sebastian",
+                    "last_name": "Hana",
+                    "bio": "beer and footy",
+                    "location": "Stavanger",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/666d074a3222e00478417898706317b0_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414265379,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 21:11:39 +0000"
+                },
+                {
+                  "uid": 10560127,
+                  "user": {
+                    "uid": 10560127,
+                    "user_name": "rebeccasoren",
+                    "first_name": "Rebecca",
+                    "last_name": "Sørensen",
+                    "bio": "I like beer yes",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/39d110721236d618b9e48c3574f8cf54_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414191728,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 19:38:30 +0000"
+                },
+                {
+                  "uid": 8935915,
+                  "user": {
+                    "uid": 8935915,
+                    "user_name": "SanderSteen",
+                    "first_name": "Sander Steen",
+                    "last_name": "Jensen",
+                    "bio": "25% Human, 75% IPA",
+                    "location": "Vejle",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/1098bb68b30b3814e55cfa3cdd65f0aa_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414165312,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 19:07:34 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 509007621,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/5c9fd4c8e87ac651c56fef80509c7314_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/5c9fd4c8e87ac651c56fef80509c7314_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/5c9fd4c8e87ac651c56fef80509c7314_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/5c9fd4c8e87ac651c56fef80509c7314_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V4)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3958,
+                  "user_badge_id": 1143192663,
+                  "badge_name": "Danish Delight (Level 6)",
+                  "badge_description": "Denmark isn’t just the home of plastic building bricks, it’s also home to nearly 200 different breweries! Try 5 more for Level 7!",
+                  "created_at": "Fri, 06 Oct 2023 19:05:51 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_DanishDelight_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_DanishDelight_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_DanishDelight_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320055772,
+            "created_at": "Fri, 06 Oct 2023 17:32:22 +0000",
+            "checkin_comment": "",
+            "rating_score": 0,
+            "user": {
+              "uid": 3362428,
+              "user_name": "2905",
+              "first_name": "Baard",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/41aa24e51a5ca497149e96325c033a6b?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 508973922,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/23e8a5f200820710c3b448d9606a4c64_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/23e8a5f200820710c3b448d9606a4c64_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/23e8a5f200820710c3b448d9606a4c64_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/23e8a5f200820710c3b448d9606a4c64_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 243527,
+                  "user_badge_id": 1143135405,
+                  "badge_name": "Brewery Pioneer (Level 32)",
+                  "badge_description": "There's beer in them thar hills! You're setting off on your journey through the world of beer, but be sure to take a little time to get to know each brewery as you go. That's a beer from 160 different breweries. Try 5 more for Level 33!",
+                  "created_at": "Fri, 06 Oct 2023 17:32:23 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_brewery_prioneer_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_brewery_prioneer_sm.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_brewery_prioneer_sm.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320028346,
+            "created_at": "Fri, 06 Oct 2023 16:37:51 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.4,
+            "user": {
+              "uid": 7493129,
+              "user_name": "Trond100",
+              "first_name": "Trond",
+              "last_name": "Sæterøy",
+              "location": "Sarpsborg",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/0cd735eb5faad2ccb1a7c64bb12259a6_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11722258,
+              "venue_name": "Barski",
+              "venue_slug": "barski",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_festival",
+                    "category_name": "Beer Festival",
+                    "category_id": "62d587aeda6648532de2b88c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Torvet 3",
+                "venue_city": "Lillestrom",
+                "venue_state": "Akershus",
+                "venue_country": "Norge",
+                "lat": 59.9555206,
+                "lng": 11.049283
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "639afa1733066a72e03c6174",
+                "foursquare_url": "https://4sq.com/3uRdQtp"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_11722258_853a9c82_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 6,
+              "count": 5,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 5592623,
+                  "user": {
+                    "uid": 5592623,
+                    "user_name": "Arve1971",
+                    "first_name": "Arve",
+                    "last_name": "Borge-Olsen",
+                    "bio": "",
+                    "location": "Molde, Norway",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/ac2eb20d9f00995bf55f53a61c96a453_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414161101,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 19:02:04 +0000"
+                },
+                {
+                  "uid": 5036478,
+                  "user": {
+                    "uid": 5036478,
+                    "user_name": "Nexof",
+                    "first_name": "Freddy Foxen",
+                    "last_name": "Nilsen",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/d44ca6d34a922eed8359a1a655804894_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414157281,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 18:57:18 +0000"
+                },
+                {
+                  "uid": 6778334,
+                  "user": {
+                    "uid": 6778334,
+                    "user_name": "oivlov",
+                    "first_name": "Øivind",
+                    "last_name": "Løvereide",
+                    "bio": "",
+                    "location": "Oslo",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/969225ef6bc6f2d59ec9b9291d29ba7b_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414086904,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 17:25:41 +0000"
+                },
+                {
+                  "uid": 7037733,
+                  "user": {
+                    "uid": 7037733,
+                    "user_name": "andre_wauthier_7867",
+                    "first_name": "André",
+                    "last_name": "Wauthier",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/c10d3dd4c1d5ab3be72eb1f2097f58c8-fb_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414077234,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 17:09:32 +0000"
+                },
+                {
+                  "uid": 3841861,
+                  "user": {
+                    "uid": 3841861,
+                    "user_name": "ronnynesmark",
+                    "first_name": "Ronny",
+                    "last_name": "Nesmark",
+                    "bio": "",
+                    "location": "Porsgrunn",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/4051f9ea1e64bb6a37d115d7e32dc365_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414059965,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 16:38:27 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 508957901,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/0e9f0d222e3f514c38cb4abcf024ab16_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/0e9f0d222e3f514c38cb4abcf024ab16_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/0e9f0d222e3f514c38cb4abcf024ab16_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/0e9f0d222e3f514c38cb4abcf024ab16_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 3999,
+                  "user_badge_id": 1143108300,
+                  "badge_name": "Danish Delight (Level 47)",
+                  "badge_description": "Denmark isn’t just the home of plastic building bricks, it’s also home to nearly 200 different breweries! Try 5 more for Level 48!",
+                  "created_at": "Fri, 06 Oct 2023 16:37:51 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_DanishDelight_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_DanishDelight_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_DanishDelight_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320003477,
+            "created_at": "Fri, 06 Oct 2023 15:34:28 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.25,
+            "user": {
+              "uid": 6859376,
+              "user_name": "Lars3883",
+              "first_name": "Lars",
+              "last_name": "Brenden",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/45b2bc0c4b5757285c7e7bbd4346ec56?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 7795784,
+              "venue_name": "Mikkeller CPH Airport",
+              "venue_slug": "mikkeller-cph-airport",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_store",
+                    "category_name": "Beer Store",
+                    "category_id": "5370f356bcbc57f1066c94c2",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Terminalgade, Terminal 2",
+                "venue_city": "Kastrup",
+                "venue_state": "Region Hovedstaden",
+                "venue_country": "Danmark",
+                "lat": 55.6290283,
+                "lng": 12.6446714
+              },
+              "contact": {
+                "twitter": "@mikkellerbeer",
+                "venue_url": "https://mikkeller.com/locations/mikkeller-copenhagen-airport"
+              },
+              "foursquare": {
+                "foursquare_id": "5af9cb238c35dc0039faba7e",
+                "foursquare_url": "https://4sq.com/2KP9IkL"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6902693,
+                  "user": {
+                    "uid": 6902693,
+                    "user_name": "Tristessor",
+                    "first_name": "Jon",
+                    "last_name": "Magnæs",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/579e4de36f130d2d93abf6a1d27184f3-fb_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414149359,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 18:47:23 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319987765,
+            "created_at": "Fri, 06 Oct 2023 14:36:44 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 318822,
+              "user_name": "DanielEklund",
+              "first_name": "Daniel",
+              "last_name": "Eklund",
+              "location": "",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/29a4ec9308acf518403e1ce84b3f90db?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 6014330,
+              "venue_name": "Mikkeller Berlin",
+              "venue_slug": "mikkeller-berlin",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "102 Torstraße",
+                "venue_city": "Berlin",
+                "venue_state": "Berlin",
+                "venue_country": "Deutschland",
+                "lat": 52.5295143,
+                "lng": 13.4038982
+              },
+              "contact": {
+                "twitter": "@mikkellerbeer",
+                "venue_url": "https://mikkeller.com/locations/mikkeller-berlin"
+              },
+              "foursquare": {
+                "foursquare_id": "57ec9ab7498e1648f157c4ef",
+                "foursquare_url": "http://4sq.com/2dt7G9N"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_6014330_a0a3bcd9_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_6014330_a0a3bcd9_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_6014330_a0a3bcd9_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3282687,
+                  "user": {
+                    "uid": 3282687,
+                    "user_name": "ErikTollen",
+                    "first_name": "Erik",
+                    "last_name": "Tollén",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/beecc79f456cf4339b50ed8c1e008311?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414031779,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 15:40:06 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 508933016,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/a3a6ffe4d3d9f55da28bc9d5f98c977f_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/a3a6ffe4d3d9f55da28bc9d5f98c977f_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/a3a6ffe4d3d9f55da28bc9d5f98c977f_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/a3a6ffe4d3d9f55da28bc9d5f98c977f_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V4)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319959326,
+            "created_at": "Fri, 06 Oct 2023 10:43:00 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 7681031,
+              "user_name": "SexyRacoon96",
+              "first_name": "Szabó",
+              "last_name": "Róbert",
+              "location": "Budapest",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Szekszi mosómedve",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/19c13c569dd2d033a529d570c5d2528e_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 14883,
+              "venue_name": "Københavns Lufthavn (CPH) (Københavns Lufthavn)",
+              "venue_slug": "koebenhavns-lufthavn-cph-koebenhavns-lufthavn",
+              "primary_category_key": "Travel and Transportation",
+              "primary_category": "Travel and Transportation",
+              "parent_category_id": "4d4b7105d754a06379d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "international_airport",
+                    "category_name": "International Airport",
+                    "category_id": "63be6904847c3692a84b9c29",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Lufthavnsboulevarden 6",
+                "venue_city": "Kastrup",
+                "venue_state": "Region Hovedstaden",
+                "venue_country": "Danmark",
+                "lat": 55.6283455,
+                "lng": 12.646637
+              },
+              "contact": {
+                "twitter": "@cphairports",
+                "venue_url": "https://www.cph.dk"
+              },
+              "foursquare": {
+                "foursquare_id": "4aebb774f964a5208ec421e3",
+                "foursquare_url": "http://4sq.com/7MZEs1"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/travel/airport_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/travel/airport_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/travel/airport_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 5940588,
+                  "user": {
+                    "uid": 5940588,
+                    "user_name": "Somakoma",
+                    "first_name": "Soma",
+                    "last_name": "Tölgyesi",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/3ea917c212a525ff91fea1afef0d926f_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1413998642,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 13:59:13 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 508916178,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/46f3f4d7918584ba5cc260892a5de919_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/46f3f4d7918584ba5cc260892a5de919_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/46f3f4d7918584ba5cc260892a5de919_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/46f3f4d7918584ba5cc260892a5de919_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V4)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 751,
+                  "user_badge_id": 1143040668,
+                  "badge_name": "Bravo for Brown",
+                  "badge_description": "Dating back to the 17th century, Brown Ales come in a number of varieties. With malty, nutty characteristics and a smooth finish, it's sure to cure your cravings. That's 5 different Brown Ales. Try 5 more for 2.\n",
+                  "created_at": "Fri, 06 Oct 2023 10:43:00 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BravoForBrown_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BravoForBrown_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BravoForBrown_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 3971,
+                  "user_badge_id": 1143040669,
+                  "badge_name": "Danish Delight (Level 19)",
+                  "badge_description": "Denmark isn’t just the home of plastic building bricks, it’s also home to nearly 200 different breweries! Try 5 more for Level 20!",
+                  "created_at": "Fri, 06 Oct 2023 10:43:00 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_DanishDelight_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_DanishDelight_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_DanishDelight_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319959159,
+            "created_at": "Fri, 06 Oct 2023 10:40:23 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 5376062,
+              "user_name": "kittyket",
+              "first_name": "Yuliia",
+              "last_name": "Basysta",
+              "location": "Budapest, Hungary",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/a2589bfc06e3e64f386e6afff9a85491_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 7795784,
+              "venue_name": "Mikkeller CPH Airport",
+              "venue_slug": "mikkeller-cph-airport",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_store",
+                    "category_name": "Beer Store",
+                    "category_id": "5370f356bcbc57f1066c94c2",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Terminalgade, Terminal 2",
+                "venue_city": "Kastrup",
+                "venue_state": "Region Hovedstaden",
+                "venue_country": "Danmark",
+                "lat": 55.6290283,
+                "lng": 12.6446714
+              },
+              "contact": {
+                "twitter": "@mikkellerbeer",
+                "venue_url": "https://mikkeller.com/locations/mikkeller-copenhagen-airport"
+              },
+              "foursquare": {
+                "foursquare_id": "5af9cb238c35dc0039faba7e",
+                "foursquare_url": "https://4sq.com/2KP9IkL"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 959107,
+                  "user": {
+                    "uid": 959107,
+                    "user_name": "akbarpunk",
+                    "first_name": "Drinking for Ukraine",
+                    "last_name": "Ryan Akbar",
+                    "bio": "Donated $3k to Ukraine so far\nTrying to visit all Oregon breweries in 1 year to raise money and awareness\nLet me know if",
+                    "location": "Mill City, Oregon",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/935d104132912d5ba85a5aa8e7a36561_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414139683,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 18:35:43 +0000"
+                },
+                {
+                  "uid": 510557,
+                  "user": {
+                    "uid": 510557,
+                    "user_name": "NorfolkLviv",
+                    "first_name": "Andriy",
+                    "last_name": "M.",
+                    "bio": "So many beers, so little time",
+                    "location": "Lviv",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/4807035f5fad5c2a845d212e7559a4a4_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414133028,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 18:28:12 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 508916087,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/3904ed5390a89d3822e1b0aac51ccc4e_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/3904ed5390a89d3822e1b0aac51ccc4e_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/3904ed5390a89d3822e1b0aac51ccc4e_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/3904ed5390a89d3822e1b0aac51ccc4e_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V4)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319950483,
+            "created_at": "Fri, 06 Oct 2023 07:07:16 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 8503874,
+              "user_name": "octav_caldararu_6953",
+              "first_name": "Octav",
+              "last_name": "Caldararu",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/6fc7d28bd68ef6747ecd2959fe4a997b-fb_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 7795784,
+              "venue_name": "Mikkeller CPH Airport",
+              "venue_slug": "mikkeller-cph-airport",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_store",
+                    "category_name": "Beer Store",
+                    "category_id": "5370f356bcbc57f1066c94c2",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Terminalgade, Terminal 2",
+                "venue_city": "Kastrup",
+                "venue_state": "Region Hovedstaden",
+                "venue_country": "Danmark",
+                "lat": 55.6290283,
+                "lng": 12.6446714
+              },
+              "contact": {
+                "twitter": "@mikkellerbeer",
+                "venue_url": "https://mikkeller.com/locations/mikkeller-copenhagen-airport"
+              },
+              "foursquare": {
+                "foursquare_id": "5af9cb238c35dc0039faba7e",
+                "foursquare_url": "https://4sq.com/2KP9IkL"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_7795784_33619410_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 90397,
+                  "user_badge_id": 1143032245,
+                  "badge_name": "Riding Steady (Level 62)",
+                  "badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 310 different beers with an ABV of 5% and lower. ",
+                  "created_at": "Fri, 06 Oct 2023 07:07:17 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_RidingSteady_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_RidingSteady_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_RidingSteady_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319778641,
+            "created_at": "Thu, 05 Oct 2023 17:35:40 +0000",
+            "checkin_comment": "",
+            "rating_score": 0.75,
+            "user": {
+              "uid": 3333960,
+              "user_name": "ynaisse",
+              "first_name": "Ynaisse",
+              "last_name": "",
+              "location": "Canada",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/15cd59f70b27fadac019dac4b0d51d1b_100x100.jpeg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 3124,
+              "venue_name": "Mikkeller Viktoriagade",
+              "venue_slug": "mikkeller-viktoriagade",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "bar",
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Viktoriagade 8B-C",
+                "venue_city": "København",
+                "venue_state": "Region Hovedstaden",
+                "venue_country": "Danmark",
+                "lat": 55.6719398,
+                "lng": 12.5575066
+              },
+              "contact": {
+                "twitter": "@mikkellerbeer",
+                "venue_url": "https://mikkeller.com/locations/mikkeller-viktoriagade"
+              },
+              "foursquare": {
+                "foursquare_id": "4bdf0ac9be5120a162abfe70",
+                "foursquare_url": "http://4sq.com/aJLeuS"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_3124_9d6f6940_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319776121,
+            "created_at": "Thu, 05 Oct 2023 17:27:05 +0000",
+            "checkin_comment": "I'm always down for a hoppy brown ale, even though it's not really be that popular as a style. Dry with notes of bread crust and toasted hazelnuts - surprisingly bitter with little actual hop character though.",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 1461975,
+              "user_name": "Vahtra",
+              "first_name": "Vahtra",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "Brewing trouble",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/70029a65f7b7e238c609a3bcafbe6460_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": [
+
+            ],
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 3,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 925171,
+                  "user": {
+                    "uid": 925171,
+                    "user_name": "KarlHal",
+                    "first_name": "Karl",
+                    "last_name": "Hallik",
+                    "bio": "Õllesõber ja muidu huviline\nhttp://ollekorvale.blogspot.com",
+                    "location": "Tallinn",
+                    "relationship": "none",
+                    "user_avatar": "https://gravatar.com/avatar/4f04fac3a04f4fe1c67b83df94596d68?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1413751467,
+                  "like_owner": false,
+                  "created_at": "Thu, 05 Oct 2023 19:30:47 +0000"
+                },
+                {
+                  "uid": 3821614,
+                  "user": {
+                    "uid": 3821614,
+                    "user_name": "Hopamon",
+                    "first_name": "Urmas",
+                    "last_name": "Neeme",
+                    "bio": "",
+                    "location": "Tallinn",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/1a76adb5323811e6ec6a0231c6b35453_100x100.jpeg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1413714659,
+                  "like_owner": false,
+                  "created_at": "Thu, 05 Oct 2023 18:10:42 +0000"
+                },
+                {
+                  "uid": 6661931,
+                  "user": {
+                    "uid": 6661931,
+                    "user_name": "RenekS",
+                    "first_name": "Uuno",
+                    "last_name": "Nisu",
+                    "bio": "Drinking beer since prehistoric era",
+                    "location": "Tallinn",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/ac684c3b543c0c1b3aed9d13252c1f5c_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1413711284,
+                  "like_owner": false,
+                  "created_at": "Thu, 05 Oct 2023 18:01:55 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 759,
+                  "user_badge_id": 1142868551,
+                  "badge_name": "Bravo for Brown (Level 9)",
+                  "badge_description": "Dating back to the 17th century, Brown Ales come in a number of varieties. With malty, nutty characteristics and a smooth finish, it's sure to cure your cravings. That's 45 different Brown Ales. Try 5 more for 10.",
+                  "created_at": "Thu, 05 Oct 2023 17:27:06 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BravoForBrown_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BravoForBrown_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BravoForBrown_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319774985,
+            "created_at": "Thu, 05 Oct 2023 17:23:07 +0000",
+            "checkin_comment": "Alors on est un peu hors sujet mais c'est bon. Grosse dominante houblons au nez avec du zeste d'agrume et des notes résineuses pour finir avec de petites botes malté, léger caramel. En bouche ça reste sec pour une brown ale avec une amertume marqué.",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 8099149,
+              "user_name": "ju-delapraliniere",
+              "first_name": "Ju",
+              "last_name": "DelaPralinière",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/dc9dc419d1fbb37af714d8036a1f4c22_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 157037,
+              "beer_name": "Vesterbro Brown Ale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-157037_3044a_sm.jpeg",
+              "beer_abv": 5,
+              "beer_ibu": 0,
+              "beer_slug": "mikkeller-vesterbro-brown-ale",
+              "beer_description": "On the aroma are notes of bread, fruit and hops. The body is finely balanced between sweet and bitter. On the palate there is malted sweetness, nuts, caramel, roasted notes with nice citric hops.\r\nHops used Chinook and Amarillo as well as Pale and Cara Crystal Malt.  Flaked oats and roasted barley are used (allergens).  \r\n",
+              "beer_style": "Brown Ale - American",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 2813,
+              "brewery_name": "Mikkeller",
+              "brewery_slug": "mikkeller",
+              "brewery_page_url": "/mikkellerbeer",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-2813_025be.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "MikkellerBeer",
+                "facebook": "http://www.facebook.com/mikkeller",
+                "url": "http://www.mikkeller.com"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6732,
+                "lng": 12.5588
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8349816,
+              "venue_name": "Põhjala Brewery & Tap Room",
+              "venue_slug": "pohjala-brewery-and-tap-room",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "5 Peetri",
+                "venue_city": "Põhja-Tallinna",
+                "venue_state": "Harju maakond",
+                "venue_country": "Eesti",
+                "lat": 59.4504013,
+                "lng": 24.7266674
+              },
+              "contact": {
+                "twitter": "@pohjalabeer",
+                "venue_url": "https://www.facebook.com/pohjalataproom/"
+              },
+              "foursquare": {
+                "foursquare_id": "5be3e825a35dce002ca2c03c",
+                "foursquare_url": "https://4sq.com/2zze9fr"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_8349816_87d4e799_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_8349816_87d4e799_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_8349816_87d4e799_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 103676,
+                  "user": {
+                    "uid": 103676,
+                    "user_name": "SteveOfNYC",
+                    "first_name": "Steve",
+                    "last_name": "",
+                    "bio": "Co-owner Brewklyn Craft Beer Cafe, Tallinn.  Sour & stout lover. Got married & had a beer from every state at GABF '17",
+                    "location": "Tallinn, Estonia",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/b10400c0d910265083644e9dc4a6e696_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1413702110,
+                  "like_owner": false,
+                  "created_at": "Thu, 05 Oct 2023 17:36:14 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/157037?max_id=1319774985",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/157037?max_id=1319774985",
+          "max_id": 1319774985
+        }
+      },
+      "similar": {
+        "method": "es",
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 2.98235,
+            "beer": {
+              "bid": 5291720,
+              "beer_name": "Hazy Saturday",
+              "beer_abv": 5.5,
+              "beer_ibu": 20,
+              "beer_slug": "bryggeriet-apollo-hazy-saturday",
+              "beer_style": "Pale Ale - New England / Hazy",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 17502,
+              "brewery_name": "Bryggeriet Apollo",
+              "brewery_slug": "bryggeriet-apollo",
+              "brewery_page_url": "/BryggerietApollo",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-17502_f683d.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "instagram": "",
+                "url": "https://ahb.dk/restauranter/koebenhavn-tivoli"
+              },
+              "location": {
+                "brewery_city": "København",
+                "brewery_state": "",
+                "lat": 55.6749001,
+                "lng": 12.5662003
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.45278,
+            "beer": {
+              "bid": 5531229,
+              "beer_name": "Tampen Brænder",
+              "beer_abv": 4.5,
+              "beer_ibu": 0,
+              "beer_slug": "flying-couch-brewing-tampen-braender",
+              "beer_style": "Red Ale - Other",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 25451,
+              "brewery_name": "Flying Couch Brewing",
+              "brewery_slug": "flying-couch-brewing",
+              "brewery_page_url": "/FlyingCouch",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-25451_fc64c.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/flyingcouchbrewing",
+                "instagram": "flying_couch_brewing",
+                "url": "https://flyingcouch.dk"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.7056999,
+                "lng": 12.5346003
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.77857,
+            "beer": {
+              "bid": 5448037,
+              "beer_name": "Talusade",
+              "beer_abv": 5.6,
+              "beer_ibu": 0,
+              "beer_slug": "warpigs-brewpub-talusade",
+              "beer_style": "Pale Ale - American",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5448037_c9602_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 186232,
+              "brewery_name": "WarPigs Brewpub",
+              "brewery_slug": "warpigs-brewpub",
+              "brewery_page_url": "/WarPigs_Brewpub",
+              "brewery_type": "Brew Pub",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-186232_a1d2b.jpeg",
+              "country_name": "Denmark",
+              "contact": {
+                "twitter": "warpigs_brewpub",
+                "facebook": "https://www.facebook.com/warpigsbrewpub",
+                "instagram": "warpigs_brewpub_cph",
+                "url": "https://warpigs.dk"
+              },
+              "location": {
+                "brewery_city": "Copenhagen",
+                "brewery_state": "Region Hovedstaden",
+                "lat": 55.6685982,
+                "lng": 12.5598001
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.45871,
+            "beer": {
+              "bid": 3226972,
+              "beer_name": "Dutch Eagle",
+              "beer_abv": 5.5,
+              "beer_ibu": 0,
+              "beer_slug": "morebeer-brewing-dutch-eagle",
+              "beer_style": "Pale Ale - American",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3226972_012cf_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 242585,
+              "brewery_name": "Morebeer Brewing",
+              "brewery_slug": "morebeer-brewing",
+              "brewery_page_url": "/MorebeerBrewing",
+              "brewery_type": "Contract Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-242585_5650c.jpeg",
+              "country_name": "Netherlands",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/morebeerbrewing",
+                "instagram": "morebeerbrewing",
+                "url": "http://www.morebeer.nl/brewing"
+              },
+              "location": {
+                "brewery_city": "Amsterdam",
+                "brewery_state": "Noord-Holland",
+                "lat": 52.3656006,
+                "lng": 4.8820801
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.76979,
+            "beer": {
+              "bid": 166518,
+              "beer_name": "Maz",
+              "beer_abv": 5.6,
+              "beer_ibu": 48,
+              "beer_slug": "omnipollo-maz",
+              "beer_style": "Pale Ale - American",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-166518_32462_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 29486,
+              "brewery_name": "Omnipollo",
+              "brewery_slug": "omnipollo",
+              "brewery_page_url": "/Omnipollo",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-29486_3f2a6.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "Omnipollo",
+                "facebook": "https://www.facebook.com/Omnipollo",
+                "instagram": "omnipollo",
+                "url": "https://omnipollo.com"
+              },
+              "location": {
+                "brewery_city": "Sundbyberg",
+                "brewery_state": "Stockholms län",
+                "lat": 59.3637009,
+                "lng": 17.9661007
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.50006,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}

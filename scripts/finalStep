@@ -3,6 +3,6 @@ bundle exec ruby scripts/stats.rb
 bundle exec ruby scripts/getBreweries.rb $1 $2
 
 bundle exec ruby scripts/breweryList.rb
-bundle exec ruby scripts/getImages.rb
+swift run --package-path ./BAOBCLI BAOBCLI pull-images
 bundle exec ruby scripts/distributeBreweries.rb
 bundle exec ruby scripts/createPosts.rb

@@ -15,14 +15,17 @@ let package = Package(
     ],
     dependencies: [
 		.package(url: "https://github.com/apple/swift-argument-parser", from: "1.2.0"),
-        .package(url: "git@github.com:skorulis/ASKCore.git", branch: "main")
+        .package(url: "git@github.com:skorulis/ASKCore.git", branch: "main"),
+        .package(url: "git@github.com:nodes-vapor/slugify.git", from: "2.0.0"),
     ],
     targets: [
     	.executableTarget(
     		name: "BAOBCLI", 
     		dependencies: [
                 .product(name: "ArgumentParser", package: "swift-argument-parser"),
-                "ASKCore"
+                .product(name: "Slugify", package: "slugify"),
+                "ASKCore",
+                
             ],
             path: "Sources"
         ),

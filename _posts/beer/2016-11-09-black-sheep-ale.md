@@ -9,8 +9,3 @@ brewery: "Black Sheep"
 breweryURL: "/brewery/black-sheep.html"
 style: "English Bitter"
 score: 2
-img: /img/list/black-sheep-ale.jpeg
-beer-date: "2012-10-13"
-desc: "Black and average"
-permalink: /beer/:title.html
----

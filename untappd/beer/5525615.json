@@ -1,0 +1,3973 @@
+{
+  "meta": {
+    "code": 200,
+    "response_time": {
+      "time": 0.223,
+      "measure": "seconds"
+    },
+    "init_time": {
+      "time": 0,
+      "measure": "seconds"
+    }
+  },
+  "notifications": [
+
+  ],
+  "response": {
+    "beer": {
+      "bid": 5525615,
+      "beer_name": "FESTBIER",
+      "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+      "beer_label_hd": "https://assets.untappd.com/site/beer_logos_hd/beer-5525615_4e662_hd.jpeg",
+      "beer_abv": 6,
+      "beer_ibu": 0,
+      "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+      "beer_style": "Lager - Helles",
+      "is_in_production": 1,
+      "beer_slug": "stigbergets-bryggeri-festbier",
+      "is_homebrew": 0,
+      "created_at": "Thu, 14 Sep 2023 21:34:52 +0000",
+      "rating_count": 144,
+      "rating_score": 3.40694,
+      "stats": {
+        "total_count": 164,
+        "monthly_count": 164,
+        "total_user_count": 160,
+        "user_count": 0
+      },
+      "brewery": {
+        "brewery_id": 56652,
+        "brewery_name": "Stigbergets Bryggeri",
+        "brewery_slug": "stigbergets-bryggeri",
+        "brewery_type": "Micro Brewery",
+        "brewery_page_url": "/stigbergetsbryggeri",
+        "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+        "country_name": "Sweden",
+        "contact": {
+          "twitter": "",
+          "facebook": "https://www.facebook.com/stigbergets",
+          "url": "https://stigbergetsbryggeri.se"
+        },
+        "location": {
+          "brewery_city": "Gothenburg",
+          "brewery_state": "Västra Götalands län",
+          "lat": 57.6986,
+          "lng": 11.9309
+        }
+      },
+      "auth_rating": 0,
+      "wish_list": false,
+      "media": {
+        "count": 10,
+        "items": [
+          {
+            "photo_id": 509050450,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/00b47bfe962207531bdcbd67ee465e4b_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/00b47bfe962207531bdcbd67ee465e4b_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/00b47bfe962207531bdcbd67ee465e4b_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/00b47bfe962207531bdcbd67ee465e4b_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 21:06:09 +0000",
+            "checkin_id": 1320188178,
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "is_in_production": 1,
+              "beer_style_id": 25,
+              "beer_style": "Lager - Helles",
+              "rating_score": 3.407,
+              "rating_count": 144,
+              "count": 144,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 9971992,
+              "user_name": "Jackelidoo",
+              "first_name": "Jack",
+              "last_name": "Olofsson",
+              "user_avatar": "https://assets.untappd.com/profile/2fe9c622a8e4eb240410988cfe8e5e2c_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9650453,
+                "venue_name": "Ostindiska Ölkompaniet",
+                "venue_slug": "ostindiska-olkompaniet",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 4,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "burger_joint",
+                      "category_name": "Burger Joint",
+                      "category_id": "4bf58dd8d48988d16c941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "pizza_place",
+                      "category_name": "Pizza Place",
+                      "category_id": "4bf58dd8d48988d1ca941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "18B Värmlandsgatan",
+                  "venue_city": "Gothenburg",
+                  "venue_state": "Västergötland",
+                  "lat": 57.6988,
+                  "lng": 11.9469
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "www.olkompaniet.com"
+                },
+                "foursquare": {
+                  "foursquare_id": "5df10e20e6d04800082ab02a",
+                  "foursquare_url": "https://4sq.com/36IEsyL"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_9650453_80b6b921_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_9650453_80b6b921_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_9650453_80b6b921_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 509007306,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/1411a381ac8c89706d6ba91ed8fcc99e_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/1411a381ac8c89706d6ba91ed8fcc99e_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/1411a381ac8c89706d6ba91ed8fcc99e_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/1411a381ac8c89706d6ba91ed8fcc99e_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 19:06:20 +0000",
+            "checkin_id": 1320112544,
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "is_in_production": 1,
+              "beer_style_id": 25,
+              "beer_style": "Lager - Helles",
+              "rating_score": 3.407,
+              "rating_count": 144,
+              "count": 144,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 5670918,
+              "user_name": "TorgerG",
+              "first_name": "Torger",
+              "last_name": "Gåsholt",
+              "user_avatar": "https://assets.untappd.com/profile/c39765a5216bff928531f5d161c01aff_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9593643,
+                "venue_name": "Majornas Bryggeri",
+                "venue_slug": "majornas-bryggeri",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "vegetarian_vegan_restaurant",
+                      "category_name": "Vegetarian / Vegan Restaurant",
+                      "category_id": "4bf58dd8d48988d1d3941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "88 Karl Johansgatan",
+                  "venue_city": "Gothenburg",
+                  "venue_state": "Västra Götalands län",
+                  "lat": 57.6936,
+                  "lng": 11.9188
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "majornasbryggeri.se"
+                },
+                "foursquare": {
+                  "foursquare_id": "5dd46c0a251c1c0008424f52",
+                  "foursquare_url": "https://4sq.com/2s1SM6r"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 508958837,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/90bbaee9a81442f1528727a00e99158f_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/90bbaee9a81442f1528727a00e99158f_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/90bbaee9a81442f1528727a00e99158f_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/90bbaee9a81442f1528727a00e99158f_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 16:42:01 +0000",
+            "checkin_id": 1320029919,
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "is_in_production": 1,
+              "beer_style_id": 25,
+              "beer_style": "Lager - Helles",
+              "rating_score": 3.407,
+              "rating_count": 144,
+              "count": 144,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 6825984,
+              "user_name": "Jakenfake",
+              "first_name": "Jakob",
+              "last_name": "Tiderman",
+              "user_avatar": "https://assets.untappd.com/profile/14827ab1c9411adf908e494a37cd49f0_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 349112,
+                "venue_name": "Hagabion",
+                "venue_slug": "hagabion",
+                "primary_category": "Arts and Entertainment",
+                "parent_category_id": "4d4b7104d754a06370d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "indie_movie_theater",
+                      "category_name": "Indie Movie Theater",
+                      "category_id": "4bf58dd8d48988d17e941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "movie_theater",
+                      "category_name": "Movie Theater",
+                      "category_id": "4bf58dd8d48988d17f941735",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Linnégatan 21",
+                  "venue_city": "Göteborg",
+                  "venue_state": "Västra Götalands län",
+                  "lat": 57.6965,
+                  "lng": 11.951
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://www.hagabion.se"
+                },
+                "foursquare": {
+                  "foursquare_id": "4bd861ddf645c9b6f5c2a7e0",
+                  "foursquare_url": "http://4sq.com/a1IEsD"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 508949942,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/e2010d71777421044313f8fd58d2b1f9_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/e2010d71777421044313f8fd58d2b1f9_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/e2010d71777421044313f8fd58d2b1f9_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/e2010d71777421044313f8fd58d2b1f9_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 16:07:23 +0000",
+            "checkin_id": 1320011937,
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "is_in_production": 1,
+              "beer_style_id": 25,
+              "beer_style": "Lager - Helles",
+              "rating_score": 3.407,
+              "rating_count": 144,
+              "count": 144,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 10446758,
+              "user_name": "jensa8",
+              "first_name": "Andreas",
+              "last_name": "Jensen",
+              "user_avatar": "https://assets.untappd.com/profile/7fd48e4bd8d087966e078a62df08baa2_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 10434950,
+                "venue_name": "Brisket & Friends Göteborg",
+                "venue_slug": "brisket-and-friends-goteborg",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "food",
+                      "category_name": "Restaurant",
+                      "category_id": "4d4b7105d754a06374d81259",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Vallgatan 21",
+                  "venue_city": "Göteborg",
+                  "venue_state": "Västra Götalands län",
+                  "lat": 57.7037,
+                  "lng": 11.9658
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": ""
+                },
+                "foursquare": {
+                  "foursquare_id": "601d44a43571b4598645ccd0",
+                  "foursquare_url": "https://4sq.com/39OE6ek"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_10434950_9e466144_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_10434950_9e466144_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_10434950_9e466144_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 508948247,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/39fd7e99741633bb19ddeaf4e6d59b3b_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/39fd7e99741633bb19ddeaf4e6d59b3b_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/39fd7e99741633bb19ddeaf4e6d59b3b_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/39fd7e99741633bb19ddeaf4e6d59b3b_raw.jpg"
+            },
+            "created_at": "Fri, 06 Oct 2023 16:01:35 +0000",
+            "checkin_id": 1320012348,
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "is_in_production": 1,
+              "beer_style_id": 25,
+              "beer_style": "Lager - Helles",
+              "rating_score": 3.407,
+              "rating_count": 144,
+              "count": 144,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7062926,
+              "user_name": "stefan_ek_5735",
+              "first_name": "Stefan",
+              "last_name": "Ek",
+              "user_avatar": "https://assets.untappd.com/profile/ef50f9435c2bf98842714d436026eea1-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 11326282,
+                "venue_name": "Stigbergets Shangri-La",
+                "venue_slug": "stigbergets-shangri-la",
+                "primary_category": "Dining and Drinking",
+                "parent_category_id": "63be6904847c3692a84b9bb5",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "food",
+                      "category_name": "Restaurant",
+                      "category_id": "4d4b7105d754a06374d81259",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Gamla Varvsgatan 1",
+                  "venue_city": "Göteborg",
+                  "venue_state": "Västra Götalands län",
+                  "lat": 57.6987,
+                  "lng": 11.9308
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://stigbergetsshangrila.se"
+                },
+                "foursquare": {
+                  "foursquare_id": "628364746866934649b4f574",
+                  "foursquare_url": "https://4sq.com/39q18KI"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 508729357,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_04/c1d5421f0c94c465636ddd4d82f17048_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_04/c1d5421f0c94c465636ddd4d82f17048_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_04/c1d5421f0c94c465636ddd4d82f17048_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_04/c1d5421f0c94c465636ddd4d82f17048_raw.jpg"
+            },
+            "created_at": "Wed, 04 Oct 2023 18:16:17 +0000",
+            "checkin_id": 1319596064,
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "is_in_production": 1,
+              "beer_style_id": 25,
+              "beer_style": "Lager - Helles",
+              "rating_score": 3.407,
+              "rating_count": 144,
+              "count": 144,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 3324303,
+              "user_name": "triceratops007",
+              "first_name": "Henrik",
+              "last_name": "Karlsson",
+              "user_avatar": "https://assets.untappd.com/profile/9444b149a2a3e0c018b79a50f8d5e7ad_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 8924977,
+                "venue_name": "Carlstad Ölhall",
+                "venue_slug": "carlstad-olhall",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "pub",
+                      "category_name": "Pub",
+                      "category_id": "4bf58dd8d48988d11b941735",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "1 Järnvägsgatan",
+                  "venue_city": "Karlstad",
+                  "venue_state": "Värmlands län",
+                  "lat": 59.3786,
+                  "lng": 13.499
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "www.karlstadolhall.se"
+                },
+                "foursquare": {
+                  "foursquare_id": "5cd1d4279fca56002c495308",
+                  "foursquare_url": "https://4sq.com/2vLzvoc"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_8924977_e487ed3a_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_8924977_e487ed3a_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_8924977_e487ed3a_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 508717638,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_04/c6570121494973ef84db557761d141c6_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_04/c6570121494973ef84db557761d141c6_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_04/c6570121494973ef84db557761d141c6_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_04/c6570121494973ef84db557761d141c6_raw.jpg"
+            },
+            "created_at": "Wed, 04 Oct 2023 16:53:26 +0000",
+            "checkin_id": 1319576131,
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "is_in_production": 1,
+              "beer_style_id": 25,
+              "beer_style": "Lager - Helles",
+              "rating_score": 3.407,
+              "rating_count": 144,
+              "count": 144,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 8973445,
+              "user_name": "sebastian_johansson_5912",
+              "first_name": "Sebastian",
+              "last_name": "Johansson",
+              "user_avatar": "https://assets.untappd.com/profile/44d599d49398e67575a27d1d57d7b323_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 11326282,
+                "venue_name": "Stigbergets Shangri-La",
+                "venue_slug": "stigbergets-shangri-la",
+                "primary_category": "Dining and Drinking",
+                "parent_category_id": "63be6904847c3692a84b9bb5",
+                "categories": {
+                  "count": 3,
+                  "items": [
+                    {
+                      "category_key": "food",
+                      "category_name": "Restaurant",
+                      "category_id": "4d4b7105d754a06374d81259",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "brewery",
+                      "category_name": "Brewery",
+                      "category_id": "50327c8591d4c4b30a586d5d",
+                      "is_primary": false
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "Gamla Varvsgatan 1",
+                  "venue_city": "Göteborg",
+                  "venue_state": "Västra Götalands län",
+                  "lat": 57.6987,
+                  "lng": 11.9308
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "https://stigbergetsshangrila.se"
+                },
+                "foursquare": {
+                  "foursquare_id": "628364746866934649b4f574",
+                  "foursquare_url": "https://4sq.com/39q18KI"
+                },
+                "venue_icon": {
+                  "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                  "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                  "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_512.png"
+                },
+                "is_verified": 0
+              }
+            ]
+          },
+          {
+            "photo_id": 508707626,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_04/b25f4e77bfb160fd79d5dbc772936140_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_04/b25f4e77bfb160fd79d5dbc772936140_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_04/b25f4e77bfb160fd79d5dbc772936140_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_04/b25f4e77bfb160fd79d5dbc772936140_raw.jpg"
+            },
+            "created_at": "Wed, 04 Oct 2023 15:11:15 +0000",
+            "checkin_id": 1319559228,
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "is_in_production": 1,
+              "beer_style_id": 25,
+              "beer_style": "Lager - Helles",
+              "rating_score": 3.407,
+              "rating_count": 144,
+              "count": 144,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 1943995,
+              "user_name": "Staalhard",
+              "first_name": "Jonas",
+              "last_name": "Hamilton",
+              "user_avatar": "https://assets.untappd.com/profile/6728d7fe03f1a3cb2d9fa9c52fba8840_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9732448,
+                "venue_name": "Stigbergets Fot",
+                "venue_slug": "stigbergets-fot",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "5 Götgatan",
+                  "venue_city": "Stockholm",
+                  "venue_state": "Storstockholm",
+                  "lat": 59.3191,
+                  "lng": 18.0709
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "stigbergetsfot.se"
+                },
+                "foursquare": {
+                  "foursquare_id": "5dd91a1f15b2280008674fd4",
+                  "foursquare_url": "https://4sq.com/2KO8FUp"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 508657441,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_03/d169b8d4d139df63e3897a75074906e8_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_03/d169b8d4d139df63e3897a75074906e8_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_03/d169b8d4d139df63e3897a75074906e8_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_03/d169b8d4d139df63e3897a75074906e8_raw.jpg"
+            },
+            "created_at": "Tue, 03 Oct 2023 20:24:37 +0000",
+            "checkin_id": 1319457752,
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "is_in_production": 1,
+              "beer_style_id": 25,
+              "beer_style": "Lager - Helles",
+              "rating_score": 3.407,
+              "rating_count": 144,
+              "count": 144,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 2435429,
+              "user_name": "Tonkansson",
+              "first_name": "Tony",
+              "last_name": "Fredriksson",
+              "user_avatar": "https://assets.untappd.com/profile/8a8ce43e6d22ffb8e3e249e89d81db3d_100x100.jpeg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 9732448,
+                "venue_name": "Stigbergets Fot",
+                "venue_slug": "stigbergets-fot",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06376d81259",
+                "categories": {
+                  "count": 1,
+                  "items": [
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": true
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "5 Götgatan",
+                  "venue_city": "Stockholm",
+                  "venue_state": "Storstockholm",
+                  "lat": 59.3191,
+                  "lng": 18.0709
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "stigbergetsfot.se"
+                },
+                "foursquare": {
+                  "foursquare_id": "5dd91a1f15b2280008674fd4",
+                  "foursquare_url": "https://4sq.com/2KO8FUp"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          },
+          {
+            "photo_id": 508617004,
+            "photo": {
+              "photo_img_sm": "https://assets.untappd.com/photos/2023_10_03/3420e14ee2e159607bbc9e8acb1dea51_200x200.jpg",
+              "photo_img_md": "https://assets.untappd.com/photos/2023_10_03/3420e14ee2e159607bbc9e8acb1dea51_640x640.jpg",
+              "photo_img_lg": "https://assets.untappd.com/photos/2023_10_03/3420e14ee2e159607bbc9e8acb1dea51_1280x1280.jpg",
+              "photo_img_og": "https://assets.untappd.com/photos/2023_10_03/3420e14ee2e159607bbc9e8acb1dea51_raw.jpg"
+            },
+            "created_at": "Tue, 03 Oct 2023 14:16:48 +0000",
+            "checkin_id": 1319388386,
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "is_in_production": 1,
+              "beer_style_id": 25,
+              "beer_style": "Lager - Helles",
+              "rating_score": 3.407,
+              "rating_count": 144,
+              "count": 144,
+              "beer_active": 1,
+              "on_list": false,
+              "has_had": false,
+              "auth_rating": 0,
+              "wish_list": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "user": {
+              "uid": 7062926,
+              "user_name": "stefan_ek_5735",
+              "first_name": "Stefan",
+              "last_name": "Ek",
+              "user_avatar": "https://assets.untappd.com/profile/ef50f9435c2bf98842714d436026eea1-fb_100x100.jpg",
+              "is_private": 0
+            },
+            "venue": [
+              {
+                "venue_id": 1650340,
+                "venue_name": "Brewers Beer Bar Tredje Långgatan",
+                "venue_slug": "brewers-beer-bar-tredje-langgatan",
+                "primary_category": null,
+                "parent_category_id": "4d4b7105d754a06374d81259",
+                "categories": {
+                  "count": 2,
+                  "items": [
+                    {
+                      "category_key": "pizza_place",
+                      "category_name": "Pizza Place",
+                      "category_id": "4bf58dd8d48988d1ca941735",
+                      "is_primary": true
+                    },
+                    {
+                      "category_key": "beer_bar",
+                      "category_name": "Beer Bar",
+                      "category_id": "56aa371ce4b08b9a8d57356c",
+                      "is_primary": false
+                    }
+                  ]
+                },
+                "location": {
+                  "venue_address": "8 Tredje Långgatan",
+                  "venue_city": "Gothenburg",
+                  "venue_state": "Västra Götalands län",
+                  "lat": 57.6987,
+                  "lng": 11.9509
+                },
+                "contact": {
+                  "twitter": "",
+                  "venue_url": "http://brewersbeerbar.se/"
+                },
+                "foursquare": {
+                  "foursquare_id": "537e3c60498e4aedc81c2c99",
+                  "foursquare_url": "http://4sq.com/1k8AIeh"
+                },
+                "venue_icon": {
+                  "sm": "https://assets.untappd.com/venuelogos/venue_1650340_3d3c7cdd_bg_64.png",
+                  "md": "https://assets.untappd.com/venuelogos/venue_1650340_3d3c7cdd_bg_88.png",
+                  "lg": "https://assets.untappd.com/venuelogos/venue_1650340_3d3c7cdd_bg_176.png?v=1"
+                },
+                "is_verified": 1
+              }
+            ]
+          }
+        ]
+      },
+      "checkins": {
+        "count": 15,
+        "items": [
+          {
+            "checkin_id": 1320188178,
+            "created_at": "Fri, 06 Oct 2023 21:05:50 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 9971992,
+              "user_name": "Jackelidoo",
+              "first_name": "Jack",
+              "last_name": "Olofsson",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/2fe9c622a8e4eb240410988cfe8e5e2c_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9650453,
+              "venue_name": "Ostindiska Ölkompaniet",
+              "venue_slug": "ostindiska-olkompaniet",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "pizza_place",
+                    "category_name": "Pizza Place",
+                    "category_id": "4bf58dd8d48988d1ca941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "18B Värmlandsgatan",
+                "venue_city": "Gothenburg",
+                "venue_state": "Västergötland",
+                "venue_country": "Sverige",
+                "lat": 57.6987534,
+                "lng": 11.9468937
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "www.olkompaniet.com"
+              },
+              "foursquare": {
+                "foursquare_id": "5df10e20e6d04800082ab02a",
+                "foursquare_url": "https://4sq.com/36IEsyL"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9650453_80b6b921_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9650453_80b6b921_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9650453_80b6b921_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 3,
+              "count": 3,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6032085,
+                  "user": {
+                    "uid": 6032085,
+                    "user_name": "Christoffer_C",
+                    "first_name": "Christoffer",
+                    "last_name": "Cederstrand",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/12eea975d4966438a291f86075c26875_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414327534,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 22:51:53 +0000"
+                },
+                {
+                  "uid": 3347505,
+                  "user": {
+                    "uid": 3347505,
+                    "user_name": "AAbramo",
+                    "first_name": "Andreas",
+                    "last_name": "Abramo",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/d4d30bb72efef564107342d93f804c2d_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414307228,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 22:15:03 +0000"
+                },
+                {
+                  "uid": 9743078,
+                  "user": {
+                    "uid": 9743078,
+                    "user_name": "camillakockum",
+                    "first_name": "Camilla",
+                    "last_name": "Kockum",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/d25fa1c31e4babdb84788313ba540d62_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414263221,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 21:08:59 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 509050450,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/00b47bfe962207531bdcbd67ee465e4b_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/00b47bfe962207531bdcbd67ee465e4b_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/00b47bfe962207531bdcbd67ee465e4b_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/00b47bfe962207531bdcbd67ee465e4b_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320144064,
+            "created_at": "Fri, 06 Oct 2023 19:52:19 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 873132,
+              "user_name": "MrGluster",
+              "first_name": "Björn",
+              "last_name": "Möller",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/ddf59576ea00b988a3b33e9c9279ef07_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9917985,
+              "venue_name": "Untappd at Home",
+              "venue_slug": "at-home",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4e67e38e036454776db1fb3a",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "home_private",
+                    "category_name": "Home (private)",
+                    "category_id": "4bf58dd8d48988d103941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "",
+                "venue_city": "",
+                "venue_state": "NC",
+                "venue_country": "United States",
+                "lat": 34.2346611,
+                "lng": -77.9482117
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5e7b4d99c91df60008e8b168",
+                "foursquare_url": "https://4sq.com/3bDWYuq"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9917985_b3a5d245_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320133380,
+            "created_at": "Fri, 06 Oct 2023 19:36:11 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 6710015,
+              "user_name": "toxilox",
+              "first_name": "Erik",
+              "last_name": "Erik",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/21feb660b082d2e0354db04639d938f7-fb_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8924977,
+              "venue_name": "Carlstad Ölhall",
+              "venue_slug": "carlstad-olhall",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1 Järnvägsgatan",
+                "venue_city": "Karlstad",
+                "venue_state": "Värmlands län",
+                "venue_country": "Sverige",
+                "lat": 59.3785667,
+                "lng": 13.4990072
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "www.karlstadolhall.se"
+              },
+              "foursquare": {
+                "foursquare_id": "5cd1d4279fca56002c495308",
+                "foursquare_url": "https://4sq.com/2vLzvoc"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_8924977_e487ed3a_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_8924977_e487ed3a_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_8924977_e487ed3a_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 7755946,
+                  "user": {
+                    "uid": 7755946,
+                    "user_name": "neofob",
+                    "first_name": "Jonas",
+                    "last_name": "Ahrentorp",
+                    "bio": "Omnipollo, Dugges and Amundsen fan boy.",
+                    "location": "Bor i ås",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/485d2cdd45ba1ea5a80bd13d98c16b79_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414239300,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 20:36:12 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V4)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 34721,
+                  "user_badge_id": 1143212682,
+                  "badge_name": "Middle of the Road (Level 17)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 85 beers with an ABV greater than 5% and less than 10%. Try 5 more for Level 18!",
+                  "created_at": "Fri, 06 Oct 2023 19:36:11 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320120583,
+            "created_at": "Fri, 06 Oct 2023 19:16:55 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.2,
+            "user": {
+              "uid": 2125645,
+              "user_name": "eek1959",
+              "first_name": "Leif",
+              "last_name": "Eek",
+              "location": "stockholm",
+              "url": "",
+              "is_supporter": 1,
+              "bio": "He is a selfmade man who owed his lack of success to nobody. /J Heller",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/44bbb998ef61ee4838e4b43f3881b75b_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 2740632,
+              "venue_name": "Nässjö Ölkafé",
+              "venue_slug": "nassjo-olkafe",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 4,
+                "items": [
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "burger_joint",
+                    "category_name": "Burger Joint",
+                    "category_id": "4bf58dd8d48988d16c941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "food",
+                    "category_name": "Restaurant",
+                    "category_id": "4d4b7105d754a06374d81259",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "4 Anneforsvägen",
+                "venue_city": "Nässjö",
+                "venue_state": "Jönköpings län",
+                "venue_country": "Sverige",
+                "lat": 57.6551895,
+                "lng": 14.6963654
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "5520167d498e282ec0af9c31",
+                "foursquare_url": "http://4sq.com/1IenDMT"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_2740632_016b67b9_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_2740632_016b67b9_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_2740632_016b67b9_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 1,
+              "count": 1,
+              "items": [
+                {
+                  "user": {
+                    "uid": 2008365,
+                    "user_name": "bengtpal",
+                    "first_name": "Bengt",
+                    "last_name": "Palmqvist",
+                    "bio": "",
+                    "location": "Stockholm, Sweden",
+                    "relationship": "none",
+                    "is_supporter": 0,
+                    "user_avatar": "https://assets.untappd.com/profile/dddab0ae800c50a8e1170c0075f42d06_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "checkin_id": 1320120583,
+                  "comment_id": 79247978,
+                  "comment_owner": false,
+                  "comment_editor": false,
+                  "comment": "Ännu mera lager",
+                  "created_at": "Fri, 06 Oct 2023 19:23:37 +0000",
+                  "comment_source": "API"
+                }
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 2008365,
+                  "user": {
+                    "uid": 2008365,
+                    "user_name": "bengtpal",
+                    "first_name": "Bengt",
+                    "last_name": "Palmqvist",
+                    "bio": "",
+                    "location": "Stockholm, Sweden",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/dddab0ae800c50a8e1170c0075f42d06_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414178035,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 19:23:24 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 2133,
+                  "user_badge_id": 1143200061,
+                  "badge_name": "Lager Jack (Level 27)",
+                  "badge_description": "After a long day, what better way to kick back than with a crisp and refreshing lager? You're already feeling more relaxed, aren’t you?. That’s 135 different Lagers! Try 5 more for Level 28!",
+                  "created_at": "Fri, 06 Oct 2023 19:16:57 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_LagerJack_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_LagerJack_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_LagerJack_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320112544,
+            "created_at": "Fri, 06 Oct 2023 19:04:54 +0000",
+            "checkin_comment": "",
+            "rating_score": 4.5,
+            "user": {
+              "uid": 5670918,
+              "user_name": "TorgerG",
+              "first_name": "Torger",
+              "last_name": "Gåsholt",
+              "location": "Norway",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/c39765a5216bff928531f5d161c01aff_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9593643,
+              "venue_name": "Majornas Bryggeri",
+              "venue_slug": "majornas-bryggeri",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "vegetarian_vegan_restaurant",
+                    "category_name": "Vegetarian / Vegan Restaurant",
+                    "category_id": "4bf58dd8d48988d1d3941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "88 Karl Johansgatan",
+                "venue_city": "Gothenburg",
+                "venue_state": "Västra Götalands län",
+                "venue_country": "Sverige",
+                "lat": 57.6936493,
+                "lng": 11.9188385
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "majornasbryggeri.se"
+              },
+              "foursquare": {
+                "foursquare_id": "5dd46c0a251c1c0008424f52",
+                "foursquare_url": "https://4sq.com/2s1SM6r"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6395592,
+                  "user": {
+                    "uid": 6395592,
+                    "user_name": "Nilskt",
+                    "first_name": "Nils",
+                    "last_name": "Thvedt",
+                    "bio": "",
+                    "location": "Åsrum, northwest of Sandefjord ",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/d4b3669401fcb93cd29c75d0ec160872_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414205318,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 19:53:47 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 509007306,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/1411a381ac8c89706d6ba91ed8fcc99e_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/1411a381ac8c89706d6ba91ed8fcc99e_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/1411a381ac8c89706d6ba91ed8fcc99e_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/1411a381ac8c89706d6ba91ed8fcc99e_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 12322,
+                  "user_badge_id": 1143192064,
+                  "badge_name": "Hella Delicious! (Level 15)",
+                  "badge_description": "Hell yea helles! This traditional German pale lager is typically full-bodied, mildly sweet, and light-colored, making it a perfect go to for any occasion. That's 75 different beers with the style of Lager - Helles or Bock - Maibock / Heller (Helles) / Lentebock. Try 5 more for Level 16!\n",
+                  "created_at": "Fri, 06 Oct 2023 19:04:55 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_HellaDelicious_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_HellaDelicious_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_HellaDelicious_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320065842,
+            "created_at": "Fri, 06 Oct 2023 17:50:33 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 309419,
+              "user_name": "kralleman",
+              "first_name": "Kristofer",
+              "last_name": "Aspman",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/d698ec7b62e6262e6abaf2a3458c3912?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9593643,
+              "venue_name": "Majornas Bryggeri",
+              "venue_slug": "majornas-bryggeri",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "vegetarian_vegan_restaurant",
+                    "category_name": "Vegetarian / Vegan Restaurant",
+                    "category_id": "4bf58dd8d48988d1d3941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "88 Karl Johansgatan",
+                "venue_city": "Gothenburg",
+                "venue_state": "Västra Götalands län",
+                "venue_country": "Sverige",
+                "lat": 57.6936493,
+                "lng": 11.9188385
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "majornasbryggeri.se"
+              },
+              "foursquare": {
+                "foursquare_id": "5dd46c0a251c1c0008424f52",
+                "foursquare_url": "https://4sq.com/2s1SM6r"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 9168271,
+                  "user": {
+                    "uid": 9168271,
+                    "user_name": "olgabeata",
+                    "first_name": "Cattis",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/330d90589d079e3e690a3e5f66bbd68b_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414104449,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 17:50:49 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 12309,
+                  "user_badge_id": 1143145497,
+                  "badge_name": "Hella Delicious! (Level 2)",
+                  "badge_description": "Hell yea helles! This traditional German pale lager is typically full-bodied, mildly sweet, and light-colored, making it a perfect go to for any occasion. That's 10 different beers with the style of Lager - Helles or Bock - Maibock / Heller (Helles) / Lentebock. Try 5 more for Level 3!\n",
+                  "created_at": "Fri, 06 Oct 2023 17:50:34 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_HellaDelicious_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_HellaDelicious_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_HellaDelicious_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320029919,
+            "created_at": "Fri, 06 Oct 2023 16:41:18 +0000",
+            "checkin_comment": "Filip B. Ludde12  gudfadern på Untappd",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 6825984,
+              "user_name": "Jakenfake",
+              "first_name": "Jakob",
+              "last_name": "Tiderman",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/14827ab1c9411adf908e494a37cd49f0_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 349112,
+              "venue_name": "Hagabion",
+              "venue_slug": "hagabion",
+              "primary_category_key": "Arts and Entertainment",
+              "primary_category": "Arts and Entertainment",
+              "parent_category_id": "4d4b7104d754a06370d81259",
+              "categories": {
+                "count": 2,
+                "items": [
+                  {
+                    "category_key": "indie_movie_theater",
+                    "category_name": "Indie Movie Theater",
+                    "category_id": "4bf58dd8d48988d17e941735",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "movie_theater",
+                    "category_name": "Movie Theater",
+                    "category_id": "4bf58dd8d48988d17f941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Linnégatan 21",
+                "venue_city": "Göteborg",
+                "venue_state": "Västra Götalands län",
+                "venue_country": "Sverige",
+                "lat": 57.6964874,
+                "lng": 11.9510012
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "http://www.hagabion.se"
+              },
+              "foursquare": {
+                "foursquare_id": "4bd861ddf645c9b6f5c2a7e0",
+                "foursquare_url": "http://4sq.com/a1IEsD"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 4,
+              "count": 4,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 6848750,
+                  "user": {
+                    "uid": 6848750,
+                    "user_name": "Castorelisson",
+                    "first_name": "Castor",
+                    "last_name": "Elisson",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/69cffd289dc6dd92b2efcce2d051a448_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414214432,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 20:04:44 +0000"
+                },
+                {
+                  "uid": 10395519,
+                  "user": {
+                    "uid": 10395519,
+                    "user_name": "lajnen",
+                    "first_name": "Lina",
+                    "last_name": "Lennartsson",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/1311d1998cfb3ddbfb5bdf0282502405_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414105344,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 17:52:15 +0000"
+                },
+                {
+                  "uid": 6782033,
+                  "user": {
+                    "uid": 6782033,
+                    "user_name": "Felixwolmesjo",
+                    "first_name": "Felix",
+                    "last_name": "Wolmesjö",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/8cb05419c9f559079596588bf208940f_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414061928,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 16:42:27 +0000"
+                },
+                {
+                  "uid": 6826544,
+                  "user": {
+                    "uid": 6826544,
+                    "user_name": "MattiasForsberg",
+                    "first_name": "Mattias",
+                    "last_name": "Forsberg",
+                    "bio": "Spelar bandy ibland men dricker mest öl å grogg",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/f3a2e40c978a7ac144bbe8a8683ec627_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414061651,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 16:41:57 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 508958837,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/90bbaee9a81442f1528727a00e99158f_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/90bbaee9a81442f1528727a00e99158f_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/90bbaee9a81442f1528727a00e99158f_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/90bbaee9a81442f1528727a00e99158f_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V4)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 94384,
+                  "user_badge_id": 1143109899,
+                  "badge_name": "Photogenic Brew (Level 99)",
+                  "badge_description": "It takes the perfect amount of light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That's 495 check-ins with a photo.  Try 5 more for Level 100!",
+                  "created_at": "Fri, 06 Oct 2023 16:41:19 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_beertography_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_beertography_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_beertography_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320012348,
+            "created_at": "Fri, 06 Oct 2023 15:59:58 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 7062926,
+              "user_name": "stefan_ek_5735",
+              "first_name": "Stefan",
+              "last_name": "Ek",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/ef50f9435c2bf98842714d436026eea1-fb_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11326282,
+              "venue_name": "Stigbergets Shangri-La",
+              "venue_slug": "stigbergets-shangri-la",
+              "primary_category_key": "Dining and Drinking",
+              "primary_category": "Dining and Drinking",
+              "parent_category_id": "63be6904847c3692a84b9bb5",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "food",
+                    "category_name": "food",
+                    "category_id": "4d4b7105d754a06374d81259",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Gamla Varvsgatan 1",
+                "venue_city": "Göteborg",
+                "venue_state": "Västra Götalands län",
+                "venue_country": "Sverige",
+                "lat": 57.6986618,
+                "lng": 11.9307661
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://stigbergetsshangrila.se"
+              },
+              "foursquare": {
+                "foursquare_id": "628364746866934649b4f574",
+                "foursquare_url": "https://4sq.com/39q18KI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 9168271,
+                  "user": {
+                    "uid": 9168271,
+                    "user_name": "olgabeata",
+                    "first_name": "Cattis",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/330d90589d079e3e690a3e5f66bbd68b_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414043754,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 16:05:16 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 508948247,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/39fd7e99741633bb19ddeaf4e6d59b3b_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/39fd7e99741633bb19ddeaf4e6d59b3b_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/39fd7e99741633bb19ddeaf4e6d59b3b_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/39fd7e99741633bb19ddeaf4e6d59b3b_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320012205,
+            "created_at": "Fri, 06 Oct 2023 15:59:37 +0000",
+            "checkin_comment": "",
+            "rating_score": 4,
+            "user": {
+              "uid": 8764594,
+              "user_name": "Dickeinar",
+              "first_name": "Dick",
+              "last_name": "Jonsson",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/1a3a2d6ccc374f28edbcb7a158c396e5?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11326282,
+              "venue_name": "Stigbergets Shangri-La",
+              "venue_slug": "stigbergets-shangri-la",
+              "primary_category_key": "Dining and Drinking",
+              "primary_category": "Dining and Drinking",
+              "parent_category_id": "63be6904847c3692a84b9bb5",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "food",
+                    "category_name": "food",
+                    "category_id": "4d4b7105d754a06374d81259",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Gamla Varvsgatan 1",
+                "venue_city": "Göteborg",
+                "venue_state": "Västra Götalands län",
+                "venue_country": "Sverige",
+                "lat": 57.6986618,
+                "lng": 11.9307661
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://stigbergetsshangrila.se"
+              },
+              "foursquare": {
+                "foursquare_id": "628364746866934649b4f574",
+                "foursquare_url": "https://4sq.com/39q18KI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 1,
+              "count": 1,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 9168271,
+                  "user": {
+                    "uid": 9168271,
+                    "user_name": "olgabeata",
+                    "first_name": "Cattis",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/330d90589d079e3e690a3e5f66bbd68b_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414043782,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 16:05:18 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 12060,
+                  "user_badge_id": 1143092276,
+                  "badge_name": "Beer Foodie (Level 3)",
+                  "badge_description": "Wine isn't the only beverage worthy of pairing with a delicious meal. With so many styles widely available, there’s a perfect pint for any cuisine of your choosing. That's a beer at 15 different venues categorized as a Restaurant. Try 5 more for Level 4!",
+                  "created_at": "Fri, 06 Oct 2023 15:59:38 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_BeerFoodie_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_BeerFoodie_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_BeerFoodie_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1320011937,
+            "created_at": "Fri, 06 Oct 2023 15:58:53 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 10446758,
+              "user_name": "jensa8",
+              "first_name": "Andreas",
+              "last_name": "Jensen",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/7fd48e4bd8d087966e078a62df08baa2_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 10434950,
+              "venue_name": "Brisket & Friends Göteborg",
+              "venue_slug": "brisket-and-friends-goteborg",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06374d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "food",
+                    "category_name": "Restaurant",
+                    "category_id": "4d4b7105d754a06374d81259",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Vallgatan 21",
+                "venue_city": "Göteborg",
+                "venue_state": "Västra Götalands län",
+                "venue_country": "Sverige",
+                "lat": 57.7036743,
+                "lng": 11.9657679
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": ""
+              },
+              "foursquare": {
+                "foursquare_id": "601d44a43571b4598645ccd0",
+                "foursquare_url": "https://4sq.com/39OE6ek"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_10434950_9e466144_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_10434950_9e466144_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_10434950_9e466144_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 2,
+              "count": 2,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 3089492,
+                  "user": {
+                    "uid": 3089492,
+                    "user_name": "robban_johansson",
+                    "first_name": "Robban",
+                    "last_name": "Johansson",
+                    "bio": "",
+                    "location": "",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/6d13188d0e423c6d222b660d74782d9f_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414081936,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 17:17:00 +0000"
+                },
+                {
+                  "uid": 4887898,
+                  "user": {
+                    "uid": 4887898,
+                    "user_name": "bachen83",
+                    "first_name": "Christian",
+                    "last_name": "Bachtrog",
+                    "bio": "Älskar öl och bra musik (hårdrock)",
+                    "location": "Bachens drinkin palace ",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/d86e9bba574ac514f13b0440c0321d1c_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414078855,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 17:12:08 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 1,
+              "items": [
+                {
+                  "photo_id": 508949942,
+                  "photo": {
+                    "photo_img_sm": "https://assets.untappd.com/photos/2023_10_06/e2010d71777421044313f8fd58d2b1f9_200x200.jpg",
+                    "photo_img_md": "https://assets.untappd.com/photos/2023_10_06/e2010d71777421044313f8fd58d2b1f9_640x640.jpg",
+                    "photo_img_lg": "https://assets.untappd.com/photos/2023_10_06/e2010d71777421044313f8fd58d2b1f9_1280x1280.jpg",
+                    "photo_img_og": "https://assets.untappd.com/photos/2023_10_06/e2010d71777421044313f8fd58d2b1f9_raw.jpg"
+                  }
+                }
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V4)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 2,
+              "items": [
+                {
+                  "badge_id": 34725,
+                  "user_badge_id": 1143092028,
+                  "badge_name": "Middle of the Road (Level 21)",
+                  "badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 105 beers with an ABV greater than 5% and less than 10%. Try 5 more for Level 22!",
+                  "created_at": "Fri, 06 Oct 2023 15:58:54 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_middle-of-the-road_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_middle-of-the-road_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_middle-of-the-road_lg.jpg"
+                  }
+                },
+                {
+                  "badge_id": 1404,
+                  "user_badge_id": 1143092029,
+                  "badge_name": "Swedish Brews  (Level 18)",
+                  "badge_description": "Normally DIY furniture and meatballs are all that come to mind, but now you can add Swedish beer to that list! That's 90 different beers from a brewery from Sweden. Try 5 more Level 19.",
+                  "created_at": "Fri, 06 Oct 2023 15:58:54 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_Sweden_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_Sweden_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_Sweden_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319988055,
+            "created_at": "Fri, 06 Oct 2023 14:37:55 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 2179710,
+              "user_name": "dengra",
+              "first_name": "Dennis",
+              "last_name": "Granath",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/864d06f10eee5b2d07877af1494050ff_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9732448,
+              "venue_name": "Stigbergets Fot",
+              "venue_slug": "stigbergets-fot",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "5 Götgatan",
+                "venue_city": "Stockholm",
+                "venue_state": "Storstockholm",
+                "venue_country": "Sverige",
+                "lat": 59.3191223,
+                "lng": 18.0709476
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "stigbergetsfot.se"
+              },
+              "foursquare": {
+                "foursquare_id": "5dd91a1f15b2280008674fd4",
+                "foursquare_url": "https://4sq.com/2KO8FUp"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319981060,
+            "created_at": "Fri, 06 Oct 2023 14:02:20 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 7591580,
+              "user_name": "pelle_sundberg_8144",
+              "first_name": "Pelle",
+              "last_name": "Sundberg",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/d14a1024d537fbb0174c2a3e49b75dc4_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 11326282,
+              "venue_name": "Stigbergets Shangri-La",
+              "venue_slug": "stigbergets-shangri-la",
+              "primary_category_key": "Dining and Drinking",
+              "primary_category": "Dining and Drinking",
+              "parent_category_id": "63be6904847c3692a84b9bb5",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "food",
+                    "category_name": "food",
+                    "category_id": "4d4b7105d754a06374d81259",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "Gamla Varvsgatan 1",
+                "venue_city": "Göteborg",
+                "venue_state": "Västra Götalands län",
+                "venue_country": "Sverige",
+                "lat": 57.6986618,
+                "lng": 11.9307661
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "https://stigbergetsshangrila.se"
+              },
+              "foursquare": {
+                "foursquare_id": "628364746866934649b4f574",
+                "foursquare_url": "https://4sq.com/39q18KI"
+              },
+              "venue_icon": {
+                "sm": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_64.png",
+                "md": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_88.png",
+                "lg": "https://ss3.4sqi.net/img/categories_v2/food/default_bg_512.png"
+              },
+              "is_verified": false
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 1429,
+                  "user_badge_id": 1143061552,
+                  "badge_name": "Swedish Brews  (Level 43)",
+                  "badge_description": "Normally DIY furniture and meatballs are all that come to mind, but now you can add Swedish beer to that list! That's 215 different beers from a brewery from Sweden. Try 5 more Level 44.",
+                  "created_at": "Fri, 06 Oct 2023 14:02:21 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_Sweden_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_Sweden_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_Sweden_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319752452,
+            "created_at": "Thu, 05 Oct 2023 15:46:40 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.25,
+            "user": {
+              "uid": 2403118,
+              "user_name": "Patja",
+              "first_name": "Patrik",
+              "last_name": "Jacobsson",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://gravatar.com/avatar/19bce691acb747ccdbe5aab75f940a1a?size=100&d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9593643,
+              "venue_name": "Majornas Bryggeri",
+              "venue_slug": "majornas-bryggeri",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 3,
+                "items": [
+                  {
+                    "category_key": "brewery",
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                  },
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": false
+                  },
+                  {
+                    "category_key": "vegetarian_vegan_restaurant",
+                    "category_name": "Vegetarian / Vegan Restaurant",
+                    "category_id": "4bf58dd8d48988d1d3941735",
+                    "is_primary": false
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "88 Karl Johansgatan",
+                "venue_city": "Gothenburg",
+                "venue_state": "Västra Götalands län",
+                "venue_country": "Sverige",
+                "lat": 57.6936493,
+                "lng": 11.9188385
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "majornasbryggeri.se"
+              },
+              "foursquare": {
+                "foursquare_id": "5dd46c0a251c1c0008424f52",
+                "foursquare_url": "https://4sq.com/2s1SM6r"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9593643_d346561c_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V2)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 133258,
+                  "user_badge_id": 1142843593,
+                  "badge_name": "Draft City (Level 5)",
+                  "badge_description": "Fresh from the tap is one of the best ways to enjoy a beer. Just try to use a glass and not drink directly from the tap, as tempting as it may be. That's 25 checkins with the serving style of Draft. Try 5 more for Level 6!",
+                  "created_at": "Thu, 05 Oct 2023 15:46:41 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_DraftCity_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_DraftCity_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_DraftCity_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319740260,
+            "created_at": "Thu, 05 Oct 2023 14:12:37 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.5,
+            "user": {
+              "uid": 815498,
+              "user_name": "Mackan78",
+              "first_name": "Mackan",
+              "last_name": "",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/8b007ff8f498bb095e6190622bdf9c4d_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 9732448,
+              "venue_name": "Stigbergets Fot",
+              "venue_slug": "stigbergets-fot",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "beer_bar",
+                    "category_name": "Beer Bar",
+                    "category_id": "56aa371ce4b08b9a8d57356c",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "5 Götgatan",
+                "venue_city": "Stockholm",
+                "venue_state": "Storstockholm",
+                "venue_country": "Sverige",
+                "lat": 59.3191223,
+                "lng": 18.0709476
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "stigbergetsfot.se"
+              },
+              "foursquare": {
+                "foursquare_id": "5dd91a1f15b2280008674fd4",
+                "foursquare_url": "https://4sq.com/2KO8FUp"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_9732448_8b46c650_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 4,
+              "count": 4,
+              "auth_toast": null,
+              "items": [
+                {
+                  "uid": 4770445,
+                  "user": {
+                    "uid": 4770445,
+                    "user_name": "komakillen",
+                    "first_name": "Marcus",
+                    "last_name": "M",
+                    "bio": "",
+                    "location": "Gävle, Sweden",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/41b822247a87f07a111527abf6d6b548_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1414097440,
+                  "like_owner": false,
+                  "created_at": "Fri, 06 Oct 2023 17:40:36 +0000"
+                },
+                {
+                  "uid": 4037858,
+                  "user": {
+                    "uid": 4037858,
+                    "user_name": "larmar01",
+                    "first_name": "Lars",
+                    "last_name": "Marklund",
+                    "bio": "",
+                    "location": "S. Sunderbyn",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/1ed3e830b62cdd6fd4323d2fc8c9f363_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1413680603,
+                  "like_owner": false,
+                  "created_at": "Thu, 05 Oct 2023 16:37:52 +0000"
+                },
+                {
+                  "uid": 2777187,
+                  "user": {
+                    "uid": 2777187,
+                    "user_name": "Boelcke",
+                    "first_name": "Oswald",
+                    "last_name": "B.",
+                    "bio": "",
+                    "location": "Immelmansvängen 1",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/232394f72ea6540699e773882aa701b8_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1413660488,
+                  "like_owner": false,
+                  "created_at": "Thu, 05 Oct 2023 15:20:57 +0000"
+                },
+                {
+                  "uid": 6374311,
+                  "user": {
+                    "uid": 6374311,
+                    "user_name": "Gnurkefnas",
+                    "first_name": "Joachim",
+                    "last_name": "Grohp",
+                    "bio": "",
+                    "location": "Älta, Hedvigslund, Sweden",
+                    "relationship": "none",
+                    "user_avatar": "https://assets.untappd.com/profile/a026b999bec402470fa0cd7f8760f9b0_100x100.jpg",
+                    "account_type": "user",
+                    "venue_details": [
+
+                    ],
+                    "brewery_details": [
+
+                    ]
+                  },
+                  "like_id": 1413650708,
+                  "like_owner": false,
+                  "created_at": "Thu, 05 Oct 2023 14:26:46 +0000"
+                }
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for iPhone - (V2)",
+              "app_website": "http://untpd.it/iphoneapp"
+            },
+            "badges": {
+              "retro_status": false,
+              "count": 1,
+              "items": [
+                {
+                  "badge_id": 90647,
+                  "user_badge_id": 1142830819,
+                  "badge_name": "Verified Adventure (Level 62)",
+                  "badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 310 check-ins at venue that is verified.  Try 5 more for Level 63!",
+                  "created_at": "Thu, 05 Oct 2023 14:12:38 +0000",
+                  "badge_image": {
+                    "sm": "https://assets.untappd.com/badges/bdg_VerifiedVenue_sm.jpg",
+                    "md": "https://assets.untappd.com/badges/bdg_VerifiedVenue_md.jpg",
+                    "lg": "https://assets.untappd.com/badges/bdg_VerifiedVenue_lg.jpg"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "checkin_id": 1319596076,
+            "created_at": "Wed, 04 Oct 2023 18:15:59 +0000",
+            "checkin_comment": "",
+            "rating_score": 3.75,
+            "user": {
+              "uid": 4218275,
+              "user_name": "sofiosaurius",
+              "first_name": "Sofia",
+              "last_name": "Stiernelöf",
+              "location": "",
+              "url": "",
+              "is_supporter": 0,
+              "bio": "",
+              "relationship": null,
+              "user_avatar": "https://assets.untappd.com/profile/1bcb0ced9dfdf954dec288e88b72b7f5_100x100.jpg",
+              "is_private": 0,
+              "public_toasts": 1
+            },
+            "beer": {
+              "bid": 5525615,
+              "beer_name": "FESTBIER",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-5525615_a2bb9_sm.jpeg",
+              "beer_abv": 6,
+              "beer_ibu": 0,
+              "beer_slug": "stigbergets-bryggeri-festbier",
+              "beer_description": "Oktober är här! \r\nDet betyder FEST,\r\ndet betyder BIER. \r\nGESUNDHEIT!",
+              "beer_style": "Lager - Helles",
+              "has_had": false,
+              "beer_active": 1
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986,
+                "lng": 11.9309
+              },
+              "brewery_active": 1
+            },
+            "venue": {
+              "venue_id": 8924977,
+              "venue_name": "Carlstad Ölhall",
+              "venue_slug": "carlstad-olhall",
+              "primary_category_key": null,
+              "primary_category": null,
+              "parent_category_id": "4d4b7105d754a06376d81259",
+              "categories": {
+                "count": 1,
+                "items": [
+                  {
+                    "category_key": "pub",
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                  }
+                ]
+              },
+              "location": {
+                "venue_address": "1 Järnvägsgatan",
+                "venue_city": "Karlstad",
+                "venue_state": "Värmlands län",
+                "venue_country": "Sverige",
+                "lat": 59.3785667,
+                "lng": 13.4990072
+              },
+              "contact": {
+                "twitter": "",
+                "venue_url": "www.karlstadolhall.se"
+              },
+              "foursquare": {
+                "foursquare_id": "5cd1d4279fca56002c495308",
+                "foursquare_url": "https://4sq.com/2vLzvoc"
+              },
+              "venue_icon": {
+                "sm": "https://assets.untappd.com/venuelogos/venue_8924977_e487ed3a_bg_64.png",
+                "md": "https://assets.untappd.com/venuelogos/venue_8924977_e487ed3a_bg_88.png",
+                "lg": "https://assets.untappd.com/venuelogos/venue_8924977_e487ed3a_bg_176.png?v=1"
+              },
+              "is_verified": true
+            },
+            "comments": {
+              "total_count": 0,
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "toasts": {
+              "total_count": 0,
+              "count": 0,
+              "auth_toast": false,
+              "items": [
+
+              ]
+            },
+            "media": {
+              "count": 0,
+              "items": [
+
+              ]
+            },
+            "source": {
+              "app_name": "Untappd for Android - (V4)",
+              "app_website": "http://untpd.it/androidapp"
+            },
+            "badges": {
+              "count": 0,
+              "items": [
+
+              ]
+            }
+          }
+        ],
+        "pagination": {
+          "since_url": "https://api.untappd.com/v4/beer/checkins/5525615?max_id=1319596076",
+          "next_url": "https://api.untappd.com/v4/beer/checkins/5525615?max_id=1319596076",
+          "max_id": 1319596076
+        }
+      },
+      "similar": {
+        "method": "es",
+        "count": 5,
+        "items": [
+          {
+            "rating_score": 2.83108,
+            "beer": {
+              "bid": 5508062,
+              "beer_name": "Borg Export Lager",
+              "beer_abv": 5,
+              "beer_ibu": 15,
+              "beer_slug": "hansa-borg-bryggerier-borg-export-lager",
+              "beer_style": "Lager - Dortmunder / Export",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 14089,
+              "brewery_name": "Hansa Borg Bryggerier",
+              "brewery_slug": "hansa-borg-bryggerier",
+              "brewery_page_url": "/HansaBorgBryggerier",
+              "brewery_type": "Macro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-14089_84b63.jpeg",
+              "country_name": "Norway",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/hansaborgbryggerier",
+                "instagram": "hansaborgbryggerier",
+                "url": "https://www.hansaborg.no"
+              },
+              "location": {
+                "brewery_city": "Bergen",
+                "brewery_state": "Vestland",
+                "lat": 60.2939987,
+                "lng": 5.2579899
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.48144,
+            "beer": {
+              "bid": 4402061,
+              "beer_name": "Barnaby",
+              "beer_abv": 5.6,
+              "beer_ibu": 65,
+              "beer_slug": "stigbergets-bryggeri-barnaby-pils",
+              "beer_style": "Lager - American",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-4402061_12837_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 56652,
+              "brewery_name": "Stigbergets Bryggeri",
+              "brewery_slug": "stigbergets-bryggeri",
+              "brewery_page_url": "/stigbergetsbryggeri",
+              "brewery_type": "Micro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-56652_15a32.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/stigbergets",
+                "instagram": "stigbergets",
+                "url": "https://stigbergetsbryggeri.se"
+              },
+              "location": {
+                "brewery_city": "Gothenburg",
+                "brewery_state": "Västra Götalands län",
+                "lat": 57.6986008,
+                "lng": 11.9308996
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.04175,
+            "beer": {
+              "bid": 8048,
+              "beer_name": "Super Bock",
+              "beer_abv": 5.2,
+              "beer_ibu": 16,
+              "beer_slug": "super-bock-group-super-bock",
+              "beer_style": "Lager - Pale",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-_8048_sm_e619d535768c10f1386e3eb1a2588e.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 1308,
+              "brewery_name": "Super Bock Group",
+              "brewery_slug": "super-bock-group",
+              "brewery_page_url": "/UnicerBebidas",
+              "brewery_type": "Macro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-1308_b1f8f.jpeg",
+              "country_name": "Portugal",
+              "contact": {
+                "twitter": "",
+                "facebook": "",
+                "instagram": "",
+                "url": "https://www.superbockgroup.com/"
+              },
+              "location": {
+                "brewery_city": "Leça do Balio",
+                "brewery_state": "Porto",
+                "lat": 41.2042007,
+                "lng": -8.6273003
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 2.57326,
+            "beer": {
+              "bid": 3779,
+              "beer_name": "Miller Genuine Draft",
+              "beer_abv": 4.7,
+              "beer_ibu": 12,
+              "beer_slug": "miller-brewing-company-miller-genuine-draft",
+              "beer_style": "Lager - American",
+              "beer_label": "https://assets.untappd.com/site/beer_logos/beer-3779_8ae90_sm.jpeg",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 863,
+              "brewery_name": "Miller Brewing Company",
+              "brewery_slug": "miller-brewing-company",
+              "brewery_page_url": "/millercoors",
+              "brewery_type": "Macro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-863_480fe.jpeg",
+              "country_name": "United States",
+              "contact": {
+                "twitter": "Miller_Global",
+                "facebook": "https://www.facebook.com/millerhighlife",
+                "instagram": "molsoncoors",
+                "url": "https://www.molsoncoors.com"
+              },
+              "location": {
+                "brewery_city": "Milwaukee",
+                "brewery_state": "WI",
+                "lat": 43.0421982,
+                "lng": -87.9676971
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          },
+          {
+            "rating_score": 3.21955,
+            "beer": {
+              "bid": 5437503,
+              "beer_name": "Pistonhead - Making Things Black",
+              "beer_abv": 5.1,
+              "beer_ibu": 27,
+              "beer_slug": "brutal-brewing-pistonhead-making-things-black",
+              "beer_style": "Lager - American",
+              "beer_label": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+              "has_had": false
+            },
+            "brewery": {
+              "brewery_id": 16622,
+              "brewery_name": "Brutal Brewing",
+              "brewery_slug": "brutal-brewing",
+              "brewery_page_url": "/BrutalBrewing",
+              "brewery_type": "Macro Brewery",
+              "brewery_label": "https://assets.untappd.com/site/brewery_logos/brewery-16622_2c68b.jpeg",
+              "country_name": "Sweden",
+              "contact": {
+                "twitter": "",
+                "facebook": "https://www.facebook.com/BrutalBrewing",
+                "instagram": "BrutalBrewing",
+                "url": ""
+              },
+              "location": {
+                "brewery_city": "Vårby",
+                "brewery_state": "Stockholms län",
+                "lat": 59.2571983,
+                "lng": 17.8815994
+              },
+              "brewery_active": 1
+            },
+            "friends": {
+              "items": [
+
+              ],
+              "count": 0
+            }
+          }
+        ]
+      },
+      "friends": {
+        "items": [
+
+        ],
+        "count": 0
+      },
+      "weighted_rating_score": 3.58925,
+      "beer_active": 1,
+      "vintages": {
+        "count": 0,
+        "items": [
+
+        ]
+      },
+      "brewed_by": {
+        "count": 0,
+        "items": [
+
+        ]
+      }
+    }
+  }
+}
