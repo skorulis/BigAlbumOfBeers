@@ -149,56 +149,6 @@ shops.each do |item|
 	}
 end
 
-allBeers.each do |item|
-	date = "2016-11-09-"
-	name = item["name"]
-	filename = "_posts/beer/" + date + customSlugify(name) + ".md"
-	fileurl = "/beer/" + customSlugify(name) + ".html"
-	stat = statMap[name]
-	extra = extraMap[name]
-	brewery = stat["b"]
-	country = stat["c"]
-	style = stat["style"]
-	untappd = extra["untappd"]
-
-	untappdURL = untappd["url"]
-	item["filename"] = fileurl
-
-	File.open(filename,'w') { |file|
-		file.puts('---')
-		file.puts('layout: beer')
-		file.puts('filename: ' + filename)
-		file.puts('title: ' + name)
-		file.puts('category: beer')
-
-		if untappdURL
-			file.puts('untappd: "' + untappdURL + '"')
-		end
-
-		if country
-			file.puts('country: "' + country + '"')
-		end
-		
-		if brewery
-			breweryURL = "/brewery/" + customSlugify(brewery) + ".html"
-			
-			file.puts('brewery: "' + brewery + '"')
-			file.puts('breweryURL: "' + breweryURL + '"')
-		end
-		if style
-			file.puts('style: "' + style + '"')
-		end
-		
-		file.puts('score: ' + item["score"])
-		file.puts('img: /' + item["imgPath"])
-		file.puts('beer-date: "' + item["date"] + '"')
-		file.puts('desc: "' + item["desc"] + '"')
-		file.puts('permalink: /beer/:title.html')
-		file.puts('---')
-	}
-
-end
-
 File.open("_data/pubs.json","w") do |f|
   	f.write(JSON.pretty_generate({"pubs" => pubs}))
 end

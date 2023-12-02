@@ -14,6 +14,7 @@ ruby scripts/breweryList.rb
 swift run --package-path ./BAOBCLI BAOBCLI pull-images
 
 ruby scripts/distributeBreweries.rb
+swift run --package-path ./BAOBCLI BAOBCLI create-posts
 bundle exec ruby scripts/createPosts.rb
 
 OR RUN scripts/finalStep [UNTAPPED_ID] [UNTAPPED_SECRET]
