@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-sierra-nevada-otra-vez.md
+title: Sierra Nevada Otra vez
+category: beer
+score: 6
+beer-date: "2016-06-16"
+desc: "Smells strange bad but tastes completely different. Having trouble describing exactly what I’m getting here, kind of like watermelon. Perhaps too many things going on all at once. I wouldn’t want many but it’s worth the experience"
+permalink: /beer/:title.html
+img: /img/list/sierra-nevada-otra-vez.jpeguntappd: "https://untappd.com/b/sierra-nevada-brewing-co--otra-vez/1211126"
+country: "United States"
+brewery: "Sierra Nevada Brewing Co."
+breweryURL: "breweryURL"
+style: "Sour - Gose"
+---

@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-badlands-ipa.md
+title: Badlands IPA
+category: beer
+score: 7
+beer-date: "2015-10-17"
+desc: "Nicer than the pale"
+permalink: /beer/:title.html
+img: /img/list/badlands-ipa.jpeguntappd: "https://untappd.com/b/badlands-brewery-indian-pale-ale/96541"
+country: "Australia"
+brewery: "Badlands Brewery"
+breweryURL: "breweryURL"
+style: "IPA - English"
+---

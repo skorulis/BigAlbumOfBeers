@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-hawkers-knafeh-habibi.md
+title: Hawkers knafeh habibi
+category: beer
+score: 9
+beer-date: "2021-01-01"
+desc: "A very cake like stout. I do like how they have mixed pastry and beer. Hard to pick individual flavours but I do like it"
+permalink: /beer/:title.html
+img: /img/list/hawkers-knafeh-habibi.jpeguntappd: "https://untappd.com/b/hawkers-beer-knafeh-habibi/4063923"
+country: "Australia"
+brewery: "Hawkers Beer"
+breweryURL: "breweryURL"
+style: "Stout - Imperial / Double Pastry"
+---

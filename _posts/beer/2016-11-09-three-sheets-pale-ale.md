@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-three-sheets-pale-ale.md
+title: Three sheets Pale Ale
+category: beer
+score: 8
+beer-date: "2013-03-09"
+desc: "A proper pale ale"
+permalink: /beer/:title.html
+img: /img/list/three-sheets-pale-ale.jpeguntappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-three-sheets/14862"
+country: "Australia"
+brewery: "The Lord Nelson Brewery Hotel"
+breweryURL: "breweryURL"
+style: "Pale Ale - Australian"
+---

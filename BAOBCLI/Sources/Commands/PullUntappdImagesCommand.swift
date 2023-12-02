@@ -22,19 +22,18 @@ extension PullUntappdImagesCommand {
     struct Runner {
         
         private let urlSession = URLSession(configuration: .default)
-        
+        private let fileManager = FileManager.default
+        private let dataAccess = DataAccessService()
         
         func run() async throws {
-            let data = try Data(contentsOf: URLPaths.full)
-            let fileManager = FileManager.default
+            var beers = try dataAccess.fullBeers()
             let rootURL = URL(filePath: fileManager.currentDirectoryPath)
             
-            var beers = try JSONDecoder().decode([BeerModel].self, from: data)
             for i in 0..<beers.count {
                 var beer = beers[i]
                 let id = beer.name.slugify()
                 beer.id = id
-                let filename = rootURL.appending(path: "img/list/" + id + ".jpeg")
+                let filename = rootURL.appending(path: beer.imgPath)
                 if !fileManager.fileExists(at: filename) {
                     print("Downloading image for \(beer.name)")
                     let imageData = try await downloadImage(url: beer.img)

@@ -12,4 +12,8 @@ struct BeerModel: Codable {
     let date: String
     let score: String?
     let brewery: String?
+    
+    var imgPath: String {
+        "img/list/" + name.slugify() + ".jpeg"
+    }
 }

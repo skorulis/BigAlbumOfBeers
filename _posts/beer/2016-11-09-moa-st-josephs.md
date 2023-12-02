@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-moa-st-josephs.md
+title: MOA St Josephs
+category: beer
+score: 8
+beer-date: "2015-05-01"
+desc: "Not the best triple but a nice flavour none the less"
+permalink: /beer/:title.html
+img: /img/list/moa-st-josephs.jpeguntappd: "https://untappd.com/b/moa-brewing-company-st-josephs/39064"
+country: "New Zealand"
+brewery: "Moa Brewing Company"
+breweryURL: "breweryURL"
+style: "Belgian Tripel"
+---

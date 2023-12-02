@@ -10,6 +10,7 @@ struct CLICommand: AsyncParsableCommand {
         commandName: "cli",
         abstract: "Helpful commands to build the BAOB",
         subcommands: [
+            CreatePostsCommand.self,
             PullUntappdImagesCommand.self,
             UpdateUntappdIDsCommand.self,
         ]

@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-tradewind-lager.md
+title: Tradewind lager
+category: beer
+score: 6
+beer-date: "2016-02-14"
+desc: "Easy drinking lager. Good for an all day drink"
+permalink: /beer/:title.html
+img: /img/list/tradewind-lager.jpeguntappd: "https://untappd.com/b/akasha-brewing-company--australia--tradewind-lager/1328361"
+country: "Australia"
+brewery: "Akasha Brewing Company (Australia)"
+breweryURL: "breweryURL"
+style: "Lager - Pale"
+---

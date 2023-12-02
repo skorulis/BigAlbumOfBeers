@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-the-wild-beer-co-bliss.md
+title: The wild beer co Bliss
+category: beer
+score: 5
+beer-date: "2013-07-19"
+desc: "Weird as hell. Is that ginger ?"
+permalink: /beer/:title.html
+img: /img/list/the-wild-beer-co-bliss.jpeguntappd: "https://untappd.com/b/the-wild-beer-co-bliss/259507"
+country: "England"
+brewery: "The Wild Beer Co"
+breweryURL: "breweryURL"
+style: "Saison / Farmhouse Ale"
+---

@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-icing-grapefruit.md
+title: ICing grapefruit
+category: beer
+score: 7
+beer-date: "2015-10-17"
+desc: "Not sure how this qualifies as a beer but it's pretty nice regardless"
+permalink: /beer/:title.html
+img: /img/list/icing-grapefruit.jpeguntappd: "https://untappd.com/b/kooksoondang-icing-grapefruit-sparkling-rice-brew/815374"
+country: "South Korea"
+brewery: "Kooksoondang"
+breweryURL: "breweryURL"
+style: "Specialty Grain"
+---

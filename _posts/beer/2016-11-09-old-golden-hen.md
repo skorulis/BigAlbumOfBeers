@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-old-golden-hen.md
+title: Old golden hen
+category: beer
+score: 4
+beer-date: "2013-04-27"
+desc: "Wouldn't have another"
+permalink: /beer/:title.html
+img: /img/list/old-golden-hen.jpeguntappd: "https://untappd.com/b/greene-king-morland-old-golden-hen/75673"
+country: "England"
+brewery: "Greene King"
+breweryURL: "breweryURL"
+style: "Golden Ale"
+---

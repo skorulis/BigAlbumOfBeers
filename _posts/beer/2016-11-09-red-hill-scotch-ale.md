@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-red-hill-scotch-ale.md
+title: Red hill Scotch ale
+category: beer
+score: 3
+beer-date: "2016-01-06"
+desc: "Fizzed for about 10 minutes and then just tasted a little blemished"
+permalink: /beer/:title.html
+img: /img/list/red-hill-scotch-ale.jpeguntappd: "https://untappd.com/b/red-hill-brewery-scotch-ale/10814"
+country: "Australia"
+brewery: "Red Hill Brewery"
+breweryURL: "breweryURL"
+style: "Scotch Ale / Wee Heavy"
+---

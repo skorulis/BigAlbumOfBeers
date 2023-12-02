@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-hopdevil-ipa.md
+title: HopDevil IPA
+category: beer
+score: 6
+beer-date: "2015-10-17"
+desc: "A pretty average IPA which slightly misses the mark"
+permalink: /beer/:title.html
+img: /img/list/hopdevil-ipa.jpeguntappd: "https://untappd.com/b/victory-brewing-company-hopdevil/3832"
+country: "United States"
+brewery: "Victory Brewing Company"
+breweryURL: "breweryURL"
+style: "IPA - American"
+---

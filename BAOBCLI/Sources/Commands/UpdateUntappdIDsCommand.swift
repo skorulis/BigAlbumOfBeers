@@ -5,8 +5,6 @@ import Foundation
 
 final class UpdateUntappdIDsCommand: AsyncParsableCommand {
     
-    static let extraURL = URL(filePath: "./js/extra.json")
-    
     @Option
     var sourceFile: String
     
@@ -16,13 +14,13 @@ final class UpdateUntappdIDsCommand: AsyncParsableCommand {
     )
     
     func run() async throws {
-        print(Self.extraURL)
+        let accessService = DataAccessService()
+        
         let url = URL(filePath: sourceFile)
         let data = try Data(contentsOf: url)
         let entries = try JSONDecoder().decode([PhotoInfo].self, from: data)
         
         let extractor = FBStringExtractor()
-        let extraData = try Data(contentsOf: Self.extraURL)
         let entriesParsed = entries.compactMap { info in
             do {
                 let result = try extractor.extract(string: info.facebookText)
@@ -33,7 +31,7 @@ final class UpdateUntappdIDsCommand: AsyncParsableCommand {
             }
         }
         
-        var extra = try JSONDecoder().decode([String: ExtraEntry].self, from: extraData)
+        var extra = try accessService.extraEntries()
         let entryMap = Dictionary(grouping: entriesParsed) { item in
             return item.1.name
         }.mapValues { $0[0] }
@@ -54,7 +52,7 @@ final class UpdateUntappdIDsCommand: AsyncParsableCommand {
         let encoder = JSONEncoder()
         encoder.outputFormatting = .prettyPrinted
         let outputData = try encoder.encode(extra)
-        try outputData.write(to: Self.extraURL)
+        try outputData.write(to: URLPaths.extra)
     }
     
 }

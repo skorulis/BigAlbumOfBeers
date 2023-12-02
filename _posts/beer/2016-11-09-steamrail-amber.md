@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-steamrail-amber.md
+title: Steamrail amber
+category: beer
+score: 6
+beer-date: "2015-05-01"
+desc: "Not as good as the rest of the range"
+permalink: /beer/:title.html
+img: /img/list/steamrail-amber.jpeguntappd: "https://untappd.com/b/steamrail-brewing-company--coles--lucky-amber/292682"
+country: "Australia"
+brewery: "Steamrail Brewing Company (Coles)"
+breweryURL: "breweryURL"
+style: "Red Ale - American Amber / Red"
+---

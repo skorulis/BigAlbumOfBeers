@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-clare-valley-bulls-eye.md
+title: Clare valley bulls eye
+category: beer
+score: 4.5
+beer-date: "2016-09-21"
+desc: "Overly bitter with no hop profile"
+permalink: /beer/:title.html
+img: /img/list/clare-valley-bulls-eye.jpeguntappd: "https://untappd.com/b/clare-valley-brewing-co--bulls-eye/439975"
+country: "Australia"
+brewery: "Clare Valley Brewing Co."
+breweryURL: "breweryURL"
+style: "Pale Ale - Australian"
+---

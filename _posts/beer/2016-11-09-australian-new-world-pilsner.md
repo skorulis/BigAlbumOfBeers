@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-australian-new-world-pilsner.md
+title: Australian new world pilsner
+category: beer
+score: 6
+beer-date: "2017-03-03"
+desc: "A little too dry for my liking"
+permalink: /beer/:title.html
+img: /img/list/australian-new-world-pilsner.jpeguntappd: "https://untappd.com/b/the-australian-brewery-new-world-pilsner/1340861"
+country: "Australia"
+brewery: "The Australian Brewery"
+breweryURL: "breweryURL"
+style: "Pilsner - Other"
+---

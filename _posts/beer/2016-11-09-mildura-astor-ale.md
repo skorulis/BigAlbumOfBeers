@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-mildura-astor-ale.md
+title: Mildura Astor Ale
+category: beer
+score: 5
+beer-date: "2015-01-28"
+desc: "Pretty average"
+permalink: /beer/:title.html
+img: /img/list/mildura-astor-ale.jpeguntappd: "https://untappd.com/b/mildura-brewery-astor-ale/536443"
+country: "Australia"
+brewery: "Mildura Brewery"
+breweryURL: "breweryURL"
+style: "Pale Ale - Australian"
+---

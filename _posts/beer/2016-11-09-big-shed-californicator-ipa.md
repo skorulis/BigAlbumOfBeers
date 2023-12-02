@@ -1,0 +1,15 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-big-shed-californicator-ipa.md
+title: Big shed californicator IPA
+category: beer
+score: 8
+beer-date: "2016-02-14"
+desc: "A textbook IPA. Bitter with a strong hop flavour. I just picked it because of the bears having sex on the label"
+permalink: /beer/:title.html
+img: /img/list/big-shed-californicator-ipa.jpeguntappd: "https://untappd.com/b/big-shed-brewing-concern-californicator-ipa/950413"
+country: "Australia"
+brewery: "Big Shed Brewing Concern"
+breweryURL: "breweryURL"
+style: "IPA - American"
+---
