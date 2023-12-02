@@ -1,5 +1,5 @@
 <div class="col-md-4 col-sm-6 col-xs-12">
-  <a href="{{include.beer.id | prepend: beer/ | prepend: site.baseurl}}">
+  <a href="{{include.beer.filename | prepend: site.baseurl}}">
   <p class="center">
     {{include.beer.name}}
     {% if include.beer.score and include.beer.score != "null" %}

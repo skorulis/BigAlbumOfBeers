@@ -31,9 +31,8 @@ extension PullUntappdImagesCommand {
             
             for i in 0..<beers.count {
                 var beer = beers[i]
-                let id = beer.name.slugify()
-                beer.id = id
-                beer.imgPath = "img/list/" + beer.name.slugify() + ".jpeg"
+                beer.imgPath = "img/list/" + beer.id + ".jpeg"
+                beer.filename = "beer/" + beer.id + ".html"
                 let filename = rootURL.appending(path: beer.imgPath!)
                 if !fileManager.fileExists(at: filename) {
                     print("Downloading image for \(beer.name)")

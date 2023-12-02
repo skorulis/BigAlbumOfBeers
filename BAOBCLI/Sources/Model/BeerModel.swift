@@ -1,9 +1,10 @@
 //  Created by Alexander Skorulis on 1/12/2023.
 
 import Foundation
+import Slugify
 
 struct BeerModel: Codable {
-    var id: String?
+    var filename: String?
     var imgPath: String?
     let name: String
     let desc: String
@@ -13,5 +14,9 @@ struct BeerModel: Codable {
     let date: String
     let score: String?
     let brewery: String?
+    
+    var id: String {
+        name.slugify()
+    }
     
 }
