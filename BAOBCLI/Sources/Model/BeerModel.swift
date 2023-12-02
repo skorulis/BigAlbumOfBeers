@@ -4,6 +4,7 @@ import Foundation
 
 struct BeerModel: Codable {
     var id: String?
+    var imgPath: String?
     let name: String
     let desc: String
     let img: String
@@ -13,7 +14,4 @@ struct BeerModel: Codable {
     let score: String?
     let brewery: String?
     
-    var imgPath: String {
-        "img/list/" + name.slugify() + ".jpeg"
-    }
 }

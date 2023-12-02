@@ -63,7 +63,7 @@ extension CreatePostsCommand {
             beer-date: "\(beer.date)"
             desc: "\(beer.desc)"
             permalink: /beer/:title.html
-            img: /\(beer.imgPath)
+            img: /\(beer.imgPath!)
             """
             
             if let untappdURL = extra?.untappd.url {

@@ -33,7 +33,8 @@ extension PullUntappdImagesCommand {
                 var beer = beers[i]
                 let id = beer.name.slugify()
                 beer.id = id
-                let filename = rootURL.appending(path: beer.imgPath)
+                beer.imgPath = "img/list/" + beer.name.slugify() + ".jpeg"
+                let filename = rootURL.appending(path: beer.imgPath!)
                 if !fileManager.fileExists(at: filename) {
                     print("Downloading image for \(beer.name)")
                     let imageData = try await downloadImage(url: beer.img)
@@ -46,8 +47,6 @@ extension PullUntappdImagesCommand {
             encoder.outputFormatting = [.prettyPrinted, .sortedKeys, .withoutEscapingSlashes]
             let newData = try encoder.encode(beers)
             try newData.write(to: URLPaths.full)
-            
-            print(beers.count)
         }
         
         func downloadImage(url: String) async throws -> Data {
