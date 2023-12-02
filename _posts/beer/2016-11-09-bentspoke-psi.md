@@ -7,7 +7,8 @@ score: 3
 beer-date: "2016-02-14"
 desc: "Very sour and bitter. Not for me"
 permalink: /beer/:title.html
-img: /img/list/bentspoke-psi.jpeguntappd: "https://untappd.com/b/bentspoke-brewing-co-psi/954295"
+img: /img/list/bentspoke-psi.jpeg
+untappd: "https://untappd.com/b/bentspoke-brewing-co-psi/954295"
 country: "Australia"
 brewery: "Bentspoke Brewing Co"
 breweryURL: "breweryURL"

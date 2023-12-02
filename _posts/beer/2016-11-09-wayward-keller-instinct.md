@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2016-11-13"
 desc: "Has a really strange flavour in the back. Interesting as something I've not had before but not going to bring me back"
 permalink: /beer/:title.html
-img: /img/list/wayward-keller-instinct.jpeguntappd: "https://untappd.com/b/wayward-brewing-keller-instinct/291819"
+img: /img/list/wayward-keller-instinct.jpeg
+untappd: "https://untappd.com/b/wayward-brewing-keller-instinct/291819"
 country: "Australia"
 brewery: "Wayward Brewing"
 breweryURL: "breweryURL"

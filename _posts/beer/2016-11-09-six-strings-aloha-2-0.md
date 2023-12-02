@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "Kind of like a Hawaiian punch mixed with a beer. Probably just a bit too acidic in the back of the throat"
 permalink: /beer/:title.html
-img: /img/list/six-strings-aloha-2-0.jpeguntappd: "https://untappd.com/b/six-string-brewing-company-aloha-2-0-pog-hopped/4618137"
+img: /img/list/six-strings-aloha-2-0.jpeg
+untappd: "https://untappd.com/b/six-string-brewing-company-aloha-2-0-pog-hopped/4618137"
 country: "Australia"
 brewery: "Six String Brewing Company"
 breweryURL: "breweryURL"

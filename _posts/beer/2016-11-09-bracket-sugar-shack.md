@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-10-15"
 desc: "Very dark and sweet.  Does remind me a bit of maple and sugar. A little bit too boozy for my taste"
 permalink: /beer/:title.html
-img: /img/list/bracket-sugar-shack.jpeguntappd: "https://untappd.com/b/bracket-brewing-sugar-shack/4959323"
+img: /img/list/bracket-sugar-shack.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-sugar-shack/4959323"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

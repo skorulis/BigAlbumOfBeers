@@ -7,7 +7,8 @@ score: 8
 beer-date: "2015-02-27"
 desc: "A nice tasty IPA. I like the lack of a bitter aftertaste"
 permalink: /beer/:title.html
-img: /img/list/ballast-point-big-eye.jpeguntappd: "https://untappd.com/b/ballast-point-brewing---spirits-big-eye/2447"
+img: /img/list/ballast-point-big-eye.jpeg
+untappd: "https://untappd.com/b/ballast-point-brewing---spirits-big-eye/2447"
 country: "United States"
 brewery: "Ballast Point Brewing & Spirits"
 breweryURL: "breweryURL"

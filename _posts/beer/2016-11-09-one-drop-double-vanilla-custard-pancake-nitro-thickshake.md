@@ -7,7 +7,8 @@ score: 8
 beer-date: "2021-11-12"
 desc: "Pretty much delivers everything in the name. Very sweet and very hard to taste the alcohol"
 permalink: /beer/:title.html
-img: /img/list/one-drop-double-vanilla-custard-pancake-nitro-thickshake.jpeguntappd: "https://untappd.com/b/one-drop-brewing-co-double-vanilla-custard-pancake-imperial-nitro-thickshake-ipa/3794732"
+img: /img/list/one-drop-double-vanilla-custard-pancake-nitro-thickshake.jpeg
+untappd: "https://untappd.com/b/one-drop-brewing-co-double-vanilla-custard-pancake-imperial-nitro-thickshake-ipa/3794732"
 country: "Australia"
 brewery: "One Drop Brewing Co"
 breweryURL: "breweryURL"

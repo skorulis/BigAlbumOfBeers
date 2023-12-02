@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-03-31"
 desc: "Very tropical. Smells very sugary. It’s a great day for this"
 permalink: /beer/:title.html
-img: /img/list/nomad-south-pacific-dream.jpeguntappd: "https://untappd.com/b/nomad-brewing-co--south-pacific-dream/2463259"
+img: /img/list/nomad-south-pacific-dream.jpeg
+untappd: "https://untappd.com/b/nomad-brewing-co--south-pacific-dream/2463259"
 country: "Australia"
 brewery: "Nomad Brewing Co."
 breweryURL: "breweryURL"

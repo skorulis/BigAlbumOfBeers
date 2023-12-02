@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-07-19"
 desc: "A beer for anyone"
 permalink: /beer/:title.html
-img: /img/list/dead-pony-club.jpeguntappd: "https://untappd.com/b/brewdog-dead-pony-club/164769"
+img: /img/list/dead-pony-club.jpeg
+untappd: "https://untappd.com/b/brewdog-dead-pony-club/164769"
 country: "Scotland"
 brewery: "BrewDog"
 breweryURL: "breweryURL"

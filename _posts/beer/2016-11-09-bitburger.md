@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-07-19"
 desc: "Not my favourite 1L beer"
 permalink: /beer/:title.html
-img: /img/list/bitburger.jpeguntappd: "https://untappd.com/b/bitburger-braugruppe-bitburger-premium-pils--premium-beer/17252"
+img: /img/list/bitburger.jpeg
+untappd: "https://untappd.com/b/bitburger-braugruppe-bitburger-premium-pils--premium-beer/17252"
 country: "Germany"
 brewery: "Bitburger Braugruppe"
 breweryURL: "breweryURL"

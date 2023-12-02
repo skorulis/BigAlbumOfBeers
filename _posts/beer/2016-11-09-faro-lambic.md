@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-05-25"
 desc: "A kind of tangy flavour"
 permalink: /beer/:title.html
-img: /img/list/faro-lambic.jpeguntappd: "https://untappd.com/b/brouwerij-lindemans-faro/7897"
+img: /img/list/faro-lambic.jpeg
+untappd: "https://untappd.com/b/brouwerij-lindemans-faro/7897"
 country: "Belgium"
 brewery: "Brouwerij Lindemans"
 breweryURL: "breweryURL"

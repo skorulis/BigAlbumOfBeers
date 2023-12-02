@@ -7,7 +7,8 @@ score: 6
 beer-date: "2016-03-16"
 desc: "Pretty standard wheat beer"
 permalink: /beer/:title.html
-img: /img/list/vilkmerges-kvietinis.jpeguntappd: "https://untappd.com/b/vilkmerges-alus-vilkmerges-kvietinis/256232"
+img: /img/list/vilkmerges-kvietinis.jpeg
+untappd: "https://untappd.com/b/vilkmerges-alus-vilkmerges-kvietinis/256232"
 country: "Lithuania"
 brewery: "Vilkmerges Alus"
 breweryURL: "breweryURL"

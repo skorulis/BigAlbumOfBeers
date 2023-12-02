@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-02-26"
 desc: "Very buttery in a good way. Smooth drinking"
 permalink: /beer/:title.html
-img: /img/list/quakers-styrian-ipa.jpeguntappd: "https://untappd.com/b/quakers-hat-brewing-styrian-ipa/5090002"
+img: /img/list/quakers-styrian-ipa.jpeg
+untappd: "https://untappd.com/b/quakers-hat-brewing-styrian-ipa/5090002"
 country: "Australia"
 brewery: "Quakers Hat Brewing"
 breweryURL: "breweryURL"

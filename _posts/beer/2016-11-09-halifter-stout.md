@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-01-29"
 desc: "A fairly mild stout"
 permalink: /beer/:title.html
-img: /img/list/halifter-stout.jpeguntappd: "https://untappd.com/b/grand-ridge-brewery-hatlifter-stout/36983"
+img: /img/list/halifter-stout.jpeg
+untappd: "https://untappd.com/b/grand-ridge-brewery-hatlifter-stout/36983"
 country: "Australia"
 brewery: "Grand Ridge Brewery"
 breweryURL: "breweryURL"

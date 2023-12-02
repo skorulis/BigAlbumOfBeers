@@ -7,7 +7,8 @@ score: 8
 beer-date: "2017-01-21"
 desc: "Really floral hop profile. Not nearly as big as I expected from the description but it's a nice balance that I could drink a few of"
 permalink: /beer/:title.html
-img: /img/list/fixation-ipa.jpeguntappd: "https://untappd.com/b/fixation-brewing-co-fixation-ipa/1343276"
+img: /img/list/fixation-ipa.jpeg
+untappd: "https://untappd.com/b/fixation-brewing-co-fixation-ipa/1343276"
 country: "Australia"
 brewery: "Fixation Brewing Co"
 breweryURL: "breweryURL"

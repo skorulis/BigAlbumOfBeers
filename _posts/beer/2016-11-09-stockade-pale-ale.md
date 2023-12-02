@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-10-17"
 desc: "A regular beer pretending to be something more"
 permalink: /beer/:title.html
-img: /img/list/stockade-pale-ale.jpeguntappd: "https://untappd.com/b/stockade-brew-co-stockade-pale-ale/784796"
+img: /img/list/stockade-pale-ale.jpeg
+untappd: "https://untappd.com/b/stockade-brew-co-stockade-pale-ale/784796"
 country: "Australia"
 brewery: "Stockade Brew Co"
 breweryURL: "breweryURL"

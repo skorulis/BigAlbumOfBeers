@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-09-26"
 desc: "Fairly mild NEIPA, easy drinking and a good lead in to stronger beers"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-dddh-cryo-neipa.jpeguntappd: "https://untappd.com/b/pirate-life-brewing-dddh-cryo-neipa/3968424"
+img: /img/list/pirate-life-dddh-cryo-neipa.jpeg
+untappd: "https://untappd.com/b/pirate-life-brewing-dddh-cryo-neipa/3968424"
 country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "breweryURL"

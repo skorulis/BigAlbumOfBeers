@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-08-07"
 desc: "Heavy toasted malt, very stouty"
 permalink: /beer/:title.html
-img: /img/list/atomic-moon-boot.jpeguntappd: "https://untappd.com/b/atomic-darkside-of-the-moonboot/4352640"
+img: /img/list/atomic-moon-boot.jpeg
+untappd: "https://untappd.com/b/atomic-darkside-of-the-moonboot/4352640"
 country: "Australia"
 brewery: "Atomic"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-08-07"
 desc: "Not that exciting"
 permalink: /beer/:title.html
-img: /img/list/deeds-dkat-centennial.jpeguntappd: "https://untappd.com/b/deeds-brewing-dkat-centennial/4254371"
+img: /img/list/deeds-dkat-centennial.jpeg
+untappd: "https://untappd.com/b/deeds-brewing-dkat-centennial/4254371"
 country: "Australia"
 brewery: "Deeds Brewing"
 breweryURL: "breweryURL"

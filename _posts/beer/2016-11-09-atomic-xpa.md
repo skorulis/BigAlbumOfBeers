@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-11-13"
 desc: "Solid fruity XPA"
 permalink: /beer/:title.html
-img: /img/list/atomic-xpa.jpeguntappd: "https://untappd.com/b/atomic-beer-project-xpa/3933306"
+img: /img/list/atomic-xpa.jpeg
+untappd: "https://untappd.com/b/atomic-beer-project-xpa/3933306"
 country: "Australia"
 brewery: "Atomic Beer Project"
 breweryURL: "breweryURL"

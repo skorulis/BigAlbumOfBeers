@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-03-09"
 desc: "Decent"
 permalink: /beer/:title.html
-img: /img/list/hahn-superdry.jpeguntappd: "https://untappd.com/b/hahn-brewing-co--pty-ltd-super-dry/6132"
+img: /img/list/hahn-superdry.jpeg
+untappd: "https://untappd.com/b/hahn-brewing-co--pty-ltd-super-dry/6132"
 country: "Australia"
 brewery: "Hahn Brewing Co. Pty Ltd"
 breweryURL: "breweryURL"

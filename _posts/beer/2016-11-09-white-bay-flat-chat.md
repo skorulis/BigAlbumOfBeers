@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-08-07"
 desc: "Middle of the road hazy"
 permalink: /beer/:title.html
-img: /img/list/white-bay-flat-chat.jpeguntappd: "https://untappd.com/b/white-bay-beer-co--flat-chat/4719912"
+img: /img/list/white-bay-flat-chat.jpeg
+untappd: "https://untappd.com/b/white-bay-beer-co--flat-chat/4719912"
 country: "Australia"
 brewery: "White Bay Beer Co."
 breweryURL: "breweryURL"

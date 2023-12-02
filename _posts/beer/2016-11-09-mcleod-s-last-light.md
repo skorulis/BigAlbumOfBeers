@@ -7,7 +7,8 @@ score: 7
 beer-date: "2019-07-14"
 desc: "So strange to see this much flavour in what is essentially a light beer. Like weak coffee with a hint of oats"
 permalink: /beer/:title.html
-img: /img/list/mcleod-s-last-light.jpeguntappd: "https://untappd.com/b/mcleods-last-light/3168345"
+img: /img/list/mcleod-s-last-light.jpeg
+untappd: "https://untappd.com/b/mcleods-last-light/3168345"
 country: "New Zealand"
 brewery: "McLeod's"
 breweryURL: "breweryURL"

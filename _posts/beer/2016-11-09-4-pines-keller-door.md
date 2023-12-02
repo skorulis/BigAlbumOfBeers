@@ -7,4 +7,5 @@ score: 7
 beer-date: "2013-03-28"
 desc: "Just a little bit extra flavour than a standard lager"
 permalink: /beer/:title.html
-img: /img/list/4-pines-keller-door.jpeg---
+img: /img/list/4-pines-keller-door.jpeg
+---

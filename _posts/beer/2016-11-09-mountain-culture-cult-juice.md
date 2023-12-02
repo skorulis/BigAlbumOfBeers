@@ -7,7 +7,8 @@ score: 9
 beer-date: "2021-01-31"
 desc: "Great hazy beer. Super tropical and juicy, full of flavour. Absolutely delicious"
 permalink: /beer/:title.html
-img: /img/list/mountain-culture-cult-juice.jpeguntappd: "https://untappd.com/b/mountain-culture-beer-co--cult-juice/3484719"
+img: /img/list/mountain-culture-cult-juice.jpeg
+untappd: "https://untappd.com/b/mountain-culture-beer-co--cult-juice/3484719"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
 breweryURL: "breweryURL"

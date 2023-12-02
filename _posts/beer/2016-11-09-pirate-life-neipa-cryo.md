@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2021-06-05"
 desc: "Very smooth IPA, absolutely smashable"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-neipa-cryo.jpeguntappd: "https://untappd.com/b/pirate-life-brewing-neipa-3/4263849"
+img: /img/list/pirate-life-neipa-cryo.jpeg
+untappd: "https://untappd.com/b/pirate-life-brewing-neipa-3/4263849"
 country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "breweryURL"

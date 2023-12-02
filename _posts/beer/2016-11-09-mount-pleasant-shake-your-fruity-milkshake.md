@@ -7,7 +7,8 @@ score: 9
 beer-date: "2017-04-11"
 desc: "Clear but full of particles. There's something odd in this beer, not bad just a flavour I can't pick out. Bitterness is completely overshadowed by the hops, just how I like my IPA"
 permalink: /beer/:title.html
-img: /img/list/mount-pleasant-shake-your-fruity-milkshake.jpeguntappd: "https://untappd.com/b/r-b-brewing-co--shake-your-fruity---milkshake-ipa/1842888"
+img: /img/list/mount-pleasant-shake-your-fruity-milkshake.jpeg
+untappd: "https://untappd.com/b/r-b-brewing-co--shake-your-fruity---milkshake-ipa/1842888"
 country: "Canada"
 brewery: "R&B Brewing Co."
 breweryURL: "breweryURL"

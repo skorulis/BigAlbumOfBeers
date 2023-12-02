@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2022-08-07"
 desc: "Pretty plain lager. Quite bitter and pretty boring"
 permalink: /beer/:title.html
-img: /img/list/isbjorn-lager.jpeguntappd: "https://untappd.com/b/macks-olbryggeri-isbjorn/601253"
+img: /img/list/isbjorn-lager.jpeg
+untappd: "https://untappd.com/b/macks-olbryggeri-isbjorn/601253"
 country: "Norway"
 brewery: "Macks Ølbryggeri"
 breweryURL: "breweryURL"

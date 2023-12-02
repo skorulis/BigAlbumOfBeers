@@ -7,7 +7,8 @@ score: 7
 beer-date: "2017-07-12"
 desc: "Mild maltiness. Pretty refreshing and easy to drink"
 permalink: /beer/:title.html
-img: /img/list/dolomiti-pils.jpeguntappd: "https://untappd.com/b/fabbrica-di-pedavena-birra-dolomiti-pils/18580"
+img: /img/list/dolomiti-pils.jpeg
+untappd: "https://untappd.com/b/fabbrica-di-pedavena-birra-dolomiti-pils/18580"
 country: "Italy"
 brewery: "Fabbrica di Pedavena"
 breweryURL: "breweryURL"

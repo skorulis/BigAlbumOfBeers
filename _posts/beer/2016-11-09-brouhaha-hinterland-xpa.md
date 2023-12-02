@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-12-25"
 desc: "Fairly standard XPA, a little more restrained than the Balter. It’s good, but not exciting"
 permalink: /beer/:title.html
-img: /img/list/brouhaha-hinterland-xpa.jpeguntappd: "https://untappd.com/b/brouhaha-brewery-hinterland-xpa/4049849"
+img: /img/list/brouhaha-hinterland-xpa.jpeg
+untappd: "https://untappd.com/b/brouhaha-brewery-hinterland-xpa/4049849"
 country: "Australia"
 brewery: "Brouhaha Brewery"
 breweryURL: "breweryURL"

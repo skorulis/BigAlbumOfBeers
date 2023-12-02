@@ -7,7 +7,8 @@ score: 3
 beer-date: "2013-04-27"
 desc: "Weak and tasteless. Pretty much a waste of my time"
 permalink: /beer/:title.html
-img: /img/list/green-king-light-ale.jpeguntappd: "https://untappd.com/b/greene-king-light-ale/76411"
+img: /img/list/green-king-light-ale.jpeg
+untappd: "https://untappd.com/b/greene-king-light-ale/76411"
 country: "England"
 brewery: "Greene King"
 breweryURL: "breweryURL"

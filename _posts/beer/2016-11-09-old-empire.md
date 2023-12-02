@@ -7,7 +7,8 @@ score: 4
 beer-date: "2012-12-01"
 desc: "Not at all an ipa "
 permalink: /beer/:title.html
-img: /img/list/old-empire.jpeguntappd: "https://untappd.com/b/marstons-brewery-old-empire-ipa/15040"
+img: /img/list/old-empire.jpeg
+untappd: "https://untappd.com/b/marstons-brewery-old-empire-ipa/15040"
 country: "England"
 brewery: "Marston's Brewery"
 breweryURL: "breweryURL"

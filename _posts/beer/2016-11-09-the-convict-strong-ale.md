@@ -7,7 +7,8 @@ score: 3
 beer-date: "2013-03-28"
 desc: "A strong and average flavour"
 permalink: /beer/:title.html
-img: /img/list/the-convict-strong-ale.jpeguntappd: "https://untappd.com/b/gage-roads-brewing-co--the-convict/290260"
+img: /img/list/the-convict-strong-ale.jpeg
+untappd: "https://untappd.com/b/gage-roads-brewing-co--the-convict/290260"
 country: "Australia"
 brewery: "Gage Roads Brewing Co "
 breweryURL: "breweryURL"

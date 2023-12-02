@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-07-10"
 desc: "Was expecting much more. Just a plain lager"
 permalink: /beer/:title.html
-img: /img/list/belgian-noble-pale-ale.jpeguntappd: "https://untappd.com/b/belgian-blue-brewing-company-belgian-noble/535456"
+img: /img/list/belgian-noble-pale-ale.jpeg
+untappd: "https://untappd.com/b/belgian-blue-brewing-company-belgian-noble/535456"
 country: "Belgium"
 brewery: "Belgian Blue Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-02-14"
 desc: "Nicer than expected. Has a slightly spicy finish"
 permalink: /beer/:title.html
-img: /img/list/red-horse-beer.jpeguntappd: "https://untappd.com/b/san-miguel-brewery-red-horse-beer/17796"
+img: /img/list/red-horse-beer.jpeg
+untappd: "https://untappd.com/b/san-miguel-brewery-red-horse-beer/17796"
 country: "Philippines"
 brewery: "San Miguel Brewery"
 breweryURL: "breweryURL"

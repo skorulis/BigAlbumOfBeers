@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-03-09"
 desc: "Not bad for a bitter"
 permalink: /beer/:title.html
-img: /img/list/british-bulldog.jpeguntappd: "https://untappd.com/b/westerham-brewery-company-ltd--british-bulldog/44784"
+img: /img/list/british-bulldog.jpeg
+untappd: "https://untappd.com/b/westerham-brewery-company-ltd--british-bulldog/44784"
 country: "England"
 brewery: "Westerham Brewery Company Ltd."
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-05-01"
 desc: "A hearty beverage"
 permalink: /beer/:title.html
-img: /img/list/rogue-santa-s-private-reserve-ale.jpeguntappd: "https://untappd.com/b/rogue-ales---spirits-santas-private-reserve-ale/868887"
+img: /img/list/rogue-santa-s-private-reserve-ale.jpeg
+untappd: "https://untappd.com/b/rogue-ales---spirits-santas-private-reserve-ale/868887"
 country: "United States"
 brewery: "Rogue Ales & Spirits"
 breweryURL: "breweryURL"

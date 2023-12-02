@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-10-02"
 desc: "Great smoke flavour on top of a mild malty beer. Missing any other flavours"
 permalink: /beer/:title.html
-img: /img/list/aegir-smoky-rye.jpeguntappd: "https://untappd.com/b/aegir-bryggeri-smoky-rye/5519653"
+img: /img/list/aegir-smoky-rye.jpeg
+untappd: "https://untappd.com/b/aegir-bryggeri-smoky-rye/5519653"
 country: "Norway"
 brewery: "Ægir Bryggeri"
 breweryURL: "breweryURL"

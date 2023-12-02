@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-05-25"
 desc: "Surprisingly good"
 permalink: /beer/:title.html
-img: /img/list/williams-joker-ipa.jpeguntappd: "https://untappd.com/b/williams-brothers-brewing-co--joker-ipa/13049"
+img: /img/list/williams-joker-ipa.jpeg
+untappd: "https://untappd.com/b/williams-brothers-brewing-co--joker-ipa/13049"
 country: "Scotland"
 brewery: "Williams Brothers Brewing Co."
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2021-11-12"
 desc: "Stouty and chocolaty. Maybe something that doesn’t sit right, or maybe the wrong time of night"
 permalink: /beer/:title.html
-img: /img/list/modus-koko-black.jpeguntappd: "https://untappd.com/b/modus-brewing-koko-black-chocolate---hazelnut-stout/4450938"
+img: /img/list/modus-koko-black.jpeg
+untappd: "https://untappd.com/b/modus-brewing-koko-black-chocolate---hazelnut-stout/4450938"
 country: "Australia"
 brewery: "Modus Brewing"
 breweryURL: "breweryURL"

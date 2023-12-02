@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-10-02"
 desc: "Very rich Hefeweizen, quite thick. Nice banana coming through. Happiness in a glass"
 permalink: /beer/:title.html
-img: /img/list/aegir-palmesol.jpeguntappd: "https://untappd.com/b/aegir-bryggeri-palmesol/4690736"
+img: /img/list/aegir-palmesol.jpeg
+untappd: "https://untappd.com/b/aegir-bryggeri-palmesol/4690736"
 country: "Norway"
 brewery: "Ægir Bryggeri"
 breweryURL: "breweryURL"

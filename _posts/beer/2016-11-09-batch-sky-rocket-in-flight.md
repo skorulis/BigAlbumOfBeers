@@ -7,7 +7,8 @@ score: 8
 beer-date: "2019-06-22"
 desc: "Takes about 5 minutes just to settle.  It’s a slightly sour red but very mild in most ways. By the end I want more, but I don’t want to wait for it to settle again"
 permalink: /beer/:title.html
-img: /img/list/batch-sky-rocket-in-flight.jpeguntappd: "https://untappd.com/b/batch-brewing-company-sky-rocket-in-flight/2822665"
+img: /img/list/batch-sky-rocket-in-flight.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-sky-rocket-in-flight/2822665"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

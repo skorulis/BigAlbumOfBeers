@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-05-01"
 desc: "Such a cool name and bottle"
 permalink: /beer/:title.html
-img: /img/list/altenmuenster.jpeguntappd: "https://untappd.com/b/allgauer-brauhaus-altenmunster-urig-wurzig/29819"
+img: /img/list/altenmuenster.jpeg
+untappd: "https://untappd.com/b/allgauer-brauhaus-altenmunster-urig-wurzig/29819"
 country: "Germany"
 brewery: "Allgäuer Brauhaus"
 breweryURL: "breweryURL"

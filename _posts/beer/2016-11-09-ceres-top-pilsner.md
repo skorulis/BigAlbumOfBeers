@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2017-07-12"
 desc: "Pretty plain lager"
 permalink: /beer/:title.html
-img: /img/list/ceres-top-pilsner.jpeguntappd: "https://untappd.com/b/royal-unibrew-ceres-top-pilsner/60836"
+img: /img/list/ceres-top-pilsner.jpeg
+untappd: "https://untappd.com/b/royal-unibrew-ceres-top-pilsner/60836"
 country: "Denmark"
 brewery: "Royal Unibrew"
 breweryURL: "breweryURL"

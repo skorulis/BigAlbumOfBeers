@@ -7,7 +7,8 @@ score: 4
 beer-date: "2015-05-01"
 desc: "Wouldn’t want another"
 permalink: /beer/:title.html
-img: /img/list/moo-brew-hefeweizen.jpeguntappd: "https://untappd.com/b/moo-brew-hefeweizen/34168"
+img: /img/list/moo-brew-hefeweizen.jpeg
+untappd: "https://untappd.com/b/moo-brew-hefeweizen/34168"
 country: "Australia"
 brewery: "Moo Brew"
 breweryURL: "breweryURL"

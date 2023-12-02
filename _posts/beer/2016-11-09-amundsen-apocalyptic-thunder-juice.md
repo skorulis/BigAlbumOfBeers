@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2023-10-02"
 desc: "Absolutely full of flavour. Not much smell but tastes floral. My rating may be influenced by the beautiful location and weather. Just a little bit of bad hops at the bottom of the can"
 permalink: /beer/:title.html
-img: /img/list/amundsen-apocalyptic-thunder-juice.jpeguntappd: "https://untappd.com/b/amundsen-brewery-apocalyptic-thunder-juice/2052131"
+img: /img/list/amundsen-apocalyptic-thunder-juice.jpeg
+untappd: "https://untappd.com/b/amundsen-brewery-apocalyptic-thunder-juice/2052131"
 country: "Norway"
 brewery: "Amundsen Brewery"
 breweryURL: "breweryURL"

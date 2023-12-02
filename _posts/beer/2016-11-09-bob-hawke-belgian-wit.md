@@ -7,4 +7,5 @@ score: 7
 beer-date: "2023-02-28"
 desc: "Nice all round even after a few drinks"
 permalink: /beer/:title.html
-img: /img/list/bob-hawke-belgian-wit.jpeg---
+img: /img/list/bob-hawke-belgian-wit.jpeg
+---

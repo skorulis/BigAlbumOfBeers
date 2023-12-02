@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "Very heavy smoke. Not too bad"
 permalink: /beer/:title.html
-img: /img/list/new-england-smouldering-stump-smoked-porter.jpeguntappd: "https://untappd.com/b/new-england-brewing-co--smouldering-stump-smoked-porter/4400194"
+img: /img/list/new-england-smouldering-stump-smoked-porter.jpeg
+untappd: "https://untappd.com/b/new-england-brewing-co--smouldering-stump-smoked-porter/4400194"
 country: "Australia"
 brewery: "New England Brewing Co."
 breweryURL: "breweryURL"

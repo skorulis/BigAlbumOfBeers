@@ -7,7 +7,8 @@ score: 6
 beer-date: "2019-11-22"
 desc: "Almost lagerish, or maybe my last beer was just too strong. Easy drinking but ultimately uninteresting"
 permalink: /beer/:title.html
-img: /img/list/batch-tasman-tango.jpeguntappd: "https://untappd.com/b/batch-brewing-company-tasman-tango-pale-ale/3110633"
+img: /img/list/batch-tasman-tango.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-tasman-tango-pale-ale/3110633"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

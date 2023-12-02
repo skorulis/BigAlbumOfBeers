@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-08-18"
 desc: "Malty goodness in a great bottle"
 permalink: /beer/:title.html
-img: /img/list/kanapinis.jpeguntappd: "https://untappd.com/b/aukstaitijos-bravorai-kanapinis-sviesus-alus/86088"
+img: /img/list/kanapinis.jpeg
+untappd: "https://untappd.com/b/aukstaitijos-bravorai-kanapinis-sviesus-alus/86088"
 country: "Lithuania"
 brewery: "Aukštaitijos Bravorai"
 breweryURL: "breweryURL"

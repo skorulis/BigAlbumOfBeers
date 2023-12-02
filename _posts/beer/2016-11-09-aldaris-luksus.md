@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-12-23"
 desc: "Yep, it’s a lager"
 permalink: /beer/:title.html
-img: /img/list/aldaris-luksus.jpeguntappd: "https://untappd.com/b/aldaris-luksus/3574"
+img: /img/list/aldaris-luksus.jpeg
+untappd: "https://untappd.com/b/aldaris-luksus/3574"
 country: "Latvia"
 brewery: "Aldaris"
 breweryURL: "breweryURL"

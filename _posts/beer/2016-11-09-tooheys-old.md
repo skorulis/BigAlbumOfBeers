@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-03-09"
 desc: "Not a stout, not a lager. Some sort of strange crossbreed"
 permalink: /beer/:title.html
-img: /img/list/tooheys-old.jpeguntappd: "https://untappd.com/b/tooheys-brewing-old/6116"
+img: /img/list/tooheys-old.jpeg
+untappd: "https://untappd.com/b/tooheys-brewing-old/6116"
 country: "Australia"
 brewery: "Tooheys Brewing"
 breweryURL: "breweryURL"

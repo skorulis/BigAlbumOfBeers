@@ -7,7 +7,8 @@ score: 6
 beer-date: "2012-11-13"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/the-rev--james.jpeguntappd: "https://untappd.com/b/brains-the-rev--james-original---therevtweets/50090"
+img: /img/list/the-rev--james.jpeg
+untappd: "https://untappd.com/b/brains-the-rev--james-original---therevtweets/50090"
 country: "Wales"
 brewery: "Brains"
 breweryURL: "breweryURL"

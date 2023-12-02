@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-05-01"
 desc: "A sweet and quite flavourful lager"
 permalink: /beer/:title.html
-img: /img/list/cricketers-arms-keeper-s-lager.jpeguntappd: "https://untappd.com/b/cricketers-arms-keepers-lager/850123"
+img: /img/list/cricketers-arms-keeper-s-lager.jpeg
+untappd: "https://untappd.com/b/cricketers-arms-keepers-lager/850123"
 country: "Australia"
 brewery: "Cricketers Arms"
 breweryURL: "breweryURL"

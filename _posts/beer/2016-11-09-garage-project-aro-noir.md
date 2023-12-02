@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2022-09-21"
 desc: "Very strong stout. A little bit much"
 permalink: /beer/:title.html
-img: /img/list/garage-project-aro-noir.jpeguntappd: "https://untappd.com/b/garage-project-aro-noir/229166"
+img: /img/list/garage-project-aro-noir.jpeg
+untappd: "https://untappd.com/b/garage-project-aro-noir/229166"
 country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2020-07-31"
 desc: "Very mild on flavour"
 permalink: /beer/:title.html
-img: /img/list/tinnies-pale-ale.jpeguntappd: "https://untappd.com/b/tinnies-pale-ale/2899060"
+img: /img/list/tinnies-pale-ale.jpeg
+untappd: "https://untappd.com/b/tinnies-pale-ale/2899060"
 country: "Australia"
 brewery: "Tinnies"
 breweryURL: "breweryURL"

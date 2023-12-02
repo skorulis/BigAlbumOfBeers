@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-07-31"
 desc: "Creamy mouthfeel with a big punch of hops"
 permalink: /beer/:title.html
-img: /img/list/pickled-monkey-kong-ipa.jpeguntappd: "https://untappd.com/b/pickled-monkey-brewing-co-kong-ipa/3659638"
+img: /img/list/pickled-monkey-kong-ipa.jpeg
+untappd: "https://untappd.com/b/pickled-monkey-brewing-co-kong-ipa/3659638"
 country: "Australia"
 brewery: "Pickled Monkey Brewing Co"
 breweryURL: "breweryURL"

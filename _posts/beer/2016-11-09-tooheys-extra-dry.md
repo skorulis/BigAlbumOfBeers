@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-02-01"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/tooheys-extra-dry.jpeguntappd: "https://untappd.com/b/tooheys-brewing-extra-dry/5921"
+img: /img/list/tooheys-extra-dry.jpeg
+untappd: "https://untappd.com/b/tooheys-brewing-extra-dry/5921"
 country: "Australia"
 brewery: "Tooheys Brewing"
 breweryURL: "breweryURL"

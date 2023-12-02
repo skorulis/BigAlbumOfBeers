@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2019-11-22"
 desc: "Very strange, expected a brown but it’s more of a slightly sour pale. Not so much bad, just not to style"
 permalink: /beer/:title.html
-img: /img/list/moondog-how-now-brown-cacao.jpeguntappd: "https://untappd.com/b/moon-dog-craft-brewery-how-now-brown-cacao/3372043"
+img: /img/list/moondog-how-now-brown-cacao.jpeg
+untappd: "https://untappd.com/b/moon-dog-craft-brewery-how-now-brown-cacao/3372043"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
 breweryURL: "breweryURL"

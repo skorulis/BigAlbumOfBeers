@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-12-25"
 desc: "It’s like a spiced stout. A tad of ginger and something else from Christmas"
 permalink: /beer/:title.html
-img: /img/list/black-hops-eggnog-stout.jpeguntappd: "https://untappd.com/b/black-hops-brewing-eggnog-stout/775288"
+img: /img/list/black-hops-eggnog-stout.jpeg
+untappd: "https://untappd.com/b/black-hops-brewing-eggnog-stout/775288"
 country: "Australia"
 brewery: "Black Hops Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-07-10"
 desc: "A bit too much like a standard lager"
 permalink: /beer/:title.html
-img: /img/list/steamrail-pilsner.jpeguntappd: "https://untappd.com/b/steamrail-brewing-company--coles--hops-dropper/532438"
+img: /img/list/steamrail-pilsner.jpeg
+untappd: "https://untappd.com/b/steamrail-brewing-company--coles--hops-dropper/532438"
 country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
 breweryURL: "breweryURL"

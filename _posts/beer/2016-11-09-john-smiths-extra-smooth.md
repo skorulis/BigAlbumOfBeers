@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-02-01"
 desc: "What it lacks in alcohol it makes up in foulness"
 permalink: /beer/:title.html
-img: /img/list/john-smiths-extra-smooth.jpeguntappd: "https://untappd.com/b/john-smiths-extra-smooth-ale/1009950"
+img: /img/list/john-smiths-extra-smooth.jpeg
+untappd: "https://untappd.com/b/john-smiths-extra-smooth-ale/1009950"
 country: "England"
 brewery: "John Smith's"
 breweryURL: "breweryURL"

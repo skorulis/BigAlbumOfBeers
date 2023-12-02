@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-01-13"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/coors-light.jpeguntappd: "https://untappd.com/b/coors-brewing-company-coors-light/3834"
+img: /img/list/coors-light.jpeg
+untappd: "https://untappd.com/b/coors-brewing-company-coors-light/3834"
 country: "United States"
 brewery: "Coors Brewing Company"
 breweryURL: "breweryURL"

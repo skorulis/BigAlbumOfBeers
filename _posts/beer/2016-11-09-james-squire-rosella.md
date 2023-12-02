@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-09-21"
 desc: "Pretty easy drinking. Very mild on the raspberry. Could have gone heavier with wheat to add more depth"
 permalink: /beer/:title.html
-img: /img/list/james-squire-rosella.jpeguntappd: "https://untappd.com/b/the-squires-landing-rosella/4360122"
+img: /img/list/james-squire-rosella.jpeg
+untappd: "https://untappd.com/b/the-squires-landing-rosella/4360122"
 country: "Australia"
 brewery: "The Squire’s Landing"
 breweryURL: "breweryURL"

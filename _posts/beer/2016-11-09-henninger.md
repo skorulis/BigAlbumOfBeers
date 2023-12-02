@@ -7,7 +7,8 @@ score: 4
 beer-date: "2015-01-29"
 desc: "Very bland"
 permalink: /beer/:title.html
-img: /img/list/henninger.jpeguntappd: "https://untappd.com/b/binding-brauerei-henninger-premium-lager/116616"
+img: /img/list/henninger.jpeg
+untappd: "https://untappd.com/b/binding-brauerei-henninger-premium-lager/116616"
 country: "Germany"
 brewery: "Binding Brauerei"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-09-19"
 desc: "Taught me the meaning of pugnacious"
 permalink: /beer/:title.html
-img: /img/list/oakham-scarlet-macaw.jpeguntappd: "https://untappd.com/b/oakham-ales-scarlet-macaw/52694"
+img: /img/list/oakham-scarlet-macaw.jpeg
+untappd: "https://untappd.com/b/oakham-ales-scarlet-macaw/52694"
 country: "England"
 brewery: "Oakham Ales"
 breweryURL: "breweryURL"

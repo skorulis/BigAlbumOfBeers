@@ -7,7 +7,8 @@ score: 4
 beer-date: "2023-02-26"
 desc: "Extremely pale beer that tastes like very little, maybe just a bit of sweetness"
 permalink: /beer/:title.html
-img: /img/list/felons-low-carb-ale.jpeguntappd: "https://untappd.com/b/felons-brewing-co--low-carb-ale/3848504"
+img: /img/list/felons-low-carb-ale.jpeg
+untappd: "https://untappd.com/b/felons-brewing-co--low-carb-ale/3848504"
 country: "Australia"
 brewery: "Felons Brewing Co."
 breweryURL: "breweryURL"

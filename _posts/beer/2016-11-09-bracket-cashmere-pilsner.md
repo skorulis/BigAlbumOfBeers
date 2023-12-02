@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-12-25"
 desc: "Slightly mild pilsner with just a little kick of hops"
 permalink: /beer/:title.html
-img: /img/list/bracket-cashmere-pilsner.jpeguntappd: "https://untappd.com/b/bracket-brewing-cashmere-pilsner/3991082"
+img: /img/list/bracket-cashmere-pilsner.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-cashmere-pilsner/3991082"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

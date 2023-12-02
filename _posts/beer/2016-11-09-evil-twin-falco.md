@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-04-21"
 desc: "A little more bitter than I was hoping but has a nice hop finish"
 permalink: /beer/:title.html
-img: /img/list/evil-twin-falco.jpeguntappd: "https://untappd.com/b/evil-twin-brewing-falco/318741"
+img: /img/list/evil-twin-falco.jpeg
+untappd: "https://untappd.com/b/evil-twin-brewing-falco/318741"
 country: "United States"
 brewery: "Evil Twin Brewing"
 breweryURL: "breweryURL"

@@ -7,4 +7,5 @@ score: 4
 beer-date: "2015-10-17"
 desc: "A microbrew copy of every other tasteless mid strength lager out there"
 permalink: /beer/:title.html
-img: /img/list/the-fox-mid-ale.jpeg---
+img: /img/list/the-fox-mid-ale.jpeg
+---

@@ -7,7 +7,8 @@ score: 6
 beer-date: "2016-01-06"
 desc: "A fairly plain lager"
 permalink: /beer/:title.html
-img: /img/list/young-henry-s-newtowner.jpeguntappd: "https://untappd.com/b/young-henrys-brewing-company-newtowner/273570"
+img: /img/list/young-henry-s-newtowner.jpeg
+untappd: "https://untappd.com/b/young-henrys-brewing-company-newtowner/273570"
 country: "Australia"
 brewery: "Young Henrys Brewing Company"
 breweryURL: "breweryURL"

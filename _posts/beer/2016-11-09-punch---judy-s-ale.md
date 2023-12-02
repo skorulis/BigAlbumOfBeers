@@ -7,7 +7,8 @@ score: null
 beer-date: "2015-01-29"
 desc: "Not much flavour or alcohol content"
 permalink: /beer/:title.html
-img: /img/list/punch---judy-s-ale.jpeguntappd: "https://untappd.com/b/murrays-craft-brewing-co-punch---judys/9913"
+img: /img/list/punch---judy-s-ale.jpeg
+untappd: "https://untappd.com/b/murrays-craft-brewing-co-punch---judys/9913"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "breweryURL"

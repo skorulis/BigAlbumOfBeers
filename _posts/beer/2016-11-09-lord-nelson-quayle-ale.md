@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-03-28"
 desc: "Not as good as expected"
 permalink: /beer/:title.html
-img: /img/list/lord-nelson-quayle-ale.jpeguntappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-quayle-summer-ale/73924"
+img: /img/list/lord-nelson-quayle-ale.jpeg
+untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-quayle-summer-ale/73924"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "breweryURL"

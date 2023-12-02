@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-01-31"
 desc: "Very hazy for a session IPA. Smells very tropical. It’s got some juicy flavours but also a little harshness in the finish which does diminish towards the end of the glass"
 permalink: /beer/:title.html
-img: /img/list/mountain-culture-scenic-route.jpeguntappd: "https://untappd.com/b/mountain-culture-beer-co--scenic-route/3852927"
+img: /img/list/mountain-culture-scenic-route.jpeg
+untappd: "https://untappd.com/b/mountain-culture-beer-co--scenic-route/3852927"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
 breweryURL: "breweryURL"

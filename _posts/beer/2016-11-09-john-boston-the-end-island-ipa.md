@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-01-14"
 desc: "Very mild for an IPA but actually pretty nice. Easy drinking with very little heavy hops"
 permalink: /beer/:title.html
-img: /img/list/john-boston-the-end-island-ipa.jpeguntappd: "https://untappd.com/b/john-boston-the-end-island-ipa/4036365"
+img: /img/list/john-boston-the-end-island-ipa.jpeg
+untappd: "https://untappd.com/b/john-boston-the-end-island-ipa/4036365"
 country: "Australia"
 brewery: "John Boston"
 breweryURL: "breweryURL"

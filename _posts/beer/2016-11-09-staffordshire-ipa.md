@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-02-01"
 desc: "A mild IPA"
 permalink: /beer/:title.html
-img: /img/list/staffordshire-ipa.jpeguntappd: "https://untappd.com/b/marks---spencer-staffordshire-ipa/64590"
+img: /img/list/staffordshire-ipa.jpeg
+untappd: "https://untappd.com/b/marks---spencer-staffordshire-ipa/64590"
 country: "England"
 brewery: "Marks & Spencer"
 breweryURL: "breweryURL"

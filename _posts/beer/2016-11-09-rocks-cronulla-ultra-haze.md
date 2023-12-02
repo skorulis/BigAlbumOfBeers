@@ -7,4 +7,5 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Quite clean and crisp for a hazy"
 permalink: /beer/:title.html
-img: /img/list/rocks-cronulla-ultra-haze.jpeg---
+img: /img/list/rocks-cronulla-ultra-haze.jpeg
+---

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2012-12-01"
 desc: "Not too bad at all"
 permalink: /beer/:title.html
-img: /img/list/wainwrights.jpeguntappd: "https://untappd.com/b/marstons-brewery-wainwright/9934"
+img: /img/list/wainwrights.jpeg
+untappd: "https://untappd.com/b/marstons-brewery-wainwright/9934"
 country: "England"
 brewery: "Marston's Brewery"
 breweryURL: "breweryURL"

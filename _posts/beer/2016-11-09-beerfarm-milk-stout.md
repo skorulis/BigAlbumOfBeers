@@ -7,7 +7,8 @@ score: null
 beer-date: "2020-09-26"
 desc: "Heavy stout with lots of coffee and chocolate"
 permalink: /beer/:title.html
-img: /img/list/beerfarm-milk-stout.jpeguntappd: "https://untappd.com/b/beerfarm-milk-stout/1550109"
+img: /img/list/beerfarm-milk-stout.jpeg
+untappd: "https://untappd.com/b/beerfarm-milk-stout/1550109"
 country: "Australia"
 brewery: "Beerfarm"
 breweryURL: "breweryURL"

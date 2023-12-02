@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-02-26"
 desc: "Smells fruity with a tiny amount of pine. Taste is a bit mild but would make a good session IPA"
 permalink: /beer/:title.html
-img: /img/list/atomic-wild-west.jpeguntappd: "https://untappd.com/b/atomic-wild-wild-west-coast-ipa/5124308"
+img: /img/list/atomic-wild-west.jpeg
+untappd: "https://untappd.com/b/atomic-wild-wild-west-coast-ipa/5124308"
 country: "Australia"
 brewery: "Atomic"
 breweryURL: "breweryURL"

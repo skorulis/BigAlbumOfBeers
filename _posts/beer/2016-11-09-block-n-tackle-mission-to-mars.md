@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-08-26"
 desc: "A smooth red. Not too bitter. Surprisingly good"
 permalink: /beer/:title.html
-img: /img/list/block-n-tackle-mission-to-mars.jpeguntappd: "https://untappd.com/b/block-n-tackle-brewery-mission-to-mars/5384188"
+img: /img/list/block-n-tackle-mission-to-mars.jpeg
+untappd: "https://untappd.com/b/block-n-tackle-brewery-mission-to-mars/5384188"
 country: "Australia"
 brewery: "Block ‘n Tackle Brewery"
 breweryURL: "breweryURL"

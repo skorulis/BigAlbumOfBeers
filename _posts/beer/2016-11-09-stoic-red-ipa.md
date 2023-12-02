@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-08-26"
 desc: "Standard red IPA. Good sweet malt profile"
 permalink: /beer/:title.html
-img: /img/list/stoic-red-ipa.jpeguntappd: "https://untappd.com/b/stoic-brewing-red-ipa/3191776"
+img: /img/list/stoic-red-ipa.jpeg
+untappd: "https://untappd.com/b/stoic-brewing-red-ipa/3191776"
 country: "Australia"
 brewery: "Stoic Brewing"
 breweryURL: "breweryURL"

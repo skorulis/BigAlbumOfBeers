@@ -7,7 +7,8 @@ score: 8
 beer-date: "2015-01-28"
 desc: "A tasty bev"
 permalink: /beer/:title.html
-img: /img/list/redoak-organic-pale-ale.jpeguntappd: "https://untappd.com/b/redoak-boutique-beer-cafe-organic-pale-ale/13188"
+img: /img/list/redoak-organic-pale-ale.jpeg
+untappd: "https://untappd.com/b/redoak-boutique-beer-cafe-organic-pale-ale/13188"
 country: "Australia"
 brewery: "Redoak Boutique Beer Cafe"
 breweryURL: "breweryURL"

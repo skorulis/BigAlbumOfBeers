@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2017-06-15"
 desc: "A little harsh to start but not too bad"
 permalink: /beer/:title.html
-img: /img/list/berliner-pilsner.jpeguntappd: "https://untappd.com/b/berliner-kindl-schultheiss-brauerei-berliner-pilsner/6578"
+img: /img/list/berliner-pilsner.jpeg
+untappd: "https://untappd.com/b/berliner-kindl-schultheiss-brauerei-berliner-pilsner/6578"
 country: "Germany"
 brewery: "Berliner-Kindl-Schultheiss-Brauerei"
 breweryURL: "breweryURL"

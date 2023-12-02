@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-11-12"
 desc: "Not exactly what you would expect from a hazy, more of a malty west coast. But it’s good so who cares"
 permalink: /beer/:title.html
-img: /img/list/sailors-grave-first-harvest-hayzy.jpeguntappd: "https://untappd.com/b/sailors-grave-brewing-first-harvest-hayzy-ipa/4195184"
+img: /img/list/sailors-grave-first-harvest-hayzy.jpeg
+untappd: "https://untappd.com/b/sailors-grave-brewing-first-harvest-hayzy-ipa/4195184"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-08-07"
 desc: "Rich and malty"
 permalink: /beer/:title.html
-img: /img/list/hofbrau-maibock.jpeguntappd: "https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-maibock/20290"
+img: /img/list/hofbrau-maibock.jpeg
+untappd: "https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-maibock/20290"
 country: "Germany"
 brewery: "Staatliches Hofbräuhaus München"
 breweryURL: "breweryURL"

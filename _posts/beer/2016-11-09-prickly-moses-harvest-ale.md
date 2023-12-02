@@ -7,7 +7,8 @@ score: 6
 beer-date: "2016-05-24"
 desc: "Pretty plain ale"
 permalink: /beer/:title.html
-img: /img/list/prickly-moses-harvest-ale.jpeguntappd: "https://untappd.com/b/prickly-moses-harvest-ale/1058036"
+img: /img/list/prickly-moses-harvest-ale.jpeg
+untappd: "https://untappd.com/b/prickly-moses-harvest-ale/1058036"
 country: "Australia"
 brewery: "Prickly Moses"
 breweryURL: "breweryURL"

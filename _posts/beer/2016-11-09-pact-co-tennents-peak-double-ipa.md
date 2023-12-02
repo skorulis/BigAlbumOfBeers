@@ -7,4 +7,5 @@ score: 7.5
 beer-date: "2019-04-22"
 desc: "Solid DIPA with a nice roundness of flavour. Very smooth for what it is"
 permalink: /beer/:title.html
-img: /img/list/pact-co-tennents-peak-double-ipa.jpeg---
+img: /img/list/pact-co-tennents-peak-double-ipa.jpeg
+---

@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2021-11-12"
 desc: "Too fizzy and a bit of a yeasty Belgian taste"
 permalink: /beer/:title.html
-img: /img/list/your-mates-sally.jpeguntappd: "https://untappd.com/b/your-mates-brewing-co-sally/3240735"
+img: /img/list/your-mates-sally.jpeg
+untappd: "https://untappd.com/b/your-mates-brewing-co-sally/3240735"
 country: "Australia"
 brewery: "Your Mates Brewing Co"
 breweryURL: "breweryURL"

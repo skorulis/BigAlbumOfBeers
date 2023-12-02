@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2021-04-02"
 desc: "Rich and malty but not heavy on hops"
 permalink: /beer/:title.html
-img: /img/list/james-squire-talisman.jpeguntappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-talisman/4195202"
+img: /img/list/james-squire-talisman.jpeg
+untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-talisman/4195202"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 4
 beer-date: "2015-05-01"
 desc: "Pretty average lager"
 permalink: /beer/:title.html
-img: /img/list/pistonhead-lager.jpeguntappd: "https://untappd.com/b/brutal-brewing-pistonhead-kustom-lager/82286"
+img: /img/list/pistonhead-lager.jpeg
+untappd: "https://untappd.com/b/brutal-brewing-pistonhead-kustom-lager/82286"
 country: "Sweden"
 brewery: "Brutal Brewing"
 breweryURL: "breweryURL"

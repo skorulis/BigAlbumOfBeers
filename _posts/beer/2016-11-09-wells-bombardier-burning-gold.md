@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-04-27"
 desc: "Boring"
 permalink: /beer/:title.html
-img: /img/list/wells-bombardier-burning-gold.jpeguntappd: "https://untappd.com/b/charles-wells-brewery-wells-bombardier-burning-gold/26221"
+img: /img/list/wells-bombardier-burning-gold.jpeg
+untappd: "https://untappd.com/b/charles-wells-brewery-wells-bombardier-burning-gold/26221"
 country: "England"
 brewery: "Charles Wells Brewery"
 breweryURL: "breweryURL"

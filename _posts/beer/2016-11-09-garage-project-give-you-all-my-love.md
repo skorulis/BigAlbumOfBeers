@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Nice pale yellow hazy colouring. Quite mellow with just a little extra tang. A relaxing beverage"
 permalink: /beer/:title.html
-img: /img/list/garage-project-give-you-all-my-love.jpeguntappd: "https://untappd.com/b/garage-project-give-you-all-my-love/4313923"
+img: /img/list/garage-project-give-you-all-my-love.jpeg
+untappd: "https://untappd.com/b/garage-project-give-you-all-my-love/4313923"
 country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "breweryURL"

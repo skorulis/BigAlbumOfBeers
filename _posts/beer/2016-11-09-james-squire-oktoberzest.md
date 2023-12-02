@@ -7,7 +7,8 @@ score: 8
 beer-date: "2018-11-05"
 desc: "Very zesty and refreshing. Surprisingly good"
 permalink: /beer/:title.html
-img: /img/list/james-squire-oktoberzest.jpeguntappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-oktober-zest/2872183"
+img: /img/list/james-squire-oktoberzest.jpeg
+untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-oktober-zest/2872183"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 9
 beer-date: "2016-02-14"
 desc: "Such an amazing sour lambic. The nerd reference is just a bonus"
 permalink: /beer/:title.html
-img: /img/list/wig---pen-from-the-vault.jpeguntappd: "https://untappd.com/b/wig---pen-brewery-from-the-vault/1087518"
+img: /img/list/wig---pen-from-the-vault.jpeg
+untappd: "https://untappd.com/b/wig---pen-brewery-from-the-vault/1087518"
 country: "Australia"
 brewery: "Wig & Pen Brewery"
 breweryURL: "breweryURL"

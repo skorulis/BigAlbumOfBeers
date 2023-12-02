@@ -7,7 +7,8 @@ score: 6
 beer-date: "2018-11-05"
 desc: "More dry than I would expect from a  pale ale. Easy to drink but nothing in it that brings me back"
 permalink: /beer/:title.html
-img: /img/list/hairyman-lawson-s-legend.jpeguntappd: "https://untappd.com/b/hairyman-brewery-lawsons-legend/1640016"
+img: /img/list/hairyman-lawson-s-legend.jpeg
+untappd: "https://untappd.com/b/hairyman-brewery-lawsons-legend/1640016"
 country: "Australia"
 brewery: "Hairyman Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2021-04-02"
 desc: "Nice west coast IPA with a little extra floral kick and a finish of earthy notes. Very nice"
 permalink: /beer/:title.html
-img: /img/list/mountain-goat-ipa.jpeguntappd: "https://untappd.com/b/mountain-goat-beer-ipa/2390508"
+img: /img/list/mountain-goat-ipa.jpeg
+untappd: "https://untappd.com/b/mountain-goat-beer-ipa/2390508"
 country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "breweryURL"

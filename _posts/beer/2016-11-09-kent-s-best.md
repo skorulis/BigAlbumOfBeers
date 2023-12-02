@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-02-01"
 desc: "Would hate to see the worst"
 permalink: /beer/:title.html
-img: /img/list/kent-s-best.jpeguntappd: "https://untappd.com/b/shepherd-neame-kents-best/73954"
+img: /img/list/kent-s-best.jpeg
+untappd: "https://untappd.com/b/shepherd-neame-kents-best/73954"
 country: "England"
 brewery: "Shepherd Neame"
 breweryURL: "breweryURL"

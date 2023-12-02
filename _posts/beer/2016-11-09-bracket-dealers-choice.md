@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Way lighter than expected"
 permalink: /beer/:title.html
-img: /img/list/bracket-dealers-choice.jpeguntappd: "https://untappd.com/b/bracket-brewing-dealers-choice/4786400"
+img: /img/list/bracket-dealers-choice.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-dealers-choice/4786400"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

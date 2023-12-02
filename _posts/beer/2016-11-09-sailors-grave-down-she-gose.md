@@ -7,7 +7,8 @@ score: 7
 beer-date: "2018-01-13"
 desc: "Starts off a little metallic but that fades and it turns out pretty good. Not much sour or saltiness but pretty solid"
 permalink: /beer/:title.html
-img: /img/list/sailors-grave-down-she-gose.jpeguntappd: "https://untappd.com/b/sailors-grave-brewing-down-she-gose/1733078"
+img: /img/list/sailors-grave-down-she-gose.jpeg
+untappd: "https://untappd.com/b/sailors-grave-brewing-down-she-gose/1733078"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2014-06-21"
 desc: "A very nice malty flavour"
 permalink: /beer/:title.html
-img: /img/list/dogbolter.jpeguntappd: "https://untappd.com/b/matilda-bay-brewing-company-dogbolter/11555"
+img: /img/list/dogbolter.jpeg
+untappd: "https://untappd.com/b/matilda-bay-brewing-company-dogbolter/11555"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
 breweryURL: "breweryURL"

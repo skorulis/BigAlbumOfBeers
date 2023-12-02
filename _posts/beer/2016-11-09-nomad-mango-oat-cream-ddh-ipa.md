@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2021-04-02"
 desc: "Looks very juicy. Has aA fair chunk of mango flavour but it’s a little bit overshadowed by the acid that comes through with the orange. As the beer warms it becomes much better and hits that juicy target in both smell and taste"
 permalink: /beer/:title.html
-img: /img/list/nomad-mango-oat-cream-ddh-ipa.jpeguntappd: "https://untappd.com/b/nomad-brewing-co--mango-oat-cream-ddh-ipa/4087810"
+img: /img/list/nomad-mango-oat-cream-ddh-ipa.jpeg
+untappd: "https://untappd.com/b/nomad-brewing-co--mango-oat-cream-ddh-ipa/4087810"
 country: "Australia"
 brewery: "Nomad Brewing Co."
 breweryURL: "breweryURL"

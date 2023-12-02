@@ -7,4 +7,5 @@ score: 9
 beer-date: "2023-02-26"
 desc: "I think I need more of this"
 permalink: /beer/:title.html
-img: /img/list/bracket-rocket.jpeg---
+img: /img/list/bracket-rocket.jpeg
+---

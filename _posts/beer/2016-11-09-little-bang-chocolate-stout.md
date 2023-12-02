@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "Mid level stout. Not bad, not exciting, quite mellow"
 permalink: /beer/:title.html
-img: /img/list/little-bang-chocolate-stout.jpeguntappd: "https://untappd.com/b/little-bang-brewing-co-dark-arts/2714782"
+img: /img/list/little-bang-chocolate-stout.jpeg
+untappd: "https://untappd.com/b/little-bang-brewing-co-dark-arts/2714782"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
 breweryURL: "breweryURL"

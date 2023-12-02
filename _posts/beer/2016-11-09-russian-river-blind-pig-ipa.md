@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-02-26"
 desc: "Fairly standard IPA"
 permalink: /beer/:title.html
-img: /img/list/russian-river-blind-pig-ipa.jpeguntappd: "https://untappd.com/b/russian-river-brewing-company-blind-pig-ipa/4041"
+img: /img/list/russian-river-blind-pig-ipa.jpeg
+untappd: "https://untappd.com/b/russian-river-brewing-company-blind-pig-ipa/4041"
 country: "United States"
 brewery: "Russian River Brewing Company"
 breweryURL: "breweryURL"

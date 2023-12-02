@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-12-28"
 desc: "Smells malty, earthy and floral. Fairly easy to drink but not exciting"
 permalink: /beer/:title.html
-img: /img/list/bojak-el-camino.jpeguntappd: "https://untappd.com/b/bojak-brewing-el-camino/3875996"
+img: /img/list/bojak-el-camino.jpeg
+untappd: "https://untappd.com/b/bojak-brewing-el-camino/3875996"
 country: "Australia"
 brewery: "Bojak Brewing"
 breweryURL: "breweryURL"

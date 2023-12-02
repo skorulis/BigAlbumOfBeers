@@ -7,7 +7,8 @@ score: 8.0
 beer-date: "2021-04-02"
 desc: "A little bit of tang in a stout that is milder than it looks"
 permalink: /beer/:title.html
-img: /img/list/clown-shoes-undead-party-crasher.jpeguntappd: "https://untappd.com/b/clown-shoes-undead-party-crasher/491540"
+img: /img/list/clown-shoes-undead-party-crasher.jpeg
+untappd: "https://untappd.com/b/clown-shoes-undead-party-crasher/491540"
 country: "United States"
 brewery: "Clown Shoes"
 breweryURL: "breweryURL"

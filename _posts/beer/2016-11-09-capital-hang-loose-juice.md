@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-02-26"
 desc: "Very juicy, probably shouldn’t have eaten while drinking this"
 permalink: /beer/:title.html
-img: /img/list/capital-hang-loose-juice.jpeguntappd: "https://untappd.com/b/capital-brewing-co-hang-loose-juice-/2888004"
+img: /img/list/capital-hang-loose-juice.jpeg
+untappd: "https://untappd.com/b/capital-brewing-co-hang-loose-juice-/2888004"
 country: "Australia"
 brewery: "Capital Brewing Co"
 breweryURL: "breweryURL"

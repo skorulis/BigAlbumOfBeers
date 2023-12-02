@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-09-19"
 desc: "An easy drinking pils"
 permalink: /beer/:title.html
-img: /img/list/mama-s-little-yella-pils.jpeguntappd: "https://untappd.com/b/oskar-blues-brewery-mamas-little-yella-pils/5210"
+img: /img/list/mama-s-little-yella-pils.jpeg
+untappd: "https://untappd.com/b/oskar-blues-brewery-mamas-little-yella-pils/5210"
 country: "United States"
 brewery: "Oskar Blues Brewery"
 breweryURL: "breweryURL"

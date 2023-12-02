@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2023-02-26"
 desc: "Great first sip. Easy drinking hazy IPA"
 permalink: /beer/:title.html
-img: /img/list/blackhammer-cuddle-puddle.jpeguntappd: "https://untappd.com/b/black-hammer-brewing-company-cuddle-puddle/4568837"
+img: /img/list/blackhammer-cuddle-puddle.jpeg
+untappd: "https://untappd.com/b/black-hammer-brewing-company-cuddle-puddle/4568837"
 country: "United States"
 brewery: "Black Hammer Brewing Company"
 breweryURL: "breweryURL"

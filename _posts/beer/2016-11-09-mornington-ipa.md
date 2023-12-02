@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-01-07"
 desc: "Another winner from Mornington. Really strong on flavour but without any harshness"
 permalink: /beer/:title.html
-img: /img/list/mornington-ipa.jpeguntappd: "https://untappd.com/b/mornington-peninsula-brewery-ipa/14878"
+img: /img/list/mornington-ipa.jpeg
+untappd: "https://untappd.com/b/mornington-peninsula-brewery-ipa/14878"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "breweryURL"

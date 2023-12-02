@@ -7,7 +7,8 @@ score: 5
 beer-date: "2020-07-31"
 desc: "Standard Eastern European beer. Not much to say really"
 permalink: /beer/:title.html
-img: /img/list/niksicko-pivo.jpeguntappd: "https://untappd.com/b/trebjesa-brewery-niksicko-pivo/62554"
+img: /img/list/niksicko-pivo.jpeg
+untappd: "https://untappd.com/b/trebjesa-brewery-niksicko-pivo/62554"
 country: "Montenegro"
 brewery: "Trebjesa Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-01-13"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/caledonia-smooth.jpeguntappd: "https://untappd.com/b/bulmers-ireland-caledonia-smooth/180103"
+img: /img/list/caledonia-smooth.jpeg
+untappd: "https://untappd.com/b/bulmers-ireland-caledonia-smooth/180103"
 country: "Ireland"
 brewery: "Bulmers Ireland"
 breweryURL: "breweryURL"

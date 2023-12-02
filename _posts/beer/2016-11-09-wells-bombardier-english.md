@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-04-27"
 desc: "I'm a fan of this mild ale"
 permalink: /beer/:title.html
-img: /img/list/wells-bombardier-english.jpeguntappd: "https://untappd.com/b/charles-wells-brewery-wells-bombardier-glorious-english/5101"
+img: /img/list/wells-bombardier-english.jpeg
+untappd: "https://untappd.com/b/charles-wells-brewery-wells-bombardier-glorious-english/5101"
 country: "England"
 brewery: "Charles Wells Brewery"
 breweryURL: "breweryURL"

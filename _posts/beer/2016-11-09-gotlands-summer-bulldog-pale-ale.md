@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-10-02"
 desc: "A slightly punchy pale ale"
 permalink: /beer/:title.html
-img: /img/list/gotlands-summer-bulldog-pale-ale.jpeguntappd: "https://untappd.com/b/gotlands-bryggeri-summer-bulldog-pale-ale/3824243"
+img: /img/list/gotlands-summer-bulldog-pale-ale.jpeg
+untappd: "https://untappd.com/b/gotlands-bryggeri-summer-bulldog-pale-ale/3824243"
 country: "Sweden"
 brewery: "Gotlands Bryggeri"
 breweryURL: "breweryURL"

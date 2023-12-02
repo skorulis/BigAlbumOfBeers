@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2022-08-07"
 desc: "Can’t taste much vanilla. Kind of generic dark beer but easy drinking"
 permalink: /beer/:title.html
-img: /img/list/moorebeer-vanilla-chocolate-porter.jpeguntappd: "https://untappd.com/b/moorebeer-brewing-co--grease-monkey/2228856"
+img: /img/list/moorebeer-vanilla-chocolate-porter.jpeg
+untappd: "https://untappd.com/b/moorebeer-brewing-co--grease-monkey/2228856"
 country: "Australia"
 brewery: "Moorebeer Brewing Co."
 breweryURL: "breweryURL"

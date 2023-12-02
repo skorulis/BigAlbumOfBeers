@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-05-25"
 desc: "A smooth dark ale"
 permalink: /beer/:title.html
-img: /img/list/bath-ales-dark-side.jpeguntappd: "https://untappd.com/b/bath-ales-dark-side/6247"
+img: /img/list/bath-ales-dark-side.jpeg
+untappd: "https://untappd.com/b/bath-ales-dark-side/6247"
 country: "England"
 brewery: "Bath Ales"
 breweryURL: "breweryURL"

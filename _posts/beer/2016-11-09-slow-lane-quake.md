@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-08-26"
 desc: "Started off nice and a little tangy. Ended a little harsh"
 permalink: /beer/:title.html
-img: /img/list/slow-lane-quake.jpeguntappd: "https://untappd.com/b/slow-lane-brewing-quake/3778882"
+img: /img/list/slow-lane-quake.jpeg
+untappd: "https://untappd.com/b/slow-lane-brewing-quake/3778882"
 country: "Australia"
 brewery: "Slow Lane Brewing"
 breweryURL: "breweryURL"

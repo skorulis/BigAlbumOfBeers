@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-02-01"
 desc: "Easy drinking"
 permalink: /beer/:title.html
-img: /img/list/m-s-belgian-lager.jpeguntappd: "https://untappd.com/b/marks---spencer-belgian-lager/38379"
+img: /img/list/m-s-belgian-lager.jpeg
+untappd: "https://untappd.com/b/marks---spencer-belgian-lager/38379"
 country: "England"
 brewery: "Marks & Spencer"
 breweryURL: "breweryURL"

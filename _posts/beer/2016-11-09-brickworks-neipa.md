@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-02-28"
 desc: "Very unappealing colour. Not a lot of smell. Kind of missing any deep hoppy flavours"
 permalink: /beer/:title.html
-img: /img/list/brickworks-neipa.jpeguntappd: "https://untappd.com/b/brickworks-brewing-co--neipa/4668898"
+img: /img/list/brickworks-neipa.jpeg
+untappd: "https://untappd.com/b/brickworks-brewing-co--neipa/4668898"
 country: "Australia"
 brewery: "Brickworks Brewing Co."
 breweryURL: "breweryURL"

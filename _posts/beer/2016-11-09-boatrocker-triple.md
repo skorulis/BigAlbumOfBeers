@@ -7,7 +7,8 @@ score: 10
 beer-date: "2021-12-28"
 desc: "A pretty perfect belgian triple. It’s like I expect the alcohol to come through but it never does"
 permalink: /beer/:title.html
-img: /img/list/boatrocker-triple.jpeguntappd: "https://untappd.com/b/boatrocker-brewers---distillers-tripel/4620833"
+img: /img/list/boatrocker-triple.jpeg
+untappd: "https://untappd.com/b/boatrocker-brewers---distillers-tripel/4620833"
 country: "Australia"
 brewery: "Boatrocker Brewers & Distillers"
 breweryURL: "breweryURL"

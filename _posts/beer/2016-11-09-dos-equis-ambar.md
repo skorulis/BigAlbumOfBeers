@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-05-01"
 desc: "Has more of a Polish flavour than Mexican"
 permalink: /beer/:title.html
-img: /img/list/dos-equis-ambar.jpeguntappd: "https://untappd.com/b/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v--dos-equis-ambar/6392"
+img: /img/list/dos-equis-ambar.jpeg
+untappd: "https://untappd.com/b/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v--dos-equis-ambar/6392"
 country: "Mexico"
 brewery: "Cervecería Cuauhtémoc Moctezuma S.A. de C.V."
 breweryURL: "breweryURL"

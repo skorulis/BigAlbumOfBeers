@@ -7,7 +7,8 @@ score: 6
 beer-date: "2014-03-01"
 desc: "The smell seems wrong to me since it's a wheat beer but the flavour is ok"
 permalink: /beer/:title.html
-img: /img/list/murray-s-whale-ale.jpeguntappd: "https://untappd.com/b/murrays-craft-brewing-co-whale-ale/9889"
+img: /img/list/murray-s-whale-ale.jpeg
+untappd: "https://untappd.com/b/murrays-craft-brewing-co-whale-ale/9889"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6
 beer-date: "2021-01-14"
 desc: "Fairly light lager. Easy drinking"
 permalink: /beer/:title.html
-img: /img/list/bondi-draught.jpeguntappd: "https://untappd.com/b/the-bondi-brewing-co--bondi-draught/3363331"
+img: /img/list/bondi-draught.jpeg
+untappd: "https://untappd.com/b/the-bondi-brewing-co--bondi-draught/3363331"
 country: "Australia"
 brewery: "The Bondi Brewing Co."
 breweryURL: "breweryURL"

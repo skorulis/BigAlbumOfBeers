@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-08-07"
 desc: "Not that hoppy, but a good mix of sour and beer"
 permalink: /beer/:title.html
-img: /img/list/dalgety-hoppy-sour.jpeguntappd: "https://untappd.com/b/dalgety-brewing-company-hoppy-sour/4895447"
+img: /img/list/dalgety-hoppy-sour.jpeg
+untappd: "https://untappd.com/b/dalgety-brewing-company-hoppy-sour/4895447"
 country: "Australia"
 brewery: "Dalgety Brewing Company"
 breweryURL: "breweryURL"

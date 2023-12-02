@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2017-07-12"
 desc: "A little yeasty and easy drinking"
 permalink: /beer/:title.html
-img: /img/list/rieder-bock.jpeguntappd: "https://untappd.com/b/brauerei-ried-weibbier-bock/254366"
+img: /img/list/rieder-bock.jpeg
+untappd: "https://untappd.com/b/brauerei-ried-weibbier-bock/254366"
 country: "Austria"
 brewery: "Brauerei Ried"
 breweryURL: "breweryURL"

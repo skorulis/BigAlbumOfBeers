@@ -7,7 +7,8 @@ score: 8
 beer-date: "2017-10-28"
 desc: "Fruity and a solid pale ale. Easily sessionable"
 permalink: /beer/:title.html
-img: /img/list/alesmith-pale-ale--394.jpeguntappd: "https://untappd.com/b/alesmith-brewing-company-san-diego-pale-ale--394/705460"
+img: /img/list/alesmith-pale-ale--394.jpeg
+untappd: "https://untappd.com/b/alesmith-brewing-company-san-diego-pale-ale--394/705460"
 country: "United States"
 brewery: "AleSmith Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-12-23"
 desc: "A bit harsh for what I would call a golden ale"
 permalink: /beer/:title.html
-img: /img/list/partizan-strong-golden-belgian-ale.jpeguntappd: "https://untappd.com/b/partizan-brewing-sgb/443455"
+img: /img/list/partizan-strong-golden-belgian-ale.jpeg
+untappd: "https://untappd.com/b/partizan-brewing-sgb/443455"
 country: "England"
 brewery: "Partizan Brewing"
 breweryURL: "breweryURL"

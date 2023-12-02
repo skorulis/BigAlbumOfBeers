@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-07-31"
 desc: "Standard sour, fairly strong on blueberry. A good level of bitterness vs sweetness for my taste"
 permalink: /beer/:title.html
-img: /img/list/tizzle-tazzle.jpeguntappd: "https://untappd.com/b/duckpond-brewing-tizzle-tazzle/3393765"
+img: /img/list/tizzle-tazzle.jpeg
+untappd: "https://untappd.com/b/duckpond-brewing-tizzle-tazzle/3393765"
 country: "Sweden"
 brewery: "Duckpond Brewing"
 breweryURL: "breweryURL"

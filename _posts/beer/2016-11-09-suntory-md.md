@@ -7,7 +7,8 @@ score: 5
 beer-date: "2014-06-21"
 desc: "A slightly strange lager"
 permalink: /beer/:title.html
-img: /img/list/suntory-md.jpeguntappd: "https://untappd.com/b/suntory-beer-limited-magnum-dry/444315"
+img: /img/list/suntory-md.jpeg
+untappd: "https://untappd.com/b/suntory-beer-limited-magnum-dry/444315"
 country: "Japan"
 brewery: "Suntory Beer Limited"
 breweryURL: "breweryURL"

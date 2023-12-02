@@ -7,7 +7,8 @@ score: 4
 beer-date: "2014-02-23"
 desc: "Not as much cookie flavour as I was hoping"
 permalink: /beer/:title.html
-img: /img/list/cookie-beer.jpeguntappd: "https://untappd.com/b/brasserie-scassenes-cookie-beer/32035"
+img: /img/list/cookie-beer.jpeg
+untappd: "https://untappd.com/b/brasserie-scassenes-cookie-beer/32035"
 country: "Belgium"
 brewery: "Brasserie Scassenes"
 breweryURL: "breweryURL"

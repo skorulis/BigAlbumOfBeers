@@ -7,7 +7,8 @@ score: 5
 beer-date: "2012-12-01"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/double-dragon.jpeguntappd: "https://untappd.com/b/felinfoel-brewery-co-ltd-double-dragon/13412"
+img: /img/list/double-dragon.jpeg
+untappd: "https://untappd.com/b/felinfoel-brewery-co-ltd-double-dragon/13412"
 country: "Wales"
 brewery: "Felinfoel Brewery Co Ltd"
 breweryURL: "breweryURL"

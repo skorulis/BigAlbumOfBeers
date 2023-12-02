@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-03-31"
 desc: "Very smooth and easy drinking"
 permalink: /beer/:title.html
-img: /img/list/yebisu-amber.jpeguntappd: "https://untappd.com/b/sapporo-breweries-kohaku-yebisu-premium-amber-----2020-/3932900"
+img: /img/list/yebisu-amber.jpeg
+untappd: "https://untappd.com/b/sapporo-breweries-kohaku-yebisu-premium-amber-----2020-/3932900"
 country: "Japan"
 brewery: "Sapporo Breweries"
 breweryURL: "breweryURL"

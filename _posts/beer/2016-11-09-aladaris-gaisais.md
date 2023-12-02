@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-10-25"
 desc: "Another quality baltic beer"
 permalink: /beer/:title.html
-img: /img/list/aladaris-gaisais.jpeguntappd: "https://untappd.com/b/aldaris-gaisais/188698"
+img: /img/list/aladaris-gaisais.jpeg
+untappd: "https://untappd.com/b/aldaris-gaisais/188698"
 country: "Latvia"
 brewery: "Aldaris"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-10-02"
 desc: "Decent IPA, very juicy. I feel like I drank too fast and didn’t stop to rate it"
 permalink: /beer/:title.html
-img: /img/list/salikat-eddy-current.jpeguntappd: "https://untappd.com/b/salikatt-eddy-current/5487849"
+img: /img/list/salikat-eddy-current.jpeg
+untappd: "https://untappd.com/b/salikatt-eddy-current/5487849"
 country: "Norway"
 brewery: "Salikatt"
 breweryURL: "breweryURL"

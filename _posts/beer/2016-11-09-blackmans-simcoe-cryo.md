@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-12-28"
 desc: "A mild and balanced pale ale. Very easy drinking"
 permalink: /beer/:title.html
-img: /img/list/blackmans-simcoe-cryo.jpeguntappd: "https://untappd.com/b/blackmans-brewery-simcoe-cryo-pale/4600104"
+img: /img/list/blackmans-simcoe-cryo.jpeg
+untappd: "https://untappd.com/b/blackmans-brewery-simcoe-cryo-pale/4600104"
 country: "Australia"
 brewery: "Blackman's Brewery"
 breweryURL: "breweryURL"

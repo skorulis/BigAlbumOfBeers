@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-10-02"
 desc: "Nice malty red with a deep flavour"
 permalink: /beer/:title.html
-img: /img/list/crow-trotskijs.jpeguntappd: "https://untappd.com/b/crow-bryggeri-trotskijs/295751"
+img: /img/list/crow-trotskijs.jpeg
+untappd: "https://untappd.com/b/crow-bryggeri-trotskijs/295751"
 country: "Norway"
 brewery: "Crow Bryggeri"
 breweryURL: "breweryURL"

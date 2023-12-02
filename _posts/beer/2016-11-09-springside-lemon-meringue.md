@@ -7,4 +7,5 @@ score: 6
 beer-date: "2022-08-07"
 desc: "Plain beer with some lemon"
 permalink: /beer/:title.html
-img: /img/list/springside-lemon-meringue.jpeg---
+img: /img/list/springside-lemon-meringue.jpeg
+---

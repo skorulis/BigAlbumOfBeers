@@ -7,7 +7,8 @@ score: 6
 beer-date: "2019-07-14"
 desc: "Kind of a pilsner taste"
 permalink: /beer/:title.html
-img: /img/list/struman-s-lager.jpeguntappd: "https://untappd.com/b/strumans-organic-beer-co--lager/2465068"
+img: /img/list/struman-s-lager.jpeg
+untappd: "https://untappd.com/b/strumans-organic-beer-co--lager/2465068"
 country: "Australia"
 brewery: "STRUMAN'S Organic Beer Co."
 breweryURL: "breweryURL"

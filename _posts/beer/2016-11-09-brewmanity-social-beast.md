@@ -7,7 +7,8 @@ score: 6
 beer-date: "2019-04-22"
 desc: "Fairly dry for a pale ale. No real hops coming through"
 permalink: /beer/:title.html
-img: /img/list/brewmanity-social-beast.jpeguntappd: "https://untappd.com/b/brewmanity-social-beast/1785325"
+img: /img/list/brewmanity-social-beast.jpeg
+untappd: "https://untappd.com/b/brewmanity-social-beast/1785325"
 country: "Australia"
 brewery: "Brewmanity"
 breweryURL: "breweryURL"

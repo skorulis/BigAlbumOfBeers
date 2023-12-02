@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-02-26"
 desc: "Kind of strange creaminess"
 permalink: /beer/:title.html
-img: /img/list/garage-project-lost-city.jpeguntappd: "https://untappd.com/b/garage-project-lost-city/5116938"
+img: /img/list/garage-project-lost-city.jpeg
+untappd: "https://untappd.com/b/garage-project-lost-city/5116938"
 country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "breweryURL"

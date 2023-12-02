@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2019-11-22"
 desc: "Fairly standard sour meant for non beer drinkers"
 permalink: /beer/:title.html
-img: /img/list/deep-creek-aloha.jpeguntappd: "https://untappd.com/b/deep-creek-brewing-co--aloha---guava-passionfruit-sour/2885245"
+img: /img/list/deep-creek-aloha.jpeg
+untappd: "https://untappd.com/b/deep-creek-brewing-co--aloha---guava-passionfruit-sour/2885245"
 country: "New Zealand"
 brewery: "Deep Creek Brewing Co."
 breweryURL: "breweryURL"

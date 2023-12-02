@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Very mellow and juicy hazy IPA"
 permalink: /beer/:title.html
-img: /img/list/range-x-bellwoods-x-mr-west-orchard-thief.jpeguntappd: "https://untappd.com/b/range-brewing-orchid-thief/4848927"
+img: /img/list/range-x-bellwoods-x-mr-west-orchard-thief.jpeg
+untappd: "https://untappd.com/b/range-brewing-orchid-thief/4848927"
 country: "Australia"
 brewery: "Range Brewing"
 breweryURL: "breweryURL"

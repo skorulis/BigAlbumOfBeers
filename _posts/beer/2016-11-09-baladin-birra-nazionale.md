@@ -7,7 +7,8 @@ score: 8
 beer-date: "2017-07-12"
 desc: "Yeasty and refreshing. The flavour tends to linger a little but there's something to this that really elevates it. Nice amount of fizz"
 permalink: /beer/:title.html
-img: /img/list/baladin-birra-nazionale.jpeguntappd: "https://untappd.com/b/birra-baladin-nazionale/102388"
+img: /img/list/baladin-birra-nazionale.jpeg
+untappd: "https://untappd.com/b/birra-baladin-nazionale/102388"
 country: "Italy"
 brewery: "Birra Baladin"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-03-09"
 desc: "Not as good as the Belgian one"
 permalink: /beer/:title.html
-img: /img/list/m-s-french-lager.jpeguntappd: "https://untappd.com/b/brasserie-champigneulles-marks---spencer-french-lager/35092"
+img: /img/list/m-s-french-lager.jpeg
+untappd: "https://untappd.com/b/brasserie-champigneulles-marks---spencer-french-lager/35092"
 country: "France"
 brewery: "Brasserie Champigneulles"
 breweryURL: "breweryURL"

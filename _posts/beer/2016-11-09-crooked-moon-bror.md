@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-10-02"
 desc: "Has a bit of sourness not often seen in IPAs"
 permalink: /beer/:title.html
-img: /img/list/crooked-moon-bror.jpeguntappd: "https://untappd.com/b/crooked-moon-brewing-bror/5321964"
+img: /img/list/crooked-moon-bror.jpeg
+untappd: "https://untappd.com/b/crooked-moon-brewing-bror/5321964"
 country: "Sweden"
 brewery: "Crooked Moon Brewing"
 breweryURL: "breweryURL"

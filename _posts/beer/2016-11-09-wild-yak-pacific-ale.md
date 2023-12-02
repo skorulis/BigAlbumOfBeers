@@ -7,7 +7,8 @@ score: 7
 beer-date: "2017-02-22"
 desc: "Easy drinking but with enough flavour to keep me happy"
 permalink: /beer/:title.html
-img: /img/list/wild-yak-pacific-ale.jpeguntappd: "https://untappd.com/b/matilda-bay-brewing-company-wild-yak/1540401"
+img: /img/list/wild-yak-pacific-ale.jpeg
+untappd: "https://untappd.com/b/matilda-bay-brewing-company-wild-yak/1540401"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
 breweryURL: "breweryURL"

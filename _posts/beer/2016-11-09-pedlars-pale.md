@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-01-07"
 desc: "All round decent pale ale"
 permalink: /beer/:title.html
-img: /img/list/pedlars-pale.jpeguntappd: "https://untappd.com/b/barrow-boys-brewing-pedlars-pale/829354"
+img: /img/list/pedlars-pale.jpeg
+untappd: "https://untappd.com/b/barrow-boys-brewing-pedlars-pale/829354"
 country: "Australia"
 brewery: "Barrow Boys Brewing"
 breweryURL: "breweryURL"

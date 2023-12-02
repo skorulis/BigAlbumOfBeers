@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-02-14"
 desc: "I love a good kolsch. So easy drinking but without being flavourless"
 permalink: /beer/:title.html
-img: /img/list/blackfont-koelsch.jpeguntappd: "https://untappd.com/b/blackfont-brewhouse-kolsch/1406950"
+img: /img/list/blackfont-koelsch.jpeg
+untappd: "https://untappd.com/b/blackfont-brewhouse-kolsch/1406950"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
 breweryURL: "breweryURL"

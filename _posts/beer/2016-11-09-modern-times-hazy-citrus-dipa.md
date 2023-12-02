@@ -7,7 +7,8 @@ score: 8
 beer-date: "2021-06-05"
 desc: "Very mild for a double IPA and a little creamy. Good for either smashing or sipping"
 permalink: /beer/:title.html
-img: /img/list/modern-times-hazy-citrus-dipa.jpeguntappd: "https://untappd.com/b/modern-times-beer-alien-radio/3636607"
+img: /img/list/modern-times-hazy-citrus-dipa.jpeg
+untappd: "https://untappd.com/b/modern-times-beer-alien-radio/3636607"
 country: "United States"
 brewery: "Modern Times Beer"
 breweryURL: "breweryURL"

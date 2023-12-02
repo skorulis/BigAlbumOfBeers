@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-05-01"
 desc: "A really mild pale ale but with a great smooth flavour"
 permalink: /beer/:title.html
-img: /img/list/steamrail-pale-ale.jpeguntappd: "https://untappd.com/b/steamrail-brewing-company--coles--ghost-of-eyre/869385"
+img: /img/list/steamrail-pale-ale.jpeg
+untappd: "https://untappd.com/b/steamrail-brewing-company--coles--ghost-of-eyre/869385"
 country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
 breweryURL: "breweryURL"

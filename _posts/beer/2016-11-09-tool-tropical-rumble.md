@@ -7,7 +7,8 @@ score: 8
 beer-date: "2019-04-22"
 desc: "Slightly tangy and very refreshing. Lots of fruit coming through. I can see why this brewery is highly rated"
 permalink: /beer/:title.html
-img: /img/list/tool-tropical-rumble.jpeguntappd: "https://untappd.com/b/to-ol-tropical-rumble/2063261"
+img: /img/list/tool-tropical-rumble.jpeg
+untappd: "https://untappd.com/b/to-ol-tropical-rumble/2063261"
 country: "Denmark"
 brewery: "To Øl"
 breweryURL: "breweryURL"

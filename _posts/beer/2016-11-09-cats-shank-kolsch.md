@@ -7,7 +7,8 @@ score: 7
 beer-date: "2014-06-21"
 desc: "Good all round"
 permalink: /beer/:title.html
-img: /img/list/cats-shank-kolsch.jpeguntappd: "https://untappd.com/b/sail---anchor-cats-shank-kolsch/245315"
+img: /img/list/cats-shank-kolsch.jpeg
+untappd: "https://untappd.com/b/sail---anchor-cats-shank-kolsch/245315"
 country: "Australia"
 brewery: "Sail & Anchor"
 breweryURL: "breweryURL"

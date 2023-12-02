@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2020-12-25"
 desc: "Creamy and citrusy, a great combination"
 permalink: /beer/:title.html
-img: /img/list/deeds-primal-horde.jpeguntappd: "https://untappd.com/b/deeds-brewing-primal-horde/4026681"
+img: /img/list/deeds-primal-horde.jpeg
+untappd: "https://untappd.com/b/deeds-brewing-primal-horde/4026681"
 country: "Australia"
 brewery: "Deeds Brewing"
 breweryURL: "breweryURL"

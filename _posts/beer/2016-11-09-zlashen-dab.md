@@ -7,5 +7,6 @@ score: 4
 beer-date: "2013-03-28"
 desc: "An interesting flavour, but not one I really like"
 permalink: /beer/:title.html
-img: /img/list/zlashen-dab.jpegcountry: "Macedonia"
+img: /img/list/zlashen-dab.jpeg
+country: "Macedonia"
 ---

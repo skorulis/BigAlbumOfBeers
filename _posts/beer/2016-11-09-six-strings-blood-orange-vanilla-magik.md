@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-01-16"
 desc: "A lot packed into a kolsch. Hard to pick out the individual flavours but there’s a nice level of sweetness.  Some gulps give vanilla and others orange"
 permalink: /beer/:title.html
-img: /img/list/six-strings-blood-orange-vanilla-magik.jpeguntappd: "https://untappd.com/b/six-string-brewing-company-blood-orange-vanilla-magik/3470157"
+img: /img/list/six-strings-blood-orange-vanilla-magik.jpeg
+untappd: "https://untappd.com/b/six-string-brewing-company-blood-orange-vanilla-magik/3470157"
 country: "Australia"
 brewery: "Six String Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 1
 beer-date: "2013-05-25"
 desc: "Throw up kind if awful"
 permalink: /beer/:title.html
-img: /img/list/hogs-back-hop.jpeguntappd: "https://untappd.com/b/hogs-back-brewery-hop-garden-gold/95475"
+img: /img/list/hogs-back-hop.jpeg
+untappd: "https://untappd.com/b/hogs-back-brewery-hop-garden-gold/95475"
 country: "England"
 brewery: "Hogs Back Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2018-11-05"
 desc: "Very malty and pretty easy to drink"
 permalink: /beer/:title.html
-img: /img/list/malt-shovel-black-interceptor.jpeguntappd: "https://untappd.com/b/malt-shovel-brewery-interceptor-bipa/2016073"
+img: /img/list/malt-shovel-black-interceptor.jpeg
+untappd: "https://untappd.com/b/malt-shovel-brewery-interceptor-bipa/2016073"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "breweryURL"

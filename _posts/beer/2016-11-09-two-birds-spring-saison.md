@@ -7,7 +7,8 @@ score: 8
 beer-date: "2018-12-27"
 desc: "Nice mix of yeast, fruit and a little bit of sourness"
 permalink: /beer/:title.html
-img: /img/list/two-birds-spring-saison.jpeguntappd: "https://untappd.com/b/two-birds-brewing-spring-saison/1713505"
+img: /img/list/two-birds-spring-saison.jpeg
+untappd: "https://untappd.com/b/two-birds-brewing-spring-saison/1713505"
 country: "Australia"
 brewery: "Two Birds Brewing"
 breweryURL: "breweryURL"

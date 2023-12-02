@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-02-26"
 desc: "Not as juicy as I expected. But it is a very flavourful lager"
 permalink: /beer/:title.html
-img: /img/list/atomic-juicy-lager.jpeguntappd: "https://untappd.com/b/atomic-juicy-lager/5154598"
+img: /img/list/atomic-juicy-lager.jpeg
+untappd: "https://untappd.com/b/atomic-juicy-lager/5154598"
 country: "Australia"
 brewery: "Atomic"
 breweryURL: "breweryURL"

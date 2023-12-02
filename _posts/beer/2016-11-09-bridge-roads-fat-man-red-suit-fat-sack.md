@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-12-25"
 desc: "Super heavy in both hops and malt. Very rich and Christmasy, but I wouldn’t more than a middy"
 permalink: /beer/:title.html
-img: /img/list/bridge-roads-fat-man-red-suit-fat-sack.jpeguntappd: "https://untappd.com/b/bridge-road-brewers-fat-man-red-suit-big-sack/717680"
+img: /img/list/bridge-roads-fat-man-red-suit-fat-sack.jpeg
+untappd: "https://untappd.com/b/bridge-road-brewers-fat-man-red-suit-big-sack/717680"
 country: "Australia"
 brewery: "Bridge Road Brewers"
 breweryURL: "breweryURL"

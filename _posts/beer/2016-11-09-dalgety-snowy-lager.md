@@ -7,7 +7,8 @@ score: 6
 beer-date: "2022-08-07"
 desc: "Slight above average lager"
 permalink: /beer/:title.html
-img: /img/list/dalgety-snowy-lager.jpeguntappd: "https://untappd.com/b/dalgety-brewing-company-snowy-lager/3712977"
+img: /img/list/dalgety-snowy-lager.jpeg
+untappd: "https://untappd.com/b/dalgety-brewing-company-snowy-lager/3712977"
 country: "Australia"
 brewery: "Dalgety Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2021-12-28"
 desc: "Kind of earthy and sweet. Only bitter on the tip of the tongue"
 permalink: /beer/:title.html
-img: /img/list/helios-cyclops-ipa.jpeguntappd: "https://untappd.com/b/helios-brewing-co--cyclops/2576497"
+img: /img/list/helios-cyclops-ipa.jpeg
+untappd: "https://untappd.com/b/helios-brewing-co--cyclops/2576497"
 country: "Australia"
 brewery: "Helios Brewing Co."
 breweryURL: "breweryURL"

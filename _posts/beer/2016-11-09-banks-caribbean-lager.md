@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-08-18"
 desc: "Mild and smooth"
 permalink: /beer/:title.html
-img: /img/list/banks-caribbean-lager.jpeguntappd: "https://untappd.com/b/banks--barbados--breweries-caribbean-lager/17620"
+img: /img/list/banks-caribbean-lager.jpeg
+untappd: "https://untappd.com/b/banks--barbados--breweries-caribbean-lager/17620"
 country: "Barbados"
 brewery: "Banks (Barbados) Breweries"
 breweryURL: "breweryURL"

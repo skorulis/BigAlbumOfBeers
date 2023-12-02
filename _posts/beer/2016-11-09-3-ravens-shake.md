@@ -7,7 +7,8 @@ score: 8
 beer-date: "2021-01-31"
 desc: "It’s all sorts of salted caramel mixed with beer"
 permalink: /beer/:title.html
-img: /img/list/3-ravens-shake.jpeguntappd: "https://untappd.com/b/3-ravens-brewery-salted-caramel-shake/2777601"
+img: /img/list/3-ravens-shake.jpeg
+untappd: "https://untappd.com/b/3-ravens-brewery-salted-caramel-shake/2777601"
 country: "Australia"
 brewery: "3 Ravens Brewery"
 breweryURL: "breweryURL"

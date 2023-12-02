@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-01-28"
 desc: "A great beer for a nice day"
 permalink: /beer/:title.html
-img: /img/list/mountain-goat-summer-ale.jpeguntappd: "https://untappd.com/b/mountain-goat-beer-summer-ale/450510"
+img: /img/list/mountain-goat-summer-ale.jpeg
+untappd: "https://untappd.com/b/mountain-goat-beer-summer-ale/450510"
 country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "breweryURL"

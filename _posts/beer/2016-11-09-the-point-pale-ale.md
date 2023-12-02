@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-01-29"
 desc: "Not my favourite pale ale"
 permalink: /beer/:title.html
-img: /img/list/the-point-pale-ale.jpeguntappd: "https://untappd.com/b/john-boston-the-point-pale-ale/836279"
+img: /img/list/the-point-pale-ale.jpeg
+untappd: "https://untappd.com/b/john-boston-the-point-pale-ale/836279"
 country: "Australia"
 brewery: "John Boston"
 breweryURL: "breweryURL"

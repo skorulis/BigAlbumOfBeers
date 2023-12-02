@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-04-13"
 desc: "A little stronger than a lager"
 permalink: /beer/:title.html
-img: /img/list/stockade-rebel-ale.jpeguntappd: "https://untappd.com/b/stockade-brew-co-stockade-rebel-ale/816092"
+img: /img/list/stockade-rebel-ale.jpeg
+untappd: "https://untappd.com/b/stockade-brew-co-stockade-rebel-ale/816092"
 country: "Australia"
 brewery: "Stockade Brew Co"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-01-28"
 desc: "Probably just a rebrand of some other generic beer"
 permalink: /beer/:title.html
-img: /img/list/snaatch-lager.jpeguntappd: "https://untappd.com/b/sydney-brewery-snaatch-lager/1017209"
+img: /img/list/snaatch-lager.jpeg
+untappd: "https://untappd.com/b/sydney-brewery-snaatch-lager/1017209"
 country: "Australia"
 brewery: "Sydney Brewery"
 breweryURL: "breweryURL"

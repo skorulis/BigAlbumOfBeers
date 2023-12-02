@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-10-02"
 desc: "Has that velvety hop style that is a bit dry. Sits nicely between easy drinking and flavourful"
 permalink: /beer/:title.html
-img: /img/list/frydenlund-gyllen-ipa.jpeguntappd: "https://untappd.com/b/frydenlund-bryggerier-frydenlund-gyllen-ipa/5223650"
+img: /img/list/frydenlund-gyllen-ipa.jpeg
+untappd: "https://untappd.com/b/frydenlund-bryggerier-frydenlund-gyllen-ipa/5223650"
 country: "Norway"
 brewery: "Frydenlund Bryggerier"
 breweryURL: "breweryURL"

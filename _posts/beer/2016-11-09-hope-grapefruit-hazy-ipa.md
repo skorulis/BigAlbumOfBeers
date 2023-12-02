@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-11-12"
 desc: "Lots of grapefruit flavour and smell. Makes it a bit bitter but still a good IPA"
 permalink: /beer/:title.html
-img: /img/list/hope-grapefruit-hazy-ipa.jpeguntappd: "https://untappd.com/b/hope-brewery-grapefruit-hazy-ipa/3324932"
+img: /img/list/hope-grapefruit-hazy-ipa.jpeg
+untappd: "https://untappd.com/b/hope-brewery-grapefruit-hazy-ipa/3324932"
 country: "Australia"
 brewery: "Hope Brewery"
 breweryURL: "breweryURL"

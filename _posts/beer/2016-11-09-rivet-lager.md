@@ -7,7 +7,8 @@ score: 5
 beer-date: "2014-03-01"
 desc: "Cheap Aldi lager"
 permalink: /beer/:title.html
-img: /img/list/rivet-lager.jpeguntappd: "https://untappd.com/b/rivet-lager/1365884"
+img: /img/list/rivet-lager.jpeg
+untappd: "https://untappd.com/b/rivet-lager/1365884"
 country: "Vietnam"
 brewery: "Rivet"
 breweryURL: "breweryURL"

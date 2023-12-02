@@ -7,7 +7,8 @@ score: 9
 beer-date: "2017-05-27"
 desc: "Everything about this beer is amazing"
 permalink: /beer/:title.html
-img: /img/list/blackfont-souvenir-old-ale.jpeguntappd: "https://untappd.com/b/blackfont-brewhouse-souvenir-old-ale/2020362"
+img: /img/list/blackfont-souvenir-old-ale.jpeg
+untappd: "https://untappd.com/b/blackfont-brewhouse-souvenir-old-ale/2020362"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
 breweryURL: "breweryURL"

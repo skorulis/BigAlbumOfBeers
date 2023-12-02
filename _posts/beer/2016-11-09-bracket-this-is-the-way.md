@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-08-26"
 desc: "Mild west coast IPA"
 permalink: /beer/:title.html
-img: /img/list/bracket-this-is-the-way.jpeguntappd: "https://untappd.com/b/bracket-brewing-this-is-the-way/5343393"
+img: /img/list/bracket-this-is-the-way.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-this-is-the-way/5343393"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

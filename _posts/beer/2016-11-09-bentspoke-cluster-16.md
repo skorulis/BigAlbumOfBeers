@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-02-14"
 desc: "Like a normal IPA distilled into a super potent form. Too much for me right now but I should retry"
 permalink: /beer/:title.html
-img: /img/list/bentspoke-cluster-16.jpeguntappd: "https://untappd.com/b/bentspoke-brewing-co-cluster-16/1256180"
+img: /img/list/bentspoke-cluster-16.jpeg
+untappd: "https://untappd.com/b/bentspoke-brewing-co-cluster-16/1256180"
 country: "Australia"
 brewery: "Bentspoke Brewing Co"
 breweryURL: "breweryURL"

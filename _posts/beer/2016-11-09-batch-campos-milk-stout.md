@@ -7,7 +7,8 @@ score: 6
 beer-date: "2020-09-26"
 desc: "It’s basically like drinking a cold coffee. Very smooth and creamy"
 permalink: /beer/:title.html
-img: /img/list/batch-campos-milk-stout.jpeguntappd: "https://untappd.com/b/batch-brewing-company-campos-milk-stout/3218682"
+img: /img/list/batch-campos-milk-stout.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-campos-milk-stout/3218682"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

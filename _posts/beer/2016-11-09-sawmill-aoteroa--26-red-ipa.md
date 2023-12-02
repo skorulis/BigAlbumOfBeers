@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-09-21"
 desc: "On point, bitter and malty. Gets a bit too bitter towards the end"
 permalink: /beer/:title.html
-img: /img/list/sawmill-aoteroa--26-red-ipa.jpeguntappd: "https://untappd.com/b/sawmill-brewery-aotearoa-series-26-red-ipa/4882082"
+img: /img/list/sawmill-aoteroa--26-red-ipa.jpeg
+untappd: "https://untappd.com/b/sawmill-brewery-aotearoa-series-26-red-ipa/4882082"
 country: "New Zealand"
 brewery: "Sawmill Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2017-02-11"
 desc: "Pretty flavourless IPA. Was expecting more from coopers"
 permalink: /beer/:title.html
-img: /img/list/coopers-limited-edition-brew-a--ipa.jpeguntappd: "https://untappd.com/b/coopers-brewery-brew-a-ipa/1553666"
+img: /img/list/coopers-limited-edition-brew-a--ipa.jpeg
+untappd: "https://untappd.com/b/coopers-brewery-brew-a-ipa/1553666"
 country: "Australia"
 brewery: "Coopers Brewery"
 breweryURL: "breweryURL"

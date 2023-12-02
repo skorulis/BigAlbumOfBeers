@@ -7,7 +7,8 @@ score: 4
 beer-date: "2016-06-16"
 desc: "Nothing particularly good about this beer. It’s drinkable but that’s about it"
 permalink: /beer/:title.html
-img: /img/list/arc-valley-lager.jpeguntappd: "https://untappd.com/b/pinnacle-drinks-group--woolworths--arc-valley/801656"
+img: /img/list/arc-valley-lager.jpeg
+untappd: "https://untappd.com/b/pinnacle-drinks-group--woolworths--arc-valley/801656"
 country: "Australia"
 brewery: "Pinnacle Drinks Group (Woolworths)"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-11-13"
 desc: "Solid hazy IPA"
 permalink: /beer/:title.html
-img: /img/list/wayward-bru-haze.jpeguntappd: "https://untappd.com/b/wayward-brewing-bru-haze/4037095"
+img: /img/list/wayward-bru-haze.jpeg
+untappd: "https://untappd.com/b/wayward-brewing-bru-haze/4037095"
 country: "Australia"
 brewery: "Wayward Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-11-12"
 desc: "Smells quite a bit of grapefruit. Good mix of hops and malt"
 permalink: /beer/:title.html
-img: /img/list/bunnley-grapefruit-ipa.jpeguntappd: "https://untappd.com/b/burnley-brewing-grapefruit-ipa/3093139"
+img: /img/list/bunnley-grapefruit-ipa.jpeg
+untappd: "https://untappd.com/b/burnley-brewing-grapefruit-ipa/3093139"
 country: "Australia"
 brewery: "Burnley Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2021-06-05"
 desc: "Bottle says IPA, but this is a flat brown ale. It’s not an awful flavour, but there’s no hops"
 permalink: /beer/:title.html
-img: /img/list/mildura-ipa.jpeguntappd: "https://untappd.com/b/mildura-brewery-ipa/4140345"
+img: /img/list/mildura-ipa.jpeg
+untappd: "https://untappd.com/b/mildura-brewery-ipa/4140345"
 country: "Australia"
 brewery: "Mildura Brewery"
 breweryURL: "breweryURL"

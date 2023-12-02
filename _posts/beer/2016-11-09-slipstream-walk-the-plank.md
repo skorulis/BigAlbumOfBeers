@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-02-26"
 desc: "The oak comes through in the smell which is a bit like rum. Quite subtle despite how it looks. I thought it might be hoppier but I’m happy with how it comes together"
 permalink: /beer/:title.html
-img: /img/list/slipstream-walk-the-plank.jpeguntappd: "https://untappd.com/b/slipstream-brewing-company-walk-the-plank/5112824"
+img: /img/list/slipstream-walk-the-plank.jpeg
+untappd: "https://untappd.com/b/slipstream-brewing-company-walk-the-plank/5112824"
 country: "Australia"
 brewery: "Slipstream Brewing Company"
 breweryURL: "breweryURL"

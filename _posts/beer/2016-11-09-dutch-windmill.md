@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-04-13"
 desc: "Standard lager"
 permalink: /beer/:title.html
-img: /img/list/dutch-windmill.jpeguntappd: "https://untappd.com/b/h-west-b-v--dutch-windmill/15551"
+img: /img/list/dutch-windmill.jpeg
+untappd: "https://untappd.com/b/h-west-b-v--dutch-windmill/15551"
 country: "Netherlands"
 brewery: "H-West B.V."
 breweryURL: "breweryURL"

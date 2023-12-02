@@ -7,7 +7,8 @@ score: 3.5
 beer-date: "2023-03-31"
 desc: "I still don’t like watermelon in beer"
 permalink: /beer/:title.html
-img: /img/list/blackmans-watermelon-bob.jpeguntappd: "https://untappd.com/b/blackmans-brewery-watermelon-bob/5248919"
+img: /img/list/blackmans-watermelon-bob.jpeg
+untappd: "https://untappd.com/b/blackmans-brewery-watermelon-bob/5248919"
 country: "Australia"
 brewery: "Blackman's Brewery"
 breweryURL: "breweryURL"

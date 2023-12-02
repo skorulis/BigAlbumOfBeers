@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-03-31"
 desc: "Decent red, nothing special"
 permalink: /beer/:title.html
-img: /img/list/michinoku-red-ale.jpeguntappd: "https://untappd.com/b/michinoku-fukushima-ji-beer-red-ale/82544"
+img: /img/list/michinoku-red-ale.jpeg
+untappd: "https://untappd.com/b/michinoku-fukushima-ji-beer-red-ale/82544"
 country: "Japan"
 brewery: "Michinoku Fukushima Ji-Beer"
 breweryURL: "breweryURL"

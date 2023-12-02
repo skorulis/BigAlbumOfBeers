@@ -7,7 +7,8 @@ score: 4
 beer-date: "2012-11-13"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/benediktiner.jpeguntappd: "https://untappd.com/b/benediktiner-weibbrau-benediktiner-weissbier/103362"
+img: /img/list/benediktiner.jpeg
+untappd: "https://untappd.com/b/benediktiner-weibbrau-benediktiner-weissbier/103362"
 country: "Germany"
 brewery: "Benediktiner Weißbräu"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Quite a juicy smell. Very easy drinking"
 permalink: /beer/:title.html
-img: /img/list/brick-lane-avalanche.jpeguntappd: "https://untappd.com/b/brick-lane-brewing-co--avalanche--blue-release-/4423880"
+img: /img/list/brick-lane-avalanche.jpeg
+untappd: "https://untappd.com/b/brick-lane-brewing-co--avalanche--blue-release-/4423880"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
 breweryURL: "breweryURL"

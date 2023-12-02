@@ -7,7 +7,8 @@ score: 8
 beer-date: "2018-06-02"
 desc: "Fairly mild hop profile but it’s perfectly rounded"
 permalink: /beer/:title.html
-img: /img/list/greenock-brewers-victorville.jpeguntappd: "https://untappd.com/b/greenock-brewers-victorville-ale/43688"
+img: /img/list/greenock-brewers-victorville.jpeg
+untappd: "https://untappd.com/b/greenock-brewers-victorville-ale/43688"
 country: "Australia"
 brewery: "Greenock Brewers"
 breweryURL: "breweryURL"

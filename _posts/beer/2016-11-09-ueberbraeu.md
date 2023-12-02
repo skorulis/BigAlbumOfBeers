@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-05-01"
 desc: "Standard cheap beer"
 permalink: /beer/:title.html
-img: /img/list/ueberbraeu.jpeguntappd: "https://untappd.com/b/uberbrau-uberbrau/957842"
+img: /img/list/ueberbraeu.jpeg
+untappd: "https://untappd.com/b/uberbrau-uberbrau/957842"
 country: "Germany"
 brewery: "Überbräu"
 breweryURL: "breweryURL"

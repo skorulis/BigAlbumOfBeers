@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-08-18"
 desc: "I remember nothing about this beer. Must have been a good night"
 permalink: /beer/:title.html
-img: /img/list/camden-gentlemans-wit.jpeguntappd: "https://untappd.com/b/camden-town-brewery-camden-gentlemans-wit-white-beer/108629"
+img: /img/list/camden-gentlemans-wit.jpeg
+untappd: "https://untappd.com/b/camden-town-brewery-camden-gentlemans-wit-white-beer/108629"
 country: "England"
 brewery: "Camden Town Brewery"
 breweryURL: "breweryURL"

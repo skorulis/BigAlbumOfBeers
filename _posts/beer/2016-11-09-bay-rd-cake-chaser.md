@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-09-26"
 desc: "Leaves a little sweetness on the lips and does seem slightly reminiscent of a heavy cake. Basically a sweet stout but very drinkable"
 permalink: /beer/:title.html
-img: /img/list/bay-rd-cake-chaser.jpeguntappd: "https://untappd.com/b/bay-rd-brewing-cake-chaser/3880175"
+img: /img/list/bay-rd-cake-chaser.jpeg
+untappd: "https://untappd.com/b/bay-rd-brewing-cake-chaser/3880175"
 country: "Australia"
 brewery: "Bay Rd Brewing"
 breweryURL: "breweryURL"

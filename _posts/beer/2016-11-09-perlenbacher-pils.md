@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-06-15"
 desc: "Cheap and malty. You can't really complain at 29¢ a can"
 permalink: /beer/:title.html
-img: /img/list/perlenbacher-pils.jpeguntappd: "https://untappd.com/b/mauritius-brauerei-perlenbacher-premium-pils/185351"
+img: /img/list/perlenbacher-pils.jpeg
+untappd: "https://untappd.com/b/mauritius-brauerei-perlenbacher-premium-pils/185351"
 country: "Germany"
 brewery: "Mauritius Brauerei"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2014-02-23"
 desc: "Not the biggest fan of this wheat beer"
 permalink: /beer/:title.html
-img: /img/list/steen-brugge.jpeguntappd: "https://untappd.com/b/de-gouden-boom-steenbrugge-blanche/40022"
+img: /img/list/steen-brugge.jpeg
+untappd: "https://untappd.com/b/de-gouden-boom-steenbrugge-blanche/40022"
 country: "Belgium"
 brewery: "De Gouden Boom"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "Strange hop flavours"
 permalink: /beer/:title.html
-img: /img/list/single-hope-neipa.jpeguntappd: "https://untappd.com/b/hope-brewery-el-dorado-single-hop-neipa/4225668"
+img: /img/list/single-hope-neipa.jpeg
+untappd: "https://untappd.com/b/hope-brewery-el-dorado-single-hop-neipa/4225668"
 country: "Australia"
 brewery: "Hope Brewery"
 breweryURL: "breweryURL"

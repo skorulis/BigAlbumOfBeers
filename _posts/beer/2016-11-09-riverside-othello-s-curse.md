@@ -7,7 +7,8 @@ score: 5
 beer-date: "2016-02-14"
 desc: "Too harsh on the tongue. The one time I've wanted a smaller bottle"
 permalink: /beer/:title.html
-img: /img/list/riverside-othello-s-curse.jpeguntappd: "https://untappd.com/b/riverside-brewing-company-othellos-curse/614636"
+img: /img/list/riverside-othello-s-curse.jpeg
+untappd: "https://untappd.com/b/riverside-brewing-company-othellos-curse/614636"
 country: "Australia"
 brewery: "Riverside Brewing Company"
 breweryURL: "breweryURL"

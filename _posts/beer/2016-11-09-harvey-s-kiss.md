@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-12-23"
 desc: "Kind of warming. Better than the label suggests"
 permalink: /beer/:title.html
-img: /img/list/harvey-s-kiss.jpeguntappd: "https://untappd.com/b/harvey---son--harveys--kiss/138686"
+img: /img/list/harvey-s-kiss.jpeg
+untappd: "https://untappd.com/b/harvey---son--harveys--kiss/138686"
 country: "England"
 brewery: "Harvey & Son (Harveys)"
 breweryURL: "breweryURL"

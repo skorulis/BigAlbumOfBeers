@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2017-03-03"
 desc: "A little biscuity but otherwise a pretty plain and tasteless beer"
 permalink: /beer/:title.html
-img: /img/list/wrong-side-brewing-pale-ale.jpeguntappd: "https://untappd.com/b/wrong-side-brewing-pale-ale/1970656"
+img: /img/list/wrong-side-brewing-pale-ale.jpeg
+untappd: "https://untappd.com/b/wrong-side-brewing-pale-ale/1970656"
 country: "Australia"
 brewery: "Wrong Side Brewing"
 breweryURL: "breweryURL"

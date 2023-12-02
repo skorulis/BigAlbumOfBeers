@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-03-09"
 desc: "The better Indian beer"
 permalink: /beer/:title.html
-img: /img/list/kingfisher.jpeguntappd: "https://untappd.com/b/united-breweries--india--kingfisher-premium-lager/17377"
+img: /img/list/kingfisher.jpeg
+untappd: "https://untappd.com/b/united-breweries--india--kingfisher-premium-lager/17377"
 country: "India"
 brewery: "United Breweries (India)"
 breweryURL: "breweryURL"

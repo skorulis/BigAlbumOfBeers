@@ -7,7 +7,8 @@ score: 7
 beer-date: "2019-06-22"
 desc: "Comes off a little sweet and a little spicy"
 permalink: /beer/:title.html
-img: /img/list/hop-nation-buzz.jpeguntappd: "https://untappd.com/b/hop-nation-brewing-co-the-buzz/1299488"
+img: /img/list/hop-nation-buzz.jpeg
+untappd: "https://untappd.com/b/hop-nation-brewing-co-the-buzz/1299488"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
 breweryURL: "breweryURL"

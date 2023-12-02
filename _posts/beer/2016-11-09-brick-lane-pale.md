@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2018-12-27"
 desc: "It’s ok. That’s about all I can say"
 permalink: /beer/:title.html
-img: /img/list/brick-lane-pale.jpeguntappd: "https://untappd.com/b/brick-lane-brewing-co--one-love-pale-ale/2857493"
+img: /img/list/brick-lane-pale.jpeg
+untappd: "https://untappd.com/b/brick-lane-brewing-co--one-love-pale-ale/2857493"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
 breweryURL: "breweryURL"

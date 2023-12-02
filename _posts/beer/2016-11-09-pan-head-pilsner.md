@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-04-13"
 desc: "A little bit metallic. Not my favourite"
 permalink: /beer/:title.html
-img: /img/list/pan-head-pilsner.jpeguntappd: "https://untappd.com/b/panhead-custom-ales-port-road-pils/422915"
+img: /img/list/pan-head-pilsner.jpeg
+untappd: "https://untappd.com/b/panhead-custom-ales-port-road-pils/422915"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
 breweryURL: "breweryURL"

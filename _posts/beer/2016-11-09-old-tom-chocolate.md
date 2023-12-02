@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-01-29"
 desc: "A slight hint of chocolate"
 permalink: /beer/:title.html
-img: /img/list/old-tom-chocolate.jpeguntappd: "https://untappd.com/b/robinsons-brewery-old-tom-chocolate/40157"
+img: /img/list/old-tom-chocolate.jpeg
+untappd: "https://untappd.com/b/robinsons-brewery-old-tom-chocolate/40157"
 country: "England"
 brewery: "Robinsons Brewery"
 breweryURL: "breweryURL"

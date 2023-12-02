@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-03-16"
 desc: "Had more flavour than anticipated, it’s actually a lot like the IIPA but with less bitterness"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-pale-ale.jpeguntappd: "https://untappd.com/b/pirate-life-brewing-pale-ale/995555"
+img: /img/list/pirate-life-pale-ale.jpeg
+untappd: "https://untappd.com/b/pirate-life-brewing-pale-ale/995555"
 country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "breweryURL"

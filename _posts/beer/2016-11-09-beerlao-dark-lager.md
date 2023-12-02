@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-10-17"
 desc: "Doesn’t really taste like a dark lager, just a really crisp and clean lager"
 permalink: /beer/:title.html
-img: /img/list/beerlao-dark-lager.jpeguntappd: "https://untappd.com/b/lao-brewery-beerlao-dark/251717"
+img: /img/list/beerlao-dark-lager.jpeg
+untappd: "https://untappd.com/b/lao-brewery-beerlao-dark/251717"
 country: "Laos"
 brewery: "Lao Brewery"
 breweryURL: "breweryURL"

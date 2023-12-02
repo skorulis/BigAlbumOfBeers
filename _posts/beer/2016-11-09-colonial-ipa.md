@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-11-12"
 desc: "Citrusy and tasty"
 permalink: /beer/:title.html
-img: /img/list/colonial-ipa.jpeguntappd: "https://untappd.com/b/colonial-brewing-co-ipa--australia-/1657617"
+img: /img/list/colonial-ipa.jpeg
+untappd: "https://untappd.com/b/colonial-brewing-co-ipa--australia-/1657617"
 country: "Australia"
 brewery: "Colonial Brewing Co"
 breweryURL: "breweryURL"

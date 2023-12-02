@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Very tropical IPA"
 permalink: /beer/:title.html
-img: /img/list/range-twenty-something.jpeguntappd: "https://untappd.com/b/range-brewing-twenty-something/4548596"
+img: /img/list/range-twenty-something.jpeg
+untappd: "https://untappd.com/b/range-brewing-twenty-something/4548596"
 country: "Australia"
 brewery: "Range Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 4
 beer-date: "2015-05-01"
 desc: "Got it from Aldi, wasn’t expecting much"
 permalink: /beer/:title.html
-img: /img/list/arcobraeu-schloss-hell.jpeguntappd: "https://untappd.com/b/arcobrau-grafliches-brauhaus-schloss-hell/84421"
+img: /img/list/arcobraeu-schloss-hell.jpeg
+untappd: "https://untappd.com/b/arcobrau-grafliches-brauhaus-schloss-hell/84421"
 country: "Germany"
 brewery: "Arcobräu Gräfliches Brauhaus"
 breweryURL: "breweryURL"

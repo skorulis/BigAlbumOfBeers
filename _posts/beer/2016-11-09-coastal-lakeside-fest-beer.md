@@ -7,7 +7,8 @@ score: 6
 beer-date: "2022-08-07"
 desc: "Fairly plain lager"
 permalink: /beer/:title.html
-img: /img/list/coastal-lakeside-fest-beer.jpeguntappd: "https://untappd.com/b/the-coastal-brewing-company-lakeside-fest-beer/2795366"
+img: /img/list/coastal-lakeside-fest-beer.jpeg
+untappd: "https://untappd.com/b/the-coastal-brewing-company-lakeside-fest-beer/2795366"
 country: "Australia"
 brewery: "The Coastal Brewing Company"
 breweryURL: "breweryURL"

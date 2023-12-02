@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2021-12-28"
 desc: "Very mellow for an IPA which helps it go down easy. The perfect session IPA but with more booze"
 permalink: /beer/:title.html
-img: /img/list/akasha-ron-mcclane-cryo-pop-ipa.jpeguntappd: "https://untappd.com/b/akasha-brewing-company-ron-mcclane-cryo-pop-ipa/4613284"
+img: /img/list/akasha-ron-mcclane-cryo-pop-ipa.jpeg
+untappd: "https://untappd.com/b/akasha-brewing-company-ron-mcclane-cryo-pop-ipa/4613284"
 country: "Australia"
 brewery: "Akasha Brewing Company"
 breweryURL: "breweryURL"

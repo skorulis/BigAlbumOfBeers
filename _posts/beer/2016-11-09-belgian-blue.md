@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-01-29"
 desc: "Ok for a wheat beer"
 permalink: /beer/:title.html
-img: /img/list/belgian-blue.jpeguntappd: "https://untappd.com/b/belgian-blue-brewing-company-original-belgian-wheat-ale/562689"
+img: /img/list/belgian-blue.jpeg
+untappd: "https://untappd.com/b/belgian-blue-brewing-company-original-belgian-wheat-ale/562689"
 country: "Belgium"
 brewery: "Belgian Blue Brewing Company"
 breweryURL: "breweryURL"

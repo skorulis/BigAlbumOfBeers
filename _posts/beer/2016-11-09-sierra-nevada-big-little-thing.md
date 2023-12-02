@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-02-26"
 desc: "Very mellow"
 permalink: /beer/:title.html
-img: /img/list/sierra-nevada-big-little-thing.jpeguntappd: "https://untappd.com/b/sierra-nevada-brewing-co--big-little-thing-ipa/4005175"
+img: /img/list/sierra-nevada-big-little-thing.jpeg
+untappd: "https://untappd.com/b/sierra-nevada-brewing-co--big-little-thing-ipa/4005175"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
 breweryURL: "breweryURL"

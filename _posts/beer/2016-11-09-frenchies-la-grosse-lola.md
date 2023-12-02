@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-12-28"
 desc: "Reminds me a lot of cantillon which is not what I was expecting. Slight mustyness. Lots of sediment in the bottom. It does deliver on the apricot"
 permalink: /beer/:title.html
-img: /img/list/frenchies-la-grosse-lola.jpeguntappd: "https://untappd.com/b/frenchies-la-grosse-lola---apricot-sour/3942337"
+img: /img/list/frenchies-la-grosse-lola.jpeg
+untappd: "https://untappd.com/b/frenchies-la-grosse-lola---apricot-sour/3942337"
 country: "Australia"
 brewery: "Frenchies"
 breweryURL: "breweryURL"

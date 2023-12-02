@@ -7,7 +7,8 @@ score: 8
 beer-date: "2017-10-28"
 desc: "Really strong taste and aroma. Takes a little while to get used to but great towards the end"
 permalink: /beer/:title.html
-img: /img/list/trappistes-rochefort-8.jpeguntappd: "https://untappd.com/b/abbaye-notre-dame-de-saint-remy-trappistes-rochefort-8/11473"
+img: /img/list/trappistes-rochefort-8.jpeg
+untappd: "https://untappd.com/b/abbaye-notre-dame-de-saint-remy-trappistes-rochefort-8/11473"
 country: "Belgium"
 brewery: "Abbaye Notre-Dame de Saint-Rémy"
 breweryURL: "breweryURL"

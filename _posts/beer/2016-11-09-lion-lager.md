@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-03-09"
 desc: "Nothing special"
 permalink: /beer/:title.html
-img: /img/list/lion-lager.jpeguntappd: "https://untappd.com/b/lion-brewery-ceylon-lion-lager/37408"
+img: /img/list/lion-lager.jpeg
+untappd: "https://untappd.com/b/lion-brewery-ceylon-lion-lager/37408"
 country: "Sri Lanka"
 brewery: "Lion Brewery Ceylon"
 breweryURL: "breweryURL"

@@ -7,4 +7,5 @@ score: 4
 beer-date: "2023-08-26"
 desc: "Fairly plain malty lager"
 permalink: /beer/:title.html
-img: /img/list/jimurphy-southern-lager.jpeg---
+img: /img/list/jimurphy-southern-lager.jpeg
+---

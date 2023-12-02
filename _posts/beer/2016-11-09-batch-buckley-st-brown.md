@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-07-31"
 desc: "Very little smell and very clean on the palette. A little sweetness and not much else. Very easy drinking"
 permalink: /beer/:title.html
-img: /img/list/batch-buckley-st-brown.jpeguntappd: "https://untappd.com/b/batch-brewing-company-buckley-street-brown/3079058"
+img: /img/list/batch-buckley-st-brown.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-buckley-street-brown/3079058"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

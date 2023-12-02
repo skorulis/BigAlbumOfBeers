@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-02-01"
 desc: "A rich man's VB"
 permalink: /beer/:title.html
-img: /img/list/crown-lager.jpeguntappd: "https://untappd.com/b/carlton---united-breweries-crown-lager/16424"
+img: /img/list/crown-lager.jpeg
+untappd: "https://untappd.com/b/carlton---united-breweries-crown-lager/16424"
 country: "Australia"
 brewery: "Carlton & United Breweries"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-05-25"
 desc: "Quite malty"
 permalink: /beer/:title.html
-img: /img/list/voll-damn-doble-malta.jpeguntappd: "https://untappd.com/b/grupo-damm-voll-damm-doble-malta/30114"
+img: /img/list/voll-damn-doble-malta.jpeg
+untappd: "https://untappd.com/b/grupo-damm-voll-damm-doble-malta/30114"
 country: "Spain"
 brewery: "Grupo Damm"
 breweryURL: "breweryURL"

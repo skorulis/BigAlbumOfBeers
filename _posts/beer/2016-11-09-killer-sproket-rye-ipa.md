@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-01-07"
 desc: "I haven’t had many rye IPAs but so far they’ve all been great beers"
 permalink: /beer/:title.html
-img: /img/list/killer-sproket-rye-ipa.jpeguntappd: "https://untappd.com/b/killer-sprocket-rye-ipa/732602"
+img: /img/list/killer-sproket-rye-ipa.jpeg
+untappd: "https://untappd.com/b/killer-sprocket-rye-ipa/732602"
 country: "Australia"
 brewery: "Killer Sprocket"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-01-16"
 desc: "Really nice pale. Nice pine finish"
 permalink: /beer/:title.html
-img: /img/list/hop-nation-the-heart.jpeguntappd: "https://untappd.com/b/hop-nation-brewing-co-the-heart/2114779"
+img: /img/list/hop-nation-the-heart.jpeg
+untappd: "https://untappd.com/b/hop-nation-brewing-co-the-heart/2114779"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
 breweryURL: "breweryURL"

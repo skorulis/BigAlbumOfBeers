@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-03-16"
 desc: "Still yet to have a bad beer from mountain goat though they are a bit too similar"
 permalink: /beer/:title.html
-img: /img/list/mountain-goat-hightail-ale.jpeguntappd: "https://untappd.com/b/mountain-goat-beer-hightail-ale/9234"
+img: /img/list/mountain-goat-hightail-ale.jpeg
+untappd: "https://untappd.com/b/mountain-goat-beer-hightail-ale/9234"
 country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "breweryURL"

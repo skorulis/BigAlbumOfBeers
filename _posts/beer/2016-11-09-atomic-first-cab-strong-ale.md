@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-11-13"
 desc: "It’s very bitter, but maybe it’s missing something"
 permalink: /beer/:title.html
-img: /img/list/atomic-first-cab-strong-ale.jpeguntappd: "https://untappd.com/b/atomic-beer-project-first-cab/4014262"
+img: /img/list/atomic-first-cab-strong-ale.jpeg
+untappd: "https://untappd.com/b/atomic-beer-project-first-cab/4014262"
 country: "Australia"
 brewery: "Atomic Beer Project"
 breweryURL: "breweryURL"

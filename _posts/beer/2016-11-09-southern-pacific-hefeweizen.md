@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-02-26"
 desc: "Not the best Hefeweizen I’ve had, but decent"
 permalink: /beer/:title.html
-img: /img/list/southern-pacific-hefeweizen.jpeguntappd: "https://untappd.com/b/southern-pacific-brewing-hefeweizen/193614"
+img: /img/list/southern-pacific-hefeweizen.jpeg
+untappd: "https://untappd.com/b/southern-pacific-brewing-hefeweizen/193614"
 country: "United States"
 brewery: "Southern Pacific Brewing"
 breweryURL: "breweryURL"

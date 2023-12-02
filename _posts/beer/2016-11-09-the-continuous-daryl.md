@@ -7,7 +7,8 @@ score: 9.5
 beer-date: "2016-06-16"
 desc: "One amazing beer. Spot on with bitterness and fruitiness"
 permalink: /beer/:title.html
-img: /img/list/the-continuous-daryl.jpeguntappd: "https://untappd.com/b/mornington-peninsula-brewery-the-continuous-daryl/1050344"
+img: /img/list/the-continuous-daryl.jpeg
+untappd: "https://untappd.com/b/mornington-peninsula-brewery-the-continuous-daryl/1050344"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
 breweryURL: "breweryURL"

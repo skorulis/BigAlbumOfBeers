@@ -7,7 +7,8 @@ score: 6
 beer-date: "2016-02-14"
 desc: "I expected more, there's a slight metallic taste which shouldn't be in a nice beer"
 permalink: /beer/:title.html
-img: /img/list/palm-hop-select.jpeguntappd: "https://untappd.com/b/brouwerij-palm-palm-hop-select/325284"
+img: /img/list/palm-hop-select.jpeg
+untappd: "https://untappd.com/b/brouwerij-palm-palm-hop-select/325284"
 country: "Belgium"
 brewery: "Brouwerij Palm"
 breweryURL: "breweryURL"

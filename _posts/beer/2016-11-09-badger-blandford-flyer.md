@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-07-19"
 desc: "Mild ginger"
 permalink: /beer/:title.html
-img: /img/list/badger-blandford-flyer.jpeguntappd: "https://untappd.com/b/badger-ales--hall---woodhouse--blandford-flyer/31806"
+img: /img/list/badger-blandford-flyer.jpeg
+untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--blandford-flyer/31806"
 country: "England"
 brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2014-03-18"
 desc: "a nicely hopped pale ale"
 permalink: /beer/:title.html
-img: /img/list/bridge-road-beechworth-pale-ale.jpeguntappd: "https://untappd.com/b/bridge-road-brewers-beechworth-pale-ale/13726"
+img: /img/list/bridge-road-beechworth-pale-ale.jpeg
+untappd: "https://untappd.com/b/bridge-road-brewers-beechworth-pale-ale/13726"
 country: "Australia"
 brewery: "Bridge Road Brewers"
 breweryURL: "breweryURL"

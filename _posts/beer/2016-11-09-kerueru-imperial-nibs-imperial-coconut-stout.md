@@ -7,7 +7,8 @@ score: 9
 beer-date: "2018-03-13"
 desc: "So rich and mellow. The raw chocolate comes through beautifully"
 permalink: /beer/:title.html
-img: /img/list/kerueru-imperial-nibs-imperial-coconut-stout.jpeguntappd: "https://untappd.com/b/kereru-brewing-company-imperial-nibs/1122344"
+img: /img/list/kerueru-imperial-nibs-imperial-coconut-stout.jpeg
+untappd: "https://untappd.com/b/kereru-brewing-company-imperial-nibs/1122344"
 country: "New Zealand"
 brewery: "Kereru Brewing Company"
 breweryURL: "breweryURL"

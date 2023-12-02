@@ -7,7 +7,8 @@ score: 5
 beer-date: "2014-03-18"
 desc: "Not quite sure what this beer is going for"
 permalink: /beer/:title.html
-img: /img/list/murray-s-rudeboy.jpeguntappd: "https://untappd.com/b/murrays-craft-brewing-co-rudeboy-pilsner/116680"
+img: /img/list/murray-s-rudeboy.jpeg
+untappd: "https://untappd.com/b/murrays-craft-brewing-co-rudeboy-pilsner/116680"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "breweryURL"

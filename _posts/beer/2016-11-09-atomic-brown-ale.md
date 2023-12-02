@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "Fairly standard brown, easy drinking"
 permalink: /beer/:title.html
-img: /img/list/atomic-brown-ale.jpeguntappd: "https://untappd.com/b/atomic-brown-ale/4224003"
+img: /img/list/atomic-brown-ale.jpeg
+untappd: "https://untappd.com/b/atomic-brown-ale/4224003"
 country: "Australia"
 brewery: "Atomic"
 breweryURL: "breweryURL"

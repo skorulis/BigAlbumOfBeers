@@ -7,7 +7,8 @@ score: 8
 beer-date: "2021-04-02"
 desc: "Quite an interesting mix of flavours. Almost like a really mild sour sauce but with a little herbal tang"
 permalink: /beer/:title.html
-img: /img/list/two-birds-rice-rice-baby.jpeguntappd: "https://untappd.com/b/two-birds-brewing-rice-rice-baby/3995644"
+img: /img/list/two-birds-rice-rice-baby.jpeg
+untappd: "https://untappd.com/b/two-birds-brewing-rice-rice-baby/3995644"
 country: "Australia"
 brewery: "Two Birds Brewing"
 breweryURL: "breweryURL"

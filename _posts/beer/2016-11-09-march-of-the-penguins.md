@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-03-09"
 desc: "An average stout"
 permalink: /beer/:title.html
-img: /img/list/march-of-the-penguins.jpeguntappd: "https://untappd.com/b/williams-brothers-brewing-co--march-of-the-penguins/34067"
+img: /img/list/march-of-the-penguins.jpeg
+untappd: "https://untappd.com/b/williams-brothers-brewing-co--march-of-the-penguins/34067"
 country: "Scotland"
 brewery: "Williams Brothers Brewing Co."
 breweryURL: "breweryURL"

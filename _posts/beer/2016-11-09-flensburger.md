@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2017-06-15"
 desc: "Pretty easy to get down. Decent session beer"
 permalink: /beer/:title.html
-img: /img/list/flensburger.jpeguntappd: "https://untappd.com/b/flensburger-brauerei-emil-petersen-pilsener/5311"
+img: /img/list/flensburger.jpeg
+untappd: "https://untappd.com/b/flensburger-brauerei-emil-petersen-pilsener/5311"
 country: "Germany"
 brewery: "Flensburger Brauerei Emil Petersen"
 breweryURL: "breweryURL"

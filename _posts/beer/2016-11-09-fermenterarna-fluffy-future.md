@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-10-02"
 desc: "A very light IPA. Easy drinking but not doing anything to call me back"
 permalink: /beer/:title.html
-img: /img/list/fermenterarna-fluffy-future.jpeguntappd: "https://untappd.com/b/fermenterarna-fluffy-future/5399289"
+img: /img/list/fermenterarna-fluffy-future.jpeg
+untappd: "https://untappd.com/b/fermenterarna-fluffy-future/5399289"
 country: "Sweden"
 brewery: "Fermenterarna"
 breweryURL: "breweryURL"

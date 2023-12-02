@@ -7,7 +7,8 @@ score: 6
 beer-date: "2014-03-18"
 desc: "A mild easy drinking stout"
 permalink: /beer/:title.html
-img: /img/list/4-pines-stout.jpeguntappd: "https://untappd.com/b/4-pines-brewing-company-stout/33630"
+img: /img/list/4-pines-stout.jpeg
+untappd: "https://untappd.com/b/4-pines-brewing-company-stout/33630"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
 breweryURL: "breweryURL"

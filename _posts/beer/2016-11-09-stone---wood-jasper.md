@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-01-28"
 desc: "Rich but not right"
 permalink: /beer/:title.html
-img: /img/list/stone---wood-jasper.jpeguntappd: "https://untappd.com/b/stone---wood-jasper-ale/147818"
+img: /img/list/stone---wood-jasper.jpeg
+untappd: "https://untappd.com/b/stone---wood-jasper-ale/147818"
 country: "Australia"
 brewery: "Stone & Wood"
 breweryURL: "breweryURL"

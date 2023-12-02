@@ -7,4 +7,5 @@ score: 8.5
 beer-date: "2023-02-26"
 desc: "Exactly what you expect from a tripel"
 permalink: /beer/:title.html
-img: /img/list/slowlane-threefold-belgian-tripel.jpeg---
+img: /img/list/slowlane-threefold-belgian-tripel.jpeg
+---

@@ -7,7 +7,8 @@ score: 9
 beer-date: "2023-10-02"
 desc: "Both a light and hoppy beer. Smells of fresh fruits and tastes similar. Each sip makes me happy"
 permalink: /beer/:title.html
-img: /img/list/mikkeller-hop-shop.jpeguntappd: "https://untappd.com/b/mikkeller-hop-shop/5205020"
+img: /img/list/mikkeller-hop-shop.jpeg
+untappd: "https://untappd.com/b/mikkeller-hop-shop/5205020"
 country: "Denmark"
 brewery: "Mikkeller"
 breweryURL: "breweryURL"

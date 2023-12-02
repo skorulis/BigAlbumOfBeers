@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2022-08-07"
 desc: "Not sure i would call this an IPA, just doesn’t have the depth"
 permalink: /beer/:title.html
-img: /img/list/bright-black-diamond.jpeguntappd: "https://untappd.com/b/bright-brewery-black-diamond/1557584"
+img: /img/list/bright-black-diamond.jpeg
+untappd: "https://untappd.com/b/bright-brewery-black-diamond/1557584"
 country: "Australia"
 brewery: "Bright Brewery"
 breweryURL: "breweryURL"

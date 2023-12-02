@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-12-23"
 desc: "Kind of tasty lager"
 permalink: /beer/:title.html
-img: /img/list/brighton-blonde.jpeguntappd: "https://untappd.com/b/king-beer-brighton-blonde/113189"
+img: /img/list/brighton-blonde.jpeg
+untappd: "https://untappd.com/b/king-beer-brighton-blonde/113189"
 country: "England"
 brewery: "King Beer"
 breweryURL: "breweryURL"

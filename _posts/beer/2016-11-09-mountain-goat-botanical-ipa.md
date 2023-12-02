@@ -7,7 +7,8 @@ score: 9.5
 beer-date: "2021-04-02"
 desc: "This beer is just amazing, it has all the good parts of an IPA and gin mixed together. Despite how that may sound it works perfectly"
 permalink: /beer/:title.html
-img: /img/list/mountain-goat-botanical-ipa.jpeguntappd: "https://untappd.com/b/mountain-goat-beer-rare-breed--botanical-ipa/4103762"
+img: /img/list/mountain-goat-botanical-ipa.jpeg
+untappd: "https://untappd.com/b/mountain-goat-beer-rare-breed--botanical-ipa/4103762"
 country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "breweryURL"

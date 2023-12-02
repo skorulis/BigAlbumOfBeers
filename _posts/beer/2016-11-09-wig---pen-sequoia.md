@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-02-14"
 desc: "Listed as an amber but kind of like an IPA but a little smoother"
 permalink: /beer/:title.html
-img: /img/list/wig---pen-sequoia.jpeguntappd: "https://untappd.com/b/wig---pen-brewery-sequoia/736126"
+img: /img/list/wig---pen-sequoia.jpeg
+untappd: "https://untappd.com/b/wig---pen-brewery-sequoia/736126"
 country: "Australia"
 brewery: "Wig & Pen Brewery"
 breweryURL: "breweryURL"

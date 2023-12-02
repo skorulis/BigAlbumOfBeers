@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-05-01"
 desc: "Tangy, strong"
 permalink: /beer/:title.html
-img: /img/list/six-point-global-warmer.jpeguntappd: "https://untappd.com/b/sixpoint-brewery-global-warmer/447370"
+img: /img/list/six-point-global-warmer.jpeg
+untappd: "https://untappd.com/b/sixpoint-brewery-global-warmer/447370"
 country: "United States"
 brewery: "Sixpoint Brewery"
 breweryURL: "breweryURL"

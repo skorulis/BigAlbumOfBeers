@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-03-31"
 desc: "A nice balance of raspberry and beer. Sweet but still beery"
 permalink: /beer/:title.html
-img: /img/list/bucketys-barrel-aged-raspberry-farmhouse.jpeguntappd: "https://untappd.com/b/buckettys-brewing-co--barrel-aged-raspberry-farmhouse-ale/5223344"
+img: /img/list/bucketys-barrel-aged-raspberry-farmhouse.jpeg
+untappd: "https://untappd.com/b/buckettys-brewing-co--barrel-aged-raspberry-farmhouse-ale/5223344"
 country: "Australia"
 brewery: "Bucketty's Brewing Co."
 breweryURL: "breweryURL"

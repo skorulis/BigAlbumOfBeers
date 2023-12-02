@@ -7,4 +7,5 @@ score: 4
 beer-date: "2018-02-17"
 desc: "Tastes flat and warm"
 permalink: /beer/:title.html
-img: /img/list/winking-seal-pale-ale.jpeg---
+img: /img/list/winking-seal-pale-ale.jpeg
+---

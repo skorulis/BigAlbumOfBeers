@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-07-19"
 desc: "Very hoppy. Too hoppy"
 permalink: /beer/:title.html
-img: /img/list/badger-first-gold.jpeguntappd: "https://untappd.com/b/badger-ales--hall---woodhouse--first-call--first-gold/9722"
+img: /img/list/badger-first-gold.jpeg
+untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--first-call--first-gold/9722"
 country: "England"
 brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2016-09-21"
 desc: "Really tasty brew. Not as bitter as I expected which works well with mild hop flavour"
 permalink: /beer/:title.html
-img: /img/list/mismatch-extra-pale-ale.jpeguntappd: "https://untappd.com/b/mismatch-brewing-company-extra-pale-ale/1249686"
+img: /img/list/mismatch-extra-pale-ale.jpeg
+untappd: "https://untappd.com/b/mismatch-brewing-company-extra-pale-ale/1249686"
 country: "Australia"
 brewery: "Mismatch Brewing Company"
 breweryURL: "breweryURL"

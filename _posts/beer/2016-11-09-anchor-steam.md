@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-05-25"
 desc: "Like a mild IPA. Tasty"
 permalink: /beer/:title.html
-img: /img/list/anchor-steam.jpeguntappd: "https://untappd.com/b/anchor-brewing-company-anchor-steam-beer/6204"
+img: /img/list/anchor-steam.jpeg
+untappd: "https://untappd.com/b/anchor-brewing-company-anchor-steam-beer/6204"
 country: "United States"
 brewery: "Anchor Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-04-27"
 desc: "Wouldn't have another"
 permalink: /beer/:title.html
-img: /img/list/old-golden-hen.jpeguntappd: "https://untappd.com/b/greene-king-morland-old-golden-hen/75673"
+img: /img/list/old-golden-hen.jpeg
+untappd: "https://untappd.com/b/greene-king-morland-old-golden-hen/75673"
 country: "England"
 brewery: "Greene King"
 breweryURL: "breweryURL"

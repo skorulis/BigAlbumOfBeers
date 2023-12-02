@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "Very tasty. I like the gose saltiness"
 permalink: /beer/:title.html
-img: /img/list/mountain-culture-daily-dose.jpeguntappd: "https://untappd.com/b/mountain-culture-beer-co--daily-dose/3596269"
+img: /img/list/mountain-culture-daily-dose.jpeg
+untappd: "https://untappd.com/b/mountain-culture-beer-co--daily-dose/3596269"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
 breweryURL: "breweryURL"

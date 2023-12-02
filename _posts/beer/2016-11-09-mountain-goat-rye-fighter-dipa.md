@@ -7,7 +7,8 @@ score: 8
 beer-date: "2018-06-02"
 desc: "Not getting a lot of rye but plenty of hops"
 permalink: /beer/:title.html
-img: /img/list/mountain-goat-rye-fighter-dipa.jpeguntappd: "https://untappd.com/b/mountain-goat-beer-rare-breed--rye-fighter-double-ipa/2564248"
+img: /img/list/mountain-goat-rye-fighter-dipa.jpeg
+untappd: "https://untappd.com/b/mountain-goat-beer-rare-breed--rye-fighter-double-ipa/2564248"
 country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "breweryURL"

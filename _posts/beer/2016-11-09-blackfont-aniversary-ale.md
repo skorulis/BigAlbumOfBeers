@@ -7,4 +7,5 @@ score: 6
 beer-date: "2017-10-28"
 desc: "Slightly sour but that kinds of dominates everything else. It's decent but I think I might have left it too long in the fridge"
 permalink: /beer/:title.html
-img: /img/list/blackfont-aniversary-ale.jpeg---
+img: /img/list/blackfont-aniversary-ale.jpeg
+---

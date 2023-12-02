@@ -7,7 +7,8 @@ score: 7
 beer-date: "2018-10-05"
 desc: "Not stouty, just dark. Fairly sweet and easy drinking"
 permalink: /beer/:title.html
-img: /img/list/moo-brew-dark-ale.jpeguntappd: "https://untappd.com/b/moo-brew-dark-ale/17777"
+img: /img/list/moo-brew-dark-ale.jpeg
+untappd: "https://untappd.com/b/moo-brew-dark-ale/17777"
 country: "Australia"
 brewery: "Moo Brew"
 breweryURL: "breweryURL"

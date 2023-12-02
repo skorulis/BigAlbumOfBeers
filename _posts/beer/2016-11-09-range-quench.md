@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "Very light and easy to drink with a bit of sweetness. A good drink to cool down after exercise"
 permalink: /beer/:title.html
-img: /img/list/range-quench.jpeguntappd: "https://untappd.com/b/range-brewing-quench/4322194"
+img: /img/list/range-quench.jpeg
+untappd: "https://untappd.com/b/range-brewing-quench/4322194"
 country: "Australia"
 brewery: "Range Brewing"
 breweryURL: "breweryURL"

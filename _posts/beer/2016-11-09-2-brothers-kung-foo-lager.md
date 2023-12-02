@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-05-01"
 desc: "Like a tangy lager"
 permalink: /beer/:title.html
-img: /img/list/2-brothers-kung-foo-lager.jpeguntappd: "https://untappd.com/b/2-brothers-brewery--kung-foo/155613"
+img: /img/list/2-brothers-kung-foo-lager.jpeg
+untappd: "https://untappd.com/b/2-brothers-brewery--kung-foo/155613"
 country: "Australia"
 brewery: "2 Brothers Brewery "
 breweryURL: "breweryURL"

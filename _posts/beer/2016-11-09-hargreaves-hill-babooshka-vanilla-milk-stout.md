@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-12-28"
 desc: "Pretty mild milk stout. Quite creamy with a little hint of vanilla"
 permalink: /beer/:title.html
-img: /img/list/hargreaves-hill-babooshka-vanilla-milk-stout.jpeguntappd: "https://untappd.com/b/hargreaves-hill-babooshka-vanilla-milk-stout/2684922"
+img: /img/list/hargreaves-hill-babooshka-vanilla-milk-stout.jpeg
+untappd: "https://untappd.com/b/hargreaves-hill-babooshka-vanilla-milk-stout/2684922"
 country: "Australia"
 brewery: "Hargreaves Hill"
 breweryURL: "breweryURL"

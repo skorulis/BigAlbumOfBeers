@@ -7,7 +7,8 @@ score: 9
 beer-date: "2023-10-02"
 desc: "Way too easy to drink for the strength. Very little aroma and tastes more like a pale ale rather than a TIPA"
 permalink: /beer/:title.html
-img: /img/list/haand-hop-tweak--9.jpeguntappd: "https://untappd.com/b/haandbryggeriet-hop-tweak-9/5423622"
+img: /img/list/haand-hop-tweak--9.jpeg
+untappd: "https://untappd.com/b/haandbryggeriet-hop-tweak-9/5423622"
 country: "Norway"
 brewery: "HaandBryggeriet"
 breweryURL: "breweryURL"

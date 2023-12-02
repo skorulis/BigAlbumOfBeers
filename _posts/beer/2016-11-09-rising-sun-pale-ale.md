@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-05-01"
 desc: "Was expecting more from this. It’s the nice pale flavour but with too much harshness"
 permalink: /beer/:title.html
-img: /img/list/rising-sun-pale-ale.jpeguntappd: "https://untappd.com/b/baird-brewing-company-rising-sun-pale-ale/10856"
+img: /img/list/rising-sun-pale-ale.jpeg
+untappd: "https://untappd.com/b/baird-brewing-company-rising-sun-pale-ale/10856"
 country: "Japan"
 brewery: "Baird Brewing Company"
 breweryURL: "breweryURL"

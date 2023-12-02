@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-04-21"
 desc: "Can't pick what the flavour is but I like it. Not as plain as I was expecting"
 permalink: /beer/:title.html
-img: /img/list/yulli-s-seabass.jpeguntappd: "https://untappd.com/b/yullis-brews-seabass-mediterranean-lager/1336924"
+img: /img/list/yulli-s-seabass.jpeg
+untappd: "https://untappd.com/b/yullis-brews-seabass-mediterranean-lager/1336924"
 country: "Australia"
 brewery: "Yulli's Brews"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-08-15"
 desc: "Exactly how a ginger beer should taste"
 permalink: /beer/:title.html
-img: /img/list/hoopers-ginger-brew.jpeguntappd: "https://untappd.com/b/hoopers-ginger-brew/266654"
+img: /img/list/hoopers-ginger-brew.jpeg
+untappd: "https://untappd.com/b/hoopers-ginger-brew/266654"
 country: "England"
 brewery: "Hooper's"
 breweryURL: "breweryURL"

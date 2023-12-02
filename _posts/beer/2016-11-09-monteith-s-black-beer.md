@@ -7,7 +7,8 @@ score: 4
 beer-date: "2015-01-28"
 desc: "Just a bad tasting beer"
 permalink: /beer/:title.html
-img: /img/list/monteith-s-black-beer.jpeguntappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-black-beer/212704"
+img: /img/list/monteith-s-black-beer.jpeg
+untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-black-beer/212704"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
 breweryURL: "breweryURL"

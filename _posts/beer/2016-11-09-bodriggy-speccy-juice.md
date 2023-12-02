@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-03-31"
 desc: "Great mid strength IPA"
 permalink: /beer/:title.html
-img: /img/list/bodriggy-speccy-juice.jpeguntappd: "https://untappd.com/b/bodriggy-brewing-co--speccy-juice/2638737"
+img: /img/list/bodriggy-speccy-juice.jpeg
+untappd: "https://untappd.com/b/bodriggy-brewing-co--speccy-juice/2638737"
 country: "Australia"
 brewery: "Bodriggy Brewing Co."
 breweryURL: "breweryURL"

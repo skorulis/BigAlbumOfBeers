@@ -7,7 +7,8 @@ score: 6
 beer-date: "2016-02-14"
 desc: "Pretty much a lager. Much less exciting than I thought"
 permalink: /beer/:title.html
-img: /img/list/willie-the-boatman-albo-corn-ale.jpeguntappd: "https://untappd.com/b/willie-the-boatman-albo/1035514"
+img: /img/list/willie-the-boatman-albo-corn-ale.jpeg
+untappd: "https://untappd.com/b/willie-the-boatman-albo/1035514"
 country: "Australia"
 brewery: "Willie The Boatman"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-04-13"
 desc: "Lots of subtle character"
 permalink: /beer/:title.html
-img: /img/list/six-point-bengali.jpeguntappd: "https://untappd.com/b/sixpoint-brewery-bengali/691381"
+img: /img/list/six-point-bengali.jpeg
+untappd: "https://untappd.com/b/sixpoint-brewery-bengali/691381"
 country: "United States"
 brewery: "Sixpoint Brewery"
 breweryURL: "breweryURL"

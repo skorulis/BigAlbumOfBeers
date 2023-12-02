@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-12-23"
 desc: "Tastes like christmas"
 permalink: /beer/:title.html
-img: /img/list/post-road-pumpkin-ale.jpeguntappd: "https://untappd.com/b/brooklyn-brewery-post-road-pumpkin-ale/6167"
+img: /img/list/post-road-pumpkin-ale.jpeg
+untappd: "https://untappd.com/b/brooklyn-brewery-post-road-pumpkin-ale/6167"
 country: "United States"
 brewery: "Brooklyn Brewery"
 breweryURL: "breweryURL"

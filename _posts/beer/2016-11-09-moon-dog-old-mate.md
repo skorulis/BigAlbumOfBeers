@@ -7,7 +7,8 @@ score: 6
 beer-date: "2019-07-14"
 desc: "Kind of yeasty, tastes cheap and not well put together at all. But it’s still beer"
 permalink: /beer/:title.html
-img: /img/list/moon-dog-old-mate.jpeguntappd: "https://untappd.com/b/moon-dog-craft-brewery-old-mate/1345437"
+img: /img/list/moon-dog-old-mate.jpeg
+untappd: "https://untappd.com/b/moon-dog-craft-brewery-old-mate/1345437"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
 breweryURL: "breweryURL"

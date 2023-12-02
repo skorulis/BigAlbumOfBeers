@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "The label had me expecting much more in the way of spices"
 permalink: /beer/:title.html
-img: /img/list/hitachino-white-ale.jpeguntappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-white-ale/1573"
+img: /img/list/hitachino-white-ale.jpeg
+untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-white-ale/1573"
 country: "Japan"
 brewery: "Kiuchi Brewery"
 breweryURL: "breweryURL"

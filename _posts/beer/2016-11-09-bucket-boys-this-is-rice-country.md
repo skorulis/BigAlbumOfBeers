@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-05-27"
 desc: "Very light. Has almost a slight spicyness"
 permalink: /beer/:title.html
-img: /img/list/bucket-boys-this-is-rice-country.jpeguntappd: "https://untappd.com/b/bucket-boys-craft-beer-co-this-is-rice-country/2037792"
+img: /img/list/bucket-boys-this-is-rice-country.jpeg
+untappd: "https://untappd.com/b/bucket-boys-craft-beer-co-this-is-rice-country/2037792"
 country: "Australia"
 brewery: "Bucket Boys Craft Beer Co"
 breweryURL: "breweryURL"

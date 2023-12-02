@@ -7,7 +7,8 @@ score: 8
 beer-date: "2013-12-23"
 desc: "A mild Belgian beer. +1 for the sweet glass"
 permalink: /beer/:title.html
-img: /img/list/pauwel-kwak.jpeguntappd: "https://untappd.com/b/brouwerij-bosteels-pauwel-kwak/358"
+img: /img/list/pauwel-kwak.jpeg
+untappd: "https://untappd.com/b/brouwerij-bosteels-pauwel-kwak/358"
 country: "Belgium"
 brewery: "Brouwerij Bosteels"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-10-02"
 desc: "A great summer beer. Smells of lemongrass and tastes faintly of orange. Very easy drinking and refreshing"
 permalink: /beer/:title.html
-img: /img/list/ueberquell-orange-sunshine.jpeguntappd: "https://untappd.com/b/uberquell-orange-sunshine-summer-wit/3830740"
+img: /img/list/ueberquell-orange-sunshine.jpeg
+untappd: "https://untappd.com/b/uberquell-orange-sunshine-summer-wit/3830740"
 country: "Germany"
 brewery: "ÜberQuell"
 breweryURL: "breweryURL"

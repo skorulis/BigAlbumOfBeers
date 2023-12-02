@@ -7,7 +7,8 @@ score: 7
 beer-date: "2017-05-27"
 desc: "Pretty dank and tasty. The rum comes through but it's really faint"
 permalink: /beer/:title.html
-img: /img/list/bacchus-kraken-ipa.jpeguntappd: "https://untappd.com/b/bacchus-brewing-co--kraken-ipa/800741"
+img: /img/list/bacchus-kraken-ipa.jpeg
+untappd: "https://untappd.com/b/bacchus-brewing-co--kraken-ipa/800741"
 country: "Australia"
 brewery: "Bacchus Brewing Co."
 breweryURL: "breweryURL"

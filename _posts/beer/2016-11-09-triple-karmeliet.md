@@ -7,7 +7,8 @@ score: 10
 beer-date: "2014-03-01"
 desc: "I choose this above Delerium"
 permalink: /beer/:title.html
-img: /img/list/triple-karmeliet.jpeguntappd: "https://untappd.com/b/brouwerij-bosteels-tripel-karmeliet/6511"
+img: /img/list/triple-karmeliet.jpeg
+untappd: "https://untappd.com/b/brouwerij-bosteels-tripel-karmeliet/6511"
 country: "Belgium"
 brewery: "Brouwerij Bosteels"
 breweryURL: "breweryURL"

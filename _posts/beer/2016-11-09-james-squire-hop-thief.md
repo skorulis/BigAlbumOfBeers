@@ -7,7 +7,8 @@ score: 7
 beer-date: "2014-03-18"
 desc: "Well hopped"
 permalink: /beer/:title.html
-img: /img/list/james-squire-hop-thief.jpeguntappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-hop-thief-7/967571"
+img: /img/list/james-squire-hop-thief.jpeg
+untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-hop-thief-7/967571"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "breweryURL"

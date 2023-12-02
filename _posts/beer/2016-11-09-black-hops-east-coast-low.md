@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-01-31"
 desc: "Easy drinking tropical pale ale. Light, refreshing and tasty"
 permalink: /beer/:title.html
-img: /img/list/black-hops-east-coast-low.jpeguntappd: "https://untappd.com/b/black-hops-brewing-east-coast-low/3944293"
+img: /img/list/black-hops-east-coast-low.jpeg
+untappd: "https://untappd.com/b/black-hops-brewing-east-coast-low/3944293"
 country: "Australia"
 brewery: "Black Hops Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-04-27"
 desc: "Sweet and a little bit wrong"
 permalink: /beer/:title.html
-img: /img/list/okocim-mocne.jpeguntappd: "https://untappd.com/b/browar-okocim--carlsberg-polska--okocim-mocne/68244"
+img: /img/list/okocim-mocne.jpeg
+untappd: "https://untappd.com/b/browar-okocim--carlsberg-polska--okocim-mocne/68244"
 country: "Poland"
 brewery: "Browar Okocim (Carlsberg Polska)"
 breweryURL: "breweryURL"

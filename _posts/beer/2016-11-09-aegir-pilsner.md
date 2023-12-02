@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-10-02"
 desc: "Nothing exciting, just your regular pils"
 permalink: /beer/:title.html
-img: /img/list/aegir-pilsner.jpeguntappd: "https://untappd.com/b/aegir-bryggeri-pils/3071820"
+img: /img/list/aegir-pilsner.jpeg
+untappd: "https://untappd.com/b/aegir-bryggeri-pils/3071820"
 country: "Norway"
 brewery: "Ægir Bryggeri"
 breweryURL: "breweryURL"

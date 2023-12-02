@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-01-29"
 desc: "Not as good or as strong as the Quadrupel"
 permalink: /beer/:title.html
-img: /img/list/la-trappe-blond.jpeguntappd: "https://untappd.com/b/bierbrouwerij-de-koningshoeven-la-trappe-blond/17858"
+img: /img/list/la-trappe-blond.jpeg
+untappd: "https://untappd.com/b/bierbrouwerij-de-koningshoeven-la-trappe-blond/17858"
 country: "Netherlands"
 brewery: "Bierbrouwerij De Koningshoeven"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-01-29"
 desc: "Enjoyed this more than I expected"
 permalink: /beer/:title.html
-img: /img/list/mallee-bull.jpeguntappd: "https://untappd.com/b/mildura-brewery-mallee-bull/17758"
+img: /img/list/mallee-bull.jpeg
+untappd: "https://untappd.com/b/mildura-brewery-mallee-bull/17758"
 country: "Australia"
 brewery: "Mildura Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-09-26"
 desc: "Really nice mix of dessert and beer. Just a tinge or sweetness"
 permalink: /beer/:title.html
-img: /img/list/batch-lemon-meringue-pie.jpeguntappd: "https://untappd.com/b/batch-brewing-company-lemon-meringue-pie/3905794"
+img: /img/list/batch-lemon-meringue-pie.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-lemon-meringue-pie/3905794"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

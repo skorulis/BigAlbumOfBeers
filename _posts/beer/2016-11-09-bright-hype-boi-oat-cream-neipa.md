@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2021-04-02"
 desc: "Delicious looking hazy beer but sadly tastes worse than it looks. Has some acidity that takes away from the juiciness"
 permalink: /beer/:title.html
-img: /img/list/bright-hype-boi-oat-cream-neipa.jpeguntappd: "https://untappd.com/b/bright-brewery-hype-boi-oat-cream-neipa/4051295"
+img: /img/list/bright-hype-boi-oat-cream-neipa.jpeg
+untappd: "https://untappd.com/b/bright-brewery-hype-boi-oat-cream-neipa/4051295"
 country: "Australia"
 brewery: "Bright Brewery"
 breweryURL: "breweryURL"

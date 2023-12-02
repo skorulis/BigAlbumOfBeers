@@ -7,7 +7,8 @@ score: 8
 beer-date: "2013-12-23"
 desc: "Not too bitter with a mild hoppy taste"
 permalink: /beer/:title.html
-img: /img/list/burning-sky-aurora.jpeguntappd: "https://untappd.com/b/burning-sky-brewery-aurora/480460"
+img: /img/list/burning-sky-aurora.jpeg
+untappd: "https://untappd.com/b/burning-sky-brewery-aurora/480460"
 country: "England"
 brewery: "Burning Sky Brewery"
 breweryURL: "breweryURL"

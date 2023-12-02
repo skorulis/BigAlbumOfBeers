@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-01-06"
 desc: "Really mild apple flavour, like a cider without all the sugar"
 permalink: /beer/:title.html
-img: /img/list/redds-apple-ale.jpeguntappd: "https://untappd.com/b/redds-brewing-company-apple-ale/210218"
+img: /img/list/redds-apple-ale.jpeg
+untappd: "https://untappd.com/b/redds-brewing-company-apple-ale/210218"
 country: "United States"
 brewery: "Redd's Brewing Company"
 breweryURL: "breweryURL"

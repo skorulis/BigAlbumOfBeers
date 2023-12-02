@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "Very mellow belgian ale. Good but not my favourite"
 permalink: /beer/:title.html
-img: /img/list/slow-lane-belgian-blonde.jpeguntappd: "https://untappd.com/b/slow-lane-brewing-refectory/3778880"
+img: /img/list/slow-lane-belgian-blonde.jpeg
+untappd: "https://untappd.com/b/slow-lane-brewing-refectory/3778880"
 country: "Australia"
 brewery: "Slow Lane Brewing"
 breweryURL: "breweryURL"

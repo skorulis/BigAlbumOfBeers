@@ -7,4 +7,5 @@ score: 7
 beer-date: "2020-01-16"
 desc: "Smells a little piney but tastes really rounded and malty"
 permalink: /beer/:title.html
-img: /img/list/nine-fingers-brew.jpeg---
+img: /img/list/nine-fingers-brew.jpeg
+---

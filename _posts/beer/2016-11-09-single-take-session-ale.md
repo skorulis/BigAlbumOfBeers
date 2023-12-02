@@ -7,7 +7,8 @@ score: 6
 beer-date: "2016-02-14"
 desc: "Perhaps not the best beer at 10am. The Belgian flavour seemed a bit too wheaty"
 permalink: /beer/:title.html
-img: /img/list/single-take-session-ale.jpeguntappd: "https://untappd.com/b/baird-brewing-company-single-take-session-ale/22952"
+img: /img/list/single-take-session-ale.jpeg
+untappd: "https://untappd.com/b/baird-brewing-company-single-take-session-ale/22952"
 country: "Japan"
 brewery: "Baird Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-01-13"
 desc: "Very malty"
 permalink: /beer/:title.html
-img: /img/list/trouble-brewing-golden-ale.jpeguntappd: "https://untappd.com/b/trouble-brewing-deception-golden-ale/398230"
+img: /img/list/trouble-brewing-golden-ale.jpeg
+untappd: "https://untappd.com/b/trouble-brewing-deception-golden-ale/398230"
 country: "Ireland"
 brewery: "Trouble Brewing"
 breweryURL: "breweryURL"

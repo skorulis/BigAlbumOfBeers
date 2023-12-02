@@ -7,4 +7,5 @@ score: 5
 beer-date: "2018-06-02"
 desc: "Crisp and refreshing"
 permalink: /beer/:title.html
-img: /img/list/tooheys-draught.jpeg---
+img: /img/list/tooheys-draught.jpeg
+---

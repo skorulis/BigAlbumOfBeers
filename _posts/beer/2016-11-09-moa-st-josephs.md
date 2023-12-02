@@ -7,7 +7,8 @@ score: 8
 beer-date: "2015-05-01"
 desc: "Not the best triple but a nice flavour none the less"
 permalink: /beer/:title.html
-img: /img/list/moa-st-josephs.jpeguntappd: "https://untappd.com/b/moa-brewing-company-st-josephs/39064"
+img: /img/list/moa-st-josephs.jpeg
+untappd: "https://untappd.com/b/moa-brewing-company-st-josephs/39064"
 country: "New Zealand"
 brewery: "Moa Brewing Company"
 breweryURL: "breweryURL"

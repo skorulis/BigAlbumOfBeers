@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2020-11-13"
 desc: "It’s an ok beer, but not a hazy IPA"
 permalink: /beer/:title.html
-img: /img/list/coopers-hazy-ipa.jpeguntappd: "https://untappd.com/b/coopers-hazy-ipa/3907567"
+img: /img/list/coopers-hazy-ipa.jpeg
+untappd: "https://untappd.com/b/coopers-hazy-ipa/3907567"
 country: "Australia"
 brewery: "Coopers"
 breweryURL: "breweryURL"

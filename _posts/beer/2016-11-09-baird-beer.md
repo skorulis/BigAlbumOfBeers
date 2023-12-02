@@ -7,4 +7,5 @@ score: 8.5
 beer-date: "2017-08-21"
 desc: "Hard to pick what’s going on but it works well. Easy drinking and definitely a well crafted beer"
 permalink: /beer/:title.html
-img: /img/list/baird-beer.jpeg---
+img: /img/list/baird-beer.jpeg
+---

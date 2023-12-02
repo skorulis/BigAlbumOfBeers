@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-10-02"
 desc: "Very smooth NEIPA. Very mild hints or orange"
 permalink: /beer/:title.html
-img: /img/list/klaster-zeliv-pacific-jack.jpeguntappd: "https://untappd.com/b/klasterni-pivovar-zeliv-pacific-jack-16/3452434"
+img: /img/list/klaster-zeliv-pacific-jack.jpeg
+untappd: "https://untappd.com/b/klasterni-pivovar-zeliv-pacific-jack-16/3452434"
 country: "Czech Republic"
 brewery: "Klášterní pivovar Želiv"
 breweryURL: "breweryURL"

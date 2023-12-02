@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2020-09-26"
 desc: "Rich and mellow"
 permalink: /beer/:title.html
-img: /img/list/sauce-oat-and-about.jpeguntappd: "https://untappd.com/b/sauce-brewing-co-oat---aboat/3853203"
+img: /img/list/sauce-oat-and-about.jpeg
+untappd: "https://untappd.com/b/sauce-brewing-co-oat---aboat/3853203"
 country: "Australia"
 brewery: "Sauce Brewing Co"
 breweryURL: "breweryURL"

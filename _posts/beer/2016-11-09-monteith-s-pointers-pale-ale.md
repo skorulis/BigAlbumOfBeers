@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-10-17"
 desc: "A very well rounded pale ale but not that much flavour"
 permalink: /beer/:title.html
-img: /img/list/monteith-s-pointers-pale-ale.jpeguntappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-pointers-pale-ale/1220517"
+img: /img/list/monteith-s-pointers-pale-ale.jpeg
+untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-pointers-pale-ale/1220517"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
 breweryURL: "breweryURL"

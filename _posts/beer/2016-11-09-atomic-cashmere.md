@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-11-13"
 desc: "Absolutely delivers on the pear and in being a proper saison. Rare to see but easy to drink"
 permalink: /beer/:title.html
-img: /img/list/atomic-cashmere.jpeguntappd: "https://untappd.com/b/atomic-beer-project-cashmere-saison/3977199"
+img: /img/list/atomic-cashmere.jpeg
+untappd: "https://untappd.com/b/atomic-beer-project-cashmere-saison/3977199"
 country: "Australia"
 brewery: "Atomic Beer Project"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-10-17"
 desc: "Not that different from a new"
 permalink: /beer/:title.html
-img: /img/list/tooheys-darling-pale-ale.jpeguntappd: "https://untappd.com/b/tooheys-brewing-darling-pale-ale/1082650"
+img: /img/list/tooheys-darling-pale-ale.jpeg
+untappd: "https://untappd.com/b/tooheys-brewing-darling-pale-ale/1082650"
 country: "Australia"
 brewery: "Tooheys Brewing"
 breweryURL: "breweryURL"

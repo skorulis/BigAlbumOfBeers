@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-09-21"
 desc: "Nicely rounded hazy"
 permalink: /beer/:title.html
-img: /img/list/whakatipu-hazy-ipa.jpeguntappd: "https://untappd.com/b/whakatipu-brewing-moonbow-hazy-ipa/4735053"
+img: /img/list/whakatipu-hazy-ipa.jpeg
+untappd: "https://untappd.com/b/whakatipu-brewing-moonbow-hazy-ipa/4735053"
 country: "New Zealand"
 brewery: "Whakatipu Brewing"
 breweryURL: "breweryURL"

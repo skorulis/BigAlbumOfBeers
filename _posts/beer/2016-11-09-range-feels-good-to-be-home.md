@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Smells and looks a lot like punch"
 permalink: /beer/:title.html
-img: /img/list/range-feels-good-to-be-home.jpeguntappd: "https://untappd.com/b/range-brewing-feels-good-to-be-home/4709220"
+img: /img/list/range-feels-good-to-be-home.jpeg
+untappd: "https://untappd.com/b/range-brewing-feels-good-to-be-home/4709220"
 country: "Australia"
 brewery: "Range Brewing"
 breweryURL: "breweryURL"

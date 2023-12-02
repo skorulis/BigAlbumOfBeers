@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2021-11-12"
 desc: "Highly malty lager. It’s ok for a lager"
 permalink: /beer/:title.html
-img: /img/list/atomic-vienna-dreamin.jpeguntappd: "https://untappd.com/b/atomic-vienna-dreamin/4272912"
+img: /img/list/atomic-vienna-dreamin.jpeg
+untappd: "https://untappd.com/b/atomic-vienna-dreamin/4272912"
 country: "Australia"
 brewery: "Atomic"
 breweryURL: "breweryURL"

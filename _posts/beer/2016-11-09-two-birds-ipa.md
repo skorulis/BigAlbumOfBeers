@@ -7,7 +7,8 @@ score: 6
 beer-date: "2018-10-05"
 desc: "Pretty average all round. Overly harsh with some average earthy hops"
 permalink: /beer/:title.html
-img: /img/list/two-birds-ipa.jpeguntappd: "https://untappd.com/b/two-birds-brewing-autumn-ipa/1972588"
+img: /img/list/two-birds-ipa.jpeg
+untappd: "https://untappd.com/b/two-birds-brewing-autumn-ipa/1972588"
 country: "Australia"
 brewery: "Two Birds Brewing"
 breweryURL: "breweryURL"

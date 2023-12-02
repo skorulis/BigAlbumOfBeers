@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-08-26"
 desc: "The citrus works really well with the grapefruit. Not a lot of malt to call this a red"
 permalink: /beer/:title.html
-img: /img/list/batch-citrus-sunset.jpeguntappd: "https://untappd.com/b/batch-brewing-company--australia--citrus-sunset/5293388"
+img: /img/list/batch-citrus-sunset.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company--australia--citrus-sunset/5293388"
 country: "Australia"
 brewery: "Batch Brewing Company (Australia)"
 breweryURL: "breweryURL"

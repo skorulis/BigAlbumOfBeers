@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-09-06"
 desc: "Very creamy texture with fruity flavours. Still refreshing on a hot day"
 permalink: /beer/:title.html
-img: /img/list/ren-min-riwaka-mouthful.jpeguntappd: "https://untappd.com/b/ren-min-riwaka-mouthful/5321969"
+img: /img/list/ren-min-riwaka-mouthful.jpeg
+untappd: "https://untappd.com/b/ren-min-riwaka-mouthful/5321969"
 country: "Singapore"
 brewery: "Ren Min"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2013-02-01"
 desc: "Nicer, stronger and bigger than it's crappy cousin. That's why it's the king"
 permalink: /beer/:title.html
-img: /img/list/cobra-king.jpeguntappd: "https://untappd.com/b/molson-coors--uk--king-cobra/226170"
+img: /img/list/cobra-king.jpeg
+untappd: "https://untappd.com/b/molson-coors--uk--king-cobra/226170"
 country: "England"
 brewery: "Molson Coors (UK)"
 breweryURL: "breweryURL"

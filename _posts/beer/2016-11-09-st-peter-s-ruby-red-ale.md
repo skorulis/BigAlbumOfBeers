@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-09-19"
 desc: "Probably the best of a bad bunch"
 permalink: /beer/:title.html
-img: /img/list/st-peter-s-ruby-red-ale.jpeguntappd: "https://untappd.com/b/st--peters-brewery-co--ruby-red-ale/39546"
+img: /img/list/st-peter-s-ruby-red-ale.jpeg
+untappd: "https://untappd.com/b/st--peters-brewery-co--ruby-red-ale/39546"
 country: "England"
 brewery: "St. Peter’s Brewery Co."
 breweryURL: "breweryURL"

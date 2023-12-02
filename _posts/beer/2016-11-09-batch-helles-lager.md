@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2020-09-26"
 desc: "Seems really bitter after some sours. Has the maltyness of a European lager but not as strong"
 permalink: /beer/:title.html
-img: /img/list/batch-helles-lager.jpeguntappd: "https://untappd.com/b/batch-brewing-company-helles-lager/3435398"
+img: /img/list/batch-helles-lager.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-helles-lager/3435398"
 country: "United States"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

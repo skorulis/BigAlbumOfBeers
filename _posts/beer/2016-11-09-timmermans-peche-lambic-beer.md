@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-04-27"
 desc: "Tastes just like peach, not beer"
 permalink: /beer/:title.html
-img: /img/list/timmermans-peche-lambic-beer.jpeguntappd: "https://untappd.com/b/brewery-john-martin---brewery-timmermans-timmermans-peche-lambic/17105"
+img: /img/list/timmermans-peche-lambic-beer.jpeg
+untappd: "https://untappd.com/b/brewery-john-martin---brewery-timmermans-timmermans-peche-lambic/17105"
 country: "Belgium"
 brewery: "Brewery John Martin & Brewery Timmermans"
 breweryURL: "breweryURL"

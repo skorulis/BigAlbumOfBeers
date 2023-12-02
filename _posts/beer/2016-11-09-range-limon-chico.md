@@ -7,7 +7,8 @@ score: 6
 beer-date: "2022-08-07"
 desc: "Very lemony"
 permalink: /beer/:title.html
-img: /img/list/range-limon-chico.jpeguntappd: "https://untappd.com/b/range-brewing-limon-chico/4709215"
+img: /img/list/range-limon-chico.jpeg
+untappd: "https://untappd.com/b/range-brewing-limon-chico/4709215"
 country: "Australia"
 brewery: "Range Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-10-17"
 desc: "My biggest disappointment so far from two birds"
 permalink: /beer/:title.html
-img: /img/list/two-birds-bantam-ipa.jpeguntappd: "https://untappd.com/b/two-birds-brewing-bantam-session-india-pale-ale/747874"
+img: /img/list/two-birds-bantam-ipa.jpeg
+untappd: "https://untappd.com/b/two-birds-brewing-bantam-session-india-pale-ale/747874"
 country: "Australia"
 brewery: "Two Birds Brewing"
 breweryURL: "breweryURL"

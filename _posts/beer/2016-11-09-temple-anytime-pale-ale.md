@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2021-11-12"
 desc: "Slightly rough pale ale"
 permalink: /beer/:title.html
-img: /img/list/temple-anytime-pale-ale.jpeguntappd: "https://untappd.com/b/temple-brewing-co--anytime-pale-ale/504679"
+img: /img/list/temple-anytime-pale-ale.jpeg
+untappd: "https://untappd.com/b/temple-brewing-co--anytime-pale-ale/504679"
 country: "Australia"
 brewery: "Temple Brewing Co."
 breweryURL: "breweryURL"

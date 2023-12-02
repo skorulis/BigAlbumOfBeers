@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-02-14"
 desc: "The description sounded good but didn't quite hit that mark"
 permalink: /beer/:title.html
-img: /img/list/bristol-beer-factory-independence.jpeguntappd: "https://untappd.com/b/bristol-beer-factory-independence/60839"
+img: /img/list/bristol-beer-factory-independence.jpeg
+untappd: "https://untappd.com/b/bristol-beer-factory-independence/60839"
 country: "England"
 brewery: "Bristol Beer Factory"
 breweryURL: "breweryURL"

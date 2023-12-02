@@ -7,7 +7,8 @@ score: null
 beer-date: "2019-04-22"
 desc: "Makes me feel like it’s summer just drinking it. It’s not big on hop flavours but it’s enough to deliver the tropical notes that it promises. Maintains a refreshing taste"
 permalink: /beer/:title.html
-img: /img/list/burleigh-twisted-palm.jpeguntappd: "https://untappd.com/b/burleigh-brewing-co--twisted-palm-tropical-pale-ale/1686081"
+img: /img/list/burleigh-twisted-palm.jpeg
+untappd: "https://untappd.com/b/burleigh-brewing-co--twisted-palm-tropical-pale-ale/1686081"
 country: "Australia"
 brewery: "Burleigh Brewing Co."
 breweryURL: "breweryURL"

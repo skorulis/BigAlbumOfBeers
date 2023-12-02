@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-05-24"
 desc: "Another great beer from Pirate Life. Nicely hoppy"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-ipa.jpeguntappd: "https://untappd.com/b/pirate-life-brewing-india-pale-ale/1452505"
+img: /img/list/pirate-life-ipa.jpeg
+untappd: "https://untappd.com/b/pirate-life-brewing-india-pale-ale/1452505"
 country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "breweryURL"

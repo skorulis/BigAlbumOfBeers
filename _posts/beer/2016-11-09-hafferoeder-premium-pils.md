@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2017-06-15"
 desc: "Not exactly premium but not awful"
 permalink: /beer/:title.html
-img: /img/list/hafferoeder-premium-pils.jpeguntappd: "https://untappd.com/b/hasseroder-brauerei-premium-pils/1627"
+img: /img/list/hafferoeder-premium-pils.jpeg
+untappd: "https://untappd.com/b/hasseroder-brauerei-premium-pils/1627"
 country: "Germany"
 brewery: "Hasseröder Brauerei"
 breweryURL: "breweryURL"

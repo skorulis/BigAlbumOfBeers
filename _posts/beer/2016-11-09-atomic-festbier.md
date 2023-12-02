@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-02-26"
 desc: "Strange mix of bitterness and spices. Kind of grew on me"
 permalink: /beer/:title.html
-img: /img/list/atomic-festbier.jpeguntappd: "https://untappd.com/b/atomic-festbier/5049971"
+img: /img/list/atomic-festbier.jpeg
+untappd: "https://untappd.com/b/atomic-festbier/5049971"
 country: "Australia"
 brewery: "Atomic"
 breweryURL: "breweryURL"

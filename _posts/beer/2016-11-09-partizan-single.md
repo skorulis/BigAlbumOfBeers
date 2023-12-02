@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-10-25"
 desc: "Nice label, shit beer"
 permalink: /beer/:title.html
-img: /img/list/partizan-single.jpeguntappd: "https://untappd.com/b/partizan-brewing-single/451393"
+img: /img/list/partizan-single.jpeg
+untappd: "https://untappd.com/b/partizan-brewing-single/451393"
 country: "England"
 brewery: "Partizan Brewing"
 breweryURL: "breweryURL"

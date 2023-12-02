@@ -7,7 +7,8 @@ score: 7
 beer-date: "2014-06-21"
 desc: "A very easy drinking lager. Good for a hot day"
 permalink: /beer/:title.html
-img: /img/list/dos-equis-lager-especial.jpeguntappd: "https://untappd.com/b/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v--dos-equis-special-lager/10887"
+img: /img/list/dos-equis-lager-especial.jpeg
+untappd: "https://untappd.com/b/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v--dos-equis-special-lager/10887"
 country: "Mexico"
 brewery: "Cervecería Cuauhtémoc Moctezuma S.A. de C.V."
 breweryURL: "breweryURL"

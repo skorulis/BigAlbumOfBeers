@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-08-26"
 desc: "Lovely and refreshing. Great to cool down"
 permalink: /beer/:title.html
-img: /img/list/batch-native-citrus-witbier.jpeguntappd: "https://untappd.com/b/batch-brewing-company--australia--small-batch-native-citrus---pepper-berry-australian-witbier/5385960"
+img: /img/list/batch-native-citrus-witbier.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company--australia--small-batch-native-citrus---pepper-berry-australian-witbier/5385960"
 country: "Australia"
 brewery: "Batch Brewing Company (Australia)"
 breweryURL: "breweryURL"

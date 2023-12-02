@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-08-26"
 desc: "Great stuff"
 permalink: /beer/:title.html
-img: /img/list/garage-project-fuzz-box.jpeguntappd: "https://untappd.com/b/garage-project-fuzz-box/1781861"
+img: /img/list/garage-project-fuzz-box.jpeg
+untappd: "https://untappd.com/b/garage-project-fuzz-box/1781861"
 country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "breweryURL"

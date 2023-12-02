@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-01-29"
 desc: "Not really much of an experience"
 permalink: /beer/:title.html
-img: /img/list/golden-age-the-celt-experience.jpeguntappd: "https://untappd.com/b/celt-brewing-golden-age/60359"
+img: /img/list/golden-age-the-celt-experience.jpeg
+untappd: "https://untappd.com/b/celt-brewing-golden-age/60359"
 country: "Wales"
 brewery: "Celt Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-05-01"
 desc: "Not one you see around very often"
 permalink: /beer/:title.html
-img: /img/list/hawthorn-golden-ale.jpeguntappd: "https://untappd.com/b/hawthorn-brewing-company-golden-ale/573828"
+img: /img/list/hawthorn-golden-ale.jpeg
+untappd: "https://untappd.com/b/hawthorn-brewing-company-golden-ale/573828"
 country: "Australia"
 brewery: "Hawthorn Brewing Company"
 breweryURL: "breweryURL"

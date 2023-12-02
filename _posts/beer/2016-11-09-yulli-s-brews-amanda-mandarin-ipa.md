@@ -7,7 +7,8 @@ score: 7
 beer-date: "2018-12-27"
 desc: "Mild mandarin with a little hoppy kick. A bit unremarkable"
 permalink: /beer/:title.html
-img: /img/list/yulli-s-brews-amanda-mandarin-ipa.jpeguntappd: "https://untappd.com/b/yullis-brews-amanda-mandarin-ipa/1681781"
+img: /img/list/yulli-s-brews-amanda-mandarin-ipa.jpeg
+untappd: "https://untappd.com/b/yullis-brews-amanda-mandarin-ipa/1681781"
 country: "Australia"
 brewery: "Yulli's Brews"
 breweryURL: "breweryURL"

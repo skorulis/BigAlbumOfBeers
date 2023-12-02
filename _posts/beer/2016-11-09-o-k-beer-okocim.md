@@ -7,7 +7,8 @@ score: 5
 beer-date: "2014-06-21"
 desc: "It's ok"
 permalink: /beer/:title.html
-img: /img/list/o-k-beer-okocim.jpeguntappd: "https://untappd.com/b/browar-okocim--carlsberg-polska--okocim-o-k--beer/1898"
+img: /img/list/o-k-beer-okocim.jpeg
+untappd: "https://untappd.com/b/browar-okocim--carlsberg-polska--okocim-o-k--beer/1898"
 country: "Poland"
 brewery: "Browar Okocim (Carlsberg Polska)"
 breweryURL: "breweryURL"

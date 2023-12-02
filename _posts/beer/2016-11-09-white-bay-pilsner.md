@@ -7,4 +7,5 @@ score: 6
 beer-date: "2022-08-07"
 desc: "Standard malty pilsner"
 permalink: /beer/:title.html
-img: /img/list/white-bay-pilsner.jpeg---
+img: /img/list/white-bay-pilsner.jpeg
+---

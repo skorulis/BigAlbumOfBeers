@@ -7,7 +7,8 @@ score: 5
 beer-date: "2014-03-01"
 desc: "Milder than a dark beer normally is"
 permalink: /beer/:title.html
-img: /img/list/koestritzer-schwarzbier.jpeguntappd: "https://untappd.com/b/kostritzer-schwarzbierbrauerei-kostritzer-schwarzbier/25784"
+img: /img/list/koestritzer-schwarzbier.jpeg
+untappd: "https://untappd.com/b/kostritzer-schwarzbierbrauerei-kostritzer-schwarzbier/25784"
 country: "Germany"
 brewery: "Köstritzer Schwarzbierbrauerei"
 breweryURL: "breweryURL"

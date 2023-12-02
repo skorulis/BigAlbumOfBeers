@@ -7,4 +7,5 @@ score: 6.5
 beer-date: "2022-08-07"
 desc: "Comes across a little smokey with a mild chilli hit. Kind of refreshing"
 permalink: /beer/:title.html
-img: /img/list/batch-pineapple---chilli-gose.jpeg---
+img: /img/list/batch-pineapple---chilli-gose.jpeg
+---

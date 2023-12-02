@@ -7,7 +7,8 @@ score: 7
 beer-date: "2017-05-27"
 desc: "Straight away you get the jalapeño but it's only the taste and no heat. Fairly hoppy on the nose but it's hard to pick that up in the taste"
 permalink: /beer/:title.html
-img: /img/list/shenanigans-hoppy-gonzales.jpeguntappd: "https://untappd.com/b/shenanigans-brewing-co--hoppy-gonzales/1187140"
+img: /img/list/shenanigans-hoppy-gonzales.jpeg
+untappd: "https://untappd.com/b/shenanigans-brewing-co--hoppy-gonzales/1187140"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
 breweryURL: "breweryURL"

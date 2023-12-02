@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-03-03"
 desc: "A little too dry for my liking"
 permalink: /beer/:title.html
-img: /img/list/australian-new-world-pilsner.jpeguntappd: "https://untappd.com/b/the-australian-brewery-new-world-pilsner/1340861"
+img: /img/list/australian-new-world-pilsner.jpeg
+untappd: "https://untappd.com/b/the-australian-brewery-new-world-pilsner/1340861"
 country: "Australia"
 brewery: "The Australian Brewery"
 breweryURL: "breweryURL"

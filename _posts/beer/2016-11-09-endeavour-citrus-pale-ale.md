@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2018-06-02"
 desc: "Like a lager with a sweet tang on the tip of your tongue. A bit strange but works well"
 permalink: /beer/:title.html
-img: /img/list/endeavour-citrus-pale-ale.jpeguntappd: "https://untappd.com/b/endeavour-brewing-co--citrus-pale-ale/2468107"
+img: /img/list/endeavour-citrus-pale-ale.jpeg
+untappd: "https://untappd.com/b/endeavour-brewing-co--citrus-pale-ale/2468107"
 country: "Australia"
 brewery: "ENDEAVOUR Brewing Co."
 breweryURL: "breweryURL"

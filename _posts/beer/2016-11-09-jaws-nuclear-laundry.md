@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2017-06-15"
 desc: "Pretty decent hop punch with a nice dankness. Surprisingly easy to drink despite this"
 permalink: /beer/:title.html
-img: /img/list/jaws-nuclear-laundry.jpeguntappd: "https://untappd.com/b/jaws-brewery-nuclear-laundry--atomnaya-prachyechnaya-/631746"
+img: /img/list/jaws-nuclear-laundry.jpeg
+untappd: "https://untappd.com/b/jaws-brewery-nuclear-laundry--atomnaya-prachyechnaya-/631746"
 country: "Russia"
 brewery: "Jaws Brewery"
 breweryURL: "breweryURL"

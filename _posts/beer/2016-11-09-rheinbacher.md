@@ -7,7 +7,8 @@ score: 7
 beer-date: "2012-10-22"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/rheinbacher.jpeguntappd: "https://untappd.com/b/aldi-stores-uk-rheinbacher-premium-pils/436383"
+img: /img/list/rheinbacher.jpeg
+untappd: "https://untappd.com/b/aldi-stores-uk-rheinbacher-premium-pils/436383"
 country: "England"
 brewery: "ALDI Stores UK"
 breweryURL: "breweryURL"

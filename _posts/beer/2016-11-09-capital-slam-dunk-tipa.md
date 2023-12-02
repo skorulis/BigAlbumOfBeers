@@ -7,7 +7,8 @@ score: 9
 beer-date: "2020-09-26"
 desc: "Really rich but surprisingly easy to drink"
 permalink: /beer/:title.html
-img: /img/list/capital-slam-dunk-tipa.jpeguntappd: "https://untappd.com/b/capital-brewing-co-slam-dank-triple-ipa/3967848"
+img: /img/list/capital-slam-dunk-tipa.jpeg
+untappd: "https://untappd.com/b/capital-brewing-co-slam-dank-triple-ipa/3967848"
 country: "Australia"
 brewery: "Capital Brewing Co"
 breweryURL: "breweryURL"

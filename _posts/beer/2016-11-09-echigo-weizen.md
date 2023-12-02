@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2023-03-31"
 desc: "No complaints, but no great depth of flavour"
 permalink: /beer/:title.html
-img: /img/list/echigo-weizen.jpeguntappd: "https://untappd.com/b/echigo-beer-co---ltd--weizen-for-a-relaxing-time-----/3753571"
+img: /img/list/echigo-weizen.jpeg
+untappd: "https://untappd.com/b/echigo-beer-co---ltd--weizen-for-a-relaxing-time-----/3753571"
 country: "Japan"
 brewery: "Echigo Beer Co., Ltd."
 breweryURL: "breweryURL"

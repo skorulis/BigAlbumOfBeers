@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-10-17"
 desc: "Filipino version of San Miguel. Not nearly as nice as the Spanish version"
 permalink: /beer/:title.html
-img: /img/list/san-miguel-pale-pilsen.jpeguntappd: "https://untappd.com/b/san-miguel-brewery-san-miguel-pale-pilsen/8956"
+img: /img/list/san-miguel-pale-pilsen.jpeg
+untappd: "https://untappd.com/b/san-miguel-brewery-san-miguel-pale-pilsen/8956"
 country: "Philippines"
 brewery: "San Miguel Brewery"
 breweryURL: "breweryURL"

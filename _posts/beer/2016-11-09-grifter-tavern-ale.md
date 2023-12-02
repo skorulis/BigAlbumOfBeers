@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2017-05-27"
 desc: "My favourite of the range so far. Clean and crisp"
 permalink: /beer/:title.html
-img: /img/list/grifter-tavern-ale.jpeguntappd: "https://untappd.com/b/grifter-brewing-company-molochs-tavern-ale/2005115"
+img: /img/list/grifter-tavern-ale.jpeg
+untappd: "https://untappd.com/b/grifter-brewing-company-molochs-tavern-ale/2005115"
 country: "Australia"
 brewery: "Grifter Brewing Company"
 breweryURL: "breweryURL"

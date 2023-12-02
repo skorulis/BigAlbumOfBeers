@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-08-26"
 desc: "The cumquat adds an interesting flavour into the bitterness. It’s a little different from other IPAs, but not brining me back"
 permalink: /beer/:title.html
-img: /img/list/reckless-cumquat-ipa.jpeguntappd: "https://untappd.com/b/reckless-brewing-co--cumquat-ipa/5209790"
+img: /img/list/reckless-cumquat-ipa.jpeg
+untappd: "https://untappd.com/b/reckless-brewing-co--cumquat-ipa/5209790"
 country: "Australia"
 brewery: "Reckless Brewing Co."
 breweryURL: "breweryURL"

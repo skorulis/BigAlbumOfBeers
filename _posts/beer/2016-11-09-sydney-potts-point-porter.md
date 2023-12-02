@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-01-14"
 desc: "Pretty on point porter. It’s much thinner than the stouts out there. There’s a little bit of coffee but it’s very mild. A good refreshing dark beer"
 permalink: /beer/:title.html
-img: /img/list/sydney-potts-point-porter.jpeguntappd: "https://untappd.com/b/sydney-brewery-potts-point-porter/64555"
+img: /img/list/sydney-potts-point-porter.jpeg
+untappd: "https://untappd.com/b/sydney-brewery-potts-point-porter/64555"
 country: "Australia"
 brewery: "Sydney Brewery"
 breweryURL: "breweryURL"

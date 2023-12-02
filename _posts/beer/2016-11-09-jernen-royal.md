@@ -7,4 +7,5 @@ score: 4.5
 beer-date: "2023-10-02"
 desc: "It’s a rough beer. Gets a little better as I go through the can"
 permalink: /beer/:title.html
-img: /img/list/jernen-royal.jpeg---
+img: /img/list/jernen-royal.jpeg
+---

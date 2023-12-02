@@ -7,7 +7,8 @@ score: 8
 beer-date: "2013-03-28"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/the-governor-golden-ale.jpeguntappd: "https://untappd.com/b/rocks-brewing-co-the-governor/31737"
+img: /img/list/the-governor-golden-ale.jpeg
+untappd: "https://untappd.com/b/rocks-brewing-co-the-governor/31737"
 country: "Australia"
 brewery: "Rocks Brewing Co"
 breweryURL: "breweryURL"

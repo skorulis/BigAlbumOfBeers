@@ -7,7 +7,8 @@ score: 3.5
 beer-date: "2021-06-05"
 desc: "Another beer with very little fizz and too much yeast. Tastes nothing like a pilsner, more like a cider"
 permalink: /beer/:title.html
-img: /img/list/mildura-brewing-pilsner.jpeguntappd: "https://untappd.com/b/mildura-brewery-pilsner/3184215"
+img: /img/list/mildura-brewing-pilsner.jpeg
+untappd: "https://untappd.com/b/mildura-brewery-pilsner/3184215"
 country: "Australia"
 brewery: "Mildura Brewery"
 breweryURL: "breweryURL"

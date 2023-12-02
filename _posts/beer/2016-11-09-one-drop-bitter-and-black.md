@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-11-13"
 desc: "Basically it’s Thai basil in a glass. Not sure how they managed this but it’s intense. I really love strange and interesting flavours but don’t have this in large quantities"
 permalink: /beer/:title.html
-img: /img/list/one-drop-bitter-and-black.jpeguntappd: "https://untappd.com/b/one-drop-brewing-co-bitter---black-ipa/3991274"
+img: /img/list/one-drop-bitter-and-black.jpeg
+untappd: "https://untappd.com/b/one-drop-brewing-co-bitter---black-ipa/3991274"
 country: "Australia"
 brewery: "One Drop Brewing Co"
 breweryURL: "breweryURL"

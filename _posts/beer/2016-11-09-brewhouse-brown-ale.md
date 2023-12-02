@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-10-28"
 desc: "Rather mild brown, not too malty. Can't complain but can't get excited about another"
 permalink: /beer/:title.html
-img: /img/list/brewhouse-brown-ale.jpeguntappd: "https://untappd.com/b/basement-brewhouse-brown-ale/2050505"
+img: /img/list/brewhouse-brown-ale.jpeg
+untappd: "https://untappd.com/b/basement-brewhouse-brown-ale/2050505"
 country: "Australia"
 brewery: "Basement Brewhouse"
 breweryURL: "breweryURL"

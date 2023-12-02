@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-03-16"
 desc: "The bitterness is a tad too harsh but it’s nicely hopped"
 permalink: /beer/:title.html
-img: /img/list/six-strings-pale-ale.jpeguntappd: "https://untappd.com/b/six-string-brewing-company-pale-ale/284344"
+img: /img/list/six-strings-pale-ale.jpeg
+untappd: "https://untappd.com/b/six-string-brewing-company-pale-ale/284344"
 country: "Australia"
 brewery: "Six String Brewing Company"
 breweryURL: "breweryURL"

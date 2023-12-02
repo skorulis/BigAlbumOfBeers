@@ -7,7 +7,8 @@ score: 8
 beer-date: "2014-02-23"
 desc: "Not as nice as the tremens"
 permalink: /beer/:title.html
-img: /img/list/delerium-nocturnum.jpeguntappd: "https://untappd.com/b/brouwerij-huyghe-delirium-nocturnum/4486"
+img: /img/list/delerium-nocturnum.jpeg
+untappd: "https://untappd.com/b/brouwerij-huyghe-delirium-nocturnum/4486"
 country: "Belgium"
 brewery: "Brouwerij Huyghe"
 breweryURL: "breweryURL"

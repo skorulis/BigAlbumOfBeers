@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-10-02"
 desc: "A mild juicy IPA. Creamy mouthfeel. Right on point for a mid range IPA"
 permalink: /beer/:title.html
-img: /img/list/malmo-hairy-scary.jpeguntappd: "https://untappd.com/b/malmo-brewing-co--hairy-scary/5514772"
+img: /img/list/malmo-hairy-scary.jpeg
+untappd: "https://untappd.com/b/malmo-brewing-co--hairy-scary/5514772"
 country: "Sweden"
 brewery: "Malmö Brewing Co."
 breweryURL: "breweryURL"

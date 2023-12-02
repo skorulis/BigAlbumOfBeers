@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "So much coffee, I don’t even drink coffee but I still like this"
 permalink: /beer/:title.html
-img: /img/list/bracket-7-baraka.jpeguntappd: "https://untappd.com/b/bracket-brewing-baraka/4364931"
+img: /img/list/bracket-7-baraka.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-baraka/4364931"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

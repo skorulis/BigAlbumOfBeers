@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-10-02"
 desc: "A juicy hazy which doesn’t show the alcohol through. Soft notes of tropical fruit. Not that strongly flavoured"
 permalink: /beer/:title.html
-img: /img/list/crow-maximum-luxury.jpeguntappd: "https://untappd.com/b/crow-bryggeri-maximum-luxury/4866164"
+img: /img/list/crow-maximum-luxury.jpeg
+untappd: "https://untappd.com/b/crow-bryggeri-maximum-luxury/4866164"
 country: "Norway"
 brewery: "Crow Bryggeri"
 breweryURL: "breweryURL"

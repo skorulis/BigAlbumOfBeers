@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2023-02-26"
 desc: "Mild pale ale flavour. Tastes a little watered down"
 permalink: /beer/:title.html
-img: /img/list/beerfarm-calm-ya-farm.jpeguntappd: "https://untappd.com/b/beerfarm-calm-ya-farm/2521500"
+img: /img/list/beerfarm-calm-ya-farm.jpeg
+untappd: "https://untappd.com/b/beerfarm-calm-ya-farm/2521500"
 country: "Australia"
 brewery: "Beerfarm"
 breweryURL: "breweryURL"

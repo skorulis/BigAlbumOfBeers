@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-01-29"
 desc: "I do like an easy drinking golden ale"
 permalink: /beer/:title.html
-img: /img/list/john-boston-golden-ale.jpeguntappd: "https://untappd.com/b/john-boston-the-guard-house/852663"
+img: /img/list/john-boston-golden-ale.jpeg
+untappd: "https://untappd.com/b/john-boston-the-guard-house/852663"
 country: "Australia"
 brewery: "John Boston"
 breweryURL: "breweryURL"

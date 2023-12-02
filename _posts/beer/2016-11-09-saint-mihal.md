@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-05-01"
 desc: "Pretty mild but overall ok. Better than expected"
 permalink: /beer/:title.html
-img: /img/list/saint-mihal.jpeguntappd: "https://untappd.com/b/saint-mihal-saint-mihal/759471"
+img: /img/list/saint-mihal.jpeg
+untappd: "https://untappd.com/b/saint-mihal-saint-mihal/759471"
 country: "France"
 brewery: "Saint-Mihal"
 breweryURL: "breweryURL"

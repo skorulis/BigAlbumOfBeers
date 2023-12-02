@@ -7,7 +7,8 @@ score: 6
 beer-date: "2012-12-15"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/golden-champion.jpeguntappd: "https://untappd.com/b/badger-ales--hall---woodhouse--golden-champion/15833"
+img: /img/list/golden-champion.jpeg
+untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--golden-champion/15833"
 country: "England"
 brewery: "Badger Ales (Hall & Woodhouse)"
 breweryURL: "breweryURL"

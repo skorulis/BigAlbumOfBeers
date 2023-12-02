@@ -7,7 +7,8 @@ score: 6
 beer-date: "2020-07-31"
 desc: "Fairly standard pale ale"
 permalink: /beer/:title.html
-img: /img/list/little-bang-icon.jpeguntappd: "https://untappd.com/b/little-bang-brewing-co-icon/891972"
+img: /img/list/little-bang-icon.jpeg
+untappd: "https://untappd.com/b/little-bang-brewing-co-icon/891972"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
 breweryURL: "breweryURL"

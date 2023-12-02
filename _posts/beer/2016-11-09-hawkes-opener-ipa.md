@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-11-13"
 desc: "Probably more of a pale than an IPA, but the flavour combination is good"
 permalink: /beer/:title.html
-img: /img/list/hawkes-opener-ipa.jpeguntappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-opener-ipa/4040962"
+img: /img/list/hawkes-opener-ipa.jpeg
+untappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-opener-ipa/4040962"
 country: "Australia"
 brewery: "Hawke's Brewing Co. "
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2014-06-21"
 desc: "An all round good beer"
 permalink: /beer/:title.html
-img: /img/list/cascade-bright-ale.jpeguntappd: "https://untappd.com/b/cascade-brewery-co---australia--bright-ale/466884"
+img: /img/list/cascade-bright-ale.jpeg
+untappd: "https://untappd.com/b/cascade-brewery-co---australia--bright-ale/466884"
 country: "Australia"
 brewery: "Cascade Brewery Co. (Australia)"
 breweryURL: "breweryURL"

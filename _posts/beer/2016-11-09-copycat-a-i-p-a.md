@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-02-27"
 desc: "A nice floral aroma but a little bit harsh"
 permalink: /beer/:title.html
-img: /img/list/copycat-a-i-p-a.jpeguntappd: "https://untappd.com/b/mash-brewing-copy-cat/636320"
+img: /img/list/copycat-a-i-p-a.jpeg
+untappd: "https://untappd.com/b/mash-brewing-copy-cat/636320"
 country: "Australia"
 brewery: "Mash Brewing"
 breweryURL: "breweryURL"

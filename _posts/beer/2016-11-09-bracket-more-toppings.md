@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-08-07"
 desc: "Less on the creamy side and more on the alcohol side"
 permalink: /beer/:title.html
-img: /img/list/bracket-more-toppings.jpeguntappd: "https://untappd.com/b/bracket-brewing-more-toppings/4851213"
+img: /img/list/bracket-more-toppings.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-more-toppings/4851213"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

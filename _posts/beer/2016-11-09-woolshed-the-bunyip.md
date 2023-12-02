@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2023-08-26"
 desc: "It’s a full punch in the face of bitterness"
 permalink: /beer/:title.html
-img: /img/list/woolshed-the-bunyip.jpeguntappd: "https://untappd.com/b/woolshed-brewery-the-bunyip/3811937"
+img: /img/list/woolshed-the-bunyip.jpeg
+untappd: "https://untappd.com/b/woolshed-brewery-the-bunyip/3811937"
 country: "Australia"
 brewery: "Woolshed Brewery"
 breweryURL: "breweryURL"

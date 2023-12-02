@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-02-14"
 desc: "I may be unique in that I find that chilli and beer are a perfect combination; and this is the best one I’ve had so far"
 permalink: /beer/:title.html
-img: /img/list/garage-project-la-calavera-catrina.jpeguntappd: "https://untappd.com/b/garage-project-la-calavera-catrina/255471"
+img: /img/list/garage-project-la-calavera-catrina.jpeg
+untappd: "https://untappd.com/b/garage-project-la-calavera-catrina/255471"
 country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "breweryURL"

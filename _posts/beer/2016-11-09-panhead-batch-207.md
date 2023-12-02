@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-09-21"
 desc: "Very smooth hops"
 permalink: /beer/:title.html
-img: /img/list/panhead-batch-207.jpeguntappd: "https://untappd.com/b/panhead-custom-ales-batch-207---sabro---mosaic-ale/4949511"
+img: /img/list/panhead-batch-207.jpeg
+untappd: "https://untappd.com/b/panhead-custom-ales-batch-207---sabro---mosaic-ale/4949511"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
 breweryURL: "breweryURL"

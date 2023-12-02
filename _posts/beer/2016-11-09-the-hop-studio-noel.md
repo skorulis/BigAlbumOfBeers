@@ -7,7 +7,8 @@ score: 3
 beer-date: "2014-02-23"
 desc: "Some very strange hoppy flavour"
 permalink: /beer/:title.html
-img: /img/list/the-hop-studio-noel.jpeguntappd: "https://untappd.com/b/the-hop-studio-there-is-noel-in-christmas/275078"
+img: /img/list/the-hop-studio-noel.jpeg
+untappd: "https://untappd.com/b/the-hop-studio-there-is-noel-in-christmas/275078"
 country: "England"
 brewery: "The Hop Studio"
 breweryURL: "breweryURL"

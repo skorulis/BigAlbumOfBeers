@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-11-13"
 desc: "It’s somehow mild and full at the same time. It’s a good strong staple beer"
 permalink: /beer/:title.html
-img: /img/list/bracket-east-coast-hazy-ipa.jpeguntappd: "https://untappd.com/b/bracket-brewing-east-coast-hazy-ipa-v3/4041078"
+img: /img/list/bracket-east-coast-hazy-ipa.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-east-coast-hazy-ipa-v3/4041078"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

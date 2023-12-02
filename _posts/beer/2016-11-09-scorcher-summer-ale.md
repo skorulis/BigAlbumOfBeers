@@ -7,7 +7,8 @@ score: 6
 beer-date: "2016-01-07"
 desc: "Fairly inoffensive lager. Can’t complain"
 permalink: /beer/:title.html
-img: /img/list/scorcher-summer-ale.jpeguntappd: "https://untappd.com/b/cricketers-arms-scorcher-summer-ale/1256342"
+img: /img/list/scorcher-summer-ale.jpeg
+untappd: "https://untappd.com/b/cricketers-arms-scorcher-summer-ale/1256342"
 country: "Australia"
 brewery: "Cricketers Arms"
 breweryURL: "breweryURL"

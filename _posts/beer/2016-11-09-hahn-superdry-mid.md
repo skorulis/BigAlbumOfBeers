@@ -7,4 +7,5 @@ score: 4
 beer-date: "2015-07-10"
 desc: "A crappier version of the regular superdry"
 permalink: /beer/:title.html
-img: /img/list/hahn-superdry-mid.jpeg---
+img: /img/list/hahn-superdry-mid.jpeg
+---

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2018-03-13"
 desc: "Initial coffee is strong but mellows out. Not exciting but a good drink"
 permalink: /beer/:title.html
-img: /img/list/pasteur-st-coffee-porter.jpeguntappd: "https://untappd.com/b/pasteur-street-brewing-company-coffee-porter/1454475"
+img: /img/list/pasteur-st-coffee-porter.jpeg
+untappd: "https://untappd.com/b/pasteur-street-brewing-company-coffee-porter/1454475"
 country: "Vietnam"
 brewery: "Pasteur Street Brewing Company"
 breweryURL: "breweryURL"

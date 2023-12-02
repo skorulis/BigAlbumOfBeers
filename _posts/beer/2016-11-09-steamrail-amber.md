@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-05-01"
 desc: "Not as good as the rest of the range"
 permalink: /beer/:title.html
-img: /img/list/steamrail-amber.jpeguntappd: "https://untappd.com/b/steamrail-brewing-company--coles--lucky-amber/292682"
+img: /img/list/steamrail-amber.jpeg
+untappd: "https://untappd.com/b/steamrail-brewing-company--coles--lucky-amber/292682"
 country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
 breweryURL: "breweryURL"

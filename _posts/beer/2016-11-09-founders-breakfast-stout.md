@@ -7,7 +7,8 @@ score: 8
 beer-date: "2017-05-27"
 desc: "A nice easy drinking mild stout, pretty great example of what a stout should be"
 permalink: /beer/:title.html
-img: /img/list/founders-breakfast-stout.jpeguntappd: "https://untappd.com/b/founders-brewing-co--breakfast-stout/4589"
+img: /img/list/founders-breakfast-stout.jpeg
+untappd: "https://untappd.com/b/founders-brewing-co--breakfast-stout/4589"
 country: "United States"
 brewery: "Founders Brewing Co."
 breweryURL: "breweryURL"

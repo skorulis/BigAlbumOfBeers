@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2017-01-21"
 desc: "Amazingly crisp smell of passionfruit coming through. Doesn’t carry through as much in the taste but it’s still there. There’s a bitterness too but it’s nicely balanced and overall delicious. This beer delivers everything it says on the can"
 permalink: /beer/:title.html
-img: /img/list/oskar-blues-pinner.jpeguntappd: "https://untappd.com/b/oskar-blues-brewery-passion-fruit-pinner/1450783"
+img: /img/list/oskar-blues-pinner.jpeg
+untappd: "https://untappd.com/b/oskar-blues-brewery-passion-fruit-pinner/1450783"
 country: "United States"
 brewery: "Oskar Blues Brewery"
 breweryURL: "breweryURL"

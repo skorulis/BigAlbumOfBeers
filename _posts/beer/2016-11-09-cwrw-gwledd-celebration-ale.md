@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-05-25"
 desc: "I could enjoy a few of those"
 permalink: /beer/:title.html
-img: /img/list/cwrw-gwledd-celebration-ale.jpeguntappd: "https://untappd.com/b/conwy-brewery-cwrw-gwledd--celebration-ale-/167167"
+img: /img/list/cwrw-gwledd-celebration-ale.jpeg
+untappd: "https://untappd.com/b/conwy-brewery-cwrw-gwledd--celebration-ale-/167167"
 country: "Wales"
 brewery: "Conwy Brewery"
 breweryURL: "breweryURL"

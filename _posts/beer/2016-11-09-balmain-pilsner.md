@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-02-27"
 desc: "Pretty plain, time to move onto something stronger today"
 permalink: /beer/:title.html
-img: /img/list/balmain-pilsner.jpeguntappd: "https://untappd.com/b/balmain-brewing-company-pilsner/82529"
+img: /img/list/balmain-pilsner.jpeg
+untappd: "https://untappd.com/b/balmain-brewing-company-pilsner/82529"
 country: "Australia"
 brewery: "Balmain Brewing Company"
 breweryURL: "breweryURL"

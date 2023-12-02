@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2023-03-31"
 desc: "Smooth and fruity lager. Very good session ale"
 permalink: /beer/:title.html
-img: /img/list/buddy-s-lager.jpeguntappd: "https://untappd.com/b/buddy-brewing-co--buddys-lager/5169761"
+img: /img/list/buddy-s-lager.jpeg
+untappd: "https://untappd.com/b/buddy-brewing-co--buddys-lager/5169761"
 country: "United States"
 brewery: "Buddy Brewing Co."
 breweryURL: "breweryURL"

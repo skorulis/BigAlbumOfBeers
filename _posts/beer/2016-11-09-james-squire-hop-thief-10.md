@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "Very classical IPA with bitterness at the forefront"
 permalink: /beer/:title.html
-img: /img/list/james-squire-hop-thief-10.jpeguntappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-hop-thief-10/3434661"
+img: /img/list/james-squire-hop-thief-10.jpeg
+untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-hop-thief-10/3434661"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "breweryURL"

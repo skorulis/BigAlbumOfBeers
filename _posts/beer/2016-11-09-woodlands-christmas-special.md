@@ -7,7 +7,8 @@ score: 7
 beer-date: "2014-03-01"
 desc: "Very good for a British ale"
 permalink: /beer/:title.html
-img: /img/list/woodlands-christmas-special.jpeguntappd: "https://untappd.com/b/woodlands-brewing-company-hollydays/276293"
+img: /img/list/woodlands-christmas-special.jpeg
+untappd: "https://untappd.com/b/woodlands-brewing-company-hollydays/276293"
 country: "England"
 brewery: "Woodlands Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2017-06-15"
 desc: "Very plain beer"
 permalink: /beer/:title.html
-img: /img/list/hallstaettersee-bier.jpeguntappd: "https://untappd.com/b/schloss-eggenberg-hallstattersee-bier/1613277"
+img: /img/list/hallstaettersee-bier.jpeg
+untappd: "https://untappd.com/b/schloss-eggenberg-hallstattersee-bier/1613277"
 country: "Austria"
 brewery: "Schloss Eggenberg"
 breweryURL: "breweryURL"

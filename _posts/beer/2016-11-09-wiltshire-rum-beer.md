@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-04-27"
 desc: "Can't really taste the rum"
 permalink: /beer/:title.html
-img: /img/list/wiltshire-rum-beer.jpeguntappd: "https://untappd.com/b/wadworth-co--marks---spencer-wiltshire-rum-beer/20358"
+img: /img/list/wiltshire-rum-beer.jpeg
+untappd: "https://untappd.com/b/wadworth-co--marks---spencer-wiltshire-rum-beer/20358"
 country: "England"
 brewery: "Wadworth Co."
 breweryURL: "breweryURL"

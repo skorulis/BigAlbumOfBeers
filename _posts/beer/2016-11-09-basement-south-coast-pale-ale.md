@@ -7,7 +7,8 @@ score: 5
 beer-date: "2020-07-31"
 desc: "Strange peppery flavour, doesn’t really taste like a pale. Seems a bit wrong"
 permalink: /beer/:title.html
-img: /img/list/basement-south-coast-pale-ale.jpeguntappd: "https://untappd.com/b/basement-brewhouse-south-coast-pale-ale/3648923"
+img: /img/list/basement-south-coast-pale-ale.jpeg
+untappd: "https://untappd.com/b/basement-brewhouse-south-coast-pale-ale/3648923"
 country: "Australia"
 brewery: "Basement Brewhouse"
 breweryURL: "breweryURL"

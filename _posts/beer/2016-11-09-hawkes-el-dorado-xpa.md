@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Very fruity"
 permalink: /beer/:title.html
-img: /img/list/hawkes-el-dorado-xpa.jpeguntappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-el-dorado-xpa/4776323"
+img: /img/list/hawkes-el-dorado-xpa.jpeg
+untappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-el-dorado-xpa/4776323"
 country: "Australia"
 brewery: "Hawke's Brewing Co. "
 breweryURL: "breweryURL"

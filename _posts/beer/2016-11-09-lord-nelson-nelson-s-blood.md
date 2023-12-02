@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-03-28"
 desc: "A nice stout taste"
 permalink: /beer/:title.html
-img: /img/list/lord-nelson-nelson-s-blood.jpeguntappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-nelsons-blood/43694"
+img: /img/list/lord-nelson-nelson-s-blood.jpeg
+untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-nelsons-blood/43694"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "breweryURL"

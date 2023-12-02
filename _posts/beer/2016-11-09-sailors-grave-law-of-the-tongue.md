@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "Not too much oyster"
 permalink: /beer/:title.html
-img: /img/list/sailors-grave-law-of-the-tongue.jpeguntappd: "https://untappd.com/b/sailors-grave-brewing-law-of-the-tongue/2262219"
+img: /img/list/sailors-grave-law-of-the-tongue.jpeg
+untappd: "https://untappd.com/b/sailors-grave-brewing-law-of-the-tongue/2262219"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
 breweryURL: "breweryURL"

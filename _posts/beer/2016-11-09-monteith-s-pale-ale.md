@@ -7,7 +7,8 @@ score: 4
 beer-date: "2014-03-18"
 desc: "Not at all a pale ale, just a crappy lager"
 permalink: /beer/:title.html
-img: /img/list/monteith-s-pale-ale.jpeguntappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-pacific-pale-ale/221959"
+img: /img/list/monteith-s-pale-ale.jpeg
+untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-pacific-pale-ale/221959"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
 breweryURL: "breweryURL"

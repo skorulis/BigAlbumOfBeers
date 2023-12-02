@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-02-26"
 desc: "Not that strong on the wheat. Comes off a bit too plain"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-sunlit.jpeguntappd: "https://untappd.com/b/pirate-life-brewing-sunlit-aussie-wheat-ale/4851230"
+img: /img/list/pirate-life-sunlit.jpeg
+untappd: "https://untappd.com/b/pirate-life-brewing-sunlit-aussie-wheat-ale/4851230"
 country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "breweryURL"

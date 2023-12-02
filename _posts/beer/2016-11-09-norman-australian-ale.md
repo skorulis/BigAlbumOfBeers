@@ -7,7 +7,8 @@ score: 8
 beer-date: "2015-07-10"
 desc: "The logo looks dodgy but it's actually a nice mild pale ale"
 permalink: /beer/:title.html
-img: /img/list/norman-australian-ale.jpeguntappd: "https://untappd.com/b/yullis-brews-norman-australian-ale/684769"
+img: /img/list/norman-australian-ale.jpeg
+untappd: "https://untappd.com/b/yullis-brews-norman-australian-ale/684769"
 country: "Australia"
 brewery: "Yulli's Brews"
 breweryURL: "breweryURL"

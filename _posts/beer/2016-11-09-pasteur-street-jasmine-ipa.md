@@ -7,7 +7,8 @@ score: 7
 beer-date: "2018-02-17"
 desc: "Quite floral but perhaps too bitter. Magically cured my hangover"
 permalink: /beer/:title.html
-img: /img/list/pasteur-street-jasmine-ipa.jpeguntappd: "https://untappd.com/b/pasteur-street-brewing-company-jasmine-ipa/954736"
+img: /img/list/pasteur-street-jasmine-ipa.jpeg
+untappd: "https://untappd.com/b/pasteur-street-brewing-company-jasmine-ipa/954736"
 country: "Vietnam"
 brewery: "Pasteur Street Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 3
 beer-date: "2012-11-13"
 desc: "Tastes just like the name"
 permalink: /beer/:title.html
-img: /img/list/the-dog-s-bollocks.jpeguntappd: "https://untappd.com/b/wychwood-brewery-dogs-bollocks/9006"
+img: /img/list/the-dog-s-bollocks.jpeg
+untappd: "https://untappd.com/b/wychwood-brewery-dogs-bollocks/9006"
 country: "England"
 brewery: "Wychwood Brewery"
 breweryURL: "breweryURL"

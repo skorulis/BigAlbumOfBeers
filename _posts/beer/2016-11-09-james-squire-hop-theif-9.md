@@ -7,7 +7,8 @@ score: 6
 beer-date: "2019-11-22"
 desc: "Strange that a hop thief beer would taste so malt driven. It comes off a lot like a cheap European lager"
 permalink: /beer/:title.html
-img: /img/list/james-squire-hop-theif-9.jpeguntappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-hop-thief-9/2556080"
+img: /img/list/james-squire-hop-theif-9.jpeg
+untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-hop-thief-9/2556080"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "breweryURL"

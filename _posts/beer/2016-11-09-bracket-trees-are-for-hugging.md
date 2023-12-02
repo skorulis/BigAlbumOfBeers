@@ -7,7 +7,8 @@ score: null
 beer-date: "2022-08-07"
 desc: "Citra comes through a bit harsh. Gets really good towards the end 7/1"
 permalink: /beer/:title.html
-img: /img/list/bracket-trees-are-for-hugging.jpeguntappd: "https://untappd.com/b/bracket-brewing-trees-are-for-huggin/4867084"
+img: /img/list/bracket-trees-are-for-hugging.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-trees-are-for-huggin/4867084"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

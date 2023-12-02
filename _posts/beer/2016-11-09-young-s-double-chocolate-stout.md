@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-04-13"
 desc: "A nice chocolate flavour"
 permalink: /beer/:title.html
-img: /img/list/young-s-double-chocolate-stout.jpeguntappd: "https://untappd.com/b/charles-wells-brewery-youngs-double-chocolate-stout/130571"
+img: /img/list/young-s-double-chocolate-stout.jpeg
+untappd: "https://untappd.com/b/charles-wells-brewery-youngs-double-chocolate-stout/130571"
 country: "England"
 brewery: "Charles Wells Brewery"
 breweryURL: "breweryURL"

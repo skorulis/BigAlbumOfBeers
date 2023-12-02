@@ -7,7 +7,8 @@ score: 8
 beer-date: "2017-10-28"
 desc: "Really epitomises dank flavours. Starts off strong but the balance comes through quickly keeping it easy to drink"
 permalink: /beer/:title.html
-img: /img/list/batch-the-dank.jpeguntappd: "https://untappd.com/b/batch-brewing-company-the-dank-ipa/1853315"
+img: /img/list/batch-the-dank.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-the-dank-ipa/1853315"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

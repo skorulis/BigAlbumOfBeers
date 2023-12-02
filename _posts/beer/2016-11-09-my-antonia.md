@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-04-13"
 desc: "Surprisingly this tastes better after I brushed my teeth"
 permalink: /beer/:title.html
-img: /img/list/my-antonia.jpeguntappd: "https://untappd.com/b/birra-del-borgo-my-antonia/25988"
+img: /img/list/my-antonia.jpeg
+untappd: "https://untappd.com/b/birra-del-borgo-my-antonia/25988"
 country: "Italy"
 brewery: "Birra del Borgo"
 breweryURL: "breweryURL"

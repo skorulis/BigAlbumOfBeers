@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-06-16"
 desc: "Mild on flavour and smell. A really easy drinking beer"
 permalink: /beer/:title.html
-img: /img/list/orion-draft-beer.jpeguntappd: "https://untappd.com/b/orion-breweries--ltd--orion-draft-beer/174508"
+img: /img/list/orion-draft-beer.jpeg
+untappd: "https://untappd.com/b/orion-breweries--ltd--orion-draft-beer/174508"
 country: "Japan"
 brewery: "Orion Breweries, Ltd."
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 9
 beer-date: "2023-08-26"
 desc: "Imagine a fruit salad that was left in the sun until it fermented"
 permalink: /beer/:title.html
-img: /img/list/bracket-express-yourself.jpeguntappd: "https://untappd.com/b/bracket-brewing-express-yourself/5301804"
+img: /img/list/bracket-express-yourself.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-express-yourself/5301804"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6
 beer-date: "2016-09-21"
 desc: "A little bit lacking but not a bad beer"
 permalink: /beer/:title.html
-img: /img/list/prancing-pony-sunshine-ale.jpeguntappd: "https://untappd.com/b/prancing-pony-brewery-sunshine-ale/999204"
+img: /img/list/prancing-pony-sunshine-ale.jpeg
+untappd: "https://untappd.com/b/prancing-pony-brewery-sunshine-ale/999204"
 country: "Australia"
 brewery: "Prancing Pony Brewery"
 breweryURL: "breweryURL"

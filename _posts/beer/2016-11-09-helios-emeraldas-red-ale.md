@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-03-31"
 desc: "Fairly plain red ale a"
 permalink: /beer/:title.html
-img: /img/list/helios-emeraldas-red-ale.jpeguntappd: "https://untappd.com/b/helios-distillery-co--galaxy-express-999-emeraldas-redale-/4707334"
+img: /img/list/helios-emeraldas-red-ale.jpeg
+untappd: "https://untappd.com/b/helios-distillery-co--galaxy-express-999-emeraldas-redale-/4707334"
 country: "Japan"
 brewery: "Helios Distillery Co."
 breweryURL: "breweryURL"

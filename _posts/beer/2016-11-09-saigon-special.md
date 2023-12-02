@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2018-02-17"
 desc: "Somwhere in the middle between saigon green and saigon red"
 permalink: /beer/:title.html
-img: /img/list/saigon-special.jpeguntappd: "https://untappd.com/b/sabeco-saigon-special/17357"
+img: /img/list/saigon-special.jpeg
+untappd: "https://untappd.com/b/sabeco-saigon-special/17357"
 country: "Vietnam"
 brewery: "Sabeco"
 breweryURL: "breweryURL"

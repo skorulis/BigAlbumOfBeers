@@ -7,7 +7,8 @@ score: 8
 beer-date: "2019-07-14"
 desc: "Really good balance between amber and IPA flavours. Lots of malt and bitterness and a crisp smell"
 permalink: /beer/:title.html
-img: /img/list/ekim-berserker-amber-ipa.jpeguntappd: "https://untappd.com/b/ekim-brewing-co--berserker/158431"
+img: /img/list/ekim-berserker-amber-ipa.jpeg
+untappd: "https://untappd.com/b/ekim-brewing-co--berserker/158431"
 country: "Australia"
 brewery: "Ekim Brewing Co."
 breweryURL: "breweryURL"

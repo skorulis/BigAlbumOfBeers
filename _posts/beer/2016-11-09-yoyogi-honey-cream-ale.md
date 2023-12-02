@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-11-12"
 desc: "Lots of honey coming through, not much cream"
 permalink: /beer/:title.html
-img: /img/list/yoyogi-honey-cream-ale.jpeguntappd: "https://untappd.com/b/yoyogi-honey-cream-ale/1823166"
+img: /img/list/yoyogi-honey-cream-ale.jpeg
+untappd: "https://untappd.com/b/yoyogi-honey-cream-ale/1823166"
 country: "Australia"
 brewery: "Yoyogi"
 breweryURL: "breweryURL"

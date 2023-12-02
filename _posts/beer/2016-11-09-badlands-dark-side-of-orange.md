@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2019-07-14"
 desc: "Like a mild orange chocolate mixed with beer. Could probably do with a bit more sweetness but good all round"
 permalink: /beer/:title.html
-img: /img/list/badlands-dark-side-of-orange.jpeguntappd: "https://untappd.com/b/badlands-brewery-dark-side-of-orange/3230085"
+img: /img/list/badlands-dark-side-of-orange.jpeg
+untappd: "https://untappd.com/b/badlands-brewery-dark-side-of-orange/3230085"
 country: "Australia"
 brewery: "Badlands Brewery"
 breweryURL: "breweryURL"

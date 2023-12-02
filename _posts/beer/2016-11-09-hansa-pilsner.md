@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-10-02"
 desc: "Standard high malt pilsner"
 permalink: /beer/:title.html
-img: /img/list/hansa-pilsner.jpeguntappd: "https://untappd.com/b/hansa-borg-bryggerier-hansa-pilsner/1861"
+img: /img/list/hansa-pilsner.jpeg
+untappd: "https://untappd.com/b/hansa-borg-bryggerier-hansa-pilsner/1861"
 country: "Norway"
 brewery: "Hansa Borg Bryggerier"
 breweryURL: "breweryURL"

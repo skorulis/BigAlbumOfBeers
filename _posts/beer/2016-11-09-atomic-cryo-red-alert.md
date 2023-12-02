@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-11-13"
 desc: "Very good red, rich and deep with a nice malty and bitter aroma. Exactly as a red should be"
 permalink: /beer/:title.html
-img: /img/list/atomic-cryo-red-alert.jpeguntappd: "https://untappd.com/b/gage-roads-brew-co--atomic-beer-project-red-alert/3791982"
+img: /img/list/atomic-cryo-red-alert.jpeg
+untappd: "https://untappd.com/b/gage-roads-brew-co--atomic-beer-project-red-alert/3791982"
 country: "Australia"
 brewery: "Gage Roads Brew Co "
 breweryURL: "breweryURL"

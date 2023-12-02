@@ -7,7 +7,8 @@ score: 6
 beer-date: "2021-12-28"
 desc: "Pretty harsh to start. never really rounds out"
 permalink: /beer/:title.html
-img: /img/list/bojak-the-milk-man.jpeguntappd: "https://untappd.com/b/bojak-brewing-the-milk-man/4409680"
+img: /img/list/bojak-the-milk-man.jpeg
+untappd: "https://untappd.com/b/bojak-brewing-the-milk-man/4409680"
 country: "Australia"
 brewery: "Bojak Brewing"
 breweryURL: "breweryURL"

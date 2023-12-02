@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-05-25"
 desc: "I think a beer called inferno needs chilli"
 permalink: /beer/:title.html
-img: /img/list/oakham-ales-inferno.jpeguntappd: "https://untappd.com/b/oakham-ales-inferno/14764"
+img: /img/list/oakham-ales-inferno.jpeg
+untappd: "https://untappd.com/b/oakham-ales-inferno/14764"
 country: "England"
 brewery: "Oakham Ales"
 breweryURL: "breweryURL"

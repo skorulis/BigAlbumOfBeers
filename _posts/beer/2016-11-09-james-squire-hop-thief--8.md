@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-09-21"
 desc: "Didn’t think I would enjoy this one as much as the #7 given the hops but it’s just as good"
 permalink: /beer/:title.html
-img: /img/list/james-squire-hop-thief--8.jpeguntappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-hop-thief-8/1649933"
+img: /img/list/james-squire-hop-thief--8.jpeg
+untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-hop-thief-8/1649933"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "breweryURL"

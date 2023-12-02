@@ -7,7 +7,8 @@ score: 6
 beer-date: "2022-08-07"
 desc: "Tastes like lime in a beer, but much better than a Carona"
 permalink: /beer/:title.html
-img: /img/list/akasha-lime-zest-gose.jpeguntappd: "https://untappd.com/b/akasha-brewing-company-lime-zest-gose/4667134"
+img: /img/list/akasha-lime-zest-gose.jpeg
+untappd: "https://untappd.com/b/akasha-brewing-company-lime-zest-gose/4667134"
 country: "Australia"
 brewery: "Akasha Brewing Company"
 breweryURL: "breweryURL"

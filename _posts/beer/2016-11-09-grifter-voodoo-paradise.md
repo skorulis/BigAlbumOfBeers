@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2020-12-25"
 desc: "Super creamy nitro stout"
 permalink: /beer/:title.html
-img: /img/list/grifter-voodoo-paradise.jpeguntappd: "https://untappd.com/b/the-grifter-brewing-company-voodoo-paradise/1705233"
+img: /img/list/grifter-voodoo-paradise.jpeg
+untappd: "https://untappd.com/b/the-grifter-brewing-company-voodoo-paradise/1705233"
 country: "Australia"
 brewery: "The Grifter Brewing Company"
 breweryURL: "breweryURL"

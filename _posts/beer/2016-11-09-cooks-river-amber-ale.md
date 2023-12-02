@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "Hits a bit heavy to start but rounds out"
 permalink: /beer/:title.html
-img: /img/list/cooks-river-amber-ale.jpeguntappd: "https://untappd.com/b/cooks-river-brewing-cooks-river-amber-ale/3871809"
+img: /img/list/cooks-river-amber-ale.jpeg
+untappd: "https://untappd.com/b/cooks-river-brewing-cooks-river-amber-ale/3871809"
 country: "Australia"
 brewery: "Cooks River Brewing"
 breweryURL: "breweryURL"

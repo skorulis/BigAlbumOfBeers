@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-05-01"
 desc: "Like a very mild pale ale. Refreshing"
 permalink: /beer/:title.html
-img: /img/list/monteith-s-southern-pale-ale.jpeguntappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-southern-pale-ale/626008"
+img: /img/list/monteith-s-southern-pale-ale.jpeg
+untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-southern-pale-ale/626008"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-01-14"
 desc: "Kind of sweet red ale. Very light as well which makes it easy to drink. Good choice if starting out with red ales"
 permalink: /beer/:title.html
-img: /img/list/cattle-yard-summer-red.jpeguntappd: "https://untappd.com/b/cattleyard-brewing-co--summer-red/3328822"
+img: /img/list/cattle-yard-summer-red.jpeg
+untappd: "https://untappd.com/b/cattleyard-brewing-co--summer-red/3328822"
 country: "Australia"
 brewery: "Cattleyard Brewing Co."
 breweryURL: "breweryURL"

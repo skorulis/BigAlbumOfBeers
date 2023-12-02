@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2019-04-22"
 desc: "Mellow without being too hoppy. There’s no big flavours on either side. It’s well balance but not enough to bring me back"
 permalink: /beer/:title.html
-img: /img/list/warpigs-rain-of-terror-black-ipa.jpeguntappd: "https://untappd.com/b/warpigs-brewpub-rain-of-terror/2768672"
+img: /img/list/warpigs-rain-of-terror-black-ipa.jpeg
+untappd: "https://untappd.com/b/warpigs-brewpub-rain-of-terror/2768672"
 country: "Denmark"
 brewery: "WarPigs Brewpub"
 breweryURL: "breweryURL"

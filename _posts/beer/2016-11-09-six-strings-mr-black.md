@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-09-26"
 desc: "Not as much coffee as I was expecting. Actually a fairly mild easy drinking stout"
 permalink: /beer/:title.html
-img: /img/list/six-strings-mr-black.jpeguntappd: "https://untappd.com/b/six-string-brewing-company-mr-black-coffee-milk-stout/3802462"
+img: /img/list/six-strings-mr-black.jpeg
+untappd: "https://untappd.com/b/six-string-brewing-company-mr-black-coffee-milk-stout/3802462"
 country: "Australia"
 brewery: "Six String Brewing Company"
 breweryURL: "breweryURL"

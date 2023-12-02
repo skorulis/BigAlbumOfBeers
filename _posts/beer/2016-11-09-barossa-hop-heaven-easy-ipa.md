@@ -7,7 +7,8 @@ score: 7
 beer-date: "2018-01-13"
 desc: "Quite hoppy for the strength but feels like something is lacking"
 permalink: /beer/:title.html
-img: /img/list/barossa-hop-heaven-easy-ipa.jpeguntappd: "https://untappd.com/b/barossa-valley-brewing-hop-heaven/1018437"
+img: /img/list/barossa-hop-heaven-easy-ipa.jpeg
+untappd: "https://untappd.com/b/barossa-valley-brewing-hop-heaven/1018437"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
 breweryURL: "breweryURL"

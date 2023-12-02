@@ -7,7 +7,8 @@ score: 3
 beer-date: "2014-03-18"
 desc: "Not quite as nice as a draught and with less alcohol"
 permalink: /beer/:title.html
-img: /img/list/carlton-mid.jpeguntappd: "https://untappd.com/b/carlton---united-breweries-carlton-midstrength/6091"
+img: /img/list/carlton-mid.jpeg
+untappd: "https://untappd.com/b/carlton---united-breweries-carlton-midstrength/6091"
 country: "Australia"
 brewery: "Carlton & United Breweries"
 breweryURL: "breweryURL"

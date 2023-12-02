@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-03-28"
 desc: "Too much IPA flavour"
 permalink: /beer/:title.html
-img: /img/list/murrays-icon-2ipa.jpeguntappd: "https://untappd.com/b/murrays-craft-brewing-co-icon-2ipa/9166"
+img: /img/list/murrays-icon-2ipa.jpeg
+untappd: "https://untappd.com/b/murrays-craft-brewing-co-icon-2ipa/9166"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "breweryURL"

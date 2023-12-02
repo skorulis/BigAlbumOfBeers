@@ -7,7 +7,8 @@ score: 9
 beer-date: "2018-06-02"
 desc: "A mild sour beer mixed with delicious chocolate"
 permalink: /beer/:title.html
-img: /img/list/hermitage-eurynome-wild-ale.jpeguntappd: "https://untappd.com/b/hermitage-brewing-eurynome/2119066"
+img: /img/list/hermitage-eurynome-wild-ale.jpeg
+untappd: "https://untappd.com/b/hermitage-brewing-eurynome/2119066"
 country: "United States"
 brewery: "Hermitage Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-03-28"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/red-truck-lager.jpeguntappd: "https://untappd.com/b/true-south-red-truck-lager/37582"
+img: /img/list/red-truck-lager.jpeg
+untappd: "https://untappd.com/b/true-south-red-truck-lager/37582"
 country: "Australia"
 brewery: "True South"
 breweryURL: "breweryURL"

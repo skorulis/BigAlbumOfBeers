@@ -7,7 +7,8 @@ score: 7
 beer-date: "2017-05-27"
 desc: "A fairly thin dark ale. The chocolate and orange are fairly mild. Interesting but I probably didn't need a pint"
 permalink: /beer/:title.html
-img: /img/list/bacchus-jaffacake-ale.jpeguntappd: "https://untappd.com/b/bacchus-brewing-co--jaffacake-ale/1282714"
+img: /img/list/bacchus-jaffacake-ale.jpeg
+untappd: "https://untappd.com/b/bacchus-brewing-co--jaffacake-ale/1282714"
 country: "Australia"
 brewery: "Bacchus Brewing Co."
 breweryURL: "breweryURL"

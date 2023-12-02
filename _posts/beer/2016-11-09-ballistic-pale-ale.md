@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-01-16"
 desc: "Surprisingly deep pale ale. Lots of smooth bitterness"
 permalink: /beer/:title.html
-img: /img/list/ballistic-pale-ale.jpeguntappd: "https://untappd.com/b/ballistic-beer-pale-ale/2477207"
+img: /img/list/ballistic-pale-ale.jpeg
+untappd: "https://untappd.com/b/ballistic-beer-pale-ale/2477207"
 country: "Australia"
 brewery: "Ballistic Beer"
 breweryURL: "breweryURL"

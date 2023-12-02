@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-03-31"
 desc: "Exactly what I imagine when I think Hefeweizen. I should have purchased a bigger glass"
 permalink: /beer/:title.html
-img: /img/list/yo-ho-suiyobi-no-neko.jpeguntappd: "https://untappd.com/b/yo-ho-brewing-company-suiyoubi-no-neko---/230029"
+img: /img/list/yo-ho-suiyobi-no-neko.jpeg
+untappd: "https://untappd.com/b/yo-ho-brewing-company-suiyoubi-no-neko---/230029"
 country: "Japan"
 brewery: "Yo-Ho Brewing Company"
 breweryURL: "breweryURL"

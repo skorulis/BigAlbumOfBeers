@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-10-28"
 desc: "Solid lager. A little sweet, a little malty"
 permalink: /beer/:title.html
-img: /img/list/batch-just-beer.jpeguntappd: "https://untappd.com/b/batch-brewing-company-just-beer/1687978"
+img: /img/list/batch-just-beer.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-just-beer/1687978"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

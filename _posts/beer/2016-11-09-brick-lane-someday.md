@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "Has a nice subtle taste of the blood orange. Very little aftertaste and quite refreshing"
 permalink: /beer/:title.html
-img: /img/list/brick-lane-someday.jpeguntappd: "https://untappd.com/b/brick-lane-brewing-co--someday-sour-blood-orange/3811447"
+img: /img/list/brick-lane-someday.jpeg
+untappd: "https://untappd.com/b/brick-lane-brewing-co--someday-sour-blood-orange/3811447"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
 breweryURL: "breweryURL"

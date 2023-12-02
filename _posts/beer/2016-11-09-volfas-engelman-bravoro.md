@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-09-19"
 desc: "A little bit wrong"
 permalink: /beer/:title.html
-img: /img/list/volfas-engelman-bravoro.jpeguntappd: "https://untappd.com/b/volfas-engelman-bravoro/257379"
+img: /img/list/volfas-engelman-bravoro.jpeg
+untappd: "https://untappd.com/b/volfas-engelman-bravoro/257379"
 country: "Lithuania"
 brewery: "Volfas Engelman"
 breweryURL: "breweryURL"

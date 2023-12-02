@@ -7,7 +7,8 @@ score: 8
 beer-date: "2021-04-02"
 desc: "Delivers a good juice hit in a hazy IPA. A little acidic to start but bellows quickly"
 permalink: /beer/:title.html
-img: /img/list/feral-shooters-juicy-ipa.jpeguntappd: "https://untappd.com/b/feral-brewing-company-shooters-juicy-ipa/2593749"
+img: /img/list/feral-shooters-juicy-ipa.jpeg
+untappd: "https://untappd.com/b/feral-brewing-company-shooters-juicy-ipa/2593749"
 country: "Australia"
 brewery: "Feral Brewing Company"
 breweryURL: "breweryURL"

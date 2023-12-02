@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2016-11-13"
 desc: "Strong on galaxy hops, low on bitterness. Really easy drinking but in no way plain"
 permalink: /beer/:title.html
-img: /img/list/basement-brew-house-sparkling.jpeguntappd: "https://untappd.com/b/basement-brewhouse-sparkling-ale/1793098"
+img: /img/list/basement-brew-house-sparkling.jpeg
+untappd: "https://untappd.com/b/basement-brewhouse-sparkling-ale/1793098"
 country: "Australia"
 brewery: "Basement Brewhouse"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2018-03-13"
 desc: "A slight deviation from beer. Smells a lot like honey but isn’t that sweet. Something new for me and I’m a fan"
 permalink: /beer/:title.html
-img: /img/list/stone-dog-son-of-odin.jpeguntappd: "https://untappd.com/b/stone-dog-meadery-son-of-odin/2114803"
+img: /img/list/stone-dog-son-of-odin.jpeg
+untappd: "https://untappd.com/b/stone-dog-meadery-son-of-odin/2114803"
 country: "Australia"
 brewery: "Stone Dog Meadery"
 breweryURL: "breweryURL"

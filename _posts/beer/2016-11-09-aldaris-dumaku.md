@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-10-25"
 desc: "Pretty nice"
 permalink: /beer/:title.html
-img: /img/list/aldaris-dumaku.jpeguntappd: "https://untappd.com/b/aldaris-dumaku-nefiltrets/33718"
+img: /img/list/aldaris-dumaku.jpeg
+untappd: "https://untappd.com/b/aldaris-dumaku-nefiltrets/33718"
 country: "Latvia"
 brewery: "Aldaris"
 breweryURL: "breweryURL"

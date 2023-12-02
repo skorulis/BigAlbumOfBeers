@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-11-13"
 desc: "It’s a lot lighter tasting than it looks. It’s not really strong"
 permalink: /beer/:title.html
-img: /img/list/little-alchemist-black-magic.jpeguntappd: "https://untappd.com/b/lab-little-alchemist-brewing-co-black-magic/1604784"
+img: /img/list/little-alchemist-black-magic.jpeg
+untappd: "https://untappd.com/b/lab-little-alchemist-brewing-co-black-magic/1604784"
 country: "Australia"
 brewery: "LAB Little Alchemist Brewing Co"
 breweryURL: "breweryURL"

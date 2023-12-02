@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-11-13"
 desc: "Lots of coffee on the nose and nice roasted flavours in the taste"
 permalink: /beer/:title.html
-img: /img/list/atomic-paul-s-porter.jpeguntappd: "https://untappd.com/b/atomic-beer-project-pauls-porter/3977204"
+img: /img/list/atomic-paul-s-porter.jpeg
+untappd: "https://untappd.com/b/atomic-beer-project-pauls-porter/3977204"
 country: "Australia"
 brewery: "Atomic Beer Project"
 breweryURL: "breweryURL"

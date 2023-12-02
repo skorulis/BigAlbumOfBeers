@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Super smooth and mellow IPA"
 permalink: /beer/:title.html
-img: /img/list/six-strings-electric-feel.jpeguntappd: "https://untappd.com/b/six-string-brewing-company-electric-feel-cryo-hopped-oat-cream-ipa/4487956"
+img: /img/list/six-strings-electric-feel.jpeg
+untappd: "https://untappd.com/b/six-string-brewing-company-electric-feel-cryo-hopped-oat-cream-ipa/4487956"
 country: "Australia"
 brewery: "Six String Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: null
 beer-date: "2021-11-12"
 desc: "Couldn’t taste the strawberry at all"
 permalink: /beer/:title.html
-img: /img/list/yullis-dolly-aldrin.jpeguntappd: "https://untappd.com/b/yullis-brews-dolly-aldrin---strawberry-berliner-weisse/2917299"
+img: /img/list/yullis-dolly-aldrin.jpeg
+untappd: "https://untappd.com/b/yullis-brews-dolly-aldrin---strawberry-berliner-weisse/2917299"
 country: "Australia"
 brewery: "Yulli's Brews"
 breweryURL: "breweryURL"

@@ -7,4 +7,5 @@ score: 5
 beer-date: "2023-02-26"
 desc: "Quite tasteless. But refreshing and easy drinking"
 permalink: /beer/:title.html
-img: /img/list/michelob-ultra.jpeg---
+img: /img/list/michelob-ultra.jpeg
+---

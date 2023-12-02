@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-06-15"
 desc: "Another fairly plain lager. Goes down easy though"
 permalink: /beer/:title.html
-img: /img/list/goesser-maerzen.jpeguntappd: "https://untappd.com/b/brauerei-goss-gosser-marzen--gosser-beer/71980"
+img: /img/list/goesser-maerzen.jpeg
+untappd: "https://untappd.com/b/brauerei-goss-gosser-marzen--gosser-beer/71980"
 country: "Austria"
 brewery: "Brauerei Göss"
 breweryURL: "breweryURL"

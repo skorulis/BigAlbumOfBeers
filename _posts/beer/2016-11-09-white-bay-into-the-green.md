@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-08-26"
 desc: "A pilsner with some extra oomph. Good stuff"
 permalink: /beer/:title.html
-img: /img/list/white-bay-into-the-green.jpeguntappd: "https://untappd.com/b/white-bay-beer-co--into-the-green/5342094"
+img: /img/list/white-bay-into-the-green.jpeg
+untappd: "https://untappd.com/b/white-bay-beer-co--into-the-green/5342094"
 country: "Australia"
 brewery: "White Bay Beer Co."
 breweryURL: "breweryURL"

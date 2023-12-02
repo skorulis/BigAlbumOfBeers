@@ -7,7 +7,8 @@ score: 8
 beer-date: "2017-10-28"
 desc: "A little metallic but decent after that. A little creamy with a hint of chocolate"
 permalink: /beer/:title.html
-img: /img/list/merchant-smooth-sailor.jpeguntappd: "https://untappd.com/b/merchant-brewing-co--smooth-sailor/1029810"
+img: /img/list/merchant-smooth-sailor.jpeg
+untappd: "https://untappd.com/b/merchant-brewing-co--smooth-sailor/1029810"
 country: "Australia"
 brewery: "Merchant Brewing Co."
 breweryURL: "breweryURL"

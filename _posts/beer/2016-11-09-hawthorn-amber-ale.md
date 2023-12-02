@@ -7,7 +7,8 @@ score: 4
 beer-date: "2015-10-17"
 desc: "A bit too bitter"
 permalink: /beer/:title.html
-img: /img/list/hawthorn-amber-ale.jpeguntappd: "https://untappd.com/b/hawthorn-brewing-company-amber-ale/35934"
+img: /img/list/hawthorn-amber-ale.jpeg
+untappd: "https://untappd.com/b/hawthorn-brewing-company-amber-ale/35934"
 country: "Australia"
 brewery: "Hawthorn Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2021-11-12"
 desc: "Seems like a beer with a dash of wine. Not much in the way of hops and smells strange for a beer. Sounded really interesting but not enough going on the beer side"
 permalink: /beer/:title.html
-img: /img/list/working-title-sideways-oat-cream-rose-xpa.jpeguntappd: "https://untappd.com/b/working-title-brew-co-sideways/4328416"
+img: /img/list/working-title-sideways-oat-cream-rose-xpa.jpeg
+untappd: "https://untappd.com/b/working-title-brew-co-sideways/4328416"
 country: "Australia"
 brewery: "Working Title Brew Co"
 breweryURL: "breweryURL"

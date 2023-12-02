@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-03-09"
 desc: "A poor mans beer"
 permalink: /beer/:title.html
-img: /img/list/gambrinus.jpeguntappd: "https://untappd.com/b/plzensky-prazdroj-gambrinus-premium/46417"
+img: /img/list/gambrinus.jpeg
+untappd: "https://untappd.com/b/plzensky-prazdroj-gambrinus-premium/46417"
 country: "Czech Republic"
 brewery: "Plzeňský Prazdroj"
 breweryURL: "breweryURL"

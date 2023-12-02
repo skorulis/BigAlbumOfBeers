@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "Very nice"
 permalink: /beer/:title.html
-img: /img/list/dainton-bright-er-daze.jpeguntappd: "https://untappd.com/b/dainton-beer-bright-er-daze/4263770"
+img: /img/list/dainton-bright-er-daze.jpeg
+untappd: "https://untappd.com/b/dainton-beer-bright-er-daze/4263770"
 country: "Australia"
 brewery: "Dainton Beer"
 breweryURL: "breweryURL"

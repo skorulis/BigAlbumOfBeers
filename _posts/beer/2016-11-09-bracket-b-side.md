@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-03-31"
 desc: "A very rich pilsner but somehow also easy drinking"
 permalink: /beer/:title.html
-img: /img/list/bracket-b-side.jpeguntappd: "https://untappd.com/b/bracket-brewing-b-side/5220055"
+img: /img/list/bracket-b-side.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-b-side/5220055"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

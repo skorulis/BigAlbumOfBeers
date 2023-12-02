@@ -7,7 +7,8 @@ score: 8
 beer-date: "2017-02-22"
 desc: "A sweet smell with a mild stoutiness. Not super exciting but on point for what is and easy to drink"
 permalink: /beer/:title.html
-img: /img/list/beer-of-the-dead-porter.jpeguntappd: "https://untappd.com/b/cerveceria-mexicana-s--de-r-l--de-c-v---tecate--pay-the-ferryman/389976"
+img: /img/list/beer-of-the-dead-porter.jpeg
+untappd: "https://untappd.com/b/cerveceria-mexicana-s--de-r-l--de-c-v---tecate--pay-the-ferryman/389976"
 country: "Mexico"
 brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
 breweryURL: "breweryURL"

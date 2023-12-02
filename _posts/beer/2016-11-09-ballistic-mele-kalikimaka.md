@@ -7,7 +7,8 @@ score: 9
 beer-date: "2020-12-25"
 desc: "Super smooth and pineapplly. Great hazy IPA"
 permalink: /beer/:title.html
-img: /img/list/ballistic-mele-kalikimaka.jpeguntappd: "https://untappd.com/b/ballistic-beer-mele-kalikimaka/4049845"
+img: /img/list/ballistic-mele-kalikimaka.jpeg
+untappd: "https://untappd.com/b/ballistic-beer-mele-kalikimaka/4049845"
 country: "Australia"
 brewery: "Ballistic Beer"
 breweryURL: "breweryURL"

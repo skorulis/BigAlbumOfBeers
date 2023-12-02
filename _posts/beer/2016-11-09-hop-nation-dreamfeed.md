@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-07-31"
 desc: "Fairly mild for a strong IPA and a bit juicy.      Rounded and easy to drink. A good one to start on today"
 permalink: /beer/:title.html
-img: /img/list/hop-nation-dreamfeed.jpeguntappd: "https://untappd.com/b/hop-nation-brewing-co-dreamfeed/3315092"
+img: /img/list/hop-nation-dreamfeed.jpeg
+untappd: "https://untappd.com/b/hop-nation-brewing-co-dreamfeed/3315092"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
 breweryURL: "breweryURL"

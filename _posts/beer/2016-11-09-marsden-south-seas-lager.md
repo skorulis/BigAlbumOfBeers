@@ -7,4 +7,5 @@ score: 6
 beer-date: "2021-11-12"
 desc: "Pretty smooth lager with a slightly malty smell"
 permalink: /beer/:title.html
-img: /img/list/marsden-south-seas-lager.jpeg---
+img: /img/list/marsden-south-seas-lager.jpeg
+---

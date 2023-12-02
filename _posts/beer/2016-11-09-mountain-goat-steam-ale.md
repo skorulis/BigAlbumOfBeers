@@ -7,7 +7,8 @@ score: 7
 beer-date: "2014-06-21"
 desc: "Could go for a case is this"
 permalink: /beer/:title.html
-img: /img/list/mountain-goat-steam-ale.jpeguntappd: "https://untappd.com/b/mountain-goat-beer-steam-ale/15497"
+img: /img/list/mountain-goat-steam-ale.jpeg
+untappd: "https://untappd.com/b/mountain-goat-beer-steam-ale/15497"
 country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "breweryURL"

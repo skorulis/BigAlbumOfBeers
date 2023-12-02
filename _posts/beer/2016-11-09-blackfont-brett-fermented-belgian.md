@@ -7,7 +7,8 @@ score: 8
 beer-date: "2017-05-27"
 desc: "Full Belgian flavour but a bit lighter. Has a delicious lingering taste that I can't quite describe. Absolutely smooth with almost no bitterness"
 permalink: /beer/:title.html
-img: /img/list/blackfont-brett-fermented-belgian.jpeguntappd: "https://untappd.com/b/blackfont-brewhouse-bretted-belgian-ale/1746746"
+img: /img/list/blackfont-brett-fermented-belgian.jpeg
+untappd: "https://untappd.com/b/blackfont-brewhouse-bretted-belgian-ale/1746746"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
 breweryURL: "breweryURL"

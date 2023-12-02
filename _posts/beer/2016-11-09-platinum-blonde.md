@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-03-09"
 desc: "Meh"
 permalink: /beer/:title.html
-img: /img/list/platinum-blonde.jpeguntappd: "https://untappd.com/b/hahn-brewing-co--pty-ltd-platinum-blonde/278786"
+img: /img/list/platinum-blonde.jpeg
+untappd: "https://untappd.com/b/hahn-brewing-co--pty-ltd-platinum-blonde/278786"
 country: "Australia"
 brewery: "Hahn Brewing Co. Pty Ltd"
 breweryURL: "breweryURL"

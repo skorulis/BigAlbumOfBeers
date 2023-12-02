@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-05-01"
 desc: "Not up to the normal lord nelson standard"
 permalink: /beer/:title.html
-img: /img/list/lord-nelson-brewery-seasonal-ale.jpeguntappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-seasonal-ale/1336928"
+img: /img/list/lord-nelson-brewery-seasonal-ale.jpeg
+untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-seasonal-ale/1336928"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
 breweryURL: "breweryURL"

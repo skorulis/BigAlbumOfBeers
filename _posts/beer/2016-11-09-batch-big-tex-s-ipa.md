@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-09-26"
 desc: "Really rounded IPA. Lots of bitterness but without many strong hop flavours"
 permalink: /beer/:title.html
-img: /img/list/batch-big-tex-s-ipa.jpeguntappd: "https://untappd.com/b/batch-brewing-company-big-texs-ipa/3757200"
+img: /img/list/batch-big-tex-s-ipa.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-big-texs-ipa/3757200"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

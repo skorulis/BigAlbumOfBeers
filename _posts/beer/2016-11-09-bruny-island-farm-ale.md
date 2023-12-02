@@ -7,7 +7,8 @@ score: 8
 beer-date: "2019-04-22"
 desc: "Really smooth and full bodied ale. No big flavours but very easy drink. Nice start to my foray into Tasmanian beers"
 permalink: /beer/:title.html
-img: /img/list/bruny-island-farm-ale.jpeguntappd: "https://untappd.com/b/bruny-island-beer-co-farm-ale/1451409"
+img: /img/list/bruny-island-farm-ale.jpeg
+untappd: "https://untappd.com/b/bruny-island-beer-co-farm-ale/1451409"
 country: "Australia"
 brewery: "Bruny Island Beer Co"
 breweryURL: "breweryURL"

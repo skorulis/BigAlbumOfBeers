@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Tastes like it has a bit of rye in there but has very little smell. Goes down quite easy. Good strong beer to have a few of with extra flavour"
 permalink: /beer/:title.html
-img: /img/list/mouseproof-the-keeper.jpeguntappd: "https://untappd.com/b/mouse-proof-brewing-the-keeper/4088226"
+img: /img/list/mouseproof-the-keeper.jpeg
+untappd: "https://untappd.com/b/mouse-proof-brewing-the-keeper/4088226"
 country: "Australia"
 brewery: "Mouse Proof Brewing"
 breweryURL: "breweryURL"

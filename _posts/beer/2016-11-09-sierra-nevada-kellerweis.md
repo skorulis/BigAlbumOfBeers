@@ -7,7 +7,8 @@ score: 3
 beer-date: "2014-06-21"
 desc: "A true weisbeer. I don't like it"
 permalink: /beer/:title.html
-img: /img/list/sierra-nevada-kellerweis.jpeguntappd: "https://untappd.com/b/sierra-nevada-brewing-co--kellerweis/5374"
+img: /img/list/sierra-nevada-kellerweis.jpeg
+untappd: "https://untappd.com/b/sierra-nevada-brewing-co--kellerweis/5374"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
 breweryURL: "breweryURL"

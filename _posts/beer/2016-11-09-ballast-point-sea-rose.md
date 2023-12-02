@@ -7,7 +7,8 @@ score: 7
 beer-date: "2018-01-13"
 desc: "Cherry is much milder than expected which I really like, just a hint at the back"
 permalink: /beer/:title.html
-img: /img/list/ballast-point-sea-rose.jpeguntappd: "https://untappd.com/b/ballast-point-brewing-company-sea-rose/1857772"
+img: /img/list/ballast-point-sea-rose.jpeg
+untappd: "https://untappd.com/b/ballast-point-brewing-company-sea-rose/1857772"
 country: "United States"
 brewery: "Ballast Point Brewing Company"
 breweryURL: "breweryURL"

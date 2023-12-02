@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-06-05"
 desc: "Quite malty but not too bitter. Kind of like a pilsner"
 permalink: /beer/:title.html
-img: /img/list/swan-draught.jpeguntappd: "https://untappd.com/b/south-australian-brewing-co--swan-draught/2887"
+img: /img/list/swan-draught.jpeg
+untappd: "https://untappd.com/b/south-australian-brewing-co--swan-draught/2887"
 country: "Australia"
 brewery: "South Australian Brewing Co."
 breweryURL: "breweryURL"

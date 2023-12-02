@@ -7,7 +7,8 @@ score: 6
 beer-date: "2016-02-14"
 desc: "Fairly plain and easy drinking"
 permalink: /beer/:title.html
-img: /img/list/big-shed-kol-schisel.jpeguntappd: "https://untappd.com/b/big-shed-brewing-concern-kolschisel/1138211"
+img: /img/list/big-shed-kol-schisel.jpeg
+untappd: "https://untappd.com/b/big-shed-brewing-concern-kolschisel/1138211"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
 breweryURL: "breweryURL"

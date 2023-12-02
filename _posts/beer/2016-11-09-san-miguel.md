@@ -7,7 +7,8 @@ score: 8
 beer-date: "2012-11-02"
 desc: "A beer for all occasions"
 permalink: /beer/:title.html
-img: /img/list/san-miguel.jpeguntappd: "https://untappd.com/b/carlsberg-uk-san-miguel/6439"
+img: /img/list/san-miguel.jpeg
+untappd: "https://untappd.com/b/carlsberg-uk-san-miguel/6439"
 country: "England"
 brewery: "Carlsberg UK"
 breweryURL: "breweryURL"

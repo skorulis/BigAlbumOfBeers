@@ -7,7 +7,8 @@ score: 4.5
 beer-date: "2023-03-31"
 desc: "Too bitter and just average all round"
 permalink: /beer/:title.html
-img: /img/list/echigo-flying-ipa.jpeguntappd: "https://untappd.com/b/echigo-beer-co---ltd--flying-ipa/1652077"
+img: /img/list/echigo-flying-ipa.jpeg
+untappd: "https://untappd.com/b/echigo-beer-co---ltd--flying-ipa/1652077"
 country: "Japan"
 brewery: "Echigo Beer Co., Ltd."
 breweryURL: "breweryURL"

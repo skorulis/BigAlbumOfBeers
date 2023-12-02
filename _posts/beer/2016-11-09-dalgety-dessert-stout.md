@@ -7,7 +7,8 @@ score: 6
 beer-date: "2022-08-07"
 desc: "I feel like half the beer I got was head even after it settled. I was expecting more sweetness"
 permalink: /beer/:title.html
-img: /img/list/dalgety-dessert-stout.jpeguntappd: "https://untappd.com/b/dalgety-brewing-company-dessert-stout/4824532"
+img: /img/list/dalgety-dessert-stout.jpeg
+untappd: "https://untappd.com/b/dalgety-brewing-company-dessert-stout/4824532"
 country: "Australia"
 brewery: "Dalgety Brewing Company"
 breweryURL: "breweryURL"

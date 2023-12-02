@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2018-12-27"
 desc: "Very round pilsner with lots of body"
 permalink: /beer/:title.html
-img: /img/list/nine-fingers-waltzin-ma-pilsner.jpeguntappd: "https://untappd.com/b/nine-fingers-brew-waltzin-ma-pilsner/2887956"
+img: /img/list/nine-fingers-waltzin-ma-pilsner.jpeg
+untappd: "https://untappd.com/b/nine-fingers-brew-waltzin-ma-pilsner/2887956"
 country: "Australia"
 brewery: "Nine Fingers Brew"
 breweryURL: "breweryURL"

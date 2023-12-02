@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-03-31"
 desc: "A lot of bitterness without much flavour"
 permalink: /beer/:title.html
-img: /img/list/dad-and-dave-s-citra-and-mosaic-ipa.jpeguntappd: "https://untappd.com/b/dad---daves-brewing-citra---mosaic-ipa/2799980"
+img: /img/list/dad-and-dave-s-citra-and-mosaic-ipa.jpeg
+untappd: "https://untappd.com/b/dad---daves-brewing-citra---mosaic-ipa/2799980"
 country: "Australia"
 brewery: "Dad & Dave's Brewing"
 breweryURL: "breweryURL"

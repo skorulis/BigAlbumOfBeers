@@ -7,7 +7,8 @@ score: 8
 beer-date: "2021-11-12"
 desc: "On a slow ramp up of IPAs this evening and loving it. Very creamy taste with a slight zest. Delivers exactly what the can promises"
 permalink: /beer/:title.html
-img: /img/list/hope-oat-cream-ipa.jpeguntappd: "https://untappd.com/b/hope-brewery-oat-cream-ipa/4255404"
+img: /img/list/hope-oat-cream-ipa.jpeg
+untappd: "https://untappd.com/b/hope-brewery-oat-cream-ipa/4255404"
 country: "Australia"
 brewery: "Hope Brewery"
 breweryURL: "breweryURL"

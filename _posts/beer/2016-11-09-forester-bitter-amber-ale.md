@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-03-16"
 desc: "A little sour but not in a bad way"
 permalink: /beer/:title.html
-img: /img/list/forester-bitter-amber-ale.jpeguntappd: "https://untappd.com/b/two-metre-tall-forester-bitter-amber-ale/25802"
+img: /img/list/forester-bitter-amber-ale.jpeg
+untappd: "https://untappd.com/b/two-metre-tall-forester-bitter-amber-ale/25802"
 country: "Australia"
 brewery: "Two Metre Tall"
 breweryURL: "breweryURL"

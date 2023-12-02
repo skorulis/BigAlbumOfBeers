@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-12-25"
 desc: "Surprisingly malty for what is called a dry beer. But it’s easy drinking with a good flavour and refreshing"
 permalink: /beer/:title.html
-img: /img/list/coopers-dry.jpeguntappd: "https://untappd.com/b/coopers-dry/2846311"
+img: /img/list/coopers-dry.jpeg
+untappd: "https://untappd.com/b/coopers-dry/2846311"
 country: "Australia"
 brewery: "Coopers"
 breweryURL: "breweryURL"

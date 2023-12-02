@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-08-06"
 desc: "Slightly harsh burnt coffee taste"
 permalink: /beer/:title.html
-img: /img/list/valhalla-obsidian.jpeguntappd: "https://untappd.com/b/valhalla-brewing-obsidian-black-ale/1417177"
+img: /img/list/valhalla-obsidian.jpeg
+untappd: "https://untappd.com/b/valhalla-brewing-obsidian-black-ale/1417177"
 country: "Australia"
 brewery: "Valhalla Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 4
 beer-date: "2021-01-01"
 desc: "Some people like a little bit of lemon in their beer, this is like someone put a little bit of beer in a glass of lemon. As a beer lover, it’s not really to my taste"
 permalink: /beer/:title.html
-img: /img/list/little-bang-face-inverter.jpeguntappd: "https://untappd.com/b/little-bang-brewing-co-face-inverter/3530025"
+img: /img/list/little-bang-face-inverter.jpeg
+untappd: "https://untappd.com/b/little-bang-brewing-co-face-inverter/3530025"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
 breweryURL: "breweryURL"

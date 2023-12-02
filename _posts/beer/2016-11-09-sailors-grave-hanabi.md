@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-08-26"
 desc: "Very interesting taste. Kind of sour flavour in there and a bit fruity with a tang. I do like a unique beer"
 permalink: /beer/:title.html
-img: /img/list/sailors-grave-hanabi.jpeguntappd: "https://untappd.com/b/sailors-grave-brewing-hanabi/5232001"
+img: /img/list/sailors-grave-hanabi.jpeg
+untappd: "https://untappd.com/b/sailors-grave-brewing-hanabi/5232001"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
 breweryURL: "breweryURL"

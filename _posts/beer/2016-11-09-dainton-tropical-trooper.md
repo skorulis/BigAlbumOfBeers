@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-08-26"
 desc: "Delivers on the tropical notes. Very nice amount of pineapple"
 permalink: /beer/:title.html
-img: /img/list/dainton-tropical-trooper.jpeguntappd: "https://untappd.com/b/dainton-beer-tropical-trooper/5201971"
+img: /img/list/dainton-tropical-trooper.jpeg
+untappd: "https://untappd.com/b/dainton-beer-tropical-trooper/5201971"
 country: "Australia"
 brewery: "Dainton Beer"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-06-05"
 desc: "The lime adds a nice extra dimension to pilsner, a good session bev"
 permalink: /beer/:title.html
-img: /img/list/yullis-uncle-gus.jpeguntappd: "https://untappd.com/b/yullis-brews-uncle-gus-finger-lime-pilsner/2978336"
+img: /img/list/yullis-uncle-gus.jpeg
+untappd: "https://untappd.com/b/yullis-brews-uncle-gus-finger-lime-pilsner/2978336"
 country: "Australia"
 brewery: "Yulli's Brews"
 breweryURL: "breweryURL"

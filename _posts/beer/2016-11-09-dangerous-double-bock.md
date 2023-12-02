@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-08-26"
 desc: "Beautiful malt profile and surprisingly easy to drink"
 permalink: /beer/:title.html
-img: /img/list/dangerous-double-bock.jpeguntappd: "https://untappd.com/b/dangerous-ales-double-bock/5299828"
+img: /img/list/dangerous-double-bock.jpeg
+untappd: "https://untappd.com/b/dangerous-ales-double-bock/5299828"
 country: "Australia"
 brewery: "Dangerous Ales"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-10-17"
 desc: "Very crisp for a wheat beer"
 permalink: /beer/:title.html
-img: /img/list/weihenstephaner-kristallweissbier.jpeguntappd: "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-kristallweissbier/1637"
+img: /img/list/weihenstephaner-kristallweissbier.jpeg
+untappd: "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-kristallweissbier/1637"
 country: "Germany"
 brewery: "Bayerische Staatsbrauerei Weihenstephan"
 breweryURL: "breweryURL"

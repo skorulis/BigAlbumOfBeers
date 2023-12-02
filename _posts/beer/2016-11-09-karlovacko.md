@@ -7,7 +7,8 @@ score: 5
 beer-date: "2018-02-17"
 desc: "Standard malty lager"
 permalink: /beer/:title.html
-img: /img/list/karlovacko.jpeguntappd: "https://untappd.com/b/karlovacka-pivovara--heineken-croatia--karlovacko-pivo--svijetlo/22061"
+img: /img/list/karlovacko.jpeg
+untappd: "https://untappd.com/b/karlovacka-pivovara--heineken-croatia--karlovacko-pivo--svijetlo/22061"
 country: "Croatia"
 brewery: "Karlovačka Pivovara (Heineken Croatia)"
 breweryURL: "breweryURL"

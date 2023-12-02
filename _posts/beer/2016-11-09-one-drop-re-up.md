@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-07-31"
 desc: "Dank IPA but very mild. Easy drinking but interesting"
 permalink: /beer/:title.html
-img: /img/list/one-drop-re-up.jpeguntappd: "https://untappd.com/b/one-drop-brewing-co-re-up-ipa/3791039"
+img: /img/list/one-drop-re-up.jpeg
+untappd: "https://untappd.com/b/one-drop-brewing-co-re-up-ipa/3791039"
 country: "Australia"
 brewery: "One Drop Brewing Co"
 breweryURL: "breweryURL"

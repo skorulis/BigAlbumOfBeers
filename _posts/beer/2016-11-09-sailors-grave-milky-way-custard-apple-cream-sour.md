@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-09-26"
 desc: "Actually delivers on the random bunch of words on the can. Impressive execution"
 permalink: /beer/:title.html
-img: /img/list/sailors-grave-milky-way-custard-apple-cream-sour.jpeguntappd: "https://untappd.com/b/sailors-grave-brewing-milky-way/2071939"
+img: /img/list/sailors-grave-milky-way-custard-apple-cream-sour.jpeg
+untappd: "https://untappd.com/b/sailors-grave-brewing-milky-way/2071939"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
 breweryURL: "breweryURL"

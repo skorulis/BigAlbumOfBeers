@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2017-08-06"
 desc: "Took forever for the head to settle. Smelled a little sour but doesn’t have much in the flavour"
 permalink: /beer/:title.html
-img: /img/list/tumut-river-squealing-pig-apa.jpeguntappd: "https://untappd.com/b/tumut-river-brewing-co-squealing-pig/1652039"
+img: /img/list/tumut-river-squealing-pig-apa.jpeg
+untappd: "https://untappd.com/b/tumut-river-brewing-co-squealing-pig/1652039"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
 breweryURL: "breweryURL"

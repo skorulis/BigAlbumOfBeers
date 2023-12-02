@@ -7,7 +7,8 @@ score: 7
 beer-date: "2017-02-22"
 desc: "Sweet drinking. Probably a little bit too drunk to fully appreciate this"
 permalink: /beer/:title.html
-img: /img/list/modus-operandi-session-ipa.jpeguntappd: "https://untappd.com/b/modus-operandi-brewing-co--modus-session-ipa/1645015"
+img: /img/list/modus-operandi-session-ipa.jpeg
+untappd: "https://untappd.com/b/modus-operandi-brewing-co--modus-session-ipa/1645015"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
 breweryURL: "breweryURL"

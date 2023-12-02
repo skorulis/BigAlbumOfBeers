@@ -7,7 +7,8 @@ score: 9.5
 beer-date: "2017-06-15"
 desc: "Damn this is good. So rich with a slight nuttiness. A little smokey too"
 permalink: /beer/:title.html
-img: /img/list/sibeeria-baltic-porter.jpeguntappd: "https://untappd.com/b/sibeeria-russian-liver/2029773"
+img: /img/list/sibeeria-baltic-porter.jpeg
+untappd: "https://untappd.com/b/sibeeria-russian-liver/2029773"
 country: "Czech Republic"
 brewery: "Sibeeria"
 breweryURL: "breweryURL"

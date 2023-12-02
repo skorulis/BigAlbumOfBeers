@@ -7,7 +7,8 @@ score: 9
 beer-date: "2020-09-26"
 desc: "Velvety smooth and delicious. Really light on hops for a hazy IPA but it’s great to have something you can"
 permalink: /beer/:title.html
-img: /img/list/wayward-cashmere-cat.jpeguntappd: "https://untappd.com/b/wayward-brewing-cashmere-cat/3021988"
+img: /img/list/wayward-cashmere-cat.jpeg
+untappd: "https://untappd.com/b/wayward-brewing-cashmere-cat/3021988"
 country: "Australia"
 brewery: "Wayward Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-12-23"
 desc: "Not as easy to drink as I was hoping"
 permalink: /beer/:title.html
-img: /img/list/corsendonk.jpeguntappd: "https://untappd.com/b/brouwerij-corsendonk-corsendonk-pater-dubbel--abbey-brown-ale/1829"
+img: /img/list/corsendonk.jpeg
+untappd: "https://untappd.com/b/brouwerij-corsendonk-corsendonk-pater-dubbel--abbey-brown-ale/1829"
 country: "Belgium"
 brewery: "Brouwerij Corsendonk"
 breweryURL: "breweryURL"

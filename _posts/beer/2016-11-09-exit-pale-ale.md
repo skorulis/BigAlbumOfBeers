@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-02-28"
 desc: "Nice citrus bitterness"
 permalink: /beer/:title.html
-img: /img/list/exit-pale-ale.jpeguntappd: "https://untappd.com/b/exit-brewing-014-pale-ale/1824299"
+img: /img/list/exit-pale-ale.jpeg
+untappd: "https://untappd.com/b/exit-brewing-014-pale-ale/1824299"
 country: "Australia"
 brewery: "Exit Brewing"
 breweryURL: "breweryURL"

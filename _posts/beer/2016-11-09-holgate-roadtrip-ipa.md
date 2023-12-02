@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-03-28"
 desc: "Mild for an american IPA, easier to get used to"
 permalink: /beer/:title.html
-img: /img/list/holgate-roadtrip-ipa.jpeguntappd: "https://untappd.com/b/holgate-brewhouse-road-trip/28311"
+img: /img/list/holgate-roadtrip-ipa.jpeg
+untappd: "https://untappd.com/b/holgate-brewhouse-road-trip/28311"
 country: "Australia"
 brewery: "Holgate Brewhouse"
 breweryURL: "breweryURL"

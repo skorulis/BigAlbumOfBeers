@@ -7,7 +7,8 @@ score: 8
 beer-date: "2015-04-13"
 desc: "Nicely hopped"
 permalink: /beer/:title.html
-img: /img/list/holgate-tank-nine.jpeguntappd: "https://untappd.com/b/holgate-brewhouse-hop-tart/937001"
+img: /img/list/holgate-tank-nine.jpeg
+untappd: "https://untappd.com/b/holgate-brewhouse-hop-tart/937001"
 country: "Australia"
 brewery: "Holgate Brewhouse"
 breweryURL: "breweryURL"

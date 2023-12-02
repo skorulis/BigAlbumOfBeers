@@ -7,7 +7,8 @@ score: 6
 beer-date: "2020-11-13"
 desc: "Don’t like the watermelon but the cucumber rounds it out. It doesn’t keep me coming back, but it’s a great quencher"
 permalink: /beer/:title.html
-img: /img/list/stone-and-wood-the-gatherer.jpeguntappd: "https://untappd.com/b/stone---wood-the-gatherer/3100641"
+img: /img/list/stone-and-wood-the-gatherer.jpeg
+untappd: "https://untappd.com/b/stone---wood-the-gatherer/3100641"
 country: "Australia"
 brewery: "Stone & Wood"
 breweryURL: "breweryURL"

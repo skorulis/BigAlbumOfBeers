@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-02-27"
 desc: "Fairly mild for a wheat beer"
 permalink: /beer/:title.html
-img: /img/list/wicked-elf-witbier.jpeguntappd: "https://untappd.com/b/the-little-brewing-company-wicked-elf-witbier/13968"
+img: /img/list/wicked-elf-witbier.jpeg
+untappd: "https://untappd.com/b/the-little-brewing-company-wicked-elf-witbier/13968"
 country: "Australia"
 brewery: "The Little Brewing Company"
 breweryURL: "breweryURL"

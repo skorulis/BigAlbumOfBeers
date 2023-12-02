@@ -7,7 +7,8 @@ score: 6
 beer-date: "2012-10-13"
 desc: "Standard British pub beer"
 permalink: /beer/:title.html
-img: /img/list/carlsberg.jpeguntappd: "https://untappd.com/b/carlsberg-group-carlsberg/5991"
+img: /img/list/carlsberg.jpeg
+untappd: "https://untappd.com/b/carlsberg-group-carlsberg/5991"
 country: "Denmark"
 brewery: "Carlsberg Group"
 breweryURL: "breweryURL"

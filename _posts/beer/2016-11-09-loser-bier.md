@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2017-06-15"
 desc: "More malty than I expected. It's ok but nothing to write home about"
 permalink: /beer/:title.html
-img: /img/list/loser-bier.jpeguntappd: "https://untappd.com/b/brauerei-grieskirchen-loser-bier/1164198"
+img: /img/list/loser-bier.jpeg
+untappd: "https://untappd.com/b/brauerei-grieskirchen-loser-bier/1164198"
 country: "Austria"
 brewery: "Brauerei Grieskirchen"
 breweryURL: "breweryURL"

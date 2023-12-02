@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-01-06"
 desc: "I great IPA for people who are new to beers with flavour. Mild but really well done"
 permalink: /beer/:title.html
-img: /img/list/shenanigans-red-sky-ipa.jpeguntappd: "https://untappd.com/b/shenanigans-brewing-co--red-sky/712995"
+img: /img/list/shenanigans-red-sky-ipa.jpeg
+untappd: "https://untappd.com/b/shenanigans-brewing-co--red-sky/712995"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
 breweryURL: "breweryURL"

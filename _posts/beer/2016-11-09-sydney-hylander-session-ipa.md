@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-01-14"
 desc: "Light beer but with a little extra bit of hops. Pretty high in ABV for a session ale which I personally like"
 permalink: /beer/:title.html
-img: /img/list/sydney-hylander-session-ipa.jpeguntappd: "https://untappd.com/b/sydney-brewery-hylander-session-ipa/3437880"
+img: /img/list/sydney-hylander-session-ipa.jpeg
+untappd: "https://untappd.com/b/sydney-brewery-hylander-session-ipa/3437880"
 country: "Australia"
 brewery: "Sydney Brewery"
 breweryURL: "breweryURL"

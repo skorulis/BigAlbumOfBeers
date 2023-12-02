@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-12-28"
 desc: "Quite light for a dark beer. Reminds me of a tooheys old. Still easy drinking in the heat"
 permalink: /beer/:title.html
-img: /img/list/monty-s-schwarzbier.jpeguntappd: "https://untappd.com/b/monty-brewing-co--schwarzbier/3356367"
+img: /img/list/monty-s-schwarzbier.jpeg
+untappd: "https://untappd.com/b/monty-brewing-co--schwarzbier/3356367"
 country: "Australia"
 brewery: "Monty Brewing Co."
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 9
 beer-date: "2023-02-26"
 desc: "This is way too easy drinking for the strength. Gets better over time"
 permalink: /beer/:title.html
-img: /img/list/bracket-big-spender.jpeguntappd: "https://untappd.com/b/bracket-brewing-big-spender/5091267"
+img: /img/list/bracket-big-spender.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-big-spender/5091267"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

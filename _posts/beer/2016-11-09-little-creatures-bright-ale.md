@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-03-28"
 desc: "Terrible photo, decent beer"
 permalink: /beer/:title.html
-img: /img/list/little-creatures-bright-ale.jpeguntappd: "https://untappd.com/b/little-creatures-brewing-bright-ale/7424"
+img: /img/list/little-creatures-bright-ale.jpeg
+untappd: "https://untappd.com/b/little-creatures-brewing-bright-ale/7424"
 country: "Australia"
 brewery: "Little Creatures Brewing"
 breweryURL: "breweryURL"

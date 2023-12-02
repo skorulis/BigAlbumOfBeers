@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-02-26"
 desc: "Malty IPA. Something a little off of, maybe too long in the lines"
 permalink: /beer/:title.html
-img: /img/list/bracket-pastel-paisley.jpeguntappd: "https://untappd.com/b/bracket-brewing-pastel-paisley/5100340"
+img: /img/list/bracket-pastel-paisley.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-pastel-paisley/5100340"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

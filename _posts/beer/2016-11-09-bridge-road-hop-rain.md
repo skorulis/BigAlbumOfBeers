@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2019-03-14"
 desc: "Very dank hops. Can definitely taste the difference with the wet hop"
 permalink: /beer/:title.html
-img: /img/list/bridge-road-hop-rain.jpeguntappd: "https://untappd.com/b/bridge-road-brewers-hop-rain/2650718"
+img: /img/list/bridge-road-hop-rain.jpeg
+untappd: "https://untappd.com/b/bridge-road-brewers-hop-rain/2650718"
 country: "Australia"
 brewery: "Bridge Road Brewers"
 breweryURL: "breweryURL"

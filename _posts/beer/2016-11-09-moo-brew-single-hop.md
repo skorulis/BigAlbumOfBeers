@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-05-24"
 desc: "A little bit lacking on the hop side but well rounded. Kind of want to know what hop and malt they use"
 permalink: /beer/:title.html
-img: /img/list/moo-brew-single-hop.jpeguntappd: "https://untappd.com/b/moo-brew-single-hop-enigma/1362812"
+img: /img/list/moo-brew-single-hop.jpeg
+untappd: "https://untappd.com/b/moo-brew-single-hop-enigma/1362812"
 country: "Australia"
 brewery: "Moo Brew"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-09-26"
 desc: "It’s thick and sweet but somehow you can’t even taste the booze. Tastes like a glass of sultanas. My whole body feels warm afterwards. I’m ok with it, but I wouldn’t got back"
 permalink: /beer/:title.html
-img: /img/list/mountain-culture-eudaimonia.jpeguntappd: "https://untappd.com/b/mountain-culture-beer-co--eudaimonia/3765713"
+img: /img/list/mountain-culture-eudaimonia.jpeg
+untappd: "https://untappd.com/b/mountain-culture-beer-co--eudaimonia/3765713"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
 breweryURL: "breweryURL"

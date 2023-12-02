@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2023-02-28"
 desc: "It’s a dark lager, feels like something is missing"
 permalink: /beer/:title.html
-img: /img/list/range-dunkel.jpeguntappd: "https://untappd.com/b/range-brewing-dunkel/5055707"
+img: /img/list/range-dunkel.jpeg
+untappd: "https://untappd.com/b/range-brewing-dunkel/5055707"
 country: "Australia"
 brewery: "Range Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-06-15"
 desc: "Really weird flavour, kind of like a sour gummy worm mixed with beer"
 permalink: /beer/:title.html
-img: /img/list/cannabis-beer.jpeguntappd: "https://untappd.com/b/euphoria-cannabis-beer/325231"
+img: /img/list/cannabis-beer.jpeg
+untappd: "https://untappd.com/b/euphoria-cannabis-beer/325231"
 country: "Czech Republic"
 brewery: "Euphoria"
 breweryURL: "breweryURL"

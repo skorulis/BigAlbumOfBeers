@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2019-06-22"
 desc: "Plain pale ale. A little too bitter for my liking without much else. Tasted better while drinking around friends"
 permalink: /beer/:title.html
-img: /img/list/spotty-dog-portland-pale-ale.jpeguntappd: "https://untappd.com/b/spotty-dog-brewers-portland-pale-ale/1613962"
+img: /img/list/spotty-dog-portland-pale-ale.jpeg
+untappd: "https://untappd.com/b/spotty-dog-brewers-portland-pale-ale/1613962"
 country: "Australia"
 brewery: "Spotty Dog Brewers"
 breweryURL: "breweryURL"

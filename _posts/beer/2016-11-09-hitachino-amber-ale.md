@@ -7,7 +7,8 @@ score: 9
 beer-date: "2023-03-31"
 desc: "Lovely hit of bitterness. One of the best amber ales I’ve had. Rich and malty"
 permalink: /beer/:title.html
-img: /img/list/hitachino-amber-ale.jpeguntappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-amber-ale/38666"
+img: /img/list/hitachino-amber-ale.jpeg
+untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-amber-ale/38666"
 country: "Japan"
 brewery: "Kiuchi Brewery"
 breweryURL: "breweryURL"

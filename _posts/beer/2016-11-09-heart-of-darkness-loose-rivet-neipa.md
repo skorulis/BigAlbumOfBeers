@@ -7,7 +7,8 @@ score: 9
 beer-date: "2018-02-17"
 desc: "Full of tropical notes. Lots of pineapple. Quality juicy beer"
 permalink: /beer/:title.html
-img: /img/list/heart-of-darkness-loose-rivet-neipa.jpeguntappd: "https://untappd.com/b/heart-of-darkness-brewery-saigon-loose-rivet-ipa/2213431"
+img: /img/list/heart-of-darkness-loose-rivet-neipa.jpeg
+untappd: "https://untappd.com/b/heart-of-darkness-brewery-saigon-loose-rivet-ipa/2213431"
 country: "Vietnam"
 brewery: "Heart of Darkness Brewery Saigon"
 breweryURL: "breweryURL"

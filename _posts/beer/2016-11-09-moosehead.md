@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-07-19"
 desc: "Would take some getting used to"
 permalink: /beer/:title.html
-img: /img/list/moosehead.jpeguntappd: "https://untappd.com/b/moosehead-breweries-limited-moosehead-lager/5440"
+img: /img/list/moosehead.jpeg
+untappd: "https://untappd.com/b/moosehead-breweries-limited-moosehead-lager/5440"
 country: "Canada"
 brewery: "Moosehead Breweries Limited"
 breweryURL: "breweryURL"

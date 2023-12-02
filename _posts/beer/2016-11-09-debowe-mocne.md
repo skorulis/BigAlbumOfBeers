@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-04-27"
 desc: "A nice sweetness. Bogaty smak!"
 permalink: /beer/:title.html
-img: /img/list/debowe-mocne.jpeguntappd: "https://untappd.com/b/kompania-piwowarska-debowe-mocne/83020"
+img: /img/list/debowe-mocne.jpeg
+untappd: "https://untappd.com/b/kompania-piwowarska-debowe-mocne/83020"
 country: "Poland"
 brewery: "Kompania Piwowarska"
 breweryURL: "breweryURL"

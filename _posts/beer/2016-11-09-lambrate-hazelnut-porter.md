@@ -7,7 +7,8 @@ score: 9
 beer-date: "2017-07-12"
 desc: "Hazelnut is an amazing flavour that works without sweetness. Gives you exactly what you so for"
 permalink: /beer/:title.html
-img: /img/list/lambrate-hazelnut-porter.jpeguntappd: "https://untappd.com/b/birrificio-lambrate-hazelnut-porter/2088254"
+img: /img/list/lambrate-hazelnut-porter.jpeg
+untappd: "https://untappd.com/b/birrificio-lambrate-hazelnut-porter/2088254"
 country: "Italy"
 brewery: "Birrificio Lambrate"
 breweryURL: "breweryURL"

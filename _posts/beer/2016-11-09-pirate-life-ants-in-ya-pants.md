@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2021-04-02"
 desc: "Looks a little green, but just tastes like a pale ale. There is a little tang to it"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-ants-in-ya-pants.jpeguntappd: "https://untappd.com/b/pirate-life-brewing-ants-in-ya-pants/4174699"
+img: /img/list/pirate-life-ants-in-ya-pants.jpeg
+untappd: "https://untappd.com/b/pirate-life-brewing-ants-in-ya-pants/4174699"
 country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "breweryURL"

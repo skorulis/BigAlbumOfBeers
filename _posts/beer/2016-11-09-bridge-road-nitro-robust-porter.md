@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-04-02"
 desc: "Very thin for a dark beer, the nitro doesn’t hold very well at all. Kind of boring, goes down easy"
 permalink: /beer/:title.html
-img: /img/list/bridge-road-nitro-robust-porter.jpeguntappd: "https://untappd.com/b/bridge-road-brewers-nitro-robust-porter/3884879"
+img: /img/list/bridge-road-nitro-robust-porter.jpeg
+untappd: "https://untappd.com/b/bridge-road-brewers-nitro-robust-porter/3884879"
 country: "Australia"
 brewery: "Bridge Road Brewers"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2018-10-05"
 desc: "Starts off slightly sour but ok once you get used to that"
 permalink: /beer/:title.html
-img: /img/list/stone-delicious-ipa.jpeguntappd: "https://untappd.com/b/stone-brewing-stone-delicious-ipa/392748"
+img: /img/list/stone-delicious-ipa.jpeg
+untappd: "https://untappd.com/b/stone-brewing-stone-delicious-ipa/392748"
 country: "United States"
 brewery: "Stone Brewing"
 breweryURL: "breweryURL"

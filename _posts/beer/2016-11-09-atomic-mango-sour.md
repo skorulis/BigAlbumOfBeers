@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-02-26"
 desc: "Tastes more like orange than mango. Not much like a beer but pretty tasty. Good for a summers day"
 permalink: /beer/:title.html
-img: /img/list/atomic-mango-sour.jpeguntappd: "https://untappd.com/b/atomic-mando-sour/4548648"
+img: /img/list/atomic-mango-sour.jpeg
+untappd: "https://untappd.com/b/atomic-mando-sour/4548648"
 country: "Australia"
 brewery: "Atomic"
 breweryURL: "breweryURL"

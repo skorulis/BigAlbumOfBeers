@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-11-13"
 desc: "So much sweetness makes it seem like it’s so much stronger. Gets more agreeable towards the end"
 permalink: /beer/:title.html
-img: /img/list/one-drop-rum-barrel-aged-nitro-stout.jpeguntappd: "https://untappd.com/b/one-drop-brewing-co-rum-barrel-aged-nitro-ale/3991304"
+img: /img/list/one-drop-rum-barrel-aged-nitro-stout.jpeg
+untappd: "https://untappd.com/b/one-drop-brewing-co-rum-barrel-aged-nitro-ale/3991304"
 country: "Australia"
 brewery: "One Drop Brewing Co"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-01-13"
 desc: "A little bit off"
 permalink: /beer/:title.html
-img: /img/list/gallway-hooker.jpeguntappd: "https://untappd.com/b/galway-hooker-brewery-galway-hooker-irish-pale-ale/34640"
+img: /img/list/gallway-hooker.jpeg
+untappd: "https://untappd.com/b/galway-hooker-brewery-galway-hooker-irish-pale-ale/34640"
 country: "Ireland"
 brewery: "Galway Hooker Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-06-05"
 desc: "Middle of the road IPA. Kind of like a pale ale with a little extra hops"
 permalink: /beer/:title.html
-img: /img/list/sydney-brewery-east-coast-ipa.jpeguntappd: "https://untappd.com/b/sydney-brewery-east-coast-ipa/2547690"
+img: /img/list/sydney-brewery-east-coast-ipa.jpeg
+untappd: "https://untappd.com/b/sydney-brewery-east-coast-ipa/2547690"
 country: "Australia"
 brewery: "Sydney Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-10-02"
 desc: "Classic west coast IPA. Not too high on  the IBU but some dank comes through. A very happy beer"
 permalink: /beer/:title.html
-img: /img/list/ueberquell-supadupa-ipa.jpeguntappd: "https://untappd.com/b/uberquell-supadupa-ipa/2215280"
+img: /img/list/ueberquell-supadupa-ipa.jpeg
+untappd: "https://untappd.com/b/uberquell-supadupa-ipa/2215280"
 country: "Germany"
 brewery: "ÜberQuell"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2016-03-16"
 desc: "Supposed to be hoppy but it’s just bitter. Feels like it’s missing something"
 permalink: /beer/:title.html
-img: /img/list/queen-s-ale-blonde-type.jpeguntappd: "https://untappd.com/b/hitejinro-queens-ale-blonde-type/457448"
+img: /img/list/queen-s-ale-blonde-type.jpeg
+untappd: "https://untappd.com/b/hitejinro-queens-ale-blonde-type/457448"
 country: "South Korea"
 brewery: "HiteJinro"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2018-01-13"
 desc: "Lovely golden colour. Seems a little bit sour. Not as good as I expected for the price"
 permalink: /beer/:title.html
-img: /img/list/brewski-conan-dipa.jpeguntappd: "https://untappd.com/b/brewski-conan-dipa/1757121"
+img: /img/list/brewski-conan-dipa.jpeg
+untappd: "https://untappd.com/b/brewski-conan-dipa/1757121"
 country: "Sweden"
 brewery: "Brewski"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Nice to see a grapefruit beer that takes the flavour of grapefruit more than the harsh bitterness"
 permalink: /beer/:title.html
-img: /img/list/ekim-grapefruit-ipa.jpeguntappd: "https://untappd.com/b/ekim-brewing-co--grapefruit-ipa/1324150"
+img: /img/list/ekim-grapefruit-ipa.jpeg
+untappd: "https://untappd.com/b/ekim-brewing-co--grapefruit-ipa/1324150"
 country: "Australia"
 brewery: "Ekim Brewing Co."
 breweryURL: "breweryURL"

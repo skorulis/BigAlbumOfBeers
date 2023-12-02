@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-10-02"
 desc: "Missing something but it’s an ok IPA"
 permalink: /beer/:title.html
-img: /img/list/nya-carnegie-jack-ipa.jpeguntappd: "https://untappd.com/b/nya-carnegiebryggeriet--j-a-c-k-/628711"
+img: /img/list/nya-carnegie-jack-ipa.jpeg
+untappd: "https://untappd.com/b/nya-carnegiebryggeriet--j-a-c-k-/628711"
 country: "Sweden"
 brewery: "Nya Carnegiebryggeriet "
 breweryURL: "breweryURL"

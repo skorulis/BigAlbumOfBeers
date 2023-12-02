@@ -7,7 +7,8 @@ score: 7
 beer-date: "2018-11-05"
 desc: "Starts off bitter but rounds out with some really deep dank hops"
 permalink: /beer/:title.html
-img: /img/list/murray-thunderbolt.jpeguntappd: "https://untappd.com/b/murrays-brewing-co-thunderbolt/1302332"
+img: /img/list/murray-thunderbolt.jpeg
+untappd: "https://untappd.com/b/murrays-brewing-co-thunderbolt/1302332"
 country: "Australia"
 brewery: "Murray's Brewing Co"
 breweryURL: "breweryURL"

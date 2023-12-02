@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-05-01"
 desc: "Mmm, pale ale"
 permalink: /beer/:title.html
-img: /img/list/balmain-pale-ale.jpeguntappd: "https://untappd.com/b/balmain-brewing-company-pale-ale/10793"
+img: /img/list/balmain-pale-ale.jpeg
+untappd: "https://untappd.com/b/balmain-brewing-company-pale-ale/10793"
 country: "Australia"
 brewery: "Balmain Brewing Company"
 breweryURL: "breweryURL"

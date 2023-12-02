@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-07-19"
 desc: "Flowery"
 permalink: /beer/:title.html
-img: /img/list/curious-original-pale-ale.jpeguntappd: "https://untappd.com/b/magic-rock-brewing-ringmaster/499796"
+img: /img/list/curious-original-pale-ale.jpeg
+untappd: "https://untappd.com/b/magic-rock-brewing-ringmaster/499796"
 country: "England"
 brewery: "Magic Rock Brewing"
 breweryURL: "breweryURL"

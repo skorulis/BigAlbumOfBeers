@@ -7,7 +7,8 @@ score: 5
 beer-date: "2018-02-17"
 desc: "Malty, needs  work"
 permalink: /beer/:title.html
-img: /img/list/taiwan-beer.jpeguntappd: "https://untappd.com/b/taiwan-tobacco---liquor-corporation-gold-medal-taiwan-beer/13650"
+img: /img/list/taiwan-beer.jpeg
+untappd: "https://untappd.com/b/taiwan-tobacco---liquor-corporation-gold-medal-taiwan-beer/13650"
 country: "Taiwan"
 brewery: "Taiwan Tobacco & Liquor Corporation"
 breweryURL: "breweryURL"

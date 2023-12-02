@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-04-27"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/curious-brew.jpeguntappd: "https://untappd.com/b/curious-drinks--chapel-down--curious-brew-lager/204447"
+img: /img/list/curious-brew.jpeg
+untappd: "https://untappd.com/b/curious-drinks--chapel-down--curious-brew-lager/204447"
 country: "England"
 brewery: "Curious Drinks (Chapel Down)"
 breweryURL: "breweryURL"

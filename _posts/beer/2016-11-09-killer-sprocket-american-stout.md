@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2020-12-25"
 desc: "Fairly standard stout"
 permalink: /beer/:title.html
-img: /img/list/killer-sprocket-american-stout.jpeguntappd: "https://untappd.com/b/killer-sprocket-american-stout/3867691"
+img: /img/list/killer-sprocket-american-stout.jpeg
+untappd: "https://untappd.com/b/killer-sprocket-american-stout/3867691"
 country: "Australia"
 brewery: "Killer Sprocket"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2017-08-21"
 desc: "Very little aroma but a nice bit of hops on the tongue. The bitterness overwhelms the earthy and floral hops a little bit but not too much. Would be happy with another"
 permalink: /beer/:title.html
-img: /img/list/southern-tier-2xsmash.jpeguntappd: "https://untappd.com/b/southern-tier-brewing-company-2xsmash/1331388"
+img: /img/list/southern-tier-2xsmash.jpeg
+untappd: "https://untappd.com/b/southern-tier-brewing-company-2xsmash/1331388"
 country: "United States"
 brewery: "Southern Tier Brewing Company"
 breweryURL: "breweryURL"

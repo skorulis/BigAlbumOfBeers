@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-11-13"
 desc: "Pretty much all malt with only a tinge of hops"
 permalink: /beer/:title.html
-img: /img/list/devils-hollow-nosey-bob.jpeguntappd: "https://untappd.com/b/devils-hollow-brewery-nosey-bob-red-ale/3332811"
+img: /img/list/devils-hollow-nosey-bob.jpeg
+untappd: "https://untappd.com/b/devils-hollow-brewery-nosey-bob-red-ale/3332811"
 country: "Australia"
 brewery: "Devil's Hollow Brewery"
 breweryURL: "breweryURL"

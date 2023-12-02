@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-10-02"
 desc: "Very heavy. A lot of malt gives some sweetness"
 permalink: /beer/:title.html
-img: /img/list/macks-tradisjonell-julebock.jpeguntappd: "https://untappd.com/b/macks-olbryggeri-julebokk/2899207"
+img: /img/list/macks-tradisjonell-julebock.jpeg
+untappd: "https://untappd.com/b/macks-olbryggeri-julebokk/2899207"
 country: "Norway"
 brewery: "Macks Ølbryggeri"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2023-03-31"
 desc: "Pretty basic lager but done well. A little bit of honey sweetness at the back"
 permalink: /beer/:title.html
-img: /img/list/loophole-draught.jpeguntappd: "https://untappd.com/b/loophole-brewing-co-draught/4017287"
+img: /img/list/loophole-draught.jpeg
+untappd: "https://untappd.com/b/loophole-brewing-co-draught/4017287"
 country: "Australia"
 brewery: "Loophole Brewing Co"
 breweryURL: "breweryURL"

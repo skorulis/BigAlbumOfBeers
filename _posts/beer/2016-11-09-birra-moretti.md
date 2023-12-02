@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-08-18"
 desc: "Nice and tasty"
 permalink: /beer/:title.html
-img: /img/list/birra-moretti.jpeguntappd: "https://untappd.com/b/birra-moretti-birra-moretti/6347"
+img: /img/list/birra-moretti.jpeg
+untappd: "https://untappd.com/b/birra-moretti-birra-moretti/6347"
 country: "Italy"
 brewery: "Birra Moretti"
 breweryURL: "breweryURL"

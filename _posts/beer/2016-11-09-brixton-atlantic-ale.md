@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2023-09-06"
 desc: "Well rounded pale ale. Not much hop aroma"
 permalink: /beer/:title.html
-img: /img/list/brixton-atlantic-ale.jpeguntappd: "https://untappd.com/b/brixton-brewery-atlantic-american-pale-ale/631795"
+img: /img/list/brixton-atlantic-ale.jpeg
+untappd: "https://untappd.com/b/brixton-brewery-atlantic-american-pale-ale/631795"
 country: "England"
 brewery: "Brixton Brewery"
 breweryURL: "breweryURL"

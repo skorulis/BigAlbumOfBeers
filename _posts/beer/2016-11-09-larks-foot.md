@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-03-28"
 desc: "Pretty average"
 permalink: /beer/:title.html
-img: /img/list/larks-foot.jpeguntappd: "https://untappd.com/b/sail---anchor-larks-foot-golden-ale/246279"
+img: /img/list/larks-foot.jpeg
+untappd: "https://untappd.com/b/sail---anchor-larks-foot-golden-ale/246279"
 country: "Australia"
 brewery: "Sail & Anchor"
 breweryURL: "breweryURL"

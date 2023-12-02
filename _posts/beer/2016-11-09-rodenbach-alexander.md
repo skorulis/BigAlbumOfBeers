@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2021-01-14"
 desc: "Tastes a lot of sour cherries but mixed in with beer. Very different but I like it"
 permalink: /beer/:title.html
-img: /img/list/rodenbach-alexander.jpeguntappd: "https://untappd.com/b/brouwerij-rodenbach-alexander/2324"
+img: /img/list/rodenbach-alexander.jpeg
+untappd: "https://untappd.com/b/brouwerij-rodenbach-alexander/2324"
 country: "Belgium"
 brewery: "Brouwerij Rodenbach"
 breweryURL: "breweryURL"

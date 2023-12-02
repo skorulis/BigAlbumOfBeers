@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-03-09"
 desc: "Smooth and flavoursome"
 permalink: /beer/:title.html
-img: /img/list/kozel-dark.jpeguntappd: "https://untappd.com/b/pivovar-velke-popovice-kozel-cerny--dark/70150"
+img: /img/list/kozel-dark.jpeg
+untappd: "https://untappd.com/b/pivovar-velke-popovice-kozel-cerny--dark/70150"
 country: "Czech Republic"
 brewery: "Pivovar Velké Popovice"
 breweryURL: "breweryURL"

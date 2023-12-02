@@ -7,7 +7,8 @@ score: 8
 beer-date: "2021-01-31"
 desc: "Nice thick stout. Pretty much the perfect example of what a standard stout should be"
 permalink: /beer/:title.html
-img: /img/list/mountain-culture-moon-dust-stout.jpeguntappd: "https://untappd.com/b/mountain-culture-beer-co--moon-dust/3477131"
+img: /img/list/mountain-culture-moon-dust-stout.jpeg
+untappd: "https://untappd.com/b/mountain-culture-beer-co--moon-dust/3477131"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
 breweryURL: "breweryURL"

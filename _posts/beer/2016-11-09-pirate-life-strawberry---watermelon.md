@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "The faint hit of strawberries overrides the watermelon"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-strawberry---watermelon.jpeguntappd: "https://untappd.com/b/pirate-life-brewing-strawberry---watermelon-crush/4777926"
+img: /img/list/pirate-life-strawberry---watermelon.jpeg
+untappd: "https://untappd.com/b/pirate-life-brewing-strawberry---watermelon-crush/4777926"
 country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "breweryURL"

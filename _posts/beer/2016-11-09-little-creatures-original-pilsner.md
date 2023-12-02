@@ -7,7 +7,8 @@ score: 5
 beer-date: "2014-03-01"
 desc: "Doesn't have the flavour of their other brews"
 permalink: /beer/:title.html
-img: /img/list/little-creatures-original-pilsner.jpeguntappd: "https://untappd.com/b/little-creatures-brewing-original-pilsner/19295"
+img: /img/list/little-creatures-original-pilsner.jpeg
+untappd: "https://untappd.com/b/little-creatures-brewing-original-pilsner/19295"
 country: "Australia"
 brewery: "Little Creatures Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-05-24"
 desc: "Only slightly sour and it all comes together well. It's not a style that I'm used to but I do enjoy it"
 permalink: /beer/:title.html
-img: /img/list/derwent-aromatic-spelt-ale.jpeguntappd: "https://untappd.com/b/two-metre-tall-derwent-aromatic-spelt-ale/171657"
+img: /img/list/derwent-aromatic-spelt-ale.jpeg
+untappd: "https://untappd.com/b/two-metre-tall-derwent-aromatic-spelt-ale/171657"
 country: "Australia"
 brewery: "Two Metre Tall"
 breweryURL: "breweryURL"

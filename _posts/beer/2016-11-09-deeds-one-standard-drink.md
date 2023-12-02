@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "It’s pretty good for a weak beer, but plenty of tastier beers out there"
 permalink: /beer/:title.html
-img: /img/list/deeds-one-standard-drink.jpeguntappd: "https://untappd.com/b/deeds-brewing-one-standard-drink/4131530"
+img: /img/list/deeds-one-standard-drink.jpeg
+untappd: "https://untappd.com/b/deeds-brewing-one-standard-drink/4131530"
 country: "Australia"
 brewery: "Deeds Brewing"
 breweryURL: "breweryURL"

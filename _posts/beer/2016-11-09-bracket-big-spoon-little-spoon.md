@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2023-02-26"
 desc: "Beautiful colouring. Rich deep malt"
 permalink: /beer/:title.html
-img: /img/list/bracket-big-spoon-little-spoon.jpeguntappd: "https://untappd.com/b/bracket-brewing-big-spoon-little-spoon/5139825"
+img: /img/list/bracket-big-spoon-little-spoon.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-big-spoon-little-spoon/5139825"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

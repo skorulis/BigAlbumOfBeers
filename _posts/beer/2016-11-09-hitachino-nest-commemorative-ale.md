@@ -7,7 +7,8 @@ score: 9
 beer-date: "2013-08-15"
 desc: "The perfect beer for new years. Or any other time"
 permalink: /beer/:title.html
-img: /img/list/hitachino-nest-commemorative-ale.jpeguntappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-new-year-commemorative-ale--2015-/910657"
+img: /img/list/hitachino-nest-commemorative-ale.jpeg
+untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-new-year-commemorative-ale--2015-/910657"
 country: "Japan"
 brewery: "Kiuchi Brewery"
 breweryURL: "breweryURL"

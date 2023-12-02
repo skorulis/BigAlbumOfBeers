@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-03-31"
 desc: "Very juicy IPA without any harshness. Great core beer"
 permalink: /beer/:title.html
-img: /img/list/bodriggy-cosmic.jpeguntappd: "https://untappd.com/b/bodriggy-brewing-co--cosmic-microwave-/2638728"
+img: /img/list/bodriggy-cosmic.jpeg
+untappd: "https://untappd.com/b/bodriggy-brewing-co--cosmic-microwave-/2638728"
 country: "Australia"
 brewery: "Bodriggy Brewing Co."
 breweryURL: "breweryURL"

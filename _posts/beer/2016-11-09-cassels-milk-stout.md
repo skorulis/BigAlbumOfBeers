@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-09-21"
 desc: "Nice and creamy with the nitro"
 permalink: /beer/:title.html
-img: /img/list/cassels-milk-stout.jpeguntappd: "https://untappd.com/b/cassels-brewing-co--milk-stout/70099"
+img: /img/list/cassels-milk-stout.jpeg
+untappd: "https://untappd.com/b/cassels-brewing-co--milk-stout/70099"
 country: "New Zealand"
 brewery: "Cassels Brewing Co."
 breweryURL: "breweryURL"

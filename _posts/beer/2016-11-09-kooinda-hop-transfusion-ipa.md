@@ -7,7 +7,8 @@ score: 9
 beer-date: "2015-07-10"
 desc: "A very well balanced and floral IPA"
 permalink: /beer/:title.html
-img: /img/list/kooinda-hop-transfusion-ipa.jpeguntappd: "https://untappd.com/b/kooinda-brewing-company-hop-transfusion-ipa/264237"
+img: /img/list/kooinda-hop-transfusion-ipa.jpeg
+untappd: "https://untappd.com/b/kooinda-brewing-company-hop-transfusion-ipa/264237"
 country: "Australia"
 brewery: "Kooinda Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-12-25"
 desc: "Middle of the road IPA"
 permalink: /beer/:title.html
-img: /img/list/ballistic-ipa.jpeguntappd: "https://untappd.com/b/ballistic-beer-revelation-ipa/3063293"
+img: /img/list/ballistic-ipa.jpeg
+untappd: "https://untappd.com/b/ballistic-beer-revelation-ipa/3063293"
 country: "Australia"
 brewery: "Ballistic Beer"
 breweryURL: "breweryURL"

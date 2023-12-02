@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2018-02-17"
 desc: "Rich dark ale but not too strong in the coffee flavours. Really great if you wanted to get into dark beers"
 permalink: /beer/:title.html
-img: /img/list/rooster-dark-ale.jpeguntappd: "https://untappd.com/b/rooster-beers--rooster-dark/2365137"
+img: /img/list/rooster-dark-ale.jpeg
+untappd: "https://untappd.com/b/rooster-beers--rooster-dark/2365137"
 country: "Vietnam"
 brewery: "Rooster Beers "
 breweryURL: "breweryURL"

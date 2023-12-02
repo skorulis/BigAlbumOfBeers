@@ -7,7 +7,8 @@ score: 6
 beer-date: "2022-08-07"
 desc: "Crisp clean lager with just a little bit of fruity flavour"
 permalink: /beer/:title.html
-img: /img/list/brick-lane-backyarder.jpeguntappd: "https://untappd.com/b/brick-lane-brewing-co--backyarder/4088102"
+img: /img/list/brick-lane-backyarder.jpeg
+untappd: "https://untappd.com/b/brick-lane-brewing-co--backyarder/4088102"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
 breweryURL: "breweryURL"

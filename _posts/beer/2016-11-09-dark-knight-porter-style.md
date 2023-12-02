@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-05-24"
 desc: "Mild and sweet. Nice easy drinking porter"
 permalink: /beer/:title.html
-img: /img/list/dark-knight-porter-style.jpeguntappd: "https://untappd.com/b/murrays-craft-brewing-co-dark-knight/13293"
+img: /img/list/dark-knight-porter-style.jpeg
+untappd: "https://untappd.com/b/murrays-craft-brewing-co-dark-knight/13293"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "breweryURL"

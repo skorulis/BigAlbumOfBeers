@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2017-06-15"
 desc: "Very light lager"
 permalink: /beer/:title.html
-img: /img/list/ottakringer.jpeguntappd: "https://untappd.com/b/ottakringer-brauerei-ottakringer-helles/5543"
+img: /img/list/ottakringer.jpeg
+untappd: "https://untappd.com/b/ottakringer-brauerei-ottakringer-helles/5543"
 country: "Austria"
 brewery: "Ottakringer Brauerei"
 breweryURL: "breweryURL"

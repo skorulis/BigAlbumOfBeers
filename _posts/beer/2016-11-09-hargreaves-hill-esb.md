@@ -7,7 +7,8 @@ score: 8
 beer-date: "2018-12-27"
 desc: "I’m not usually a fan of ESB but this one’s pretty good. Reminds me of London ales but much smoother and not like someone put a cigarette in your beer. A little nutty with enough malt to smooth it out"
 permalink: /beer/:title.html
-img: /img/list/hargreaves-hill-esb.jpeguntappd: "https://untappd.com/b/hargreaves-hill-esb/16586"
+img: /img/list/hargreaves-hill-esb.jpeg
+untappd: "https://untappd.com/b/hargreaves-hill-esb/16586"
 country: "Australia"
 brewery: "Hargreaves Hill"
 breweryURL: "breweryURL"

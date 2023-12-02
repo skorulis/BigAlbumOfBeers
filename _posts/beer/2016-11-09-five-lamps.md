@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-01-13"
 desc: "Bad to start, bad to finish"
 permalink: /beer/:title.html
-img: /img/list/five-lamps.jpeguntappd: "https://untappd.com/b/the-5-lamps-dublin-brewery-five-lamps-dublin-lager/305906"
+img: /img/list/five-lamps.jpeg
+untappd: "https://untappd.com/b/the-5-lamps-dublin-brewery-five-lamps-dublin-lager/305906"
 country: "Ireland"
 brewery: "The 5 Lamps Dublin Brewery"
 breweryURL: "breweryURL"

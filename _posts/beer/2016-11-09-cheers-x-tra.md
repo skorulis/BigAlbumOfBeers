@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-10-17"
 desc: "A slightly stronger and nicer version of the regular cheers"
 permalink: /beer/:title.html
-img: /img/list/cheers-x-tra.jpeguntappd: "https://untappd.com/b/thai-asia-pacific-brewery-cheers-x-tra/17453"
+img: /img/list/cheers-x-tra.jpeg
+untappd: "https://untappd.com/b/thai-asia-pacific-brewery-cheers-x-tra/17453"
 country: "Thailand"
 brewery: "Thai Asia Pacific Brewery"
 breweryURL: "breweryURL"

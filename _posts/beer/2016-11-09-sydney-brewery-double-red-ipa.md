@@ -7,7 +7,8 @@ score: 6
 beer-date: "2021-06-05"
 desc: "Kind of mixed up with flavours"
 permalink: /beer/:title.html
-img: /img/list/sydney-brewery-double-red-ipa.jpeguntappd: "https://untappd.com/b/sydney-brewery-red-double-ipa/4221995"
+img: /img/list/sydney-brewery-double-red-ipa.jpeg
+untappd: "https://untappd.com/b/sydney-brewery-red-double-ipa/4221995"
 country: "Australia"
 brewery: "Sydney Brewery"
 breweryURL: "breweryURL"

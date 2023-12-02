@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-10-17"
 desc: "Nothing special but nothing wrong with it"
 permalink: /beer/:title.html
-img: /img/list/fred-murrays-ipa.jpeguntappd: "https://untappd.com/b/murrays-craft-brewing-co-fred/756444"
+img: /img/list/fred-murrays-ipa.jpeg
+untappd: "https://untappd.com/b/murrays-craft-brewing-co-fred/756444"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 3
 beer-date: "2013-08-18"
 desc: "Another sock flavoured beer"
 permalink: /beer/:title.html
-img: /img/list/sambrooks-pale-ale.jpeguntappd: "https://untappd.com/b/sambrooks-brewery-london-pale-ale/770933"
+img: /img/list/sambrooks-pale-ale.jpeg
+untappd: "https://untappd.com/b/sambrooks-brewery-london-pale-ale/770933"
 country: "England"
 brewery: "Sambrook's Brewery"
 breweryURL: "breweryURL"

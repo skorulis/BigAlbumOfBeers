@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-02-27"
 desc: "A classic. Need to find this on tap somewhere"
 permalink: /beer/:title.html
-img: /img/list/samuel-adams-boston-lager.jpeguntappd: "https://untappd.com/b/boston-beer-company-samuel-adams-boston-lager/3914"
+img: /img/list/samuel-adams-boston-lager.jpeg
+untappd: "https://untappd.com/b/boston-beer-company-samuel-adams-boston-lager/3914"
 country: "United States"
 brewery: "Boston Beer Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-06-05"
 desc: "A little bit of pineapple notes"
 permalink: /beer/:title.html
-img: /img/list/garage-project-bug-powder-dust.jpeguntappd: "https://untappd.com/b/garage-project-bug-powder-dust/2539290"
+img: /img/list/garage-project-bug-powder-dust.jpeg
+untappd: "https://untappd.com/b/garage-project-bug-powder-dust/2539290"
 country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "breweryURL"

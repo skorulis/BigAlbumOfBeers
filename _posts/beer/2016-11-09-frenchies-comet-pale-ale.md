@@ -7,7 +7,8 @@ score: 7
 beer-date: "2018-10-05"
 desc: "Very mild in a nice way. Worth a try"
 permalink: /beer/:title.html
-img: /img/list/frenchies-comet-pale-ale.jpeguntappd: "https://untappd.com/b/frenchies-comet-pale-ale/2733560"
+img: /img/list/frenchies-comet-pale-ale.jpeg
+untappd: "https://untappd.com/b/frenchies-comet-pale-ale/2733560"
 country: "Australia"
 brewery: "Frenchies"
 breweryURL: "breweryURL"

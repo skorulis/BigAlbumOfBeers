@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-01-16"
 desc: "Very mild, but with a little kick of malty flavour. Smooth and works well no matter what temperature"
 permalink: /beer/:title.html
-img: /img/list/kangaroo-island-amber-ale.jpeguntappd: "https://untappd.com/b/kangaroo-island-brewery-amber-ale/1546173"
+img: /img/list/kangaroo-island-amber-ale.jpeg
+untappd: "https://untappd.com/b/kangaroo-island-brewery-amber-ale/1546173"
 country: "Australia"
 brewery: "Kangaroo Island Brewery"
 breweryURL: "breweryURL"

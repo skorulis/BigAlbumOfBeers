@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-08-07"
 desc: "Sweet heavy stout"
 permalink: /beer/:title.html
-img: /img/list/mixtape-rise-of-an-empire.jpeguntappd: "https://untappd.com/b/mixtape-brewing-rise-of-an-empire/4825647"
+img: /img/list/mixtape-rise-of-an-empire.jpeg
+untappd: "https://untappd.com/b/mixtape-brewing-rise-of-an-empire/4825647"
 country: "Australia"
 brewery: "Mixtape Brewing"
 breweryURL: "breweryURL"

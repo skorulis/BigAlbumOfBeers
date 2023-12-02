@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-06-16"
 desc: "Fruity like a soft drink but still bitter like a beer. Smells a little bit like past. Different and refreshing"
 permalink: /beer/:title.html
-img: /img/list/magic-rock-high-wire-grapefruit.jpeguntappd: "https://untappd.com/b/magic-rock-brewing-high-wire-grapefruit/1127731"
+img: /img/list/magic-rock-high-wire-grapefruit.jpeg
+untappd: "https://untappd.com/b/magic-rock-brewing-high-wire-grapefruit/1127731"
 country: "England"
 brewery: "Magic Rock Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2018-11-05"
 desc: "Fairly middle of the range stout. Nice thickness but no overwhelming flavours. A good slow or winter beverage"
 permalink: /beer/:title.html
-img: /img/list/mountain-goat-north-street-stout.jpeguntappd: "https://untappd.com/b/mountain-goat-beer-north-street-stout/2621515"
+img: /img/list/mountain-goat-north-street-stout.jpeg
+untappd: "https://untappd.com/b/mountain-goat-beer-north-street-stout/2621515"
 country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Nice bitterness and maltiness. More on the red side than that IPA but I do like a red beer"
 permalink: /beer/:title.html
-img: /img/list/black-hops-afterburner.jpeguntappd: "https://untappd.com/b/black-hops-brewing-afterburner-red-ipa/4576962"
+img: /img/list/black-hops-afterburner.jpeg
+untappd: "https://untappd.com/b/black-hops-brewing-afterburner-red-ipa/4576962"
 country: "Australia"
 brewery: "Black Hops Brewing"
 breweryURL: "breweryURL"

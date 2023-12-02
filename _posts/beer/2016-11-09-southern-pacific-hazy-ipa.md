@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2023-02-26"
 desc: "Very good hazy, really can’t tell if there is alcohol"
 permalink: /beer/:title.html
-img: /img/list/southern-pacific-hazy-ipa.jpeguntappd: "https://untappd.com/b/southern-pacific-brewing-hazy-ipa/4755833"
+img: /img/list/southern-pacific-hazy-ipa.jpeg
+untappd: "https://untappd.com/b/southern-pacific-brewing-hazy-ipa/4755833"
 country: "United States"
 brewery: "Southern Pacific Brewing"
 breweryURL: "breweryURL"

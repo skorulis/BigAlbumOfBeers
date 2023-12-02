@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Surprisingly good"
 permalink: /beer/:title.html
-img: /img/list/bojak-time-to-shine.jpeguntappd: "https://untappd.com/b/bojak-brewing-time-to-shine/4309859"
+img: /img/list/bojak-time-to-shine.jpeg
+untappd: "https://untappd.com/b/bojak-brewing-time-to-shine/4309859"
 country: "Australia"
 brewery: "Bojak Brewing"
 breweryURL: "breweryURL"

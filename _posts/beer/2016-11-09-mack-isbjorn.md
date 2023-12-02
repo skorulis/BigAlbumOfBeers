@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2023-10-02"
 desc: "A dry lager"
 permalink: /beer/:title.html
-img: /img/list/mack-isbjorn.jpeguntappd: "https://untappd.com/b/macks-olbryggeri-isbjorn/601253"
+img: /img/list/mack-isbjorn.jpeg
+untappd: "https://untappd.com/b/macks-olbryggeri-isbjorn/601253"
 country: "Norway"
 brewery: "Macks Ølbryggeri"
 breweryURL: "breweryURL"

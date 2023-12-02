@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2022-09-21"
 desc: "Nice and fruity"
 permalink: /beer/:title.html
-img: /img/list/liberty-jungle-juice-hazy-ipa.jpeguntappd: "https://untappd.com/b/liberty-brewing-jungle-juice/2756899"
+img: /img/list/liberty-jungle-juice-hazy-ipa.jpeg
+untappd: "https://untappd.com/b/liberty-brewing-jungle-juice/2756899"
 country: "New Zealand"
 brewery: "Liberty Brewing"
 breweryURL: "breweryURL"

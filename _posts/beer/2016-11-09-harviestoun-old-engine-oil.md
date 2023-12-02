@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2019-06-22"
 desc: "It’s a very rich beverage, but there’s a little toughness that spoils the smoothness"
 permalink: /beer/:title.html
-img: /img/list/harviestoun-old-engine-oil.jpeguntappd: "https://untappd.com/b/harviestoun-brewery-old-engine-oil/449"
+img: /img/list/harviestoun-old-engine-oil.jpeg
+untappd: "https://untappd.com/b/harviestoun-brewery-old-engine-oil/449"
 country: "Scotland"
 brewery: "Harviestoun Brewery"
 breweryURL: "breweryURL"

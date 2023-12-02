@@ -7,7 +7,8 @@ score: 9.5
 beer-date: "2022-08-07"
 desc: "Amazing depth of citrus flavours. Delicious  and fruity and easy drinking. Very dangerous and beautiful"
 permalink: /beer/:title.html
-img: /img/list/banks-what-is-this-wizardry.jpeguntappd: "https://untappd.com/b/banks-brewing-what-is-this-wizardry/4587860"
+img: /img/list/banks-what-is-this-wizardry.jpeg
+untappd: "https://untappd.com/b/banks-brewing-what-is-this-wizardry/4587860"
 country: "Australia"
 brewery: "Banks Brewing"
 breweryURL: "breweryURL"

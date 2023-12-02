@@ -7,7 +7,8 @@ score: 8
 beer-date: "2014-02-23"
 desc: "Stronger and nicer than the standard"
 permalink: /beer/:title.html
-img: /img/list/leffe-triple.jpeguntappd: "https://untappd.com/b/abbaye-de-leffe-leffe-triple--tripel/5943"
+img: /img/list/leffe-triple.jpeg
+untappd: "https://untappd.com/b/abbaye-de-leffe-leffe-triple--tripel/5943"
 country: "Belgium"
 brewery: "Abbaye de Leffe"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-05-25"
 desc: "Quality IPA"
 permalink: /beer/:title.html
-img: /img/list/brewdog-punk-ipa.jpeguntappd: "https://untappd.com/b/brewdog-punk-ipa/5702"
+img: /img/list/brewdog-punk-ipa.jpeg
+untappd: "https://untappd.com/b/brewdog-punk-ipa/5702"
 country: "Scotland"
 brewery: "BrewDog"
 breweryURL: "breweryURL"

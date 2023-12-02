@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-12-25"
 desc: "Nice sweet, slightly nutty brown ale"
 permalink: /beer/:title.html
-img: /img/list/revel-american-brown-ale.jpeguntappd: "https://untappd.com/b/revel-brewing-co-browntown-american-brown-ale/3279233"
+img: /img/list/revel-american-brown-ale.jpeg
+untappd: "https://untappd.com/b/revel-brewing-co-browntown-american-brown-ale/3279233"
 country: "Australia"
 brewery: "Revel Brewing Co"
 breweryURL: "breweryURL"

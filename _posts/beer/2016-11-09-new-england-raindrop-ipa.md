@@ -7,7 +7,8 @@ score: 8
 beer-date: "2021-04-02"
 desc: "Nice mild IPA, seemed really great to start but then kind of died off"
 permalink: /beer/:title.html
-img: /img/list/new-england-raindrop-ipa.jpeguntappd: "https://untappd.com/b/new-england-brewing-co--raindrop-ipa-w-local-honey/4169717"
+img: /img/list/new-england-raindrop-ipa.jpeg
+untappd: "https://untappd.com/b/new-england-brewing-co--raindrop-ipa-w-local-honey/4169717"
 country: "Australia"
 brewery: "New England Brewing Co."
 breweryURL: "breweryURL"

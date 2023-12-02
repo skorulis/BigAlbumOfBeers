@@ -7,7 +7,8 @@ score: 3
 beer-date: "2012-11-13"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/jack-black.jpeguntappd: "https://untappd.com/b/brains-jack-black/184233"
+img: /img/list/jack-black.jpeg
+untappd: "https://untappd.com/b/brains-jack-black/184233"
 country: "Wales"
 brewery: "Brains"
 breweryURL: "breweryURL"

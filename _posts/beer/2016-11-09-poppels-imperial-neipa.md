@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-10-02"
 desc: "Tropical flavours with notes of kiwi"
 permalink: /beer/:title.html
-img: /img/list/poppels-imperial-neipa.jpeguntappd: "https://untappd.com/b/poppels-bryggeri-imperial-neipa/3728096"
+img: /img/list/poppels-imperial-neipa.jpeg
+untappd: "https://untappd.com/b/poppels-bryggeri-imperial-neipa/3728096"
 country: "Sweden"
 brewery: "Poppels Bryggeri"
 breweryURL: "breweryURL"

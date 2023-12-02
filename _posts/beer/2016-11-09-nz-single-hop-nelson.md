@@ -7,7 +7,8 @@ score: 8
 beer-date: "2015-04-13"
 desc: "Perfect level of bitterness"
 permalink: /beer/:title.html
-img: /img/list/nz-single-hop-nelson.jpeguntappd: "https://untappd.com/b/bacchus-brewing-co--mosaic-ipa---single-hop-series/311195"
+img: /img/list/nz-single-hop-nelson.jpeg
+untappd: "https://untappd.com/b/bacchus-brewing-co--mosaic-ipa---single-hop-series/311195"
 country: "Australia"
 brewery: "Bacchus Brewing Co."
 breweryURL: "breweryURL"

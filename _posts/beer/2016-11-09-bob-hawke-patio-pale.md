@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "Pretty good pale ale. Light in flavour"
 permalink: /beer/:title.html
-img: /img/list/bob-hawke-patio-pale.jpeguntappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-patio-pale/2684941"
+img: /img/list/bob-hawke-patio-pale.jpeg
+untappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-patio-pale/2684941"
 country: "Australia"
 brewery: "Hawke's Brewing Co. "
 breweryURL: "breweryURL"

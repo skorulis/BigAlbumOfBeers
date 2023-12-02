@@ -7,7 +7,8 @@ score: 4
 beer-date: "2022-08-07"
 desc: "Beer flavoured water. Might as well just water down a regular beer"
 permalink: /beer/:title.html
-img: /img/list/brick-lane-sidewinder.jpeguntappd: "https://untappd.com/b/brick-lane-brewing-co--sidewinder-low-alc-hazy-pale/4431965"
+img: /img/list/brick-lane-sidewinder.jpeg
+untappd: "https://untappd.com/b/brick-lane-brewing-co--sidewinder-low-alc-hazy-pale/4431965"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 9
 beer-date: "2021-06-05"
 desc: "Nice syrupy beer without any bitterness"
 permalink: /beer/:title.html
-img: /img/list/sunday-road-cryotherapy.jpeguntappd: "https://untappd.com/b/sunday-road-brewing-cryotherapy/3670076"
+img: /img/list/sunday-road-cryotherapy.jpeg
+untappd: "https://untappd.com/b/sunday-road-brewing-cryotherapy/3670076"
 country: "Australia"
 brewery: "Sunday Road Brewing"
 breweryURL: "breweryURL"

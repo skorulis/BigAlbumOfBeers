@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-08-26"
 desc: "Quite flat and very smooth. The salt gives a little tang like you would find in salted chocolate"
 permalink: /beer/:title.html
-img: /img/list/loophole-salt-water-stout-porter.jpeguntappd: "https://untappd.com/b/loophole-brewing-co-salt-water-stout-porter/3775223"
+img: /img/list/loophole-salt-water-stout-porter.jpeg
+untappd: "https://untappd.com/b/loophole-brewing-co-salt-water-stout-porter/3775223"
 country: "Australia"
 brewery: "Loophole Brewing Co"
 breweryURL: "breweryURL"

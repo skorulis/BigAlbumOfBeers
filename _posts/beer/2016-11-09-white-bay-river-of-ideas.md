@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Tastes like it looks. Crisp but with a little peach flavour"
 permalink: /beer/:title.html
-img: /img/list/white-bay-river-of-ideas.jpeguntappd: "https://untappd.com/b/white-bay-beer-co--river-of-ideas/4756144"
+img: /img/list/white-bay-river-of-ideas.jpeg
+untappd: "https://untappd.com/b/white-bay-beer-co--river-of-ideas/4756144"
 country: "Australia"
 brewery: "White Bay Beer Co."
 breweryURL: "breweryURL"

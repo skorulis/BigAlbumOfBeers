@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-03-09"
 desc: "Not too bad"
 permalink: /beer/:title.html
-img: /img/list/nils-oscar-god-lager.jpeguntappd: "https://untappd.com/b/nils-oscar-god-lager/7816"
+img: /img/list/nils-oscar-god-lager.jpeg
+untappd: "https://untappd.com/b/nils-oscar-god-lager/7816"
 country: "Sweden"
 brewery: "Nils Oscar"
 breweryURL: "breweryURL"

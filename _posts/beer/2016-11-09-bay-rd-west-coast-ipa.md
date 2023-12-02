@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-09-26"
 desc: "Slightly piney IPA. Not too much of a punch in the face"
 permalink: /beer/:title.html
-img: /img/list/bay-rd-west-coast-ipa.jpeguntappd: "https://untappd.com/b/bay-rd-brewing-west-coast-ipa/3835947"
+img: /img/list/bay-rd-west-coast-ipa.jpeg
+untappd: "https://untappd.com/b/bay-rd-brewing-west-coast-ipa/3835947"
 country: "Australia"
 brewery: "Bay Rd Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 9
 beer-date: "2017-06-15"
 desc: "A bit hoppy, a bit tangy. Rather nice all round"
 permalink: /beer/:title.html
-img: /img/list/fabrik-wedding-pale-ale.jpeguntappd: "https://untappd.com/b/bierfabrik-wedding-pale-ale/311473"
+img: /img/list/fabrik-wedding-pale-ale.jpeg
+untappd: "https://untappd.com/b/bierfabrik-wedding-pale-ale/311473"
 country: "Germany"
 brewery: "Bierfabrik"
 breweryURL: "breweryURL"

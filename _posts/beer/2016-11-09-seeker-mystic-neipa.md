@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-08-26"
 desc: "Very creamy to start and keeps getting better"
 permalink: /beer/:title.html
-img: /img/list/seeker-mystic-neipa.jpeguntappd: "https://untappd.com/b/seeker-brewing-mystic-neipa/4763524"
+img: /img/list/seeker-mystic-neipa.jpeg
+untappd: "https://untappd.com/b/seeker-brewing-mystic-neipa/4763524"
 country: "Australia"
 brewery: "Seeker Brewing"
 breweryURL: "breweryURL"

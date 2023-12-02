@@ -7,7 +7,8 @@ score: 6
 beer-date: "2014-05-03"
 desc: "A little bit too bitter for a pale ale"
 permalink: /beer/:title.html
-img: /img/list/burleigh-brewing-co-28-pale-ale.jpeguntappd: "https://untappd.com/b/burleigh-brewing-co--28-pale-ale/21149"
+img: /img/list/burleigh-brewing-co-28-pale-ale.jpeg
+untappd: "https://untappd.com/b/burleigh-brewing-co--28-pale-ale/21149"
 country: "Australia"
 brewery: "Burleigh Brewing Co."
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-05-25"
 desc: "Not too bitter"
 permalink: /beer/:title.html
-img: /img/list/bath-ales-gem.jpeguntappd: "https://untappd.com/b/bath-ales-gem/6248"
+img: /img/list/bath-ales-gem.jpeg
+untappd: "https://untappd.com/b/bath-ales-gem/6248"
 country: "England"
 brewery: "Bath Ales"
 breweryURL: "breweryURL"

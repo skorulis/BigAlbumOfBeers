@@ -7,7 +7,8 @@ score: 4
 beer-date: "2015-07-10"
 desc: "This beer is just all wrong. Tastes more like an IPA than a pale and the fizz is just strange"
 permalink: /beer/:title.html
-img: /img/list/nomad-sideways-pale-ale.jpeguntappd: "https://untappd.com/b/nomad-brewing-co--sideways-hoppy-pale/918552"
+img: /img/list/nomad-sideways-pale-ale.jpeg
+untappd: "https://untappd.com/b/nomad-brewing-co--sideways-hoppy-pale/918552"
 country: "Australia"
 brewery: "Nomad Brewing Co."
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2013-03-28"
 desc: "A good amount of flavour but still easy to smash down"
 permalink: /beer/:title.html
-img: /img/list/james-squire-sun-down.jpeguntappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-sundown-lager/8232"
+img: /img/list/james-squire-sun-down.jpeg
+untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-sundown-lager/8232"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "breweryURL"

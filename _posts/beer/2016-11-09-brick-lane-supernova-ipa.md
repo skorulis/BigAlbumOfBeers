@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-11-13"
 desc: "Bitter west coast IPA low on aromatics"
 permalink: /beer/:title.html
-img: /img/list/brick-lane-supernova-ipa.jpeguntappd: "https://untappd.com/b/brick-lane-brewing-co--supernova-ipa/3647807"
+img: /img/list/brick-lane-supernova-ipa.jpeg
+untappd: "https://untappd.com/b/brick-lane-brewing-co--supernova-ipa/3647807"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
 breweryURL: "breweryURL"

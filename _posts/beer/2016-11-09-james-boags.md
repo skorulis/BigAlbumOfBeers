@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-02-01"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/james-boags.jpeguntappd: "https://untappd.com/b/j--boag---son-brewing-james-boags-premium-lager/5982"
+img: /img/list/james-boags.jpeg
+untappd: "https://untappd.com/b/j--boag---son-brewing-james-boags-premium-lager/5982"
 country: "Australia"
 brewery: "J. Boag & Son Brewing"
 breweryURL: "breweryURL"

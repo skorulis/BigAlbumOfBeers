@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-03-09"
 desc: "Actually one of the worse Czech lagers"
 permalink: /beer/:title.html
-img: /img/list/pilsner-urquell.jpeguntappd: "https://untappd.com/b/plzensky-prazdroj-pilsner-urquell/37936"
+img: /img/list/pilsner-urquell.jpeg
+untappd: "https://untappd.com/b/plzensky-prazdroj-pilsner-urquell/37936"
 country: "Czech Republic"
 brewery: "Plzeňský Prazdroj"
 breweryURL: "breweryURL"

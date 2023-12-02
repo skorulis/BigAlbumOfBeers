@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-12-28"
 desc: "Fairly light smokeyness. There’s a bit of a tang that kind of gets in the way. Pretty good"
 permalink: /beer/:title.html
-img: /img/list/4-brothers-arrogant-brother.jpeguntappd: "https://untappd.com/b/4-brothers-brewing-arrogant-brother/2055830"
+img: /img/list/4-brothers-arrogant-brother.jpeg
+untappd: "https://untappd.com/b/4-brothers-brewing-arrogant-brother/2055830"
 country: "Australia"
 brewery: "4 Brothers Brewing"
 breweryURL: "breweryURL"

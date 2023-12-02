@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-10-02"
 desc: "A very mild belgian ale. Great golden colouring. That little tinge of belgian flavours really elevates a regular pale ale"
 permalink: /beer/:title.html
-img: /img/list/frydenlund-belgisk-hveteol.jpeguntappd: "https://untappd.com/b/frydenlund-bryggerier-belgisk-hveteol/2617082"
+img: /img/list/frydenlund-belgisk-hveteol.jpeg
+untappd: "https://untappd.com/b/frydenlund-bryggerier-belgisk-hveteol/2617082"
 country: "Norway"
 brewery: "Frydenlund Bryggerier"
 breweryURL: "breweryURL"

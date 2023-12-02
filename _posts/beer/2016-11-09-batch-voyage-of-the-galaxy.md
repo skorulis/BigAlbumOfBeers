@@ -7,7 +7,8 @@ score: 4
 beer-date: "2016-01-07"
 desc: "Just can't get into this. It's heavy without a nice flavour behind it"
 permalink: /beer/:title.html
-img: /img/list/batch-voyage-of-the-galaxy.jpeguntappd: "https://untappd.com/b/batch-brewing-company-voyage-of-the-galaxy/1300263"
+img: /img/list/batch-voyage-of-the-galaxy.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-voyage-of-the-galaxy/1300263"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

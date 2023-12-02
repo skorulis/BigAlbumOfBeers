@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2018-10-05"
 desc: "A nice solid stout. No crazy flavours but on point. Definitely worth a try"
 permalink: /beer/:title.html
-img: /img/list/basement-brewhouse-coffee-porter.jpeguntappd: "https://untappd.com/b/basement-brewhouse-coffee-porter/2637685"
+img: /img/list/basement-brewhouse-coffee-porter.jpeg
+untappd: "https://untappd.com/b/basement-brewhouse-coffee-porter/2637685"
 country: "Australia"
 brewery: "Basement Brewhouse"
 breweryURL: "breweryURL"

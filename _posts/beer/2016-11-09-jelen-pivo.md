@@ -7,7 +7,8 @@ score: 5
 beer-date: "2016-03-16"
 desc: "Has a strange smell and a kind of malty taste"
 permalink: /beer/:title.html
-img: /img/list/jelen-pivo.jpeguntappd: "https://untappd.com/b/apatinska-pivara-jelen-pivo/14262"
+img: /img/list/jelen-pivo.jpeg
+untappd: "https://untappd.com/b/apatinska-pivara-jelen-pivo/14262"
 country: "Serbia"
 brewery: "Apatinska Pivara"
 breweryURL: "breweryURL"

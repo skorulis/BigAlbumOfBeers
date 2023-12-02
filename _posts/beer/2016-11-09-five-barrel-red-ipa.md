@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2023-02-26"
 desc: "A lot of bitterness. Delivers on the label but could he having this a little late in the night"
 permalink: /beer/:title.html
-img: /img/list/five-barrel-red-ipa.jpeguntappd: "https://untappd.com/b/five-barrel-brewing--navigator-red-ipa/4043262"
+img: /img/list/five-barrel-red-ipa.jpeg
+untappd: "https://untappd.com/b/five-barrel-brewing--navigator-red-ipa/4043262"
 country: "Australia"
 brewery: "Five Barrel Brewing "
 breweryURL: "breweryURL"

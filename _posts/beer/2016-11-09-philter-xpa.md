@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2017-10-28"
 desc: "Not as good as the balter which I just had but solid regardless. Fairly easy drinking and a little floral"
 permalink: /beer/:title.html
-img: /img/list/philter-xpa.jpeguntappd: "https://untappd.com/b/philter-brewing-xpa/1997370"
+img: /img/list/philter-xpa.jpeg
+untappd: "https://untappd.com/b/philter-brewing-xpa/1997370"
 country: "Australia"
 brewery: "Philter Brewing"
 breweryURL: "breweryURL"

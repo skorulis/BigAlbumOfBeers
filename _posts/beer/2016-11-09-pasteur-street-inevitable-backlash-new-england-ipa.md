@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2018-02-17"
 desc: "Lots of orange flavour, only the bitterness stops it from being a juice"
 permalink: /beer/:title.html
-img: /img/list/pasteur-street-inevitable-backlash-new-england-ipa.jpeguntappd: "https://untappd.com/b/pasteur-street-brewing-company-inevitable-backlash/2208625"
+img: /img/list/pasteur-street-inevitable-backlash-new-england-ipa.jpeg
+untappd: "https://untappd.com/b/pasteur-street-brewing-company-inevitable-backlash/2208625"
 country: "Vietnam"
 brewery: "Pasteur Street Brewing Company"
 breweryURL: "breweryURL"

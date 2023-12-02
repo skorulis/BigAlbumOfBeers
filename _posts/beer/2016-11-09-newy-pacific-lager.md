@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-12-25"
 desc: "The best lager I’ve had in a long time. Flavours of an XPA but very light"
 permalink: /beer/:title.html
-img: /img/list/newy-pacific-lager.jpeguntappd: "https://untappd.com/b/hope-brewery-newy-pacific-lager/3027354"
+img: /img/list/newy-pacific-lager.jpeg
+untappd: "https://untappd.com/b/hope-brewery-newy-pacific-lager/3027354"
 country: "Australia"
 brewery: "Hope Brewery"
 breweryURL: "breweryURL"

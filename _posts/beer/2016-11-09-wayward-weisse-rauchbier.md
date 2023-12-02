@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-09-26"
 desc: "Just a little bit smokey, mostly mild lager"
 permalink: /beer/:title.html
-img: /img/list/wayward-weisse-rauchbier.jpeguntappd: "https://untappd.com/b/wayward-brewing-weibe-rauch/3909555"
+img: /img/list/wayward-weisse-rauchbier.jpeg
+untappd: "https://untappd.com/b/wayward-brewing-weibe-rauch/3909555"
 country: "Australia"
 brewery: "Wayward Brewing"
 breweryURL: "breweryURL"

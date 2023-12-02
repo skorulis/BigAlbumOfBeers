@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2021-04-02"
 desc: "Slightly tangy and a little malty. Very easy drinking"
 permalink: /beer/:title.html
-img: /img/list/coastal-myall-marzen.jpeguntappd: "https://untappd.com/b/the-coastal-brewing-company-myall-marzen/4032979"
+img: /img/list/coastal-myall-marzen.jpeg
+untappd: "https://untappd.com/b/the-coastal-brewing-company-myall-marzen/4032979"
 country: "Australia"
 brewery: "The Coastal Brewing Company"
 breweryURL: "breweryURL"

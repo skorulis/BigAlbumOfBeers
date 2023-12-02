@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2023-02-26"
 desc: "Not that much different from any other stout. Quite smooth though"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-honeycomb-stout.jpeguntappd: "https://untappd.com/b/pirate-life-brewing-honeycomb-stout/4796502"
+img: /img/list/pirate-life-honeycomb-stout.jpeg
+untappd: "https://untappd.com/b/pirate-life-brewing-honeycomb-stout/4796502"
 country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "breweryURL"

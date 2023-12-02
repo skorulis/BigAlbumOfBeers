@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-12-25"
 desc: "Very solid pale ale, the kind of beer you would just keep drinking"
 permalink: /beer/:title.html
-img: /img/list/reckless-pale-ale.jpeguntappd: "https://untappd.com/b/reckless-brewing-co--pale-ale/3394985"
+img: /img/list/reckless-pale-ale.jpeg
+untappd: "https://untappd.com/b/reckless-brewing-co--pale-ale/3394985"
 country: "Australia"
 brewery: "Reckless Brewing Co."
 breweryURL: "breweryURL"

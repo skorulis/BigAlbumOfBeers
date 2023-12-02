@@ -7,4 +7,5 @@ score: 7.5
 beer-date: "2022-08-07"
 desc: "Good level of coffee. Very moreish"
 permalink: /beer/:title.html
-img: /img/list/white-bay-porter.jpeg---
+img: /img/list/white-bay-porter.jpeg
+---

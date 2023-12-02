@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-01-29"
 desc: "Just a standard cheap german Lager. But such an awesome can"
 permalink: /beer/:title.html
-img: /img/list/kaiserdom.jpeguntappd: "https://untappd.com/b/privatbrauerei-kaiserdom-pilsener--premium-german-lager--pilsener-herb-wurzig/15519"
+img: /img/list/kaiserdom.jpeg
+untappd: "https://untappd.com/b/privatbrauerei-kaiserdom-pilsener--premium-german-lager--pilsener-herb-wurzig/15519"
 country: "Germany"
 brewery: "Privatbrauerei Kaiserdom"
 breweryURL: "breweryURL"

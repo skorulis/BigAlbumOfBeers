@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2020-12-25"
 desc: "Strong IPA with lots of rich flavours. Proper west coast IPA with nothing floral or citrusy. Enough alcohol to warm the body"
 permalink: /beer/:title.html
-img: /img/list/alesmith-ipa.jpeguntappd: "https://untappd.com/b/alesmith-brewing-company-ipa/1793"
+img: /img/list/alesmith-ipa.jpeg
+untappd: "https://untappd.com/b/alesmith-brewing-company-ipa/1793"
 country: "United States"
 brewery: "AleSmith Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2018-01-13"
 desc: "Straight up yeasty and Belgian. Too much of that for the alcohol percentage"
 permalink: /beer/:title.html
-img: /img/list/new-england-little-ram.jpeguntappd: "https://untappd.com/b/new-england-brewing-co--little-ram/2339289"
+img: /img/list/new-england-little-ram.jpeg
+untappd: "https://untappd.com/b/new-england-brewing-co--little-ram/2339289"
 country: "Australia"
 brewery: "New England Brewing Co."
 breweryURL: "breweryURL"

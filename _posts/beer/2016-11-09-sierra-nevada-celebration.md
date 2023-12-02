@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-03-16"
 desc: "Not as fresh as I was hoping but still nice"
 permalink: /beer/:title.html
-img: /img/list/sierra-nevada-celebration.jpeguntappd: "https://untappd.com/b/sierra-nevada-brewing-co--celebration-ale/16630"
+img: /img/list/sierra-nevada-celebration.jpeg
+untappd: "https://untappd.com/b/sierra-nevada-brewing-co--celebration-ale/16630"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
 breweryURL: "breweryURL"

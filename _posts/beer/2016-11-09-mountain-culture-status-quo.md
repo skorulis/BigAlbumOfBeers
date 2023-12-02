@@ -7,7 +7,8 @@ score: 9
 beer-date: "2020-07-31"
 desc: "So happy with this beer. Super fruity and light as well. But most of all I’m just happy to be somewhere that has great beer on tap"
 permalink: /beer/:title.html
-img: /img/list/mountain-culture-status-quo.jpeguntappd: "https://untappd.com/b/mountain-culture-beer-co--status-quo/3554194"
+img: /img/list/mountain-culture-status-quo.jpeg
+untappd: "https://untappd.com/b/mountain-culture-beer-co--status-quo/3554194"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
 breweryURL: "breweryURL"

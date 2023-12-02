@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-07-31"
 desc: "Strong sour with a heavy peach flavour"
 permalink: /beer/:title.html
-img: /img/list/cervisiam-impeached.jpeguntappd: "https://untappd.com/b/cervisiam-impeached/3641026"
+img: /img/list/cervisiam-impeached.jpeg
+untappd: "https://untappd.com/b/cervisiam-impeached/3641026"
 country: "Norway"
 brewery: "Cervisiam"
 breweryURL: "breweryURL"

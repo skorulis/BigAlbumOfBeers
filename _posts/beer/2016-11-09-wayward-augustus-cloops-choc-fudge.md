@@ -7,4 +7,5 @@ score: 7.5
 beer-date: "2023-08-26"
 desc: "No real peanut but a very smooth chocolaty stout"
 permalink: /beer/:title.html
-img: /img/list/wayward-augustus-cloops-choc-fudge.jpeg---
+img: /img/list/wayward-augustus-cloops-choc-fudge.jpeg
+---

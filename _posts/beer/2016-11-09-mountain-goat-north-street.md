@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2018-06-02"
 desc: "Lots of yeast and wheat in a beer that pairs well with food. Fairly refreshing and not heavy at all"
 permalink: /beer/:title.html
-img: /img/list/mountain-goat-north-street.jpeguntappd: "https://untappd.com/b/mountain-goat-beer-north-street-stout/2621515"
+img: /img/list/mountain-goat-north-street.jpeg
+untappd: "https://untappd.com/b/mountain-goat-beer-north-street-stout/2621515"
 country: "Australia"
 brewery: "Mountain Goat Beer"
 breweryURL: "breweryURL"

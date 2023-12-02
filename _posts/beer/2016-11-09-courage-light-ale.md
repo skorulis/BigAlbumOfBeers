@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-08-18"
 desc: "Why did I even buy this tiny weak beer?"
 permalink: /beer/:title.html
-img: /img/list/courage-light-ale.jpeguntappd: "https://untappd.com/b/charles-wells-brewery-courage-light-ale/113545"
+img: /img/list/courage-light-ale.jpeg
+untappd: "https://untappd.com/b/charles-wells-brewery-courage-light-ale/113545"
 country: "England"
 brewery: "Charles Wells Brewery"
 breweryURL: "breweryURL"

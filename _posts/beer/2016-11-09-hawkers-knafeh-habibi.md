@@ -7,7 +7,8 @@ score: 9
 beer-date: "2021-01-01"
 desc: "A very cake like stout. I do like how they have mixed pastry and beer. Hard to pick individual flavours but I do like it"
 permalink: /beer/:title.html
-img: /img/list/hawkers-knafeh-habibi.jpeguntappd: "https://untappd.com/b/hawkers-beer-knafeh-habibi/4063923"
+img: /img/list/hawkers-knafeh-habibi.jpeg
+untappd: "https://untappd.com/b/hawkers-beer-knafeh-habibi/4063923"
 country: "Australia"
 brewery: "Hawkers Beer"
 breweryURL: "breweryURL"

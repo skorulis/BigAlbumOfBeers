@@ -7,7 +7,8 @@ score: 5
 beer-date: "2021-11-12"
 desc: "Quite a malty lager. Really not that great"
 permalink: /beer/:title.html
-img: /img/list/nomad-brookie-draught.jpeguntappd: "https://untappd.com/b/nomad-brewing-co--brookie-draught/4145965"
+img: /img/list/nomad-brookie-draught.jpeg
+untappd: "https://untappd.com/b/nomad-brewing-co--brookie-draught/4145965"
 country: "Australia"
 brewery: "Nomad Brewing Co."
 breweryURL: "breweryURL"

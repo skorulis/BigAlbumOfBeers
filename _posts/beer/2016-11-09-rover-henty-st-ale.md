@@ -7,7 +7,8 @@ score: 5
 beer-date: "2019-04-22"
 desc: "Slightly yeasty ale. Unexciting"
 permalink: /beer/:title.html
-img: /img/list/rover-henty-st-ale.jpeguntappd: "https://untappd.com/b/rover-beer-henty-st-ale/2415039"
+img: /img/list/rover-henty-st-ale.jpeg
+untappd: "https://untappd.com/b/rover-beer-henty-st-ale/2415039"
 country: "Australia"
 brewery: "Rover Beer"
 breweryURL: "breweryURL"

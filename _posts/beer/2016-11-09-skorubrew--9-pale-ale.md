@@ -7,4 +7,5 @@ score: 6.5
 beer-date: "2017-01-21"
 desc: "A little over carbonated with no head retention but still a tasty drop. Fairly easy drinking with just a mild hop flavour. Has a sweet finish that takes away the bitterness"
 permalink: /beer/:title.html
-img: /img/list/skorubrew--9-pale-ale.jpeg---
+img: /img/list/skorubrew--9-pale-ale.jpeg
+---

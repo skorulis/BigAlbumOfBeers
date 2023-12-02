@@ -7,7 +7,8 @@ score: 3
 beer-date: "2022-10-15"
 desc: "It’s an overwhelming amount of passionfruit and very sour. So sour it leaves my mouth dry"
 permalink: /beer/:title.html
-img: /img/list/hope-passionfruit-sour.jpeguntappd: "https://untappd.com/b/hope-brewery-passionfruit-sour/4693298"
+img: /img/list/hope-passionfruit-sour.jpeg
+untappd: "https://untappd.com/b/hope-brewery-passionfruit-sour/4693298"
 country: "Australia"
 brewery: "Hope Brewery"
 breweryURL: "breweryURL"

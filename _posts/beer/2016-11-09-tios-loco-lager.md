@@ -7,7 +7,8 @@ score: 5
 beer-date: "2023-08-26"
 desc: "Untapped lists this as 0%. Seems ok, just a little malty"
 permalink: /beer/:title.html
-img: /img/list/tios-loco-lager.jpeguntappd: "https://untappd.com/b/tios-loco-lager/5247624"
+img: /img/list/tios-loco-lager.jpeg
+untappd: "https://untappd.com/b/tios-loco-lager/5247624"
 country: "Australia"
 brewery: "Tio's"
 breweryURL: "breweryURL"

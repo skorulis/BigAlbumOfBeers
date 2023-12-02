@@ -7,7 +7,8 @@ score: 6
 beer-date: "2014-06-21"
 desc: "Such a letdown after the pale ale"
 permalink: /beer/:title.html
-img: /img/list/stone---wood-lager.jpeguntappd: "https://untappd.com/b/stone---wood-green-coast/13577"
+img: /img/list/stone---wood-lager.jpeg
+untappd: "https://untappd.com/b/stone---wood-green-coast/13577"
 country: "Australia"
 brewery: "Stone & Wood"
 breweryURL: "breweryURL"

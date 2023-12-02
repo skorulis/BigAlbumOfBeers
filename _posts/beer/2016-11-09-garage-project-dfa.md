@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2019-07-14"
 desc: "Just amazing from the first sip. Full of hops and quite bitter"
 permalink: /beer/:title.html
-img: /img/list/garage-project-dfa.jpeguntappd: "https://untappd.com/b/garage-project-demus-favorem-amori/3202827"
+img: /img/list/garage-project-dfa.jpeg
+untappd: "https://untappd.com/b/garage-project-demus-favorem-amori/3202827"
 country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "breweryURL"

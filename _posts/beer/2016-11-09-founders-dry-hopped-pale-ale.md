@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-07-10"
 desc: "Much hoppier than a normal pale"
 permalink: /beer/:title.html
-img: /img/list/founders-dry-hopped-pale-ale.jpeguntappd: "https://untappd.com/b/founders-brewing-co--pale-ale/22011"
+img: /img/list/founders-dry-hopped-pale-ale.jpeg
+untappd: "https://untappd.com/b/founders-brewing-co--pale-ale/22011"
 country: "United States"
 brewery: "Founders Brewing Co."
 breweryURL: "breweryURL"

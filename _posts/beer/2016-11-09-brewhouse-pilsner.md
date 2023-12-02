@@ -7,7 +7,8 @@ score: 6
 beer-date: "2018-03-13"
 desc: "A classic dry Pilsner with a slight tang"
 permalink: /beer/:title.html
-img: /img/list/brewhouse-pilsner.jpeguntappd: "https://untappd.com/b/basement-brewhouse-pilsner/1793093"
+img: /img/list/brewhouse-pilsner.jpeg
+untappd: "https://untappd.com/b/basement-brewhouse-pilsner/1793093"
 country: "Australia"
 brewery: "Basement Brewhouse"
 breweryURL: "breweryURL"

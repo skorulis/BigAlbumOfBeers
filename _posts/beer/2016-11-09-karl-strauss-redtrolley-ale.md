@@ -7,7 +7,8 @@ score: 5
 beer-date: "2014-05-03"
 desc: "A malty ale"
 permalink: /beer/:title.html
-img: /img/list/karl-strauss-redtrolley-ale.jpeguntappd: "https://untappd.com/b/karl-strauss-brewing-company-red-trolley-ale/1291"
+img: /img/list/karl-strauss-redtrolley-ale.jpeg
+untappd: "https://untappd.com/b/karl-strauss-brewing-company-red-trolley-ale/1291"
 country: "United States"
 brewery: "Karl Strauss Brewing Company"
 breweryURL: "breweryURL"

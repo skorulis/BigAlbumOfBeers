@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-09-19"
 desc: "A little bit too bitter for my taste"
 permalink: /beer/:title.html
-img: /img/list/svyturys-baltijos.jpeguntappd: "https://untappd.com/b/svyturys-baltijos/24730"
+img: /img/list/svyturys-baltijos.jpeg
+untappd: "https://untappd.com/b/svyturys-baltijos/24730"
 country: "Lithuania"
 brewery: "Švyturys"
 breweryURL: "breweryURL"

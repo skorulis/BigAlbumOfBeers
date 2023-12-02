@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-02-28"
 desc: "A little too bitter. Could be worse"
 permalink: /beer/:title.html
-img: /img/list/tooborac-ca-hed-up.jpeguntappd: "https://untappd.com/b/tooborac-beer-cahed-up-summer-ale/1367199"
+img: /img/list/tooborac-ca-hed-up.jpeg
+untappd: "https://untappd.com/b/tooborac-beer-cahed-up-summer-ale/1367199"
 country: "Australia"
 brewery: "Tooborac Beer"
 breweryURL: "breweryURL"

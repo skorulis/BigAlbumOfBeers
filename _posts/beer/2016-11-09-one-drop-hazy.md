@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-11-13"
 desc: "Really nice smell. A little much of a tang after the oat IPA I had. Pretty good"
 permalink: /beer/:title.html
-img: /img/list/one-drop-hazy.jpeguntappd: "https://untappd.com/b/one-drop-brewing-co-hazy-ipa/3728004"
+img: /img/list/one-drop-hazy.jpeg
+untappd: "https://untappd.com/b/one-drop-brewing-co-hazy-ipa/3728004"
 country: "Australia"
 brewery: "One Drop Brewing Co"
 breweryURL: "breweryURL"

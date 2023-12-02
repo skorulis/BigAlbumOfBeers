@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2017-06-15"
 desc: "A little malty with a sweet finish. Very easy to go through but not exciting"
 permalink: /beer/:title.html
-img: /img/list/peters-koelsch.jpeguntappd: "https://untappd.com/b/radeberger-gruppe-peters-kolsch/49003"
+img: /img/list/peters-koelsch.jpeg
+untappd: "https://untappd.com/b/radeberger-gruppe-peters-kolsch/49003"
 country: "Germany"
 brewery: "Radeberger Gruppe"
 breweryURL: "breweryURL"

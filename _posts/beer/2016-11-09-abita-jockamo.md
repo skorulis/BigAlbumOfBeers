@@ -7,7 +7,8 @@ score: 5
 beer-date: "2016-02-14"
 desc: "Too harsh, this brewery is still yet to win me over"
 permalink: /beer/:title.html
-img: /img/list/abita-jockamo.jpeguntappd: "https://untappd.com/b/abita-brewing-company-jockamo-ipa/5963"
+img: /img/list/abita-jockamo.jpeg
+untappd: "https://untappd.com/b/abita-brewing-company-jockamo-ipa/5963"
 country: "United States"
 brewery: "Abita Brewing Company"
 breweryURL: "breweryURL"

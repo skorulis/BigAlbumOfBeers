@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-09-26"
 desc: "Fairly relaxed farmhouse ale. Nice tinge of yeast but restrained. Very easy drinking and well made"
 permalink: /beer/:title.html
-img: /img/list/slow-lane-foundation.jpeguntappd: "https://untappd.com/b/slow-lane-brewing-foundation/3778878"
+img: /img/list/slow-lane-foundation.jpeg
+untappd: "https://untappd.com/b/slow-lane-brewing-foundation/3778878"
 country: "Australia"
 brewery: "Slow Lane Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-07-31"
 desc: "A lot milder than it sounds. Imagine a creamy pale ale with a dash of lemon. Nice bit of tang"
 permalink: /beer/:title.html
-img: /img/list/sailors-grave-lemon-meringue-cream-sour.jpeguntappd: "https://untappd.com/b/sailors-grave-brewing-lemon-meringue-cream-sour/2596036"
+img: /img/list/sailors-grave-lemon-meringue-cream-sour.jpeg
+untappd: "https://untappd.com/b/sailors-grave-brewing-lemon-meringue-cream-sour/2596036"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
 breweryURL: "breweryURL"

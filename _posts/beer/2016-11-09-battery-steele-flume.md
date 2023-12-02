@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-08-26"
 desc: "Very tasty IPA. Nicely rounded"
 permalink: /beer/:title.html
-img: /img/list/battery-steele-flume.jpeguntappd: "https://untappd.com/b/battery-steele-brewing-flume/2040507"
+img: /img/list/battery-steele-flume.jpeg
+untappd: "https://untappd.com/b/battery-steele-brewing-flume/2040507"
 country: "United States"
 brewery: "Battery Steele Brewing"
 breweryURL: "breweryURL"

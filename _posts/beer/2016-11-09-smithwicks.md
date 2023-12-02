@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-01-13"
 desc: "A smooth ale"
 permalink: /beer/:title.html
-img: /img/list/smithwicks.jpeguntappd: "https://untappd.com/b/guinness-smithwicks/13388"
+img: /img/list/smithwicks.jpeg
+untappd: "https://untappd.com/b/guinness-smithwicks/13388"
 country: "Ireland"
 brewery: "Guinness"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-05-27"
 desc: "Slight toastyness. Like a very thin stout. Easy drinking but lacks depth"
 permalink: /beer/:title.html
-img: /img/list/grifter-banshee.jpeguntappd: "https://untappd.com/b/grifter-brewing-company-the-banshee/2100523"
+img: /img/list/grifter-banshee.jpeg
+untappd: "https://untappd.com/b/grifter-brewing-company-the-banshee/2100523"
 country: "Australia"
 brewery: "Grifter Brewing Company"
 breweryURL: "breweryURL"

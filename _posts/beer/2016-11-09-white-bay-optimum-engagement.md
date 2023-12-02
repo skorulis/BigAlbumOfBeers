@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-08-26"
 desc: "A solid hearty amber. Good for colder months as it’s not refreshing"
 permalink: /beer/:title.html
-img: /img/list/white-bay-optimum-engagement.jpeguntappd: "https://untappd.com/b/white-bay-beer-co--optimum-engagement/5297820"
+img: /img/list/white-bay-optimum-engagement.jpeg
+untappd: "https://untappd.com/b/white-bay-beer-co--optimum-engagement/5297820"
 country: "Australia"
 brewery: "White Bay Beer Co."
 breweryURL: "breweryURL"

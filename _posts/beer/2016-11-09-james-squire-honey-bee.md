@@ -7,7 +7,8 @@ score: 6
 beer-date: "2020-11-13"
 desc: "The honey gives it a little tang and sweetness, but really it’s not much off a standard lager"
 permalink: /beer/:title.html
-img: /img/list/james-squire-honey-bee.jpeguntappd: "https://untappd.com/b/the-squires-landing-james-squire-honey-bee/4045217"
+img: /img/list/james-squire-honey-bee.jpeg
+untappd: "https://untappd.com/b/the-squires-landing-james-squire-honey-bee/4045217"
 country: "Australia"
 brewery: "The Squire’s Landing"
 breweryURL: "breweryURL"

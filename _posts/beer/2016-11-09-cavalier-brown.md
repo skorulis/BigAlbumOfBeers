@@ -7,7 +7,8 @@ score: 6
 beer-date: "2018-12-27"
 desc: "A little bit bitter for a brown and mostly mild otherwise. It’s not a bad beer, just not what I look for"
 permalink: /beer/:title.html
-img: /img/list/cavalier-brown.jpeguntappd: "https://untappd.com/b/cavalier-brewing-brown/37770"
+img: /img/list/cavalier-brown.jpeg
+untappd: "https://untappd.com/b/cavalier-brewing-brown/37770"
 country: "Australia"
 brewery: "Cavalier Brewing"
 breweryURL: "breweryURL"

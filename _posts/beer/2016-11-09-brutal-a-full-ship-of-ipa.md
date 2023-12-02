@@ -7,7 +7,8 @@ score: 4
 beer-date: "2023-10-02"
 desc: "Kind of astray tasting"
 permalink: /beer/:title.html
-img: /img/list/brutal-a-full-ship-of-ipa.jpeguntappd: "https://untappd.com/b/brutal-brewing-a-ship-full-of-ipa/967627"
+img: /img/list/brutal-a-full-ship-of-ipa.jpeg
+untappd: "https://untappd.com/b/brutal-brewing-a-ship-full-of-ipa/967627"
 country: "Sweden"
 brewery: "Brutal Brewing"
 breweryURL: "breweryURL"

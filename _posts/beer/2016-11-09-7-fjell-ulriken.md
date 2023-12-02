@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-10-02"
 desc: "Solid IPA. Heavy bitterness"
 permalink: /beer/:title.html
-img: /img/list/7-fjell-ulriken.jpeguntappd: "https://untappd.com/b/7-fjell-bryggeri-ulriken-double-ipa/898857"
+img: /img/list/7-fjell-ulriken.jpeg
+untappd: "https://untappd.com/b/7-fjell-bryggeri-ulriken-double-ipa/898857"
 country: "Norway"
 brewery: "7 Fjell Bryggeri"
 breweryURL: "breweryURL"

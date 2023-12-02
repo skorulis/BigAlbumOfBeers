@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2022-08-07"
 desc: "Pretty boring NEIPA"
 permalink: /beer/:title.html
-img: /img/list/atomic-the-nectar.jpeguntappd: "https://untappd.com/b/atomic-the-nectar-ipa/4693519"
+img: /img/list/atomic-the-nectar.jpeg
+untappd: "https://untappd.com/b/atomic-the-nectar-ipa/4693519"
 country: "Australia"
 brewery: "Atomic"
 breweryURL: "breweryURL"

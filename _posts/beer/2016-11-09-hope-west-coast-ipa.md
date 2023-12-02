@@ -7,4 +7,5 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Quite fruity"
 permalink: /beer/:title.html
-img: /img/list/hope-west-coast-ipa.jpeg---
+img: /img/list/hope-west-coast-ipa.jpeg
+---

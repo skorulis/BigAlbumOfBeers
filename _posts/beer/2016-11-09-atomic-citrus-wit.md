@@ -7,4 +7,5 @@ score: 6
 beer-date: "2022-08-07"
 desc: "Has a little bit of that off taste. Gets better as it goes down and is crisp and refreshing"
 permalink: /beer/:title.html
-img: /img/list/atomic-citrus-wit.jpeg---
+img: /img/list/atomic-citrus-wit.jpeg
+---

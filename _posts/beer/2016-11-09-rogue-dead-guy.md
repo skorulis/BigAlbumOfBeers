@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-06-16"
 desc: "Like a really sweet IPA. There’s something else in there that I can’t put my finger on"
 permalink: /beer/:title.html
-img: /img/list/rogue-dead-guy.jpeguntappd: "https://untappd.com/b/rogue-ales---spirits-dead-guy-ale/4172"
+img: /img/list/rogue-dead-guy.jpeg
+untappd: "https://untappd.com/b/rogue-ales---spirits-dead-guy-ale/4172"
 country: "United States"
 brewery: "Rogue Ales & Spirits"
 breweryURL: "breweryURL"

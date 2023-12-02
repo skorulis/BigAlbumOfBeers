@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2023-10-02"
 desc: "Beautiful brown colouring. Very neutral smell. Nice sweetness and kind of mellow. Less of a kick in the face than other bocks"
 permalink: /beer/:title.html
-img: /img/list/aegir-fjellbokk.jpeguntappd: "https://untappd.com/b/aegir-bryggeri-fjellbokk/5195050"
+img: /img/list/aegir-fjellbokk.jpeg
+untappd: "https://untappd.com/b/aegir-bryggeri-fjellbokk/5195050"
 country: "Norway"
 brewery: "Ægir Bryggeri"
 breweryURL: "breweryURL"

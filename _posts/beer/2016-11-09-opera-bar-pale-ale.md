@@ -7,7 +7,8 @@ score: 5
 beer-date: "2014-05-03"
 desc: "Flavourless"
 permalink: /beer/:title.html
-img: /img/list/opera-bar-pale-ale.jpeguntappd: "https://untappd.com/b/opera-bar-opera-bar-organic-pale-ale/327314"
+img: /img/list/opera-bar-pale-ale.jpeg
+untappd: "https://untappd.com/b/opera-bar-opera-bar-organic-pale-ale/327314"
 country: "Australia"
 brewery: "Opera Bar"
 breweryURL: "breweryURL"

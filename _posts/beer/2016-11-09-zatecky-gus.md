@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-05-27"
 desc: "Your basic flavourless lager except in a giant can. Just what I need right now"
 permalink: /beer/:title.html
-img: /img/list/zatecky-gus.jpeguntappd: "https://untappd.com/b/baltika-breweries--baltika--zatecky-gus/181553"
+img: /img/list/zatecky-gus.jpeg
+untappd: "https://untappd.com/b/baltika-breweries--baltika--zatecky-gus/181553"
 country: "Russia"
 brewery: "Baltika Breweries (Балтика)"
 breweryURL: "breweryURL"

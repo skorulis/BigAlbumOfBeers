@@ -7,7 +7,8 @@ score: 6
 beer-date: "2014-06-21"
 desc: "Very gingery but a little bit too fizzy"
 permalink: /beer/:title.html
-img: /img/list/matso-s-ginger-beer.jpeguntappd: "https://untappd.com/b/matsos-broome-brewery-ginger-beer/35702"
+img: /img/list/matso-s-ginger-beer.jpeg
+untappd: "https://untappd.com/b/matsos-broome-brewery-ginger-beer/35702"
 country: "Australia"
 brewery: "Matso's Broome Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-02-27"
 desc: "I’m a fan"
 permalink: /beer/:title.html
-img: /img/list/white-rabbit-pale-ale.jpeguntappd: "https://untappd.com/b/white-rabbit-pale-ale/754500"
+img: /img/list/white-rabbit-pale-ale.jpeg
+untappd: "https://untappd.com/b/white-rabbit-pale-ale/754500"
 country: "Australia"
 brewery: "White Rabbit"
 breweryURL: "breweryURL"

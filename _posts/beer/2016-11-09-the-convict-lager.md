@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-03-28"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/the-convict-lager.jpeguntappd: "https://untappd.com/b/rocks-brewing-co-the-convict/228660"
+img: /img/list/the-convict-lager.jpeg
+untappd: "https://untappd.com/b/rocks-brewing-co-the-convict/228660"
 country: "Australia"
 brewery: "Rocks Brewing Co"
 breweryURL: "breweryURL"

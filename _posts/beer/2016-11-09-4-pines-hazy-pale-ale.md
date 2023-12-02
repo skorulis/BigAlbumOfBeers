@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-02-28"
 desc: "Kind of plain but easy drinking"
 permalink: /beer/:title.html
-img: /img/list/4-pines-hazy-pale-ale.jpeguntappd: "https://untappd.com/b/4-pines-brewing-company-keller-door--hazy-pale-ale--2022-/4665506"
+img: /img/list/4-pines-hazy-pale-ale.jpeg
+untappd: "https://untappd.com/b/4-pines-brewing-company-keller-door--hazy-pale-ale--2022-/4665506"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
 breweryURL: "breweryURL"

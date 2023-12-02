@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2019-11-22"
 desc: "Too harsh for what it is"
 permalink: /beer/:title.html
-img: /img/list/coopers-2019-vintage.jpeguntappd: "https://untappd.com/b/coopers-extra-strong-vintage-ale--2019-/3372181"
+img: /img/list/coopers-2019-vintage.jpeg
+untappd: "https://untappd.com/b/coopers-extra-strong-vintage-ale--2019-/3372181"
 country: "Australia"
 brewery: "Coopers"
 breweryURL: "breweryURL"

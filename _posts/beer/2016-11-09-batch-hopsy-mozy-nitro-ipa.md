@@ -7,7 +7,8 @@ score: 9
 beer-date: "2017-05-27"
 desc: "Love the creamyness on this beer"
 permalink: /beer/:title.html
-img: /img/list/batch-hopsy-mozy-nitro-ipa.jpeguntappd: "https://untappd.com/b/batch-brewing-company-hoppsy-mozy-nitro-ipa/1207350"
+img: /img/list/batch-hopsy-mozy-nitro-ipa.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-hoppsy-mozy-nitro-ipa/1207350"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

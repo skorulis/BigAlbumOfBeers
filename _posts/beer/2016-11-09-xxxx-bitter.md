@@ -7,7 +7,8 @@ score: 3
 beer-date: "2015-10-17"
 desc: "So hard to find the full strength XXXX even in QLD. And it's easy to see why. Needs a shot of vodka like in the old days"
 permalink: /beer/:title.html
-img: /img/list/xxxx-bitter.jpeguntappd: "https://untappd.com/b/castlemaine-perkins-xxxx-bitter/11318"
+img: /img/list/xxxx-bitter.jpeg
+untappd: "https://untappd.com/b/castlemaine-perkins-xxxx-bitter/11318"
 country: "Australia"
 brewery: "Castlemaine Perkins"
 breweryURL: "breweryURL"

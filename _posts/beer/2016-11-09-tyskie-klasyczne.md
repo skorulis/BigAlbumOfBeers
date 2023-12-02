@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-09-01"
 desc: "The best polish beer I've tasted"
 permalink: /beer/:title.html
-img: /img/list/tyskie-klasyczne.jpeguntappd: "https://untappd.com/b/tyskie-browary-ksiazece--kompania-piwowarska--tyskie-klasyczne/186042"
+img: /img/list/tyskie-klasyczne.jpeg
+untappd: "https://untappd.com/b/tyskie-browary-ksiazece--kompania-piwowarska--tyskie-klasyczne/186042"
 country: "Poland"
 brewery: "Tyskie Browary Książęce (Kompania Piwowarska)"
 breweryURL: "breweryURL"

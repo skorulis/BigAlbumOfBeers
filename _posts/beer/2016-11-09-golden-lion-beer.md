@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-02-27"
 desc: "A nicely rounded flavour"
 permalink: /beer/:title.html
-img: /img/list/golden-lion-beer.jpeguntappd: "https://untappd.com/b/browar-amber-zlote-lwy--golden-lion/156941"
+img: /img/list/golden-lion-beer.jpeg
+untappd: "https://untappd.com/b/browar-amber-zlote-lwy--golden-lion/156941"
 country: "Poland"
 brewery: "Browar Amber"
 breweryURL: "breweryURL"

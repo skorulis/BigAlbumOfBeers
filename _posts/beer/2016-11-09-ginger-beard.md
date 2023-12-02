@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-01-13"
 desc: "A tasty ginger beer"
 permalink: /beer/:title.html
-img: /img/list/ginger-beard.jpeguntappd: "https://untappd.com/b/wychwood-brewery-ginger-beard/179572"
+img: /img/list/ginger-beard.jpeg
+untappd: "https://untappd.com/b/wychwood-brewery-ginger-beard/179572"
 country: "England"
 brewery: "Wychwood Brewery"
 breweryURL: "breweryURL"

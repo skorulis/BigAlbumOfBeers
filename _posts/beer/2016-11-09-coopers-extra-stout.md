@@ -7,7 +7,8 @@ score: 3
 beer-date: "2013-03-28"
 desc: "Twice the stout taste of a regular stout"
 permalink: /beer/:title.html
-img: /img/list/coopers-extra-stout.jpeguntappd: "https://untappd.com/b/coopers-brewery-best-extra-stout/4933"
+img: /img/list/coopers-extra-stout.jpeg
+untappd: "https://untappd.com/b/coopers-brewery-best-extra-stout/4933"
 country: "Australia"
 brewery: "Coopers Brewery"
 breweryURL: "breweryURL"

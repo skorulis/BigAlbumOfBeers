@@ -7,7 +7,8 @@ score: 7
 beer-date: "2014-03-01"
 desc: "A little harsh"
 permalink: /beer/:title.html
-img: /img/list/flying-dog-snake-dog.jpeguntappd: "https://untappd.com/b/flying-dog-brewery-snake-dog-ipa/3759"
+img: /img/list/flying-dog-snake-dog.jpeg
+untappd: "https://untappd.com/b/flying-dog-brewery-snake-dog-ipa/3759"
 country: "United States"
 brewery: "Flying Dog Brewery"
 breweryURL: "breweryURL"

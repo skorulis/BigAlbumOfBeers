@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-11-12"
 desc: "Very heavy"
 permalink: /beer/:title.html
-img: /img/list/range-morning-ritual.jpeguntappd: "https://untappd.com/b/range-brewing-morning-ritual/3865166"
+img: /img/list/range-morning-ritual.jpeg
+untappd: "https://untappd.com/b/range-brewing-morning-ritual/3865166"
 country: "Australia"
 brewery: "Range Brewing"
 breweryURL: "breweryURL"

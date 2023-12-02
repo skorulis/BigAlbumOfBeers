@@ -7,7 +7,8 @@ score: 7
 beer-date: "2019-11-22"
 desc: "Standard IPA with a little bit of dank hops"
 permalink: /beer/:title.html
-img: /img/list/moondog-edie-s-ipa.jpeguntappd: "https://untappd.com/b/moon-dog-craft-brewery-edies-ipa/3147869"
+img: /img/list/moondog-edie-s-ipa.jpeg
+untappd: "https://untappd.com/b/moon-dog-craft-brewery-edies-ipa/3147869"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
 breweryURL: "breweryURL"

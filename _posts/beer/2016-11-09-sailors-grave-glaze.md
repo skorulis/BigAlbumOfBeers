@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-03-31"
 desc: "Interesting smell and I can’t pick the taste either"
 permalink: /beer/:title.html
-img: /img/list/sailors-grave-glaze.jpeguntappd: "https://untappd.com/b/sailors-grave-brewing-glaze/5162644"
+img: /img/list/sailors-grave-glaze.jpeg
+untappd: "https://untappd.com/b/sailors-grave-brewing-glaze/5162644"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
 breweryURL: "breweryURL"

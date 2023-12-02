@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2021-12-28"
 desc: "Quite mild but with lots of flavour in there. Smells a little bit yeasty but I can’t taste it. Just keeps getting better as I drink it"
 permalink: /beer/:title.html
-img: /img/list/garage-project-progressive-infinite-iterations.jpeguntappd: "https://untappd.com/b/garage-project-progressive-infinite-iterations/4419719"
+img: /img/list/garage-project-progressive-infinite-iterations.jpeg
+untappd: "https://untappd.com/b/garage-project-progressive-infinite-iterations/4419719"
 country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "breweryURL"

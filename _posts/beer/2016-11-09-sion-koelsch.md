@@ -7,7 +7,8 @@ score: 7
 beer-date: "2017-06-15"
 desc: "Malty, low on bitterness and easy drinking. Even Amy had one"
 permalink: /beer/:title.html
-img: /img/list/sion-koelsch.jpeguntappd: "https://untappd.com/b/radeberger-gruppe-sion-kolsch/1643"
+img: /img/list/sion-koelsch.jpeg
+untappd: "https://untappd.com/b/radeberger-gruppe-sion-kolsch/1643"
 country: "Germany"
 brewery: "Radeberger Gruppe"
 breweryURL: "breweryURL"

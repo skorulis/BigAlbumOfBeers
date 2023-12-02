@@ -7,7 +7,8 @@ score: 5
 beer-date: "2020-09-26"
 desc: "Hops and lime. Kind of works, but really not necessary. By the end I was happy to be done with it"
 permalink: /beer/:title.html
-img: /img/list/one-brew-nation-ddh-hazy-pale-ale.jpeguntappd: "https://untappd.com/b/nomad-brewing-co--one-brew-nation-ddh-hazy-pale-ale/3766014"
+img: /img/list/one-brew-nation-ddh-hazy-pale-ale.jpeg
+untappd: "https://untappd.com/b/nomad-brewing-co--one-brew-nation-ddh-hazy-pale-ale/3766014"
 country: "Australia"
 brewery: "Nomad Brewing Co."
 breweryURL: "breweryURL"

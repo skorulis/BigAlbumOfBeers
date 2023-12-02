@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2018-06-02"
 desc: "Well rounded ale. High in booze but low in flavour. Matches well with salty food"
 permalink: /beer/:title.html
-img: /img/list/all-hands-wee-heavy-scottish-ale.jpeguntappd: "https://untappd.com/b/all-hands-brewing-house-wee-heavy-scottish-ale/2642054"
+img: /img/list/all-hands-wee-heavy-scottish-ale.jpeg
+untappd: "https://untappd.com/b/all-hands-brewing-house-wee-heavy-scottish-ale/2642054"
 country: "Australia"
 brewery: "All Hands Brewing House"
 breweryURL: "breweryURL"

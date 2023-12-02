@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-01-29"
 desc: "Not sure why these are always reduced to clear at Dan Murpheys"
 permalink: /beer/:title.html
-img: /img/list/monkey-s-fist.jpeguntappd: "https://untappd.com/b/sail---anchor-monkeys-fist/243916"
+img: /img/list/monkey-s-fist.jpeg
+untappd: "https://untappd.com/b/sail---anchor-monkeys-fist/243916"
 country: "Australia"
 brewery: "Sail & Anchor"
 breweryURL: "breweryURL"

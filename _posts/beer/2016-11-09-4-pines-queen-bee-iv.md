@@ -7,4 +7,5 @@ score: 7
 beer-date: "2019-06-22"
 desc: "It’s a decent imperial. Fairly dead on for the style without any extras. Alcohol comes through a little strong but then it is a strong beer"
 permalink: /beer/:title.html
-img: /img/list/4-pines-queen-bee-iv.jpeg---
+img: /img/list/4-pines-queen-bee-iv.jpeg
+---

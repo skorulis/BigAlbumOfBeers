@@ -7,7 +7,8 @@ score: 4
 beer-date: "2013-05-25"
 desc: "Fizzy bad chocolate"
 permalink: /beer/:title.html
-img: /img/list/floris-chocolat.jpeguntappd: "https://untappd.com/b/brouwerij-huyghe-floris-chocolat/41825"
+img: /img/list/floris-chocolat.jpeg
+untappd: "https://untappd.com/b/brouwerij-huyghe-floris-chocolat/41825"
 country: "Belgium"
 brewery: "Brouwerij Huyghe"
 breweryURL: "breweryURL"

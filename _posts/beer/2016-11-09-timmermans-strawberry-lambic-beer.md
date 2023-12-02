@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-02-01"
 desc: "Not too much strawberry"
 permalink: /beer/:title.html
-img: /img/list/timmermans-strawberry-lambic-beer.jpeguntappd: "https://untappd.com/b/brewery-john-martin---brewery-timmermans-strawberry-lambicus/19054"
+img: /img/list/timmermans-strawberry-lambic-beer.jpeg
+untappd: "https://untappd.com/b/brewery-john-martin---brewery-timmermans-strawberry-lambicus/19054"
 country: "Belgium"
 brewery: "Brewery John Martin & Brewery Timmermans"
 breweryURL: "breweryURL"

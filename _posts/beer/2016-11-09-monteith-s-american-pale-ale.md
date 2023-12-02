@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-05-01"
 desc: "Was hoping for a hoppier taste. More of a pale ale for getting smashed"
 permalink: /beer/:title.html
-img: /img/list/monteith-s-american-pale-ale.jpeguntappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-american-pale-ale/593457"
+img: /img/list/monteith-s-american-pale-ale.jpeg
+untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-american-pale-ale/593457"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
 breweryURL: "breweryURL"

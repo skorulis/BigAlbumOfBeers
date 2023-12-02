@@ -7,7 +7,8 @@ score: 6
 beer-date: "2022-09-21"
 desc: "Pretty plain pale ale"
 permalink: /beer/:title.html
-img: /img/list/liberty-oh-bro-pale-ale.jpeguntappd: "https://untappd.com/b/liberty-brewing-oh-bro/403678"
+img: /img/list/liberty-oh-bro-pale-ale.jpeg
+untappd: "https://untappd.com/b/liberty-brewing-oh-bro/403678"
 country: "New Zealand"
 brewery: "Liberty Brewing"
 breweryURL: "breweryURL"

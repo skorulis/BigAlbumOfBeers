@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-10-28"
 desc: "A little too bitter for my liking but easy drinking once you get used to it"
 permalink: /beer/:title.html
-img: /img/list/basement-brewhouse-helles-lager.jpeguntappd: "https://untappd.com/b/basement-brewhouse-helles-lager/2301267"
+img: /img/list/basement-brewhouse-helles-lager.jpeg
+untappd: "https://untappd.com/b/basement-brewhouse-helles-lager/2301267"
 country: "Australia"
 brewery: "Basement Brewhouse"
 breweryURL: "breweryURL"

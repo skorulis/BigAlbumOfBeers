@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-05-24"
 desc: "Pretty much a red IPA. Nice flavour but doesn't have as much floral aroma as I like"
 permalink: /beer/:title.html
-img: /img/list/batch-seeing-red-ira.jpeguntappd: "https://untappd.com/b/batch-brewing-company-seeing-red-ira/1447473"
+img: /img/list/batch-seeing-red-ira.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company-seeing-red-ira/1447473"
 country: "Australia"
 brewery: "Batch Brewing Company"
 breweryURL: "breweryURL"

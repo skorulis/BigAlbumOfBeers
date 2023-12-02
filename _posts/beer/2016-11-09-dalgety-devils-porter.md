@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "I was expecting some chilli, but it’s more of a normal porter"
 permalink: /beer/:title.html
-img: /img/list/dalgety-devils-porter.jpeguntappd: "https://untappd.com/b/dalgety-brewing-company-devils-porter/3500095"
+img: /img/list/dalgety-devils-porter.jpeg
+untappd: "https://untappd.com/b/dalgety-brewing-company-devils-porter/3500095"
 country: "Australia"
 brewery: "Dalgety Brewing Company"
 breweryURL: "breweryURL"

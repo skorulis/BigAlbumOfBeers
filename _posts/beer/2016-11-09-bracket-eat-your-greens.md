@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2022-08-07"
 desc: "Another good hazy. Goes down very easy"
 permalink: /beer/:title.html
-img: /img/list/bracket-eat-your-greens.jpeguntappd: "https://untappd.com/b/bracket-brewing-eat-your-greens/4827078"
+img: /img/list/bracket-eat-your-greens.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-eat-your-greens/4827078"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2013-03-09"
 desc: "Very similar to their other beer. Just a tad stronger"
 permalink: /beer/:title.html
-img: /img/list/krusovice-musketyr.jpeguntappd: "https://untappd.com/b/krusovice-musketyr/23588"
+img: /img/list/krusovice-musketyr.jpeg
+untappd: "https://untappd.com/b/krusovice-musketyr/23588"
 country: "Czech Republic"
 brewery: "Krušovice"
 breweryURL: "breweryURL"

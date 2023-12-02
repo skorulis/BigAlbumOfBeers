@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-02-28"
 desc: "Fairly mild red IPA"
 permalink: /beer/:title.html
-img: /img/list/reckless-red-ipa.jpeguntappd: "https://untappd.com/b/reckless-brewing-co--red-ipa/3704835"
+img: /img/list/reckless-red-ipa.jpeg
+untappd: "https://untappd.com/b/reckless-brewing-co--red-ipa/3704835"
 country: "Australia"
 brewery: "Reckless Brewing Co."
 breweryURL: "breweryURL"

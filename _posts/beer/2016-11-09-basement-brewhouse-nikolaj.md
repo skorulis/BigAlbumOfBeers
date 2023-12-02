@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2019-06-22"
 desc: "Almost creamy on the tip of the tongue with deliciousness all the way through"
 permalink: /beer/:title.html
-img: /img/list/basement-brewhouse-nikolaj.jpeguntappd: "https://untappd.com/b/basement-brewhouse-pilot-11-nicolaj/3216414"
+img: /img/list/basement-brewhouse-nikolaj.jpeg
+untappd: "https://untappd.com/b/basement-brewhouse-pilot-11-nicolaj/3216414"
 country: "Australia"
 brewery: "Basement Brewhouse"
 breweryURL: "breweryURL"

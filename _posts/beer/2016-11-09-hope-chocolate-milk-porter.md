@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2020-07-31"
 desc: "Very chocolaty"
 permalink: /beer/:title.html
-img: /img/list/hope-chocolate-milk-porter.jpeguntappd: "https://untappd.com/b/hope-brewery-chocolate-milk-porter/1064539"
+img: /img/list/hope-chocolate-milk-porter.jpeg
+untappd: "https://untappd.com/b/hope-brewery-chocolate-milk-porter/1064539"
 country: "Australia"
 brewery: "Hope Brewery"
 breweryURL: "breweryURL"

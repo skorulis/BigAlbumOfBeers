@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-02-26"
 desc: "Pretty plain but decent flavour for a session ale"
 permalink: /beer/:title.html
-img: /img/list/newstead-square-1.jpeguntappd: "https://untappd.com/b/newstead-brewing-co--square-1/4952675"
+img: /img/list/newstead-square-1.jpeg
+untappd: "https://untappd.com/b/newstead-brewing-co--square-1/4952675"
 country: "Australia"
 brewery: "Newstead Brewing Co."
 breweryURL: "breweryURL"

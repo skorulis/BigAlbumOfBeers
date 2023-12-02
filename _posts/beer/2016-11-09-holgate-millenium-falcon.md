@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-03-28"
 desc: "A mild IPA for the booze content"
 permalink: /beer/:title.html
-img: /img/list/holgate-millenium-falcon.jpeguntappd: "https://untappd.com/b/holgate-brewhouse-millennium-falcon/313871"
+img: /img/list/holgate-millenium-falcon.jpeg
+untappd: "https://untappd.com/b/holgate-brewhouse-millennium-falcon/313871"
 country: "Australia"
 brewery: "Holgate Brewhouse"
 breweryURL: "breweryURL"

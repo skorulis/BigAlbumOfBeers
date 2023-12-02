@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Tastes like mulberries mixed with a stout"
 permalink: /beer/:title.html
-img: /img/list/range-dusk-till-dawn.jpeguntappd: "https://untappd.com/b/range-brewing-dusk-till-dawn/4479939"
+img: /img/list/range-dusk-till-dawn.jpeg
+untappd: "https://untappd.com/b/range-brewing-dusk-till-dawn/4479939"
 country: "Australia"
 brewery: "Range Brewing"
 breweryURL: "breweryURL"

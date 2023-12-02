@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-08-18"
 desc: "Pretty mundane"
 permalink: /beer/:title.html
-img: /img/list/point-pale-ale.jpeguntappd: "https://untappd.com/b/stevens-point-brewery-cascade-pale-ale/2760"
+img: /img/list/point-pale-ale.jpeg
+untappd: "https://untappd.com/b/stevens-point-brewery-cascade-pale-ale/2760"
 country: "United States"
 brewery: "Stevens Point Brewery"
 breweryURL: "breweryURL"

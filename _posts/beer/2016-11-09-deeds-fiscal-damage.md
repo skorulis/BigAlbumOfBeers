@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2021-04-02"
 desc: "Looks super juicy and smells exactly like it looks. Lots of orange and citrus. There’s a little bit extra sourness that masks some of the fruity flavours. Enough booze to warm you up"
 permalink: /beer/:title.html
-img: /img/list/deeds-fiscal-damage.jpeguntappd: "https://untappd.com/b/deeds-brewing-fiscal-damage/3572399"
+img: /img/list/deeds-fiscal-damage.jpeg
+untappd: "https://untappd.com/b/deeds-brewing-fiscal-damage/3572399"
 country: "Australia"
 brewery: "Deeds Brewing"
 breweryURL: "breweryURL"

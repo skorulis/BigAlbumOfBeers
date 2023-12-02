@@ -7,7 +7,8 @@ score: 6
 beer-date: "2018-02-17"
 desc: "Just plain average. It’s got a little hoppiness but otherwise it would be a lager"
 permalink: /beer/:title.html
-img: /img/list/panhead-quickchange-xpa.jpeguntappd: "https://untappd.com/b/panhead-custom-ales-quickchange-xpa/425693"
+img: /img/list/panhead-quickchange-xpa.jpeg
+untappd: "https://untappd.com/b/panhead-custom-ales-quickchange-xpa/425693"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
 breweryURL: "breweryURL"

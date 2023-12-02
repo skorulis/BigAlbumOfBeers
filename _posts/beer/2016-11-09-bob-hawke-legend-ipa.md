@@ -7,4 +7,5 @@ score: 7
 beer-date: "2022-08-07"
 desc: "Very malty for an IPA. Missing any big hops"
 permalink: /beer/:title.html
-img: /img/list/bob-hawke-legend-ipa.jpeg---
+img: /img/list/bob-hawke-legend-ipa.jpeg
+---

@@ -7,7 +7,8 @@ score: 4
 beer-date: "2012-12-25"
 desc: "Gave my taste buds a thumping"
 permalink: /beer/:title.html
-img: /img/list/old-thumper.jpeguntappd: "https://untappd.com/b/shipyard-brewing-company-old-thumper/46857"
+img: /img/list/old-thumper.jpeg
+untappd: "https://untappd.com/b/shipyard-brewing-company-old-thumper/46857"
 country: "United States"
 brewery: "Shipyard Brewing Company"
 breweryURL: "breweryURL"

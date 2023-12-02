@@ -7,7 +7,8 @@ score: 8
 beer-date: "2017-05-27"
 desc: "It's a good level of smoke but lacks much else"
 permalink: /beer/:title.html
-img: /img/list/grifter-demon-lungs.jpeguntappd: "https://untappd.com/b/grifter-brewing-company-demon-lungs/1326027"
+img: /img/list/grifter-demon-lungs.jpeg
+untappd: "https://untappd.com/b/grifter-brewing-company-demon-lungs/1326027"
 country: "Australia"
 brewery: "Grifter Brewing Company"
 breweryURL: "breweryURL"

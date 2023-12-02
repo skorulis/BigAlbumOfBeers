@@ -7,7 +7,8 @@ score: 7
 beer-date: "2017-08-06"
 desc: "Nice slightly Belgian ale. Pretty easy drinking"
 permalink: /beer/:title.html
-img: /img/list/tumut-river-blonde.jpeguntappd: "https://untappd.com/b/tumut-river-brewing-co-blowering-blonde/835210"
+img: /img/list/tumut-river-blonde.jpeg
+untappd: "https://untappd.com/b/tumut-river-brewing-co-blowering-blonde/835210"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-01-13"
 desc: "A quality strong flavour"
 permalink: /beer/:title.html
-img: /img/list/sierra-nevada-pale-ale.jpeguntappd: "https://untappd.com/b/sierra-nevada-brewing-co--pale-ale/6284"
+img: /img/list/sierra-nevada-pale-ale.jpeg
+untappd: "https://untappd.com/b/sierra-nevada-brewing-co--pale-ale/6284"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6
 beer-date: "2021-12-28"
 desc: "Kind of bland. Expected more from Pirate life"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-betty-s-beer.jpeguntappd: "https://untappd.com/b/pirate-life-brewing-bettys-beer/4089143"
+img: /img/list/pirate-life-betty-s-beer.jpeg
+untappd: "https://untappd.com/b/pirate-life-brewing-bettys-beer/4089143"
 country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2018-06-02"
 desc: "Lots of vanilla and chocolate without much stoutyness. Smooth and easy drinking"
 permalink: /beer/:title.html
-img: /img/list/rehn-extra-stout.jpeguntappd: "https://untappd.com/b/rehn-bier-extra-stout/378916"
+img: /img/list/rehn-extra-stout.jpeg
+untappd: "https://untappd.com/b/rehn-bier-extra-stout/378916"
 country: "Australia"
 brewery: "Rehn Bier"
 breweryURL: "breweryURL"

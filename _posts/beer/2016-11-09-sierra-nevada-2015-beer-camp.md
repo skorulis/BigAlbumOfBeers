@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-10-17"
 desc: "Not a favourite but a well rounded flavour"
 permalink: /beer/:title.html
-img: /img/list/sierra-nevada-2015-beer-camp.jpeguntappd: "https://untappd.com/b/sierra-nevada-brewing-co--beer-camp-hoppy-lager--2015-/912763"
+img: /img/list/sierra-nevada-2015-beer-camp.jpeg
+untappd: "https://untappd.com/b/sierra-nevada-brewing-co--beer-camp-hoppy-lager--2015-/912763"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
 breweryURL: "breweryURL"

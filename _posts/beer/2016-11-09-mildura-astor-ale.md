@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-01-28"
 desc: "Pretty average"
 permalink: /beer/:title.html
-img: /img/list/mildura-astor-ale.jpeguntappd: "https://untappd.com/b/mildura-brewery-astor-ale/536443"
+img: /img/list/mildura-astor-ale.jpeg
+untappd: "https://untappd.com/b/mildura-brewery-astor-ale/536443"
 country: "Australia"
 brewery: "Mildura Brewery"
 breweryURL: "breweryURL"

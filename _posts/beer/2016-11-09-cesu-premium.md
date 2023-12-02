@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-09-01"
 desc: "A bit wrong"
 permalink: /beer/:title.html
-img: /img/list/cesu-premium.jpeguntappd: "https://untappd.com/b/cesu-alus-cesu-premium/745853"
+img: /img/list/cesu-premium.jpeg
+untappd: "https://untappd.com/b/cesu-alus-cesu-premium/745853"
 country: "Latvia"
 brewery: "Cēsu Alus"
 breweryURL: "breweryURL"

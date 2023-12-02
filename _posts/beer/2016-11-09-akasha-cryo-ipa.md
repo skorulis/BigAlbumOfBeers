@@ -7,7 +7,8 @@ score: 8
 beer-date: "2019-11-22"
 desc: "A mostly piney IPA. Has that perfect level of heavyness for an IPA. Not too bitter to have with food"
 permalink: /beer/:title.html
-img: /img/list/akasha-cryo-ipa.jpeguntappd: "https://untappd.com/b/akasha-brewing-company--australia--cryo-ipa/3356284"
+img: /img/list/akasha-cryo-ipa.jpeg
+untappd: "https://untappd.com/b/akasha-brewing-company--australia--cryo-ipa/3356284"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
 breweryURL: "breweryURL"

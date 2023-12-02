@@ -7,7 +7,8 @@ score: 8
 beer-date: "2016-05-24"
 desc: "Strong on flavour, big on hops"
 permalink: /beer/:title.html
-img: /img/list/grifter-big-sur.jpeguntappd: "https://untappd.com/b/grifter-brewing-company-big-sur/484287"
+img: /img/list/grifter-big-sur.jpeg
+untappd: "https://untappd.com/b/grifter-brewing-company-big-sur/484287"
 country: "Australia"
 brewery: "Grifter Brewing Company"
 breweryURL: "breweryURL"

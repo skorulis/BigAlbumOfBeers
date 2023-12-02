@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2022-09-21"
 desc: "Pretty standard lager. Does the trick"
 permalink: /beer/:title.html
-img: /img/list/steinlager-classic.jpeguntappd: "https://untappd.com/b/lion-breweries-nz-steinlager-classic/5992"
+img: /img/list/steinlager-classic.jpeg
+untappd: "https://untappd.com/b/lion-breweries-nz-steinlager-classic/5992"
 country: "New Zealand"
 brewery: "Lion Breweries NZ"
 breweryURL: "breweryURL"

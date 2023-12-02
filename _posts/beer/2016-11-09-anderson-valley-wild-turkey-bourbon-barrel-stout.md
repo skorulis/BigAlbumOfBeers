@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-01-07"
 desc: "Better than I expected, but then I was pretty worried about this one"
 permalink: /beer/:title.html
-img: /img/list/anderson-valley-wild-turkey-bourbon-barrel-stout.jpeguntappd: "https://untappd.com/b/anderson-valley-brewing-company-wild-turkey-bourbon-barrel-stout/130880"
+img: /img/list/anderson-valley-wild-turkey-bourbon-barrel-stout.jpeg
+untappd: "https://untappd.com/b/anderson-valley-brewing-company-wild-turkey-bourbon-barrel-stout/130880"
 country: "United States"
 brewery: "Anderson Valley Brewing Company"
 breweryURL: "breweryURL"

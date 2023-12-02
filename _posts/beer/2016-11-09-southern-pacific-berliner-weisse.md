@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-02-26"
 desc: "Nice level of sourness. Very on point"
 permalink: /beer/:title.html
-img: /img/list/southern-pacific-berliner-weisse.jpeguntappd: "https://untappd.com/b/southern-pacific-brewing-berliner-weisse/2125369"
+img: /img/list/southern-pacific-berliner-weisse.jpeg
+untappd: "https://untappd.com/b/southern-pacific-brewing-berliner-weisse/2125369"
 country: "United States"
 brewery: "Southern Pacific Brewing"
 breweryURL: "breweryURL"

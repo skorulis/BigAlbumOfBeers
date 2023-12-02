@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2020-07-31"
 desc: "Tastes like a vodka lime soda. Kind of nostalgic from my younger days. Loses half a point because there’s not enough booze"
 permalink: /beer/:title.html
-img: /img/list/hope-lemon-lime-sour.jpeguntappd: "https://untappd.com/b/hope-brewery-lemon-and-lime-sour/3289679"
+img: /img/list/hope-lemon-lime-sour.jpeg
+untappd: "https://untappd.com/b/hope-brewery-lemon-and-lime-sour/3289679"
 country: "Australia"
 brewery: "Hope Brewery"
 breweryURL: "breweryURL"

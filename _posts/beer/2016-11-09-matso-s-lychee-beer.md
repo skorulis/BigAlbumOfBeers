@@ -7,7 +7,8 @@ score: 5
 beer-date: "2015-02-27"
 desc: "Too sweet for me, just doesn’t take like a beer anymore"
 permalink: /beer/:title.html
-img: /img/list/matso-s-lychee-beer.jpeguntappd: "https://untappd.com/b/matsos-broome-brewery-lychee-beer/232962"
+img: /img/list/matso-s-lychee-beer.jpeg
+untappd: "https://untappd.com/b/matsos-broome-brewery-lychee-beer/232962"
 country: "Australia"
 brewery: "Matso's Broome Brewery"
 breweryURL: "breweryURL"

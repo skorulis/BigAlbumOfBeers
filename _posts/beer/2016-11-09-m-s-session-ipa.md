@@ -7,7 +7,8 @@ score: 6
 beer-date: "2023-09-06"
 desc: "Unexciting, like a brew by numbers"
 permalink: /beer/:title.html
-img: /img/list/m-s-session-ipa.jpeguntappd: "https://untappd.com/b/marks---spencer-session-ipa--fourpure-/4282278"
+img: /img/list/m-s-session-ipa.jpeg
+untappd: "https://untappd.com/b/marks---spencer-session-ipa--fourpure-/4282278"
 country: "England"
 brewery: "Marks & Spencer"
 breweryURL: "breweryURL"

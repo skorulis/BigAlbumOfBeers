@@ -7,7 +7,8 @@ score: 9
 beer-date: "2021-01-01"
 desc: "Slightly dank but well rounded. Very nice IPA"
 permalink: /beer/:title.html
-img: /img/list/philter-iipa.jpeguntappd: "https://untappd.com/b/philter-brewing-iipa/3958365"
+img: /img/list/philter-iipa.jpeg
+untappd: "https://untappd.com/b/philter-brewing-iipa/3958365"
 country: "Australia"
 brewery: "Philter Brewing"
 breweryURL: "breweryURL"

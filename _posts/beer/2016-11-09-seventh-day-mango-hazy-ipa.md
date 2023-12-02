@@ -7,7 +7,8 @@ score: 8
 beer-date: "2023-02-28"
 desc: "Fairly mild on the mango but it is there. More of a pale ale. Nothing crazy about this but very easy to smash. A good beer to buy a case of"
 permalink: /beer/:title.html
-img: /img/list/seventh-day-mango-hazy-ipa.jpeguntappd: "https://untappd.com/b/7th-day-brewing-mango-hazy-ipa/3695127"
+img: /img/list/seventh-day-mango-hazy-ipa.jpeg
+untappd: "https://untappd.com/b/7th-day-brewing-mango-hazy-ipa/3695127"
 country: "Australia"
 brewery: "7th Day Brewing"
 breweryURL: "breweryURL"

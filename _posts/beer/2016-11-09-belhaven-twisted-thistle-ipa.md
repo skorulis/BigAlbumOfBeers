@@ -7,7 +7,8 @@ score: 6
 beer-date: "2016-02-14"
 desc: "Started off with a bit of a tang but seemed to lose it towards the end"
 permalink: /beer/:title.html
-img: /img/list/belhaven-twisted-thistle-ipa.jpeguntappd: "https://untappd.com/b/belhaven-brewery-twisted-thistle-ipa/421"
+img: /img/list/belhaven-twisted-thistle-ipa.jpeg
+untappd: "https://untappd.com/b/belhaven-brewery-twisted-thistle-ipa/421"
 country: "Scotland"
 brewery: "Belhaven Brewery"
 breweryURL: "breweryURL"

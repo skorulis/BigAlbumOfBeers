@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-07-19"
 desc: "A strange taste. Almost like a lambic. Even enjoyed by non beer drinkers"
 permalink: /beer/:title.html
-img: /img/list/blas-trigo.jpegcountry: "Spain"
+img: /img/list/blas-trigo.jpeg
+country: "Spain"
 brewery: "Tito Blas"
 breweryURL: "breweryURL"
 ---

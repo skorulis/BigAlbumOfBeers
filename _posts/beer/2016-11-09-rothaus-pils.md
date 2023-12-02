@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-01-13"
 desc: ""
 permalink: /beer/:title.html
-img: /img/list/rothaus-pils.jpeguntappd: "https://untappd.com/b/badische-staatsbrauerei-rothaus-rothaus-pils--tannen-zapfle/2395"
+img: /img/list/rothaus-pils.jpeg
+untappd: "https://untappd.com/b/badische-staatsbrauerei-rothaus-rothaus-pils--tannen-zapfle/2395"
 country: "Germany"
 brewery: "Badische Staatsbrauerei Rothaus"
 breweryURL: "breweryURL"

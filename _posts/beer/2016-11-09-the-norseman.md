@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-10-25"
 desc: "An average ale"
 permalink: /beer/:title.html
-img: /img/list/the-norseman.jpeguntappd: "https://untappd.com/b/ilkley-brewery-co--the-norseman/333780"
+img: /img/list/the-norseman.jpeg
+untappd: "https://untappd.com/b/ilkley-brewery-co--the-norseman/333780"
 country: "England"
 brewery: "Ilkley Brewery Co."
 breweryURL: "breweryURL"

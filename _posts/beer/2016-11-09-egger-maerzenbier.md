@@ -7,7 +7,8 @@ score: 5
 beer-date: "2017-06-15"
 desc: "Just a regular lager"
 permalink: /beer/:title.html
-img: /img/list/egger-maerzenbier.jpeguntappd: "https://untappd.com/b/privatbrauerei-fritz-egger-egger-marzenbier/84114"
+img: /img/list/egger-maerzenbier.jpeg
+untappd: "https://untappd.com/b/privatbrauerei-fritz-egger-egger-marzenbier/84114"
 country: "Austria"
 brewery: "Privatbrauerei Fritz Egger"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 8
 beer-date: "2022-08-07"
 desc: "Very light but with some flavour deep in there. Quite a good session pale ale"
 permalink: /beer/:title.html
-img: /img/list/blackflag-kick-ons.jpeguntappd: "https://untappd.com/b/blackflag-brewing-kick-ons/3482028"
+img: /img/list/blackflag-kick-ons.jpeg
+untappd: "https://untappd.com/b/blackflag-brewing-kick-ons/3482028"
 country: "Australia"
 brewery: "Blackflag Brewing"
 breweryURL: "breweryURL"

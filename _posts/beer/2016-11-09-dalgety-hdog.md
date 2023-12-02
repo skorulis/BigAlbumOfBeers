@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2022-08-07"
 desc: "It’s ok, probably a bit heavy for how much I’ve eaten today"
 permalink: /beer/:title.html
-img: /img/list/dalgety-hdog.jpeguntappd: "https://untappd.com/b/dalgety-brewing-company-h-dog/2714770"
+img: /img/list/dalgety-hdog.jpeg
+untappd: "https://untappd.com/b/dalgety-brewing-company-h-dog/2714770"
 country: "Australia"
 brewery: "Dalgety Brewing Company"
 breweryURL: "breweryURL"

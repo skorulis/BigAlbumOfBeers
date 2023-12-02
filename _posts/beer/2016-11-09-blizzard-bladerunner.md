@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2017-08-21"
 desc: "Fairly mild on the Belgian flavours which lets some more hops come through. Solid beer all the way and well rounded"
 permalink: /beer/:title.html
-img: /img/list/blizzard-bladerunner.jpeguntappd: "https://untappd.com/b/blizzard-brewing-company-bladerunner/1864685"
+img: /img/list/blizzard-bladerunner.jpeg
+untappd: "https://untappd.com/b/blizzard-brewing-company-bladerunner/1864685"
 country: "Australia"
 brewery: "Blizzard Brewing Company"
 breweryURL: "breweryURL"

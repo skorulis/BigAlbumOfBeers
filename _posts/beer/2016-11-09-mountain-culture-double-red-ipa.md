@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-11-13"
 desc: "Very rich red ale with a good kick"
 permalink: /beer/:title.html
-img: /img/list/mountain-culture-double-red-ipa.jpeguntappd: "https://untappd.com/b/mountain-culture-beer-co--double-red-ipa/3475047"
+img: /img/list/mountain-culture-double-red-ipa.jpeg
+untappd: "https://untappd.com/b/mountain-culture-beer-co--double-red-ipa/3475047"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
 breweryURL: "breweryURL"

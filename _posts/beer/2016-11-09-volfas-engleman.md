@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-09-01"
 desc: "Unimpressive"
 permalink: /beer/:title.html
-img: /img/list/volfas-engleman.jpeguntappd: "https://untappd.com/b/volfas-engelman-rinktinis/87115"
+img: /img/list/volfas-engleman.jpeg
+untappd: "https://untappd.com/b/volfas-engelman-rinktinis/87115"
 country: "Lithuania"
 brewery: "Volfas Engelman"
 breweryURL: "breweryURL"

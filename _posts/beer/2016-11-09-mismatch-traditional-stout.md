@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-07-31"
 desc: "Very robust stout. Rich deep roasted flavours but light on the coffee. Surprisingly easy to drink which feels like I could have quite a lot of these"
 permalink: /beer/:title.html
-img: /img/list/mismatch-traditional-stout.jpeguntappd: "https://untappd.com/b/mismatch-brewing-company-traditional-stout/3811600"
+img: /img/list/mismatch-traditional-stout.jpeg
+untappd: "https://untappd.com/b/mismatch-brewing-company-traditional-stout/3811600"
 country: "Australia"
 brewery: "Mismatch Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-09-21"
 desc: "Pretty mild for a hazy. Feels like it’s missing something"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-hazy.jpeguntappd: "https://untappd.com/b/pirate-life-brewing-hazy-ipa/3948075"
+img: /img/list/pirate-life-hazy.jpeg
+untappd: "https://untappd.com/b/pirate-life-brewing-hazy-ipa/3948075"
 country: "Australia"
 brewery: "Pirate Life Brewing"
 breweryURL: "breweryURL"

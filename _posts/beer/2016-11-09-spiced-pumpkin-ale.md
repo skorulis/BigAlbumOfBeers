@@ -7,7 +7,8 @@ score: 6
 beer-date: "2017-01-21"
 desc: "Has the pumpkin spice taste but the aftertaste has something confusing that slightly ruins it"
 permalink: /beer/:title.html
-img: /img/list/spiced-pumpkin-ale.jpeguntappd: "https://untappd.com/b/young-henrys-brewing-company-pocket-city-pumpkin-ale/1627539"
+img: /img/list/spiced-pumpkin-ale.jpeg
+untappd: "https://untappd.com/b/young-henrys-brewing-company-pocket-city-pumpkin-ale/1627539"
 country: "Australia"
 brewery: "Young Henrys Brewing Company"
 breweryURL: "breweryURL"

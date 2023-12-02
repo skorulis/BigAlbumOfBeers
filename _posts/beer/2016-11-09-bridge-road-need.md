@@ -7,7 +7,8 @@ score: 6
 beer-date: "2021-04-02"
 desc: "Heavy bitterness and some acidity. Not much else"
 permalink: /beer/:title.html
-img: /img/list/bridge-road-need.jpeguntappd: "https://untappd.com/b/bridge-road-brewers-need---ipa-vol-2---west-coast/4158728"
+img: /img/list/bridge-road-need.jpeg
+untappd: "https://untappd.com/b/bridge-road-brewers-need---ipa-vol-2---west-coast/4158728"
 country: "Australia"
 brewery: "Bridge Road Brewers"
 breweryURL: "breweryURL"

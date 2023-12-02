@@ -7,7 +7,8 @@ score: 6
 beer-date: "2022-08-07"
 desc: "A bit boring"
 permalink: /beer/:title.html
-img: /img/list/frueh-koelsch.jpeguntappd: "https://untappd.com/b/colner-hofbrau-fruh-fruh-kolsch/1639"
+img: /img/list/frueh-koelsch.jpeg
+untappd: "https://untappd.com/b/colner-hofbrau-fruh-fruh-kolsch/1639"
 country: "Germany"
 brewery: "Cölner Hofbräu Früh"
 breweryURL: "breweryURL"

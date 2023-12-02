@@ -7,7 +7,8 @@ score: 6
 beer-date: "2018-06-02"
 desc: "Very strange mix with a salt rim. There’s something else in there but the salt overpowers it. Most of the chilli sank to the bottom so it wasn’t as spicy as described"
 permalink: /beer/:title.html
-img: /img/list/michelada.jpeguntappd: "https://untappd.com/b/anheuser-busch-michelob-ultra/6655"
+img: /img/list/michelada.jpeg
+untappd: "https://untappd.com/b/anheuser-busch-michelob-ultra/6655"
 country: "United States"
 brewery: "Anheuser-Busch"
 breweryURL: "breweryURL"

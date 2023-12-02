@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2021-11-12"
 desc: "Super mellow and hoppy. Great easy drinking hazy IPA"
 permalink: /beer/:title.html
-img: /img/list/bracket-over-the-fence.jpeguntappd: "https://untappd.com/b/bracket-brewing-over-the-fence/4526556"
+img: /img/list/bracket-over-the-fence.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-over-the-fence/4526556"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2017-10-28"
 desc: "Fairly mild wheat flavour, easy drinking. Feels like it's missing something"
 permalink: /beer/:title.html
-img: /img/list/capital-spring-board-pale-wheat-ale.jpeguntappd: "https://untappd.com/b/capital-brewing-co-spring-board/1729062"
+img: /img/list/capital-spring-board-pale-wheat-ale.jpeg
+untappd: "https://untappd.com/b/capital-brewing-co-spring-board/1729062"
 country: "Australia"
 brewery: "Capital Brewing Co"
 breweryURL: "breweryURL"

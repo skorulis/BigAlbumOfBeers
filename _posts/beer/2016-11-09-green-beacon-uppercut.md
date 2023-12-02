@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2019-06-22"
 desc: "Strong bitter double IPA"
 permalink: /beer/:title.html
-img: /img/list/green-beacon-uppercut.jpeguntappd: "https://untappd.com/b/green-beacon-brewing-co-uppercut-ddh-iipa/3167083"
+img: /img/list/green-beacon-uppercut.jpeg
+untappd: "https://untappd.com/b/green-beacon-brewing-co-uppercut-ddh-iipa/3167083"
 country: "Australia"
 brewery: "Green Beacon Brewing Co"
 breweryURL: "breweryURL"

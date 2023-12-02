@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2023-02-26"
 desc: "Pretty standard hazy"
 permalink: /beer/:title.html
-img: /img/list/batch-dash-and-dine.jpeguntappd: "https://untappd.com/b/batch-brewing-company--australia--dash---dine-hazy-ipa/4993391"
+img: /img/list/batch-dash-and-dine.jpeg
+untappd: "https://untappd.com/b/batch-brewing-company--australia--dash---dine-hazy-ipa/4993391"
 country: "Australia"
 brewery: "Batch Brewing Company (Australia)"
 breweryURL: "breweryURL"

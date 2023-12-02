@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-03-31"
 desc: "Very fruity beer. Maybe a little astringent"
 permalink: /beer/:title.html
-img: /img/list/dainton-island-jam.jpeguntappd: "https://untappd.com/b/dainton-beer-island-jam/5219262"
+img: /img/list/dainton-island-jam.jpeg
+untappd: "https://untappd.com/b/dainton-beer-island-jam/5219262"
 country: "Australia"
 brewery: "Dainton Beer"
 breweryURL: "breweryURL"

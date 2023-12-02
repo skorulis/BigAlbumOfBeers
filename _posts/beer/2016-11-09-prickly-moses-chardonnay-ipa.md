@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-07-10"
 desc: "A mild IPA that really hits the spot. Nice floral aroma"
 permalink: /beer/:title.html
-img: /img/list/prickly-moses-chardonnay-ipa.jpeguntappd: "https://untappd.com/b/prickly-moses-chardonnay-ipa/483789"
+img: /img/list/prickly-moses-chardonnay-ipa.jpeg
+untappd: "https://untappd.com/b/prickly-moses-chardonnay-ipa/483789"
 country: "Australia"
 brewery: "Prickly Moses"
 breweryURL: "breweryURL"

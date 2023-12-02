@@ -7,7 +7,8 @@ score: 9
 beer-date: "2017-03-03"
 desc: "Like Nutella in beer form but also not at all. Nutty, chocolaty, smooth and oh so dark. Rather filling for a beer which makes me happy with one despite it being a tasty beer"
 permalink: /beer/:title.html
-img: /img/list/la-sirene-praline.jpeguntappd: "https://untappd.com/b/la-sirene-brewing-praline/665404"
+img: /img/list/la-sirene-praline.jpeg
+untappd: "https://untappd.com/b/la-sirene-brewing-praline/665404"
 country: "Australia"
 brewery: "La Sirène Brewing"
 breweryURL: "breweryURL"

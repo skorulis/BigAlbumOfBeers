@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2017-05-27"
 desc: "Very orange in color, smells a little like an unpeeled orange but it doesn’t really carry through to the flavour. I like the idea but it doesn’t come together that well"
 permalink: /beer/:title.html
-img: /img/list/sierra-nevada-sidecar.jpeguntappd: "https://untappd.com/b/sierra-nevada-brewing-co--sidecar-orange-pale-ale/1695697"
+img: /img/list/sierra-nevada-sidecar.jpeg
+untappd: "https://untappd.com/b/sierra-nevada-brewing-co--sidecar-orange-pale-ale/1695697"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 5.5
 beer-date: "2023-02-26"
 desc: "Pretty plain with some extra bitterness"
 permalink: /beer/:title.html
-img: /img/list/drakes-1500-pale-ale.jpeguntappd: "https://untappd.com/b/drakes-brewing-company-1500/6914"
+img: /img/list/drakes-1500-pale-ale.jpeg
+untappd: "https://untappd.com/b/drakes-brewing-company-1500/6914"
 country: "United States"
 brewery: "Drake's Brewing Company"
 breweryURL: "breweryURL"

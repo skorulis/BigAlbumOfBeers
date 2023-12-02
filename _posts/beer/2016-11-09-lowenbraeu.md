@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-08-15"
 desc: "An old favourite"
 permalink: /beer/:title.html
-img: /img/list/lowenbraeu.jpeguntappd: "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-lowenbrau-original/25914"
+img: /img/list/lowenbraeu.jpeg
+untappd: "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-lowenbrau-original/25914"
 country: "Germany"
 brewery: "Spaten-Franziskaner-Löwenbräu-Gruppe"
 breweryURL: "breweryURL"

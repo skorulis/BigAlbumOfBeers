@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-03-28"
 desc: "Rather nice"
 permalink: /beer/:title.html
-img: /img/list/moo-brew-pilsner.jpeguntappd: "https://untappd.com/b/moo-brew-pilsner/25850"
+img: /img/list/moo-brew-pilsner.jpeg
+untappd: "https://untappd.com/b/moo-brew-pilsner/25850"
 country: "Australia"
 brewery: "Moo Brew"
 breweryURL: "breweryURL"

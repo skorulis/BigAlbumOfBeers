@@ -7,7 +7,8 @@ score: 8
 beer-date: "2021-11-12"
 desc: "Another creamy and hoppy beer. Very rounded taste which leaves very little afterwards"
 permalink: /beer/:title.html
-img: /img/list/bracket-mosaic-haze.jpeguntappd: "https://untappd.com/b/bracket-brewing-mosaic-haze/4331727"
+img: /img/list/bracket-mosaic-haze.jpeg
+untappd: "https://untappd.com/b/bracket-brewing-mosaic-haze/4331727"
 country: "Australia"
 brewery: "Bracket Brewing"
 breweryURL: "breweryURL"

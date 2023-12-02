@@ -7,7 +7,8 @@ score: 7
 beer-date: "2021-01-31"
 desc: "Very mild sour. Easy drinking"
 permalink: /beer/:title.html
-img: /img/list/white-rabbit-golden-sour.jpeguntappd: "https://untappd.com/b/white-rabbit-golden-sour/3663431"
+img: /img/list/white-rabbit-golden-sour.jpeg
+untappd: "https://untappd.com/b/white-rabbit-golden-sour/3663431"
 country: "Australia"
 brewery: "White Rabbit"
 breweryURL: "breweryURL"

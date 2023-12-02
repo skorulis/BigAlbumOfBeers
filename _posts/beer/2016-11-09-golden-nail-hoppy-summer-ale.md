@@ -7,7 +7,8 @@ score: 7
 beer-date: "2015-01-28"
 desc: "Nicely hoppy"
 permalink: /beer/:title.html
-img: /img/list/golden-nail-hoppy-summer-ale.jpeguntappd: "https://untappd.com/b/nail-brewing-australia-nail-golden/312510"
+img: /img/list/golden-nail-hoppy-summer-ale.jpeg
+untappd: "https://untappd.com/b/nail-brewing-australia-nail-golden/312510"
 country: "Australia"
 brewery: "Nail Brewing Australia"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 4
 beer-date: "2015-01-28"
 desc: "A little bit harsh. Wouldn't buy again"
 permalink: /beer/:title.html
-img: /img/list/knappstein.jpeguntappd: "https://untappd.com/b/knappstein-enterprise-winery---brewery-knappstein-reserve-lager/12681"
+img: /img/list/knappstein.jpeg
+untappd: "https://untappd.com/b/knappstein-enterprise-winery---brewery-knappstein-reserve-lager/12681"
 country: "Australia"
 brewery: "Knappstein Enterprise Winery & Brewery"
 breweryURL: "breweryURL"

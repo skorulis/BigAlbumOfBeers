@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "Highly bitter IPA"
 permalink: /beer/:title.html
-img: /img/list/staves-ava-d.jpeguntappd: "https://untappd.com/b/staves-brewery-ava-double-ipa/3754852"
+img: /img/list/staves-ava-d.jpeg
+untappd: "https://untappd.com/b/staves-brewery-ava-double-ipa/3754852"
 country: "Australia"
 brewery: "Staves Brewery"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2019-11-22"
 desc: "Lightly hopped pale ale with a little extra booze. It’s what you expect from a strong pale but it’s not that exciting"
 permalink: /beer/:title.html
-img: /img/list/hawkers-circus-oz.jpeguntappd: "https://untappd.com/b/hawkers-beer-circus-oz-strong-pale-ale/3404676"
+img: /img/list/hawkers-circus-oz.jpeg
+untappd: "https://untappd.com/b/hawkers-beer-circus-oz-strong-pale-ale/3404676"
 country: "Australia"
 brewery: "Hawkers Beer"
 breweryURL: "breweryURL"

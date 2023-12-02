@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-07-10"
 desc: "A little better than a standard lager"
 permalink: /beer/:title.html
-img: /img/list/kirin-first-press.jpeguntappd: "https://untappd.com/b/malt-shovel-brewery-kirin-first-press-beer/349877"
+img: /img/list/kirin-first-press.jpeg
+untappd: "https://untappd.com/b/malt-shovel-brewery-kirin-first-press-beer/349877"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
 breweryURL: "breweryURL"

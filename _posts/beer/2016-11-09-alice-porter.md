@@ -7,7 +7,8 @@ score: 7
 beer-date: "2016-01-06"
 desc: "A fairly nice porter, but nothing great"
 permalink: /beer/:title.html
-img: /img/list/alice-porter.jpeguntappd: "https://untappd.com/b/brewdog-alice-porter/992160"
+img: /img/list/alice-porter.jpeg
+untappd: "https://untappd.com/b/brewdog-alice-porter/992160"
 country: "Scotland"
 brewery: "BrewDog"
 breweryURL: "breweryURL"

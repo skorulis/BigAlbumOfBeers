@@ -7,7 +7,8 @@ score: 6
 beer-date: "2019-04-22"
 desc: "Fairly plain pale ale"
 permalink: /beer/:title.html
-img: /img/list/last-rites-horn-of-diligence.jpeguntappd: "https://untappd.com/b/last-rites-brewing-company-horn-of-diligence/1493116"
+img: /img/list/last-rites-horn-of-diligence.jpeg
+untappd: "https://untappd.com/b/last-rites-brewing-company-horn-of-diligence/1493116"
 country: "Australia"
 brewery: "Last Rites Brewing Company"
 breweryURL: "breweryURL"

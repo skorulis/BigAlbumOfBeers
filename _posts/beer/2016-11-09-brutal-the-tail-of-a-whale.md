@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-10-02"
 desc: "Slightly wheaty. A good beer to drink in the sun as I am now. Well balanced but missing depth"
 permalink: /beer/:title.html
-img: /img/list/brutal-the-tail-of-a-whale.jpeguntappd: "https://untappd.com/b/brutal-brewing-the-tail-of-a-whale/613684"
+img: /img/list/brutal-the-tail-of-a-whale.jpeg
+untappd: "https://untappd.com/b/brutal-brewing-the-tail-of-a-whale/613684"
 country: "Sweden"
 brewery: "Brutal Brewing"
 breweryURL: "breweryURL"

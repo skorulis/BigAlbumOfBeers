@@ -7,7 +7,8 @@ score: 6
 beer-date: "2013-04-27"
 desc: "An easy drinking ale"
 permalink: /beer/:title.html
-img: /img/list/old-salt-quay.jpeguntappd: "https://untappd.com/b/greene-king-gk-house-ale/461458"
+img: /img/list/old-salt-quay.jpeg
+untappd: "https://untappd.com/b/greene-king-gk-house-ale/461458"
 country: "England"
 brewery: "Greene King"
 breweryURL: "breweryURL"

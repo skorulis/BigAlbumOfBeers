@@ -7,7 +7,8 @@ score: 5
 beer-date: "2013-01-13"
 desc: "Average"
 permalink: /beer/:title.html
-img: /img/list/flack-catcher.jpeguntappd: "https://untappd.com/b/flack-manor-flack-catcher/52716"
+img: /img/list/flack-catcher.jpeg
+untappd: "https://untappd.com/b/flack-manor-flack-catcher/52716"
 country: "England"
 brewery: "Flack Manor"
 breweryURL: "breweryURL"

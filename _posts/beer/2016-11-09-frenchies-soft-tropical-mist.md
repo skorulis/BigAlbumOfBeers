@@ -7,7 +7,8 @@ score: 8
 beer-date: "2020-12-25"
 desc: "Has a good level of flavour for a mid strength but light enough that you could still easily keep knocking these back. Zesty on the nose with a little citrus tang on the tongue"
 permalink: /beer/:title.html
-img: /img/list/frenchies-soft-tropical-mist.jpeguntappd: "https://untappd.com/b/frenchies-soft-tropical-mist/4053472"
+img: /img/list/frenchies-soft-tropical-mist.jpeg
+untappd: "https://untappd.com/b/frenchies-soft-tropical-mist/4053472"
 country: "Australia"
 brewery: "Frenchies"
 breweryURL: "breweryURL"

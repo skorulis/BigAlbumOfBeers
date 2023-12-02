@@ -7,7 +7,8 @@ score: 6.5
 beer-date: "2018-03-13"
 desc: "Very mild bitterness and a little taste of hops"
 permalink: /beer/:title.html
-img: /img/list/hope-american-red-ale.jpeguntappd: "https://untappd.com/b/hope-brewhouse-american-amber--red/2224678"
+img: /img/list/hope-american-red-ale.jpeg
+untappd: "https://untappd.com/b/hope-brewhouse-american-amber--red/2224678"
 country: "Australia"
 brewery: "Hope Brewhouse"
 breweryURL: "breweryURL"

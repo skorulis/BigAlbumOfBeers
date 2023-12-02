@@ -7,7 +7,8 @@ score: 7
 beer-date: "2020-11-13"
 desc: "Pretty light red ale"
 permalink: /beer/:title.html
-img: /img/list/otherside-harvest-red-ale.jpeguntappd: "https://untappd.com/b/otherside-brewing-co--harvest/1973543"
+img: /img/list/otherside-harvest-red-ale.jpeg
+untappd: "https://untappd.com/b/otherside-brewing-co--harvest/1973543"
 country: "Australia"
 brewery: "Otherside Brewing Co."
 breweryURL: "breweryURL"

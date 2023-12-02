@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-10-02"
 desc: "A nice bit of extra zest in a lager"
 permalink: /beer/:title.html
-img: /img/list/maxlrainer-zwickl-max.jpeguntappd: "https://untappd.com/b/schlossbrauerei-maxlrain-maxlrainer-zwickl-max/97550"
+img: /img/list/maxlrainer-zwickl-max.jpeg
+untappd: "https://untappd.com/b/schlossbrauerei-maxlrain-maxlrainer-zwickl-max/97550"
 country: "Germany"
 brewery: "Schlossbrauerei Maxlrain"
 breweryURL: "breweryURL"

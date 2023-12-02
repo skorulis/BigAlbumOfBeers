@@ -7,7 +7,8 @@ score: 8.5
 beer-date: "2020-09-26"
 desc: "The nitro in this makes it oh so creamy and smooth. The perfect breakfast drop"
 permalink: /beer/:title.html
-img: /img/list/garage-project-cereal-milk-stout.jpeguntappd: "https://untappd.com/b/garage-project-cereal-milk-stout/786595"
+img: /img/list/garage-project-cereal-milk-stout.jpeg
+untappd: "https://untappd.com/b/garage-project-cereal-milk-stout/786595"
 country: "New Zealand"
 brewery: "Garage Project"
 breweryURL: "breweryURL"

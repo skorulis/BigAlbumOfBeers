@@ -7,7 +7,8 @@ score: 7
 beer-date: "2013-12-23"
 desc: "A nice strong flavour"
 permalink: /beer/:title.html
-img: /img/list/hardknot-queboid.jpeguntappd: "https://untappd.com/b/hardknott-queboid/26944"
+img: /img/list/hardknot-queboid.jpeg
+untappd: "https://untappd.com/b/hardknott-queboid/26944"
 country: "England"
 brewery: "Hardknott"
 breweryURL: "breweryURL"

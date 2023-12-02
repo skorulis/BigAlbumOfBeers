@@ -7,7 +7,8 @@ score: 7
 beer-date: "2022-08-07"
 desc: "A little fruity"
 permalink: /beer/:title.html
-img: /img/list/atomic-hazy.jpeguntappd: "https://untappd.com/b/atomic-hazy/4196605"
+img: /img/list/atomic-hazy.jpeg
+untappd: "https://untappd.com/b/atomic-hazy/4196605"
 country: "Australia"
 brewery: "Atomic"
 breweryURL: "breweryURL"

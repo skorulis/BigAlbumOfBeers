@@ -7,7 +7,8 @@ score: 7
 beer-date: "2023-08-26"
 desc: "Super refreshing with some light hops"
 permalink: /beer/:title.html
-img: /img/list/billsons-easy-pale-ale.jpeguntappd: "https://untappd.com/b/billsons-1865-easy-pale-ale/5356248"
+img: /img/list/billsons-easy-pale-ale.jpeg
+untappd: "https://untappd.com/b/billsons-1865-easy-pale-ale/5356248"
 country: "Australia"
 brewery: "Billson's 1865"
 breweryURL: "breweryURL"

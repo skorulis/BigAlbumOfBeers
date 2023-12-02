@@ -7,7 +7,8 @@ score: 7.5
 beer-date: "2018-12-27"
 desc: "Fairly easy drinking XPA with a tad of sweetness in the aftertaste. Beautiful golden clarity"
 permalink: /beer/:title.html
-img: /img/list/big-shed-astra-xpa.jpeguntappd: "https://untappd.com/b/big-shed-brewing-concern-astra-xpa/2937488"
+img: /img/list/big-shed-astra-xpa.jpeg
+untappd: "https://untappd.com/b/big-shed-brewing-concern-astra-xpa/2937488"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
 breweryURL: "breweryURL"

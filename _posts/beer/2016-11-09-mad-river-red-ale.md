@@ -7,7 +7,8 @@ score: 6
 beer-date: "2015-07-10"
 desc: "A bit harsh for me"
 permalink: /beer/:title.html
-img: /img/list/mad-river-red-ale.jpeguntappd: "https://untappd.com/b/mad-river-brewing-company-jamaica-red-ale/8289"
+img: /img/list/mad-river-red-ale.jpeg
+untappd: "https://untappd.com/b/mad-river-brewing-company-jamaica-red-ale/8289"
 country: "United States"
 brewery: "Mad River Brewing Company"
 breweryURL: "breweryURL"

@@ -7,7 +7,8 @@ score: 3
 beer-date: "2020-07-31"
 desc: "Slightly bitter mango juice. At least it looks like beer I guess"
 permalink: /beer/:title.html
-img: /img/list/stark-mango-ale.jpeguntappd: "https://untappd.com/b/pt-lovina-beach-brewery-stark-mango-ale/1332102"
+img: /img/list/stark-mango-ale.jpeg
+untappd: "https://untappd.com/b/pt-lovina-beach-brewery-stark-mango-ale/1332102"
 country: "Indonesia"
 brewery: "PT Lovina Beach Brewery"
 breweryURL: "breweryURL"

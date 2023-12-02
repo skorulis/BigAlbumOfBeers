@@ -7,7 +7,8 @@ score: 7
 beer-date: "2019-06-22"
 desc: "Kind of plain. Very inoffensive and easy to drink but nothing exciting"
 permalink: /beer/:title.html
-img: /img/list/ekim-after-battle.jpeguntappd: "https://untappd.com/b/ekim-brewing-co--after-battle-pale/39751"
+img: /img/list/ekim-after-battle.jpeg
+untappd: "https://untappd.com/b/ekim-brewing-co--after-battle-pale/39751"
 country: "Australia"
 brewery: "Ekim Brewing Co."
 breweryURL: "breweryURL"
