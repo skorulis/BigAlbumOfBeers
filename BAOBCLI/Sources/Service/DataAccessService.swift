@@ -22,7 +22,7 @@ final class DataAccessService {
     }
     
     func accessTokens() throws -> AccessTokens {
-        let data = try Data(contentsOf: URLPaths.stats)
+        let data = try Data(contentsOf: URLPaths.accessTokens)
         return try JSONDecoder().decode(AccessTokens.self, from: data)
     }
     
