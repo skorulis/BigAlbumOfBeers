@@ -1,13 +1,13 @@
 Instructions:
 
 bundle exec ruby scripts/albumscrape.rb [token]
-bundle exec ruby scripts/buildExtra.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
+./cli pull-beer-info
 ./cli update-ids --source-file [PATH]
 Set beer ids in js/extra.json
 
 -------
 
-bundle exec ruby scripts/buildExtra.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
+./cli pull-beer-info
 ruby scripts/stats.rb
 bundle exec ruby scripts/getBreweries.rb [UNTAPPED_ID] [UNTAPPED_SECRET]
 ruby scripts/breweryList.rb

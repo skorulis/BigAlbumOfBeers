@@ -42,7 +42,18 @@ extension PullUntappdInfoCommand {
                 print("Create new for \(beer.name)")
             }
             
-            print(beers.count)
+            try accessService.saveExtra(extra: extra)
+            
+            let missingIds = extra.filter { $1.untappd.id.isEmpty }
+            for extra in missingIds.sorted(by: {$0.key < $1.key}) {
+                print("Missing ID: \(extra.key)")
+            }
+            
+            var allIDs: [String] = extra.values.compactMap { $0.untappd.id.isEmpty ? nil : $0.untappd.id }
+            let duplicates = Set(allIDs.filter { id in  allIDs.filter { $0 == id }.count > 1 })
+            for d in duplicates {
+                print("Duplicate ID: \(d)")
+            }
         }
         
         private func pullDataIfNeeded(name: String, extra: inout ExtraEntry) async throws {
