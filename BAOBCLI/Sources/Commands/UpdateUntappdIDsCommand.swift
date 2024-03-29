@@ -9,7 +9,7 @@ final class UpdateUntappdIDsCommand: AsyncParsableCommand {
     var sourceFile: String
     
     static let configuration = CommandConfiguration(
-        commandName: "UpdateIDs",
+        commandName: "update-ids",
         abstract: "Fill in the json file with known IDs"
     )
     
@@ -49,10 +49,7 @@ final class UpdateUntappdIDsCommand: AsyncParsableCommand {
             }
         }
         
-        let encoder = JSONEncoder()
-        encoder.outputFormatting = .prettyPrinted
-        let outputData = try encoder.encode(extra)
-        try outputData.write(to: URLPaths.extra)
+        try accessService.saveExtra(extra: extra)
     }
     
 }

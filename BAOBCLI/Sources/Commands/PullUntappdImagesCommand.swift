@@ -15,7 +15,6 @@ final class PullUntappdImagesCommand: AsyncParsableCommand {
         let runner = Runner()
         try await runner.run()
     }
-    
 }
 
 extension PullUntappdImagesCommand {

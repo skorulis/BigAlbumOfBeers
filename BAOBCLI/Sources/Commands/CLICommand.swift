@@ -12,6 +12,7 @@ struct CLICommand: AsyncParsableCommand {
         subcommands: [
             CreatePostsCommand.self,
             PullUntappdImagesCommand.self,
+            PullUntappdInfoCommand.self,
             UpdateUntappdIDsCommand.self,
         ]
     )
