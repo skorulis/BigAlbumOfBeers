@@ -4,8 +4,8 @@ filename: "_posts/brewery/2016-11-09-balmain-brewing-company.md"
 title: "Balmain Brewing Company"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/balmain-brewing-company/2980"
-lat: -33.8566
-lng: 151.18
+lat: 
+lng: 
 instagram: 'balmainbrewing'
 twitter: 'balmainbrewing'
 facebook: 'http://www.facebook.com/Balmain.Brewing.Company'

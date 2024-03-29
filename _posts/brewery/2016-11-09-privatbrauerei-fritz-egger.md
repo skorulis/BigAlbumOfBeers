@@ -4,8 +4,8 @@ filename: "_posts/brewery/2016-11-09-privatbrauerei-fritz-egger.md"
 title: "Privatbrauerei Fritz Egger"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/privatbrauerei-fritz-egger/15477"
-lat: 48.2532
-lng: 15.6865
+lat: 
+lng: 
 instagram: ''
 twitter: ''
 facebook: 'http://www.facebook.com/eggerbier'

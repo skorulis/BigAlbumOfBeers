@@ -4,8 +4,8 @@ filename: "_posts/brewery/2016-11-09-j-boag-son-brewing.md"
 title: "J. Boag & Son Brewing"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/j--boag---son-brewing/19249"
-lat: -41.4332
-lng: 147.144
+lat: 
+lng: 
 instagram: 'jamesboagau'
 twitter: ''
 facebook: 'https://www.facebook.com/jamesboagAU'

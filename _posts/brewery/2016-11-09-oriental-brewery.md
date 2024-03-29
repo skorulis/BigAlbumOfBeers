@@ -4,8 +4,8 @@ filename: "_posts/brewery/2016-11-09-oriental-brewery.md"
 title: "Oriental Brewery"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/oriental-brewery/6167"
-lat: 37.4818
-lng: 127.015
+lat: 
+lng: 
 instagram: ''
 twitter: ''
 facebook: ''

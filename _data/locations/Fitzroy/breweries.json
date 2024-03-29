@@ -1,61 +1,31 @@
 {
   "breweries": [
     {
-      "brewery_id": 165627,
-      "brewery_name": "Little Smith Brewing",
-      "brewery_slug": "little-smith-brewing",
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-165627_ba86f.jpeg",
       "country_name": "Australia",
-      "brewery_in_production": 0,
-      "is_independent": 1,
-      "claimed_status": {
-        "is_claimed": true,
-        "claimed_slug": "LittleSmithBrewing",
-        "follow_status": false,
-        "follower_count": 71,
-        "uid": 1719791,
-        "mute_status": "none"
-      },
-      "beer_count": 3,
-      "contact": {
-        "twitter": "",
-        "facebook": "",
-        "instagram": "@ltsmithbrewing",
-        "url": "http://www.littlesmithbrewing.com",
-        "slug": "brewery/little-smith-brewing"
-      },
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
+      "brewery_id": 165627,
       "location": {
-        "lat": 0,
-        "lng": 0
       },
-      "rating": {
-        "count": 945,
-        "rating_score": 3.44
+      "is_independent": 1,
+      "brewery_in_production": 0,
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-165627_ba86f.jpeg",
+      "contact": {
+        "facebook": "",
+        "twitter": "",
+        "url": "http://www.littlesmithbrewing.com",
+        "instagram": "@ltsmithbrewing"
       },
-      "stats": {
-        "total_count": 1183,
-        "unique_count": 948,
-        "monthly_count": 8,
-        "weekly_count": 1,
-        "user_count": 0,
-        "age_on_service": 1011.7216666666667
+      "brewery_slug": "little-smith-brewing",
+      "claimed_status": {
+        "mute_status": "none",
+        "claimed_slug": "LittleSmithBrewing",
+        "follower_count": 71,
+        "is_claimed": true,
+        "uid": 1719791,
+        "follow_status": false
       },
-      "owners": {
-        "count": 0,
-        "items": [
-
-        ]
-      },
-      "locations": {
-        "count": 0,
-        "items": [
-
-        ]
-      },
-      "image": "brewery-165627_ba86f.jpeg",
-      "extra": null
+      "brewery_name": "Little Smith Brewing"
     }
   ]
 }

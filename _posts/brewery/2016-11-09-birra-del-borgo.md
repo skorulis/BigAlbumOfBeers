@@ -4,8 +4,8 @@ filename: "_posts/brewery/2016-11-09-birra-del-borgo.md"
 title: "Birra del Borgo"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/birra-del-borgo/2243"
-lat: 42.1883
-lng: 13.2385
+lat: 
+lng: 
 instagram: 'birradelborgo'
 twitter: 'BirraDelBorgo'
 facebook: 'https://www.facebook.com/birradelborgo'
