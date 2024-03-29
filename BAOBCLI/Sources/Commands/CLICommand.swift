@@ -14,6 +14,7 @@ struct CLICommand: AsyncParsableCommand {
             PullUntappdImagesCommand.self,
             PullUntappdInfoCommand.self,
             UpdateUntappdIDsCommand.self,
+            GetBreweriesCommand.self,
         ]
     )
     

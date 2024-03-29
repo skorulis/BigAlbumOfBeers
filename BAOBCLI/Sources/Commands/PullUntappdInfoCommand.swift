@@ -50,7 +50,7 @@ extension PullUntappdInfoCommand {
                 print("Missing ID: \(extra.key)")
             }
             
-            var allIDs: [String] = newExtra.values.compactMap { $0.untappd.id.isEmpty ? nil : $0.untappd.id }
+            let allIDs: [String] = newExtra.values.compactMap { $0.untappd.id.isEmpty ? nil : $0.untappd.id }
             let duplicates = Set(allIDs.filter { id in  allIDs.filter { $0 == id }.count > 1 })
             for d in duplicates {
                 print("Duplicate ID: \(d)")

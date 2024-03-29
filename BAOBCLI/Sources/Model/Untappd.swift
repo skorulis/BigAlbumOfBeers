@@ -13,6 +13,14 @@ enum UntappdAPI {
         }
     }
     
+    struct GetBreweryResponse: Codable {
+        let response: Response
+        
+        struct Response: Codable {
+            let brewery: Brewery
+        }
+    }
+    
     struct Beer: Codable {
         let bid: Int
         let beer_name: String
