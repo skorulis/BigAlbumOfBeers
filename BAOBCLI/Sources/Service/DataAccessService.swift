@@ -37,6 +37,13 @@ final class DataAccessService {
         let outputData = try encoder.encode(extra)
         try outputData.write(to: URLPaths.extra)
     }
+    
+    func save(breweries: BreweryList) throws {
+        let encoder = JSONEncoder()
+        encoder.outputFormatting = [.prettyPrinted]
+        let outputData = try encoder.encode(breweries)
+        try outputData.write(to: URLPaths.breweryList)
+    }
 }
 
 
@@ -46,6 +53,8 @@ enum URLPaths {
     static let extra = URL(filePath: "./js/extra.json")
     
     static let full = URL(filePath: "_data/full.json")
+    
+    static let breweryList = URL(filePath: "_data/breweries.json")
     
     static let stats = URL(filePath: "js/stats.json")
     

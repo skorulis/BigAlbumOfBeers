@@ -49,6 +49,14 @@ enum UntappdAPI {
         let brewery_slug: String
         let brewery_label: String
         let country_name: String
+        let brewery_in_production: Int?
+        let is_independent: Int?
+        let claimed_status: ClaimedStatus?
+        let contact: Contact
+        let brewery_type: String
+        let brewery_type_id: Int?
+        let location: Location?
+        
     }
     
     struct Stats: Codable {
@@ -56,6 +64,29 @@ enum UntappdAPI {
         let monthly_count: Int
         let total_user_count: Int
         let user_count: Int
+    }
+    
+    struct ClaimedStatus: Codable {
+        let is_claimed: Bool
+        let claimed_slug: String
+        let follow_status: Bool
+        let follower_count: Int
+        let uid: Int
+        let mute_status: String
+    }
+    
+    struct Contact: Codable {
+        let twitter: String?
+        let facebook: String?
+        let instagram: String?
+        let url: String?
+        let slug: String?
+    }
+    
+    struct Location: Codable {
+        let address: String?
+        let lat: Double?
+        let lng: Double?
     }
     
     

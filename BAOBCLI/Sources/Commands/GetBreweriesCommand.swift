@@ -37,6 +37,17 @@ extension GetBreweriesCommand {
                 let breweryId = json.response.beer.brewery.brewery_id
                 _ = try await getBrewery(id: breweryId)
             }
+            
+            var breweryList = BreweryList(breweries: [])
+            let breweryDir = fileManager.currentDirectoryPath + "/untappd/brewery"
+            let breweryPaths = try fileManager.contentsOfDirectory(atPath: breweryDir)
+            for filename in breweryPaths {
+                let url = URL(filePath: "\(breweryDir)/\(filename)")
+                let data = try Data(contentsOf: url)
+                let json = try JSONDecoder().decode(UntappdAPI.GetBreweryResponse.self, from: data)
+                breweryList.breweries.append(json.response.brewery)
+            }
+            try accessService.save(breweries: breweryList)
         }
         
         private func getBrewery(id: Int) async throws -> UntappdAPI.GetBreweryResponse {
