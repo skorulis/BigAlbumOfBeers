@@ -30,26 +30,27 @@ extension PullUntappdInfoCommand {
         
         func run() async throws {
             let beers = try accessService.rawBeers()
-            var extra = try accessService.extraEntries()
+            let extra = try accessService.extraEntries()
+            var newExtra = [String: ExtraEntry]()
             
             for beer in beers {
                 if var existing = extra[beer.name] {
                     try await pullDataIfNeeded(name: beer.name, extra: &existing)
-                    extra[beer.name] = existing
+                    newExtra[beer.name] = existing
                     continue
                 }
-                extra[beer.name] = .empty
+                newExtra[beer.name] = .empty
                 print("Create new for \(beer.name)")
             }
             
-            try accessService.saveExtra(extra: extra)
+            try accessService.saveExtra(extra: newExtra)
             
-            let missingIds = extra.filter { $1.untappd.id.isEmpty }
+            let missingIds = newExtra.filter { $1.untappd.id.isEmpty }
             for extra in missingIds.sorted(by: {$0.key < $1.key}) {
                 print("Missing ID: \(extra.key)")
             }
             
-            var allIDs: [String] = extra.values.compactMap { $0.untappd.id.isEmpty ? nil : $0.untappd.id }
+            var allIDs: [String] = newExtra.values.compactMap { $0.untappd.id.isEmpty ? nil : $0.untappd.id }
             let duplicates = Set(allIDs.filter { id in  allIDs.filter { $0 == id }.count > 1 })
             for d in duplicates {
                 print("Duplicate ID: \(d)")
