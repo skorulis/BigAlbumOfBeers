@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-saucy-saison.md
+title: Saucy Saison
+category: beer
+score: 8.5
+beer-date: "2019-03-14"
+desc: "Sometimes I forget how good a saison can be. That lovely mix of Belgian goodness and summery freshness"
+permalink: /beer/:title.html
+img: /img/list/saucy-saison.jpeg
+untappd: "https://untappd.com/b/sauce-brewing-co-saucy-saison/1807612"
+country: "Australia"
+brewery: "Sauce Brewing Co"
+breweryURL: "breweryURL"
+style: "Saison / Farmhouse Ale"
+---

@@ -44,7 +44,7 @@ files.each do |file|
 	brewery.delete("beer_list")
 
 	imageFile = "img/brewery/" + imageURL.split('/')[-1]
-	if !File.exists?(imageFile)
+	if !File.exist?(imageFile)
 		puts imageURL
 
 		imageData = Net::HTTP.get(URI.parse(imageURL))

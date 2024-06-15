@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-grifter-serpents-kiss.md
+title: Grifter Serpents kiss
+category: beer
+score: 4
+beer-date: "2016-05-24"
+desc: "The slight watermelon taste makes it hard to enjoy the beer. You get used to it but there's not a lot of reason to"
+permalink: /beer/:title.html
+img: /img/list/grifter-serpents-kiss.jpeg
+untappd: "https://untappd.com/b/grifter-brewing-company-serpents-kiss/1264865"
+country: "Australia"
+brewery: "Grifter Brewing Company"
+breweryURL: "breweryURL"
+style: "Pilsner - Other"
+---

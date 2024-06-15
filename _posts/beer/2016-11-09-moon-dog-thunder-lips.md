@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-moon-dog-thunder-lips.md
+title: Moon dog thunder lips
+category: beer
+score: 7
+beer-date: "2019-06-22"
+desc: "Tart citrus smell with a bitter taste that doesn’t have any strong hop flavours. Like a west coast IPA mixed with a little bit of a sour red"
+permalink: /beer/:title.html
+img: /img/list/moon-dog-thunder-lips.jpeg
+untappd: "https://untappd.com/b/moon-dog-craft-brewery-thunder-lips/2587136"
+country: "Australia"
+brewery: "Moon Dog Craft Brewery"
+breweryURL: "breweryURL"
+style: "IPA - Red"
+---

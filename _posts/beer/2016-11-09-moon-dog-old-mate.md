@@ -1,0 +1,16 @@
+---
+layout: beer
+filename: _posts/beer/2016-11-09-moon-dog-old-mate.md
+title: Moon dog old mate
+category: beer
+score: 6
+beer-date: "2019-07-14"
+desc: "Kind of yeasty, tastes cheap and not well put together at all. But it’s still beer"
+permalink: /beer/:title.html
+img: /img/list/moon-dog-old-mate.jpeg
+untappd: "https://untappd.com/b/moon-dog-craft-brewery-old-mate/1345437"
+country: "Australia"
+brewery: "Moon Dog Craft Brewery"
+breweryURL: "breweryURL"
+style: "Pale Ale - American"
+---
