@@ -1,5 +1,6 @@
 Instructions:
 
+Get a new token from https://developers.facebook.com/tools/explorer
 bundle exec ruby scripts/albumscrape.rb [token]
 ./cli pull-beer-info
 ./cli update-ids --source-file [PATH]

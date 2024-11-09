@@ -7,7 +7,7 @@ score: 7.5
 beer-date: "2020-07-31"
 desc: "Been keeping away from sours but couldn’t resist trying out something new from PL. Mild all round but work well as an easy drink"
 permalink: /beer/:title.html
-img: /img/list/pirate-life-acai-and-passionfruit-sour.jpeg
+img: /img/list/pirate-life-aca-and-passionfruit-sour.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-acai---passionfruit-sour/3116844"
 country: "Australia"
 brewery: "Pirate Life Brewing"
