@@ -11,6 +11,6 @@ img: /img/list/courage-directors.jpeg
 untappd: "https://untappd.com/b/charles-wells-brewery-courage-directors/6172"
 country: "England"
 brewery: "Charles Wells Brewery"
-breweryURL: "brewery/charles-wells-brewery.html"
+breweryURL: "/brewery/charles-wells-brewery.html"
 style: "English Bitter"
 ---

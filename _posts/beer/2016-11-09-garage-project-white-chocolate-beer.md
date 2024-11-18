@@ -11,6 +11,6 @@ img: /img/list/garage-project-white-chocolate-beer.jpeg
 untappd: "https://untappd.com/b/garage-project-white-chocolate-beer---golden-raspberry-and-lemon/4038275"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "brewery/garage-project.html"
+breweryURL: "/brewery/garage-project.html"
 style: "Stout - White"
 ---

@@ -11,6 +11,6 @@ img: /img/list/belhaven-twisted-thistle-ipa.jpeg
 untappd: "https://untappd.com/b/belhaven-brewery-twisted-thistle-ipa/421"
 country: "Scotland"
 brewery: "Belhaven Brewery"
-breweryURL: "brewery/belhaven-brewery.html"
+breweryURL: "/brewery/belhaven-brewery.html"
 style: "IPA - International"
 ---

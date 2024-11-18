@@ -11,6 +11,6 @@ img: /img/list/bracket-flight-recorder-do-not-open.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-serving-suggestion/5001724"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Stout - Imperial / Double"
 ---

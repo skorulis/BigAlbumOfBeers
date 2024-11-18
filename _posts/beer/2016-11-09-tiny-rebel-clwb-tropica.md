@@ -11,6 +11,6 @@ img: /img/list/tiny-rebel-clwb-tropica.jpeg
 untappd: "https://untappd.com/b/tiny-rebel-brewing-co-clwb-tropica/1425440"
 country: "Wales"
 brewery: "Tiny Rebel Brewing Co"
-breweryURL: "brewery/tiny-rebel-brewing-co.html"
+breweryURL: "/brewery/tiny-rebel-brewing-co.html"
 style: "IPA - Fruited"
 ---

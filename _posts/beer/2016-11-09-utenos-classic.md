@@ -11,6 +11,6 @@ img: /img/list/utenos-classic.jpeg
 untappd: "https://untappd.com/b/utenos-alus-utenos-classic/272115"
 country: "Lithuania"
 brewery: "Utenos Alus"
-breweryURL: "brewery/utenos-alus.html"
+breweryURL: "/brewery/utenos-alus.html"
 style: "Lager - Pale"
 ---

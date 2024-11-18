@@ -11,6 +11,6 @@ img: /img/list/dutch-windmill.jpeg
 untappd: "https://untappd.com/b/h-west-b-v--dutch-windmill/15551"
 country: "Netherlands"
 brewery: "H-West B.V."
-breweryURL: "brewery/h-west-b-v.html"
+breweryURL: "/brewery/h-west-b-v.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/palm-hop-select.jpeg
 untappd: "https://untappd.com/b/brouwerij-palm-palm-hop-select/325284"
 country: "Belgium"
 brewery: "Brouwerij Palm"
-breweryURL: "brewery/brouwerij-palm.html"
+breweryURL: "/brewery/brouwerij-palm.html"
 style: "Pale Ale - Belgian"
 ---

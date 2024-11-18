@@ -11,6 +11,6 @@ img: /img/list/tumut-river-tea-innit.jpeg
 untappd: "https://untappd.com/b/tumut-river-brewing-co-tea-innit/4884768"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
-breweryURL: "brewery/tumut-river-brewing-co.html"
+breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Brown Ale - English"
 ---

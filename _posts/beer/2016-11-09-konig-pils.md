@@ -11,6 +11,6 @@ img: /img/list/konig-pils.jpeg
 untappd: "https://untappd.com/b/konig-brauerei-konig-pilsener/7521"
 country: "Germany"
 brewery: "König Brauerei"
-breweryURL: "brewery/koenig-brauerei.html"
+breweryURL: "/brewery/koenig-brauerei.html"
 style: "Pilsner - German"
 ---

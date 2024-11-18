@@ -11,6 +11,6 @@ img: /img/list/pasteur-street-jasmine-ipa.jpeg
 untappd: "https://untappd.com/b/pasteur-street-brewing-company-jasmine-ipa/954736"
 country: "Vietnam"
 brewery: "Pasteur Street Brewing Company"
-breweryURL: "brewery/pasteur-street-brewing-company.html"
+breweryURL: "/brewery/pasteur-street-brewing-company.html"
 style: "IPA - American"
 ---

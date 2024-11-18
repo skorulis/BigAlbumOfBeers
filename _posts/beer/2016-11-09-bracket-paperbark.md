@@ -11,6 +11,6 @@ img: /img/list/bracket-paperbark.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-bracket-brewing-paperbark/5739457"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Wild Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pinnacle-culture-house-raspberry.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-culture-house-raspberry/3462201"
 country: "Australia"
 brewery: "Pinnacle Drinks"
-breweryURL: "brewery/pinnacle-drinks.html"
+breweryURL: "/brewery/pinnacle-drinks.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

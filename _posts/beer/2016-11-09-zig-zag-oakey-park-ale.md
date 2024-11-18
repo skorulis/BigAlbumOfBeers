@@ -11,6 +11,6 @@ img: /img/list/zig-zag-oakey-park-ale.jpeg
 untappd: "https://untappd.com/b/old-zig-zag-brewery-oakey-park-ale/1090189"
 country: "Australia"
 brewery: "Old Zig Zag Brewery"
-breweryURL: "brewery/old-zig-zag-brewery.html"
+breweryURL: "/brewery/old-zig-zag-brewery.html"
 style: "Pale Ale - Australian"
 ---

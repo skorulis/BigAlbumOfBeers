@@ -11,6 +11,6 @@ img: /img/list/badger-blandford-flyer.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--blandford-flyer/31806"
 country: "England"
 brewery: "Badger Ales (Hall & Woodhouse)"
-breweryURL: "brewery/badger-ales--hall---woodhouse.html"
+breweryURL: "/brewery/badger-ales--hall---woodhouse.html"
 style: "Spiced / Herbed Beer"
 ---

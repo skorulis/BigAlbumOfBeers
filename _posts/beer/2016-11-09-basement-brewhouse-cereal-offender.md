@@ -11,6 +11,6 @@ img: /img/list/basement-brewhouse-cereal-offender.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-pilot-006-cereal-offender/3114746"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "brewery/basement-brewhouse.html"
+breweryURL: "/brewery/basement-brewhouse.html"
 style: "IPA - American"
 ---

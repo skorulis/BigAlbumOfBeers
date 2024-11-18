@@ -11,6 +11,6 @@ img: /img/list/8-wired-hippy-berliner.jpeg
 untappd: "https://untappd.com/b/8-wired-brewing-co--hippy-berliner/986937"
 country: "New Zealand"
 brewery: "8 Wired Brewing Co."
-breweryURL: "brewery/8-wired-brewing-co.html"
+breweryURL: "/brewery/8-wired-brewing-co.html"
 style: "Sour - Berliner Weisse"
 ---

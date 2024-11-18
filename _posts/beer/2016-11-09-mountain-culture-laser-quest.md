@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-laser-quest.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--laserquest/4102094"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "brewery/mountain-culture-beer-co.html"
+breweryURL: "/brewery/mountain-culture-beer-co.html"
 style: "Sour - Berliner Weisse"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mildura-ipa.jpeg
 untappd: "https://untappd.com/b/mildura-brewery-ipa/4140345"
 country: "Australia"
 brewery: "Mildura Brewery"
-breweryURL: "brewery/mildura-brewery.html"
+breweryURL: "/brewery/mildura-brewery.html"
 style: "IPA - Belgian"
 ---

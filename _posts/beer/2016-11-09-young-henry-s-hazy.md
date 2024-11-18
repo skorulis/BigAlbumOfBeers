@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-hazy.jpeg
 untappd: "https://untappd.com/b/young-henrys-hazy-pale-ale/4898699"
 country: "Australia"
 brewery: "Young Henrys"
-breweryURL: "brewery/young-henrys.html"
+breweryURL: "/brewery/young-henrys.html"
 style: "Pale Ale - New England / Hazy"
 ---

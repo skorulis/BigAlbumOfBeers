@@ -11,6 +11,6 @@ img: /img/list/the-rev--james.jpeg
 untappd: "https://untappd.com/b/brains-the-rev--james-original---therevtweets/50090"
 country: "Wales"
 brewery: "Brains"
-breweryURL: "brewery/brains.html"
+breweryURL: "/brewery/brains.html"
 style: "English Bitter"
 ---

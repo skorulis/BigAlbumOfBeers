@@ -11,6 +11,6 @@ img: /img/list/prancing-pony-a-pony-hazy.jpeg
 untappd: "https://untappd.com/b/prancing-pony-brewery-a-pony-hazy/4712483"
 country: "Australia"
 brewery: "Prancing Pony Brewery"
-breweryURL: "brewery/prancing-pony-brewery.html"
+breweryURL: "/brewery/prancing-pony-brewery.html"
 style: "IPA - Session"
 ---

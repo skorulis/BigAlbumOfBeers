@@ -11,6 +11,6 @@ img: /img/list/tropical-torpedo.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--tropical-torpedo/1741133"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "brewery/sierra-nevada-brewing-co.html"
+breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/tumage-red-ale.jpeg
 untappd: "https://untappd.com/b/pt-sinar-timur-sukses-tumage-bir---red-ale/2484548"
 country: "Indonesia"
 brewery: "PT Sinar Timur Sukses"
-breweryURL: "brewery/pt-sinar-timur-sukses.html"
+breweryURL: "/brewery/pt-sinar-timur-sukses.html"
 style: "Red Ale - Irish"
 ---

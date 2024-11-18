@@ -11,6 +11,6 @@ img: /img/list/bentspoke-how-s-it-gosen.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-hows-it-gosen/2928576"
 country: "Australia"
 brewery: "BentSpoke Brewing Co"
-breweryURL: "brewery/bentspoke-brewing-co.html"
+breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "Sour - Fruited Gose"
 ---

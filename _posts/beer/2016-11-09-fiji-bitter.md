@@ -11,6 +11,6 @@ img: /img/list/fiji-bitter.jpeg
 untappd: "https://untappd.com/b/paradise-beverages-fiji-bitter/964155"
 country: "Fiji"
 brewery: "Paradise Beverages"
-breweryURL: "brewery/paradise-beverages.html"
+breweryURL: "/brewery/paradise-beverages.html"
 style: "Lager - Pale"
 ---

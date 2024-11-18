@@ -11,6 +11,6 @@ img: /img/list/titus-skull-lager.jpeg
 untappd: "https://untappd.com/b/titus-jones-skull-lager/4307294"
 country: "Australia"
 brewery: "Titus Jones"
-breweryURL: "brewery/titus-jones.html"
+breweryURL: "/brewery/titus-jones.html"
 style: "Lager - Pale"
 ---

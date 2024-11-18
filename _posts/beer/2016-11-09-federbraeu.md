@@ -11,6 +11,6 @@ img: /img/list/federbraeu.jpeg
 untappd: "https://untappd.com/b/thai-beverage-plc-federbrau/152483"
 country: "Thailand"
 brewery: "Thai Beverage PLC"
-breweryURL: "brewery/thai-beverage-plc.html"
+breweryURL: "/brewery/thai-beverage-plc.html"
 style: "Lager - Helles"
 ---

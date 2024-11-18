@@ -11,6 +11,6 @@ img: /img/list/cass-fresh.jpeg
 untappd: "https://untappd.com/b/oriental-brewery-cass-fresh/3700"
 country: "South Korea"
 brewery: "Oriental Brewery"
-breweryURL: "brewery/oriental-brewery.html"
+breweryURL: "/brewery/oriental-brewery.html"
 style: "Lager - North American Adjunct"
 ---

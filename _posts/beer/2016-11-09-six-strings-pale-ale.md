@@ -11,6 +11,6 @@ img: /img/list/six-strings-pale-ale.jpeg
 untappd: "https://untappd.com/b/six-string-brewing-company-pale-ale/284344"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "brewery/six-string-brewing-company.html"
+breweryURL: "/brewery/six-string-brewing-company.html"
 style: "Pale Ale - American"
 ---

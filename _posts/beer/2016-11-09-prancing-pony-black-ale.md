@@ -11,6 +11,6 @@ img: /img/list/prancing-pony-black-ale.jpeg
 untappd: "https://untappd.com/b/prancing-pony-brewery-black-ale/327266"
 country: "Australia"
 brewery: "Prancing Pony Brewery"
-breweryURL: "brewery/prancing-pony-brewery.html"
+breweryURL: "/brewery/prancing-pony-brewery.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

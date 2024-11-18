@@ -11,6 +11,6 @@ img: /img/list/castle-lager.jpeg
 untappd: "https://untappd.com/b/south-african-breweries-castle-lager/11046"
 country: "South Africa"
 brewery: "South African Breweries"
-breweryURL: "brewery/south-african-breweries.html"
+breweryURL: "/brewery/south-african-breweries.html"
 style: "Lager - Pale"
 ---

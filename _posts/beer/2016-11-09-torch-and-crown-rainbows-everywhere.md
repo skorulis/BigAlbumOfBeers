@@ -11,6 +11,6 @@ img: /img/list/torch-and-crown-rainbows-everywhere.jpeg
 untappd: "https://untappd.com/b/torch-crown-brewing-company-torch-and-crown-brewing-company-rainbows-everywhere/3274706"
 country: "United States"
 brewery: "Torch & Crown Brewing Company"
-breweryURL: "brewery/torch---crown-brewing-company.html"
+breweryURL: "/brewery/torch---crown-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

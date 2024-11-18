@@ -11,6 +11,6 @@ img: /img/list/bracket-more-energy.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-more-energy/4629770"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

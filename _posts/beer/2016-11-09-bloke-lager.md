@@ -11,6 +11,6 @@ img: /img/list/bloke-lager.jpeg
 untappd: "https://untappd.com/b/bloke-in-a-bar-craft-lager/2029601"
 country: "Australia"
 brewery: "Bloke In A Bar"
-breweryURL: "brewery/bloke-in-a-bar.html"
+breweryURL: "/brewery/bloke-in-a-bar.html"
 style: "Lager - Pale"
 ---

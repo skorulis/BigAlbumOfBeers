@@ -11,6 +11,6 @@ img: /img/list/tinnies-xpa.jpeg
 untappd: "https://untappd.com/b/tinnies-tropical-xpa/2897553"
 country: "Australia"
 brewery: "Tinnies"
-breweryURL: "brewery/tinnies.html"
+breweryURL: "/brewery/tinnies.html"
 style: "Pale Ale - Australian"
 ---

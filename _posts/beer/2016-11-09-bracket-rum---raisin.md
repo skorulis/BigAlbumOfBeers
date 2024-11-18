@@ -11,6 +11,6 @@ img: /img/list/bracket-rum---raisin.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-rum---raisin/5431799"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Stout - Imperial / Double"
 ---

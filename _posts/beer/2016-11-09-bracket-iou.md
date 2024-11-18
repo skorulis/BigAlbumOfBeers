@@ -11,6 +11,6 @@ img: /img/list/bracket-iou.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-iou/4506091"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

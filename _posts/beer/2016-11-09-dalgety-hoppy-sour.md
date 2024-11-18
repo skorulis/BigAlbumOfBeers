@@ -11,6 +11,6 @@ img: /img/list/dalgety-hoppy-sour.jpeg
 untappd: "https://untappd.com/b/dalgety-brewing-company-hoppy-sour/4895447"
 country: "Australia"
 brewery: "Dalgety Brewing Company"
-breweryURL: "brewery/dalgety-brewing-company.html"
+breweryURL: "/brewery/dalgety-brewing-company.html"
 style: "Sour - Other"
 ---

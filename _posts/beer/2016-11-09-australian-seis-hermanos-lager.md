@@ -11,6 +11,6 @@ img: /img/list/australian-seis-hermanos-lager.jpeg
 untappd: "https://untappd.com/b/-australian-brewery-seis-hermanos-lager/1840728"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "brewery/-australian-brewery.html"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "Lager - Amber"
 ---

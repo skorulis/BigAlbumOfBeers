@@ -11,6 +11,6 @@ img: /img/list/snaatch-lager.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-snaatch-lager/1017209"
 country: "Australia"
 brewery: "Sydney Brewery"
-breweryURL: "brewery/sydney-brewery.html"
+breweryURL: "/brewery/sydney-brewery.html"
 style: "Lager - Pale"
 ---

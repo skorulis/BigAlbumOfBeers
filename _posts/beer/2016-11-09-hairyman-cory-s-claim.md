@@ -11,6 +11,6 @@ img: /img/list/hairyman-cory-s-claim.jpeg
 untappd: "https://untappd.com/b/hairyman-brewery-corys-claim/1726808"
 country: "Australia"
 brewery: "Hairyman Brewery"
-breweryURL: "brewery/hairyman-brewery.html"
+breweryURL: "/brewery/hairyman-brewery.html"
 style: "Dark Ale"
 ---

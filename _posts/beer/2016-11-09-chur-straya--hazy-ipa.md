@@ -11,6 +11,6 @@ img: /img/list/chur-straya--hazy-ipa.jpeg
 untappd: "https://untappd.com/b/chur-brewing-company-straya-hazy-ipa/3962779"
 country: "New Zealand"
 brewery: "Chur Brewing Company"
-breweryURL: "brewery/chur-brewing-company.html"
+breweryURL: "/brewery/chur-brewing-company.html"
 style: "IPA - New England"
 ---

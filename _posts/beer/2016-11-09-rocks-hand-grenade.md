@@ -11,6 +11,6 @@ img: /img/list/rocks-hand-grenade.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-hand-grenade-saltbush-gose/4926202"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "brewery/rocks-brewing-co.html"
+breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Sour - Other Gose"
 ---

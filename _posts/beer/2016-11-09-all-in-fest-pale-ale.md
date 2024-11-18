@@ -11,6 +11,6 @@ img: /img/list/all-in-fest-pale-ale.jpeg
 untappd: "https://untappd.com/b/all-in-brewing-all-in-beer-fest-pale-ale-2023/5409749"
 country: "Sweden"
 brewery: "All In Brewing"
-breweryURL: "brewery/all-in-brewing.html"
+breweryURL: "/brewery/all-in-brewing.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/balmain-pilsner.jpeg
 untappd: "https://untappd.com/b/balmain-brewing-company-pilsner/82529"
 country: "Australia"
 brewery: "Balmain Brewing Company"
-breweryURL: "brewery/balmain-brewing-company.html"
+breweryURL: "/brewery/balmain-brewing-company.html"
 style: "Pilsner - Other"
 ---

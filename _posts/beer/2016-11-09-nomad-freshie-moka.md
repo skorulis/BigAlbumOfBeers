@@ -11,6 +11,6 @@ img: /img/list/nomad-freshie-moka.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--freshie-moka/2219858"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "brewery/nomad-brewing-co.html"
+breweryURL: "/brewery/nomad-brewing-co.html"
 style: "Sour - Gose"
 ---

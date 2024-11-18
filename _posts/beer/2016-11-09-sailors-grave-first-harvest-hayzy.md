@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-first-harvest-hayzy.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-first-harvest-hayzy-ipa/4195184"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "brewery/sailors-grave-brewing.html"
+breweryURL: "/brewery/sailors-grave-brewing.html"
 style: "IPA - International"
 ---

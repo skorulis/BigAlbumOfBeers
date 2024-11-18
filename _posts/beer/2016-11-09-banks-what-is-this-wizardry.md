@@ -11,6 +11,6 @@ img: /img/list/banks-what-is-this-wizardry.jpeg
 untappd: "https://untappd.com/b/banks-brewing-what-is-this-wizardry/4587860"
 country: "Australia"
 brewery: "Banks Brewing"
-breweryURL: "brewery/banks-brewing.html"
+breweryURL: "/brewery/banks-brewing.html"
 style: "IPA - Triple New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hermitage-cherry-almond-sour.jpeg
 untappd: "https://untappd.com/b/hermitage-brewing--cherry-almonds-american-sour/2175562"
 country: "United States"
 brewery: "Hermitage Brewing"
-breweryURL: "brewery/hermitage-brewing.html"
+breweryURL: "/brewery/hermitage-brewing.html"
 style: "Sour - Ale"
 ---

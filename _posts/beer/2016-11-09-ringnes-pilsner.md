@@ -11,6 +11,6 @@ img: /img/list/ringnes-pilsner.jpeg
 untappd: "https://untappd.com/b/ringnes-bryggeri-ringnes-pilsner/784351"
 country: "Norway"
 brewery: "Ringnes Bryggeri"
-breweryURL: "brewery/ringnes-bryggeri.html"
+breweryURL: "/brewery/ringnes-bryggeri.html"
 style: "Pilsner - Other"
 ---

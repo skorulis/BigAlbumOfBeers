@@ -11,6 +11,6 @@ img: /img/list/shout-cloudy-with-a-chance-of-juice.jpeg
 untappd: "https://untappd.com/b/shout-brewing-co--cloudy-with-a-chance-of-juice-neipa/3770964"
 country: "Australia"
 brewery: "Shout Brewing Co."
-breweryURL: "brewery/shout-brewing-co.html"
+breweryURL: "/brewery/shout-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

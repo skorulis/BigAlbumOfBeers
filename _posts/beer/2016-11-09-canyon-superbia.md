@@ -11,6 +11,6 @@ img: /img/list/canyon-superbia.jpeg
 untappd: "https://untappd.com/b/canyon-brewing-superbia/4980735"
 country: "New Zealand"
 brewery: "Canyon Brewing"
-breweryURL: "brewery/canyon-brewing.html"
+breweryURL: "/brewery/canyon-brewing.html"
 style: "Pale Ale - New England / Hazy"
 ---

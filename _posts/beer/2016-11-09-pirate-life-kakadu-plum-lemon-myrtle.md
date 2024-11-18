@@ -11,6 +11,6 @@ img: /img/list/pirate-life-kakadu-plum-lemon-myrtle.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-kakadu-plum---lemon-myrtle-pale-ale/3681965"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Pale Ale - Australian"
 ---

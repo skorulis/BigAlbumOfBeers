@@ -11,6 +11,6 @@ img: /img/list/fixation-obsession.jpeg
 untappd: "https://untappd.com/b/fixation-brewing-co-obsession-session-ipa/2259843"
 country: "Australia"
 brewery: "Fixation Brewing Co"
-breweryURL: "brewery/fixation-brewing-co.html"
+breweryURL: "/brewery/fixation-brewing-co.html"
 style: "IPA - Session / India Session Ale"
 ---

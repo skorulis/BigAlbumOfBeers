@@ -11,6 +11,6 @@ img: /img/list/banks-get-up-and-go.jpeg
 untappd: "https://untappd.com/b/banks-brewing-get-up---go/4823577"
 country: "Australia"
 brewery: "Banks Brewing"
-breweryURL: "brewery/banks-brewing.html"
+breweryURL: "/brewery/banks-brewing.html"
 style: "Sour - Smoothie / Pastry"
 ---

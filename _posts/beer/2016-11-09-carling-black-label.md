@@ -11,6 +11,6 @@ img: /img/list/carling-black-label.jpeg
 untappd: "https://untappd.com/b/south-african-breweries-carling-black-label/206577"
 country: "South Africa"
 brewery: "South African Breweries"
-breweryURL: "brewery/south-african-breweries.html"
+breweryURL: "/brewery/south-african-breweries.html"
 style: "Lager - Pale"
 ---

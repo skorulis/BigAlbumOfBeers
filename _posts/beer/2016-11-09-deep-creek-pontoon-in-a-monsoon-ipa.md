@@ -11,6 +11,6 @@ img: /img/list/deep-creek-pontoon-in-a-monsoon-ipa.jpeg
 untappd: "https://untappd.com/b/deep-creek-brewing-co--pontoon-in-a-monsoon/76138"
 country: "New Zealand"
 brewery: "Deep Creek Brewing Co."
-breweryURL: "brewery/deep-creek-brewing-co.html"
+breweryURL: "/brewery/deep-creek-brewing-co.html"
 style: "IPA - American"
 ---

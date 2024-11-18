@@ -11,6 +11,6 @@ img: /img/list/berliner-pilsner.jpeg
 untappd: "https://untappd.com/b/berliner-kindl-schultheiss-brauerei-berliner-pilsner/6578"
 country: "Germany"
 brewery: "Berliner-Kindl-Schultheiss-Brauerei"
-breweryURL: "brewery/berliner-kindl-schultheiss-brauerei.html"
+breweryURL: "/brewery/berliner-kindl-schultheiss-brauerei.html"
 style: "Pilsner - German"
 ---

@@ -11,6 +11,6 @@ img: /img/list/birra-nova-margose.jpeg
 untappd: "https://untappd.com/b/birranova-margose/856052"
 country: "Italy"
 brewery: "Birranova"
-breweryURL: "brewery/birranova.html"
+breweryURL: "/brewery/birranova.html"
 style: "Sour - Gose"
 ---

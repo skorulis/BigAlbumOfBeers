@@ -11,6 +11,6 @@ img: /img/list/yeastie-boys-hot-space.jpeg
 untappd: "https://untappd.com/b/yeastie-boys-hot-space/2951984"
 country: "New Zealand"
 brewery: "Yeastie Boys"
-breweryURL: "brewery/yeastie-boys.html"
+breweryURL: "/brewery/yeastie-boys.html"
 style: "Pale Ale - New Zealand"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bracket-19th-hole.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-19th-hole/5220058"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - American"
 ---

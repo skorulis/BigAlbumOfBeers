@@ -11,6 +11,6 @@ img: /img/list/batch-hay-z.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-hay-z/2325079"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Sour - Ale"
 ---

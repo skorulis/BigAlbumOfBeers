@@ -11,6 +11,6 @@ img: /img/list/ballistic-mexican-hot-chocolate-stout.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-mexican-hot-chocolate-stout/2735139"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "brewery/ballistic-beer.html"
+breweryURL: "/brewery/ballistic-beer.html"
 style: "Stout - Milk / Sweet"
 ---

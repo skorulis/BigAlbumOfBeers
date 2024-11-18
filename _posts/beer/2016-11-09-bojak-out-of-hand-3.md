@@ -11,6 +11,6 @@ img: /img/list/bojak-out-of-hand-3.jpeg
 untappd: "https://untappd.com/b/bojak-brewing-out-of-hand-3/4376781"
 country: "Australia"
 brewery: "Bojak Brewing"
-breweryURL: "brewery/bojak-brewing.html"
+breweryURL: "/brewery/bojak-brewing.html"
 style: "Pale Ale - New England / Hazy"
 ---

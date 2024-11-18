@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-afends-hemp-ipa.jpeg
 untappd: "https://untappd.com/b/young-henrys-afends-hemp-ipa/2899079"
 country: "Australia"
 brewery: "Young Henrys"
-breweryURL: "brewery/young-henrys.html"
+breweryURL: "/brewery/young-henrys.html"
 style: "IPA - International"
 ---

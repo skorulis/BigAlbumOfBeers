@@ -11,6 +11,6 @@ img: /img/list/wildflower-gold--40.jpeg
 untappd: "https://untappd.com/b/wildflower-brewing---blending-gold/1913396"
 country: "Australia"
 brewery: "Wildflower Brewing & Blending"
-breweryURL: "brewery/wildflower-brewing---blending.html"
+breweryURL: "/brewery/wildflower-brewing---blending.html"
 style: "Wild Ale - Other"
 ---

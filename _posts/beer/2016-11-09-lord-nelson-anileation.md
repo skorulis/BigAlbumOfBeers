@@ -11,6 +11,6 @@ img: /img/list/lord-nelson-anileation.jpeg
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-anileation/58024"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
-breweryURL: "brewery/the-lord-nelson-brewery-hotel.html"
+breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Stout - Irish Dry"
 ---

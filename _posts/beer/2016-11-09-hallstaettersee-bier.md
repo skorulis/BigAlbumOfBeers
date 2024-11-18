@@ -11,6 +11,6 @@ img: /img/list/hallstaettersee-bier.jpeg
 untappd: "https://untappd.com/b/schloss-eggenberg-hallstattersee-bier/1613277"
 country: "Austria"
 brewery: "Schloss Eggenberg"
-breweryURL: "brewery/schloss-eggenberg.html"
+breweryURL: "/brewery/schloss-eggenberg.html"
 style: "Lager - Helles"
 ---

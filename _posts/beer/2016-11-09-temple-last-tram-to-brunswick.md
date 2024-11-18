@@ -11,6 +11,6 @@ img: /img/list/temple-last-tram-to-brunswick.jpeg
 untappd: "https://untappd.com/b/temple-brewing-co--last-tram-to-brunswick/4455456"
 country: "Australia"
 brewery: "Temple Brewing Co."
-breweryURL: "brewery/temple-brewing-co.html"
+breweryURL: "/brewery/temple-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

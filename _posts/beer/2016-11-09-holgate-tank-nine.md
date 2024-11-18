@@ -11,6 +11,6 @@ img: /img/list/holgate-tank-nine.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-hop-tart/937001"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "brewery/holgate-brewhouse.html"
+breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Sour - Ale"
 ---

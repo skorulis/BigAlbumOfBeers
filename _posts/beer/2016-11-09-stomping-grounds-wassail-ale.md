@@ -11,6 +11,6 @@ img: /img/list/stomping-grounds-wassail-ale.jpeg
 untappd: "https://untappd.com/b/stomping-ground-brewing-co-wassail-ale/2985584"
 country: "Australia"
 brewery: "Stomping Ground Brewing Co"
-breweryURL: "brewery/stomping-ground-brewing-co.html"
+breweryURL: "/brewery/stomping-ground-brewing-co.html"
 style: "Winter Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/frenchies-pilsner.jpeg
 untappd: "https://untappd.com/b/frenchies-pilsner/4034789"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "brewery/frenchies.html"
+breweryURL: "/brewery/frenchies.html"
 style: "Pilsner - German"
 ---

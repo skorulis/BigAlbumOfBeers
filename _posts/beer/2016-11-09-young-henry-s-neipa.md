@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-neipa.jpeg
 untappd: "https://untappd.com/b/young-henrys-free-the-neipa/3690922"
 country: "Australia"
 brewery: "Young Henrys"
-breweryURL: "brewery/young-henrys.html"
+breweryURL: "/brewery/young-henrys.html"
 style: "IPA - New England"
 ---

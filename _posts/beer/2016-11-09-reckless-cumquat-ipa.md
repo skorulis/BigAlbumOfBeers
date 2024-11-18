@@ -11,6 +11,6 @@ img: /img/list/reckless-cumquat-ipa.jpeg
 untappd: "https://untappd.com/b/reckless-brewing-co--cumquat-ipa/5209790"
 country: "Australia"
 brewery: "Reckless Brewing Co."
-breweryURL: "brewery/reckless-brewing-co.html"
+breweryURL: "/brewery/reckless-brewing-co.html"
 style: "IPA - American"
 ---

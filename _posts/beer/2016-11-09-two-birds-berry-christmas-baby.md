@@ -11,6 +11,6 @@ img: /img/list/two-birds-berry-christmas-baby.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-berry-christmas--baby/4620786"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "brewery/two-birds-brewing.html"
+breweryURL: "/brewery/two-birds-brewing.html"
 style: "Sour - Fruited Gose"
 ---

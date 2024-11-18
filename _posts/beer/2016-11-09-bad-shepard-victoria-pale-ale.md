@@ -11,6 +11,6 @@ img: /img/list/bad-shepard-victoria-pale-ale.jpeg
 untappd: "https://untappd.com/b/bad-shepherd-brewing-co--victoria-pale-ale/2857152"
 country: "Australia"
 brewery: "Bad Shepherd Brewing Co."
-breweryURL: "brewery/bad-shepherd-brewing-co.html"
+breweryURL: "/brewery/bad-shepherd-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

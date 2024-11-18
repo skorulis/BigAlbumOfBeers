@@ -11,6 +11,6 @@ img: /img/list/yenda-pale-ale.jpeg
 untappd: "https://untappd.com/b/australian-beer-company-yenda-pale-ale/808826"
 country: "Australia"
 brewery: "Australian Beer Company"
-breweryURL: "brewery/australian-beer-company.html"
+breweryURL: "/brewery/australian-beer-company.html"
 style: "Pale Ale - Australian"
 ---

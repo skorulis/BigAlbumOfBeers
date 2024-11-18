@@ -11,6 +11,6 @@ img: /img/list/bracket-mosaic-haze.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-mosaic-haze/4331727"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

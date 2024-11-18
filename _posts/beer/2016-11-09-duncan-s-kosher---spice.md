@@ -11,6 +11,6 @@ img: /img/list/duncan-s-kosher---spice.jpeg
 untappd: "https://untappd.com/b/duncans-brewing-kosher---spice/4985312"
 country: "New Zealand"
 brewery: "Duncan's Brewing"
-breweryURL: "brewery/duncan-s-brewing.html"
+breweryURL: "/brewery/duncan-s-brewing.html"
 style: "Sour - Fruited"
 ---

@@ -11,6 +11,6 @@ img: /img/list/crafty-dan-13-guns.jpeg
 untappd: "https://untappd.com/b/thwaites-brewery-crafty-dan-13-guns/67679"
 country: "England"
 brewery: "Thwaites Brewery"
-breweryURL: "brewery/thwaites-brewery.html"
+breweryURL: "/brewery/thwaites-brewery.html"
 style: "IPA - American"
 ---

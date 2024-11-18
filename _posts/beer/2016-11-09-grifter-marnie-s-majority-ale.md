@@ -11,6 +11,6 @@ img: /img/list/grifter-marnie-s-majority-ale.jpeg
 untappd: "https://untappd.com/b/grifter-brewing-company-marnies-majority-ale/346762"
 country: "Australia"
 brewery: "Grifter Brewing Company"
-breweryURL: "brewery/grifter-brewing-company.html"
+breweryURL: "/brewery/grifter-brewing-company.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/qantelaar.jpeg
 untappd: "https://untappd.com/b/doude-maalderij-qantelaar-bruin/237224"
 country: "Belgium"
 brewery: "D'Oude Maalderij"
-breweryURL: "brewery/d-oude-maalderij.html"
+breweryURL: "/brewery/d-oude-maalderij.html"
 style: "Belgian Strong Dark Ale"
 ---

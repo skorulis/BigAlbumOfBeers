@@ -11,6 +11,6 @@ img: /img/list/timmermans-strawberry-lambic-beer.jpeg
 untappd: "https://untappd.com/b/brewery-john-martin---brewery-timmermans-strawberry-lambicus/19054"
 country: "Belgium"
 brewery: "Brewery John Martin & Brewery Timmermans"
-breweryURL: "brewery/brewery-john-martin---brewery-timmermans.html"
+breweryURL: "/brewery/brewery-john-martin---brewery-timmermans.html"
 style: "Lambic - Fruit"
 ---

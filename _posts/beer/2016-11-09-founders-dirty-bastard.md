@@ -11,6 +11,6 @@ img: /img/list/founders-dirty-bastard.jpeg
 untappd: "https://untappd.com/b/founders-brewing-co--dirty-bastard/1013"
 country: "United States"
 brewery: "Founders Brewing Co."
-breweryURL: "brewery/founders-brewing-co.html"
+breweryURL: "/brewery/founders-brewing-co.html"
 style: "Scottish Ale"
 ---

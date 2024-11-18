@@ -11,6 +11,6 @@ img: /img/list/prickly-moses-harvest-ale.jpeg
 untappd: "https://untappd.com/b/prickly-moses-harvest-ale/1058036"
 country: "Australia"
 brewery: "Prickly Moses"
-breweryURL: "brewery/prickly-moses.html"
+breweryURL: "/brewery/prickly-moses.html"
 style: "Pale Ale - Australian"
 ---

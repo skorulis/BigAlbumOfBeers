@@ -11,6 +11,6 @@ img: /img/list/matilda-bay-alpha-pale-ale.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-alpha-pale-ale/11554"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "brewery/matilda-bay-brewing-company.html"
+breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Pale Ale - American"
 ---

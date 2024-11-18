@@ -11,6 +11,6 @@ img: /img/list/hop-nation-dreamfeed.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-dreamfeed/3315092"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "brewery/hop-nation-brewing-co.html"
+breweryURL: "/brewery/hop-nation-brewing-co.html"
 style: "IPA - New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/faro-lambic.jpeg
 untappd: "https://untappd.com/b/brouwerij-lindemans-faro/7897"
 country: "Belgium"
 brewery: "Brouwerij Lindemans"
-breweryURL: "brewery/brouwerij-lindemans.html"
+breweryURL: "/brewery/brouwerij-lindemans.html"
 style: "Faro"
 ---

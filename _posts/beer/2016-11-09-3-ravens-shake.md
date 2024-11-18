@@ -11,6 +11,6 @@ img: /img/list/3-ravens-shake.jpeg
 untappd: "https://untappd.com/b/3-ravens-brewery-salted-caramel-shake/2777601"
 country: "Australia"
 brewery: "3 Ravens Brewery"
-breweryURL: "brewery/3-ravens-brewery.html"
+breweryURL: "/brewery/3-ravens-brewery.html"
 style: "IPA - Milkshake"
 ---

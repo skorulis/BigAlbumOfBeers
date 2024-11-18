@@ -11,6 +11,6 @@ img: /img/list/thunder-road-mandarin-oat-cream-ipa.jpeg
 untappd: "https://untappd.com/b/thunder-road-brewing-company-mandarin-oat-cream-ipa/4067078"
 country: "Australia"
 brewery: "Thunder Road Brewing Company"
-breweryURL: "brewery/thunder-road-brewing-company.html"
+breweryURL: "/brewery/thunder-road-brewing-company.html"
 style: "IPA - Milkshake"
 ---

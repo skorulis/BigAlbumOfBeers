@@ -11,6 +11,6 @@ img: /img/list/principle-hazy.jpeg
 untappd: "https://untappd.com/b/principle-brewing-hazy/4712657"
 country: "Australia"
 brewery: "Principle Brewing"
-breweryURL: "brewery/principle-brewing.html"
+breweryURL: "/brewery/principle-brewing.html"
 style: "Pale Ale - New England / Hazy"
 ---

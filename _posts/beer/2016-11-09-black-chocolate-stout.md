@@ -11,6 +11,6 @@ img: /img/list/black-chocolate-stout.jpeg
 untappd: "https://untappd.com/b/brooklyn-brewery-black-chocolate-stout/37235"
 country: "United States"
 brewery: "Brooklyn Brewery"
-breweryURL: "brewery/brooklyn-brewery.html"
+breweryURL: "/brewery/brooklyn-brewery.html"
 style: "Stout - Russian Imperial"
 ---

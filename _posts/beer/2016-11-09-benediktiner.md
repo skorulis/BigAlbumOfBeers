@@ -11,6 +11,6 @@ img: /img/list/benediktiner.jpeg
 untappd: "https://untappd.com/b/benediktiner-weibbrau-benediktiner-weissbier/103362"
 country: "Germany"
 brewery: "Benediktiner Weißbräu"
-breweryURL: "brewery/benediktiner-weissbraeu.html"
+breweryURL: "/brewery/benediktiner-weissbraeu.html"
 style: "Hefeweizen"
 ---

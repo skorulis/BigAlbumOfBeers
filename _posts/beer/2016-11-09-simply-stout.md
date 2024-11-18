@@ -11,6 +11,6 @@ img: /img/list/simply-stout.jpeg
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-simply-stout/260943"
 country: "England"
 brewery: "Tesco Stores Ltd."
-breweryURL: "brewery/tesco-stores-ltd.html"
+breweryURL: "/brewery/tesco-stores-ltd.html"
 style: "Stout - Other"
 ---

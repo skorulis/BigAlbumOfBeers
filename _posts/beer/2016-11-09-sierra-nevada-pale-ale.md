@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-pale-ale.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--pale-ale/6284"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "brewery/sierra-nevada-brewing-co.html"
+breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "Pale Ale - American"
 ---

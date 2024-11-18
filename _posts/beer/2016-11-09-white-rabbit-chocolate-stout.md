@@ -11,6 +11,6 @@ img: /img/list/white-rabbit-chocolate-stout.jpeg
 untappd: "https://untappd.com/b/white-rabbit-chocolate-stout/2009845"
 country: "Australia"
 brewery: "White Rabbit"
-breweryURL: "brewery/white-rabbit.html"
+breweryURL: "/brewery/white-rabbit.html"
 style: "Stout - Other"
 ---

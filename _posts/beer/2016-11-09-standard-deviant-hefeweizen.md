@@ -11,6 +11,6 @@ img: /img/list/standard-deviant-hefeweizen.jpeg
 untappd: "https://untappd.com/b/standard-deviant-brewing-standard-deviant-brewing-hefeweizen/2317976"
 country: "United States"
 brewery: "Standard Deviant Brewing"
-breweryURL: "brewery/standard-deviant-brewing.html"
+breweryURL: "/brewery/standard-deviant-brewing.html"
 style: "Wheat Beer - Hefeweizen"
 ---

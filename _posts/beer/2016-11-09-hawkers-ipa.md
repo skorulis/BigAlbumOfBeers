@@ -11,6 +11,6 @@ img: /img/list/hawkers-ipa.jpeg
 untappd: "https://untappd.com/b/hawkers-beer-ipa/966228"
 country: "Australia"
 brewery: "Hawkers Beer"
-breweryURL: "brewery/hawkers-beer.html"
+breweryURL: "/brewery/hawkers-beer.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/maltnhops-double-the-snobbery.jpeg
 untappd: "https://untappd.com/b/maltnhops-brewhaus-double-the-snobbery/4610420"
 country: "Australia"
 brewery: "Maltnhops Brewhaus"
-breweryURL: "brewery/maltnhops-brewhaus.html"
+breweryURL: "/brewery/maltnhops-brewhaus.html"
 style: "IPA - Red"
 ---

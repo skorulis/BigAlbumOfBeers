@@ -11,6 +11,6 @@ img: /img/list/bucket-boys-if-you-like-pina-colada.jpeg
 untappd: "https://untappd.com/b/-australian-brewery-if-you-like-pina-colada-new-england-milkshake-ipa/2332824"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "brewery/-australian-brewery.html"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "IPA - New England"
 ---

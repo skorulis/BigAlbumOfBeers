@@ -11,6 +11,6 @@ img: /img/list/wayward-beware-the-ides-maerzen.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-beware-the-ides/3936462"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "brewery/wayward-brewing.html"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Märzen"
 ---

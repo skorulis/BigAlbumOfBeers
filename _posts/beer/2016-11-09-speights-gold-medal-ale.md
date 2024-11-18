@@ -11,6 +11,6 @@ img: /img/list/speights-gold-medal-ale.jpeg
 untappd: "https://untappd.com/b/speights-brewery-gold-medal-ale/5548"
 country: "New Zealand"
 brewery: "Speight's Brewery"
-breweryURL: "brewery/speight-s-brewery.html"
+breweryURL: "/brewery/speight-s-brewery.html"
 style: "Pale Ale - New Zealand"
 ---

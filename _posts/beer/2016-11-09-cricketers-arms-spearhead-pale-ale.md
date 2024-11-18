@@ -11,6 +11,6 @@ img: /img/list/cricketers-arms-spearhead-pale-ale.jpeg
 untappd: "https://untappd.com/b/cricketers-arms-spearhead-pale-ale/807867"
 country: "Australia"
 brewery: "Cricketers Arms"
-breweryURL: "brewery/cricketers-arms.html"
+breweryURL: "/brewery/cricketers-arms.html"
 style: "Pale Ale - Australian"
 ---

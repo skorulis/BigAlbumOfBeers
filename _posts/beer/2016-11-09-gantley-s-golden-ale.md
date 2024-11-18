@@ -11,6 +11,6 @@ img: /img/list/gantley-s-golden-ale.jpeg
 untappd: "https://untappd.com/b/searchlight-brewery-searchlight-brewery-gantley-s-golden-ale/5668043"
 country: "New Zealand"
 brewery: "Searchlight Brewery"
-breweryURL: "brewery/searchlight-brewery.html"
+breweryURL: "/brewery/searchlight-brewery.html"
 style: "Blonde / Golden Ale - English"
 ---

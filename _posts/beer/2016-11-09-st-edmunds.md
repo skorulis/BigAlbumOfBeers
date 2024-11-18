@@ -11,6 +11,6 @@ img: /img/list/st-edmunds.jpeg
 untappd: "https://untappd.com/b/greene-king-st-edmunds-golden-beer/1707"
 country: "England"
 brewery: "Greene King"
-breweryURL: "brewery/greene-king.html"
+breweryURL: "/brewery/greene-king.html"
 style: "Golden Ale"
 ---

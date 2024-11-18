@@ -11,6 +11,6 @@ img: /img/list/black-hops-east-coast-low.jpeg
 untappd: "https://untappd.com/b/black-hops-brewing-east-coast-low/3944293"
 country: "Australia"
 brewery: "Black Hops Brewing"
-breweryURL: "brewery/black-hops-brewing.html"
+breweryURL: "/brewery/black-hops-brewing.html"
 style: "Pale Ale - Australian"
 ---

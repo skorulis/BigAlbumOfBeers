@@ -11,6 +11,6 @@ img: /img/list/buckettys-5-day-xpa.jpeg
 untappd: "https://untappd.com/b/buckettys-brewing-co--5-day-xpa/4331760"
 country: "Australia"
 brewery: "Bucketty's Brewing Co."
-breweryURL: "brewery/bucketty-s-brewing-co.html"
+breweryURL: "/brewery/bucketty-s-brewing-co.html"
 style: "Pale Ale - XPA (Extra Pale)"
 ---

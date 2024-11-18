@@ -11,6 +11,6 @@ img: /img/list/monteith-s-southern-pale-ale.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-southern-pale-ale/626008"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "brewery/monteith-s-brewing-co--.html"
+breweryURL: "/brewery/monteith-s-brewing-co--.html"
 style: "Pale Ale - New Zealand"
 ---

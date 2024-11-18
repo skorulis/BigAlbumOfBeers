@@ -11,6 +11,6 @@ img: /img/list/searchlight-boulder-basker.jpeg
 untappd: "https://untappd.com/b/searchlight-brewery-searchlight-brewery-boulder-basher-ipa/5534050"
 country: "New Zealand"
 brewery: "Searchlight Brewery"
-breweryURL: "brewery/searchlight-brewery.html"
+breweryURL: "/brewery/searchlight-brewery.html"
 style: "IPA - American"
 ---

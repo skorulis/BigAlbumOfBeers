@@ -11,6 +11,6 @@ img: /img/list/weihenstephaner-pils.jpeg
 untappd: "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-pils/16774"
 country: "Germany"
 brewery: "Bayerische Staatsbrauerei Weihenstephan"
-breweryURL: "brewery/bayerische-staatsbrauerei-weihenstephan.html"
+breweryURL: "/brewery/bayerische-staatsbrauerei-weihenstephan.html"
 style: "Pilsner - German"
 ---

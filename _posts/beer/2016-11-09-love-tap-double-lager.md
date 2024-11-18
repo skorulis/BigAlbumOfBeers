@@ -11,6 +11,6 @@ img: /img/list/love-tap-double-lager.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-love-tap-double-lager/1411128"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "brewery/moon-dog-craft-brewery.html"
+breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Lager - Euro Strong"
 ---

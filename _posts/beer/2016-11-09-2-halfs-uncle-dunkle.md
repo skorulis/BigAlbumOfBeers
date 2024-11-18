@@ -11,6 +11,6 @@ img: /img/list/2-halfs-uncle-dunkle.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-uncle-dunkel/4747987"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "brewery/2-halfs-brewing-distilling.html"
+breweryURL: "/brewery/2-halfs-brewing-distilling.html"
 style: "Lager - Munich Dunkel"
 ---

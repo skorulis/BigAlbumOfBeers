@@ -11,6 +11,6 @@ img: /img/list/prancing-pony-zeppelin.jpeg
 untappd: "https://untappd.com/b/prancing-pony-brewery-the-zeppelin/2750578"
 country: "Australia"
 brewery: "Prancing Pony Brewery"
-breweryURL: "brewery/prancing-pony-brewery.html"
+breweryURL: "/brewery/prancing-pony-brewery.html"
 style: "IPA - New England"
 ---

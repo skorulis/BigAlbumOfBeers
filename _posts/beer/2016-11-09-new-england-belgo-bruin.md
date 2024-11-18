@@ -11,6 +11,6 @@ img: /img/list/new-england-belgo-bruin.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co--belgo-bruin---brown/5112850"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "brewery/new-england-brewing-co.html"
+breweryURL: "/brewery/new-england-brewing-co.html"
 style: "Brown Ale - Belgian"
 ---

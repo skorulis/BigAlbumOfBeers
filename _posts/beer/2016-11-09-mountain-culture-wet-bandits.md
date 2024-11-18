@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-wet-bandits.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--wet-bandits/4598674"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "brewery/mountain-culture-beer-co.html"
+breweryURL: "/brewery/mountain-culture-beer-co.html"
 style: "IPA - Milkshake"
 ---

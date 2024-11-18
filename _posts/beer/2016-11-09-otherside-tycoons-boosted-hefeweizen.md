@@ -11,6 +11,6 @@ img: /img/list/otherside-tycoons-boosted-hefeweizen.jpeg
 untappd: "https://untappd.com/b/otherside-brewing-co--boosted-hefeweizen---tycoons-5/4432098"
 country: "Australia"
 brewery: "Otherside Brewing Co."
-breweryURL: "brewery/otherside-brewing-co.html"
+breweryURL: "/brewery/otherside-brewing-co.html"
 style: "Wheat Beer - Hefeweizen"
 ---

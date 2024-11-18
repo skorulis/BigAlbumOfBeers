@@ -11,6 +11,6 @@ img: /img/list/praga-pils.jpeg
 untappd: "https://untappd.com/b/praga-praga-premium-pils/173782"
 country: "Czech Republic"
 brewery: "Praga"
-breweryURL: "brewery/praga.html"
+breweryURL: "/brewery/praga.html"
 style: "Pilsner - Czech"
 ---

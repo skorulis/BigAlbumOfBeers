@@ -11,6 +11,6 @@ img: /img/list/hargreaves-cherry-harvest-2016.jpeg
 untappd: "https://untappd.com/b/hargreaves-hill-brewing-company-pty--ltd--cherry-harvest-2016--fruit-sour-/1935397"
 country: "Australia"
 brewery: "Hargreaves Hill Brewing Company Pty. Ltd."
-breweryURL: "brewery/hargreaves-hill-brewing-company-pty--ltd.html"
+breweryURL: "/brewery/hargreaves-hill-brewing-company-pty--ltd.html"
 style: "Sour - Ale"
 ---

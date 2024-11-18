@@ -11,6 +11,6 @@ img: /img/list/atomic-brown-ale.jpeg
 untappd: "https://untappd.com/b/atomic-brown-ale/4224003"
 country: "Australia"
 brewery: "Atomic"
-breweryURL: "brewery/atomic.html"
+breweryURL: "/brewery/atomic.html"
 style: "Brown Ale - Other"
 ---

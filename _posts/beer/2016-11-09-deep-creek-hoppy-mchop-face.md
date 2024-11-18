@@ -11,6 +11,6 @@ img: /img/list/deep-creek-hoppy-mchop-face.jpeg
 untappd: "https://untappd.com/b/deep-creek-brewing-co--hoppymchopface---hop-oil-dipa/1682323"
 country: "New Zealand"
 brewery: "Deep Creek Brewing Co."
-breweryURL: "brewery/deep-creek-brewing-co.html"
+breweryURL: "/brewery/deep-creek-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

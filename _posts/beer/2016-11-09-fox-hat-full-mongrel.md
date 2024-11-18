@@ -11,6 +11,6 @@ img: /img/list/fox-hat-full-mongrel.jpeg
 untappd: "https://untappd.com/b/fox-hat-brewing-full-mongrel/2217271"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "brewery/fox-hat-brewing.html"
+breweryURL: "/brewery/fox-hat-brewing.html"
 style: "Stout - Russian Imperial"
 ---

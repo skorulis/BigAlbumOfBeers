@@ -11,6 +11,6 @@ img: /img/list/bridge-road-magical-christmas-unicorn.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-nitro-magical-christmas-unicorn/3996616"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "brewery/bridge-road-brewers.html"
+breweryURL: "/brewery/bridge-road-brewers.html"
 style: "Cream Ale"
 ---

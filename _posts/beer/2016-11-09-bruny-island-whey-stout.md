@@ -11,6 +11,6 @@ img: /img/list/bruny-island-whey-stout.jpeg
 untappd: "https://untappd.com/b/bruny-island-beer-co-whey-stout/1743334"
 country: "Australia"
 brewery: "Bruny Island Beer Co"
-breweryURL: "brewery/bruny-island-beer-co.html"
+breweryURL: "/brewery/bruny-island-beer-co.html"
 style: "Stout - Milk / Sweet"
 ---

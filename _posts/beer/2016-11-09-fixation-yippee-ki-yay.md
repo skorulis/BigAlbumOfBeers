@@ -11,6 +11,6 @@ img: /img/list/fixation-yippee-ki-yay.jpeg
 untappd: "https://untappd.com/b/fixation-brewing-co-yippee-ki-yay-mf/5112834"
 country: "Australia"
 brewery: "Fixation Brewing Co"
-breweryURL: "brewery/fixation-brewing-co.html"
+breweryURL: "/brewery/fixation-brewing-co.html"
 style: "IPA - American"
 ---

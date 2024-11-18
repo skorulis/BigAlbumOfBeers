@@ -11,6 +11,6 @@ img: /img/list/kaiju--robohop.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-kaiju-robohop-/893504"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "brewery/kaiju--beer.html"
+breweryURL: "/brewery/kaiju--beer.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/atomic-the-nectar.jpeg
 untappd: "https://untappd.com/b/atomic-the-nectar-ipa/4693519"
 country: "Australia"
 brewery: "Atomic"
-breweryURL: "brewery/atomic.html"
+breweryURL: "/brewery/atomic.html"
 style: "IPA - Other"
 ---

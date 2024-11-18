@@ -11,6 +11,6 @@ img: /img/list/cupitts-milton-pilsner.jpeg
 untappd: "https://untappd.com/b/cupitt-craft-brewers-milton-pilsner/2962873"
 country: "Australia"
 brewery: "Cupitt Craft Brewers"
-breweryURL: "brewery/cupitt-craft-brewers.html"
+breweryURL: "/brewery/cupitt-craft-brewers.html"
 style: "Pilsner - Other"
 ---

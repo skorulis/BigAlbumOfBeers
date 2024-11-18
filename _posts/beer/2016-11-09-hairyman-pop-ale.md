@@ -11,6 +11,6 @@ img: /img/list/hairyman-pop-ale.jpeg
 untappd: "https://untappd.com/b/hairyman-brewery-pop-ale/2460506"
 country: "Australia"
 brewery: "Hairyman Brewery"
-breweryURL: "brewery/hairyman-brewery.html"
+breweryURL: "/brewery/hairyman-brewery.html"
 style: "Other"
 ---

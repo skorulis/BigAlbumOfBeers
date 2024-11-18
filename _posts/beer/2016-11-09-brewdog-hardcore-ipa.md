@@ -11,6 +11,6 @@ img: /img/list/brewdog-hardcore-ipa.jpeg
 untappd: "https://untappd.com/b/brewdog-hardcore-ipa/5707"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "brewery/brewdog.html"
+breweryURL: "/brewery/brewdog.html"
 style: "IPA - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/yullis-coffee-nerd.jpeg
 untappd: "https://untappd.com/b/yullis-brews-coffee-nerd-vanilla-porter/3423824"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "brewery/yulli-s-brews.html"
+breweryURL: "/brewery/yulli-s-brews.html"
 style: "Porter - Coffee"
 ---

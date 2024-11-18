@@ -11,6 +11,6 @@ img: /img/list/krombacher-weizen.jpeg
 untappd: "https://untappd.com/b/krombacher-gruppe-krombacher-weizen/11387"
 country: "Germany"
 brewery: "Krombacher Gruppe"
-breweryURL: "brewery/krombacher-gruppe.html"
+breweryURL: "/brewery/krombacher-gruppe.html"
 style: "Hefeweizen"
 ---

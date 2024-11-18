@@ -11,6 +11,6 @@ img: /img/list/otherside-harvest-red-ale.jpeg
 untappd: "https://untappd.com/b/otherside-brewing-co--harvest/1973543"
 country: "Australia"
 brewery: "Otherside Brewing Co."
-breweryURL: "brewery/otherside-brewing-co.html"
+breweryURL: "/brewery/otherside-brewing-co.html"
 style: "Red Ale - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mildura-margarita-gose.jpeg
 untappd: "https://untappd.com/b/mildura-brewery-margarita-gose/4284721"
 country: "Australia"
 brewery: "Mildura Brewery"
-breweryURL: "brewery/mildura-brewery.html"
+breweryURL: "/brewery/mildura-brewery.html"
 style: "Sour - Gose"
 ---

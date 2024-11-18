@@ -11,6 +11,6 @@ img: /img/list/hope-grapefruit-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/hope-brewery-grapefruit-hazy-ipa/3324932"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "brewery/hope-brewery.html"
+breweryURL: "/brewery/hope-brewery.html"
 style: "IPA - New England / Hazy"
 ---

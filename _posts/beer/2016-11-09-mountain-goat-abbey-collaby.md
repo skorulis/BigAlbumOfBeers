@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-abbey-collaby.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-abbey-collaby--2018-/2662908"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "IPA - American"
 ---

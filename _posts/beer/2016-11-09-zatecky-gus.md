@@ -11,6 +11,6 @@ img: /img/list/zatecky-gus.jpeg
 untappd: "https://untappd.com/b/baltika-breweries--baltika--zatecky-gus/181553"
 country: "Russia"
 brewery: "Baltika Breweries (Балтика)"
-breweryURL: "brewery/baltika-breweries--baltika.html"
+breweryURL: "/brewery/baltika-breweries--baltika.html"
 style: "Pilsner - Other"
 ---

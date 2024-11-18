@@ -11,6 +11,6 @@ img: /img/list/hope-lemon-lime-sour.jpeg
 untappd: "https://untappd.com/b/hope-brewery-lemon-and-lime-sour/3289679"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "brewery/hope-brewery.html"
+breweryURL: "/brewery/hope-brewery.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

@@ -11,6 +11,6 @@ img: /img/list/crow-trotskijs.jpeg
 untappd: "https://untappd.com/b/crow-bryggeri-trotskijs/295751"
 country: "Norway"
 brewery: "Crow Bryggeri"
-breweryURL: "brewery/crow-bryggeri.html"
+breweryURL: "/brewery/crow-bryggeri.html"
 style: "Red Ale - American Amber / Red"
 ---

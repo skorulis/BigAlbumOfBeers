@@ -11,6 +11,6 @@ img: /img/list/tooheys-new.jpeg
 untappd: "https://untappd.com/b/tooheys-brewing-new/5922"
 country: "Australia"
 brewery: "Tooheys Brewing"
-breweryURL: "brewery/tooheys-brewing.html"
+breweryURL: "/brewery/tooheys-brewing.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/cernovar--svetle.jpeg
 untappd: "https://untappd.com/b/tradicni-pivovar-v-rakovniku-cernovar-svetle/459676"
 country: "Czech Republic"
 brewery: "Tradiční pivovar v Rakovníku"
-breweryURL: "brewery/tradicni-pivovar-v-rakovniku.html"
+breweryURL: "/brewery/tradicni-pivovar-v-rakovniku.html"
 style: "Pilsner - Czech"
 ---

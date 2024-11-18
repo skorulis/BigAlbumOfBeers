@@ -11,6 +11,6 @@ img: /img/list/lemongrass-saison.jpeg
 untappd: "https://untappd.com/b/maui-brewing-company-lemongrass-saison/303112"
 country: "United States"
 brewery: "Maui Brewing Company"
-breweryURL: "brewery/maui-brewing-company.html"
+breweryURL: "/brewery/maui-brewing-company.html"
 style: "Saison / Farmhouse Ale"
 ---

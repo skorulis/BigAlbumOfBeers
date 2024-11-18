@@ -11,6 +11,6 @@ img: /img/list/monteith-s-american-pale-ale.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-american-pale-ale/593457"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "brewery/monteith-s-brewing-co--.html"
+breweryURL: "/brewery/monteith-s-brewing-co--.html"
 style: "Pale Ale - American"
 ---

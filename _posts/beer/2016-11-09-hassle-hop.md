@@ -11,6 +11,6 @@ img: /img/list/hassle-hop.jpeg
 untappd: "https://untappd.com/b/burleigh-brewing-co--hassle-hop/489890"
 country: "Australia"
 brewery: "Burleigh Brewing Co."
-breweryURL: "brewery/burleigh-brewing-co.html"
+breweryURL: "/brewery/burleigh-brewing-co.html"
 style: "Pale Ale - American"
 ---

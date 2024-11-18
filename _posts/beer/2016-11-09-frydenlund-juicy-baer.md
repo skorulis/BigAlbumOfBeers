@@ -11,6 +11,6 @@ img: /img/list/frydenlund-juicy-baer.jpeg
 untappd: "https://untappd.com/b/frydenlund-bryggerier-frydenlund-juicy-baer/4694644"
 country: "Norway"
 brewery: "Frydenlund Bryggerier"
-breweryURL: "brewery/frydenlund-bryggerier.html"
+breweryURL: "/brewery/frydenlund-bryggerier.html"
 style: "Fruit Beer"
 ---

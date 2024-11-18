@@ -11,6 +11,6 @@ img: /img/list/mildura-chocolate-oatmeal-stout.jpeg
 untappd: "https://untappd.com/b/mildura-brewery-chocolate-oatmeal-stout/3230233"
 country: "Australia"
 brewery: "Mildura Brewery"
-breweryURL: "brewery/mildura-brewery.html"
+breweryURL: "/brewery/mildura-brewery.html"
 style: "Stout - Oatmeal"
 ---

@@ -11,6 +11,6 @@ img: /img/list/slipstream-scooter.jpeg
 untappd: "https://untappd.com/b/slipstream-brewing-company-scooter-american-red-ale/2879287"
 country: "Australia"
 brewery: "Slipstream Brewing Company"
-breweryURL: "brewery/slipstream-brewing-company.html"
+breweryURL: "/brewery/slipstream-brewing-company.html"
 style: "Red Ale - American Amber / Red"
 ---

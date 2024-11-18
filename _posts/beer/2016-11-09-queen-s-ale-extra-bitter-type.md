@@ -11,6 +11,6 @@ img: /img/list/queen-s-ale-extra-bitter-type.jpeg
 untappd: "https://untappd.com/b/hitejinro-queens-ale-extra-bitter-type/457452"
 country: "South Korea"
 brewery: "HiteJinro"
-breweryURL: "brewery/hitejinro.html"
+breweryURL: "/brewery/hitejinro.html"
 style: "English Bitter"
 ---

@@ -11,6 +11,6 @@ img: /img/list/deep-creek-kombi.jpeg
 untappd: "https://untappd.com/b/deep-creek-brewing-co--kombi/2311344"
 country: "New Zealand"
 brewery: "Deep Creek Brewing Co."
-breweryURL: "brewery/deep-creek-brewing-co.html"
+breweryURL: "/brewery/deep-creek-brewing-co.html"
 style: "Pale Ale - American"
 ---

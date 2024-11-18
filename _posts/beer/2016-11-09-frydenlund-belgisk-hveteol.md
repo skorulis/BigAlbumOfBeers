@@ -11,6 +11,6 @@ img: /img/list/frydenlund-belgisk-hveteol.jpeg
 untappd: "https://untappd.com/b/frydenlund-bryggerier-belgisk-hveteol/2617082"
 country: "Norway"
 brewery: "Frydenlund Bryggerier"
-breweryURL: "brewery/frydenlund-bryggerier.html"
+breweryURL: "/brewery/frydenlund-bryggerier.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

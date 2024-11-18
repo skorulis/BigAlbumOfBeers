@@ -11,6 +11,6 @@ img: /img/list/balter-iipa.jpeg
 untappd: "https://untappd.com/b/balter-brewing-company-iipa/2411849"
 country: "Australia"
 brewery: "Balter Brewing Company"
-breweryURL: "brewery/balter-brewing-company.html"
+breweryURL: "/brewery/balter-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

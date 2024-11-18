@@ -11,6 +11,6 @@ img: /img/list/one-drop-dark-lager.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-dark-lager/4231352"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "Lager - Dark"
 ---

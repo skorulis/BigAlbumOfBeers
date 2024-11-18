@@ -11,6 +11,6 @@ img: /img/list/dos-equis-lager-especial.jpeg
 untappd: "https://untappd.com/b/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v--dos-equis-special-lager/10887"
 country: "Mexico"
 brewery: "Cervecería Cuauhtémoc Moctezuma S.A. de C.V."
-breweryURL: "brewery/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v.html"
+breweryURL: "/brewery/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v.html"
 style: "Lager - North American Adjunct"
 ---

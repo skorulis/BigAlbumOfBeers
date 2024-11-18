@@ -11,6 +11,6 @@ img: /img/list/range-x-bellwoods-x-mr-west-orchard-thief.jpeg
 untappd: "https://untappd.com/b/range-brewing-orchid-thief/4848927"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "brewery/range-brewing.html"
+breweryURL: "/brewery/range-brewing.html"
 style: "IPA - New England / Hazy"
 ---

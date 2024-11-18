@@ -11,6 +11,6 @@ img: /img/list/rocking-rudolph.jpeg
 untappd: "https://untappd.com/b/greene-king-hardys---hansons-rocking-rudolph/274315"
 country: "England"
 brewery: "Greene King"
-breweryURL: "brewery/greene-king.html"
+breweryURL: "/brewery/greene-king.html"
 style: "Winter Ale"
 ---

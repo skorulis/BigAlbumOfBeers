@@ -11,6 +11,6 @@ img: /img/list/eggenberg-maerzen.jpeg
 untappd: "https://untappd.com/b/schloss-eggenberg-classic-marzen/176991"
 country: "Austria"
 brewery: "Schloss Eggenberg"
-breweryURL: "brewery/schloss-eggenberg.html"
+breweryURL: "/brewery/schloss-eggenberg.html"
 style: "Märzen"
 ---

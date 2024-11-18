@@ -11,6 +11,6 @@ img: /img/list/stone-xocoveza.jpeg
 untappd: "https://untappd.com/b/stone-brewing-stone-xocoveza/1311232"
 country: "United States"
 brewery: "Stone Brewing"
-breweryURL: "brewery/stone-brewing.html"
+breweryURL: "/brewery/stone-brewing.html"
 style: "Stout - Imperial Milk / Sweet"
 ---

@@ -11,6 +11,6 @@ img: /img/list/batch-helles-lager.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-helles-lager/3435398"
 country: "United States"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Lager - Helles"
 ---

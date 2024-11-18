@@ -11,6 +11,6 @@ img: /img/list/breakfast-at-stepney.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-breakfast-at-stepney/1615367"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "brewery/little-bang-brewing-co.html"
+breweryURL: "/brewery/little-bang-brewing-co.html"
 style: "Stout - Coffee"
 ---

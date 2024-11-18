@@ -11,6 +11,6 @@ img: /img/list/mr-banks-throw-pillow.jpeg
 untappd: "https://untappd.com/b/banks-brewing-throw-pillow/4616992"
 country: "Australia"
 brewery: "Banks Brewing"
-breweryURL: "brewery/banks-brewing.html"
+breweryURL: "/brewery/banks-brewing.html"
 style: "Porter - Other"
 ---

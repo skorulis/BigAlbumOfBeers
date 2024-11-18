@@ -11,6 +11,6 @@ img: /img/list/duncan-s-whippet.jpeg
 untappd: "https://untappd.com/b/duncan-s-brewing-duncan-s-brewing-whippy-ipa/2751818"
 country: "New Zealand"
 brewery: "Duncan's Brewing"
-breweryURL: "brewery/duncan-s-brewing.html"
+breweryURL: "/brewery/duncan-s-brewing.html"
 style: "IPA - Milkshake"
 ---

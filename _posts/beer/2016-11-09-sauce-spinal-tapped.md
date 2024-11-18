@@ -11,6 +11,6 @@ img: /img/list/sauce-spinal-tapped.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-spinal-tapped-citra-dipa/5142488"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "brewery/sauce-brewing-co.html"
+breweryURL: "/brewery/sauce-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

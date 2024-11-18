@@ -11,6 +11,6 @@ img: /img/list/tumut-river-squealing-pig-apa.jpeg
 untappd: "https://untappd.com/b/tumut-river-brewing-co-squealing-pig/1652039"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
-breweryURL: "brewery/tumut-river-brewing-co.html"
+breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Pale Ale - American"
 ---

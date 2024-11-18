@@ -11,6 +11,6 @@ img: /img/list/bunnley-grapefruit-ipa.jpeg
 untappd: "https://untappd.com/b/burnley-brewing-grapefruit-ipa/3093139"
 country: "Australia"
 brewery: "Burnley Brewing"
-breweryURL: "brewery/burnley-brewing.html"
+breweryURL: "/brewery/burnley-brewing.html"
 style: "IPA - Sour"
 ---

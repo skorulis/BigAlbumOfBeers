@@ -11,6 +11,6 @@ img: /img/list/pirate-life-betty-s-beer.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-bettys-beer/4089143"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Cream Ale"
 ---

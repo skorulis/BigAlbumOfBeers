@@ -11,6 +11,6 @@ img: /img/list/royal-duke.jpeg
 untappd: "https://untappd.com/b/bavaria-brouwerij-royal-duke/821307"
 country: "Netherlands"
 brewery: "Bavaria Brouwerij"
-breweryURL: "brewery/bavaria-brouwerij.html"
+breweryURL: "/brewery/bavaria-brouwerij.html"
 style: "Lager - American Light"
 ---

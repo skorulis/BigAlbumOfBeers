@@ -11,6 +11,6 @@ img: /img/list/kona-pipeline.jpeg
 untappd: "https://untappd.com/b/kona-brewing-company-pipeline-porter/8062"
 country: "United States"
 brewery: "Kona Brewing Company"
-breweryURL: "brewery/kona-brewing-company.html"
+breweryURL: "/brewery/kona-brewing-company.html"
 style: "Porter - American"
 ---

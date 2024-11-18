@@ -11,6 +11,6 @@ img: /img/list/chang-export.jpeg
 untappd: "https://untappd.com/b/thai-beverage-plc-chang-export/175132"
 country: "Thailand"
 brewery: "Thai Beverage PLC"
-breweryURL: "brewery/thai-beverage-plc.html"
+breweryURL: "/brewery/thai-beverage-plc.html"
 style: "Lager - Pale"
 ---

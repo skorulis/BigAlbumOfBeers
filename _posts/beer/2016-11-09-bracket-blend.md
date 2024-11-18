@@ -11,6 +11,6 @@ img: /img/list/bracket-blend.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-blend--passionfruit--raspberry-/4418587"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Sour - Fruited"
 ---

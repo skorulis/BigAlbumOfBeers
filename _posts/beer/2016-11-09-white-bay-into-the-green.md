@@ -11,6 +11,6 @@ img: /img/list/white-bay-into-the-green.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--into-the-green/5342094"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "brewery/white-bay-beer-co.html"
+breweryURL: "/brewery/white-bay-beer-co.html"
 style: "Pilsner - Other"
 ---

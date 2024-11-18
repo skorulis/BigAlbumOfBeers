@@ -11,6 +11,6 @@ img: /img/list/loophole-salt-water-stout-porter.jpeg
 untappd: "https://untappd.com/b/loophole-brewing-co-salt-water-stout-porter/3775223"
 country: "Australia"
 brewery: "Loophole Brewing Co"
-breweryURL: "brewery/loophole-brewing-co.html"
+breweryURL: "/brewery/loophole-brewing-co.html"
 style: "Porter - Imperial / Double"
 ---

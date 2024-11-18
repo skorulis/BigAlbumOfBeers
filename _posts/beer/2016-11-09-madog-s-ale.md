@@ -11,6 +11,6 @@ img: /img/list/madog-s-ale.jpeg
 untappd: "https://untappd.com/b/purple-moose-brewery--bragdy-mws-piws--madogs-ale--cwrw-madog-/16811"
 country: "Wales"
 brewery: "Purple Moose Brewery (Bragdy Mws Piws)"
-breweryURL: "brewery/purple-moose-brewery--bragdy-mws-piws.html"
+breweryURL: "/brewery/purple-moose-brewery--bragdy-mws-piws.html"
 style: "English Bitter"
 ---

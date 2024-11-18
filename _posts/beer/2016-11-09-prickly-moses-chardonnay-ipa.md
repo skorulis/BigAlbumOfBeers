@@ -11,6 +11,6 @@ img: /img/list/prickly-moses-chardonnay-ipa.jpeg
 untappd: "https://untappd.com/b/prickly-moses-chardonnay-ipa/483789"
 country: "Australia"
 brewery: "Prickly Moses"
-breweryURL: "brewery/prickly-moses.html"
+breweryURL: "/brewery/prickly-moses.html"
 style: "IPA - American"
 ---

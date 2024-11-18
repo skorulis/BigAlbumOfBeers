@@ -11,6 +11,6 @@ img: /img/list/steam-whistle-pilsner.jpeg
 untappd: "https://untappd.com/b/steam-whistle-brewing-steam-whistle-pilsner/7852"
 country: "Canada"
 brewery: "Steam Whistle Brewing"
-breweryURL: "brewery/steam-whistle-brewing.html"
+breweryURL: "/brewery/steam-whistle-brewing.html"
 style: "Pilsner - Other"
 ---

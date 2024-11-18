@@ -11,6 +11,6 @@ img: /img/list/hoopers-ginger-brew.jpeg
 untappd: "https://untappd.com/b/hoopers-ginger-brew/266654"
 country: "England"
 brewery: "Hooper's"
-breweryURL: "brewery/hooper-s.html"
+breweryURL: "/brewery/hooper-s.html"
 style: "Ginger Beer"
 ---

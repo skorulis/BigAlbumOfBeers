@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-fancy-pants.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-fancy-pants/44915"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Red Ale - American Amber / Red"
 ---

@@ -11,6 +11,6 @@ img: /img/list/grain-lager.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-grain-lager/263709"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "brewery/rocks-brewing-co.html"
+breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/cleanskin-green-beer.jpeg
 untappd: "https://untappd.com/b/hitejinro-premium-cleanskin-green-beer/713411"
 country: "South Korea"
 brewery: "HiteJinro"
-breweryURL: "brewery/hitejinro.html"
+breweryURL: "/brewery/hitejinro.html"
 style: "Lager - North American Adjunct"
 ---

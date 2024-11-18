@@ -11,6 +11,6 @@ img: /img/list/wooden-axe-phase-2.jpeg
 untappd: "https://untappd.com/b/wooden-axe-brewing-co-wooden-axe-brewing-co-phase-2/5487608"
 country: "Australia"
 brewery: "Wooden Axe Brewing Co"
-breweryURL: "brewery/wooden-axe-brewing-co.html"
+breweryURL: "/brewery/wooden-axe-brewing-co.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

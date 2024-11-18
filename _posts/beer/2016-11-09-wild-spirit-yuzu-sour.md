@@ -11,6 +11,6 @@ img: /img/list/wild-spirit-yuzu-sour.jpeg
 untappd: "https://untappd.com/b/dad---daves-brewing-yuzu-sour/3819087"
 country: "Australia"
 brewery: "Dad & Dave's Brewing"
-breweryURL: "brewery/dad---dave-s-brewing.html"
+breweryURL: "/brewery/dad---dave-s-brewing.html"
 style: "Sour - Fruited"
 ---

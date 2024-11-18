@@ -11,6 +11,6 @@ img: /img/list/magic-rock-cannonball-ipa.jpeg
 untappd: "https://untappd.com/b/magic-rock-brewing-cannonball/61315"
 country: "England"
 brewery: "Magic Rock Brewing"
-breweryURL: "brewery/magic-rock-brewing.html"
+breweryURL: "/brewery/magic-rock-brewing.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/klaster-zeliv-postni.jpeg
 untappd: "https://untappd.com/b/klasterni-pivovar-zeliv-postni-16/4707245"
 country: "Czech Republic"
 brewery: "Klášterní pivovar Želiv"
-breweryURL: "brewery/klasterni-pivovar-zeliv.html"
+breweryURL: "/brewery/klasterni-pivovar-zeliv.html"
 style: "Porter - Baltic"
 ---

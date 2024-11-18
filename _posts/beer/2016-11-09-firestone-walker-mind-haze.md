@@ -11,6 +11,6 @@ img: /img/list/firestone-walker-mind-haze.jpeg
 untappd: "https://untappd.com/b/firestone-walker-brewing-company-mind-haze/2916237"
 country: "United States"
 brewery: "Firestone Walker Brewing Company"
-breweryURL: "brewery/firestone-walker-brewing-company.html"
+breweryURL: "/brewery/firestone-walker-brewing-company.html"
 style: "IPA - New England"
 ---

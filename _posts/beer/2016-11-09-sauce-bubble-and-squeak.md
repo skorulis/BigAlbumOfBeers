@@ -11,6 +11,6 @@ img: /img/list/sauce-bubble-and-squeak.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-bubble---squeak---neipa/2103285"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "brewery/sauce-brewing-co.html"
+breweryURL: "/brewery/sauce-brewing-co.html"
 style: "IPA - New England"
 ---

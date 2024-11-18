@@ -11,6 +11,6 @@ img: /img/list/beerfarm-shirazzaweiss.jpeg
 untappd: "https://untappd.com/b/beerfarm-shirazzaweiss-2021/4295478"
 country: "Australia"
 brewery: "Beerfarm"
-breweryURL: "brewery/beerfarm.html"
+breweryURL: "/brewery/beerfarm.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

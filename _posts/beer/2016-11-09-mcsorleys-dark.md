@@ -11,6 +11,6 @@ img: /img/list/mcsorleys-dark.jpeg
 untappd: "https://untappd.com/b/pabst-brewing-company-pabst-brewing-company-mcsorley-s-irish-black-lager/7373"
 country: "United States"
 brewery: "Pabst Brewing Company"
-breweryURL: "brewery/pabst-brewing-company.html"
+breweryURL: "/brewery/pabst-brewing-company.html"
 style: "Lager - Dark"
 ---

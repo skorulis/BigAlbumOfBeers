@@ -11,6 +11,6 @@ img: /img/list/golden-road-wolf-mother-triple-ipa.jpeg
 untappd: "https://untappd.com/b/golden-road-brewing-wolf-mother/1118325"
 country: "United States"
 brewery: "Golden Road Brewing"
-breweryURL: "brewery/golden-road-brewing.html"
+breweryURL: "/brewery/golden-road-brewing.html"
 style: "IPA - Triple"
 ---

@@ -11,6 +11,6 @@ img: /img/list/setouchi-taukimi.jpeg
 untappd: "https://untappd.com/b/setouchi-tsukimi-udon-hazy-ipa/5061544"
 country: "Japan"
 brewery: "Setouchi"
-breweryURL: "brewery/setouchi.html"
+breweryURL: "/brewery/setouchi.html"
 style: "IPA - New England / Hazy"
 ---

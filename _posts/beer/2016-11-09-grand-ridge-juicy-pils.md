@@ -11,6 +11,6 @@ img: /img/list/grand-ridge-juicy-pils.jpeg
 untappd: "https://untappd.com/b/grand-ridge-brewery-juicy-pils/2846276"
 country: "Australia"
 brewery: "Grand Ridge Brewery"
-breweryURL: "brewery/grand-ridge-brewery.html"
+breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Pilsner - Other"
 ---

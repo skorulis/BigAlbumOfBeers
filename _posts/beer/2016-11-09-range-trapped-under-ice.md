@@ -11,6 +11,6 @@ img: /img/list/range-trapped-under-ice.jpeg
 untappd: "https://untappd.com/b/range-brewing-range-brewing-trapped-under-ice/5605082"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "brewery/range-brewing.html"
+breweryURL: "/brewery/range-brewing.html"
 style: "IPA - Cold"
 ---

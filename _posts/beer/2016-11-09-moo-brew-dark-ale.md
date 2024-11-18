@@ -11,6 +11,6 @@ img: /img/list/moo-brew-dark-ale.jpeg
 untappd: "https://untappd.com/b/moo-brew-dark-ale/17777"
 country: "Australia"
 brewery: "Moo Brew"
-breweryURL: "brewery/moo-brew.html"
+breweryURL: "/brewery/moo-brew.html"
 style: "Dark Ale"
 ---

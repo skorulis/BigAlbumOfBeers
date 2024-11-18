@@ -11,6 +11,6 @@ img: /img/list/batch-choc-orange-porter.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-small-batch-choc-orange-porter/3739138"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Porter - Other"
 ---

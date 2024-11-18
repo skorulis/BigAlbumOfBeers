@@ -11,6 +11,6 @@ img: /img/list/yulli-s-brews-amanda-mandarin-ipa.jpeg
 untappd: "https://untappd.com/b/yullis-brews-amanda-mandarin-ipa/1681781"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "brewery/yulli-s-brews.html"
+breweryURL: "/brewery/yulli-s-brews.html"
 style: "IPA - American"
 ---

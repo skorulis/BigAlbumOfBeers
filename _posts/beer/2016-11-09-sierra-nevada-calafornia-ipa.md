@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-calafornia-ipa.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--california-ipa/2535373"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "brewery/sierra-nevada-brewing-co.html"
+breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "IPA - Session / India Session Ale"
 ---

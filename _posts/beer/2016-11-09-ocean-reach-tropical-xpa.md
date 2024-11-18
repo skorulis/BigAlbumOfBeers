@@ -11,6 +11,6 @@ img: /img/list/ocean-reach-tropical-xpa.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--tropical-xpa/3579152"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "brewery/ocean-reach-brewing-.html"
+breweryURL: "/brewery/ocean-reach-brewing-.html"
 style: "Pale Ale - Australian"
 ---

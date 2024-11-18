@@ -11,6 +11,6 @@ img: /img/list/alice-porter.jpeg
 untappd: "https://untappd.com/b/brewdog-alice-porter/992160"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "brewery/brewdog.html"
+breweryURL: "/brewery/brewdog.html"
 style: "Porter - Baltic"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brewdog-hop-fiction-pale-ale.jpeg
 untappd: "https://untappd.com/b/brewdog-hop-fiction-pale-ale/1137199"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "brewery/brewdog.html"
+breweryURL: "/brewery/brewdog.html"
 style: "Pale Ale - American"
 ---

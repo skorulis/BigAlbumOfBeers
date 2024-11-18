@@ -11,6 +11,6 @@ img: /img/list/slow-lane-stranger-danger.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-stanger-danger/4558477"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "brewery/slow-lane-brewing.html"
+breweryURL: "/brewery/slow-lane-brewing.html"
 style: "Kölsch"
 ---

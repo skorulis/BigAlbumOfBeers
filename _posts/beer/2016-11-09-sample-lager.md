@@ -11,6 +11,6 @@ img: /img/list/sample-lager.jpeg
 untappd: "https://untappd.com/b/sample-brew-lager-/1057841"
 country: "Australia"
 brewery: "Sample Brew"
-breweryURL: "brewery/sample-brew.html"
+breweryURL: "/brewery/sample-brew.html"
 style: "Lager - Pale"
 ---

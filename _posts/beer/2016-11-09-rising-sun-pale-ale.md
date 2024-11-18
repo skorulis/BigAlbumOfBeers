@@ -11,6 +11,6 @@ img: /img/list/rising-sun-pale-ale.jpeg
 untappd: "https://untappd.com/b/baird-brewing-company-rising-sun-pale-ale/10856"
 country: "Japan"
 brewery: "Baird Brewing Company"
-breweryURL: "brewery/baird-brewing-company.html"
+breweryURL: "/brewery/baird-brewing-company.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/corsendonk.jpeg
 untappd: "https://untappd.com/b/brouwerij-corsendonk-corsendonk-pater-dubbel--abbey-brown-ale/1829"
 country: "Belgium"
 brewery: "Brouwerij Corsendonk"
-breweryURL: "brewery/brouwerij-corsendonk.html"
+breweryURL: "/brewery/brouwerij-corsendonk.html"
 style: "Belgian Dubbel"
 ---

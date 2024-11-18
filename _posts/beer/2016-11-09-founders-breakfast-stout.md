@@ -11,6 +11,6 @@ img: /img/list/founders-breakfast-stout.jpeg
 untappd: "https://untappd.com/b/founders-brewing-co--breakfast-stout/4589"
 country: "United States"
 brewery: "Founders Brewing Co."
-breweryURL: "brewery/founders-brewing-co.html"
+breweryURL: "/brewery/founders-brewing-co.html"
 style: "Stout - Oatmeal"
 ---

@@ -11,6 +11,6 @@ img: /img/list/six-string-hefeweizen.jpeg
 untappd: "https://untappd.com/b/six-string-brewing-company-hefeweizen/318878"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "brewery/six-string-brewing-company.html"
+breweryURL: "/brewery/six-string-brewing-company.html"
 style: "Hefeweizen"
 ---

@@ -11,6 +11,6 @@ img: /img/list/west-city-neipa.jpeg
 untappd: "https://untappd.com/b/west-city-brewing-neipa/3996599"
 country: "Australia"
 brewery: "West City Brewing"
-breweryURL: "brewery/west-city-brewing.html"
+breweryURL: "/brewery/west-city-brewing.html"
 style: "IPA - New England"
 ---

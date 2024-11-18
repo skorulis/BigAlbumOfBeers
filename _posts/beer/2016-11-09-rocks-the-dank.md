@@ -11,6 +11,6 @@ img: /img/list/rocks-the-dank.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-the-dank---imperial-ddh-west-coast-ipa---pilot-brew-2/4800214"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "brewery/rocks-brewing-co.html"
+breweryURL: "/brewery/rocks-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

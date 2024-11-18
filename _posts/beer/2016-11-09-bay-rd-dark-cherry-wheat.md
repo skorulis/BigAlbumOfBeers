@@ -11,6 +11,6 @@ img: /img/list/bay-rd-dark-cherry-wheat.jpeg
 untappd: "https://untappd.com/b/bay-rd-brewing-dark-cherry-wheat/3810664"
 country: "Australia"
 brewery: "Bay Rd Brewing"
-breweryURL: "brewery/bay-rd-brewing.html"
+breweryURL: "/brewery/bay-rd-brewing.html"
 style: "Dunkelweizen"
 ---

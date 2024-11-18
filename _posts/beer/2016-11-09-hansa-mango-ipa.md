@@ -11,6 +11,6 @@ img: /img/list/hansa-mango-ipa.jpeg
 untappd: "https://untappd.com/b/hansa-borg-bryggerier-hansa-mango-ipa/3159505"
 country: "Norway"
 brewery: "Hansa Borg Bryggerier"
-breweryURL: "brewery/hansa-borg-bryggerier.html"
+breweryURL: "/brewery/hansa-borg-bryggerier.html"
 style: "IPA - Fruited"
 ---

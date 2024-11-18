@@ -11,6 +11,6 @@ img: /img/list/bruny-island-oxymoron.jpeg
 untappd: "https://untappd.com/b/bruny-island-beer-co-oxymoron/1485974"
 country: "Australia"
 brewery: "Bruny Island Beer Co"
-breweryURL: "brewery/bruny-island-beer-co.html"
+breweryURL: "/brewery/bruny-island-beer-co.html"
 style: "Dark Ale"
 ---

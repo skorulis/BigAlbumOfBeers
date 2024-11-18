@@ -11,6 +11,6 @@ img: /img/list/little-bang-zero-kelvin.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-zero-kelvin/4507804"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "brewery/little-bang-brewing-co.html"
+breweryURL: "/brewery/little-bang-brewing-co.html"
 style: "IPA - Cold"
 ---

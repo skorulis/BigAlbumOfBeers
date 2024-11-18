@@ -11,6 +11,6 @@ img: /img/list/modus-operandi-sonic-prayer.jpeg
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--sonic-prayer/1291720"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
-breweryURL: "brewery/modus-operandi-brewing-co.html"
+breweryURL: "/brewery/modus-operandi-brewing-co.html"
 style: "IPA - American"
 ---

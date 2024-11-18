@@ -11,6 +11,6 @@ img: /img/list/cricketers-arms-journeyman.jpeg
 untappd: "https://untappd.com/b/cricketers-arms-journeyman/870829"
 country: "Australia"
 brewery: "Cricketers Arms"
-breweryURL: "brewery/cricketers-arms.html"
+breweryURL: "/brewery/cricketers-arms.html"
 style: "Lager - Pale"
 ---

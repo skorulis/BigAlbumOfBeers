@@ -11,6 +11,6 @@ img: /img/list/two-birds-rice-rice-baby.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-rice-rice-baby/3995644"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "brewery/two-birds-brewing.html"
+breweryURL: "/brewery/two-birds-brewing.html"
 style: "Other"
 ---

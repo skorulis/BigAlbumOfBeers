@@ -11,6 +11,6 @@ img: /img/list/beerlao-dark-lager.jpeg
 untappd: "https://untappd.com/b/lao-brewery-beerlao-dark/251717"
 country: "Laos"
 brewery: "Lao Brewery"
-breweryURL: "brewery/lao-brewery.html"
+breweryURL: "/brewery/lao-brewery.html"
 style: "Lager - Dark"
 ---

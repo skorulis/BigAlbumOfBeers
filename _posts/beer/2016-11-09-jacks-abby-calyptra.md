@@ -11,6 +11,6 @@ img: /img/list/jacks-abby-calyptra.jpeg
 untappd: "https://untappd.com/b/jacks-abby-calyptra/642932"
 country: "United States"
 brewery: "Jack's Abby"
-breweryURL: "brewery/jack-s-abby.html"
+breweryURL: "/brewery/jack-s-abby.html"
 style: "Lager - IPL (India Pale Lager)"
 ---

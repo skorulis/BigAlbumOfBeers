@@ -11,6 +11,6 @@ img: /img/list/atomic-mango-sour.jpeg
 untappd: "https://untappd.com/b/atomic-mando-sour/4548648"
 country: "Australia"
 brewery: "Atomic"
-breweryURL: "brewery/atomic.html"
+breweryURL: "/brewery/atomic.html"
 style: "Sour - Fruited"
 ---

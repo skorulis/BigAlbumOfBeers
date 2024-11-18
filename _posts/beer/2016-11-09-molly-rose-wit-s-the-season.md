@@ -11,6 +11,6 @@ img: /img/list/molly-rose-wit-s-the-season.jpeg
 untappd: "https://untappd.com/b/molly-rose-brewing-molly-rose-brewing-wit-s-the-season/5606149"
 country: "Australia"
 brewery: "Molly Rose Brewing"
-breweryURL: "brewery/molly-rose-brewing.html"
+breweryURL: "/brewery/molly-rose-brewing.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

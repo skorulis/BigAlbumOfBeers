@@ -11,6 +11,6 @@ img: /img/list/kalnapils-pilsner.jpeg
 untappd: "https://untappd.com/b/kalnapilio-tauro-grupe-uab--kalnapilis-pilsner/383546"
 country: "Lithuania"
 brewery: "Kalnapilio-Tauro Grupe UAB "
-breweryURL: "brewery/kalnapilio-tauro-grupe-uab-.html"
+breweryURL: "/brewery/kalnapilio-tauro-grupe-uab-.html"
 style: "Pilsner - Other"
 ---

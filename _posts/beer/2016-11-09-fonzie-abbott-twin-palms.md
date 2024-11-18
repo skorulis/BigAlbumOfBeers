@@ -11,6 +11,6 @@ img: /img/list/fonzie-abbott-twin-palms.jpeg
 untappd: "https://untappd.com/b/fonzie-abbott-twin-palms-tropical-pale/2974557"
 country: "Australia"
 brewery: "Fonzie Abbott"
-breweryURL: "brewery/fonzie-abbott.html"
+breweryURL: "/brewery/fonzie-abbott.html"
 style: "Pale Ale - Australian"
 ---

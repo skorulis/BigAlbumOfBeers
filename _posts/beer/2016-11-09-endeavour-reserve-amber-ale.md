@@ -11,6 +11,6 @@ img: /img/list/endeavour-reserve-amber-ale.jpeg
 untappd: "https://untappd.com/b/endeavour-vintage-beer-co--2015-reserve-amber-ale/1528799"
 country: "Australia"
 brewery: "ENDEAVOUR Vintage Beer Co."
-breweryURL: "brewery/endeavour-vintage-beer-co.html"
+breweryURL: "/brewery/endeavour-vintage-beer-co.html"
 style: "Red Ale - American Amber / Red"
 ---

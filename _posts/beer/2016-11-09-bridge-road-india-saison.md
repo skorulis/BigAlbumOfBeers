@@ -11,6 +11,6 @@ img: /img/list/bridge-road-india-saison.jpeg
 untappd: "https://untappd.com/b/nogne-o-india-saison/84508"
 country: "Norway"
 brewery: "Nøgne Ø"
-breweryURL: "brewery/nogne-o.html"
+breweryURL: "/brewery/nogne-o.html"
 style: "Saison / Farmhouse Ale"
 ---

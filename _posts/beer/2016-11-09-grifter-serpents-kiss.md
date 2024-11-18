@@ -11,6 +11,6 @@ img: /img/list/grifter-serpents-kiss.jpeg
 untappd: "https://untappd.com/b/grifter-brewing-company-serpents-kiss/1264865"
 country: "Australia"
 brewery: "Grifter Brewing Company"
-breweryURL: "brewery/grifter-brewing-company.html"
+breweryURL: "/brewery/grifter-brewing-company.html"
 style: "Pilsner - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/nomad-jet-lag-ipa.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--jet-lag-ipa--finger-lime-ipa-/756453"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "brewery/nomad-brewing-co.html"
+breweryURL: "/brewery/nomad-brewing-co.html"
 style: "IPA - American"
 ---

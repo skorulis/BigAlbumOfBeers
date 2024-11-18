@@ -11,6 +11,6 @@ img: /img/list/capital-tropical-popsical.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-tropical-popsicle-sour/2934439"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "brewery/capital-brewing-co.html"
+breweryURL: "/brewery/capital-brewing-co.html"
 style: "Sour - Ale"
 ---

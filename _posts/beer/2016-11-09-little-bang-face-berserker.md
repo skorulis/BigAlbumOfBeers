@@ -11,6 +11,6 @@ img: /img/list/little-bang-face-berserker.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-face-berserker/4827130"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "brewery/little-bang-brewing-co.html"
+breweryURL: "/brewery/little-bang-brewing-co.html"
 style: "Sour - Fruited"
 ---

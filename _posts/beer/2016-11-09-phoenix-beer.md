@@ -11,6 +11,6 @@ img: /img/list/phoenix-beer.jpeg
 untappd: "https://untappd.com/b/phoenix-beverages-phoenix-beer/29407"
 country: "Mauritius"
 brewery: "Phoenix Beverages"
-breweryURL: "brewery/phoenix-beverages.html"
+breweryURL: "/brewery/phoenix-beverages.html"
 style: "Lager - Pale"
 ---

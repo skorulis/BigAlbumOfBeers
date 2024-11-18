@@ -11,6 +11,6 @@ img: /img/list/golden-nail-hoppy-summer-ale.jpeg
 untappd: "https://untappd.com/b/nail-brewing-australia-nail-golden/312510"
 country: "Australia"
 brewery: "Nail Brewing Australia"
-breweryURL: "brewery/nail-brewing-australia.html"
+breweryURL: "/brewery/nail-brewing-australia.html"
 style: "Golden Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/dainton-blood-orange-rye-ipa.jpeg
 untappd: "https://untappd.com/b/dainton-family-brewery-blood-orange-new-england-rye-ipa/2336683"
 country: "Australia"
 brewery: "Dainton Family Brewery"
-breweryURL: "brewery/dainton-family-brewery.html"
+breweryURL: "/brewery/dainton-family-brewery.html"
 style: "IPA - New England"
 ---

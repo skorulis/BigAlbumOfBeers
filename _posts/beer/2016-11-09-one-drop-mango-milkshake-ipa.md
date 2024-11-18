@@ -11,6 +11,6 @@ img: /img/list/one-drop-mango-milkshake-ipa.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-mango-milkshake-ipa/3642128"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "IPA - Milkshake"
 ---

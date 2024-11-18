@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-lager-lager-lager-pils.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-lager-lager-lager-pils/3781661"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "brewery/sailors-grave-brewing.html"
+breweryURL: "/brewery/sailors-grave-brewing.html"
 style: "Pilsner - Czech"
 ---

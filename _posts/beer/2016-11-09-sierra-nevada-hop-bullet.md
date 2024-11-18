@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-hop-bullet.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--hop-bullet--2018-/2483362"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "brewery/sierra-nevada-brewing-co.html"
+breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/foxhat-heavy-handed-xpa.jpeg
 untappd: "https://untappd.com/b/fox-hat-brewing-heavy-handed-xpa/3061082"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "brewery/fox-hat-brewing.html"
+breweryURL: "/brewery/fox-hat-brewing.html"
 style: "Pale Ale - Australian"
 ---

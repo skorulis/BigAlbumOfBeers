@@ -11,6 +11,6 @@ img: /img/list/good-folk-neipa.jpeg
 untappd: "https://untappd.com/b/good-folk-brewing-co-good-folk-brewing-co-new-england-ipa/5146735"
 country: "Australia"
 brewery: "Good Folk Brewing Co"
-breweryURL: "brewery/good-folk-brewing-co.html"
+breweryURL: "/brewery/good-folk-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

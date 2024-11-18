@@ -11,6 +11,6 @@ img: /img/list/canyon-wild-thing.jpeg
 untappd: "https://untappd.com/b/canyon-brewing-canyon-brewing-wild-thing-cold-ipa/4763424"
 country: "New Zealand"
 brewery: "Canyon Brewing"
-breweryURL: "brewery/canyon-brewing.html"
+breweryURL: "/brewery/canyon-brewing.html"
 style: "IPA - Cold"
 ---

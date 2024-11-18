@@ -11,6 +11,6 @@ img: /img/list/estrella-damm-inedit.jpeg
 untappd: "https://untappd.com/b/grupo-damm-estrella-damm-inedit/7233"
 country: "Spain"
 brewery: "Grupo Damm"
-breweryURL: "brewery/grupo-damm.html"
+breweryURL: "/brewery/grupo-damm.html"
 style: "Witbier"
 ---

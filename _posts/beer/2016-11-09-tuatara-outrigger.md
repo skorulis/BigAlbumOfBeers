@@ -11,6 +11,6 @@ img: /img/list/tuatara-outrigger.jpeg
 untappd: "https://untappd.com/b/tuatara-brewery-outrigger---pacific-pale-ale/882339"
 country: "New Zealand"
 brewery: "Tuatara Brewery"
-breweryURL: "brewery/tuatara-brewery.html"
+breweryURL: "/brewery/tuatara-brewery.html"
 style: "Pale Ale - Australian"
 ---

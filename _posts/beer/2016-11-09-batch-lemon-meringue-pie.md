@@ -11,6 +11,6 @@ img: /img/list/batch-lemon-meringue-pie.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-lemon-meringue-pie/3905794"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Sour - Fruited"
 ---

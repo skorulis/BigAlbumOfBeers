@@ -11,6 +11,6 @@ img: /img/list/the-convict-strong-ale.jpeg
 untappd: "https://untappd.com/b/gage-roads-brewing-co--the-convict/290260"
 country: "Australia"
 brewery: "Gage Roads Brewing Co "
-breweryURL: "brewery/gage-roads-brewing-co-.html"
+breweryURL: "/brewery/gage-roads-brewing-co-.html"
 style: "Strong Ale - American"
 ---

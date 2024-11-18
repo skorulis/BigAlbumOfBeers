@@ -11,6 +11,6 @@ img: /img/list/volfas-engelman-jubiliejinis-160.jpeg
 untappd: "https://untappd.com/b/volfas-engelman-jubiliejinis/423901"
 country: "Lithuania"
 brewery: "Volfas Engelman"
-breweryURL: "brewery/volfas-engelman.html"
+breweryURL: "/brewery/volfas-engelman.html"
 style: "Lager - Vienna"
 ---

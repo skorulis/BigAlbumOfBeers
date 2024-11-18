@@ -11,6 +11,6 @@ img: /img/list/the-dog-s-bollocks.jpeg
 untappd: "https://untappd.com/b/wychwood-brewery-dogs-bollocks/9006"
 country: "England"
 brewery: "Wychwood Brewery"
-breweryURL: "brewery/wychwood-brewery.html"
+breweryURL: "/brewery/wychwood-brewery.html"
 style: "Golden Ale"
 ---

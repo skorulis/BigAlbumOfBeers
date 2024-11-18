@@ -11,6 +11,6 @@ img: /img/list/deeds-fiscal-damage.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-fiscal-damage/3572399"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "brewery/deeds-brewing.html"
+breweryURL: "/brewery/deeds-brewing.html"
 style: "IPA - Triple New England"
 ---

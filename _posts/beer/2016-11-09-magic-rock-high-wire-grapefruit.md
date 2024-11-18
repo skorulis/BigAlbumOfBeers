@@ -11,6 +11,6 @@ img: /img/list/magic-rock-high-wire-grapefruit.jpeg
 untappd: "https://untappd.com/b/magic-rock-brewing-high-wire-grapefruit/1127731"
 country: "England"
 brewery: "Magic Rock Brewing"
-breweryURL: "brewery/magic-rock-brewing.html"
+breweryURL: "/brewery/magic-rock-brewing.html"
 style: "Pale Ale - American"
 ---

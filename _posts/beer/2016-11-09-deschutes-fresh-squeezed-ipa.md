@@ -11,6 +11,6 @@ img: /img/list/deschutes-fresh-squeezed-ipa.jpeg
 untappd: "https://untappd.com/b/deschutes-brewery-fresh-squeezed-ipa/59622"
 country: "United States"
 brewery: "Deschutes Brewery"
-breweryURL: "brewery/deschutes-brewery.html"
+breweryURL: "/brewery/deschutes-brewery.html"
 style: "IPA - American"
 ---

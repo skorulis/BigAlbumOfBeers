@@ -11,6 +11,6 @@ img: /img/list/wayward-island-life.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-island-life/4315671"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "brewery/wayward-brewing.html"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Stout - Coffee"
 ---

@@ -11,6 +11,6 @@ img: /img/list/isle-of-arran-blonde.jpeg
 untappd: "https://untappd.com/b/isle-of-arran-brewery-co--blonde/18918"
 country: "Scotland"
 brewery: "Isle of Arran Brewery Co."
-breweryURL: "brewery/isle-of-arran-brewery-co.html"
+breweryURL: "/brewery/isle-of-arran-brewery-co.html"
 style: "Blonde Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/3-ravens-juicy-ipa.jpeg
 untappd: "https://untappd.com/b/3-ravens-brewery-juicy-ipa/1781716"
 country: "Australia"
 brewery: "3 Ravens Brewery"
-breweryURL: "brewery/3-ravens-brewery.html"
+breweryURL: "/brewery/3-ravens-brewery.html"
 style: "IPA - New England"
 ---

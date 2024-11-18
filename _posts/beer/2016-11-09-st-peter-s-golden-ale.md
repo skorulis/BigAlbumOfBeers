@@ -11,6 +11,6 @@ img: /img/list/st-peter-s-golden-ale.jpeg
 untappd: "https://untappd.com/b/st--peters-brewery-co--golden-ale/219"
 country: "England"
 brewery: "St. Peter’s Brewery Co."
-breweryURL: "brewery/st--peter-s-brewery-co.html"
+breweryURL: "/brewery/st--peter-s-brewery-co.html"
 style: "Golden Ale"
 ---

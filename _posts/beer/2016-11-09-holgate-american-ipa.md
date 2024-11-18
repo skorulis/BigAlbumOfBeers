@@ -11,6 +11,6 @@ img: /img/list/holgate-american-ipa.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-american-ipa--ex-road-trip-/28311"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "brewery/holgate-brewhouse.html"
+breweryURL: "/brewery/holgate-brewhouse.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/allagash-white.jpeg
 untappd: "https://untappd.com/b/allagash-brewing-company-allagash-brewing-company-allagash-white/5862"
 country: "United States"
 brewery: "Allagash Brewing Company"
-breweryURL: "brewery/allagash-brewing-company.html"
+breweryURL: "/brewery/allagash-brewing-company.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

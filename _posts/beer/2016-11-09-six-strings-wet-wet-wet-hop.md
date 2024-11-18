@@ -11,6 +11,6 @@ img: /img/list/six-strings-wet-wet-wet-hop.jpeg
 untappd: "https://untappd.com/b/six-string-brewing-company-wet-wet-wet-hop-pale-ale/4746381"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "brewery/six-string-brewing-company.html"
+breweryURL: "/brewery/six-string-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

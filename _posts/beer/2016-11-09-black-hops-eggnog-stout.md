@@ -11,6 +11,6 @@ img: /img/list/black-hops-eggnog-stout.jpeg
 untappd: "https://untappd.com/b/black-hops-brewing-eggnog-stout/775288"
 country: "Australia"
 brewery: "Black Hops Brewing"
-breweryURL: "brewery/black-hops-brewing.html"
+breweryURL: "/brewery/black-hops-brewing.html"
 style: "Stout - Other"
 ---

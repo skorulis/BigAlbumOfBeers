@@ -11,6 +11,6 @@ img: /img/list/moosehead.jpeg
 untappd: "https://untappd.com/b/moosehead-breweries-limited-moosehead-lager/5440"
 country: "Canada"
 brewery: "Moosehead Breweries Limited"
-breweryURL: "brewery/moosehead-breweries-limited.html"
+breweryURL: "/brewery/moosehead-breweries-limited.html"
 style: "Lager - North American Adjunct"
 ---

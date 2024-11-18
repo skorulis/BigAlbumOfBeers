@@ -11,6 +11,6 @@ img: /img/list/bracket-surrounded.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-surrounded/5001718"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - Triple New England / Hazy"
 ---

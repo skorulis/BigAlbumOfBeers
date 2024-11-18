@@ -11,6 +11,6 @@ img: /img/list/pirate-life-sunlit.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-sunlit-aussie-wheat-ale/4851230"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Wheat Beer - Other"
 ---

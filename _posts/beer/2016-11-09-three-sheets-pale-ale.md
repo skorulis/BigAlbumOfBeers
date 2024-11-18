@@ -11,6 +11,6 @@ img: /img/list/three-sheets-pale-ale.jpeg
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-three-sheets/14862"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
-breweryURL: "brewery/the-lord-nelson-brewery-hotel.html"
+breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Pale Ale - Australian"
 ---

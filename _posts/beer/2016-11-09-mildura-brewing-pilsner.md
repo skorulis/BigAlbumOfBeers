@@ -11,6 +11,6 @@ img: /img/list/mildura-brewing-pilsner.jpeg
 untappd: "https://untappd.com/b/mildura-brewery-pilsner/3184215"
 country: "Australia"
 brewery: "Mildura Brewery"
-breweryURL: "brewery/mildura-brewery.html"
+breweryURL: "/brewery/mildura-brewery.html"
 style: "Pilsner - Other"
 ---

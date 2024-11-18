@@ -11,6 +11,6 @@ img: /img/list/panhead-sucky-monmon.jpeg
 untappd: "https://untappd.com/b/panhead-custom-ales-sucky-monmon/2955002"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
-breweryURL: "brewery/panhead-custom-ales.html"
+breweryURL: "/brewery/panhead-custom-ales.html"
 style: "Lager - Japanese Rice"
 ---

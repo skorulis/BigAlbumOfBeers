@@ -11,6 +11,6 @@ img: /img/list/philter-all-hearts-break-loose.jpeg
 untappd: "https://untappd.com/b/philter-brewing-all-hearts-break-loose/4851231"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "brewery/philter-brewing.html"
+breweryURL: "/brewery/philter-brewing.html"
 style: "Pale Ale - American"
 ---

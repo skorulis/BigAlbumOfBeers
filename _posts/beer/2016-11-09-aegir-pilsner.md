@@ -11,6 +11,6 @@ img: /img/list/aegir-pilsner.jpeg
 untappd: "https://untappd.com/b/aegir-bryggeri-pils/3071820"
 country: "Norway"
 brewery: "Ægir Bryggeri"
-breweryURL: "brewery/aegir-bryggeri.html"
+breweryURL: "/brewery/aegir-bryggeri.html"
 style: "Pilsner - Czech / Bohemian"
 ---

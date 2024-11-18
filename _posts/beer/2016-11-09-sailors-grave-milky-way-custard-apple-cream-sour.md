@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-milky-way-custard-apple-cream-sour.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-milky-way/2071939"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "brewery/sailors-grave-brewing.html"
+breweryURL: "/brewery/sailors-grave-brewing.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

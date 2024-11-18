@@ -11,6 +11,6 @@ img: /img/list/dainton-matchstyx.jpeg
 untappd: "https://untappd.com/b/dainton-family-brewery-matchstyx/3130581"
 country: "Australia"
 brewery: "Dainton Family Brewery"
-breweryURL: "brewery/dainton-family-brewery.html"
+breweryURL: "/brewery/dainton-family-brewery.html"
 style: "Stout - Other"
 ---

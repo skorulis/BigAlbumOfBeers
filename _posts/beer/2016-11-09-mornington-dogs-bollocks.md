@@ -11,6 +11,6 @@ img: /img/list/mornington-dogs-bollocks.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-dogs-bollocks/1602188"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "brewery/mornington-peninsula-brewery.html"
+breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Extra Special / Strong Bitter"
 ---

@@ -11,6 +11,6 @@ img: /img/list/warsteiner-pilsner.jpeg
 untappd: "https://untappd.com/b/warsteiner-premium-pilsener--german-pilsener/10703"
 country: "Germany"
 brewery: "Warsteiner"
-breweryURL: "brewery/warsteiner.html"
+breweryURL: "/brewery/warsteiner.html"
 style: "Pilsner - German"
 ---

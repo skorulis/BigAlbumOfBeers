@@ -11,6 +11,6 @@ img: /img/list/kalnapilis-grand-select.jpeg
 untappd: "https://untappd.com/b/kalnapilio-tauro-grupe-uab--grand-select/406620"
 country: "Lithuania"
 brewery: "Kalnapilio-Tauro Grupe UAB "
-breweryURL: "brewery/kalnapilio-tauro-grupe-uab-.html"
+breweryURL: "/brewery/kalnapilio-tauro-grupe-uab-.html"
 style: "Lager - Pale"
 ---

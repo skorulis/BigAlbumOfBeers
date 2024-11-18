@@ -11,6 +11,6 @@ img: /img/list/wayward-keller-instinct.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-keller-instinct/291819"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "brewery/wayward-brewing.html"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Kellerbier / Zwickelbier"
 ---

@@ -11,6 +11,6 @@ img: /img/list/7-fjell-floien.jpeg
 untappd: "https://untappd.com/b/7-fjell-bryggeri-floien-ipa/750296"
 country: "Norway"
 brewery: "7 Fjell Bryggeri"
-breweryURL: "brewery/7-fjell-bryggeri.html"
+breweryURL: "/brewery/7-fjell-bryggeri.html"
 style: "IPA - American"
 ---

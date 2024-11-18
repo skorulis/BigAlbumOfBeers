@@ -11,6 +11,6 @@ img: /img/list/bracket-east-coast-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-east-coast-hazy-ipa-v3/4041078"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - New England"
 ---

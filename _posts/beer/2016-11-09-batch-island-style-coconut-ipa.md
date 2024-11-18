@@ -11,6 +11,6 @@ img: /img/list/batch-island-style-coconut-ipa.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-island-style---coconut-ipa/2379877"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "IPA - American"
 ---

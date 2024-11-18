@@ -11,6 +11,6 @@ img: /img/list/six-point-global-warmer.jpeg
 untappd: "https://untappd.com/b/sixpoint-brewery-global-warmer/447370"
 country: "United States"
 brewery: "Sixpoint Brewery"
-breweryURL: "brewery/sixpoint-brewery.html"
+breweryURL: "/brewery/sixpoint-brewery.html"
 style: "Red Ale - Imperial / Double"
 ---

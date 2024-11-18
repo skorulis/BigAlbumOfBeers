@@ -11,6 +11,6 @@ img: /img/list/brouhaha-scotch-ale.jpeg
 untappd: "https://untappd.com/b/brouhaha-brewery-brouhaha-brewery-scotch-ale/5928061"
 country: "Australia"
 brewery: "Brouhaha Brewery"
-breweryURL: "brewery/brouhaha-brewery.html"
+breweryURL: "/brewery/brouhaha-brewery.html"
 style: "Scotch Ale / Wee Heavy"
 ---

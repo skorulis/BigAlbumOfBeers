@@ -11,6 +11,6 @@ img: /img/list/deep-creek-aloha.jpeg
 untappd: "https://untappd.com/b/deep-creek-brewing-co--aloha---guava-passionfruit-sour/2885245"
 country: "New Zealand"
 brewery: "Deep Creek Brewing Co."
-breweryURL: "brewery/deep-creek-brewing-co.html"
+breweryURL: "/brewery/deep-creek-brewing-co.html"
 style: "Sour - Berliner Weisse"
 ---

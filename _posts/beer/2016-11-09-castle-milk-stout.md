@@ -11,6 +11,6 @@ img: /img/list/castle-milk-stout.jpeg
 untappd: "https://untappd.com/b/south-african-breweries-castle-milk-stout/41555"
 country: "South Africa"
 brewery: "South African Breweries"
-breweryURL: "brewery/south-african-breweries.html"
+breweryURL: "/brewery/south-african-breweries.html"
 style: "Stout - Milk / Sweet"
 ---

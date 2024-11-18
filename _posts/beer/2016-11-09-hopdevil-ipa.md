@@ -11,6 +11,6 @@ img: /img/list/hopdevil-ipa.jpeg
 untappd: "https://untappd.com/b/victory-brewing-company-hopdevil/3832"
 country: "United States"
 brewery: "Victory Brewing Company"
-breweryURL: "brewery/victory-brewing-company.html"
+breweryURL: "/brewery/victory-brewing-company.html"
 style: "IPA - American"
 ---

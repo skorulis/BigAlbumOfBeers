@@ -11,6 +11,6 @@ img: /img/list/2-halfs-liquid-baguette.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-liquid-baguette/4294318"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "brewery/2-halfs-brewing-distilling.html"
+breweryURL: "/brewery/2-halfs-brewing-distilling.html"
 style: "Wheat Beer - American Pale Wheat"
 ---

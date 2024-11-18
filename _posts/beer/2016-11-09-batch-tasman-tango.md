@@ -11,6 +11,6 @@ img: /img/list/batch-tasman-tango.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-tasman-tango-pale-ale/3110633"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Pale Ale - International"
 ---

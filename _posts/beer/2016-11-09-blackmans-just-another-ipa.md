@@ -11,6 +11,6 @@ img: /img/list/blackmans-just-another-ipa.jpeg
 untappd: "https://untappd.com/b/blackmans-brewery-just-another-ipa--mosaic---east-kent-goldings/5112822"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "brewery/blackman-s-brewery.html"
+breweryURL: "/brewery/blackman-s-brewery.html"
 style: "IPA - American"
 ---

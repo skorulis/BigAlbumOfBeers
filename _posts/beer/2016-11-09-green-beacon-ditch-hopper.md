@@ -11,6 +11,6 @@ img: /img/list/green-beacon-ditch-hopper.jpeg
 untappd: "https://untappd.com/b/green-beacon--ditch-hopper/4155370"
 country: "Australia"
 brewery: "Green Beacon "
-breweryURL: "brewery/green-beacon-.html"
+breweryURL: "/brewery/green-beacon-.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/batch-buckley-st-brown.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-buckley-street-brown/3079058"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Brown Ale - American"
 ---

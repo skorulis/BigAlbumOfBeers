@@ -11,6 +11,6 @@ img: /img/list/basement-brewhouse-nikolaj.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-pilot-11-nicolaj/3216414"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "brewery/basement-brewhouse.html"
+breweryURL: "/brewery/basement-brewhouse.html"
 style: "IPA - New England"
 ---

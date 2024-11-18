@@ -11,6 +11,6 @@ img: /img/list/brewdog-pump-action-poet.jpeg
 untappd: "https://untappd.com/b/brewdog-pump-action-poet/2058844"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "brewery/brewdog.html"
+breweryURL: "/brewery/brewdog.html"
 style: "IPA - American"
 ---

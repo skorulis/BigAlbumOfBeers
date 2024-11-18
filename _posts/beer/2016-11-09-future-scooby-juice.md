@@ -11,6 +11,6 @@ img: /img/list/future-scooby-juice.jpeg
 untappd: "https://untappd.com/b/future-brewing-future-brewing-scooby-juice/5883136"
 country: "Australia"
 brewery: "Future Brewing"
-breweryURL: "brewery/future-brewing.html"
+breweryURL: "/brewery/future-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

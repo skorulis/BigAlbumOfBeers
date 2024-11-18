@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-real-ale.jpeg
 untappd: "https://untappd.com/b/young-henrys-brewing-company-real-ale/157257"
 country: "Australia"
 brewery: "Young Henrys Brewing Company"
-breweryURL: "brewery/young-henrys-brewing-company.html"
+breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "English Bitter"
 ---

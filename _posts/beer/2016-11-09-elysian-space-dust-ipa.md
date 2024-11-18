@@ -11,6 +11,6 @@ img: /img/list/elysian-space-dust-ipa.jpeg
 untappd: "https://untappd.com/b/elysian-brewing-company-space-dust-ipa/121023"
 country: "United States"
 brewery: "Elysian Brewing Company"
-breweryURL: "brewery/elysian-brewing-company.html"
+breweryURL: "/brewery/elysian-brewing-company.html"
 style: "IPA - American"
 ---

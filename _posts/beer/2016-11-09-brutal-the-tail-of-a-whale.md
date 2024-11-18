@@ -11,6 +11,6 @@ img: /img/list/brutal-the-tail-of-a-whale.jpeg
 untappd: "https://untappd.com/b/brutal-brewing-the-tail-of-a-whale/613684"
 country: "Sweden"
 brewery: "Brutal Brewing"
-breweryURL: "brewery/brutal-brewing.html"
+breweryURL: "/brewery/brutal-brewing.html"
 style: "Wheat Beer - American Pale Wheat"
 ---

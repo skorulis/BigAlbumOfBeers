@@ -11,6 +11,6 @@ img: /img/list/barossa-valley-indian-summer-session-ale.jpeg
 untappd: "https://untappd.com/b/barossa-valley-brewing-indian-summer-session-ale/1657635"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "brewery/barossa-valley-brewing.html"
+breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "IPA - Session / India Session Ale"
 ---

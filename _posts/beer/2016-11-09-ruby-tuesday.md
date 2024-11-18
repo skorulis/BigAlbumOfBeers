@@ -11,6 +11,6 @@ img: /img/list/ruby-tuesday.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-ruby-tuesday/388493"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "brewery/matilda-bay-brewing-company.html"
+breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Red Ale - American Amber / Red"
 ---

@@ -11,6 +11,6 @@ img: /img/list/little-creatures-original-pilsner.jpeg
 untappd: "https://untappd.com/b/little-creatures-brewing-original-pilsner/19295"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "brewery/little-creatures-brewing.html"
+breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Pilsner - Other"
 ---

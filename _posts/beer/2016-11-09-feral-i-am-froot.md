@@ -11,6 +11,6 @@ img: /img/list/feral-i-am-froot.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-i-am-froot/2608878"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "brewery/feral-brewing-company.html"
+breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - American"
 ---

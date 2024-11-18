@@ -11,6 +11,6 @@ img: /img/list/your-mates-sally.jpeg
 untappd: "https://untappd.com/b/your-mates-brewing-co-sally/3240735"
 country: "Australia"
 brewery: "Your Mates Brewing Co"
-breweryURL: "brewery/your-mates-brewing-co.html"
+breweryURL: "/brewery/your-mates-brewing-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/gage-roads-sleeping-giant.jpeg
 untappd: "https://untappd.com/b/gage-roads-brewing-co--sleeping-giant/15049"
 country: "Australia"
 brewery: "Gage Roads Brewing Co "
-breweryURL: "brewery/gage-roads-brewing-co-.html"
+breweryURL: "/brewery/gage-roads-brewing-co-.html"
 style: "IPA - English"
 ---

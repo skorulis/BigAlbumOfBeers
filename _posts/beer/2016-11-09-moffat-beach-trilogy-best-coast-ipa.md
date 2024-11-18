@@ -11,6 +11,6 @@ img: /img/list/moffat-beach-trilogy-best-coast-ipa.jpeg
 untappd: "https://untappd.com/b/moffat-beach-brewing-co-moffat-beach-brewing-co-trilogy-best-coast-ipa/3932083"
 country: "Australia"
 brewery: "Moffat Beach Brewing Co"
-breweryURL: "brewery/moffat-beach-brewing-co.html"
+breweryURL: "/brewery/moffat-beach-brewing-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/six-strings-shreddin-ipa.jpeg
 untappd: "https://untappd.com/b/six-string-brewing-company-shreddin-ipa/3739123"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "brewery/six-string-brewing-company.html"
+breweryURL: "/brewery/six-string-brewing-company.html"
 style: "IPA - American"
 ---

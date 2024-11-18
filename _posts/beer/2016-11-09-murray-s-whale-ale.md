@@ -11,6 +11,6 @@ img: /img/list/murray-s-whale-ale.jpeg
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-whale-ale/9889"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
-breweryURL: "brewery/murray-s-craft-brewing-co.html"
+breweryURL: "/brewery/murray-s-craft-brewing-co.html"
 style: "Pale Wheat Ale - American"
 ---

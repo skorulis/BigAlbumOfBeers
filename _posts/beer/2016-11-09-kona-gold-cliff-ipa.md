@@ -11,6 +11,6 @@ img: /img/list/kona-gold-cliff-ipa.jpeg
 untappd: "https://untappd.com/b/kona-brewing-company-gold-cliff/2625503"
 country: "United States"
 brewery: "Kona Brewing Company"
-breweryURL: "brewery/kona-brewing-company.html"
+breweryURL: "/brewery/kona-brewing-company.html"
 style: "IPA - American"
 ---

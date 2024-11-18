@@ -11,6 +11,6 @@ img: /img/list/bay-rd-smoked-esb.jpeg
 untappd: "https://untappd.com/b/bay-rd-brewing-smoked-esb/3846428"
 country: "Australia"
 brewery: "Bay Rd Brewing"
-breweryURL: "brewery/bay-rd-brewing.html"
+breweryURL: "/brewery/bay-rd-brewing.html"
 style: "English Bitter"
 ---

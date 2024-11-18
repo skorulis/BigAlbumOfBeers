@@ -11,6 +11,6 @@ img: /img/list/bracket-duck--duck--goose.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-duck--duck--goose/5428586"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - Session"
 ---

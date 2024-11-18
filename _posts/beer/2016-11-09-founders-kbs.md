@@ -11,6 +11,6 @@ img: /img/list/founders-kbs.jpeg
 untappd: "https://untappd.com/b/founders-brewing-co--kentucky-breakfast-stout--kbs---2017-/1941355"
 country: "United States"
 brewery: "Founders Brewing Co."
-breweryURL: "brewery/founders-brewing-co.html"
+breweryURL: "/brewery/founders-brewing-co.html"
 style: "Stout - American Imperial / Double"
 ---

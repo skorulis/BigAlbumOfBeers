@@ -11,6 +11,6 @@ img: /img/list/deschutes-obsidian-stout.jpeg
 untappd: "https://untappd.com/b/deschutes-brewery-obsidian-stout/3622"
 country: "United States"
 brewery: "Deschutes Brewery"
-breweryURL: "brewery/deschutes-brewery.html"
+breweryURL: "/brewery/deschutes-brewery.html"
 style: "Stout - American"
 ---

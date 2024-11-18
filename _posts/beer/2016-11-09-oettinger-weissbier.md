@@ -11,6 +11,6 @@ img: /img/list/oettinger-weissbier.jpeg
 untappd: "https://untappd.com/b/oettinger-brauerei-oettinger-hefeweibbier-naturtrub--weissbier/39869"
 country: "Germany"
 brewery: "Oettinger Brauerei"
-breweryURL: "brewery/oettinger-brauerei.html"
+breweryURL: "/brewery/oettinger-brauerei.html"
 style: "Hefeweizen"
 ---

@@ -11,6 +11,6 @@ img: /img/list/akasha-mutiny-on-the-bounty.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-mutiny-on-the-bounty/4428054"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "brewery/akasha-brewing-company.html"
+breweryURL: "/brewery/akasha-brewing-company.html"
 style: "Stout - Milk / Sweet"
 ---

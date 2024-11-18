@@ -11,6 +11,6 @@ img: /img/list/stockade-mr-fruju-neipa.jpeg
 untappd: "https://untappd.com/b/stockade-brew-co-mr-fruju-neipa/2795247"
 country: "Australia"
 brewery: "Stockade Brew Co"
-breweryURL: "brewery/stockade-brew-co.html"
+breweryURL: "/brewery/stockade-brew-co.html"
 style: "IPA - New England"
 ---

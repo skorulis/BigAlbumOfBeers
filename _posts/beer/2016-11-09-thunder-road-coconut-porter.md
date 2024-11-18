@@ -11,6 +11,6 @@ img: /img/list/thunder-road-coconut-porter.jpeg
 untappd: "https://untappd.com/b/thunder-road-brewing-company-coconut-porter/2934675"
 country: "Australia"
 brewery: "Thunder Road Brewing Company"
-breweryURL: "brewery/thunder-road-brewing-company.html"
+breweryURL: "/brewery/thunder-road-brewing-company.html"
 style: "Porter - Other"
 ---

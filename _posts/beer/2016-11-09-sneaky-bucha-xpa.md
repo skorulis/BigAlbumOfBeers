@@ -11,6 +11,6 @@ img: /img/list/sneaky-bucha-xpa.jpeg
 untappd: "https://untappd.com/b/byron-bay-brewery-the-sneaky-bucha-of-byron---xpa/4039267"
 country: "Australia"
 brewery: "Byron Bay Brewery"
-breweryURL: "brewery/byron-bay-brewery.html"
+breweryURL: "/brewery/byron-bay-brewery.html"
 style: "Kombucha"
 ---

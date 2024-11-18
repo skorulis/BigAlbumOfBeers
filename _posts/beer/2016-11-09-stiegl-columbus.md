@@ -11,6 +11,6 @@ img: /img/list/stiegl-columbus.jpeg
 untappd: "https://untappd.com/b/stieglbrauerei-zu-salzburg-columbus-1492-pale-ale/1624510"
 country: "Austria"
 brewery: "Stieglbrauerei zu Salzburg"
-breweryURL: "brewery/stieglbrauerei-zu-salzburg.html"
+breweryURL: "/brewery/stieglbrauerei-zu-salzburg.html"
 style: "Pale Ale - American"
 ---

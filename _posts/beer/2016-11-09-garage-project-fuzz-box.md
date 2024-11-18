@@ -11,6 +11,6 @@ img: /img/list/garage-project-fuzz-box.jpeg
 untappd: "https://untappd.com/b/garage-project-fuzz-box/1781861"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "brewery/garage-project.html"
+breweryURL: "/brewery/garage-project.html"
 style: "IPA - New England / Hazy"
 ---

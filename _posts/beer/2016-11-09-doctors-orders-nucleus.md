@@ -11,6 +11,6 @@ img: /img/list/doctors-orders-nucleus.jpeg
 untappd: "https://untappd.com/b/doctors-orders-brewing-nucleus/2266769"
 country: "Australia"
 brewery: "Doctor's Orders Brewing"
-breweryURL: "brewery/doctor-s-orders-brewing.html"
+breweryURL: "/brewery/doctor-s-orders-brewing.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 ---

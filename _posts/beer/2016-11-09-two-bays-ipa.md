@@ -11,6 +11,6 @@ img: /img/list/two-bays-ipa.jpeg
 untappd: "https://untappd.com/b/twobays-ipa/3128526"
 country: "Australia"
 brewery: "TWØBAYS"
-breweryURL: "brewery/twobays.html"
+breweryURL: "/brewery/twobays.html"
 style: "Gluten-Free"
 ---

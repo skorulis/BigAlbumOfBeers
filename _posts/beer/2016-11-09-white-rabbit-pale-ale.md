@@ -11,6 +11,6 @@ img: /img/list/white-rabbit-pale-ale.jpeg
 untappd: "https://untappd.com/b/white-rabbit-pale-ale/754500"
 country: "Australia"
 brewery: "White Rabbit"
-breweryURL: "brewery/white-rabbit.html"
+breweryURL: "/brewery/white-rabbit.html"
 style: "Pale Ale - Belgian"
 ---

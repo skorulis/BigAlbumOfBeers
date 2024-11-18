@@ -11,6 +11,6 @@ img: /img/list/brutal-a-full-ship-of-ipa.jpeg
 untappd: "https://untappd.com/b/brutal-brewing-a-ship-full-of-ipa/967627"
 country: "Sweden"
 brewery: "Brutal Brewing"
-breweryURL: "brewery/brutal-brewing.html"
+breweryURL: "/brewery/brutal-brewing.html"
 style: "IPA - American"
 ---

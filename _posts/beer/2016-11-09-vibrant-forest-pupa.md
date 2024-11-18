@@ -11,6 +11,6 @@ img: /img/list/vibrant-forest-pupa.jpeg
 untappd: "https://untappd.com/b/vibrant-forest-brewery-pupa/2644377"
 country: "England"
 brewery: "Vibrant Forest Brewery"
-breweryURL: "brewery/vibrant-forest-brewery.html"
+breweryURL: "/brewery/vibrant-forest-brewery.html"
 style: "Pale Ale - New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brabante-lager.jpeg
 untappd: "https://untappd.com/b/brabante-cervezas-lager/80383"
 country: "Spain"
 brewery: "Brabante Cervezas"
-breweryURL: "brewery/brabante-cervezas.html"
+breweryURL: "/brewery/brabante-cervezas.html"
 style: "Lager - Euro"
 ---

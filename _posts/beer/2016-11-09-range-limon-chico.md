@@ -11,6 +11,6 @@ img: /img/list/range-limon-chico.jpeg
 untappd: "https://untappd.com/b/range-brewing-limon-chico/4709215"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "brewery/range-brewing.html"
+breweryURL: "/brewery/range-brewing.html"
 style: "Lager - American Light"
 ---

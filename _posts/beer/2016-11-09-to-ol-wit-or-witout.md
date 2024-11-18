@@ -11,6 +11,6 @@ img: /img/list/to-ol-wit-or-witout.jpeg
 untappd: "https://untappd.com/b/to-ol-wit-or-witout/1137223"
 country: "Denmark"
 brewery: "To Øl"
-breweryURL: "brewery/to-ol.html"
+breweryURL: "/brewery/to-ol.html"
 style: "Witbier"
 ---

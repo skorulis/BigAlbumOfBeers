@@ -11,6 +11,6 @@ img: /img/list/the-kernel-loral-ipa.jpeg
 untappd: "https://untappd.com/b/the-kernel-brewery-india-pale-ale-loral/2097912"
 country: "England"
 brewery: "The Kernel Brewery"
-breweryURL: "brewery/the-kernel-brewery.html"
+breweryURL: "/brewery/the-kernel-brewery.html"
 style: "IPA - American"
 ---

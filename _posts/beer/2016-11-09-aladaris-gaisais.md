@@ -11,6 +11,6 @@ img: /img/list/aladaris-gaisais.jpeg
 untappd: "https://untappd.com/b/aldaris-gaisais/188698"
 country: "Latvia"
 brewery: "Aldaris"
-breweryURL: "brewery/aldaris.html"
+breweryURL: "/brewery/aldaris.html"
 style: "Pilsner - Other"
 ---

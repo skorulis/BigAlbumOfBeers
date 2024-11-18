@@ -11,6 +11,6 @@ img: /img/list/barossa-hop-heaven-easy-ipa.jpeg
 untappd: "https://untappd.com/b/barossa-valley-brewing-hop-heaven/1018437"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "brewery/barossa-valley-brewing.html"
+breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "IPA - American"
 ---

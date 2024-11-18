@@ -11,6 +11,6 @@ img: /img/list/chuck-and-son-s-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/chuck-and-son-s-brewing-co-chuck-and-son-s-brewing-co-west-coast-ipa/5834365"
 country: "Australia"
 brewery: "Chuck and Son's Brewing Co."
-breweryURL: "brewery/chuck-and-son-s-brewing-co.html"
+breweryURL: "/brewery/chuck-and-son-s-brewing-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/new-england-dapper.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co-new-england-brewing-co-dapper/5599597"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "brewery/new-england-brewing-co.html"
+breweryURL: "/brewery/new-england-brewing-co.html"
 style: "Bitter - Extra Special / Strong (ESB)"
 ---

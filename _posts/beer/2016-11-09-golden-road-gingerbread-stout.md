@@ -11,6 +11,6 @@ img: /img/list/golden-road-gingerbread-stout.jpeg
 untappd: "https://untappd.com/b/golden-road-brewing-back-home-gingerbread-stout/526280"
 country: "United States"
 brewery: "Golden Road Brewing"
-breweryURL: "brewery/golden-road-brewing.html"
+breweryURL: "/brewery/golden-road-brewing.html"
 style: "Stout - Imperial / Double"
 ---

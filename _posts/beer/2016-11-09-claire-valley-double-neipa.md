@@ -11,6 +11,6 @@ img: /img/list/claire-valley-double-neipa.jpeg
 untappd: "https://untappd.com/b/clare-valley-brewing-co--double-neipa/3220077"
 country: "Australia"
 brewery: "Clare Valley Brewing Co."
-breweryURL: "brewery/clare-valley-brewing-co.html"
+breweryURL: "/brewery/clare-valley-brewing-co.html"
 style: "IPA - Imperial / Double New England"
 ---

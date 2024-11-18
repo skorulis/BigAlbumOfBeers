@@ -11,6 +11,6 @@ img: /img/list/woodlands-christmas-special.jpeg
 untappd: "https://untappd.com/b/woodlands-brewing-company-hollydays/276293"
 country: "England"
 brewery: "Woodlands Brewing Company"
-breweryURL: "brewery/woodlands-brewing-company.html"
+breweryURL: "/brewery/woodlands-brewing-company.html"
 style: "Winter Ale"
 ---

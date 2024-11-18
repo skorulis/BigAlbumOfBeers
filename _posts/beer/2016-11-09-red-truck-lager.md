@@ -11,6 +11,6 @@ img: /img/list/red-truck-lager.jpeg
 untappd: "https://untappd.com/b/true-south-red-truck-lager/37582"
 country: "Australia"
 brewery: "True South"
-breweryURL: "brewery/true-south.html"
+breweryURL: "/brewery/true-south.html"
 style: "Märzen"
 ---

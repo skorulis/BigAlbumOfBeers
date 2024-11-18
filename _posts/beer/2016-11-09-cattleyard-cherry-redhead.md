@@ -11,6 +11,6 @@ img: /img/list/cattleyard-cherry-redhead.jpeg
 untappd: "https://untappd.com/b/cattleyard-brewing-co--cherry-redhead/4206247"
 country: "Australia"
 brewery: "Cattleyard Brewing Co."
-breweryURL: "brewery/cattleyard-brewing-co.html"
+breweryURL: "/brewery/cattleyard-brewing-co.html"
 style: "IPA - Red"
 ---

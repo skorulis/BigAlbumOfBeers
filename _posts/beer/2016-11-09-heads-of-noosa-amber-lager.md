@@ -11,6 +11,6 @@ img: /img/list/heads-of-noosa-amber-lager.jpeg
 untappd: "https://untappd.com/b/heads-of-noosa-brewing-co-heads-of-noosa-brewing-co-amber-lager/3047911"
 country: "Australia"
 brewery: "Heads of Noosa Brewing Co."
-breweryURL: "brewery/heads-of-noosa-brewing-co.html"
+breweryURL: "/brewery/heads-of-noosa-brewing-co.html"
 style: "Lager - Amber / Red"
 ---

@@ -11,6 +11,6 @@ img: /img/list/badlands-brewbacca.jpeg
 untappd: "https://untappd.com/b/badlands-brewery-brewbacca-kolsch/915183"
 country: "Australia"
 brewery: "Badlands Brewery"
-breweryURL: "brewery/badlands-brewery.html"
+breweryURL: "/brewery/badlands-brewery.html"
 style: "Kölsch"
 ---

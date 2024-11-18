@@ -11,6 +11,6 @@ img: /img/list/malt-fiction-session-ale.jpeg
 untappd: "https://untappd.com/b/malt-fiction-session-ale/1408815"
 country: "Australia"
 brewery: "Malt Fiction"
-breweryURL: "brewery/malt-fiction.html"
+breweryURL: "/brewery/malt-fiction.html"
 style: "Pale Ale - American"
 ---

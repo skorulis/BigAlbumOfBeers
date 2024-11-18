@@ -11,6 +11,6 @@ img: /img/list/dageraad-sri-lanka.jpeg
 untappd: "https://untappd.com/b/dageraad-brewing-sri-lanka-dubbel/967412"
 country: "Canada"
 brewery: "Dageraad Brewing"
-breweryURL: "brewery/dageraad-brewing.html"
+breweryURL: "/brewery/dageraad-brewing.html"
 style: "Belgian Dubbel"
 ---

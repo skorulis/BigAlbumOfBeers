@@ -11,6 +11,6 @@ img: /img/list/hitachino-white-ale.jpeg
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-white-ale/1573"
 country: "Japan"
 brewery: "Kiuchi Brewery"
-breweryURL: "brewery/kiuchi-brewery.html"
+breweryURL: "/brewery/kiuchi-brewery.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

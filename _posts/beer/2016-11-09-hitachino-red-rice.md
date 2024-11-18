@@ -11,6 +11,6 @@ img: /img/list/hitachino-red-rice.jpeg
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-red-rice-ale/12592"
 country: "Japan"
 brewery: "Kiuchi Brewery"
-breweryURL: "brewery/kiuchi-brewery.html"
+breweryURL: "/brewery/kiuchi-brewery.html"
 style: "Specialty Grain"
 ---

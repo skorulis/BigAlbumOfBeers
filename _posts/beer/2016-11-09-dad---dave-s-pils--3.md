@@ -11,6 +11,6 @@ img: /img/list/dad---dave-s-pils--3.jpeg
 untappd: "https://untappd.com/b/dad---daves-brewing-3-dads-pils/1280946"
 country: "Australia"
 brewery: "Dad & Dave's Brewing"
-breweryURL: "brewery/dad---dave-s-brewing.html"
+breweryURL: "/brewery/dad---dave-s-brewing.html"
 style: "Pilsner - Czech"
 ---

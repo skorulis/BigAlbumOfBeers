@@ -11,6 +11,6 @@ img: /img/list/modus-koko-black.jpeg
 untappd: "https://untappd.com/b/modus-brewing-koko-black-chocolate---hazelnut-stout/4450938"
 country: "Australia"
 brewery: "Modus Brewing"
-breweryURL: "brewery/modus-brewing.html"
+breweryURL: "/brewery/modus-brewing.html"
 style: "Stout - Other"
 ---

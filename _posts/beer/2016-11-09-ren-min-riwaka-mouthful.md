@@ -11,6 +11,6 @@ img: /img/list/ren-min-riwaka-mouthful.jpeg
 untappd: "https://untappd.com/b/ren-min-riwaka-mouthful/5321969"
 country: "Singapore"
 brewery: "Ren Min"
-breweryURL: "brewery/ren-min.html"
+breweryURL: "/brewery/ren-min.html"
 style: "IPA - New England / Hazy"
 ---

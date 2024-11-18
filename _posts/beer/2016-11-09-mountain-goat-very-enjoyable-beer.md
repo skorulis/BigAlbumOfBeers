@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-very-enjoyable-beer.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-goat-lager/2852079"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Lager - Pale"
 ---

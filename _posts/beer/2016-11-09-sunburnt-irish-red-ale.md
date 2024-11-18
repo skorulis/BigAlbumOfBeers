@@ -11,6 +11,6 @@ img: /img/list/sunburnt-irish-red-ale.jpeg
 untappd: "https://untappd.com/b/eight-degrees-brewing-sunburnt-irish-red/78030"
 country: "Ireland"
 brewery: "Eight Degrees Brewing"
-breweryURL: "brewery/eight-degrees-brewing.html"
+breweryURL: "/brewery/eight-degrees-brewing.html"
 style: "Red Ale - Irish"
 ---

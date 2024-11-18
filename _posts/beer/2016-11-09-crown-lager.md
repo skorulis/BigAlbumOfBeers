@@ -11,6 +11,6 @@ img: /img/list/crown-lager.jpeg
 untappd: "https://untappd.com/b/carlton---united-breweries-crown-lager/16424"
 country: "Australia"
 brewery: "Carlton & United Breweries"
-breweryURL: "brewery/carlton---united-breweries.html"
+breweryURL: "/brewery/carlton---united-breweries.html"
 style: "Lager - Pale"
 ---

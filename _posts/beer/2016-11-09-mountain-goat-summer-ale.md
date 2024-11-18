@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-summer-ale.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-summer-ale/450510"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Blonde Ale"
 ---

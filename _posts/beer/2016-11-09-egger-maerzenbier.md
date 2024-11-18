@@ -11,6 +11,6 @@ img: /img/list/egger-maerzenbier.jpeg
 untappd: "https://untappd.com/b/privatbrauerei-fritz-egger-egger-marzenbier/84114"
 country: "Austria"
 brewery: "Privatbrauerei Fritz Egger"
-breweryURL: "brewery/privatbrauerei-fritz-egger.html"
+breweryURL: "/brewery/privatbrauerei-fritz-egger.html"
 style: "Märzen"
 ---

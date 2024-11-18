@@ -11,6 +11,6 @@ img: /img/list/bruny-island-farm-ale.jpeg
 untappd: "https://untappd.com/b/bruny-island-beer-co-farm-ale/1451409"
 country: "Australia"
 brewery: "Bruny Island Beer Co"
-breweryURL: "brewery/bruny-island-beer-co.html"
+breweryURL: "/brewery/bruny-island-beer-co.html"
 style: "Pale Ale - Australian"
 ---

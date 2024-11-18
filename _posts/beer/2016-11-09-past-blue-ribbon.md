@@ -11,6 +11,6 @@ img: /img/list/past-blue-ribbon.jpeg
 untappd: "https://untappd.com/b/pabst-brewing-company-pabst-blue-ribbon/3883"
 country: "United States"
 brewery: "Pabst Brewing Company"
-breweryURL: "brewery/pabst-brewing-company.html"
+breweryURL: "/brewery/pabst-brewing-company.html"
 style: "Lager - North American Adjunct"
 ---

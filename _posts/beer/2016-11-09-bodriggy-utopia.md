@@ -11,6 +11,6 @@ img: /img/list/bodriggy-utopia.jpeg
 untappd: "https://untappd.com/b/bodriggy-brewing-co--utropia/3542446"
 country: "Australia"
 brewery: "Bodriggy Brewing Co."
-breweryURL: "brewery/bodriggy-brewing-co.html"
+breweryURL: "/brewery/bodriggy-brewing-co.html"
 style: "Pale Ale - American"
 ---

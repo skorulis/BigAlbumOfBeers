@@ -11,6 +11,6 @@ img: /img/list/brixton-atlantic-ale.jpeg
 untappd: "https://untappd.com/b/brixton-brewery-atlantic-american-pale-ale/631795"
 country: "England"
 brewery: "Brixton Brewery"
-breweryURL: "brewery/brixton-brewery.html"
+breweryURL: "/brewery/brixton-brewery.html"
 style: "Pale Ale - American"
 ---

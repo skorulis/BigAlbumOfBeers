@@ -11,6 +11,6 @@ img: /img/list/rogue-batsquatch.jpeg
 untappd: "https://untappd.com/b/rogue-ales-batsquatch/2878991"
 country: "United States"
 brewery: "Rogue Ales"
-breweryURL: "brewery/rogue-ales.html"
+breweryURL: "/brewery/rogue-ales.html"
 style: "IPA - New England"
 ---

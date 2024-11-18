@@ -11,6 +11,6 @@ img: /img/list/merchant-smooth-sailor.jpeg
 untappd: "https://untappd.com/b/merchant-brewing-co--smooth-sailor/1029810"
 country: "Australia"
 brewery: "Merchant Brewing Co."
-breweryURL: "brewery/merchant-brewing-co.html"
+breweryURL: "/brewery/merchant-brewing-co.html"
 style: "Porter - English"
 ---

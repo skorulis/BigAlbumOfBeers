@@ -11,6 +11,6 @@ img: /img/list/brooklyn-summer-ale.jpeg
 untappd: "https://untappd.com/b/brooklyn-brewery-brooklyn-summer-ale/5571"
 country: "United States"
 brewery: "Brooklyn Brewery"
-breweryURL: "brewery/brooklyn-brewery.html"
+breweryURL: "/brewery/brooklyn-brewery.html"
 style: "Pale Ale - English"
 ---

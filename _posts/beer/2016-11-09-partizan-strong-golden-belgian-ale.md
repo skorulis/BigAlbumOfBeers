@@ -11,6 +11,6 @@ img: /img/list/partizan-strong-golden-belgian-ale.jpeg
 untappd: "https://untappd.com/b/partizan-brewing-sgb/443455"
 country: "England"
 brewery: "Partizan Brewing"
-breweryURL: "brewery/partizan-brewing.html"
+breweryURL: "/brewery/partizan-brewing.html"
 style: "Belgian Strong Golden Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/carlton-dry.jpeg
 untappd: "https://untappd.com/b/carlton---united-breweries-carlton-dry/11581"
 country: "Australia"
 brewery: "Carlton & United Breweries"
-breweryURL: "brewery/carlton---united-breweries.html"
+breweryURL: "/brewery/carlton---united-breweries.html"
 style: "Lager - Pale"
 ---

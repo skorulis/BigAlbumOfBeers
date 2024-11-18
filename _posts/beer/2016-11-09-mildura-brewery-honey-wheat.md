@@ -11,6 +11,6 @@ img: /img/list/mildura-brewery-honey-wheat.jpeg
 untappd: "https://untappd.com/b/mildura-brewery-honey-wheat/62794"
 country: "Australia"
 brewery: "Mildura Brewery"
-breweryURL: "brewery/mildura-brewery.html"
+breweryURL: "/brewery/mildura-brewery.html"
 style: "Witbier"
 ---

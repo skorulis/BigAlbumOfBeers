@@ -11,6 +11,6 @@ img: /img/list/bracket-downbeat.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-downbeat/5139819"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Pilsner - Czech"
 ---

@@ -11,6 +11,6 @@ img: /img/list/opera-bar-pale-ale.jpeg
 untappd: "https://untappd.com/b/opera-bar-opera-bar-organic-pale-ale/327314"
 country: "Australia"
 brewery: "Opera Bar"
-breweryURL: "brewery/opera-bar.html"
+breweryURL: "/brewery/opera-bar.html"
 style: "Pale Ale - American"
 ---

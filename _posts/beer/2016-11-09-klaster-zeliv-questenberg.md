@@ -11,6 +11,6 @@ img: /img/list/klaster-zeliv-questenberg.jpeg
 untappd: "https://untappd.com/b/klasterni-pivovar-zeliv-questenberg-14/3102069"
 country: "Czech Republic"
 brewery: "Klášterní pivovar Želiv"
-breweryURL: "brewery/klasterni-pivovar-zeliv.html"
+breweryURL: "/brewery/klasterni-pivovar-zeliv.html"
 style: "Wheat Beer - Dunkelweizen"
 ---

@@ -11,6 +11,6 @@ img: /img/list/jetty-road-dank-and-stormy.jpeg
 untappd: "https://untappd.com/b/jetty-road-dank-and-stormy/4604470"
 country: "Australia"
 brewery: "Jetty Road"
-breweryURL: "brewery/jetty-road.html"
+breweryURL: "/brewery/jetty-road.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

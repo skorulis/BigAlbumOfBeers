@@ -11,6 +11,6 @@ img: /img/list/white-bay-river-of-ideas.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--river-of-ideas/4756144"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "brewery/white-bay-beer-co.html"
+breweryURL: "/brewery/white-bay-beer-co.html"
 style: "IPA - American"
 ---

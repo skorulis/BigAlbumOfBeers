@@ -11,6 +11,6 @@ img: /img/list/cheddar-ales-festive-totty.jpeg
 untappd: "https://untappd.com/b/cheddar-ales-festive-totty/26992"
 country: "England"
 brewery: "Cheddar Ales"
-breweryURL: "brewery/cheddar-ales.html"
+breweryURL: "/brewery/cheddar-ales.html"
 style: "Winter Ale"
 ---

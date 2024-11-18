@@ -11,6 +11,6 @@ img: /img/list/garage-project-aro-noir.jpeg
 untappd: "https://untappd.com/b/garage-project-aro-noir/229166"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "brewery/garage-project.html"
+breweryURL: "/brewery/garage-project.html"
 style: "Stout - Other"
 ---

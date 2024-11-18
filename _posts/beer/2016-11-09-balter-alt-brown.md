@@ -11,6 +11,6 @@ img: /img/list/balter-alt-brown.jpeg
 untappd: "https://untappd.com/b/balter-brewing-company-alt-brown/1510798"
 country: "Australia"
 brewery: "Balter Brewing Company"
-breweryURL: "brewery/balter-brewing-company.html"
+breweryURL: "/brewery/balter-brewing-company.html"
 style: "Brown Ale - American"
 ---

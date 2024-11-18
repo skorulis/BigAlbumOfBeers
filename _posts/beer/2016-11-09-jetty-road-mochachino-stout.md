@@ -11,6 +11,6 @@ img: /img/list/jetty-road-mochachino-stout.jpeg
 untappd: "https://untappd.com/b/jetty-road-mochaccino-stout/4060070"
 country: "Australia"
 brewery: "Jetty Road"
-breweryURL: "brewery/jetty-road.html"
+breweryURL: "/brewery/jetty-road.html"
 style: "Stout - Milk / Sweet"
 ---

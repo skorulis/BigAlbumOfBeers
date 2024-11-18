@@ -11,6 +11,6 @@ img: /img/list/hawkes-steph-likes-a-party.jpeg
 untappd: "https://untappd.com/b/hawkers-beer-steph-likes-a-party/3738049"
 country: "Australia"
 brewery: "Hawkers Beer"
-breweryURL: "brewery/hawkers-beer.html"
+breweryURL: "/brewery/hawkers-beer.html"
 style: "IPA - Imperial / Double"
 ---

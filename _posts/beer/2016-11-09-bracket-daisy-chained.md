@@ -11,6 +11,6 @@ img: /img/list/bracket-daisy-chained.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-daisy-chained/4526551"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

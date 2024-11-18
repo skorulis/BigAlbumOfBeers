@@ -11,6 +11,6 @@ img: /img/list/bone-head-sweet-pea-mdl.jpeg
 untappd: "https://untappd.com/b/bonehead-brewing-sweet-pea-m-d-l/2485599"
 country: "Australia"
 brewery: "Bonehead Brewing"
-breweryURL: "brewery/bonehead-brewing.html"
+breweryURL: "/brewery/bonehead-brewing.html"
 style: "Lager - Dark"
 ---

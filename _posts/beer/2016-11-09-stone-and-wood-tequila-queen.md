@@ -11,6 +11,6 @@ img: /img/list/stone-and-wood-tequila-queen.jpeg
 untappd: "https://untappd.com/b/stone---wood-counter-culture---tequila-queen/3907393"
 country: "Australia"
 brewery: "Stone & Wood"
-breweryURL: "brewery/stone---wood.html"
+breweryURL: "/brewery/stone---wood.html"
 style: "Sour - Gose"
 ---

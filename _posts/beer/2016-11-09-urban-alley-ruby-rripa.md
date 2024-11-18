@@ -11,6 +11,6 @@ img: /img/list/urban-alley-ruby-rripa.jpeg
 untappd: "https://untappd.com/b/urban-alley-brewery-ruby-rripa/3178618"
 country: "Australia"
 brewery: "Urban Alley Brewery"
-breweryURL: "brewery/urban-alley-brewery.html"
+breweryURL: "/brewery/urban-alley-brewery.html"
 style: "IPA - Red"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brewdog-hazy-jane.jpeg
 untappd: "https://untappd.com/b/brewdog-hazy-jane/3560731"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "brewery/brewdog.html"
+breweryURL: "/brewery/brewdog.html"
 style: "IPA - New England / Hazy"
 ---

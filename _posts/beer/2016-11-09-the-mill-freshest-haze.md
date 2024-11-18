@@ -11,6 +11,6 @@ img: /img/list/the-mill-freshest-haze.jpeg
 untappd: "https://untappd.com/b/the-mill-brewery-the-mill-brewery-freshest-haze-2024/5778077"
 country: "Australia"
 brewery: "The Mill Brewery "
-breweryURL: "brewery/the-mill-brewery-.html"
+breweryURL: "/brewery/the-mill-brewery-.html"
 style: "IPA - New England / Hazy"
 ---

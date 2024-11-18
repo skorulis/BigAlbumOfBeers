@@ -11,6 +11,6 @@ img: /img/list/revel-american-brown-ale.jpeg
 untappd: "https://untappd.com/b/revel-brewing-co-browntown-american-brown-ale/3279233"
 country: "Australia"
 brewery: "Revel Brewing Co"
-breweryURL: "brewery/revel-brewing-co.html"
+breweryURL: "/brewery/revel-brewing-co.html"
 style: "Brown Ale - American"
 ---

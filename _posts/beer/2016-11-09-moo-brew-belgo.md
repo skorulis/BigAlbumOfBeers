@@ -11,6 +11,6 @@ img: /img/list/moo-brew-belgo.jpeg
 untappd: "https://untappd.com/b/moo-brew-belgo/171077"
 country: "Australia"
 brewery: "Moo Brew"
-breweryURL: "brewery/moo-brew.html"
+breweryURL: "/brewery/moo-brew.html"
 style: "Pale Ale - Belgian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/athletic-run-wild.jpeg
 untappd: "https://untappd.com/b/athletic-brewing-company-run-wild-ipa/2640438"
 country: "United States"
 brewery: "Athletic Brewing Company"
-breweryURL: "brewery/athletic-brewing-company.html"
+breweryURL: "/brewery/athletic-brewing-company.html"
 style: "Non-Alcoholic Beer - IPA"
 ---

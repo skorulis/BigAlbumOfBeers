@@ -11,6 +11,6 @@ img: /img/list/kaiju-paradise-pale.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-paradise-pils/2864305"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "brewery/kaiju--beer.html"
+breweryURL: "/brewery/kaiju--beer.html"
 style: "Pilsner - Other"
 ---

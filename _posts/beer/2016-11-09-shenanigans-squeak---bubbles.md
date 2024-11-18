@@ -11,6 +11,6 @@ img: /img/list/shenanigans-squeak---bubbles.jpeg
 untappd: "https://untappd.com/b/shenanigans-brewing-co--squeak---bubble/2289486"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "brewery/shenanigans-brewing-co.html"
+breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "IPA - International"
 ---

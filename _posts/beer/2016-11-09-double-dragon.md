@@ -11,6 +11,6 @@ img: /img/list/double-dragon.jpeg
 untappd: "https://untappd.com/b/felinfoel-brewery-co-ltd-double-dragon/13412"
 country: "Wales"
 brewery: "Felinfoel Brewery Co Ltd"
-breweryURL: "brewery/felinfoel-brewery-co-ltd.html"
+breweryURL: "/brewery/felinfoel-brewery-co-ltd.html"
 style: "English Bitter"
 ---

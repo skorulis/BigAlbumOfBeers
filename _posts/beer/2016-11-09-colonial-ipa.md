@@ -11,6 +11,6 @@ img: /img/list/colonial-ipa.jpeg
 untappd: "https://untappd.com/b/colonial-brewing-co-ipa--australia-/1657617"
 country: "Australia"
 brewery: "Colonial Brewing Co"
-breweryURL: "brewery/colonial-brewing-co.html"
+breweryURL: "/brewery/colonial-brewing-co.html"
 style: "IPA - International"
 ---

@@ -11,6 +11,6 @@ img: /img/list/frenchies-kolsch.jpeg
 untappd: "https://untappd.com/b/frenchies-draught---kolsch/1507326"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "brewery/frenchies.html"
+breweryURL: "/brewery/frenchies.html"
 style: "Kölsch"
 ---

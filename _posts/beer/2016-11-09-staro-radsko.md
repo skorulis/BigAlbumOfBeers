@@ -11,6 +11,6 @@ img: /img/list/staro-radsko.jpeg
 untappd: "https://untappd.com/b/koding-gorska-voda-starogradsko--starogradsko-/984675"
 country: "Republic of Macedonia"
 brewery: "Koding Gorska Voda"
-breweryURL: "brewery/koding-gorska-voda.html"
+breweryURL: "/brewery/koding-gorska-voda.html"
 style: "Pilsner - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/london-fields-hackney-hopster.jpeg
 untappd: "https://untappd.com/b/london-fields-brewery-hackney-hopster/98628"
 country: "England"
 brewery: "London Fields Brewery"
-breweryURL: "brewery/london-fields-brewery.html"
+breweryURL: "/brewery/london-fields-brewery.html"
 style: "Pale Ale - English"
 ---

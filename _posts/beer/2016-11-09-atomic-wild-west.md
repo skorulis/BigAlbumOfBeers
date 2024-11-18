@@ -11,6 +11,6 @@ img: /img/list/atomic-wild-west.jpeg
 untappd: "https://untappd.com/b/atomic-wild-wild-west-coast-ipa/5124308"
 country: "Australia"
 brewery: "Atomic"
-breweryURL: "brewery/atomic.html"
+breweryURL: "/brewery/atomic.html"
 style: "IPA - American"
 ---

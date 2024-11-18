@@ -11,6 +11,6 @@ img: /img/list/gotlands-summer-bulldog-pale-ale.jpeg
 untappd: "https://untappd.com/b/gotlands-bryggeri-summer-bulldog-pale-ale/3824243"
 country: "Sweden"
 brewery: "Gotlands Bryggeri"
-breweryURL: "brewery/gotlands-bryggeri.html"
+breweryURL: "/brewery/gotlands-bryggeri.html"
 style: "Pale Ale - Other"
 ---

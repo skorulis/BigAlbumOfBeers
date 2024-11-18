@@ -11,6 +11,6 @@ img: /img/list/bridge-road-mandarin-grisette.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-mayday-hills---mandarin-grisette/3957024"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "brewery/bridge-road-brewers.html"
+breweryURL: "/brewery/bridge-road-brewers.html"
 style: "Farmhouse Ale - Grisette"
 ---

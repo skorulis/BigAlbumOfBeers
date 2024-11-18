@@ -11,6 +11,6 @@ img: /img/list/ocean-reach-peach---pineapple-parfait-sour.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--peach---pineapple-parfait-sour/5112799"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "brewery/ocean-reach-brewing-.html"
+breweryURL: "/brewery/ocean-reach-brewing-.html"
 style: "Sour - Smoothie / Pastry"
 ---

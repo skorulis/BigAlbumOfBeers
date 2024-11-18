@@ -11,6 +11,6 @@ img: /img/list/oakham-ales-inferno.jpeg
 untappd: "https://untappd.com/b/oakham-ales-inferno/14764"
 country: "England"
 brewery: "Oakham Ales"
-breweryURL: "brewery/oakham-ales.html"
+breweryURL: "/brewery/oakham-ales.html"
 style: "Golden Ale"
 ---

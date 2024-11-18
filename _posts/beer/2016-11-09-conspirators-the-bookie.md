@@ -11,6 +11,6 @@ img: /img/list/conspirators-the-bookie.jpeg
 untappd: "https://untappd.com/b/coconspirators-brewing-company-the-bookie/1921122"
 country: "Australia"
 brewery: "CoConspirators Brewing Company"
-breweryURL: "brewery/coconspirators-brewing-company.html"
+breweryURL: "/brewery/coconspirators-brewing-company.html"
 style: "Pale Ale - American"
 ---

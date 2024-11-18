@@ -11,6 +11,6 @@ img: /img/list/bodriggy-indoor-plant-sale.jpeg
 untappd: "https://untappd.com/b/bodriggy-brewing-co--indoor-plant-sale/3933165"
 country: "Australia"
 brewery: "Bodriggy Brewing Co."
-breweryURL: "brewery/bodriggy-brewing-co.html"
+breweryURL: "/brewery/bodriggy-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

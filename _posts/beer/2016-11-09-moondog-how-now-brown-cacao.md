@@ -11,6 +11,6 @@ img: /img/list/moondog-how-now-brown-cacao.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-how-now-brown-cacao/3372043"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "brewery/moon-dog-craft-brewery.html"
+breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Cream Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/dunbar-epa.jpeg
 untappd: "https://untappd.com/b/dunbar-brews-dunbar-epa---english-pale-ale/3867601"
 country: "Australia"
 brewery: "DUNBAR Brews"
-breweryURL: "brewery/dunbar-brews.html"
+breweryURL: "/brewery/dunbar-brews.html"
 style: "Pale Ale - English"
 ---

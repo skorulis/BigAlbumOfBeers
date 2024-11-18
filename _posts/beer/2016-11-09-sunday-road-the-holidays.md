@@ -11,6 +11,6 @@ img: /img/list/sunday-road-the-holidays.jpeg
 untappd: "https://untappd.com/b/sunday-road-brewing-the-holidays-coffee-lager/4049920"
 country: "Australia"
 brewery: "Sunday Road Brewing"
-breweryURL: "brewery/sunday-road-brewing.html"
+breweryURL: "/brewery/sunday-road-brewing.html"
 style: "Lager - Dark"
 ---

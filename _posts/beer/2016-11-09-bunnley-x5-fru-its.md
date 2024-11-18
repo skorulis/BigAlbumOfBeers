@@ -11,6 +11,6 @@ img: /img/list/bunnley-x5-fru-its.jpeg
 untappd: "https://untappd.com/b/burnley-brewing-x5-fruits-x1-beer/3783358"
 country: "Australia"
 brewery: "Burnley Brewing"
-breweryURL: "brewery/burnley-brewing.html"
+breweryURL: "/brewery/burnley-brewing.html"
 style: "Sour - Fruited"
 ---

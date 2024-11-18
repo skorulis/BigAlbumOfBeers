@@ -11,6 +11,6 @@ img: /img/list/yullis-papaya-pale.jpeg
 untappd: "https://untappd.com/b/yullis-brews-raffs-papaya-pale-ale/4311838"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "brewery/yulli-s-brews.html"
+breweryURL: "/brewery/yulli-s-brews.html"
 style: "Pale Ale - Australian"
 ---

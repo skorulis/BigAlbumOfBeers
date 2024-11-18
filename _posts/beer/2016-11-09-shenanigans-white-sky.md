@@ -11,6 +11,6 @@ img: /img/list/shenanigans-white-sky.jpeg
 untappd: "https://untappd.com/b/shenanigans-brewing-co--white-sky/1237285"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "brewery/shenanigans-brewing-co.html"
+breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "Witbier"
 ---

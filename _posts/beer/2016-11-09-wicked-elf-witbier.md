@@ -11,6 +11,6 @@ img: /img/list/wicked-elf-witbier.jpeg
 untappd: "https://untappd.com/b/the-little-brewing-company-wicked-elf-witbier/13968"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "brewery/the-little-brewing-company.html"
+breweryURL: "/brewery/the-little-brewing-company.html"
 style: "Witbier"
 ---

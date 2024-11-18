@@ -11,6 +11,6 @@ img: /img/list/monteiths-west-coastin.jpeg
 untappd: "https://untappd.com/b/monteith-s-brewing-co-monteith-s-brewing-co-west-coastin-hazy/4825664"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co."
-breweryURL: "brewery/monteith-s-brewing-co.html"
+breweryURL: "/brewery/monteith-s-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

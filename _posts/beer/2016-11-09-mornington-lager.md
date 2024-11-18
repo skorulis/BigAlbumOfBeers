@@ -11,6 +11,6 @@ img: /img/list/mornington-lager.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-lager/1214393"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "brewery/mornington-peninsula-brewery.html"
+breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Lager - Helles"
 ---

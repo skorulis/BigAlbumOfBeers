@@ -11,6 +11,6 @@ img: /img/list/colonial-inquest.jpeg
 untappd: "https://untappd.com/b/colonial-brewing-co-inquest/2198629"
 country: "Australia"
 brewery: "Colonial Brewing Co"
-breweryURL: "brewery/colonial-brewing-co.html"
+breweryURL: "/brewery/colonial-brewing-co.html"
 style: "Stout - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/wells-bombardier-english.jpeg
 untappd: "https://untappd.com/b/charles-wells-brewery-wells-bombardier-glorious-english/5101"
 country: "England"
 brewery: "Charles Wells Brewery"
-breweryURL: "brewery/charles-wells-brewery.html"
+breweryURL: "/brewery/charles-wells-brewery.html"
 style: "English Bitter"
 ---

@@ -11,6 +11,6 @@ img: /img/list/atomic-first-cab-strong-ale.jpeg
 untappd: "https://untappd.com/b/atomic-beer-project-first-cab/4014262"
 country: "Australia"
 brewery: "Atomic Beer Project"
-breweryURL: "brewery/atomic-beer-project.html"
+breweryURL: "/brewery/atomic-beer-project.html"
 style: "Strong Ale - Other"
 ---

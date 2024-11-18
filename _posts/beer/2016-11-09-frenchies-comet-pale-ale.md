@@ -11,6 +11,6 @@ img: /img/list/frenchies-comet-pale-ale.jpeg
 untappd: "https://untappd.com/b/frenchies-comet-pale-ale/2733560"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "brewery/frenchies.html"
+breweryURL: "/brewery/frenchies.html"
 style: "Pale Ale - American"
 ---

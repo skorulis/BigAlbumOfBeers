@@ -11,6 +11,6 @@ img: /img/list/malmo-dps-double-ipa.jpeg
 untappd: "https://untappd.com/b/malmo-brewing-co--dps-double-ipa/5533154"
 country: "Sweden"
 brewery: "Malmö Brewing Co."
-breweryURL: "brewery/malmoe-brewing-co.html"
+breweryURL: "/brewery/malmoe-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

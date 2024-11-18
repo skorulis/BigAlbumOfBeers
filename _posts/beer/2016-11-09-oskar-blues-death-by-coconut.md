@@ -11,6 +11,6 @@ img: /img/list/oskar-blues-death-by-coconut.jpeg
 untappd: "https://untappd.com/b/oskar-blues-brewery-death-by-coconut/623963"
 country: "United States"
 brewery: "Oskar Blues Brewery"
-breweryURL: "brewery/oskar-blues-brewery.html"
+breweryURL: "/brewery/oskar-blues-brewery.html"
 style: "Porter - Other"
 ---

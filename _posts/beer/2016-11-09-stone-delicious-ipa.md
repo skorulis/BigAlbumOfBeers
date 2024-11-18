@@ -11,6 +11,6 @@ img: /img/list/stone-delicious-ipa.jpeg
 untappd: "https://untappd.com/b/stone-brewing-stone-delicious-ipa/392748"
 country: "United States"
 brewery: "Stone Brewing"
-breweryURL: "brewery/stone-brewing.html"
+breweryURL: "/brewery/stone-brewing.html"
 style: "IPA - American"
 ---

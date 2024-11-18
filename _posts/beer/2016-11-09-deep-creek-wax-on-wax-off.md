@@ -11,6 +11,6 @@ img: /img/list/deep-creek-wax-on-wax-off.jpeg
 untappd: "https://untappd.com/b/public-brewing-co--wax-on-wax-off---maku-x-deep-creek/4774988"
 country: "Australia"
 brewery: "Public Brewing Co."
-breweryURL: "brewery/public-brewing-co.html"
+breweryURL: "/brewery/public-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

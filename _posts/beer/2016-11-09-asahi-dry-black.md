@@ -11,6 +11,6 @@ img: /img/list/asahi-dry-black.jpeg
 untappd: "https://untappd.com/b/asahi-breweries-asahi-dry-black/576115"
 country: "Japan"
 brewery: "Asahi Breweries"
-breweryURL: "brewery/asahi-breweries.html"
+breweryURL: "/brewery/asahi-breweries.html"
 style: "Lager - Dark"
 ---

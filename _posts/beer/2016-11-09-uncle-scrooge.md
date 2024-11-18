@@ -11,6 +11,6 @@ img: /img/list/uncle-scrooge.jpeg
 untappd: "https://untappd.com/b/oxfordshire-ales-uncle-scrooge/258013"
 country: "England"
 brewery: "Oxfordshire Ales"
-breweryURL: "brewery/oxfordshire-ales.html"
+breweryURL: "/brewery/oxfordshire-ales.html"
 style: "Winter Ale"
 ---

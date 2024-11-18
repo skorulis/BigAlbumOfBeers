@@ -11,6 +11,6 @@ img: /img/list/dark-knight-porter-style.jpeg
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-dark-knight/13293"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
-breweryURL: "brewery/murray-s-craft-brewing-co.html"
+breweryURL: "/brewery/murray-s-craft-brewing-co.html"
 style: "Porter - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-hello-humanoid.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-rare-breed--hello-humanoid-double-ipa/3100979"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "IPA - Imperial / Double"
 ---

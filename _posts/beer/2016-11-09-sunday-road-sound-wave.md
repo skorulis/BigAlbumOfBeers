@@ -11,6 +11,6 @@ img: /img/list/sunday-road-sound-wave.jpeg
 untappd: "https://untappd.com/b/sunday-road-brewing-sunday-road-brewing-sound-wave/5599239"
 country: "Australia"
 brewery: "Sunday Road Brewing"
-breweryURL: "brewery/sunday-road-brewing.html"
+breweryURL: "/brewery/sunday-road-brewing.html"
 style: "Pale Ale - Other"
 ---

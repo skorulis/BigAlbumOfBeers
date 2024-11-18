@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-good-land.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-good-to-the-grave/4944389"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "brewery/sailors-grave-brewing.html"
+breweryURL: "/brewery/sailors-grave-brewing.html"
 style: "Farmhouse Ale - Other"
 ---

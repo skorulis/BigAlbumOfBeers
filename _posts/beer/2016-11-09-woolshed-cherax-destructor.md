@@ -11,6 +11,6 @@ img: /img/list/woolshed-cherax-destructor.jpeg
 untappd: "https://untappd.com/b/woolshed-brewery-cherax-destructor/589354"
 country: "Australia"
 brewery: "Woolshed Brewery"
-breweryURL: "brewery/woolshed-brewery.html"
+breweryURL: "/brewery/woolshed-brewery.html"
 style: "IPA - American"
 ---

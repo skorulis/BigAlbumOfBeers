@@ -11,6 +11,6 @@ img: /img/list/one-drop-re-up.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-re-up-ipa/3791039"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "IPA - American"
 ---

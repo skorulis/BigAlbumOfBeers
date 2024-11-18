@@ -11,6 +11,6 @@ img: /img/list/tool-mr-blue.jpeg
 untappd: "https://untappd.com/b/to-ol-mr--blue-2019-edition/3121290"
 country: "Denmark"
 brewery: "To Øl"
-breweryURL: "brewery/to-ol.html"
+breweryURL: "/brewery/to-ol.html"
 style: "Stout - Imperial / Double Oatmeal"
 ---

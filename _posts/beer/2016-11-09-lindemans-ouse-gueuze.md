@@ -11,6 +11,6 @@ img: /img/list/lindemans-ouse-gueuze.jpeg
 untappd: "https://untappd.com/b/brouwerij-lindemans-oude-gueuze-cuvee-rene/37623"
 country: "Belgium"
 brewery: "Brouwerij Lindemans"
-breweryURL: "brewery/brouwerij-lindemans.html"
+breweryURL: "/brewery/brouwerij-lindemans.html"
 style: "Lambic - Gueuze"
 ---

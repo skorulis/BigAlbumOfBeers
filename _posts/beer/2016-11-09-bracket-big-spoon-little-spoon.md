@@ -11,6 +11,6 @@ img: /img/list/bracket-big-spoon-little-spoon.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-big-spoon-little-spoon/5139825"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - Red"
 ---

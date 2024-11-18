@@ -11,6 +11,6 @@ img: /img/list/aegir-rallar-amber-ale.jpeg
 untappd: "https://untappd.com/b/aegir-bryggeri-rallar-amber-ale/35135"
 country: "Norway"
 brewery: "Ægir Bryggeri"
-breweryURL: "brewery/aegir-bryggeri.html"
+breweryURL: "/brewery/aegir-bryggeri.html"
 style: "Red Ale - American Amber / Red"
 ---

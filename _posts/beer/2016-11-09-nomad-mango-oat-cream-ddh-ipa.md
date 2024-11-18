@@ -11,6 +11,6 @@ img: /img/list/nomad-mango-oat-cream-ddh-ipa.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--mango-oat-cream-ddh-ipa/4087810"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "brewery/nomad-brewing-co.html"
+breweryURL: "/brewery/nomad-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

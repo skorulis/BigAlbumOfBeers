@@ -11,6 +11,6 @@ img: /img/list/golden-glory.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--golden-glory/16978"
 country: "England"
 brewery: "Badger Ales (Hall & Woodhouse)"
-breweryURL: "brewery/badger-ales--hall---woodhouse.html"
+breweryURL: "/brewery/badger-ales--hall---woodhouse.html"
 style: "Golden Ale"
 ---

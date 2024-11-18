@@ -11,6 +11,6 @@ img: /img/list/stone-coffee-milk-stout.jpeg
 untappd: "https://untappd.com/b/stone-brewing-stone-coffee-milk-stout/758603"
 country: "United States"
 brewery: "Stone Brewing"
-breweryURL: "brewery/stone-brewing.html"
+breweryURL: "/brewery/stone-brewing.html"
 style: "Stout - Milk / Sweet"
 ---

@@ -11,6 +11,6 @@ img: /img/list/ginger-beard.jpeg
 untappd: "https://untappd.com/b/wychwood-brewery-ginger-beard/179572"
 country: "England"
 brewery: "Wychwood Brewery"
-breweryURL: "brewery/wychwood-brewery.html"
+breweryURL: "/brewery/wychwood-brewery.html"
 style: "Ginger Beer"
 ---

@@ -11,6 +11,6 @@ img: /img/list/stone-and-wood-pacific-ale.jpeg
 untappd: "https://untappd.com/b/stone---wood-pacific-ale/626326"
 country: "Australia"
 brewery: "Stone & Wood"
-breweryURL: "brewery/stone---wood.html"
+breweryURL: "/brewery/stone---wood.html"
 style: "Pale Ale - Australian"
 ---

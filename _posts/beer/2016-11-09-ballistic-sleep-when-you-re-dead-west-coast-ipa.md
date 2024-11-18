@@ -11,6 +11,6 @@ img: /img/list/ballistic-sleep-when-you-re-dead-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-sleep-when-youre-dead-west-coast-ipa/4175764"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "brewery/ballistic-beer.html"
+breweryURL: "/brewery/ballistic-beer.html"
 style: "IPA - American"
 ---

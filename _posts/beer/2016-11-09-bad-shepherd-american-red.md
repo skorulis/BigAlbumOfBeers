@@ -11,6 +11,6 @@ img: /img/list/bad-shepherd-american-red.jpeg
 untappd: "https://untappd.com/b/bad-shepherd-brewing-co--american-red/4970882"
 country: "Australia"
 brewery: "Bad Shepherd Brewing Co."
-breweryURL: "brewery/bad-shepherd-brewing-co.html"
+breweryURL: "/brewery/bad-shepherd-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 ---

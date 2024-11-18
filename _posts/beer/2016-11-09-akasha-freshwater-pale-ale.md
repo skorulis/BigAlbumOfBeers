@@ -11,6 +11,6 @@ img: /img/list/akasha-freshwater-pale-ale.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--freshwater-pale-ale/989914"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "Pale Ale - American"
 ---

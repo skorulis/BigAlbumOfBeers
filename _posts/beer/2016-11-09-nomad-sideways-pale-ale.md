@@ -11,6 +11,6 @@ img: /img/list/nomad-sideways-pale-ale.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--sideways-hoppy-pale/918552"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "brewery/nomad-brewing-co.html"
+breweryURL: "/brewery/nomad-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

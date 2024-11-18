@@ -11,6 +11,6 @@ img: /img/list/paddys-ipa.jpeg
 untappd: "https://untappd.com/b/paddys-brewery-india-pale-ale/754326"
 country: "Australia"
 brewery: "Paddy's Brewery"
-breweryURL: "brewery/paddy-s-brewery.html"
+breweryURL: "/brewery/paddy-s-brewery.html"
 style: "IPA - American"
 ---

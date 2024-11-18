@@ -11,6 +11,6 @@ img: /img/list/sydney-potts-point-porter.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-potts-point-porter/64555"
 country: "Australia"
 brewery: "Sydney Brewery"
-breweryURL: "brewery/sydney-brewery.html"
+breweryURL: "/brewery/sydney-brewery.html"
 style: "Porter - Other"
 ---

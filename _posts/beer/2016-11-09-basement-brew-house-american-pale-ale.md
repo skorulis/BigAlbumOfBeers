@@ -11,6 +11,6 @@ img: /img/list/basement-brew-house-american-pale-ale.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-american-pale-ale/1793097"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "brewery/basement-brewhouse.html"
+breweryURL: "/brewery/basement-brewhouse.html"
 style: "Pale Ale - American"
 ---

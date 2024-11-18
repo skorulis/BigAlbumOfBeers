@@ -11,6 +11,6 @@ img: /img/list/trappist-achel.jpeg
 untappd: "https://untappd.com/b/brouwerij-der-sint-benedictusabdij-de-achelse-kluis-achel-8-blond/1428"
 country: "Belgium"
 brewery: "Brouwerij der Sint-Benedictusabdij de Achelse Kluis"
-breweryURL: "brewery/brouwerij-der-sint-benedictusabdij-de-achelse-kluis.html"
+breweryURL: "/brewery/brouwerij-der-sint-benedictusabdij-de-achelse-kluis.html"
 style: "Belgian Strong Golden Ale"
 ---

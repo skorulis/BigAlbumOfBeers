@@ -11,6 +11,6 @@ img: /img/list/white-bay-uniformity-of-form.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--uniformity-of-form/3856938"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "brewery/white-bay-beer-co.html"
+breweryURL: "/brewery/white-bay-beer-co.html"
 style: "IPA - American"
 ---

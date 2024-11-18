@@ -11,6 +11,6 @@ img: /img/list/newstead-two-to-the-valley.jpeg
 untappd: "https://untappd.com/b/newstead-brewing-co--two-to-the-valley/496461"
 country: "Australia"
 brewery: "Newstead Brewing Co."
-breweryURL: "brewery/newstead-brewing-co.html"
+breweryURL: "/brewery/newstead-brewing-co.html"
 style: "IPA - American"
 ---

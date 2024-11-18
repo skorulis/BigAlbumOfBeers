@@ -11,6 +11,6 @@ img: /img/list/2-halfs-blackberry-porter.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-blackberry-porter/4890949"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "brewery/2-halfs-brewing-distilling.html"
+breweryURL: "/brewery/2-halfs-brewing-distilling.html"
 style: "Porter - Other"
 ---

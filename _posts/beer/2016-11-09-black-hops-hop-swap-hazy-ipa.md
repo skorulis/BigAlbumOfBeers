@@ -11,6 +11,6 @@ img: /img/list/black-hops-hop-swap-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/black-hops-brewing-hop-swap/4497933"
 country: "Australia"
 brewery: "Black Hops Brewing"
-breweryURL: "brewery/black-hops-brewing.html"
+breweryURL: "/brewery/black-hops-brewing.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/tortured-gum-capital-pale-ale.jpeg
 untappd: "https://untappd.com/b/tortured-gum-capital-pale-ale/1320193"
 country: "Australia"
 brewery: "Tortured Gum"
-breweryURL: "brewery/tortured-gum.html"
+breweryURL: "/brewery/tortured-gum.html"
 style: "Pale Ale - Australian"
 ---

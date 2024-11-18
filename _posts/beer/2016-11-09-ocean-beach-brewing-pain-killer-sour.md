@@ -11,6 +11,6 @@ img: /img/list/ocean-beach-brewing-pain-killer-sour.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--painkiller-sour/3775850"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "brewery/ocean-reach-brewing-.html"
+breweryURL: "/brewery/ocean-reach-brewing-.html"
 style: "Sour - Fruited"
 ---

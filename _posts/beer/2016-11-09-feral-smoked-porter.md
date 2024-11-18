@@ -11,6 +11,6 @@ img: /img/list/feral-smoked-porter.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-smoked-porter/33637"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "brewery/feral-brewing-company.html"
+breweryURL: "/brewery/feral-brewing-company.html"
 style: "Smoked Beer"
 ---

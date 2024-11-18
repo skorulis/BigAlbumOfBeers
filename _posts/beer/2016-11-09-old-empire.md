@@ -11,6 +11,6 @@ img: /img/list/old-empire.jpeg
 untappd: "https://untappd.com/b/marstons-brewery-old-empire-ipa/15040"
 country: "England"
 brewery: "Marston's Brewery"
-breweryURL: "brewery/marston-s-brewery.html"
+breweryURL: "/brewery/marston-s-brewery.html"
 style: "IPA - English"
 ---

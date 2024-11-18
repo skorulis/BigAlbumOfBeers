@@ -11,6 +11,6 @@ img: /img/list/fox-friday-cool-runnings.jpeg
 untappd: "https://untappd.com/b/fox-friday-craft-brewery-cool-runnings/5123850"
 country: "Australia"
 brewery: "Fox Friday Craft Brewery"
-breweryURL: "brewery/fox-friday-craft-brewery.html"
+breweryURL: "/brewery/fox-friday-craft-brewery.html"
 style: "Pilsner - Other"
 ---

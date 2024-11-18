@@ -11,6 +11,6 @@ img: /img/list/yullis-special-batch-duesseldorf-altbier.jpeg
 untappd: "https://untappd.com/b/yullis-brews-special-batch--dusseldorf-altbier/5060340"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "brewery/yulli-s-brews.html"
+breweryURL: "/brewery/yulli-s-brews.html"
 style: "Altbier"
 ---

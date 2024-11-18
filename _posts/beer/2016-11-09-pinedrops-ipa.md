@@ -11,6 +11,6 @@ img: /img/list/pinedrops-ipa.jpeg
 untappd: "https://untappd.com/b/deschutes-brewery-pinedrops-ipa/375332"
 country: "United States"
 brewery: "Deschutes Brewery"
-breweryURL: "brewery/deschutes-brewery.html"
+breweryURL: "/brewery/deschutes-brewery.html"
 style: "IPA - American"
 ---

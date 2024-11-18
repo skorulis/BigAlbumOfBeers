@@ -11,6 +11,6 @@ img: /img/list/akasha-hop-actually.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-hop-actually/5112793"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "brewery/akasha-brewing-company.html"
+breweryURL: "/brewery/akasha-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

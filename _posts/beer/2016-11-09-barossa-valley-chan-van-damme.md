@@ -11,6 +11,6 @@ img: /img/list/barossa-valley-chan-van-damme.jpeg
 untappd: "https://untappd.com/b/barossa-valley-brewing-chan-van-damme/1743335"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "brewery/barossa-valley-brewing.html"
+breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Witbier"
 ---

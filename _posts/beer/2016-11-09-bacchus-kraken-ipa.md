@@ -11,6 +11,6 @@ img: /img/list/bacchus-kraken-ipa.jpeg
 untappd: "https://untappd.com/b/bacchus-brewing-co--kraken-ipa/800741"
 country: "Australia"
 brewery: "Bacchus Brewing Co."
-breweryURL: "brewery/bacchus-brewing-co.html"
+breweryURL: "/brewery/bacchus-brewing-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/green-beacon-imperial-pastry-stout.jpeg
 untappd: "https://untappd.com/b/green-beacon--imperial-pastry-stout-with-chocolate--strawberry---coconut/4463618"
 country: "Australia"
 brewery: "Green Beacon "
-breweryURL: "brewery/green-beacon-.html"
+breweryURL: "/brewery/green-beacon-.html"
 style: "Stout - Imperial / Double Pastry"
 ---

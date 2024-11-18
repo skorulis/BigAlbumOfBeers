@@ -11,6 +11,6 @@ img: /img/list/mouseproof-the-keeper.jpeg
 untappd: "https://untappd.com/b/mouse-proof-brewing-the-keeper/4088226"
 country: "Australia"
 brewery: "Mouse Proof Brewing"
-breweryURL: "brewery/mouse-proof-brewing.html"
+breweryURL: "/brewery/mouse-proof-brewing.html"
 style: "Farmhouse Ale - Bière de Garde"
 ---

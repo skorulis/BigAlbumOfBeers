@@ -11,6 +11,6 @@ img: /img/list/tumut-river-pale-ale.jpeg
 untappd: "https://untappd.com/b/tumut-river-brewing-co-hitchhikers-guide-to-galaxy/1979391"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
-breweryURL: "brewery/tumut-river-brewing-co.html"
+breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mad-river-red-ale.jpeg
 untappd: "https://untappd.com/b/mad-river-brewing-company-jamaica-red-ale/8289"
 country: "United States"
 brewery: "Mad River Brewing Company"
-breweryURL: "brewery/mad-river-brewing-company.html"
+breweryURL: "/brewery/mad-river-brewing-company.html"
 style: "Red Ale - American Amber / Red"
 ---

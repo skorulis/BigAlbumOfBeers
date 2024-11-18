@@ -11,6 +11,6 @@ img: /img/list/dogfish-head-indian-brown-ale.jpeg
 untappd: "https://untappd.com/b/dogfish-head-craft-brewery-indian-brown-dark-ipa/4013"
 country: "United States"
 brewery: "Dogfish Head Craft Brewery"
-breweryURL: "brewery/dogfish-head-craft-brewery.html"
+breweryURL: "/brewery/dogfish-head-craft-brewery.html"
 style: "Brown Ale - Other"
 ---

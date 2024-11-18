@@ -11,6 +11,6 @@ img: /img/list/all-hands-irish-sport-stout.jpeg
 untappd: "https://untappd.com/b/all-hands-brewing-house-irish-sport-stout/2398176"
 country: "Australia"
 brewery: "All Hands Brewing House"
-breweryURL: "brewery/all-hands-brewing-house.html"
+breweryURL: "/brewery/all-hands-brewing-house.html"
 style: "Stout - Irish Dry"
 ---

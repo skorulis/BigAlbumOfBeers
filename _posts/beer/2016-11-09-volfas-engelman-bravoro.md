@@ -11,6 +11,6 @@ img: /img/list/volfas-engelman-bravoro.jpeg
 untappd: "https://untappd.com/b/volfas-engelman-bravoro/257379"
 country: "Lithuania"
 brewery: "Volfas Engelman"
-breweryURL: "brewery/volfas-engelman.html"
+breweryURL: "/brewery/volfas-engelman.html"
 style: "Lager - Pale"
 ---

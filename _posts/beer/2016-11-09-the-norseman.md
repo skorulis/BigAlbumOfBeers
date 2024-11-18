@@ -11,6 +11,6 @@ img: /img/list/the-norseman.jpeg
 untappd: "https://untappd.com/b/ilkley-brewery-co--the-norseman/333780"
 country: "England"
 brewery: "Ilkley Brewery Co."
-breweryURL: "brewery/ilkley-brewery-co.html"
+breweryURL: "/brewery/ilkley-brewery-co.html"
 style: "Spiced / Herbed Beer"
 ---

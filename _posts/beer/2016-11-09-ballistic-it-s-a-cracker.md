@@ -11,6 +11,6 @@ img: /img/list/ballistic-it-s-a-cracker.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-its-a-cracker/4617185"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "brewery/ballistic-beer.html"
+breweryURL: "/brewery/ballistic-beer.html"
 style: "IPA - American"
 ---

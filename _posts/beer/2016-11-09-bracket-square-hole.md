@@ -11,6 +11,6 @@ img: /img/list/bracket-square-hole.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-square-hole/5152200"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - Session"
 ---

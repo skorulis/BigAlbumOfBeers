@@ -11,6 +11,6 @@ img: /img/list/bighead-no-carb-beer.jpeg
 untappd: "https://untappd.com/b/burleigh-brewing-co--bighead/14737"
 country: "Australia"
 brewery: "Burleigh Brewing Co."
-breweryURL: "brewery/burleigh-brewing-co.html"
+breweryURL: "/brewery/burleigh-brewing-co.html"
 style: "Lager - Euro"
 ---

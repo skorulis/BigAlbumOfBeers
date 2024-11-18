@@ -11,6 +11,6 @@ img: /img/list/coopers-pale-ale.jpeg
 untappd: "https://untappd.com/b/coopers-brewery-original-pale-ale/7884"
 country: "Australia"
 brewery: "Coopers Brewery"
-breweryURL: "brewery/coopers-brewery.html"
+breweryURL: "/brewery/coopers-brewery.html"
 style: "Pale Ale - Australian"
 ---

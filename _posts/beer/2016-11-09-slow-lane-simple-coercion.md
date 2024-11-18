@@ -11,6 +11,6 @@ img: /img/list/slow-lane-simple-coercion.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-simple-coercion/4444680"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "brewery/slow-lane-brewing.html"
+breweryURL: "/brewery/slow-lane-brewing.html"
 style: "Pale Ale - Australian"
 ---

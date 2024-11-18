@@ -11,6 +11,6 @@ img: /img/list/rogue-dead-guy.jpeg
 untappd: "https://untappd.com/b/rogue-ales---spirits-dead-guy-ale/4172"
 country: "United States"
 brewery: "Rogue Ales & Spirits"
-breweryURL: "brewery/rogue-ales---spirits.html"
+breweryURL: "/brewery/rogue-ales---spirits.html"
 style: "Maibock/Helles Bock"
 ---

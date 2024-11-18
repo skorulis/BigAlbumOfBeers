@@ -11,6 +11,6 @@ img: /img/list/christiania-bombay.jpeg
 untappd: "https://untappd.com/b/christiania-bryghus-bombay/3390587"
 country: "Denmark"
 brewery: "Christiania Bryghus"
-breweryURL: "brewery/christiania-bryghus.html"
+breweryURL: "/brewery/christiania-bryghus.html"
 style: "IPA - American"
 ---

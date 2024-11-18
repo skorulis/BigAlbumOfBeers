@@ -11,6 +11,6 @@ img: /img/list/hop-nation-st-nick-s-nightcap.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-st-nicks-nightcap/4613363"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "brewery/hop-nation-brewing-co.html"
+breweryURL: "/brewery/hop-nation-brewing-co.html"
 style: "Pilsner - German"
 ---

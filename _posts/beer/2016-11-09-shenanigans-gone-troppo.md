@@ -11,6 +11,6 @@ img: /img/list/shenanigans-gone-troppo.jpeg
 untappd: "https://untappd.com/b/shenanigans-brewing-co--gone-troppo/1862427"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "brewery/shenanigans-brewing-co.html"
+breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/redback-beer.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-redback-original/2615"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "brewery/matilda-bay-brewing-company.html"
+breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Kristallweizen "
 ---

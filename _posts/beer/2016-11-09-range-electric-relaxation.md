@@ -11,6 +11,6 @@ img: /img/list/range-electric-relaxation.jpeg
 untappd: "https://untappd.com/b/range-brewing-electric-relaxation/5111521"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "brewery/range-brewing.html"
+breweryURL: "/brewery/range-brewing.html"
 style: "IPA - Milkshake"
 ---

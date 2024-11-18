@@ -11,6 +11,6 @@ img: /img/list/2-halfs-centennial-pale.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-centennial-pale/4294286"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "brewery/2-halfs-brewing-distilling.html"
+breweryURL: "/brewery/2-halfs-brewing-distilling.html"
 style: "Pale Ale - American"
 ---

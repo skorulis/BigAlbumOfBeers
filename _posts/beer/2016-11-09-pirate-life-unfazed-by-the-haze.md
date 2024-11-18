@@ -11,6 +11,6 @@ img: /img/list/pirate-life-unfazed-by-the-haze.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-unfazed-by-the-haze/2531082"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "IPA - New England"
 ---

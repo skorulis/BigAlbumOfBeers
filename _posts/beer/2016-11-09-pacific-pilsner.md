@@ -11,6 +11,6 @@ img: /img/list/pacific-pilsner.jpeg
 untappd: "https://untappd.com/b/pacific-western-brewing-pacific-pilsner/26806"
 country: "Canada"
 brewery: "Pacific Western Brewing"
-breweryURL: "brewery/pacific-western-brewing.html"
+breweryURL: "/brewery/pacific-western-brewing.html"
 style: "Lager - North American Adjunct"
 ---

@@ -11,6 +11,6 @@ img: /img/list/atomic-pale-ale.jpeg
 untappd: "https://untappd.com/b/atomic-beer-project-pale-ale/3933307"
 country: "Australia"
 brewery: "Atomic Beer Project"
-breweryURL: "brewery/atomic-beer-project.html"
+breweryURL: "/brewery/atomic-beer-project.html"
 style: "Pale Ale - International"
 ---

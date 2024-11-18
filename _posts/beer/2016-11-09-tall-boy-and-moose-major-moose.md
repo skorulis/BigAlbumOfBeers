@@ -11,6 +11,6 @@ img: /img/list/tall-boy-and-moose-major-moose.jpeg
 untappd: "https://untappd.com/b/tallboy-and-moose-major-moose/3844034"
 country: "Australia"
 brewery: "Tallboy And Moose"
-breweryURL: "brewery/tallboy-and-moose.html"
+breweryURL: "/brewery/tallboy-and-moose.html"
 style: "Brown Ale - Other"
 ---

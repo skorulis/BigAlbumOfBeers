@@ -11,6 +11,6 @@ img: /img/list/iron-house-day-tripper.jpeg
 untappd: "https://untappd.com/b/iron-house-brewery--day-tripper/2205722"
 country: "Australia"
 brewery: "Iron House Brewery "
-breweryURL: "brewery/iron-house-brewery-.html"
+breweryURL: "/brewery/iron-house-brewery-.html"
 style: "Lager - American Light"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pride-of-oxford.jpeg
 untappd: "https://untappd.com/b/oxfordshire-ales-pride-of-oxford/45175"
 country: "England"
 brewery: "Oxfordshire Ales"
-breweryURL: "brewery/oxfordshire-ales.html"
+breweryURL: "/brewery/oxfordshire-ales.html"
 style: "Golden Ale"
 ---

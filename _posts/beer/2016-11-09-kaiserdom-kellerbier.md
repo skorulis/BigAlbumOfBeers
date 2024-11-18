@@ -11,6 +11,6 @@ img: /img/list/kaiserdom-kellerbier.jpeg
 untappd: "https://untappd.com/b/privatbrauerei-kaiserdom-kellerbier/1658"
 country: "Germany"
 brewery: "Privatbrauerei Kaiserdom"
-breweryURL: "brewery/privatbrauerei-kaiserdom.html"
+breweryURL: "/brewery/privatbrauerei-kaiserdom.html"
 style: "Kellerbier / Zwickelbier"
 ---

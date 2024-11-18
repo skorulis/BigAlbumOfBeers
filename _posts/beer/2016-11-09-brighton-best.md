@@ -11,6 +11,6 @@ img: /img/list/brighton-best.jpeg
 untappd: "https://untappd.com/b/king-beer-brighton-best/44566"
 country: "England"
 brewery: "King Beer"
-breweryURL: "brewery/king-beer.html"
+breweryURL: "/brewery/king-beer.html"
 style: "English Bitter"
 ---

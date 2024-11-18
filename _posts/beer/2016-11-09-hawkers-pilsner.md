@@ -11,6 +11,6 @@ img: /img/list/hawkers-pilsner.jpeg
 untappd: "https://untappd.com/b/hawkers-beer-hawkers-beer-pilsner/3387459"
 country: "Australia"
 brewery: "Hawkers Beer"
-breweryURL: "brewery/hawkers-beer.html"
+breweryURL: "/brewery/hawkers-beer.html"
 style: "Pilsner - German"
 ---

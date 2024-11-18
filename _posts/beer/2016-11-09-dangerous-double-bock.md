@@ -11,6 +11,6 @@ img: /img/list/dangerous-double-bock.jpeg
 untappd: "https://untappd.com/b/dangerous-ales-double-bock/5299828"
 country: "Australia"
 brewery: "Dangerous Ales"
-breweryURL: "brewery/dangerous-ales.html"
+breweryURL: "/brewery/dangerous-ales.html"
 style: "Bock - Doppelbock"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mornington-jiffy-squid.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-jiffy-squid/1988193"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "brewery/mornington-peninsula-brewery.html"
+breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "IPA - New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/desperados.jpeg
 untappd: "https://untappd.com/b/desperados-nl-desperados-original/5997"
 country: "France"
 brewery: "Desperados NL"
-breweryURL: "brewery/desperados-nl.html"
+breweryURL: "/brewery/desperados-nl.html"
 style: "Lager - Pale"
 ---

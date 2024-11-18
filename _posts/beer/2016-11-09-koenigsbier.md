@@ -11,6 +11,6 @@ img: /img/list/koenigsbier.jpeg
 untappd: "https://untappd.com/b/karlsberg-brauerei-koenigsbier/220958"
 country: "Germany"
 brewery: "Karlsberg Brauerei"
-breweryURL: "brewery/karlsberg-brauerei.html"
+breweryURL: "/brewery/karlsberg-brauerei.html"
 style: "Lager - Pale"
 ---

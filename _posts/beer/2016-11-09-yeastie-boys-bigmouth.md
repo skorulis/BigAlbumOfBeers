@@ -11,6 +11,6 @@ img: /img/list/yeastie-boys-bigmouth.jpeg
 untappd: "https://untappd.com/b/yeastie-boys-bigmouth/1787492"
 country: "New Zealand"
 brewery: "Yeastie Boys"
-breweryURL: "brewery/yeastie-boys.html"
+breweryURL: "/brewery/yeastie-boys.html"
 style: "IPA - Session / India Session Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/kaiju--hopped-out-red.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-kaiju-hopped-out-red/486392"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "brewery/kaiju--beer.html"
+breweryURL: "/brewery/kaiju--beer.html"
 style: "Red Ale - American Amber / Red"
 ---

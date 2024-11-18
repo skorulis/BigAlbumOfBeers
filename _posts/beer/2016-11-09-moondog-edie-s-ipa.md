@@ -11,6 +11,6 @@ img: /img/list/moondog-edie-s-ipa.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-edies-ipa/3147869"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "brewery/moon-dog-craft-brewery.html"
+breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "IPA - American"
 ---

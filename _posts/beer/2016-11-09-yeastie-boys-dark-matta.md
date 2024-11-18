@@ -11,6 +11,6 @@ img: /img/list/yeastie-boys-dark-matta.jpeg
 untappd: "https://untappd.com/b/yeastie-boys-pkb-remix-2015--dark-matta-/1181501"
 country: "New Zealand"
 brewery: "Yeastie Boys"
-breweryURL: "brewery/yeastie-boys.html"
+breweryURL: "/brewery/yeastie-boys.html"
 style: "Porter - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hop-nation-pura-vida.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-pura-vida/5011226"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "brewery/hop-nation-brewing-co.html"
+breweryURL: "/brewery/hop-nation-brewing-co.html"
 style: "Sour - Smoothie / Pastry"
 ---

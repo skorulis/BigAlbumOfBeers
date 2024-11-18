@@ -11,6 +11,6 @@ img: /img/list/white-bay-optimum-engagement.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--optimum-engagement/5297820"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "brewery/white-bay-beer-co.html"
+breweryURL: "/brewery/white-bay-beer-co.html"
 style: "Lager - Amber / Red"
 ---

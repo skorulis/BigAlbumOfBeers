@@ -11,6 +11,6 @@ img: /img/list/samuel-smieth-organic-lager.jpeg
 untappd: "https://untappd.com/b/samuel-smiths-old-brewery-pure-brewed-organic-lager/23958"
 country: "England"
 brewery: "Samuel Smith's Old Brewery"
-breweryURL: "brewery/samuel-smith-s-old-brewery.html"
+breweryURL: "/brewery/samuel-smith-s-old-brewery.html"
 style: "Lager - Pale"
 ---

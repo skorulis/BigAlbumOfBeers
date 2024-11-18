@@ -11,6 +11,6 @@ img: /img/list/brew-cult-hop-zone.jpeg
 untappd: "https://untappd.com/b/brewcult-hop-zone-session-ipa/355655"
 country: "Australia"
 brewery: "BrewCult"
-breweryURL: "brewery/brewcult.html"
+breweryURL: "/brewery/brewcult.html"
 style: "IPA - Session / India Session Ale"
 ---

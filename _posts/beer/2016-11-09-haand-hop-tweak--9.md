@@ -11,6 +11,6 @@ img: /img/list/haand-hop-tweak--9.jpeg
 untappd: "https://untappd.com/b/haandbryggeriet-hop-tweak-9/5423622"
 country: "Norway"
 brewery: "HaandBryggeriet"
-breweryURL: "brewery/haandbryggeriet.html"
+breweryURL: "/brewery/haandbryggeriet.html"
 style: "IPA - Triple New England / Hazy"
 ---

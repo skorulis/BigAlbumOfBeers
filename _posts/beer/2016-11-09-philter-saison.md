@@ -11,6 +11,6 @@ img: /img/list/philter-saison.jpeg
 untappd: "https://untappd.com/b/philter-brewing-saison/4256774"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "brewery/philter-brewing.html"
+breweryURL: "/brewery/philter-brewing.html"
 style: "Farmhouse Ale - Saison"
 ---

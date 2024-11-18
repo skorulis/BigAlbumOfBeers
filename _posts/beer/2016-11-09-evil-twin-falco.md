@@ -11,6 +11,6 @@ img: /img/list/evil-twin-falco.jpeg
 untappd: "https://untappd.com/b/evil-twin-brewing-falco/318741"
 country: "United States"
 brewery: "Evil Twin Brewing"
-breweryURL: "brewery/evil-twin-brewing.html"
+breweryURL: "/brewery/evil-twin-brewing.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/meantime-pale-ale.jpeg
 untappd: "https://untappd.com/b/meantime-brewing-company-london-pale-ale/12332"
 country: "England"
 brewery: "Meantime Brewing Company"
-breweryURL: "brewery/meantime-brewing-company.html"
+breweryURL: "/brewery/meantime-brewing-company.html"
 style: "Pale Ale - English"
 ---

@@ -11,6 +11,6 @@ img: /img/list/rover-henty-st-ale.jpeg
 untappd: "https://untappd.com/b/rover-beer-henty-st-ale/2415039"
 country: "Australia"
 brewery: "Rover Beer"
-breweryURL: "brewery/rover-beer.html"
+breweryURL: "/brewery/rover-beer.html"
 style: "Pale Ale - International"
 ---

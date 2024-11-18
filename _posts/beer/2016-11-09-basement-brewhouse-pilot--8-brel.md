@@ -11,6 +11,6 @@ img: /img/list/basement-brewhouse-pilot--8-brel.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-pilot-008-brel/3125782"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "brewery/basement-brewhouse.html"
+breweryURL: "/brewery/basement-brewhouse.html"
 style: "Witbier"
 ---

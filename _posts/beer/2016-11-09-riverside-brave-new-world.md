@@ -11,6 +11,6 @@ img: /img/list/riverside-brave-new-world.jpeg
 untappd: "https://untappd.com/b/riverside-brewing-company-brave-new-world/3855030"
 country: "Australia"
 brewery: "Riverside Brewing Company"
-breweryURL: "brewery/riverside-brewing-company.html"
+breweryURL: "/brewery/riverside-brewing-company.html"
 style: "Pilsner - Czech"
 ---

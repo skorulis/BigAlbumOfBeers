@@ -11,6 +11,6 @@ img: /img/list/innes---gunn-fired-oak-scotch-ale.jpeg
 untappd: "https://untappd.com/b/innis---gunn-fired-oak-scotch-ale/1506367"
 country: "Scotland"
 brewery: "Innis & Gunn"
-breweryURL: "brewery/innis---gunn.html"
+breweryURL: "/brewery/innis---gunn.html"
 style: "Scotch Ale / Wee Heavy"
 ---

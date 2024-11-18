@@ -11,6 +11,6 @@ img: /img/list/sainte-etienne.jpeg
 untappd: "https://untappd.com/b/inbev-france-sainte-etienne/1243185"
 country: "France"
 brewery: "Inbev France"
-breweryURL: "brewery/inbev-france.html"
+breweryURL: "/brewery/inbev-france.html"
 style: "Lager - Euro"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brick-lane-revolver.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--revolver-dark-hoppy-ale/3865637"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "brewery/brick-lane-brewing-co.html"
+breweryURL: "/brewery/brick-lane-brewing-co.html"
 style: "Dark Ale"
 ---

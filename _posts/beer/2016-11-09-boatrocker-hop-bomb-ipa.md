@@ -11,6 +11,6 @@ img: /img/list/boatrocker-hop-bomb-ipa.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewing-company-hop-bomb-ipa/363408"
 country: "Australia"
 brewery: "Boatrocker Brewing Company"
-breweryURL: "brewery/boatrocker-brewing-company.html"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "IPA - American"
 ---

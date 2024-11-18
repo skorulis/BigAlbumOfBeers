@@ -11,6 +11,6 @@ img: /img/list/blackmans-single-hop-cryo.jpeg
 untappd: "https://untappd.com/b/blackmans-brewery-single-hop-cryo-pale-hbc-586/5112821"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "brewery/blackman-s-brewery.html"
+breweryURL: "/brewery/blackman-s-brewery.html"
 style: "Pale Ale - Other"
 ---

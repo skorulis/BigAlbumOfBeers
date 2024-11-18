@@ -11,6 +11,6 @@ img: /img/list/co-conspirators-the-illusive-man.jpeg
 untappd: "https://untappd.com/b/co-conspirators-brewing-company-the-illusive-man/5111410"
 country: "Australia"
 brewery: "Co-Conspirators Brewing Company"
-breweryURL: "brewery/co-conspirators-brewing-company.html"
+breweryURL: "/brewery/co-conspirators-brewing-company.html"
 style: "Pilsner - Imperial / Double"
 ---

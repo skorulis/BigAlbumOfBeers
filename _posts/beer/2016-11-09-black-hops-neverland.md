@@ -11,6 +11,6 @@ img: /img/list/black-hops-neverland.jpeg
 untappd: "https://untappd.com/b/black-hops-brewing-neverland/3884591"
 country: "Australia"
 brewery: "Black Hops Brewing"
-breweryURL: "brewery/black-hops-brewing.html"
+breweryURL: "/brewery/black-hops-brewing.html"
 style: "IPA - Imperial / Double"
 ---

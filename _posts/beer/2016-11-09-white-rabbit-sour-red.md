@@ -11,6 +11,6 @@ img: /img/list/white-rabbit-sour-red.jpeg
 untappd: "https://untappd.com/b/white-rabbit-sour-red/1779965"
 country: "Australia"
 brewery: "White Rabbit"
-breweryURL: "brewery/white-rabbit.html"
+breweryURL: "/brewery/white-rabbit.html"
 style: "Sour - Flanders Red Ale"
 ---

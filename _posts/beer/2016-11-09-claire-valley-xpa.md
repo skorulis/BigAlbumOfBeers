@@ -11,6 +11,6 @@ img: /img/list/claire-valley-xpa.jpeg
 untappd: "https://untappd.com/b/clare-valley-brewing-co--cvbc-xpa/2535445"
 country: "Australia"
 brewery: "Clare Valley Brewing Co."
-breweryURL: "brewery/clare-valley-brewing-co.html"
+breweryURL: "/brewery/clare-valley-brewing-co.html"
 style: "Pale Ale - International"
 ---

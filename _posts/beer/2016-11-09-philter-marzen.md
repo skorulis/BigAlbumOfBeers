@@ -11,6 +11,6 @@ img: /img/list/philter-marzen.jpeg
 untappd: "https://untappd.com/b/philter-brewing-marzen-bier/5044567"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "brewery/philter-brewing.html"
+breweryURL: "/brewery/philter-brewing.html"
 style: "Märzen"
 ---

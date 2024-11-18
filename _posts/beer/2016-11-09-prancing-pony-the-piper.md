@@ -11,6 +11,6 @@ img: /img/list/prancing-pony-the-piper.jpeg
 untappd: "https://untappd.com/b/prancing-pony-brewery-the-piper---west-coast-ipa/3191677"
 country: "Australia"
 brewery: "Prancing Pony Brewery"
-breweryURL: "brewery/prancing-pony-brewery.html"
+breweryURL: "/brewery/prancing-pony-brewery.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/rocks-x-quiz-meisters-nut-it-out.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-rocks-brewing-co-nut-it-out-walnut-coffee-and-ginseng-pastry-stout-special-release-in-collaboration-with-quiz-meisters/5808536"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "brewery/rocks-brewing-co.html"
+breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Stout - Pastry"
 ---

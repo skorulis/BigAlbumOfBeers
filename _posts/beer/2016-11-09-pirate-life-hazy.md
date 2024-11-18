@@ -11,6 +11,6 @@ img: /img/list/pirate-life-hazy.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-hazy-ipa/3948075"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "IPA - New England / Hazy"
 ---

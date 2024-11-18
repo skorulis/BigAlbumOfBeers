@@ -11,6 +11,6 @@ img: /img/list/grifter-tavern-ale.jpeg
 untappd: "https://untappd.com/b/grifter-brewing-company-molochs-tavern-ale/2005115"
 country: "Australia"
 brewery: "Grifter Brewing Company"
-breweryURL: "brewery/grifter-brewing-company.html"
+breweryURL: "/brewery/grifter-brewing-company.html"
 style: "English Bitter"
 ---

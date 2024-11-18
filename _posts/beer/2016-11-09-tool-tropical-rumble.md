@@ -11,6 +11,6 @@ img: /img/list/tool-tropical-rumble.jpeg
 untappd: "https://untappd.com/b/to-ol-tropical-rumble/2063261"
 country: "Denmark"
 brewery: "To Øl"
-breweryURL: "brewery/to-ol.html"
+breweryURL: "/brewery/to-ol.html"
 style: "IPA - Session / India Session Ale"
 ---

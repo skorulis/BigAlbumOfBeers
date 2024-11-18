@@ -11,6 +11,6 @@ img: /img/list/philter-red-session-ale.jpeg
 untappd: "https://untappd.com/b/philter-brewing-red/2158672"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "brewery/philter-brewing.html"
+breweryURL: "/brewery/philter-brewing.html"
 style: "Red Ale - Other"
 ---

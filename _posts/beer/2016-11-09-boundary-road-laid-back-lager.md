@@ -11,6 +11,6 @@ img: /img/list/boundary-road-laid-back-lager.jpeg
 untappd: "https://untappd.com/b/boundary-road-brewery-laid-back-lager/4565377"
 country: "New Zealand"
 brewery: "Boundary Road Brewery"
-breweryURL: "brewery/boundary-road-brewery.html"
+breweryURL: "/brewery/boundary-road-brewery.html"
 style: "Lager - Pale"
 ---

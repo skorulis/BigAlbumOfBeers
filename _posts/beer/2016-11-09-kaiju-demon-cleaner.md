@@ -11,6 +11,6 @@ img: /img/list/kaiju-demon-cleaner.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-kaiju-demon-cleaner-west-coast-ipa--mutation-program-005-/3783334"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "brewery/kaiju--beer.html"
+breweryURL: "/brewery/kaiju--beer.html"
 style: "IPA - American"
 ---

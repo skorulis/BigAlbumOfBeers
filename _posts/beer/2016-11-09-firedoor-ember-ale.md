@@ -11,6 +11,6 @@ img: /img/list/firedoor-ember-ale.jpeg
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-lord-nelson-x-firedoor-ember-ale/4196502"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
-breweryURL: "brewery/the-lord-nelson-brewery-hotel.html"
+breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Pale Ale - Australian"
 ---

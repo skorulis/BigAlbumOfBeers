@@ -11,6 +11,6 @@ img: /img/list/young-s-double-chocolate-stout.jpeg
 untappd: "https://untappd.com/b/charles-wells-brewery-youngs-double-chocolate-stout/130571"
 country: "England"
 brewery: "Charles Wells Brewery"
-breweryURL: "brewery/charles-wells-brewery.html"
+breweryURL: "/brewery/charles-wells-brewery.html"
 style: "Stout - Milk / Sweet"
 ---

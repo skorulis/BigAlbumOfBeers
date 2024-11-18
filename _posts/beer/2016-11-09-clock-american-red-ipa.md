@@ -11,6 +11,6 @@ img: /img/list/clock-american-red-ipa.jpeg
 untappd: "https://untappd.com/b/pivovar-clock-twist/753375"
 country: "Czech Republic"
 brewery: "Pivovar Clock"
-breweryURL: "brewery/pivovar-clock.html"
+breweryURL: "/brewery/pivovar-clock.html"
 style: "IPA - Red"
 ---

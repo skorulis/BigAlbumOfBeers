@@ -11,6 +11,6 @@ img: /img/list/stone-and-wood-east-point.jpeg
 untappd: "https://untappd.com/b/stone---wood-east-point/3997667"
 country: "Australia"
 brewery: "Stone & Wood"
-breweryURL: "brewery/stone---wood.html"
+breweryURL: "/brewery/stone---wood.html"
 style: "Sour - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brick-lane-pale.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--one-love-pale-ale/2857493"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "brewery/brick-lane-brewing-co.html"
+breweryURL: "/brewery/brick-lane-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

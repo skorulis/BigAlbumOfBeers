@@ -11,6 +11,6 @@ img: /img/list/one-drop-bitter-and-black.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-bitter---black-ipa/3991274"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

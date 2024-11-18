@@ -11,6 +11,6 @@ img: /img/list/yoyogi-honey-cream-ale.jpeg
 untappd: "https://untappd.com/b/yoyogi-honey-cream-ale/1823166"
 country: "Australia"
 brewery: "Yoyogi"
-breweryURL: "brewery/yoyogi.html"
+breweryURL: "/brewery/yoyogi.html"
 style: "Honey Beer"
 ---

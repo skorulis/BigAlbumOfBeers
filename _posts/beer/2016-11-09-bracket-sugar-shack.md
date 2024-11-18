@@ -11,6 +11,6 @@ img: /img/list/bracket-sugar-shack.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-sugar-shack/4959323"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Stout - Imperial / Double"
 ---

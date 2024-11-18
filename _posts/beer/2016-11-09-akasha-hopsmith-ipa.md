@@ -11,6 +11,6 @@ img: /img/list/akasha-hopsmith-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--hopsmith-ipa/989913"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "IPA - American"
 ---

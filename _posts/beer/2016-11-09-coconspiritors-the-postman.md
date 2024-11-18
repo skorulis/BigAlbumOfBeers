@@ -11,6 +11,6 @@ img: /img/list/coconspiritors-the-postman.jpeg
 untappd: "https://untappd.com/b/coconspirators-brewing-company-the-postman/3862398"
 country: "Australia"
 brewery: "CoConspirators Brewing Company"
-breweryURL: "brewery/coconspirators-brewing-company.html"
+breweryURL: "/brewery/coconspirators-brewing-company.html"
 style: "IPA - American"
 ---

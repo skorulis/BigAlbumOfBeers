@@ -11,6 +11,6 @@ img: /img/list/bacchus-jaffacake-ale.jpeg
 untappd: "https://untappd.com/b/bacchus-brewing-co--jaffacake-ale/1282714"
 country: "Australia"
 brewery: "Bacchus Brewing Co."
-breweryURL: "brewery/bacchus-brewing-co.html"
+breweryURL: "/brewery/bacchus-brewing-co.html"
 style: "Other"
 ---

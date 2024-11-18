@@ -11,6 +11,6 @@ img: /img/list/bracket-on-the-fence.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-on-the-fence/4506092"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - American"
 ---

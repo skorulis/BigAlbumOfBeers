@@ -11,6 +11,6 @@ img: /img/list/obrien-pale-ale.jpeg
 untappd: "https://untappd.com/b/rebellion-brewery-obrien-pale-ale/246328"
 country: "Australia"
 brewery: "Rebellion Brewery"
-breweryURL: "brewery/rebellion-brewery.html"
+breweryURL: "/brewery/rebellion-brewery.html"
 style: "Gluten-Free"
 ---

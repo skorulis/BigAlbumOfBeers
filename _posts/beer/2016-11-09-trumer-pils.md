@@ -11,6 +11,6 @@ img: /img/list/trumer-pils.jpeg
 untappd: "https://untappd.com/b/trumer-trumer-pils/7025"
 country: "Austria"
 brewery: "Trumer"
-breweryURL: "brewery/trumer.html"
+breweryURL: "/brewery/trumer.html"
 style: "Pilsner - German"
 ---

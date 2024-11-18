@@ -11,6 +11,6 @@ img: /img/list/monteith-s-phoenix-ipa.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---phoenix/2792763"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "brewery/monteith-s-brewing-co--.html"
+breweryURL: "/brewery/monteith-s-brewing-co--.html"
 style: "IPA - English"
 ---

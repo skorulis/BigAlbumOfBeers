@@ -11,6 +11,6 @@ img: /img/list/akasha-summer-splice.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-summer-slice-watermelon-ipa/4622180"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "brewery/akasha-brewing-company.html"
+breweryURL: "/brewery/akasha-brewing-company.html"
 style: "IPA - American"
 ---

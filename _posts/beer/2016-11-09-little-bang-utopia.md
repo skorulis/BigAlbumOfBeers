@@ -11,6 +11,6 @@ img: /img/list/little-bang-utopia.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-little-bang-brewing-co-utopia/5608455"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "brewery/little-bang-brewing-co.html"
+breweryURL: "/brewery/little-bang-brewing-co.html"
 style: "Pale Ale - American"
 ---

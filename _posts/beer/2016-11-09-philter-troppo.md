@@ -11,6 +11,6 @@ img: /img/list/philter-troppo.jpeg
 untappd: "https://untappd.com/b/philter-brewing-troppo---tropical-ipa/3661095"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "brewery/philter-brewing.html"
+breweryURL: "/brewery/philter-brewing.html"
 style: "IPA - International"
 ---

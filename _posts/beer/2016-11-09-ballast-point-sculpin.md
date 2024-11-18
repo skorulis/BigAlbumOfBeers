@@ -11,6 +11,6 @@ img: /img/list/ballast-point-sculpin.jpeg
 untappd: "https://untappd.com/b/ballast-point-brewing-company-sculpin/5558"
 country: "United States"
 brewery: "Ballast Point Brewing Company"
-breweryURL: "brewery/ballast-point-brewing-company.html"
+breweryURL: "/brewery/ballast-point-brewing-company.html"
 style: "IPA - American"
 ---

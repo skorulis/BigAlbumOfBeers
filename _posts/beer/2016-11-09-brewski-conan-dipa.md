@@ -11,6 +11,6 @@ img: /img/list/brewski-conan-dipa.jpeg
 untappd: "https://untappd.com/b/brewski-conan-dipa/1757121"
 country: "Sweden"
 brewery: "Brewski"
-breweryURL: "brewery/brewski.html"
+breweryURL: "/brewery/brewski.html"
 style: "IPA - Imperial / Double"
 ---

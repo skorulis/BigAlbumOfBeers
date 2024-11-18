@@ -11,6 +11,6 @@ img: /img/list/oettinger-pils.jpeg
 untappd: "https://untappd.com/b/oettinger-brauerei-oettinger-pils/24101"
 country: "Germany"
 brewery: "Oettinger Brauerei"
-breweryURL: "brewery/oettinger-brauerei.html"
+breweryURL: "/brewery/oettinger-brauerei.html"
 style: "Pilsner - German"
 ---

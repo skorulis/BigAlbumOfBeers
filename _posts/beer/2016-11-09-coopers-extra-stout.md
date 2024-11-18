@@ -11,6 +11,6 @@ img: /img/list/coopers-extra-stout.jpeg
 untappd: "https://untappd.com/b/coopers-brewery-best-extra-stout/4933"
 country: "Australia"
 brewery: "Coopers Brewery"
-breweryURL: "brewery/coopers-brewery.html"
+breweryURL: "/brewery/coopers-brewery.html"
 style: "Stout - Foreign / Export"
 ---

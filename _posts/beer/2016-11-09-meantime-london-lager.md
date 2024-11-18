@@ -11,6 +11,6 @@ img: /img/list/meantime-london-lager.jpeg
 untappd: "https://untappd.com/b/meantime-brewing-company-london-lager/42347"
 country: "England"
 brewery: "Meantime Brewing Company"
-breweryURL: "brewery/meantime-brewing-company.html"
+breweryURL: "/brewery/meantime-brewing-company.html"
 style: "Lager - Pale"
 ---

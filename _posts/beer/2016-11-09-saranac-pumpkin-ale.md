@@ -11,6 +11,6 @@ img: /img/list/saranac-pumpkin-ale.jpeg
 untappd: "https://untappd.com/b/the-matt-brewing-company--saranac--saranac-pumpkin-ale/4607"
 country: "United States"
 brewery: "The Matt Brewing Company (Saranac)"
-breweryURL: "brewery/the-matt-brewing-company--saranac.html"
+breweryURL: "/brewery/the-matt-brewing-company--saranac.html"
 style: "Pumpkin / Yam Beer"
 ---

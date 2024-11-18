@@ -11,6 +11,6 @@ img: /img/list/one-drop-ddh-oat-cream-ipa.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-ddh-oat-cream-ipa--v1/3922136"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "IPA - New England"
 ---

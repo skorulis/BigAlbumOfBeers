@@ -11,6 +11,6 @@ img: /img/list/big-smoke-wet-hop-ipa.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-bull-in-the-big-smoke/1055407"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "brewery/holgate-brewhouse.html"
+breweryURL: "/brewery/holgate-brewhouse.html"
 style: "IPA - American"
 ---

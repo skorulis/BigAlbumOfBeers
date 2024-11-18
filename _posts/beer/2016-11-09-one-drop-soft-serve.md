@@ -11,6 +11,6 @@ img: /img/list/one-drop-soft-serve.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-chubby-soft-serve/4322208"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "Stout - Other"
 ---

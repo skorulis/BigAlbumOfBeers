@@ -11,6 +11,6 @@ img: /img/list/frydenlund-gyllen-ipa.jpeg
 untappd: "https://untappd.com/b/frydenlund-bryggerier-frydenlund-gyllen-ipa/5223650"
 country: "Norway"
 brewery: "Frydenlund Bryggerier"
-breweryURL: "brewery/frydenlund-bryggerier.html"
+breweryURL: "/brewery/frydenlund-bryggerier.html"
 style: "IPA - Session"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hawkes-el-dorado-xpa.jpeg
 untappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-el-dorado-xpa/4776323"
 country: "Australia"
 brewery: "Hawke's Brewing Co. "
-breweryURL: "brewery/hawke-s-brewing-co--.html"
+breweryURL: "/brewery/hawke-s-brewing-co--.html"
 style: "Pale Ale - XPA (Extra Pale)"
 ---

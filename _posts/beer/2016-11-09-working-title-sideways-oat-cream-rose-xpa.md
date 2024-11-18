@@ -11,6 +11,6 @@ img: /img/list/working-title-sideways-oat-cream-rose-xpa.jpeg
 untappd: "https://untappd.com/b/working-title-brew-co-sideways/4328416"
 country: "Australia"
 brewery: "Working Title Brew Co"
-breweryURL: "brewery/working-title-brew-co.html"
+breweryURL: "/brewery/working-title-brew-co.html"
 style: "Sour - Other"
 ---

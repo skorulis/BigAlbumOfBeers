@@ -11,6 +11,6 @@ img: /img/list/altitude-singletrack-mind.jpeg
 untappd: "https://untappd.com/b/altitude-brewing-altitude-brewing-singletrack-mind/1304086"
 country: "New Zealand"
 brewery: "Altitude Brewing"
-breweryURL: "brewery/altitude-brewing.html"
+breweryURL: "/brewery/altitude-brewing.html"
 style: "IPA - Red"
 ---

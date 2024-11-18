@@ -11,6 +11,6 @@ img: /img/list/kingfisher.jpeg
 untappd: "https://untappd.com/b/united-breweries--india--kingfisher-premium-lager/17377"
 country: "India"
 brewery: "United Breweries (India)"
-breweryURL: "brewery/united-breweries--india.html"
+breweryURL: "/brewery/united-breweries--india.html"
 style: "Lager - North American Adjunct"
 ---

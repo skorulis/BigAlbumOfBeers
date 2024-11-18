@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-embers-red-ipa.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-embers/3844419"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "brewery/sailors-grave-brewing.html"
+breweryURL: "/brewery/sailors-grave-brewing.html"
 style: "IPA - Red"
 ---

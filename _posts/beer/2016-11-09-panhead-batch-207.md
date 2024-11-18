@@ -11,6 +11,6 @@ img: /img/list/panhead-batch-207.jpeg
 untappd: "https://untappd.com/b/panhead-custom-ales-batch-207---sabro---mosaic-ale/4949511"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
-breweryURL: "brewery/panhead-custom-ales.html"
+breweryURL: "/brewery/panhead-custom-ales.html"
 style: "Cream Ale"
 ---

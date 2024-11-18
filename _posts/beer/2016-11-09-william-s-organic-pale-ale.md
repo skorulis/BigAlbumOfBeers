@@ -11,6 +11,6 @@ img: /img/list/william-s-organic-pale-ale.jpeg
 untappd: "https://untappd.com/b/william-bull-brewery-williams-organic-pale-ale/7709"
 country: "Australia"
 brewery: "William Bull Brewery"
-breweryURL: "brewery/william-bull-brewery.html"
+breweryURL: "/brewery/william-bull-brewery.html"
 style: "Pale Ale - Australian"
 ---

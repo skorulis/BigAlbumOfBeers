@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-eudaimonia.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--eudaimonia/3765713"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "brewery/mountain-culture-beer-co.html"
+breweryURL: "/brewery/mountain-culture-beer-co.html"
 style: "Stout - Russian Imperial"
 ---

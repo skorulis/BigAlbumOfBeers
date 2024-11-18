@@ -11,6 +11,6 @@ img: /img/list/other-half-tdh-triple-cream.jpeg
 untappd: "https://untappd.com/b/other-half-brewing-co-other-half-brewing-co-tdh-triple-cream/2278450"
 country: "United States"
 brewery: "Other Half Brewing Co."
-breweryURL: "brewery/other-half-brewing-co.html"
+breweryURL: "/brewery/other-half-brewing-co.html"
 style: "IPA - Triple New England / Hazy"
 ---

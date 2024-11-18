@@ -11,6 +11,6 @@ img: /img/list/alchemist-farmers-daughter.jpeg
 untappd: "https://untappd.com/b/the-alchemist-the-alchemist-farmer-s-daughter/32213"
 country: "United States"
 brewery: "The Alchemist"
-breweryURL: "brewery/the-alchemist.html"
+breweryURL: "/brewery/the-alchemist.html"
 style: "Farmhouse Ale - Saison"
 ---

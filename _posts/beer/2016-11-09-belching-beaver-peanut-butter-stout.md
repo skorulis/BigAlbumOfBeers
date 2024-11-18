@@ -11,6 +11,6 @@ img: /img/list/belching-beaver-peanut-butter-stout.jpeg
 untappd: "https://untappd.com/b/belching-beaver-brewery-peanut-butter-milk-stout/638512"
 country: "United States"
 brewery: "Belching Beaver Brewery"
-breweryURL: "brewery/belching-beaver-brewery.html"
+breweryURL: "/brewery/belching-beaver-brewery.html"
 style: "Stout - Milk / Sweet"
 ---

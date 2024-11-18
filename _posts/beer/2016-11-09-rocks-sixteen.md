@@ -11,6 +11,6 @@ img: /img/list/rocks-sixteen.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-rocks-brewing-co-sixteen-nitro-double-irish-red-ale-special-16th-birthday-release/5758693"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "brewery/rocks-brewing-co.html"
+breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Red Ale - Irish"
 ---

@@ -11,6 +11,6 @@ img: /img/list/curious-brew.jpeg
 untappd: "https://untappd.com/b/curious-drinks--chapel-down--curious-brew-lager/204447"
 country: "England"
 brewery: "Curious Drinks (Chapel Down)"
-breweryURL: "brewery/curious-drinks--chapel-down.html"
+breweryURL: "/brewery/curious-drinks--chapel-down.html"
 style: "Pilsner - Other"
 ---

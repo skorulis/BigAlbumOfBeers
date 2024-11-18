@@ -11,6 +11,6 @@ img: /img/list/brouhaha-india-pale-ale.jpeg
 untappd: "https://untappd.com/b/brouhaha-brewery-brouhaha-brewery-ipa/1617394"
 country: "Australia"
 brewery: "Brouhaha Brewery"
-breweryURL: "brewery/brouhaha-brewery.html"
+breweryURL: "/brewery/brouhaha-brewery.html"
 style: "IPA - English"
 ---

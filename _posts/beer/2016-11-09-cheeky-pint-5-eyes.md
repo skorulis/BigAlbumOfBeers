@@ -11,6 +11,6 @@ img: /img/list/cheeky-pint-5-eyes.jpeg
 untappd: "https://untappd.com/b/the-cheeky-pint-the-cheeky-pint-5-eyes/2864371"
 country: "Australia"
 brewery: "The Cheeky Pint"
-breweryURL: "brewery/the-cheeky-pint.html"
+breweryURL: "/brewery/the-cheeky-pint.html"
 style: "IPA - English"
 ---

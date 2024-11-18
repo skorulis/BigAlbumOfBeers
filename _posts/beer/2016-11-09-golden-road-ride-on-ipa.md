@@ -11,6 +11,6 @@ img: /img/list/golden-road-ride-on-ipa.jpeg
 untappd: "https://untappd.com/b/golden-road-brewing-ride-on-ipa/1069272"
 country: "United States"
 brewery: "Golden Road Brewing"
-breweryURL: "brewery/golden-road-brewing.html"
+breweryURL: "/brewery/golden-road-brewing.html"
 style: "IPA - American"
 ---

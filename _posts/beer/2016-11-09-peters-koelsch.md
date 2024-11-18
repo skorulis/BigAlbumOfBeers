@@ -11,6 +11,6 @@ img: /img/list/peters-koelsch.jpeg
 untappd: "https://untappd.com/b/radeberger-gruppe-peters-kolsch/49003"
 country: "Germany"
 brewery: "Radeberger Gruppe"
-breweryURL: "brewery/radeberger-gruppe.html"
+breweryURL: "/brewery/radeberger-gruppe.html"
 style: "Kölsch"
 ---

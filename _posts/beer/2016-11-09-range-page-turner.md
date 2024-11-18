@@ -11,6 +11,6 @@ img: /img/list/range-page-turner.jpeg
 untappd: "https://untappd.com/b/range-brewing-page-turner/4685235"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "brewery/range-brewing.html"
+breweryURL: "/brewery/range-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

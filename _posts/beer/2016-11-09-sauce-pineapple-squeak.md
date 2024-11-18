@@ -11,6 +11,6 @@ img: /img/list/sauce-pineapple-squeak.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-pineapple-squeak/4049834"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "brewery/sauce-brewing-co.html"
+breweryURL: "/brewery/sauce-brewing-co.html"
 style: "IPA - New England"
 ---

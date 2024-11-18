@@ -11,6 +11,6 @@ img: /img/list/saucy-saison.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-saucy-saison/1807612"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "brewery/sauce-brewing-co.html"
+breweryURL: "/brewery/sauce-brewing-co.html"
 style: "Saison / Farmhouse Ale"
 ---

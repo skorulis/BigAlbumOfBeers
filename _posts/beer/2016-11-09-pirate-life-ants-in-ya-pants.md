@@ -11,6 +11,6 @@ img: /img/list/pirate-life-ants-in-ya-pants.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-ants-in-ya-pants/4174699"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/old-wives-ales-lactohop.jpeg
 untappd: "https://untappd.com/b/old-wives-ales-lactohop--ella/2574052"
 country: "Australia"
 brewery: "Old Wives Ales"
-breweryURL: "brewery/old-wives-ales.html"
+breweryURL: "/brewery/old-wives-ales.html"
 style: "Sour - Ale"
 ---

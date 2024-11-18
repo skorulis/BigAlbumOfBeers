@@ -11,6 +11,6 @@ img: /img/list/st-feuillien-brune.jpeg
 untappd: "https://untappd.com/b/brasserie-st-feuillien-st-feuillien-brune/1066"
 country: "Belgium"
 brewery: "Brasserie St-Feuillien"
-breweryURL: "brewery/brasserie-st-feuillien.html"
+breweryURL: "/brewery/brasserie-st-feuillien.html"
 style: "Belgian Dubbel"
 ---

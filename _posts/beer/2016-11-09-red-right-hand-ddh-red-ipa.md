@@ -11,6 +11,6 @@ img: /img/list/red-right-hand-ddh-red-ipa.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--red-right-hand-ddh-red-ipa/3934211"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "brewery/brick-lane-brewing-co.html"
+breweryURL: "/brewery/brick-lane-brewing-co.html"
 style: "IPA - Red"
 ---

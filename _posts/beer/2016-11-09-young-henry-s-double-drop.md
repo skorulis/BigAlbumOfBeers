@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-double-drop.jpeg
 untappd: "https://untappd.com/b/young-henrys-double-drop-ipa/3350086"
 country: "Australia"
 brewery: "Young Henrys"
-breweryURL: "brewery/young-henrys.html"
+breweryURL: "/brewery/young-henrys.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/jaws-nuclear-laundry.jpeg
 untappd: "https://untappd.com/b/jaws-brewery-nuclear-laundry--atomnaya-prachyechnaya-/631746"
 country: "Russia"
 brewery: "Jaws Brewery"
-breweryURL: "brewery/jaws-brewery.html"
+breweryURL: "/brewery/jaws-brewery.html"
 style: "IPA - American"
 ---

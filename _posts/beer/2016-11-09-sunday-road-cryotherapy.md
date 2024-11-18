@@ -11,6 +11,6 @@ img: /img/list/sunday-road-cryotherapy.jpeg
 untappd: "https://untappd.com/b/sunday-road-brewing-cryotherapy/3670076"
 country: "Australia"
 brewery: "Sunday Road Brewing"
-breweryURL: "brewery/sunday-road-brewing.html"
+breweryURL: "/brewery/sunday-road-brewing.html"
 style: "IPA - New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/stockade-old-money.jpeg
 untappd: "https://untappd.com/b/stockade-brew-co-old-money--2017-/2427968"
 country: "Australia"
 brewery: "Stockade Brew Co"
-breweryURL: "brewery/stockade-brew-co.html"
+breweryURL: "/brewery/stockade-brew-co.html"
 style: "Stout - Russian Imperial"
 ---

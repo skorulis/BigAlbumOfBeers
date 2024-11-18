@@ -11,6 +11,6 @@ img: /img/list/noisy-minor-anzus-ipa.jpeg
 untappd: "https://untappd.com/b/fortitude-brewing-company-noisy-minor---anzus-ipa/317841"
 country: "Australia"
 brewery: "Fortitude Brewing Company"
-breweryURL: "brewery/fortitude-brewing-company.html"
+breweryURL: "/brewery/fortitude-brewing-company.html"
 style: "IPA - American"
 ---

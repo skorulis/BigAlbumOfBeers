@@ -11,6 +11,6 @@ img: /img/list/ekim-after-battle.jpeg
 untappd: "https://untappd.com/b/ekim-brewing-co--after-battle-pale/39751"
 country: "Australia"
 brewery: "Ekim Brewing Co."
-breweryURL: "brewery/ekim-brewing-co.html"
+breweryURL: "/brewery/ekim-brewing-co.html"
 style: "Pale Ale - American"
 ---

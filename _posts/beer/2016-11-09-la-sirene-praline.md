@@ -11,6 +11,6 @@ img: /img/list/la-sirene-praline.jpeg
 untappd: "https://untappd.com/b/la-sirene-brewing-praline/665404"
 country: "Australia"
 brewery: "La Sirène Brewing"
-breweryURL: "brewery/la-sirene-brewing.html"
+breweryURL: "/brewery/la-sirene-brewing.html"
 style: "Belgian Strong Dark Ale"
 ---

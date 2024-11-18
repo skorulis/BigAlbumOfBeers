@@ -11,6 +11,6 @@ img: /img/list/adnams-spindrift.jpeg
 untappd: "https://untappd.com/b/adnams-spindrift/6198"
 country: "England"
 brewery: "Adnams"
-breweryURL: "brewery/adnams.html"
+breweryURL: "/brewery/adnams.html"
 style: "Blonde Ale"
 ---

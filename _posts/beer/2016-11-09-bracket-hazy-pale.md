@@ -11,6 +11,6 @@ img: /img/list/bracket-hazy-pale.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-hazy-pale--v6-/4526547"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Pale Ale - New England / Hazy"
 ---

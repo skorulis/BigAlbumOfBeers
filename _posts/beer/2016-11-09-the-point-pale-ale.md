@@ -11,6 +11,6 @@ img: /img/list/the-point-pale-ale.jpeg
 untappd: "https://untappd.com/b/john-boston-the-point-pale-ale/836279"
 country: "Australia"
 brewery: "John Boston"
-breweryURL: "brewery/john-boston.html"
+breweryURL: "/brewery/john-boston.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-tasty-pale-ale.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-mountain-goat-beer-tasty-pale-ale/5626222"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Pale Ale - American"
 ---

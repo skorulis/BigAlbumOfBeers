@@ -11,6 +11,6 @@ img: /img/list/poppels-american-pale-ale.jpeg
 untappd: "https://untappd.com/b/poppels-bryggeri-american-pale-ale/446330"
 country: "Sweden"
 brewery: "Poppels Bryggeri"
-breweryURL: "brewery/poppels-bryggeri.html"
+breweryURL: "/brewery/poppels-bryggeri.html"
 style: "Pale Ale - American"
 ---

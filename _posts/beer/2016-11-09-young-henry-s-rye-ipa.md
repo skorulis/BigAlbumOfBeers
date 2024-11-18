@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-rye-ipa.jpeg
 untappd: "https://untappd.com/b/young-henrys-rye-ipa/3326698"
 country: "Australia"
 brewery: "Young Henrys"
-breweryURL: "brewery/young-henrys.html"
+breweryURL: "/brewery/young-henrys.html"
 style: "IPA - Rye"
 ---

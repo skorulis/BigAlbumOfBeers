@@ -11,6 +11,6 @@ img: /img/list/bracket-grand-cru.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-bracket-brewing-grand-cru/5552284"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Belgian Strong Golden Ale"
 ---

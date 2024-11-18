@@ -11,6 +11,6 @@ img: /img/list/nomad-freshie-orange---caramel-gose.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--freshie-orange---caramel-gose/2063193"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "brewery/nomad-brewing-co.html"
+breweryURL: "/brewery/nomad-brewing-co.html"
 style: "Sour - Gose"
 ---

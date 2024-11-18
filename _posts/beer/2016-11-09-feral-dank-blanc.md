@@ -11,6 +11,6 @@ img: /img/list/feral-dank-blanc.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-dank-blanc/2759212"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "brewery/feral-brewing-company.html"
+breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - Brut"
 ---

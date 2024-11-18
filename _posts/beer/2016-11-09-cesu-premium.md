@@ -11,6 +11,6 @@ img: /img/list/cesu-premium.jpeg
 untappd: "https://untappd.com/b/cesu-alus-cesu-premium/745853"
 country: "Latvia"
 brewery: "Cēsu Alus"
-breweryURL: "brewery/cesu-alus.html"
+breweryURL: "/brewery/cesu-alus.html"
 style: "Lager - Pale"
 ---

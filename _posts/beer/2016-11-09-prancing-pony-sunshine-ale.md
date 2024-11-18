@@ -11,6 +11,6 @@ img: /img/list/prancing-pony-sunshine-ale.jpeg
 untappd: "https://untappd.com/b/prancing-pony-brewery-sunshine-ale/999204"
 country: "Australia"
 brewery: "Prancing Pony Brewery"
-breweryURL: "brewery/prancing-pony-brewery.html"
+breweryURL: "/brewery/prancing-pony-brewery.html"
 style: "Blonde Ale"
 ---

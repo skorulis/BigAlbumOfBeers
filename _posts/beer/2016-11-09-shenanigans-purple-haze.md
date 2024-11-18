@@ -11,6 +11,6 @@ img: /img/list/shenanigans-purple-haze.jpeg
 untappd: "https://untappd.com/b/shenanigans-brewing-co--purple-haze/3170686"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "brewery/shenanigans-brewing-co.html"
+breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "IPA - Milkshake"
 ---

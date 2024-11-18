@@ -11,6 +11,6 @@ img: /img/list/brothers-italian-brothers-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/brothers-beer-brothers-beer-the-italian-brothers-hazy-ipa/5704819"
 country: "New Zealand"
 brewery: "Brothers Beer"
-breweryURL: "brewery/brothers-beer.html"
+breweryURL: "/brewery/brothers-beer.html"
 style: "IPA - New England / Hazy"
 ---

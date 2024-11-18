@@ -11,6 +11,6 @@ img: /img/list/eden-ponderosa-ipa.jpeg
 untappd: "https://untappd.com/b/eden-brewery-ponderosa-ipa/3620425"
 country: "Australia"
 brewery: "Eden Brewery"
-breweryURL: "brewery/eden-brewery.html"
+breweryURL: "/brewery/eden-brewery.html"
 style: "IPA - American"
 ---

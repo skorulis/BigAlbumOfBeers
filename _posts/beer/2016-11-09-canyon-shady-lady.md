@@ -11,6 +11,6 @@ img: /img/list/canyon-shady-lady.jpeg
 untappd: "https://untappd.com/b/canyon-brewing-canyon-brewing-shady-lady/5908607"
 country: "New Zealand"
 brewery: "Canyon Brewing"
-breweryURL: "brewery/canyon-brewing.html"
+breweryURL: "/brewery/canyon-brewing.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/batch-sky-rocket-in-flight.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-sky-rocket-in-flight/2822665"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Red Ale - Other"
 ---

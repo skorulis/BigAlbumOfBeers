@@ -11,6 +11,6 @@ img: /img/list/black-death-beer.jpeg
 untappd: "https://untappd.com/b/viking-olgerd-black-death-beer/84216"
 country: "Iceland"
 brewery: "Viking Ölgerd"
-breweryURL: "brewery/viking-oelgerd.html"
+breweryURL: "/brewery/viking-oelgerd.html"
 style: "Porter - Baltic"
 ---

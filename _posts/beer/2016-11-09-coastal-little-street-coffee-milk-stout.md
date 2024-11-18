@@ -11,6 +11,6 @@ img: /img/list/coastal-little-street-coffee-milk-stout.jpeg
 untappd: "https://untappd.com/b/the-coastal-brewing-company-little-street-coffee-milk-stout/3163003"
 country: "Australia"
 brewery: "The Coastal Brewing Company"
-breweryURL: "brewery/the-coastal-brewing-company.html"
+breweryURL: "/brewery/the-coastal-brewing-company.html"
 style: "Stout - Milk / Sweet"
 ---

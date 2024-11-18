@@ -11,6 +11,6 @@ img: /img/list/birmingham-pale-brummie.jpeg
 untappd: "https://untappd.com/b/birmingham-brewing-company-pale-brummie/1956641"
 country: "England"
 brewery: "Birmingham Brewing Company"
-breweryURL: "brewery/birmingham-brewing-company.html"
+breweryURL: "/brewery/birmingham-brewing-company.html"
 style: "Pale Ale - English"
 ---

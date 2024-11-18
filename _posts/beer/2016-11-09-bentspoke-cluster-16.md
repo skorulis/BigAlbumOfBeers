@@ -11,6 +11,6 @@ img: /img/list/bentspoke-cluster-16.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-cluster-16/1256180"
 country: "Australia"
 brewery: "Bentspoke Brewing Co"
-breweryURL: "brewery/bentspoke-brewing-co.html"
+breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "IPA - Belgian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/klaster-zeliv-pacific-jack.jpeg
 untappd: "https://untappd.com/b/klasterni-pivovar-zeliv-pacific-jack-16/3452434"
 country: "Czech Republic"
 brewery: "Klášterní pivovar Želiv"
-breweryURL: "brewery/klasterni-pivovar-zeliv.html"
+breweryURL: "/brewery/klasterni-pivovar-zeliv.html"
 style: "IPA - New England / Hazy"
 ---

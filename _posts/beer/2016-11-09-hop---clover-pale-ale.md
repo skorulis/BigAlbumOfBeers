@@ -11,6 +11,6 @@ img: /img/list/hop---clover-pale-ale.jpeg
 untappd: "https://untappd.com/b/hop---clover-brewing-co-pale-ale/3886609"
 country: "Australia"
 brewery: "Hop & Clover Brewing Co"
-breweryURL: "brewery/hop---clover-brewing-co.html"
+breweryURL: "/brewery/hop---clover-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/saucy-pils.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-saucy-pils/2414035"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "brewery/sauce-brewing-co.html"
+breweryURL: "/brewery/sauce-brewing-co.html"
 style: "Pilsner - Other"
 ---

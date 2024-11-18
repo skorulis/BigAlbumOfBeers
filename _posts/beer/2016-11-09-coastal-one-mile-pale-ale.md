@@ -11,6 +11,6 @@ img: /img/list/coastal-one-mile-pale-ale.jpeg
 untappd: "https://untappd.com/b/the-coastal-brewing-company-one-mile-aussie-pale-ale/2636667"
 country: "Australia"
 brewery: "The Coastal Brewing Company"
-breweryURL: "brewery/the-coastal-brewing-company.html"
+breweryURL: "/brewery/the-coastal-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

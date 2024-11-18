@@ -11,6 +11,6 @@ img: /img/list/tuatara-ardennes.jpeg
 untappd: "https://untappd.com/b/tuatara-brewery-belgian-ardennes/11596"
 country: "New Zealand"
 brewery: "Tuatara Brewery"
-breweryURL: "brewery/tuatara-brewery.html"
+breweryURL: "/brewery/tuatara-brewery.html"
 style: "Belgian Strong Golden Ale"
 ---

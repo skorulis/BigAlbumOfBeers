@@ -11,6 +11,6 @@ img: /img/list/battery-steele-flume.jpeg
 untappd: "https://untappd.com/b/battery-steele-brewing-flume/2040507"
 country: "United States"
 brewery: "Battery Steele Brewing"
-breweryURL: "brewery/battery-steele-brewing.html"
+breweryURL: "/brewery/battery-steele-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/new-england-smouldering-stump-smoked-porter.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co--smouldering-stump-smoked-porter/4400194"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "brewery/new-england-brewing-co.html"
+breweryURL: "/brewery/new-england-brewing-co.html"
 style: "Porter - Other"
 ---

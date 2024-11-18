@@ -11,6 +11,6 @@ img: /img/list/4-pines-stout.jpeg
 untappd: "https://untappd.com/b/4-pines-brewing-company-stout/33630"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "brewery/4-pines-brewing-company.html"
+breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Stout - Irish Dry"
 ---

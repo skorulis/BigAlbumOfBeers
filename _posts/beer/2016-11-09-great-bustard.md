@@ -11,6 +11,6 @@ img: /img/list/great-bustard.jpeg
 untappd: "https://untappd.com/b/stonehenge-ales-great-bustard/61005"
 country: "England"
 brewery: "Stonehenge Ales"
-breweryURL: "brewery/stonehenge-ales.html"
+breweryURL: "/brewery/stonehenge-ales.html"
 style: "English Bitter"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brickworks-neipa.jpeg
 untappd: "https://untappd.com/b/brickworks-brewing-co--neipa/4668898"
 country: "Australia"
 brewery: "Brickworks Brewing Co."
-breweryURL: "brewery/brickworks-brewing-co.html"
+breweryURL: "/brewery/brickworks-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

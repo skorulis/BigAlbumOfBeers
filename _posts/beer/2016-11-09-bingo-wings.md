@@ -11,6 +11,6 @@ img: /img/list/bingo-wings.jpeg
 untappd: "https://untappd.com/b/hopdog-beerworks-bingo-wings/523022"
 country: "Australia"
 brewery: "HopDog BeerWorks"
-breweryURL: "brewery/hopdog-beerworks.html"
+breweryURL: "/brewery/hopdog-beerworks.html"
 style: "Pale Wheat Ale - American"
 ---

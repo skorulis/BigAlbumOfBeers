@@ -11,6 +11,6 @@ img: /img/list/the-convict-lager.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-the-convict/228660"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "brewery/rocks-brewing-co.html"
+breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Lager - Pale"
 ---

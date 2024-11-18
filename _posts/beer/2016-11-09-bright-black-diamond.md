@@ -11,6 +11,6 @@ img: /img/list/bright-black-diamond.jpeg
 untappd: "https://untappd.com/b/bright-brewery-black-diamond/1557584"
 country: "Australia"
 brewery: "Bright Brewery"
-breweryURL: "brewery/bright-brewery.html"
+breweryURL: "/brewery/bright-brewery.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

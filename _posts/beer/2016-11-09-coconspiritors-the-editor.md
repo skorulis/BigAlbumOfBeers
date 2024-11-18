@@ -11,6 +11,6 @@ img: /img/list/coconspiritors-the-editor.jpeg
 untappd: "https://untappd.com/b/co-conspirators-brewing-company-the-editor/2951969"
 country: "Australia"
 brewery: "Co-Conspirators Brewing Company"
-breweryURL: "brewery/co-conspirators-brewing-company.html"
+breweryURL: "/brewery/co-conspirators-brewing-company.html"
 style: "Sour - Fruited"
 ---

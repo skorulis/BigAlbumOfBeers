@@ -11,6 +11,6 @@ img: /img/list/moon-dog-watermelon-weizen.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-bjorn-to-boogie-watermelon-weizen/561350"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "brewery/moon-dog-craft-brewery.html"
+breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Hefeweizen"
 ---

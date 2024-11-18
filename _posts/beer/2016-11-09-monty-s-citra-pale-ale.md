@@ -11,6 +11,6 @@ img: /img/list/monty-s-citra-pale-ale.jpeg
 untappd: "https://untappd.com/b/monty-brewing-co--citra-pale-ale/3065605"
 country: "Australia"
 brewery: "Monty Brewing Co."
-breweryURL: "brewery/monty-brewing-co.html"
+breweryURL: "/brewery/monty-brewing-co.html"
 style: "Pale Ale - American"
 ---

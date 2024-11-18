@@ -11,6 +11,6 @@ img: /img/list/tumut-river-bad-mofo.jpeg
 untappd: "https://untappd.com/b/tumut-river-brewing-co-bad-mofo/2527851"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
-breweryURL: "brewery/tumut-river-brewing-co.html"
+breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "IPA - American"
 ---

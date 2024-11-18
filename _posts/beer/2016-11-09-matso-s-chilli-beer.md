@@ -11,6 +11,6 @@ img: /img/list/matso-s-chilli-beer.jpeg
 untappd: "https://untappd.com/b/matsos-broome-brewery-chilli-beer/84759"
 country: "Australia"
 brewery: "Matso's Broome Brewery"
-breweryURL: "brewery/matso-s-broome-brewery.html"
+breweryURL: "/brewery/matso-s-broome-brewery.html"
 style: "Spiced / Herbed Beer"
 ---

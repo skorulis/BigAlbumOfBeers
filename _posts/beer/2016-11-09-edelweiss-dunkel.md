@@ -11,6 +11,6 @@ img: /img/list/edelweiss-dunkel.jpeg
 untappd: "https://untappd.com/b/brau-union-osterreich-edelweiss-dunkel/2649"
 country: "Austria"
 brewery: "Brau Union Österreich"
-breweryURL: "brewery/brau-union-oesterreich.html"
+breweryURL: "/brewery/brau-union-oesterreich.html"
 style: "Dunkelweizen"
 ---

@@ -11,6 +11,6 @@ img: /img/list/platinum-blonde.jpeg
 untappd: "https://untappd.com/b/hahn-brewing-co--pty-ltd-platinum-blonde/278786"
 country: "Australia"
 brewery: "Hahn Brewing Co. Pty Ltd"
-breweryURL: "brewery/hahn-brewing-co--pty-ltd.html"
+breweryURL: "/brewery/hahn-brewing-co--pty-ltd.html"
 style: "Lager - Pale"
 ---

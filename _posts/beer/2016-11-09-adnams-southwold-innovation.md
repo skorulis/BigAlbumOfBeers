@@ -11,6 +11,6 @@ img: /img/list/adnams-southwold-innovation.jpeg
 untappd: "https://untappd.com/b/adnams-jack-brand-innovation/471020"
 country: "England"
 brewery: "Adnams"
-breweryURL: "brewery/adnams.html"
+breweryURL: "/brewery/adnams.html"
 style: "IPA - American"
 ---

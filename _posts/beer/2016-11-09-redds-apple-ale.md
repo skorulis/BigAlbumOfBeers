@@ -11,6 +11,6 @@ img: /img/list/redds-apple-ale.jpeg
 untappd: "https://untappd.com/b/redds-brewing-company-apple-ale/210218"
 country: "United States"
 brewery: "Redd's Brewing Company"
-breweryURL: "brewery/redd-s-brewing-company.html"
+breweryURL: "/brewery/redd-s-brewing-company.html"
 style: "Fruit Beer"
 ---

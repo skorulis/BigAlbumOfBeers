@@ -11,6 +11,6 @@ img: /img/list/white-bay-flat-chat.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--flat-chat/4719912"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "brewery/white-bay-beer-co.html"
+breweryURL: "/brewery/white-bay-beer-co.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/ale-house-pale-draught.jpeg
 untappd: "https://untappd.com/b/australian-beer-company-alehouse-australian-premium-draught/550752"
 country: "Australia"
 brewery: "Australian Beer Company"
-breweryURL: "brewery/australian-beer-company.html"
+breweryURL: "/brewery/australian-beer-company.html"
 style: "Lager - Pale"
 ---

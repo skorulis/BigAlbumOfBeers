@@ -11,6 +11,6 @@ img: /img/list/bracket-sfo.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-sfo--mosaicmotueka-/4220841"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - American"
 ---

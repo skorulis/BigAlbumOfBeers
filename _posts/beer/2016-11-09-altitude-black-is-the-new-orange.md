@@ -11,6 +11,6 @@ img: /img/list/altitude-black-is-the-new-orange.jpeg
 untappd: "https://untappd.com/b/altitude-brewing-altitude-brewing-black-is-the-new-orange/5883990"
 country: "New Zealand"
 brewery: "Altitude Brewing"
-breweryURL: "brewery/altitude-brewing.html"
+breweryURL: "/brewery/altitude-brewing.html"
 style: "Stout - Coffee"
 ---

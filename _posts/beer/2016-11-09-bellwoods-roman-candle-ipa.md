@@ -11,6 +11,6 @@ img: /img/list/bellwoods-roman-candle-ipa.jpeg
 untappd: "https://untappd.com/b/bellwoods-brewery-roman-candle/229668"
 country: "Canada"
 brewery: "Bellwoods Brewery"
-breweryURL: "brewery/bellwoods-brewery.html"
+breweryURL: "/brewery/bellwoods-brewery.html"
 style: "IPA - American"
 ---

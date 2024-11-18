@@ -11,6 +11,6 @@ img: /img/list/greenock-brewers-victorville.jpeg
 untappd: "https://untappd.com/b/greenock-brewers-victorville-ale/43688"
 country: "Australia"
 brewery: "Greenock Brewers"
-breweryURL: "brewery/greenock-brewers.html"
+breweryURL: "/brewery/greenock-brewers.html"
 style: "Pale Ale - American"
 ---

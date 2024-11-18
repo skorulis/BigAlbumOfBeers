@@ -11,6 +11,6 @@ img: /img/list/grafenwalder.jpeg
 untappd: "https://untappd.com/b/frankfurter-brauhaus-grafenwalder-pils/67076"
 country: "Germany"
 brewery: "Frankfurter Brauhaus"
-breweryURL: "brewery/frankfurter-brauhaus.html"
+breweryURL: "/brewery/frankfurter-brauhaus.html"
 style: "Pilsner - German"
 ---

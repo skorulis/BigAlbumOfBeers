@@ -11,6 +11,6 @@ img: /img/list/breaking-the-cardinal-rule.jpeg
 untappd: "https://untappd.com/b/the-little-brewing-company-breaking-the-cardinal-rule/628626"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "brewery/the-little-brewing-company.html"
+breweryURL: "/brewery/the-little-brewing-company.html"
 style: "IPA - Belgian"
 ---

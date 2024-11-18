@@ -11,6 +11,6 @@ img: /img/list/clare-valley-brut-ipa.jpeg
 untappd: "https://untappd.com/b/clare-valley-brewing-co--brut-ipa/2835549"
 country: "Australia"
 brewery: "Clare Valley Brewing Co."
-breweryURL: "brewery/clare-valley-brewing-co.html"
+breweryURL: "/brewery/clare-valley-brewing-co.html"
 style: "IPA - Brut"
 ---

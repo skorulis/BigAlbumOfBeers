@@ -11,6 +11,6 @@ img: /img/list/dad-and-dave-s-citra-and-mosaic-ipa.jpeg
 untappd: "https://untappd.com/b/dad---daves-brewing-citra---mosaic-ipa/2799980"
 country: "Australia"
 brewery: "Dad & Dave's Brewing"
-breweryURL: "brewery/dad---dave-s-brewing.html"
+breweryURL: "/brewery/dad---dave-s-brewing.html"
 style: "IPA - American"
 ---

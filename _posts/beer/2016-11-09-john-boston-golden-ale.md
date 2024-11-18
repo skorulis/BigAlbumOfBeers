@@ -11,6 +11,6 @@ img: /img/list/john-boston-golden-ale.jpeg
 untappd: "https://untappd.com/b/john-boston-the-guard-house/852663"
 country: "Australia"
 brewery: "John Boston"
-breweryURL: "brewery/john-boston.html"
+breweryURL: "/brewery/john-boston.html"
 style: "Golden Ale"
 ---

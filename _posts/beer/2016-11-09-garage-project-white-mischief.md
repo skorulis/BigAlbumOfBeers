@@ -11,6 +11,6 @@ img: /img/list/garage-project-white-mischief.jpeg
 untappd: "https://untappd.com/b/garage-project-white-mischief/1188961"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "brewery/garage-project.html"
+breweryURL: "/brewery/garage-project.html"
 style: "Sour - Fruited Gose"
 ---

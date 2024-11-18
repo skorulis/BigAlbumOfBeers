@@ -11,6 +11,6 @@ img: /img/list/hahn-superdry.jpeg
 untappd: "https://untappd.com/b/hahn-brewing-co--pty-ltd-super-dry/6132"
 country: "Australia"
 brewery: "Hahn Brewing Co. Pty Ltd"
-breweryURL: "brewery/hahn-brewing-co--pty-ltd.html"
+breweryURL: "/brewery/hahn-brewing-co--pty-ltd.html"
 style: "Lager - North American Adjunct"
 ---

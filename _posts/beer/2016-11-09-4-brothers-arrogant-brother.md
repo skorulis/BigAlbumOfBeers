@@ -11,6 +11,6 @@ img: /img/list/4-brothers-arrogant-brother.jpeg
 untappd: "https://untappd.com/b/4-brothers-brewing-arrogant-brother/2055830"
 country: "Australia"
 brewery: "4 Brothers Brewing"
-breweryURL: "brewery/4-brothers-brewing.html"
+breweryURL: "/brewery/4-brothers-brewing.html"
 style: "Smoked Beer"
 ---

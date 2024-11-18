@@ -11,6 +11,6 @@ img: /img/list/blackmans-citra-cryo.jpeg
 untappd: "https://untappd.com/b/blackman-s-brewery-blackman-s-brewery-citra-cryo-pale-ale/5605614"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "brewery/blackman-s-brewery.html"
+breweryURL: "/brewery/blackman-s-brewery.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/jelen-pivo.jpeg
 untappd: "https://untappd.com/b/apatinska-pivara-jelen-pivo/14262"
 country: "Serbia"
 brewery: "Apatinska Pivara"
-breweryURL: "brewery/apatinska-pivara.html"
+breweryURL: "/brewery/apatinska-pivara.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/birra-moretti.jpeg
 untappd: "https://untappd.com/b/birra-moretti-birra-moretti/6347"
 country: "Italy"
 brewery: "Birra Moretti"
-breweryURL: "brewery/birra-moretti.html"
+breweryURL: "/brewery/birra-moretti.html"
 style: "Lager - Pale"
 ---

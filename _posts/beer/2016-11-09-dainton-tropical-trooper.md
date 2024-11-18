@@ -11,6 +11,6 @@ img: /img/list/dainton-tropical-trooper.jpeg
 untappd: "https://untappd.com/b/dainton-beer-tropical-trooper/5201971"
 country: "Australia"
 brewery: "Dainton Beer"
-breweryURL: "brewery/dainton-beer.html"
+breweryURL: "/brewery/dainton-beer.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/remmarloev-migla.jpeg
 untappd: "https://untappd.com/b/remmarlov-gardsbryggeri-the-migla/3256150"
 country: "Sweden"
 brewery: "Remmarlöv Gårdsbryggeri"
-breweryURL: "brewery/remmarloev-gardsbryggeri.html"
+breweryURL: "/brewery/remmarloev-gardsbryggeri.html"
 style: "IPA - New England / Hazy"
 ---

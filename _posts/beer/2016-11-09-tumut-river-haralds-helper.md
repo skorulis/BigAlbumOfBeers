@@ -11,6 +11,6 @@ img: /img/list/tumut-river-haralds-helper.jpeg
 untappd: "https://untappd.com/b/tumut-river-brewing-co-haralds-helper/1262206"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
-breweryURL: "brewery/tumut-river-brewing-co.html"
+breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Wheat Beer - Dunkelweizen"
 ---

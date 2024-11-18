@@ -11,6 +11,6 @@ img: /img/list/wildflower-serenity--4.jpeg
 untappd: "https://untappd.com/b/wildflower-brewing---blending-hows-the-serenity/5297904"
 country: "Australia"
 brewery: "Wildflower Brewing & Blending"
-breweryURL: "brewery/wildflower-brewing---blending.html"
+breweryURL: "/brewery/wildflower-brewing---blending.html"
 style: "Australian Sparkling Ale"
 ---

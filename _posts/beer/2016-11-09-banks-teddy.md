@@ -11,6 +11,6 @@ img: /img/list/banks-teddy.jpeg
 untappd: "https://untappd.com/b/banks-brewing-banks-brewing-teddy/5210564"
 country: "Australia"
 brewery: "Banks Brewing"
-breweryURL: "brewery/banks-brewing.html"
+breweryURL: "/brewery/banks-brewing.html"
 style: "Pilsner - Other"
 ---

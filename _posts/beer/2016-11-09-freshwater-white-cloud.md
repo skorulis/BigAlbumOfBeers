@@ -11,6 +11,6 @@ img: /img/list/freshwater-white-cloud.jpeg
 untappd: "https://untappd.com/b/freshwater-brewing-company-white-cloud/5132703"
 country: "Australia"
 brewery: "Freshwater Brewing Company"
-breweryURL: "brewery/freshwater-brewing-company.html"
+breweryURL: "/brewery/freshwater-brewing-company.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

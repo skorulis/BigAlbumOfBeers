@@ -11,6 +11,6 @@ img: /img/list/monteith-s-doppelbock-winter-ale.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-doppelbock-winter-ale/15681"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "brewery/monteith-s-brewing-co--.html"
+breweryURL: "/brewery/monteith-s-brewing-co--.html"
 style: "Doppelbock "
 ---

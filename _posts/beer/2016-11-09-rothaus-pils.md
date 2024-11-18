@@ -11,6 +11,6 @@ img: /img/list/rothaus-pils.jpeg
 untappd: "https://untappd.com/b/badische-staatsbrauerei-rothaus-rothaus-pils--tannen-zapfle/2395"
 country: "Germany"
 brewery: "Badische Staatsbrauerei Rothaus"
-breweryURL: "brewery/badische-staatsbrauerei-rothaus.html"
+breweryURL: "/brewery/badische-staatsbrauerei-rothaus.html"
 style: "Pilsner - German"
 ---

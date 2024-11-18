@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-aussie-wheat.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-aussie-wheat-beer/4828871"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Wheat Beer - Other"
 ---

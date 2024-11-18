@@ -11,6 +11,6 @@ img: /img/list/red-right-hand-red-ipa.jpeg
 untappd: "https://untappd.com/b/grand-ridge-brewery-red-right-hand/3215407"
 country: "Australia"
 brewery: "Grand Ridge Brewery"
-breweryURL: "brewery/grand-ridge-brewery.html"
+breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Red Ale - Imperial / Double"
 ---

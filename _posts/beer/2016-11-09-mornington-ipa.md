@@ -11,6 +11,6 @@ img: /img/list/mornington-ipa.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-ipa/14878"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "brewery/mornington-peninsula-brewery.html"
+breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/b-effect-pedal-or-die.jpeg
 untappd: "https://untappd.com/b/b-effect-b-effect-pedal-or-die-ipa/5438091"
 country: "New Zealand"
 brewery: "b.effect "
-breweryURL: "brewery/b-effect-.html"
+breweryURL: "/brewery/b-effect-.html"
 style: "IPA - New Zealand"
 ---

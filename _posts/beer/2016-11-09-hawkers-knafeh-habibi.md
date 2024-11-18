@@ -11,6 +11,6 @@ img: /img/list/hawkers-knafeh-habibi.jpeg
 untappd: "https://untappd.com/b/hawkers-beer-knafeh-habibi/4063923"
 country: "Australia"
 brewery: "Hawkers Beer"
-breweryURL: "brewery/hawkers-beer.html"
+breweryURL: "/brewery/hawkers-beer.html"
 style: "Stout - Imperial / Double Pastry"
 ---

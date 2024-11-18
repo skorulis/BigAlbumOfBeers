@@ -11,6 +11,6 @@ img: /img/list/boatrocker-beer-garden-pilsner.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewing-company-beer-garden-pilsner/1738911"
 country: "Australia"
 brewery: "Boatrocker Brewing Company"
-breweryURL: "brewery/boatrocker-brewing-company.html"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Pilsner - Other"
 ---

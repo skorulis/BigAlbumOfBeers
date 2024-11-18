@@ -11,6 +11,6 @@ img: /img/list/stomping-ground-gipps-st.jpeg
 untappd: "https://untappd.com/b/stomping-ground-brewing-co-gipps-st/1507443"
 country: "Australia"
 brewery: "Stomping Ground Brewing Co"
-breweryURL: "brewery/stomping-ground-brewing-co.html"
+breweryURL: "/brewery/stomping-ground-brewing-co.html"
 style: "Pale Ale - American"
 ---

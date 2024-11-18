@@ -11,6 +11,6 @@ img: /img/list/blackfont-copper-ale.jpeg
 untappd: "https://untappd.com/b/blackfont-brewhouse-copper-ale/1355479"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "brewery/blackfont-brewhouse.html"
+breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "English Mild Ale"
 ---

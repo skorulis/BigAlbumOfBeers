@@ -11,6 +11,6 @@ img: /img/list/stockade-the-mountie-maple-imperial-stout.jpeg
 untappd: "https://untappd.com/b/stockade-brew-co-the-mountie-maple-imperial-stout/2100096"
 country: "Australia"
 brewery: "Stockade Brew Co"
-breweryURL: "brewery/stockade-brew-co.html"
+breweryURL: "/brewery/stockade-brew-co.html"
 style: "Stout - Russian Imperial"
 ---

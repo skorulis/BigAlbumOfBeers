@@ -11,6 +11,6 @@ img: /img/list/red-duck-golden-dragon.jpeg
 untappd: "https://untappd.com/b/red-duck-golden-dragon-strong-red-ale/4288177"
 country: "Australia"
 brewery: "Red Duck"
-breweryURL: "brewery/red-duck.html"
+breweryURL: "/brewery/red-duck.html"
 style: "Red Ale - Other"
 ---

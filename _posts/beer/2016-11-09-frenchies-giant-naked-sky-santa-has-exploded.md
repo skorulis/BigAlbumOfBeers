@@ -11,6 +11,6 @@ img: /img/list/frenchies-giant-naked-sky-santa-has-exploded.jpeg
 untappd: "https://untappd.com/b/frenchies-brewery-frenchies-brewery-giant-naked-sky-santa-has-exploded/5616802"
 country: "Australia"
 brewery: "Frenchies Brewery"
-breweryURL: "brewery/frenchies-brewery.html"
+breweryURL: "/brewery/frenchies-brewery.html"
 style: "Belgian Tripel"
 ---

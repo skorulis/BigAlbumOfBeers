@@ -11,6 +11,6 @@ img: /img/list/james-squire-stow-away-ipa.jpeg
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-stow-away-ipa/1904"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "brewery/malt-shovel-brewery.html"
+breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "IPA - English"
 ---

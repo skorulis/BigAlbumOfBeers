@@ -11,6 +11,6 @@ img: /img/list/otherside-headliner.jpeg
 untappd: "https://untappd.com/b/otherside-brewing-co--headliner--2020-/3884858"
 country: "Australia"
 brewery: "Otherside Brewing Co."
-breweryURL: "brewery/otherside-brewing-co.html"
+breweryURL: "/brewery/otherside-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

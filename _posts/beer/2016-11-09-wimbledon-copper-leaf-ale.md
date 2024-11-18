@@ -11,6 +11,6 @@ img: /img/list/wimbledon-copper-leaf-ale.jpeg
 untappd: "https://untappd.com/b/wimbledon-brewery-copper-leaf/1747011"
 country: "England"
 brewery: "Wimbledon Brewery"
-breweryURL: "brewery/wimbledon-brewery.html"
+breweryURL: "/brewery/wimbledon-brewery.html"
 style: "Red Ale - American Amber / Red"
 ---

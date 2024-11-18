@@ -11,6 +11,6 @@ img: /img/list/matso-s-pearlers-pale-ale.jpeg
 untappd: "https://untappd.com/b/matsos-broome-brewery-pearlers-pale-ale/113425"
 country: "Australia"
 brewery: "Matso's Broome Brewery"
-breweryURL: "brewery/matso-s-broome-brewery.html"
+breweryURL: "/brewery/matso-s-broome-brewery.html"
 style: "Pale Ale - English"
 ---

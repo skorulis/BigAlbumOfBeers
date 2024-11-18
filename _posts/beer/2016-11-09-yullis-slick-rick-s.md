@@ -11,6 +11,6 @@ img: /img/list/yullis-slick-rick-s.jpeg
 untappd: "https://untappd.com/b/yullis-brews-slick-ricks-rampaging-red-ale/846928"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "brewery/yulli-s-brews.html"
+breweryURL: "/brewery/yulli-s-brews.html"
 style: "Red Ale - American Amber / Red"
 ---

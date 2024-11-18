@@ -11,6 +11,6 @@ img: /img/list/all-inn-seasonal-xpa.jpeg
 untappd: "https://untappd.com/b/all-inn-brewing-co--seasonal-xpa/4792264"
 country: "Australia"
 brewery: "All Inn Brewing Co."
-breweryURL: "brewery/all-inn-brewing-co.html"
+breweryURL: "/brewery/all-inn-brewing-co.html"
 style: "Pale Ale - American"
 ---

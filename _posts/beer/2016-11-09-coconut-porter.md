@@ -11,6 +11,6 @@ img: /img/list/coconut-porter.jpeg
 untappd: "https://untappd.com/b/maui-brewing-company-coconut-hiwa-porter/5383"
 country: "United States"
 brewery: "Maui Brewing Company"
-breweryURL: "brewery/maui-brewing-company.html"
+breweryURL: "/brewery/maui-brewing-company.html"
 style: "Porter - American"
 ---

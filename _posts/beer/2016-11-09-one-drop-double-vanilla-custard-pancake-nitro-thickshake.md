@@ -11,6 +11,6 @@ img: /img/list/one-drop-double-vanilla-custard-pancake-nitro-thickshake.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-double-vanilla-custard-pancake-imperial-nitro-thickshake-ipa/3794732"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "IPA - Imperial / Double Milkshake"
 ---

@@ -11,6 +11,6 @@ img: /img/list/rocks-brewing-esb.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-conviction-series--esb/976181"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "brewery/rocks-brewing-co.html"
+breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Extra Special / Strong Bitter"
 ---

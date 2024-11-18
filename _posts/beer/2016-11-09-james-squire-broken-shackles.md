@@ -11,6 +11,6 @@ img: /img/list/james-squire-broken-shackles.jpeg
 untappd: "https://untappd.com/b/malt-shovel-brewery-broken-shackles-lager/3592864"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "brewery/malt-shovel-brewery.html"
+breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Lager - Pale"
 ---

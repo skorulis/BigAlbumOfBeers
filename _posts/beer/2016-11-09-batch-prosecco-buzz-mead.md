@@ -11,6 +11,6 @@ img: /img/list/batch-prosecco-buzz-mead.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-prosecco-buzz/4740523"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Mead - Other"
 ---

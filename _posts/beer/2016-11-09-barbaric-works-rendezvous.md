@@ -11,6 +11,6 @@ img: /img/list/barbaric-works-rendezvous.jpeg
 untappd: "https://untappd.com/b/barbaric-works-rendez-vous/3119687"
 country: "Japan"
 brewery: "Barbaric Works"
-breweryURL: "brewery/barbaric-works.html"
+breweryURL: "/brewery/barbaric-works.html"
 style: "Farmhouse Ale - Saison"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bracket-citra-haze.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-citra-haze/4331732"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

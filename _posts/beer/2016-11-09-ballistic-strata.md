@@ -11,6 +11,6 @@ img: /img/list/ballistic-strata.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-strata-west-coast-ipa/4150253"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "brewery/ballistic-beer.html"
+breweryURL: "/brewery/ballistic-beer.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/victory-prima-pils.jpeg
 untappd: "https://untappd.com/b/victory-brewing-company-prima-pils/3820"
 country: "United States"
 brewery: "Victory Brewing Company"
-breweryURL: "brewery/victory-brewing-company.html"
+breweryURL: "/brewery/victory-brewing-company.html"
 style: "Pilsner - German"
 ---

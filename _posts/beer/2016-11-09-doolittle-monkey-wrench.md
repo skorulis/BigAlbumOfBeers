@@ -11,6 +11,6 @@ img: /img/list/doolittle-monkey-wrench.jpeg
 untappd: "https://untappd.com/b/doolittle-brewing-company-monkey-wrench-ipa/2537205"
 country: "Australia"
 brewery: "DooLittle Brewing Company"
-breweryURL: "brewery/doolittle-brewing-company.html"
+breweryURL: "/brewery/doolittle-brewing-company.html"
 style: "IPA - American"
 ---

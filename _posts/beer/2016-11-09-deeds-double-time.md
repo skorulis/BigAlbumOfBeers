@@ -11,6 +11,6 @@ img: /img/list/deeds-double-time.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-quiet-deeds--double-time/3103751"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "brewery/deeds-brewing.html"
+breweryURL: "/brewery/deeds-brewing.html"
 style: "Pale Ale - American"
 ---

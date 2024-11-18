@@ -11,6 +11,6 @@ img: /img/list/devils-hollow-nosey-bob.jpeg
 untappd: "https://untappd.com/b/devils-hollow-brewery-nosey-bob-red-ale/3332811"
 country: "Australia"
 brewery: "Devil's Hollow Brewery"
-breweryURL: "brewery/devil-s-hollow-brewery.html"
+breweryURL: "/brewery/devil-s-hollow-brewery.html"
 style: "IPA - Red"
 ---

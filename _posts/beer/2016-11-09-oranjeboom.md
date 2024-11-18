@@ -11,6 +11,6 @@ img: /img/list/oranjeboom.jpeg
 untappd: "https://untappd.com/b/united-dutch-breweries-oranjeboom/7433"
 country: "Netherlands"
 brewery: "United Dutch Breweries"
-breweryURL: "brewery/united-dutch-breweries.html"
+breweryURL: "/brewery/united-dutch-breweries.html"
 style: "Lager - Euro"
 ---

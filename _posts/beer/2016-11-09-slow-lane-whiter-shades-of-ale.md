@@ -11,6 +11,6 @@ img: /img/list/slow-lane-whiter-shades-of-ale.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-whiter-shade-of-ale/5110267"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "brewery/slow-lane-brewing.html"
+breweryURL: "/brewery/slow-lane-brewing.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

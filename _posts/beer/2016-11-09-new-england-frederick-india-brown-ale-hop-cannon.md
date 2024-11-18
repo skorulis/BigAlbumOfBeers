@@ -11,6 +11,6 @@ img: /img/list/new-england-frederick-india-brown-ale-hop-cannon.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co--frederick-india-brown-ale-hop-cannon/756207"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "brewery/new-england-brewing-co.html"
+breweryURL: "/brewery/new-england-brewing-co.html"
 style: "Brown Ale - American"
 ---

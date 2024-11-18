@@ -11,6 +11,6 @@ img: /img/list/ueberquell-orange-sunshine.jpeg
 untappd: "https://untappd.com/b/uberquell-orange-sunshine-summer-wit/3830740"
 country: "Germany"
 brewery: "ÜberQuell"
-breweryURL: "brewery/ueberquell.html"
+breweryURL: "/brewery/ueberquell.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

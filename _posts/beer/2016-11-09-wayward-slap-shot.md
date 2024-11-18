@@ -11,6 +11,6 @@ img: /img/list/wayward-slap-shot.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-slapshot/2503338"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "brewery/wayward-brewing.html"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

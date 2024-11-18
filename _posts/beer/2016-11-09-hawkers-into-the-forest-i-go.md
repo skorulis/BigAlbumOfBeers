@@ -11,6 +11,6 @@ img: /img/list/hawkers-into-the-forest-i-go.jpeg
 untappd: "https://untappd.com/b/hawkers-beer-into-the-forest--i-go/3482354"
 country: "Australia"
 brewery: "Hawkers Beer"
-breweryURL: "brewery/hawkers-beer.html"
+breweryURL: "/brewery/hawkers-beer.html"
 style: "Sour - Fruited"
 ---

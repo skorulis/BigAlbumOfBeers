@@ -11,6 +11,6 @@ img: /img/list/urbanaut-summerland.jpeg
 untappd: "https://untappd.com/b/urbanaut-brewing-summerland-lime-salted-sour/3703955"
 country: "New Zealand"
 brewery: "Urbanaut Brewing"
-breweryURL: "brewery/urbanaut-brewing.html"
+breweryURL: "/brewery/urbanaut-brewing.html"
 style: "Sour - Fruited Gose"
 ---

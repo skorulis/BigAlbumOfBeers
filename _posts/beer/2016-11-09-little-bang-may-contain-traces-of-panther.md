@@ -11,6 +11,6 @@ img: /img/list/little-bang-may-contain-traces-of-panther.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-may-contain-traces-of-panther/1120919"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "brewery/little-bang-brewing-co.html"
+breweryURL: "/brewery/little-bang-brewing-co.html"
 style: "Porter - English"
 ---

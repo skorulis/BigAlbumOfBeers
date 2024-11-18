@@ -11,6 +11,6 @@ img: /img/list/buddy-s-lager.jpeg
 untappd: "https://untappd.com/b/buddy-brewing-co--buddys-lager/5169761"
 country: "United States"
 brewery: "Buddy Brewing Co."
-breweryURL: "brewery/buddy-brewing-co.html"
+breweryURL: "/brewery/buddy-brewing-co.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hope-black-ipa.jpeg
 untappd: "https://untappd.com/b/hope-brewhouse-black-ipa/1415695"
 country: "Australia"
 brewery: "Hope Brewhouse"
-breweryURL: "brewery/hope-brewhouse.html"
+breweryURL: "/brewery/hope-brewhouse.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

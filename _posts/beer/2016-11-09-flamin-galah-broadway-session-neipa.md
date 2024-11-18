@@ -11,6 +11,6 @@ img: /img/list/flamin-galah-broadway-session-neipa.jpeg
 untappd: "https://untappd.com/b/flamin-galah-brewing-co-flamin-galah-brewing-co-broadway-session-neipa/5565053"
 country: "Australia"
 brewery: "Flamin Galah Brewing Co"
-breweryURL: "brewery/flamin-galah-brewing-co.html"
+breweryURL: "/brewery/flamin-galah-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

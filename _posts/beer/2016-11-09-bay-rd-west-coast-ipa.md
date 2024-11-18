@@ -11,6 +11,6 @@ img: /img/list/bay-rd-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/bay-rd-brewing-west-coast-ipa/3835947"
 country: "Australia"
 brewery: "Bay Rd Brewing"
-breweryURL: "brewery/bay-rd-brewing.html"
+breweryURL: "/brewery/bay-rd-brewing.html"
 style: "IPA - American"
 ---

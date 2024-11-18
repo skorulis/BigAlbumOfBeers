@@ -11,6 +11,6 @@ img: /img/list/bulla-creek-session-ale.jpeg
 untappd: "https://untappd.com/b/bulla-creek-brewing-co-bulla-creek-brewing-co-session-ale/4635709"
 country: "Australia"
 brewery: "Bulla Creek Brewing Co"
-breweryURL: "brewery/bulla-creek-brewing-co.html"
+breweryURL: "/brewery/bulla-creek-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bierschmiede-zunder.jpeg
 untappd: "https://untappd.com/b/bierschmiede-zunder/1180573"
 country: "Austria"
 brewery: "Bierschmiede"
-breweryURL: "brewery/bierschmiede.html"
+breweryURL: "/brewery/bierschmiede.html"
 style: "Rauchbier"
 ---

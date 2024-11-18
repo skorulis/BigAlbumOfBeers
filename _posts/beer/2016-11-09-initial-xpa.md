@@ -11,6 +11,6 @@ img: /img/list/initial-xpa.jpeg
 untappd: "https://untappd.com/b/initial-brewing-xpa/4009763"
 country: "United States"
 brewery: "Initial Brewing"
-breweryURL: "brewery/initial-brewing.html"
+breweryURL: "/brewery/initial-brewing.html"
 style: "Pale Ale - Australian"
 ---

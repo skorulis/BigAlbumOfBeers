@@ -11,6 +11,6 @@ img: /img/list/rehn-extra-stout.jpeg
 untappd: "https://untappd.com/b/rehn-bier-extra-stout/378916"
 country: "Australia"
 brewery: "Rehn Bier"
-breweryURL: "brewery/rehn-bier.html"
+breweryURL: "/brewery/rehn-bier.html"
 style: "Stout - Other"
 ---

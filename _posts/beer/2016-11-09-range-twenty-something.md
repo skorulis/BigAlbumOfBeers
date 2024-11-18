@@ -11,6 +11,6 @@ img: /img/list/range-twenty-something.jpeg
 untappd: "https://untappd.com/b/range-brewing-twenty-something/4548596"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "brewery/range-brewing.html"
+breweryURL: "/brewery/range-brewing.html"
 style: "IPA - New England / Hazy"
 ---

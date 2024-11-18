@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-newtonian.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-newtopia/3991218"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "Pale Ale - International"
 ---

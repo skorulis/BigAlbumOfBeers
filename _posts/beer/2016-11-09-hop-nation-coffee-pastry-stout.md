@@ -11,6 +11,6 @@ img: /img/list/hop-nation-coffee-pastry-stout.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-coffee-pastry-stout/3821331"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "brewery/hop-nation-brewing-co.html"
+breweryURL: "/brewery/hop-nation-brewing-co.html"
 style: "Stout - Pastry"
 ---

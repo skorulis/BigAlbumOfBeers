@@ -11,6 +11,6 @@ img: /img/list/algorithm-pale-ale.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-group--woolworths--algorithm-brewing-pale-ale/4216415"
 country: "Australia"
 brewery: "Pinnacle Drinks Group (Woolworths)"
-breweryURL: "brewery/pinnacle-drinks-group--woolworths.html"
+breweryURL: "/brewery/pinnacle-drinks-group--woolworths.html"
 style: "Pale Ale - Australian"
 ---

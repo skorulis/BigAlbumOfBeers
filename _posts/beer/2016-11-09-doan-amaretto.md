@@ -11,6 +11,6 @@ img: /img/list/doan-amaretto.jpeg
 untappd: "https://untappd.com/b/doans-craft-brewing-company-no-82-amaretto/1984401"
 country: "Canada"
 brewery: "Doan's Craft Brewing Company"
-breweryURL: "brewery/doan-s-craft-brewing-company.html"
+breweryURL: "/brewery/doan-s-craft-brewing-company.html"
 style: "Altbier"
 ---

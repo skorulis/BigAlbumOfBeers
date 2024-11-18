@@ -11,6 +11,6 @@ img: /img/list/jack-black.jpeg
 untappd: "https://untappd.com/b/brains-jack-black/184233"
 country: "Wales"
 brewery: "Brains"
-breweryURL: "brewery/brains.html"
+breweryURL: "/brewery/brains.html"
 style: "Stout - Oatmeal"
 ---

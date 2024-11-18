@@ -11,6 +11,6 @@ img: /img/list/capital-chai-lee-brown-ale.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-chai-lie-brown-ale/2634618"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "brewery/capital-brewing-co.html"
+breweryURL: "/brewery/capital-brewing-co.html"
 style: "Spiced / Herbed Beer"
 ---

@@ -11,6 +11,6 @@ img: /img/list/burleigh-twisted-palm.jpeg
 untappd: "https://untappd.com/b/burleigh-brewing-co--twisted-palm-tropical-pale-ale/1686081"
 country: "Australia"
 brewery: "Burleigh Brewing Co."
-breweryURL: "brewery/burleigh-brewing-co.html"
+breweryURL: "/brewery/burleigh-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

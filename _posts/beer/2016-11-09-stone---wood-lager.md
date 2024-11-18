@@ -11,6 +11,6 @@ img: /img/list/stone---wood-lager.jpeg
 untappd: "https://untappd.com/b/stone---wood-green-coast/13577"
 country: "Australia"
 brewery: "Stone & Wood"
-breweryURL: "brewery/stone---wood.html"
+breweryURL: "/brewery/stone---wood.html"
 style: "Kellerbier / Zwickelbier"
 ---

@@ -11,6 +11,6 @@ img: /img/list/new-england-grandad-brown.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co--grandad-brown/3842714"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "brewery/new-england-brewing-co.html"
+breweryURL: "/brewery/new-england-brewing-co.html"
 style: "Brown Ale - English"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hitachino-ginger-ale.jpeg
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-real-ginger-ale/17674"
 country: "Japan"
 brewery: "Kiuchi Brewery"
-breweryURL: "brewery/kiuchi-brewery.html"
+breweryURL: "/brewery/kiuchi-brewery.html"
 style: "Ginger Beer"
 ---

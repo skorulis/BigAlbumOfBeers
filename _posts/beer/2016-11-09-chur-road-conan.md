@@ -11,6 +11,6 @@ img: /img/list/chur-road-conan.jpeg
 untappd: "https://untappd.com/b/chur-brewing-company-chur-road-conan/4008278"
 country: "New Zealand"
 brewery: "Chur Brewing Company"
-breweryURL: "brewery/chur-brewing-company.html"
+breweryURL: "/brewery/chur-brewing-company.html"
 style: "IPA - International"
 ---

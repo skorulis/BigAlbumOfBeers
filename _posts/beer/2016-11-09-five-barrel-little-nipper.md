@@ -11,6 +11,6 @@ img: /img/list/five-barrel-little-nipper.jpeg
 untappd: "https://untappd.com/b/five-barrel-brewing--little-nipper-hazy-ipa/4056804"
 country: "Australia"
 brewery: "Five Barrel Brewing "
-breweryURL: "brewery/five-barrel-brewing-.html"
+breweryURL: "/brewery/five-barrel-brewing-.html"
 style: "IPA - New England / Hazy"
 ---

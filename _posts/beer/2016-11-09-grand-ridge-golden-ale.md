@@ -11,6 +11,6 @@ img: /img/list/grand-ridge-golden-ale.jpeg
 untappd: "https://untappd.com/b/grand-ridge-brewery-golden-ale/1288806"
 country: "Australia"
 brewery: "Grand Ridge Brewery"
-breweryURL: "brewery/grand-ridge-brewery.html"
+breweryURL: "/brewery/grand-ridge-brewery.html"
 style: "Golden Ale"
 ---

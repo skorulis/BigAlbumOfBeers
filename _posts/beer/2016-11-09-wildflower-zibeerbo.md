@@ -11,6 +11,6 @@ img: /img/list/wildflower-zibeerbo.jpeg
 untappd: "https://untappd.com/b/wildflower-brewing---blending-zibeerbo-2022/5316922"
 country: "Australia"
 brewery: "Wildflower Brewing & Blending"
-breweryURL: "brewery/wildflower-brewing---blending.html"
+breweryURL: "/brewery/wildflower-brewing---blending.html"
 style: "Wild Ale - Other"
 ---

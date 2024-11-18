@@ -11,6 +11,6 @@ img: /img/list/san-miguel-pale-pilsen.jpeg
 untappd: "https://untappd.com/b/san-miguel-brewery-san-miguel-pale-pilsen/8956"
 country: "Philippines"
 brewery: "San Miguel Brewery"
-breweryURL: "brewery/san-miguel-brewery.html"
+breweryURL: "/brewery/san-miguel-brewery.html"
 style: "Pilsner - Other"
 ---

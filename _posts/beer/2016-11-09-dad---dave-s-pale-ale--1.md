@@ -11,6 +11,6 @@ img: /img/list/dad---dave-s-pale-ale--1.jpeg
 untappd: "https://untappd.com/b/dad---daves-brewing-1-pale-ale/203197"
 country: "Australia"
 brewery: "Dad & Dave's Brewing"
-breweryURL: "brewery/dad---dave-s-brewing.html"
+breweryURL: "/brewery/dad---dave-s-brewing.html"
 style: "Pale Ale - Australian"
 ---

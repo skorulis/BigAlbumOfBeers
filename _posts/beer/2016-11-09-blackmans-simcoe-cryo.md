@@ -11,6 +11,6 @@ img: /img/list/blackmans-simcoe-cryo.jpeg
 untappd: "https://untappd.com/b/blackmans-brewery-simcoe-cryo-pale/4600104"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "brewery/blackman-s-brewery.html"
+breweryURL: "/brewery/blackman-s-brewery.html"
 style: "Pale Ale - American"
 ---

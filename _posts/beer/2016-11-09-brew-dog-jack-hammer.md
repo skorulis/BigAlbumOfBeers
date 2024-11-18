@@ -11,6 +11,6 @@ img: /img/list/brew-dog-jack-hammer.jpeg
 untappd: "https://untappd.com/b/brewdog-jack-hammer/196338"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "brewery/brewdog.html"
+breweryURL: "/brewery/brewdog.html"
 style: "IPA - American"
 ---

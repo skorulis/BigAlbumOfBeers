@@ -11,6 +11,6 @@ img: /img/list/slow-lane-altogether.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-altogether/4558478"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "brewery/slow-lane-brewing.html"
+breweryURL: "/brewery/slow-lane-brewing.html"
 style: "Altbier"
 ---

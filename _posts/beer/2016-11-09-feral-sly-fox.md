@@ -11,6 +11,6 @@ img: /img/list/feral-sly-fox.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-sly-fox/461809"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "brewery/feral-brewing-company.html"
+breweryURL: "/brewery/feral-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/ballast-point-big-eye.jpeg
 untappd: "https://untappd.com/b/ballast-point-brewing---spirits-big-eye/2447"
 country: "United States"
 brewery: "Ballast Point Brewing & Spirits"
-breweryURL: "brewery/ballast-point-brewing---spirits.html"
+breweryURL: "/brewery/ballast-point-brewing---spirits.html"
 style: "IPA - American"
 ---

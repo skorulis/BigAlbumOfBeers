@@ -11,6 +11,6 @@ img: /img/list/woolshed-scorched-almond-porter.jpeg
 untappd: "https://untappd.com/b/woolshed-brewery-scorched-almond-porter/3905900"
 country: "Australia"
 brewery: "Woolshed Brewery"
-breweryURL: "brewery/woolshed-brewery.html"
+breweryURL: "/brewery/woolshed-brewery.html"
 style: "Porter - Other"
 ---

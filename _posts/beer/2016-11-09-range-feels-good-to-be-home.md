@@ -11,6 +11,6 @@ img: /img/list/range-feels-good-to-be-home.jpeg
 untappd: "https://untappd.com/b/range-brewing-feels-good-to-be-home/4709220"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "brewery/range-brewing.html"
+breweryURL: "/brewery/range-brewing.html"
 style: "IPA - New England / Hazy"
 ---

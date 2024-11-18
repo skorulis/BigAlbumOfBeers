@@ -11,6 +11,6 @@ img: /img/list/hope-oat-cream-ipa.jpeg
 untappd: "https://untappd.com/b/hope-brewery-oat-cream-ipa/4255404"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "brewery/hope-brewery.html"
+breweryURL: "/brewery/hope-brewery.html"
 style: "IPA - American"
 ---

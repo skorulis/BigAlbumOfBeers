@@ -11,6 +11,6 @@ img: /img/list/five-barrel-red-ipa.jpeg
 untappd: "https://untappd.com/b/five-barrel-brewing--navigator-red-ipa/4043262"
 country: "Australia"
 brewery: "Five Barrel Brewing "
-breweryURL: "brewery/five-barrel-brewing-.html"
+breweryURL: "/brewery/five-barrel-brewing-.html"
 style: "IPA - Red"
 ---

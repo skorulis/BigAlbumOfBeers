@@ -11,6 +11,6 @@ img: /img/list/newcastle-brown-ale.jpeg
 untappd: "https://untappd.com/b/john-smiths-newcastle-brown-ale/5856"
 country: "England"
 brewery: "John Smith's"
-breweryURL: "brewery/john-smith-s.html"
+breweryURL: "/brewery/john-smith-s.html"
 style: "Brown Ale - English"
 ---

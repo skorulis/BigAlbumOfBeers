@@ -72,7 +72,7 @@ extension CreatePostsCommand {
                 output += "country: \"\(country)\"\n"
             }
             if let brewery = extra?.untappd.brewery {
-                let breweryURL = "brewery/\(brewery.slugify()).html"
+                let breweryURL = "/brewery/\(brewery.slugify()).html"
                 output += "brewery: \"\(brewery)\"\n"
                 output += "breweryURL: \"\(breweryURL)\"\n"
             }

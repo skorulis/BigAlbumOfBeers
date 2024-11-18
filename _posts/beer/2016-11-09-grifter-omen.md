@@ -11,6 +11,6 @@ img: /img/list/grifter-omen.jpeg
 untappd: "https://untappd.com/b/grifter-brewing-company-the-omen/392493"
 country: "Australia"
 brewery: "Grifter Brewing Company"
-breweryURL: "brewery/grifter-brewing-company.html"
+breweryURL: "/brewery/grifter-brewing-company.html"
 style: "Stout - Oatmeal"
 ---

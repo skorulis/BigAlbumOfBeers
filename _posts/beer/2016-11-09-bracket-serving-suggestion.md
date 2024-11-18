@@ -11,6 +11,6 @@ img: /img/list/bracket-serving-suggestion.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-flight-recorder-do-not-open/4934289"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/stark-mango-ale.jpeg
 untappd: "https://untappd.com/b/pt-lovina-beach-brewery-stark-mango-ale/1332102"
 country: "Indonesia"
 brewery: "PT Lovina Beach Brewery"
-breweryURL: "brewery/pt-lovina-beach-brewery.html"
+breweryURL: "/brewery/pt-lovina-beach-brewery.html"
 style: "Fruit Beer"
 ---

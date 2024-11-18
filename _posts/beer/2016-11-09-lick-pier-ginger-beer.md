@@ -11,6 +11,6 @@ img: /img/list/lick-pier-ginger-beer.jpeg
 untappd: "https://untappd.com/b/east-9th-brewing-co--lick-pier-ginger-beer/196200"
 country: "Australia"
 brewery: "East 9th Brewing Co."
-breweryURL: "brewery/east-9th-brewing-co.html"
+breweryURL: "/brewery/east-9th-brewing-co.html"
 style: "Ginger Beer"
 ---

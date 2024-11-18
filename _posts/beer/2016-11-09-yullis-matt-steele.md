@@ -11,6 +11,6 @@ img: /img/list/yullis-matt-steele.jpeg
 untappd: "https://untappd.com/b/yullis-brews-matt-steele-railway-ale-apa/2774092"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "brewery/yulli-s-brews.html"
+breweryURL: "/brewery/yulli-s-brews.html"
 style: "Pale Ale - American"
 ---

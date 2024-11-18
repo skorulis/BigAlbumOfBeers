@@ -11,6 +11,6 @@ img: /img/list/bracket-east-side.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-bracket-brewing-east-side/5669663"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

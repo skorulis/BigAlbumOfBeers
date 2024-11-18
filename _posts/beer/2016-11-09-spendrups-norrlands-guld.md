@@ -11,6 +11,6 @@ img: /img/list/spendrups-norrlands-guld.jpeg
 untappd: "https://untappd.com/b/spendrups-bryggeri-norrlands-guld--3-5-/52902"
 country: "Sweden"
 brewery: "Spendrups Bryggeri"
-breweryURL: "brewery/spendrups-bryggeri.html"
+breweryURL: "/brewery/spendrups-bryggeri.html"
 style: "Lager - Pale"
 ---

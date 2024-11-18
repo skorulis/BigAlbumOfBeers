@@ -11,6 +11,6 @@ img: /img/list/brewhouse-pilsner.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-pilsner/1793093"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "brewery/basement-brewhouse.html"
+breweryURL: "/brewery/basement-brewhouse.html"
 style: "Pilsner - Czech"
 ---

@@ -11,6 +11,6 @@ img: /img/list/steamrail-pilsner.jpeg
 untappd: "https://untappd.com/b/steamrail-brewing-company--coles--hops-dropper/532438"
 country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
-breweryURL: "brewery/steamrail-brewing-company--coles.html"
+breweryURL: "/brewery/steamrail-brewing-company--coles.html"
 style: "Pilsner - Other"
 ---

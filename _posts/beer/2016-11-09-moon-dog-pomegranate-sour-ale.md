@@ -11,6 +11,6 @@ img: /img/list/moon-dog-pomegranate-sour-ale.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-jon-pom-jovi-pomegranate-sour-ale/4877549"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "brewery/moon-dog-craft-brewery.html"
+breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Sour - Fruited"
 ---

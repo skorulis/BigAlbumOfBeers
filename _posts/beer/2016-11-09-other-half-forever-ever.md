@@ -11,6 +11,6 @@ img: /img/list/other-half-forever-ever.jpeg
 untappd: "https://untappd.com/b/other-half-brewing-co-other-half-brewing-co-forever-ever/978286"
 country: "United States"
 brewery: "Other Half Brewing Co."
-breweryURL: "brewery/other-half-brewing-co.html"
+breweryURL: "/brewery/other-half-brewing-co.html"
 style: "IPA - Session"
 ---

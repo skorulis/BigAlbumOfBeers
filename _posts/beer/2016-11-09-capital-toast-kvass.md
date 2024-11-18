@@ -11,6 +11,6 @@ img: /img/list/capital-toast-kvass.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-toast-kvass/5118005"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "brewery/capital-brewing-co.html"
+breweryURL: "/brewery/capital-brewing-co.html"
 style: "Kvass"
 ---

@@ -11,6 +11,6 @@ img: /img/list/white-bay-you-ve-been-naughty.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co-white-bay-beer-co-you-ve-been-naughty/5613922"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "brewery/white-bay-beer-co.html"
+breweryURL: "/brewery/white-bay-beer-co.html"
 style: "IPA - Red"
 ---

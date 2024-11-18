@@ -11,6 +11,6 @@ img: /img/list/norman-australian-ale.jpeg
 untappd: "https://untappd.com/b/yullis-brews-norman-australian-ale/684769"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "brewery/yulli-s-brews.html"
+breweryURL: "/brewery/yulli-s-brews.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/modus-tropic-haze.jpeg
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--tropic-haze/2949673"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
-breweryURL: "brewery/modus-operandi-brewing-co.html"
+breweryURL: "/brewery/modus-operandi-brewing-co.html"
 style: "Pale Ale - American"
 ---

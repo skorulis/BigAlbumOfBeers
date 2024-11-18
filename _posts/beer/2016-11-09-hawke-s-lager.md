@@ -11,6 +11,6 @@ img: /img/list/hawke-s-lager.jpeg
 untappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-lager/2029518"
 country: "Australia"
 brewery: "Hawke's Brewing Co. "
-breweryURL: "brewery/hawke-s-brewing-co--.html"
+breweryURL: "/brewery/hawke-s-brewing-co--.html"
 style: "Lager - Pale"
 ---

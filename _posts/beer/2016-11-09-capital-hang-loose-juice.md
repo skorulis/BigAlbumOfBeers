@@ -11,6 +11,6 @@ img: /img/list/capital-hang-loose-juice.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-hang-loose-juice-/2888004"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "brewery/capital-brewing-co.html"
+breweryURL: "/brewery/capital-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

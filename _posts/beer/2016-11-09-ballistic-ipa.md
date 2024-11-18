@@ -11,6 +11,6 @@ img: /img/list/ballistic-ipa.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-revelation-ipa/3063293"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "brewery/ballistic-beer.html"
+breweryURL: "/brewery/ballistic-beer.html"
 style: "IPA - American"
 ---

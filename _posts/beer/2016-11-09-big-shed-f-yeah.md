@@ -11,6 +11,6 @@ img: /img/list/big-shed-f-yeah.jpeg
 untappd: "https://untappd.com/b/big-shed-brewing-concern-f-yeah-apa/635099"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
-breweryURL: "brewery/big-shed-brewing-concern.html"
+breweryURL: "/brewery/big-shed-brewing-concern.html"
 style: "Pale Ale - American"
 ---

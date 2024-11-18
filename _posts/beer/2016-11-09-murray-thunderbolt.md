@@ -11,6 +11,6 @@ img: /img/list/murray-thunderbolt.jpeg
 untappd: "https://untappd.com/b/murrays-brewing-co-thunderbolt/1302332"
 country: "Australia"
 brewery: "Murray's Brewing Co"
-breweryURL: "brewery/murray-s-brewing-co.html"
+breweryURL: "/brewery/murray-s-brewing-co.html"
 style: "IPA - American"
 ---

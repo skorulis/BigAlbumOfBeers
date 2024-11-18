@@ -11,6 +11,6 @@ img: /img/list/james-squire-honey-bee.jpeg
 untappd: "https://untappd.com/b/the-squires-landing-james-squire-honey-bee/4045217"
 country: "Australia"
 brewery: "The Squire’s Landing"
-breweryURL: "brewery/the-squire-s-landing.html"
+breweryURL: "/brewery/the-squire-s-landing.html"
 style: "Honey Beer"
 ---

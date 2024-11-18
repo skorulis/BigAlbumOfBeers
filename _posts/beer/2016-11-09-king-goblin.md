@@ -11,6 +11,6 @@ img: /img/list/king-goblin.jpeg
 untappd: "https://untappd.com/b/wychwood-brewery-king-goblin/15490"
 country: "England"
 brewery: "Wychwood Brewery"
-breweryURL: "brewery/wychwood-brewery.html"
+breweryURL: "/brewery/wychwood-brewery.html"
 style: "Strong Ale - English"
 ---

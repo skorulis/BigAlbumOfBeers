@@ -11,6 +11,6 @@ img: /img/list/southern-highlands-australian-blonde-ale.jpeg
 untappd: "https://untappd.com/b/southern-highlands-brewing-company-southern-highlands-brewing-company-naked-harvest/1878986"
 country: "Australia"
 brewery: "Southern Highlands Brewing Company"
-breweryURL: "brewery/southern-highlands-brewing-company.html"
+breweryURL: "/brewery/southern-highlands-brewing-company.html"
 style: "Blonde / Golden Ale - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/2-halfs-pantry-ipa.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-pantry-ipa/4830920"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "brewery/2-halfs-brewing-distilling.html"
+breweryURL: "/brewery/2-halfs-brewing-distilling.html"
 style: "IPA - American"
 ---

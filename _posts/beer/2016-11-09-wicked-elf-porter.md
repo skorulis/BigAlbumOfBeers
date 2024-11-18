@@ -11,6 +11,6 @@ img: /img/list/wicked-elf-porter.jpeg
 untappd: "https://untappd.com/b/the-little-brewing-company-wicked-elf-porter/169757"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "brewery/the-little-brewing-company.html"
+breweryURL: "/brewery/the-little-brewing-company.html"
 style: "Porter - English"
 ---

@@ -11,6 +11,6 @@ img: /img/list/single-take-session-ale.jpeg
 untappd: "https://untappd.com/b/baird-brewing-company-single-take-session-ale/22952"
 country: "Japan"
 brewery: "Baird Brewing Company"
-breweryURL: "brewery/baird-brewing-company.html"
+breweryURL: "/brewery/baird-brewing-company.html"
 style: "Pale Ale - Belgian"
 ---

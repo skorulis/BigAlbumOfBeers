@@ -11,6 +11,6 @@ img: /img/list/tuatara-vasta-farian.jpeg
 untappd: "https://untappd.com/b/tuatara-brewery-vastafarian--green-hopped-ipa--2017-harvest-/2039344"
 country: "New Zealand"
 brewery: "Tuatara Brewery"
-breweryURL: "brewery/tuatara-brewery.html"
+breweryURL: "/brewery/tuatara-brewery.html"
 style: "IPA - International"
 ---

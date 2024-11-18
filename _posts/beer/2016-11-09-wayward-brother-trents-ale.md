@@ -11,6 +11,6 @@ img: /img/list/wayward-brother-trents-ale.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-brother-trents-ale/5403546"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "brewery/wayward-brewing.html"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Belgian Strong Dark Ale"
 ---

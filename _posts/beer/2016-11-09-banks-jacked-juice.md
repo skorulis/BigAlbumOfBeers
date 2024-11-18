@@ -11,6 +11,6 @@ img: /img/list/banks-jacked-juice.jpeg
 untappd: "https://untappd.com/b/banks-brewing-jacked-juice/5229074"
 country: "Australia"
 brewery: "Banks Brewing"
-breweryURL: "brewery/banks-brewing.html"
+breweryURL: "/brewery/banks-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

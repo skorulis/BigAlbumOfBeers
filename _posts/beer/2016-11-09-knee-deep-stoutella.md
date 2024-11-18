@@ -11,6 +11,6 @@ img: /img/list/knee-deep-stoutella.jpeg
 untappd: "https://untappd.com/b/knee-deep-brewing-company-stoutello/1352478"
 country: "United States"
 brewery: "Knee Deep Brewing Company"
-breweryURL: "brewery/knee-deep-brewing-company.html"
+breweryURL: "/brewery/knee-deep-brewing-company.html"
 style: "Stout - Milk / Sweet"
 ---

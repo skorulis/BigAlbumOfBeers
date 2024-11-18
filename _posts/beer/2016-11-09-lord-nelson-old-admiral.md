@@ -11,6 +11,6 @@ img: /img/list/lord-nelson-old-admiral.jpeg
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-old-admiral/45881"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
-breweryURL: "brewery/the-lord-nelson-brewery-hotel.html"
+breweryURL: "/brewery/the-lord-nelson-brewery-hotel.html"
 style: "Strong Ale - English"
 ---

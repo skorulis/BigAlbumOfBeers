@@ -11,6 +11,6 @@ img: /img/list/partizan-single.jpeg
 untappd: "https://untappd.com/b/partizan-brewing-single/451393"
 country: "England"
 brewery: "Partizan Brewing"
-breweryURL: "brewery/partizan-brewing.html"
+breweryURL: "/brewery/partizan-brewing.html"
 style: "Pale Ale - Belgian"
 ---

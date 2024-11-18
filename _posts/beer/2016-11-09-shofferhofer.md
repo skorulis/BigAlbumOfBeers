@@ -11,6 +11,6 @@ img: /img/list/shofferhofer.jpeg
 untappd: "https://untappd.com/b/radeberger-gruppe-schofferhofer-weizen/7489"
 country: "Germany"
 brewery: "Radeberger Gruppe"
-breweryURL: "brewery/radeberger-gruppe.html"
+breweryURL: "/brewery/radeberger-gruppe.html"
 style: "Wheat Beer - Hefeweizen"
 ---

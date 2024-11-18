@@ -11,6 +11,6 @@ img: /img/list/canyon-gold.jpeg
 untappd: "https://untappd.com/b/canyon-brewing-canyon-gold/4685270"
 country: "New Zealand"
 brewery: "Canyon Brewing"
-breweryURL: "brewery/canyon-brewing.html"
+breweryURL: "/brewery/canyon-brewing.html"
 style: "Lager - Helles"
 ---

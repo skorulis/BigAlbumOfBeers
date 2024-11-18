@@ -11,6 +11,6 @@ img: /img/list/bandit-killer-sprocket.jpeg
 untappd: "https://untappd.com/b/killer-sprocket-bandit/539632"
 country: "Australia"
 brewery: "Killer Sprocket"
-breweryURL: "brewery/killer-sprocket.html"
+breweryURL: "/brewery/killer-sprocket.html"
 style: "Smoked Beer"
 ---

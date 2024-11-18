@@ -11,6 +11,6 @@ img: /img/list/holgate-norton-lager.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-norton-lager/1212038"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "brewery/holgate-brewhouse.html"
+breweryURL: "/brewery/holgate-brewhouse.html"
 style: "Lager - Helles"
 ---

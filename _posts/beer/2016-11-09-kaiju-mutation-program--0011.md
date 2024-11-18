@@ -11,6 +11,6 @@ img: /img/list/kaiju-mutation-program--0011.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-kbptdsmwciipawuta-west-coast-iipa---mutation-program-0011/5112808"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "brewery/kaiju--beer.html"
+breweryURL: "/brewery/kaiju--beer.html"
 style: "IPA - Imperial / Double"
 ---

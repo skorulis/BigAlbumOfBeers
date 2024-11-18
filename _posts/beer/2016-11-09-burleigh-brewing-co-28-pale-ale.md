@@ -11,6 +11,6 @@ img: /img/list/burleigh-brewing-co-28-pale-ale.jpeg
 untappd: "https://untappd.com/b/burleigh-brewing-co--28-pale-ale/21149"
 country: "Australia"
 brewery: "Burleigh Brewing Co."
-breweryURL: "brewery/burleigh-brewing-co.html"
+breweryURL: "/brewery/burleigh-brewing-co.html"
 style: "Pale Ale - American"
 ---

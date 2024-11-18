@@ -11,6 +11,6 @@ img: /img/list/endeavour-hoppy-days.jpeg
 untappd: "https://untappd.com/b/endeavour-brewing-co--hoppy-days-xpa/3321263"
 country: "Australia"
 brewery: "ENDEAVOUR Brewing Co."
-breweryURL: "brewery/endeavour-brewing-co.html"
+breweryURL: "/brewery/endeavour-brewing-co.html"
 style: "Pale Ale - International"
 ---

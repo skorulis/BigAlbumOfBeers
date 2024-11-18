@@ -11,6 +11,6 @@ img: /img/list/bacchus-lammingtonne.jpeg
 untappd: "https://untappd.com/b/bacchus-brewing-co--lamingtonne-imperial-dark-ale/1460175"
 country: "Australia"
 brewery: "Bacchus Brewing Co."
-breweryURL: "brewery/bacchus-brewing-co.html"
+breweryURL: "/brewery/bacchus-brewing-co.html"
 style: "Dark Ale"
 ---

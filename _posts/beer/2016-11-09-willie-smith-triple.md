@@ -10,5 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/willie-smith-triple.jpeg
 country: "Australia"
 brewery: "William Smith & Sons"
-breweryURL: "brewery/william-smith---sons.html"
+breweryURL: "/brewery/william-smith---sons.html"
 ---

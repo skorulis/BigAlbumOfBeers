@@ -11,6 +11,6 @@ img: /img/list/rocks-conviction-ipa.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-conviction-series--ipa/457324"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "brewery/rocks-brewing-co.html"
+breweryURL: "/brewery/rocks-brewing-co.html"
 style: "IPA - American"
 ---

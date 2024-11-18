@@ -11,6 +11,6 @@ img: /img/list/west-city-oaty-session-stout.jpeg
 untappd: "https://untappd.com/b/west-city-brewing-oaty-session-stout/1215504"
 country: "Australia"
 brewery: "West City Brewing"
-breweryURL: "brewery/west-city-brewing.html"
+breweryURL: "/brewery/west-city-brewing.html"
 style: "Stout - Oatmeal"
 ---

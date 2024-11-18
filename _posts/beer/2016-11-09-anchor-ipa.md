@@ -11,6 +11,6 @@ img: /img/list/anchor-ipa.jpeg
 untappd: "https://untappd.com/b/anchor-brewing-company-anchor-ipa/517772"
 country: "United States"
 brewery: "Anchor Brewing Company"
-breweryURL: "brewery/anchor-brewing-company.html"
+breweryURL: "/brewery/anchor-brewing-company.html"
 style: "IPA - American"
 ---

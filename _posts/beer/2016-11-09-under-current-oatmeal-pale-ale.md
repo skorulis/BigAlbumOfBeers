@@ -11,6 +11,6 @@ img: /img/list/under-current-oatmeal-pale-ale.jpeg
 untappd: "https://untappd.com/b/siren-craft-brew-undercurrent/323310"
 country: "England"
 brewery: "Siren Craft Brew"
-breweryURL: "brewery/siren-craft-brew.html"
+breweryURL: "/brewery/siren-craft-brew.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/western-ridge-summerye.jpeg
 untappd: "https://untappd.com/b/western-ridge-brewing-collective-summerye/2135211"
 country: "Australia"
 brewery: "Western Ridge Brewing Collective"
-breweryURL: "brewery/western-ridge-brewing-collective.html"
+breweryURL: "/brewery/western-ridge-brewing-collective.html"
 style: "Golden Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/roros-ale-with-a-tale.jpeg
 untappd: "https://untappd.com/b/roros-bryggeri-og-mineralvannfabrikk-ale-with-a-tail/5514713"
 country: "Norway"
 brewery: "Røros Bryggeri Og Mineralvannfabrikk"
-breweryURL: "brewery/roros-bryggeri-og-mineralvannfabrikk.html"
+breweryURL: "/brewery/roros-bryggeri-og-mineralvannfabrikk.html"
 style: "Fruit Beer"
 ---

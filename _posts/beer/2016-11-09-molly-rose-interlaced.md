@@ -11,6 +11,6 @@ img: /img/list/molly-rose-interlaced.jpeg
 untappd: "https://untappd.com/b/molly-rose-brewing-molly-rose-brewing-interlaced/5707240"
 country: "Australia"
 brewery: "Molly Rose Brewing"
-breweryURL: "brewery/molly-rose-brewing.html"
+breweryURL: "/brewery/molly-rose-brewing.html"
 style: "IPA - Imperial / Double"
 ---

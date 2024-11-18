@@ -11,6 +11,6 @@ img: /img/list/foghorn-king-street-pale.jpeg
 untappd: "https://untappd.com/b/foghorn-brewery--king-street-pale/3777438"
 country: "Australia"
 brewery: "FogHorn Brewery "
-breweryURL: "brewery/foghorn-brewery-.html"
+breweryURL: "/brewery/foghorn-brewery-.html"
 style: "Pale Ale - Australian"
 ---

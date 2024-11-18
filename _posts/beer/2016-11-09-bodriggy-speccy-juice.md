@@ -11,6 +11,6 @@ img: /img/list/bodriggy-speccy-juice.jpeg
 untappd: "https://untappd.com/b/bodriggy-brewing-co--speccy-juice/2638737"
 country: "Australia"
 brewery: "Bodriggy Brewing Co."
-breweryURL: "brewery/bodriggy-brewing-co.html"
+breweryURL: "/brewery/bodriggy-brewing-co.html"
 style: "IPA - Session"
 ---

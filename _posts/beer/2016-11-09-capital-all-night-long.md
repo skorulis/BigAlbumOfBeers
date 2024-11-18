@@ -11,6 +11,6 @@ img: /img/list/capital-all-night-long.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-all-night-long/4344514"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "brewery/capital-brewing-co.html"
+breweryURL: "/brewery/capital-brewing-co.html"
 style: "Lager - Dark"
 ---

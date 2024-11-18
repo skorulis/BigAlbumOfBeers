@@ -11,6 +11,6 @@ img: /img/list/pirate-life-strawberry---watermelon.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-strawberry---watermelon-crush/4777926"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Flavored Malt Beverage"
 ---

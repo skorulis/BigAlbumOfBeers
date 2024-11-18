@@ -11,6 +11,6 @@ img: /img/list/tumage-pale-ale.jpeg
 untappd: "https://untappd.com/b/pt-sinar-timur-sukses-tumage-pale-ale/2298227"
 country: "Indonesia"
 brewery: "PT Sinar Timur Sukses"
-breweryURL: "brewery/pt-sinar-timur-sukses.html"
+breweryURL: "/brewery/pt-sinar-timur-sukses.html"
 style: "Pale Ale - International"
 ---

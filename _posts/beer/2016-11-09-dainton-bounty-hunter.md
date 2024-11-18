@@ -11,6 +11,6 @@ img: /img/list/dainton-bounty-hunter.jpeg
 untappd: "https://untappd.com/b/dainton-brewery-bounty-hunter/3822870"
 country: "Australia"
 brewery: "Dainton Brewery"
-breweryURL: "brewery/dainton-brewery.html"
+breweryURL: "/brewery/dainton-brewery.html"
 style: "Stout - Milk / Sweet"
 ---

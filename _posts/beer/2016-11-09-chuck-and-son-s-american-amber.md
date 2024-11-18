@@ -11,6 +11,6 @@ img: /img/list/chuck-and-son-s-american-amber.jpeg
 untappd: "https://untappd.com/b/chuck-and-son-s-brewing-co-chuck-and-son-s-brewing-co-american-amber/5826548"
 country: "Australia"
 brewery: "Chuck and Son's Brewing Co."
-breweryURL: "brewery/chuck-and-son-s-brewing-co.html"
+breweryURL: "/brewery/chuck-and-son-s-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 ---

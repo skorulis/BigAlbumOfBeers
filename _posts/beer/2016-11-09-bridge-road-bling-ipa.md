@@ -11,6 +11,6 @@ img: /img/list/bridge-road-bling-ipa.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-bling-india-pale-ale/20844"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "brewery/bridge-road-brewers.html"
+breweryURL: "/brewery/bridge-road-brewers.html"
 style: "IPA - American"
 ---

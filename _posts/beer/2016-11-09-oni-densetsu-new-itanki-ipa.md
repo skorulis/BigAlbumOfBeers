@@ -11,6 +11,6 @@ img: /img/list/oni-densetsu-new-itanki-ipa.jpeg
 untappd: "https://untappd.com/b/wakasaimo-honpo-oni-densetsu-new-itanki-ipa--newipa-/5177770"
 country: "Japan"
 brewery: "Wakasaimo Honpo"
-breweryURL: "brewery/wakasaimo-honpo.html"
+breweryURL: "/brewery/wakasaimo-honpo.html"
 style: "IPA - New England / Hazy"
 ---

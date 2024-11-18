@@ -11,6 +11,6 @@ img: /img/list/little-creatures-pale-ale.jpeg
 untappd: "https://untappd.com/b/little-creatures-brewing-pale-ale/8261"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "brewery/little-creatures-brewing.html"
+breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/neon-beer-hug.jpeg
 untappd: "https://untappd.com/b/goose-island-beer-co-goose-island-beer-co-neon-beer-hug/4462193"
 country: "United States"
 brewery: "Goose Island Beer Co."
-breweryURL: "brewery/goose-island-beer-co.html"
+breweryURL: "/brewery/goose-island-beer-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/killer-sproket-rye-ipa.jpeg
 untappd: "https://untappd.com/b/killer-sprocket-rye-ipa/732602"
 country: "Australia"
 brewery: "Killer Sprocket"
-breweryURL: "brewery/killer-sprocket.html"
+breweryURL: "/brewery/killer-sprocket.html"
 style: "Rye IPA"
 ---

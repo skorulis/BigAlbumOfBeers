@@ -11,6 +11,6 @@ img: /img/list/brewdog-jet-black-heart.jpeg
 untappd: "https://untappd.com/b/brewdog-jet-black-heart/1416253"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "brewery/brewdog.html"
+breweryURL: "/brewery/brewdog.html"
 style: "Stout - Milk / Sweet"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-botanical-ipa.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-rare-breed--botanical-ipa/4103762"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "IPA - Imperial / Double"
 ---

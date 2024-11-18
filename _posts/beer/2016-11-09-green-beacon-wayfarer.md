@@ -11,6 +11,6 @@ img: /img/list/green-beacon-wayfarer.jpeg
 untappd: "https://untappd.com/b/green-beacon-brewing-company-wayfarer-/746072"
 country: "Australia"
 brewery: "Green Beacon Brewing Company"
-breweryURL: "brewery/green-beacon-brewing-company.html"
+breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "Pale Wheat Ale - American"
 ---

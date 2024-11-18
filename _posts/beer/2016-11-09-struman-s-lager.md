@@ -11,6 +11,6 @@ img: /img/list/struman-s-lager.jpeg
 untappd: "https://untappd.com/b/strumans-organic-beer-co--lager/2465068"
 country: "Australia"
 brewery: "STRUMAN'S Organic Beer Co."
-breweryURL: "brewery/struman-s-organic-beer-co.html"
+breweryURL: "/brewery/struman-s-organic-beer-co.html"
 style: "Lager - Pale"
 ---

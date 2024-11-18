@@ -11,6 +11,6 @@ img: /img/list/bracket-cashmere-pilsner.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-cashmere-pilsner/3991082"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Pilsner - Other"
 ---

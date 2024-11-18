@@ -11,6 +11,6 @@ img: /img/list/philter-henson-park-draught-.jpeg
 untappd: "https://untappd.com/b/philter-brewing-henson-park-draught/4366661"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "brewery/philter-brewing.html"
+breweryURL: "/brewery/philter-brewing.html"
 style: "Pale Ale - Australian"
 ---

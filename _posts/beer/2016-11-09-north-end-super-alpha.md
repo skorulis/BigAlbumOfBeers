@@ -11,6 +11,6 @@ img: /img/list/north-end-super-alpha.jpeg
 untappd: "https://untappd.com/b/north-end-brewing-super-alpha/772035"
 country: "New Zealand"
 brewery: "North End Brewing"
-breweryURL: "brewery/north-end-brewing.html"
+breweryURL: "/brewery/north-end-brewing.html"
 style: "Golden Ale"
 ---

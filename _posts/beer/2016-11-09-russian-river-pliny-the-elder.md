@@ -11,6 +11,6 @@ img: /img/list/russian-river-pliny-the-elder.jpeg
 untappd: "https://untappd.com/b/russian-river-brewing-company-pliny-the-elder/4499"
 country: "United States"
 brewery: "Russian River Brewing Company"
-breweryURL: "brewery/russian-river-brewing-company.html"
+breweryURL: "/brewery/russian-river-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

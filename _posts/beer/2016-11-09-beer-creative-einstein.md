@@ -11,6 +11,6 @@ img: /img/list/beer-creative-einstein.jpeg
 untappd: "https://untappd.com/b/beer-creative-einstein/1586058"
 country: "Australia"
 brewery: "Beer Creative"
-breweryURL: "brewery/beer-creative.html"
+breweryURL: "/brewery/beer-creative.html"
 style: "Schwarzbier"
 ---

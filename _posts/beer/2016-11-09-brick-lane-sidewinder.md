@@ -11,6 +11,6 @@ img: /img/list/brick-lane-sidewinder.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--sidewinder-low-alc-hazy-pale/4431965"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "brewery/brick-lane-brewing-co.html"
+breweryURL: "/brewery/brick-lane-brewing-co.html"
 style: "Pale Ale - New England / Hazy"
 ---

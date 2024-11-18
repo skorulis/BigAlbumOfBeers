@@ -11,6 +11,6 @@ img: /img/list/beerfarm-pineapple-sour.jpeg
 untappd: "https://untappd.com/b/beerfarm-pineapple-sour/2458852"
 country: "Australia"
 brewery: "Beerfarm"
-breweryURL: "brewery/beerfarm.html"
+breweryURL: "/brewery/beerfarm.html"
 style: "Sour - Berliner Weisse"
 ---

@@ -11,6 +11,6 @@ img: /img/list/shenanigans-hoppy-gonzales.jpeg
 untappd: "https://untappd.com/b/shenanigans-brewing-co--hoppy-gonzales/1187140"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "brewery/shenanigans-brewing-co.html"
+breweryURL: "/brewery/shenanigans-brewing-co.html"
 style: "Spiced / Herbed Beer"
 ---

@@ -11,6 +11,6 @@ img: /img/list/feral-war-hog.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-war-hog/1265794"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "brewery/feral-brewing-company.html"
+breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - American"
 ---

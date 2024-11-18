@@ -11,6 +11,6 @@ img: /img/list/frenchies-tropical-brut-ipa.jpeg
 untappd: "https://untappd.com/b/frenchies-tropical-brut-ipa/3576690"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "brewery/frenchies.html"
+breweryURL: "/brewery/frenchies.html"
 style: "IPA - Brut"
 ---

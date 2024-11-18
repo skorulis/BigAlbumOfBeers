@@ -11,6 +11,6 @@ img: /img/list/far-yeast-keison-hazama-blue.jpeg
 untappd: "https://untappd.com/b/far-yeast-brewing-company-keison-hazama-blue/4725110"
 country: "Japan"
 brewery: "Far Yeast Brewing Company"
-breweryURL: "brewery/far-yeast-brewing-company.html"
+breweryURL: "/brewery/far-yeast-brewing-company.html"
 style: "IPA - Other"
 ---

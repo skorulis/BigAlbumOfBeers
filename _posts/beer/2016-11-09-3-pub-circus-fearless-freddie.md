@@ -11,6 +11,6 @@ img: /img/list/3-pub-circus-fearless-freddie.jpeg
 untappd: "https://untappd.com/b/3-pub-circus-fearless-freddie/2634686"
 country: "Australia"
 brewery: "3 Pub Circus"
-breweryURL: "brewery/3-pub-circus.html"
+breweryURL: "/brewery/3-pub-circus.html"
 style: "IPA - Session / India Session Ale"
 ---

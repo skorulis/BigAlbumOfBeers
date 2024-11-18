@@ -11,6 +11,6 @@ img: /img/list/greenock-brewers-dark-ale.jpeg
 untappd: "https://untappd.com/b/greenock-brewers-dark-ale/1777370"
 country: "Australia"
 brewery: "Greenock Brewers"
-breweryURL: "brewery/greenock-brewers.html"
+breweryURL: "/brewery/greenock-brewers.html"
 style: "Porter - English"
 ---

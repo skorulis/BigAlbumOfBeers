@@ -11,6 +11,6 @@ img: /img/list/six-point-sweet-action.jpeg
 untappd: "https://untappd.com/b/sixpoint-brewery-sweet-action/2114503"
 country: "United States"
 brewery: "Sixpoint Brewery"
-breweryURL: "brewery/sixpoint-brewery.html"
+breweryURL: "/brewery/sixpoint-brewery.html"
 style: "Blonde Ale"
 ---

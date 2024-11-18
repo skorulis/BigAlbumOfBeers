@@ -11,6 +11,6 @@ img: /img/list/hawkes-opener-ipa.jpeg
 untappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-opener-ipa/4040962"
 country: "Australia"
 brewery: "Hawke's Brewing Co. "
-breweryURL: "brewery/hawke-s-brewing-co--.html"
+breweryURL: "/brewery/hawke-s-brewing-co--.html"
 style: "IPA - International"
 ---

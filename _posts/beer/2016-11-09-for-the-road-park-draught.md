@@ -11,6 +11,6 @@ img: /img/list/for-the-road-park-draught.jpeg
 untappd: "https://untappd.com/b/for-the-road-brewing-park-draught/3396448"
 country: "Australia"
 brewery: "For The Road Brewing"
-breweryURL: "brewery/for-the-road-brewing.html"
+breweryURL: "/brewery/for-the-road-brewing.html"
 style: "Kölsch"
 ---

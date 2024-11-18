@@ -11,6 +11,6 @@ img: /img/list/foxhat-metric-ipa.jpeg
 untappd: "https://untappd.com/b/fox-hat-brewing-metric-ipa/1138359"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "brewery/fox-hat-brewing.html"
+breweryURL: "/brewery/fox-hat-brewing.html"
 style: "IPA - Imperial / Double"
 ---

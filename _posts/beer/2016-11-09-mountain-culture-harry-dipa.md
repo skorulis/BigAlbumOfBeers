@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-harry-dipa.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--harry/4331645"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "brewery/mountain-culture-beer-co.html"
+breweryURL: "/brewery/mountain-culture-beer-co.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

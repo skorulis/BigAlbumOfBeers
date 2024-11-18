@@ -11,6 +11,6 @@ img: /img/list/hop-hog-ipa.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-hop-hog/12878"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "brewery/feral-brewing-company.html"
+breweryURL: "/brewery/feral-brewing-company.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/lord-howe-island-phasmid.jpeg
 untappd: "https://untappd.com/b/lord-howe-island-brewing-co--phasmid/3362512"
 country: "Australia"
 brewery: "Lord Howe Island Brewing Co."
-breweryURL: "brewery/lord-howe-island-brewing-co.html"
+breweryURL: "/brewery/lord-howe-island-brewing-co.html"
 style: "Pale Ale - American"
 ---

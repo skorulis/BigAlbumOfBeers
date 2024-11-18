@@ -11,6 +11,6 @@ img: /img/list/ueberquell-rambazica.jpeg
 untappd: "https://untappd.com/b/uberquell-rambazica-vodka-barrel-aged-bock/5122650"
 country: "Germany"
 brewery: "ÜberQuell"
-breweryURL: "brewery/ueberquell.html"
+breweryURL: "/brewery/ueberquell.html"
 style: "Bock - Hell / Maibock / Lentebock"
 ---

@@ -11,6 +11,6 @@ img: /img/list/coopers-62-pilsner.jpeg
 untappd: "https://untappd.com/b/coopers-brewery-coopers-62-pilsner/6098"
 country: "Australia"
 brewery: "Coopers Brewery"
-breweryURL: "brewery/coopers-brewery.html"
+breweryURL: "/brewery/coopers-brewery.html"
 style: "Pilsner - Czech"
 ---

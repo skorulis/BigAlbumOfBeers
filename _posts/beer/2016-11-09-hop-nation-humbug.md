@@ -11,6 +11,6 @@ img: /img/list/hop-nation-humbug.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-humbug/3977239"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "brewery/hop-nation-brewing-co.html"
+breweryURL: "/brewery/hop-nation-brewing-co.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

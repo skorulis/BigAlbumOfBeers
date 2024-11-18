@@ -11,6 +11,6 @@ img: /img/list/all-star-session-ipa.jpeg
 untappd: "https://untappd.com/b/-australian-brewery-all-star-session-ipa/991902"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "brewery/-australian-brewery.html"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "IPA - Session / India Session Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brontide-smooth-black-ale.jpeg
 untappd: "https://untappd.com/b/stillwater-artisanal-ales-brontide/629594"
 country: "United States"
 brewery: "Stillwater Artisanal Ales"
-breweryURL: "brewery/stillwater-artisanal-ales.html"
+breweryURL: "/brewery/stillwater-artisanal-ales.html"
 style: "Dark Ale"
 ---

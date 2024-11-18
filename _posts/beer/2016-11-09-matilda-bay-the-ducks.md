@@ -11,6 +11,6 @@ img: /img/list/matilda-bay-the-ducks.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-the-ducks/838331"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "brewery/matilda-bay-brewing-company.html"
+breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

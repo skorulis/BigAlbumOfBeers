@@ -11,6 +11,6 @@ img: /img/list/all-inn-red-ipa.jpeg
 untappd: "https://untappd.com/b/all-inn-brewing-co--red-ipa/4737226"
 country: "Australia"
 brewery: "All Inn Brewing Co."
-breweryURL: "brewery/all-inn-brewing-co.html"
+breweryURL: "/brewery/all-inn-brewing-co.html"
 style: "IPA - Red"
 ---

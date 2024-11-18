@@ -11,6 +11,6 @@ img: /img/list/garage-project-infinite-reflections.jpeg
 untappd: "https://untappd.com/b/garage-project-infinite-reflections/5148251"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "brewery/garage-project.html"
+breweryURL: "/brewery/garage-project.html"
 style: "IPA - New England / Hazy"
 ---

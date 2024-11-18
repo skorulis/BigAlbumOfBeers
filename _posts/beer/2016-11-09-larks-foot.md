@@ -11,6 +11,6 @@ img: /img/list/larks-foot.jpeg
 untappd: "https://untappd.com/b/sail---anchor-larks-foot-golden-ale/246279"
 country: "Australia"
 brewery: "Sail & Anchor"
-breweryURL: "brewery/sail---anchor.html"
+breweryURL: "/brewery/sail---anchor.html"
 style: "Golden Ale"
 ---

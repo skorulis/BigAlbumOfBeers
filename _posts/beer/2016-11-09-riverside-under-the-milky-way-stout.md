@@ -11,6 +11,6 @@ img: /img/list/riverside-under-the-milky-way-stout.jpeg
 untappd: "https://untappd.com/b/riverside-brewing-company-under-the-milky-way/1736446"
 country: "Australia"
 brewery: "Riverside Brewing Company"
-breweryURL: "brewery/riverside-brewing-company.html"
+breweryURL: "/brewery/riverside-brewing-company.html"
 style: "Stout - Milk / Sweet"
 ---

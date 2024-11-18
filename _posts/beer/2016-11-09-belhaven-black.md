@@ -11,6 +11,6 @@ img: /img/list/belhaven-black.jpeg
 untappd: "https://untappd.com/b/belhaven-brewery-belhaven-black/136568"
 country: "Scotland"
 brewery: "Belhaven Brewery"
-breweryURL: "brewery/belhaven-brewery.html"
+breweryURL: "/brewery/belhaven-brewery.html"
 style: "Stout - Irish Dry"
 ---

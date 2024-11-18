@@ -11,6 +11,6 @@ img: /img/list/eelriver-amber-ale.jpeg
 untappd: "https://untappd.com/b/eel-river-brewing-company-organic-amber-ale/1211684"
 country: "United States"
 brewery: "Eel River Brewing Company"
-breweryURL: "brewery/eel-river-brewing-company.html"
+breweryURL: "/brewery/eel-river-brewing-company.html"
 style: "Red Ale - American Amber / Red"
 ---

@@ -11,6 +11,6 @@ img: /img/list/eden-phoenix.jpeg
 untappd: "https://untappd.com/b/eden-brewery-phoenix-d-kottbusser/1919056"
 country: "Australia"
 brewery: "Eden Brewery"
-breweryURL: "brewery/eden-brewery.html"
+breweryURL: "/brewery/eden-brewery.html"
 style: "Specialty Grain"
 ---

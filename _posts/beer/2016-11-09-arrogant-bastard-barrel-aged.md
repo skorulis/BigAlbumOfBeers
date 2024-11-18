@@ -11,6 +11,6 @@ img: /img/list/arrogant-bastard-barrel-aged.jpeg
 untappd: "https://untappd.com/b/arrogant-brewing-bourbon-barrel-aged-arrogant-bastard/29100"
 country: "United States"
 brewery: "Arrogant Brewing"
-breweryURL: "brewery/arrogant-brewing.html"
+breweryURL: "/brewery/arrogant-brewing.html"
 style: "Strong Ale - American"
 ---

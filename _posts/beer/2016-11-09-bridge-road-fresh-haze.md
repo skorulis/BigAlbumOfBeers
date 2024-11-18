@@ -11,6 +11,6 @@ img: /img/list/bridge-road-fresh-haze.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-harvest-haze---fresh-hop-ipa/3796719"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "brewery/bridge-road-brewers.html"
+breweryURL: "/brewery/bridge-road-brewers.html"
 style: "IPA - International"
 ---

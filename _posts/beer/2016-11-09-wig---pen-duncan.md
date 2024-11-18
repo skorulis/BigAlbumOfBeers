@@ -11,6 +11,6 @@ img: /img/list/wig---pen-duncan.jpeg
 untappd: "https://untappd.com/b/wig---pen-brewery-duncan/1292592"
 country: "Australia"
 brewery: "Wig & Pen Brewery"
-breweryURL: "brewery/wig---pen-brewery.html"
+breweryURL: "/brewery/wig---pen-brewery.html"
 style: "Sour - Gose"
 ---

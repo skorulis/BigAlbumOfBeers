@@ -11,6 +11,6 @@ img: /img/list/pirate-life-north-west-pale.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-north-west-pale/3348157"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Pale Ale - American"
 ---

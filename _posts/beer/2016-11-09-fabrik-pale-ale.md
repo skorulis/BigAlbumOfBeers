@@ -11,6 +11,6 @@ img: /img/list/fabrik-pale-ale.jpeg
 untappd: "https://untappd.com/b/bierfabrik-schabrackentabier/697361"
 country: "Germany"
 brewery: "Bierfabrik"
-breweryURL: "brewery/bierfabrik.html"
+breweryURL: "/brewery/bierfabrik.html"
 style: "Pale Ale - American"
 ---

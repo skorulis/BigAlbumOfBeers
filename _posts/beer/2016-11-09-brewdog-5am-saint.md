@@ -11,6 +11,6 @@ img: /img/list/brewdog-5am-saint.jpeg
 untappd: "https://untappd.com/b/brewdog-five-am-saint/6976"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "brewery/brewdog.html"
+breweryURL: "/brewery/brewdog.html"
 style: "Red Ale - American Amber / Red"
 ---

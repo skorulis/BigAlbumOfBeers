@@ -11,6 +11,6 @@ img: /img/list/mixtape-rise-of-an-empire.jpeg
 untappd: "https://untappd.com/b/mixtape-brewing-rise-of-an-empire/4825647"
 country: "Australia"
 brewery: "Mixtape Brewing"
-breweryURL: "brewery/mixtape-brewing.html"
+breweryURL: "/brewery/mixtape-brewing.html"
 style: "Stout - Imperial / Double"
 ---

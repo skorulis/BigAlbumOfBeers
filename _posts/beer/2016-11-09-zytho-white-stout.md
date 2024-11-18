@@ -11,6 +11,6 @@ img: /img/list/zytho-white-stout.jpeg
 untappd: "https://untappd.com/b/zytho-brewing-white-stout/3915074"
 country: "Australia"
 brewery: "Zytho Brewing"
-breweryURL: "brewery/zytho-brewing.html"
+breweryURL: "/brewery/zytho-brewing.html"
 style: "Stout - White"
 ---

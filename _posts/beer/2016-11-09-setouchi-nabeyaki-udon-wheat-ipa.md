@@ -11,6 +11,6 @@ img: /img/list/setouchi-nabeyaki-udon-wheat-ipa.jpeg
 untappd: "https://untappd.com/b/setouchi-nabeyaki-udon-wheat-ipa/5243490"
 country: "Japan"
 brewery: "Setouchi"
-breweryURL: "brewery/setouchi.html"
+breweryURL: "/brewery/setouchi.html"
 style: "IPA - White / Wheat"
 ---

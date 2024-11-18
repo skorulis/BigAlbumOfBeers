@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-mango-milkshake-ipa.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--the-awesome-beer/4816310"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "brewery/mountain-culture-beer-co.html"
+breweryURL: "/brewery/mountain-culture-beer-co.html"
 style: "IPA - Imperial / Double Milkshake"
 ---

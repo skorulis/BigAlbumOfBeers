@@ -11,6 +11,6 @@ img: /img/list/tizzle-tazzle.jpeg
 untappd: "https://untappd.com/b/duckpond-brewing-tizzle-tazzle/3393765"
 country: "Sweden"
 brewery: "Duckpond Brewing"
-breweryURL: "brewery/duckpond-brewing.html"
+breweryURL: "/brewery/duckpond-brewing.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

@@ -11,6 +11,6 @@ img: /img/list/two-birds-hopped-across-the-ditch.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-hopped-across-the-ditch/3620397"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "brewery/two-birds-brewing.html"
+breweryURL: "/brewery/two-birds-brewing.html"
 style: "Pilsner - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/moon-dog-thunder-lips.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-thunder-lips/2587136"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "brewery/moon-dog-craft-brewery.html"
+breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "IPA - Red"
 ---

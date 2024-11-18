@@ -11,6 +11,6 @@ img: /img/list/founders-curmudgeon-2017.jpeg
 untappd: "https://untappd.com/b/founders-brewing-co--curmudgeon-old-ale--2017-/1965784"
 country: "United States"
 brewery: "Founders Brewing Co."
-breweryURL: "brewery/founders-brewing-co.html"
+breweryURL: "/brewery/founders-brewing-co.html"
 style: "Old Ale"
 ---

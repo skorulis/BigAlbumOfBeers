@@ -11,6 +11,6 @@ img: /img/list/the-mill-giddy-up.jpeg
 untappd: "https://untappd.com/b/the-mill-brewery--giddy-up/5141102"
 country: "Australia"
 brewery: "The Mill Brewery "
-breweryURL: "brewery/the-mill-brewery-.html"
+breweryURL: "/brewery/the-mill-brewery-.html"
 style: "IPA - Imperial / Double"
 ---

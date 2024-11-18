@@ -11,6 +11,6 @@ img: /img/list/moon-dog-ogden-nash-pash-rash.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-ogden-nashs-pash-rash/1101667"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "brewery/moon-dog-craft-brewery.html"
+breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Stout - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/allagash-river-trip.jpeg
 untappd: "https://untappd.com/b/allagash-brewing-company-river-trip/2990112"
 country: "United States"
 brewery: "Allagash Brewing Company"
-breweryURL: "brewery/allagash-brewing-company.html"
+breweryURL: "/brewery/allagash-brewing-company.html"
 style: "Pale Ale - Belgian"
 ---

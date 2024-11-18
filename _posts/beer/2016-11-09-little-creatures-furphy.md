@@ -11,6 +11,6 @@ img: /img/list/little-creatures-furphy.jpeg
 untappd: "https://untappd.com/b/little-creatures-brewing-furphy/759496"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "brewery/little-creatures-brewing.html"
+breweryURL: "/brewery/little-creatures-brewing.html"
 style: "Kölsch"
 ---

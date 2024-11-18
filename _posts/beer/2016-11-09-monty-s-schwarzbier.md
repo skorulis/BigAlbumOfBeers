@@ -11,6 +11,6 @@ img: /img/list/monty-s-schwarzbier.jpeg
 untappd: "https://untappd.com/b/monty-brewing-co--schwarzbier/3356367"
 country: "Australia"
 brewery: "Monty Brewing Co."
-breweryURL: "brewery/monty-brewing-co.html"
+breweryURL: "/brewery/monty-brewing-co.html"
 style: "Schwarzbier"
 ---

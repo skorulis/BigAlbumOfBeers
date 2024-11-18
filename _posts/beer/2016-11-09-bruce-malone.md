@@ -11,6 +11,6 @@ img: /img/list/bruce-malone.jpeg
 untappd: "https://untappd.com/b/yullis-brews-bruce-malone/821236"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "brewery/yulli-s-brews.html"
+breweryURL: "/brewery/yulli-s-brews.html"
 style: "IPA - English"
 ---

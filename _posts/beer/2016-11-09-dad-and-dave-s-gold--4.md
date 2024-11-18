@@ -11,6 +11,6 @@ img: /img/list/dad-and-dave-s-gold--4.jpeg
 untappd: "https://untappd.com/b/dad---daves-brewing-4-daves-gold/1759538"
 country: "Australia"
 brewery: "Dad & Dave's Brewing"
-breweryURL: "brewery/dad---dave-s-brewing.html"
+breweryURL: "/brewery/dad---dave-s-brewing.html"
 style: "Golden Ale"
 ---

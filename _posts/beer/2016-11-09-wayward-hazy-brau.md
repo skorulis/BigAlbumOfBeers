@@ -11,6 +11,6 @@ img: /img/list/wayward-hazy-brau.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-hazy-brau/3518586"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "brewery/wayward-brewing.html"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Pale Ale - New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/old-wives-ale-horn-swatter.jpeg
 untappd: "https://untappd.com/b/old-wives-ales-horn-swatter/2107344"
 country: "Australia"
 brewery: "Old Wives Ales"
-breweryURL: "brewery/old-wives-ales.html"
+breweryURL: "/brewery/old-wives-ales.html"
 style: "Stout - American"
 ---

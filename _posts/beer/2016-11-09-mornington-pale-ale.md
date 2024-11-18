@@ -11,6 +11,6 @@ img: /img/list/mornington-pale-ale.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-pale/24357"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "brewery/mornington-peninsula-brewery.html"
+breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Pale Ale - American"
 ---

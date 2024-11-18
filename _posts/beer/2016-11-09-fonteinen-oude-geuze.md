@@ -11,6 +11,6 @@ img: /img/list/fonteinen-oude-geuze.jpeg
 untappd: "https://untappd.com/b/brouwerij-3-fonteinen-oude-geuze/4009"
 country: "Belgium"
 brewery: "Brouwerij 3 Fonteinen"
-breweryURL: "brewery/brouwerij-3-fonteinen.html"
+breweryURL: "/brewery/brouwerij-3-fonteinen.html"
 style: "Sour - Gueuze"
 ---

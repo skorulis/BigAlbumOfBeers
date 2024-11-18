@@ -11,6 +11,6 @@ img: /img/list/murray-s-laguna.jpeg
 untappd: "https://untappd.com/b/murrays-brewing-co-laguna/3328756"
 country: "Australia"
 brewery: "Murray's Brewing Co"
-breweryURL: "brewery/murray-s-brewing-co.html"
+breweryURL: "/brewery/murray-s-brewing-co.html"
 style: "IPA - Brut"
 ---

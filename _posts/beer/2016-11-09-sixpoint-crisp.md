@@ -11,6 +11,6 @@ img: /img/list/sixpoint-crisp.jpeg
 untappd: "https://untappd.com/b/sixpoint-brewery-the-crisp/11517"
 country: "United States"
 brewery: "Sixpoint Brewery"
-breweryURL: "brewery/sixpoint-brewery.html"
+breweryURL: "/brewery/sixpoint-brewery.html"
 style: "Pilsner - German"
 ---

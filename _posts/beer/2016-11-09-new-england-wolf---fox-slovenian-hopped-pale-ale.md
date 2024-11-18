@@ -11,6 +11,6 @@ img: /img/list/new-england-wolf---fox-slovenian-hopped-pale-ale.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co--wolf---fox-slovenian-hopped-pale-ale/4620805"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "brewery/new-england-brewing-co.html"
+breweryURL: "/brewery/new-england-brewing-co.html"
 style: "Pale Ale - International"
 ---

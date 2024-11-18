@@ -11,6 +11,6 @@ img: /img/list/scorcher-summer-ale.jpeg
 untappd: "https://untappd.com/b/cricketers-arms-scorcher-summer-ale/1256342"
 country: "Australia"
 brewery: "Cricketers Arms"
-breweryURL: "brewery/cricketers-arms.html"
+breweryURL: "/brewery/cricketers-arms.html"
 style: "Golden Ale"
 ---

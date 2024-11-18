@@ -11,6 +11,6 @@ img: /img/list/mornington-why-so-cereal.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-why-so-cereal/1450494"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "brewery/mornington-peninsula-brewery.html"
+breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Pale Ale - American"
 ---

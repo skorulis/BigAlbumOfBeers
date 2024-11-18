@@ -11,6 +11,6 @@ img: /img/list/maui-big-swell.jpeg
 untappd: "https://untappd.com/b/maui-brewing-company-big-swell-ipa/5382"
 country: "United States"
 brewery: "Maui Brewing Company"
-breweryURL: "brewery/maui-brewing-company.html"
+breweryURL: "/brewery/maui-brewing-company.html"
 style: "IPA - American"
 ---

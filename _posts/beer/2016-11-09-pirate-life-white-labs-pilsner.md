@@ -11,6 +11,6 @@ img: /img/list/pirate-life-white-labs-pilsner.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-white-labs-pilsner/1851522"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Pilsner - Other"
 ---

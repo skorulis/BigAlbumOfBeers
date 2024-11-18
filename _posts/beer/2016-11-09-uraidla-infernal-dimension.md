@@ -11,6 +11,6 @@ img: /img/list/uraidla-infernal-dimension.jpeg
 untappd: "https://untappd.com/b/the-uraidla-brewery-infernal-dimension/5112804"
 country: "Australia"
 brewery: "The Uraidla Brewery"
-breweryURL: "brewery/the-uraidla-brewery.html"
+breweryURL: "/brewery/the-uraidla-brewery.html"
 style: "IPA - Red"
 ---

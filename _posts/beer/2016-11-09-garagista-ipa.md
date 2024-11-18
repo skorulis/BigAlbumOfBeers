@@ -11,6 +11,6 @@ img: /img/list/garagista-ipa.jpeg
 untappd: "https://untappd.com/b/garage-project-garagista/504806"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "brewery/garage-project.html"
+breweryURL: "/brewery/garage-project.html"
 style: "IPA - American"
 ---

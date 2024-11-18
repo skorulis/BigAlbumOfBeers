@@ -11,6 +11,6 @@ img: /img/list/revel-hopbro-superchoice.jpeg
 untappd: "https://untappd.com/b/revel-brewing-co-hopbro-superchoice/4037247"
 country: "Australia"
 brewery: "Revel Brewing Co"
-breweryURL: "brewery/revel-brewing-co.html"
+breweryURL: "/brewery/revel-brewing-co.html"
 style: "IPA - New Zealand"
 ---

@@ -11,6 +11,6 @@ img: /img/list/capital-spring-board-pale-wheat-ale.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-spring-board/1729062"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "brewery/capital-brewing-co.html"
+breweryURL: "/brewery/capital-brewing-co.html"
 style: "Pale Wheat Ale - American"
 ---

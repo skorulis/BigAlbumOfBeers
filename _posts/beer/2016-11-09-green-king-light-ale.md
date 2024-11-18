@@ -11,6 +11,6 @@ img: /img/list/green-king-light-ale.jpeg
 untappd: "https://untappd.com/b/greene-king-light-ale/76411"
 country: "England"
 brewery: "Greene King"
-breweryURL: "brewery/greene-king.html"
+breweryURL: "/brewery/greene-king.html"
 style: "Pale Ale - English"
 ---

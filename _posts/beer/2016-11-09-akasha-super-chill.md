@@ -11,6 +11,6 @@ img: /img/list/akasha-super-chill.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-super-chill/4544089"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "brewery/akasha-brewing-company.html"
+breweryURL: "/brewery/akasha-brewing-company.html"
 style: "Pale Ale - American"
 ---

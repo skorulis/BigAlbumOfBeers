@@ -11,6 +11,6 @@ img: /img/list/ayinger-kellerbier.jpeg
 untappd: "https://untappd.com/b/ayinger-privatbrauerei-ayinger-kellerbier/129055"
 country: "Germany"
 brewery: "Ayinger Privatbrauerei"
-breweryURL: "brewery/ayinger-privatbrauerei.html"
+breweryURL: "/brewery/ayinger-privatbrauerei.html"
 style: "Kellerbier / Zwickelbier"
 ---

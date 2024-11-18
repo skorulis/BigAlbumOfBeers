@@ -11,6 +11,6 @@ img: /img/list/krombacher-dark.jpeg
 untappd: "https://untappd.com/b/krombacher-gruppe-krombacher-dark/49132"
 country: "Germany"
 brewery: "Krombacher Gruppe"
-breweryURL: "brewery/krombacher-gruppe.html"
+breweryURL: "/brewery/krombacher-gruppe.html"
 style: "Schwarzbier"
 ---

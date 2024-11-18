@@ -11,6 +11,6 @@ img: /img/list/carter-premium-lager.jpeg
 untappd: "https://untappd.com/b/southern-beverages-australia-carter-premium-lager/73167"
 country: "Australia"
 brewery: "Southern Beverages Australia"
-breweryURL: "brewery/southern-beverages-australia.html"
+breweryURL: "/brewery/southern-beverages-australia.html"
 style: "Lager - Pale"
 ---

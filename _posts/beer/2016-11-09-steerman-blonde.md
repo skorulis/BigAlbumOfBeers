@@ -11,6 +11,6 @@ img: /img/list/steerman-blonde.jpeg
 untappd: "https://untappd.com/b/steersman-blonde/1601326"
 country: "Australia"
 brewery: "Steersman"
-breweryURL: "brewery/steersman.html"
+breweryURL: "/brewery/steersman.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/timmermans-peche-lambic-beer.jpeg
 untappd: "https://untappd.com/b/brewery-john-martin---brewery-timmermans-timmermans-peche-lambic/17105"
 country: "Belgium"
 brewery: "Brewery John Martin & Brewery Timmermans"
-breweryURL: "brewery/brewery-john-martin---brewery-timmermans.html"
+breweryURL: "/brewery/brewery-john-martin---brewery-timmermans.html"
 style: "Lambic - Fruit"
 ---

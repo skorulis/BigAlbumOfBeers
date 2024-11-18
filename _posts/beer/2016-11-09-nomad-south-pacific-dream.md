@@ -11,6 +11,6 @@ img: /img/list/nomad-south-pacific-dream.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--south-pacific-dream/2463259"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "brewery/nomad-brewing-co.html"
+breweryURL: "/brewery/nomad-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

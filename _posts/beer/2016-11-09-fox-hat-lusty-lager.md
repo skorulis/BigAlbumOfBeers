@@ -11,6 +11,6 @@ img: /img/list/fox-hat-lusty-lager.jpeg
 untappd: "https://untappd.com/b/fox-hat-brewing-lusty-lager/1338046"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "brewery/fox-hat-brewing.html"
+breweryURL: "/brewery/fox-hat-brewing.html"
 style: "Lager - Euro Strong"
 ---

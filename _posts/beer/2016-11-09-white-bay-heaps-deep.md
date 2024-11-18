@@ -11,6 +11,6 @@ img: /img/list/white-bay-heaps-deep.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--heaps-deep-ipa/4167234"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "brewery/white-bay-beer-co.html"
+breweryURL: "/brewery/white-bay-beer-co.html"
 style: "IPA - American"
 ---

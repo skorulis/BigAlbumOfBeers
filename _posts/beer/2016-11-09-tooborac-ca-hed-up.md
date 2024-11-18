@@ -11,6 +11,6 @@ img: /img/list/tooborac-ca-hed-up.jpeg
 untappd: "https://untappd.com/b/tooborac-beer-cahed-up-summer-ale/1367199"
 country: "Australia"
 brewery: "Tooborac Beer"
-breweryURL: "brewery/tooborac-beer.html"
+breweryURL: "/brewery/tooborac-beer.html"
 style: "Pale Ale - Australian"
 ---

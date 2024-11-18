@@ -11,6 +11,6 @@ img: /img/list/searchlight-belgian-dubbel.jpeg
 untappd: "https://untappd.com/b/searchlight-brewery-belgian-dubbel/4949875"
 country: "New Zealand"
 brewery: "Searchlight Brewery"
-breweryURL: "brewery/searchlight-brewery.html"
+breweryURL: "/brewery/searchlight-brewery.html"
 style: "Belgian Dubbel"
 ---

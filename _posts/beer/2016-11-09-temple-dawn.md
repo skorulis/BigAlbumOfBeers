@@ -11,6 +11,6 @@ img: /img/list/temple-dawn.jpeg
 untappd: "https://untappd.com/b/temple-brewing-co--dawn-american-sour/2969999"
 country: "Australia"
 brewery: "Temple Brewing Co."
-breweryURL: "brewery/temple-brewing-co.html"
+breweryURL: "/brewery/temple-brewing-co.html"
 style: "Sour - Ale"
 ---

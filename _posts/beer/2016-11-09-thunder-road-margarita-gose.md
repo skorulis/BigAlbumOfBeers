@@ -11,6 +11,6 @@ img: /img/list/thunder-road-margarita-gose.jpeg
 untappd: "https://untappd.com/b/thunder-road-brewing-company-margarita-gose-sour-beer/4068028"
 country: "Australia"
 brewery: "Thunder Road Brewing Company"
-breweryURL: "brewery/thunder-road-brewing-company.html"
+breweryURL: "/brewery/thunder-road-brewing-company.html"
 style: "Sour - Gose"
 ---

@@ -11,6 +11,6 @@ img: /img/list/dainton-shark-punch-nado.jpeg
 untappd: "https://untappd.com/b/dainton-beer-shark-punch-nado/4074701"
 country: "Australia"
 brewery: "Dainton Beer"
-breweryURL: "brewery/dainton-beer.html"
+breweryURL: "/brewery/dainton-beer.html"
 style: "IPA - International"
 ---

@@ -11,6 +11,6 @@ img: /img/list/stigbergets-vat-katt.jpeg
 untappd: "https://untappd.com/b/stigbergets-bryggeri-vat-katt/5495970"
 country: "Sweden"
 brewery: "Stigbergets Bryggeri"
-breweryURL: "brewery/stigbergets-bryggeri.html"
+breweryURL: "/brewery/stigbergets-bryggeri.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

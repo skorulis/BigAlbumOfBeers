@@ -11,6 +11,6 @@ img: /img/list/adnams-broadside.jpeg
 untappd: "https://untappd.com/b/adnams-broadside/4003"
 country: "England"
 brewery: "Adnams"
-breweryURL: "brewery/adnams.html"
+breweryURL: "/brewery/adnams.html"
 style: "English Bitter"
 ---

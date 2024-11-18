@@ -11,6 +11,6 @@ img: /img/list/dark-sour-of-the-moon.jpeg
 untappd: "https://untappd.com/b/young-henrys-dark-sour-of-the-moon/3985180"
 country: "Australia"
 brewery: "Young Henrys"
-breweryURL: "brewery/young-henrys.html"
+breweryURL: "/brewery/young-henrys.html"
 style: "Sour - Fruited"
 ---

@@ -11,6 +11,6 @@ img: /img/list/the-garden-milkshake-ipa.jpeg
 untappd: "https://untappd.com/b/the-garden-brewery-milkshake-ipa/2379067"
 country: "Croatia"
 brewery: "The Garden Brewery"
-breweryURL: "brewery/the-garden-brewery.html"
+breweryURL: "/brewery/the-garden-brewery.html"
 style: "IPA - Milkshake"
 ---

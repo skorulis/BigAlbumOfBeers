@@ -11,6 +11,6 @@ img: /img/list/range-quench.jpeg
 untappd: "https://untappd.com/b/range-brewing-quench/4322194"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "brewery/range-brewing.html"
+breweryURL: "/brewery/range-brewing.html"
 style: "Lager - Pale"
 ---

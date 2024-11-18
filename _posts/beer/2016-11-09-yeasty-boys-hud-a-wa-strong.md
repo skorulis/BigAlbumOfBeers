@@ -11,6 +11,6 @@ img: /img/list/yeasty-boys-hud-a-wa-strong.jpeg
 untappd: "https://untappd.com/b/yeastie-boys-hud-a-wa-strong/42147"
 country: "New Zealand"
 brewery: "Yeastie Boys"
-breweryURL: "brewery/yeastie-boys.html"
+breweryURL: "/brewery/yeastie-boys.html"
 style: "Red Ale - American Amber / Red"
 ---

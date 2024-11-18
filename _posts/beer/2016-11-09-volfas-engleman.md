@@ -11,6 +11,6 @@ img: /img/list/volfas-engleman.jpeg
 untappd: "https://untappd.com/b/volfas-engelman-rinktinis/87115"
 country: "Lithuania"
 brewery: "Volfas Engelman"
-breweryURL: "brewery/volfas-engelman.html"
+breweryURL: "/brewery/volfas-engelman.html"
 style: "Lager - Euro"
 ---

@@ -11,6 +11,6 @@ img: /img/list/little-ripper.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-little-ripper/388004"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "brewery/matilda-bay-brewing-company.html"
+breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Lager - Vienna"
 ---

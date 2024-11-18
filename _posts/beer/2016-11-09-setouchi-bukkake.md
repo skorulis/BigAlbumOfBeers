@@ -11,6 +11,6 @@ img: /img/list/setouchi-bukkake.jpeg
 untappd: "https://untappd.com/b/setouchi-bukkake-udon-hazy-ipa/4995581"
 country: "Japan"
 brewery: "Setouchi"
-breweryURL: "brewery/setouchi.html"
+breweryURL: "/brewery/setouchi.html"
 style: "IPA - New England / Hazy"
 ---

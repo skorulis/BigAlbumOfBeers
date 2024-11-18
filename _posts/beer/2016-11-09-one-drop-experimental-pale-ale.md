@@ -11,6 +11,6 @@ img: /img/list/one-drop-experimental-pale-ale.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-experimental-pale-ale/3926475"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

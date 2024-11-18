@@ -11,6 +11,6 @@ img: /img/list/range-buddy.jpeg
 untappd: "https://untappd.com/b/range-brewing-buddy/4610703"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "brewery/range-brewing.html"
+breweryURL: "/brewery/range-brewing.html"
 style: "Lager - Pale"
 ---

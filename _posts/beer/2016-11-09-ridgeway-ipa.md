@@ -11,6 +11,6 @@ img: /img/list/ridgeway-ipa.jpeg
 untappd: "https://untappd.com/b/ridgeway-brewing-ipa/229"
 country: "England"
 brewery: "Ridgeway Brewing"
-breweryURL: "brewery/ridgeway-brewing.html"
+breweryURL: "/brewery/ridgeway-brewing.html"
 style: "IPA - English"
 ---

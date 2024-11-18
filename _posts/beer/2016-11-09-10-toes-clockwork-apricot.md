@@ -11,6 +11,6 @@ img: /img/list/10-toes-clockwork-apricot.jpeg
 untappd: "https://untappd.com/b/10-toes-brewery-clockwork-apricot/4098609"
 country: "Australia"
 brewery: "10 Toes Brewery"
-breweryURL: "brewery/10-toes-brewery.html"
+breweryURL: "/brewery/10-toes-brewery.html"
 style: "IPA - Imperial / Double"
 ---

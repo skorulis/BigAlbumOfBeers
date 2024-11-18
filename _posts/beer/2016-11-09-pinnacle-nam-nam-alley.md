@@ -11,6 +11,6 @@ img: /img/list/pinnacle-nam-nam-alley.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-pinnacle-drinks-nam-nam-alley/4983641"
 country: "Australia"
 brewery: "Pinnacle Drinks"
-breweryURL: "brewery/pinnacle-drinks.html"
+breweryURL: "/brewery/pinnacle-drinks.html"
 style: "Lager - Amber / Red"
 ---

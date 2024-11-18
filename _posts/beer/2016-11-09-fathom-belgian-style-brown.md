@@ -11,6 +11,6 @@ img: /img/list/fathom-belgian-style-brown.jpeg
 untappd: "https://untappd.com/b/green-beacon--fathom-belgian-style-brown/3140505"
 country: "Australia"
 brewery: "Green Beacon "
-breweryURL: "brewery/green-beacon-.html"
+breweryURL: "/brewery/green-beacon-.html"
 style: "Sour - Flanders Oud Bruin"
 ---

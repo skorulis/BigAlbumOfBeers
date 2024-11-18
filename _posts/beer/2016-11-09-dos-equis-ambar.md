@@ -11,6 +11,6 @@ img: /img/list/dos-equis-ambar.jpeg
 untappd: "https://untappd.com/b/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v--dos-equis-ambar/6392"
 country: "Mexico"
 brewery: "Cervecería Cuauhtémoc Moctezuma S.A. de C.V."
-breweryURL: "brewery/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v.html"
+breweryURL: "/brewery/cerveceria-cuauhtemoc-moctezuma-s-a--de-c-v.html"
 style: "Lager - Vienna"
 ---

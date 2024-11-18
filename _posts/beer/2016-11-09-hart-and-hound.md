@@ -11,6 +11,6 @@ img: /img/list/hart-and-hound.jpeg
 untappd: "https://untappd.com/b/hart-and-hound-its-not-a-lager/2126138"
 country: "Australia"
 brewery: "Hart And Hound"
-breweryURL: "brewery/hart-and-hound.html"
+breweryURL: "/brewery/hart-and-hound.html"
 style: "Golden Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pan-head-pilsner.jpeg
 untappd: "https://untappd.com/b/panhead-custom-ales-port-road-pils/422915"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
-breweryURL: "brewery/panhead-custom-ales.html"
+breweryURL: "/brewery/panhead-custom-ales.html"
 style: "Pilsner - Other"
 ---

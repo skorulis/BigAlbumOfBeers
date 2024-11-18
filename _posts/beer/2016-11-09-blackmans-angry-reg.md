@@ -11,6 +11,6 @@ img: /img/list/blackmans-angry-reg.jpeg
 untappd: "https://untappd.com/b/blackmans-brewery-angry-reg/1571943"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "brewery/blackman-s-brewery.html"
+breweryURL: "/brewery/blackman-s-brewery.html"
 style: "IPA - Imperial / Double"
 ---

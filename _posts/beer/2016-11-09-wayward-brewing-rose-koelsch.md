@@ -11,6 +11,6 @@ img: /img/list/wayward-brewing-rose-koelsch.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-rose-kolsch/1535683"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "brewery/wayward-brewing.html"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Kölsch"
 ---

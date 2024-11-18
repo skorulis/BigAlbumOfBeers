@@ -11,6 +11,6 @@ img: /img/list/niksicko-pivo.jpeg
 untappd: "https://untappd.com/b/trebjesa-brewery-niksicko-pivo/62554"
 country: "Montenegro"
 brewery: "Trebjesa Brewery"
-breweryURL: "brewery/trebjesa-brewery.html"
+breweryURL: "/brewery/trebjesa-brewery.html"
 style: "Pilsner - Other"
 ---

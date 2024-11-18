@@ -11,6 +11,6 @@ img: /img/list/hemingways-endeavour.jpeg
 untappd: "https://untappd.com/b/hemingways-brewery-the-endeavour/2940764"
 country: "Australia"
 brewery: "Hemingway's Brewery"
-breweryURL: "brewery/hemingway-s-brewery.html"
+breweryURL: "/brewery/hemingway-s-brewery.html"
 style: "IPA - American"
 ---

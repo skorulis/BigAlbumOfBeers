@@ -11,6 +11,6 @@ img: /img/list/founders-all-day-ipa.jpeg
 untappd: "https://untappd.com/b/founders-brewing-co--all-day-ipa/36834"
 country: "United States"
 brewery: "Founders Brewing Co."
-breweryURL: "brewery/founders-brewing-co.html"
+breweryURL: "/brewery/founders-brewing-co.html"
 style: "IPA - Session / India Session Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hitachino-espresso-stout.jpeg
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-espresso-stout/154"
 country: "Japan"
 brewery: "Kiuchi Brewery"
-breweryURL: "brewery/kiuchi-brewery.html"
+breweryURL: "/brewery/kiuchi-brewery.html"
 style: "Stout - Coffee"
 ---

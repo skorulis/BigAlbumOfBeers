@@ -11,6 +11,6 @@ img: /img/list/green-beacon-mollyhawk.jpeg
 untappd: "https://untappd.com/b/green-beacon--mollyhawk/4844371"
 country: "Australia"
 brewery: "Green Beacon "
-breweryURL: "brewery/green-beacon-.html"
+breweryURL: "/brewery/green-beacon-.html"
 style: "Wheat Beer - Other"
 ---

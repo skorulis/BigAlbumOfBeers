@@ -11,6 +11,6 @@ img: /img/list/brewhouse-simcoe-black-ipa.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-simcoe-black-ipa/3040111"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "brewery/basement-brewhouse.html"
+breweryURL: "/brewery/basement-brewhouse.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

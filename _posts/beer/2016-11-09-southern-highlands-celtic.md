@@ -11,6 +11,6 @@ img: /img/list/southern-highlands-celtic.jpeg
 untappd: "https://untappd.com/b/southern-highlands-brewing-company-southern-highlands-brewing-company-celtic/1965783"
 country: "Australia"
 brewery: "Southern Highlands Brewing Company"
-breweryURL: "brewery/southern-highlands-brewing-company.html"
+breweryURL: "/brewery/southern-highlands-brewing-company.html"
 style: "Red Ale - Other"
 ---

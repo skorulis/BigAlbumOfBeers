@@ -11,6 +11,6 @@ img: /img/list/bridge-road-little-bling.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-little-bling/973100"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "brewery/bridge-road-brewers.html"
+breweryURL: "/brewery/bridge-road-brewers.html"
 style: "IPA - Session / India Session Ale"
 ---

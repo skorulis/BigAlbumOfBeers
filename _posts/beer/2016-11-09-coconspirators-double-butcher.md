@@ -11,6 +11,6 @@ img: /img/list/coconspirators-double-butcher.jpeg
 untappd: "https://untappd.com/b/coconspirators-brewing-company-the-double-butcher/3810574"
 country: "Australia"
 brewery: "CoConspirators Brewing Company"
-breweryURL: "brewery/coconspirators-brewing-company.html"
+breweryURL: "/brewery/coconspirators-brewing-company.html"
 style: "IPA - Red"
 ---

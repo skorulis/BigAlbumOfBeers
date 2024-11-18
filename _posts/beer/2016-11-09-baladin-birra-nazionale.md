@@ -11,6 +11,6 @@ img: /img/list/baladin-birra-nazionale.jpeg
 untappd: "https://untappd.com/b/birra-baladin-nazionale/102388"
 country: "Italy"
 brewery: "Birra Baladin"
-breweryURL: "brewery/birra-baladin.html"
+breweryURL: "/brewery/birra-baladin.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 ---

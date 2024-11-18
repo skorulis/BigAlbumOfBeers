@@ -11,6 +11,6 @@ img: /img/list/deschutes-lil-squeezy.jpeg
 untappd: "https://untappd.com/b/deschutes-brewery-lil-squeezy/2568949"
 country: "United States"
 brewery: "Deschutes Brewery"
-breweryURL: "brewery/deschutes-brewery.html"
+breweryURL: "/brewery/deschutes-brewery.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hope-smoked-porter.jpeg
 untappd: "https://untappd.com/b/hope-brewery-smoked-porter/3362306"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "brewery/hope-brewery.html"
+breweryURL: "/brewery/hope-brewery.html"
 style: "Porter - Other"
 ---

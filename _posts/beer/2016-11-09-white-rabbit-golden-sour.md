@@ -11,6 +11,6 @@ img: /img/list/white-rabbit-golden-sour.jpeg
 untappd: "https://untappd.com/b/white-rabbit-golden-sour/3663431"
 country: "Australia"
 brewery: "White Rabbit"
-breweryURL: "brewery/white-rabbit.html"
+breweryURL: "/brewery/white-rabbit.html"
 style: "Sour - Other"
 ---

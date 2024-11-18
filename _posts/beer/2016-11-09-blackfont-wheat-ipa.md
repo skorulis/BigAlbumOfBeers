@@ -11,6 +11,6 @@ img: /img/list/blackfont-wheat-ipa.jpeg
 untappd: "https://untappd.com/b/blackfont-brewhouse-wheat-ipa-mk-i/1331486"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "brewery/blackfont-brewhouse.html"
+breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "IPA - White"
 ---

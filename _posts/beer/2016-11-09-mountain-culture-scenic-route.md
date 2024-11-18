@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-scenic-route.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--scenic-route/3852927"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "brewery/mountain-culture-beer-co.html"
+breweryURL: "/brewery/mountain-culture-beer-co.html"
 style: "IPA - Session / India Session Ale"
 ---

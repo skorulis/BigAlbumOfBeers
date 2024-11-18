@@ -11,6 +11,6 @@ img: /img/list/batch-big-tex-s-ipa.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-big-texs-ipa/3757200"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "IPA - American"
 ---

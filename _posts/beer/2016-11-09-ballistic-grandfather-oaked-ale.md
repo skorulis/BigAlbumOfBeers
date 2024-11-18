@@ -11,6 +11,6 @@ img: /img/list/ballistic-grandfather-oaked-ale.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-the-grandfather-oaked-ale/1790947"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "brewery/ballistic-beer.html"
+breweryURL: "/brewery/ballistic-beer.html"
 style: "Old Ale"
 ---

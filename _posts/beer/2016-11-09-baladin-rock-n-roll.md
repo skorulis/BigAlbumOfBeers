@@ -11,6 +11,6 @@ img: /img/list/baladin-rock-n-roll.jpeg
 untappd: "https://untappd.com/b/birrificio-agricolo-baladin---baladin-indipendente-italian-farm-brewery-rocknroll/533474"
 country: "Italy"
 brewery: "BIRRIFICIO AGRICOLO BALADIN - Baladin Indipendente Italian Farm Brewery"
-breweryURL: "brewery/birrificio-agricolo-baladin---baladin-indipendente-italian-farm-brewery.html"
+breweryURL: "/brewery/birrificio-agricolo-baladin---baladin-indipendente-italian-farm-brewery.html"
 style: "Pale Ale - American"
 ---

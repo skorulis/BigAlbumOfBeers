@@ -11,6 +11,6 @@ img: /img/list/blackfont-belgian-pale-ale.jpeg
 untappd: "https://untappd.com/b/blackfont-brewhouse-belgian-pale-ale/1493077"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "brewery/blackfont-brewhouse.html"
+breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "Pale Ale - Belgian"
 ---

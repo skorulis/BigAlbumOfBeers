@@ -11,6 +11,6 @@ img: /img/list/frenchies-summer-xpa.jpeg
 untappd: "https://untappd.com/b/frenchies-summer-xpa---ddh-xpa/3633986"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "brewery/frenchies.html"
+breweryURL: "/brewery/frenchies.html"
 style: "Pale Ale - International"
 ---

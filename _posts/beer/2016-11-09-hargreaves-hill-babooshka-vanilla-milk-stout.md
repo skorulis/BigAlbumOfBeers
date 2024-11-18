@@ -11,6 +11,6 @@ img: /img/list/hargreaves-hill-babooshka-vanilla-milk-stout.jpeg
 untappd: "https://untappd.com/b/hargreaves-hill-babooshka-vanilla-milk-stout/2684922"
 country: "Australia"
 brewery: "Hargreaves Hill"
-breweryURL: "brewery/hargreaves-hill.html"
+breweryURL: "/brewery/hargreaves-hill.html"
 style: "Stout - Milk / Sweet"
 ---

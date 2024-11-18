@@ -11,6 +11,6 @@ img: /img/list/maat-s-session-lager.jpeg
 untappd: "https://untappd.com/b/brouwerij-martens-maats-session-lager/2955256"
 country: "Belgium"
 brewery: "Brouwerij Martens"
-breweryURL: "brewery/brouwerij-martens.html"
+breweryURL: "/brewery/brouwerij-martens.html"
 style: "Lager - Pale"
 ---

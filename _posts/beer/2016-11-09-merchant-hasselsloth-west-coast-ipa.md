@@ -11,6 +11,6 @@ img: /img/list/merchant-hasselsloth-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/merchant-brewing-co--hasselsloth/1590140"
 country: "Australia"
 brewery: "Merchant Brewing Co."
-breweryURL: "brewery/merchant-brewing-co.html"
+breweryURL: "/brewery/merchant-brewing-co.html"
 style: "IPA - American"
 ---

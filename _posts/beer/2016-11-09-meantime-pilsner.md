@@ -11,6 +11,6 @@ img: /img/list/meantime-pilsner.jpeg
 untappd: "https://untappd.com/b/meantime-brewing-company-pilsner/7978"
 country: "England"
 brewery: "Meantime Brewing Company"
-breweryURL: "brewery/meantime-brewing-company.html"
+breweryURL: "/brewery/meantime-brewing-company.html"
 style: "Pilsner - Other"
 ---

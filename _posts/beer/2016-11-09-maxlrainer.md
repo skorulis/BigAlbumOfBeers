@@ -11,6 +11,6 @@ img: /img/list/maxlrainer.jpeg
 untappd: "https://untappd.com/b/schlossbrauerei-maxlrain-maxlrainer-schloss-gold/66202"
 country: "Germany"
 brewery: "Schlossbrauerei Maxlrain"
-breweryURL: "brewery/schlossbrauerei-maxlrain.html"
+breweryURL: "/brewery/schlossbrauerei-maxlrain.html"
 style: "Lager - Dortmunder / Export"
 ---

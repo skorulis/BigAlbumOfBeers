@@ -11,6 +11,6 @@ img: /img/list/cavalier-courage.jpeg
 untappd: "https://untappd.com/b/cavalier-brewing-courage/266277"
 country: "Australia"
 brewery: "Cavalier Brewing"
-breweryURL: "brewery/cavalier-brewing.html"
+breweryURL: "/brewery/cavalier-brewing.html"
 style: "Blonde Ale"
 ---

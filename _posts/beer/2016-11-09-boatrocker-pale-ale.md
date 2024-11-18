@@ -11,6 +11,6 @@ img: /img/list/boatrocker-pale-ale.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewing-company-pale-ale/1670058"
 country: "Australia"
 brewery: "Boatrocker Brewing Company"
-breweryURL: "brewery/boatrocker-brewing-company.html"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

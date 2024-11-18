@@ -11,6 +11,6 @@ img: /img/list/ac-dc-premium-lager.jpeg
 untappd: "https://untappd.com/b/karlsberg-brauerei-acdc-premium-lager/448779"
 country: "Germany"
 brewery: "Karlsberg Brauerei"
-breweryURL: "brewery/karlsberg-brauerei.html"
+breweryURL: "/brewery/karlsberg-brauerei.html"
 style: "Lager - Euro"
 ---

@@ -11,6 +11,6 @@ img: /img/list/basement-brewhouse-coffee-porter.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-coffee-porter/2637685"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "brewery/basement-brewhouse.html"
+breweryURL: "/brewery/basement-brewhouse.html"
 style: "Porter - Other"
 ---

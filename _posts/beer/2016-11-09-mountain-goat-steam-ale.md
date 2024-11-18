@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-steam-ale.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-steam-ale/15497"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "California Common"
 ---

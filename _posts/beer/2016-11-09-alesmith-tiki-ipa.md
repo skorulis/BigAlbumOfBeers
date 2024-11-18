@@ -11,6 +11,6 @@ img: /img/list/alesmith-tiki-ipa.jpeg
 untappd: "https://untappd.com/b/alesmith-brewing-company-tiki-ipa/3966893"
 country: "United States"
 brewery: "AleSmith Brewing Company"
-breweryURL: "brewery/alesmith-brewing-company.html"
+breweryURL: "/brewery/alesmith-brewing-company.html"
 style: "IPA - New England"
 ---

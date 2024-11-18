@@ -11,6 +11,6 @@ img: /img/list/batch-american-pale-ale.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-american-pale-ale/535499"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "brewery/batch-brewing-company.html"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Pale Ale - American"
 ---

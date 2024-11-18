@@ -11,6 +11,6 @@ img: /img/list/james-squire-harbourmaster.jpeg
 untappd: "https://untappd.com/b/malt-shovel-brewery-the-harbourmaster/2912109"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "brewery/malt-shovel-brewery.html"
+breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "IPA - International"
 ---

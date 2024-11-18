@@ -11,6 +11,6 @@ img: /img/list/alchemist-focal-banger.jpeg
 untappd: "https://untappd.com/b/the-alchemist-the-alchemist-focal-banger/45458"
 country: "United States"
 brewery: "The Alchemist"
-breweryURL: "brewery/the-alchemist.html"
+breweryURL: "/brewery/the-alchemist.html"
 style: "IPA - American"
 ---

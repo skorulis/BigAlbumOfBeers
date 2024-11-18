@@ -11,6 +11,6 @@ img: /img/list/garage-project-yuzukossho.jpeg
 untappd: "https://untappd.com/b/garage-project-yuzukosho/2144937"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "brewery/garage-project.html"
+breweryURL: "/brewery/garage-project.html"
 style: "Sour - Fruited Gose"
 ---

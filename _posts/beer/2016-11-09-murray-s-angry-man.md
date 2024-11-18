@@ -11,6 +11,6 @@ img: /img/list/murray-s-angry-man.jpeg
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-angry-man-pale-ale/87671"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
-breweryURL: "brewery/murray-s-craft-brewing-co.html"
+breweryURL: "/brewery/murray-s-craft-brewing-co.html"
 style: "Pale Ale - American"
 ---

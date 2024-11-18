@@ -11,6 +11,6 @@ img: /img/list/hangman-pale-ale.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-the-hangman/29859"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "brewery/rocks-brewing-co.html"
+breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Pale Ale - American"
 ---

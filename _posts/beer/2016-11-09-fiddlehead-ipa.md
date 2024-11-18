@@ -11,6 +11,6 @@ img: /img/list/fiddlehead-ipa.jpeg
 untappd: "https://untappd.com/b/fiddlehead-brewing-company-fiddlehead-brewing-company-fiddlehead-ipa/96969"
 country: "United States"
 brewery: "Fiddlehead Brewing Company"
-breweryURL: "brewery/fiddlehead-brewing-company.html"
+breweryURL: "/brewery/fiddlehead-brewing-company.html"
 style: "IPA - American"
 ---

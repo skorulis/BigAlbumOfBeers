@@ -11,6 +11,6 @@ img: /img/list/brick-lane-backyarder.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--backyarder/4088102"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "brewery/brick-lane-brewing-co.html"
+breweryURL: "/brewery/brick-lane-brewing-co.html"
 style: "Lager - Helles"
 ---

@@ -11,6 +11,6 @@ img: /img/list/kasteel-rouge.jpeg
 untappd: "https://untappd.com/b/brouwerij-van-honsebrouck-kasteel-rouge/6890"
 country: "Belgium"
 brewery: "Brouwerij Van Honsebrouck"
-breweryURL: "brewery/brouwerij-van-honsebrouck.html"
+breweryURL: "/brewery/brouwerij-van-honsebrouck.html"
 style: "Fruit Beer"
 ---

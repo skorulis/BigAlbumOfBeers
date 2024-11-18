@@ -11,6 +11,6 @@ img: /img/list/grifter-voodoo-paradise.jpeg
 untappd: "https://untappd.com/b/the-grifter-brewing-company-voodoo-paradise/1705233"
 country: "Australia"
 brewery: "The Grifter Brewing Company"
-breweryURL: "brewery/the-grifter-brewing-company.html"
+breweryURL: "/brewery/the-grifter-brewing-company.html"
 style: "Stout - Milk / Sweet"
 ---

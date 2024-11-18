@@ -11,6 +11,6 @@ img: /img/list/whistable-bay-organic-ale.jpeg
 untappd: "https://untappd.com/b/shepherd-neame-whitstable-bay-organic-ale/8668"
 country: "England"
 brewery: "Shepherd Neame"
-breweryURL: "brewery/shepherd-neame.html"
+breweryURL: "/brewery/shepherd-neame.html"
 style: "Golden Ale"
 ---

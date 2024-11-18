@@ -11,6 +11,6 @@ img: /img/list/akasha-double-queen.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-double-queen-red-ipa/3995638"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "brewery/akasha-brewing-company.html"
+breweryURL: "/brewery/akasha-brewing-company.html"
 style: "IPA - Red"
 ---

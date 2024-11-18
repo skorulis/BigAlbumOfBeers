@@ -11,6 +11,6 @@ img: /img/list/seven-mile-cali-cartel.jpeg
 untappd: "https://untappd.com/b/seven-mile-brewing-co--cali-cartel/5112610"
 country: "Australia"
 brewery: "Seven Mile Brewing Co."
-breweryURL: "brewery/seven-mile-brewing-co.html"
+breweryURL: "/brewery/seven-mile-brewing-co.html"
 style: "Cream Ale"
 ---

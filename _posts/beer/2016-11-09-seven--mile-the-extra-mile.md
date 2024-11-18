@@ -11,6 +11,6 @@ img: /img/list/seven--mile-the-extra-mile.jpeg
 untappd: "https://untappd.com/b/seven-mile-brewing-co--the-extra-mile/4049862"
 country: "Australia"
 brewery: "Seven Mile Brewing Co."
-breweryURL: "brewery/seven-mile-brewing-co.html"
+breweryURL: "/brewery/seven-mile-brewing-co.html"
 style: "IPA - American"
 ---

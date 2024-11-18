@@ -11,6 +11,6 @@ img: /img/list/frueh-koelsch.jpeg
 untappd: "https://untappd.com/b/colner-hofbrau-fruh-fruh-kolsch/1639"
 country: "Germany"
 brewery: "Cölner Hofbräu Früh"
-breweryURL: "brewery/coelner-hofbraeu-frueh.html"
+breweryURL: "/brewery/coelner-hofbraeu-frueh.html"
 style: "Kölsch"
 ---

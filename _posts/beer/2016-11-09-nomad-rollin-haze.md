@@ -11,6 +11,6 @@ img: /img/list/nomad-rollin-haze.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--rollin-haze/3936259"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "brewery/nomad-brewing-co.html"
+breweryURL: "/brewery/nomad-brewing-co.html"
 style: "Pale Ale - New England"
 ---

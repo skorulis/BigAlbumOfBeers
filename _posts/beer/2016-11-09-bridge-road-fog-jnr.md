@@ -11,6 +11,6 @@ img: /img/list/bridge-road-fog-jnr.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-bridge-road-brewers-fog-jnr/5612068"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "brewery/bridge-road-brewers.html"
+breweryURL: "/brewery/bridge-road-brewers.html"
 style: "Pale Ale - New England / Hazy"
 ---

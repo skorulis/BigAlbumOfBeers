@@ -11,6 +11,6 @@ img: /img/list/10-toes-lucid-dreams.jpeg
 untappd: "https://untappd.com/b/10-toes-brewery-10-toes-brewery-lucid-dreams-ipa/3833731"
 country: "Australia"
 brewery: "10 Toes Brewery"
-breweryURL: "brewery/10-toes-brewery.html"
+breweryURL: "/brewery/10-toes-brewery.html"
 style: "IPA - American"
 ---

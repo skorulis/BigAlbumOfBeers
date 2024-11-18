@@ -11,6 +11,6 @@ img: /img/list/pirate-life-pale-ale.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-pale-ale/995555"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Pale Ale - American"
 ---

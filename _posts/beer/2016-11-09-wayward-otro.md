@@ -11,6 +11,6 @@ img: /img/list/wayward-otro.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-otro/3936465"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "brewery/wayward-brewing.html"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Pale Ale - New England"
 ---

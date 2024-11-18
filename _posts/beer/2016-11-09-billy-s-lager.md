@@ -11,6 +11,6 @@ img: /img/list/billy-s-lager.jpeg
 untappd: "https://untappd.com/b/billy-barrys-billys-lager/2169788"
 country: "Australia"
 brewery: "Billy Barry's"
-breweryURL: "brewery/billy-barry-s.html"
+breweryURL: "/brewery/billy-barry-s.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/minimum-chips.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-minimum-chips/238946"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "brewery/matilda-bay-brewing-company.html"
+breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/sherpa-himalayan-red.jpeg
 untappd: "https://untappd.com/b/sherpa-brewery-himalayan-red/2224855"
 country: "Nepal"
 brewery: "Sherpa Brewery"
-breweryURL: "brewery/sherpa-brewery.html"
+breweryURL: "/brewery/sherpa-brewery.html"
 style: "Red Ale - Other"
 ---

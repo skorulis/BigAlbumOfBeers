@@ -11,6 +11,6 @@ img: /img/list/ottakringer-gold-fassl.jpeg
 untappd: "https://untappd.com/b/ottakringer-brauerei-gold-fassl-dunkles/239076"
 country: "Austria"
 brewery: "Ottakringer Brauerei"
-breweryURL: "brewery/ottakringer-brauerei.html"
+breweryURL: "/brewery/ottakringer-brauerei.html"
 style: "Lager - Dunkel Munich"
 ---

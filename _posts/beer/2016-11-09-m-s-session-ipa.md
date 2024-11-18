@@ -11,6 +11,6 @@ img: /img/list/m-s-session-ipa.jpeg
 untappd: "https://untappd.com/b/marks---spencer-session-ipa--fourpure-/4282278"
 country: "England"
 brewery: "Marks & Spencer"
-breweryURL: "brewery/marks---spencer.html"
+breweryURL: "/brewery/marks---spencer.html"
 style: "IPA - Session"
 ---

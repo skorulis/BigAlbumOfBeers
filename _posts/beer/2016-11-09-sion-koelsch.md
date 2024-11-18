@@ -11,6 +11,6 @@ img: /img/list/sion-koelsch.jpeg
 untappd: "https://untappd.com/b/radeberger-gruppe-sion-kolsch/1643"
 country: "Germany"
 brewery: "Radeberger Gruppe"
-breweryURL: "brewery/radeberger-gruppe.html"
+breweryURL: "/brewery/radeberger-gruppe.html"
 style: "Kölsch"
 ---

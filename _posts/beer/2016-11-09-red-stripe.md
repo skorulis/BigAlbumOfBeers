@@ -11,6 +11,6 @@ img: /img/list/red-stripe.jpeg
 untappd: "https://untappd.com/b/desnoes---geddes-red-stripe/3692"
 country: "Jamaica"
 brewery: "Desnoes & Geddes"
-breweryURL: "brewery/desnoes---geddes.html"
+breweryURL: "/brewery/desnoes---geddes.html"
 style: "Lager - North American Adjunct"
 ---

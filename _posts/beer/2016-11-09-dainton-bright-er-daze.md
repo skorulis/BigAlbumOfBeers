@@ -11,6 +11,6 @@ img: /img/list/dainton-bright-er-daze.jpeg
 untappd: "https://untappd.com/b/dainton-beer-bright-er-daze/4263770"
 country: "Australia"
 brewery: "Dainton Beer"
-breweryURL: "brewery/dainton-beer.html"
+breweryURL: "/brewery/dainton-beer.html"
 style: "IPA - New England / Hazy"
 ---

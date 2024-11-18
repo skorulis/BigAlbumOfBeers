@@ -11,6 +11,6 @@ img: /img/list/4-brothers-oktoberfest-marzen.jpeg
 untappd: "https://untappd.com/b/4-brothers-brewing-oktoberfest-2021/4560929"
 country: "Australia"
 brewery: "4 Brothers Brewing"
-breweryURL: "brewery/4-brothers-brewing.html"
+breweryURL: "/brewery/4-brothers-brewing.html"
 style: "Märzen"
 ---

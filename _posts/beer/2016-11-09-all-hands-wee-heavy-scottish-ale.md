@@ -11,6 +11,6 @@ img: /img/list/all-hands-wee-heavy-scottish-ale.jpeg
 untappd: "https://untappd.com/b/all-hands-brewing-house-wee-heavy-scottish-ale/2642054"
 country: "Australia"
 brewery: "All Hands Brewing House"
-breweryURL: "brewery/all-hands-brewing-house.html"
+breweryURL: "/brewery/all-hands-brewing-house.html"
 style: "Scottish Ale"
 ---

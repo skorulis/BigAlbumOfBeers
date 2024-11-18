@@ -11,6 +11,6 @@ img: /img/list/the-kernel-centennial-ipa.jpeg
 untappd: "https://untappd.com/b/the-kernel-brewery-india-pale-ale-centennial/1722797"
 country: "England"
 brewery: "The Kernel Brewery"
-breweryURL: "brewery/the-kernel-brewery.html"
+breweryURL: "/brewery/the-kernel-brewery.html"
 style: "IPA - American"
 ---

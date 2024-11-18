@@ -11,6 +11,6 @@ img: /img/list/boatrocker-tripel.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewing-company-tripel--2016-/1655630"
 country: "Australia"
 brewery: "Boatrocker Brewing Company"
-breweryURL: "brewery/boatrocker-brewing-company.html"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Belgian Tripel"
 ---

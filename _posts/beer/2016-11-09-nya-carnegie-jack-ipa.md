@@ -11,6 +11,6 @@ img: /img/list/nya-carnegie-jack-ipa.jpeg
 untappd: "https://untappd.com/b/nya-carnegiebryggeriet--j-a-c-k-/628711"
 country: "Sweden"
 brewery: "Nya Carnegiebryggeriet "
-breweryURL: "brewery/nya-carnegiebryggeriet-.html"
+breweryURL: "/brewery/nya-carnegiebryggeriet-.html"
 style: "IPA - Session"
 ---

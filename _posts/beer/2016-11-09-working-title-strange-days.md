@@ -11,6 +11,6 @@ img: /img/list/working-title-strange-days.jpeg
 untappd: "https://untappd.com/b/working-title-brew-co-strange-days/4598625"
 country: "Australia"
 brewery: "Working Title Brew Co"
-breweryURL: "brewery/working-title-brew-co.html"
+breweryURL: "/brewery/working-title-brew-co.html"
 style: "Sour - Fruited Gose"
 ---

@@ -11,6 +11,6 @@ img: /img/list/yenda-golden-ale.jpeg
 untappd: "https://untappd.com/b/australian-beer-company-yenda-golden-ale/1032774"
 country: "Australia"
 brewery: "Australian Beer Company"
-breweryURL: "brewery/australian-beer-company.html"
+breweryURL: "/brewery/australian-beer-company.html"
 style: "Golden Ale"
 ---

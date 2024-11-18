@@ -11,6 +11,6 @@ img: /img/list/brewdog-vs-cloud-water-neipa.jpeg
 untappd: "https://untappd.com/b/brewdog-brewdog-vs-cloudwater--new-england-ipa/1932971"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "brewery/brewdog.html"
+breweryURL: "/brewery/brewdog.html"
 style: "IPA - New England / Hazy"
 ---

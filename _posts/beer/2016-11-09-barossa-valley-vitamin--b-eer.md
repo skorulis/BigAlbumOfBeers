@@ -11,6 +11,6 @@ img: /img/list/barossa-valley-vitamin--b-eer.jpeg
 untappd: "https://untappd.com/b/barossa-valley-brewing-vitamin-b-eer-/2595134"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "brewery/barossa-valley-brewing.html"
+breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Other"
 ---

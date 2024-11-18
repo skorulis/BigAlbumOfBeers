@@ -11,6 +11,6 @@ img: /img/list/mokke-bruin.jpeg
 untappd: "https://untappd.com/b/brouwerij-mokke-bruin-mokke/2244673"
 country: "Belgium"
 brewery: "Brouwerij Mokke"
-breweryURL: "brewery/brouwerij-mokke.html"
+breweryURL: "/brewery/brouwerij-mokke.html"
 style: "Belgian Dubbel"
 ---

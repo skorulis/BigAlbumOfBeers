@@ -11,6 +11,6 @@ img: /img/list/brick-lane-morning-star.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--morning-star-belgian-dark-ale/4266776"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "brewery/brick-lane-brewing-co.html"
+breweryURL: "/brewery/brick-lane-brewing-co.html"
 style: "Belgian Strong Dark Ale"
 ---

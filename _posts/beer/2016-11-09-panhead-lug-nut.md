@@ -11,6 +11,6 @@ img: /img/list/panhead-lug-nut.jpeg
 untappd: "https://untappd.com/b/panhead-custom-ales-lugnut/4250147"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
-breweryURL: "brewery/panhead-custom-ales.html"
+breweryURL: "/brewery/panhead-custom-ales.html"
 style: "Brown Ale - Other"
 ---

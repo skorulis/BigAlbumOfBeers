@@ -11,6 +11,6 @@ img: /img/list/wild-yak-pacific-ale.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-wild-yak/1540401"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "brewery/matilda-bay-brewing-company.html"
+breweryURL: "/brewery/matilda-bay-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/monteith-s-golden-lager.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-golden-lager/7400"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "brewery/monteith-s-brewing-co--.html"
+breweryURL: "/brewery/monteith-s-brewing-co--.html"
 style: "Lager - Pale"
 ---

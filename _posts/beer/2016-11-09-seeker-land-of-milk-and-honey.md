@@ -11,6 +11,6 @@ img: /img/list/seeker-land-of-milk-and-honey.jpeg
 untappd: "https://untappd.com/b/seeker-brewing-land-of-milk---honey/5209077"
 country: "Australia"
 brewery: "Seeker Brewing"
-breweryURL: "brewery/seeker-brewing.html"
+breweryURL: "/brewery/seeker-brewing.html"
 style: "IPA - Milkshake"
 ---

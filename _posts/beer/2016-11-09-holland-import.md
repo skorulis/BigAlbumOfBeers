@@ -11,6 +11,6 @@ img: /img/list/holland-import.jpeg
 untappd: "https://untappd.com/b/h-west-b-v--holland-import/628484"
 country: "Netherlands"
 brewery: "H-West B.V."
-breweryURL: "brewery/h-west-b-v.html"
+breweryURL: "/brewery/h-west-b-v.html"
 style: "Pilsner - Other"
 ---

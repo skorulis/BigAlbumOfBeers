@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-rare-breed--lime-crisis.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-rare-breed--lime-crisis/2473831"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "brewery/mountain-goat-beer.html"
+breweryURL: "/brewery/mountain-goat-beer.html"
 style: "IPA - Imperial / Double"
 ---

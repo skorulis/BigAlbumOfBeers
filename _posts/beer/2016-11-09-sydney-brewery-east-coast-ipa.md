@@ -11,6 +11,6 @@ img: /img/list/sydney-brewery-east-coast-ipa.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-east-coast-ipa/2547690"
 country: "Australia"
 brewery: "Sydney Brewery"
-breweryURL: "brewery/sydney-brewery.html"
+breweryURL: "/brewery/sydney-brewery.html"
 style: "IPA - American"
 ---

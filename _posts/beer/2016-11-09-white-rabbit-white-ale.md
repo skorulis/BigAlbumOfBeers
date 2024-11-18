@@ -11,6 +11,6 @@ img: /img/list/white-rabbit-white-ale.jpeg
 untappd: "https://untappd.com/b/white-rabbit-white-ale/15237"
 country: "Australia"
 brewery: "White Rabbit"
-breweryURL: "brewery/white-rabbit.html"
+breweryURL: "/brewery/white-rabbit.html"
 style: "Witbier"
 ---

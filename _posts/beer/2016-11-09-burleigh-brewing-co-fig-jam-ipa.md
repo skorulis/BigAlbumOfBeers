@@ -11,6 +11,6 @@ img: /img/list/burleigh-brewing-co-fig-jam-ipa.jpeg
 untappd: "https://untappd.com/b/burleigh-brewing-co--figjam-ipa/239608"
 country: "Australia"
 brewery: "Burleigh Brewing Co."
-breweryURL: "brewery/burleigh-brewing-co.html"
+breweryURL: "/brewery/burleigh-brewing-co.html"
 style: "IPA - American"
 ---

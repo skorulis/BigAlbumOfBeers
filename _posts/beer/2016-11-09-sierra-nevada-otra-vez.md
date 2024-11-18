@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-otra-vez.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--otra-vez/1211126"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "brewery/sierra-nevada-brewing-co.html"
+breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "Sour - Gose"
 ---

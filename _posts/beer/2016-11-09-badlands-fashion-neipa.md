@@ -11,6 +11,6 @@ img: /img/list/badlands-fashion-neipa.jpeg
 untappd: "https://untappd.com/b/badlands-brewery-session-hazy/3942342"
 country: "Australia"
 brewery: "Badlands Brewery"
-breweryURL: "brewery/badlands-brewery.html"
+breweryURL: "/brewery/badlands-brewery.html"
 style: "Other"
 ---

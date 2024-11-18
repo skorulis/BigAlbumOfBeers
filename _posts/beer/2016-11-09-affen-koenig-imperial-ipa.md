@@ -11,6 +11,6 @@ img: /img/list/affen-koenig-imperial-ipa.jpeg
 untappd: "https://untappd.com/b/brew-age-affenkonig/1019253"
 country: "Austria"
 brewery: "Brew Age"
-breweryURL: "brewery/brew-age.html"
+breweryURL: "/brewery/brew-age.html"
 style: "IPA - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/working-title-mean-streets.jpeg
 untappd: "https://untappd.com/b/working-title-brew-co-mean-streets/4961295"
 country: "Australia"
 brewery: "Working Title Brew Co"
-breweryURL: "brewery/working-title-brew-co.html"
+breweryURL: "/brewery/working-title-brew-co.html"
 style: "IPA - Sour"
 ---

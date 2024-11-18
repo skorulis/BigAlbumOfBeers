@@ -11,6 +11,6 @@ img: /img/list/kaiserdom.jpeg
 untappd: "https://untappd.com/b/privatbrauerei-kaiserdom-pilsener--premium-german-lager--pilsener-herb-wurzig/15519"
 country: "Germany"
 brewery: "Privatbrauerei Kaiserdom"
-breweryURL: "brewery/privatbrauerei-kaiserdom.html"
+breweryURL: "/brewery/privatbrauerei-kaiserdom.html"
 style: "Pilsner - German"
 ---

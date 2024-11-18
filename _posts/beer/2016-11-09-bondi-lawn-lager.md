@@ -11,6 +11,6 @@ img: /img/list/bondi-lawn-lager.jpeg
 untappd: "https://untappd.com/b/the-bondi-brewing-co--jims-lawn-lager/5241318"
 country: "Australia"
 brewery: "The Bondi Brewing Co."
-breweryURL: "brewery/the-bondi-brewing-co.html"
+breweryURL: "/brewery/the-bondi-brewing-co.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/volkan-santorini-blonde.jpeg
 untappd: "https://untappd.com/b/first-lomax--volkan--volkan--santorini--blonde/143377"
 country: "Greece"
 brewery: "First Lomax (Volkan)"
-breweryURL: "brewery/first-lomax--volkan.html"
+breweryURL: "/brewery/first-lomax--volkan.html"
 style: "Lager - Pale"
 ---

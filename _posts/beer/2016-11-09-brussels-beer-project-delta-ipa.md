@@ -11,6 +11,6 @@ img: /img/list/brussels-beer-project-delta-ipa.jpeg
 untappd: "https://untappd.com/b/brussels-beer-project-delta-ipa/383088"
 country: "Belgium"
 brewery: "Brussels Beer Project"
-breweryURL: "brewery/brussels-beer-project.html"
+breweryURL: "/brewery/brussels-beer-project.html"
 style: "IPA - Belgian"
 ---

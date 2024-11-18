@@ -11,6 +11,6 @@ img: /img/list/bridge-road-hop-rain.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-hop-rain/2650718"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "brewery/bridge-road-brewers.html"
+breweryURL: "/brewery/bridge-road-brewers.html"
 style: "IPA - International"
 ---

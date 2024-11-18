@@ -11,6 +11,6 @@ img: /img/list/matso-s-mango-beer.jpeg
 untappd: "https://untappd.com/b/matsos-broome-brewery-mango-beer/17102"
 country: "Australia"
 brewery: "Matso's Broome Brewery"
-breweryURL: "brewery/matso-s-broome-brewery.html"
+breweryURL: "/brewery/matso-s-broome-brewery.html"
 style: "Fruit Beer"
 ---

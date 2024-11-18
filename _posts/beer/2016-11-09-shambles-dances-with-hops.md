@@ -11,6 +11,6 @@ img: /img/list/shambles-dances-with-hops.jpeg
 untappd: "https://untappd.com/b/shambles-brewery-dances-with-hops/1443116"
 country: "Australia"
 brewery: "Shambles Brewery"
-breweryURL: "brewery/shambles-brewery.html"
+breweryURL: "/brewery/shambles-brewery.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/kirin-nodogoshi.jpeg
 untappd: "https://untappd.com/b/kirin-brewery-company-nodogoshi-nama---/7964"
 country: "Japan"
 brewery: "Kirin Brewery Company"
-breweryURL: "brewery/kirin-brewery-company.html"
+breweryURL: "/brewery/kirin-brewery-company.html"
 style: "Happoshu"
 ---

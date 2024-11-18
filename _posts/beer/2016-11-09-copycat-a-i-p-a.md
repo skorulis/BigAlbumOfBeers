@@ -11,6 +11,6 @@ img: /img/list/copycat-a-i-p-a.jpeg
 untappd: "https://untappd.com/b/mash-brewing-copy-cat/636320"
 country: "Australia"
 brewery: "Mash Brewing"
-breweryURL: "brewery/mash-brewing.html"
+breweryURL: "/brewery/mash-brewing.html"
 style: "IPA - American"
 ---

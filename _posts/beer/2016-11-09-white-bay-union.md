@@ -11,6 +11,6 @@ img: /img/list/white-bay-union.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--union/3753372"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "brewery/white-bay-beer-co.html"
+breweryURL: "/brewery/white-bay-beer-co.html"
 style: "Kellerbier / Zwickelbier"
 ---

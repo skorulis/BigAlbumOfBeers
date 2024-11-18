@@ -11,6 +11,6 @@ img: /img/list/dead-pony-club.jpeg
 untappd: "https://untappd.com/b/brewdog-dead-pony-club/164769"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "brewery/brewdog.html"
+breweryURL: "/brewery/brewdog.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/reckless-pale-ale.jpeg
 untappd: "https://untappd.com/b/reckless-brewing-co--pale-ale/3394985"
 country: "Australia"
 brewery: "Reckless Brewing Co."
-breweryURL: "brewery/reckless-brewing-co.html"
+breweryURL: "/brewery/reckless-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

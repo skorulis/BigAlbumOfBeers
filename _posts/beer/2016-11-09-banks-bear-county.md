@@ -11,6 +11,6 @@ img: /img/list/banks-bear-county.jpeg
 untappd: "https://untappd.com/b/banks-brewing-bear-county/5112853"
 country: "Australia"
 brewery: "Banks Brewing"
-breweryURL: "brewery/banks-brewing.html"
+breweryURL: "/brewery/banks-brewing.html"
 style: "Stout - American"
 ---

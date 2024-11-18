@@ -11,6 +11,6 @@ img: /img/list/wayward-coffee-and-donuts.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-coffee-and-donuts/3170769"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "brewery/wayward-brewing.html"
+breweryURL: "/brewery/wayward-brewing.html"
 style: "Stout - Milk / Sweet"
 ---

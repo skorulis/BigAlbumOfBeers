@@ -11,6 +11,6 @@ img: /img/list/tinnies-pale-ale.jpeg
 untappd: "https://untappd.com/b/tinnies-pale-ale/2899060"
 country: "Australia"
 brewery: "Tinnies"
-breweryURL: "brewery/tinnies.html"
+breweryURL: "/brewery/tinnies.html"
 style: "Pale Ale - Australian"
 ---

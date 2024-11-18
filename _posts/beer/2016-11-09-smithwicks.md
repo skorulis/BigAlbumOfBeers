@@ -11,6 +11,6 @@ img: /img/list/smithwicks.jpeg
 untappd: "https://untappd.com/b/guinness-smithwicks/13388"
 country: "Ireland"
 brewery: "Guinness"
-breweryURL: "brewery/guinness.html"
+breweryURL: "/brewery/guinness.html"
 style: "Red Ale - Irish"
 ---

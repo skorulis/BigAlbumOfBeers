@@ -11,6 +11,6 @@ img: /img/list/red-hill-scotch-ale.jpeg
 untappd: "https://untappd.com/b/red-hill-brewery-scotch-ale/10814"
 country: "Australia"
 brewery: "Red Hill Brewery"
-breweryURL: "brewery/red-hill-brewery.html"
+breweryURL: "/brewery/red-hill-brewery.html"
 style: "Scotch Ale / Wee Heavy"
 ---

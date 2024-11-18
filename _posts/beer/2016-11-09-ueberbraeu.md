@@ -11,6 +11,6 @@ img: /img/list/ueberbraeu.jpeg
 untappd: "https://untappd.com/b/uberbrau-uberbrau/957842"
 country: "Germany"
 brewery: "Überbräu"
-breweryURL: "brewery/ueberbraeu.html"
+breweryURL: "/brewery/ueberbraeu.html"
 style: "Lager - Euro"
 ---

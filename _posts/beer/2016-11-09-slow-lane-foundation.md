@@ -11,6 +11,6 @@ img: /img/list/slow-lane-foundation.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-foundation/3778878"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "brewery/slow-lane-brewing.html"
+breweryURL: "/brewery/slow-lane-brewing.html"
 style: "Farmhouse Ale - Other"
 ---

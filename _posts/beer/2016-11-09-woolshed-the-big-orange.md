@@ -11,6 +11,6 @@ img: /img/list/woolshed-the-big-orange.jpeg
 untappd: "https://untappd.com/b/woolshed-brewery-the-big-orange/2348120"
 country: "Australia"
 brewery: "Woolshed Brewery"
-breweryURL: "brewery/woolshed-brewery.html"
+breweryURL: "/brewery/woolshed-brewery.html"
 style: "Sour - Other"
 ---

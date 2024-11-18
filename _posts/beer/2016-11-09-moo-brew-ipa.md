@@ -11,6 +11,6 @@ img: /img/list/moo-brew-ipa.jpeg
 untappd: "https://untappd.com/b/moo-brew-ipa/2807425"
 country: "Australia"
 brewery: "Moo Brew"
-breweryURL: "brewery/moo-brew.html"
+breweryURL: "/brewery/moo-brew.html"
 style: "IPA - International"
 ---

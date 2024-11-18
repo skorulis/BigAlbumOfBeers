@@ -11,6 +11,6 @@ img: /img/list/little-creatures-ipa.jpeg
 untappd: "https://untappd.com/b/little-creatures-brewing-ipa--india-pale-ale--/418608"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "brewery/little-creatures-brewing.html"
+breweryURL: "/brewery/little-creatures-brewing.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/liebenweiss-hefe-weissbier.jpeg
 untappd: "https://untappd.com/b/allgauer-brauhaus-liebenweiss-hefe-weissbier/116833"
 country: "Germany"
 brewery: "Allgäuer Brauhaus"
-breweryURL: "brewery/allgaeuer-brauhaus.html"
+breweryURL: "/brewery/allgaeuer-brauhaus.html"
 style: "Hefeweizen"
 ---

@@ -11,6 +11,6 @@ img: /img/list/ocean-reach-oatmeal-stout.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--oatmeal-stout/3319891"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "brewery/ocean-reach-brewing-.html"
+breweryURL: "/brewery/ocean-reach-brewing-.html"
 style: "Stout - Oatmeal"
 ---

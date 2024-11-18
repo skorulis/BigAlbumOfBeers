@@ -11,6 +11,6 @@ img: /img/list/bowlo-draught.jpeg
 untappd: "https://untappd.com/b/bowlo-sports-leisure-bowlo-sports-and-leisure-bowlo-draught/4283504"
 country: "Australia"
 brewery: "Bowlo Sports & Leisure "
-breweryURL: "brewery/bowlo-sports---leisure-.html"
+breweryURL: "/brewery/bowlo-sports---leisure-.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bad-shepherd-take-off-eh.jpeg
 untappd: "https://untappd.com/b/bad-shepherd-brewing-co--canadian-maple-red-ale/5409149"
 country: "Australia"
 brewery: "Bad Shepherd Brewing Co."
-breweryURL: "brewery/bad-shepherd-brewing-co.html"
+breweryURL: "/brewery/bad-shepherd-brewing-co.html"
 style: "Red Ale - Other"
 ---

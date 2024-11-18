@@ -11,6 +11,6 @@ img: /img/list/red-horse-beer.jpeg
 untappd: "https://untappd.com/b/san-miguel-brewery-red-horse-beer/17796"
 country: "Philippines"
 brewery: "San Miguel Brewery"
-breweryURL: "brewery/san-miguel-brewery.html"
+breweryURL: "/brewery/san-miguel-brewery.html"
 style: "Lager - Pale"
 ---

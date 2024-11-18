@@ -11,6 +11,6 @@ img: /img/list/basement-brewhouse-red-right-hand.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-pilot-13-red-right-hand/3216418"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "brewery/basement-brewhouse.html"
+breweryURL: "/brewery/basement-brewhouse.html"
 style: "Red Ale - American Amber / Red"
 ---

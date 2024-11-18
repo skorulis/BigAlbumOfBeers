@@ -11,6 +11,6 @@ img: /img/list/akasha-ddh-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-ddh-ipa/3425011"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "brewery/akasha-brewing-company.html"
+breweryURL: "/brewery/akasha-brewing-company.html"
 style: "IPA - American"
 ---

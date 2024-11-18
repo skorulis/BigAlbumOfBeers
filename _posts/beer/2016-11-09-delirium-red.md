@@ -11,6 +11,6 @@ img: /img/list/delirium-red.jpeg
 untappd: "https://untappd.com/b/brouwerij-huyghe-delirium-red/33040"
 country: "Belgium"
 brewery: "Brouwerij Huyghe"
-breweryURL: "brewery/brouwerij-huyghe.html"
+breweryURL: "/brewery/brouwerij-huyghe.html"
 style: "Fruit Beer"
 ---

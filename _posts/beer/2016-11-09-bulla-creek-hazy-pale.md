@@ -11,6 +11,6 @@ img: /img/list/bulla-creek-hazy-pale.jpeg
 untappd: "https://untappd.com/b/bulla-creek-brewing-co-bulla-creek-brewing-co-hazy-pale/5295919"
 country: "Australia"
 brewery: "Bulla Creek Brewing Co"
-breweryURL: "brewery/bulla-creek-brewing-co.html"
+breweryURL: "/brewery/bulla-creek-brewing-co.html"
 style: "Pale Ale - New England / Hazy"
 ---

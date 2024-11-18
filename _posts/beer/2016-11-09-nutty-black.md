@@ -11,6 +11,6 @@ img: /img/list/nutty-black.jpeg
 untappd: "https://untappd.com/b/thwaites-brewery-nutty-black/25221"
 country: "England"
 brewery: "Thwaites Brewery"
-breweryURL: "brewery/thwaites-brewery.html"
+breweryURL: "/brewery/thwaites-brewery.html"
 style: "English Mild Ale"
 ---

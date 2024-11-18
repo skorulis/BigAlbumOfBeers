@@ -11,6 +11,6 @@ img: /img/list/old-wives-ale-i-can-has-ibu.jpeg
 untappd: "https://untappd.com/b/old-wives-ales-i-can-has-ibu/4026661"
 country: "Australia"
 brewery: "Old Wives Ales"
-breweryURL: "brewery/old-wives-ales.html"
+breweryURL: "/brewery/old-wives-ales.html"
 style: "IPA - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/coastal-myall-marzen.jpeg
 untappd: "https://untappd.com/b/the-coastal-brewing-company-myall-marzen/4032979"
 country: "Australia"
 brewery: "The Coastal Brewing Company"
-breweryURL: "brewery/the-coastal-brewing-company.html"
+breweryURL: "/brewery/the-coastal-brewing-company.html"
 style: "Märzen"
 ---

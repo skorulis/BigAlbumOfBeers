@@ -11,6 +11,6 @@ img: /img/list/jindabyne-redx.jpeg
 untappd: "https://untappd.com/b/jindabyne-brewing-red-x/1483787"
 country: "Australia"
 brewery: "Jindabyne Brewing"
-breweryURL: "brewery/jindabyne-brewing.html"
+breweryURL: "/brewery/jindabyne-brewing.html"
 style: "Red Ale - American Amber / Red"
 ---

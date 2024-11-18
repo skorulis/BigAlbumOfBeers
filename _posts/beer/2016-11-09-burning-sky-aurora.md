@@ -11,6 +11,6 @@ img: /img/list/burning-sky-aurora.jpeg
 untappd: "https://untappd.com/b/burning-sky-brewery-aurora/480460"
 country: "England"
 brewery: "Burning Sky Brewery"
-breweryURL: "brewery/burning-sky-brewery.html"
+breweryURL: "/brewery/burning-sky-brewery.html"
 style: "Pale Ale - American"
 ---

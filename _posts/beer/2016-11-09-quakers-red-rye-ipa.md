@@ -11,6 +11,6 @@ img: /img/list/quakers-red-rye-ipa.jpeg
 untappd: "https://untappd.com/b/quakers-hat-brewing-red-rye-ipa/3560207"
 country: "Australia"
 brewery: "Quakers Hat Brewing"
-breweryURL: "brewery/quakers-hat-brewing.html"
+breweryURL: "/brewery/quakers-hat-brewing.html"
 style: "IPA - Rye"
 ---

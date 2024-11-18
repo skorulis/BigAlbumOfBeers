@@ -11,6 +11,6 @@ img: /img/list/zytho-brewing-ipa.jpeg
 untappd: "https://untappd.com/b/zytho-brewing-ipa/3511776"
 country: "Australia"
 brewery: "Zytho Brewing"
-breweryURL: "brewery/zytho-brewing.html"
+breweryURL: "/brewery/zytho-brewing.html"
 style: "IPA - American"
 ---

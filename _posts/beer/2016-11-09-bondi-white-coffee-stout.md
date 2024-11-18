@@ -11,6 +11,6 @@ img: /img/list/bondi-white-coffee-stout.jpeg
 untappd: "https://untappd.com/b/the-bondi-brewing-co--white-coffee-stout/3909280"
 country: "Australia"
 brewery: "The Bondi Brewing Co."
-breweryURL: "brewery/the-bondi-brewing-co.html"
+breweryURL: "/brewery/the-bondi-brewing-co.html"
 style: "Stout - White"
 ---

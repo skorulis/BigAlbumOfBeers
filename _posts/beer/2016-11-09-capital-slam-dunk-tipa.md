@@ -11,6 +11,6 @@ img: /img/list/capital-slam-dunk-tipa.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-slam-dank-triple-ipa/3967848"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "brewery/capital-brewing-co.html"
+breweryURL: "/brewery/capital-brewing-co.html"
 style: "IPA - Triple"
 ---

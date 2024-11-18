@@ -11,6 +11,6 @@ img: /img/list/blackfont-koelsch.jpeg
 untappd: "https://untappd.com/b/blackfont-brewhouse-kolsch/1406950"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "brewery/blackfont-brewhouse.html"
+breweryURL: "/brewery/blackfont-brewhouse.html"
 style: "Kölsch"
 ---

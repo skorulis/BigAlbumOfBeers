@@ -11,6 +11,6 @@ img: /img/list/philter-iipa.jpeg
 untappd: "https://untappd.com/b/philter-brewing-iipa/3958365"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "brewery/philter-brewing.html"
+breweryURL: "/brewery/philter-brewing.html"
 style: "IPA - Imperial / Double"
 ---

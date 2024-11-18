@@ -11,6 +11,6 @@ img: /img/list/moondog-all-killer-no-filler.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-all-killer-no-filler/4303158"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "brewery/moon-dog-craft-brewery.html"
+breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "Pale Ale - New England / Hazy"
 ---

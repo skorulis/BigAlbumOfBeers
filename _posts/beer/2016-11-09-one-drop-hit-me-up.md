@@ -11,6 +11,6 @@ img: /img/list/one-drop-hit-me-up.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-hit-me-up-thiolised-dipa-with-phantasm/5412033"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

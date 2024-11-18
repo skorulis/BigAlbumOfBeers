@@ -11,6 +11,6 @@ img: /img/list/one-drop-luponus-maximus.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-luponus-maximus-hazy-micro-ipa/4576952"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

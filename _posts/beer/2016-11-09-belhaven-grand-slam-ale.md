@@ -11,6 +11,6 @@ img: /img/list/belhaven-grand-slam-ale.jpeg
 untappd: "https://untappd.com/b/belhaven-brewery-grand-slam-ale/126798"
 country: "Scotland"
 brewery: "Belhaven Brewery"
-breweryURL: "brewery/belhaven-brewery.html"
+breweryURL: "/brewery/belhaven-brewery.html"
 style: "Golden Ale"
 ---

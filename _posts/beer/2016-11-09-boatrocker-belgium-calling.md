@@ -11,6 +11,6 @@ img: /img/list/boatrocker-belgium-calling.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewers-distillers-boatrocker-brewers-and-distillers-belgium-calling/5613928"
 country: "Australia"
 brewery: "Boatrocker Brewers & Distillers"
-breweryURL: "brewery/boatrocker-brewers---distillers.html"
+breweryURL: "/brewery/boatrocker-brewers---distillers.html"
 style: "Belgian Blonde"
 ---

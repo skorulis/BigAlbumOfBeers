@@ -11,6 +11,6 @@ img: /img/list/kerueru-imperial-nibs-imperial-coconut-stout.jpeg
 untappd: "https://untappd.com/b/kereru-brewing-company-imperial-nibs/1122344"
 country: "New Zealand"
 brewery: "Kereru Brewing Company"
-breweryURL: "brewery/kereru-brewing-company.html"
+breweryURL: "/brewery/kereru-brewing-company.html"
 style: "Porter - Imperial / Double"
 ---

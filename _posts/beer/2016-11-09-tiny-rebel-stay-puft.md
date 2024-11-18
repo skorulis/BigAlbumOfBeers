@@ -11,6 +11,6 @@ img: /img/list/tiny-rebel-stay-puft.jpeg
 untappd: "https://untappd.com/b/tiny-rebel-brewing-co-stay-puft/1407063"
 country: "Wales"
 brewery: "Tiny Rebel Brewing Co"
-breweryURL: "brewery/tiny-rebel-brewing-co.html"
+breweryURL: "/brewery/tiny-rebel-brewing-co.html"
 style: "Porter - American"
 ---

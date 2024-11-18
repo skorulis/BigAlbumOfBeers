@@ -11,6 +11,6 @@ img: /img/list/temple-cakepricot.jpeg
 untappd: "https://untappd.com/b/temple-brewing-co--cakepricot/3846401"
 country: "Australia"
 brewery: "Temple Brewing Co."
-breweryURL: "brewery/temple-brewing-co.html"
+breweryURL: "/brewery/temple-brewing-co.html"
 style: "Stout - Imperial / Double Pastry"
 ---

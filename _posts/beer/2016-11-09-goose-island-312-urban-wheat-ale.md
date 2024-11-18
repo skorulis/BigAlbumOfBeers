@@ -11,6 +11,6 @@ img: /img/list/goose-island-312-urban-wheat-ale.jpeg
 untappd: "https://untappd.com/b/goose-island-beer-co--312-urban-wheat-ale/5925"
 country: "United States"
 brewery: "Goose Island Beer Co."
-breweryURL: "brewery/goose-island-beer-co.html"
+breweryURL: "/brewery/goose-island-beer-co.html"
 style: "Pale Wheat Ale - American"
 ---

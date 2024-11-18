@@ -11,6 +11,6 @@ img: /img/list/hepburn-springs-hefe.jpeg
 untappd: "https://untappd.com/b/hepburn-springs-brewing-co--hefeweizen/4106169"
 country: "Australia"
 brewery: "Hepburn Springs Brewing Co."
-breweryURL: "brewery/hepburn-springs-brewing-co.html"
+breweryURL: "/brewery/hepburn-springs-brewing-co.html"
 style: "Wheat Beer - Hefeweizen"
 ---

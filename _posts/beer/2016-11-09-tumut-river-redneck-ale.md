@@ -11,6 +11,6 @@ img: /img/list/tumut-river-redneck-ale.jpeg
 untappd: "https://untappd.com/b/tumut-river-brewing-co-redneck-ale/791635"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
-breweryURL: "brewery/tumut-river-brewing-co.html"
+breweryURL: "/brewery/tumut-river-brewing-co.html"
 style: "Red Ale - Other"
 ---

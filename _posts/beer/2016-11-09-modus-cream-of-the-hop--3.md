@@ -11,6 +11,6 @@ img: /img/list/modus-cream-of-the-hop--3.jpeg
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--cream-of-the-hop-3/1266877"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
-breweryURL: "brewery/modus-operandi-brewing-co.html"
+breweryURL: "/brewery/modus-operandi-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

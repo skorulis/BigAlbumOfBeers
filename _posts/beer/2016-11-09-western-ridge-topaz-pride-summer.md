@@ -11,6 +11,6 @@ img: /img/list/western-ridge-topaz-pride-summer.jpeg
 untappd: "https://untappd.com/b/western-ridge-brewing-collective-topaz-pride-summer/2701126"
 country: "Australia"
 brewery: "Western Ridge Brewing Collective"
-breweryURL: "brewery/western-ridge-brewing-collective.html"
+breweryURL: "/brewery/western-ridge-brewing-collective.html"
 style: "IPA - American"
 ---

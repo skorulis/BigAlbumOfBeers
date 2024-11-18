@@ -11,6 +11,6 @@ img: /img/list/mornington-new-world-lager.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-new-world-lager/2972343"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "brewery/mornington-peninsula-brewery.html"
+breweryURL: "/brewery/mornington-peninsula-brewery.html"
 style: "Lager - IPL (India Pale Lager)"
 ---

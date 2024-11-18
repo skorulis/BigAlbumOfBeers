@@ -11,6 +11,6 @@ img: /img/list/black-brewing-bao-bao-milk-stout.jpeg
 untappd: "https://untappd.com/b/black-brewing-co--bao-bao-milk-stout/1642008"
 country: "Australia"
 brewery: "Black Brewing Co."
-breweryURL: "brewery/black-brewing-co.html"
+breweryURL: "/brewery/black-brewing-co.html"
 style: "Stout - Milk / Sweet"
 ---

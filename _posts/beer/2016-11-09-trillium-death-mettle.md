@@ -11,6 +11,6 @@ img: /img/list/trillium-death-mettle.jpeg
 untappd: "https://untappd.com/b/trillium-brewing-company-death-mettle/3506492"
 country: "United States"
 brewery: "Trillium Brewing Company"
-breweryURL: "brewery/trillium-brewing-company.html"
+breweryURL: "/brewery/trillium-brewing-company.html"
 style: "IPA - Triple"
 ---

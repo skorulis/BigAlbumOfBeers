@@ -11,6 +11,6 @@ img: /img/list/alchemist-heady-topper.jpeg
 untappd: "https://untappd.com/b/the-alchemist-the-alchemist-heady-topper/4691"
 country: "United States"
 brewery: "The Alchemist"
-breweryURL: "brewery/the-alchemist.html"
+breweryURL: "/brewery/the-alchemist.html"
 style: "IPA - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/deeds-dkat-amarillo.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-dkat-amarillo/4131529"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "brewery/deeds-brewing.html"
+breweryURL: "/brewery/deeds-brewing.html"
 style: "IPA - Imperial / Double"
 ---

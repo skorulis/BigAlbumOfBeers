@@ -11,6 +11,6 @@ img: /img/list/anderson-valley-wild-turkey-bourbon-barrel-stout.jpeg
 untappd: "https://untappd.com/b/anderson-valley-brewing-company-wild-turkey-bourbon-barrel-stout/130880"
 country: "United States"
 brewery: "Anderson Valley Brewing Company"
-breweryURL: "brewery/anderson-valley-brewing-company.html"
+breweryURL: "/brewery/anderson-valley-brewing-company.html"
 style: "Stout - Oatmeal"
 ---

@@ -11,6 +11,6 @@ img: /img/list/two-birds-spring-saison.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-spring-saison/1713505"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "brewery/two-birds-brewing.html"
+breweryURL: "/brewery/two-birds-brewing.html"
 style: "Saison / Farmhouse Ale"
 ---

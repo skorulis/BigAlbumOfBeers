@@ -11,6 +11,6 @@ img: /img/list/to-ol-45-days-organic-pilsner.jpeg
 untappd: "https://untappd.com/b/to-ol-45-days-organic-pilsner/3716889"
 country: "Denmark"
 brewery: "To Øl"
-breweryURL: "brewery/to-ol.html"
+breweryURL: "/brewery/to-ol.html"
 style: "Pilsner - Other"
 ---

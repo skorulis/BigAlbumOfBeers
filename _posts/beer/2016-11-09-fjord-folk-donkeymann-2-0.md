@@ -11,6 +11,6 @@ img: /img/list/fjord-folk-donkeymann-2-0.jpeg
 untappd: "https://untappd.com/b/fjordfolk-mikrobryggeri-donkeymann-2-0/4147953"
 country: "Norway"
 brewery: "Fjordfolk Mikrobryggeri"
-breweryURL: "brewery/fjordfolk-mikrobryggeri.html"
+breweryURL: "/brewery/fjordfolk-mikrobryggeri.html"
 style: "Porter - Other"
 ---

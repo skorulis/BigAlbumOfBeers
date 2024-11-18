@@ -11,6 +11,6 @@ img: /img/list/lab-ouroboros.jpeg
 untappd: "https://untappd.com/b/lab-little-alchemist-brewing-co-ouroboros/3974129"
 country: "Australia"
 brewery: "LAB Little Alchemist Brewing Co"
-breweryURL: "brewery/lab-little-alchemist-brewing-co.html"
+breweryURL: "/brewery/lab-little-alchemist-brewing-co.html"
 style: "Sour - Fruited"
 ---

@@ -11,6 +11,6 @@ img: /img/list/yullis-mums-mango-pale-ale.jpeg
 untappd: "https://untappd.com/b/yullis-brews-mums-mango-pale-ale/1765137"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "brewery/yulli-s-brews.html"
+breweryURL: "/brewery/yulli-s-brews.html"
 style: "Pale Ale - American"
 ---

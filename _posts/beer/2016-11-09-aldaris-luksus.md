@@ -11,6 +11,6 @@ img: /img/list/aldaris-luksus.jpeg
 untappd: "https://untappd.com/b/aldaris-luksus/3574"
 country: "Latvia"
 brewery: "Aldaris"
-breweryURL: "brewery/aldaris.html"
+breweryURL: "/brewery/aldaris.html"
 style: "Lager - Pale"
 ---

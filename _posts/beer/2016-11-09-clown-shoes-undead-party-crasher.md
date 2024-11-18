@@ -11,6 +11,6 @@ img: /img/list/clown-shoes-undead-party-crasher.jpeg
 untappd: "https://untappd.com/b/clown-shoes-undead-party-crasher/491540"
 country: "United States"
 brewery: "Clown Shoes"
-breweryURL: "brewery/clown-shoes.html"
+breweryURL: "/brewery/clown-shoes.html"
 style: "Stout - Imperial / Double"
 ---

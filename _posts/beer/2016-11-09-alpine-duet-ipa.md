@@ -11,6 +11,6 @@ img: /img/list/alpine-duet-ipa.jpeg
 untappd: "https://untappd.com/b/alpine-beer-company-duet/5804"
 country: "United States"
 brewery: "Alpine Beer Company"
-breweryURL: "brewery/alpine-beer-company.html"
+breweryURL: "/brewery/alpine-beer-company.html"
 style: "IPA - American"
 ---

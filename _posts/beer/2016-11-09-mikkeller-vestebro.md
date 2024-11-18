@@ -11,6 +11,6 @@ img: /img/list/mikkeller-vestebro.jpeg
 untappd: "https://untappd.com/b/mikkeller-vesterbro-brown-ale/157037"
 country: "Denmark"
 brewery: "Mikkeller"
-breweryURL: "brewery/mikkeller.html"
+breweryURL: "/brewery/mikkeller.html"
 style: "Brown Ale - American"
 ---

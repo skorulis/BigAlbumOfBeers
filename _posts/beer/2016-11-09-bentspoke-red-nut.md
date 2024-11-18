@@ -11,6 +11,6 @@ img: /img/list/bentspoke-red-nut.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-red-nut/1374050"
 country: "Australia"
 brewery: "BentSpoke Brewing Co"
-breweryURL: "brewery/bentspoke-brewing-co.html"
+breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "IPA - Red"
 ---

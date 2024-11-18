@@ -11,6 +11,6 @@ img: /img/list/hargreaves-hill-red-vienna-lager.jpeg
 untappd: "https://untappd.com/b/hargreaves-hill-red-vienna-lager/4959174"
 country: "Australia"
 brewery: "Hargreaves Hill"
-breweryURL: "brewery/hargreaves-hill.html"
+breweryURL: "/brewery/hargreaves-hill.html"
 style: "Lager - Vienna"
 ---

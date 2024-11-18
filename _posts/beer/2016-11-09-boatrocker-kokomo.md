@@ -11,6 +11,6 @@ img: /img/list/boatrocker-kokomo.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewers---distillers-kokomo/4268608"
 country: "Australia"
 brewery: "Boatrocker Brewers & Distillers"
-breweryURL: "brewery/boatrocker-brewers---distillers.html"
+breweryURL: "/brewery/boatrocker-brewers---distillers.html"
 style: "Brown Ale - Other"
 ---

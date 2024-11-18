@@ -11,6 +11,6 @@ img: /img/list/welders-dog-ipa.jpeg
 untappd: "https://untappd.com/b/the-welders-dog-brewing-welders-dog-ipa/2632441"
 country: "Australia"
 brewery: "The Welder's Dog Brewing"
-breweryURL: "brewery/the-welder-s-dog-brewing.html"
+breweryURL: "/brewery/the-welder-s-dog-brewing.html"
 style: "IPA - American"
 ---

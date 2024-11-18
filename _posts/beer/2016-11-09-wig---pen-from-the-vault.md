@@ -11,6 +11,6 @@ img: /img/list/wig---pen-from-the-vault.jpeg
 untappd: "https://untappd.com/b/wig---pen-brewery-from-the-vault/1087518"
 country: "Australia"
 brewery: "Wig & Pen Brewery"
-breweryURL: "brewery/wig---pen-brewery.html"
+breweryURL: "/brewery/wig---pen-brewery.html"
 style: "Lambic - Other"
 ---

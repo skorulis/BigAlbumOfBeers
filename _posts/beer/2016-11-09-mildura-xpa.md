@@ -11,6 +11,6 @@ img: /img/list/mildura-xpa.jpeg
 untappd: "https://untappd.com/b/mildura-brewery-birthday-xpa/3552818"
 country: "Australia"
 brewery: "Mildura Brewery"
-breweryURL: "brewery/mildura-brewery.html"
+breweryURL: "/brewery/mildura-brewery.html"
 style: "Pale Ale - Australian"
 ---

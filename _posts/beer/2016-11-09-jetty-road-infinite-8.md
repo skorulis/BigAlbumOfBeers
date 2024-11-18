@@ -11,6 +11,6 @@ img: /img/list/jetty-road-infinite-8.jpeg
 untappd: "https://untappd.com/b/jetty-road-infinite-8/3050386"
 country: "Australia"
 brewery: "Jetty Road"
-breweryURL: "brewery/jetty-road.html"
+breweryURL: "/brewery/jetty-road.html"
 style: "IPA - Imperial / Double"
 ---

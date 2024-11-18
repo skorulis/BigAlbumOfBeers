@@ -11,6 +11,6 @@ img: /img/list/merchant-three-toe.jpeg
 untappd: "https://untappd.com/b/merchant-brewing-co--three-toe-ale/1013376"
 country: "Australia"
 brewery: "Merchant Brewing Co."
-breweryURL: "brewery/merchant-brewing-co.html"
+breweryURL: "/brewery/merchant-brewing-co.html"
 style: "Pale Ale - American"
 ---

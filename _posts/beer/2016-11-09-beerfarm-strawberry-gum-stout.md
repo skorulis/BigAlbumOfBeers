@@ -11,6 +11,6 @@ img: /img/list/beerfarm-strawberry-gum-stout.jpeg
 untappd: "https://untappd.com/b/beerfarm-strawberrry-gum-stout--2019-/3382117"
 country: "Australia"
 brewery: "Beerfarm"
-breweryURL: "brewery/beerfarm.html"
+breweryURL: "/brewery/beerfarm.html"
 style: "Stout - Milk / Sweet"
 ---

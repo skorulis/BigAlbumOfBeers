@@ -11,6 +11,6 @@ img: /img/list/schwechater-bier.jpeg
 untappd: "https://untappd.com/b/brauerei-schwechat-schwechater-bier/27883"
 country: "Austria"
 brewery: "Brauerei Schwechat"
-breweryURL: "brewery/brauerei-schwechat.html"
+breweryURL: "/brewery/brauerei-schwechat.html"
 style: "Lager - Helles"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pirate-life-aca-and-passionfruit-sour.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-acai---passionfruit-sour/3116844"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Sour - Fruited"
 ---

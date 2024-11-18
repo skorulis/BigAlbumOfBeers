@@ -11,6 +11,6 @@ img: /img/list/james-squire-jack-of-spades.jpeg
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-jack-of-spades-porter/79887"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "brewery/malt-shovel-brewery.html"
+breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Porter - English"
 ---

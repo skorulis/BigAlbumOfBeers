@@ -11,6 +11,6 @@ img: /img/list/eden-birch-wit.jpeg
 untappd: "https://untappd.com/b/eden-brewery-eden-brewery-birch-wit/1524525"
 country: "Australia"
 brewery: "Eden Brewery"
-breweryURL: "brewery/eden-brewery.html"
+breweryURL: "/brewery/eden-brewery.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

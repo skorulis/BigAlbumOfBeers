@@ -11,6 +11,6 @@ img: /img/list/blizzard-bladerunner.jpeg
 untappd: "https://untappd.com/b/blizzard-brewing-company-bladerunner/1864685"
 country: "Australia"
 brewery: "Blizzard Brewing Company"
-breweryURL: "brewery/blizzard-brewing-company.html"
+breweryURL: "/brewery/blizzard-brewing-company.html"
 style: "Pale Ale - Belgian"
 ---

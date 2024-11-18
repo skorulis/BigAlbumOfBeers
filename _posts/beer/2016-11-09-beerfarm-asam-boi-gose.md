@@ -11,6 +11,6 @@ img: /img/list/beerfarm-asam-boi-gose.jpeg
 untappd: "https://untappd.com/b/beerfarm-asam-boi-gose/2685791"
 country: "Australia"
 brewery: "Beerfarm"
-breweryURL: "brewery/beerfarm.html"
+breweryURL: "/brewery/beerfarm.html"
 style: "Sour - Fruited Gose"
 ---

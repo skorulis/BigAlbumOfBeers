@@ -11,6 +11,6 @@ img: /img/list/anker-lychee.jpeg
 untappd: "https://untappd.com/b/pt-delta-djakarta-tbk-anker-lychee/2923862"
 country: "Indonesia"
 brewery: "PT Delta Djakarta Tbk"
-breweryURL: "brewery/pt-delta-djakarta-tbk.html"
+breweryURL: "/brewery/pt-delta-djakarta-tbk.html"
 style: "Fruit Beer"
 ---

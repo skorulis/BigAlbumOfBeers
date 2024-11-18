@@ -11,6 +11,6 @@ img: /img/list/drakes-juicy-hoot.jpeg
 untappd: "https://untappd.com/b/drake-s-brewing-company-drake-s-brewing-company-juicy-hoot/5232040"
 country: "United States"
 brewery: "Drake's Brewing Company"
-breweryURL: "brewery/drake-s-brewing-company.html"
+breweryURL: "/brewery/drake-s-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

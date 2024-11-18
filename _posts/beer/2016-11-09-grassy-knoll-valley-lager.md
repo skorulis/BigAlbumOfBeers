@@ -11,6 +11,6 @@ img: /img/list/grassy-knoll-valley-lager.jpeg
 untappd: "https://untappd.com/b/grassy-knoll-brewing-valley-lager/3590801"
 country: "Australia"
 brewery: "Grassy Knoll Brewing"
-breweryURL: "brewery/grassy-knoll-brewing.html"
+breweryURL: "/brewery/grassy-knoll-brewing.html"
 style: "Lager - Pale"
 ---

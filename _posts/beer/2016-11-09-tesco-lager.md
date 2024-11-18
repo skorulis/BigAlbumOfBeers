@@ -11,6 +11,6 @@ img: /img/list/tesco-lager.jpeg
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-lager/412420"
 country: "England"
 brewery: "Tesco Stores Ltd."
-breweryURL: "brewery/tesco-stores-ltd.html"
+breweryURL: "/brewery/tesco-stores-ltd.html"
 style: "Lager - Pale"
 ---

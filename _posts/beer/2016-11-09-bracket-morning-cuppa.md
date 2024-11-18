@@ -11,6 +11,6 @@ img: /img/list/bracket-morning-cuppa.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-morning-cuppa/4526558"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Stout - Coffee"
 ---

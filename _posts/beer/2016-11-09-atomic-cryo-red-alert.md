@@ -11,6 +11,6 @@ img: /img/list/atomic-cryo-red-alert.jpeg
 untappd: "https://untappd.com/b/gage-roads-brew-co--atomic-beer-project-red-alert/3791982"
 country: "Australia"
 brewery: "Gage Roads Brew Co "
-breweryURL: "brewery/gage-roads-brew-co-.html"
+breweryURL: "/brewery/gage-roads-brew-co-.html"
 style: "Red Ale - Other"
 ---

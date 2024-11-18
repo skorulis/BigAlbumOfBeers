@@ -11,6 +11,6 @@ img: /img/list/batch-citrus-sunset.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company--australia--citrus-sunset/5293388"
 country: "Australia"
 brewery: "Batch Brewing Company (Australia)"
-breweryURL: "brewery/batch-brewing-company--australia.html"
+breweryURL: "/brewery/batch-brewing-company--australia.html"
 style: "IPA - Red"
 ---

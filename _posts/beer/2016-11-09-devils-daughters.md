@@ -11,6 +11,6 @@ img: /img/list/devils-daughters.jpeg
 untappd: "https://untappd.com/b/urban-craft-brewing-co-devils-daughter-double-ipa/1531203"
 country: "Australia"
 brewery: "Urban Craft Brewing Co"
-breweryURL: "brewery/urban-craft-brewing-co.html"
+breweryURL: "/brewery/urban-craft-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

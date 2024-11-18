@@ -11,6 +11,6 @@ img: /img/list/barossa-valley-campfire-session.jpeg
 untappd: "https://untappd.com/b/barossa-valley-brewing-brewers-campfire-session/2703504"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "brewery/barossa-valley-brewing.html"
+breweryURL: "/brewery/barossa-valley-brewing.html"
 style: "Brown Ale - English"
 ---

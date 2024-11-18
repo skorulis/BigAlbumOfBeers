@@ -11,6 +11,6 @@ img: /img/list/stoic-red-ipa.jpeg
 untappd: "https://untappd.com/b/stoic-brewing-red-ipa/3191776"
 country: "Australia"
 brewery: "Stoic Brewing"
-breweryURL: "brewery/stoic-brewing.html"
+breweryURL: "/brewery/stoic-brewing.html"
 style: "IPA - Red"
 ---

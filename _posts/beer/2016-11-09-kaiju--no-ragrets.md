@@ -11,6 +11,6 @@ img: /img/list/kaiju--no-ragrets.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-kaiju-beer-no-ragrets-mutation-program/5610235"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "brewery/kaiju--beer.html"
+breweryURL: "/brewery/kaiju--beer.html"
 style: "Stout - Imperial / Double"
 ---

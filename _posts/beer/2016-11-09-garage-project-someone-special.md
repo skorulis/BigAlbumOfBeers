@@ -11,6 +11,6 @@ img: /img/list/garage-project-someone-special.jpeg
 untappd: "https://untappd.com/b/garage-project-someone-special--special-/4604473"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "brewery/garage-project.html"
+breweryURL: "/brewery/garage-project.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

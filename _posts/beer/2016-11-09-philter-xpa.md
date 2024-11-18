@@ -11,6 +11,6 @@ img: /img/list/philter-xpa.jpeg
 untappd: "https://untappd.com/b/philter-brewing-xpa/1997370"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "brewery/philter-brewing.html"
+breweryURL: "/brewery/philter-brewing.html"
 style: "Pale Ale - Australian"
 ---

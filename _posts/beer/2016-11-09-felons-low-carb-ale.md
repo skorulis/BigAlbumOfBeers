@@ -11,6 +11,6 @@ img: /img/list/felons-low-carb-ale.jpeg
 untappd: "https://untappd.com/b/felons-brewing-co--low-carb-ale/3848504"
 country: "Australia"
 brewery: "Felons Brewing Co."
-breweryURL: "brewery/felons-brewing-co.html"
+breweryURL: "/brewery/felons-brewing-co.html"
 style: "Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/magic-rock-salty-kiss.jpeg
 untappd: "https://untappd.com/b/magic-rock-brewing-salty-kiss/322150"
 country: "England"
 brewery: "Magic Rock Brewing"
-breweryURL: "brewery/magic-rock-brewing.html"
+breweryURL: "/brewery/magic-rock-brewing.html"
 style: "Sour - Gose"
 ---

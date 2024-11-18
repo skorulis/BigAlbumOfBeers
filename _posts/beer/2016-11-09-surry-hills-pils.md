@@ -11,6 +11,6 @@ img: /img/list/surry-hills-pils.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-surry-hills-pils/240126"
 country: "Australia"
 brewery: "Sydney Brewery"
-breweryURL: "brewery/sydney-brewery.html"
+breweryURL: "/brewery/sydney-brewery.html"
 style: "Pilsner - Other"
 ---

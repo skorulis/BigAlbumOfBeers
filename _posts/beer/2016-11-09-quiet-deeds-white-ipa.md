@@ -11,6 +11,6 @@ img: /img/list/quiet-deeds-white-ipa.jpeg
 untappd: "https://untappd.com/b/red-island-brewing-co--quiet-deeds-white-ipa/831986"
 country: "Australia"
 brewery: "Red Island Brewing Co."
-breweryURL: "brewery/red-island-brewing-co.html"
+breweryURL: "/brewery/red-island-brewing-co.html"
 style: "IPA - White"
 ---

@@ -11,6 +11,6 @@ img: /img/list/macks-tradisjonell-julebock.jpeg
 untappd: "https://untappd.com/b/macks-olbryggeri-julebokk/2899207"
 country: "Norway"
 brewery: "Macks Ølbryggeri"
-breweryURL: "brewery/macks-olbryggeri.html"
+breweryURL: "/brewery/macks-olbryggeri.html"
 style: "Bock - Doppelbock"
 ---

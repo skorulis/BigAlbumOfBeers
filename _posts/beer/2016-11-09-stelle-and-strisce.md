@@ -11,6 +11,6 @@ img: /img/list/stelle-and-strisce.jpeg
 untappd: "https://untappd.com/b/birra-del-borgo-stelle---strisce/86838"
 country: "Italy"
 brewery: "Birra del Borgo"
-breweryURL: "brewery/birra-del-borgo.html"
+breweryURL: "/brewery/birra-del-borgo.html"
 style: "Golden Ale"
 ---

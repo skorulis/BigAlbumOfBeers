@@ -11,6 +11,6 @@ img: /img/list/trouble-singapore-lager.jpeg
 untappd: "https://untappd.com/b/trouble-brewing-singapore-lager/4090383"
 country: "Singapore"
 brewery: "Trouble Brewing"
-breweryURL: "brewery/trouble-brewing.html"
+breweryURL: "/brewery/trouble-brewing.html"
 style: "Lager - Helles"
 ---

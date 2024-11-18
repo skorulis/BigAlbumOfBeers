@@ -11,6 +11,6 @@ img: /img/list/bracket-jugganaut.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-the-juggernaut/5430603"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - Triple New England / Hazy"
 ---

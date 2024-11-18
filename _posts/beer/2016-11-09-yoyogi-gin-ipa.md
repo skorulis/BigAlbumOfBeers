@@ -11,6 +11,6 @@ img: /img/list/yoyogi-gin-ipa.jpeg
 untappd: "https://untappd.com/b/yoyogi-gin-ipa/4294420"
 country: "Australia"
 brewery: "Yoyogi"
-breweryURL: "brewery/yoyogi.html"
+breweryURL: "/brewery/yoyogi.html"
 style: "IPA - American"
 ---

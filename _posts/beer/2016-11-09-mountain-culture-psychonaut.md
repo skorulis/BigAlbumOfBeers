@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-psychonaut.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--psychonaut/4708905"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "brewery/mountain-culture-beer-co.html"
+breweryURL: "/brewery/mountain-culture-beer-co.html"
 style: "IPA - Triple"
 ---

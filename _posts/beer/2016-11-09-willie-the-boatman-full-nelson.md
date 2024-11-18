@@ -11,6 +11,6 @@ img: /img/list/willie-the-boatman-full-nelson.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-full-nelson/4990519"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "brewery/willie-the-boatman.html"
+breweryURL: "/brewery/willie-the-boatman.html"
 style: "IPA - New Zealand"
 ---

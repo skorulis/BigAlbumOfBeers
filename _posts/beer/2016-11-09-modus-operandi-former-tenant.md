@@ -11,6 +11,6 @@ img: /img/list/modus-operandi-former-tenant.jpeg
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--former-tenant/757814"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
-breweryURL: "brewery/modus-operandi-brewing-co.html"
+breweryURL: "/brewery/modus-operandi-brewing-co.html"
 style: "IPA - Red"
 ---

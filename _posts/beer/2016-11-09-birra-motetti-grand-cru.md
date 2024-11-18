@@ -11,6 +11,6 @@ img: /img/list/birra-motetti-grand-cru.jpeg
 untappd: "https://untappd.com/b/birra-moretti-grand-cru/36921"
 country: "Italy"
 brewery: "Birra Moretti"
-breweryURL: "brewery/birra-moretti.html"
+breweryURL: "/brewery/birra-moretti.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 ---

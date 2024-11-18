@@ -11,6 +11,6 @@ img: /img/list/seven-mile-quiver-killer.jpeg
 untappd: "https://untappd.com/b/seven-mile-brewing-co-seven-mile-brewing-co-quiver-killer/5608492"
 country: "Australia"
 brewery: "Seven Mile Brewing Co."
-breweryURL: "brewery/seven-mile-brewing-co.html"
+breweryURL: "/brewery/seven-mile-brewing-co.html"
 style: "IPA - American"
 ---

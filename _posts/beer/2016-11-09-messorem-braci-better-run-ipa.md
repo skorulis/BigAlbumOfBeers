@@ -11,6 +11,6 @@ img: /img/list/messorem-braci-better-run-ipa.jpeg
 untappd: "https://untappd.com/b/messorem--better-run/4343862"
 country: "Canada"
 brewery: "Messorem "
-breweryURL: "brewery/messorem-.html"
+breweryURL: "/brewery/messorem-.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/prancing-pony-amber-ale.jpeg
 untappd: "https://untappd.com/b/prancing-pony-brewery-amber-ale/269943"
 country: "Australia"
 brewery: "Prancing Pony Brewery"
-breweryURL: "brewery/prancing-pony-brewery.html"
+breweryURL: "/brewery/prancing-pony-brewery.html"
 style: "Red Ale - American Amber / Red"
 ---

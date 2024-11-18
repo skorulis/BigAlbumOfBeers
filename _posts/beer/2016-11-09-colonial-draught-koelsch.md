@@ -11,6 +11,6 @@ img: /img/list/colonial-draught-koelsch.jpeg
 untappd: "https://untappd.com/b/colonial-brewing-co-draught/37417"
 country: "Australia"
 brewery: "Colonial Brewing Co"
-breweryURL: "brewery/colonial-brewing-co.html"
+breweryURL: "/brewery/colonial-brewing-co.html"
 style: "Kölsch"
 ---

@@ -11,6 +11,6 @@ img: /img/list/blackmans-juicy-banger.jpeg
 untappd: "https://untappd.com/b/blackmans-brewery-juicy-banger-ipl/1997345"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "brewery/blackman-s-brewery.html"
+breweryURL: "/brewery/blackman-s-brewery.html"
 style: "Lager - IPL (India Pale Lager)"
 ---

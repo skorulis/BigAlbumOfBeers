@@ -11,6 +11,6 @@ img: /img/list/garage-project-cereal-milk-stout.jpeg
 untappd: "https://untappd.com/b/garage-project-cereal-milk-stout/786595"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "brewery/garage-project.html"
+breweryURL: "/brewery/garage-project.html"
 style: "Stout - Milk / Sweet"
 ---

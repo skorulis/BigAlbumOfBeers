@@ -11,6 +11,6 @@ img: /img/list/rocks-jasmine-witbeer.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-gabs-jasmine-witbier/2699559"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "brewery/rocks-brewing-co.html"
+breweryURL: "/brewery/rocks-brewing-co.html"
 style: "Witbier"
 ---

@@ -11,6 +11,6 @@ img: /img/list/kaiju--metamorphosis-ipa.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-kaiju-metamorphosis-ipa/596462"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "brewery/kaiju--beer.html"
+breweryURL: "/brewery/kaiju--beer.html"
 style: "IPA - American"
 ---

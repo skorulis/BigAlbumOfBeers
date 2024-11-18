@@ -11,6 +11,6 @@ img: /img/list/crow-maximum-luxury.jpeg
 untappd: "https://untappd.com/b/crow-bryggeri-maximum-luxury/4866164"
 country: "Norway"
 brewery: "Crow Bryggeri"
-breweryURL: "brewery/crow-bryggeri.html"
+breweryURL: "/brewery/crow-bryggeri.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/old-salt-quay.jpeg
 untappd: "https://untappd.com/b/greene-king-gk-house-ale/461458"
 country: "England"
 brewery: "Greene King"
-breweryURL: "brewery/greene-king.html"
+breweryURL: "/brewery/greene-king.html"
 style: "English Bitter"
 ---

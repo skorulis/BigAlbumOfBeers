@@ -11,6 +11,6 @@ img: /img/list/sundowner-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/sundowner-brewing-co-sundowner-brewing-co-west-coast-ipa/5125530"
 country: "Australia"
 brewery: "Sundowner Brewing Co."
-breweryURL: "brewery/sundowner-brewing-co.html"
+breweryURL: "/brewery/sundowner-brewing-co.html"
 style: "IPA - American"
 ---

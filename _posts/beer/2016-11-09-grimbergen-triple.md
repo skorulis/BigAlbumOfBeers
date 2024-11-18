@@ -11,6 +11,6 @@ img: /img/list/grimbergen-triple.jpeg
 untappd: "https://untappd.com/b/brouwerij-alken-maes-grimbergen-tripel--triple/9711"
 country: "Belgium"
 brewery: "Brouwerij Alken-Maes"
-breweryURL: "brewery/brouwerij-alken-maes.html"
+breweryURL: "/brewery/brouwerij-alken-maes.html"
 style: "Belgian Tripel"
 ---

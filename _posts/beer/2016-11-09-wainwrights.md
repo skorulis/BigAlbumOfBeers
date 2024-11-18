@@ -11,6 +11,6 @@ img: /img/list/wainwrights.jpeg
 untappd: "https://untappd.com/b/marstons-brewery-wainwright/9934"
 country: "England"
 brewery: "Marston's Brewery"
-breweryURL: "brewery/marston-s-brewery.html"
+breweryURL: "/brewery/marston-s-brewery.html"
 style: "Golden Ale"
 ---

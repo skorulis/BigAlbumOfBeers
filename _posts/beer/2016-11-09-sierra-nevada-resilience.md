@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-resilience.jpeg
 untappd: "https://untappd.com/b/founders-brewing-co--resilience-ipa/2991017"
 country: "United States"
 brewery: "Founders Brewing Co."
-breweryURL: "brewery/founders-brewing-co.html"
+breweryURL: "/brewery/founders-brewing-co.html"
 style: "IPA - American"
 ---

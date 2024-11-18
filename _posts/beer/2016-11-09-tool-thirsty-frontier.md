@@ -11,6 +11,6 @@ img: /img/list/tool-thirsty-frontier.jpeg
 untappd: "https://untappd.com/b/to-ol-sessions--thirsty-frontier/990413"
 country: "Denmark"
 brewery: "To Øl"
-breweryURL: "brewery/to-ol.html"
+breweryURL: "/brewery/to-ol.html"
 style: "IPA - Session / India Session Ale"
 ---

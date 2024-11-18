@@ -11,6 +11,6 @@ img: /img/list/bracket-downtime.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-down-time/4766632"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Pilsner - Czech"
 ---

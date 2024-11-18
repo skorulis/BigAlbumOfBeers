@@ -11,6 +11,6 @@ img: /img/list/flamin-galah-koelsch.jpeg
 untappd: "https://untappd.com/b/flamin-galah-brewing-co-flamin-galah-brewing-co-kolsch/4820024"
 country: "Australia"
 brewery: "Flamin Galah Brewing Co"
-breweryURL: "brewery/flamin-galah-brewing-co.html"
+breweryURL: "/brewery/flamin-galah-brewing-co.html"
 style: "Kölsch"
 ---

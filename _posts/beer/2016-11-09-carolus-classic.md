@@ -11,6 +11,6 @@ img: /img/list/carolus-classic.jpeg
 untappd: "https://untappd.com/b/brouwerij-het-anker-gouden-carolus-classic/9087"
 country: "Belgium"
 brewery: "Brouwerij Het Anker"
-breweryURL: "brewery/brouwerij-het-anker.html"
+breweryURL: "/brewery/brouwerij-het-anker.html"
 style: "Belgian Strong Dark Ale"
 ---

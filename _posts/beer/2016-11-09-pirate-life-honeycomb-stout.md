@@ -11,6 +11,6 @@ img: /img/list/pirate-life-honeycomb-stout.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-honeycomb-stout/4796502"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "brewery/pirate-life-brewing.html"
+breweryURL: "/brewery/pirate-life-brewing.html"
 style: "Stout - Other"
 ---

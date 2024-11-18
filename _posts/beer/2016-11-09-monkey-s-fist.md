@@ -11,6 +11,6 @@ img: /img/list/monkey-s-fist.jpeg
 untappd: "https://untappd.com/b/sail---anchor-monkeys-fist/243916"
 country: "Australia"
 brewery: "Sail & Anchor"
-breweryURL: "brewery/sail---anchor.html"
+breweryURL: "/brewery/sail---anchor.html"
 style: "Pale Ale - American"
 ---

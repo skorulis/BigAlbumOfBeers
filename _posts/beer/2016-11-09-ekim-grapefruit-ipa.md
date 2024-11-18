@@ -11,6 +11,6 @@ img: /img/list/ekim-grapefruit-ipa.jpeg
 untappd: "https://untappd.com/b/ekim-brewing-co--grapefruit-ipa/1324150"
 country: "Australia"
 brewery: "Ekim Brewing Co."
-breweryURL: "brewery/ekim-brewing-co.html"
+breweryURL: "/brewery/ekim-brewing-co.html"
 style: "IPA - American"
 ---

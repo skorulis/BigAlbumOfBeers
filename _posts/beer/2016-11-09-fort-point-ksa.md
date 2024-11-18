@@ -11,6 +11,6 @@ img: /img/list/fort-point-ksa.jpeg
 untappd: "https://untappd.com/b/fort-point-beer-company-ksa/558747"
 country: "United States"
 brewery: "Fort Point Beer Company"
-breweryURL: "brewery/fort-point-beer-company.html"
+breweryURL: "/brewery/fort-point-beer-company.html"
 style: "Kölsch"
 ---

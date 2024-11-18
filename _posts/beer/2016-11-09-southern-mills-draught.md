@@ -11,6 +11,6 @@ img: /img/list/southern-mills-draught.jpeg
 untappd: "https://untappd.com/b/vietnam-brewery-southern-mills-draft/2438690"
 country: "Vietnam"
 brewery: "Vietnam Brewery"
-breweryURL: "brewery/vietnam-brewery.html"
+breweryURL: "/brewery/vietnam-brewery.html"
 style: "Lager - Amber"
 ---

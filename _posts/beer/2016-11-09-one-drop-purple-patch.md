@@ -11,6 +11,6 @@ img: /img/list/one-drop-purple-patch.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-purple-patch/4712516"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "brewery/one-drop-brewing-co.html"
+breweryURL: "/brewery/one-drop-brewing-co.html"
 style: "Sour - Fruited"
 ---

@@ -11,6 +11,6 @@ img: /img/list/oskar-blues-ipa.jpeg
 untappd: "https://untappd.com/b/oskar-blues-brewery-ipa/1181221"
 country: "United States"
 brewery: "Oskar Blues Brewery"
-breweryURL: "brewery/oskar-blues-brewery.html"
+breweryURL: "/brewery/oskar-blues-brewery.html"
 style: "IPA - American"
 ---

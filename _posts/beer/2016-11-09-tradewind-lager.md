@@ -11,6 +11,6 @@ img: /img/list/tradewind-lager.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--tradewind-lager/1328361"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "Lager - Pale"
 ---

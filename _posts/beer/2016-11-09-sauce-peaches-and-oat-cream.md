@@ -11,6 +11,6 @@ img: /img/list/sauce-peaches-and-oat-cream.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-sauce-brewing-co-peaches-and-oat-cream-ipa/5608246"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "brewery/sauce-brewing-co.html"
+breweryURL: "/brewery/sauce-brewing-co.html"
 style: "IPA - Milkshake"
 ---

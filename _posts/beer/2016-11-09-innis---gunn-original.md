@@ -11,6 +11,6 @@ img: /img/list/innis---gunn-original.jpeg
 untappd: "https://untappd.com/b/innis---gunn-original/24675"
 country: "Scotland"
 brewery: "Innis & Gunn"
-breweryURL: "brewery/innis---gunn.html"
+breweryURL: "/brewery/innis---gunn.html"
 style: "Scottish Export Ale"
 ---

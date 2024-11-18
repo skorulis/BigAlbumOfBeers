@@ -11,6 +11,6 @@ img: /img/list/ceres-top-pilsner.jpeg
 untappd: "https://untappd.com/b/royal-unibrew-ceres-top-pilsner/60836"
 country: "Denmark"
 brewery: "Royal Unibrew"
-breweryURL: "brewery/royal-unibrew.html"
+breweryURL: "/brewery/royal-unibrew.html"
 style: "Pilsner - Other"
 ---

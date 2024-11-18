@@ -11,6 +11,6 @@ img: /img/list/slow-lane-hefeweizen.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-classic-haze/4289840"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "brewery/slow-lane-brewing.html"
+breweryURL: "/brewery/slow-lane-brewing.html"
 style: "Wheat Beer - Hefeweizen"
 ---

@@ -11,6 +11,6 @@ img: /img/list/4-pines-keller-door-hop-hash-xpa.jpeg
 untappd: "https://untappd.com/b/4-pines-brewing-company-keller-door--hop-hash-xpa/1901568"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "brewery/4-pines-brewing-company.html"
+breweryURL: "/brewery/4-pines-brewing-company.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hawthorn-pale-ale.jpeg
 untappd: "https://untappd.com/b/hawthorn-brewing-company-premium-pale-ale/25002"
 country: "Australia"
 brewery: "Hawthorn Brewing Company"
-breweryURL: "brewery/hawthorn-brewing-company.html"
+breweryURL: "/brewery/hawthorn-brewing-company.html"
 style: "Pale Ale - American"
 ---

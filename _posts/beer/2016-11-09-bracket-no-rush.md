@@ -11,6 +11,6 @@ img: /img/list/bracket-no-rush.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-no-rush/5261382"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "Lager - IPL (India Pale Lager)"
 ---

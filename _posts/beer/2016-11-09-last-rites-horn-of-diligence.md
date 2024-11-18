@@ -11,6 +11,6 @@ img: /img/list/last-rites-horn-of-diligence.jpeg
 untappd: "https://untappd.com/b/last-rites-brewing-company-horn-of-diligence/1493116"
 country: "Australia"
 brewery: "Last Rites Brewing Company"
-breweryURL: "brewery/last-rites-brewing-company.html"
+breweryURL: "/brewery/last-rites-brewing-company.html"
 style: "Pale Ale - American"
 ---

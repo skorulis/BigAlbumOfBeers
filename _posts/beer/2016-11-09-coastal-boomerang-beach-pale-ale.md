@@ -11,6 +11,6 @@ img: /img/list/coastal-boomerang-beach-pale-ale.jpeg
 untappd: "https://untappd.com/b/the-coastal-brewing-company-boomerang-beach-pale-ale/2137635"
 country: "Australia"
 brewery: "The Coastal Brewing Company"
-breweryURL: "brewery/the-coastal-brewing-company.html"
+breweryURL: "/brewery/the-coastal-brewing-company.html"
 style: "Pale Ale - American"
 ---

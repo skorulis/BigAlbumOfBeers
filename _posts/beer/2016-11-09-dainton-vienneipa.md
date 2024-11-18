@@ -11,6 +11,6 @@ img: /img/list/dainton-vienneipa.jpeg
 untappd: "https://untappd.com/b/dainton-beer-vienneipa/4202470"
 country: "Australia"
 brewery: "Dainton Beer"
-breweryURL: "brewery/dainton-beer.html"
+breweryURL: "/brewery/dainton-beer.html"
 style: "IPA - Milkshake"
 ---

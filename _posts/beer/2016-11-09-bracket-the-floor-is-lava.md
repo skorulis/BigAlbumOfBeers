@@ -11,6 +11,6 @@ img: /img/list/bracket-the-floor-is-lava.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-the-floor-is-lava/4827075"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "brewery/bracket-brewing.html"
+breweryURL: "/brewery/bracket-brewing.html"
 style: "IPA - Red"
 ---

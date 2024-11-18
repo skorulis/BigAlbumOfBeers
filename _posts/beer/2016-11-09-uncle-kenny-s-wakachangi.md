@@ -11,6 +11,6 @@ img: /img/list/uncle-kenny-s-wakachangi.jpeg
 untappd: "https://untappd.com/b/wakachangi-great-uncle-kennys-multi-purpose-amazing-wakachangi-lager/3131799"
 country: "New Zealand"
 brewery: "Wakachangi"
-breweryURL: "brewery/wakachangi.html"
+breweryURL: "/brewery/wakachangi.html"
 style: "Lager - Amber"
 ---

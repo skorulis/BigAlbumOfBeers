@@ -11,6 +11,6 @@ img: /img/list/bucket-boys-this-is-rice-country.jpeg
 untappd: "https://untappd.com/b/bucket-boys-craft-beer-co-this-is-rice-country/2037792"
 country: "Australia"
 brewery: "Bucket Boys Craft Beer Co"
-breweryURL: "brewery/bucket-boys-craft-beer-co.html"
+breweryURL: "/brewery/bucket-boys-craft-beer-co.html"
 style: "Lager - Japanese Rice"
 ---

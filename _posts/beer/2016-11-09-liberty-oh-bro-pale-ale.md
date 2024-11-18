@@ -11,6 +11,6 @@ img: /img/list/liberty-oh-bro-pale-ale.jpeg
 untappd: "https://untappd.com/b/liberty-brewing-oh-bro/403678"
 country: "New Zealand"
 brewery: "Liberty Brewing"
-breweryURL: "brewery/liberty-brewing.html"
+breweryURL: "/brewery/liberty-brewing.html"
 style: "Pale Ale - New Zealand"
 ---

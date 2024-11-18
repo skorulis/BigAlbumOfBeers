@@ -11,6 +11,6 @@ img: /img/list/rieder-bock.jpeg
 untappd: "https://untappd.com/b/brauerei-ried-weibbier-bock/254366"
 country: "Austria"
 brewery: "Brauerei Ried"
-breweryURL: "brewery/brauerei-ried.html"
+breweryURL: "/brewery/brauerei-ried.html"
 style: "Weizenbock"
 ---

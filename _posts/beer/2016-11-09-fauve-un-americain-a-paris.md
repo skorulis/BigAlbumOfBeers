@@ -11,6 +11,6 @@ img: /img/list/fauve-un-americain-a-paris.jpeg
 untappd: "https://untappd.com/b/fauve-un-americain-a-paris/5343615"
 country: "France"
 brewery: "Fauve"
-breweryURL: "brewery/fauve.html"
+breweryURL: "/brewery/fauve.html"
 style: "IPA - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/james-squire-talisman.jpeg
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-talisman/4195202"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "brewery/malt-shovel-brewery.html"
+breweryURL: "/brewery/malt-shovel-brewery.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/white-rabbit-wolpertinger.jpeg
 untappd: "https://untappd.com/b/white-rabbit-wolpertinger/2072625"
 country: "Australia"
 brewery: "White Rabbit"
-breweryURL: "brewery/white-rabbit.html"
+breweryURL: "/brewery/white-rabbit.html"
 style: "Sour - Ale"
 ---

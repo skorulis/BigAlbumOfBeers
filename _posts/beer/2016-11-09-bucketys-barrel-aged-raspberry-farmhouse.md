@@ -11,6 +11,6 @@ img: /img/list/bucketys-barrel-aged-raspberry-farmhouse.jpeg
 untappd: "https://untappd.com/b/buckettys-brewing-co--barrel-aged-raspberry-farmhouse-ale/5223344"
 country: "Australia"
 brewery: "Bucketty's Brewing Co."
-breweryURL: "brewery/bucketty-s-brewing-co.html"
+breweryURL: "/brewery/bucketty-s-brewing-co.html"
 style: "Farmhouse Ale - Saison"
 ---

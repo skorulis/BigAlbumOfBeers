@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-sidecar.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--sidecar-orange-pale-ale/1695697"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "brewery/sierra-nevada-brewing-co.html"
+breweryURL: "/brewery/sierra-nevada-brewing-co.html"
 style: "Pale Ale - American"
 ---

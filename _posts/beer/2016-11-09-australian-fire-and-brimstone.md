@@ -11,6 +11,6 @@ img: /img/list/australian-fire-and-brimstone.jpeg
 untappd: "https://untappd.com/b/-australian-brewery-fire---brimstone/2210711"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "brewery/-australian-brewery.html"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "Smoked Beer"
 ---

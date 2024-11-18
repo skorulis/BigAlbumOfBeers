@@ -11,6 +11,6 @@ img: /img/list/mcsorleys-pale-ale.jpeg
 untappd: "https://untappd.com/b/pabst-brewing-company-pabst-brewing-company-mcsorley-s-irish-pale-ale/8074"
 country: "United States"
 brewery: "Pabst Brewing Company"
-breweryURL: "brewery/pabst-brewing-company.html"
+breweryURL: "/brewery/pabst-brewing-company.html"
 style: "Red Ale - Irish"
 ---

@@ -11,6 +11,6 @@ img: /img/list/trouble-summer-ale.jpeg
 untappd: "https://untappd.com/b/trouble-brewing-summer-ale/2678341"
 country: "Singapore"
 brewery: "Trouble Brewing"
-breweryURL: "brewery/trouble-brewing.html"
+breweryURL: "/brewery/trouble-brewing.html"
 style: "Wheat Beer - Hefeweizen"
 ---

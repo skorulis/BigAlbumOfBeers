@@ -11,6 +11,6 @@ img: /img/list/molly-rose-not-a-tash-brew.jpeg
 untappd: "https://untappd.com/b/molly-rose-brewing-molly-rose-brewing-not-a-tash-brew/5756784"
 country: "Australia"
 brewery: "Molly Rose Brewing"
-breweryURL: "brewery/molly-rose-brewing.html"
+breweryURL: "/brewery/molly-rose-brewing.html"
 style: "IPA - New Zealand"
 ---

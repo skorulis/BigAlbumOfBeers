@@ -11,6 +11,6 @@ img: /img/list/nine-fingers-waltzin-ma-pilsner.jpeg
 untappd: "https://untappd.com/b/nine-fingers-brew-waltzin-ma-pilsner/2887956"
 country: "Australia"
 brewery: "Nine Fingers Brew"
-breweryURL: "brewery/nine-fingers-brew.html"
+breweryURL: "/brewery/nine-fingers-brew.html"
 style: "Pilsner - Other"
 ---

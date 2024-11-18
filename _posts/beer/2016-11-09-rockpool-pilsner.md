@@ -11,6 +11,6 @@ img: /img/list/rockpool-pilsner.jpeg
 untappd: "https://untappd.com/b/rockpool-new-world-pilsner/865487"
 country: "Australia"
 brewery: "Rockpool"
-breweryURL: "brewery/rockpool.html"
+breweryURL: "/brewery/rockpool.html"
 style: "Pilsner - Other"
 ---

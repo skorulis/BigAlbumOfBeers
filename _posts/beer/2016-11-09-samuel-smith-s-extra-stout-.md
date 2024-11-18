@@ -11,6 +11,6 @@ img: /img/list/samuel-smith-s-extra-stout-.jpeg
 untappd: "https://untappd.com/b/samuel-smiths-old-brewery-extra-stout/104401"
 country: "England"
 brewery: "Samuel Smith's Old Brewery"
-breweryURL: "brewery/samuel-smith-s-old-brewery.html"
+breweryURL: "/brewery/samuel-smith-s-old-brewery.html"
 style: "Stout - Other"
 ---

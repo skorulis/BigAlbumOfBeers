@@ -11,6 +11,6 @@ img: /img/list/tallboy-and-moose-nitro-milk-stout.jpeg
 untappd: "https://untappd.com/b/tallboy-and-moose-nitro-moose-mousse/4378574"
 country: "Australia"
 brewery: "Tallboy And Moose"
-breweryURL: "brewery/tallboy-and-moose.html"
+breweryURL: "/brewery/tallboy-and-moose.html"
 style: "Stout - Milk / Sweet"
 ---
