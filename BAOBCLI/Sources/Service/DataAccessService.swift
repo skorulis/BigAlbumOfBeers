@@ -31,6 +31,11 @@ final class DataAccessService {
         return try JSONDecoder().decode([BeerModel].self, from: data)
     }
     
+    func breweryList() throws -> BreweryList {
+        let data = try Data(contentsOf: URLPaths.breweryList)
+        return try JSONDecoder().decode(BreweryList.self, from: data)
+    }
+    
     func saveExtra(extra: [String: ExtraEntry]) throws {
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]

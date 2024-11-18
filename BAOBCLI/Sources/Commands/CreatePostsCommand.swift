@@ -12,14 +12,81 @@ final class CreatePostsCommand: AsyncParsableCommand {
     )
     
     func run() async throws {
-        let runner = Runner()
-        try await runner.run()
+        // let beerRunner = BeerPostsRunner()
+        // try await beerRunner.run()
+        
+        let breweryRunner = BreweryPostsRunner()
+        try await breweryRunner.run()
     }
     
 }
 
+// MARK: -
+
 extension CreatePostsCommand {
-    struct Runner {
+    struct BreweryPostsRunner {
+            
+        private let dataAccess = DataAccessService()
+        private let fileManager = FileManager.default
+        
+        func run() async throws {
+            // try cleanOldData()
+            try await writeBreweryPosts()
+        }
+        
+        func cleanOldData() throws {
+            let rootURL = URL(filePath: fileManager.currentDirectoryPath)
+            let breweryPath = rootURL.appending(path: "_posts/brewery")
+            if fileManager.fileExists(at: breweryPath) {
+                try fileManager.removeItem(at: breweryPath)
+            }
+            try fileManager.createDirectory(at: breweryPath, withIntermediateDirectories: true)
+        }
+        
+        func writeBreweryPosts() async throws {
+            // let beers = try dataAccess.fullBeers()
+            // let breweries = Set(beers.map { $0.brewery })
+            let breweries = try dataAccess.breweryList()
+            for brewery in breweries.breweries {
+                print(brewery.brewery_name)
+                try await writeBrewery(brewery: brewery)
+            }
+        }
+        
+        func writeBrewery(brewery: UntappdAPI.Brewery) async throws {
+            let filename = "_posts/brewery/2016-11-09-" + brewery.brewery_name.slugify() + ".md"
+            let url = "https://untappd.com/w/\(brewery.brewery_slug)/\(brewery.brewery_id)"
+            
+            var output = """
+            ---
+            layout: brewery
+            filename: \(filename)
+            title: "\(brewery.brewery_name)"
+            permalink: /brewery/:title.html
+            breweryURL: "\(url)"
+            """
+            
+            if let instagram = brewery.contact.instagram {
+                output += "\ninstagram: '\(instagram)'"
+            }
+            if let facebook = brewery.contact.facebook {
+                output += "\nfacebook: '\(facebook)'"
+            }
+            if let facebook = brewery.contact.twitter {
+                output += "\ntwitter: '\(twitter)'"
+            }
+            output += "---\n"
+            try Data(output.utf8).write(to: URL(filePath: filename))
+        }
+        
+    }
+    
+}
+
+// MARK: -
+
+extension CreatePostsCommand {
+    struct BeerPostsRunner {
         
         private let dataAccess = DataAccessService()
         private let fileManager = FileManager.default
@@ -62,7 +129,6 @@ extension CreatePostsCommand {
             desc: "\(beer.desc)"
             permalink: /beer/:title.html
             img: /\(beer.imgPath!)
-            
             """
             
             if let untappdURL = extra?.untappd.url {
