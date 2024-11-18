@@ -11,6 +11,6 @@ img: /img/list/future-brewing-juice-me-up.jpeg
 untappd: "https://untappd.com/b/future-brewing-future-brewing-juice-me-up/5846022"
 country: "Australia"
 brewery: "Future Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/future-brewing.html"
 style: "IPA - New England / Hazy"
 ---

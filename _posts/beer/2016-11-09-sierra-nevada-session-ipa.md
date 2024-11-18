@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-session-ipa.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--3-weight/2169169"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sierra-nevada-brewing-co.html"
 style: "IPA - Session / India Session Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/wayward-sourade-blue-blast-berry-gose.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-sourade-blue-blast-berry-gose/4291869"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Sour - Fruited Gose"
 ---

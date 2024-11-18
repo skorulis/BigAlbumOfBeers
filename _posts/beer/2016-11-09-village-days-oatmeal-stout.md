@@ -11,6 +11,6 @@ img: /img/list/village-days-oatmeal-stout.jpeg
 untappd: "https://untappd.com/b/village-days-brewing-co-village-days-brewing-co-oatmeal-stout/5454392"
 country: "Australia"
 brewery: "Village Days Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/village-days-brewing-co.html"
 style: "Stout - Oatmeal"
 ---

@@ -11,6 +11,6 @@ img: /img/list/aegir-juicy.jpeg
 untappd: "https://untappd.com/b/aegir-bryggeri-juicy/5511253"
 country: "Norway"
 brewery: "Ægir Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/aegir-bryggeri.html"
 style: "IPA - Fruited"
 ---

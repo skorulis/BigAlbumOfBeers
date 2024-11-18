@@ -11,6 +11,6 @@ img: /img/list/nomad-long-reef-pale-ale.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--long-reef-pale-ale/1726720"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

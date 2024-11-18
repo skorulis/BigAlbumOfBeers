@@ -11,6 +11,6 @@ img: /img/list/crooked-moon-thrice-ipa.jpeg
 untappd: "https://untappd.com/b/crooked-moon-brewing-thrice/5230675"
 country: "Sweden"
 brewery: "Crooked Moon Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/crooked-moon-brewing.html"
 style: "IPA - Triple"
 ---

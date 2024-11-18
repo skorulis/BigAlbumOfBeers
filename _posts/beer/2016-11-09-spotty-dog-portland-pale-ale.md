@@ -11,6 +11,6 @@ img: /img/list/spotty-dog-portland-pale-ale.jpeg
 untappd: "https://untappd.com/b/spotty-dog-brewers-portland-pale-ale/1613962"
 country: "Australia"
 brewery: "Spotty Dog Brewers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/spotty-dog-brewers.html"
 style: "Pale Ale - American"
 ---

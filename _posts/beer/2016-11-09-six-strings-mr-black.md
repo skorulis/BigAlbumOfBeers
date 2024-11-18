@@ -11,6 +11,6 @@ img: /img/list/six-strings-mr-black.jpeg
 untappd: "https://untappd.com/b/six-string-brewing-company-mr-black-coffee-milk-stout/3802462"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/six-string-brewing-company.html"
 style: "Stout - Coffee"
 ---

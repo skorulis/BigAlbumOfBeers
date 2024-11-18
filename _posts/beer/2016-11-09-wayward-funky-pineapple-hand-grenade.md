@@ -11,6 +11,6 @@ img: /img/list/wayward-funky-pineapple-hand-grenade.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-funky-pineapple-hand-grenade/1540395"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "IPA - American"
 ---

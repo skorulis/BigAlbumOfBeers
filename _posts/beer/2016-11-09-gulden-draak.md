@@ -11,6 +11,6 @@ img: /img/list/gulden-draak.jpeg
 untappd: "https://untappd.com/b/brouwerij-van-steenberge-gulden-draak/6758"
 country: "Belgium"
 brewery: "Brouwerij Van Steenberge"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-van-steenberge.html"
 style: "Belgian Strong Dark Ale"
 ---

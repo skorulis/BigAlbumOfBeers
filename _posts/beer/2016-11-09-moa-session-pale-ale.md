@@ -11,6 +11,6 @@ img: /img/list/moa-session-pale-ale.jpeg
 untappd: "https://untappd.com/b/moa-brewing-company-session-pale-ale/611847"
 country: "New Zealand"
 brewery: "Moa Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moa-brewing-company.html"
 style: "Pale Ale - New Zealand"
 ---

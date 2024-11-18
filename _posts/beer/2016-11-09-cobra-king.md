@@ -11,6 +11,6 @@ img: /img/list/cobra-king.jpeg
 untappd: "https://untappd.com/b/molson-coors--uk--king-cobra/226170"
 country: "England"
 brewery: "Molson Coors (UK)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/molson-coors--uk.html"
 style: "Pilsner - Imperial / Double"
 ---

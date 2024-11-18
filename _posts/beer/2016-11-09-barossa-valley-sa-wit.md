@@ -11,6 +11,6 @@ img: /img/list/barossa-valley-sa-wit.jpeg
 untappd: "https://untappd.com/b/barossa-valley-brewing-south-australian-wit/1600525"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/barossa-valley-brewing.html"
 style: "Witbier"
 ---

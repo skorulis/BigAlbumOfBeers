@@ -11,6 +11,6 @@ img: /img/list/dolomiti-pils.jpeg
 untappd: "https://untappd.com/b/fabbrica-di-pedavena-birra-dolomiti-pils/18580"
 country: "Italy"
 brewery: "Fabbrica di Pedavena"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fabbrica-di-pedavena.html"
 style: "Pilsner - Other"
 ---

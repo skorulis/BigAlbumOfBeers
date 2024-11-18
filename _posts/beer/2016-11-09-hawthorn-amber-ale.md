@@ -11,6 +11,6 @@ img: /img/list/hawthorn-amber-ale.jpeg
 untappd: "https://untappd.com/b/hawthorn-brewing-company-amber-ale/35934"
 country: "Australia"
 brewery: "Hawthorn Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hawthorn-brewing-company.html"
 style: "Brown Ale - English"
 ---

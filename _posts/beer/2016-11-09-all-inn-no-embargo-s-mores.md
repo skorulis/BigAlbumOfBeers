@@ -11,6 +11,6 @@ img: /img/list/all-inn-no-embargo-s-mores.jpeg
 untappd: "https://untappd.com/b/all-inn-brewing-co--no-embargo-smores-imperial-porter/5364238"
 country: "Australia"
 brewery: "All Inn Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/all-inn-brewing-co.html"
 style: "Porter - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/viven-master-ipa.jpeg
 untappd: "https://untappd.com/b/brouwerij-van-viven-master-ipa/946254"
 country: "Belgium"
 brewery: "Brouwerij Van Viven"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-van-viven.html"
 style: "IPA - American"
 ---

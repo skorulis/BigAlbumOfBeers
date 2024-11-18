@@ -11,6 +11,6 @@ img: /img/list/tooheys-darling-pale-ale.jpeg
 untappd: "https://untappd.com/b/tooheys-brewing-darling-pale-ale/1082650"
 country: "Australia"
 brewery: "Tooheys Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tooheys-brewing.html"
 style: "Pale Ale - Australian"
 ---

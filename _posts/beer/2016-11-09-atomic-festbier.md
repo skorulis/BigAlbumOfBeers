@@ -11,6 +11,6 @@ img: /img/list/atomic-festbier.jpeg
 untappd: "https://untappd.com/b/atomic-festbier/5049971"
 country: "Australia"
 brewery: "Atomic"
-breweryURL: "breweryURL"
+breweryURL: "brewery/atomic.html"
 style: "Festbier"
 ---

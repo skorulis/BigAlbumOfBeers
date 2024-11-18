@@ -11,6 +11,6 @@ img: /img/list/magic-rock-inhaler.jpeg
 untappd: "https://untappd.com/b/magic-rock-brewing-inhaler/1442126"
 country: "England"
 brewery: "Magic Rock Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/magic-rock-brewing.html"
 style: "IPA - Session / India Session Ale"
 ---

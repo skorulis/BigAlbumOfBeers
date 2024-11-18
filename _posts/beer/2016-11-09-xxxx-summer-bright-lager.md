@@ -11,6 +11,6 @@ img: /img/list/xxxx-summer-bright-lager.jpeg
 untappd: "https://untappd.com/b/castlemaine-perkins-xxxx-summer-bright-lager/15502"
 country: "Australia"
 brewery: "Castlemaine Perkins"
-breweryURL: "breweryURL"
+breweryURL: "brewery/castlemaine-perkins.html"
 style: "Lager - Pale"
 ---

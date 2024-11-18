@@ -11,6 +11,6 @@ img: /img/list/urbanaut--toasted--marshmallow--hazy-ipa.jpeg
 untappd: "https://untappd.com/b/urbanaut-brewing-toasted-marshmallow-hazy-ipa/4970826"
 country: "New Zealand"
 brewery: "Urbanaut Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/urbanaut-brewing.html"
 style: "IPA - New England / Hazy"
 ---

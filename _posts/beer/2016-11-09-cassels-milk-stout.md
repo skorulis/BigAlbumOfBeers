@@ -11,6 +11,6 @@ img: /img/list/cassels-milk-stout.jpeg
 untappd: "https://untappd.com/b/cassels-brewing-co--milk-stout/70099"
 country: "New Zealand"
 brewery: "Cassels Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/cassels-brewing-co.html"
 style: "Stout - Milk / Sweet"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brighton-blonde.jpeg
 untappd: "https://untappd.com/b/king-beer-brighton-blonde/113189"
 country: "England"
 brewery: "King Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/king-beer.html"
 style: "Pale Ale - English"
 ---

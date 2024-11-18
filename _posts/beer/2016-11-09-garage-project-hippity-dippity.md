@@ -11,6 +11,6 @@ img: /img/list/garage-project-hippity-dippity.jpeg
 untappd: "https://untappd.com/b/garage-project-hippity-dippity/2236217"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "IPA - Belgian"
 ---

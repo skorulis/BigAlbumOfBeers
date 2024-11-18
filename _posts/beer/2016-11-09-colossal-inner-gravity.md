@@ -11,6 +11,6 @@ img: /img/list/colossal-inner-gravity.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-pinnacle-drinks-colossal-brewing-inner-gravity/4961867"
 country: "Australia"
 brewery: "Pinnacle Drinks"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pinnacle-drinks.html"
 style: "Sour - Fruited"
 ---

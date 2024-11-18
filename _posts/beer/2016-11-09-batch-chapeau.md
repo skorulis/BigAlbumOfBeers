@@ -11,6 +11,6 @@ img: /img/list/batch-chapeau.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-chapeau/896984"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Sour - Farmhouse IPA"
 ---

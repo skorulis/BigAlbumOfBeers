@@ -11,6 +11,6 @@ img: /img/list/malmo-hairy-scary.jpeg
 untappd: "https://untappd.com/b/malmo-brewing-co--hairy-scary/5514772"
 country: "Sweden"
 brewery: "Malmö Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/malmoe-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

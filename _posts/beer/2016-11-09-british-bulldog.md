@@ -11,6 +11,6 @@ img: /img/list/british-bulldog.jpeg
 untappd: "https://untappd.com/b/westerham-brewery-company-ltd--british-bulldog/44784"
 country: "England"
 brewery: "Westerham Brewery Company Ltd."
-breweryURL: "breweryURL"
+breweryURL: "brewery/westerham-brewery-company-ltd.html"
 style: "English Bitter"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bridge-side-cut.jpeg
 untappd: "https://untappd.com/b/bridge-brewing-company-side-cut/1466879"
 country: "Canada"
 brewery: "Bridge Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bridge-brewing-company.html"
 style: "IPA - American"
 ---

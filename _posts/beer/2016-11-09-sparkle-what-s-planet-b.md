@@ -11,6 +11,6 @@ img: /img/list/sparkle-what-s-planet-b.jpeg
 untappd: "https://untappd.com/b/sparkke-change-beverage-co--whats-planet-b/2325486"
 country: "Australia"
 brewery: "Sparkke Change Beverage Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sparkke-change-beverage-co.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-2015-beer-camp.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--beer-camp-hoppy-lager--2015-/912763"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sierra-nevada-brewing-co.html"
 style: "Lager - IPL (India Pale Lager)"
 ---

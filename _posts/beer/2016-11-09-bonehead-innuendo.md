@@ -11,6 +11,6 @@ img: /img/list/bonehead-innuendo.jpeg
 untappd: "https://untappd.com/b/bonehead-brewing-bonehead-brewing-innuendo/5297851"
 country: "Australia"
 brewery: "Bonehead Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bonehead-brewing.html"
 style: "Sour - Smoothie / Pastry"
 ---

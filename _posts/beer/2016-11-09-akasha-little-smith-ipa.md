@@ -11,6 +11,6 @@ img: /img/list/akasha-little-smith-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-little-smith-ipa/2870896"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company.html"
 style: "IPA - Session / India Session Ale"
 ---

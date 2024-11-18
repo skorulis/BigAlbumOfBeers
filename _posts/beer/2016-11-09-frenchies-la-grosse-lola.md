@@ -11,6 +11,6 @@ img: /img/list/frenchies-la-grosse-lola.jpeg
 untappd: "https://untappd.com/b/frenchies-la-grosse-lola---apricot-sour/3942337"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "breweryURL"
+breweryURL: "brewery/frenchies.html"
 style: "Sour - Fruited"
 ---

@@ -11,6 +11,6 @@ img: /img/list/rogue-santa-s-private-reserve-ale.jpeg
 untappd: "https://untappd.com/b/rogue-ales---spirits-santas-private-reserve-ale/868887"
 country: "United States"
 brewery: "Rogue Ales & Spirits"
-breweryURL: "breweryURL"
+breweryURL: "brewery/rogue-ales---spirits.html"
 style: "Red Ale - American Amber / Red"
 ---

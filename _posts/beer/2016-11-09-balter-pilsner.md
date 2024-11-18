@@ -11,6 +11,6 @@ img: /img/list/balter-pilsner.jpeg
 untappd: "https://untappd.com/b/balter-brewing-company-pilsner/1905538"
 country: "Australia"
 brewery: "Balter Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/balter-brewing-company.html"
 style: "Pilsner - German"
 ---

@@ -11,6 +11,6 @@ img: /img/list/akasha-hop-till-you-drop.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-hop-til-you-drop/3638124"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/suntory-md.jpeg
 untappd: "https://untappd.com/b/suntory-beer-limited-magnum-dry/444315"
 country: "Japan"
 brewery: "Suntory Beer Limited"
-breweryURL: "breweryURL"
+breweryURL: "brewery/suntory-beer-limited.html"
 style: "Lager - Pale"
 ---

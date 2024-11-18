@@ -11,6 +11,6 @@ img: /img/list/voll-damn-doble-malta.jpeg
 untappd: "https://untappd.com/b/grupo-damm-voll-damm-doble-malta/30114"
 country: "Spain"
 brewery: "Grupo Damm"
-breweryURL: "breweryURL"
+breweryURL: "brewery/grupo-damm.html"
 style: "Märzen"
 ---

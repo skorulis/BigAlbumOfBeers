@@ -11,6 +11,6 @@ img: /img/list/blackflag-kick-ons.jpeg
 untappd: "https://untappd.com/b/blackflag-brewing-kick-ons/3482028"
 country: "Australia"
 brewery: "Blackflag Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackflag-brewing.html"
 style: "Pale Ale - Australian"
 ---

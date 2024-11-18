@@ -11,6 +11,6 @@ img: /img/list/mikkeller-blanche.jpeg
 untappd: "https://untappd.com/b/mikkeller-blanche-de-mikkeller/5205017"
 country: "Denmark"
 brewery: "Mikkeller"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mikkeller.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

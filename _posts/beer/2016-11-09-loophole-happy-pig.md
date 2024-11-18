@@ -11,6 +11,6 @@ img: /img/list/loophole-happy-pig.jpeg
 untappd: "https://untappd.com/b/loophole-brewing-co-happy-pig-dark-ipa/3376028"
 country: "Australia"
 brewery: "Loophole Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/loophole-brewing-co.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

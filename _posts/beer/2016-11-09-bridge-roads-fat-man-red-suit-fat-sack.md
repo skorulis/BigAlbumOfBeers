@@ -11,6 +11,6 @@ img: /img/list/bridge-roads-fat-man-red-suit-fat-sack.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-fat-man-red-suit-big-sack/717680"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bridge-road-brewers.html"
 style: "IPA - Red"
 ---

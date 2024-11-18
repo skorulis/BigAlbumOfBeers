@@ -11,6 +11,6 @@ img: /img/list/bulla-creek-pale-ale.jpeg
 untappd: "https://untappd.com/b/bulla-creek-brewing-co-bulla-creek-brewing-co-pale-ale/5295918"
 country: "Australia"
 brewery: "Bulla Creek Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bulla-creek-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

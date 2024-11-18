@@ -11,6 +11,6 @@ img: /img/list/batemans-combined-harvest.jpeg
 untappd: "https://untappd.com/b/batemans-combined-harvest/31035"
 country: "England"
 brewery: "Batemans"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batemans.html"
 style: "Pale Ale - English"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pure-blonde.jpeg
 untappd: "https://untappd.com/b/fosters-group-pure-blonde/7417"
 country: "Australia"
 brewery: "Foster's Group"
-breweryURL: "breweryURL"
+breweryURL: "brewery/foster-s-group.html"
 style: "Lager - Pale"
 ---

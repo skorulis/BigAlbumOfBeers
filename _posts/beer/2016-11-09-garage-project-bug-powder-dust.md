@@ -11,6 +11,6 @@ img: /img/list/garage-project-bug-powder-dust.jpeg
 untappd: "https://untappd.com/b/garage-project-bug-powder-dust/2539290"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "IPA - Session / India Session Ale"
 ---

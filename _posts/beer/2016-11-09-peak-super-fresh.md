@@ -11,6 +11,6 @@ img: /img/list/peak-super-fresh.jpeg
 untappd: "https://untappd.com/b/peak-organic-brewing-company-peak-organic-brewing-company-super-fresh-double-ipa/4793278"
 country: "United States"
 brewery: "Peak Organic Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/peak-organic-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/modus-operandi-wax-flower-sour.jpeg
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--wax-flower-sour/4145661"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/modus-operandi-brewing-co.html"
 style: "Sour - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pirate-life-strawberry-milkshake-ipa.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-strawberry-milkshake-ipa/2531083"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "IPA - New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/loophole-draught.jpeg
 untappd: "https://untappd.com/b/loophole-brewing-co-draught/4017287"
 country: "Australia"
 brewery: "Loophole Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/loophole-brewing-co.html"
 style: "Traditional Ale"
 ---

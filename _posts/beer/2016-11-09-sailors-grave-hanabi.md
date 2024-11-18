@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-hanabi.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-hanabi/5232001"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sailors-grave-brewing.html"
 style: "Lager - Dark"
 ---

@@ -11,6 +11,6 @@ img: /img/list/dalgety-hdog.jpeg
 untappd: "https://untappd.com/b/dalgety-brewing-company-h-dog/2714770"
 country: "Australia"
 brewery: "Dalgety Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dalgety-brewing-company.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/garage-project-fool-me-again.jpeg
 untappd: "https://untappd.com/b/garage-project-fool-me-again/5112839"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

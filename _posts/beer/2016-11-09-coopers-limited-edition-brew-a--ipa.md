@@ -11,6 +11,6 @@ img: /img/list/coopers-limited-edition-brew-a--ipa.jpeg
 untappd: "https://untappd.com/b/coopers-brewery-brew-a-ipa/1553666"
 country: "Australia"
 brewery: "Coopers Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/coopers-brewery.html"
 style: "IPA - English"
 ---

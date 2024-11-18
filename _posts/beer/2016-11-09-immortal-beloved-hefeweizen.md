@@ -11,6 +11,6 @@ img: /img/list/immortal-beloved-hefeweizen.jpeg
 untappd: "https://untappd.com/b/cerveceria-mexicana-s--de-r-l--de-c-v---tecate--immortal-beloved/387482"
 country: "Mexico"
 brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cerveceria-mexicana-s--de-r-l--de-c-v---tecate.html"
 style: "Hefeweizen"
 ---

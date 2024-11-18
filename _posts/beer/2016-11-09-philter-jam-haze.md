@@ -11,6 +11,6 @@ img: /img/list/philter-jam-haze.jpeg
 untappd: "https://untappd.com/b/philter-brewing-philter-brewing-jam-haze/5481168"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/philter-brewing.html"
 style: "IPA - New England / Hazy"
 ---

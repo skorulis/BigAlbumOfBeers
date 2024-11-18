@@ -11,6 +11,6 @@ img: /img/list/willie-the-boatman-rubi-brown.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-rubi-brown-ale/1481969"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willie-the-boatman.html"
 style: "Brown Ale - English"
 ---

@@ -11,6 +11,6 @@ img: /img/list/feral-karma-citra.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-karma-citra/28985"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/feral-brewing-company.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

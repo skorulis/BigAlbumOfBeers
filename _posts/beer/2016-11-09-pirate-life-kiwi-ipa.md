@@ -11,6 +11,6 @@ img: /img/list/pirate-life-kiwi-ipa.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-kiwi-ipa/2486880"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "IPA - International"
 ---

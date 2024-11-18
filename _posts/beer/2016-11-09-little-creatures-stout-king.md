@@ -11,6 +11,6 @@ img: /img/list/little-creatures-stout-king.jpeg
 untappd: "https://untappd.com/b/little-creatures-brewing-little-creatures-brewing-single-batch-stout-king/5276808"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-creatures-brewing.html"
 style: "Stout - English"
 ---

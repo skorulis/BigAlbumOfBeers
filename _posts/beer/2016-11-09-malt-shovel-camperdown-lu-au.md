@@ -11,6 +11,6 @@ img: /img/list/malt-shovel-camperdown-lu-au.jpeg
 untappd: "https://untappd.com/b/malt-shovel-brewery-camperdown-luau/2345516"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/malt-shovel-brewery.html"
 style: "Hefeweizen"
 ---

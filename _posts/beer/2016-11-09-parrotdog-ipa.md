@@ -11,6 +11,6 @@ img: /img/list/parrotdog-ipa.jpeg
 untappd: "https://untappd.com/b/parrotdog-parrotdog-bitterbitch/69290"
 country: "New Zealand"
 brewery: "Parrotdog"
-breweryURL: "breweryURL"
+breweryURL: "brewery/parrotdog.html"
 style: "IPA - Other"
 ---

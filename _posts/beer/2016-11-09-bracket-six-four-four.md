@@ -11,6 +11,6 @@ img: /img/list/bracket-six-four-four.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-six-four-four/4476277"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/sobremesa-vibes-on-toast.jpeg
 untappd: "https://untappd.com/b/sobremesa-fermentary---blendery-vibes-on-toast/4837039"
 country: "Australia"
 brewery: "Sobremesa Fermentary & Blendery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sobremesa-fermentary---blendery.html"
 style: "Farmhouse Ale - Bière de Garde"
 ---

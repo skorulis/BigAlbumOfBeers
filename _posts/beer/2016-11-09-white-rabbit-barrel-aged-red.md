@@ -11,6 +11,6 @@ img: /img/list/white-rabbit-barrel-aged-red.jpeg
 untappd: "https://untappd.com/b/white-rabbit-barrel-aged-red/1533061"
 country: "Australia"
 brewery: "White Rabbit"
-breweryURL: "breweryURL"
+breweryURL: "brewery/white-rabbit.html"
 style: "Sour - Flanders Red Ale"
 ---

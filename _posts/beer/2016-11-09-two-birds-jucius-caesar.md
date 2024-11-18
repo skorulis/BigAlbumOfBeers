@@ -11,6 +11,6 @@ img: /img/list/two-birds-jucius-caesar.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-jucius-caesar/2576402"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/two-birds-brewing.html"
 style: "IPA - New England"
 ---

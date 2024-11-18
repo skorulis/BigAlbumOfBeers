@@ -11,6 +11,6 @@ img: /img/list/little-bang-face-inverter.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-face-inverter/3530025"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-bang-brewing-co.html"
 style: "Sour - Gose"
 ---

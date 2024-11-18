@@ -11,6 +11,6 @@ img: /img/list/hop-nation-mango-gose.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-the-punch---mango-gose/1842514"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hop-nation-brewing-co.html"
 style: "Sour - Gose"
 ---

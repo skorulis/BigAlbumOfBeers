@@ -11,6 +11,6 @@ img: /img/list/dalgety-dessert-stout.jpeg
 untappd: "https://untappd.com/b/dalgety-brewing-company-dessert-stout/4824532"
 country: "Australia"
 brewery: "Dalgety Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dalgety-brewing-company.html"
 style: "Stout - Other"
 ---

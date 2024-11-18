@@ -11,6 +11,6 @@ img: /img/list/my-antonia.jpeg
 untappd: "https://untappd.com/b/birra-del-borgo-my-antonia/25988"
 country: "Italy"
 brewery: "Birra del Borgo"
-breweryURL: "breweryURL"
+breweryURL: "brewery/birra-del-borgo.html"
 style: "Pilsner - Imperial / Double"
 ---

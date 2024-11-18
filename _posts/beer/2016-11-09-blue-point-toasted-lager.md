@@ -11,6 +11,6 @@ img: /img/list/blue-point-toasted-lager.jpeg
 untappd: "https://untappd.com/b/blue-point-brewing-company-toasted-lager/5907"
 country: "United States"
 brewery: "Blue Point Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blue-point-brewing-company.html"
 style: "Lager - American Amber / Red"
 ---

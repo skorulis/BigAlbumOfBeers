@@ -11,6 +11,6 @@ img: /img/list/fox-friday-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/fox-friday-craft-brewery-hazy-ipa/4898708"
 country: "Australia"
 brewery: "Fox Friday Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fox-friday-craft-brewery.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/white-bay-festbier.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--festbier/5034517"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/white-bay-beer-co.html"
 style: "Festbier"
 ---

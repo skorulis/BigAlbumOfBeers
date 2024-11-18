@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-cult-juice.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--cult-juice/3484719"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "IPA - New England"
 ---

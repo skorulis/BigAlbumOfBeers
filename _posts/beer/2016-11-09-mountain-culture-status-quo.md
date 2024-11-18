@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-status-quo.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--status-quo/3554194"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "Pale Ale - New England"
 ---

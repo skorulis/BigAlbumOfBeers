@@ -11,6 +11,6 @@ img: /img/list/deschutes-mirror-pond-pale-ale.jpeg
 untappd: "https://untappd.com/b/deschutes-brewery-mirror-pond-pale-ale/3587"
 country: "United States"
 brewery: "Deschutes Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deschutes-brewery.html"
 style: "Pale Ale - American"
 ---

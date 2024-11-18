@@ -11,6 +11,6 @@ img: /img/list/founders-dry-hopped-pale-ale.jpeg
 untappd: "https://untappd.com/b/founders-brewing-co--pale-ale/22011"
 country: "United States"
 brewery: "Founders Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/founders-brewing-co.html"
 style: "Pale Ale - American"
 ---

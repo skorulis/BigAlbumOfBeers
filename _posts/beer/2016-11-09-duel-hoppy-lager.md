@@ -11,6 +11,6 @@ img: /img/list/duel-hoppy-lager.jpeg
 untappd: "https://untappd.com/b/stockade-brew-co-duel/1304118"
 country: "Australia"
 brewery: "Stockade Brew Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stockade-brew-co.html"
 style: "Pilsner - Other"
 ---

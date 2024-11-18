@@ -11,6 +11,6 @@ img: /img/list/balter-handsome-elvis.jpeg
 untappd: "https://untappd.com/b/balter-brewing-company-handsome-elvis/2621524"
 country: "Australia"
 brewery: "Balter Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/balter-brewing-company.html"
 style: "Stout - Milk / Sweet"
 ---

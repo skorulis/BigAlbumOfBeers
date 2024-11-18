@@ -11,6 +11,6 @@ img: /img/list/budweiser.jpeg
 untappd: "https://untappd.com/b/anheuser-busch-budweiser/3783"
 country: "United States"
 brewery: "Anheuser-Busch"
-breweryURL: "breweryURL"
+breweryURL: "brewery/anheuser-busch.html"
 style: "Lager - North American Adjunct"
 ---

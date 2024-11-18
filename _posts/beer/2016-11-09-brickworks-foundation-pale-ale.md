@@ -11,6 +11,6 @@ img: /img/list/brickworks-foundation-pale-ale.jpeg
 untappd: "https://untappd.com/b/brickworks-brewing-co--foundation-pale-ale/4158733"
 country: "Australia"
 brewery: "Brickworks Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/brickworks-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

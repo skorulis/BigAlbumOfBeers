@@ -11,6 +11,6 @@ img: /img/list/garage-project-give-you-all-my-love.jpeg
 untappd: "https://untappd.com/b/garage-project-give-you-all-my-love/4313923"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/punch---judy-s-ale.jpeg
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-punch---judys/9913"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/murray-s-craft-brewing-co.html"
 style: "English Bitter"
 ---

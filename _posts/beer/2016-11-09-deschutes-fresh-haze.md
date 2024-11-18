@@ -11,6 +11,6 @@ img: /img/list/deschutes-fresh-haze.jpeg
 untappd: "https://untappd.com/b/deschutes-brewery-fresh-haze-ipa/2772910"
 country: "United States"
 brewery: "Deschutes Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deschutes-brewery.html"
 style: "IPA - New England"
 ---

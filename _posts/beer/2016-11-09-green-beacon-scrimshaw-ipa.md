@@ -11,6 +11,6 @@ img: /img/list/green-beacon-scrimshaw-ipa.jpeg
 untappd: "https://untappd.com/b/green-beacon-brewing-company-scrimshaw-aussie-ipa---summer-seasonal/925621"
 country: "Australia"
 brewery: "Green Beacon Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/green-beacon-brewing-company.html"
 style: "IPA - American"
 ---

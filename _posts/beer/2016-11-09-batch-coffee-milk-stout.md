@@ -11,6 +11,6 @@ img: /img/list/batch-coffee-milk-stout.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company--australia--coffee-milk-stout/4388593"
 country: "Australia"
 brewery: "Batch Brewing Company (Australia)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company--australia.html"
 style: "Stout - Coffee"
 ---

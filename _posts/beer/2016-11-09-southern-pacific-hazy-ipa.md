@@ -11,6 +11,6 @@ img: /img/list/southern-pacific-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/southern-pacific-brewing-hazy-ipa/4755833"
 country: "United States"
 brewery: "Southern Pacific Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/southern-pacific-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

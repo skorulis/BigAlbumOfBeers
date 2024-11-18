@@ -11,6 +11,6 @@ img: /img/list/yeastie-boys-gunnamatta.jpeg
 untappd: "https://untappd.com/b/yeastie-boys-gunnamatta/169755"
 country: "New Zealand"
 brewery: "Yeastie Boys"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yeastie-boys.html"
 style: "Spiced / Herbed Beer"
 ---

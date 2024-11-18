@@ -11,6 +11,6 @@ img: /img/list/modus-operandi-pangea.jpeg
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--pangea-ipa/3310678"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/modus-operandi-brewing-co.html"
 style: "IPA - International"
 ---

@@ -11,6 +11,6 @@ img: /img/list/moondog-splice-of-heaven.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-splice-of-heaven/1093772"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moon-dog-craft-brewery.html"
 style: "IPA - American"
 ---

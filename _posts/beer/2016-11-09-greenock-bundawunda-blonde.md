@@ -11,6 +11,6 @@ img: /img/list/greenock-bundawunda-blonde.jpeg
 untappd: "https://untappd.com/b/greenock-brewers-bunawunda-blonde/1353985"
 country: "Australia"
 brewery: "Greenock Brewers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/greenock-brewers.html"
 style: "Blonde Ale"
 ---

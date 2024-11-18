@@ -11,6 +11,6 @@ img: /img/list/pepperjack-hand-crafted-ale.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-pepperjack/14743"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/matilda-bay-brewing-company.html"
 style: "Fruit Beer"
 ---

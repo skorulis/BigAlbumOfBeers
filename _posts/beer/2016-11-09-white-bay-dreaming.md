@@ -11,6 +11,6 @@ img: /img/list/white-bay-dreaming.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--dreaming/4055757"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/white-bay-beer-co.html"
 style: "Wheat Beer - Witbier"
 ---

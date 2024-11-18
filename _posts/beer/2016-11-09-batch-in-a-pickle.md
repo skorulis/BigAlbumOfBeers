@@ -11,6 +11,6 @@ img: /img/list/batch-in-a-pickle.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-in-a-pickle/1479361"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Sour - Ale"
 ---

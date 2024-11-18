@@ -11,6 +11,6 @@ img: /img/list/brick-lane-someday.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--someday-sour-blood-orange/3811447"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/brick-lane-brewing-co.html"
 style: "Sour - Fruited"
 ---

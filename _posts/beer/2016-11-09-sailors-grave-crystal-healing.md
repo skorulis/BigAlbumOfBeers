@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-crystal-healing.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-crystal-healing/3126113"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sailors-grave-brewing.html"
 style: "Sour - Gose - Fruited"
 ---

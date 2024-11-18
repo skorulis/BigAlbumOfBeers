@@ -11,6 +11,6 @@ img: /img/list/hop-nation-jedi-juice.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-jedi-juice/2071510"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hop-nation-brewing-co.html"
 style: "IPA - New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/vilkmerges-kvietinis.jpeg
 untappd: "https://untappd.com/b/vilkmerges-alus-vilkmerges-kvietinis/256232"
 country: "Lithuania"
 brewery: "Vilkmerges Alus"
-breweryURL: "breweryURL"
+breweryURL: "brewery/vilkmerges-alus.html"
 style: "Witbier"
 ---

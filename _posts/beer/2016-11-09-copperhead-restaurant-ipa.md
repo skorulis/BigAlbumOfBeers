@@ -11,6 +11,6 @@ img: /img/list/copperhead-restaurant-ipa.jpeg
 untappd: "https://untappd.com/b/copperhead-restaurant-brewery-copperhead-restaurant-brewery-copperhead-restaurant-ipa/2438625"
 country: "Australia"
 brewery: "Copperhead Restaurant Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/copperhead-restaurant-brewery.html"
 style: "IPA - American"
 ---

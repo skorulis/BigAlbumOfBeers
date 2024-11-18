@@ -11,6 +11,6 @@ img: /img/list/guinness-hop-house-13.jpeg
 untappd: "https://untappd.com/b/guinness-hop-house-13-lager/989661"
 country: "Ireland"
 brewery: "Guinness"
-breweryURL: "breweryURL"
+breweryURL: "brewery/guinness.html"
 style: "Lager - Pale"
 ---

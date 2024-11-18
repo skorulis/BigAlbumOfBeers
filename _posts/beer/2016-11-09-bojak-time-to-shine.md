@@ -11,6 +11,6 @@ img: /img/list/bojak-time-to-shine.jpeg
 untappd: "https://untappd.com/b/bojak-brewing-time-to-shine/4309859"
 country: "Australia"
 brewery: "Bojak Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bojak-brewing.html"
 style: "IPA - New England / Hazy"
 ---

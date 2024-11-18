@@ -11,6 +11,6 @@ img: /img/list/balter-black-metal-disco.jpeg
 untappd: "https://untappd.com/b/balter-brewing-company-black-metal-disco/1649787"
 country: "Australia"
 brewery: "Balter Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/balter-brewing-company.html"
 style: "Stout - Other"
 ---

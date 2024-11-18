@@ -11,6 +11,6 @@ img: /img/list/lofoten-pale-ale.jpeg
 untappd: "https://untappd.com/b/lofotpils-lofoten-pale-ale/1422399"
 country: "Norway"
 brewery: "Lofotpils"
-breweryURL: "breweryURL"
+breweryURL: "brewery/lofotpils.html"
 style: "Pale Ale - American"
 ---

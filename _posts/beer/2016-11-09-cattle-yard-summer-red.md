@@ -11,6 +11,6 @@ img: /img/list/cattle-yard-summer-red.jpeg
 untappd: "https://untappd.com/b/cattleyard-brewing-co--summer-red/3328822"
 country: "Australia"
 brewery: "Cattleyard Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/cattleyard-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 ---

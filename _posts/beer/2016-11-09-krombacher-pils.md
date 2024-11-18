@@ -11,6 +11,6 @@ img: /img/list/krombacher-pils.jpeg
 untappd: "https://untappd.com/b/krombacher-gruppe-krombacher-pils/9945"
 country: "Germany"
 brewery: "Krombacher Gruppe"
-breweryURL: "breweryURL"
+breweryURL: "brewery/krombacher-gruppe.html"
 style: "Pilsner - German"
 ---

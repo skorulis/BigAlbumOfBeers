@@ -11,6 +11,6 @@ img: /img/list/long-hammer-ipa.jpeg
 untappd: "https://untappd.com/b/redhook-brewery-long-hammer-ipa/6504"
 country: "United States"
 brewery: "Redhook Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/redhook-brewery.html"
 style: "IPA - American"
 ---

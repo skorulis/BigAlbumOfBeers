@@ -11,6 +11,6 @@ img: /img/list/mont-blanc-genepi.jpeg
 untappd: "https://untappd.com/b/brasserie-du-mont-blanc-la-verte/6013"
 country: "France"
 brewery: "Brasserie du Mont Blanc"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brasserie-du-mont-blanc.html"
 style: "Spiced / Herbed Beer"
 ---

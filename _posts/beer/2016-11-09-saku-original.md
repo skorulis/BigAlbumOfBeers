@@ -11,6 +11,6 @@ img: /img/list/saku-original.jpeg
 untappd: "https://untappd.com/b/saku-olletehas-saku-originaal/59424"
 country: "Estonia"
 brewery: "Saku Õlletehas"
-breweryURL: "breweryURL"
+breweryURL: "brewery/saku-olletehas.html"
 style: "Lager - Pale"
 ---

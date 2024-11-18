@@ -11,6 +11,6 @@ img: /img/list/ginga-kogen-hefeweizen.jpeg
 untappd: "https://untappd.com/b/yo-ho-brewing-company-ginga-kogen-beer-hefe-weizen/3779374"
 country: "Japan"
 brewery: "Yo-Ho Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yo-ho-brewing-company.html"
 style: "Wheat Beer - Hefeweizen"
 ---

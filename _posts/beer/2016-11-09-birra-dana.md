@@ -11,6 +11,6 @@ img: /img/list/birra-dana.jpeg
 untappd: "https://untappd.com/b/birra-peroni-birra-dana/236683"
 country: "Italy"
 brewery: "Birra Peroni"
-breweryURL: "breweryURL"
+breweryURL: "brewery/birra-peroni.html"
 style: "Lager - Pale"
 ---

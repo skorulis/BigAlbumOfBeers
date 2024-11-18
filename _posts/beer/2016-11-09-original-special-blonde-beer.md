@@ -11,6 +11,6 @@ img: /img/list/original-special-blonde-beer.jpeg
 untappd: "https://untappd.com/b/bavaria-brouwerij-8-6-original/38091"
 country: "Netherlands"
 brewery: "Bavaria Brouwerij"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bavaria-brouwerij.html"
 style: "Lager - Euro Strong"
 ---

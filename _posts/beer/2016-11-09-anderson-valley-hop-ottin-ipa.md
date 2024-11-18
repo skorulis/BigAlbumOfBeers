@@ -11,6 +11,6 @@ img: /img/list/anderson-valley-hop-ottin-ipa.jpeg
 untappd: "https://untappd.com/b/anderson-valley-brewing-company-hop-ottin-ipa/4482"
 country: "United States"
 brewery: "Anderson Valley Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/anderson-valley-brewing-company.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/blackfont-baltic-porter.jpeg
 untappd: "https://untappd.com/b/blackfont-brewhouse-baltic-porter/2020366"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackfont-brewhouse.html"
 style: "Porter - Baltic"
 ---

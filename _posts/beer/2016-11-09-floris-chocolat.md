@@ -11,6 +11,6 @@ img: /img/list/floris-chocolat.jpeg
 untappd: "https://untappd.com/b/brouwerij-huyghe-floris-chocolat/41825"
 country: "Belgium"
 brewery: "Brouwerij Huyghe"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-huyghe.html"
 style: "Spiced / Herbed Beer"
 ---

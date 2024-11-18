@@ -11,6 +11,6 @@ img: /img/list/oskar-blues-beerito.jpeg
 untappd: "https://untappd.com/b/oskar-blues-brewery-beerito/1218448"
 country: "United States"
 brewery: "Oskar Blues Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/oskar-blues-brewery.html"
 style: "Lager - Vienna"
 ---

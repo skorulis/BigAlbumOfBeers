@@ -11,6 +11,6 @@ img: /img/list/matso-s-smokey-bishop.jpeg
 untappd: "https://untappd.com/b/matsos-broome-brewery-smokey-bishop/37551"
 country: "Australia"
 brewery: "Matso's Broome Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/matso-s-broome-brewery.html"
 style: "Lager - Dunkel Munich"
 ---

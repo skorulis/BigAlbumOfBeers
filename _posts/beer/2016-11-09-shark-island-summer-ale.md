@@ -11,6 +11,6 @@ img: /img/list/shark-island-summer-ale.jpeg
 untappd: "https://untappd.com/b/shark-island-brewing-co--greenhills-summer-ale/1220524"
 country: "Australia"
 brewery: "Shark Island Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/shark-island-brewing-co.html"
 style: "Golden Ale"
 ---

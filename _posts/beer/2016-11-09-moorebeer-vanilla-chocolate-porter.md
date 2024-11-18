@@ -11,6 +11,6 @@ img: /img/list/moorebeer-vanilla-chocolate-porter.jpeg
 untappd: "https://untappd.com/b/moorebeer-brewing-co--grease-monkey/2228856"
 country: "Australia"
 brewery: "Moorebeer Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/moorebeer-brewing-co.html"
 style: "Porter - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pirate-life-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-west-coast-ipa--2022-/5095103"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "IPA - American"
 ---

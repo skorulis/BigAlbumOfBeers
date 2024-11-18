@@ -11,6 +11,6 @@ img: /img/list/grevensteiner-original.jpeg
 untappd: "https://untappd.com/b/brauerei-veltins-grevensteiner-original-naturtrubes-landbier/540889"
 country: "Germany"
 brewery: "Brauerei VELTINS"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brauerei-veltins.html"
 style: "Kellerbier / Zwickelbier"
 ---

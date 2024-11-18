@@ -11,6 +11,6 @@ img: /img/list/feral-biggie-juice.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-biggie-juice/2079327"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/feral-brewing-company.html"
 style: "IPA - New England"
 ---

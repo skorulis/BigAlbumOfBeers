@@ -11,6 +11,6 @@ img: /img/list/willie-the-boatman-salty-melon.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-salty-melon/1924372"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willie-the-boatman.html"
 style: "Sour - Gose"
 ---

@@ -11,6 +11,6 @@ img: /img/list/moon-dog-tropical-lager.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-moon-dog-tropical-lager/3867671"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moon-dog-craft-brewery.html"
 style: "Lager - American"
 ---

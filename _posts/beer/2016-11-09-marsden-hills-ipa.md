@@ -11,6 +11,6 @@ img: /img/list/marsden-hills-ipa.jpeg
 untappd: "https://untappd.com/b/the-marsden-brewhouse-the-marsden-brewhouse-hills-ipa/4554276"
 country: "Australia"
 brewery: "The Marsden Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-marsden-brewhouse.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/the-governor-golden-ale.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-the-governor/31737"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/rocks-brewing-co.html"
 style: "Golden Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bacchus-hibiscus-saison.jpeg
 untappd: "https://untappd.com/b/bacchus-brewing-co--hibiscus-saison-v1-5/1988307"
 country: "Australia"
 brewery: "Bacchus Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bacchus-brewing-co.html"
 style: "Saison / Farmhouse Ale"
 ---

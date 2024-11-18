@@ -11,6 +11,6 @@ img: /img/list/cheeky-charlie-artisan-ale.jpeg
 untappd: "https://untappd.com/b/3-pub-circus-artisan-ale/1281268"
 country: "Australia"
 brewery: "3 Pub Circus"
-breweryURL: "breweryURL"
+breweryURL: "brewery/3-pub-circus.html"
 style: "Pale Ale - Australian"
 ---

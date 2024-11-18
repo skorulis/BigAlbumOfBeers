@@ -11,6 +11,6 @@ img: /img/list/old-golden-hen.jpeg
 untappd: "https://untappd.com/b/greene-king-morland-old-golden-hen/75673"
 country: "England"
 brewery: "Greene King"
-breweryURL: "breweryURL"
+breweryURL: "brewery/greene-king.html"
 style: "Golden Ale"
 ---

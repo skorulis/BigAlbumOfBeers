@@ -11,6 +11,6 @@ img: /img/list/frenchies-kamchatka.jpeg
 untappd: "https://untappd.com/b/frenchies-kamchatka-biere-de-garde-noire/3301106"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "breweryURL"
+breweryURL: "brewery/frenchies.html"
 style: "Farmhouse Ale - Bière de Garde"
 ---

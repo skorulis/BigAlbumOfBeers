@@ -11,6 +11,6 @@ img: /img/list/big-shed-pilsner.jpeg
 untappd: "https://untappd.com/b/big-shed-brewing-concern-pilsner-brewers-series/3777515"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
-breweryURL: "breweryURL"
+breweryURL: "brewery/big-shed-brewing-concern.html"
 style: "Pilsner - Other"
 ---

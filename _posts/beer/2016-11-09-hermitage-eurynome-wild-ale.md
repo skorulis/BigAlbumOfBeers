@@ -11,6 +11,6 @@ img: /img/list/hermitage-eurynome-wild-ale.jpeg
 untappd: "https://untappd.com/b/hermitage-brewing-eurynome/2119066"
 country: "United States"
 brewery: "Hermitage Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hermitage-brewing.html"
 style: "American Wild Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/one-drop-quadzilla.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-quadzilla-quadruple-hopped-pale-ale/3861461"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/one-drop-brewing-co.html"
 style: "Pale Ale - International"
 ---

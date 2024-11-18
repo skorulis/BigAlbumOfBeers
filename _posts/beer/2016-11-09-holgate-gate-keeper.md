@@ -11,6 +11,6 @@ img: /img/list/holgate-gate-keeper.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-gatekeeper/937025"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/holgate-brewhouse.html"
 style: "Pale Ale - Australian"
 ---

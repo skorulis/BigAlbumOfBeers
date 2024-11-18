@@ -11,6 +11,6 @@ img: /img/list/bracket-this-is-the-way.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-this-is-the-way/5343393"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - American"
 ---

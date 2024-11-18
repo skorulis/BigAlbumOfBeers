@@ -11,6 +11,6 @@ img: /img/list/dogbolter.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-dogbolter/11555"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/matilda-bay-brewing-company.html"
 style: "Lager - Dunkel Munich"
 ---

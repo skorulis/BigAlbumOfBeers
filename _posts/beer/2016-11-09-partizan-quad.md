@@ -11,6 +11,6 @@ img: /img/list/partizan-quad.jpeg
 untappd: "https://untappd.com/b/partizan-brewing-quad/433052"
 country: "England"
 brewery: "Partizan Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/partizan-brewing.html"
 style: "Belgian Quad"
 ---

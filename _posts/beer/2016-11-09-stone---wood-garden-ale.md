@@ -11,6 +11,6 @@ img: /img/list/stone---wood-garden-ale.jpeg
 untappd: "https://untappd.com/b/stone---wood-garden-ale/259372"
 country: "Australia"
 brewery: "Stone & Wood"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stone---wood.html"
 style: "Pale Ale - Australian"
 ---

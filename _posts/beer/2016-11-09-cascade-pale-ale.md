@@ -11,6 +11,6 @@ img: /img/list/cascade-pale-ale.jpeg
 untappd: "https://untappd.com/b/cascade-brewery-co-cascade-pale-ale/10742"
 country: "Australia"
 brewery: "Cascade Brewery Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cascade-brewery-co.html"
 style: "Pale Ale - Australian"
 ---

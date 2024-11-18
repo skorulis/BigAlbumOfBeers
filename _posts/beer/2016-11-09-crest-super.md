@@ -11,6 +11,6 @@ img: /img/list/crest-super.jpeg
 untappd: "https://untappd.com/b/charles-wells-brewery-crest-super/42599"
 country: "England"
 brewery: "Charles Wells Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/charles-wells-brewery.html"
 style: "Lager - Euro"
 ---

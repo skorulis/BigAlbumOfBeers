@@ -11,6 +11,6 @@ img: /img/list/beerfarm-royal-haze.jpeg
 untappd: "https://untappd.com/b/beerfarm-royal-haze/3385217"
 country: "Australia"
 brewery: "Beerfarm"
-breweryURL: "breweryURL"
+breweryURL: "brewery/beerfarm.html"
 style: "IPA - New England"
 ---

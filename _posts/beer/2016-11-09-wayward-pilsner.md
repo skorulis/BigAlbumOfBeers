@@ -11,6 +11,6 @@ img: /img/list/wayward-pilsner.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-pilsner/2884143"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Pilsner - German"
 ---

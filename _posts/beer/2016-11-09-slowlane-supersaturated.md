@@ -11,6 +11,6 @@ img: /img/list/slowlane-supersaturated.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-slow-lane-brewing-supersaturated/5484870"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slow-lane-brewing.html"
 style: "IPA - New England / Hazy"
 ---

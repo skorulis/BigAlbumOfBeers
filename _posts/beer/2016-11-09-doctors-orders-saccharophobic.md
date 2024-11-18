@@ -11,6 +11,6 @@ img: /img/list/doctors-orders-saccharophobic.jpeg
 untappd: "https://untappd.com/b/doctors-orders-brewing-saccharophobic/1612893"
 country: "Australia"
 brewery: "Doctor's Orders Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/doctor-s-orders-brewing.html"
 style: "Brown Ale - Other"
 ---

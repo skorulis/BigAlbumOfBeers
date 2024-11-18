@@ -11,6 +11,6 @@ img: /img/list/new-englander-hop-cannon-ipa.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co--new-englander-hop-cannon-ipa/855471"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/new-england-brewing-co.html"
 style: "IPA - American"
 ---

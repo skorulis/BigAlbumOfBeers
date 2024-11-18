@@ -11,6 +11,6 @@ img: /img/list/bracket-big-spender.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-big-spender/5091267"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double"
 ---

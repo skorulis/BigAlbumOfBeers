@@ -11,6 +11,6 @@ img: /img/list/feral-shooters-juicy-ipa.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-shooters-juicy-ipa/2593749"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/feral-brewing-company.html"
 style: "IPA - New England"
 ---

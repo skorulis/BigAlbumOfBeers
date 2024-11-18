@@ -11,6 +11,6 @@ img: /img/list/modus-halo-hunter.jpeg
 untappd: "https://untappd.com/b/modus-brewing-halo-hunter/4620795"
 country: "Australia"
 brewery: "Modus Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/modus-brewing.html"
 style: "IPA - New England / Hazy"
 ---

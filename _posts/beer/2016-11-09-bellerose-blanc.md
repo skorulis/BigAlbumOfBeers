@@ -11,6 +11,6 @@ img: /img/list/bellerose-blanc.jpeg
 untappd: "https://untappd.com/b/brasserie-des-sources-bellerose-biere-blonde-extra/289546"
 country: "France"
 brewery: "Brasserie des Sources"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brasserie-des-sources.html"
 style: "Blonde Ale"
 ---

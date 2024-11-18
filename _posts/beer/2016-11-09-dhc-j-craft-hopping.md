@@ -11,6 +11,6 @@ img: /img/list/dhc-j-craft-hopping.jpeg
 untappd: "https://untappd.com/b/dhc-beer-co--j-craft-hopping-juicy-new-england-ipa-east-coast-style--ipa-/3995709"
 country: "Japan"
 brewery: "DHC Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/dhc-beer-co.html"
 style: "IPA - New England / Hazy"
 ---

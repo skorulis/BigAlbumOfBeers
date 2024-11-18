@@ -11,6 +11,6 @@ img: /img/list/big-shed-frankenbrown.jpeg
 untappd: "https://untappd.com/b/big-shed-brewing-concern-frankenbrown/558019"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
-breweryURL: "breweryURL"
+breweryURL: "brewery/big-shed-brewing-concern.html"
 style: "Brown Ale - American"
 ---

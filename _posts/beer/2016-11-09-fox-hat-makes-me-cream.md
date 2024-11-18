@@ -11,6 +11,6 @@ img: /img/list/fox-hat-makes-me-cream.jpeg
 untappd: "https://untappd.com/b/fox-hat-brewing-makes-me-cream/2855063"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fox-hat-brewing.html"
 style: "Pale Wheat Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/one-drop-forager.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-forager-hazy-ipa/4493550"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/one-drop-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

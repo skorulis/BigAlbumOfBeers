@@ -11,6 +11,6 @@ img: /img/list/working-title-snake-eyes.jpeg
 untappd: "https://untappd.com/b/working-title-brew-co-snake-eyes/4701930"
 country: "Australia"
 brewery: "Working Title Brew Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/working-title-brew-co.html"
 style: "IPA - Red"
 ---

@@ -11,6 +11,6 @@ img: /img/list/nomad-trooper.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--trooper/3762781"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

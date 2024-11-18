@@ -11,6 +11,6 @@ img: /img/list/blackhammer-cuddle-puddle.jpeg
 untappd: "https://untappd.com/b/black-hammer-brewing-company-cuddle-puddle/4568837"
 country: "United States"
 brewery: "Black Hammer Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/black-hammer-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

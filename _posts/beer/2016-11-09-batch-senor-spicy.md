@@ -11,6 +11,6 @@ img: /img/list/batch-seor-spicy.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-senor-spicy/2914345"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Sour - Gose"
 ---

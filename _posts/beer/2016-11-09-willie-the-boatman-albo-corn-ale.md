@@ -11,6 +11,6 @@ img: /img/list/willie-the-boatman-albo-corn-ale.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-albo/1035514"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willie-the-boatman.html"
 style: "Australian Sparkling Ale"
 ---

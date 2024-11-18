@@ -11,6 +11,6 @@ img: /img/list/grand-ridge-winter-warmer.jpeg
 untappd: "https://untappd.com/b/grand-ridge-brewery-winter-warmer/1539179"
 country: "Australia"
 brewery: "Grand Ridge Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/grand-ridge-brewery.html"
 style: "Stout - Milk / Sweet"
 ---

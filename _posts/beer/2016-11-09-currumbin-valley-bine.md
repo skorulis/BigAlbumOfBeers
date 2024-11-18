@@ -11,6 +11,6 @@ img: /img/list/currumbin-valley-bine.jpeg
 untappd: "https://untappd.com/b/currumbin-valley-brewing-bine/4489646"
 country: "Australia"
 brewery: "Currumbin Valley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/currumbin-valley-brewing.html"
 style: "IPA - American"
 ---

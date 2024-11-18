@@ -11,6 +11,6 @@ img: /img/list/iron-house-milk-stout.jpeg
 untappd: "https://untappd.com/b/iron-house-brewery--milk-sweet-stout/1647613"
 country: "Australia"
 brewery: "Iron House Brewery "
-breweryURL: "breweryURL"
+breweryURL: "brewery/iron-house-brewery-.html"
 style: "Stout - Milk / Sweet"
 ---

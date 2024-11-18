@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-hoppy-anniversary-ale.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--40th-hoppy-anniversary-ale/3584453"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sierra-nevada-brewing-co.html"
 style: "IPA - American"
 ---

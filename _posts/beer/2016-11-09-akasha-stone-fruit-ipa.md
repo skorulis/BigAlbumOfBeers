@@ -11,6 +11,6 @@ img: /img/list/akasha-stone-fruit-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-stonefruit-ipa/3958266"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company.html"
 style: "IPA - American"
 ---

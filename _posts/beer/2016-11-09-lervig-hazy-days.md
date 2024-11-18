@@ -11,6 +11,6 @@ img: /img/list/lervig-hazy-days.jpeg
 untappd: "https://untappd.com/b/lervig-hazy-days/2155437"
 country: "Norway"
 brewery: "LERVIG"
-breweryURL: "breweryURL"
+breweryURL: "brewery/lervig.html"
 style: "Pale Ale - New England"
 ---

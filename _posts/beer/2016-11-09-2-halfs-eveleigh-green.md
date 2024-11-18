@@ -11,6 +11,6 @@ img: /img/list/2-halfs-eveleigh-green.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-eveleigh-green/5116855"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "breweryURL"
+breweryURL: "brewery/2-halfs-brewing-distilling.html"
 style: "Pale Ale - Other"
 ---

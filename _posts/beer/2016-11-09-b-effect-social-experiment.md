@@ -11,6 +11,6 @@ img: /img/list/b-effect-social-experiment.jpeg
 untappd: "https://untappd.com/b/b-effect--social-experiment/3780728"
 country: "New Zealand"
 brewery: "b.effect "
-breweryURL: "breweryURL"
+breweryURL: "brewery/b-effect-.html"
 style: "IPA - Other"
 ---

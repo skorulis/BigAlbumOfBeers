@@ -11,6 +11,6 @@ img: /img/list/otherside-simcoe.jpeg
 untappd: "https://untappd.com/b/otherside-brewing-co--simcoe-dip-hop-ipa/4710802"
 country: "Australia"
 brewery: "Otherside Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/otherside-brewing-co.html"
 style: "IPA - American"
 ---

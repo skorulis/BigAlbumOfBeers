@@ -11,6 +11,6 @@ img: /img/list/akasha-endless-haze.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-endless-haze---hazy-pale-ale/3540805"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company.html"
 style: "Pale Ale - New England"
 ---

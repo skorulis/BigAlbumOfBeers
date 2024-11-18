@@ -11,6 +11,6 @@ img: /img/list/little-bang-chocolate-stout.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-dark-arts/2714782"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-bang-brewing-co.html"
 style: "Stout - Other"
 ---

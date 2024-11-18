@@ -11,6 +11,6 @@ img: /img/list/ocean-reach-strawberry-gose.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--strawberry-gose/4218556"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "breweryURL"
+breweryURL: "brewery/ocean-reach-brewing-.html"
 style: "Sour - Fruited Gose"
 ---

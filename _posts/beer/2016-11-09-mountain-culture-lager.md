@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-lager.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--lager/3556983"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "Kölsch"
 ---

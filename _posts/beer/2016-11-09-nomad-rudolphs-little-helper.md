@@ -11,6 +11,6 @@ img: /img/list/nomad-rudolphs-little-helper.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--rudolphs-little-helper/4063918"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 ---

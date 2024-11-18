@@ -11,6 +11,6 @@ img: /img/list/altitude-biere-de-garde.jpeg
 untappd: "https://untappd.com/b/altitude-brewing-altitude-brewing-biere-de-garde/5936246"
 country: "New Zealand"
 brewery: "Altitude Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/altitude-brewing.html"
 style: "Farmhouse Ale - Bière de Garde"
 ---

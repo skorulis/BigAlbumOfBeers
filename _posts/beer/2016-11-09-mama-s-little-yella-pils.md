@@ -11,6 +11,6 @@ img: /img/list/mama-s-little-yella-pils.jpeg
 untappd: "https://untappd.com/b/oskar-blues-brewery-mamas-little-yella-pils/5210"
 country: "United States"
 brewery: "Oskar Blues Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/oskar-blues-brewery.html"
 style: "Pilsner - Czech"
 ---

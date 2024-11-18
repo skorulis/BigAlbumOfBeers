@@ -11,6 +11,6 @@ img: /img/list/trappistes-rochefort-8.jpeg
 untappd: "https://untappd.com/b/abbaye-notre-dame-de-saint-remy-trappistes-rochefort-8/11473"
 country: "Belgium"
 brewery: "Abbaye Notre-Dame de Saint-Rémy"
-breweryURL: "breweryURL"
+breweryURL: "brewery/abbaye-notre-dame-de-saint-remy.html"
 style: "Belgian Strong Dark Ale"
 ---

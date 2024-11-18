@@ -11,6 +11,6 @@ img: /img/list/la-trappe-quadrupel.jpeg
 untappd: "https://untappd.com/b/bierbrouwerij-de-koningshoeven-la-trappe-quadrupel/1830"
 country: "Netherlands"
 brewery: "Bierbrouwerij De Koningshoeven"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bierbrouwerij-de-koningshoeven.html"
 style: "Belgian Quad"
 ---

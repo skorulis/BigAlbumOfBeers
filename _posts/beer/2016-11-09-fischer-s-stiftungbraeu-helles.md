@@ -11,6 +11,6 @@ img: /img/list/fischer-s-stiftungbraeu-helles.jpeg
 untappd: "https://untappd.com/b/fischers-stiftungsbrau-fischers-hell/498614"
 country: "Germany"
 brewery: "Fischer's Stiftungsbräu"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fischer-s-stiftungsbraeu.html"
 style: "Lager - Helles"
 ---

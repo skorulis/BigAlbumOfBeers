@@ -11,6 +11,6 @@ img: /img/list/searchlight-red-admiral.jpeg
 untappd: "https://untappd.com/b/searchlight-brewery-searchlight-brewery-red-admiral/5800532"
 country: "New Zealand"
 brewery: "Searchlight Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/searchlight-brewery.html"
 style: "IPA - Red"
 ---

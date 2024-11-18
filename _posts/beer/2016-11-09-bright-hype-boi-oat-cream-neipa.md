@@ -11,6 +11,6 @@ img: /img/list/bright-hype-boi-oat-cream-neipa.jpeg
 untappd: "https://untappd.com/b/bright-brewery-hype-boi-oat-cream-neipa/4051295"
 country: "Australia"
 brewery: "Bright Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bright-brewery.html"
 style: "IPA - New England"
 ---

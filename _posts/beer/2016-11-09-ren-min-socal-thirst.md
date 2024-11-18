@@ -11,6 +11,6 @@ img: /img/list/ren-min-socal-thirst.jpeg
 untappd: "https://untappd.com/b/ren-min-socal-thirst/5401041"
 country: "Singapore"
 brewery: "Ren Min"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ren-min.html"
 style: "IPA - American"
 ---

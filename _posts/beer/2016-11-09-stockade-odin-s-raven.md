@@ -11,6 +11,6 @@ img: /img/list/stockade-odin-s-raven.jpeg
 untappd: "https://untappd.com/b/stockade-brew-co-odins-raven/2051822"
 country: "Australia"
 brewery: "Stockade Brew Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stockade-brew-co.html"
 style: "Witbier"
 ---

@@ -11,6 +11,6 @@ img: /img/list/staves-ava-d.jpeg
 untappd: "https://untappd.com/b/staves-brewery-ava-double-ipa/3754852"
 country: "Australia"
 brewery: "Staves Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/staves-brewery.html"
 style: "IPA - Imperial / Double"
 ---

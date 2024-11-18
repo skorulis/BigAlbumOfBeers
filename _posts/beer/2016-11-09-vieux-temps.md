@@ -11,6 +11,6 @@ img: /img/list/vieux-temps.jpeg
 untappd: "https://untappd.com/b/stella-artois-vieux-temps/25460"
 country: "Belgium"
 brewery: "Stella Artois"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stella-artois.html"
 style: "Pale Ale - Belgian"
 ---

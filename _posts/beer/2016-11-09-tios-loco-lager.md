@@ -11,6 +11,6 @@ img: /img/list/tios-loco-lager.jpeg
 untappd: "https://untappd.com/b/tios-loco-lager/5247624"
 country: "Australia"
 brewery: "Tio's"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tio-s.html"
 style: "Lager - Mexican"
 ---

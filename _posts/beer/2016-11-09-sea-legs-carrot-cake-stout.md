@@ -11,6 +11,6 @@ img: /img/list/sea-legs-carrot-cake-stout.jpeg
 untappd: "https://untappd.com/b/sea-legs-brewing-co--nonsensical-carrot-cake-stout/5016845"
 country: "Australia"
 brewery: "Sea Legs Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sea-legs-brewing-co.html"
 style: "Stout - Milk / Sweet"
 ---

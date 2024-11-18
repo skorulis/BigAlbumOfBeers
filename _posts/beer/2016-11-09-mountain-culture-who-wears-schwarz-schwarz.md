@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-who-wears-schwarz-schwarz.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co-mountain-culture-beer-co-who-wears-schwarz-schwarz/5877218"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "Schwarzbier"
 ---

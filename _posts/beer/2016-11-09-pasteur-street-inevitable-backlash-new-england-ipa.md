@@ -11,6 +11,6 @@ img: /img/list/pasteur-street-inevitable-backlash-new-england-ipa.jpeg
 untappd: "https://untappd.com/b/pasteur-street-brewing-company-inevitable-backlash/2208625"
 country: "Vietnam"
 brewery: "Pasteur Street Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pasteur-street-brewing-company.html"
 style: "IPA - New England"
 ---

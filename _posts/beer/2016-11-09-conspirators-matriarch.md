@@ -11,6 +11,6 @@ img: /img/list/conspirators-matriarch.jpeg
 untappd: "https://untappd.com/b/coconspirators-brewing-company-the-matriarch/2153364"
 country: "Australia"
 brewery: "CoConspirators Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/coconspirators-brewing-company.html"
 style: "IPA - New England"
 ---

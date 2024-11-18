@@ -11,6 +11,6 @@ img: /img/list/garden-brewery-chocolate---peanut-butter-stout.jpeg
 untappd: "https://untappd.com/b/the-garden-brewery-chocolate---peanut-butter-stout/2940773"
 country: "Croatia"
 brewery: "The Garden Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-garden-brewery.html"
 style: "Stout - Other"
 ---

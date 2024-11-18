@@ -11,6 +11,6 @@ img: /img/list/magic-hat-smash-hits-ipa.jpeg
 untappd: "https://untappd.com/b/magic-hat-brewing-company-s-m-a-s-h--hits-vol--1/1390654"
 country: "United States"
 brewery: "Magic Hat Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/magic-hat-brewing-company.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/spotty-dog-double-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/spotty-dog-brewers-spotty-dog-brewers-double-west-coast-ipa/5598166"
 country: "Australia"
 brewery: "Spotty Dog Brewers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/spotty-dog-brewers.html"
 style: "IPA - Imperial / Double"
 ---

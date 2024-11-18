@@ -11,6 +11,6 @@ img: /img/list/stingrays-draught.jpeg
 untappd: "https://untappd.com/b/bodriggy-brewing-co--stingrays-draught/4353716"
 country: "Australia"
 brewery: "Bodriggy Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bodriggy-brewing-co.html"
 style: "Kölsch"
 ---

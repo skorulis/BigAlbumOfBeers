@@ -11,6 +11,6 @@ img: /img/list/byron-bay-hazy-lager.jpeg
 untappd: "https://untappd.com/b/byron-bay-brewery-hazy-one/1752290"
 country: "Australia"
 brewery: "Byron Bay Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/byron-bay-brewery.html"
 style: "Lager - Pale"
 ---

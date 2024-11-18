@@ -11,6 +11,6 @@ img: /img/list/blackflag-tropical-pale-ale.jpeg
 untappd: "https://untappd.com/b/black-flag-brewing-company-tropical-pale-ale/4074707"
 country: "United States"
 brewery: "Black Flag Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/black-flag-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

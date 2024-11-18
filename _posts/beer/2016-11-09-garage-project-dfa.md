@@ -11,6 +11,6 @@ img: /img/list/garage-project-dfa.jpeg
 untappd: "https://untappd.com/b/garage-project-demus-favorem-amori/3202827"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "IPA - American"
 ---

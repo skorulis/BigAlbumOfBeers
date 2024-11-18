@@ -11,6 +11,6 @@ img: /img/list/st-peter-s-best-bitter.jpeg
 untappd: "https://untappd.com/b/st--peters-brewery-co--best-bitter/38727"
 country: "England"
 brewery: "St. Peter’s Brewery Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/st--peter-s-brewery-co.html"
 style: "English Bitter"
 ---

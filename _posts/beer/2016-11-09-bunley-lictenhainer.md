@@ -11,6 +11,6 @@ img: /img/list/bunley-lictenhainer.jpeg
 untappd: "https://untappd.com/b/burnley-brewing-lichtenhainer/4534822"
 country: "Australia"
 brewery: "Burnley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/burnley-brewing.html"
 style: "Historical Beer - Lichtenhainer"
 ---

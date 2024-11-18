@@ -11,6 +11,6 @@ img: /img/list/wahoo-summer-lager.jpeg
 untappd: "https://untappd.com/b/gage-roads-brewing-co--wahoo-summer-lager/863499"
 country: "Australia"
 brewery: "Gage Roads Brewing Co "
-breweryURL: "breweryURL"
+breweryURL: "brewery/gage-roads-brewing-co-.html"
 style: "Lager - Pale"
 ---

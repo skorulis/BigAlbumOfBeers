@@ -11,6 +11,6 @@ img: /img/list/fourpure-deucebox.jpeg
 untappd: "https://untappd.com/b/fourpure-brewing-co-deucebox/1696100"
 country: "England"
 brewery: "Fourpure Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fourpure-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

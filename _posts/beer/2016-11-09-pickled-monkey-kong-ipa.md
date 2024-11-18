@@ -11,6 +11,6 @@ img: /img/list/pickled-monkey-kong-ipa.jpeg
 untappd: "https://untappd.com/b/pickled-monkey-brewing-co-kong-ipa/3659638"
 country: "Australia"
 brewery: "Pickled Monkey Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pickled-monkey-brewing-co.html"
 style: "IPA - International"
 ---

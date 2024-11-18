@@ -11,6 +11,6 @@ img: /img/list/monteith-s-summer-ale.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-summer-ale/5143"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "breweryURL"
+breweryURL: "brewery/monteith-s-brewing-co--.html"
 style: "Golden Ale"
 ---

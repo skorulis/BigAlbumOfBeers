@@ -11,6 +11,6 @@ img: /img/list/fahnen-braeu.jpeg
 untappd: "https://untappd.com/b/h-west-b-v--fahnen-brau/392240"
 country: "Netherlands"
 brewery: "H-West B.V."
-breweryURL: "breweryURL"
+breweryURL: "brewery/h-west-b-v.html"
 style: "Pilsner - German"
 ---

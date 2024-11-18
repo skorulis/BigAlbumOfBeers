@@ -11,6 +11,6 @@ img: /img/list/forester-bitter-amber-ale.jpeg
 untappd: "https://untappd.com/b/two-metre-tall-forester-bitter-amber-ale/25802"
 country: "Australia"
 brewery: "Two Metre Tall"
-breweryURL: "breweryURL"
+breweryURL: "brewery/two-metre-tall.html"
 style: "Red Ale - American Amber / Red"
 ---

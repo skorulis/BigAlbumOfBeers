@@ -11,6 +11,6 @@ img: /img/list/baladin-isaac.jpeg
 untappd: "https://untappd.com/b/birra-baladin-isaac/22292"
 country: "Italy"
 brewery: "Birra Baladin"
-breweryURL: "breweryURL"
+breweryURL: "brewery/birra-baladin.html"
 style: "Witbier"
 ---

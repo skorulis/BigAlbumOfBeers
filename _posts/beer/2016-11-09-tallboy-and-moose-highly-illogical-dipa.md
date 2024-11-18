@@ -11,6 +11,6 @@ img: /img/list/tallboy-and-moose-highly-illogical-dipa.jpeg
 untappd: "https://untappd.com/b/tallboy-and-moose-highly-illogical/3842651"
 country: "Australia"
 brewery: "Tallboy And Moose"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tallboy-and-moose.html"
 style: "IPA - Imperial / Double"
 ---

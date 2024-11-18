@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-brew-am-i.jpeg
 untappd: "https://untappd.com/b/young-henrys-brewing-company-brew-am-i/378904"
 country: "Australia"
 brewery: "Young Henrys Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/young-henrys-brewing-company.html"
 style: "Blonde Ale"
 ---

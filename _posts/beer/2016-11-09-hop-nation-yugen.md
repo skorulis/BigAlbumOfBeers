@@ -11,6 +11,6 @@ img: /img/list/hop-nation-yugen.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-yugen-chocolate-coffee-milk-stout/5354327"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hop-nation-brewing-co.html"
 style: "Stout - Milk / Sweet"
 ---

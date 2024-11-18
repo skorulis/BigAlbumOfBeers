@@ -11,6 +11,6 @@ img: /img/list/thunder-road-exotica-4.jpeg
 untappd: "https://untappd.com/b/thunder-road-brewing-company-exotica-4/4068059"
 country: "Australia"
 brewery: "Thunder Road Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/thunder-road-brewing-company.html"
 style: "IPA - New England"
 ---

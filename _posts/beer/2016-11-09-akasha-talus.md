@@ -11,6 +11,6 @@ img: /img/list/akasha-talus.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-talus/4055769"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company.html"
 style: "IPA - American"
 ---

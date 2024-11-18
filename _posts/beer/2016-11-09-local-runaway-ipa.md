@@ -11,6 +11,6 @@ img: /img/list/local-runaway-ipa.jpeg
 untappd: "https://untappd.com/b/local-brewing-co--runaway-ipa/3844293"
 country: "Australia"
 brewery: "Local Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/local-brewing-co.html"
 style: "IPA - American"
 ---

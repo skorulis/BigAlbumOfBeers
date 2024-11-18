@@ -11,6 +11,6 @@ img: /img/list/cascade-bright-ale.jpeg
 untappd: "https://untappd.com/b/cascade-brewery-co---australia--bright-ale/466884"
 country: "Australia"
 brewery: "Cascade Brewery Co. (Australia)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cascade-brewery-co---australia.html"
 style: "Pale Ale - Australian"
 ---

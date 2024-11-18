@@ -11,6 +11,6 @@ img: /img/list/malmo-breech-lock-ipa.jpeg
 untappd: "https://untappd.com/b/malmo-brewing-co--breech-lock-ipa/5533268"
 country: "Sweden"
 brewery: "Malmö Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/malmoe-brewing-co.html"
 style: "IPA - American"
 ---

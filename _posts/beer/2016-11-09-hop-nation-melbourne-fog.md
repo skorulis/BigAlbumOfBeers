@@ -11,6 +11,6 @@ img: /img/list/hop-nation-melbourne-fog.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-melbourne-fog/3565219"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hop-nation-brewing-co.html"
 style: "Pale Ale - New England"
 ---

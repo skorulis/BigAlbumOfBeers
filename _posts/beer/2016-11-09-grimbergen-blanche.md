@@ -11,6 +11,6 @@ img: /img/list/grimbergen-blanche.jpeg
 untappd: "https://untappd.com/b/kronenbourg-grimbergen-blanche/15980"
 country: "France"
 brewery: "Kronenbourg"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kronenbourg.html"
 style: "Witbier"
 ---

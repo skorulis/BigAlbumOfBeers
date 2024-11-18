@@ -11,6 +11,6 @@ img: /img/list/collective-arts-life-in-the-clouds.jpeg
 untappd: "https://untappd.com/b/collective-arts-brewing-life-in-the-clouds/2429930"
 country: "Canada"
 brewery: "Collective Arts Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/collective-arts-brewing.html"
 style: "IPA - New England"
 ---

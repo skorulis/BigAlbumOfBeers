@@ -11,6 +11,6 @@ img: /img/list/kyoto-matcha-ipa.jpeg
 untappd: "https://untappd.com/b/kizakura-co--kyoto-bakushu-matcha-ipa----/2368379"
 country: "Japan"
 brewery: "Kizakura Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/kizakura-co.html"
 style: "IPA - Other"
 ---

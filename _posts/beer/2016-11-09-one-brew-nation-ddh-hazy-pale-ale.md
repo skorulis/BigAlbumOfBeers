@@ -11,6 +11,6 @@ img: /img/list/one-brew-nation-ddh-hazy-pale-ale.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--one-brew-nation-ddh-hazy-pale-ale/3766014"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "Pale Ale - New England"
 ---

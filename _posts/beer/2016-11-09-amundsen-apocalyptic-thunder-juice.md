@@ -11,6 +11,6 @@ img: /img/list/amundsen-apocalyptic-thunder-juice.jpeg
 untappd: "https://untappd.com/b/amundsen-brewery-apocalyptic-thunder-juice/2052131"
 country: "Norway"
 brewery: "Amundsen Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/amundsen-brewery.html"
 style: "IPA - New England / Hazy"
 ---

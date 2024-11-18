@@ -11,6 +11,6 @@ img: /img/list/searchlight-frodo-s-froth.jpeg
 untappd: "https://untappd.com/b/searchlight-brewery-searchlight-brewery-frodo-s-froth-nzipa/5874773"
 country: "New Zealand"
 brewery: "Searchlight Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/searchlight-brewery.html"
 style: "IPA - New Zealand"
 ---

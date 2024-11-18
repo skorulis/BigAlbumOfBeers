@@ -11,6 +11,6 @@ img: /img/list/nomad-freshie-salt---pepper.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--freshie-salt-and-pepper/1032759"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "Sour - Gose"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hopsters-comet-cold-ipa.jpeg
 untappd: "https://untappd.com/b/hopsters-co-op-brewery--the-cool-kids--comet/4815151"
 country: "Australia"
 brewery: "Hopsters Co-op Brewery "
-breweryURL: "breweryURL"
+breweryURL: "brewery/hopsters-co-op-brewery-.html"
 style: "IPA - American"
 ---

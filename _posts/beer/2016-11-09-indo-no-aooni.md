@@ -11,6 +11,6 @@ img: /img/list/indo-no-aooni.jpeg
 untappd: "https://untappd.com/b/yo-ho-brewing-company-aooni---/48217"
 country: "Japan"
 brewery: "Yo-Ho Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yo-ho-brewing-company.html"
 style: "IPA - American"
 ---

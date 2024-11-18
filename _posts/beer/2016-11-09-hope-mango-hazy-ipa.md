@@ -11,6 +11,6 @@ img: /img/list/hope-mango-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/hope-brewery-mango-hazy-ipa/3742556"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hope-brewery.html"
 style: "IPA - New England"
 ---

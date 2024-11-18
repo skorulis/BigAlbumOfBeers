@@ -11,6 +11,6 @@ img: /img/list/fixation-squish.jpeg
 untappd: "https://untappd.com/b/fixation-brewing-co-squish/1971232"
 country: "Australia"
 brewery: "Fixation Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fixation-brewing-co.html"
 style: "IPA - American"
 ---

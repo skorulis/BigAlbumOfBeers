@@ -11,6 +11,6 @@ img: /img/list/4-pines-kolsch.jpeg
 untappd: "https://untappd.com/b/4-pines-brewing-company-kolsch/25759"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/4-pines-brewing-company.html"
 style: "Kölsch"
 ---

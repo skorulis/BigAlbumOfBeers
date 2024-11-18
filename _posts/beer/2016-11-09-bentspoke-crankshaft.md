@@ -11,6 +11,6 @@ img: /img/list/bentspoke-crankshaft.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-crankshaft/704499"
 country: "Australia"
 brewery: "Bentspoke Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bentspoke-brewing-co.html"
 style: "IPA - American"
 ---

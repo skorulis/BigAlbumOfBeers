@@ -11,6 +11,6 @@ img: /img/list/tun-bitter.jpeg
 untappd: "https://untappd.com/b/wow-brands-tun-bitter/192401"
 country: "Australia"
 brewery: "Wow Brands"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wow-brands.html"
 style: "Lager - North American Adjunct"
 ---

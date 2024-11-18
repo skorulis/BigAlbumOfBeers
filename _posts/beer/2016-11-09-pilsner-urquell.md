@@ -11,6 +11,6 @@ img: /img/list/pilsner-urquell.jpeg
 untappd: "https://untappd.com/b/plzensky-prazdroj-pilsner-urquell/37936"
 country: "Czech Republic"
 brewery: "Plzeňský Prazdroj"
-breweryURL: "breweryURL"
+breweryURL: "brewery/plzensky-prazdroj.html"
 style: "Pilsner - Czech"
 ---

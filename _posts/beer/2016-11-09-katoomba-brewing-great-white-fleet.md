@@ -11,6 +11,6 @@ img: /img/list/katoomba-brewing-great-white-fleet.jpeg
 untappd: "https://untappd.com/b/katoomba-brewing-company-american-pale-ale/1367305"
 country: "Australia"
 brewery: "Katoomba Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/katoomba-brewing-company.html"
 style: "Pale Ale - American"
 ---

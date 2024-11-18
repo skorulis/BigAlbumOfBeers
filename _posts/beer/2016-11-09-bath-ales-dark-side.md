@@ -11,6 +11,6 @@ img: /img/list/bath-ales-dark-side.jpeg
 untappd: "https://untappd.com/b/bath-ales-dark-side/6247"
 country: "England"
 brewery: "Bath Ales"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bath-ales.html"
 style: "Stout - Other"
 ---

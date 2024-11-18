@@ -11,6 +11,6 @@ img: /img/list/wychwood-brewery-goliath.jpeg
 untappd: "https://untappd.com/b/wychwood-brewery-goliath/12685"
 country: "England"
 brewery: "Wychwood Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wychwood-brewery.html"
 style: "English Bitter"
 ---

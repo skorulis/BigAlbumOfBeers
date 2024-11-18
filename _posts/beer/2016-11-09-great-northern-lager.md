@@ -11,6 +11,6 @@ img: /img/list/great-northern-lager.jpeg
 untappd: "https://untappd.com/b/great-northern-brewing-co--super-crisp-lager/230949"
 country: "Australia"
 brewery: "Great Northern Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/great-northern-brewing-co.html"
 style: "Lager - North American Adjunct"
 ---

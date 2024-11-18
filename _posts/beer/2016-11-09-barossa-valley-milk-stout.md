@@ -11,6 +11,6 @@ img: /img/list/barossa-valley-milk-stout.jpeg
 untappd: "https://untappd.com/b/barossa-valley-brewing-imperial-milk-stout/269196"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/barossa-valley-brewing.html"
 style: "Stout - Milk / Sweet"
 ---

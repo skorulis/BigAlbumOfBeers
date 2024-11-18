@@ -11,6 +11,6 @@ img: /img/list/karl-strauss-redtrolley-ale.jpeg
 untappd: "https://untappd.com/b/karl-strauss-brewing-company-red-trolley-ale/1291"
 country: "United States"
 brewery: "Karl Strauss Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/karl-strauss-brewing-company.html"
 style: "Red Ale - Irish"
 ---

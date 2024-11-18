@@ -11,6 +11,6 @@ img: /img/list/passchendaele.jpeg
 untappd: "https://untappd.com/b/brouwerij-van-honsebrouck-passchendaele/351479"
 country: "Belgium"
 brewery: "Brouwerij Van Honsebrouck"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-van-honsebrouck.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 ---

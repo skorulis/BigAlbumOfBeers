@@ -11,6 +11,6 @@ img: /img/list/new-england-truckload.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co--truck-load-ipa/4537011"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/new-england-brewing-co.html"
 style: "IPA - American"
 ---

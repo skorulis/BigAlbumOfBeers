@@ -11,6 +11,6 @@ img: /img/list/big-shed-boozy-fruit.jpeg
 untappd: "https://untappd.com/b/big-shed-brewing-concern-boozy-fruit/2593687"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
-breweryURL: "breweryURL"
+breweryURL: "brewery/big-shed-brewing-concern.html"
 style: "IPA - New England"
 ---

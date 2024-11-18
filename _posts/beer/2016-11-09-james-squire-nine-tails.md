@@ -11,6 +11,6 @@ img: /img/list/james-squire-nine-tails.jpeg
 untappd: "https://untappd.com/b/malt-shovel-brewery-james-squire-nine-tales-amber-ale/10808"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/malt-shovel-brewery.html"
 style: "Brown Ale - English"
 ---

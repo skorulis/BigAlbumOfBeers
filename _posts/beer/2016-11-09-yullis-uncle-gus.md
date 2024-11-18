@@ -11,6 +11,6 @@ img: /img/list/yullis-uncle-gus.jpeg
 untappd: "https://untappd.com/b/yullis-brews-uncle-gus-finger-lime-pilsner/2978336"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "Pilsner - Other"
 ---

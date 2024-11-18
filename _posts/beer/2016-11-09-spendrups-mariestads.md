@@ -11,6 +11,6 @@ img: /img/list/spendrups-mariestads.jpeg
 untappd: "https://untappd.com/b/spendrups-bryggeri-mariestads--3-5-/52915"
 country: "Sweden"
 brewery: "Spendrups Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/spendrups-bryggeri.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/holgate-hopinator.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-hopinator--2015-/1046284"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/holgate-brewhouse.html"
 style: "IPA - Imperial / Double"
 ---

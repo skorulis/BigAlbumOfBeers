@@ -11,6 +11,6 @@ img: /img/list/delerium-christmas.jpeg
 untappd: "https://untappd.com/b/brouwerij-huyghe-delirium-noel--christmas/8767"
 country: "Belgium"
 brewery: "Brouwerij Huyghe"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-huyghe.html"
 style: "Winter Ale"
 ---

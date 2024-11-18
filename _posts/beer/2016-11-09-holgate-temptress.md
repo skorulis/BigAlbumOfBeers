@@ -11,6 +11,6 @@ img: /img/list/holgate-temptress.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-temptress/11461"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/holgate-brewhouse.html"
 style: "Porter - Other"
 ---

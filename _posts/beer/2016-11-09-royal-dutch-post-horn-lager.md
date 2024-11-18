@@ -11,6 +11,6 @@ img: /img/list/royal-dutch-post-horn-lager.jpeg
 untappd: "https://untappd.com/b/united-dutch-breweries-royal-dutch-post-horn-lager/61806"
 country: "Netherlands"
 brewery: "United Dutch Breweries"
-breweryURL: "breweryURL"
+breweryURL: "brewery/united-dutch-breweries.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/salikat-eddy-current.jpeg
 untappd: "https://untappd.com/b/salikatt-eddy-current/5487849"
 country: "Norway"
 brewery: "Salikatt"
-breweryURL: "breweryURL"
+breweryURL: "brewery/salikatt.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

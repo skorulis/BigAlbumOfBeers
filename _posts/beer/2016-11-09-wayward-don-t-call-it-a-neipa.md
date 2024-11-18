@@ -11,6 +11,6 @@ img: /img/list/wayward-don-t-call-it-a-neipa.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-dont-call-it-a-neipa/2348013"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "IPA - White"
 ---

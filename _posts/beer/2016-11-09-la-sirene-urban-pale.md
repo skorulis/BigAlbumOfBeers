@@ -11,6 +11,6 @@ img: /img/list/la-sirene-urban-pale.jpeg
 untappd: "https://untappd.com/b/la-sirene-brewing-urban-pale/1772834"
 country: "Australia"
 brewery: "La Sirène Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/la-sirene-brewing.html"
 style: "Saison / Farmhouse Ale"
 ---

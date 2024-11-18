@@ -11,6 +11,6 @@ img: /img/list/batch-little-lou-s.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-little-lous-creme-brulee-pastry-stout/4213591"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Stout - Pastry"
 ---

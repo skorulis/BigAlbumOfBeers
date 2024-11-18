@@ -11,6 +11,6 @@ img: /img/list/elysian-full-contact.jpeg
 untappd: "https://untappd.com/b/elysian-brewing-company-full-contact/4070396"
 country: "United States"
 brewery: "Elysian Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/elysian-brewing-company.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

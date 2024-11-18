@@ -11,6 +11,6 @@ img: /img/list/garage-project-la-calavera-catrina.jpeg
 untappd: "https://untappd.com/b/garage-project-la-calavera-catrina/255471"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "Spiced / Herbed Beer"
 ---

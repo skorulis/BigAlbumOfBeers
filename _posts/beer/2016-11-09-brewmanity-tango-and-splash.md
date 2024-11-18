@@ -11,6 +11,6 @@ img: /img/list/brewmanity-tango-and-splash.jpeg
 untappd: "https://untappd.com/b/brewmanity-tango---splash/2599726"
 country: "Australia"
 brewery: "Brewmanity"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewmanity.html"
 style: "Lager - Pale"
 ---

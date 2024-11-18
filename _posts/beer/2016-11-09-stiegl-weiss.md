@@ -11,6 +11,6 @@ img: /img/list/stiegl-weiss.jpeg
 untappd: "https://untappd.com/b/stieglbrauerei-zu-salzburg-stiegl-weisse-naturtrub/80"
 country: "Austria"
 brewery: "Stieglbrauerei zu Salzburg"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stieglbrauerei-zu-salzburg.html"
 style: "Hefeweizen"
 ---

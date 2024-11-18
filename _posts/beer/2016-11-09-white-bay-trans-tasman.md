@@ -11,6 +11,6 @@ img: /img/list/white-bay-trans-tasman.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--trans-tasman-ipa/4649689"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/white-bay-beer-co.html"
 style: "IPA - New Zealand"
 ---

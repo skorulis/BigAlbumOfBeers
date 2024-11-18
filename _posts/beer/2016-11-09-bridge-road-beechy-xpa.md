@@ -11,6 +11,6 @@ img: /img/list/bridge-road-beechy-xpa.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-beechy-xpa--fka-summer-ale-/2368401"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bridge-road-brewers.html"
 style: "Pale Ale - Australian"
 ---

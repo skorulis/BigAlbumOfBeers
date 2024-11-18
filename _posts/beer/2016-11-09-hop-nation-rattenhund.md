@@ -11,6 +11,6 @@ img: /img/list/hop-nation-rattenhund.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-rattenhund/4227118"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hop-nation-brewing-co.html"
 style: "Pilsner - German"
 ---

@@ -11,6 +11,6 @@ img: /img/list/2-brothers-growler.jpeg
 untappd: "https://untappd.com/b/2-brothers-brewery--growler/13394"
 country: "Australia"
 brewery: "2 Brothers Brewery "
-breweryURL: "breweryURL"
+breweryURL: "brewery/2-brothers-brewery-.html"
 style: "Brown Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bracket-russian-imperial-stout.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-russian-imperial-stout/4476282"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Stout - Russian Imperial"
 ---

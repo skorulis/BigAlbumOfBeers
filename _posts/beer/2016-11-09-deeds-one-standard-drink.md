@@ -11,6 +11,6 @@ img: /img/list/deeds-one-standard-drink.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-one-standard-drink/4131530"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deeds-brewing.html"
 style: "Pale Ale - Australian"
 ---

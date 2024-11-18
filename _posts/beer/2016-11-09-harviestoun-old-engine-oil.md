@@ -11,6 +11,6 @@ img: /img/list/harviestoun-old-engine-oil.jpeg
 untappd: "https://untappd.com/b/harviestoun-brewery-old-engine-oil/449"
 country: "Scotland"
 brewery: "Harviestoun Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/harviestoun-brewery.html"
 style: "Porter - Other"
 ---

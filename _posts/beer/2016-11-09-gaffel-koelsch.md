@@ -11,6 +11,6 @@ img: /img/list/gaffel-koelsch.jpeg
 untappd: "https://untappd.com/b/privatbrauerei-gaffel-becker-gaffel-kolsch/13647"
 country: "Germany"
 brewery: "Privatbrauerei Gaffel Becker"
-breweryURL: "breweryURL"
+breweryURL: "brewery/privatbrauerei-gaffel-becker.html"
 style: "Kölsch"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bright-mystery-batch-02.jpeg
 untappd: "https://untappd.com/b/bright-brewery-mystery-beer-batch---02/4009668"
 country: "Australia"
 brewery: "Bright Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bright-brewery.html"
 style: "Pale Ale - Belgian"
 ---

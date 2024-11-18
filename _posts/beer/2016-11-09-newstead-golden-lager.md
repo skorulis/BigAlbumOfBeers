@@ -11,6 +11,6 @@ img: /img/list/newstead-golden-lager.jpeg
 untappd: "https://untappd.com/b/newstead-brewing-co--the-mayne-thing/516441"
 country: "Australia"
 brewery: "Newstead Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/newstead-brewing-co.html"
 style: "Lager - Pale"
 ---

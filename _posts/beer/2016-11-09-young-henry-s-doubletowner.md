@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-doubletowner.jpeg
 untappd: "https://untappd.com/b/young-henrys-young-henrys-doubletowner/3160585"
 country: "Australia"
 brewery: "Young Henrys"
-breweryURL: "breweryURL"
+breweryURL: "brewery/young-henrys.html"
 style: "Pale Ale - Australian"
 ---

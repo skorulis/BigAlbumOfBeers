@@ -11,6 +11,6 @@ img: /img/list/brewcult-spoiler-alert.jpeg
 untappd: "https://untappd.com/b/brewcult-spoiler-alert/973173"
 country: "Australia"
 brewery: "BrewCult"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewcult.html"
 style: "Lager - Pale"
 ---

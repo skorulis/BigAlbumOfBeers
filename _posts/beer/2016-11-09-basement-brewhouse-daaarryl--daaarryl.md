@@ -11,6 +11,6 @@ img: /img/list/basement-brewhouse-daaarryl--daaarryl.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-daaarryl--daaarryl-/4300856"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/basement-brewhouse.html"
 style: "IPA - American"
 ---

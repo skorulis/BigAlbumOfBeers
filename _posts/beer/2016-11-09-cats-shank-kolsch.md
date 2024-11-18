@@ -11,6 +11,6 @@ img: /img/list/cats-shank-kolsch.jpeg
 untappd: "https://untappd.com/b/sail---anchor-cats-shank-kolsch/245315"
 country: "Australia"
 brewery: "Sail & Anchor"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sail---anchor.html"
 style: "Kölsch"
 ---

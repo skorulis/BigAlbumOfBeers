@@ -11,6 +11,6 @@ img: /img/list/little-creatures-bright-ale.jpeg
 untappd: "https://untappd.com/b/little-creatures-brewing-bright-ale/7424"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-creatures-brewing.html"
 style: "Other"
 ---

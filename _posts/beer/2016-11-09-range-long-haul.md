@@ -11,6 +11,6 @@ img: /img/list/range-long-haul.jpeg
 untappd: "https://untappd.com/b/range-brewing-range-brewing-long-haul/5552201"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/range-brewing.html"
 style: "IPA - American"
 ---

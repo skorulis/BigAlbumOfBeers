@@ -11,6 +11,6 @@ img: /img/list/t-bone-pale-ale.jpeg
 untappd: "https://untappd.com/b/t-bone-brewing-co--pale-ale/944436"
 country: "Australia"
 brewery: "T-Bone Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/t-bone-brewing-co.html"
 style: "Pale Ale - American"
 ---

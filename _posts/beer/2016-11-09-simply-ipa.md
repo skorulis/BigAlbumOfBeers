@@ -11,6 +11,6 @@ img: /img/list/simply-ipa.jpeg
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-simply-ipa/180517"
 country: "England"
 brewery: "Tesco Stores Ltd."
-breweryURL: "breweryURL"
+breweryURL: "brewery/tesco-stores-ltd.html"
 style: "IPA - English"
 ---

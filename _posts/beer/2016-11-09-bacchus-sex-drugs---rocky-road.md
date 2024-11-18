@@ -11,6 +11,6 @@ img: /img/list/bacchus-sex-drugs---rocky-road.jpeg
 untappd: "https://untappd.com/b/bacchus-brewing-co--sex-drugs---rocky-road/685702"
 country: "Australia"
 brewery: "Bacchus Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bacchus-brewing-co.html"
 style: "Specialty Grain"
 ---

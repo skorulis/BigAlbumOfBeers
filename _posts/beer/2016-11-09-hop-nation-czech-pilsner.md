@@ -11,6 +11,6 @@ img: /img/list/hop-nation-czech-pilsner.jpeg
 untappd: "https://untappd.com/b/hop-nation-brewing-co-hop-nation-brewing-co-czech-pilsner/5531088"
 country: "Australia"
 brewery: "Hop Nation Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hop-nation-brewing-co.html"
 style: "Pilsner - Czech / Bohemian"
 ---

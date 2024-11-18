@@ -11,6 +11,6 @@ img: /img/list/philter-old-ale.jpeg
 untappd: "https://untappd.com/b/philter-brewing-old-ale/4210605"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/philter-brewing.html"
 style: "Old Ale"
 ---

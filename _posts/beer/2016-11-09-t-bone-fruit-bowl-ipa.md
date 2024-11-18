@@ -11,6 +11,6 @@ img: /img/list/t-bone-fruit-bowl-ipa.jpeg
 untappd: "https://untappd.com/b/t-bone-brewing-co--fruit-bowl-i-p-a/2264895"
 country: "Australia"
 brewery: "T-Bone Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/t-bone-brewing-co.html"
 style: "IPA - American"
 ---

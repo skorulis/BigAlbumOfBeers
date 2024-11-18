@@ -11,6 +11,6 @@ img: /img/list/six-strings-blood-orange-vanilla-magik.jpeg
 untappd: "https://untappd.com/b/six-string-brewing-company-blood-orange-vanilla-magik/3470157"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/six-string-brewing-company.html"
 style: "Kölsch"
 ---

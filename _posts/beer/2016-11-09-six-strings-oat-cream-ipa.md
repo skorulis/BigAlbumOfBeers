@@ -11,6 +11,6 @@ img: /img/list/six-strings-oat-cream-ipa.jpeg
 untappd: "https://untappd.com/b/six-string-brewing-company-strange-brew---oat-cream-ipa/3854845"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/six-string-brewing-company.html"
 style: "IPA - Milkshake"
 ---

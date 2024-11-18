@@ -11,6 +11,6 @@ img: /img/list/banks-good-times.jpeg
 untappd: "https://untappd.com/b/banks-brewing-banks-brewing-good-times/5360137"
 country: "Australia"
 brewery: "Banks Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/banks-brewing.html"
 style: "Pale Ale - New England / Hazy"
 ---

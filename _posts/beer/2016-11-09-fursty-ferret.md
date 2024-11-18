@@ -11,6 +11,6 @@ img: /img/list/fursty-ferret.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--fursty-ferret/8932"
 country: "England"
 brewery: "Badger Ales (Hall & Woodhouse)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/badger-ales--hall---woodhouse.html"
 style: "English Bitter"
 ---

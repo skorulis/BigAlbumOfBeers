@@ -49,9 +49,7 @@ extension CreatePostsCommand {
         }
         
         func writeBeer(beer: BeerModel, extra: ExtraEntry?) async throws {
-            let date = beer.date
             let filename = "_posts/beer/2016-11-09-" + beer.name.slugify() + ".md"
-            let fileurl = "/beer/" + beer.name.slugify() + ".html"
             
             var output = """
             ---
@@ -74,8 +72,9 @@ extension CreatePostsCommand {
                 output += "country: \"\(country)\"\n"
             }
             if let brewery = extra?.untappd.brewery {
+                let breweryURL = "brewery/\(brewery.slugify()).html"
                 output += "brewery: \"\(brewery)\"\n"
-                output += "breweryURL: \"breweryURL\"\n"
+                output += "breweryURL: \"\(breweryURL)\"\n"
             }
             if let style = extra?.untappd.style {
                 output += "style: \"\(style)\"\n"

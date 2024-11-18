@@ -11,6 +11,6 @@ img: /img/list/anderson-valley-blood-orange-gose.jpeg
 untappd: "https://untappd.com/b/anderson-valley-brewing-company-blood-orange-gose/791939"
 country: "United States"
 brewery: "Anderson Valley Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/anderson-valley-brewing-company.html"
 style: "Sour - Gose"
 ---

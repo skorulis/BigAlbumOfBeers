@@ -11,6 +11,6 @@ img: /img/list/steamrail-summer-ale.jpeg
 untappd: "https://untappd.com/b/steamrail-brewing-company--coles--tight-red-togs/888366"
 country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/steamrail-brewing-company--coles.html"
 style: "California Common"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bucket-boys-don-t-get-caught-with-stout-on-your-face.jpeg
 untappd: "https://untappd.com/b/bucket-boys-craft-beer-co-dont-get-caught-with-stout-on-your-face/2573078"
 country: "Australia"
 brewery: "Bucket Boys Craft Beer Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bucket-boys-craft-beer-co.html"
 style: "Stout - Milk / Sweet"
 ---

@@ -11,6 +11,6 @@ img: /img/list/banks-scoop.jpeg
 untappd: "https://untappd.com/b/banks-brewing-scoop/4824640"
 country: "Australia"
 brewery: "Banks Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/banks-brewing.html"
 style: "Stout - American"
 ---

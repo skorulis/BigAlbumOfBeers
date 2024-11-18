@@ -11,6 +11,6 @@ img: /img/list/big-shed-lupowheat.jpeg
 untappd: "https://untappd.com/b/big-shed-brewing-concern-lupowheat/4600131"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
-breweryURL: "breweryURL"
+breweryURL: "brewery/big-shed-brewing-concern.html"
 style: "Wheat Beer - American Pale Wheat"
 ---

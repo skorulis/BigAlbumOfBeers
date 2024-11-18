@@ -11,6 +11,6 @@ img: /img/list/double-maxim.jpeg
 untappd: "https://untappd.com/b/maxim-brewery-double-maxim/51874"
 country: "England"
 brewery: "Maxim Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/maxim-brewery.html"
 style: "Brown Ale - English"
 ---

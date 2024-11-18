@@ -11,6 +11,6 @@ img: /img/list/devils-hollow-flash-kate.jpeg
 untappd: "https://untappd.com/b/devils-hollow-brewery-flash-kate-ipa/3367158"
 country: "Australia"
 brewery: "Devil's Hollow Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/devil-s-hollow-brewery.html"
 style: "IPA - American"
 ---

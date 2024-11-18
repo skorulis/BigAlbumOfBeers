@@ -11,6 +11,6 @@ img: /img/list/blackmans-hawkers-juicy-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/blackman-s-brewery-blackman-s-brewery-juicy-west-coast-ipa/5598025"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackman-s-brewery.html"
 style: "IPA - American"
 ---

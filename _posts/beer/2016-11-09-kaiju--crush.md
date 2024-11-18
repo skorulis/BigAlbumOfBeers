@@ -11,6 +11,6 @@ img: /img/list/kaiju--crush.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-kaiju-krush/1843438"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kaiju--beer.html"
 style: "Pale Ale - American"
 ---

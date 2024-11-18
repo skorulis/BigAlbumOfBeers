@@ -11,6 +11,6 @@ img: /img/list/hansa-white-ipa.jpeg
 untappd: "https://untappd.com/b/hansa-borg-bryggerier-hansa-spesial-white-ipa/1414882"
 country: "Norway"
 brewery: "Hansa Borg Bryggerier"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hansa-borg-bryggerier.html"
 style: "IPA - White / Wheat"
 ---

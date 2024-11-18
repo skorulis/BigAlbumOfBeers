@@ -11,6 +11,6 @@ img: /img/list/badlands-u-boat.jpeg
 untappd: "https://untappd.com/b/badlands-brewery-u-boat/697226"
 country: "Australia"
 brewery: "Badlands Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/badlands-brewery.html"
 style: "Märzen"
 ---

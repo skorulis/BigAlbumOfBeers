@@ -11,6 +11,6 @@ img: /img/list/little-bang-icon.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-icon/891972"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-bang-brewing-co.html"
 style: "California Common"
 ---

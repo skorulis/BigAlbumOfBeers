@@ -11,6 +11,6 @@ img: /img/list/wayward-smokin-aces.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-smokin-aces/1783878"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Rauchbier"
 ---

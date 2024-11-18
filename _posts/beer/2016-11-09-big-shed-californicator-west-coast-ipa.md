@@ -11,6 +11,6 @@ img: /img/list/big-shed-californicator-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/big-shed-brewing-concern-californicator-west-coast-ipa/3880133"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
-breweryURL: "breweryURL"
+breweryURL: "brewery/big-shed-brewing-concern.html"
 style: "IPA - American"
 ---

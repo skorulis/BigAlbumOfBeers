@@ -11,6 +11,6 @@ img: /img/list/blackmans-reginald-ipa.jpeg
 untappd: "https://untappd.com/b/blackmans-brewery-reginald/787410"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackman-s-brewery.html"
 style: "IPA - American"
 ---

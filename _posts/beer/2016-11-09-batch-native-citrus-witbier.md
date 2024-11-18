@@ -11,6 +11,6 @@ img: /img/list/batch-native-citrus-witbier.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company--australia--small-batch-native-citrus---pepper-berry-australian-witbier/5385960"
 country: "Australia"
 brewery: "Batch Brewing Company (Australia)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company--australia.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

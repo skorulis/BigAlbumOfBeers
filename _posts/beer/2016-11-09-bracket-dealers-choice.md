@@ -11,6 +11,6 @@ img: /img/list/bracket-dealers-choice.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-dealers-choice/4786400"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

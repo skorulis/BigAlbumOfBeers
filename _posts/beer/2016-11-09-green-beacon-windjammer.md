@@ -11,6 +11,6 @@ img: /img/list/green-beacon-windjammer.jpeg
 untappd: "https://untappd.com/b/green-beacon-brewing-company-windjammer-/289601"
 country: "Australia"
 brewery: "Green Beacon Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/green-beacon-brewing-company.html"
 style: "IPA - American"
 ---

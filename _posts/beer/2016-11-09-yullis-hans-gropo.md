@@ -11,6 +11,6 @@ img: /img/list/yullis-hans-gropo.jpeg
 untappd: "https://untappd.com/b/yullis-brews-hans-gropo-farmhouse-quencher/2355440"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "Saison / Farmhouse Ale"
 ---

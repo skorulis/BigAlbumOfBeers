@@ -11,6 +11,6 @@ img: /img/list/2-halfs-brown-porter-nitro.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-brown-porter--nitro-/4313898"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "breweryURL"
+breweryURL: "brewery/2-halfs-brewing-distilling.html"
 style: "Porter - English"
 ---

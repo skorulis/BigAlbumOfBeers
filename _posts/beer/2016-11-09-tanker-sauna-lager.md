@@ -11,6 +11,6 @@ img: /img/list/tanker-sauna-lager.jpeg
 untappd: "https://untappd.com/b/tanker-brewery-tanker-brewery-tanker-sauna-lager/4752077"
 country: "Estonia"
 brewery: "Tanker Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tanker-brewery.html"
 style: "Lager - Helles"
 ---

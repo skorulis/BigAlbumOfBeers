@@ -11,6 +11,6 @@ img: /img/list/aegir-skjerdol.jpeg
 untappd: "https://untappd.com/b/aegir-bryggeri-skjerdol/1587272"
 country: "Norway"
 brewery: "Ægir Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/aegir-bryggeri.html"
 style: "Kölsch"
 ---

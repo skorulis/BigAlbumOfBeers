@@ -11,6 +11,6 @@ img: /img/list/hope-mango-sour.jpeg
 untappd: "https://untappd.com/b/hope-brewery-fka-mango-sour/2712476"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hope-brewery.html"
 style: "Sour - Berliner Weisse"
 ---

@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-beer-camp-2017-golden-ipa.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--beer-camp-golden-ipa--2017-/1884514"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sierra-nevada-brewing-co.html"
 style: "IPA - American"
 ---

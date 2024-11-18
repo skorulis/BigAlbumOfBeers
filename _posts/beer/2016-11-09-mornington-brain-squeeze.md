@@ -11,6 +11,6 @@ img: /img/list/mornington-brain-squeeze.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-brain-squeeze/1797359"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mornington-peninsula-brewery.html"
 style: "Sour - Ale"
 ---

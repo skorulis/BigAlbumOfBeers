@@ -11,6 +11,6 @@ img: /img/list/future-veg-out.jpeg
 untappd: "https://untappd.com/b/future-brewing-future-brewing-veg-out/5846077"
 country: "Australia"
 brewery: "Future Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/future-brewing.html"
 style: "Pale Ale - New England / Hazy"
 ---

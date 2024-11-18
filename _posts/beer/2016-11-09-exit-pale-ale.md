@@ -11,6 +11,6 @@ img: /img/list/exit-pale-ale.jpeg
 untappd: "https://untappd.com/b/exit-brewing-014-pale-ale/1824299"
 country: "Australia"
 brewery: "Exit Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/exit-brewing.html"
 style: "Pale Ale - American"
 ---

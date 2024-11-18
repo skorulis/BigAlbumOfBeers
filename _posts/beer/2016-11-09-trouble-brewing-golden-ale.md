@@ -11,6 +11,6 @@ img: /img/list/trouble-brewing-golden-ale.jpeg
 untappd: "https://untappd.com/b/trouble-brewing-deception-golden-ale/398230"
 country: "Ireland"
 brewery: "Trouble Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/trouble-brewing.html"
 style: "Golden Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/james-boag-xxx-ale.jpeg
 untappd: "https://untappd.com/b/j--boag---son-brewing-xxx-ale/14189"
 country: "Australia"
 brewery: "J. Boag & Son Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/j--boag---son-brewing.html"
 style: "Lager - Pale"
 ---

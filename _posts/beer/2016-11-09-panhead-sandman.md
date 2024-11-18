@@ -11,6 +11,6 @@ img: /img/list/panhead-sandman.jpeg
 untappd: "https://untappd.com/b/panhead-custom-ales-panhead-custom-ales-sandman-hazy-pale-ale/4584945"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
-breweryURL: "breweryURL"
+breweryURL: "brewery/panhead-custom-ales.html"
 style: "Pale Ale - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/holgate-millenium-falcon.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-millennium-falcon/313871"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/holgate-brewhouse.html"
 style: "IPA - Imperial / Double"
 ---

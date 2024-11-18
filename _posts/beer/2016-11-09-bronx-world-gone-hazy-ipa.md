@@ -11,6 +11,6 @@ img: /img/list/bronx-world-gone-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/the-bronx-brewery-the-bronx-brewery-world-gone-hazy/2778729"
 country: "United States"
 brewery: "The Bronx Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-bronx-brewery.html"
 style: "IPA - New England / Hazy"
 ---

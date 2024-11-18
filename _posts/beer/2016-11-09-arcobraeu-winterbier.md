@@ -11,6 +11,6 @@ img: /img/list/arcobraeu-winterbier.jpeg
 untappd: "https://untappd.com/b/arcobrau-grafliches-brauhaus-winterbier/84426"
 country: "Germany"
 brewery: "Arcobräu Gräfliches Brauhaus"
-breweryURL: "breweryURL"
+breweryURL: "brewery/arcobraeu-graefliches-brauhaus.html"
 style: "Lager - Winter"
 ---

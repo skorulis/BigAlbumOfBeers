@@ -11,6 +11,6 @@ img: /img/list/capital-brewing-rock-hopper.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-rock-hopper/2270792"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/capital-brewing-co.html"
 style: "IPA - American"
 ---

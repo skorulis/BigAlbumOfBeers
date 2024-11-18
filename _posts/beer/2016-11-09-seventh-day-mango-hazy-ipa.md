@@ -11,6 +11,6 @@ img: /img/list/seventh-day-mango-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/7th-day-brewing-mango-hazy-ipa/3695127"
 country: "Australia"
 brewery: "7th Day Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/7th-day-brewing.html"
 style: "IPA - New England / Hazy"
 ---

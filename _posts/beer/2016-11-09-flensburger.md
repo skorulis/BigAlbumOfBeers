@@ -11,6 +11,6 @@ img: /img/list/flensburger.jpeg
 untappd: "https://untappd.com/b/flensburger-brauerei-emil-petersen-pilsener/5311"
 country: "Germany"
 brewery: "Flensburger Brauerei Emil Petersen"
-breweryURL: "breweryURL"
+breweryURL: "brewery/flensburger-brauerei-emil-petersen.html"
 style: "Pilsner - German"
 ---

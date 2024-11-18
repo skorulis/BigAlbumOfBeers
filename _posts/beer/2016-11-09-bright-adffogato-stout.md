@@ -11,6 +11,6 @@ img: /img/list/bright-adffogato-stout.jpeg
 untappd: "https://untappd.com/b/bright-brewery-affogato-stout/3305767"
 country: "Australia"
 brewery: "Bright Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bright-brewery.html"
 style: "Stout - Coffee"
 ---

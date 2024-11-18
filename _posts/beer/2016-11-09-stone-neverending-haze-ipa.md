@@ -11,6 +11,6 @@ img: /img/list/stone-neverending-haze-ipa.jpeg
 untappd: "https://untappd.com/b/stone-brewing-stone-neverending-haze-ipa/3450359"
 country: "United States"
 brewery: "Stone Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stone-brewing.html"
 style: "IPA - Session / India Session Ale"
 ---

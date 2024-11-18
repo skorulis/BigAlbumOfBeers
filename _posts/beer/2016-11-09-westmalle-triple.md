@@ -11,6 +11,6 @@ img: /img/list/westmalle-triple.jpeg
 untappd: "https://untappd.com/b/brouwerij-der-trappisten-van-westmalle-westmalle-trappist-tripel/487"
 country: "Belgium"
 brewery: "Brouwerij der Trappisten van Westmalle"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-der-trappisten-van-westmalle.html"
 style: "Belgian Tripel"
 ---

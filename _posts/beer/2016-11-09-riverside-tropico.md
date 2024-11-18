@@ -11,6 +11,6 @@ img: /img/list/riverside-tropico.jpeg
 untappd: "https://untappd.com/b/riverside-brewing-company-tropico---juicy-ipa/3531335"
 country: "Australia"
 brewery: "Riverside Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/riverside-brewing-company.html"
 style: "IPA - New England"
 ---

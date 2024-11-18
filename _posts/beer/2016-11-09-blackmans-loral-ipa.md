@@ -11,6 +11,6 @@ img: /img/list/blackmans-loral-ipa.jpeg
 untappd: "https://untappd.com/b/blackmans-brewery-loral-ipa---single-hop/2261962"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackman-s-brewery.html"
 style: "IPA - American"
 ---

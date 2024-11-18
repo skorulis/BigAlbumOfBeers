@@ -11,6 +11,6 @@ img: /img/list/kanapinis.jpeg
 untappd: "https://untappd.com/b/aukstaitijos-bravorai-kanapinis-sviesus-alus/86088"
 country: "Lithuania"
 brewery: "Aukštaitijos Bravorai"
-breweryURL: "breweryURL"
+breweryURL: "brewery/aukstaitijos-bravorai.html"
 style: "Blonde Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bath-ales-gem.jpeg
 untappd: "https://untappd.com/b/bath-ales-gem/6248"
 country: "England"
 brewery: "Bath Ales"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bath-ales.html"
 style: "English Bitter"
 ---

@@ -11,6 +11,6 @@ img: /img/list/big-wave-golden-ale.jpeg
 untappd: "https://untappd.com/b/kona-brewing-company-big-wave-golden-ale/9657"
 country: "United States"
 brewery: "Kona Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kona-brewing-company.html"
 style: "Golden Ale"
 ---

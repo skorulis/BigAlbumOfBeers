@@ -11,6 +11,6 @@ img: /img/list/samuel-adams-boston-lager.jpeg
 untappd: "https://untappd.com/b/boston-beer-company-samuel-adams-boston-lager/3914"
 country: "United States"
 brewery: "Boston Beer Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/boston-beer-company.html"
 style: "Lager - Vienna"
 ---

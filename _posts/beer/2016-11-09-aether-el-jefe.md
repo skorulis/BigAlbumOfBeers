@@ -11,6 +11,6 @@ img: /img/list/aether-el-jefe.jpeg
 untappd: "https://untappd.com/b/aether-brewing-company-el-jefe/4268386"
 country: "Australia"
 brewery: "Aether Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/aether-brewing-company.html"
 style: "Lager - American"
 ---

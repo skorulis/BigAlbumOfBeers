@@ -11,6 +11,6 @@ img: /img/list/san-miguel.jpeg
 untappd: "https://untappd.com/b/carlsberg-uk-san-miguel/6439"
 country: "England"
 brewery: "Carlsberg UK"
-breweryURL: "breweryURL"
+breweryURL: "brewery/carlsberg-uk.html"
 style: "Lager - Euro"
 ---

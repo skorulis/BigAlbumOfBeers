@@ -11,6 +11,6 @@ img: /img/list/mountain-yeti-wild-citrus-ipa.jpeg
 untappd: "https://untappd.com/b/mountain-yeti-brewing-co--wild-citrus-ipa/5299158"
 country: "Australia"
 brewery: "Mountain Yeti Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-yeti-brewing-co.html"
 style: "IPA - Other"
 ---

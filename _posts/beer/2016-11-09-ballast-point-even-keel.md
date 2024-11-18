@@ -11,6 +11,6 @@ img: /img/list/ballast-point-even-keel.jpeg
 untappd: "https://untappd.com/b/ballast-point-brewing---spirits-even-keel/6508"
 country: "United States"
 brewery: "Ballast Point Brewing & Spirits"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ballast-point-brewing---spirits.html"
 style: "IPA - Session / India Session Ale"
 ---

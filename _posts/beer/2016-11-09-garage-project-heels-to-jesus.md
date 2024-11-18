@@ -11,6 +11,6 @@ img: /img/list/garage-project-heels-to-jesus.jpeg
 untappd: "https://untappd.com/b/garage-project-heels-to-jesus/2075264"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "Pale Ale - Belgian"
 ---

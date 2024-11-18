@@ -11,6 +11,6 @@ img: /img/list/black-hops-galactic-symphony.jpeg
 untappd: "https://untappd.com/b/black-hops-brewing-galactic-symphony/4754914"
 country: "Australia"
 brewery: "Black Hops Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/black-hops-brewing.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/atomic-t-wrecked.jpeg
 untappd: "https://untappd.com/b/atomic-beer-project-t-wrecked/4275171"
 country: "Australia"
 brewery: "Atomic Beer Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/atomic-beer-project.html"
 style: "IPA - Imperial / Double"
 ---

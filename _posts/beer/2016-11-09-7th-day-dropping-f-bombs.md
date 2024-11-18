@@ -11,6 +11,6 @@ img: /img/list/7th-day-dropping-f-bombs.jpeg
 untappd: "https://untappd.com/b/7th-day-brewing-dropping-f-bombs/4806376"
 country: "Australia"
 brewery: "7th Day Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/7th-day-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

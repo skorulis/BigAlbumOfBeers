@@ -11,6 +11,6 @@ img: /img/list/willie-the-boatman-planet-of-the-grapes.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-planet-of-the-grapes/2610409"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willie-the-boatman.html"
 style: "Saison / Farmhouse Ale"
 ---

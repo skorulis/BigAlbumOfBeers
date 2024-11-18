@@ -11,6 +11,6 @@ img: /img/list/yullis-brews-toby-s-crossing.jpeg
 untappd: "https://untappd.com/b/yullis-brews-toby-crossing--indian-pacific-ale/3680969"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "IPA - American"
 ---

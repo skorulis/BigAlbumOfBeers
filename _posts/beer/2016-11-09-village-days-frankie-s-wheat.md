@@ -11,6 +11,6 @@ img: /img/list/village-days-frankie-s-wheat.jpeg
 untappd: "https://untappd.com/b/village-days-brewing-co-village-days-brewing-co-frankie-s-wheat/5638849"
 country: "Australia"
 brewery: "Village Days Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/village-days-brewing-co.html"
 style: "Wheat Beer - Other"
 ---

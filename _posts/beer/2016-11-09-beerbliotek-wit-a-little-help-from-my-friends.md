@@ -11,6 +11,6 @@ img: /img/list/beerbliotek-wit-a-little-help-from-my-friends.jpeg
 untappd: "https://untappd.com/b/beerbliotek-wit-a-little-help-from-my-friends/5311297"
 country: "Sweden"
 brewery: "Beerbliotek"
-breweryURL: "breweryURL"
+breweryURL: "brewery/beerbliotek.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

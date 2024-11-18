@@ -11,6 +11,6 @@ img: /img/list/sunday-road-yule-fuel.jpeg
 untappd: "https://untappd.com/b/sunday-road-brewing-yule-fuel-cold-ipa/4618931"
 country: "Australia"
 brewery: "Sunday Road Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sunday-road-brewing.html"
 style: "IPA - International"
 ---

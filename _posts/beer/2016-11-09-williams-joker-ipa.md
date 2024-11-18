@@ -11,6 +11,6 @@ img: /img/list/williams-joker-ipa.jpeg
 untappd: "https://untappd.com/b/williams-brothers-brewing-co--joker-ipa/13049"
 country: "Scotland"
 brewery: "Williams Brothers Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/williams-brothers-brewing-co.html"
 style: "IPA - English"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mornington-larrikin.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-the-larrikin/3149482"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mornington-peninsula-brewery.html"
 style: "Brown Ale - Other"
 ---

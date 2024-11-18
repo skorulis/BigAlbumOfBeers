@@ -11,6 +11,6 @@ img: /img/list/warpigs-big-drunk-daddy.jpeg
 untappd: "https://untappd.com/b/warpigs-brewpub-big-drunk-daddy/5460166"
 country: "Denmark"
 brewery: "WarPigs Brewpub"
-breweryURL: "breweryURL"
+breweryURL: "brewery/warpigs-brewpub.html"
 style: "IPA - Triple"
 ---

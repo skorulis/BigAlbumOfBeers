@@ -11,6 +11,6 @@ img: /img/list/wayward-lumberjack.jpeg
 untappd: "https://untappd.com/b/bad-shepherd-brewing-co--lumberjack-canadian-ipa/3638358"
 country: "Australia"
 brewery: "Bad Shepherd Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bad-shepherd-brewing-co.html"
 style: "IPA - American"
 ---

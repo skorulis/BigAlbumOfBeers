@@ -11,6 +11,6 @@ img: /img/list/batch-tiny-coconut-bubbles.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-tiny-coconut-bubbles/1275769"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Fruit Beer"
 ---

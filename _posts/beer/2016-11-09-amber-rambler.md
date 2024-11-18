@@ -11,6 +11,6 @@ img: /img/list/amber-rambler.jpeg
 untappd: "https://untappd.com/b/moorhouses-brewery-amber-rambler/39170"
 country: "England"
 brewery: "Moorhouse's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moorhouse-s-brewery.html"
 style: "Pale Ale - English"
 ---

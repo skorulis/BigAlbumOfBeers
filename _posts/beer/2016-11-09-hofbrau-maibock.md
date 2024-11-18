@@ -11,6 +11,6 @@ img: /img/list/hofbrau-maibock.jpeg
 untappd: "https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-maibock/20290"
 country: "Germany"
 brewery: "Staatliches Hofbräuhaus München"
-breweryURL: "breweryURL"
+breweryURL: "brewery/staatliches-hofbraeuhaus-muenchen.html"
 style: "Bock - Hell / Maibock / Lentebock"
 ---

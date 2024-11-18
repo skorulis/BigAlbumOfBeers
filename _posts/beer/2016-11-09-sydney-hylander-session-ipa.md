@@ -11,6 +11,6 @@ img: /img/list/sydney-hylander-session-ipa.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-hylander-session-ipa/3437880"
 country: "Australia"
 brewery: "Sydney Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sydney-brewery.html"
 style: "IPA - Session / India Session Ale"
 ---

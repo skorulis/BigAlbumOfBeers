@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-powder-day-ipa.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--powder-day-ipa/4552863"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sierra-nevada-brewing-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brewdog-ace-of-simcoe.jpeg
 untappd: "https://untappd.com/b/brewdog-ace-of-simcoe/1458004"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewdog.html"
 style: "IPA - Session / India Session Ale"
 ---

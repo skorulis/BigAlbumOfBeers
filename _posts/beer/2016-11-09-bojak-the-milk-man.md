@@ -11,6 +11,6 @@ img: /img/list/bojak-the-milk-man.jpeg
 untappd: "https://untappd.com/b/bojak-brewing-the-milk-man/4409680"
 country: "Australia"
 brewery: "Bojak Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bojak-brewing.html"
 style: "Stout - Milk / Sweet"
 ---

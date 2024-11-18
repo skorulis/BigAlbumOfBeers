@@ -11,6 +11,6 @@ img: /img/list/rehn-smokey-ipa.jpeg
 untappd: "https://untappd.com/b/rehn-bier-smokey-ipa/1156837"
 country: "Australia"
 brewery: "Rehn Bier"
-breweryURL: "breweryURL"
+breweryURL: "brewery/rehn-bier.html"
 style: "Rauchbier"
 ---

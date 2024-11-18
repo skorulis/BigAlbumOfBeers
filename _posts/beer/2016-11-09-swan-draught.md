@@ -11,6 +11,6 @@ img: /img/list/swan-draught.jpeg
 untappd: "https://untappd.com/b/south-australian-brewing-co--swan-draught/2887"
 country: "Australia"
 brewery: "South Australian Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/south-australian-brewing-co.html"
 style: "Lager - Pale"
 ---

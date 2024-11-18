@@ -11,6 +11,6 @@ img: /img/list/mikkeller-hop-shop.jpeg
 untappd: "https://untappd.com/b/mikkeller-hop-shop/5205020"
 country: "Denmark"
 brewery: "Mikkeller"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mikkeller.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/4-pines-salted-caramel-porter.jpeg
 untappd: "https://untappd.com/b/4-pines-brewing-company-keller-door--salted-caramel-porter/4861826"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/4-pines-brewing-company.html"
 style: "Porter - Other"
 ---

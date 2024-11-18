@@ -11,6 +11,6 @@ img: /img/list/little-bang-50-dalrymples.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-50-dalrymples/1398082"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-bang-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

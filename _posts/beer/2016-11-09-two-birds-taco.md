@@ -11,6 +11,6 @@ img: /img/list/two-birds-taco.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-taco/364178"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/two-birds-brewing.html"
 style: "Other"
 ---

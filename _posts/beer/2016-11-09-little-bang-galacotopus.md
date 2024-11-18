@@ -11,6 +11,6 @@ img: /img/list/little-bang-galacotopus.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-galactopus/881398"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-bang-brewing-co.html"
 style: "Barleywine - American"
 ---

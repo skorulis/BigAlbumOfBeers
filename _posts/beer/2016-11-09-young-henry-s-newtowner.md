@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-newtowner.jpeg
 untappd: "https://untappd.com/b/young-henrys-brewing-company-newtowner/273570"
 country: "Australia"
 brewery: "Young Henrys Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/young-henrys-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

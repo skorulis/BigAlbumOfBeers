@@ -11,6 +11,6 @@ img: /img/list/mouseproof-nutcase.jpeg
 untappd: "https://untappd.com/b/mouse-proof-brewing-nut-case/4088221"
 country: "Australia"
 brewery: "Mouse Proof Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mouse-proof-brewing.html"
 style: "IPA - Red"
 ---

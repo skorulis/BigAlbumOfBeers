@@ -11,6 +11,6 @@ img: /img/list/wolf-of-the-willow-jalisco-sour.jpeg
 untappd: "https://untappd.com/b/wolf-of-the-willows-jalisco-sour/3170539"
 country: "Australia"
 brewery: "Wolf Of The Willows"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wolf-of-the-willows.html"
 style: "Sour - Other"
 ---

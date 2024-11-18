@@ -11,6 +11,6 @@ img: /img/list/heyday-galactic-grounds.jpeg
 untappd: "https://untappd.com/b/heyday-beer-co-heyday-beer-co-galactic-grounds-dirty-chai-latte/5818507"
 country: "New Zealand"
 brewery: "Heyday Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/heyday-beer-co.html"
 style: "Stout - Milk / Sweet"
 ---

@@ -11,6 +11,6 @@ img: /img/list/delerium-nocturnum.jpeg
 untappd: "https://untappd.com/b/brouwerij-huyghe-delirium-nocturnum/4486"
 country: "Belgium"
 brewery: "Brouwerij Huyghe"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-huyghe.html"
 style: "Belgian Strong Dark Ale"
 ---

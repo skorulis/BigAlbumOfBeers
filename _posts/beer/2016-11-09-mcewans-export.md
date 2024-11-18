@@ -11,6 +11,6 @@ img: /img/list/mcewans-export.jpeg
 untappd: "https://untappd.com/b/charles-wells-brewery-mcewans-export/62852"
 country: "England"
 brewery: "Charles Wells Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/charles-wells-brewery.html"
 style: "Scottish Export Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bentspoke-bent-shovel.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-bent-shovel/3100996"
 country: "Australia"
 brewery: "BentSpoke Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bentspoke-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 ---

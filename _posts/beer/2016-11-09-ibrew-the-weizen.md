@@ -11,6 +11,6 @@ img: /img/list/ibrew-the-weizen.jpeg
 untappd: "https://untappd.com/b/ibrew-house-beer-the--weizen/4666403"
 country: "Japan"
 brewery: "IBREW HOUSE BEER"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ibrew-house-beer.html"
 style: "Wheat Beer - Hefeweizen"
 ---

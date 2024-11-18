@@ -11,6 +11,6 @@ img: /img/list/3-ravens-xmas-trifle-shake.jpeg
 untappd: "https://untappd.com/b/3-ravens-brewery-xmas-trifle/2932352"
 country: "Australia"
 brewery: "3 Ravens Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/3-ravens-brewery.html"
 style: "IPA - Milkshake"
 ---

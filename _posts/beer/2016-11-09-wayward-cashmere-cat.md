@@ -11,6 +11,6 @@ img: /img/list/wayward-cashmere-cat.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-cashmere-cat/3021988"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "IPA - New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/stone-and-wood-cloud-catcher.jpeg
 untappd: "https://untappd.com/b/stone---wood-cloud-catcher/732573"
 country: "Australia"
 brewery: "Stone & Wood"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stone---wood.html"
 style: "Pale Ale - Australian"
 ---

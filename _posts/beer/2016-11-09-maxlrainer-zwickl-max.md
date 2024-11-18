@@ -11,6 +11,6 @@ img: /img/list/maxlrainer-zwickl-max.jpeg
 untappd: "https://untappd.com/b/schlossbrauerei-maxlrain-maxlrainer-zwickl-max/97550"
 country: "Germany"
 brewery: "Schlossbrauerei Maxlrain"
-breweryURL: "breweryURL"
+breweryURL: "brewery/schlossbrauerei-maxlrain.html"
 style: "Kellerbier / Zwickelbier"
 ---

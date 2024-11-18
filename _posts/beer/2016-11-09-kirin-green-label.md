@@ -11,6 +11,6 @@ img: /img/list/kirin-green-label.jpeg
 untappd: "https://untappd.com/b/kirin-brewery-company-tanrei-green-label/9162"
 country: "Japan"
 brewery: "Kirin Brewery Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kirin-brewery-company.html"
 style: "Happoshu"
 ---

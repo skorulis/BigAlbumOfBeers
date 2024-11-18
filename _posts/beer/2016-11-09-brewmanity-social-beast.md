@@ -11,6 +11,6 @@ img: /img/list/brewmanity-social-beast.jpeg
 untappd: "https://untappd.com/b/brewmanity-social-beast/1785325"
 country: "Australia"
 brewery: "Brewmanity"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewmanity.html"
 style: "Pale Ale - Australian"
 ---

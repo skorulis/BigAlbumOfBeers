@@ -11,6 +11,6 @@ img: /img/list/big-shed-golden-stout-time.jpeg
 untappd: "https://untappd.com/b/big-shed-brewing-concern-golden-stout-time/1057990"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
-breweryURL: "breweryURL"
+breweryURL: "brewery/big-shed-brewing-concern.html"
 style: "Stout - Other"
 ---

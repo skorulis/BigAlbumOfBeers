@@ -11,6 +11,6 @@ img: /img/list/o-k-beer-okocim.jpeg
 untappd: "https://untappd.com/b/browar-okocim--carlsberg-polska--okocim-o-k--beer/1898"
 country: "Poland"
 brewery: "Browar Okocim (Carlsberg Polska)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/browar-okocim--carlsberg-polska.html"
 style: "Lager - Pale"
 ---

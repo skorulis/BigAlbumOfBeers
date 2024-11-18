@@ -11,6 +11,6 @@ img: /img/list/boatrocker-stout.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewers---distillers-stout/2009869"
 country: "Australia"
 brewery: "Boatrocker Brewers & Distillers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/boatrocker-brewers---distillers.html"
 style: "Stout - Other"
 ---

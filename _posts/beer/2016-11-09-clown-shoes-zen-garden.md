@@ -11,6 +11,6 @@ img: /img/list/clown-shoes-zen-garden.jpeg
 untappd: "https://untappd.com/b/clown-shoes-zen-garden/3070777"
 country: "United States"
 brewery: "Clown Shoes"
-breweryURL: "breweryURL"
+breweryURL: "brewery/clown-shoes.html"
 style: "IPA - New England"
 ---

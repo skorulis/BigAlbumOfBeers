@@ -11,6 +11,6 @@ img: /img/list/capital-smooches.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-smooches/4817894"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/capital-brewing-co.html"
 style: "Bière de Champagne / Bière Brut"
 ---

@@ -11,6 +11,6 @@ img: /img/list/shambles-barry-white.jpeg
 untappd: "https://untappd.com/b/shambles-brewery-barry-white/1443128"
 country: "Australia"
 brewery: "Shambles Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/shambles-brewery.html"
 style: "Porter - English"
 ---

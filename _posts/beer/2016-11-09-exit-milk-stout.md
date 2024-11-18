@@ -11,6 +11,6 @@ img: /img/list/exit-milk-stout.jpeg
 untappd: "https://untappd.com/b/exit-brewing-milk-stout/1517951"
 country: "Australia"
 brewery: "Exit Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/exit-brewing.html"
 style: "Stout - Milk / Sweet"
 ---

@@ -11,6 +11,6 @@ img: /img/list/blackfont-saison-de-ville.jpeg
 untappd: "https://untappd.com/b/blackfont-brewhouse-saison-de-ville/1328437"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackfont-brewhouse.html"
 style: "Saison / Farmhouse Ale"
 ---

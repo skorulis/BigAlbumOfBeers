@@ -11,6 +11,6 @@ img: /img/list/five-lamps.jpeg
 untappd: "https://untappd.com/b/the-5-lamps-dublin-brewery-five-lamps-dublin-lager/305906"
 country: "Ireland"
 brewery: "The 5 Lamps Dublin Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-5-lamps-dublin-brewery.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/cascade-stout.jpeg
 untappd: "https://untappd.com/b/cascade-brewery-co---australia--cascade-stout/57106"
 country: "Australia"
 brewery: "Cascade Brewery Co. (Australia)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cascade-brewery-co---australia.html"
 style: "Stout - Other"
 ---

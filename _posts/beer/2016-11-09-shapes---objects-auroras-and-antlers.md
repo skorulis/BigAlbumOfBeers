@@ -11,6 +11,6 @@ img: /img/list/shapes---objects-auroras-and-antlers.jpeg
 untappd: "https://untappd.com/b/shapes---objects-beer-co-auroras---antlers/5462456"
 country: "Sweden"
 brewery: "Shapes & Objects Beer Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/shapes---objects-beer-co.html"
 style: "IPA - American"
 ---

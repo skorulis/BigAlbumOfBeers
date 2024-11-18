@@ -11,6 +11,6 @@ img: /img/list/hope-lager.jpeg
 untappd: "https://untappd.com/b/hope-brewery-lager/982224"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hope-brewery.html"
 style: "Lager - Helles"
 ---

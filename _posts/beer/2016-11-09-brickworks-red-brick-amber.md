@@ -11,6 +11,6 @@ img: /img/list/brickworks-red-brick-amber.jpeg
 untappd: "https://untappd.com/b/brickworks-brewing-co--red-brick-amber-ale/4116290"
 country: "Australia"
 brewery: "Brickworks Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/brickworks-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 ---

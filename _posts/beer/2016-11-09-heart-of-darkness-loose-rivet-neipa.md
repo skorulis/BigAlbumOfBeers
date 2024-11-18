@@ -11,6 +11,6 @@ img: /img/list/heart-of-darkness-loose-rivet-neipa.jpeg
 untappd: "https://untappd.com/b/heart-of-darkness-brewery-saigon-loose-rivet-ipa/2213431"
 country: "Vietnam"
 brewery: "Heart of Darkness Brewery Saigon"
-breweryURL: "breweryURL"
+breweryURL: "brewery/heart-of-darkness-brewery-saigon.html"
 style: "IPA - New England"
 ---

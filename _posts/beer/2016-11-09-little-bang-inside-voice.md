@@ -11,6 +11,6 @@ img: /img/list/little-bang-inside-voice.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-inside-voice/3324944"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-bang-brewing-co.html"
 style: "Stout - Foreign / Export"
 ---

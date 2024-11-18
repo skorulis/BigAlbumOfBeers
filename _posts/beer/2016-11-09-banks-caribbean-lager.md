@@ -11,6 +11,6 @@ img: /img/list/banks-caribbean-lager.jpeg
 untappd: "https://untappd.com/b/banks--barbados--breweries-caribbean-lager/17620"
 country: "Barbados"
 brewery: "Banks (Barbados) Breweries"
-breweryURL: "breweryURL"
+breweryURL: "brewery/banks--barbados--breweries.html"
 style: "Lager - North American Adjunct"
 ---

@@ -11,6 +11,6 @@ img: /img/list/sauce-chill-factor.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-chill-factor-cold-ipa/4677246"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sauce-brewing-co.html"
 style: "IPA - Cold"
 ---

@@ -11,6 +11,6 @@ img: /img/list/helios-emeraldas-red-ale.jpeg
 untappd: "https://untappd.com/b/helios-distillery-co--galaxy-express-999-emeraldas-redale-/4707334"
 country: "Japan"
 brewery: "Helios Distillery Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/helios-distillery-co.html"
 style: "Red Ale - American Amber / Red"
 ---

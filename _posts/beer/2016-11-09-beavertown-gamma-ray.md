@@ -11,6 +11,6 @@ img: /img/list/beavertown-gamma-ray.jpeg
 untappd: "https://untappd.com/b/beavertown-gamma-ray/237500"
 country: "England"
 brewery: "Beavertown"
-breweryURL: "breweryURL"
+breweryURL: "brewery/beavertown.html"
 style: "Pale Ale - American"
 ---

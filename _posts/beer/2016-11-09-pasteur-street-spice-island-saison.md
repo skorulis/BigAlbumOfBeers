@@ -11,6 +11,6 @@ img: /img/list/pasteur-street-spice-island-saison.jpeg
 untappd: "https://untappd.com/b/pasteur-street-brewing-company-spice-island-saison/1454480"
 country: "Vietnam"
 brewery: "Pasteur Street Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pasteur-street-brewing-company.html"
 style: "Saison / Farmhouse Ale"
 ---

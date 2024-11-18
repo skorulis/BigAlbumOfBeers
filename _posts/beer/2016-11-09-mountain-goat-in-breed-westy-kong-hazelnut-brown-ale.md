@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-in-breed-westy-kong-hazelnut-brown-ale.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-in-breed-westy-kong-hazelnut-brown-ale/2723461"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-goat-beer.html"
 style: "Brown Ale - Other"
 ---

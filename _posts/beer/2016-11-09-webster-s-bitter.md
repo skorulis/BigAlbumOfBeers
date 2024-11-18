@@ -11,6 +11,6 @@ img: /img/list/webster-s-bitter.jpeg
 untappd: "https://untappd.com/b/john-smiths-websters-yorkshire-bitter/390603"
 country: "England"
 brewery: "John Smith's"
-breweryURL: "breweryURL"
+breweryURL: "brewery/john-smith-s.html"
 style: "English Bitter"
 ---

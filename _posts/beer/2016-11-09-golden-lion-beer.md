@@ -11,6 +11,6 @@ img: /img/list/golden-lion-beer.jpeg
 untappd: "https://untappd.com/b/browar-amber-zlote-lwy--golden-lion/156941"
 country: "Poland"
 brewery: "Browar Amber"
-breweryURL: "breweryURL"
+breweryURL: "brewery/browar-amber.html"
 style: "Lager - Pale"
 ---

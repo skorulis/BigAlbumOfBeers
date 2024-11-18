@@ -11,6 +11,6 @@ img: /img/list/m-s-citrus-pale.jpeg
 untappd: "https://untappd.com/b/marks---spencer-citrus-pale-ale--fourpure-/4301353"
 country: "England"
 brewery: "Marks & Spencer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/marks---spencer.html"
 style: "Pale Ale - American"
 ---

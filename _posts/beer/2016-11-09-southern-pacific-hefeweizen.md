@@ -11,6 +11,6 @@ img: /img/list/southern-pacific-hefeweizen.jpeg
 untappd: "https://untappd.com/b/southern-pacific-brewing-hefeweizen/193614"
 country: "United States"
 brewery: "Southern Pacific Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/southern-pacific-brewing.html"
 style: "Wheat Beer - Hefeweizen"
 ---

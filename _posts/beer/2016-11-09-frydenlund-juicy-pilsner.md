@@ -11,6 +11,6 @@ img: /img/list/frydenlund-juicy-pilsner.jpeg
 untappd: "https://untappd.com/b/frydenlund-bryggerier-juicy-pilsner/5322368"
 country: "Norway"
 brewery: "Frydenlund Bryggerier"
-breweryURL: "breweryURL"
+breweryURL: "brewery/frydenlund-bryggerier.html"
 style: "Pilsner - Other"
 ---

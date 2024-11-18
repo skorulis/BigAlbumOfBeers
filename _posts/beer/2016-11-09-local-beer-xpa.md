@@ -11,6 +11,6 @@ img: /img/list/local-beer-xpa.jpeg
 untappd: "https://untappd.com/b/a-local-beer-xpa/4036362"
 country: "Australia"
 brewery: "A Local Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/a-local-beer.html"
 style: "Pale Ale - International"
 ---

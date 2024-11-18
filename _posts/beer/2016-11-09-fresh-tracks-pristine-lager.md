@@ -11,6 +11,6 @@ img: /img/list/fresh-tracks-pristine-lager.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-group--woolworths--fresh-tracks-pristine-lager/4272909"
 country: "Australia"
 brewery: "Pinnacle Drinks Group (Woolworths)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pinnacle-drinks-group--woolworths.html"
 style: "Lager - Pale"
 ---

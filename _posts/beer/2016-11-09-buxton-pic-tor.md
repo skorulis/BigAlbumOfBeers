@@ -11,6 +11,6 @@ img: /img/list/buxton-pic-tor.jpeg
 untappd: "https://untappd.com/b/buxton-brewery-pic-tor/1042834"
 country: "England"
 brewery: "Buxton Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/buxton-brewery.html"
 style: "Sour - Ale"
 ---

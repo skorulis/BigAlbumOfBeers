@@ -11,6 +11,6 @@ img: /img/list/molson-canadian.jpeg
 untappd: "https://untappd.com/b/molson-coors-canada-molson-canadian/3836"
 country: "Canada"
 brewery: "Molson Coors Canada"
-breweryURL: "breweryURL"
+breweryURL: "brewery/molson-coors-canada.html"
 style: "Lager - North American Adjunct"
 ---

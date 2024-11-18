@@ -11,6 +11,6 @@ img: /img/list/canyon-vacation-pale-ale.jpeg
 untappd: "https://untappd.com/b/canyon-brewing-vacation-hazy-pale-ale/4618969"
 country: "New Zealand"
 brewery: "Canyon Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/canyon-brewing.html"
 style: "Pale Ale - New England / Hazy"
 ---

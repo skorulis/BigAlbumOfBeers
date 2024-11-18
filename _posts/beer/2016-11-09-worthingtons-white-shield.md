@@ -11,6 +11,6 @@ img: /img/list/worthingtons-white-shield.jpeg
 untappd: "https://untappd.com/b/worthingtons-white-shield/15084"
 country: "England"
 brewery: "Worthington's"
-breweryURL: "breweryURL"
+breweryURL: "brewery/worthington-s.html"
 style: "IPA - English"
 ---

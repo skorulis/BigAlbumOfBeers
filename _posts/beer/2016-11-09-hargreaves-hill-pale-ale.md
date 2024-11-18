@@ -11,6 +11,6 @@ img: /img/list/hargreaves-hill-pale-ale.jpeg
 untappd: "https://untappd.com/b/hargreaves-hill-brewing-company-pty--ltd--pale-ale/26632"
 country: "Australia"
 brewery: "Hargreaves Hill Brewing Company Pty. Ltd."
-breweryURL: "breweryURL"
+breweryURL: "brewery/hargreaves-hill-brewing-company-pty--ltd.html"
 style: "Pale Ale - American"
 ---

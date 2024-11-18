@@ -11,6 +11,6 @@ img: /img/list/drakes-1500-pale-ale.jpeg
 untappd: "https://untappd.com/b/drakes-brewing-company-1500/6914"
 country: "United States"
 brewery: "Drake's Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/drake-s-brewing-company.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/ballistic-pale-ale.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-pale-ale/2477207"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ballistic-beer.html"
 style: "Pale Ale - Australian"
 ---

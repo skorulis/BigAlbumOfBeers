@@ -11,6 +11,6 @@ img: /img/list/courage-light-ale.jpeg
 untappd: "https://untappd.com/b/charles-wells-brewery-courage-light-ale/113545"
 country: "England"
 brewery: "Charles Wells Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/charles-wells-brewery.html"
 style: "English Bitter"
 ---

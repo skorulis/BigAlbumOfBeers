@@ -11,6 +11,6 @@ img: /img/list/legal-tender.jpeg
 untappd: "https://untappd.com/b/bankstown-sports--legal-tender/1490972"
 country: "Australia"
 brewery: "Bankstown Sports "
-breweryURL: "breweryURL"
+breweryURL: "brewery/bankstown-sports-.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/arcobraeu-schloss-hell.jpeg
 untappd: "https://untappd.com/b/arcobrau-grafliches-brauhaus-schloss-hell/84421"
 country: "Germany"
 brewery: "Arcobräu Gräfliches Brauhaus"
-breweryURL: "breweryURL"
+breweryURL: "brewery/arcobraeu-graefliches-brauhaus.html"
 style: "Lager - Helles"
 ---

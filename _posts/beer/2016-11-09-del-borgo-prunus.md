@@ -11,6 +11,6 @@ img: /img/list/del-borgo-prunus.jpeg
 untappd: "https://untappd.com/b/birra-del-borgo-prunus/303022"
 country: "Italy"
 brewery: "Birra del Borgo"
-breweryURL: "breweryURL"
+breweryURL: "brewery/birra-del-borgo.html"
 style: "Sour - Ale"
 ---

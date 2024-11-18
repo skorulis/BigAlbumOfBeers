@@ -11,6 +11,6 @@ img: /img/list/social-bandit-passive-aggressive.jpeg
 untappd: "https://untappd.com/b/social-bandit-brewing-company--passive-aggressive/3552785"
 country: "Australia"
 brewery: "Social Bandit Brewing Company "
-breweryURL: "breweryURL"
+breweryURL: "brewery/social-bandit-brewing-company-.html"
 style: "Sour - Other"
 ---

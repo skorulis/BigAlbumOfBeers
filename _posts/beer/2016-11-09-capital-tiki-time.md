@@ -11,6 +11,6 @@ img: /img/list/capital-tiki-time.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-tiki-time/4506328"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/capital-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

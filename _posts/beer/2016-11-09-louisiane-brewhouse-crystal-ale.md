@@ -11,6 +11,6 @@ img: /img/list/louisiane-brewhouse-crystal-ale.jpeg
 untappd: "https://untappd.com/b/louisiane-brewhouse-crystal-ale/398841"
 country: "Vietnam"
 brewery: "Louisiane Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/louisiane-brewhouse.html"
 style: "Red Ale - American Amber / Red"
 ---

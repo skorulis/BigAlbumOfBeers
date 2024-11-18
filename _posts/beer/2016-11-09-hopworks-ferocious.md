@@ -11,6 +11,6 @@ img: /img/list/hopworks-ferocious.jpeg
 untappd: "https://untappd.com/b/hopworks-urban-brewery-ferocious-citrus-blood-orange-ipa/3561880"
 country: "United States"
 brewery: "Hopworks Urban Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hopworks-urban-brewery.html"
 style: "IPA - American"
 ---

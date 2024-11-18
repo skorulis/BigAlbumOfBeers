@@ -11,6 +11,6 @@ img: /img/list/beerbliotek-black-ale-chilli.jpeg
 untappd: "https://untappd.com/b/beerbliotek-black-ale-chilli/326642"
 country: "Sweden"
 brewery: "Beerbliotek"
-breweryURL: "breweryURL"
+breweryURL: "brewery/beerbliotek.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brick-lane-stereobreaker.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--stereobreaker-rye-pale-ale/4346944"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/brick-lane-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

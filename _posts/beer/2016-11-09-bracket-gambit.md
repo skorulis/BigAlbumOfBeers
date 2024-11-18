@@ -11,6 +11,6 @@ img: /img/list/bracket-gambit.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-gambit/5217746"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

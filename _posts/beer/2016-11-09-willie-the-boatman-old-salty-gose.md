@@ -11,6 +11,6 @@ img: /img/list/willie-the-boatman-old-salty-gose.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-old-salty/851392"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willie-the-boatman.html"
 style: "Sour - Gose"
 ---

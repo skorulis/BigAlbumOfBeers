@@ -11,6 +11,6 @@ img: /img/list/venom-refreshing-ale.jpeg
 untappd: "https://untappd.com/b/venom-brewing-refreshing-ale/2132232"
 country: "Australia"
 brewery: "Venom Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/venom-brewing.html"
 style: "Kölsch"
 ---

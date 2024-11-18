@@ -11,6 +11,6 @@ img: /img/list/grimbergen-double.jpeg
 untappd: "https://untappd.com/b/brouwerij-alken-maes-grimbergen-dubbel/7364"
 country: "Belgium"
 brewery: "Brouwerij Alken-Maes"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-alken-maes.html"
 style: "Belgian Dubbel"
 ---

@@ -11,6 +11,6 @@ img: /img/list/batch-campos-milk-stout.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-campos-milk-stout/3218682"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Stout - Milk / Sweet"
 ---

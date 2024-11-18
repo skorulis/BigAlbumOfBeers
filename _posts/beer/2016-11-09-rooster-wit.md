@@ -11,6 +11,6 @@ img: /img/list/rooster-wit.jpeg
 untappd: "https://untappd.com/b/rooster-beers--rooster-wit/2377771"
 country: "Vietnam"
 brewery: "Rooster Beers "
-breweryURL: "breweryURL"
+breweryURL: "brewery/rooster-beers-.html"
 style: "Belgian Blond(e)"
 ---

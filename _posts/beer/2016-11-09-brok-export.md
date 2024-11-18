@@ -11,6 +11,6 @@ img: /img/list/brok-export.jpeg
 untappd: "https://untappd.com/b/browar-w-koszalinie--van-pur--brok-export/85096"
 country: "Poland"
 brewery: "Browar w Koszalinie (Van Pur)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/browar-w-koszalinie--van-pur.html"
 style: "Lager - Euro"
 ---

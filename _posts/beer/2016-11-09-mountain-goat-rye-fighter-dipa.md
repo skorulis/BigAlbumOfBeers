@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-rye-fighter-dipa.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-rare-breed--rye-fighter-double-ipa/2564248"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-goat-beer.html"
 style: "IPA - Imperial / Double"
 ---

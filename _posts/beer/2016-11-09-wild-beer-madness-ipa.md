@@ -11,6 +11,6 @@ img: /img/list/wild-beer-madness-ipa.jpeg
 untappd: "https://untappd.com/b/the-wild-beer-co-madness-ipa/281689"
 country: "England"
 brewery: "The Wild Beer Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-wild-beer-co.html"
 style: "IPA - American"
 ---

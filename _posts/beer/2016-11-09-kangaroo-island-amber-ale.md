@@ -11,6 +11,6 @@ img: /img/list/kangaroo-island-amber-ale.jpeg
 untappd: "https://untappd.com/b/kangaroo-island-brewery-amber-ale/1546173"
 country: "Australia"
 brewery: "Kangaroo Island Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kangaroo-island-brewery.html"
 style: "Red Ale - Other"
 ---

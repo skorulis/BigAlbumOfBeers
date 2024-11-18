@@ -11,6 +11,6 @@ img: /img/list/amber-pils.jpeg
 untappd: "https://untappd.com/b/browar-amber-amber-chmielowy--amber-pils-beer/398331"
 country: "Poland"
 brewery: "Browar Amber"
-breweryURL: "breweryURL"
+breweryURL: "brewery/browar-amber.html"
 style: "Pilsner - Other"
 ---

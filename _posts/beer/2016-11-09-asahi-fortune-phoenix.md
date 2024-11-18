@@ -11,6 +11,6 @@ img: /img/list/asahi-fortune-phoenix.jpeg
 untappd: "https://untappd.com/b/asahi-breweries-asahi-kuronama---/18884"
 country: "Japan"
 brewery: "Asahi Breweries"
-breweryURL: "breweryURL"
+breweryURL: "brewery/asahi-breweries.html"
 style: "Lager - Munich Dunkel"
 ---

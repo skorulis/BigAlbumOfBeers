@@ -11,6 +11,6 @@ img: /img/list/little-brewing-galaxy-ipa.jpeg
 untappd: "https://untappd.com/b/the-little-brewing-company-galaxy-ipa/1258013"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-little-brewing-company.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/two-mates-lager-than-life.jpeg
 untappd: "https://untappd.com/b/two-mates-brewing-two-mates-brewing-lager-than-life/4646606"
 country: "Australia"
 brewery: "Two Mates Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/two-mates-brewing.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/the-grifter-pale-ale.jpeg
 untappd: "https://untappd.com/b/grifter-brewing-company-pale-ale/189684"
 country: "Australia"
 brewery: "Grifter Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/grifter-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

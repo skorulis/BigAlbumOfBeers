@@ -11,6 +11,6 @@ img: /img/list/slow-lane-pass-the-bock.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-slow-lane-brewing-pass-the-bock/5607107"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slow-lane-brewing.html"
 style: "Bock - Single / Traditional"
 ---

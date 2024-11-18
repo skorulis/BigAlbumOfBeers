@@ -11,6 +11,6 @@ img: /img/list/aecht-schelnkerla-rauchbier.jpeg
 untappd: "https://untappd.com/b/schlenkerla--heller-brau-trum--aecht-schlenkerla-rauchbier---marzen/471"
 country: "Germany"
 brewery: "Schlenkerla ("Heller-Bräu" Trum)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/schlenkerla--heller-braeu--trum.html"
 style: "Rauchbier"
 ---

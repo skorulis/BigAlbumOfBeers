@@ -11,6 +11,6 @@ img: /img/list/batch-seeing-red-ira.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-seeing-red-ira/1447473"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Red Ale - Imperial / Double"
 ---

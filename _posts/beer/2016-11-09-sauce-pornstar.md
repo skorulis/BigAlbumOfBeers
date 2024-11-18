@@ -11,6 +11,6 @@ img: /img/list/sauce-pornstar.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-pornstar-ipa/5252600"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sauce-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

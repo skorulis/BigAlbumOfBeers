@@ -11,6 +11,6 @@ img: /img/list/pedlars-pale.jpeg
 untappd: "https://untappd.com/b/barrow-boys-brewing-pedlars-pale/829354"
 country: "Australia"
 brewery: "Barrow Boys Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/barrow-boys-brewing.html"
 style: "Pale Ale - American"
 ---

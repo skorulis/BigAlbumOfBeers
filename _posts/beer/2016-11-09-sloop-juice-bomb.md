@@ -11,6 +11,6 @@ img: /img/list/sloop-juice-bomb.jpeg
 untappd: "https://untappd.com/b/sloop-brewing-co-sloop-brewing-co-juice-bomb/1444716"
 country: "United States"
 brewery: "Sloop Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sloop-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

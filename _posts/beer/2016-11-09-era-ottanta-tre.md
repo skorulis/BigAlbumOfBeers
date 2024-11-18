@@ -11,6 +11,6 @@ img: /img/list/era-ottanta-tre.jpeg
 untappd: "https://untappd.com/b/doreca-era-ottanta-tre/1614045"
 country: "Italy"
 brewery: "Doreca"
-breweryURL: "breweryURL"
+breweryURL: "brewery/doreca.html"
 style: "Pilsner - Other"
 ---

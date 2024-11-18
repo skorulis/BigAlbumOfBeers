@@ -11,6 +11,6 @@ img: /img/list/bracket-deal-with-it.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-deal-with-it/5154737"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Stout - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/beerfarm-milk-stout.jpeg
 untappd: "https://untappd.com/b/beerfarm-milk-stout/1550109"
 country: "Australia"
 brewery: "Beerfarm"
-breweryURL: "breweryURL"
+breweryURL: "brewery/beerfarm.html"
 style: "Stout - Milk / Sweet"
 ---

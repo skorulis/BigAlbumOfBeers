@@ -11,6 +11,6 @@ img: /img/list/pasteur-st-coffee-porter.jpeg
 untappd: "https://untappd.com/b/pasteur-street-brewing-company-coffee-porter/1454475"
 country: "Vietnam"
 brewery: "Pasteur Street Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pasteur-street-brewing-company.html"
 style: "Porter - Other"
 ---

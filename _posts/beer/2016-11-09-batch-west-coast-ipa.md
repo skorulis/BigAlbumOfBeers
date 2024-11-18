@@ -11,6 +11,6 @@ img: /img/list/batch-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-west-coast-ipa/846963"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "IPA - American"
 ---

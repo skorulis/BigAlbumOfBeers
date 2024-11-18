@@ -11,6 +11,6 @@ img: /img/list/balter-hazy-dc.jpeg
 untappd: "https://untappd.com/b/balter-brewing-company-hazydc/3035021"
 country: "Australia"
 brewery: "Balter Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/balter-brewing-company.html"
 style: "IPA - New England"
 ---

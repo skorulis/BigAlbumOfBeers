@@ -11,6 +11,6 @@ img: /img/list/nomad-budgy-smuggler.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--budgy-smuggler-pale-ale/3529578"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hitachino-japaneses-classic-ale.jpeg
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-japanese-classic-ale/867"
 country: "Japan"
 brewery: "Kiuchi Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kiuchi-brewery.html"
 style: "IPA - International"
 ---

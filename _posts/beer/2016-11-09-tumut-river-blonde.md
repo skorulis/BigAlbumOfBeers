@@ -11,6 +11,6 @@ img: /img/list/tumut-river-blonde.jpeg
 untappd: "https://untappd.com/b/tumut-river-brewing-co-blowering-blonde/835210"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tumut-river-brewing-co.html"
 style: "Blonde Ale"
 ---

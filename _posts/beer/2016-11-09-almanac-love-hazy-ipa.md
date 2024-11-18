@@ -11,6 +11,6 @@ img: /img/list/almanac-love-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/almanac-almanac-love-hazy-ipa/2762971"
 country: "United States"
 brewery: "Almanac"
-breweryURL: "breweryURL"
+breweryURL: "brewery/almanac.html"
 style: "IPA - New England / Hazy"
 ---

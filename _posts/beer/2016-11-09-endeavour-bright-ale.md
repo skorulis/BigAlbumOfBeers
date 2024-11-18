@@ -11,6 +11,6 @@ img: /img/list/endeavour-bright-ale.jpeg
 untappd: "https://untappd.com/b/endeavour-vintage-beer-co--2014-growers-bright-ale/848185"
 country: "Australia"
 brewery: "ENDEAVOUR Vintage Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/endeavour-vintage-beer-co.html"
 style: "Pale Ale - Australian"
 ---

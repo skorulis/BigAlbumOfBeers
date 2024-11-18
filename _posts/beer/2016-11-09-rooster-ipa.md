@@ -11,6 +11,6 @@ img: /img/list/rooster-ipa.jpeg
 untappd: "https://untappd.com/b/rooster-beers--rooster-ipa/2377772"
 country: "Vietnam"
 brewery: "Rooster Beers "
-breweryURL: "breweryURL"
+breweryURL: "brewery/rooster-beers-.html"
 style: "IPA - American"
 ---

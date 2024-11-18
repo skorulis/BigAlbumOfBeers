@@ -11,6 +11,6 @@ img: /img/list/boondoggle-blonde-ale.jpeg
 untappd: "https://untappd.com/b/ringwood-brewery-boondoggle/21840"
 country: "England"
 brewery: "Ringwood Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ringwood-brewery.html"
 style: "Blonde Ale"
 ---

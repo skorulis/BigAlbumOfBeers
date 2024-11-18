@@ -11,6 +11,6 @@ img: /img/list/reckless-black-ipa.jpeg
 untappd: "https://untappd.com/b/reckless-brewing-co-reckless-brewing-co-black-ipa/5612070"
 country: "Australia"
 brewery: "Reckless Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/reckless-brewing-co.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

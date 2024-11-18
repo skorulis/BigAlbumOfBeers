@@ -11,6 +11,6 @@ img: /img/list/2-halfs-fields-of-dream.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-2-halfs-brewing-distilling-fields-of-dream-2024/5817889"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "breweryURL"
+breweryURL: "brewery/2-halfs-brewing-distilling.html"
 style: "IPA - American"
 ---

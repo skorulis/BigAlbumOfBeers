@@ -11,6 +11,6 @@ img: /img/list/bracket-fly-the-coop.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-fly-the-coop/5248916"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bunnley-vienna-lager.jpeg
 untappd: "https://untappd.com/b/burnley-brewing-vienna-lager/2403765"
 country: "Australia"
 brewery: "Burnley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/burnley-brewing.html"
 style: "Lager - Vienna"
 ---

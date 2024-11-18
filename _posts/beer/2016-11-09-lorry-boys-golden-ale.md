@@ -11,6 +11,6 @@ img: /img/list/lorry-boys-golden-ale.jpeg
 untappd: "https://untappd.com/b/macarthur-grange-brewery-lorry-boys-jim-and-joes-golden-ale/1260016"
 country: "Australia"
 brewery: "Macarthur Grange Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/macarthur-grange-brewery.html"
 style: "Golden Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/sirling-castle.jpeg
 untappd: "https://untappd.com/b/australian-beer-company-stirling-castle-ipa/821263"
 country: "Australia"
 brewery: "Australian Beer Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/australian-beer-company.html"
 style: "IPA - English"
 ---

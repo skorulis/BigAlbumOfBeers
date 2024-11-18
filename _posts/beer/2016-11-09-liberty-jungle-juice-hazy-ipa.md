@@ -11,6 +11,6 @@ img: /img/list/liberty-jungle-juice-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/liberty-brewing-jungle-juice/2756899"
 country: "New Zealand"
 brewery: "Liberty Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/liberty-brewing.html"
 style: "IPA - New England / Hazy"
 ---

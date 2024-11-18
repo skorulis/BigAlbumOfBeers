@@ -11,6 +11,6 @@ img: /img/list/co-operative-czech-lager.jpeg
 untappd: "https://untappd.com/b/pivovary-staropramen-co-operative-czech-imported-lager/307151"
 country: "Czech Republic"
 brewery: "Pivovary Staropramen"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pivovary-staropramen.html"
 style: "Pilsner - Czech"
 ---

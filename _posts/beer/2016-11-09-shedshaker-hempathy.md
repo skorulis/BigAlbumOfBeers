@@ -11,6 +11,6 @@ img: /img/list/shedshaker-hempathy.jpeg
 untappd: "https://untappd.com/b/shedshaker-brewing-co--hempathy-hemp-ale/2547708"
 country: "Australia"
 brewery: "Shedshaker Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/shedshaker-brewing-co.html"
 style: "Pale Ale - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/green-beacon-strawberry-creaming-soda-ice-cream-sour.jpeg
 untappd: "https://untappd.com/b/green-beacon-green-beacon-strawberry-creaming-soda-ice-cream-sour/5577968"
 country: "Australia"
 brewery: "Green Beacon "
-breweryURL: "breweryURL"
+breweryURL: "brewery/green-beacon-.html"
 style: "Sour - Smoothie / Pastry"
 ---

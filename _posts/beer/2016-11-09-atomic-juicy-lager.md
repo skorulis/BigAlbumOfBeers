@@ -11,6 +11,6 @@ img: /img/list/atomic-juicy-lager.jpeg
 untappd: "https://untappd.com/b/atomic-juicy-lager/5154598"
 country: "Australia"
 brewery: "Atomic"
-breweryURL: "breweryURL"
+breweryURL: "brewery/atomic.html"
 style: "Lager - IPL (India Pale Lager)"
 ---

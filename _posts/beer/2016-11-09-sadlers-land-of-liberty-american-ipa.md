@@ -11,6 +11,6 @@ img: /img/list/sadlers-land-of-liberty-american-ipa.jpeg
 untappd: "https://untappd.com/b/aldi-stores-uk-land-of-liberty/1511487"
 country: "England"
 brewery: "ALDI Stores UK"
-breweryURL: "breweryURL"
+breweryURL: "brewery/aldi-stores-uk.html"
 style: "IPA - American"
 ---

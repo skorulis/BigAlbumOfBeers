@@ -11,6 +11,6 @@ img: /img/list/batch-don-t-judge-a-beer-by-it-s-colour.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-dont-judge-a-beer-by-its-colour/4192085"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Stout - White"
 ---

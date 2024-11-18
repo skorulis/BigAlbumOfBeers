@@ -11,6 +11,6 @@ img: /img/list/little-bang-double-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-road-tripper/3328910"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-bang-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

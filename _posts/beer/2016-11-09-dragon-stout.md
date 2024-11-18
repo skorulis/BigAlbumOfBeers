@@ -11,6 +11,6 @@ img: /img/list/dragon-stout.jpeg
 untappd: "https://untappd.com/b/desnoes---geddes-dragon-stout/24231"
 country: "Jamaica"
 brewery: "Desnoes & Geddes"
-breweryURL: "breweryURL"
+breweryURL: "brewery/desnoes---geddes.html"
 style: "Stout - Other"
 ---

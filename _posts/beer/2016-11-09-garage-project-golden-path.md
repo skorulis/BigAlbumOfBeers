@@ -11,6 +11,6 @@ img: /img/list/garage-project-golden-path.jpeg
 untappd: "https://untappd.com/b/garage-project-golden-path/3387267"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "IPA - Session / India Session Ale"
 ---

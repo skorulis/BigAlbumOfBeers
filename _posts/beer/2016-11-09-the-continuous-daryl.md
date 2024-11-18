@@ -11,6 +11,6 @@ img: /img/list/the-continuous-daryl.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-the-continuous-daryl/1050344"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mornington-peninsula-brewery.html"
 style: "IPA - Imperial / Double"
 ---

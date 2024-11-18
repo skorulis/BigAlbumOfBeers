@@ -11,6 +11,6 @@ img: /img/list/frenchies-rose-brut-ipa.jpeg
 untappd: "https://untappd.com/b/frenchies-rose-brut-ipa/3167401"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "breweryURL"
+breweryURL: "brewery/frenchies.html"
 style: "IPA - Brut"
 ---

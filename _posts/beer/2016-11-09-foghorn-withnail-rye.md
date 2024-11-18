@@ -11,6 +11,6 @@ img: /img/list/foghorn-withnail-rye.jpeg
 untappd: "https://untappd.com/b/foghorn-brewery--withnail---rye/4609647"
 country: "Australia"
 brewery: "FogHorn Brewery "
-breweryURL: "breweryURL"
+breweryURL: "brewery/foghorn-brewery-.html"
 style: "Extra Special / Strong Bitter"
 ---

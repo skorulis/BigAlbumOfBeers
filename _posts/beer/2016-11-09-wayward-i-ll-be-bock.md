@@ -11,6 +11,6 @@ img: /img/list/wayward-i-ll-be-bock.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-ill-be-bock/4051345"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Bock - Single / Traditional"
 ---

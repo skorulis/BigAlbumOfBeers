@@ -11,6 +11,6 @@ img: /img/list/brewhouse-brown-ale.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-brown-ale/2050505"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/basement-brewhouse.html"
 style: "Brown Ale - American"
 ---

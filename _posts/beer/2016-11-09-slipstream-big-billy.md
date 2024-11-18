@@ -11,6 +11,6 @@ img: /img/list/slipstream-big-billy.jpeg
 untappd: "https://untappd.com/b/slipstream-brewing-company-big-billy/4057659"
 country: "Australia"
 brewery: "Slipstream Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slipstream-brewing-company.html"
 style: "Strong Ale - American"
 ---

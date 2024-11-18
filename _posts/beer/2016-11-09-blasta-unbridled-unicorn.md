@@ -11,6 +11,6 @@ img: /img/list/blasta-unbridled-unicorn.jpeg
 untappd: "https://untappd.com/b/blasta-brewing-company-unbridled-unicorn/3842656"
 country: "Australia"
 brewery: "Blasta Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blasta-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

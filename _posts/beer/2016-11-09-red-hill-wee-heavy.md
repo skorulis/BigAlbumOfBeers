@@ -11,6 +11,6 @@ img: /img/list/red-hill-wee-heavy.jpeg
 untappd: "https://untappd.com/b/red-hill-brewery-wee-heavy-double-barrel-aged-scotch-ale/614643"
 country: "Australia"
 brewery: "Red Hill Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/red-hill-brewery.html"
 style: "Scotch Ale / Wee Heavy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/little-brewing-death-between-the-tanks-dipa.jpeg
 untappd: "https://untappd.com/b/the-little-brewing-company-death-between-the-tanks/484884"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-little-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

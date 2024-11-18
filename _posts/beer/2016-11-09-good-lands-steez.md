@@ -11,6 +11,6 @@ img: /img/list/good-lands-steez.jpeg
 untappd: "https://untappd.com/b/good-land-brewing-co-good-land-brewing-co-steez/5615143"
 country: "Australia"
 brewery: "Good Land Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/good-land-brewing-co.html"
 style: "IPA - White / Wheat"
 ---

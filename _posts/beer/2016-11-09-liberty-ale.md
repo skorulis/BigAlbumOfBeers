@@ -11,6 +11,6 @@ img: /img/list/liberty-ale.jpeg
 untappd: "https://untappd.com/b/anchor-brewing-company-liberty-ale/5173"
 country: "United States"
 brewery: "Anchor Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/anchor-brewing-company.html"
 style: "IPA - American"
 ---

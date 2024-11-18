@@ -11,6 +11,6 @@ img: /img/list/byron-bay-pale-lager.jpeg
 untappd: "https://untappd.com/b/byron-bay-brewery-pale-lager/296164"
 country: "Australia"
 brewery: "Byron Bay Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/byron-bay-brewery.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/one-drop-three-cubed.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-three-cubed-west-coast-ipa/3938138"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/one-drop-brewing-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/monteith-s-bohemian-pilsner.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-bohemian-pilsner/608944"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "breweryURL"
+breweryURL: "brewery/monteith-s-brewing-co--.html"
 style: "Pilsner - Other"
 ---

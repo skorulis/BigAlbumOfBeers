@@ -11,6 +11,6 @@ img: /img/list/dainton-island-jam.jpeg
 untappd: "https://untappd.com/b/dainton-beer-island-jam/5219262"
 country: "Australia"
 brewery: "Dainton Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dainton-beer.html"
 style: "IPA - New England / Hazy"
 ---

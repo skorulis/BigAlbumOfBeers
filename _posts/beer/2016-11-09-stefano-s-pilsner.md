@@ -11,6 +11,6 @@ img: /img/list/stefano-s-pilsner.jpeg
 untappd: "https://untappd.com/b/mildura-brewery-stefanos-pilsner/42113"
 country: "Australia"
 brewery: "Mildura Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mildura-brewery.html"
 style: "Pilsner - Other"
 ---

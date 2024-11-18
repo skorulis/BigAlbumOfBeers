@@ -11,6 +11,6 @@ img: /img/list/local-pacific-paradise.jpeg
 untappd: "https://untappd.com/b/local-brewing-co--pacific-paradise/3547255"
 country: "Australia"
 brewery: "Local Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/local-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brabante-trigo.jpeg
 untappd: "https://untappd.com/b/brabante-cervezas-trigo/80414"
 country: "Spain"
 brewery: "Brabante Cervezas"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brabante-cervezas.html"
 style: "Witbier"
 ---

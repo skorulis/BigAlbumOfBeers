@@ -11,6 +11,6 @@ img: /img/list/liberty-brewing-yakima-monster.jpeg
 untappd: "https://untappd.com/b/liberty-brewing-yakima-monster/211162"
 country: "New Zealand"
 brewery: "Liberty Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/liberty-brewing.html"
 style: "Pale Ale - American"
 ---

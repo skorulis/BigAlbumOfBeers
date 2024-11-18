@@ -11,6 +11,6 @@ img: /img/list/hofbraeu-kaltenhausen.jpeg
 untappd: "https://untappd.com/b/hofbrau-kaltenhausen-kaltenhauser-bernstein/97177"
 country: "Austria"
 brewery: "Hofbräu Kaltenhausen"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hofbraeu-kaltenhausen.html"
 style: "Kellerbier / Zwickelbier"
 ---

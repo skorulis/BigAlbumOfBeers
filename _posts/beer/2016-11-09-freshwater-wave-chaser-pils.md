@@ -11,6 +11,6 @@ img: /img/list/freshwater-wave-chaser-pils.jpeg
 untappd: "https://untappd.com/b/freshwater-brewing-company-freshwater-brewing-company-wave-chaser-pils/5616076"
 country: "Australia"
 brewery: "Freshwater Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/freshwater-brewing-company.html"
 style: "Pilsner - German"
 ---

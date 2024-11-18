@@ -11,6 +11,6 @@ img: /img/list/lagunitas-a-little-sumpin-sumpin.jpeg
 untappd: "https://untappd.com/b/lagunitas-brewing-company-lagunitas-brewing-company-a-little-sumpin-sumpin-ale/25796"
 country: "United States"
 brewery: "Lagunitas Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/lagunitas-brewing-company.html"
 style: "IPA - White / Wheat"
 ---

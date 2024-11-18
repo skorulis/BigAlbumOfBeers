@@ -11,6 +11,6 @@ img: /img/list/edelmeister-weizenbier.jpeg
 untappd: "https://untappd.com/b/van-pur-edelmeister-weizenbier/687531"
 country: "Poland"
 brewery: "Van Pur"
-breweryURL: "breweryURL"
+breweryURL: "brewery/van-pur.html"
 style: "Hefeweizen"
 ---

@@ -11,6 +11,6 @@ img: /img/list/woolshed-aaam-ber.jpeg
 untappd: "https://untappd.com/b/woolshed-brewery-aaam-ber/1001680"
 country: "Australia"
 brewery: "Woolshed Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/woolshed-brewery.html"
 style: "Red Ale - American Amber / Red"
 ---

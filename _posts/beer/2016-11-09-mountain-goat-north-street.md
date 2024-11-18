@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-north-street.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-north-street-stout/2621515"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-goat-beer.html"
 style: "Stout - Other"
 ---

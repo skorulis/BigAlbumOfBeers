@@ -11,6 +11,6 @@ img: /img/list/feral-brewing-tusk.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-tusk/2009879"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/feral-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

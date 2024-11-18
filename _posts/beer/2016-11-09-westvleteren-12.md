@@ -11,6 +11,6 @@ img: /img/list/westvleteren-12.jpeg
 untappd: "https://untappd.com/b/brouwerij-de-sint-sixtusabdij-van-westvleteren-trappist-westvleteren-12/4680"
 country: "Belgium"
 brewery: "Brouwerij De Sint-Sixtusabdij van Westvleteren"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-de-sint-sixtusabdij-van-westvleteren.html"
 style: "Belgian Quad"
 ---

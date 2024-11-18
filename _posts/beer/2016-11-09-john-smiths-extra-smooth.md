@@ -11,6 +11,6 @@ img: /img/list/john-smiths-extra-smooth.jpeg
 untappd: "https://untappd.com/b/john-smiths-extra-smooth-ale/1009950"
 country: "England"
 brewery: "John Smith's"
-breweryURL: "breweryURL"
+breweryURL: "brewery/john-smith-s.html"
 style: "English Bitter"
 ---

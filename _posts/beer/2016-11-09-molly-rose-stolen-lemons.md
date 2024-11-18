@@ -11,6 +11,6 @@ img: /img/list/molly-rose-stolen-lemons.jpeg
 untappd: "https://untappd.com/b/molly-rose-brewing-molly-rose-brewing-stolen-lemons/5509890"
 country: "Australia"
 brewery: "Molly Rose Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/molly-rose-brewing.html"
 style: "IPA - Session"
 ---

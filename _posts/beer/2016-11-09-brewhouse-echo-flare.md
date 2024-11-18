@@ -11,6 +11,6 @@ img: /img/list/brewhouse-echo-flare.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-pilot-020-echo-flare-ipa/3358440"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/basement-brewhouse.html"
 style: "IPA - American"
 ---

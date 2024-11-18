@@ -11,6 +11,6 @@ img: /img/list/loser-bier.jpeg
 untappd: "https://untappd.com/b/brauerei-grieskirchen-loser-bier/1164198"
 country: "Austria"
 brewery: "Brauerei Grieskirchen"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brauerei-grieskirchen.html"
 style: "Lager - Helles"
 ---

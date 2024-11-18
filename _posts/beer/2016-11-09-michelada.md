@@ -11,6 +11,6 @@ img: /img/list/michelada.jpeg
 untappd: "https://untappd.com/b/anheuser-busch-michelob-ultra/6655"
 country: "United States"
 brewery: "Anheuser-Busch"
-breweryURL: "breweryURL"
+breweryURL: "brewery/anheuser-busch.html"
 style: "Lager - American Light"
 ---

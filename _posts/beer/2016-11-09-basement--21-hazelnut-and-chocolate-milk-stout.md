@@ -11,6 +11,6 @@ img: /img/list/basement--21-hazelnut-and-chocolate-milk-stout.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-pilot-021-hazelnut---chocolate-milk-stout/3368570"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/basement-brewhouse.html"
 style: "Stout - Milk / Sweet"
 ---

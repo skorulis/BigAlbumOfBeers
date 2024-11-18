@@ -11,6 +11,6 @@ img: /img/list/hipster-ale.jpeg
 untappd: "https://untappd.com/b/evil-twin-brewing-hipster-ale/120946"
 country: "United States"
 brewery: "Evil Twin Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/evil-twin-brewing.html"
 style: "Pale Ale - American"
 ---

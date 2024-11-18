@@ -11,6 +11,6 @@ img: /img/list/brewdog-ald-ipa.jpeg
 untappd: "https://untappd.com/b/brewdog-australia-brewdog-australia-ald-ipa/5651288"
 country: "Australia"
 brewery: "BrewDog Australia"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewdog-australia.html"
 style: "IPA - Session"
 ---

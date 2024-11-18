@@ -11,6 +11,6 @@ img: /img/list/4-pines-boozy-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/4-pines-brewing-company-boozy-hazy-ipa/5259761"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/4-pines-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/kent-s-best.jpeg
 untappd: "https://untappd.com/b/shepherd-neame-kents-best/73954"
 country: "England"
 brewery: "Shepherd Neame"
-breweryURL: "breweryURL"
+breweryURL: "brewery/shepherd-neame.html"
 style: "English Bitter"
 ---

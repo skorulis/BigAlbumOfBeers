@@ -11,6 +11,6 @@ img: /img/list/globe-premium-draught.jpeg
 untappd: "https://untappd.com/b/globe-brewing-company--draught-/781188"
 country: "Australia"
 brewery: "Globe Brewing Company "
-breweryURL: "breweryURL"
+breweryURL: "brewery/globe-brewing-company-.html"
 style: "Lager - Pale"
 ---

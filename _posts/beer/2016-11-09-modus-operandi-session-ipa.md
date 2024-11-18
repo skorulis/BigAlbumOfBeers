@@ -11,6 +11,6 @@ img: /img/list/modus-operandi-session-ipa.jpeg
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--modus-session-ipa/1645015"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/modus-operandi-brewing-co.html"
 style: "IPA - Session / India Session Ale"
 ---

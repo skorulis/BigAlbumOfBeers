@@ -11,6 +11,6 @@ img: /img/list/bunley-altbier.jpeg
 untappd: "https://untappd.com/b/burnley-brewing-altbier/4526740"
 country: "Australia"
 brewery: "Burnley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/burnley-brewing.html"
 style: "Altbier"
 ---

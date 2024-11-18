@@ -11,6 +11,6 @@ img: /img/list/ginga-kogen.jpeg
 untappd: "https://untappd.com/b/ginga-kogen-beer-co--komugi-no-beer/243493"
 country: "Japan"
 brewery: "Ginga Kogen Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/ginga-kogen-beer-co.html"
 style: "Hefeweizen"
 ---

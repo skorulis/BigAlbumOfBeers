@@ -11,6 +11,6 @@ img: /img/list/wayward-bru-haze.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-bru-haze/4037095"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "IPA - New England"
 ---

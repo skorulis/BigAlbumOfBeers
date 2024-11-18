@@ -11,6 +11,6 @@ img: /img/list/lupulus-pale-ale.jpeg
 untappd: "https://untappd.com/b/beer-here-lupulus/10441"
 country: "Denmark"
 brewery: "Beer Here"
-breweryURL: "breweryURL"
+breweryURL: "brewery/beer-here.html"
 style: "Pale Ale - American"
 ---

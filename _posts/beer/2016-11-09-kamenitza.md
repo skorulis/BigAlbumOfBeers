@@ -11,6 +11,6 @@ img: /img/list/kamenitza.jpeg
 untappd: "https://untappd.com/b/kamenitza--starbev--kamenitza-1881/125711"
 country: "Bulgaria"
 brewery: "Kamenitza (StarBev)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kamenitza--starbev.html"
 style: "Lager - Euro"
 ---

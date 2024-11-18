@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-hop-hunter-ipa.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--hop-hunter-ipa/568188"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sierra-nevada-brewing-co.html"
 style: "IPA - American"
 ---

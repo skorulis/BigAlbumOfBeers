@@ -11,6 +11,6 @@ img: /img/list/isbjorn-lager.jpeg
 untappd: "https://untappd.com/b/macks-olbryggeri-isbjorn/601253"
 country: "Norway"
 brewery: "Macks Ølbryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/macks-olbryggeri.html"
 style: "Pilsner - Other"
 ---

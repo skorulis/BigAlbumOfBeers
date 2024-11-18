@@ -11,6 +11,6 @@ img: /img/list/woolshed-firehouse-stout.jpeg
 untappd: "https://untappd.com/b/woolshed-brewery-firehouse-coffee-stout/198512"
 country: "Australia"
 brewery: "Woolshed Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/woolshed-brewery.html"
 style: "Stout - Foreign / Export"
 ---

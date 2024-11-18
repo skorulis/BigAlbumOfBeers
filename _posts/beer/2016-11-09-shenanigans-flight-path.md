@@ -11,6 +11,6 @@ img: /img/list/shenanigans-flight-path.jpeg
 untappd: "https://untappd.com/b/shenanigans-brewing-co--flight-path/743046"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/shenanigans-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 ---

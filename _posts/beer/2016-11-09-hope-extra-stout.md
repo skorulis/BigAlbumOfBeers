@@ -11,6 +11,6 @@ img: /img/list/hope-extra-stout.jpeg
 untappd: "https://untappd.com/b/hope-brewhouse-barrel-aged-extra-stout/2201950"
 country: "Australia"
 brewery: "Hope Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hope-brewhouse.html"
 style: "Stout - Foreign / Export"
 ---

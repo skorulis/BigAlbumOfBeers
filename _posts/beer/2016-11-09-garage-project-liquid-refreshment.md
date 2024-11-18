@@ -11,6 +11,6 @@ img: /img/list/garage-project-liquid-refreshment.jpeg
 untappd: "https://untappd.com/b/garage-project-garage-project-liquid-refreshment/5257694"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "IPA - New Zealand"
 ---

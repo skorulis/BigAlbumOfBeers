@@ -11,6 +11,6 @@ img: /img/list/garage-project-trip-hop.jpeg
 untappd: "https://untappd.com/b/garage-project-trip-hop/69007"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "Extra Special / Strong Bitter"
 ---

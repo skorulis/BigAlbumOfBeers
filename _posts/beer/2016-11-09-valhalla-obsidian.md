@@ -11,6 +11,6 @@ img: /img/list/valhalla-obsidian.jpeg
 untappd: "https://untappd.com/b/valhalla-brewing-obsidian-black-ale/1417177"
 country: "Australia"
 brewery: "Valhalla Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/valhalla-brewing.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

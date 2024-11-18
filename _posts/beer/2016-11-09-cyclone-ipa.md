@@ -11,6 +11,6 @@ img: /img/list/cyclone-ipa.jpeg
 untappd: "https://untappd.com/b/eight-degrees-brewing-cyclone-ipa/438052"
 country: "Ireland"
 brewery: "Eight Degrees Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/eight-degrees-brewing.html"
 style: "IPA - International"
 ---

@@ -11,6 +11,6 @@ img: /img/list/lervig-kransekake-stout.jpeg
 untappd: "https://untappd.com/b/lervig-kransekake-stout/5428752"
 country: "Norway"
 brewery: "LERVIG"
-breweryURL: "breweryURL"
+breweryURL: "brewery/lervig.html"
 style: "Stout - Imperial / Double Pastry"
 ---

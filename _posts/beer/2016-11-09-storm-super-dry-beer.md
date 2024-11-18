@@ -11,6 +11,6 @@ img: /img/list/storm-super-dry-beer.jpeg
 untappd: "https://untappd.com/b/storm-brewing-co--aldi--super-dry-beer/315613"
 country: "Australia"
 brewery: "Storm Brewing Co (Aldi)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/storm-brewing-co--aldi.html"
 style: "Lager - Pale"
 ---

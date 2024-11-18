@@ -11,6 +11,6 @@ img: /img/list/matso-s-ginger-beer.jpeg
 untappd: "https://untappd.com/b/matsos-broome-brewery-ginger-beer/35702"
 country: "Australia"
 brewery: "Matso's Broome Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/matso-s-broome-brewery.html"
 style: "Ginger Beer"
 ---

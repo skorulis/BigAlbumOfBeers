@@ -11,6 +11,6 @@ img: /img/list/bracket-watermelon-and-lime-sour.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-watermelon---lime-sour/5044564"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Sour - Fruited"
 ---

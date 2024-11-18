@@ -11,6 +11,6 @@ img: /img/list/bounty-hunter-what-did-you-do-ray.jpeg
 untappd: "https://untappd.com/b/bounty-hunter-brewing-co--what-did-you-do--ray/2246913"
 country: "Australia"
 brewery: "Bounty Hunter Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bounty-hunter-brewing-co.html"
 style: "Brown Ale - Other"
 ---

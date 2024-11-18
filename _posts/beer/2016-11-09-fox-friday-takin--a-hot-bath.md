@@ -11,6 +11,6 @@ img: /img/list/fox-friday-takin--a-hot-bath.jpeg
 untappd: "https://untappd.com/b/fox-friday-craft-brewery-takin-a-hot-bath/5311153"
 country: "Australia"
 brewery: "Fox Friday Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fox-friday-craft-brewery.html"
 style: "Pale Ale - Australian"
 ---

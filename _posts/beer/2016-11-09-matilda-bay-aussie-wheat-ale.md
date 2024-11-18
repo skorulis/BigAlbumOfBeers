@@ -11,6 +11,6 @@ img: /img/list/matilda-bay-aussie-wheat-ale.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-aussie-wheat-ale/4870037"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/matilda-bay-brewing-company.html"
 style: "Wheat Beer - Other"
 ---

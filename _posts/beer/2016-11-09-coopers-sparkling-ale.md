@@ -11,6 +11,6 @@ img: /img/list/coopers-sparkling-ale.jpeg
 untappd: "https://untappd.com/b/coopers-brewery-sparkling-ale/4930"
 country: "Australia"
 brewery: "Coopers Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/coopers-brewery.html"
 style: "Australian Sparkling Ale"
 ---

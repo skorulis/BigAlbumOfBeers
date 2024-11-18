@@ -11,6 +11,6 @@ img: /img/list/hafferoeder-premium-pils.jpeg
 untappd: "https://untappd.com/b/hasseroder-brauerei-premium-pils/1627"
 country: "Germany"
 brewery: "Hasseröder Brauerei"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hasseroeder-brauerei.html"
 style: "Pilsner - German"
 ---

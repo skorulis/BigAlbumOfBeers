@@ -11,6 +11,6 @@ img: /img/list/mismatch-pizza-beer.jpeg
 untappd: "https://untappd.com/b/mismatch-brewing-company-pizza-beer/3811575"
 country: "Australia"
 brewery: "Mismatch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mismatch-brewing-company.html"
 style: "Lager - Amber"
 ---

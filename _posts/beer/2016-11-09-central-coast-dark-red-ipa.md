@@ -11,6 +11,6 @@ img: /img/list/central-coast-dark-red-ipa.jpeg
 untappd: "https://untappd.com/b/central-coast-brewery-dark-red-ipa/4682516"
 country: "Australia"
 brewery: "Central Coast Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/central-coast-brewery.html"
 style: "IPA - Red"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hemingway-s-doug-s-courage.jpeg
 untappd: "https://untappd.com/b/hemingways-brewery-dougs-courage-xpa/1622698"
 country: "Australia"
 brewery: "Hemingway's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hemingway-s-brewery.html"
 style: "IPA - American"
 ---

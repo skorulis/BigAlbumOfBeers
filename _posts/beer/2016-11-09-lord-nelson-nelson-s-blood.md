@@ -11,6 +11,6 @@ img: /img/list/lord-nelson-nelson-s-blood.jpeg
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-nelsons-blood/43694"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-lord-nelson-brewery-hotel.html"
 style: "Porter - Other"
 ---

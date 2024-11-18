@@ -11,6 +11,6 @@ img: /img/list/valhalla-ziggy.jpeg
 untappd: "https://untappd.com/b/valhalla-brewing-ziggy/1712623"
 country: "Australia"
 brewery: "Valhalla Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/valhalla-brewing.html"
 style: "Red Ale - Other"
 ---

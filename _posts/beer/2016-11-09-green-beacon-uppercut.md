@@ -11,6 +11,6 @@ img: /img/list/green-beacon-uppercut.jpeg
 untappd: "https://untappd.com/b/green-beacon-brewing-co-uppercut-ddh-iipa/3167083"
 country: "Australia"
 brewery: "Green Beacon Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/green-beacon-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

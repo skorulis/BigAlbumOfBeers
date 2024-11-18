@@ -11,6 +11,6 @@ img: /img/list/bishops-finger.jpeg
 untappd: "https://untappd.com/b/shepherd-neame-bishops-finger/2962"
 country: "England"
 brewery: "Shepherd Neame"
-breweryURL: "breweryURL"
+breweryURL: "brewery/shepherd-neame.html"
 style: "Extra Special / Strong Bitter"
 ---

@@ -11,6 +11,6 @@ img: /img/list/white-bay-lupomax.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--lupomax-orbit/4576933"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/white-bay-beer-co.html"
 style: "IPA - New England / Hazy"
 ---

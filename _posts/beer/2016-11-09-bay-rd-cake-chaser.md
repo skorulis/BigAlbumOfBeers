@@ -11,6 +11,6 @@ img: /img/list/bay-rd-cake-chaser.jpeg
 untappd: "https://untappd.com/b/bay-rd-brewing-cake-chaser/3880175"
 country: "Australia"
 brewery: "Bay Rd Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bay-rd-brewing.html"
 style: "Stout - Milk / Sweet"
 ---

@@ -11,6 +11,6 @@ img: /img/list/currumbin-valley-lazy-hazy.jpeg
 untappd: "https://untappd.com/b/currumbin-valley-brewing-lazy-hazy-pale/4352622"
 country: "Australia"
 brewery: "Currumbin Valley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/currumbin-valley-brewing.html"
 style: "Pale Ale - Australian"
 ---

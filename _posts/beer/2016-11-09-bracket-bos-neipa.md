@@ -11,6 +11,6 @@ img: /img/list/bracket-bos-neipa.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-bos/4309855"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

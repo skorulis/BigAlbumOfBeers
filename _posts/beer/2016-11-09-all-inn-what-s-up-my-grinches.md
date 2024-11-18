@@ -11,6 +11,6 @@ img: /img/list/all-inn-what-s-up-my-grinches.jpeg
 untappd: "https://untappd.com/b/all-inn-brewing-co--whats-up-my-grinches/4061587"
 country: "Australia"
 brewery: "All Inn Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/all-inn-brewing-co.html"
 style: "Stout - Milk / Sweet"
 ---

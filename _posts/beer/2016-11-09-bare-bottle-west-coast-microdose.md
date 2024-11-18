@@ -11,6 +11,6 @@ img: /img/list/bare-bottle-west-coast-microdose.jpeg
 untappd: "https://untappd.com/b/barebottle-brewing-company-west-coast-microdose/3239113"
 country: "United States"
 brewery: "Barebottle Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/barebottle-brewing-company.html"
 style: "Blonde Ale"
 ---

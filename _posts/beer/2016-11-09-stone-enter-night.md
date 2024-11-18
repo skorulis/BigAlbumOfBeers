@@ -11,6 +11,6 @@ img: /img/list/stone-enter-night.jpeg
 untappd: "https://untappd.com/b/arrogant-consortia-enter-night/2830190"
 country: "United States"
 brewery: "Arrogant Consortia"
-breweryURL: "breweryURL"
+breweryURL: "brewery/arrogant-consortia.html"
 style: "Pilsner - Other"
 ---

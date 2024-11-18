@@ -11,6 +11,6 @@ img: /img/list/banks-smoochin-with-everybody.jpeg
 untappd: "https://untappd.com/b/banks-brewing-banks-brewing-smoochin-with-everybody/5604304"
 country: "Australia"
 brewery: "Banks Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/banks-brewing.html"
 style: "IPA - New England / Hazy"
 ---

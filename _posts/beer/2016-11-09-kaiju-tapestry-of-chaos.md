@@ -11,6 +11,6 @@ img: /img/list/kaiju-tapestry-of-chaos.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-kaiju-tapestry-of-chaos--mutation-program-0003-/3172207"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kaiju--beer.html"
 style: "Sour - Other"
 ---

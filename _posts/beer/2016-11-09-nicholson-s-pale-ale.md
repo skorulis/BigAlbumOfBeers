@@ -11,6 +11,6 @@ img: /img/list/nicholson-s-pale-ale.jpeg
 untappd: "https://untappd.com/b/st-austell-brewery-nicholsons-pale-ale/170353"
 country: "England"
 brewery: "St Austell Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/st-austell-brewery.html"
 style: "Pale Ale - English"
 ---

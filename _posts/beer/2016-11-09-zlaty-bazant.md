@@ -11,6 +11,6 @@ img: /img/list/zlaty-bazant.jpeg
 untappd: "https://untappd.com/b/pivovar-v-hurbanove-golden-pheasant/2359"
 country: "Slovakia"
 brewery: "Pivovar v Hurbanove"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pivovar-v-hurbanove.html"
 style: "Pilsner - Czech"
 ---

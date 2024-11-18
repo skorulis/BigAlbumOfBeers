@@ -11,6 +11,6 @@ img: /img/list/boatrocker-life.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewers---distillers-life/4067087"
 country: "Australia"
 brewery: "Boatrocker Brewers & Distillers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/boatrocker-brewers---distillers.html"
 style: "Barleywine - Other"
 ---

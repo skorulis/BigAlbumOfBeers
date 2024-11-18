@@ -11,6 +11,6 @@ img: /img/list/philter-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/philter-brewing-west-coast-ipa/5183336"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/philter-brewing.html"
 style: "IPA - American"
 ---

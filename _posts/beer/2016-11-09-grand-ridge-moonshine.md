@@ -11,6 +11,6 @@ img: /img/list/grand-ridge-moonshine.jpeg
 untappd: "https://untappd.com/b/grand-ridge-brewery-moonshine/23591"
 country: "Australia"
 brewery: "Grand Ridge Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/grand-ridge-brewery.html"
 style: "Scotch Ale / Wee Heavy"
 ---

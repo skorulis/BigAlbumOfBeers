@@ -11,6 +11,6 @@ img: /img/list/brewcult-reset-robot.jpeg
 untappd: "https://untappd.com/b/brewcult-reset-robot/554389"
 country: "Australia"
 brewery: "BrewCult"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewcult.html"
 style: "Pale Ale - International"
 ---

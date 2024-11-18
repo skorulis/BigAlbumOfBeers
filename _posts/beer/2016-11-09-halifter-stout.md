@@ -11,6 +11,6 @@ img: /img/list/halifter-stout.jpeg
 untappd: "https://untappd.com/b/grand-ridge-brewery-hatlifter-stout/36983"
 country: "Australia"
 brewery: "Grand Ridge Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/grand-ridge-brewery.html"
 style: "Stout - Other"
 ---

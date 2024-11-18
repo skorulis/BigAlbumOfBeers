@@ -11,6 +11,6 @@ img: /img/list/helios-white-kronos.jpeg
 untappd: "https://untappd.com/b/helios-brewing-co--white-kronos/4827179"
 country: "Australia"
 brewery: "Helios Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/helios-brewing-co.html"
 style: "Stout - White / Golden"
 ---

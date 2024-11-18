@@ -11,6 +11,6 @@ img: /img/list/white-bay-sunny-pale.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--sunny/3753370"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/white-bay-beer-co.html"
 style: "Pale Ale - Australian"
 ---

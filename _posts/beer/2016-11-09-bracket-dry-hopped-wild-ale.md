@@ -11,6 +11,6 @@ img: /img/list/bracket-dry-hopped-wild-ale.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-dry-hopped-wild-ale/3987445"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Wild Ale - Other"
 ---

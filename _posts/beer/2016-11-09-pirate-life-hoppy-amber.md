@@ -11,6 +11,6 @@ img: /img/list/pirate-life-hoppy-amber.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-hoppy-amber/3180851"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "Red Ale - American Amber / Red"
 ---

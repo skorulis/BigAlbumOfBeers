@@ -11,6 +11,6 @@ img: /img/list/dogfish-head-90-minute-iipa.jpeg
 untappd: "https://untappd.com/b/dogfish-head-craft-brewery-90-minute-ipa/8056"
 country: "United States"
 brewery: "Dogfish Head Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dogfish-head-craft-brewery.html"
 style: "IPA - Imperial / Double"
 ---

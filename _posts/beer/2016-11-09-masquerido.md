@@ -11,6 +11,6 @@ img: /img/list/masquerido.jpeg
 untappd: "https://untappd.com/b/the-melchers-group-masquerido-tequila/541780"
 country: "Netherlands"
 brewery: "The Melchers Group"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-melchers-group.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/cavalier-brown.jpeg
 untappd: "https://untappd.com/b/cavalier-brewing-brown/37770"
 country: "Australia"
 brewery: "Cavalier Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cavalier-brewing.html"
 style: "Brown Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/dangerous-ales-crispy-boi.jpeg
 untappd: "https://untappd.com/b/dangerous-ales-crispy-boi-lager/3962737"
 country: "Australia"
 brewery: "Dangerous Ales"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dangerous-ales.html"
 style: "Lager - Pale"
 ---

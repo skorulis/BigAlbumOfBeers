@@ -11,6 +11,6 @@ img: /img/list/queen-s-ale-blonde-type.jpeg
 untappd: "https://untappd.com/b/hitejinro-queens-ale-blonde-type/457448"
 country: "South Korea"
 brewery: "HiteJinro"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hitejinro.html"
 style: "Blonde Ale"
 ---

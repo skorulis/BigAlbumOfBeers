@@ -11,6 +11,6 @@ img: /img/list/slipstream-grizzly.jpeg
 untappd: "https://untappd.com/b/slipstream-brewing-company-the-grizzly/4620801"
 country: "Australia"
 brewery: "Slipstream Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slipstream-brewing-company.html"
 style: "Brown Ale - American"
 ---

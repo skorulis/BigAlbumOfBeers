@@ -11,6 +11,6 @@ img: /img/list/basement-brew-house-sparkling.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-sparkling-ale/1793098"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/basement-brewhouse.html"
 style: "Australian Sparkling Ale"
 ---

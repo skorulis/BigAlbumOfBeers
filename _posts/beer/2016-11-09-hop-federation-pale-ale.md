@@ -11,6 +11,6 @@ img: /img/list/hop-federation-pale-ale.jpeg
 untappd: "https://untappd.com/b/hop-federation-pale-ale/503513"
 country: "New Zealand"
 brewery: "Hop Federation"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hop-federation.html"
 style: "Pale Ale - New Zealand"
 ---

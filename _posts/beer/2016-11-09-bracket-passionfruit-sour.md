@@ -11,6 +11,6 @@ img: /img/list/bracket-passionfruit-sour.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-passionfruit-sour/4043120"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Sour - Fruited"
 ---

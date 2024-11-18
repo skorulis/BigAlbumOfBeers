@@ -11,6 +11,6 @@ img: /img/list/eucharius-pils.jpeg
 untappd: "https://untappd.com/b/klosterbrauerei-weissenohe-eucharius-pils/807277"
 country: "Germany"
 brewery: "Klosterbrauerei Weissenohe"
-breweryURL: "breweryURL"
+breweryURL: "brewery/klosterbrauerei-weissenohe.html"
 style: "Pilsner - German"
 ---

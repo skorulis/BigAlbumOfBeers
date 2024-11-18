@@ -11,6 +11,6 @@ img: /img/list/hope-american-red-ale.jpeg
 untappd: "https://untappd.com/b/hope-brewhouse-american-amber--red/2224678"
 country: "Australia"
 brewery: "Hope Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hope-brewhouse.html"
 style: "Red Ale - American Amber / Red"
 ---

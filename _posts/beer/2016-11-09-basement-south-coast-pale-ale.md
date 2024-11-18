@@ -11,6 +11,6 @@ img: /img/list/basement-south-coast-pale-ale.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-south-coast-pale-ale/3648923"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/basement-brewhouse.html"
 style: "Pale Ale - Australian"
 ---

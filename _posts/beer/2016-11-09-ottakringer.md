@@ -11,6 +11,6 @@ img: /img/list/ottakringer.jpeg
 untappd: "https://untappd.com/b/ottakringer-brauerei-ottakringer-helles/5543"
 country: "Austria"
 brewery: "Ottakringer Brauerei"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ottakringer-brauerei.html"
 style: "Lager - Helles"
 ---

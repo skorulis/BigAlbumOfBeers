@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-mulberia.jpeg
 untappd: "https://untappd.com/b/young-henrys-brewing-company-mulberia/1903333"
 country: "Australia"
 brewery: "Young Henrys Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/young-henrys-brewing-company.html"
 style: "Sour - Berliner Weisse"
 ---

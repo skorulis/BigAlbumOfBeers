@@ -11,6 +11,6 @@ img: /img/list/perfect-suntory-beer.jpeg
 untappd: "https://untappd.com/b/suntory-beer-limited-perfect-suntory-beer/4262510"
 country: "Japan"
 brewery: "Suntory Beer Limited"
-breweryURL: "breweryURL"
+breweryURL: "brewery/suntory-beer-limited.html"
 style: "Lager - American Light"
 ---

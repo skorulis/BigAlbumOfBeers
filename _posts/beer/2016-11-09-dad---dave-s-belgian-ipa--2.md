@@ -11,6 +11,6 @@ img: /img/list/dad---dave-s-belgian-ipa--2.jpeg
 untappd: "https://untappd.com/b/dad---daves-brewing-2-belgian-ipa/768311"
 country: "Australia"
 brewery: "Dad & Dave's Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dad---dave-s-brewing.html"
 style: "IPA - Belgian"
 ---

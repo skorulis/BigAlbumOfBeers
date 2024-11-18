@@ -11,6 +11,6 @@ img: /img/list/batch-smoking-russian-party-guy.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-smoking-russian-party-guy/1520761"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Dark Ale"
 ---

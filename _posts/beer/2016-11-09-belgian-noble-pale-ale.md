@@ -11,6 +11,6 @@ img: /img/list/belgian-noble-pale-ale.jpeg
 untappd: "https://untappd.com/b/belgian-blue-brewing-company-belgian-noble/535456"
 country: "Belgium"
 brewery: "Belgian Blue Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/belgian-blue-brewing-company.html"
 style: "Pale Ale - Belgian"
 ---

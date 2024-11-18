@@ -11,6 +11,6 @@ img: /img/list/working-title-big-dippa.jpeg
 untappd: "https://untappd.com/b/working-title-brew-co-big-dipper/4701935"
 country: "Australia"
 brewery: "Working Title Brew Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/working-title-brew-co.html"
 style: "IPA - Triple New England / Hazy"
 ---

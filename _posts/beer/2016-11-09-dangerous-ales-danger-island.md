@@ -11,6 +11,6 @@ img: /img/list/dangerous-ales-danger-island.jpeg
 untappd: "https://untappd.com/b/dangerous-ales-dangerous-ales-danger-island/5851315"
 country: "Australia"
 brewery: "Dangerous Ales"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dangerous-ales.html"
 style: "Stout - Imperial / Double Oatmeal"
 ---

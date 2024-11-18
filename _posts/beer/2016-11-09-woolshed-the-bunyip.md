@@ -11,6 +11,6 @@ img: /img/list/woolshed-the-bunyip.jpeg
 untappd: "https://untappd.com/b/woolshed-brewery-the-bunyip/3811937"
 country: "Australia"
 brewery: "Woolshed Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/woolshed-brewery.html"
 style: "Stout - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/2-halfs-bobek.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-bobek/4924299"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "breweryURL"
+breweryURL: "brewery/2-halfs-brewing-distilling.html"
 style: "Pale Ale - English"
 ---

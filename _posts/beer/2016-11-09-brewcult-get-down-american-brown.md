@@ -11,6 +11,6 @@ img: /img/list/brewcult-get-down-american-brown.jpeg
 untappd: "https://untappd.com/b/brewcult-get-down-american-brown/667422"
 country: "Australia"
 brewery: "BrewCult"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewcult.html"
 style: "Brown Ale - American"
 ---

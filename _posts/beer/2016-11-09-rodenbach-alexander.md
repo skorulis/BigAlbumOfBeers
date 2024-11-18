@@ -11,6 +11,6 @@ img: /img/list/rodenbach-alexander.jpeg
 untappd: "https://untappd.com/b/brouwerij-rodenbach-alexander/2324"
 country: "Belgium"
 brewery: "Brouwerij Rodenbach"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-rodenbach.html"
 style: "Sour - Flanders Red Ale"
 ---

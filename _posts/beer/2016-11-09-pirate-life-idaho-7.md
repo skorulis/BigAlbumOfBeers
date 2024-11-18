@@ -11,6 +11,6 @@ img: /img/list/pirate-life-idaho-7.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-idaho-7/4017304"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/nomad-gingerbread-milk-stout.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--gingerbread-milk-stout/4620779"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "Stout - Milk / Sweet"
 ---

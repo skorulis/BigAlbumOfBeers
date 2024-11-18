@@ -11,6 +11,6 @@ img: /img/list/coastal-manning-quays-lime-pie-ipa.jpeg
 untappd: "https://untappd.com/b/the-coastal-brewing-company-manning-quays-lime-pie-ipa/4602110"
 country: "Australia"
 brewery: "The Coastal Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-coastal-brewing-company.html"
 style: "IPA - Milkshake"
 ---

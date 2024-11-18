@@ -11,6 +11,6 @@ img: /img/list/willie-the-boatman-no-way-jose.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-no-way-jose--gose/4069346"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willie-the-boatman.html"
 style: "Sour - Gose"
 ---

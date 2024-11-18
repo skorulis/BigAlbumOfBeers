@@ -11,6 +11,6 @@ img: /img/list/newstead-windmill.jpeg
 untappd: "https://untappd.com/b/newstead-brewing-co--windmill/3495972"
 country: "Australia"
 brewery: "Newstead Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/newstead-brewing-co.html"
 style: "Stout - Other"
 ---

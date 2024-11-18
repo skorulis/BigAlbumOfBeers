@@ -11,6 +11,6 @@ img: /img/list/mcleod-s-last-light.jpeg
 untappd: "https://untappd.com/b/mcleods-last-light/3168345"
 country: "New Zealand"
 brewery: "McLeod's"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mcleod-s.html"
 style: "Stout - Oatmeal"
 ---

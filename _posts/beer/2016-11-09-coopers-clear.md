@@ -11,6 +11,6 @@ img: /img/list/coopers-clear.jpeg
 untappd: "https://untappd.com/b/coopers-brewery-clear/6096"
 country: "Australia"
 brewery: "Coopers Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/coopers-brewery.html"
 style: "Lager - American Light"
 ---

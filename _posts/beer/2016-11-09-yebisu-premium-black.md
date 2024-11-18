@@ -11,6 +11,6 @@ img: /img/list/yebisu-premium-black.jpeg
 untappd: "https://untappd.com/b/sapporo-breweries-yebisu-premium-black/64798"
 country: "Japan"
 brewery: "Sapporo Breweries"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sapporo-breweries.html"
 style: "Schwarzbier"
 ---

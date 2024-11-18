@@ -11,6 +11,6 @@ img: /img/list/whakatipu-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/whakatipu-brewing-moonbow-hazy-ipa/4735053"
 country: "New Zealand"
 brewery: "Whakatipu Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/whakatipu-brewing.html"
 style: "IPA - New England / Hazy"
 ---

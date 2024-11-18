@@ -11,6 +11,6 @@ img: /img/list/the-wild-beer-co-bliss.jpeg
 untappd: "https://untappd.com/b/the-wild-beer-co-bliss/259507"
 country: "England"
 brewery: "The Wild Beer Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-wild-beer-co.html"
 style: "Saison / Farmhouse Ale"
 ---

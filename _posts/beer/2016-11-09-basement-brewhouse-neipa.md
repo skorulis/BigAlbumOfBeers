@@ -11,6 +11,6 @@ img: /img/list/basement-brewhouse-neipa.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-neipa/2535397"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/basement-brewhouse.html"
 style: "IPA - New England"
 ---

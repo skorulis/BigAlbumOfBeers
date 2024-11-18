@@ -11,6 +11,6 @@ img: /img/list/three-hills-ale.jpeg
 untappd: "https://untappd.com/b/moscow-brewing-company--moskovskaya-pivovaryennaya-kompaniya--three-hills-original-ale--tryehgornoye-originalnyj-el-/819604"
 country: "Russia"
 brewery: "Moscow Brewing Company (Московская Пивоваренная Компания)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moscow-brewing-company--moskovskaya-pivovarennaya-kompaniya.html"
 style: "English Bitter"
 ---

@@ -11,6 +11,6 @@ img: /img/list/martens-gold.jpeg
 untappd: "https://untappd.com/b/brouwerij-martens-martens-gold/76701"
 country: "Belgium"
 brewery: "Brouwerij Martens"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-martens.html"
 style: "Lager - Pale"
 ---

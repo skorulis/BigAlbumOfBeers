@@ -11,6 +11,6 @@ img: /img/list/bob-hawke-patio-pale.jpeg
 untappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-patio-pale/2684941"
 country: "Australia"
 brewery: "Hawke's Brewing Co. "
-breweryURL: "breweryURL"
+breweryURL: "brewery/hawke-s-brewing-co--.html"
 style: "Pale Ale - Australian"
 ---

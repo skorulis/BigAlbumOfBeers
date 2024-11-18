@@ -11,6 +11,6 @@ img: /img/list/atomic-talusdega-nights.jpeg
 untappd: "https://untappd.com/b/atomic-talusdega-nights/4291818"
 country: "Australia"
 brewery: "Atomic"
-breweryURL: "breweryURL"
+breweryURL: "brewery/atomic.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bracket-mot-lobster.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-mot-lobster/5101683"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

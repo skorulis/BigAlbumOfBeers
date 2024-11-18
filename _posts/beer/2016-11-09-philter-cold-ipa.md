@@ -11,6 +11,6 @@ img: /img/list/philter-cold-ipa.jpeg
 untappd: "https://untappd.com/b/philter-brewing-cold-ipa/4822571"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/philter-brewing.html"
 style: "IPA - Cold"
 ---

@@ -11,6 +11,6 @@ img: /img/list/3-ravens-orange-sherbet-creamsicle.jpeg
 untappd: "https://untappd.com/b/3-ravens-brewery-orange-sherbet-creamsicle-sour/4169603"
 country: "Australia"
 brewery: "3 Ravens Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/3-ravens-brewery.html"
 style: "Sour - Fruited"
 ---

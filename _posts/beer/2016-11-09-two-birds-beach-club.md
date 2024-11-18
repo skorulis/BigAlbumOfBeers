@@ -11,6 +11,6 @@ img: /img/list/two-birds-beach-club.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-beach-club/4723922"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/two-birds-brewing.html"
 style: "Golden Ale"
 ---

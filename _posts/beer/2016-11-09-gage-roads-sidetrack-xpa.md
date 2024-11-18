@@ -11,6 +11,6 @@ img: /img/list/gage-roads-sidetrack-xpa.jpeg
 untappd: "https://untappd.com/b/gage-roads-brew-co--side-track/3382390"
 country: "Australia"
 brewery: "Gage Roads Brew Co "
-breweryURL: "breweryURL"
+breweryURL: "brewery/gage-roads-brew-co-.html"
 style: "Pale Ale - Australian"
 ---

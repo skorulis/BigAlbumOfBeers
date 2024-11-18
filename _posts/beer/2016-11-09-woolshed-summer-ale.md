@@ -11,6 +11,6 @@ img: /img/list/woolshed-summer-ale.jpeg
 untappd: "https://untappd.com/b/woolshed-brewery-summer-ale/300017"
 country: "Australia"
 brewery: "Woolshed Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/woolshed-brewery.html"
 style: "Blonde Ale"
 ---

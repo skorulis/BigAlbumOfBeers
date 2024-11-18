@@ -11,6 +11,6 @@ img: /img/list/gold-stern.jpeg
 untappd: "https://untappd.com/b/brouwerij-martens-gold-stern-premium-beer/1016224"
 country: "Belgium"
 brewery: "Brouwerij Martens"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-martens.html"
 style: "Lager - Euro"
 ---

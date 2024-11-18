@@ -11,6 +11,6 @@ img: /img/list/balter-strong-pale-ale.jpeg
 untappd: "https://untappd.com/b/balter-brewing-company-strong-pale-ale/2524453"
 country: "Australia"
 brewery: "Balter Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/balter-brewing-company.html"
 style: "Pale Ale - American"
 ---

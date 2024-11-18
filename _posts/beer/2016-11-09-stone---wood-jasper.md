@@ -11,6 +11,6 @@ img: /img/list/stone---wood-jasper.jpeg
 untappd: "https://untappd.com/b/stone---wood-jasper-ale/147818"
 country: "Australia"
 brewery: "Stone & Wood"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stone---wood.html"
 style: "Altbier"
 ---

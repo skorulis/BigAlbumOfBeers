@@ -11,6 +11,6 @@ img: /img/list/west-end-draught.jpeg
 untappd: "https://untappd.com/b/west-end-brewery-draught/15461"
 country: "Australia"
 brewery: "West End Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/west-end-brewery.html"
 style: "Lager - Pale"
 ---

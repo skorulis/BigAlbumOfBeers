@@ -11,6 +11,6 @@ img: /img/list/block-n-tackle-mission-to-mars.jpeg
 untappd: "https://untappd.com/b/block-n-tackle-brewery-mission-to-mars/5384188"
 country: "Australia"
 brewery: "Block ‘n Tackle Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/block--n-tackle-brewery.html"
 style: "IPA - Red"
 ---

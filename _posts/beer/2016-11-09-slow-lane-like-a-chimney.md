@@ -11,6 +11,6 @@ img: /img/list/slow-lane-like-a-chimney.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-slow-lane-brewing-like-a-chimney/5230431"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slow-lane-brewing.html"
 style: "Historical Beer - Lichtenhainer"
 ---

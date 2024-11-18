@@ -11,6 +11,6 @@ img: /img/list/deeds-eight-maids-a-milking.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-deeds-brewing-eight-maids-a-milking/5603306"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deeds-brewing.html"
 style: "IPA - Milkshake"
 ---

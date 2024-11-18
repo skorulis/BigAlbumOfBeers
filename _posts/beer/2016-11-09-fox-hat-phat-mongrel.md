@@ -11,6 +11,6 @@ img: /img/list/fox-hat-phat-mongrel.jpeg
 untappd: "https://untappd.com/b/fox-hat-brewing-phat-mongrel/1023357"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fox-hat-brewing.html"
 style: "Stout - Oatmeal"
 ---

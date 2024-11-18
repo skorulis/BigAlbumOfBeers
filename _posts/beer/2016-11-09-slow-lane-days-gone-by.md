@@ -11,6 +11,6 @@ img: /img/list/slow-lane-days-gone-by.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-slow-lane-brewing-days-gone-by/5516577"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slow-lane-brewing.html"
 style: "Märzen"
 ---

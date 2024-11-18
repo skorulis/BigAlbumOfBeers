@@ -11,6 +11,6 @@ img: /img/list/brewdog-elvis-juice.jpeg
 untappd: "https://untappd.com/b/brewdog-elvis-juice/1441008"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewdog.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/panhead-pep-torque.jpeg
 untappd: "https://untappd.com/b/panhead-custom-ales-pep-torque/4024693"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
-breweryURL: "breweryURL"
+breweryURL: "brewery/panhead-custom-ales.html"
 style: "Sour - Fruited"
 ---

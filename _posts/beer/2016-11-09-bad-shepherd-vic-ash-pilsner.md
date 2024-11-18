@@ -11,6 +11,6 @@ img: /img/list/bad-shepherd-vic-ash-pilsner.jpeg
 untappd: "https://untappd.com/b/bad-shepherd-brewing-co--vic-ash-pilsner/3162834"
 country: "Australia"
 brewery: "Bad Shepherd Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bad-shepherd-brewing-co.html"
 style: "Pilsner - Other"
 ---

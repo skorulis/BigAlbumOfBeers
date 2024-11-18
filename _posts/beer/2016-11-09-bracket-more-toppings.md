@@ -11,6 +11,6 @@ img: /img/list/bracket-more-toppings.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-more-toppings/4851213"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

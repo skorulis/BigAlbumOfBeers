@@ -11,6 +11,6 @@ img: /img/list/extra-hop-sauce.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-extra-hop-sauce/1924103"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sauce-brewing-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/cloudy-bay-ipa.jpeg
 untappd: "https://untappd.com/b/bruny-island-beer-co-cloudy-bay-ipa/1736442"
 country: "Australia"
 brewery: "Bruny Island Beer Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bruny-island-beer-co.html"
 style: "IPA - International"
 ---

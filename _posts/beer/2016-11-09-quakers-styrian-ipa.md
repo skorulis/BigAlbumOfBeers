@@ -11,6 +11,6 @@ img: /img/list/quakers-styrian-ipa.jpeg
 untappd: "https://untappd.com/b/quakers-hat-brewing-styrian-ipa/5090002"
 country: "Australia"
 brewery: "Quakers Hat Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/quakers-hat-brewing.html"
 style: "IPA - Other"
 ---

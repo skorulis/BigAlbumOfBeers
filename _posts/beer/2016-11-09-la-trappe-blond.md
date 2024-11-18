@@ -11,6 +11,6 @@ img: /img/list/la-trappe-blond.jpeg
 untappd: "https://untappd.com/b/bierbrouwerij-de-koningshoeven-la-trappe-blond/17858"
 country: "Netherlands"
 brewery: "Bierbrouwerij De Koningshoeven"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bierbrouwerij-de-koningshoeven.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 ---

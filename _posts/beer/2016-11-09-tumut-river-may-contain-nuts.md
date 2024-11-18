@@ -11,6 +11,6 @@ img: /img/list/tumut-river-may-contain-nuts.jpeg
 untappd: "https://untappd.com/b/tumut-river-brewing-co-may-contain-nuts/4937605"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tumut-river-brewing-co.html"
 style: "Stout - Other"
 ---

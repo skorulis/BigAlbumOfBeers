@@ -11,6 +11,6 @@ img: /img/list/slow-lane-hop-barn.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-hop-barn/4309832"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slow-lane-brewing.html"
 style: "IPA - Farmhouse"
 ---

@@ -11,6 +11,6 @@ img: /img/list/deeds-dkat-centennial.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-dkat-centennial/4254371"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deeds-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

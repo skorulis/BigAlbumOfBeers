@@ -11,6 +11,6 @@ img: /img/list/lowenbraeu.jpeg
 untappd: "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-lowenbrau-original/25914"
 country: "Germany"
 brewery: "Spaten-Franziskaner-Löwenbräu-Gruppe"
-breweryURL: "breweryURL"
+breweryURL: "brewery/spaten-franziskaner-loewenbraeu-gruppe.html"
 style: "Lager - Helles"
 ---

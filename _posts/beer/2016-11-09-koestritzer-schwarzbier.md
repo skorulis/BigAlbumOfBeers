@@ -11,6 +11,6 @@ img: /img/list/koestritzer-schwarzbier.jpeg
 untappd: "https://untappd.com/b/kostritzer-schwarzbierbrauerei-kostritzer-schwarzbier/25784"
 country: "Germany"
 brewery: "Köstritzer Schwarzbierbrauerei"
-breweryURL: "breweryURL"
+breweryURL: "brewery/koestritzer-schwarzbierbrauerei.html"
 style: "Schwarzbier"
 ---

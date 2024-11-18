@@ -11,6 +11,6 @@ img: /img/list/brew-by-numbers-belgian-pale.jpeg
 untappd: "https://untappd.com/b/brew-by-numbers-2003---belgian-pale---crystal---tettnang/1695675"
 country: "England"
 brewery: "Brew By Numbers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brew-by-numbers.html"
 style: "Pale Ale - Belgian"
 ---

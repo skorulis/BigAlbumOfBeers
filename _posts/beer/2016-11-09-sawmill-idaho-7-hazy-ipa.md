@@ -11,6 +11,6 @@ img: /img/list/sawmill-idaho-7-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/sawmill-brewery-idaho-7-hazy-ipa/4880311"
 country: "New Zealand"
 brewery: "Sawmill Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sawmill-brewery.html"
 style: "IPA - New England / Hazy"
 ---

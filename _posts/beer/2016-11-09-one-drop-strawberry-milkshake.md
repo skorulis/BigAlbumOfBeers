@@ -11,6 +11,6 @@ img: /img/list/one-drop-strawberry-milkshake.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-strawberries---cream-vegan-nitro-milkshake-ipa/3885000"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/one-drop-brewing-co.html"
 style: "IPA - Milkshake"
 ---

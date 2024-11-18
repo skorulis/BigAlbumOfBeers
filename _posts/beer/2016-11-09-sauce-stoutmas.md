@@ -11,6 +11,6 @@ img: /img/list/sauce-stoutmas.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-stoutmas-mocha-imperial/4620839"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sauce-brewing-co.html"
 style: "Stout - Imperial / Double Coffee"
 ---

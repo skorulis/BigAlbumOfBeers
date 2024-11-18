@@ -11,6 +11,6 @@ img: /img/list/wrong-side-brewing-raspberry-pale.jpeg
 untappd: "https://untappd.com/b/wrong-side-brewing-raspberry-pale/1924389"
 country: "Australia"
 brewery: "Wrong Side Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wrong-side-brewing.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-double-steam.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-double-steam-ale/5080135"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-goat-beer.html"
 style: "California Common"
 ---

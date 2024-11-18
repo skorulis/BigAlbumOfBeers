@@ -11,6 +11,6 @@ img: /img/list/tree-brewing-thirsty-beaver.jpeg
 untappd: "https://untappd.com/b/tree-brewing-co--thirsty-beaver-amber-ale/9000"
 country: "Canada"
 brewery: "Tree Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/tree-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 ---

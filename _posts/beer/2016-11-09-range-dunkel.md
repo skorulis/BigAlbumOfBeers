@@ -11,6 +11,6 @@ img: /img/list/range-dunkel.jpeg
 untappd: "https://untappd.com/b/range-brewing-dunkel/5055707"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/range-brewing.html"
 style: "Wheat Beer - Dunkelweizen"
 ---

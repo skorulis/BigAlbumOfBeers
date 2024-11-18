@@ -11,6 +11,6 @@ img: /img/list/holgate-mt-macedon-ale.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-mt--macedon-pale-ale/7655"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/holgate-brewhouse.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/beatnik-fudge-stout.jpeg
 untappd: "https://untappd.com/b/beatnik-beer-fudge-stout/3881429"
 country: "Australia"
 brewery: "Beatnik Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/beatnik-beer.html"
 style: "Stout - Milk / Sweet"
 ---

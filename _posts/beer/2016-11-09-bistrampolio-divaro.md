@@ -11,6 +11,6 @@ img: /img/list/bistrampolio-divaro.jpeg
 untappd: "https://untappd.com/b/aukstaitijos-bravorai-aukstaitijos-bravorai-bistrampolio-dvaro-tamsusis-bistrampolio-dvaro-dark/192441"
 country: "Lithuania"
 brewery: "Aukštaitijos Bravorai"
-breweryURL: "breweryURL"
+breweryURL: "brewery/aukstaitijos-bravorai.html"
 style: "Lager - Dark"
 ---

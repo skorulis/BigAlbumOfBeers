@@ -11,6 +11,6 @@ img: /img/list/bridge-road-beechworth-pale-ale.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-beechworth-pale-ale/13726"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bridge-road-brewers.html"
 style: "Pale Ale - American"
 ---

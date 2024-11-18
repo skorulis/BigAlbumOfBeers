@@ -11,6 +11,6 @@ img: /img/list/gambrinus.jpeg
 untappd: "https://untappd.com/b/plzensky-prazdroj-gambrinus-premium/46417"
 country: "Czech Republic"
 brewery: "Plzeňský Prazdroj"
-breweryURL: "breweryURL"
+breweryURL: "brewery/plzensky-prazdroj.html"
 style: "Pilsner - Czech"
 ---

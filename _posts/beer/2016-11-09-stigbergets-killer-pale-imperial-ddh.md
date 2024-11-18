@@ -11,6 +11,6 @@ img: /img/list/stigbergets-killer-pale-imperial-ddh.jpeg
 untappd: "https://untappd.com/b/stigbergets-bryggeri-killer-pale-imperial-ddh/5496022"
 country: "Sweden"
 brewery: "Stigbergets Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stigbergets-bryggeri.html"
 style: "IPA - New England / Hazy"
 ---

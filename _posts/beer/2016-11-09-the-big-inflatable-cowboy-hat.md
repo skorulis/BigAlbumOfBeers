@@ -11,6 +11,6 @@ img: /img/list/the-big-inflatable-cowboy-hat.jpeg
 untappd: "https://untappd.com/b/siren-craft-brew-the-big-inflatable-cowboy-hat/381027"
 country: "England"
 brewery: "Siren Craft Brew"
-breweryURL: "breweryURL"
+breweryURL: "brewery/siren-craft-brew.html"
 style: "IPA - Imperial / Double"
 ---

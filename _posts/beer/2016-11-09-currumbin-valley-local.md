@@ -11,6 +11,6 @@ img: /img/list/currumbin-valley-local.jpeg
 untappd: "https://untappd.com/b/currumbin-valley-brewing-local/2899131"
 country: "Australia"
 brewery: "Currumbin Valley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/currumbin-valley-brewing.html"
 style: "Pale Ale - Australian"
 ---

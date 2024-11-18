@@ -11,6 +11,6 @@ img: /img/list/yulli-s-eugene.jpeg
 untappd: "https://untappd.com/b/yullis-brews-eugene-umeboshi-lager/3880116"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "Lager - Pale"
 ---

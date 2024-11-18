@@ -11,6 +11,6 @@ img: /img/list/batch-voyage-of-the-galaxy.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-voyage-of-the-galaxy/1300263"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

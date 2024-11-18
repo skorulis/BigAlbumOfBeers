@@ -11,6 +11,6 @@ img: /img/list/garage-project-progressive-infinite-iterations.jpeg
 untappd: "https://untappd.com/b/garage-project-progressive-infinite-iterations/4419719"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/roger-s-beer.jpeg
 untappd: "https://untappd.com/b/little-creatures-brewing-rogers-beer-/1474720"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-creatures-brewing.html"
 style: "Red Ale - American Amber / Red"
 ---

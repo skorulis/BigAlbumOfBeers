@@ -11,6 +11,6 @@ img: /img/list/billsons-easy-pale-ale.jpeg
 untappd: "https://untappd.com/b/billsons-1865-easy-pale-ale/5356248"
 country: "Australia"
 brewery: "Billson's 1865"
-breweryURL: "breweryURL"
+breweryURL: "brewery/billson-s-1865.html"
 style: "Pale Ale - Australian"
 ---

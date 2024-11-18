@@ -11,6 +11,6 @@ img: /img/list/fullers-bengal-lancer.jpeg
 untappd: "https://untappd.com/b/fuller--smith---turner--bengal-lancer/13458"
 country: "England"
 brewery: "Fuller, Smith & Turner "
-breweryURL: "breweryURL"
+breweryURL: "brewery/fuller--smith---turner-.html"
 style: "IPA - English"
 ---

@@ -11,6 +11,6 @@ img: /img/list/old-tom-chocolate.jpeg
 untappd: "https://untappd.com/b/robinsons-brewery-old-tom-chocolate/40157"
 country: "England"
 brewery: "Robinsons Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/robinsons-brewery.html"
 style: "Strong Ale - English"
 ---

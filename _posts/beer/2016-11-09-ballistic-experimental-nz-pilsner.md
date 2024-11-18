@@ -11,6 +11,6 @@ img: /img/list/ballistic-experimental-nz-pilsner.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-experimental-nz-pilsner/5112802"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ballistic-beer.html"
 style: "Pilsner - Other"
 ---

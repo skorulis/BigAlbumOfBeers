@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-lemon-meringue-cream-sour.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-lemon-meringue-cream-sour/2596036"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sailors-grave-brewing.html"
 style: "Sour - Other"
 ---

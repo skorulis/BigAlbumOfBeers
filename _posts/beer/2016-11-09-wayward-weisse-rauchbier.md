@@ -11,6 +11,6 @@ img: /img/list/wayward-weisse-rauchbier.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-weibe-rauch/3909555"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Lager - Pale"
 ---

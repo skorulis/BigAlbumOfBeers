@@ -11,6 +11,6 @@ img: /img/list/carlsberg.jpeg
 untappd: "https://untappd.com/b/carlsberg-group-carlsberg/5991"
 country: "Denmark"
 brewery: "Carlsberg Group"
-breweryURL: "breweryURL"
+breweryURL: "brewery/carlsberg-group.html"
 style: "Lager - Euro"
 ---

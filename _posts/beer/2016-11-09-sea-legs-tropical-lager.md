@@ -11,6 +11,6 @@ img: /img/list/sea-legs-tropical-lager.jpeg
 untappd: "https://untappd.com/b/sea-legs-brewing-co--tropical-lager/3009907"
 country: "Australia"
 brewery: "Sea Legs Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sea-legs-brewing-co.html"
 style: "Lager - Pale"
 ---

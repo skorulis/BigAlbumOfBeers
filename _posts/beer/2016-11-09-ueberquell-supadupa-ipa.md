@@ -11,6 +11,6 @@ img: /img/list/ueberquell-supadupa-ipa.jpeg
 untappd: "https://untappd.com/b/uberquell-supadupa-ipa/2215280"
 country: "Germany"
 brewery: "ÜberQuell"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ueberquell.html"
 style: "IPA - American"
 ---

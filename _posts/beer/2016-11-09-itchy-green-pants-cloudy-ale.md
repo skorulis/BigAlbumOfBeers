@@ -11,6 +11,6 @@ img: /img/list/itchy-green-pants-cloudy-ale.jpeg
 untappd: "https://untappd.com/b/matilda-bay-brewing-company-itchy-green-pants--i-g-p-/126113"
 country: "Australia"
 brewery: "Matilda Bay Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/matilda-bay-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

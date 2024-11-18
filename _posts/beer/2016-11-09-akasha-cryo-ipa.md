@@ -11,6 +11,6 @@ img: /img/list/akasha-cryo-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--cryo-ipa/3356284"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company--australia.html"
 style: "IPA - American"
 ---

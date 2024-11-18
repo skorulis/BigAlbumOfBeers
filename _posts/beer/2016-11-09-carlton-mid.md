@@ -11,6 +11,6 @@ img: /img/list/carlton-mid.jpeg
 untappd: "https://untappd.com/b/carlton---united-breweries-carlton-midstrength/6091"
 country: "Australia"
 brewery: "Carlton & United Breweries"
-breweryURL: "breweryURL"
+breweryURL: "brewery/carlton---united-breweries.html"
 style: "Lager - North American Adjunct"
 ---

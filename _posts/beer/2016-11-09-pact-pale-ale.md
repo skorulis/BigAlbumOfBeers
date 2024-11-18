@@ -11,6 +11,6 @@ img: /img/list/pact-pale-ale.jpeg
 untappd: "https://untappd.com/b/pact-beer-co--mount-tennent-pale-ale/1102747"
 country: "Australia"
 brewery: "Pact Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/pact-beer-co.html"
 style: "Pale Ale - American"
 ---

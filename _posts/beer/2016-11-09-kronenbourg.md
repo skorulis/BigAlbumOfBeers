@@ -11,6 +11,6 @@ img: /img/list/kronenbourg.jpeg
 untappd: "https://untappd.com/b/brasseries-kronenbourg-1664/5939"
 country: "France"
 brewery: "Brasseries Kronenbourg"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brasseries-kronenbourg.html"
 style: "Lager - Euro"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brewhouse-ipa.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-ipa/2132204"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/basement-brewhouse.html"
 style: "IPA - International"
 ---

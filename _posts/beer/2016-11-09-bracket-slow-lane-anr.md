@@ -11,6 +11,6 @@ img: /img/list/bracket-slow-lane-anr.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-anr/4961862"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Belgian Strong Golden Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bling-bling-imperial-ipa.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-bling-bling-imperial-ipa/313884"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bridge-road-brewers.html"
 style: "IPA - Imperial / Double"
 ---

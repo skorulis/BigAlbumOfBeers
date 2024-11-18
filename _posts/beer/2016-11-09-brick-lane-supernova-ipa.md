@@ -11,6 +11,6 @@ img: /img/list/brick-lane-supernova-ipa.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--supernova-ipa/3647807"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/brick-lane-brewing-co.html"
 style: "IPA - American"
 ---

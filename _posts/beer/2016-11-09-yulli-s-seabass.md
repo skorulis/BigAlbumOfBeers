@@ -11,6 +11,6 @@ img: /img/list/yulli-s-seabass.jpeg
 untappd: "https://untappd.com/b/yullis-brews-seabass-mediterranean-lager/1336924"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "Lager - Pale"
 ---

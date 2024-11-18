@@ -11,6 +11,6 @@ img: /img/list/cheers-x-tra.jpeg
 untappd: "https://untappd.com/b/thai-asia-pacific-brewery-cheers-x-tra/17453"
 country: "Thailand"
 brewery: "Thai Asia Pacific Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/thai-asia-pacific-brewery.html"
 style: "Lager - Euro Strong"
 ---

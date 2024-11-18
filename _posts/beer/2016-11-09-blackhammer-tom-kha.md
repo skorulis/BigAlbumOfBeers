@@ -11,6 +11,6 @@ img: /img/list/blackhammer-tom-kha.jpeg
 untappd: "https://untappd.com/b/black-hammer-brewing-company-tom-kha/4981720"
 country: "United States"
 brewery: "Black Hammer Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/black-hammer-brewing-company.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

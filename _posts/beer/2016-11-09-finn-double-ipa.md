@@ -11,6 +11,6 @@ img: /img/list/finn-double-ipa.jpeg
 untappd: "https://untappd.com/b/brygghuset-finn-double-ipa/5478150"
 country: "Sweden"
 brewery: "Brygghuset Finn"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brygghuset-finn.html"
 style: "IPA - Imperial / Double"
 ---

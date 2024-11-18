@@ -11,6 +11,6 @@ img: /img/list/brewdog-cocoa-psycho.jpeg
 untappd: "https://untappd.com/b/brewdog-cocoa-psycho/273455"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewdog.html"
 style: "Stout - Russian Imperial"
 ---

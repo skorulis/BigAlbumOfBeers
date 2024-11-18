@@ -11,6 +11,6 @@ img: /img/list/new-england-little-ram.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co--little-ram/2339289"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/new-england-brewing-co.html"
 style: "Table Beer"
 ---

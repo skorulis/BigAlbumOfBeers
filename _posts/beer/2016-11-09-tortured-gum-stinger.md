@@ -11,6 +11,6 @@ img: /img/list/tortured-gum-stinger.jpeg
 untappd: "https://untappd.com/b/tortured-gum-stinger/1320175"
 country: "Australia"
 brewery: "Tortured Gum"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tortured-gum.html"
 style: "Pale Wheat Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/six-point-resin.jpeg
 untappd: "https://untappd.com/b/sixpoint-brewery-resin/117064"
 country: "United States"
 brewery: "Sixpoint Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sixpoint-brewery.html"
 style: "IPA - Imperial / Double"
 ---

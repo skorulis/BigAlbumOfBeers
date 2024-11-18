@@ -11,6 +11,6 @@ img: /img/list/alesmith-pale-ale--394.jpeg
 untappd: "https://untappd.com/b/alesmith-brewing-company-san-diego-pale-ale--394/705460"
 country: "United States"
 brewery: "AleSmith Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/alesmith-brewing-company.html"
 style: "Pale Ale - American"
 ---

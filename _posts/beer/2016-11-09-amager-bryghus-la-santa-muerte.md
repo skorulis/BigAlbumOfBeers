@@ -11,6 +11,6 @@ img: /img/list/amager-bryghus-la-santa-muerte.jpeg
 untappd: "https://untappd.com/b/amager-bryghus-la-santa-muerte/1327092"
 country: "Denmark"
 brewery: "Amager Bryghus"
-breweryURL: "breweryURL"
+breweryURL: "brewery/amager-bryghus.html"
 style: "Stout - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-celebration.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--celebration-ale/16630"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sierra-nevada-brewing-co.html"
 style: "IPA - American"
 ---

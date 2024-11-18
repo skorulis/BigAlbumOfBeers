@@ -11,6 +11,6 @@ img: /img/list/endeavour-double-ipa.jpeg
 untappd: "https://untappd.com/b/endeavour-brewing-co--double-stacked-iipa/2567307"
 country: "Australia"
 brewery: "ENDEAVOUR Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/endeavour-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

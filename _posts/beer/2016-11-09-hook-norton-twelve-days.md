@@ -11,6 +11,6 @@ img: /img/list/hook-norton-twelve-days.jpeg
 untappd: "https://untappd.com/b/hook-norton-brewery-twelve-days/66"
 country: "England"
 brewery: "Hook Norton Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hook-norton-brewery.html"
 style: "Strong Ale - English"
 ---

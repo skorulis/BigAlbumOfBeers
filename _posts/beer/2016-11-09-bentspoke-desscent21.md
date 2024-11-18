@@ -11,6 +11,6 @@ img: /img/list/bentspoke-desscent21.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-descent-21/4346478"
 country: "Australia"
 brewery: "BentSpoke Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bentspoke-brewing-co.html"
 style: "Stout - Russian Imperial"
 ---

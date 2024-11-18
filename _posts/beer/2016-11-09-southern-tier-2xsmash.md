@@ -11,6 +11,6 @@ img: /img/list/southern-tier-2xsmash.jpeg
 untappd: "https://untappd.com/b/southern-tier-brewing-company-2xsmash/1331388"
 country: "United States"
 brewery: "Southern Tier Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/southern-tier-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

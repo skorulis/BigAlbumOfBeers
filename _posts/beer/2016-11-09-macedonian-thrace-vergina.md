@@ -11,6 +11,6 @@ img: /img/list/macedonian-thrace-vergina.jpeg
 untappd: "https://untappd.com/b/macedonian-thrace-brewery-vergina----lager/106431"
 country: "Greece"
 brewery: "Macedonian Thrace Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/macedonian-thrace-brewery.html"
 style: "Lager - Pale"
 ---

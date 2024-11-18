@@ -11,6 +11,6 @@ img: /img/list/reckless-red-ipa.jpeg
 untappd: "https://untappd.com/b/reckless-brewing-co--red-ipa/3704835"
 country: "Australia"
 brewery: "Reckless Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/reckless-brewing-co.html"
 style: "IPA - Red"
 ---

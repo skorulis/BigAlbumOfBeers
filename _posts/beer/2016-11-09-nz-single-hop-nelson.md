@@ -11,6 +11,6 @@ img: /img/list/nz-single-hop-nelson.jpeg
 untappd: "https://untappd.com/b/bacchus-brewing-co--mosaic-ipa---single-hop-series/311195"
 country: "Australia"
 brewery: "Bacchus Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bacchus-brewing-co.html"
 style: "IPA - American"
 ---

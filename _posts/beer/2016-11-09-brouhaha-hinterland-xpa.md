@@ -11,6 +11,6 @@ img: /img/list/brouhaha-hinterland-xpa.jpeg
 untappd: "https://untappd.com/b/brouhaha-brewery-hinterland-xpa/4049849"
 country: "Australia"
 brewery: "Brouhaha Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouhaha-brewery.html"
 style: "Pale Ale - Australian"
 ---

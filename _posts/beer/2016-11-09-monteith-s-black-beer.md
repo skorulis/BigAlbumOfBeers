@@ -11,6 +11,6 @@ img: /img/list/monteith-s-black-beer.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-black-beer/212704"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "breweryURL"
+breweryURL: "brewery/monteith-s-brewing-co--.html"
 style: "Lager - Dark"
 ---

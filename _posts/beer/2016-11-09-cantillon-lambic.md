@@ -11,6 +11,6 @@ img: /img/list/cantillon-lambic.jpeg
 untappd: "https://untappd.com/b/brasserie-cantillon-gueuze-100-lambic-bio/56829"
 country: "Belgium"
 brewery: "Brasserie Cantillon"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brasserie-cantillon.html"
 style: "Lambic - Gueuze"
 ---

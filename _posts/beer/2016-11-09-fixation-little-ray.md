@@ -11,6 +11,6 @@ img: /img/list/fixation-little-ray.jpeg
 untappd: "https://untappd.com/b/fixation-brewing-co-little-ray/3081744"
 country: "Australia"
 brewery: "Fixation Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fixation-brewing-co.html"
 style: "IPA - Session / India Session Ale"
 ---

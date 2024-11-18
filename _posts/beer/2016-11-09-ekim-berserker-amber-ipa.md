@@ -11,6 +11,6 @@ img: /img/list/ekim-berserker-amber-ipa.jpeg
 untappd: "https://untappd.com/b/ekim-brewing-co--berserker/158431"
 country: "Australia"
 brewery: "Ekim Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/ekim-brewing-co.html"
 style: "IPA - American"
 ---

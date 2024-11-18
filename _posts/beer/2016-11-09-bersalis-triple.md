@@ -11,6 +11,6 @@ img: /img/list/bersalis-triple.jpeg
 untappd: "https://untappd.com/b/brouwerij-oud-beersel-bersalis-tripel/20141"
 country: "Belgium"
 brewery: "Brouwerij Oud Beersel"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-oud-beersel.html"
 style: "Belgian Tripel"
 ---

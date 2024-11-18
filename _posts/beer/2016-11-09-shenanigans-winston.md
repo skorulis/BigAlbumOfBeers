@@ -11,6 +11,6 @@ img: /img/list/shenanigans-winston.jpeg
 untappd: "https://untappd.com/b/shenanigans-brewing-co--winston/670544"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/shenanigans-brewing-co.html"
 style: "Pale Ale - International"
 ---

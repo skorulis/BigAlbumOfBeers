@@ -11,6 +11,6 @@ img: /img/list/cruzcampo.jpeg
 untappd: "https://untappd.com/b/cruzcampo--heineken-espana--cruzcampo-pilsen/399207"
 country: "Spain"
 brewery: "Cruzcampo (Heineken España)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cruzcampo--heineken-espana.html"
 style: "Pilsner - Other"
 ---

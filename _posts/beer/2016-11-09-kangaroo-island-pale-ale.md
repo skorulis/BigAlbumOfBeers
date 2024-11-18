@@ -11,6 +11,6 @@ img: /img/list/kangaroo-island-pale-ale.jpeg
 untappd: "https://untappd.com/b/kangaroo-island-brewery-pale-ale/2938709"
 country: "Australia"
 brewery: "Kangaroo Island Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kangaroo-island-brewery.html"
 style: "Pale Ale - Australian"
 ---

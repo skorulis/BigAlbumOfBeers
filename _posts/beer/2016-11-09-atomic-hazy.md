@@ -11,6 +11,6 @@ img: /img/list/atomic-hazy.jpeg
 untappd: "https://untappd.com/b/atomic-hazy/4196605"
 country: "Australia"
 brewery: "Atomic"
-breweryURL: "breweryURL"
+breweryURL: "brewery/atomic.html"
 style: "Pale Ale - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/peach-sauce.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-peach-sauce/2918456"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sauce-brewing-co.html"
 style: "Sour - Berliner Weisse"
 ---

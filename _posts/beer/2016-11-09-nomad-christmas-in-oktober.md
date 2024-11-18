@@ -11,6 +11,6 @@ img: /img/list/nomad-christmas-in-oktober.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--christmas-in-oktober/5112847"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "Märzen"
 ---

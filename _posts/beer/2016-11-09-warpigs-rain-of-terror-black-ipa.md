@@ -11,6 +11,6 @@ img: /img/list/warpigs-rain-of-terror-black-ipa.jpeg
 untappd: "https://untappd.com/b/warpigs-brewpub-rain-of-terror/2768672"
 country: "Denmark"
 brewery: "WarPigs Brewpub"
-breweryURL: "breweryURL"
+breweryURL: "brewery/warpigs-brewpub.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

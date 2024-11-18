@@ -11,6 +11,6 @@ img: /img/list/bridge-road-nitro-robust-porter.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-nitro-robust-porter/3884879"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bridge-road-brewers.html"
 style: "Porter - English"
 ---

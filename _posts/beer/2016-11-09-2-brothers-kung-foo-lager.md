@@ -11,6 +11,6 @@ img: /img/list/2-brothers-kung-foo-lager.jpeg
 untappd: "https://untappd.com/b/2-brothers-brewery--kung-foo/155613"
 country: "Australia"
 brewery: "2 Brothers Brewery "
-breweryURL: "breweryURL"
+breweryURL: "brewery/2-brothers-brewery-.html"
 style: "Lager - Japanese Rice"
 ---

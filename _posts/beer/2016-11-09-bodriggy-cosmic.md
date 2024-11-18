@@ -11,6 +11,6 @@ img: /img/list/bodriggy-cosmic.jpeg
 untappd: "https://untappd.com/b/bodriggy-brewing-co--cosmic-microwave-/2638728"
 country: "Australia"
 brewery: "Bodriggy Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bodriggy-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

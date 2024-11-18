@@ -11,6 +11,6 @@ img: /img/list/canyon-to-central-with-love.jpeg
 untappd: "https://untappd.com/b/canyon-brewing-canyon-brewing-to-central-with-love-pinot-noir-wild-ale/5896217"
 country: "New Zealand"
 brewery: "Canyon Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/canyon-brewing.html"
 style: "Wild Ale - Other"
 ---

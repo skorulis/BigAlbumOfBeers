@@ -11,6 +11,6 @@ img: /img/list/green-beacon-aussie-ipa.jpeg
 untappd: "https://untappd.com/b/green-beacon--aussie-ipa/5118785"
 country: "Australia"
 brewery: "Green Beacon "
-breweryURL: "breweryURL"
+breweryURL: "brewery/green-beacon-.html"
 style: "IPA - American"
 ---

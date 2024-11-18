@@ -11,6 +11,6 @@ img: /img/list/stigberget-fest-beer.jpeg
 untappd: "https://untappd.com/b/stigbergets-bryggeri-festbier/5525615"
 country: "Sweden"
 brewery: "Stigbergets Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stigbergets-bryggeri.html"
 style: "Lager - Helles"
 ---

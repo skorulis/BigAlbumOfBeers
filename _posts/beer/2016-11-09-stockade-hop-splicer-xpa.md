@@ -11,6 +11,6 @@ img: /img/list/stockade-hop-splicer-xpa.jpeg
 untappd: "https://untappd.com/b/stockade-brew-co-hop-splicer-xpa/2100386"
 country: "Australia"
 brewery: "Stockade Brew Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stockade-brew-co.html"
 style: "Pale Ale - Australian"
 ---

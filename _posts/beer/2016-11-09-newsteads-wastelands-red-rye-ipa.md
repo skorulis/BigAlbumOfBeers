@@ -11,6 +11,6 @@ img: /img/list/newsteads-wastelands-red-rye-ipa.jpeg
 untappd: "https://untappd.com/b/newstead-brewing-co--wastelands/1712475"
 country: "Australia"
 brewery: "Newstead Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/newstead-brewing-co.html"
 style: "Rye Beer"
 ---

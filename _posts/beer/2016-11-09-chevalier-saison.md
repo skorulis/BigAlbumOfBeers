@@ -11,6 +11,6 @@ img: /img/list/chevalier-saison.jpeg
 untappd: "https://untappd.com/b/bridge-road-brewers-chevalier-saison/13196"
 country: "Australia"
 brewery: "Bridge Road Brewers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bridge-road-brewers.html"
 style: "Saison / Farmhouse Ale"
 ---

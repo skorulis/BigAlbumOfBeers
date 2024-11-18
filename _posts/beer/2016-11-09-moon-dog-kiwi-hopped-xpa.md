@@ -11,6 +11,6 @@ img: /img/list/moon-dog-kiwi-hopped-xpa.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-kiwi-hopped-xpa/4847674"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moon-dog-craft-brewery.html"
 style: "Pale Ale - New Zealand"
 ---

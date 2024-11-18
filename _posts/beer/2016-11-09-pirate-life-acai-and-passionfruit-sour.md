@@ -1,6 +1,6 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-aca-and-passionfruit-sour.md
+filename: _posts/beer/2016-11-09-pirate-life-acai-and-passionfruit-sour.md
 title: Pirate life açaí and passionfruit sour
 category: beer
 score: 7.5
@@ -11,6 +11,6 @@ img: /img/list/pirate-life-aca-and-passionfruit-sour.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-acai---passionfruit-sour/3116844"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "Sour - Fruited"
 ---

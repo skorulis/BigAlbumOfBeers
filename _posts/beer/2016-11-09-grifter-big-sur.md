@@ -11,6 +11,6 @@ img: /img/list/grifter-big-sur.jpeg
 untappd: "https://untappd.com/b/grifter-brewing-company-big-sur/484287"
 country: "Australia"
 brewery: "Grifter Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/grifter-brewing-company.html"
 style: "IPA - American"
 ---

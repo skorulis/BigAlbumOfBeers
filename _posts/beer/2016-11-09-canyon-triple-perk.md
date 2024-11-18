@@ -11,6 +11,6 @@ img: /img/list/canyon-triple-perk.jpeg
 untappd: "https://untappd.com/b/canyon-brewing-canyon-brewing-triple-perk-coffee-milk-stout/5402066"
 country: "New Zealand"
 brewery: "Canyon Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/canyon-brewing.html"
 style: "Stout - Coffee"
 ---

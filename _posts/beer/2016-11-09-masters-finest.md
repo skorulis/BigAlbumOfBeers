@@ -11,6 +11,6 @@ img: /img/list/masters-finest.jpeg
 untappd: "https://untappd.com/b/elaboraday-masters-finest/1316556"
 country: "Netherlands"
 brewery: "Elaboraday"
-breweryURL: "breweryURL"
+breweryURL: "brewery/elaboraday.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pirate-life-stout.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-stout/1625293"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "Stout - Oatmeal"
 ---

@@ -11,6 +11,6 @@ img: /img/list/thunder-road-dark-and-creamy.jpeg
 untappd: "https://untappd.com/b/thunder-road-brewing-company-dark---creamy-boysenberry-ipa/3323450"
 country: "Australia"
 brewery: "Thunder Road Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/thunder-road-brewing-company.html"
 style: "IPA - Milkshake"
 ---

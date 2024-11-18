@@ -11,6 +11,6 @@ img: /img/list/batch-the-dank.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-the-dank-ipa/1853315"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

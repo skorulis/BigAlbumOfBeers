@@ -11,6 +11,6 @@ img: /img/list/hawkers-canadian-christmas-party.jpeg
 untappd: "https://untappd.com/b/hawkers-beer-hawkers-beer-canadian-christmas-party/5615148"
 country: "Australia"
 brewery: "Hawkers Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hawkers-beer.html"
 style: "Barleywine - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/deeds-lazy-summer.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-lazy-summer-hazy-days/4598677"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deeds-brewing.html"
 style: "IPA - New England / Hazy"
 ---

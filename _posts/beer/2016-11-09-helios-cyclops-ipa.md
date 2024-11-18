@@ -11,6 +11,6 @@ img: /img/list/helios-cyclops-ipa.jpeg
 untappd: "https://untappd.com/b/helios-brewing-co--cyclops/2576497"
 country: "Australia"
 brewery: "Helios Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/helios-brewing-co.html"
 style: "IPA - American"
 ---

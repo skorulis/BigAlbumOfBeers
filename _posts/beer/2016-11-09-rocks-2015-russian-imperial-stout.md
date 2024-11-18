@@ -11,6 +11,6 @@ img: /img/list/rocks-2015-russian-imperial-stout.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-russian-imperial-stout--2015-/1895991"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/rocks-brewing-co.html"
 style: "Stout - Russian Imperial"
 ---

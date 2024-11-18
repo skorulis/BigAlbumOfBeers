@@ -11,6 +11,6 @@ img: /img/list/wayward-violet-blueberry-marshmallow-lactose-sour-ale.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-violet-beauregardes-blueberry-marshmallow-lactose-sour-ale/5305499"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Sour - Smoothie / Pastry"
 ---

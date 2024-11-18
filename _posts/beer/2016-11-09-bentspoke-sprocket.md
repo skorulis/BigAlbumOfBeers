@@ -11,6 +11,6 @@ img: /img/list/bentspoke-sprocket.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-sprocket/756469"
 country: "Australia"
 brewery: "Bentspoke Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bentspoke-brewing-co.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/delirium-argentum.jpeg
 untappd: "https://untappd.com/b/brouwerij-huyghe-delirium-argentum/800757"
 country: "Belgium"
 brewery: "Brouwerij Huyghe"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-huyghe.html"
 style: "IPA - Belgian"
 ---

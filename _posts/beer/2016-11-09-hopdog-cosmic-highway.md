@@ -11,6 +11,6 @@ img: /img/list/hopdog-cosmic-highway.jpeg
 untappd: "https://untappd.com/b/hopdog-beerworks-cosmic-highway/277325"
 country: "Australia"
 brewery: "HopDog BeerWorks"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hopdog-beerworks.html"
 style: "Pale Ale - Australian"
 ---

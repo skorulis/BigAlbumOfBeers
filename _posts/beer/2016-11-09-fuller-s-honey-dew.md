@@ -11,6 +11,6 @@ img: /img/list/fuller-s-honey-dew.jpeg
 untappd: "https://untappd.com/b/fuller--smith---turner--honey-dew/22286"
 country: "England"
 brewery: "Fuller, Smith & Turner "
-breweryURL: "breweryURL"
+breweryURL: "brewery/fuller--smith---turner-.html"
 style: "Golden Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/perlenbacher-pils.jpeg
 untappd: "https://untappd.com/b/mauritius-brauerei-perlenbacher-premium-pils/185351"
 country: "Germany"
 brewery: "Mauritius Brauerei"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mauritius-brauerei.html"
 style: "Pilsner - German"
 ---

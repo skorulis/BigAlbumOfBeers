@@ -11,6 +11,6 @@ img: /img/list/deeds-primal-horde.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-primal-horde/4026681"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deeds-brewing.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/emersons-reverb.jpeg
 untappd: "https://untappd.com/b/emerson-s-brewery-emerson-s-brewery-reverb/4973857"
 country: "New Zealand"
 brewery: "Emerson's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/emerson-s-brewery.html"
 style: "IPA - New Zealand"
 ---

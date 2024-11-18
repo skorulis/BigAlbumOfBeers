@@ -11,6 +11,6 @@ img: /img/list/buxton-brewery-gatekeeper.jpeg
 untappd: "https://untappd.com/b/buxton-brewery-gatekeeper/2632510"
 country: "England"
 brewery: "Buxton Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/buxton-brewery.html"
 style: "Porter - English"
 ---

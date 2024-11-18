@@ -11,6 +11,6 @@ img: /img/list/4-pines-hazy-pale-ale.jpeg
 untappd: "https://untappd.com/b/4-pines-brewing-company-keller-door--hazy-pale-ale--2022-/4665506"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/4-pines-brewing-company.html"
 style: "Pale Ale - New England / Hazy"
 ---

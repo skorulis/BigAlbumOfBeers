@@ -11,6 +11,6 @@ img: /img/list/nomad-red-nosed-reindeer.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--rednosed-reindeer/2977945"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "IPA - Red"
 ---

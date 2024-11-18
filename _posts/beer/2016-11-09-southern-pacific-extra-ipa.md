@@ -11,6 +11,6 @@ img: /img/list/southern-pacific-extra-ipa.jpeg
 untappd: "https://untappd.com/b/southern-pacific-brewing-extra-india-pale-ale/124749"
 country: "United States"
 brewery: "Southern Pacific Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/southern-pacific-brewing.html"
 style: "IPA - American"
 ---

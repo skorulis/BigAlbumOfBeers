@@ -11,6 +11,6 @@ img: /img/list/brick-lane-avalanche.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--avalanche--blue-release-/4423880"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/brick-lane-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

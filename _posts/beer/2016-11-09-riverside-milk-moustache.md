@@ -11,6 +11,6 @@ img: /img/list/riverside-milk-moustache.jpeg
 untappd: "https://untappd.com/b/riverside-brewing-company-milk-moustache/2632370"
 country: "Australia"
 brewery: "Riverside Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/riverside-brewing-company.html"
 style: "Stout - Milk / Sweet"
 ---

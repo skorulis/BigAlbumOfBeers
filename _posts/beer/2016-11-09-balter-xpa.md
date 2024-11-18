@@ -11,6 +11,6 @@ img: /img/list/balter-xpa.jpeg
 untappd: "https://untappd.com/b/balter-brewing-company-xpa/1459461"
 country: "Australia"
 brewery: "Balter Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/balter-brewing-company.html"
 style: "Pale Ale - American"
 ---

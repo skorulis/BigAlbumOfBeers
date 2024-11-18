@@ -11,6 +11,6 @@ img: /img/list/six-strings-electric-feel.jpeg
 untappd: "https://untappd.com/b/six-string-brewing-company-electric-feel-cryo-hopped-oat-cream-ipa/4487956"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/six-string-brewing-company.html"
 style: "IPA - Milkshake"
 ---

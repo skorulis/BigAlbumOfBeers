@@ -11,6 +11,6 @@ img: /img/list/black-hops-afterburner.jpeg
 untappd: "https://untappd.com/b/black-hops-brewing-afterburner-red-ipa/4576962"
 country: "Australia"
 brewery: "Black Hops Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/black-hops-brewing.html"
 style: "IPA - Red"
 ---

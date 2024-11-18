@@ -11,6 +11,6 @@ img: /img/list/louisiane-brewhouse-pilsner.jpeg
 untappd: "https://untappd.com/b/louisiane-brewhouse-louisiane-brewhouse-pilsener/129286"
 country: "Vietnam"
 brewery: "Louisiane Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/louisiane-brewhouse.html"
 style: "Pilsner - Czech"
 ---

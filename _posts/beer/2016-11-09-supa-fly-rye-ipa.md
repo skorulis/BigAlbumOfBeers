@@ -11,6 +11,6 @@ img: /img/list/supa-fly-rye-ipa.jpeg
 untappd: "https://untappd.com/b/brewcult-supa-fly-rye-ipa/507901"
 country: "Australia"
 brewery: "BrewCult"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewcult.html"
 style: "Rye IPA"
 ---

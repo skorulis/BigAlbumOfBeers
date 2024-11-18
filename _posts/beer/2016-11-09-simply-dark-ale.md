@@ -11,6 +11,6 @@ img: /img/list/simply-dark-ale.jpeg
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-simply-dark-ale/182706"
 country: "England"
 brewery: "Tesco Stores Ltd."
-breweryURL: "breweryURL"
+breweryURL: "brewery/tesco-stores-ltd.html"
 style: "Dark Ale"
 ---

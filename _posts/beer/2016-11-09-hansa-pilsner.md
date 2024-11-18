@@ -11,6 +11,6 @@ img: /img/list/hansa-pilsner.jpeg
 untappd: "https://untappd.com/b/hansa-borg-bryggerier-hansa-pilsner/1861"
 country: "Norway"
 brewery: "Hansa Borg Bryggerier"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hansa-borg-bryggerier.html"
 style: "Pilsner - Other"
 ---

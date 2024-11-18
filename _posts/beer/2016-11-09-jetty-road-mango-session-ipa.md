@@ -11,6 +11,6 @@ img: /img/list/jetty-road-mango-session-ipa.jpeg
 untappd: "https://untappd.com/b/jetty-road-brewery-mango-session-ipa/5112811"
 country: "Australia"
 brewery: "Jetty Road Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/jetty-road-brewery.html"
 style: "IPA - Session"
 ---

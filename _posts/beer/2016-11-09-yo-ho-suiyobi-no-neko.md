@@ -11,6 +11,6 @@ img: /img/list/yo-ho-suiyobi-no-neko.jpeg
 untappd: "https://untappd.com/b/yo-ho-brewing-company-suiyoubi-no-neko---/230029"
 country: "Japan"
 brewery: "Yo-Ho Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yo-ho-brewing-company.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

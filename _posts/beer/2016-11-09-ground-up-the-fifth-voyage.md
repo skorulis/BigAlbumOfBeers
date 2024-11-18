@@ -11,6 +11,6 @@ img: /img/list/ground-up-the-fifth-voyage.jpeg
 untappd: "https://untappd.com/b/ground-up-brewing-ground-up-brewing-the-fifth-voyage/1525497"
 country: "New Zealand"
 brewery: "Ground Up Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ground-up-brewing.html"
 style: "Porter - Other"
 ---

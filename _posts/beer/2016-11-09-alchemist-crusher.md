@@ -11,6 +11,6 @@ img: /img/list/alchemist-crusher.jpeg
 untappd: "https://untappd.com/b/the-alchemist-the-alchemist-crusher/25785"
 country: "United States"
 brewery: "The Alchemist"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-alchemist.html"
 style: "IPA - Imperial / Double"
 ---

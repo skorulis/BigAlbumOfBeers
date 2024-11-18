@@ -11,6 +11,6 @@ img: /img/list/new-england-raindrop-ipa.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co--raindrop-ipa-w-local-honey/4169717"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/new-england-brewing-co.html"
 style: "IPA - New England"
 ---

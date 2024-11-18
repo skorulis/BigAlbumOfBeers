@@ -11,6 +11,6 @@ img: /img/list/blackhammer-barrel-at-the-end-of-the-universe.jpeg
 untappd: "https://untappd.com/b/black-hammer-brewing-company-barrel-at-the-end-of-the-universe/4716904"
 country: "United States"
 brewery: "Black Hammer Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/black-hammer-brewing-company.html"
 style: "Barleywine - Other"
 ---

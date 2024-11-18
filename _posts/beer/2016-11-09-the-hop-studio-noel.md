@@ -11,6 +11,6 @@ img: /img/list/the-hop-studio-noel.jpeg
 untappd: "https://untappd.com/b/the-hop-studio-there-is-noel-in-christmas/275078"
 country: "England"
 brewery: "The Hop Studio"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-hop-studio.html"
 style: "Winter Ale"
 ---

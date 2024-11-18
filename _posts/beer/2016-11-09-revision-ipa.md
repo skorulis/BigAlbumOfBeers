@@ -11,6 +11,6 @@ img: /img/list/revision-ipa.jpeg
 untappd: "https://untappd.com/b/revision-brewing-company-revision-ipa/1186311"
 country: "United States"
 brewery: "Revision Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/revision-brewing-company.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/icing-grapefruit.jpeg
 untappd: "https://untappd.com/b/kooksoondang-icing-grapefruit-sparkling-rice-brew/815374"
 country: "South Korea"
 brewery: "Kooksoondang"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kooksoondang.html"
 style: "Specialty Grain"
 ---

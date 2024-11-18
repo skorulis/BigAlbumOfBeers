@@ -11,6 +11,6 @@ img: /img/list/meantime-london-stout.jpeg
 untappd: "https://untappd.com/b/meantime-brewing-company-london-stout/25773"
 country: "England"
 brewery: "Meantime Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/meantime-brewing-company.html"
 style: "Stout - Other"
 ---

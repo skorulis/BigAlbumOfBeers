@@ -11,6 +11,6 @@ img: /img/list/cervisiam-impeached.jpeg
 untappd: "https://untappd.com/b/cervisiam-impeached/3641026"
 country: "Norway"
 brewery: "Cervisiam"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cervisiam.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

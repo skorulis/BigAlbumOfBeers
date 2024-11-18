@@ -11,6 +11,6 @@ img: /img/list/hope-jet-black-iiipa.jpeg
 untappd: "https://untappd.com/b/hope-brewery-f-111-hope-jet-black-ipa/1662134"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hope-brewery.html"
 style: "IPA - Triple"
 ---

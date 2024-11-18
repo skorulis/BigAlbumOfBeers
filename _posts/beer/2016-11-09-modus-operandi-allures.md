@@ -11,6 +11,6 @@ img: /img/list/modus-operandi-allures.jpeg
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--allpress-hazy-espresso-xpa/4156368"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/modus-operandi-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

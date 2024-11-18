@@ -11,6 +11,6 @@ img: /img/list/bright-fred-s-fog-ipa.jpeg
 untappd: "https://untappd.com/b/bright-brewery-freds-fog-ipa/5263377"
 country: "Australia"
 brewery: "Bright Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bright-brewery.html"
 style: "IPA - Other"
 ---

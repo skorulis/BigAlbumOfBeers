@@ -11,6 +11,6 @@ img: /img/list/the-kernel-simcoe-pale-ale.jpeg
 untappd: "https://untappd.com/b/the-kernel-brewery-pale-ale-simcoe/304904"
 country: "England"
 brewery: "The Kernel Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-kernel-brewery.html"
 style: "Pale Ale - American"
 ---

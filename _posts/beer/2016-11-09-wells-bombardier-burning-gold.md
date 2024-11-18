@@ -11,6 +11,6 @@ img: /img/list/wells-bombardier-burning-gold.jpeg
 untappd: "https://untappd.com/b/charles-wells-brewery-wells-bombardier-burning-gold/26221"
 country: "England"
 brewery: "Charles Wells Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/charles-wells-brewery.html"
 style: "Golden Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bracket-vienna-lager.jpeg
 untappd: "https://untappd.com/b/frenchies-the-world-of-yesterday---vienna-lager/4026651"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "breweryURL"
+breweryURL: "brewery/frenchies.html"
 style: "Lager - Vienna"
 ---

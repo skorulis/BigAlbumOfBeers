@@ -11,6 +11,6 @@ img: /img/list/lost-coast-great-white.jpeg
 untappd: "https://untappd.com/b/lost-coast-brewery-great-white/3377"
 country: "United States"
 brewery: "Lost Coast Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/lost-coast-brewery.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

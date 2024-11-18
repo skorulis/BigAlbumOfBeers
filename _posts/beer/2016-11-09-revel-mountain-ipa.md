@@ -11,6 +11,6 @@ img: /img/list/revel-mountain-ipa.jpeg
 untappd: "https://untappd.com/b/revel-brewing-co-mountain-ipa-local-lockdown-series/4074683"
 country: "Australia"
 brewery: "Revel Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/revel-brewing-co.html"
 style: "IPA - American"
 ---

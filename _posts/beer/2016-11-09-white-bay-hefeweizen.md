@@ -11,6 +11,6 @@ img: /img/list/white-bay-hefeweizen.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co-white-bay-beer-co-hefeweizen/5526150"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/white-bay-beer-co.html"
 style: "Wheat Beer - Hefeweizen"
 ---

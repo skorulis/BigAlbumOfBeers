@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-grapefruit-xpa.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-grapefruit-xpa/4306279"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-goat-beer.html"
 style: "Pale Ale - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/doctors-orders-electrolyte-serum.jpeg
 untappd: "https://untappd.com/b/doctors-orders-brewing-electrolyte-serum/781047"
 country: "Australia"
 brewery: "Doctor's Orders Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/doctor-s-orders-brewing.html"
 style: "Sour - Gose"
 ---

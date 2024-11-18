@@ -11,6 +11,6 @@ img: /img/list/cascade-draught.jpeg
 untappd: "https://untappd.com/b/cascade-brewery-co-cascade-draught/11575"
 country: "Australia"
 brewery: "Cascade Brewery Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cascade-brewery-co.html"
 style: "Lager - Pale"
 ---

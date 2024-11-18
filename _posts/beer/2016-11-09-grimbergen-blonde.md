@@ -11,6 +11,6 @@ img: /img/list/grimbergen-blonde.jpeg
 untappd: "https://untappd.com/b/brouwerij-alken-maes-grimbergen-blonde/2"
 country: "Belgium"
 brewery: "Brouwerij Alken-Maes"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-alken-maes.html"
 style: "Blonde Ale - Belgian Blonde / Golden"
 ---

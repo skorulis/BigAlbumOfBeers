@@ -11,6 +11,6 @@ img: /img/list/mountain-goat-barley-wine.jpeg
 untappd: "https://untappd.com/b/mountain-goat-beer-barrel-breed--barley-wine--2018-/2566609"
 country: "Australia"
 brewery: "Mountain Goat Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-goat-beer.html"
 style: "Barleywine - English"
 ---

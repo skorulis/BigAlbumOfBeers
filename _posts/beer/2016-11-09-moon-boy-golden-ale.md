@@ -11,6 +11,6 @@ img: /img/list/moon-boy-golden-ale.jpeg
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-moon-boy/447243"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/murray-s-craft-brewing-co.html"
 style: "Golden Ale"
 ---

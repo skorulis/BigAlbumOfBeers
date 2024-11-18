@@ -11,6 +11,6 @@ img: /img/list/aegir-smoky-rye.jpeg
 untappd: "https://untappd.com/b/aegir-bryggeri-smoky-rye/5519653"
 country: "Norway"
 brewery: "Ægir Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/aegir-bryggeri.html"
 style: "Smoked Beer"
 ---

@@ -11,6 +11,6 @@ img: /img/list/lervig-tasty-juice.jpeg
 untappd: "https://untappd.com/b/lervig-tasty-juice/1862728"
 country: "Norway"
 brewery: "LERVIG"
-breweryURL: "breweryURL"
+breweryURL: "brewery/lervig.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bracket-solid-excuse.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-solid-excuse/5000447"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

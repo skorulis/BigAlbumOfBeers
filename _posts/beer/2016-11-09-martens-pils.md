@@ -11,6 +11,6 @@ img: /img/list/martens-pils.jpeg
 untappd: "https://untappd.com/b/brouwerij-martens-martens-pils/34480"
 country: "Belgium"
 brewery: "Brouwerij Martens"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-martens.html"
 style: "Pilsner - Other"
 ---

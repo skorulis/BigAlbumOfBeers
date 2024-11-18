@@ -11,6 +11,6 @@ img: /img/list/wayward-saison.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-la-saison-petite/1456623"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Saison / Farmhouse Ale"
 ---

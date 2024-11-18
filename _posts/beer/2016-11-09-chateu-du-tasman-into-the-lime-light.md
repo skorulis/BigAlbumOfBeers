@@ -11,6 +11,6 @@ img: /img/list/chateu-du-tasman-into-the-lime-light.jpeg
 untappd: "https://untappd.com/b/liberty-brewing-chateau-du-tasman---into-the-lime-light/3168321"
 country: "New Zealand"
 brewery: "Liberty Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/liberty-brewing.html"
 style: "Sour - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bracket-single-origin.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-single-origin/5255387"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Stout - Imperial / Double Coffee"
 ---

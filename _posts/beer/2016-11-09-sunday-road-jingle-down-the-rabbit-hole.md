@@ -11,6 +11,6 @@ img: /img/list/sunday-road-jingle-down-the-rabbit-hole.jpeg
 untappd: "https://untappd.com/b/sunday-road-brewing-jingle-down-the-rabbit-hole/5112841"
 country: "Australia"
 brewery: "Sunday Road Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sunday-road-brewing.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

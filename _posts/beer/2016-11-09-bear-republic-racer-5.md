@@ -11,6 +11,6 @@ img: /img/list/bear-republic-racer-5.jpeg
 untappd: "https://untappd.com/b/bear-republic-brewing-co--racer-5-ipa/1553"
 country: "United States"
 brewery: "Bear Republic Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bear-republic-brewing-co.html"
 style: "IPA - American"
 ---

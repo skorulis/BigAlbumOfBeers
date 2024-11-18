@@ -11,6 +11,6 @@ img: /img/list/bracket-blackberry---vanilla.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-blackberry---vanilla/4476273"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Sour - Fruited"
 ---

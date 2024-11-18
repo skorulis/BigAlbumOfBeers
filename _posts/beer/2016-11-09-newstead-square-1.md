@@ -11,6 +11,6 @@ img: /img/list/newstead-square-1.jpeg
 untappd: "https://untappd.com/b/newstead-brewing-co--square-1/4952675"
 country: "Australia"
 brewery: "Newstead Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/newstead-brewing-co.html"
 style: "IPA - Session"
 ---

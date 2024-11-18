@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-hill-people-milk.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--hill-people/3726775"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "IPA - Milkshake"
 ---

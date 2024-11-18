@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-esky-in-the-boot.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co-mountain-culture-beer-co-esky-in-the-boot/5599491"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

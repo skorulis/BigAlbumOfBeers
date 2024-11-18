@@ -11,6 +11,6 @@ img: /img/list/bristol-beer-factory-independence.jpeg
 untappd: "https://untappd.com/b/bristol-beer-factory-independence/60839"
 country: "England"
 brewery: "Bristol Beer Factory"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bristol-beer-factory.html"
 style: "Pale Ale - American"
 ---

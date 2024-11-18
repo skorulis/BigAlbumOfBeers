@@ -11,6 +11,6 @@ img: /img/list/kirin-first-press.jpeg
 untappd: "https://untappd.com/b/malt-shovel-brewery-kirin-first-press-beer/349877"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/malt-shovel-brewery.html"
 style: "Pilsner - Other"
 ---

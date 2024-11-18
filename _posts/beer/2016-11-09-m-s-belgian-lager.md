@@ -11,6 +11,6 @@ img: /img/list/m-s-belgian-lager.jpeg
 untappd: "https://untappd.com/b/marks---spencer-belgian-lager/38379"
 country: "England"
 brewery: "Marks & Spencer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/marks---spencer.html"
 style: "Lager - Pale"
 ---

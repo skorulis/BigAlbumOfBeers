@@ -11,6 +11,6 @@ img: /img/list/10-toes-pipeline-pale-ale.jpeg
 untappd: "https://untappd.com/b/10-toes-brewery-pipeline/1435850"
 country: "Australia"
 brewery: "10 Toes Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/10-toes-brewery.html"
 style: "Pale Ale - Australian"
 ---

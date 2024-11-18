@@ -11,6 +11,6 @@ img: /img/list/nastro-azzurro.jpeg
 untappd: "https://untappd.com/b/birra-peroni-peroni-nastro-azzurro/7427"
 country: "Italy"
 brewery: "Birra Peroni"
-breweryURL: "breweryURL"
+breweryURL: "brewery/birra-peroni.html"
 style: "Lager - Euro"
 ---

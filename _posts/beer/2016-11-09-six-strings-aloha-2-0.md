@@ -11,6 +11,6 @@ img: /img/list/six-strings-aloha-2-0.jpeg
 untappd: "https://untappd.com/b/six-string-brewing-company-aloha-2-0-pog-hopped/4618137"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/six-string-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/yulli-s-glenn-s-negroni-pilsner.jpeg
 untappd: "https://untappd.com/b/yullis-brews-glenns-negroni-pilsner/4620817"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "Pilsner - Other"
 ---

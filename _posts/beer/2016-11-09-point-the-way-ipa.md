@@ -11,6 +11,6 @@ img: /img/list/point-the-way-ipa.jpeg
 untappd: "https://untappd.com/b/golden-road-brewing-point-the-way-ipa/81237"
 country: "United States"
 brewery: "Golden Road Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/golden-road-brewing.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/chur-hashtag-hops.jpeg
 untappd: "https://untappd.com/b/chur-brewing-company-hashtag-hops/3343442"
 country: "New Zealand"
 brewery: "Chur Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/chur-brewing-company.html"
 style: "IPA - International"
 ---

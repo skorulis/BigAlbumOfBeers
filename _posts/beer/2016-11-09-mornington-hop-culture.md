@@ -11,6 +11,6 @@ img: /img/list/mornington-hop-culture.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-hop-culture/1663139"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mornington-peninsula-brewery.html"
 style: "IPA - Session / India Session Ale"
 ---

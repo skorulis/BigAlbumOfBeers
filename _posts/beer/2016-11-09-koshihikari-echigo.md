@@ -11,6 +11,6 @@ img: /img/list/koshihikari-echigo.jpeg
 untappd: "https://untappd.com/b/echigo-beer-co--koshihikari-echigo-beer/42125"
 country: "Japan"
 brewery: "Echigo Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/echigo-beer-co.html"
 style: "Lager - Japanese Rice"
 ---

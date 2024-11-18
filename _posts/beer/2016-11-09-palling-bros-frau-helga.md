@@ -11,6 +11,6 @@ img: /img/list/palling-bros-frau-helga.jpeg
 untappd: "https://untappd.com/b/palling-bros-brewery-frau-helga/5166403"
 country: "Australia"
 brewery: "Palling Bros Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/palling-bros-brewery.html"
 style: "Lager - Vienna"
 ---

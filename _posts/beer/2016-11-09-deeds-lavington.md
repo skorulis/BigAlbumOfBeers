@@ -11,6 +11,6 @@ img: /img/list/deeds-lavington.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-lamington-ale/1065174"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deeds-brewing.html"
 style: "Brown Ale - American"
 ---

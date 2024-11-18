@@ -11,6 +11,6 @@ img: /img/list/sauce-lemon-and-lime-bitterness-units.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-lemon-lime---bitterness-units/3385144"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sauce-brewing-co.html"
 style: "IPA - Brut"
 ---

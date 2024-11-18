@@ -11,6 +11,6 @@ img: /img/list/willie-the-boatman-crying-heidi.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-crying-heidi/4300512"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willie-the-boatman.html"
 style: "IPA - New England"
 ---

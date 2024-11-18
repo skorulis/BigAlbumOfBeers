@@ -11,6 +11,6 @@ img: /img/list/akasha-fire-within.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--fire-within/1169590"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company--australia.html"
 style: "Red Ale - American Amber / Red"
 ---

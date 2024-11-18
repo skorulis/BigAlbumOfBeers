@@ -11,6 +11,6 @@ img: /img/list/deeds-add-to-batter-slowly.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-add-to-batter-slowly/5112588"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deeds-brewing.html"
 style: "Stout - Imperial / Double Pastry"
 ---

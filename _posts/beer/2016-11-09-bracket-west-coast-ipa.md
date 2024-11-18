@@ -11,6 +11,6 @@ img: /img/list/bracket-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-west-coast-ipa/3938058"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - American"
 ---

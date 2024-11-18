@@ -11,6 +11,6 @@ img: /img/list/christiania-girl-scout-cookies.jpeg
 untappd: "https://untappd.com/b/christiania-bryghus-girl-scout-cookies/5477926"
 country: "Denmark"
 brewery: "Christiania Bryghus"
-breweryURL: "breweryURL"
+breweryURL: "brewery/christiania-bryghus.html"
 style: "Brown Ale - American"
 ---

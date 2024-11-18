@@ -11,6 +11,6 @@ img: /img/list/pasteur-street-pomelo-ipa.jpeg
 untappd: "https://untappd.com/b/pasteur-street-brewing-company-pomelo-ipa/1910925"
 country: "Vietnam"
 brewery: "Pasteur Street Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pasteur-street-brewing-company.html"
 style: "IPA - American"
 ---

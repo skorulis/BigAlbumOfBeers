@@ -11,6 +11,6 @@ img: /img/list/deeds-living-easy.jpeg
 untappd: "https://untappd.com/b/deeds-brewing-living-easy/4239349"
 country: "Australia"
 brewery: "Deeds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deeds-brewing.html"
 style: "Sour - Fruited"
 ---

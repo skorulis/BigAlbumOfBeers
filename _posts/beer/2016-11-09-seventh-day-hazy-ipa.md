@@ -11,6 +11,6 @@ img: /img/list/seventh-day-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/seventh-son-brewing-company-614-day-hazy-ipa--2021-/4399484"
 country: "United States"
 brewery: "Seventh Son Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/seventh-son-brewing-company.html"
 style: "IPA - American"
 ---

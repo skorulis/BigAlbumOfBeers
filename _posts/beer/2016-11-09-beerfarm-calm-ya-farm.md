@@ -11,6 +11,6 @@ img: /img/list/beerfarm-calm-ya-farm.jpeg
 untappd: "https://untappd.com/b/beerfarm-calm-ya-farm/2521500"
 country: "Australia"
 brewery: "Beerfarm"
-breweryURL: "breweryURL"
+breweryURL: "brewery/beerfarm.html"
 style: "Pale Ale - Australian"
 ---

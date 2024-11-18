@@ -11,6 +11,6 @@ img: /img/list/mad-river-jamaica-ale.jpeg
 untappd: "https://untappd.com/b/mad-river-brewing-company-flor-de-jamaica/167570"
 country: "United States"
 brewery: "Mad River Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mad-river-brewing-company.html"
 style: "Spiced / Herbed Beer"
 ---

@@ -11,6 +11,6 @@ img: /img/list/gl--carlsberg-porter.jpeg
 untappd: "https://untappd.com/b/carlsberg-group-gl--carlsberg-porter/218947"
 country: "Denmark"
 brewery: "Carlsberg Group"
-breweryURL: "breweryURL"
+breweryURL: "brewery/carlsberg-group.html"
 style: "Porter - Baltic"
 ---

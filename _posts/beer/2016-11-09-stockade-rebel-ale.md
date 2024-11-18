@@ -11,6 +11,6 @@ img: /img/list/stockade-rebel-ale.jpeg
 untappd: "https://untappd.com/b/stockade-brew-co-stockade-rebel-ale/816092"
 country: "Australia"
 brewery: "Stockade Brew Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stockade-brew-co.html"
 style: "Pale Ale - Belgian"
 ---

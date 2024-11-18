@@ -11,6 +11,6 @@ img: /img/list/redbay-vlad-white-ipa.jpeg
 untappd: "https://untappd.com/b/redbay-brewery-vlad-the-impaler-aler/1627466"
 country: "Australia"
 brewery: "Redbay Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/redbay-brewery.html"
 style: "IPA - White"
 ---

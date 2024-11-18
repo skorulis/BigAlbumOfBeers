@@ -11,6 +11,6 @@ img: /img/list/brickworks-dipa.jpeg
 untappd: "https://untappd.com/b/brickworks-brewing-co--double-english-ipa/4678992"
 country: "Australia"
 brewery: "Brickworks Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/brickworks-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

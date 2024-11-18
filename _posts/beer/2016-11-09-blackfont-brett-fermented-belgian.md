@@ -11,6 +11,6 @@ img: /img/list/blackfont-brett-fermented-belgian.jpeg
 untappd: "https://untappd.com/b/blackfont-brewhouse-bretted-belgian-ale/1746746"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackfont-brewhouse.html"
 style: "Pale Ale - Belgian"
 ---

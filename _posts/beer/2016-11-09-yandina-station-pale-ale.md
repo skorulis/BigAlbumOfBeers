@@ -11,6 +11,6 @@ img: /img/list/yandina-station-pale-ale.jpeg
 untappd: "https://untappd.com/b/bargara-brewing-company-bargara-brewing-company-yandina-station-pale-ale/1972656"
 country: "Australia"
 brewery: "Bargara Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bargara-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

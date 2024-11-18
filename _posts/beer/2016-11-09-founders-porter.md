@@ -11,6 +11,6 @@ img: /img/list/founders-porter.jpeg
 untappd: "https://untappd.com/b/founders-brewing-co--porter/9346"
 country: "United States"
 brewery: "Founders Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/founders-brewing-co.html"
 style: "Porter - American"
 ---

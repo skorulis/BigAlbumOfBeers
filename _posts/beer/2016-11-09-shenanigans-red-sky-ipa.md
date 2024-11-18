@@ -11,6 +11,6 @@ img: /img/list/shenanigans-red-sky-ipa.jpeg
 untappd: "https://untappd.com/b/shenanigans-brewing-co--red-sky/712995"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/shenanigans-brewing-co.html"
 style: "IPA - American"
 ---

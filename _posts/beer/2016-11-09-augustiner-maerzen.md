@@ -11,6 +11,6 @@ img: /img/list/augustiner-maerzen.jpeg
 untappd: "https://untappd.com/b/augustiner-brau-kloster-mulln-braustubl-bier/20774"
 country: "Austria"
 brewery: "Augustiner Bräu Kloster Mülln"
-breweryURL: "breweryURL"
+breweryURL: "brewery/augustiner-braeu-kloster-muelln.html"
 style: "Märzen"
 ---

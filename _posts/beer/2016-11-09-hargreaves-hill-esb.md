@@ -11,6 +11,6 @@ img: /img/list/hargreaves-hill-esb.jpeg
 untappd: "https://untappd.com/b/hargreaves-hill-esb/16586"
 country: "Australia"
 brewery: "Hargreaves Hill"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hargreaves-hill.html"
 style: "Extra Special / Strong Bitter"
 ---

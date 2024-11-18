@@ -11,6 +11,6 @@ img: /img/list/yullis-gilbert-pinot-grigio-wile-ale.jpeg
 untappd: "https://untappd.com/b/yullis-brews-gilbert-pinot-grigio-wild-ale/2072636"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "Sour - Ale"
 ---

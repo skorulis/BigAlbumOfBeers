@@ -11,6 +11,6 @@ img: /img/list/rooster-dark-ale.jpeg
 untappd: "https://untappd.com/b/rooster-beers--rooster-dark/2365137"
 country: "Vietnam"
 brewery: "Rooster Beers "
-breweryURL: "breweryURL"
+breweryURL: "brewery/rooster-beers-.html"
 style: "Dark Ale"
 ---

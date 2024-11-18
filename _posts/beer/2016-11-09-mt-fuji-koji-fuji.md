@@ -11,6 +11,6 @@ img: /img/list/mt-fuji-koji-fuji.jpeg
 untappd: "https://untappd.com/b/mt--fuji-brewing-koji-fuji---/3731902"
 country: "Japan"
 brewery: "Mt. Fuji Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mt--fuji-brewing.html"
 style: "IPA - American"
 ---

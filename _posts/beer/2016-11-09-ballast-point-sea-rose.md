@@ -11,6 +11,6 @@ img: /img/list/ballast-point-sea-rose.jpeg
 untappd: "https://untappd.com/b/ballast-point-brewing-company-sea-rose/1857772"
 country: "United States"
 brewery: "Ballast Point Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ballast-point-brewing-company.html"
 style: "Pale Wheat Ale - American"
 ---

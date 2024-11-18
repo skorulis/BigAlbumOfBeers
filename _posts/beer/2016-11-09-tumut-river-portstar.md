@@ -11,6 +11,6 @@ img: /img/list/tumut-river-portstar.jpeg
 untappd: "https://untappd.com/b/tumut-river-brewing-co-portstar/1692406"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tumut-river-brewing-co.html"
 style: "Smoked Beer"
 ---

@@ -11,6 +11,6 @@ img: /img/list/black-hops-g-o-a-t.jpeg
 untappd: "https://untappd.com/b/black-hops-brewing-g-o-a-t-/2608798"
 country: "Australia"
 brewery: "Black Hops Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/black-hops-brewing.html"
 style: "IPA - New England"
 ---

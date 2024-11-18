@@ -11,6 +11,6 @@ img: /img/list/hawthorn-golden-ale.jpeg
 untappd: "https://untappd.com/b/hawthorn-brewing-company-golden-ale/573828"
 country: "Australia"
 brewery: "Hawthorn Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hawthorn-brewing-company.html"
 style: "Golden Ale"
 ---

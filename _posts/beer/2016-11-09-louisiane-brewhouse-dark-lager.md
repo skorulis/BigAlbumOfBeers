@@ -11,6 +11,6 @@ img: /img/list/louisiane-brewhouse-dark-lager.jpeg
 untappd: "https://untappd.com/b/louisiane-brewhouse-louisiane-brewhouse-dark-lager/129294"
 country: "Vietnam"
 brewery: "Louisiane Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/louisiane-brewhouse.html"
 style: "Lager - Dark"
 ---

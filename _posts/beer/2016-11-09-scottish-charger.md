@@ -11,6 +11,6 @@ img: /img/list/scottish-charger.jpeg
 untappd: "https://untappd.com/b/tennents-caledonian-brewery-scottish-charger-lager/1169796"
 country: "Scotland"
 brewery: "Tennent's Caledonian Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tennent-s-caledonian-brewery.html"
 style: "Lager - Euro"
 ---

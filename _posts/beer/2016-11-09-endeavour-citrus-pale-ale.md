@@ -11,6 +11,6 @@ img: /img/list/endeavour-citrus-pale-ale.jpeg
 untappd: "https://untappd.com/b/endeavour-brewing-co--citrus-pale-ale/2468107"
 country: "Australia"
 brewery: "ENDEAVOUR Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/endeavour-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

@@ -11,6 +11,6 @@ img: /img/list/village-days-hefeweizen.jpeg
 untappd: "https://untappd.com/b/village-days-brewing-co-village-days-brewing-co-hefeweizen/5454389"
 country: "Australia"
 brewery: "Village Days Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/village-days-brewing-co.html"
 style: "Wheat Beer - Hefeweizen"
 ---

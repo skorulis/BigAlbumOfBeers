@@ -11,6 +11,6 @@ img: /img/list/brouhaha-milk-stout.jpeg
 untappd: "https://untappd.com/b/brouhaha-brewery-milk-stout/1617401"
 country: "Australia"
 brewery: "Brouhaha Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouhaha-brewery.html"
 style: "Stout - Milk / Sweet"
 ---

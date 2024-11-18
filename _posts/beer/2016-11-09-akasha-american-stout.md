@@ -11,6 +11,6 @@ img: /img/list/akasha-american-stout.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--american-stout/2192560"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company--australia.html"
 style: "Stout - American"
 ---

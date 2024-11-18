@@ -11,6 +11,6 @@ img: /img/list/matso-s-lychee-beer.jpeg
 untappd: "https://untappd.com/b/matsos-broome-brewery-lychee-beer/232962"
 country: "Australia"
 brewery: "Matso's Broome Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/matso-s-broome-brewery.html"
 style: "Fruit Beer"
 ---

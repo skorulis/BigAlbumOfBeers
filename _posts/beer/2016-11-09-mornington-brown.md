@@ -11,6 +11,6 @@ img: /img/list/mornington-brown.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-brown/36750"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mornington-peninsula-brewery.html"
 style: "Brown Ale - English"
 ---

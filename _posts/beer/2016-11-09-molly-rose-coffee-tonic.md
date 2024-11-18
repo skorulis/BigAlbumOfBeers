@@ -11,6 +11,6 @@ img: /img/list/molly-rose-coffee-tonic.jpeg
 untappd: "https://untappd.com/b/molly-rose-brewing-coffee-tonic/4712473"
 country: "Australia"
 brewery: "Molly Rose Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/molly-rose-brewing.html"
 style: "Sour - Other"
 ---

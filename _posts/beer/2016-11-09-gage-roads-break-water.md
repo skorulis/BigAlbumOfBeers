@@ -11,6 +11,6 @@ img: /img/list/gage-roads-break-water.jpeg
 untappd: "https://untappd.com/b/gage-roads-brewing-co--break-water/860314"
 country: "Australia"
 brewery: "Gage Roads Brewing Co "
-breweryURL: "breweryURL"
+breweryURL: "brewery/gage-roads-brewing-co-.html"
 style: "Pale Ale - Australian"
 ---

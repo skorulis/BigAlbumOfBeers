@@ -11,6 +11,6 @@ img: /img/list/drunken-drone-honey-wheat-ale.jpeg
 untappd: "https://untappd.com/b/drunken-drone-brewery-honey-wheat-ale/1422302"
 country: "Australia"
 brewery: "Drunken Drone Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/drunken-drone-brewery.html"
 style: "Wheat Beer - Other"
 ---

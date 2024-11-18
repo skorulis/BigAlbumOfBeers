@@ -11,6 +11,6 @@ img: /img/list/pirate-life-hopco-nz-pale-ale.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-hopco-nz-pale-ale/1424052"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "Pale Ale - New Zealand"
 ---

@@ -11,6 +11,6 @@ img: /img/list/newstead-21-feet-7-inches.jpeg
 untappd: "https://untappd.com/b/newstead-brewing-co--21-feet-7-inches/516452"
 country: "Australia"
 brewery: "Newstead Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/newstead-brewing-co.html"
 style: "Porter - Other"
 ---

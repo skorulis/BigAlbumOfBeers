@@ -11,6 +11,6 @@ img: /img/list/deviant-dales-pale-ale.jpeg
 untappd: "https://untappd.com/b/oskar-blues-brewery-deviant-dales/11844"
 country: "United States"
 brewery: "Oskar Blues Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/oskar-blues-brewery.html"
 style: "IPA - Imperial / Double"
 ---

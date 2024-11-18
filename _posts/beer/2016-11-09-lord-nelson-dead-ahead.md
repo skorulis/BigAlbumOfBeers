@@ -11,6 +11,6 @@ img: /img/list/lord-nelson-dead-ahead.jpeg
 untappd: "https://untappd.com/b/the-lord-nelson-brewery-hotel-dead-ahead-175th-anniversary-ale/1460876"
 country: "Australia"
 brewery: "The Lord Nelson Brewery Hotel"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-lord-nelson-brewery-hotel.html"
 style: "Golden Ale"
 ---

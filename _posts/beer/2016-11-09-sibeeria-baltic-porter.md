@@ -11,6 +11,6 @@ img: /img/list/sibeeria-baltic-porter.jpeg
 untappd: "https://untappd.com/b/sibeeria-russian-liver/2029773"
 country: "Czech Republic"
 brewery: "Sibeeria"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sibeeria.html"
 style: "Porter - Baltic"
 ---

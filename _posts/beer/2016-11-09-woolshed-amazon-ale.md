@@ -11,6 +11,6 @@ img: /img/list/woolshed-amazon-ale.jpeg
 untappd: "https://untappd.com/b/woolshed-brewery-amazon-ale/66346"
 country: "Australia"
 brewery: "Woolshed Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/woolshed-brewery.html"
 style: "Pale Ale - Australian"
 ---

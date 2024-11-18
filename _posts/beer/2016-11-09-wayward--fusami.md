@@ -11,6 +11,6 @@ img: /img/list/wayward--fusami.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-fusami-victory/936462"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Lager - IPL (India Pale Lager)"
 ---

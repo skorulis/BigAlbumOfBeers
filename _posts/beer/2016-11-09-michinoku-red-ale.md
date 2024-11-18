@@ -11,6 +11,6 @@ img: /img/list/michinoku-red-ale.jpeg
 untappd: "https://untappd.com/b/michinoku-fukushima-ji-beer-red-ale/82544"
 country: "Japan"
 brewery: "Michinoku Fukushima Ji-Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/michinoku-fukushima-ji-beer.html"
 style: "Red Ale - American Amber / Red"
 ---

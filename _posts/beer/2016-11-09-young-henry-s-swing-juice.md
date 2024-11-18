@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-swing-juice.jpeg
 untappd: "https://untappd.com/b/young-henrys-young-henrys-swing-juice-country-club-xpa/5731052"
 country: "Australia"
 brewery: "Young Henrys"
-breweryURL: "breweryURL"
+breweryURL: "brewery/young-henrys.html"
 style: "Pale Ale - XPA (Extra Pale)"
 ---

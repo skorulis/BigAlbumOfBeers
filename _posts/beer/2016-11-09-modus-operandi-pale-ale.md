@@ -11,6 +11,6 @@ img: /img/list/modus-operandi-pale-ale.jpeg
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--modus-pale-ale/1333301"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/modus-operandi-brewing-co.html"
 style: "Pale Ale - American"
 ---

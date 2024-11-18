@@ -11,6 +11,6 @@ img: /img/list/wayward-pine-a-pils.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-pine-a-pils/1785112"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Pilsner - Other"
 ---

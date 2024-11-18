@@ -11,6 +11,6 @@ img: /img/list/capital-johnny-utah.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-johnny-utah/4817435"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/capital-brewing-co.html"
 style: "Pale Ale - New England / Hazy"
 ---

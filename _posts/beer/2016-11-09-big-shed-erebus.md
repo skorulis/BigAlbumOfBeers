@@ -11,6 +11,6 @@ img: /img/list/big-shed-erebus.jpeg
 untappd: "https://untappd.com/b/big-shed-brewing-concern-erebus/3913972"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
-breweryURL: "breweryURL"
+breweryURL: "brewery/big-shed-brewing-concern.html"
 style: "Stout - Russian Imperial"
 ---

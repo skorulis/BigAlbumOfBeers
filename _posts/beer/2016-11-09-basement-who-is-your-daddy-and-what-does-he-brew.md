@@ -11,6 +11,6 @@ img: /img/list/basement-who-is-your-daddy-and-what-does-he-brew.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-who-is-your-daddy-and-what-does-he-brew/3819765"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/basement-brewhouse.html"
 style: "IPA - American"
 ---

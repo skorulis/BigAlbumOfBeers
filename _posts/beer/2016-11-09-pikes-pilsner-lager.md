@@ -11,6 +11,6 @@ img: /img/list/pikes-pilsner-lager.jpeg
 untappd: "https://untappd.com/b/pikes-beer-company-pilsener-lager/36738"
 country: "Australia"
 brewery: "Pike’s Beer Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pike-s-beer-company.html"
 style: "Pilsner - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bentspoke-psi.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-psi/954295"
 country: "Australia"
 brewery: "Bentspoke Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bentspoke-brewing-co.html"
 style: "Saison / Farmhouse Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/luopmax-hop-attack.jpeg
 untappd: "https://untappd.com/b/otherside-brewing-co--lupomax-hop-attack-strong-pale-ale/4576945"
 country: "Australia"
 brewery: "Otherside Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/otherside-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

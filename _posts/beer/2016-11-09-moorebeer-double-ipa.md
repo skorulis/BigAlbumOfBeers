@@ -11,6 +11,6 @@ img: /img/list/moorebeer-double-ipa.jpeg
 untappd: "https://untappd.com/b/moorebeer-brewing-co--double-ipa/4509504"
 country: "Australia"
 brewery: "Moorebeer Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/moorebeer-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

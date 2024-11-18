@@ -11,6 +11,6 @@ img: /img/list/brothers-uncorked-grape-ale.jpeg
 untappd: "https://untappd.com/b/brothers-beer-brothers-beer-uncorked/5792446"
 country: "New Zealand"
 brewery: "Brothers Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brothers-beer.html"
 style: "Grape Ale - Other"
 ---

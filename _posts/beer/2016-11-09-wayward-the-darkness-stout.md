@@ -11,6 +11,6 @@ img: /img/list/wayward-the-darkness-stout.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-the-darkness/3884993"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Stout - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pasteur-street-cyclo-imperial-chocolate-stout.jpeg
 untappd: "https://untappd.com/b/pasteur-street-brewing-company-cyclo-imperial-chocolate-stout/1364459"
 country: "Vietnam"
 brewery: "Pasteur Street Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pasteur-street-brewing-company.html"
 style: "Stout - American Imperial / Double"
 ---

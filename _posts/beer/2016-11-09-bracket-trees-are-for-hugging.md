@@ -11,6 +11,6 @@ img: /img/list/bracket-trees-are-for-hugging.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-trees-are-for-huggin/4867084"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

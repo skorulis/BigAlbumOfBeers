@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-daily-dose.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--daily-dose/3596269"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "Sour - Fruited Gose"
 ---

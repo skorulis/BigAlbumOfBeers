@@ -11,6 +11,6 @@ img: /img/list/knappstein.jpeg
 untappd: "https://untappd.com/b/knappstein-enterprise-winery---brewery-knappstein-reserve-lager/12681"
 country: "Australia"
 brewery: "Knappstein Enterprise Winery & Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/knappstein-enterprise-winery---brewery.html"
 style: "Lager - Pale"
 ---

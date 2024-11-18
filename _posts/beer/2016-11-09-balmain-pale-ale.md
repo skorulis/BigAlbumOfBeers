@@ -11,6 +11,6 @@ img: /img/list/balmain-pale-ale.jpeg
 untappd: "https://untappd.com/b/balmain-brewing-company-pale-ale/10793"
 country: "Australia"
 brewery: "Balmain Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/balmain-brewing-company.html"
 style: "Pale Ale - English"
 ---

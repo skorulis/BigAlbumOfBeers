@@ -11,6 +11,6 @@ img: /img/list/luebzer-pils.jpeg
 untappd: "https://untappd.com/b/mecklenburgische-brauerei-lubz-lubzer-pils/73234"
 country: "Germany"
 brewery: "Mecklenburgische Brauerei Lübz"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mecklenburgische-brauerei-luebz.html"
 style: "Pilsner - German"
 ---

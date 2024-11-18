@@ -11,6 +11,6 @@ img: /img/list/thanks-captain-obvious-ipa.jpeg
 untappd: "https://untappd.com/b/brewcult-thanks-captain-obvious-ipa/649831"
 country: "Australia"
 brewery: "BrewCult"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewcult.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/alesmith-ipa.jpeg
 untappd: "https://untappd.com/b/alesmith-brewing-company-ipa/1793"
 country: "United States"
 brewery: "AleSmith Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/alesmith-brewing-company.html"
 style: "IPA - American"
 ---

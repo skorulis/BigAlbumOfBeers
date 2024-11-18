@@ -11,6 +11,6 @@ img: /img/list/oppigards-norn.jpeg
 untappd: "https://untappd.com/b/oppigards-bryggeri-norn-pale-ale/2810885"
 country: "Sweden"
 brewery: "Oppigårds Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/oppigards-bryggeri.html"
 style: "Pale Ale - American"
 ---

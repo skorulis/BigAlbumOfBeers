@@ -11,6 +11,6 @@ img: /img/list/fuglsang-black-bird.jpeg
 untappd: "https://untappd.com/b/bryggeriet-s-c--fuglsang-black-bird/51922"
 country: "Denmark"
 brewery: "Bryggeriet S.C. Fuglsang"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bryggeriet-s-c--fuglsang.html"
 style: "Lager - Vienna"
 ---

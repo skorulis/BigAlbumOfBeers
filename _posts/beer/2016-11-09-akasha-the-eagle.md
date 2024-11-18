@@ -11,6 +11,6 @@ img: /img/list/akasha-the-eagle.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-the-eagle-iiiipa/2593654"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company.html"
 style: "IPA - Quadruple"
 ---

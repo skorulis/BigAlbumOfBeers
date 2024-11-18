@@ -11,6 +11,6 @@ img: /img/list/albani-giraf.jpeg
 untappd: "https://untappd.com/b/albani-bryggerierne-giraf-beer-10--black-/550970"
 country: "Denmark"
 brewery: "Albani Bryggerierne"
-breweryURL: "breweryURL"
+breweryURL: "brewery/albani-bryggerierne.html"
 style: "Pilsner - Imperial / Double"
 ---

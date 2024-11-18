@@ -11,6 +11,6 @@ img: /img/list/brewdog-arcade-made.jpeg
 untappd: "https://untappd.com/b/brewdog-arcade-made/4685145"
 country: "Scotland"
 brewery: "BrewDog"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewdog.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

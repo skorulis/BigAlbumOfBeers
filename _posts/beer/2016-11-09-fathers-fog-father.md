@@ -11,6 +11,6 @@ img: /img/list/fathers-fog-father.jpeg
 untappd: "https://untappd.com/b/fathers-brewing-co-the-father-s-brewing-co-fog-father/4889242"
 country: "Australia"
 brewery: "The Fathers Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-fathers-brewing-co.html"
 style: "Wheat Beer - Other"
 ---

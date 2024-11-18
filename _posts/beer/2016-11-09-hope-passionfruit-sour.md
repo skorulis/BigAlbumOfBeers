@@ -11,6 +11,6 @@ img: /img/list/hope-passionfruit-sour.jpeg
 untappd: "https://untappd.com/b/hope-brewery-passionfruit-sour/4693298"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hope-brewery.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

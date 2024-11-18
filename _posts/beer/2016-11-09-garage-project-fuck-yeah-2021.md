@@ -11,6 +11,6 @@ img: /img/list/garage-project-fuck-yeah-2021.jpeg
 untappd: "https://untappd.com/b/garage-project-fuck-yeah-2021/4110608"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "IPA - New England"
 ---

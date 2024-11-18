@@ -11,6 +11,6 @@ img: /img/list/two-birds-passion-victim.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-passion-victim/2313861"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/two-birds-brewing.html"
 style: "Golden Ale"
 ---

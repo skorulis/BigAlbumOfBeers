@@ -11,6 +11,6 @@ img: /img/list/akasha-east-v-west.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-east-v-west/3898767"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mildura-apa.jpeg
 untappd: "https://untappd.com/b/mildura-brewery-apa/3627343"
 country: "Australia"
 brewery: "Mildura Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mildura-brewery.html"
 style: "Pale Ale - Australian"
 ---

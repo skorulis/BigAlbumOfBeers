@@ -11,6 +11,6 @@ img: /img/list/village-days-the-villian.jpeg
 untappd: "https://untappd.com/b/village-days-brewing-co-village-days-brewing-co-the-villain-ipa/5497660"
 country: "Australia"
 brewery: "Village Days Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/village-days-brewing-co.html"
 style: "IPA - American"
 ---

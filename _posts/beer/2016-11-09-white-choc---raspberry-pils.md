@@ -11,6 +11,6 @@ img: /img/list/white-choc---raspberry-pils.jpeg
 untappd: "https://untappd.com/b/bacchus-brewing-co--white-chocolate-raspberry-pils/363402"
 country: "Australia"
 brewery: "Bacchus Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bacchus-brewing-co.html"
 style: "Pilsner - Other"
 ---

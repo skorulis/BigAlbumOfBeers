@@ -11,6 +11,6 @@ img: /img/list/berliner-marcus-braeu-red.jpeg
 untappd: "https://untappd.com/b/berliner-marcus-brau-rotbier/1248251"
 country: "Germany"
 brewery: "Berliner Marcus Bräu"
-breweryURL: "breweryURL"
+breweryURL: "brewery/berliner-marcus-braeu.html"
 style: "Red Ale - American Amber / Red"
 ---

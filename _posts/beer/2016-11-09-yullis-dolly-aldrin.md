@@ -11,6 +11,6 @@ img: /img/list/yullis-dolly-aldrin.jpeg
 untappd: "https://untappd.com/b/yullis-brews-dolly-aldrin---strawberry-berliner-weisse/2917299"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

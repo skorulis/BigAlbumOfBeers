@@ -11,6 +11,6 @@ img: /img/list/red-duck-shadow-of-the-storm.jpeg
 untappd: "https://untappd.com/b/red-duck-shadow-of-the-storm/4065950"
 country: "Australia"
 brewery: "Red Duck"
-breweryURL: "breweryURL"
+breweryURL: "brewery/red-duck.html"
 style: "Porter - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/tallboy-and-moose-2-solid-2-gold.jpeg
 untappd: "https://untappd.com/b/tallboy-and-moose-2-solid-2-gold/3953928"
 country: "Australia"
 brewery: "Tallboy And Moose"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tallboy-and-moose.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/badlands-ipa.jpeg
 untappd: "https://untappd.com/b/badlands-brewery-indian-pale-ale/96541"
 country: "Australia"
 brewery: "Badlands Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/badlands-brewery.html"
 style: "IPA - English"
 ---

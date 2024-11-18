@@ -11,6 +11,6 @@ img: /img/list/svyturys-old-port-ale.jpeg
 untappd: "https://untappd.com/b/svyturys-old-port-ale/329660"
 country: "Lithuania"
 brewery: "Švyturys"
-breweryURL: "breweryURL"
+breweryURL: "brewery/svyturys.html"
 style: "Scottish Ale"
 ---

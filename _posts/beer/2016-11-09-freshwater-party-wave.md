@@ -11,6 +11,6 @@ img: /img/list/freshwater-party-wave.jpeg
 untappd: "https://untappd.com/b/freshwater-brewing-company-party-wave/5141120"
 country: "Australia"
 brewery: "Freshwater Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/freshwater-brewing-company.html"
 style: "IPA - Other"
 ---

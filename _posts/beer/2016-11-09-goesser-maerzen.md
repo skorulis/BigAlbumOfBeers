@@ -11,6 +11,6 @@ img: /img/list/goesser-maerzen.jpeg
 untappd: "https://untappd.com/b/brauerei-goss-gosser-marzen--gosser-beer/71980"
 country: "Austria"
 brewery: "Brauerei Göss"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brauerei-goess.html"
 style: "Märzen"
 ---

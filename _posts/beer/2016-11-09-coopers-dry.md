@@ -11,6 +11,6 @@ img: /img/list/coopers-dry.jpeg
 untappd: "https://untappd.com/b/coopers-dry/2846311"
 country: "Australia"
 brewery: "Coopers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/coopers.html"
 style: "Lager - Pale"
 ---

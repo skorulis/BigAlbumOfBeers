@@ -11,6 +11,6 @@ img: /img/list/pistonhead-lager.jpeg
 untappd: "https://untappd.com/b/brutal-brewing-pistonhead-kustom-lager/82286"
 country: "Sweden"
 brewery: "Brutal Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brutal-brewing.html"
 style: "Lager - Pale"
 ---

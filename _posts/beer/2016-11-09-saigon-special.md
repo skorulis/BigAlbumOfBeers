@@ -11,6 +11,6 @@ img: /img/list/saigon-special.jpeg
 untappd: "https://untappd.com/b/sabeco-saigon-special/17357"
 country: "Vietnam"
 brewery: "Sabeco"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sabeco.html"
 style: "Lager - Pale"
 ---

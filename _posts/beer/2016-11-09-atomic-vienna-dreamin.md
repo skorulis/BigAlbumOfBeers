@@ -11,6 +11,6 @@ img: /img/list/atomic-vienna-dreamin.jpeg
 untappd: "https://untappd.com/b/atomic-vienna-dreamin/4272912"
 country: "Australia"
 brewery: "Atomic"
-breweryURL: "breweryURL"
+breweryURL: "brewery/atomic.html"
 style: "Lager - Vienna"
 ---

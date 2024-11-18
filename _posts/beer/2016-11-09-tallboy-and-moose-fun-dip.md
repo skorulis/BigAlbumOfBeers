@@ -11,6 +11,6 @@ img: /img/list/tallboy-and-moose-fun-dip.jpeg
 untappd: "https://untappd.com/b/tallboy-and-moose-fun-dip/3807681"
 country: "Australia"
 brewery: "Tallboy And Moose"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tallboy-and-moose.html"
 style: "Sour - Other"
 ---

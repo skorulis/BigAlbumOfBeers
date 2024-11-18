@@ -11,6 +11,6 @@ img: /img/list/wayward-dead-dingo.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-dead-dingo/2822907"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "IPA - Brut"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mismatch-extra-pale-ale.jpeg
 untappd: "https://untappd.com/b/mismatch-brewing-company-extra-pale-ale/1249686"
 country: "Australia"
 brewery: "Mismatch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mismatch-brewing-company.html"
 style: "Pale Ale - American"
 ---

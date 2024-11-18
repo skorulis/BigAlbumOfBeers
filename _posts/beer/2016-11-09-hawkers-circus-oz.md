@@ -11,6 +11,6 @@ img: /img/list/hawkers-circus-oz.jpeg
 untappd: "https://untappd.com/b/hawkers-beer-circus-oz-strong-pale-ale/3404676"
 country: "Australia"
 brewery: "Hawkers Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hawkers-beer.html"
 style: "Pale Ale - American"
 ---

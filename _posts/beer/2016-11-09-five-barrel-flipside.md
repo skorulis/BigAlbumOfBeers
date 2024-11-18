@@ -11,6 +11,6 @@ img: /img/list/five-barrel-flipside.jpeg
 untappd: "https://untappd.com/b/five-barrel-brewing--flipside-australian-ipa/4154665"
 country: "Australia"
 brewery: "Five Barrel Brewing "
-breweryURL: "breweryURL"
+breweryURL: "brewery/five-barrel-brewing-.html"
 style: "IPA - Other"
 ---

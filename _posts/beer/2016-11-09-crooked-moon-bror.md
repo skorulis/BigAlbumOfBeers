@@ -11,6 +11,6 @@ img: /img/list/crooked-moon-bror.jpeg
 untappd: "https://untappd.com/b/crooked-moon-brewing-bror/5321964"
 country: "Sweden"
 brewery: "Crooked Moon Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/crooked-moon-brewing.html"
 style: "IPA - New England / Hazy"
 ---

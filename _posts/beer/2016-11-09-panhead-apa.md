@@ -11,6 +11,6 @@ img: /img/list/panhead-apa.jpeg
 untappd: "https://untappd.com/b/panhead-custom-ales-super-charger-apa/426333"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
-breweryURL: "breweryURL"
+breweryURL: "brewery/panhead-custom-ales.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hawthorn-ipa.jpeg
 untappd: "https://untappd.com/b/hawthorn-brewing-company-australian-ipa/240943"
 country: "Australia"
 brewery: "Hawthorn Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hawthorn-brewing-company.html"
 style: "IPA - American"
 ---

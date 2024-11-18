@@ -11,6 +11,6 @@ img: /img/list/bojak-calypso-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/bojak-brewing-calypso/2965527"
 country: "Australia"
 brewery: "Bojak Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bojak-brewing.html"
 style: "IPA - New England / Hazy"
 ---

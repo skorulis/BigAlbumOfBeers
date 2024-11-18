@@ -11,6 +11,6 @@ img: /img/list/st-peter-s-mild.jpeg
 untappd: "https://untappd.com/b/st--peters-brewery-co--mild/121019"
 country: "England"
 brewery: "St. Peter’s Brewery Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/st--peter-s-brewery-co.html"
 style: "English Mild Ale"
 ---

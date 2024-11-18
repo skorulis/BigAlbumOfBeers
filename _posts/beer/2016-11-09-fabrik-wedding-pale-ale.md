@@ -11,6 +11,6 @@ img: /img/list/fabrik-wedding-pale-ale.jpeg
 untappd: "https://untappd.com/b/bierfabrik-wedding-pale-ale/311473"
 country: "Germany"
 brewery: "Bierfabrik"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bierfabrik.html"
 style: "IPA - American"
 ---

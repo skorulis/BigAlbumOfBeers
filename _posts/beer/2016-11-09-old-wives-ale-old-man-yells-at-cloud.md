@@ -11,6 +11,6 @@ img: /img/list/old-wives-ale-old-man-yells-at-cloud.jpeg
 untappd: "https://untappd.com/b/old-wives-ales-old-man-yells-at-cloud/2461451"
 country: "Australia"
 brewery: "Old Wives Ales"
-breweryURL: "breweryURL"
+breweryURL: "brewery/old-wives-ales.html"
 style: "IPA - New England"
 ---

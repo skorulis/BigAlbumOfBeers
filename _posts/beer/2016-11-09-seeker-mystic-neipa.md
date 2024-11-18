@@ -11,6 +11,6 @@ img: /img/list/seeker-mystic-neipa.jpeg
 untappd: "https://untappd.com/b/seeker-brewing-mystic-neipa/4763524"
 country: "Australia"
 brewery: "Seeker Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/seeker-brewing.html"
 style: "IPA - New England / Hazy"
 ---

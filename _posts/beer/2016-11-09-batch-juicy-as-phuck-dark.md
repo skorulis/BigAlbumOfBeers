@@ -11,6 +11,6 @@ img: /img/list/batch-juicy-as-phuck-dark.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-juicy-as-phuck-dark/1703739"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

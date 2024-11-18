@@ -11,6 +11,6 @@ img: /img/list/einstoek-pale-ale.jpeg
 untappd: "https://untappd.com/b/einstok-olgero-icelandic-arctic-pale-ale/99106"
 country: "Iceland"
 brewery: "Einstök Ölgerð"
-breweryURL: "breweryURL"
+breweryURL: "brewery/einstoek-oelgerd.html"
 style: "Pale Ale - English"
 ---

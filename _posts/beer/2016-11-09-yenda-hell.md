@@ -11,6 +11,6 @@ img: /img/list/yenda-hell.jpeg
 untappd: "https://untappd.com/b/australian-beer-company-yenda-hell/846902"
 country: "Australia"
 brewery: "Australian Beer Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/australian-beer-company.html"
 style: "Lager - Helles"
 ---

@@ -11,6 +11,6 @@ img: /img/list/feral-west-coast-iipa.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-birthday-west-coast-iipa/4017342"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/feral-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

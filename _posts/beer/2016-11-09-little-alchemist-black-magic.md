@@ -11,6 +11,6 @@ img: /img/list/little-alchemist-black-magic.jpeg
 untappd: "https://untappd.com/b/lab-little-alchemist-brewing-co-black-magic/1604784"
 country: "Australia"
 brewery: "LAB Little Alchemist Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/lab-little-alchemist-brewing-co.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

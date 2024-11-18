@@ -11,6 +11,6 @@ img: /img/list/sauce-double-infrared.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-double-ir/3744131"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sauce-brewing-co.html"
 style: "IPA - Rye"
 ---

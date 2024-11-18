@@ -11,6 +11,6 @@ img: /img/list/batch-tank-6-imperial-stout.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-tank-6/1155350"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Stout - Imperial / Double"
 ---

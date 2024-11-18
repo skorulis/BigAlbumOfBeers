@@ -11,6 +11,6 @@ img: /img/list/jindabyne-hefe.jpeg
 untappd: "https://untappd.com/b/jindabyne-brewing-hefe-viess-bier/1499327"
 country: "Australia"
 brewery: "Jindabyne Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/jindabyne-brewing.html"
 style: "Wheat Beer - Hefeweizen"
 ---

@@ -11,6 +11,6 @@ img: /img/list/garage-project-muse.jpeg
 untappd: "https://untappd.com/b/garage-project-muse--hibiscus-and-lemon/3111300"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "Sour - Other"
 ---

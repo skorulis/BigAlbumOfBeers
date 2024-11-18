@@ -11,6 +11,6 @@ img: /img/list/7-fjell-ulriken.jpeg
 untappd: "https://untappd.com/b/7-fjell-bryggeri-ulriken-double-ipa/898857"
 country: "Norway"
 brewery: "7 Fjell Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/7-fjell-bryggeri.html"
 style: "IPA - Imperial / Double"
 ---

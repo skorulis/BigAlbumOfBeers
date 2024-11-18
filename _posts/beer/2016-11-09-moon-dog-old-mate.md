@@ -11,6 +11,6 @@ img: /img/list/moon-dog-old-mate.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-old-mate/1345437"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moon-dog-craft-brewery.html"
 style: "Pale Ale - American"
 ---

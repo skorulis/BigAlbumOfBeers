@@ -11,6 +11,6 @@ img: /img/list/badlands-dark-side-of-orange.jpeg
 untappd: "https://untappd.com/b/badlands-brewery-dark-side-of-orange/3230085"
 country: "Australia"
 brewery: "Badlands Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/badlands-brewery.html"
 style: "Brown Ale - Other"
 ---

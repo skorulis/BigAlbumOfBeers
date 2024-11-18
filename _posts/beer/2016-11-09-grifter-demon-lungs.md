@@ -11,6 +11,6 @@ img: /img/list/grifter-demon-lungs.jpeg
 untappd: "https://untappd.com/b/grifter-brewing-company-demon-lungs/1326027"
 country: "Australia"
 brewery: "Grifter Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/grifter-brewing-company.html"
 style: "Smoked Beer"
 ---

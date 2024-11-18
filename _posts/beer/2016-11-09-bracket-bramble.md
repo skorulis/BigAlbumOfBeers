@@ -11,6 +11,6 @@ img: /img/list/bracket-bramble.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-bramble/4364932"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Sour - Fruited"
 ---

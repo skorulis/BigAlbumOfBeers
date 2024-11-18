@@ -11,6 +11,6 @@ img: /img/list/village-days-xpa.jpeg
 untappd: "https://untappd.com/b/village-days-brewing-co-village-days-brewing-co-xpa/5572352"
 country: "Australia"
 brewery: "Village Days Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/village-days-brewing-co.html"
 style: "Pale Ale - XPA (Extra Pale)"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hogs-back-hop.jpeg
 untappd: "https://untappd.com/b/hogs-back-brewery-hop-garden-gold/95475"
 country: "England"
 brewery: "Hogs Back Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hogs-back-brewery.html"
 style: "Golden Ale"
 ---

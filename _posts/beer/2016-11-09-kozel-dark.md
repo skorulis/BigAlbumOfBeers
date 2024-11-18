@@ -11,6 +11,6 @@ img: /img/list/kozel-dark.jpeg
 untappd: "https://untappd.com/b/pivovar-velke-popovice-kozel-cerny--dark/70150"
 country: "Czech Republic"
 brewery: "Pivovar Velké Popovice"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pivovar-velke-popovice.html"
 style: "Lager - Dark"
 ---

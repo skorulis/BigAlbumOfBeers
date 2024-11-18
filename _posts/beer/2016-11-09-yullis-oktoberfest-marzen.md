@@ -11,6 +11,6 @@ img: /img/list/yullis-oktoberfest-marzen.jpeg
 untappd: "https://untappd.com/b/yullis-brews-special-batch--oktoberfest-marzen/5016790"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "Märzen"
 ---

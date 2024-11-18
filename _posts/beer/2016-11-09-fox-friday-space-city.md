@@ -11,6 +11,6 @@ img: /img/list/fox-friday-space-city.jpeg
 untappd: "https://untappd.com/b/fox-friday-craft-brewery-space-city/5122463"
 country: "Australia"
 brewery: "Fox Friday Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fox-friday-craft-brewery.html"
 style: "Pale Ale - Australian"
 ---

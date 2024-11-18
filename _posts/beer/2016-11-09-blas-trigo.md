@@ -10,5 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/blas-trigo.jpeg
 country: "Spain"
 brewery: "Tito Blas"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tito-blas.html"
 ---

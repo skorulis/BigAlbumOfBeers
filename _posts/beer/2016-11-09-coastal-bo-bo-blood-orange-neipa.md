@@ -11,6 +11,6 @@ img: /img/list/coastal-bo-bo-blood-orange-neipa.jpeg
 untappd: "https://untappd.com/b/the-coastal-brewing-company-bo-bo-blood-orange-neipa/4644433"
 country: "Australia"
 brewery: "The Coastal Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-coastal-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

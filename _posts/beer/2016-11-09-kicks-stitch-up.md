@@ -11,6 +11,6 @@ img: /img/list/kicks-stitch-up.jpeg
 untappd: "https://untappd.com/b/kicks-brewing-kicks-brewing-stitch-up/5812153"
 country: "Australia"
 brewery: "Kicks Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kicks-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

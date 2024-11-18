@@ -11,6 +11,6 @@ img: /img/list/sarajevsko.jpeg
 untappd: "https://untappd.com/b/sarajevska-pivara-sarajevsko-pivo/21682"
 country: "Bosnia and Herzegovina"
 brewery: "Sarajevska Pivara"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sarajevska-pivara.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/blackmans-needs-more-cascade.jpeg
 untappd: "https://untappd.com/b/blackmans-brewery-needs-more-cascade/4058774"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackman-s-brewery.html"
 style: "IPA - American"
 ---

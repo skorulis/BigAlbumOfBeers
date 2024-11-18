@@ -11,6 +11,6 @@ img: /img/list/tooheys-extra-dry.jpeg
 untappd: "https://untappd.com/b/tooheys-brewing-extra-dry/5921"
 country: "Australia"
 brewery: "Tooheys Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tooheys-brewing.html"
 style: "Lager - Pale"
 ---

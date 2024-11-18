@@ -11,6 +11,6 @@ img: /img/list/canyon-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/canyon-brewing-storm-in-a-tea-cup/4824715"
 country: "New Zealand"
 brewery: "Canyon Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/canyon-brewing.html"
 style: "IPA - New England / Hazy"
 ---

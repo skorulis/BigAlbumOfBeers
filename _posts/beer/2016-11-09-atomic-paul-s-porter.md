@@ -11,6 +11,6 @@ img: /img/list/atomic-paul-s-porter.jpeg
 untappd: "https://untappd.com/b/atomic-beer-project-pauls-porter/3977204"
 country: "Australia"
 brewery: "Atomic Beer Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/atomic-beer-project.html"
 style: "Porter - English"
 ---

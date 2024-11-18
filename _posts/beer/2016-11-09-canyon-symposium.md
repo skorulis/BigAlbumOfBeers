@@ -11,6 +11,6 @@ img: /img/list/canyon-symposium.jpeg
 untappd: "https://untappd.com/b/canyon-brewing-canyon-brewing-ollie-s-chestnut-symposium-amber-ale/5800321"
 country: "New Zealand"
 brewery: "Canyon Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/canyon-brewing.html"
 style: "Red Ale - American Amber / Red"
 ---

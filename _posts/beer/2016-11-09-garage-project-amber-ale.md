@@ -11,6 +11,6 @@ img: /img/list/garage-project-amber-ale.jpeg
 untappd: "https://untappd.com/b/garage-project-pan-pacific/347713"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "Red Ale - American Amber / Red"
 ---

@@ -11,6 +11,6 @@ img: /img/list/stockade-wanderer-maerzen.jpeg
 untappd: "https://untappd.com/b/stockade-brew-co-wanderer-marzen/1741336"
 country: "Australia"
 brewery: "Stockade Brew Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stockade-brew-co.html"
 style: "Märzen"
 ---

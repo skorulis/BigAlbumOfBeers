@@ -11,6 +11,6 @@ img: /img/list/bracket-rule--1.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-rule-1/5139837"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

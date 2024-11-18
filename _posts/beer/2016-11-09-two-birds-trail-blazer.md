@@ -11,6 +11,6 @@ img: /img/list/two-birds-trail-blazer.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-trail-blazer/2492495"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/two-birds-brewing.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/one-drop-toasted-coconut-pineapple-nitro-milkshake-ipa.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-toasted-coconut---pineapple-nitro-milkshake-i-p-a-/4065907"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/one-drop-brewing-co.html"
 style: "IPA - Milkshake"
 ---

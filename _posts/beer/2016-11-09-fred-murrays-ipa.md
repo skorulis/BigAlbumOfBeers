@@ -11,6 +11,6 @@ img: /img/list/fred-murrays-ipa.jpeg
 untappd: "https://untappd.com/b/murrays-craft-brewing-co-fred/756444"
 country: "Australia"
 brewery: "Murray's Craft Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/murray-s-craft-brewing-co.html"
 style: "IPA - American"
 ---

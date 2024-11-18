@@ -11,6 +11,6 @@ img: /img/list/dainton-chewy.jpeg
 untappd: "https://untappd.com/b/dainton-beer-chewy/4817928"
 country: "Australia"
 brewery: "Dainton Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dainton-beer.html"
 style: "Red Ale - Imperial / Double"
 ---

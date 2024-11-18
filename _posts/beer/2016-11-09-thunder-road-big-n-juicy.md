@@ -11,6 +11,6 @@ img: /img/list/thunder-road-big-n-juicy.jpeg
 untappd: "https://untappd.com/b/thunder-road-brewing-company-big-n-juicy/2643682"
 country: "Australia"
 brewery: "Thunder Road Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/thunder-road-brewing-company.html"
 style: "IPA - New England"
 ---

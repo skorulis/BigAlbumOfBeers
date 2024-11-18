@@ -11,6 +11,6 @@ img: /img/list/kerbside-two-juicy-pale-ale.jpeg
 untappd: "https://untappd.com/b/kerbside-brewing-two-juicy/3208010"
 country: "Australia"
 brewery: "Kerbside Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kerbside-brewing.html"
 style: "Pale Ale - American"
 ---

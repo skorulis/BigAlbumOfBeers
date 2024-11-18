@@ -11,6 +11,6 @@ img: /img/list/mornington-imperial-amber.jpeg
 untappd: "https://untappd.com/b/mornington-peninsula-brewery-imperial-amber/185751"
 country: "Australia"
 brewery: "Mornington Peninsula Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mornington-peninsula-brewery.html"
 style: "Red Ale - Imperial / Double"
 ---

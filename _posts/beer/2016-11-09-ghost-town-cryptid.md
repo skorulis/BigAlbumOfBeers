@@ -11,6 +11,6 @@ img: /img/list/ghost-town-cryptid.jpeg
 untappd: "https://untappd.com/b/ghost-town-brewing-cryptid/3989792"
 country: "United States"
 brewery: "Ghost Town Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ghost-town-brewing.html"
 style: "IPA - New England / Hazy"
 ---

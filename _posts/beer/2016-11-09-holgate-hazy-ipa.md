@@ -11,6 +11,6 @@ img: /img/list/holgate-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-hazy-ipa/3099792"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/holgate-brewhouse.html"
 style: "IPA - New England"
 ---

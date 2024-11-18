@@ -11,6 +11,6 @@ img: /img/list/yulli-s-fat-nerd-vanilla-porter.jpeg
 untappd: "https://untappd.com/b/yullis-brews-fat-nerd-vanilla-porter/734257"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "Porter - Other"
 ---

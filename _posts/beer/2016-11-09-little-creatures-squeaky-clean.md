@@ -11,6 +11,6 @@ img: /img/list/little-creatures-squeaky-clean.jpeg
 untappd: "https://untappd.com/b/little-creatures-brewing-squeaky-clean/4847774"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-creatures-brewing.html"
 style: "IPA - Session"
 ---

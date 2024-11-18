@@ -11,6 +11,6 @@ img: /img/list/post-road-pumpkin-ale.jpeg
 untappd: "https://untappd.com/b/brooklyn-brewery-post-road-pumpkin-ale/6167"
 country: "United States"
 brewery: "Brooklyn Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brooklyn-brewery.html"
 style: "Pumpkin / Yam Beer"
 ---

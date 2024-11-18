@@ -11,6 +11,6 @@ img: /img/list/moa-methode.jpeg
 untappd: "https://untappd.com/b/moa-brewing-company-methode-pilsner/21770"
 country: "New Zealand"
 brewery: "Moa Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moa-brewing-company.html"
 style: "Pilsner - Other"
 ---

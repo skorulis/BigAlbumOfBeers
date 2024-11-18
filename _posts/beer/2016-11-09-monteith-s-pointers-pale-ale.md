@@ -11,6 +11,6 @@ img: /img/list/monteith-s-pointers-pale-ale.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-pointers-pale-ale/1220517"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "breweryURL"
+breweryURL: "brewery/monteith-s-brewing-co--.html"
 style: "Pale Ale - New Zealand"
 ---

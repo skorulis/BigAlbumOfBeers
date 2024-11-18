@@ -11,6 +11,6 @@ img: /img/list/kaiju-pleasure-kruze.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-pleazure-kruze/4708166"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kaiju--beer.html"
 style: "Pale Ale - New England / Hazy"
 ---

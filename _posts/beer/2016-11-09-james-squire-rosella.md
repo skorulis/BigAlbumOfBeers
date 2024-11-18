@@ -11,6 +11,6 @@ img: /img/list/james-squire-rosella.jpeg
 untappd: "https://untappd.com/b/the-squires-landing-rosella/4360122"
 country: "Australia"
 brewery: "The Squire’s Landing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-squire-s-landing.html"
 style: "Wheat Beer - Other"
 ---

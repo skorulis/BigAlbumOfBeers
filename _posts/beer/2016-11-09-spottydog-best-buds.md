@@ -11,6 +11,6 @@ img: /img/list/spottydog-best-buds.jpeg
 untappd: "https://untappd.com/b/spotty-dog-brewers-best-buds-ipa/4710546"
 country: "Australia"
 brewery: "Spotty Dog Brewers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/spotty-dog-brewers.html"
 style: "IPA - American"
 ---

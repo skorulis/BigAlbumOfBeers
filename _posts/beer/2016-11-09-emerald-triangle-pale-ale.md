@@ -11,6 +11,6 @@ img: /img/list/emerald-triangle-pale-ale.jpeg
 untappd: "https://untappd.com/b/eel-river-brewing-company-emerald-triangle-pale-ale/1461335"
 country: "United States"
 brewery: "Eel River Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/eel-river-brewing-company.html"
 style: "Pale Ale - American"
 ---

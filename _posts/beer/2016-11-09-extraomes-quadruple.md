@@ -11,6 +11,6 @@ img: /img/list/extraomes-quadruple.jpeg
 untappd: "https://untappd.com/b/extraomnes-quadrupel/387232"
 country: "Italy"
 brewery: "Extraomnes"
-breweryURL: "breweryURL"
+breweryURL: "brewery/extraomnes.html"
 style: "Belgian Quad"
 ---

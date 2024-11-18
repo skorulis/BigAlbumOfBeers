@@ -11,6 +11,6 @@ img: /img/list/barossa-valley-naipa.jpeg
 untappd: "https://untappd.com/b/barossa-valley-brewing-naipa-native-aussie-ipa/3040704"
 country: "Australia"
 brewery: "Barossa Valley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/barossa-valley-brewing.html"
 style: "IPA - International"
 ---

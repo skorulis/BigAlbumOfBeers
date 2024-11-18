@@ -11,6 +11,6 @@ img: /img/list/belgian-royal-premium-lager.jpeg
 untappd: "https://untappd.com/b/belgian-blue-brewing-company-belgian-royal/643640"
 country: "Belgium"
 brewery: "Belgian Blue Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/belgian-blue-brewing-company.html"
 style: "Lager - Euro"
 ---

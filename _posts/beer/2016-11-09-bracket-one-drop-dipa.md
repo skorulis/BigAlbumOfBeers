@@ -11,6 +11,6 @@ img: /img/list/bracket-one-drop-dipa.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-bracket-x-one-drop-dipa/4980928"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/one-drop-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

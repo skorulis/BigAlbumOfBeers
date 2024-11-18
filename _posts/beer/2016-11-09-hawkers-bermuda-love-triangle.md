@@ -11,6 +11,6 @@ img: /img/list/hawkers-bermuda-love-triangle.jpeg
 untappd: "https://untappd.com/b/hawkers-beer-bermuda-love-triangle/5112866"
 country: "Australia"
 brewery: "Hawkers Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hawkers-beer.html"
 style: "Stout - Imperial / Double"
 ---

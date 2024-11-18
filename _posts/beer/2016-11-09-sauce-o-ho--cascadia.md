@@ -11,6 +11,6 @@ img: /img/list/sauce-o-ho--cascadia.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-o-oh-cascadia/3218734"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sauce-brewing-co.html"
 style: "IPA - Imperial / Double Black"
 ---

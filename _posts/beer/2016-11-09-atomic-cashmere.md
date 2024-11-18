@@ -11,6 +11,6 @@ img: /img/list/atomic-cashmere.jpeg
 untappd: "https://untappd.com/b/atomic-beer-project-cashmere-saison/3977199"
 country: "Australia"
 brewery: "Atomic Beer Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/atomic-beer-project.html"
 style: "Farmhouse Ale - Saison"
 ---

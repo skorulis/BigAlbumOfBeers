@@ -11,6 +11,6 @@ img: /img/list/steamrail-amber.jpeg
 untappd: "https://untappd.com/b/steamrail-brewing-company--coles--lucky-amber/292682"
 country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/steamrail-brewing-company--coles.html"
 style: "Red Ale - American Amber / Red"
 ---

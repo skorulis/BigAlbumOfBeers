@@ -11,6 +11,6 @@ img: /img/list/stone-and-wood-the-gatherer.jpeg
 untappd: "https://untappd.com/b/stone---wood-the-gatherer/3100641"
 country: "Australia"
 brewery: "Stone & Wood"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stone---wood.html"
 style: "Wheat Beer - American Pale Wheat"
 ---

@@ -11,6 +11,6 @@ img: /img/list/yebisu-amber.jpeg
 untappd: "https://untappd.com/b/sapporo-breweries-kohaku-yebisu-premium-amber-----2020-/3932900"
 country: "Japan"
 brewery: "Sapporo Breweries"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sapporo-breweries.html"
 style: "Lager - Vienna"
 ---

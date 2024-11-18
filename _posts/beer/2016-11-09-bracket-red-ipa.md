@@ -11,6 +11,6 @@ img: /img/list/bracket-red-ipa.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-red-ipa--simcoemosaic-/4236737"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Red"
 ---

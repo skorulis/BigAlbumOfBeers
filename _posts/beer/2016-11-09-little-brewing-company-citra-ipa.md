@@ -11,6 +11,6 @@ img: /img/list/little-brewing-company-citra-ipa.jpeg
 untappd: "https://untappd.com/b/the-little-brewing-company-citra-ipa/1262286"
 country: "Australia"
 brewery: "The Little Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-little-brewing-company.html"
 style: "IPA - American"
 ---

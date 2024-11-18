@@ -11,6 +11,6 @@ img: /img/list/4-pines-indian-summer-ale.jpeg
 untappd: "https://untappd.com/b/4-pines-brewing-company-indian-summer-ale/1204571"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/4-pines-brewing-company.html"
 style: "Pale Ale - American"
 ---

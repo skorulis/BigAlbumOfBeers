@@ -11,6 +11,6 @@ img: /img/list/little-bang-beard-fiction.jpeg
 untappd: "https://untappd.com/b/little-bang-brewing-co-beard-fiction/1049272"
 country: "Australia"
 brewery: "Little Bang Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-bang-brewing-co.html"
 style: "Pale Ale - American"
 ---

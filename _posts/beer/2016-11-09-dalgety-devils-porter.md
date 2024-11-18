@@ -11,6 +11,6 @@ img: /img/list/dalgety-devils-porter.jpeg
 untappd: "https://untappd.com/b/dalgety-brewing-company-devils-porter/3500095"
 country: "Australia"
 brewery: "Dalgety Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dalgety-brewing-company.html"
 style: "Porter - Other"
 ---

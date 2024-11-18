@@ -11,6 +11,6 @@ img: /img/list/deep-creek-misty-miyagi.jpeg
 untappd: "https://untappd.com/b/deep-creek-brewing-co--misty-miyagi-hazy-ipa/2864298"
 country: "New Zealand"
 brewery: "Deep Creek Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/deep-creek-brewing-co.html"
 style: "IPA - New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/white-rabbit-teddywiddler.jpeg
 untappd: "https://untappd.com/b/white-rabbit-teddywidder/351146"
 country: "Australia"
 brewery: "White Rabbit"
-breweryURL: "breweryURL"
+breweryURL: "brewery/white-rabbit.html"
 style: "Sour - Berliner Weisse"
 ---

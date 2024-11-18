@@ -11,6 +11,6 @@ img: /img/list/currumbin-valley-waste-oil.jpeg
 untappd: "https://untappd.com/b/currumbin-valley-brewing-waste-oil/3706542"
 country: "Australia"
 brewery: "Currumbin Valley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/currumbin-valley-brewing.html"
 style: "Stout - Oatmeal"
 ---

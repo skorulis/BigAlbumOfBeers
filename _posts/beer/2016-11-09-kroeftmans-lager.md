@@ -11,6 +11,6 @@ img: /img/list/kroeftmans-lager.jpeg
 untappd: "https://untappd.com/b/kroftmans-kroftmans/2745963"
 country: "Netherlands"
 brewery: "Kröftmans"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kroeftmans.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/blackfont-souvenir-old-ale.jpeg
 untappd: "https://untappd.com/b/blackfont-brewhouse-souvenir-old-ale/2020362"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackfont-brewhouse.html"
 style: "Strong Ale - English"
 ---

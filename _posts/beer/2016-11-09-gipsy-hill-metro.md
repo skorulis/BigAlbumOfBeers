@@ -11,6 +11,6 @@ img: /img/list/gipsy-hill-metro.jpeg
 untappd: "https://untappd.com/b/the-gipsy-hill-brewing-co--metro/2569648"
 country: "England"
 brewery: "The Gipsy Hill Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-gipsy-hill-brewing-co.html"
 style: "Pale Ale - New England"
 ---

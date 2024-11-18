@@ -11,6 +11,6 @@ img: /img/list/xxxx-bitter.jpeg
 untappd: "https://untappd.com/b/castlemaine-perkins-xxxx-bitter/11318"
 country: "Australia"
 brewery: "Castlemaine Perkins"
-breweryURL: "breweryURL"
+breweryURL: "brewery/castlemaine-perkins.html"
 style: "Lager - North American Adjunct"
 ---

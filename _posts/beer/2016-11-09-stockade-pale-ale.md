@@ -11,6 +11,6 @@ img: /img/list/stockade-pale-ale.jpeg
 untappd: "https://untappd.com/b/stockade-brew-co-stockade-pale-ale/784796"
 country: "Australia"
 brewery: "Stockade Brew Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stockade-brew-co.html"
 style: "Pale Ale - American"
 ---

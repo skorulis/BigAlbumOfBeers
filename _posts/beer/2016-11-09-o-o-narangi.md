@@ -11,6 +11,6 @@ img: /img/list/o-o-narangi.jpeg
 untappd: "https://untappd.com/b/oo-brewing--narangi/1692471"
 country: "Sweden"
 brewery: "O/O Brewing "
-breweryURL: "breweryURL"
+breweryURL: "brewery/o-o-brewing-.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/riverside-othello-s-curse.jpeg
 untappd: "https://untappd.com/b/riverside-brewing-company-othellos-curse/614636"
 country: "Australia"
 brewery: "Riverside Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/riverside-brewing-company.html"
 style: "IPA - Imperial / Double Black"
 ---

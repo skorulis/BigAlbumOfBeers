@@ -11,6 +11,6 @@ img: /img/list/white-bay-where-ever-i-rove.jpeg
 untappd: "https://untappd.com/b/white-bay-beer-co--wherever-i-rove/3892929"
 country: "Australia"
 brewery: "White Bay Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/white-bay-beer-co.html"
 style: "IPA - American"
 ---

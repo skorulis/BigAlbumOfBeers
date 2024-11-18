@@ -11,6 +11,6 @@ img: /img/list/grand-ridge-midnight-madness.jpeg
 untappd: "https://untappd.com/b/grand-ridge-brewery-midnight-madness/2737467"
 country: "Australia"
 brewery: "Grand Ridge Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/grand-ridge-brewery.html"
 style: "Dark Ale"
 ---

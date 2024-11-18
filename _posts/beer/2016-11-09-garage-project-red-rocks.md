@@ -11,6 +11,6 @@ img: /img/list/garage-project-red-rocks.jpeg
 untappd: "https://untappd.com/b/garage-project-red-rocks-reserve---hot-rock/2323810"
 country: "New Zealand"
 brewery: "Garage Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/garage-project.html"
 style: "Red Ale - American Amber / Red"
 ---

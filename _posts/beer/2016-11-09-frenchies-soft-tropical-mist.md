@@ -11,6 +11,6 @@ img: /img/list/frenchies-soft-tropical-mist.jpeg
 untappd: "https://untappd.com/b/frenchies-soft-tropical-mist/4053472"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "breweryURL"
+breweryURL: "brewery/frenchies.html"
 style: "IPA - Session / India Session Ale"
 ---

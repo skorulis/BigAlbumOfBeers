@@ -11,6 +11,6 @@ img: /img/list/endeavour-amber-ale.jpeg
 untappd: "https://untappd.com/b/endeavour-brewing-co--reserve-amber-ale/2388030"
 country: "Australia"
 brewery: "ENDEAVOUR Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/endeavour-brewing-co.html"
 style: "Red Ale - Other"
 ---

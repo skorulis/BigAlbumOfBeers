@@ -11,6 +11,6 @@ img: /img/list/dalgety-snowy-lager.jpeg
 untappd: "https://untappd.com/b/dalgety-brewing-company-snowy-lager/3712977"
 country: "Australia"
 brewery: "Dalgety Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dalgety-brewing-company.html"
 style: "Lager - American Light"
 ---

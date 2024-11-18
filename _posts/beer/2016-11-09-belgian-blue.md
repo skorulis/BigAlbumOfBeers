@@ -11,6 +11,6 @@ img: /img/list/belgian-blue.jpeg
 untappd: "https://untappd.com/b/belgian-blue-brewing-company-original-belgian-wheat-ale/562689"
 country: "Belgium"
 brewery: "Belgian Blue Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/belgian-blue-brewing-company.html"
 style: "Witbier"
 ---

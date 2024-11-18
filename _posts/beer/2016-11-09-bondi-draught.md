@@ -11,6 +11,6 @@ img: /img/list/bondi-draught.jpeg
 untappd: "https://untappd.com/b/the-bondi-brewing-co--bondi-draught/3363331"
 country: "Australia"
 brewery: "The Bondi Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-bondi-brewing-co.html"
 style: "Lager - Pale"
 ---

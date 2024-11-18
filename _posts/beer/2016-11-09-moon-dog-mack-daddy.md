@@ -11,6 +11,6 @@ img: /img/list/moon-dog-mack-daddy.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-mack-daddy/1345436"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moon-dog-craft-brewery.html"
 style: "Dark Ale"
 ---

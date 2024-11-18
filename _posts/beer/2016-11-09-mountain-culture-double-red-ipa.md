@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-double-red-ipa.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--double-red-ipa/3475047"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "IPA - Red"
 ---

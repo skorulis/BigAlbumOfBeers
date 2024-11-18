@@ -11,6 +11,6 @@ img: /img/list/new-england-bubbles-in-the-orchard.jpeg
 untappd: "https://untappd.com/b/new-england-brewing-co--bubbles-in-the-orchard/3125926"
 country: "Australia"
 brewery: "New England Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/new-england-brewing-co.html"
 style: "IPA - Brut"
 ---

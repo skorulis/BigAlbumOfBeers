@@ -11,6 +11,6 @@ img: /img/list/slow-lane-quake.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-quake/3778882"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slow-lane-brewing.html"
 style: "Pale Ale - New Zealand"
 ---

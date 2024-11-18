@@ -11,6 +11,6 @@ img: /img/list/torgets-ode-to-hops.jpeg
 untappd: "https://untappd.com/b/torgets-bryggeri-ode-to-hops/5133730"
 country: "Sweden"
 brewery: "Torgets Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/torgets-bryggeri.html"
 style: "IPA - American"
 ---

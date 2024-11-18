@@ -11,6 +11,6 @@ img: /img/list/saint-mihal.jpeg
 untappd: "https://untappd.com/b/saint-mihal-saint-mihal/759471"
 country: "France"
 brewery: "Saint-Mihal"
-breweryURL: "breweryURL"
+breweryURL: "brewery/saint-mihal.html"
 style: "Lager - Euro"
 ---

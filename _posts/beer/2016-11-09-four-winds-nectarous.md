@@ -11,6 +11,6 @@ img: /img/list/four-winds-nectarous.jpeg
 untappd: "https://untappd.com/b/four-winds-brewing-nectarous-dry-hopped-sour--2016-/1452233"
 country: "Canada"
 brewery: "Four Winds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/four-winds-brewing.html"
 style: "Sour - Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/mallee-bull.jpeg
 untappd: "https://untappd.com/b/mildura-brewery-mallee-bull/17758"
 country: "Australia"
 brewery: "Mildura Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mildura-brewery.html"
 style: "Strong Ale - English"
 ---

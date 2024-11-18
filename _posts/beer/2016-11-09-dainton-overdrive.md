@@ -11,6 +11,6 @@ img: /img/list/dainton-overdrive.jpeg
 untappd: "https://untappd.com/b/dainton-beer-overdrive/4008246"
 country: "Australia"
 brewery: "Dainton Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dainton-beer.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/slipstream-g-force.jpeg
 untappd: "https://untappd.com/b/slipstream-brewing-company-g-force-ipa/2135155"
 country: "Australia"
 brewery: "Slipstream Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slipstream-brewing-company.html"
 style: "IPA - New England"
 ---

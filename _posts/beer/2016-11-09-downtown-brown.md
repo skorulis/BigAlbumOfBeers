@@ -11,6 +11,6 @@ img: /img/list/downtown-brown.jpeg
 untappd: "https://untappd.com/b/lost-coast-brewery-downtown-brown/1402"
 country: "United States"
 brewery: "Lost Coast Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/lost-coast-brewery.html"
 style: "Brown Ale - English"
 ---

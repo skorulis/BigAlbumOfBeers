@@ -11,6 +11,6 @@ img: /img/list/karl-strauss-tower-10-ipa.jpeg
 untappd: "https://untappd.com/b/karl-strauss-brewing-company-tower-10-ipa/7820"
 country: "United States"
 brewery: "Karl Strauss Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/karl-strauss-brewing-company.html"
 style: "IPA - American"
 ---

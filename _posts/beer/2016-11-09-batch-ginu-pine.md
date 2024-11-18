@@ -11,6 +11,6 @@ img: /img/list/batch-ginu-pine.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-ginu-pine/2565556"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Sour - Other"
 ---

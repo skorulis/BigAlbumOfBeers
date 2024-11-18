@@ -11,6 +11,6 @@ img: /img/list/coopers-mild-ale.jpeg
 untappd: "https://untappd.com/b/coopers-mild-ale/4932"
 country: "Australia"
 brewery: "Coopers"
-breweryURL: "breweryURL"
+breweryURL: "brewery/coopers.html"
 style: "English Mild Ale"
 ---

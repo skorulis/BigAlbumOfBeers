@@ -11,6 +11,6 @@ img: /img/list/nomad-jetlag.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--jetlag-01-ddh-hazy-ipa/4254251"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "IPA - New England / Hazy"
 ---

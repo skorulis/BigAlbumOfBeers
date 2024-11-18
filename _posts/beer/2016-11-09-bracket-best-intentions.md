@@ -11,6 +11,6 @@ img: /img/list/bracket-best-intentions.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-best-intentions/4737078"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double"
 ---

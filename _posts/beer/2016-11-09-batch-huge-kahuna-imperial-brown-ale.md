@@ -11,6 +11,6 @@ img: /img/list/batch-huge-kahuna-imperial-brown-ale.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-the-huge-kahuna/2084936"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Brown Ale - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/chop-shop-pale-ale.jpeg
 untappd: "https://untappd.com/b/macarthur-grange-brewery-chop-shop-pale-ale/1497178"
 country: "Australia"
 brewery: "Macarthur Grange Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/macarthur-grange-brewery.html"
 style: "Pale Ale - Australian"
 ---

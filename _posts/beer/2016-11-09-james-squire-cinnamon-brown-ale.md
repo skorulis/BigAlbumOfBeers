@@ -11,6 +11,6 @@ img: /img/list/james-squire-cinnamon-brown-ale.jpeg
 untappd: "https://untappd.com/b/the-squires-landing-cinnamon-brown-ale/4965509"
 country: "Australia"
 brewery: "The Squire’s Landing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-squire-s-landing.html"
 style: "Brown Ale - English"
 ---

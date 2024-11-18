@@ -11,6 +11,6 @@ img: /img/list/timothy-taylor-landlord.jpeg
 untappd: "https://untappd.com/b/timothy-taylor---co--ltd-landlord/8676"
 country: "England"
 brewery: "Timothy Taylor & Co. Ltd"
-breweryURL: "breweryURL"
+breweryURL: "brewery/timothy-taylor---co--ltd.html"
 style: "Pale Ale - English"
 ---

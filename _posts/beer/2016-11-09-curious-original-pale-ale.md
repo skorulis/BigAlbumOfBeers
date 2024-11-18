@@ -11,6 +11,6 @@ img: /img/list/curious-original-pale-ale.jpeg
 untappd: "https://untappd.com/b/magic-rock-brewing-ringmaster/499796"
 country: "England"
 brewery: "Magic Rock Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/magic-rock-brewing.html"
 style: "Pale Ale - American"
 ---

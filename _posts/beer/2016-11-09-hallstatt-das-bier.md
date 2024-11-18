@@ -11,6 +11,6 @@ img: /img/list/hallstatt-das-bier.jpeg
 untappd: "https://untappd.com/b/hofbrau-kaltenhausen-hallstatt--das-bier-/668924"
 country: "Austria"
 brewery: "Hofbräu Kaltenhausen"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hofbraeu-kaltenhausen.html"
 style: "Lager - Helles"
 ---

@@ -11,6 +11,6 @@ img: /img/list/temple-anytime-pale-ale.jpeg
 untappd: "https://untappd.com/b/temple-brewing-co--anytime-pale-ale/504679"
 country: "Australia"
 brewery: "Temple Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/temple-brewing-co.html"
 style: "Pale Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pirate-life-throwback-ipa.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-throwback-ipa/995865"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "IPA - Session / India Session Ale"
 ---

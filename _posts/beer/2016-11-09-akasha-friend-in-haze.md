@@ -11,6 +11,6 @@ img: /img/list/akasha-friend-in-haze.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-akasha-brewing-company-friend-in-haze-hazy-ipa/5552235"
 country: "Australia"
 brewery: "Akasha Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

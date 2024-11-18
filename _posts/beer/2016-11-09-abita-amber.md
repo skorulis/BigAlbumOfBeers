@@ -11,6 +11,6 @@ img: /img/list/abita-amber.jpeg
 untappd: "https://untappd.com/b/abita-brewing-company-amber/6353"
 country: "United States"
 brewery: "Abita Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/abita-brewing-company.html"
 style: "Lager - American Amber / Red"
 ---

@@ -11,6 +11,6 @@ img: /img/list/vilkmerges-vysniu-kriek.jpeg
 untappd: "https://untappd.com/b/vilkmerges-alus-vilkmerges-vysniu-kriek/1017657"
 country: "Lithuania"
 brewery: "Vilkmerges Alus"
-breweryURL: "breweryURL"
+breweryURL: "brewery/vilkmerges-alus.html"
 style: "Fruit Beer"
 ---

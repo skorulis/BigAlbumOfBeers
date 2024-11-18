@@ -11,6 +11,6 @@ img: /img/list/deya-pale-ale.jpeg
 untappd: "https://untappd.com/b/deya-brewing-company-bundobust-pale-ale/4157545"
 country: "England"
 brewery: "DEYA Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/deya-brewing-company.html"
 style: "Pale Ale - American"
 ---

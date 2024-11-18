@@ -11,6 +11,6 @@ img: /img/list/slow-lane-thirsty-miner.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-thirsty-miner/3863986"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slow-lane-brewing.html"
 style: "Grisette"
 ---

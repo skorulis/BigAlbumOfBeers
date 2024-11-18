@@ -11,6 +11,6 @@ img: /img/list/vratislav.jpeg
 untappd: "https://untappd.com/b/pivovary-staropramen-vratislav/405088"
 country: "Czech Republic"
 brewery: "Pivovary Staropramen"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pivovary-staropramen.html"
 style: "Pilsner - Czech"
 ---

@@ -11,6 +11,6 @@ img: /img/list/zytho-tropical-haze.jpeg
 untappd: "https://untappd.com/b/zytho-brewing-tropical-haze/3781658"
 country: "Australia"
 brewery: "Zytho Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/zytho-brewing.html"
 style: "Pale Ale - New England"
 ---

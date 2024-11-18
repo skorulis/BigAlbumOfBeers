@@ -11,6 +11,6 @@ img: /img/list/cricketers-arms-captain-s-ipa.jpeg
 untappd: "https://untappd.com/b/cricketers-arms-captains-ipa/863571"
 country: "Australia"
 brewery: "Cricketers Arms"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cricketers-arms.html"
 style: "IPA - English"
 ---

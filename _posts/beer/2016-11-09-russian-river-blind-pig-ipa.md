@@ -11,6 +11,6 @@ img: /img/list/russian-river-blind-pig-ipa.jpeg
 untappd: "https://untappd.com/b/russian-river-brewing-company-blind-pig-ipa/4041"
 country: "United States"
 brewery: "Russian River Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/russian-river-brewing-company.html"
 style: "IPA - American"
 ---

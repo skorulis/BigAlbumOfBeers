@@ -11,6 +11,6 @@ img: /img/list/konig-ludwig-dunkel.jpeg
 untappd: "https://untappd.com/b/konig-ludwig-schlossbrauerei-kaltenberg-konig-ludwig-dunkel/57196"
 country: "Germany"
 brewery: "König Ludwig Schlossbrauerei Kaltenberg"
-breweryURL: "breweryURL"
+breweryURL: "brewery/koenig-ludwig-schlossbrauerei-kaltenberg.html"
 style: "Lager - Dunkel Munich"
 ---

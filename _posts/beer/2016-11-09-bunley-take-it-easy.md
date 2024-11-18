@@ -11,6 +11,6 @@ img: /img/list/bunley-take-it-easy.jpeg
 untappd: "https://untappd.com/b/burnley-brewing-take-it-easy/3978805"
 country: "Australia"
 brewery: "Burnley Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/burnley-brewing.html"
 style: "Lager - Pale"
 ---

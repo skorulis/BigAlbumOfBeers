@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-greater-union.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--greater-union/5150653"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "IPA - New England / Hazy"
 ---

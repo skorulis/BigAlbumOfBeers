@@ -11,6 +11,6 @@ img: /img/list/10-toes-alter-ego.jpeg
 untappd: "https://untappd.com/b/10-toes-brewery-10-toes-brewery-alter-ego-vanilla-porter/2116916"
 country: "Australia"
 brewery: "10 Toes Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/10-toes-brewery.html"
 style: "Porter - Other"
 ---

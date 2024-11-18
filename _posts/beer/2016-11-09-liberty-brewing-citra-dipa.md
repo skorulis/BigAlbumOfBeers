@@ -11,6 +11,6 @@ img: /img/list/liberty-brewing-citra-dipa.jpeg
 untappd: "https://untappd.com/b/liberty-brewing-ctra/69738"
 country: "New Zealand"
 brewery: "Liberty Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/liberty-brewing.html"
 style: "IPA - Imperial / Double"
 ---

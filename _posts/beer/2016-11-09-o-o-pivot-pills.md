@@ -11,6 +11,6 @@ img: /img/list/o-o-pivot-pills.jpeg
 untappd: "https://untappd.com/b/oo-brewing--pivot-pils/2504640"
 country: "Sweden"
 brewery: "O/O Brewing "
-breweryURL: "breweryURL"
+breweryURL: "brewery/o-o-brewing-.html"
 style: "Pilsner - Other"
 ---

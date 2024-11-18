@@ -11,6 +11,6 @@ img: /img/list/altenmuenster.jpeg
 untappd: "https://untappd.com/b/allgauer-brauhaus-altenmunster-urig-wurzig/29819"
 country: "Germany"
 brewery: "Allgäuer Brauhaus"
-breweryURL: "breweryURL"
+breweryURL: "brewery/allgaeuer-brauhaus.html"
 style: "Lager - Helles"
 ---

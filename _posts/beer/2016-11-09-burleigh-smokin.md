@@ -11,6 +11,6 @@ img: /img/list/burleigh-smokin.jpeg
 untappd: "https://untappd.com/b/burleigh-brewing-co--burleigh-smokin/3452157"
 country: "Australia"
 brewery: "Burleigh Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/burleigh-brewing-co.html"
 style: "Smoked Beer"
 ---

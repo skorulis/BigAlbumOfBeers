@@ -11,6 +11,6 @@ img: /img/list/moon-dog-lager.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-moon-dog-lager/3179710"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moon-dog-craft-brewery.html"
 style: "Lager - Pale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/philter-hazy-pale.jpeg
 untappd: "https://untappd.com/b/philter-brewing-hazy-pale-ale/4241571"
 country: "Australia"
 brewery: "Philter Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/philter-brewing.html"
 style: "Pale Ale - Australian"
 ---

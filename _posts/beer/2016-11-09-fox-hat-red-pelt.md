@@ -11,6 +11,6 @@ img: /img/list/fox-hat-red-pelt.jpeg
 untappd: "https://untappd.com/b/fox-hat-brewing-red-pelt/1772685"
 country: "Australia"
 brewery: "Fox Hat Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fox-hat-brewing.html"
 style: "IPA - Red"
 ---

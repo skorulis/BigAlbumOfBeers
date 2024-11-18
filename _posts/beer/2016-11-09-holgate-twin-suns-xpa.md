@@ -11,6 +11,6 @@ img: /img/list/holgate-twin-suns-xpa.jpeg
 untappd: "https://untappd.com/b/holgate-brewhouse-twin-suns-xpa/4039429"
 country: "Australia"
 brewery: "Holgate Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/holgate-brewhouse.html"
 style: "Pale Ale - American"
 ---

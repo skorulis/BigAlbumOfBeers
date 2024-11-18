@@ -11,6 +11,6 @@ img: /img/list/blackflag-affinity.jpeg
 untappd: "https://untappd.com/b/blackflag-brewing-affinity/3773349"
 country: "Australia"
 brewery: "Blackflag Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackflag-brewing.html"
 style: "Pale Ale - Australian"
 ---

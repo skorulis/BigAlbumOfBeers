@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-hop-ale.jpeg
 untappd: "https://untappd.com/b/young-henrys-brewing-company-hop-ale/164974"
 country: "Australia"
 brewery: "Young Henrys Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/young-henrys-brewing-company.html"
 style: "Rye Beer"
 ---

@@ -11,6 +11,6 @@ img: /img/list/unibroue-la-fin-du-monde.jpeg
 untappd: "https://untappd.com/b/unibroue-la-fin-du-monde/6988"
 country: "Canada"
 brewery: "Unibroue"
-breweryURL: "breweryURL"
+breweryURL: "brewery/unibroue.html"
 style: "Belgian Tripel"
 ---

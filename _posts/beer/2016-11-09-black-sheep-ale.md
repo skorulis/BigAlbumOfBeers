@@ -11,6 +11,6 @@ img: /img/list/black-sheep-ale.jpeg
 untappd: "https://untappd.com/b/black-sheep-black-sheep-ale/23059"
 country: "England"
 brewery: "Black Sheep"
-breweryURL: "breweryURL"
+breweryURL: "brewery/black-sheep.html"
 style: "English Bitter"
 ---

@@ -11,6 +11,6 @@ img: /img/list/brouhaha-imperial-stout.jpeg
 untappd: "https://untappd.com/b/brouhaha-brewery-brouhaha-brewery-imperial-stout/5470469"
 country: "Australia"
 brewery: "Brouhaha Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouhaha-brewery.html"
 style: "Stout - Imperial / Double"
 ---

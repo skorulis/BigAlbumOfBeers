@@ -11,6 +11,6 @@ img: /img/list/bracket-7-baraka.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-baraka/4364931"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Porter - Coffee"
 ---

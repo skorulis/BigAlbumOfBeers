@@ -11,6 +11,6 @@ img: /img/list/slow-lane-belgian-blonde.jpeg
 untappd: "https://untappd.com/b/slow-lane-brewing-refectory/3778880"
 country: "Australia"
 brewery: "Slow Lane Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slow-lane-brewing.html"
 style: "Belgian Blonde"
 ---

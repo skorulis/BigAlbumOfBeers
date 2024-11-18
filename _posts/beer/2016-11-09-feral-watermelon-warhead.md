@@ -11,6 +11,6 @@ img: /img/list/feral-watermelon-warhead.jpeg
 untappd: "https://untappd.com/b/feral-brewing-company-watermelon-warhead/169741"
 country: "Australia"
 brewery: "Feral Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/feral-brewing-company.html"
 style: "Sour - Berliner Weisse"
 ---

@@ -11,6 +11,6 @@ img: /img/list/hope-chocolate-milk-porter.jpeg
 untappd: "https://untappd.com/b/hope-brewery-chocolate-milk-porter/1064539"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hope-brewery.html"
 style: "Porter - Other"
 ---

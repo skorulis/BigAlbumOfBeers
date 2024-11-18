@@ -11,6 +11,6 @@ img: /img/list/sparkle-to-bee-or-not-to-bee.jpeg
 untappd: "https://untappd.com/b/sparkke-change-beverage-co--to-bee-or-not-to-bee/3782508"
 country: "Australia"
 brewery: "Sparkke Change Beverage Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sparkke-change-beverage-co.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

@@ -11,6 +11,6 @@ img: /img/list/moondog-cake-hole.jpeg
 untappd: "https://untappd.com/b/moon-dog-craft-brewery-cake-hole-black-forest-stout/2212105"
 country: "Australia"
 brewery: "Moon Dog Craft Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moon-dog-craft-brewery.html"
 style: "Stout - Other"
 ---

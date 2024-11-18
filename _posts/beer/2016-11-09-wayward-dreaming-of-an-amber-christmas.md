@@ -11,6 +11,6 @@ img: /img/list/wayward-dreaming-of-an-amber-christmas.jpeg
 untappd: "https://untappd.com/b/wayward-brewing-dreaming-of-an-amber-christmas/4607803"
 country: "Australia"
 brewery: "Wayward Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wayward-brewing.html"
 style: "Red Ale - American Amber / Red"
 ---

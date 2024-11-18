@@ -11,6 +11,6 @@ img: /img/list/brick-lane-all-together.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--all-together-2-west-coast-ipa/3936456"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/brick-lane-brewing-co.html"
 style: "IPA - American"
 ---

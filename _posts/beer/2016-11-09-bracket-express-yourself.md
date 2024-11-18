@@ -11,6 +11,6 @@ img: /img/list/bracket-express-yourself.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-express-yourself/5301804"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

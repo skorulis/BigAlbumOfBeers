@@ -11,6 +11,6 @@ img: /img/list/franziskaner-weissbier.jpeg
 untappd: "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-franziskaner-hefe-weissbier-naturtrub/14564"
 country: "Germany"
 brewery: "Spaten-Franziskaner-Löwenbräu-Gruppe"
-breweryURL: "breweryURL"
+breweryURL: "brewery/spaten-franziskaner-loewenbraeu-gruppe.html"
 style: "Hefeweizen"
 ---

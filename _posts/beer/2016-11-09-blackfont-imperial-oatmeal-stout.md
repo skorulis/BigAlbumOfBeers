@@ -11,6 +11,6 @@ img: /img/list/blackfont-imperial-oatmeal-stout.jpeg
 untappd: "https://untappd.com/b/blackfont-brewhouse-imperial-oatmeal-stout/1807510"
 country: "Australia"
 brewery: "BlackFont Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackfont-brewhouse.html"
 style: "Stout - Imperial Oatmeal"
 ---

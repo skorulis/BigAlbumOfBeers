@@ -11,6 +11,6 @@ img: /img/list/battler-bitter.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-battler-bitter--ramblin-rascals-exclusive-/2215153"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willie-the-boatman.html"
 style: "English Bitter"
 ---

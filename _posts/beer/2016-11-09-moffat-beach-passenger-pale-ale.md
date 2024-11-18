@@ -11,6 +11,6 @@ img: /img/list/moffat-beach-passenger-pale-ale.jpeg
 untappd: "https://untappd.com/b/moffat-beach-brewing-co-moffat-beach-brewing-co-passenger-pale-ale/1367160"
 country: "Australia"
 brewery: "Moffat Beach Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moffat-beach-brewing-co.html"
 style: "Pale Ale - American"
 ---

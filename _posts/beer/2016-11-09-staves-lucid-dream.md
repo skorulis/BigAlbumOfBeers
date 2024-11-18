@@ -11,6 +11,6 @@ img: /img/list/staves-lucid-dream.jpeg
 untappd: "https://untappd.com/b/staves-brewery-lucid-dream/4554136"
 country: "Australia"
 brewery: "Staves Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/staves-brewery.html"
 style: "IPA - Rye"
 ---

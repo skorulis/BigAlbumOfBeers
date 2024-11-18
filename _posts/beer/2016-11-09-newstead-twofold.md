@@ -11,6 +11,6 @@ img: /img/list/newstead-twofold.jpeg
 untappd: "https://untappd.com/b/newstead-brewing-co--twofold/4952864"
 country: "Australia"
 brewery: "Newstead Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/newstead-brewing-co.html"
 style: "IPA - American"
 ---

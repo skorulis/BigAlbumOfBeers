@@ -11,6 +11,6 @@ img: /img/list/pirate-life-golden-era.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-golden-era-records-golden-ale/1304012"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "Golden Ale"
 ---

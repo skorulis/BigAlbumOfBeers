@@ -11,6 +11,6 @@ img: /img/list/shark-island-pale-ale.jpeg
 untappd: "https://untappd.com/b/shark-island-brewing-co--shark-island-pale-ale/649113"
 country: "Australia"
 brewery: "Shark Island Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/shark-island-brewing-co.html"
 style: "Pale Ale - American"
 ---

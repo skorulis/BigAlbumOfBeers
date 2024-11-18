@@ -11,6 +11,6 @@ img: /img/list/redbay-bearded-hobo-pale-ale.jpeg
 untappd: "https://untappd.com/b/redbay-brewing-company-the-bearded-hobo/1236152"
 country: "Australia"
 brewery: "Redbay Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/redbay-brewing-company.html"
 style: "Pale Ale - American"
 ---

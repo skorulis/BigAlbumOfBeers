@@ -11,6 +11,6 @@ img: /img/list/merino-irish-stout.jpeg
 untappd: "https://untappd.com/b/merino-brewery-merino-brewery-irish-stout/4779956"
 country: "Australia"
 brewery: "Merino Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/merino-brewery.html"
 style: "Stout - Irish Dry"
 ---

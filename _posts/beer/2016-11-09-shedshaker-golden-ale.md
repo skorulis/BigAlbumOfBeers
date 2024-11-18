@@ -11,6 +11,6 @@ img: /img/list/shedshaker-golden-ale.jpeg
 untappd: "https://untappd.com/b/shedshaker-brewing-co-shedshaker-brewing-co-golden-ale/993813"
 country: "Australia"
 brewery: "Shedshaker Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/shedshaker-brewing-co.html"
 style: "Blonde / Golden Ale - Other"
 ---

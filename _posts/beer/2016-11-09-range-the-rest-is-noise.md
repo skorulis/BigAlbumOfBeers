@@ -11,6 +11,6 @@ img: /img/list/range-the-rest-is-noise.jpeg
 untappd: "https://untappd.com/b/range-brewing-the-rest-is-noise/4424004"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/range-brewing.html"
 style: "Pale Ale - New England / Hazy"
 ---

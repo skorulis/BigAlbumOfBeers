@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-room-for-pud.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--room-for-pud/5110306"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "IPA - Triple New England / Hazy"
 ---

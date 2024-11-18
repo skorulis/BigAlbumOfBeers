@@ -11,6 +11,6 @@ img: /img/list/bright-doggo-brau.jpeg
 untappd: "https://untappd.com/b/bright-brewery-big-doggobrau-tropical-xpa/4294326"
 country: "Australia"
 brewery: "Bright Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bright-brewery.html"
 style: "Pale Ale - XPA (Extra Pale)"
 ---

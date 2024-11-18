@@ -11,6 +11,6 @@ img: /img/list/quakers-nectaron.jpeg
 untappd: "https://untappd.com/b/quakers-hat-brewing-nectaron-s-m-a-s-h-/4134996"
 country: "Australia"
 brewery: "Quakers Hat Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/quakers-hat-brewing.html"
 style: "Pale Ale - Australian"
 ---

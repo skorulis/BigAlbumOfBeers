@@ -11,6 +11,6 @@ img: /img/list/emersons-hazed-and-confused.jpeg
 untappd: "https://untappd.com/b/emerson-s-brewery-emerson-s-brewery-hazed-and-confused/2942963"
 country: "New Zealand"
 brewery: "Emerson's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/emerson-s-brewery.html"
 style: "IPA - New England / Hazy"
 ---

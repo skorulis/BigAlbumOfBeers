@@ -11,6 +11,6 @@ img: /img/list/chimay-red.jpeg
 untappd: "https://untappd.com/b/bieres-de-chimay-chimay-rouge--premiere-/4072"
 country: "Belgium"
 brewery: "Bières de Chimay"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bieres-de-chimay.html"
 style: "Belgian Dubbel"
 ---

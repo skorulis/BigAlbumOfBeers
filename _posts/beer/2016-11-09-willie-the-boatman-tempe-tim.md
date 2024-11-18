@@ -11,6 +11,6 @@ img: /img/list/willie-the-boatman-tempe-tim.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-tempe-tim/2976169"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willie-the-boatman.html"
 style: "Pale Ale - Australian"
 ---

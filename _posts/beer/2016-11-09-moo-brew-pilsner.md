@@ -11,6 +11,6 @@ img: /img/list/moo-brew-pilsner.jpeg
 untappd: "https://untappd.com/b/moo-brew-pilsner/25850"
 country: "Australia"
 brewery: "Moo Brew"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moo-brew.html"
 style: "Pilsner - Other"
 ---

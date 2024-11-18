@@ -11,6 +11,6 @@ img: /img/list/la-sirene-citray-sour.jpeg
 untappd: "https://untappd.com/b/la-sirene-brewing-citray-sour/2474952"
 country: "Australia"
 brewery: "La Sirène Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/la-sirene-brewing.html"
 style: "Sour - Ale"
 ---

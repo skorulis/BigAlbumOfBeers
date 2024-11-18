@@ -11,6 +11,6 @@ img: /img/list/bracket-helles-bock.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-helles-bock/3938047"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "Bock - Hell / Maibock / Lentebock"
 ---

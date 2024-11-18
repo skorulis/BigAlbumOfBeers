@@ -11,6 +11,6 @@ img: /img/list/bracket-riwaka-waka.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-riwaka-waka/5220056"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

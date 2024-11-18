@@ -11,6 +11,6 @@ img: /img/list/two-birds-total-eclipse-of-the-hop.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-total-eclipse-of-the-hop/4049810"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/two-birds-brewing.html"
 style: "Pale Ale - International"
 ---

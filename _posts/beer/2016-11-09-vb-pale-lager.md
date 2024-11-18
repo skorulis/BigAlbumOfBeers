@@ -11,6 +11,6 @@ img: /img/list/vb-pale-lager.jpeg
 untappd: "https://untappd.com/b/carlton---united-breweries-victoria-pale-lager/95200"
 country: "Australia"
 brewery: "Carlton & United Breweries"
-breweryURL: "breweryURL"
+breweryURL: "brewery/carlton---united-breweries.html"
 style: "Lager - Pale"
 ---

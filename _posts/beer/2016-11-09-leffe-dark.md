@@ -11,6 +11,6 @@ img: /img/list/leffe-dark.jpeg
 untappd: "https://untappd.com/b/abbaye-de-leffe-leffe-royale/171812"
 country: "Belgium"
 brewery: "Abbaye de Leffe"
-breweryURL: "breweryURL"
+breweryURL: "brewery/abbaye-de-leffe.html"
 style: "Belgian Strong Golden Ale"
 ---

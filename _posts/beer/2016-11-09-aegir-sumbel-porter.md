@@ -11,6 +11,6 @@ img: /img/list/aegir-sumbel-porter.jpeg
 untappd: "https://untappd.com/b/aegir-bryggeri-sumbel-porter/56969"
 country: "Norway"
 brewery: "Ægir Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/aegir-bryggeri.html"
 style: "Porter - Other"
 ---

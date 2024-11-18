@@ -11,6 +11,6 @@ img: /img/list/wig---pen-sequoia.jpeg
 untappd: "https://untappd.com/b/wig---pen-brewery-sequoia/736126"
 country: "Australia"
 brewery: "Wig & Pen Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wig---pen-brewery.html"
 style: "Red Ale - American Amber / Red"
 ---

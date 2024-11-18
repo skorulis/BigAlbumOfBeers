@@ -11,6 +11,6 @@ img: /img/list/dos-blockos-fuck-the-rent.jpeg
 untappd: "https://untappd.com/b/east-9th-brewing-co--fuck--the--rent-/1731092"
 country: "Australia"
 brewery: "East 9th Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/east-9th-brewing-co.html"
 style: "Golden Ale"
 ---

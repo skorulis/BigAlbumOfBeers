@@ -11,6 +11,6 @@ img: /img/list/killer-sprocket-american-stout.jpeg
 untappd: "https://untappd.com/b/killer-sprocket-american-stout/3867691"
 country: "Australia"
 brewery: "Killer Sprocket"
-breweryURL: "breweryURL"
+breweryURL: "brewery/killer-sprocket.html"
 style: "Stout - American"
 ---

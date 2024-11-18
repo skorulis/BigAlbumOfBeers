@@ -11,6 +11,6 @@ img: /img/list/cricketers-arms-keeper-s-lager.jpeg
 untappd: "https://untappd.com/b/cricketers-arms-keepers-lager/850123"
 country: "Australia"
 brewery: "Cricketers Arms"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cricketers-arms.html"
 style: "Lager - Pale"
 ---

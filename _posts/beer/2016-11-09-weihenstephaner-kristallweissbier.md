@@ -11,6 +11,6 @@ img: /img/list/weihenstephaner-kristallweissbier.jpeg
 untappd: "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-kristallweissbier/1637"
 country: "Germany"
 brewery: "Bayerische Staatsbrauerei Weihenstephan"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bayerische-staatsbrauerei-weihenstephan.html"
 style: "Kristallweizen "
 ---

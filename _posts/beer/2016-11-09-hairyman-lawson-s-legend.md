@@ -11,6 +11,6 @@ img: /img/list/hairyman-lawson-s-legend.jpeg
 untappd: "https://untappd.com/b/hairyman-brewery-lawsons-legend/1640016"
 country: "Australia"
 brewery: "Hairyman Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hairyman-brewery.html"
 style: "Pale Ale - Australian"
 ---

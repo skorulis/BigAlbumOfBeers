@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-law-of-the-tongue.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-law-of-the-tongue/2262219"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sailors-grave-brewing.html"
 style: "Stout - Oyster"
 ---

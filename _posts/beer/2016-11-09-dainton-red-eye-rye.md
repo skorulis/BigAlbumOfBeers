@@ -11,6 +11,6 @@ img: /img/list/dainton-red-eye-rye.jpeg
 untappd: "https://untappd.com/b/dainton-family-brewery-red-eye-rye/413393"
 country: "Australia"
 brewery: "Dainton Family Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dainton-family-brewery.html"
 style: "Red Ale - American Amber / Red"
 ---

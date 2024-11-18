@@ -11,6 +11,6 @@ img: /img/list/kaiju-tangerine-love-machine.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-tangerine-love-machine/4604497"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kaiju--beer.html"
 style: "Sour - Fruited"
 ---

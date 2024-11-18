@@ -11,6 +11,6 @@ img: /img/list/hawkers-celebration-ale.jpeg
 untappd: "https://untappd.com/b/hawkers-beer-celebration-ale/4707167"
 country: "Australia"
 brewery: "Hawkers Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hawkers-beer.html"
 style: "Pale Ale - American"
 ---

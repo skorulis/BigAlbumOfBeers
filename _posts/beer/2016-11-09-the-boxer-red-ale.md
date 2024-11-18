@@ -11,6 +11,6 @@ img: /img/list/the-boxer-red-ale.jpeg
 untappd: "https://untappd.com/b/rocks-brewing-co-the-boxer/37299"
 country: "Australia"
 brewery: "Rocks Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/rocks-brewing-co.html"
 style: "Red Ale - Irish"
 ---

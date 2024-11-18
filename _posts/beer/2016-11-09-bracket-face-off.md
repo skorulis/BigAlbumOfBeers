@@ -11,6 +11,6 @@ img: /img/list/bracket-face-off.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-face-off/5090014"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/belhaven-scottish-ale.jpeg
 untappd: "https://untappd.com/b/belhaven-brewery-scottish-ale/2247"
 country: "Scotland"
 brewery: "Belhaven Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/belhaven-brewery.html"
 style: "Scottish Ale"
 ---

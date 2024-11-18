@@ -11,6 +11,6 @@ img: /img/list/mismatch-traditional-stout.jpeg
 untappd: "https://untappd.com/b/mismatch-brewing-company-traditional-stout/3811600"
 country: "Australia"
 brewery: "Mismatch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mismatch-brewing-company.html"
 style: "Stout - Foreign / Export"
 ---

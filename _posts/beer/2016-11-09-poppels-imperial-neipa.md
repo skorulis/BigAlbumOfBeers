@@ -11,6 +11,6 @@ img: /img/list/poppels-imperial-neipa.jpeg
 untappd: "https://untappd.com/b/poppels-bryggeri-imperial-neipa/3728096"
 country: "Sweden"
 brewery: "Poppels Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/poppels-bryggeri.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

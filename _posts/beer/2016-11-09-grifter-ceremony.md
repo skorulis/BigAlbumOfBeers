@@ -11,6 +11,6 @@ img: /img/list/grifter-ceremony.jpeg
 untappd: "https://untappd.com/b/the-grifter-brewing-co--ceremony/2416037"
 country: "Australia"
 brewery: "The Grifter Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-grifter-brewing-co.html"
 style: "Cream Ale"
 ---

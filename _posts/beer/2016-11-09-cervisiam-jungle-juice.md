@@ -11,6 +11,6 @@ img: /img/list/cervisiam-jungle-juice.jpeg
 untappd: "https://untappd.com/b/cervisiam-jungle-juice/1061172"
 country: "Norway"
 brewery: "Cervisiam"
-breweryURL: "breweryURL"
+breweryURL: "brewery/cervisiam.html"
 style: "IPA - Imperial / Double"
 ---

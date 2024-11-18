@@ -11,6 +11,6 @@ img: /img/list/beerbliotek-purely-selfish-reasons.jpeg
 untappd: "https://untappd.com/b/beerbliotek-purely-selfish-reasons/5196896"
 country: "Sweden"
 brewery: "Beerbliotek"
-breweryURL: "breweryURL"
+breweryURL: "brewery/beerbliotek.html"
 style: "Belgian Tripel"
 ---

@@ -11,6 +11,6 @@ img: /img/list/frenchies-si-ti-va.jpeg
 untappd: "https://untappd.com/b/frenchies-the-cool-kids--si-ti-va/4515389"
 country: "Australia"
 brewery: "Frenchies"
-breweryURL: "breweryURL"
+breweryURL: "brewery/frenchies.html"
 style: "IPA - New England / Hazy"
 ---

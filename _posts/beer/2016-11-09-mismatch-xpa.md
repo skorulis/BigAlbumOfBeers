@@ -11,6 +11,6 @@ img: /img/list/mismatch-xpa.jpeg
 untappd: "https://untappd.com/b/mismatch-brewing-company-xpa/4620789"
 country: "Australia"
 brewery: "Mismatch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mismatch-brewing-company.html"
 style: "Pale Ale - American"
 ---

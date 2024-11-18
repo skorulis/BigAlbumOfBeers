@@ -11,6 +11,6 @@ img: /img/list/love-dale-lager.jpeg
 untappd: "https://untappd.com/b/lovedale-brewery-lovedale-lager/876824"
 country: "Australia"
 brewery: "Lovedale Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/lovedale-brewery.html"
 style: "Lager - Helles"
 ---

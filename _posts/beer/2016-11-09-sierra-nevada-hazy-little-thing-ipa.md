@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-hazy-little-thing-ipa.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--hazy-little-thing/2412786"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sierra-nevada-brewing-co.html"
 style: "IPA - New England"
 ---

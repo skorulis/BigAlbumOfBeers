@@ -11,6 +11,6 @@ img: /img/list/la-guillotine.jpeg
 untappd: "https://untappd.com/b/brouwerij-huyghe-la-guillotine/26907"
 country: "Belgium"
 brewery: "Brouwerij Huyghe"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouwerij-huyghe.html"
 style: "Belgian Strong Golden Ale"
 ---

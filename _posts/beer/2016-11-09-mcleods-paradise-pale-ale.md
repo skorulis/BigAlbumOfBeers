@@ -11,6 +11,6 @@ img: /img/list/mcleods-paradise-pale-ale.jpeg
 untappd: "https://untappd.com/b/mcleods-brewery-paradise-pale-ale/1060900"
 country: "New Zealand"
 brewery: "McLeod's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/mcleod-s-brewery.html"
 style: "Pale Ale - Other"
 ---

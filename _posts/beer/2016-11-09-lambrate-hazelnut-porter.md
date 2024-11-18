@@ -11,6 +11,6 @@ img: /img/list/lambrate-hazelnut-porter.jpeg
 untappd: "https://untappd.com/b/birrificio-lambrate-hazelnut-porter/2088254"
 country: "Italy"
 brewery: "Birrificio Lambrate"
-breweryURL: "breweryURL"
+breweryURL: "brewery/birrificio-lambrate.html"
 style: "Porter - Other"
 ---

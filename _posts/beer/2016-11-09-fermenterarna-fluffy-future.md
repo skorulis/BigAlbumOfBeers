@@ -11,6 +11,6 @@ img: /img/list/fermenterarna-fluffy-future.jpeg
 untappd: "https://untappd.com/b/fermenterarna-fluffy-future/5399289"
 country: "Sweden"
 brewery: "Fermenterarna"
-breweryURL: "breweryURL"
+breweryURL: "brewery/fermenterarna.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

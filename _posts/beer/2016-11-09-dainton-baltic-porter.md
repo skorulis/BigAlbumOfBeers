@@ -11,6 +11,6 @@ img: /img/list/dainton-baltic-porter.jpeg
 untappd: "https://untappd.com/b/dainton-family-brewery-cherrywood-smoked-rye-baltic-porter/2160976"
 country: "Australia"
 brewery: "Dainton Family Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/dainton-family-brewery.html"
 style: "Porter - Baltic"
 ---

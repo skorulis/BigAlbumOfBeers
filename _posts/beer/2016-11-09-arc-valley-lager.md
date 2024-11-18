@@ -11,6 +11,6 @@ img: /img/list/arc-valley-lager.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-group--woolworths--arc-valley/801656"
 country: "Australia"
 brewery: "Pinnacle Drinks Group (Woolworths)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pinnacle-drinks-group--woolworths.html"
 style: "Lager - Euro"
 ---

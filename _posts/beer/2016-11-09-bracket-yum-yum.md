@@ -11,6 +11,6 @@ img: /img/list/bracket-yum-yum.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-yum-yum/5030798"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/pirate-life-espresso-martini-nitro-stout.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-espresso-martini-nitro-stout/3990643"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "Stout - Coffee"
 ---

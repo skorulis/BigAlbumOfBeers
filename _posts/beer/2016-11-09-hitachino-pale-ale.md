@@ -11,6 +11,6 @@ img: /img/list/hitachino-pale-ale.jpeg
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-pale-ale/33297"
 country: "Japan"
 brewery: "Kiuchi Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kiuchi-brewery.html"
 style: "Pale Ale - English"
 ---

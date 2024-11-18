@@ -11,6 +11,6 @@ img: /img/list/big-shed-double-hazing.jpeg
 untappd: "https://untappd.com/b/big-shed-brewing-concern-double-hazing/3867785"
 country: "Australia"
 brewery: "Big Shed Brewing Concern"
-breweryURL: "breweryURL"
+breweryURL: "brewery/big-shed-brewing-concern.html"
 style: "IPA - Imperial / Double New England"
 ---

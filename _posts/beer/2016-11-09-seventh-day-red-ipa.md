@@ -11,6 +11,6 @@ img: /img/list/seventh-day-red-ipa.jpeg
 untappd: "https://untappd.com/b/7th-day-brewing-red-ipa/3210772"
 country: "Australia"
 brewery: "7th Day Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/7th-day-brewing.html"
 style: "IPA - Red"
 ---

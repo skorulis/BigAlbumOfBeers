@@ -11,6 +11,6 @@ img: /img/list/bodriggy-muckamuck-stout.jpeg
 untappd: "https://untappd.com/b/bodriggy-brewing-co--muckamuck-coconut-stout/3396596"
 country: "Australia"
 brewery: "Bodriggy Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/bodriggy-brewing-co.html"
 style: "Stout - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/panhead-the-vandal.jpeg
 untappd: "https://untappd.com/b/panhead-custom-ales-the-vandal/446636"
 country: "New Zealand"
 brewery: "Panhead Custom Ales"
-breweryURL: "breweryURL"
+breweryURL: "brewery/panhead-custom-ales.html"
 style: "IPA - Imperial / Double"
 ---

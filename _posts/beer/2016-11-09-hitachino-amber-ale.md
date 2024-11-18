@@ -11,6 +11,6 @@ img: /img/list/hitachino-amber-ale.jpeg
 untappd: "https://untappd.com/b/kiuchi-brewery-hitachino-nest-amber-ale/38666"
 country: "Japan"
 brewery: "Kiuchi Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kiuchi-brewery.html"
 style: "Red Ale - American Amber / Red"
 ---

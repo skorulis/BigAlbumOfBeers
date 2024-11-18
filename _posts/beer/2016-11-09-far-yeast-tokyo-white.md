@@ -11,6 +11,6 @@ img: /img/list/far-yeast-tokyo-white.jpeg
 untappd: "https://untappd.com/b/far-yeast-brewing-company-far-yeast-tokyo-white/690985"
 country: "Japan"
 brewery: "Far Yeast Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/far-yeast-brewing-company.html"
 style: "Farmhouse Ale - Saison"
 ---

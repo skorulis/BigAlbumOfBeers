@@ -11,6 +11,6 @@ img: /img/list/wild-beer-epic-saison.jpeg
 untappd: "https://untappd.com/b/the-wild-beer-co-epic-saison/259506"
 country: "England"
 brewery: "The Wild Beer Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-wild-beer-co.html"
 style: "Saison / Farmhouse Ale"
 ---

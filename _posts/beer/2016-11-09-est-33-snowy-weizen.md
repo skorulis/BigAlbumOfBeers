@@ -11,6 +11,6 @@ img: /img/list/est-33-snowy-weizen.jpeg
 untappd: "https://untappd.com/b/est-33-snowy-weizen/1189010"
 country: "Thailand"
 brewery: "Est.33"
-breweryURL: "breweryURL"
+breweryURL: "brewery/est-33.html"
 style: "Hefeweizen"
 ---

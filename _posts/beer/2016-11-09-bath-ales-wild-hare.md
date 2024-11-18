@@ -11,6 +11,6 @@ img: /img/list/bath-ales-wild-hare.jpeg
 untappd: "https://untappd.com/b/bath-ales-wild-hare/6251"
 country: "England"
 brewery: "Bath Ales"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bath-ales.html"
 style: "Pale Ale - English"
 ---

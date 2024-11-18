@@ -11,6 +11,6 @@ img: /img/list/bracket-wobble-factor.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-wobble-factor/4578058"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Triple New England / Hazy"
 ---

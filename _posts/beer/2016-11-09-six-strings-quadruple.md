@@ -11,6 +11,6 @@ img: /img/list/six-strings-quadruple.jpeg
 untappd: "https://untappd.com/b/six-string-brewing-company-quadruple-dark-red-ipa/4823647"
 country: "Australia"
 brewery: "Six String Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/six-string-brewing-company.html"
 style: "IPA - Quadruple"
 ---

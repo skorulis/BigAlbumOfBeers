@@ -11,6 +11,6 @@ img: /img/list/hobgoblin.jpeg
 untappd: "https://untappd.com/b/wychwood-brewery-hobgoblin/5875"
 country: "England"
 brewery: "Wychwood Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wychwood-brewery.html"
 style: "Brown Ale - English"
 ---

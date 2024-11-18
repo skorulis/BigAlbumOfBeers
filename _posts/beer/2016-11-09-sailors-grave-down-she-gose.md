@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-down-she-gose.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-down-she-gose/1733078"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sailors-grave-brewing.html"
 style: "Sour - Gose"
 ---

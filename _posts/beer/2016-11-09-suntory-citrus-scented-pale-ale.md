@@ -11,6 +11,6 @@ img: /img/list/suntory-citrus-scented-pale-ale.jpeg
 untappd: "https://untappd.com/b/suntory-beer-limited-world-craft-citrus-scented-pale-ale---/5228224"
 country: "Japan"
 brewery: "Suntory Beer Limited"
-breweryURL: "breweryURL"
+breweryURL: "brewery/suntory-beer-limited.html"
 style: "Pale Ale - English"
 ---

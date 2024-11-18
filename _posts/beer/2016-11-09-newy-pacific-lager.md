@@ -11,6 +11,6 @@ img: /img/list/newy-pacific-lager.jpeg
 untappd: "https://untappd.com/b/hope-brewery-newy-pacific-lager/3027354"
 country: "Australia"
 brewery: "Hope Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hope-brewery.html"
 style: "Lager - Pale"
 ---

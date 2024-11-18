@@ -11,6 +11,6 @@ img: /img/list/wig---pen-velvet-cream.jpeg
 untappd: "https://untappd.com/b/wig---pen-brewery-velvet-cream/9168"
 country: "Australia"
 brewery: "Wig & Pen Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/wig---pen-brewery.html"
 style: "Stout - Irish Dry"
 ---

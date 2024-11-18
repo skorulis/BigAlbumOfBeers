@@ -11,6 +11,6 @@ img: /img/list/bulla-creek-lager.jpeg
 untappd: "https://untappd.com/b/bulla-creek-brewing-co-bulla-creek-brewing-co-lager/5493985"
 country: "Australia"
 brewery: "Bulla Creek Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bulla-creek-brewing-co.html"
 style: "Lager - Pale"
 ---

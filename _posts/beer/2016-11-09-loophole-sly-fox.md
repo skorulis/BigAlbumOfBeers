@@ -11,6 +11,6 @@ img: /img/list/loophole-sly-fox.jpeg
 untappd: "https://untappd.com/b/loophole-brewing-co-sly-fox-drypa/3522445"
 country: "Australia"
 brewery: "Loophole Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/loophole-brewing-co.html"
 style: "Pale Ale - Australian"
 ---

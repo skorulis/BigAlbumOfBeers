@@ -11,6 +11,6 @@ img: /img/list/tumut-river-you-am-ipa.jpeg
 untappd: "https://untappd.com/b/tumut-river-brewing-co-you-am-ipa/4424108"
 country: "Australia"
 brewery: "Tumut River Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tumut-river-brewing-co.html"
 style: "IPA - Other"
 ---

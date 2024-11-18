@@ -11,6 +11,6 @@ img: /img/list/brouhaha-new-england-ipa.jpeg
 untappd: "https://untappd.com/b/brouhaha-brewery-new-england-ipa/2885234"
 country: "Australia"
 brewery: "Brouhaha Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brouhaha-brewery.html"
 style: "IPA - New England"
 ---

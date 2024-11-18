@@ -11,6 +11,6 @@ img: /img/list/blackmans-watermelon-bob.jpeg
 untappd: "https://untappd.com/b/blackmans-brewery-watermelon-bob/5248919"
 country: "Australia"
 brewery: "Blackman's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/blackman-s-brewery.html"
 style: "Wheat Beer - Other"
 ---

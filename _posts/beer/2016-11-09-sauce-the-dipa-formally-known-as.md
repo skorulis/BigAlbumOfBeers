@@ -11,6 +11,6 @@ img: /img/list/sauce-the-dipa-formally-known-as.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-the-dipa-formerly-known-as---/3173492"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sauce-brewing-co.html"
 style: "IPA - Imperial / Double"
 ---

@@ -11,6 +11,6 @@ img: /img/list/moo-brew-hefeweizen.jpeg
 untappd: "https://untappd.com/b/moo-brew-hefeweizen/34168"
 country: "Australia"
 brewery: "Moo Brew"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moo-brew.html"
 style: "Hefeweizen"
 ---

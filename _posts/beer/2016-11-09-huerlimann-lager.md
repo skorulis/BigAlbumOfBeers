@@ -11,6 +11,6 @@ img: /img/list/huerlimann-lager.jpeg
 untappd: "https://untappd.com/b/feldschlosschen-hurlimann-lager/12111"
 country: "Switzerland"
 brewery: "Feldschlösschen"
-breweryURL: "breweryURL"
+breweryURL: "brewery/feldschloesschen.html"
 style: "Lager - Euro"
 ---

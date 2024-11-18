@@ -11,6 +11,6 @@ img: /img/list/pirate-life-tea---biccies.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-dilmah-tea---biccies-brown-ale/3975839"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "Brown Ale - Other"
 ---

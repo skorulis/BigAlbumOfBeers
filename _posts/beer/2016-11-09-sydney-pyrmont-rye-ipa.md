@@ -11,6 +11,6 @@ img: /img/list/sydney-pyrmont-rye-ipa.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-pyrmont-rye-ipa/846846"
 country: "Australia"
 brewery: "Sydney Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sydney-brewery.html"
 style: "IPA - Rye"
 ---

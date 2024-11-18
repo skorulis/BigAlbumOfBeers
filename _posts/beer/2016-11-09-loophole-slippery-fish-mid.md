@@ -11,6 +11,6 @@ img: /img/list/loophole-slippery-fish-mid.jpeg
 untappd: "https://untappd.com/b/loophole-brewing-co-slippery-fish-mid/3403949"
 country: "Australia"
 brewery: "Loophole Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/loophole-brewing-co.html"
 style: "Table Beer"
 ---

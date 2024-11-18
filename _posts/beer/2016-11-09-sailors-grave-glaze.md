@@ -11,6 +11,6 @@ img: /img/list/sailors-grave-glaze.jpeg
 untappd: "https://untappd.com/b/sailors-grave-brewing-glaze/5162644"
 country: "Australia"
 brewery: "Sailors Grave Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sailors-grave-brewing.html"
 style: "Fruit Beer"
 ---

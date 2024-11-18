@@ -11,6 +11,6 @@ img: /img/list/clare-valley-red-ale.jpeg
 untappd: "https://untappd.com/b/clare-valley-brewing-co--cvbc-red-ale/1498267"
 country: "Australia"
 brewery: "Clare Valley Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/clare-valley-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 ---

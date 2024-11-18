@@ -11,6 +11,6 @@ img: /img/list/one-drop-botany-bay-lager.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-botany-bay-lager/3044868"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/one-drop-brewing-co.html"
 style: "Lager - American"
 ---

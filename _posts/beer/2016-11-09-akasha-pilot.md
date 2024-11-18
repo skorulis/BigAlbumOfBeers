@@ -11,6 +11,6 @@ img: /img/list/akasha-pilot.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--palm-tree-pale/2876130"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company--australia.html"
 style: "Pale Ale - Australian"
 ---

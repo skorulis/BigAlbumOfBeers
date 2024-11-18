@@ -11,6 +11,6 @@ img: /img/list/basement-brewhouse-helles-lager.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-helles-lager/2301267"
 country: "Australia"
 brewery: "Basement Brewhouse"
-breweryURL: "breweryURL"
+breweryURL: "brewery/basement-brewhouse.html"
 style: "Lager - Helles"
 ---

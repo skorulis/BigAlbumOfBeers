@@ -11,6 +11,6 @@ img: /img/list/pasteur-street-passionfruit-wheat.jpeg
 untappd: "https://untappd.com/b/pasteur-street-brewing-company-passionfruit-wheat-ale/985873"
 country: "Vietnam"
 brewery: "Pasteur Street Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pasteur-street-brewing-company.html"
 style: "Pale Wheat Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/sambrooks-pale-ale.jpeg
 untappd: "https://untappd.com/b/sambrooks-brewery-london-pale-ale/770933"
 country: "England"
 brewery: "Sambrook's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sambrook-s-brewery.html"
 style: "Pale Ale - English"
 ---

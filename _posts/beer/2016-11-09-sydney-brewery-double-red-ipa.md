@@ -11,6 +11,6 @@ img: /img/list/sydney-brewery-double-red-ipa.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-red-double-ipa/4221995"
 country: "Australia"
 brewery: "Sydney Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sydney-brewery.html"
 style: "IPA - Red"
 ---

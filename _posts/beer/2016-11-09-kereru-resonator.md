@@ -11,6 +11,6 @@ img: /img/list/kereru-resonator.jpeg
 untappd: "https://untappd.com/b/kereru-brewing-company-resonator-ipa/1160794"
 country: "New Zealand"
 brewery: "Kereru Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/kereru-brewing-company.html"
 style: "IPA - American"
 ---

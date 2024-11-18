@@ -11,6 +11,6 @@ img: /img/list/scharers-lager.jpeg
 untappd: "https://untappd.com/b/scharers-brewery-scharers-lager/5145"
 country: "Australia"
 brewery: "Scharer's Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/scharer-s-brewery.html"
 style: "Lager - Helles"
 ---

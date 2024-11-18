@@ -11,6 +11,6 @@ img: /img/list/pirate-life-dddh-cryo-neipa.jpeg
 untappd: "https://untappd.com/b/pirate-life-brewing-dddh-cryo-neipa/3968424"
 country: "Australia"
 brewery: "Pirate Life Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/pirate-life-brewing.html"
 style: "IPA - New England"
 ---

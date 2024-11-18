@@ -11,6 +11,6 @@ img: /img/list/urban-alley-long-beach-creamsicle.jpeg
 untappd: "https://untappd.com/b/urban-alley-brewery-long-beach-dreamsicle/3907615"
 country: "Australia"
 brewery: "Urban Alley Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/urban-alley-brewery.html"
 style: "IPA - International"
 ---

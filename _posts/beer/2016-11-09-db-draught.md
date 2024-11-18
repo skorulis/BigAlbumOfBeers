@@ -11,6 +11,6 @@ img: /img/list/db-draught.jpeg
 untappd: "https://untappd.com/b/db-breweries-db-draught/129711"
 country: "New Zealand"
 brewery: "DB Breweries"
-breweryURL: "breweryURL"
+breweryURL: "brewery/db-breweries.html"
 style: "Lager - Pale"
 ---

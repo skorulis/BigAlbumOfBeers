@@ -11,6 +11,6 @@ img: /img/list/working-title-half-baked.jpeg
 untappd: "https://untappd.com/b/working-title-brew-co-half-baked/4598623"
 country: "Australia"
 brewery: "Working Title Brew Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/working-title-brew-co.html"
 style: "Red Ale - Imperial / Double"
 ---

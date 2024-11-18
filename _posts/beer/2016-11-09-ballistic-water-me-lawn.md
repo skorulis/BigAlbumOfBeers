@@ -11,6 +11,6 @@ img: /img/list/ballistic-water-me-lawn.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-water-me-lawn/3737284"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ballistic-beer.html"
 style: "Sour - Fruited Gose"
 ---

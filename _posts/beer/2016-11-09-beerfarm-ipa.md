@@ -11,6 +11,6 @@ img: /img/list/beerfarm-ipa.jpeg
 untappd: "https://untappd.com/b/beerfarm-india-pale-ale/2228896"
 country: "Australia"
 brewery: "Beerfarm"
-breweryURL: "breweryURL"
+breweryURL: "brewery/beerfarm.html"
 style: "IPA - American"
 ---

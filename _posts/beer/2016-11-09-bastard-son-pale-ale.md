@@ -11,6 +11,6 @@ img: /img/list/bastard-son-pale-ale.jpeg
 untappd: "https://untappd.com/b/little-smith-brewing-bastard-son/1129705"
 country: "Australia"
 brewery: "Little Smith Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-smith-brewing.html"
 style: "Pale Ale - American"
 ---

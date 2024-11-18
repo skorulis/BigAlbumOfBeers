@@ -11,6 +11,6 @@ img: /img/list/canyon-cardrona.jpeg
 untappd: "https://untappd.com/b/canyon-brewing-canyon-brewing-cardona-hazy-ipa/3724306"
 country: "New Zealand"
 brewery: "Canyon Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/canyon-brewing.html"
 style: "IPA - New England / Hazy"
 ---

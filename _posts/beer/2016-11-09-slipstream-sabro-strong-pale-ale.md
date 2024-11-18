@@ -11,6 +11,6 @@ img: /img/list/slipstream-sabro-strong-pale-ale.jpeg
 untappd: "https://untappd.com/b/slipstream-brewing-company-sabro-strong-pale-brewsvegas-2019/3082068"
 country: "Australia"
 brewery: "Slipstream Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/slipstream-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

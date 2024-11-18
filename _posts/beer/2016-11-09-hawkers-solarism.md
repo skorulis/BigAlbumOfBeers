@@ -11,6 +11,6 @@ img: /img/list/hawkers-solarism.jpeg
 untappd: "https://untappd.com/b/hawkers-beer-solarism/4618157"
 country: "Australia"
 brewery: "Hawkers Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/hawkers-beer.html"
 style: "Stout - Imperial / Double Pastry"
 ---

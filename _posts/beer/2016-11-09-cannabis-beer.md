@@ -11,6 +11,6 @@ img: /img/list/cannabis-beer.jpeg
 untappd: "https://untappd.com/b/euphoria-cannabis-beer/325231"
 country: "Czech Republic"
 brewery: "Euphoria"
-breweryURL: "breweryURL"
+breweryURL: "brewery/euphoria.html"
 style: "Spiced / Herbed Beer"
 ---

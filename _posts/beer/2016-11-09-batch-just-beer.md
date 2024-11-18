@@ -11,6 +11,6 @@ img: /img/list/batch-just-beer.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company-just-beer/1687978"
 country: "Australia"
 brewery: "Batch Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/batch-brewing-company.html"
 style: "Lager - Pale"
 ---

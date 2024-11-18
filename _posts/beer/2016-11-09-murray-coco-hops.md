@@ -11,6 +11,6 @@ img: /img/list/murray-coco-hops.jpeg
 untappd: "https://untappd.com/b/murrays-brewing-co-coco-hops/2703285"
 country: "Australia"
 brewery: "Murray's Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/murray-s-brewing-co.html"
 style: "Porter - Other"
 ---

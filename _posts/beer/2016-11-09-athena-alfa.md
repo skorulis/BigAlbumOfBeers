@@ -11,6 +11,6 @@ img: /img/list/athena-alfa.jpeg
 untappd: "https://untappd.com/b/athenian-brewery-alfa--a--beer/51595"
 country: "Greece"
 brewery: "Athenian Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/athenian-brewery.html"
 style: "Lager - Pale"
 ---

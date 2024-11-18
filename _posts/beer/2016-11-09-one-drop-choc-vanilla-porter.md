@@ -11,6 +11,6 @@ img: /img/list/one-drop-choc-vanilla-porter.jpeg
 untappd: "https://untappd.com/b/one-drop-brewing-co-chocolate---vanilla-porter/4441147"
 country: "Australia"
 brewery: "One Drop Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/one-drop-brewing-co.html"
 style: "Porter - Other"
 ---

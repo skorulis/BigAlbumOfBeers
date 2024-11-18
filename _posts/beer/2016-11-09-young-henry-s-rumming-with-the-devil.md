@@ -11,6 +11,6 @@ img: /img/list/young-henry-s-rumming-with-the-devil.jpeg
 untappd: "https://untappd.com/b/young-henrys-rumming-with-the-devil/3311999"
 country: "Australia"
 brewery: "Young Henrys"
-breweryURL: "breweryURL"
+breweryURL: "brewery/young-henrys.html"
 style: "Brown Ale - Other"
 ---

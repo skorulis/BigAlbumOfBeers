@@ -11,6 +11,6 @@ img: /img/list/john-boston-the-end-island-ipa.jpeg
 untappd: "https://untappd.com/b/john-boston-the-end-island-ipa/4036365"
 country: "Australia"
 brewery: "John Boston"
-breweryURL: "breweryURL"
+breweryURL: "brewery/john-boston.html"
 style: "IPA - English"
 ---

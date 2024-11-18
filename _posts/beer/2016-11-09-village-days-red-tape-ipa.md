@@ -11,6 +11,6 @@ img: /img/list/village-days-red-tape-ipa.jpeg
 untappd: "https://untappd.com/b/village-days-brewing-co-village-days-brewing-co-red-tape-ipa/5524667"
 country: "Australia"
 brewery: "Village Days Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/village-days-brewing-co.html"
 style: "IPA - Red"
 ---

@@ -11,6 +11,6 @@ img: /img/list/heiden-peters-dipa.jpeg
 untappd: "https://untappd.com/b/heidenpeters-double-ipa/2089569"
 country: "Germany"
 brewery: "Heidenpeters"
-breweryURL: "breweryURL"
+breweryURL: "brewery/heidenpeters.html"
 style: "IPA - Imperial / Double"
 ---

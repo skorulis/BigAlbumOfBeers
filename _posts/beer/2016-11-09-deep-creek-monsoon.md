@@ -11,6 +11,6 @@ img: /img/list/deep-creek-monsoon.jpeg
 untappd: "https://untappd.com/b/deep-creek-brewing-co--monsoon/3901291"
 country: "New Zealand"
 brewery: "Deep Creek Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/deep-creek-brewing-co.html"
 style: "IPA - Imperial / Double New England"
 ---

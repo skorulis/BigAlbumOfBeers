@@ -11,6 +11,6 @@ img: /img/list/prancing-pony-india-red-ale.jpeg
 untappd: "https://untappd.com/b/prancing-pony-brewery-india-red-ale/486410"
 country: "Australia"
 brewery: "Prancing Pony Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/prancing-pony-brewery.html"
 style: "Red Ale - Imperial / Double"
 ---

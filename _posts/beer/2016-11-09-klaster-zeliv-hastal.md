@@ -11,6 +11,6 @@ img: /img/list/klaster-zeliv-hastal.jpeg
 untappd: "https://untappd.com/b/klasterni-pivovar-zeliv-hastal-12/268568"
 country: "Czech Republic"
 brewery: "Klášterní pivovar Želiv"
-breweryURL: "breweryURL"
+breweryURL: "brewery/klasterni-pivovar-zeliv.html"
 style: "Pilsner - Czech / Bohemian"
 ---

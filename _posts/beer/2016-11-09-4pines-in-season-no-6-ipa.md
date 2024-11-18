@@ -11,6 +11,6 @@ img: /img/list/4pines-in-season-no-6-ipa.jpeg
 untappd: "https://untappd.com/b/4-pines-brewing-company-in-season-ipa-no--6/2576391"
 country: "Australia"
 brewery: "4 Pines Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/4-pines-brewing-company.html"
 style: "IPA - American"
 ---

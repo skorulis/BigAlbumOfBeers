@@ -11,6 +11,6 @@ img: /img/list/lost-palms-mosaic-cryo-oat-cream.jpeg
 untappd: "https://untappd.com/b/lost-palms-brewing-co---mosaic-cryo-oat-cream-ipa/4589928"
 country: "Australia"
 brewery: "Lost Palms Brewing Co. "
-breweryURL: "breweryURL"
+breweryURL: "brewery/lost-palms-brewing-co--.html"
 style: "IPA - Milkshake"
 ---

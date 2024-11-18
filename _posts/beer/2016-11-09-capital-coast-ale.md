@@ -11,6 +11,6 @@ img: /img/list/capital-coast-ale.jpeg
 untappd: "https://untappd.com/b/capital-brewing-co-coast-ale/1525458"
 country: "Australia"
 brewery: "Capital Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/capital-brewing-co.html"
 style: "California Common"
 ---

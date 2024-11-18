@@ -11,6 +11,6 @@ img: /img/list/zlaten-dab.jpeg
 untappd: "https://untappd.com/b/prilepska-pivarnica-zlaten-dab/20820"
 country: "Republic of Macedonia"
 brewery: "Prilepska Pivarnica"
-breweryURL: "breweryURL"
+breweryURL: "brewery/prilepska-pivarnica.html"
 style: "Lager - Euro"
 ---

@@ -11,6 +11,6 @@ img: /img/list/3-ravens-blended-barleywine.jpeg
 untappd: "https://untappd.com/b/3-ravens-brewery-blended-barleywine/2775156"
 country: "Australia"
 brewery: "3 Ravens Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/3-ravens-brewery.html"
 style: "Barleywine - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/ballistic-mele-kalikimaka.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-mele-kalikimaka/4049845"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ballistic-beer.html"
 style: "IPA - Imperial / Double New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/powder-monkey-monkey-s-charge.jpeg
 untappd: "https://untappd.com/b/powder-monkey-brewing-co-powder-monkey-brewing-co-monkey-s-charge/4483673"
 country: "England"
 brewery: "Powder Monkey Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/powder-monkey-brewing-co.html"
 style: "Pale Ale - American"
 ---

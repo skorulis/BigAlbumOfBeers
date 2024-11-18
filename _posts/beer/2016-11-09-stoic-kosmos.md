@@ -11,6 +11,6 @@ img: /img/list/stoic-kosmos.jpeg
 untappd: "https://untappd.com/b/stoic-brewing-kosmos/4662257"
 country: "Australia"
 brewery: "Stoic Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stoic-brewing.html"
 style: "IPA - New England / Hazy"
 ---

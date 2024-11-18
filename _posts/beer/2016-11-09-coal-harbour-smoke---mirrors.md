@@ -11,6 +11,6 @@ img: /img/list/coal-harbour-smoke---mirrors.jpeg
 untappd: "https://untappd.com/b/coal-harbour-brewing-company-smoke---mirrors-imperial-smoked-ale/193925"
 country: "Canada"
 brewery: "Coal Harbour Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/coal-harbour-brewing-company.html"
 style: "Smoked Beer"
 ---

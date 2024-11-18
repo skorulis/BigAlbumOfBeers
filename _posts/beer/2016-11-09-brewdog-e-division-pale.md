@@ -11,6 +11,6 @@ img: /img/list/brewdog-e-division-pale.jpeg
 untappd: "https://untappd.com/b/brewdog-australia-e-division-pale/5131595"
 country: "Australia"
 brewery: "BrewDog Australia"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brewdog-australia.html"
 style: "Pale Ale - American"
 ---

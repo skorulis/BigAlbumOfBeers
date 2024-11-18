@@ -11,6 +11,6 @@ img: /img/list/brick-lane-hoppy-red.jpeg
 untappd: "https://untappd.com/b/brick-lane-brewing-co--red-hoppy-ale/2868280"
 country: "Australia"
 brewery: "Brick Lane Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/brick-lane-brewing-co.html"
 style: "Red Ale - American Amber / Red"
 ---

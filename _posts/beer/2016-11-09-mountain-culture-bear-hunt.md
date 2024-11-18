@@ -11,6 +11,6 @@ img: /img/list/mountain-culture-bear-hunt.jpeg
 untappd: "https://untappd.com/b/mountain-culture-beer-co--bear-hunt/5425340"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mountain-culture-beer-co.html"
 style: "IPA - New England / Hazy"
 ---

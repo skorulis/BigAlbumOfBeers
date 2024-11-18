@@ -11,6 +11,6 @@ img: /img/list/cantillon-gueuze.jpeg
 untappd: "https://untappd.com/b/brasserie-cantillon-classic-gueuze/26062"
 country: "Belgium"
 brewery: "Brasserie Cantillon"
-breweryURL: "breweryURL"
+breweryURL: "brewery/brasserie-cantillon.html"
 style: "Lambic - Gueuze"
 ---

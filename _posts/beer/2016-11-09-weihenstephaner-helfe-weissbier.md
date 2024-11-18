@@ -11,6 +11,6 @@ img: /img/list/weihenstephaner-helfe-weissbier.jpeg
 untappd: "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745"
 country: "Germany"
 brewery: "Bayerische Staatsbrauerei Weihenstephan"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bayerische-staatsbrauerei-weihenstephan.html"
 style: "Hefeweizen"
 ---

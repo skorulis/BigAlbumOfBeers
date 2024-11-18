@@ -11,6 +11,6 @@ img: /img/list/bracket-goldilocks-zone.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-bracket-brewing-goldilocks-zone/5669665"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Triple New England / Hazy"
 ---

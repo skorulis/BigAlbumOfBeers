@@ -11,6 +11,6 @@ img: /img/list/gallway-hooker.jpeg
 untappd: "https://untappd.com/b/galway-hooker-brewery-galway-hooker-irish-pale-ale/34640"
 country: "Ireland"
 brewery: "Galway Hooker Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/galway-hooker-brewery.html"
 style: "Pale Ale - American"
 ---

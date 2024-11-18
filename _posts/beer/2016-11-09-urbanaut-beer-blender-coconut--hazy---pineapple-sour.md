@@ -11,6 +11,6 @@ img: /img/list/urbanaut-beer-blender-coconut--hazy---pineapple-sour.jpeg
 untappd: "https://untappd.com/b/urbanaut-brewing-coconut-hazy-ipa-beer-blender/3989058"
 country: "New Zealand"
 brewery: "Urbanaut Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/urbanaut-brewing.html"
 style: "IPA - New England"
 ---

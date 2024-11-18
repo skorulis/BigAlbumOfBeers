@@ -11,6 +11,6 @@ img: /img/list/atomic-zest-to-impress.jpeg
 untappd: "https://untappd.com/b/atomic-atomic-zest-to-impress/5638934"
 country: "Australia"
 brewery: "Atomic"
-breweryURL: "breweryURL"
+breweryURL: "brewery/atomic.html"
 style: "Kölsch"
 ---

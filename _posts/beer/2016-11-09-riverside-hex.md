@@ -11,6 +11,6 @@ img: /img/list/riverside-hex.jpeg
 untappd: "https://untappd.com/b/riverside-brewing-company-hex-xpa/2134882"
 country: "Australia"
 brewery: "Riverside Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/riverside-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

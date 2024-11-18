@@ -11,6 +11,6 @@ img: /img/list/willie-the-boatman-nectar-of-the-hops.jpeg
 untappd: "https://untappd.com/b/willie-the-boatman-nectar-of-the-hops/1754827"
 country: "Australia"
 brewery: "Willie The Boatman"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willie-the-boatman.html"
 style: "IPA - American"
 ---

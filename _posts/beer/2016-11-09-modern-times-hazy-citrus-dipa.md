@@ -11,6 +11,6 @@ img: /img/list/modern-times-hazy-citrus-dipa.jpeg
 untappd: "https://untappd.com/b/modern-times-beer-alien-radio/3636607"
 country: "United States"
 brewery: "Modern Times Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/modern-times-beer.html"
 style: "IPA - Imperial / Double New England"
 ---

@@ -11,6 +11,6 @@ img: /img/list/magic-hat-stealin-time.jpeg
 untappd: "https://untappd.com/b/magic-hat-brewing-company-stealin-time/971879"
 country: "United States"
 brewery: "Magic Hat Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/magic-hat-brewing-company.html"
 style: "Pale Wheat Ale - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/little-creatures-the-fuggle-is-real.jpeg
 untappd: "https://untappd.com/b/little-creatures-brewing-stout--the-fuggle-is-real/2629803"
 country: "Australia"
 brewery: "Little Creatures Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/little-creatures-brewing.html"
 style: "Stout - Other"
 ---

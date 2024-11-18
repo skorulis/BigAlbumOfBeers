@@ -11,6 +11,6 @@ img: /img/list/sierra-nevada-rye-ipa.jpeg
 untappd: "https://untappd.com/b/sierra-nevada-brewing-co--river-ryed-rye-ipa/1038370"
 country: "United States"
 brewery: "Sierra Nevada Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/sierra-nevada-brewing-co.html"
 style: "Rye IPA"
 ---

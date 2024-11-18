@@ -11,6 +11,6 @@ img: /img/list/sauce-idaho-secret.jpeg
 untappd: "https://untappd.com/b/sauce-brewing-co-idaho-secret/3905929"
 country: "Australia"
 brewery: "Sauce Brewing Co"
-breweryURL: "breweryURL"
+breweryURL: "brewery/sauce-brewing-co.html"
 style: "IPA - Imperial / Double New England"
 ---

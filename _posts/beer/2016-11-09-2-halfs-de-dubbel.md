@@ -11,6 +11,6 @@ img: /img/list/2-halfs-de-dubbel.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-de-dubbel/4777814"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "breweryURL"
+breweryURL: "brewery/2-halfs-brewing-distilling.html"
 style: "Belgian Dubbel"
 ---

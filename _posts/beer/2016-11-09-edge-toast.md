@@ -11,6 +11,6 @@ img: /img/list/edge-toast.jpeg
 untappd: "https://untappd.com/b/edge-brewing-project-toast/2617023"
 country: "Australia"
 brewery: "Edge Brewing Project"
-breweryURL: "breweryURL"
+breweryURL: "brewery/edge-brewing-project.html"
 style: "Pilsner - Other"
 ---

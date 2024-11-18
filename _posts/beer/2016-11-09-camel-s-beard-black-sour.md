@@ -11,6 +11,6 @@ img: /img/list/camel-s-beard-black-sour.jpeg
 untappd: "https://untappd.com/b/mudgee-brewing-co--camels-beard/991128"
 country: "Australia"
 brewery: "Mudgee Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/mudgee-brewing-co.html"
 style: "Sour - Flanders Oud Bruin"
 ---

@@ -11,6 +11,6 @@ img: /img/list/adnams-ghost-ship.jpeg
 untappd: "https://untappd.com/b/adnams-ghost-ship/9301"
 country: "England"
 brewery: "Adnams"
-breweryURL: "breweryURL"
+breweryURL: "brewery/adnams.html"
 style: "Pale Ale - English"
 ---

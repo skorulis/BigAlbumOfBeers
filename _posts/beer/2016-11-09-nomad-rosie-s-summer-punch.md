@@ -11,6 +11,6 @@ img: /img/list/nomad-rosie-s-summer-punch.jpeg
 untappd: "https://untappd.com/b/nomad-brewing-co--rosies-summer-punch/1861637"
 country: "Australia"
 brewery: "Nomad Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/nomad-brewing-co.html"
 style: "Sour - Berliner Weisse"
 ---

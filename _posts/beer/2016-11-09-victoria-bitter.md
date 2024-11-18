@@ -11,6 +11,6 @@ img: /img/list/victoria-bitter.jpeg
 untappd: "https://untappd.com/b/carlton---united-breweries-victoria-bitter--vb-/5981"
 country: "Australia"
 brewery: "Carlton & United Breweries"
-breweryURL: "breweryURL"
+breweryURL: "brewery/carlton---united-breweries.html"
 style: "Lager - Pale"
 ---

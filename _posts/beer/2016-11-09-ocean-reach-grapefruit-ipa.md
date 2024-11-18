@@ -11,6 +11,6 @@ img: /img/list/ocean-reach-grapefruit-ipa.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--grapefruit-ipa/2577972"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "breweryURL"
+breweryURL: "brewery/ocean-reach-brewing-.html"
 style: "IPA - American"
 ---

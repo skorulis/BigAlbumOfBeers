@@ -11,6 +11,6 @@ img: /img/list/james-squire-stormy-seas.jpeg
 untappd: "https://untappd.com/b/the-squires-landing-stormy-seas/3952356"
 country: "Australia"
 brewery: "The Squire’s Landing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-squire-s-landing.html"
 style: "Stout - English"
 ---

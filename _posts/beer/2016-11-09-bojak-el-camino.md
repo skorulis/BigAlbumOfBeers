@@ -11,6 +11,6 @@ img: /img/list/bojak-el-camino.jpeg
 untappd: "https://untappd.com/b/bojak-brewing-el-camino/3875996"
 country: "Australia"
 brewery: "Bojak Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bojak-brewing.html"
 style: "IPA - American"
 ---

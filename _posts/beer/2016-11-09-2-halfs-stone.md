@@ -11,6 +11,6 @@ img: /img/list/2-halfs-stone.jpeg
 untappd: "https://untappd.com/b/2-halfs-brewing-distilling-2-halfs-brewing-distilling-stone/5585327"
 country: "Australia"
 brewery: "2 Halfs Brewing Distilling"
-breweryURL: "breweryURL"
+breweryURL: "brewery/2-halfs-brewing-distilling.html"
 style: "Pale Ale - New England / Hazy"
 ---

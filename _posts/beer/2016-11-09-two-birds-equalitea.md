@@ -11,6 +11,6 @@ img: /img/list/two-birds-equalitea.jpeg
 untappd: "https://untappd.com/b/two-birds-brewing-equalitea-tropical-xpa/5112828"
 country: "Australia"
 brewery: "Two Birds Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/two-birds-brewing.html"
 style: "Pale Ale - XPA (Extra Pale)"
 ---

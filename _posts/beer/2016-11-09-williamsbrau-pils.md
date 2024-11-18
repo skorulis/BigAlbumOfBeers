@@ -11,6 +11,6 @@ img: /img/list/williamsbrau-pils.jpeg
 untappd: "https://untappd.com/b/willianbrau-pils/395810"
 country: "Slovenia"
 brewery: "Willianbrau"
-breweryURL: "breweryURL"
+breweryURL: "brewery/willianbrau.html"
 style: "Pilsner - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/stone-dog-son-of-odin.jpeg
 untappd: "https://untappd.com/b/stone-dog-meadery-son-of-odin/2114803"
 country: "Australia"
 brewery: "Stone Dog Meadery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/stone-dog-meadery.html"
 style: "Mead - Other"
 ---

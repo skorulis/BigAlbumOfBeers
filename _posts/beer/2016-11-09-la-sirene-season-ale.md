@@ -11,6 +11,6 @@ img: /img/list/la-sirene-season-ale.jpeg
 untappd: "https://untappd.com/b/la-sirene-brewing-season-ale/3063181"
 country: "Australia"
 brewery: "La Sirène Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/la-sirene-brewing.html"
 style: "Farmhouse Ale - Other"
 ---

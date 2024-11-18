@@ -11,6 +11,6 @@ img: /img/list/james-squire-swindler.jpeg
 untappd: "https://untappd.com/b/malt-shovel-brewery-the-swindler-summer-ale/1257519"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/malt-shovel-brewery.html"
 style: "Blonde Ale"
 ---

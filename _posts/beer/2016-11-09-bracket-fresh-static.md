@@ -11,6 +11,6 @@ img: /img/list/bracket-fresh-static.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-fresh-static/4920455"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

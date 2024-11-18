@@ -11,6 +11,6 @@ img: /img/list/spitfire-kentish-ale.jpeg
 untappd: "https://untappd.com/b/shepherd-neame-spitfire-premium-kentish-ale/32722"
 country: "England"
 brewery: "Shepherd Neame"
-breweryURL: "breweryURL"
+breweryURL: "brewery/shepherd-neame.html"
 style: "English Bitter"
 ---

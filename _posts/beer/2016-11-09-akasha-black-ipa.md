@@ -11,6 +11,6 @@ img: /img/list/akasha-black-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--black-ipa/2221303"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company--australia.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

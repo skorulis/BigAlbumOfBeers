@@ -11,6 +11,6 @@ img: /img/list/range-mustard.jpeg
 untappd: "https://untappd.com/b/range-brewing-mustard/3822389"
 country: "Australia"
 brewery: "Range Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/range-brewing.html"
 style: "Lager - Helles"
 ---

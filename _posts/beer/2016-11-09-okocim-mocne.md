@@ -11,6 +11,6 @@ img: /img/list/okocim-mocne.jpeg
 untappd: "https://untappd.com/b/browar-okocim--carlsberg-polska--okocim-mocne/68244"
 country: "Poland"
 brewery: "Browar Okocim (Carlsberg Polska)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/browar-okocim--carlsberg-polska.html"
 style: "Lager - Euro Strong"
 ---

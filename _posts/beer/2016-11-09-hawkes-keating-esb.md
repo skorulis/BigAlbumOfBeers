@@ -11,6 +11,6 @@ img: /img/list/hawkes-keating-esb.jpeg
 untappd: "https://untappd.com/b/hawkes-brewing-co---hawkes-keating-esb/4776326"
 country: "Australia"
 brewery: "Hawke's Brewing Co. "
-breweryURL: "breweryURL"
+breweryURL: "brewery/hawke-s-brewing-co--.html"
 style: "Bitter - Extra Special / Strong (ESB)"
 ---

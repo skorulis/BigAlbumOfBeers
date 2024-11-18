@@ -11,6 +11,6 @@ img: /img/list/oppigards-new-sweden-ipa.jpeg
 untappd: "https://untappd.com/b/oppigards-bryggeri-new-sweden-ipa/1944499"
 country: "Sweden"
 brewery: "Oppigårds Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/oppigards-bryggeri.html"
 style: "IPA - New England / Hazy"
 ---

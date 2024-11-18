@@ -11,6 +11,6 @@ img: /img/list/shenanigans-malt-assault.jpeg
 untappd: "https://untappd.com/b/shenanigans-brewing-co--malt-assault/1143738"
 country: "Australia"
 brewery: "Shenanigans Brewing Co."
-breweryURL: "breweryURL"
+breweryURL: "brewery/shenanigans-brewing-co.html"
 style: "Smoked Beer"
 ---

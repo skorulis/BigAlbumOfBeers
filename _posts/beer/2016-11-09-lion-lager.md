@@ -11,6 +11,6 @@ img: /img/list/lion-lager.jpeg
 untappd: "https://untappd.com/b/lion-brewery-ceylon-lion-lager/37408"
 country: "Sri Lanka"
 brewery: "Lion Brewery Ceylon"
-breweryURL: "breweryURL"
+breweryURL: "brewery/lion-brewery-ceylon.html"
 style: "Lager - Pale"
 ---

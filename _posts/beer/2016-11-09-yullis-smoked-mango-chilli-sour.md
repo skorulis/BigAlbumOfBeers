@@ -11,6 +11,6 @@ img: /img/list/yullis-smoked-mango-chilli-sour.jpeg
 untappd: "https://untappd.com/b/yulli-s-brews-yulli-s-brews-special-batch-smoked-mango-chilli-sour/5604407"
 country: "Australia"
 brewery: "Yulli's Brews"
-breweryURL: "breweryURL"
+breweryURL: "brewery/yulli-s-brews.html"
 style: "Sour - Fruited"
 ---

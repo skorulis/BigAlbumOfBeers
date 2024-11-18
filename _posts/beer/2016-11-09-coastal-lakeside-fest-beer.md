@@ -11,6 +11,6 @@ img: /img/list/coastal-lakeside-fest-beer.jpeg
 untappd: "https://untappd.com/b/the-coastal-brewing-company-lakeside-fest-beer/2795366"
 country: "Australia"
 brewery: "The Coastal Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/the-coastal-brewing-company.html"
 style: "Festbier"
 ---

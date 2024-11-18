@@ -11,6 +11,6 @@ img: /img/list/akasha-captain-famish.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--captain-famish-tropical-xpa/3443138"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/akasha-brewing-company--australia.html"
 style: "Pale Ale - American"
 ---

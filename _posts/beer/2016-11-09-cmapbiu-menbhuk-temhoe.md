@@ -11,6 +11,6 @@ img: /img/list/cmapbiu-menbhuk-temhoe.jpeg
 untappd: "https://untappd.com/b/moscow-efes-brewery--pivovarnya-moskva-efyes--stary-melnik-iz-bochonka-temnoye--staryj-myelnik-iz-bochonka-tyemnoye-/430618"
 country: "Russia"
 brewery: "Moscow-Efes Brewery (Пивоварня Москва-Эфес)"
-breweryURL: "breweryURL"
+breweryURL: "brewery/moscow-efes-brewery--pivovarnya-moskva-efes.html"
 style: "Lager - Euro Dark"
 ---

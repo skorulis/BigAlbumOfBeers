@@ -11,6 +11,6 @@ img: /img/list/barbaric-don-t-call-me-white.jpeg
 untappd: "https://untappd.com/b/barbaric-works-dont-call-me-white--2023-/5282385"
 country: "Japan"
 brewery: "Barbaric Works"
-breweryURL: "breweryURL"
+breweryURL: "brewery/barbaric-works.html"
 style: "IPA - New England / Hazy"
 ---

@@ -11,6 +11,6 @@ img: /img/list/james-squire-4-bushels.jpeg
 untappd: "https://untappd.com/b/malt-shovel-brewery-4-bushels/4012135"
 country: "Australia"
 brewery: "Malt Shovel Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/malt-shovel-brewery.html"
 style: "Hefeweizen"
 ---

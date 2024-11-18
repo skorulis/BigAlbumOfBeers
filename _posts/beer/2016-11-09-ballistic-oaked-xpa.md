@@ -11,6 +11,6 @@ img: /img/list/ballistic-oaked-xpa.jpeg
 untappd: "https://untappd.com/b/ballistic-beer-ballistic-oaked-xpa/2976257"
 country: "Australia"
 brewery: "Ballistic Beer"
-breweryURL: "breweryURL"
+breweryURL: "brewery/ballistic-beer.html"
 style: "Pale Ale - Australian"
 ---

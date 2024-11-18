@@ -11,6 +11,6 @@ img: /img/list/ob-golden-lager.jpeg
 untappd: "https://untappd.com/b/oriental-brewery-ob-golden-lager/45885"
 country: "South Korea"
 brewery: "Oriental Brewery"
-breweryURL: "breweryURL"
+breweryURL: "brewery/oriental-brewery.html"
 style: "Lager - American Light"
 ---

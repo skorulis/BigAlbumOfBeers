@@ -11,6 +11,6 @@ img: /img/list/green-beacon-the-whaler.jpeg
 untappd: "https://untappd.com/b/green-beacon--the-whaler---blood-orange-ipa/807155"
 country: "Australia"
 brewery: "Green Beacon "
-breweryURL: "breweryURL"
+breweryURL: "brewery/green-beacon-.html"
 style: "IPA - American"
 ---

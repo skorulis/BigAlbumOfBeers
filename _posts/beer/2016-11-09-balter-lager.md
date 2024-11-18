@@ -11,6 +11,6 @@ img: /img/list/balter-lager.jpeg
 untappd: "https://untappd.com/b/balter-brewing-company-balter-lager/3069825"
 country: "Australia"
 brewery: "Balter Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/balter-brewing-company.html"
 style: "Lager - Euro Pale"
 ---

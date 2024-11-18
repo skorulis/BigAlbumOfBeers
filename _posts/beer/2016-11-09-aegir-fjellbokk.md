@@ -11,6 +11,6 @@ img: /img/list/aegir-fjellbokk.jpeg
 untappd: "https://untappd.com/b/aegir-bryggeri-fjellbokk/5195050"
 country: "Norway"
 brewery: "Ægir Bryggeri"
-breweryURL: "breweryURL"
+breweryURL: "brewery/aegir-bryggeri.html"
 style: "Bock - Single / Traditional"
 ---

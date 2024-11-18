@@ -11,6 +11,6 @@ img: /img/list/anchor-steam-lager.jpeg
 untappd: "https://untappd.com/b/anchor-brewing-company-anchor-california-lager/305204"
 country: "United States"
 brewery: "Anchor Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/anchor-brewing-company.html"
 style: "Lager - Pale"
 ---

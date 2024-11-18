@@ -11,6 +11,6 @@ img: /img/list/tallboy-and-moose-deadset-lager.jpeg
 untappd: "https://untappd.com/b/tallboy-and-moose-deadset-lager/3734046"
 country: "Australia"
 brewery: "Tallboy And Moose"
-breweryURL: "breweryURL"
+breweryURL: "brewery/tallboy-and-moose.html"
 style: "Lager - Pale"
 ---

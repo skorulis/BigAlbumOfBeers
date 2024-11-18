@@ -11,6 +11,6 @@ img: /img/list/captains-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/captains-captains-hazy-ipa/5769672"
 country: "New Zealand"
 brewery: "Captains "
-breweryURL: "breweryURL"
+breweryURL: "brewery/captains-.html"
 style: "IPA - New England / Hazy"
 ---

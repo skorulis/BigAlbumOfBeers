@@ -11,6 +11,6 @@ img: /img/list/crooked-goat-ibex.jpeg
 untappd: "https://untappd.com/b/crooked-goat-brewing-ibex/1692043"
 country: "United States"
 brewery: "Crooked Goat Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/crooked-goat-brewing.html"
 style: "IPA - American"
 ---

@@ -11,6 +11,6 @@ img: /img/list/bracket-eat-your-greens.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-eat-your-greens/4827078"
 country: "Australia"
 brewery: "Bracket Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/bracket-brewing.html"
 style: "IPA - New England / Hazy"
 ---

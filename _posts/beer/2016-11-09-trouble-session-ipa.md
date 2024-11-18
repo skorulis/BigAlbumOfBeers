@@ -11,6 +11,6 @@ img: /img/list/trouble-session-ipa.jpeg
 untappd: "https://untappd.com/b/trouble-brewing-session-ipa/3068184"
 country: "Singapore"
 brewery: "Trouble Brewing"
-breweryURL: "breweryURL"
+breweryURL: "brewery/trouble-brewing.html"
 style: "IPA - Session"
 ---

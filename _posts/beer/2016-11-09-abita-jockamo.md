@@ -11,6 +11,6 @@ img: /img/list/abita-jockamo.jpeg
 untappd: "https://untappd.com/b/abita-brewing-company-jockamo-ipa/5963"
 country: "United States"
 brewery: "Abita Brewing Company"
-breweryURL: "breweryURL"
+breweryURL: "brewery/abita-brewing-company.html"
 style: "IPA - American"
 ---
