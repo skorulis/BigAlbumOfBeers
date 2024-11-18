@@ -12,8 +12,8 @@ final class CreatePostsCommand: AsyncParsableCommand {
     )
     
     func run() async throws {
-        // let beerRunner = BeerPostsRunner()
-        // try await beerRunner.run()
+        let beerRunner = BeerPostsRunner()
+        try await beerRunner.run()
         
         let breweryRunner = BreweryPostsRunner()
         try await breweryRunner.run()
@@ -30,7 +30,7 @@ extension CreatePostsCommand {
         private let fileManager = FileManager.default
         
         func run() async throws {
-            // try cleanOldData()
+            try cleanOldData()
             try await writeBreweryPosts()
         }
         
@@ -44,8 +44,6 @@ extension CreatePostsCommand {
         }
         
         func writeBreweryPosts() async throws {
-            // let beers = try dataAccess.fullBeers()
-            // let breweries = Set(beers.map { $0.brewery })
             let breweries = try dataAccess.breweryList()
             for brewery in breweries.breweries {
                 print(brewery.brewery_name)
@@ -60,7 +58,7 @@ extension CreatePostsCommand {
             var output = """
             ---
             layout: brewery
-            filename: \(filename)
+            filename: "\(filename)"
             title: "\(brewery.brewery_name)"
             permalink: /brewery/:title.html
             breweryURL: "\(url)"
@@ -69,13 +67,13 @@ extension CreatePostsCommand {
             if let instagram = brewery.contact.instagram {
                 output += "\ninstagram: '\(instagram)'"
             }
+            if let twitter = brewery.contact.twitter {
+                output += "\ntwitter: '\(twitter)'"
+            }
             if let facebook = brewery.contact.facebook {
                 output += "\nfacebook: '\(facebook)'"
             }
-            if let facebook = brewery.contact.twitter {
-                output += "\ntwitter: '\(twitter)'"
-            }
-            output += "---\n"
+            output += "\n---\n"
             try Data(output.utf8).write(to: URL(filePath: filename))
         }
         

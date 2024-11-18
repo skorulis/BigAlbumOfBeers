@@ -3,5 +3,8 @@ layout: brewery
 filename: "_posts/brewery/2016-11-09-edge-brewing-project.md"
 title: "Edge Brewing Project"
 permalink: /brewery/:title.html
-breweryURL: "https://untappd.com/w/edge-brewing-project/166489"
+breweryURL: "https://untappd.com/w/edge-brewing-project/366815"
+instagram: 'edgebrewingproject'
+twitter: ''
+facebook: 'http://www.facebook.com/edgebrewing'
 ---

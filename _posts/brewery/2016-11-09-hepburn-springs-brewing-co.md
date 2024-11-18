@@ -3,9 +3,7 @@ layout: brewery
 filename: "_posts/brewery/2016-11-09-hepburn-springs-brewing-co.md"
 title: "Hepburn Springs Brewing Co."
 permalink: /brewery/:title.html
-breweryURL: "https://untappd.com/w/hepburn-springs-brewing-co-/469903"
-lat: 
-lng: 
+breweryURL: "https://untappd.com/w/hepburn-springs-brewing-co/469903"
 instagram: 'hepburnspringsbrewingco'
 twitter: ''
 facebook: 'https://www.facebook.com/HepburnSpringsBrewing'

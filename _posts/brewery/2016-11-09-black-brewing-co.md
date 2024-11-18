@@ -3,9 +3,7 @@ layout: brewery
 filename: "_posts/brewery/2016-11-09-black-brewing-co.md"
 title: "Black Brewing Co."
 permalink: /brewery/:title.html
-breweryURL: "https://untappd.com/w/black-brewing-co-/280935"
-lat: 
-lng: 
+breweryURL: "https://untappd.com/w/black-brewing-co/280935"
 instagram: 'https://www.instagram.com/blackbrewingco/'
 twitter: ''
 facebook: 'https://m.facebook.com/BlackBrewing/'

@@ -4,8 +4,6 @@ filename: "_posts/brewery/2016-11-09-fixation-brewing-co.md"
 title: "Fixation Brewing Co"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/fixation-brewing-co/240124"
-lat: 
-lng: 
 instagram: 'FixationBrewing'
 twitter: 'FixationBrewing'
 facebook: 'https://www.facebook.com/Fixation-Brewing-Pty-Ltd-1667939353482077/'
