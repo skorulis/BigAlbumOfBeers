@@ -45,8 +45,8 @@ extension CreatePostsCommand {
         
         func writeBreweryPosts() async throws {
             let breweries = try dataAccess.breweryList()
+            print("Creating \(breweries.breweries.count) brewery posts")
             for brewery in breweries.breweries {
-                print(brewery.brewery_name)
                 try await writeBrewery(brewery: brewery)
             }
         }
@@ -126,7 +126,7 @@ extension CreatePostsCommand {
             beer-date: "\(beer.date)"
             desc: "\(beer.desc)"
             permalink: /beer/:title.html
-            img: /\(beer.imgPath!)
+            img: /\(beer.imgPath!)\n
             """
             
             if let untappdURL = extra?.untappd.url {

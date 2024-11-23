@@ -3,9 +3,9 @@ layout: beer
 filename: _posts/beer/2016-11-09-esker-citrus-gose.md
 title: Esker citrus gose
 category: beer
-score: 7
-beer-date: "2023-08-26"
-desc: "Quite refreshing. Not too sweet or sour. Does have a bit of mandarin coming through. A little bit too harsh"
+score: 8.5
+beer-date: "2024-11-23"
+desc: "It’s great to see a proper gose. Sour, salty with a touch of mandarin. Very refreshing and light in flavour makes it a great summer beer"
 permalink: /beer/:title.html
 img: /img/list/esker-citrus-gose.jpeg
 untappd: "https://untappd.com/b/esker-beer-co--esker-beer-co--citrus-gose/5061259"
