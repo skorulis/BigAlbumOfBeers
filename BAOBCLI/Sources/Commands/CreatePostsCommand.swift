@@ -116,6 +116,10 @@ extension CreatePostsCommand {
         func writeBeer(beer: BeerModel, extra: ExtraEntry?) async throws {
             let filename = "_posts/beer/2016-11-09-" + beer.name.slugify() + ".md"
             
+            guard let imgPath = beer.imgPath else {
+                fatalError("No imgPath set for \(beer.name)")
+            }
+            
             var output = """
             ---
             layout: beer
@@ -126,7 +130,7 @@ extension CreatePostsCommand {
             beer-date: "\(beer.date)"
             desc: "\(beer.desc)"
             permalink: /beer/:title.html
-            img: /\(beer.imgPath!)\n
+            img: /\(imgPath)\n
             """
             
             if let untappdURL = extra?.untappd.url {
