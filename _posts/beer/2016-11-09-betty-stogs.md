@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/betty-stogs.jpeg
 untappd: "https://untappd.com/b/skinners-brewing-co-betty-stogs/28517"
 country: "England"
+brewery: "Skinner's Brewery"
+breweryURL: "/brewery/skinner-s-brewery.html"
 style: "English Bitter"
 ---

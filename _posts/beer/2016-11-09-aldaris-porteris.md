@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/aldaris-porteris.jpeg
 untappd: "https://untappd.com/b/aldaris-porteris/3573"
 country: "Latvia"
+brewery: "Aldaris"
+breweryURL: "/brewery/aldaris.html"
 style: "Porter - Baltic"
 ---

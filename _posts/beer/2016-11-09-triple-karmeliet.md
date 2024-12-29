@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/triple-karmeliet.jpeg
 untappd: "https://untappd.com/b/brouwerij-bosteels-tripel-karmeliet/6511"
 country: "Belgium"
+brewery: "Brouwerij Bosteels"
+breweryURL: "/brewery/brouwerij-bosteels.html"
 style: "Belgian Tripel"
 ---

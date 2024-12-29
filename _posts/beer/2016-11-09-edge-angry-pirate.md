@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/edge-angry-pirate.jpeg
 untappd: "https://untappd.com/b/edge-brewing-project-angry-pirate/614552"
 country: "Australia"
+brewery: "E.B.P"
+breweryURL: "/brewery/e-b-p.html"
 style: "IPA - American"
 ---

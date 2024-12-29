@@ -67,6 +67,9 @@ extension PullUntappdInfoCommand {
                 guard !ex.untappd.id.isEmpty else {
                     return false
                 }
+                if ex.untappd.id == "157604" {
+                    return false
+                }
                 return !fileExists(id: ex.untappd.id)
             }
             print("\(missingFiles.count) beers to pull")
@@ -106,7 +109,7 @@ extension PullUntappdInfoCommand {
             urlRequest.httpMethod = "GET"
             let response = try await urlSession.data(for: urlRequest)
             if let httpResponse = (response.1 as? HTTPURLResponse), httpResponse.statusCode >= 400 {
-                fatalError("Invalid status \(httpResponse.statusCode)")
+                fatalError("Invalid status \(httpResponse.statusCode) for \(id)")
             }
             
             print("Save beer: \(filename)")

@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/bitburger.jpeg
 untappd: "https://untappd.com/b/bitburger-braugruppe-bitburger-premium-pils--premium-beer/17252"
 country: "Germany"
+brewery: "Bitburger Brauerei"
+breweryURL: "/brewery/bitburger-brauerei.html"
 style: "Pilsner - German"
 ---

@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/partizan-dubbel.jpeg
 untappd: "https://untappd.com/b/partizan-brewing-dubbel-winter/443216"
 country: "England"
+brewery: "Partizan Brewing"
+breweryURL: "/brewery/partizan-brewing.html"
 style: "Belgian Dubbel"
 ---

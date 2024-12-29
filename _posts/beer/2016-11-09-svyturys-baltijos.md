@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/svyturys-baltijos.jpeg
 untappd: "https://untappd.com/b/svyturys-baltijos/24730"
 country: "Lithuania"
+brewery: "Švyturys"
+breweryURL: "/brewery/svyturys.html"
 style: "Märzen"
 ---

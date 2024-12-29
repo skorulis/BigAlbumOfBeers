@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/trumer-pils.jpeg
 untappd: "https://untappd.com/b/trumer-trumer-pils/7025"
 country: "Austria"
+brewery: "Trumer Privatbrauerei"
+breweryURL: "/brewery/trumer-privatbrauerei.html"
 style: "Pilsner - German"
 ---

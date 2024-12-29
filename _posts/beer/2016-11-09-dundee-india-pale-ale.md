@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/dundee-india-pale-ale.jpeg
 untappd: "https://untappd.com/b/dundee-ales---lagers-dundee-india-pale-ale/12978"
 country: "United States"
+brewery: "Dundee Brewing Co"
+breweryURL: "/brewery/dundee-brewing-co.html"
 style: "IPA - American"
 ---

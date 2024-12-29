@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/st-bernardus.jpeg
 untappd: "https://untappd.com/b/brouwerij-st--bernardus-abt-12/6760"
 country: "Belgium"
+brewery: "Brouwerij St.Bernardus"
+breweryURL: "/brewery/brouwerij-st-bernardus.html"
 style: "Belgian Quad"
 ---

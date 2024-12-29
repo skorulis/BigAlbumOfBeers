@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/leffe-triple.jpeg
 untappd: "https://untappd.com/b/abbaye-de-leffe-leffe-triple--tripel/5943"
 country: "Belgium"
+brewery: "Abbaye de Leffe"
+breweryURL: "/brewery/abbaye-de-leffe.html"
 style: "Belgian Tripel"
 ---

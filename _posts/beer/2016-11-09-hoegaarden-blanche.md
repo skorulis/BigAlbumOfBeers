@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/hoegaarden-blanche.jpeg
 untappd: "https://untappd.com/b/brouwerij-van-hoegaarden-hoegaarden-blanche/6422"
 country: "Belgium"
+brewery: "Brouwerij Hoegaarden"
+breweryURL: "/brewery/brouwerij-hoegaarden.html"
 style: "Witbier"
 ---

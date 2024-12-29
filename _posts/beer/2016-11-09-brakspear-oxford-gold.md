@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/brakspear-oxford-gold.jpeg
 untappd: "https://untappd.com/b/brakspear-brewing-company-oxford-gold/14933"
 country: "England"
+brewery: "Brakspear Brewing Company"
+breweryURL: "/brewery/brakspear-brewing-company.html"
 style: "Golden Ale"
 ---

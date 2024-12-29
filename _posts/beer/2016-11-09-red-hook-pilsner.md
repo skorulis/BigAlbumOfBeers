@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/red-hook-pilsner.jpeg
 untappd: "https://untappd.com/b/redhook-brewery-pilsner/40858"
 country: "United States"
+brewery: "Redhook Brewery"
+breweryURL: "/brewery/redhook-brewery.html"
 style: "Pilsner - Other"
 ---

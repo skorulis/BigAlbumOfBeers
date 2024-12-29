@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/camden-hells.jpeg
 untappd: "https://untappd.com/b/camden-town-brewery-camden-hells-lager/158571"
 country: "England"
+brewery: "Camden Town Brewery"
+breweryURL: "/brewery/camden-town-brewery.html"
 style: "Lager - Helles"
 ---

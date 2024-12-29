@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/point-pale-ale.jpeg
 untappd: "https://untappd.com/b/stevens-point-brewery-cascade-pale-ale/2760"
 country: "United States"
+brewery: "Stevens Point Brewery"
+breweryURL: "/brewery/stevens-point-brewery.html"
 style: "Pale Ale - American"
 ---

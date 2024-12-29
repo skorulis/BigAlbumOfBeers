@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/zelta-premium.jpeg
 untappd: "https://untappd.com/b/aldaris-zelta-premium/214138"
 country: "Latvia"
+brewery: "Aldaris"
+breweryURL: "/brewery/aldaris.html"
 style: "Lager - Euro"
 ---

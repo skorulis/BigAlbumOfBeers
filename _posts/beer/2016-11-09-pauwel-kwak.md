@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/pauwel-kwak.jpeg
 untappd: "https://untappd.com/b/brouwerij-bosteels-pauwel-kwak/358"
 country: "Belgium"
+brewery: "Brouwerij Bosteels"
+breweryURL: "/brewery/brouwerij-bosteels.html"
 style: "Belgian Strong Golden Ale"
 ---
