@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/kestrel-super-lager.jpeg
 untappd: "https://untappd.com/b/caledonian-brewing-company--kestrel-super-premium/1572472"
 country: "Scotland"
+brewery: "Caledonian Brewing Co."
+breweryURL: "/brewery/caledonian-brewing-co.html"
 style: "Lager - Euro Strong"
 ---

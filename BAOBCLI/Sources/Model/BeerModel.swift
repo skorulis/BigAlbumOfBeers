@@ -16,7 +16,7 @@ struct BeerModel: Codable {
     let brewery: String?
     
     var id: String {
-        name.slugify()
+        name.slugifySafe()
     }
     
 }

@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/holsten-pils.jpeg
 untappd: "https://untappd.com/b/holsten-brauerei-holsten-pilsener/957246"
 country: "Germany"
+brewery: "Holsten-Brauerei AG"
+breweryURL: "/brewery/holsten-brauerei-ag.html"
 style: "Pilsner - German"
 ---

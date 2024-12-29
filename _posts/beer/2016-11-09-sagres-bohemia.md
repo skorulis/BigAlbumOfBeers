@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/sagres-bohemia.jpeg
 untappd: "https://untappd.com/b/sociedade-central-de-cervejas-e-bebidas-sa-bohemia-original/347897"
 country: "Portugal"
+brewery: "Sociedade Central de Cervejas"
+breweryURL: "/brewery/sociedade-central-de-cervejas.html"
 style: "Lager - Dunkel Munich"
 ---

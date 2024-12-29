@@ -11,6 +11,6 @@ img: /img/list/cambridgeshire-golden-ale.jpeg
 untappd: "https://untappd.com/b/marks---spencer-cambridgeshire-golden-ale/106002"
 country: "England"
 brewery: "Marks & Spencer"
-breweryURL: "/brewery/marks---spencer.html"
+breweryURL: "/brewery/marks-spencer.html"
 style: "Golden Ale"
 ---

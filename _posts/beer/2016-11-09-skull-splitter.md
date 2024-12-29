@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/skull-splitter.jpeg
 untappd: "https://untappd.com/b/orkney-brewery-skull-splitter/3108"
 country: "Scotland"
+brewery: "Orkney Brewery"
+breweryURL: "/brewery/orkney-brewery.html"
 style: "Scotch Ale / Wee Heavy"
 ---

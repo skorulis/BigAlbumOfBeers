@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/jeremiah-weed-root-brew.jpeg
 untappd: "https://untappd.com/b/the-jeremiah-weed-distilling-company-root-brew/94945"
 country: "United States"
+brewery: "The Jeremiah Weed Distilling Company"
+breweryURL: "/brewery/the-jeremiah-weed-distilling-company.html"
 style: "Ginger Beer"
 ---

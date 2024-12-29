@@ -11,6 +11,6 @@ img: /img/list/badger-first-gold.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--first-call--first-gold/9722"
 country: "England"
 brewery: "Badger Brewery (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-brewery--hall---woodhouse.html"
+breweryURL: "/brewery/badger-brewery--hall-woodhouse.html"
 style: "Golden Ale"
 ---

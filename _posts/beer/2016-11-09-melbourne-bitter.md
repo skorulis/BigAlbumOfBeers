@@ -11,6 +11,6 @@ img: /img/list/melbourne-bitter.jpeg
 untappd: "https://untappd.com/b/carlton---united-breweries-melbourne-bitter/5984"
 country: "Australia"
 brewery: "Carlton & United Breweries"
-breweryURL: "/brewery/carlton---united-breweries.html"
+breweryURL: "/brewery/carlton-united-breweries.html"
 style: "Lager - Pale"
 ---

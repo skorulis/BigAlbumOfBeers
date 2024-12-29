@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/o-hara-s-irish-pale-ale.jpeg
 untappd: "https://untappd.com/b/oharas-brewery--carlow-brewing-company--oharas-irish-pale-ale/143851"
 country: "Ireland"
+brewery: "O'Hara's Brewery "
+breweryURL: "/brewery/o-hara-s-brewery-.html"
 style: "IPA - International"
 ---

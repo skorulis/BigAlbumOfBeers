@@ -11,6 +11,6 @@ img: /img/list/greenock-dark-ale.jpeg
 untappd: "https://untappd.com/b/barossa-brewing-company---now-greenock-brewers-greenock-dark-ale/54708"
 country: "Australia"
 brewery: "Barossa Brewing Company - Now Greenock Brewers"
-breweryURL: "/brewery/barossa-brewing-company---now-greenock-brewers.html"
+breweryURL: "/brewery/barossa-brewing-company-now-greenock-brewers.html"
 style: "Dark Ale"
 ---

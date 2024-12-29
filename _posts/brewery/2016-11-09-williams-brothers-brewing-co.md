@@ -3,5 +3,8 @@ layout: brewery
 filename: "_posts/brewery/2016-11-09-williams-brothers-brewing-co.md"
 title: "Williams Brothers Brewing Co."
 permalink: /brewery/:title.html
-breweryURL: "https://untappd.com/w/williams-brothers-brewing-co-/1367"
+breweryURL: "https://untappd.com/w/williams-brothers-brewing-co/1367"
+instagram: 'williamsbrosbrewingco'
+twitter: 'WilliamsBrewery'
+facebook: 'https://www.facebook.com/WilliamsBrosBrewingCo'
 ---

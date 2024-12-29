@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/london-fields-wheat-beer.jpeg
 untappd: "https://untappd.com/b/london-fields-brewery-wheat-beer/98104"
 country: "England"
+brewery: "London Fields"
+breweryURL: "/brewery/london-fields.html"
 style: "Hefeweizen"
 ---

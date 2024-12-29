@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/flack-catcher.jpeg
 untappd: "https://untappd.com/b/flack-manor-flack-catcher/52716"
 country: "England"
+brewery: "Flack's"
+breweryURL: "/brewery/flack-s.html"
 style: "Golden Ale"
 ---

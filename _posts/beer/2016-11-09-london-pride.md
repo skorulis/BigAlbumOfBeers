@@ -11,6 +11,6 @@ img: /img/list/london-pride.jpeg
 untappd: "https://untappd.com/b/fuller--smith---turner--london-pride/2762"
 country: "England"
 brewery: "Fuller, Smith & Turner "
-breweryURL: "/brewery/fuller--smith---turner-.html"
+breweryURL: "/brewery/fuller--smith-turner-.html"
 style: "English Bitter"
 ---

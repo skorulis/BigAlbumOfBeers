@@ -11,6 +11,6 @@ img: /img/list/crown-golden-ale.jpeg
 untappd: "https://untappd.com/b/carlton---united-breweries-crown-golden-ale/725969"
 country: "Australia"
 brewery: "Carlton & United Breweries"
-breweryURL: "/brewery/carlton---united-breweries.html"
+breweryURL: "/brewery/carlton-united-breweries.html"
 style: "Golden Ale"
 ---

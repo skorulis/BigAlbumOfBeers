@@ -11,6 +11,6 @@ img: /img/list/taiwan-beer.jpeg
 untappd: "https://untappd.com/b/taiwan-tobacco---liquor-corporation-gold-medal-taiwan-beer/13650"
 country: "Taiwan"
 brewery: "Taiwan Tobacco & Liquor Corporation"
-breweryURL: "/brewery/taiwan-tobacco---liquor-corporation.html"
+breweryURL: "/brewery/taiwan-tobacco-liquor-corporation.html"
 style: "Lager - North American Adjunct"
 ---

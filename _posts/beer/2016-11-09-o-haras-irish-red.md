@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/o-haras-irish-red.jpeg
 untappd: "https://untappd.com/b/oharas-brewery--carlow-brewing-company--oharas-irish-red/13675"
 country: "Ireland"
+brewery: "O'Hara's Brewery "
+breweryURL: "/brewery/o-hara-s-brewery-.html"
 style: "Red Ale - Irish"
 ---

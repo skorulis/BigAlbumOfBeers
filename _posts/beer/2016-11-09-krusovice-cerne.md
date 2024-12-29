@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/krusovice-cerne.jpeg
 untappd: "https://untappd.com/b/heineken-ceska-republika-krusovice-cerne/23586"
 country: "Czech Republic"
+brewery: "Heineken Česká Republika"
+breweryURL: "/brewery/heineken-ceska-republika.html"
 style: "Lager - Dark"
 ---

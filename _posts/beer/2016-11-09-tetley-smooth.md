@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/tetley-smooth.jpeg
 untappd: "https://untappd.com/b/carlsberg-uk-tetleys-smooth-flow/986134"
 country: "England"
+brewery: "Carlsberg UK"
+breweryURL: "/brewery/carlsberg-uk.html"
 style: "English Bitter"
 ---

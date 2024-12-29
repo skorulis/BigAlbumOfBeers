@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/old-thumper.jpeg
 untappd: "https://untappd.com/b/shipyard-brewing-company-old-thumper/46857"
 country: "United States"
+brewery: "Shipyard Brewing Company"
+breweryURL: "/brewery/shipyard-brewing-company.html"
 style: "English Bitter"
 ---

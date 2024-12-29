@@ -11,6 +11,6 @@ img: /img/list/hopping-hare.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--hopping-hare/29074"
 country: "England"
 brewery: "Badger Brewery (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-brewery--hall---woodhouse.html"
+breweryURL: "/brewery/badger-brewery--hall-woodhouse.html"
 style: "Golden Ale"
 ---

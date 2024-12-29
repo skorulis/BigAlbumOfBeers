@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/bluetongue-pilsner.jpeg
 untappd: "https://untappd.com/b/bluetongue-brewery--pacific-beverages--traditional-pilsener/11351"
 country: "Australia"
+brewery: "Bluetongue Brewery (Pacific Beverages)"
+breweryURL: "/brewery/bluetongue-brewery--pacific-beverages.html"
 style: "Pilsner - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/badger-poacher-s-choice.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--poachers-choice/13035"
 country: "England"
 brewery: "Badger Brewery (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-brewery--hall---woodhouse.html"
+breweryURL: "/brewery/badger-brewery--hall-woodhouse.html"
 style: "Strong Ale - English"
 ---

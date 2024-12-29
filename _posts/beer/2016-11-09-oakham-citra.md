@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/oakham-citra.jpeg
 untappd: "https://untappd.com/b/oakham-ales-citra/14646"
 country: "England"
+brewery: "Oakham Ales"
+breweryURL: "/brewery/oakham-ales.html"
 style: "Golden Ale"
 ---

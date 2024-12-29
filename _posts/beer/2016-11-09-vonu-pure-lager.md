@@ -11,6 +11,6 @@ img: /img/list/vonu-pure-lager.jpeg
 untappd: "https://untappd.com/b/island-brewing-co---fiji--vonu-pure-lager/51247"
 country: "Fiji"
 brewery: "Island Brewing Co. (Fiji)"
-breweryURL: "/brewery/island-brewing-co---fiji.html"
+breweryURL: "/brewery/island-brewing-co-fiji.html"
 style: "Lager - Pale"
 ---

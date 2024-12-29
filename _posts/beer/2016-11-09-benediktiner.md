@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/benediktiner.jpeg
 untappd: "https://untappd.com/b/benediktiner-weibbrau-benediktiner-weissbier/103362"
 country: "Germany"
+brewery: "Benediktiner Weissbräu"
+breweryURL: "/brewery/benediktiner-weissbraeu.html"
 style: "Hefeweizen"
 ---

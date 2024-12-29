@@ -11,6 +11,6 @@ img: /img/list/badger-tangle-foot.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--tangle-foot/29338"
 country: "England"
 brewery: "Badger Brewery (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-brewery--hall---woodhouse.html"
+breweryURL: "/brewery/badger-brewery--hall-woodhouse.html"
 style: "Golden Ale"
 ---

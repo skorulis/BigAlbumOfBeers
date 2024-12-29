@@ -11,6 +11,6 @@ img: /img/list/jack-frost.jpeg
 untappd: "https://untappd.com/b/fuller--smith---turner--jack-frost/11995"
 country: "England"
 brewery: "Fuller, Smith & Turner "
-breweryURL: "/brewery/fuller--smith---turner-.html"
+breweryURL: "/brewery/fuller--smith-turner-.html"
 style: "Winter Ale"
 ---

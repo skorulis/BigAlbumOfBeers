@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/caledonia-smooth.jpeg
 untappd: "https://untappd.com/b/bulmers-ireland-caledonia-smooth/180103"
 country: "Ireland"
+brewery: "Bulmers Ireland"
+breweryURL: "/brewery/bulmers-ireland.html"
 style: "English Mild Ale"
 ---

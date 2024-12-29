@@ -52,7 +52,7 @@ extension CreatePostsCommand {
         }
         
         func writeBrewery(brewery: UntappdAPI.Brewery) async throws {
-            let filename = "_posts/brewery/2016-11-09-" + brewery.brewery_name.slugify() + ".md"
+            let filename = "_posts/brewery/2016-11-09-" + brewery.brewery_name.slugifySafe() + ".md"
             let url = "https://untappd.com/w/\(brewery.brewery_slug)/\(brewery.brewery_id)"
             
             var output = """
@@ -120,7 +120,7 @@ extension CreatePostsCommand {
         }
         
         func writeBeer(beer: BeerModel, extra: ExtraEntry?) async throws {
-            let filename = "_posts/beer/2016-11-09-" + beer.name.slugify() + ".md"
+            let filename = "_posts/beer/2016-11-09-" + beer.name.slugifySafe() + ".md"
             
             guard let imgPath = beer.imgPath else {
                 fatalError("No imgPath set for \(beer.name)")
@@ -146,7 +146,7 @@ extension CreatePostsCommand {
                 output += "country: \"\(country)\"\n"
             }
             if let breweryId = extra?.untappd.breweryId, let brewery = breweries.with(id: breweryId) {
-                let breweryURL = "/brewery/\(brewery.brewery_name.slugify()).html"
+                let breweryURL = "/brewery/\(brewery.brewery_name.slugifySafe()).html"
                 output += "brewery: \"\(brewery.brewery_name)\"\n"
                 output += "breweryURL: \"\(breweryURL)\"\n"
             }

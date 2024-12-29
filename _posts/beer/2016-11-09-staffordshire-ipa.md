@@ -11,6 +11,6 @@ img: /img/list/staffordshire-ipa.jpeg
 untappd: "https://untappd.com/b/marks---spencer-staffordshire-ipa/64590"
 country: "England"
 brewery: "Marks & Spencer"
-breweryURL: "/brewery/marks---spencer.html"
+breweryURL: "/brewery/marks-spencer.html"
 style: "Burton Ale"
 ---

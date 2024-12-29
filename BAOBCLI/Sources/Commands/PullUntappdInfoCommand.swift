@@ -43,6 +43,8 @@ extension PullUntappdInfoCommand {
                 print("Create new for \(beer.name)")
             }
             
+            try await pullMissingFiles(beers: beers, extra: extra)
+            
             try accessService.saveExtra(extra: newExtra)
             
             let missingIds = newExtra.filter { $1.untappd.id.isEmpty }
@@ -57,17 +59,28 @@ extension PullUntappdInfoCommand {
             }
         }
         
+        private func pullMissingFiles(beers: [BeerModel], extra: [String: ExtraEntry]) async throws {
+            let missingFiles = beers.filter { beer in
+                guard let ex = extra[beer.name] else {
+                    return false
+                }
+                guard !ex.untappd.id.isEmpty else {
+                    return false
+                }
+                return !fileExists(id: ex.untappd.id)
+            }
+            print("\(missingFiles.count) beers to pull")
+            for i in 0..<min(missingFiles.count, 20) {
+                let ex = extra[missingFiles[i].name]!
+                _ = try await fetchBeerInfo(id: ex.untappd.id).response.beer
+            }
+        }
+        
         private func pullDataIfNeeded(name: String, extra: inout ExtraEntry) async throws {
-            if extra.untappd.id.isEmpty {
+            if extra.untappd.id.isEmpty || extra.untappd.name != nil {
                 return
             }
             
-            if extra.untappd.name != nil {
-                if !fileExists(id: extra.untappd.id) {
-                    _ = try await fetchBeerInfo(id: extra.untappd.id).response.beer
-                }
-                return
-            }
             let beer = try await fetchBeerInfo(id: extra.untappd.id).response.beer
             extra.copyFrom(beer: beer)
         }

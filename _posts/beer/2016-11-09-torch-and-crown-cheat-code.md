@@ -11,6 +11,6 @@ img: /img/list/torch-and-crown-cheat-code.jpeg
 untappd: "https://untappd.com/b/torch-crown-brewing-company-torch-and-crown-brewing-company-cheat-code/5152129"
 country: "United States"
 brewery: "Torch & Crown Brewing Company"
-breweryURL: "/brewery/torch---crown-brewing-company.html"
+breweryURL: "/brewery/torch-crown-brewing-company.html"
 style: "IPA - American"
 ---

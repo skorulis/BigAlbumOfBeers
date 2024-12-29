@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/tyskie-klasyczne.jpeg
 untappd: "https://untappd.com/b/tyskie-browary-ksiazece--kompania-piwowarska--tyskie-klasyczne/186042"
 country: "Poland"
+brewery: "Tyskie Browary Książęce"
+breweryURL: "/brewery/tyskie-browary-ksiazece.html"
 style: "Lager - Euro"
 ---

@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/march-of-the-penguins.jpeg
 untappd: "https://untappd.com/b/williams-brothers-brewing-co--march-of-the-penguins/34067"
 country: "Scotland"
+brewery: "Williams Brothers Brewing Co."
+breweryURL: "/brewery/williams-brothers-brewing-co.html"
 style: "Stout - Other"
 ---

@@ -11,6 +11,6 @@ img: /img/list/firkin-fox.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--firkin-fox/133348"
 country: "England"
 brewery: "Badger Brewery (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-brewery--hall---woodhouse.html"
+breweryURL: "/brewery/badger-brewery--hall-woodhouse.html"
 style: "English Bitter"
 ---

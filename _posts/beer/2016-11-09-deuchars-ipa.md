@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/deuchars-ipa.jpeg
 untappd: "https://untappd.com/b/caledonian-brewing-company--deuchars-ipa/14649"
 country: "Scotland"
+brewery: "Caledonian Brewing Co."
+breweryURL: "/brewery/caledonian-brewing-co.html"
 style: "IPA - English"
 ---
