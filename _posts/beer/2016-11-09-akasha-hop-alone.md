@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/akasha-hop-alone.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-akasha-brewing-company-hop-alone/5606034"
 country: "Australia"
-brewery: "Akasha Brewing Company"
-breweryURL: "/brewery/akasha-brewing-company.html"
+brewery: "Akasha Brewing Company (Australia)"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "Pale Ale - Other"
 ---

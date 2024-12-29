@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/pacifico-clara.jpeg
 untappd: "https://untappd.com/b/grupo-modelo-s-a--de-c-v--pacifico-clara/5850"
 country: "Mexico"
-brewery: "Grupo Modelo S.A. de C.V."
-breweryURL: "/brewery/grupo-modelo-s-a--de-c-v.html"
 style: "Lager - North American Adjunct"
 ---

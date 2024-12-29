@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/pinnacle-nam-nam-alley.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-pinnacle-drinks-nam-nam-alley/4983641"
 country: "Australia"
-brewery: "Pinnacle Drinks"
-breweryURL: "/brewery/pinnacle-drinks.html"
+brewery: "Pinnacle Drinks Group (Woolworths)"
+breweryURL: "/brewery/pinnacle-drinks-group--woolworths.html"
 style: "Lager - Amber / Red"
 ---

@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/boatrocker-triple.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewers---distillers-tripel/4620833"
 country: "Australia"
-brewery: "Boatrocker Brewers & Distillers"
-breweryURL: "/brewery/boatrocker-brewers---distillers.html"
+brewery: "Boatrocker Brewing Company"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Belgian Tripel"
 ---

@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/pinnacle-loud-and-proud-one-love.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-loud---proud-one-love-pale-ale/4740403"
 country: "Australia"
-brewery: "Pinnacle Drinks"
-breweryURL: "/brewery/pinnacle-drinks.html"
+brewery: "Pinnacle Drinks Group (Woolworths)"
+breweryURL: "/brewery/pinnacle-drinks-group--woolworths.html"
 style: "Pale Ale - Other"
 ---

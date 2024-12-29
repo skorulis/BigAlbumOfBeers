@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/young-henry-s-passionfruit-and-guava-sour.jpeg
 untappd: "https://untappd.com/b/young-henrys-from-where-youd-guava-be/4043460"
 country: "Australia"
-brewery: "Young Henrys"
-breweryURL: "/brewery/young-henrys.html"
+brewery: "Young Henrys Brewing Company"
+breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "Sour - Fruited"
 ---

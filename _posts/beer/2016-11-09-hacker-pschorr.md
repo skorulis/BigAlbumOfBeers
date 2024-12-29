@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/hacker-pschorr.jpeg
 untappd: "https://untappd.com/b/hacker-pschorr-hacker-pschorr-oktoberfest-marzen/1827"
 country: "Germany"
-brewery: "Hacker-Pschorr"
-breweryURL: "/brewery/hacker-pschorr.html"
 style: "Märzen"
 ---

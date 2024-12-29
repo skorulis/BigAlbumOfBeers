@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/sambrook-s-brewery-junction.jpeg
 untappd: "https://untappd.com/b/sambrooks-brewery-junction/58665"
 country: "England"
-brewery: "Sambrook's Brewery"
-breweryURL: "/brewery/sambrook-s-brewery.html"
 style: "English Bitter"
 ---

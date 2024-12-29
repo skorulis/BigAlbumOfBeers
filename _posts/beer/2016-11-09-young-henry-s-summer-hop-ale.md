@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/young-henry-s-summer-hop-ale.jpeg
 untappd: "https://untappd.com/b/young-henrys-summer-hop-ale/1814151"
 country: "Australia"
-brewery: "Young Henrys"
-breweryURL: "/brewery/young-henrys.html"
+brewery: "Young Henrys Brewing Company"
+breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "IPA - American"
 ---

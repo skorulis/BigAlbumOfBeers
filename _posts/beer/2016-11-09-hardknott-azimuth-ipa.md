@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/hardknott-azimuth-ipa.jpeg
 untappd: "https://untappd.com/b/hardknott-azimuth-ipa/225875"
 country: "England"
-brewery: "Hardknott"
-breweryURL: "/brewery/hardknott.html"
 style: "IPA - International"
 ---

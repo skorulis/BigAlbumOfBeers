@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/batch-creme-brulee-pastry-stout.jpeg
 untappd: "https://untappd.com/b/batch-brewing-batch-brewing-small-batch-creme-brulee-pastry-stout/3925172"
 country: "Australia"
-brewery: "Batch Brewing"
-breweryURL: "/brewery/batch-brewing.html"
+brewery: "Batch Brewing Company"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Stout - Pastry"
 ---

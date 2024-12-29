@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/strongroom-dark.jpeg
 untappd: "https://untappd.com/b/strongroom-dark/226897"
 country: "England"
-brewery: "Strongroom"
-breweryURL: "/brewery/strongroom.html"
 style: "Stout - Irish Dry"
 ---

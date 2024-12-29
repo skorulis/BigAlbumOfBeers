@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/shark-island-voodoo-ipa.jpeg
 untappd: "https://untappd.com/b/shark-island-brewing-company-shark-island-brewing-company-voodoo-ipa/1463449"
 country: "Australia"
-brewery: "Shark Island Brewing Company"
-breweryURL: "/brewery/shark-island-brewing-company.html"
+brewery: "Shark Island Brewing Co."
+breweryURL: "/brewery/shark-island-brewing-co.html"
 style: "IPA - American"
 ---

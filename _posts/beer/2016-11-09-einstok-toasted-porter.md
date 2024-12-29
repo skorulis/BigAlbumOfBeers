@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/einstok-toasted-porter.jpeg
 untappd: "https://untappd.com/b/einstok-olgero-icelandic-toasted-porter/107027"
 country: "Iceland"
-brewery: "Einstök Ölgerð"
-breweryURL: "/brewery/einstoek-oelgerd.html"
 style: "Porter - Baltic"
 ---

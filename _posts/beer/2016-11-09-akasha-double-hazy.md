@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/akasha-double-hazy.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-double-hazy---double-hazy-mosaic-ipa/3957009"
 country: "Australia"
-brewery: "Akasha Brewing Company"
-breweryURL: "/brewery/akasha-brewing-company.html"
+brewery: "Akasha Brewing Company (Australia)"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "IPA - New England"
 ---

@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/henninger.jpeg
 untappd: "https://untappd.com/b/binding-brauerei-henninger-premium-lager/116616"
 country: "Germany"
-brewery: "Binding Brauerei"
-breweryURL: "/brewery/binding-brauerei.html"
 style: "Lager - Helles"
 ---

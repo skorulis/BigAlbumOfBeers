@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/hawthorn-unicorn.jpeg
 untappd: "https://untappd.com/b/hawthorn-brewing-co--hawthorn-neipa/3324846"
 country: "Australia"
-brewery: "Hawthorn Brewing Co."
-breweryURL: "/brewery/hawthorn-brewing-co.html"
+brewery: "Hawthorn Brewing Company"
+breweryURL: "/brewery/hawthorn-brewing-company.html"
 style: "IPA - New England"
 ---

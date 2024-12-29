@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/australian-brewery-pale-ale.jpeg
 untappd: "https://untappd.com/b/the-australian-brewery-the-pale-ale/49425"
 country: "Australia"
-brewery: "The Australian Brewery"
-breweryURL: "/brewery/the-australian-brewery.html"
+brewery: " Australian Brewery"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "Pale Ale - Australian"
 ---

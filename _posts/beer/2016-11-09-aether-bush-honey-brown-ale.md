@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/aether-bush-honey-brown-ale.jpeg
 untappd: "https://untappd.com/b/aether-brewing-aether-brewing-bush-honey-brown-ale/6057025"
 country: "Australia"
-brewery: "Aether Brewing"
-breweryURL: "/brewery/aether-brewing.html"
+brewery: "Aether Brewing Company"
+breweryURL: "/brewery/aether-brewing-company.html"
 style: "Brown Ale - Other"
 ---

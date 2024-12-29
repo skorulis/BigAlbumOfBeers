@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/james-boags.jpeg
 untappd: "https://untappd.com/b/j--boag---son-brewing-james-boags-premium-lager/5982"
 country: "Australia"
-brewery: "J. Boag & Son Brewing"
-breweryURL: "/brewery/j--boag---son-brewing.html"
+brewery: "James Boag's"
+breweryURL: "/brewery/james-boag-s.html"
 style: "Lager - Pale"
 ---

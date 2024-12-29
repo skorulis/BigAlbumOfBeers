@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/redbay-black-gold-coffee-porter.jpeg
 untappd: "https://untappd.com/b/redbay-brewery-cleveland-lighthouse-black-gold/1124843"
 country: "Australia"
-brewery: "Redbay Brewery"
-breweryURL: "/brewery/redbay-brewery.html"
+brewery: "Redbay Brewing Company"
+breweryURL: "/brewery/redbay-brewing-company.html"
 style: "Porter - Other"
 ---

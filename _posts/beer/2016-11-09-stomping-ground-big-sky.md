@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/stomping-ground-big-sky.jpeg
 untappd: "https://untappd.com/b/stomping-ground-brewing-co-stomping-ground-brewing-co-big-sky-hazy-pale/4604354"
 country: "Australia"
-brewery: "Stomping Ground Brewing Co."
+brewery: "Stomping Ground Brewing Co"
 breweryURL: "/brewery/stomping-ground-brewing-co.html"
 style: "Pale Ale - New England / Hazy"
 ---

@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/bentspoke-descent-22.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-descent-22/4869805"
 country: "Australia"
-brewery: "BentSpoke Brewing Co"
+brewery: "Bentspoke Brewing Co"
 breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "Stout - Imperial / Double"
 ---

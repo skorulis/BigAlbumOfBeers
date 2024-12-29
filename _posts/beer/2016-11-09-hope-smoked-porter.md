@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/hope-smoked-porter.jpeg
 untappd: "https://untappd.com/b/hope-brewery-smoked-porter/3362306"
 country: "Australia"
-brewery: "Hope Brewery"
-breweryURL: "/brewery/hope-brewery.html"
+brewery: "Hope Brewhouse"
+breweryURL: "/brewery/hope-brewhouse.html"
 style: "Porter - Other"
 ---

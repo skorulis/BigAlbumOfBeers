@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/hope-juicy-mango-hazy-sour.jpeg
 untappd: "https://untappd.com/b/hope-brewery-fka-juicy-mango-hazy-sour/3830695"
 country: "Australia"
-brewery: "Hope Brewery"
-breweryURL: "/brewery/hope-brewery.html"
+brewery: "Hope Brewhouse"
+breweryURL: "/brewery/hope-brewhouse.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

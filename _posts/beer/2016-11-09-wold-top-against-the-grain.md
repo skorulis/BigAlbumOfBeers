@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/wold-top-against-the-grain.jpeg
 untappd: "https://untappd.com/b/wold-top-brewery--against-the-grain/34575"
 country: "England"
-brewery: "Wold Top Brewery "
-breweryURL: "/brewery/wold-top-brewery-.html"
 style: "Gluten-Free"
 ---

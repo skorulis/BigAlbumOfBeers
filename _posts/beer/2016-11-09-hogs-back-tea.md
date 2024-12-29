@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/hogs-back-tea.jpeg
 untappd: "https://untappd.com/b/hogs-back-brewery-tea--traditional-english-ale-/18485"
 country: "England"
-brewery: "Hogs Back Brewery"
-breweryURL: "/brewery/hogs-back-brewery.html"
 style: "Traditional Ale"
 ---

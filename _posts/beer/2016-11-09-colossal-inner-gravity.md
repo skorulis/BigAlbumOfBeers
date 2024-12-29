@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/colossal-inner-gravity.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-pinnacle-drinks-colossal-brewing-inner-gravity/4961867"
 country: "Australia"
-brewery: "Pinnacle Drinks"
-breweryURL: "/brewery/pinnacle-drinks.html"
+brewery: "Pinnacle Drinks Group (Woolworths)"
+breweryURL: "/brewery/pinnacle-drinks-group--woolworths.html"
 style: "Sour - Fruited"
 ---

@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/hope-super-super-juicy.jpeg
 untappd: "https://untappd.com/b/hope-brewery-double-neipa/2785633"
 country: "Australia"
-brewery: "Hope Brewery"
-breweryURL: "/brewery/hope-brewery.html"
+brewery: "Hope Brewhouse"
+breweryURL: "/brewery/hope-brewhouse.html"
 style: "IPA - Imperial / Double New England"
 ---

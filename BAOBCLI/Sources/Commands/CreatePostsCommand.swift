@@ -88,6 +88,11 @@ extension CreatePostsCommand {
         
         private let dataAccess = DataAccessService()
         private let fileManager = FileManager.default
+        private let breweries: BreweryList
+        
+        init() {
+            breweries = try! dataAccess.breweryList()
+        }
         
         func run() async throws {
             try cleanOldData()
@@ -104,6 +109,7 @@ extension CreatePostsCommand {
         }
         
         func writeBeerPosts() async throws {
+            
             let beers = try dataAccess.fullBeers()
             let extraData = try dataAccess.extraEntries()
             print("Creating \(beers.count) beer posts")
@@ -139,9 +145,9 @@ extension CreatePostsCommand {
             if let country = extra?.untappd.country {
                 output += "country: \"\(country)\"\n"
             }
-            if let brewery = extra?.untappd.brewery {
-                let breweryURL = "/brewery/\(brewery.slugify()).html"
-                output += "brewery: \"\(brewery)\"\n"
+            if let breweryId = extra?.untappd.breweryId, let brewery = breweries.with(id: breweryId) {
+                let breweryURL = "/brewery/\(brewery.brewery_name.slugify()).html"
+                output += "brewery: \"\(brewery.brewery_name)\"\n"
                 output += "breweryURL: \"\(breweryURL)\"\n"
             }
             if let style = extra?.untappd.style {

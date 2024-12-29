@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/esker-pacific-ale.jpeg
 untappd: "https://untappd.com/b/esker-beer-co-australian-brewery-esker-beer-co-pacifc-ale/5061243"
 country: "Australia"
-brewery: "Esker Beer Co."
-breweryURL: "/brewery/esker-beer-co.html"
+brewery: " Australian Brewery"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "Pale Ale - Other"
 ---

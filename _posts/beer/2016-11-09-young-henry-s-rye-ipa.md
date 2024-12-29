@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/young-henry-s-rye-ipa.jpeg
 untappd: "https://untappd.com/b/young-henrys-rye-ipa/3326698"
 country: "Australia"
-brewery: "Young Henrys"
-breweryURL: "/brewery/young-henrys.html"
+brewery: "Young Henrys Brewing Company"
+breweryURL: "/brewery/young-henrys-brewing-company.html"
 style: "IPA - Rye"
 ---

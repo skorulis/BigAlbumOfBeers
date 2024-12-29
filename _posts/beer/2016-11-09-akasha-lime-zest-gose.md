@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/akasha-lime-zest-gose.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-lime-zest-gose/4667134"
 country: "Australia"
-brewery: "Akasha Brewing Company"
-breweryURL: "/brewery/akasha-brewing-company.html"
+brewery: "Akasha Brewing Company (Australia)"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "Sour - Fruited Gose"
 ---

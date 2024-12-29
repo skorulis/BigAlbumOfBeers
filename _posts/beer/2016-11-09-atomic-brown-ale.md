@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/atomic-brown-ale.jpeg
 untappd: "https://untappd.com/b/atomic-brown-ale/4224003"
 country: "Australia"
-brewery: "Atomic"
-breweryURL: "/brewery/atomic.html"
+brewery: "Atomic Beer Project"
+breweryURL: "/brewery/atomic-beer-project.html"
 style: "Brown Ale - Other"
 ---

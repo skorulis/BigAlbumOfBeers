@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/boatrocker-conehead.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewers---distillers-conehead/4578122"
 country: "Australia"
-brewery: "Boatrocker Brewers & Distillers"
-breweryURL: "/brewery/boatrocker-brewers---distillers.html"
+brewery: "Boatrocker Brewing Company"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "IPA - American"
 ---

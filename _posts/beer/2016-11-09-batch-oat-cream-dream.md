@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/batch-oat-cream-dream.jpeg
 untappd: "https://untappd.com/b/batch-brewing-batch-brewing-oat-cream-dream/5864590"
 country: "Australia"
-brewery: "Batch Brewing"
-breweryURL: "/brewery/batch-brewing.html"
+brewery: "Batch Brewing Company"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "IPA - Other"
 ---

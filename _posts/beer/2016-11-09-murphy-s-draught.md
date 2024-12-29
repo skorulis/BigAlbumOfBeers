@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/murphy-s-draught.jpeg
 untappd: "https://untappd.com/b/heineken-brewery-ireland-murphys-irish-stout/5932"
 country: "Ireland"
-brewery: "Heineken Brewery Ireland"
-breweryURL: "/brewery/heineken-brewery-ireland.html"
 style: "Stout - Irish Dry"
 ---

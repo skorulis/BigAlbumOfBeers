@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/white-bay-same-same-but-neipa.jpeg
 untappd: "https://untappd.com/b/white-bay-brewery-white-bay-brewery-same-same-but-neipa/6004000"
 country: "Australia"
-brewery: "White Bay Brewery"
-breweryURL: "/brewery/white-bay-brewery.html"
+brewery: "White Bay Beer Co."
+breweryURL: "/brewery/white-bay-beer-co.html"
 style: "IPA - New England / Hazy"
 ---

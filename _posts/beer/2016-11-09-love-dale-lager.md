@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/love-dale-lager.jpeg
 untappd: "https://untappd.com/b/lovedale-brewery-lovedale-lager/876824"
 country: "Australia"
-brewery: "Lovedale Brewery"
-breweryURL: "/brewery/lovedale-brewery.html"
 style: "Lager - Helles"
 ---

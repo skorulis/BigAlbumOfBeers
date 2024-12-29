@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/monty-s-ding-dong.jpeg
 untappd: "https://untappd.com/b/montys-brewery-ding-dong/252239"
 country: "Wales"
-brewery: "Monty's Brewery"
-breweryURL: "/brewery/monty-s-brewery.html"
 style: "Golden Ale"
 ---

@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/steen-brugge.jpeg
 untappd: "https://untappd.com/b/de-gouden-boom-steenbrugge-blanche/40022"
 country: "Belgium"
-brewery: "De Gouden Boom"
-breweryURL: "/brewery/de-gouden-boom.html"
 style: "Witbier"
 ---

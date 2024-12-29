@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/akasha-tropical-fruit-storm-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-tropical-fruit-storm-hazy-ipa/3904447"
 country: "Australia"
-brewery: "Akasha Brewing Company"
-breweryURL: "/brewery/akasha-brewing-company.html"
+brewery: "Akasha Brewing Company (Australia)"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "IPA - New England"
 ---

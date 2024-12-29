@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/golden-champion.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--golden-champion/15833"
 country: "England"
-brewery: "Badger Ales (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-ales--hall---woodhouse.html"
+brewery: "Badger Brewery (Hall & Woodhouse)"
+breweryURL: "/brewery/badger-brewery--hall---woodhouse.html"
 style: "Golden Ale"
 ---

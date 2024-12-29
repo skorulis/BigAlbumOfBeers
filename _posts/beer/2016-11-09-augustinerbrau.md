@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/augustinerbrau.jpeg
 untappd: "https://untappd.com/b/augustiner-brau-munchen-lagerbier-hell/9254"
 country: "Germany"
-brewery: "Augustiner-Bräu München"
-breweryURL: "/brewery/augustiner-braeu-muenchen.html"
 style: "Lager - Helles"
 ---

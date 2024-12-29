@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/stomping-ground-getting-juicy-wit-it.jpeg
 untappd: "https://untappd.com/b/stomping-ground-brewing-co--gettin-juicy-wit-it/4712498"
 country: "Australia"
-brewery: "Stomping Ground Brewing Co."
+brewery: "Stomping Ground Brewing Co"
 breweryURL: "/brewery/stomping-ground-brewing-co.html"
 style: "Wheat Beer - Witbier / Blanche"
 ---

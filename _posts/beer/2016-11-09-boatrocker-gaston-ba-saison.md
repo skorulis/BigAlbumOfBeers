@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/boatrocker-gaston-ba-saison.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewers---distillers-gaston/1297663"
 country: "Australia"
-brewery: "Boatrocker Brewers & Distillers"
-breweryURL: "/brewery/boatrocker-brewers---distillers.html"
+brewery: "Boatrocker Brewing Company"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Farmhouse Ale - Saison"
 ---

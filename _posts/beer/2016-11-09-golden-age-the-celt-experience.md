@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/golden-age-the-celt-experience.jpeg
 untappd: "https://untappd.com/b/celt-brewing-golden-age/60359"
 country: "Wales"
-brewery: "Celt Brewing"
-breweryURL: "/brewery/celt-brewing.html"
 style: "Golden Ale"
 ---

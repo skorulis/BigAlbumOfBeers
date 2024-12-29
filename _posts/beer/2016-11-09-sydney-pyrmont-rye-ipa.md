@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/sydney-pyrmont-rye-ipa.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-pyrmont-rye-ipa/846846"
 country: "Australia"
-brewery: "Sydney Brewery"
-breweryURL: "/brewery/sydney-brewery.html"
+brewery: "Lovedale Brewery"
+breweryURL: "/brewery/lovedale-brewery.html"
 style: "IPA - Rye"
 ---

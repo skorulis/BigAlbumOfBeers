@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/akasha-hopic-thunder.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-hopic-thunder/5210700"
 country: "Australia"
-brewery: "Akasha Brewing Company"
-breweryURL: "/brewery/akasha-brewing-company.html"
+brewery: "Akasha Brewing Company (Australia)"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "Pale Ale - American"
 ---

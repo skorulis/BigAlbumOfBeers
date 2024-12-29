@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/flying-dog-atlantic-lager.jpeg
 untappd: "https://untappd.com/b/flying-dog-brewery-underdog-atlantic-lager/109771"
 country: "United States"
-brewery: "Flying Dog Brewery"
-breweryURL: "/brewery/flying-dog-brewery.html"
 style: "Lager - Pale"
 ---

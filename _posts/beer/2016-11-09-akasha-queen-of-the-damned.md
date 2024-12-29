@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/akasha-queen-of-the-damned.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-queen-of-the-damned-red-ipa/3215573"
 country: "Australia"
-brewery: "Akasha Brewing Company"
-breweryURL: "/brewery/akasha-brewing-company.html"
+brewery: "Akasha Brewing Company (Australia)"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "IPA - Red"
 ---

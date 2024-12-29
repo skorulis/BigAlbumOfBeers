@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/wojak-mocny.jpeg
 untappd: "https://untappd.com/b/kompania-piwowarska-wojak-mocny/878327"
 country: "Poland"
-brewery: "Kompania Piwowarska"
-breweryURL: "/brewery/kompania-piwowarska.html"
 style: "Lager - Euro Strong"
 ---

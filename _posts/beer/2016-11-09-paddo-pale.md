@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/paddo-pale.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-paddo-pale/240124"
 country: "Australia"
-brewery: "Sydney Brewery"
-breweryURL: "/brewery/sydney-brewery.html"
+brewery: "Lovedale Brewery"
+breweryURL: "/brewery/lovedale-brewery.html"
 style: "Pale Ale - American"
 ---

@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/sydney-brewery-black-ipa.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-speak-easy-black-ipa/3360252"
 country: "Australia"
-brewery: "Sydney Brewery"
-breweryURL: "/brewery/sydney-brewery.html"
+brewery: "Lovedale Brewery"
+breweryURL: "/brewery/lovedale-brewery.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

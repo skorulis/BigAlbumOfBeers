@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/debowe-mocne.jpeg
 untappd: "https://untappd.com/b/kompania-piwowarska-debowe-mocne/83020"
 country: "Poland"
-brewery: "Kompania Piwowarska"
-breweryURL: "/brewery/kompania-piwowarska.html"
 style: "Lager - Euro Strong"
 ---

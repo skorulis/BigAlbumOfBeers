@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/australian-new-world-pilsner.jpeg
 untappd: "https://untappd.com/b/the-australian-brewery-new-world-pilsner/1340861"
 country: "Australia"
-brewery: "The Australian Brewery"
-breweryURL: "/brewery/the-australian-brewery.html"
+brewery: " Australian Brewery"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "Pilsner - Other"
 ---

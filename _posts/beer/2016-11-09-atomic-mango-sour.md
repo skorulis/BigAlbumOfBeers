@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/atomic-mango-sour.jpeg
 untappd: "https://untappd.com/b/atomic-mando-sour/4548648"
 country: "Australia"
-brewery: "Atomic"
-breweryURL: "/brewery/atomic.html"
+brewery: "Atomic Beer Project"
+breweryURL: "/brewery/atomic-beer-project.html"
 style: "Sour - Fruited"
 ---

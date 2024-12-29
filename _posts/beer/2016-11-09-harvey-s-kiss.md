@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/harvey-s-kiss.jpeg
 untappd: "https://untappd.com/b/harvey---son--harveys--kiss/138686"
 country: "England"
-brewery: "Harvey & Son (Harveys)"
-breweryURL: "/brewery/harvey---son--harveys.html"
 style: "Pale Ale - English"
 ---

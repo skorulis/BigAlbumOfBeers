@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/white-bay-brightness-through-the-pines.jpeg
 untappd: "https://untappd.com/b/white-bay-brewery-white-bay-brewery-brightness-through-the-pines/6005839"
 country: "Australia"
-brewery: "White Bay Brewery"
-breweryURL: "/brewery/white-bay-brewery.html"
+brewery: "White Bay Beer Co."
+breweryURL: "/brewery/white-bay-beer-co.html"
 style: "IPA - Imperial / Double"
 ---

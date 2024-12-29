@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/vale-ale-ipa.jpeg
 untappd: "https://untappd.com/b/vale-brewing-vale-ipa/58019"
 country: "Australia"
-brewery: "Vale Brewing"
-breweryURL: "/brewery/vale-brewing.html"
 style: "IPA - American"
 ---

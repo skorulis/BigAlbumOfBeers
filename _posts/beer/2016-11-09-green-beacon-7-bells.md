@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/green-beacon-7-bells.jpeg
 untappd: "https://untappd.com/b/green-beacon-brewing-co-7-bells/1861659"
 country: "Australia"
-brewery: "Green Beacon Brewing Co"
-breweryURL: "/brewery/green-beacon-brewing-co.html"
+brewery: "Green Beacon Brewing Company"
+breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "Sour - Gose"
 ---

@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/cruzcampo-gran-reserva.jpeg
 untappd: "https://untappd.com/b/cruzcampo--heineken-espana--cruzcampo-gran-reserva/15683"
 country: "Spain"
-brewery: "Cruzcampo (Heineken España)"
-breweryURL: "/brewery/cruzcampo--heineken-espaa.html"
 style: "Pilsner - Imperial / Double"
 ---

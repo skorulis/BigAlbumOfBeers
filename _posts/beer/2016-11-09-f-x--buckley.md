@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/f-x--buckley.jpeg
 untappd: "https://untappd.com/b/metalman-brewing-fx-buckley/380970"
 country: "Ireland"
-brewery: "Metalman Brewing"
-breweryURL: "/brewery/metalman-brewing.html"
 style: "Pale Ale - English"
 ---

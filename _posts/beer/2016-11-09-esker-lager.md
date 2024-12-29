@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/esker-lager.jpeg
 untappd: "https://untappd.com/b/esker-beer-co-australian-brewery-esker-beer-co-lager/5336821"
 country: "Australia"
-brewery: "Esker Beer Co."
-breweryURL: "/brewery/esker-beer-co.html"
+brewery: " Australian Brewery"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "Lager - Mexican"
 ---

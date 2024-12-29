@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/hope-chocolate-milk-porter.jpeg
 untappd: "https://untappd.com/b/hope-brewery-chocolate-milk-porter/1064539"
 country: "Australia"
-brewery: "Hope Brewery"
-breweryURL: "/brewery/hope-brewery.html"
+brewery: "Hope Brewhouse"
+breweryURL: "/brewery/hope-brewhouse.html"
 style: "Porter - Other"
 ---

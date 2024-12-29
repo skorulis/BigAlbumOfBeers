@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/boatrocker-big-love.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewers---distillers-big-love-hazy-ipa/3697568"
 country: "Australia"
-brewery: "Boatrocker Brewers & Distillers"
-breweryURL: "/brewery/boatrocker-brewers---distillers.html"
+brewery: "Boatrocker Brewing Company"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

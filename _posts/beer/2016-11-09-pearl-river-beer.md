@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/pearl-river-beer.jpeg
 untappd: "https://untappd.com/b/guangzhou-zhujiang-brewery-group-co-ltd-pearl-river-beer/556276"
 country: "China / People's Republic of China"
-brewery: "Guangzhou Zhujiang Brewery Group Co Ltd"
-breweryURL: "/brewery/guangzhou-zhujiang-brewery-group-co-ltd.html"
 style: "Lager - Pale"
 ---

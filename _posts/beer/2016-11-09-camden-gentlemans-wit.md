@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/camden-gentlemans-wit.jpeg
 untappd: "https://untappd.com/b/camden-town-brewery-camden-gentlemans-wit-white-beer/108629"
 country: "England"
-brewery: "Camden Town Brewery"
-breweryURL: "/brewery/camden-town-brewery.html"
 style: "Witbier"
 ---

@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/green-beacon-the-whaler.jpeg
 untappd: "https://untappd.com/b/green-beacon--the-whaler---blood-orange-ipa/807155"
 country: "Australia"
-brewery: "Green Beacon "
-breweryURL: "/brewery/green-beacon-.html"
+brewery: "Green Beacon Brewing Company"
+breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "IPA - American"
 ---

@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/aldaris-pilzens.jpeg
 untappd: "https://untappd.com/b/aldaris-pilzenes/112855"
 country: "Latvia"
-brewery: "Aldaris"
-breweryURL: "/brewery/aldaris.html"
 style: "Pilsner - Other"
 ---

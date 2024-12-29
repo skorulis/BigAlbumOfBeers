@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/bentspoke-ryefield-ipa.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-ryefield-ipa/4961850"
 country: "Australia"
-brewery: "BentSpoke Brewing Co"
+brewery: "Bentspoke Brewing Co"
 breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "IPA - Rye"
 ---

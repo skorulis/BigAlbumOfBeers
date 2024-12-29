@@ -58,17 +58,29 @@ extension PullUntappdInfoCommand {
         }
         
         private func pullDataIfNeeded(name: String, extra: inout ExtraEntry) async throws {
-            if extra.untappd.name != nil || extra.untappd.id.isEmpty {
+            if extra.untappd.id.isEmpty {
+                return
+            }
+            
+            if extra.untappd.name != nil {
+                if !fileExists(id: extra.untappd.id) {
+                    _ = try await fetchBeerInfo(id: extra.untappd.id).response.beer
+                }
                 return
             }
             let beer = try await fetchBeerInfo(id: extra.untappd.id).response.beer
             extra.copyFrom(beer: beer)
         }
         
+        private func fileExists(id: String) -> Bool {
+            let filename = "untappd/beer/\(id).json"
+            return fileManager.fileExists(atPath: filename)
+        }
+        
         private func fetchBeerInfo(id: String) async throws -> UntappdAPI.GetBeerResponse {
             let filename = "untappd/beer/\(id).json"
             let fileURL = URL(filePath: fileManager.currentDirectoryPath + "/" + filename)
-            if fileManager.fileExists(atPath: filename) {
+            if fileExists(id: id) {
                 let data = try Data(contentsOf: fileURL)
                 return try JSONDecoder().decode(UntappdAPI.GetBeerResponse.self, from: data)
             }

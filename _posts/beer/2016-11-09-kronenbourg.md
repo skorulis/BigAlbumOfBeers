@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/kronenbourg.jpeg
 untappd: "https://untappd.com/b/brasseries-kronenbourg-1664/5939"
 country: "France"
-brewery: "Brasseries Kronenbourg"
-breweryURL: "/brewery/brasseries-kronenbourg.html"
+brewery: "Kronenbourg"
+breweryURL: "/brewery/kronenbourg.html"
 style: "Lager - Euro"
 ---

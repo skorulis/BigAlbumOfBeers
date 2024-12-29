@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/endeavour-hoppy-days.jpeg
 untappd: "https://untappd.com/b/endeavour-brewing-co--hoppy-days-xpa/3321263"
 country: "Australia"
-brewery: "ENDEAVOUR Brewing Co."
-breweryURL: "/brewery/endeavour-brewing-co.html"
+brewery: "ENDEAVOUR Vintage Beer Co."
+breweryURL: "/brewery/endeavour-vintage-beer-co.html"
 style: "Pale Ale - International"
 ---

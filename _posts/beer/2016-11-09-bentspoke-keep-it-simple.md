@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/bentspoke-keep-it-simple.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-keep-it-simple/4817891"
 country: "Australia"
-brewery: "BentSpoke Brewing Co"
+brewery: "Bentspoke Brewing Co"
 breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "IPA - Other"
 ---

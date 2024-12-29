@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/esker-realm-of-dragons.jpeg
 untappd: "https://untappd.com/b/esker-beer-co-esker-beer-co-realm-of-dragons/6019528"
 country: "Australia"
-brewery: "Esker Beer Co."
-breweryURL: "/brewery/esker-beer-co.html"
+brewery: " Australian Brewery"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "Red Ale - Imperial / Double"
 ---

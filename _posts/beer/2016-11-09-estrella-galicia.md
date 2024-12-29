@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/estrella-galicia.jpeg
 untappd: "https://untappd.com/b/hijos-de-rivera-estrella-galicia/7313"
 country: "Spain"
-brewery: "Hijos de Rivera"
-breweryURL: "/brewery/hijos-de-rivera.html"
 style: "Lager - North American Adjunct"
 ---

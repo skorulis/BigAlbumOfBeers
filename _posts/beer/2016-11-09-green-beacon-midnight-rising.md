@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/green-beacon-midnight-rising.jpeg
 untappd: "https://untappd.com/b/green-beacon-green-beacon-midnight-rising/4783399"
 country: "Australia"
-brewery: "Green Beacon "
-breweryURL: "/brewery/green-beacon-.html"
+brewery: "Green Beacon Brewing Company"
+breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "Lager - Dark"
 ---

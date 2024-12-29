@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/tauras-tradicinis.jpeg
 untappd: "https://untappd.com/b/kalnapilis-brewery-kalnapilio-tauro-grupe-tauras-tradicinis/399361"
 country: "Lithuania"
-brewery: "Kalnapilis Brewery"
-breweryURL: "/brewery/kalnapilis-brewery.html"
+brewery: "Kalnapilio-Tauro Grupe UAB "
+breweryURL: "/brewery/kalnapilio-tauro-grupe-uab-.html"
 style: "Lager - Strong"
 ---

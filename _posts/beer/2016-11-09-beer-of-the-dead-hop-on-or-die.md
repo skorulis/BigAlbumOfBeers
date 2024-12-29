@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/beer-of-the-dead-hop-on-or-die.jpeg
 untappd: "https://untappd.com/b/cerveceria-mexicana-s--de-r-l--de-c-v---tecate--hop-on-or-die---doa-ipa/380964"
 country: "Mexico"
-brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
-breweryURL: "/brewery/cerveceria-mexicana-s--de-r-l--de-c-v---tecate.html"
+brewery: "Cervecería Mexicana"
+breweryURL: "/brewery/cerveceria-mexicana.html"
 style: "IPA - American"
 ---

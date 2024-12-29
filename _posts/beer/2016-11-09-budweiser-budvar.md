@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/budweiser-budvar.jpeg
 untappd: "https://untappd.com/b/budejovicky-budvar-budweiser-budvar-b-original--czechvar-b-original/5385"
 country: "Czech Republic"
-brewery: "Budějovický Budvar"
-breweryURL: "/brewery/budejovicky-budvar.html"
 style: "Pilsner - Czech"
 ---

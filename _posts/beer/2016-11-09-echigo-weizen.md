@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/echigo-weizen.jpeg
 untappd: "https://untappd.com/b/echigo-beer-co---ltd--weizen-for-a-relaxing-time-----/3753571"
 country: "Japan"
-brewery: "Echigo Beer Co., Ltd."
-breweryURL: "/brewery/echigo-beer-co--ltd.html"
+brewery: "Echigo Beer Co."
+breweryURL: "/brewery/echigo-beer-co.html"
 style: "Wheat Beer - Hefeweizen"
 ---

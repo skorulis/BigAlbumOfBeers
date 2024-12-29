@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/oakham-scarlet-macaw.jpeg
 untappd: "https://untappd.com/b/oakham-ales-scarlet-macaw/52694"
 country: "England"
-brewery: "Oakham Ales"
-breweryURL: "/brewery/oakham-ales.html"
 style: "Pale Ale - English"
 ---

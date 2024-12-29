@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/london-fields-unfiltered-lager.jpeg
 untappd: "https://untappd.com/b/london-fields-brewery-london-fields-unfiltered-lager/915568"
 country: "England"
-brewery: "London Fields Brewery"
-breweryURL: "/brewery/london-fields-brewery.html"
 style: "Lager - Pale"
 ---

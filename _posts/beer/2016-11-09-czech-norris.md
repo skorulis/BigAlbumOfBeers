@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/czech-norris.jpeg
 untappd: "https://untappd.com/b/brewfist-czech-norris/298490"
 country: "Italy"
-brewery: "BrewFist"
-breweryURL: "/brewery/brewfist.html"
 style: "Pilsner - Imperial / Double"
 ---

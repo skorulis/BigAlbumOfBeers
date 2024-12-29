@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/endeavour-amber-ale.jpeg
 untappd: "https://untappd.com/b/endeavour-brewing-co--reserve-amber-ale/2388030"
 country: "Australia"
-brewery: "ENDEAVOUR Brewing Co."
-breweryURL: "/brewery/endeavour-brewing-co.html"
+brewery: "ENDEAVOUR Vintage Beer Co."
+breweryURL: "/brewery/endeavour-vintage-beer-co.html"
 style: "Red Ale - Other"
 ---

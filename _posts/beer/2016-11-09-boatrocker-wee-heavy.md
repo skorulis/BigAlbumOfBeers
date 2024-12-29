@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/boatrocker-wee-heavy.jpeg
 untappd: "https://untappd.com/b/boatrocker-brewers---distillers-wee-heavy/5112864"
 country: "Australia"
-brewery: "Boatrocker Brewers & Distillers"
-breweryURL: "/brewery/boatrocker-brewers---distillers.html"
+brewery: "Boatrocker Brewing Company"
+breweryURL: "/brewery/boatrocker-brewing-company.html"
 style: "Scotch Ale / Wee Heavy"
 ---

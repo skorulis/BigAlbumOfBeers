@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/centennial-ipa.jpeg
 untappd: "https://untappd.com/b/3-floyds-brewing-company-dreadnaught/1465"
 country: "United States"
-brewery: "3 Floyds Brewing Company"
-breweryURL: "/brewery/3-floyds-brewing-company.html"
 style: "IPA - Imperial / Double"
 ---

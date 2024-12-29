@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/grifter-dreamland.jpeg
 untappd: "https://untappd.com/b/the-grifter-brewing-co--dreamland/4011980"
 country: "Australia"
-brewery: "The Grifter Brewing Co."
-breweryURL: "/brewery/the-grifter-brewing-co.html"
+brewery: "The Grifter Brewing Company"
+breweryURL: "/brewery/the-grifter-brewing-company.html"
 style: "IPA - American"
 ---

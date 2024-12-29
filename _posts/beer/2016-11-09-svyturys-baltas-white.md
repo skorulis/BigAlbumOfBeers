@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/svyturys-baltas-white.jpeg
 untappd: "https://untappd.com/b/svyturys-baltas--white-/37946"
 country: "Lithuania"
-brewery: "Švyturys"
-breweryURL: "/brewery/svyturys.html"
 style: "Hefeweizen"
 ---

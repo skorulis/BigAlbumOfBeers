@@ -5,4 +5,8 @@ import Foundation
 struct BreweryList: Codable {
     
     var breweries: [UntappdAPI.Brewery]
+    
+    func with(id: Int) -> UntappdAPI.Brewery? {
+        return breweries.first(where: { $0.brewery_id == id})
+    }
 }

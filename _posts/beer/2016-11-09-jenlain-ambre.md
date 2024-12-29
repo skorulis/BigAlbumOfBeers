@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/jenlain-ambre.jpeg
 untappd: "https://untappd.com/b/brasserie-duyck-jenlain-ambree/7984"
 country: "France"
-brewery: "Brasserie Duyck"
-breweryURL: "/brewery/brasserie-duyck.html"
 style: "Bière de Garde"
 ---

@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/pinacle-monsuta-okinawa-dry.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-monsuta-okinawa-dry-premium-draft/4292041"
 country: "Australia"
-brewery: "Pinnacle Drinks"
-breweryURL: "/brewery/pinnacle-drinks.html"
+brewery: "Pinnacle Drinks Group (Woolworths)"
+breweryURL: "/brewery/pinnacle-drinks-group--woolworths.html"
 style: "Lager - Japanese Rice"
 ---

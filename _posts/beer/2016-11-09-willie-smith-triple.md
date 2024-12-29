@@ -9,6 +9,4 @@ desc: "Super strange color but with an amazing taste. Starts with a kick then fo
 permalink: /beer/:title.html
 img: /img/list/willie-smith-triple.jpeg
 country: "Australia"
-brewery: "William Smith & Sons"
-breweryURL: "/brewery/william-smith---sons.html"
 ---

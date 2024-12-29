@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/sydney-brewery-east-coast-ipa.jpeg
 untappd: "https://untappd.com/b/sydney-brewery-east-coast-ipa/2547690"
 country: "Australia"
-brewery: "Sydney Brewery"
-breweryURL: "/brewery/sydney-brewery.html"
+brewery: "Lovedale Brewery"
+breweryURL: "/brewery/lovedale-brewery.html"
 style: "IPA - American"
 ---

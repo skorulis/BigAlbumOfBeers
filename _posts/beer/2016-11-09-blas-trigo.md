@@ -9,6 +9,4 @@ desc: "A strange taste. Almost like a lambic. Even enjoyed by non beer drinkers"
 permalink: /beer/:title.html
 img: /img/list/blas-trigo.jpeg
 country: "Spain"
-brewery: "Tito Blas"
-breweryURL: "/brewery/tito-blas.html"
 ---

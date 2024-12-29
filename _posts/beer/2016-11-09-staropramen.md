@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/staropramen.jpeg
 untappd: "https://untappd.com/b/pivovary-staropramen-staropramen-premium--lezak/38700"
 country: "Czech Republic"
-brewery: "Pivovary Staropramen"
-breweryURL: "/brewery/pivovary-staropramen.html"
 style: "Pilsner - Czech"
 ---

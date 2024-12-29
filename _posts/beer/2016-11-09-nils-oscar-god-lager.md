@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/nils-oscar-god-lager.jpeg
 untappd: "https://untappd.com/b/nils-oscar-god-lager/7816"
 country: "Sweden"
-brewery: "Nils Oscar"
-breweryURL: "/brewery/nils-oscar.html"
 style: "Lager - Dortmunder / Export"
 ---

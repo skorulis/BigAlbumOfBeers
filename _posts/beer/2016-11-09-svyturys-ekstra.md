@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/svyturys-ekstra.jpeg
 untappd: "https://untappd.com/b/svyturys-svyturys-ekstra/6923"
 country: "Lithuania"
-brewery: "Švyturys"
-breweryURL: "/brewery/svyturys.html"
 style: "Lager - Dortmunder / Export"
 ---

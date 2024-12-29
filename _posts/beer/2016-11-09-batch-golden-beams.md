@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/batch-golden-beams.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company--australia--golden-beams-hazy-pale-ale/5090021"
 country: "Australia"
-brewery: "Batch Brewing Company (Australia)"
-breweryURL: "/brewery/batch-brewing-company--australia.html"
+brewery: "Batch Brewing Company"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "Pale Ale - New England / Hazy"
 ---

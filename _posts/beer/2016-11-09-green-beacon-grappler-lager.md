@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/green-beacon-grappler-lager.jpeg
 untappd: "https://untappd.com/b/green-beacon-brewing-co-grappler-lager/2606543"
 country: "Australia"
-brewery: "Green Beacon Brewing Co"
-breweryURL: "/brewery/green-beacon-brewing-co.html"
+brewery: "Green Beacon Brewing Company"
+breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "Lager - Amber"
 ---

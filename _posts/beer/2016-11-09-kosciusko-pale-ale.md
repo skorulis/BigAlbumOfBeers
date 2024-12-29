@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/kosciusko-pale-ale.jpeg
 untappd: "https://untappd.com/b/kosciuszko-brewing-company-pale-ale/12351"
 country: "Australia"
-brewery: "Kosciuszko Brewing Company"
-breweryURL: "/brewery/kosciuszko-brewing-company.html"
 style: "Pale Ale - American"
 ---

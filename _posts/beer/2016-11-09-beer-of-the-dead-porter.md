@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/beer-of-the-dead-porter.jpeg
 untappd: "https://untappd.com/b/cerveceria-mexicana-s--de-r-l--de-c-v---tecate--pay-the-ferryman/389976"
 country: "Mexico"
-brewery: "Cervecería Mexicana S. de R.L. de C.V. (Tecate)"
-breweryURL: "/brewery/cerveceria-mexicana-s--de-r-l--de-c-v---tecate.html"
+brewery: "Cervecería Mexicana"
+breweryURL: "/brewery/cerveceria-mexicana.html"
 style: "Porter - Other"
 ---

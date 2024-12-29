@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/simply-golden-ale.jpeg
 untappd: "https://untappd.com/b/tesco-stores-ltd--tesco-simply-golden-ale/179597"
 country: "England"
-brewery: "Tesco Stores Ltd."
+brewery: "Tesco Stores Ltd"
 breweryURL: "/brewery/tesco-stores-ltd.html"
 style: "Golden Ale"
 ---

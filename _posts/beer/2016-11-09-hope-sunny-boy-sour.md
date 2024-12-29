@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/hope-sunny-boy-sour.jpeg
 untappd: "https://untappd.com/b/hope-brewery-sunny-boy-super-sour/3794659"
 country: "Australia"
-brewery: "Hope Brewery"
-breweryURL: "/brewery/hope-brewery.html"
+brewery: "Hope Brewhouse"
+breweryURL: "/brewery/hope-brewhouse.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

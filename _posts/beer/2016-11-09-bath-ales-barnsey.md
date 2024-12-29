@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/bath-ales-barnsey.jpeg
 untappd: "https://untappd.com/b/bath-ales-barnsey/6249"
 country: "England"
-brewery: "Bath Ales"
-breweryURL: "/brewery/bath-ales.html"
 style: "Dark Ale"
 ---

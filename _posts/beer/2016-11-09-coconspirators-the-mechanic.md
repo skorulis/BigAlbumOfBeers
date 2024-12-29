@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/coconspirators-the-mechanic.jpeg
 untappd: "https://untappd.com/b/co-conspirators-brewing-company-the-mechanic/4222107"
 country: "Australia"
-brewery: "Co-Conspirators Brewing Company"
-breweryURL: "/brewery/co-conspirators-brewing-company.html"
+brewery: "CoConspirators Brewing Company"
+breweryURL: "/brewery/coconspirators-brewing-company.html"
 style: "Pale Ale - New England / Hazy"
 ---

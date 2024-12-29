@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/hylder-blonde.jpeg
 untappd: "https://untappd.com/b/dark-star-brewing-co--hylder-blonde/49330"
 country: "England"
-brewery: "Dark Star Brewing Co."
-breweryURL: "/brewery/dark-star-brewing-co.html"
 style: "Blonde Ale"
 ---

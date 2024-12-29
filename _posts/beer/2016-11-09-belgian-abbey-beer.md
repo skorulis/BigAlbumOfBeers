@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/belgian-abbey-beer.jpeg
 untappd: "https://untappd.com/b/brasserie-du-bocq-tesco-finest-belgian-abbey-beer/31242"
 country: "Belgium"
-brewery: "Brasserie du Bocq"
-breweryURL: "/brewery/brasserie-du-bocq.html"
 style: "Belgian Tripel"
 ---

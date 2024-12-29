@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/bentspoke-derailleur.jpeg
 untappd: "https://untappd.com/b/bentspoke-brewing-co-derailleur/845251"
 country: "Australia"
-brewery: "BentSpoke Brewing Co"
+brewery: "Bentspoke Brewing Co"
 breweryURL: "/brewery/bentspoke-brewing-co.html"
 style: "Pale Ale - Other"
 ---

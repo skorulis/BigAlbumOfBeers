@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/st-peter-s-ruby-red-ale.jpeg
 untappd: "https://untappd.com/b/st--peters-brewery-co--ruby-red-ale/39546"
 country: "England"
-brewery: "St. Peter’s Brewery Co."
-breweryURL: "/brewery/st--peter-s-brewery-co.html"
 style: "Red Ale - American Amber / Red"
 ---

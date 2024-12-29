@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/brugge-tripel.jpeg
 untappd: "https://untappd.com/b/de-gouden-boom-brugge-tripel/17873"
 country: "Belgium"
-brewery: "De Gouden Boom"
-breweryURL: "/brewery/de-gouden-boom.html"
 style: "Gruit / Ancient Herbed Ale"
 ---

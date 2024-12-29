@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/coopers-dry.jpeg
 untappd: "https://untappd.com/b/coopers-dry/2846311"
 country: "Australia"
-brewery: "Coopers"
-breweryURL: "/brewery/coopers.html"
+brewery: "Coopers Brewery"
+breweryURL: "/brewery/coopers-brewery.html"
 style: "Lager - Pale"
 ---

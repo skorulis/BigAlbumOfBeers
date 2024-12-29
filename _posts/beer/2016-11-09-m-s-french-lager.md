@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/m-s-french-lager.jpeg
 untappd: "https://untappd.com/b/brasserie-champigneulles-marks---spencer-french-lager/35092"
 country: "France"
-brewery: "Brasserie Champigneulles"
-breweryURL: "/brewery/brasserie-champigneulles.html"
 style: "Lager - Pale"
 ---

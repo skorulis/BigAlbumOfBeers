@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/akasha-ron-mcclane-cryo-pop-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-ron-mcclane-cryo-pop-ipa/4613284"
 country: "Australia"
-brewery: "Akasha Brewing Company"
-breweryURL: "/brewery/akasha-brewing-company.html"
+brewery: "Akasha Brewing Company (Australia)"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "IPA - American"
 ---

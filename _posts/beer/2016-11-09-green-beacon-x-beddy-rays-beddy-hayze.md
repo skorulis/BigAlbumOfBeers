@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/green-beacon-x-beddy-rays-beddy-hayze.jpeg
 untappd: "https://untappd.com/b/green-beacon-green-beacon-gb-x-beddy-rays-beddy-hayze/6032101"
 country: "Australia"
-brewery: "Green Beacon"
-breweryURL: "/brewery/green-beacon.html"
+brewery: "Green Beacon Brewing Company"
+breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "Pale Ale - New England / Hazy"
 ---

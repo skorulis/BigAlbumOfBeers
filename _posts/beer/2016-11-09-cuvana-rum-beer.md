@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/cuvana-rum-beer.jpeg
 untappd: "https://untappd.com/b/beverage-brands-cuvana/299290"
 country: "England"
-brewery: "Beverage Brands"
-breweryURL: "/brewery/beverage-brands.html"
 style: "Lager - Pale"
 ---

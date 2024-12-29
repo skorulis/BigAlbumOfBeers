@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/atomic-hazy.jpeg
 untappd: "https://untappd.com/b/atomic-hazy/4196605"
 country: "Australia"
-brewery: "Atomic"
-breweryURL: "/brewery/atomic.html"
+brewery: "Atomic Beer Project"
+breweryURL: "/brewery/atomic-beer-project.html"
 style: "Pale Ale - New England / Hazy"
 ---

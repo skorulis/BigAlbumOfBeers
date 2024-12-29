@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/green-beacon-zephyr.jpeg
 untappd: "https://untappd.com/b/green-beacon--zephyr/4817957"
 country: "Australia"
-brewery: "Green Beacon "
-breweryURL: "/brewery/green-beacon-.html"
+brewery: "Green Beacon Brewing Company"
+breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "IPA - American"
 ---

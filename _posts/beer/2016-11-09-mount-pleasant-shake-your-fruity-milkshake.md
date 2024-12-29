@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/mount-pleasant-shake-your-fruity-milkshake.jpeg
 untappd: "https://untappd.com/b/r-b-brewing-co--shake-your-fruity---milkshake-ipa/1842888"
 country: "Canada"
-brewery: "R&B Brewing Co."
-breweryURL: "/brewery/r-b-brewing-co.html"
+brewery: "R&B Brewing"
+breweryURL: "/brewery/r-b-brewing.html"
 style: "IPA - American"
 ---

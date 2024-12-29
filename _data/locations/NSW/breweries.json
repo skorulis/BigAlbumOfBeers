@@ -1,85 +1,85 @@
 {
   "breweries": [
     {
-      "brewery_id": 2984,
       "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2984_4d414.jpeg",
-      "country_name": "Australia",
-      "brewery_in_production": 0,
-      "claimed_status": {
-        "is_claimed": true,
-        "follow_status": false,
-        "claimed_slug": "SydneyBrewhouse",
-        "uid": 347652,
-        "mute_status": "none",
-        "follower_count": 357
-      },
       "brewery_type": "Micro Brewery",
       "brewery_type_id": 2,
       "is_independent": 1,
+      "brewery_slug": "lovedale-brewery",
+      "brewery_in_production": 0,
+      "country_name": "Australia",
       "brewery_name": "Lovedale Brewery",
+      "claimed_status": {
+        "uid": 347652,
+        "mute_status": "none",
+        "claimed_slug": "SydneyBrewhouse",
+        "follow_status": false,
+        "follower_count": 357,
+        "is_claimed": true
+      },
       "location": {
       },
-      "brewery_slug": "lovedale-brewery",
       "contact": {
         "facebook": "https://www.facebook.com/Lovedale-Brewery-618761468218113/",
-        "instagram": "",
         "twitter": "",
+        "instagram": "",
         "url": "http://www.lovedalebrewery.com"
-      }
+      },
+      "brewery_id": 2984
     },
     {
+      "brewery_type": "Micro Brewery",
+      "brewery_name": "Australian Beer Company",
+      "contact": {
+        "facebook": "https://www.facebook.com/Australianbeerco",
+        "instagram": "AustralianBeerCo",
+        "url": "",
+        "twitter": "Ausbeerco"
+      },
       "location": {
       },
+      "is_independent": 0,
+      "brewery_id": 101175,
+      "brewery_slug": "australian-beer-co",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-101175_7af59.jpeg",
       "claimed_status": {
         "claimed_slug": "AustralianBeerCompany",
         "mute_status": "none",
-        "uid": 1390523,
-        "follower_count": 727,
         "is_claimed": true,
-        "follow_status": false
+        "uid": 1390523,
+        "follow_status": false,
+        "follower_count": 727
       },
-      "brewery_name": "Australian Beer Company",
-      "brewery_type": "Micro Brewery",
-      "brewery_id": 101175,
-      "country_name": "Australia",
       "brewery_type_id": 2,
-      "is_independent": 0,
-      "brewery_slug": "australian-beer-co",
-      "contact": {
-        "url": "",
-        "facebook": "https://www.facebook.com/Australianbeerco",
-        "twitter": "Ausbeerco",
-        "instagram": "AustralianBeerCo"
-      },
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-101175_7af59.jpeg",
-      "brewery_in_production": 0
+      "brewery_in_production": 0,
+      "country_name": "Australia"
     },
     {
-      "contact": {
-        "instagram": "",
-        "url": "http://www.lovedalebrewery.com",
-        "twitter": "",
-        "facebook": "https://www.facebook.com/Lovedale-Brewery-618761468218113/"
-      },
-      "brewery_id": 2984,
-      "brewery_slug": "lovedale-brewery",
-      "brewery_type": "Micro Brewery",
-      "location": {
-      },
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2984_4d414.jpeg",
+      "brewery_in_production": 0,
       "is_independent": 1,
-      "brewery_name": "Lovedale Brewery",
       "claimed_status": {
-        "follower_count": 357,
-        "mute_status": "none",
-        "uid": 347652,
         "claimed_slug": "SydneyBrewhouse",
         "follow_status": false,
-        "is_claimed": true
+        "follower_count": 357,
+        "uid": 347652,
+        "is_claimed": true,
+        "mute_status": "none"
       },
+      "contact": {
+        "twitter": "",
+        "url": "http://www.lovedalebrewery.com",
+        "facebook": "https://www.facebook.com/Lovedale-Brewery-618761468218113/",
+        "instagram": ""
+      },
+      "brewery_type": "Micro Brewery",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-2984_4d414.jpeg",
+      "brewery_id": 2984,
+      "brewery_slug": "lovedale-brewery",
       "country_name": "Australia",
-      "brewery_type_id": 2,
-      "brewery_in_production": 0
+      "location": {
+      },
+      "brewery_name": "Lovedale Brewery",
+      "brewery_type_id": 2
     }
   ]
 }

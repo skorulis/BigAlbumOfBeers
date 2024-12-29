@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/brewmeister-armageddon.jpeg
 untappd: "https://untappd.com/b/brewmeister-brewery-armageddon/247224"
 country: "Scotland"
-brewery: "Brewmeister Brewery"
-breweryURL: "/brewery/brewmeister-brewery.html"
 style: "Eisbock"
 ---

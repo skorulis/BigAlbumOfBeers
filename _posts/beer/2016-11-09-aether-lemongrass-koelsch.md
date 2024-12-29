@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/aether-lemongrass-koelsch.jpeg
 untappd: "https://untappd.com/b/aether-brewing-aether-brewing-lemongrass-kolsch/5612990"
 country: "Australia"
-brewery: "Aether Brewing"
-breweryURL: "/brewery/aether-brewing.html"
+brewery: "Aether Brewing Company"
+breweryURL: "/brewery/aether-brewing-company.html"
 style: "Kölsch"
 ---

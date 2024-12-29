@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/frenchies-christmas-ale.jpeg
 untappd: "https://untappd.com/b/frenchies-brewery-frenchies-brewery-christmas-ale-belgian-quadrupel/6059241"
 country: "Australia"
-brewery: "Frenchies Brewery"
-breweryURL: "/brewery/frenchies-brewery.html"
+brewery: "Frenchies"
+breweryURL: "/brewery/frenchies.html"
 style: "Belgian Quadrupel"
 ---

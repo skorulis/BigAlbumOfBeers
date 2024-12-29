@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/cookie-beer.jpeg
 untappd: "https://untappd.com/b/brasserie-scassenes-cookie-beer/32035"
 country: "Belgium"
-brewery: "Brasserie Scassenes"
-breweryURL: "/brewery/brasserie-scassenes.html"
 style: "Belgian Strong Golden Ale"
 ---

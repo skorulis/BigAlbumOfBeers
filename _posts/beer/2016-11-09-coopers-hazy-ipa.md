@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/coopers-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/coopers-hazy-ipa/3907567"
 country: "Australia"
-brewery: "Coopers"
-breweryURL: "/brewery/coopers.html"
+brewery: "Coopers Brewery"
+breweryURL: "/brewery/coopers-brewery.html"
 style: "IPA - New England"
 ---

@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/atomic-moon-boot.jpeg
 untappd: "https://untappd.com/b/atomic-darkside-of-the-moonboot/4352640"
 country: "Australia"
-brewery: "Atomic"
-breweryURL: "/brewery/atomic.html"
+brewery: "Atomic Beer Project"
+breweryURL: "/brewery/atomic-beer-project.html"
 style: "Stout - Coffee"
 ---

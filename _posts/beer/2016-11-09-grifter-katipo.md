@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/grifter-katipo.jpeg
 untappd: "https://untappd.com/b/the-grifter-brewing-co-the-grifter-brewing-co-katipo-nz-pilsner/5537166"
 country: "Australia"
-brewery: "The Grifter Brewing Co."
-breweryURL: "/brewery/the-grifter-brewing-co.html"
+brewery: "The Grifter Brewing Company"
+breweryURL: "/brewery/the-grifter-brewing-company.html"
 style: "Pilsner - New Zealand"
 ---

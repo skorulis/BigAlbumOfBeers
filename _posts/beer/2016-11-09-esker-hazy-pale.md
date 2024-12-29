@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/esker-hazy-pale.jpeg
 untappd: "https://untappd.com/b/esker-beer-co-australian-brewery-esker-beer-co-hazy-pale/5345043"
 country: "Australia"
-brewery: "Esker Beer Co."
-breweryURL: "/brewery/esker-beer-co.html"
+brewery: " Australian Brewery"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "Pale Ale - New England / Hazy"
 ---

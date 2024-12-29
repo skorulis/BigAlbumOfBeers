@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/moon-dog-jaffawocky.jpeg
 untappd: "https://untappd.com/b/moon-dog-jaffawocky/2599687"
 country: "Australia"
-brewery: "Moon Dog"
-breweryURL: "/brewery/moon-dog.html"
+brewery: "Moon Dog Craft Brewery"
+breweryURL: "/brewery/moon-dog-craft-brewery.html"
 style: "IPA - Imperial New England"
 ---

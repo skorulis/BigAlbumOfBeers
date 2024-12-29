@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/dainton-equalizer.jpeg
 untappd: "https://untappd.com/b/dainton-beer-equalizer/4068991"
 country: "Australia"
-brewery: "Dainton Beer"
-breweryURL: "/brewery/dainton-beer.html"
+brewery: "Dainton Family Brewery"
+breweryURL: "/brewery/dainton-family-brewery.html"
 style: "Pale Ale - New England / Hazy"
 ---

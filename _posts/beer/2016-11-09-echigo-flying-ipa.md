@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/echigo-flying-ipa.jpeg
 untappd: "https://untappd.com/b/echigo-beer-co---ltd--flying-ipa/1652077"
 country: "Japan"
-brewery: "Echigo Beer Co., Ltd."
-breweryURL: "/brewery/echigo-beer-co--ltd.html"
+brewery: "Echigo Beer Co."
+breweryURL: "/brewery/echigo-beer-co.html"
 style: "IPA - American"
 ---

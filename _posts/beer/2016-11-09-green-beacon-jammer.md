@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/green-beacon-jammer.jpeg
 untappd: "https://untappd.com/b/green-beacon--jammer-hazy/4785050"
 country: "Australia"
-brewery: "Green Beacon "
-breweryURL: "/brewery/green-beacon-.html"
+brewery: "Green Beacon Brewing Company"
+breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

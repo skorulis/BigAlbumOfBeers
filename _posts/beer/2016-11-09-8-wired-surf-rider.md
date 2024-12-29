@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/8-wired-surf-rider.jpeg
 untappd: "https://untappd.com/b/8-wired--surf-rider/4951247"
 country: "New Zealand"
-brewery: "8 Wired "
-breweryURL: "/brewery/8-wired-.html"
+brewery: "8 Wired Brewing Co."
+breweryURL: "/brewery/8-wired-brewing-co.html"
 style: "IPA - American"
 ---

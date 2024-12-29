@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/aldaris-dumaku.jpeg
 untappd: "https://untappd.com/b/aldaris-dumaku-nefiltrets/33718"
 country: "Latvia"
-brewery: "Aldaris"
-breweryURL: "/brewery/aldaris.html"
 style: "Lager - Pale"
 ---

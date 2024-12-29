@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/akasha-lupulin-fog.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-lupulin-fog-neiipa/2069728"
 country: "Australia"
-brewery: "Akasha Brewing Company"
-breweryURL: "/brewery/akasha-brewing-company.html"
+brewery: "Akasha Brewing Company (Australia)"
+breweryURL: "/brewery/akasha-brewing-company--australia.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

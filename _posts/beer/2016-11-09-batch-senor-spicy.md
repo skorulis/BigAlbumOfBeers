@@ -1,6 +1,6 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-seor-spicy.md
+filename: _posts/beer/2016-11-09-batch-senor-spicy.md
 title: Batch señor spicy
 category: beer
 score: 4

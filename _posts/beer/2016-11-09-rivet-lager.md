@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/rivet-lager.jpeg
 untappd: "https://untappd.com/b/rivet-lager/1365884"
 country: "Vietnam"
-brewery: "Rivet"
-breweryURL: "/brewery/rivet.html"
 style: "Lager - Pale"
 ---

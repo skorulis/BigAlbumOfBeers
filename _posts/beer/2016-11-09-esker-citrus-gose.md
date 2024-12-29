@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/esker-citrus-gose.jpeg
 untappd: "https://untappd.com/b/esker-beer-co--esker-beer-co--citrus-gose/5061259"
 country: "Australia"
-brewery: "Esker Beer Co."
-breweryURL: "/brewery/esker-beer-co.html"
+brewery: " Australian Brewery"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "Sour - Fruited Gose"
 ---

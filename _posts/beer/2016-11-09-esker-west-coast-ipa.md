@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/esker-west-coast-ipa.jpeg
 untappd: "https://untappd.com/b/esker-beer-co-australian-brewery-esker-beer-co-west-coast-ipa/5061251"
 country: "Australia"
-brewery: "Esker Beer Co."
-breweryURL: "/brewery/esker-beer-co.html"
+brewery: " Australian Brewery"
+breweryURL: "/brewery/-australian-brewery.html"
 style: "IPA - American"
 ---

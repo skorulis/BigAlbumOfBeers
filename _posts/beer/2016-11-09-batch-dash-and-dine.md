@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/batch-dash-and-dine.jpeg
 untappd: "https://untappd.com/b/batch-brewing-company--australia--dash---dine-hazy-ipa/4993391"
 country: "Australia"
-brewery: "Batch Brewing Company (Australia)"
-breweryURL: "/brewery/batch-brewing-company--australia.html"
+brewery: "Batch Brewing Company"
+breweryURL: "/brewery/batch-brewing-company.html"
 style: "IPA - New England / Hazy"
 ---

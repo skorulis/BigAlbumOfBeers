@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/hope-tropical-neipa.jpeg
 untappd: "https://untappd.com/b/hope-brewery-tropical-neipa/3103291"
 country: "Australia"
-brewery: "Hope Brewery"
-breweryURL: "/brewery/hope-brewery.html"
+brewery: "Hope Brewhouse"
+breweryURL: "/brewery/hope-brewhouse.html"
 style: "IPA - New England"
 ---

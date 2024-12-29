@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/frenchies-the-cool-kids---tropical-citrus-berry-oat-cream-ipa.jpeg
 untappd: "https://untappd.com/b/frenchies-brewery-frenchies-brewery-the-cool-kids-tropical-citrus-berry-oat-cream-ipa/5747948"
 country: "Australia"
-brewery: "Frenchies Brewery"
-breweryURL: "/brewery/frenchies-brewery.html"
+brewery: "Frenchies"
+breweryURL: "/brewery/frenchies.html"
 style: "IPA - New England / Hazy"
 ---

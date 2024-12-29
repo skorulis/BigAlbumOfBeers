@@ -10,7 +10,5 @@ permalink: /beer/:title.html
 img: /img/list/christmas-cracker.jpeg
 untappd: "https://untappd.com/b/carlsberg-uk-tetleys-christmas-cracker/270306"
 country: "England"
-brewery: "Carlsberg UK"
-breweryURL: "/brewery/carlsberg-uk.html"
 style: "English Bitter"
 ---

@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/coopers-2019-vintage.jpeg
 untappd: "https://untappd.com/b/coopers-extra-strong-vintage-ale--2019-/3372181"
 country: "Australia"
-brewery: "Coopers"
-breweryURL: "/brewery/coopers.html"
+brewery: "Coopers Brewery"
+breweryURL: "/brewery/coopers-brewery.html"
 style: "Strong Ale - English"
 ---

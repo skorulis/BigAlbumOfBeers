@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/grifter-banshee.jpeg
 untappd: "https://untappd.com/b/grifter-brewing-company-the-banshee/2100523"
 country: "Australia"
-brewery: "Grifter Brewing Company"
-breweryURL: "/brewery/grifter-brewing-company.html"
+brewery: "The Grifter Brewing Company"
+breweryURL: "/brewery/the-grifter-brewing-company.html"
 style: "Schwarzbier"
 ---

@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/black-death-beer.jpeg
 untappd: "https://untappd.com/b/viking-olgerd-black-death-beer/84216"
 country: "Iceland"
-brewery: "Viking Ölgerd"
-breweryURL: "/brewery/viking-oelgerd.html"
+brewery: "Viking Brewery "
+breweryURL: "/brewery/viking-brewery-.html"
 style: "Porter - Baltic"
 ---

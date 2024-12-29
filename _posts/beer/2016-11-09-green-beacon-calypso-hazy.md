@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/green-beacon-calypso-hazy.jpeg
 untappd: "https://untappd.com/b/green-beacon--calypso-pale-ale/4404068"
 country: "Australia"
-brewery: "Green Beacon "
-breweryURL: "/brewery/green-beacon-.html"
+brewery: "Green Beacon Brewing Company"
+breweryURL: "/brewery/green-beacon-brewing-company.html"
 style: "Pale Ale - Australian"
 ---

@@ -8,8 +8,8 @@ Set beer ids in js/extra.json
 
 -------
 
-./cli pull-beer-info && ruby scripts/stats.rb && ./cli get-breweries
-ruby scripts/breweryList.rb
+./cli pull-beer-info
+ruby scripts/stats.rb && ./cli get-breweries
 
 ./cli pull-images && ruby scripts/distributeBreweries.rb && ./cli create-posts
 

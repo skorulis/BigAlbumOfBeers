@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/pinnacle-culture-house-raspberry.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-culture-house-raspberry/3462201"
 country: "Australia"
-brewery: "Pinnacle Drinks"
-breweryURL: "/brewery/pinnacle-drinks.html"
+brewery: "Pinnacle Drinks Group (Woolworths)"
+breweryURL: "/brewery/pinnacle-drinks-group--woolworths.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

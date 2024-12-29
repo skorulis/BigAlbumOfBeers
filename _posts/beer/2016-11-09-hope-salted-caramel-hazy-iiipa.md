@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/hope-salted-caramel-hazy-iiipa.jpeg
 untappd: "https://untappd.com/b/hope-brewery-salted-caramel-hazy-iiipa/4225672"
 country: "Australia"
-brewery: "Hope Brewery"
-breweryURL: "/brewery/hope-brewery.html"
+brewery: "Hope Brewhouse"
+breweryURL: "/brewery/hope-brewhouse.html"
 style: "IPA - Triple"
 ---

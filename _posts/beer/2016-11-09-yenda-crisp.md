@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/yenda-crisp.jpeg
 untappd: "https://untappd.com/b/australian-beer-co--yenda-crisp-lager/2299023"
 country: "Australia"
-brewery: "Australian Beer Co."
-breweryURL: "/brewery/australian-beer-co.html"
+brewery: "Australian Beer Company"
+breweryURL: "/brewery/australian-beer-company.html"
 style: "Lager - Helles"
 ---
