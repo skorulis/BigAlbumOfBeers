@@ -1,31 +1,31 @@
 {
   "breweries": [
     {
-      "claimed_status": {
-        "is_claimed": true,
-        "follower_count": 71,
-        "uid": 1719791,
-        "mute_status": "none",
-        "follow_status": false,
-        "claimed_slug": "LittleSmithBrewing"
-      },
-      "country_name": "Australia",
-      "brewery_type_id": 2,
-      "brewery_slug": "little-smith-brewing",
-      "brewery_name": "Little Smith Brewing",
-      "brewery_id": 165627,
-      "is_independent": 1,
+      "brewery_in_production": 0,
       "location": {
       },
       "brewery_type": "Micro Brewery",
-      "brewery_in_production": 0,
-      "contact": {
-        "twitter": "",
-        "instagram": "@ltsmithbrewing",
-        "facebook": "",
-        "url": "http://www.littlesmithbrewing.com"
+      "brewery_slug": "little-smith-brewing",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-165627_ba86f.jpeg",
+      "brewery_id": 165627,
+      "is_independent": 1,
+      "brewery_type_id": 2,
+      "country_name": "Australia",
+      "brewery_name": "Little Smith Brewing",
+      "claimed_status": {
+        "follow_status": false,
+        "uid": 1719791,
+        "is_claimed": true,
+        "follower_count": 71,
+        "claimed_slug": "LittleSmithBrewing",
+        "mute_status": "none"
       },
-      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-165627_ba86f.jpeg"
+      "contact": {
+        "facebook": "",
+        "twitter": "",
+        "url": "http://www.littlesmithbrewing.com",
+        "instagram": "@ltsmithbrewing"
+      }
     }
   ]
 }
