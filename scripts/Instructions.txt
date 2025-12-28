@@ -16,5 +16,8 @@ ruby scripts/stats.rb && ./cli get-breweries
 ------
 
 
-
 Update beers.html with the beer count
+
+git add -A && git commit -m "Update beers" && git push
+
+git add -A && git commit -m "Update beer count" && git push
