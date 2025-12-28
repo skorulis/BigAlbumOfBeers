@@ -1,14 +1,14 @@
 ---
 layout: beer
 filename: _posts/beer/2016-11-09-mountain-culture-moon-dust-stout.md
-title: Mountain culture moon dust stout
+title: Mountain Culture Moon Dust Stout
 category: beer
-score: 8
-beer-date: "2021-01-31"
-desc: "Nice thick stout. Pretty much the perfect example of what a standard stout should be"
+score: 7
+beer-date: "2025-12-28"
+desc: "Mellow stout"
 permalink: /beer/:title.html
 img: /img/list/mountain-culture-moon-dust-stout.jpeg
-untappd: "https://untappd.com/b/mountain-culture-beer-co--moon-dust/3477131"
+untappd: "https://untappd.com/b/mountain-culture-beer-co-mountain-culture-beer-co-moon-dust/3477131"
 country: "Australia"
 brewery: "Mountain Culture Beer Co."
 breweryURL: "/brewery/mountain-culture-beer-co.html"
