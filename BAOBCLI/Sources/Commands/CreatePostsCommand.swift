@@ -3,6 +3,7 @@
 import ArgumentParser
 import Foundation
 import Slugify
+import UntappdAPI
 
 final class CreatePostsCommand: AsyncParsableCommand {
     

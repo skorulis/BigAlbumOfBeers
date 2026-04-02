@@ -1,6 +1,7 @@
 //  Created by Alexander Skorulis on 30/3/2024.
 
 import Foundation
+import UntappdAPI
 
 struct BreweryList: Codable {
     

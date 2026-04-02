@@ -2,6 +2,7 @@
 
 import ArgumentParser
 import Foundation
+import UntappdAPI
 
 final class GetBreweriesCommand: AsyncParsableCommand {
     

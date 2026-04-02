@@ -1,6 +1,7 @@
 //  Created by Alexander Skorulis on 26/2/2023.
 
 import Foundation
+import UntappdAPI
 
 struct ExtraEntry: Codable {
     var untappd: Untappd

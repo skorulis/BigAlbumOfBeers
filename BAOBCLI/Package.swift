@@ -17,6 +17,7 @@ let package = Package(
 		.package(url: "https://github.com/apple/swift-argument-parser", from: "1.2.0"),
         .package(url: "git@github.com:skorulis/ASKCore.git", branch: "main"),
         .package(url: "git@github.com:nodes-vapor/slugify.git", from: "2.0.0"),
+        .package(url: "https://github.com/skorulis/untappd-api-swift", branch: "main")
     ],
     targets: [
     	.executableTarget(
@@ -26,6 +27,7 @@ let package = Package(
                 .product(name: "Slugify", package: "slugify"),
                 "ASKCore",
                 
+                .product(name: "UntappdAPI", package: "untappd-api-swift"),                
             ],
             path: "Sources"
         ),
