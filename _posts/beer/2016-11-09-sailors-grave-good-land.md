@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sailors-grave-good-land.md
-title: Sailors grave good land
+filename: "_posts/beer/2016-11-09-sailors-grave-good-land.md"
+title: "Sailors grave good land"
 category: beer
 score: 8
 beer-date: "2023-08-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-ginu-pine.md
-title: Batch ginu-pine
+filename: "_posts/beer/2016-11-09-batch-ginu-pine.md"
+title: "Batch ginu-pine"
 category: beer
 score: 6.5
 beer-date: "2020-09-26"

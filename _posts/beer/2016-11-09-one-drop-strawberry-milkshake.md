@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-strawberry-milkshake.md
-title: One drop strawberry milkshake
+filename: "_posts/beer/2016-11-09-one-drop-strawberry-milkshake.md"
+title: "One drop strawberry milkshake"
 category: beer
 score: 9
 beer-date: "2020-11-13"

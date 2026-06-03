@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hart-and-hound.md
-title: Hart and hound
+filename: "_posts/beer/2016-11-09-hart-and-hound.md"
+title: "Hart and hound"
 category: beer
 score: 6.5
 beer-date: "2018-06-02"

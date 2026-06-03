@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-only-one-night.md
-title: bracket only one night
+filename: "_posts/beer/2016-11-09-bracket-only-one-night.md"
+title: "bracket only one night"
 category: beer
 score: 8.5
 beer-date: "2021-01-31"

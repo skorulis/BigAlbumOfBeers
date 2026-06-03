@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-alvarado-street-double-cone.md
-title: Alvarado Street Double Cone
+filename: "_posts/beer/2016-11-09-alvarado-street-double-cone.md"
+title: "Alvarado Street Double Cone"
 category: beer
 score: 8.5
 beer-date: "2025-09-26"

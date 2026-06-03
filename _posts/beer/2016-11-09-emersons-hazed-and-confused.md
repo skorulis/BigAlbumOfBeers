@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-emersons-hazed-and-confused.md
-title: Emersons hazed and confused
+filename: "_posts/beer/2016-11-09-emersons-hazed-and-confused.md"
+title: "Emersons hazed and confused"
 category: beer
 score: 4
 beer-date: "2024-11-09"

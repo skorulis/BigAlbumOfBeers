@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-five-lamps.md
-title: Five lamps
+filename: "_posts/beer/2016-11-09-five-lamps.md"
+title: "Five lamps"
 category: beer
 score: 4
 beer-date: "2013-01-13"

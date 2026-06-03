@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brothers-alpha-daydream.md
-title: Brothers alpha daydream
+filename: "_posts/beer/2016-11-09-brothers-alpha-daydream.md"
+title: "Brothers alpha daydream"
 category: beer
 score: 8
 beer-date: "2022-09-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bunley-altbier.md
-title: Bunley altbier
+filename: "_posts/beer/2016-11-09-bunley-altbier.md"
+title: "Bunley altbier"
 category: beer
 score: 6
 beer-date: "2023-02-28"

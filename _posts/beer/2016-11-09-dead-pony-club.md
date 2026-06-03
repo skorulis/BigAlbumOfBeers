@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dead-pony-club.md
-title: Dead Pony Club
+filename: "_posts/beer/2016-11-09-dead-pony-club.md"
+title: "Dead Pony Club"
 category: beer
 score: 6
 beer-date: "2013-07-19"

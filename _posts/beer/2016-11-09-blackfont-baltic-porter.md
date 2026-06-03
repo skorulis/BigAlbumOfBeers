@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackfont-baltic-porter.md
-title: Blackfont Baltic porter
+filename: "_posts/beer/2016-11-09-blackfont-baltic-porter.md"
+title: "Blackfont Baltic porter"
 category: beer
 score: 8
 beer-date: "2017-05-27"

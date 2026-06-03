@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coastal-bo-bo-blood-orange-neipa.md
-title: Coastal bo bo blood orange NEIPA
+filename: "_posts/beer/2016-11-09-coastal-bo-bo-blood-orange-neipa.md"
+title: "Coastal bo bo blood orange NEIPA"
 category: beer
 score: 8
 beer-date: "2022-08-07"

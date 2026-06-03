@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-alchemist-focal-banger.md
-title: Alchemist focal banger
+filename: "_posts/beer/2016-11-09-alchemist-focal-banger.md"
+title: "Alchemist focal banger"
 category: beer
 score: 8.5
 beer-date: "2024-06-15"

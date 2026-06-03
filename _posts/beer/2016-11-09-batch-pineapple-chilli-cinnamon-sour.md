@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-pineapple-chilli-cinnamon-sour.md
-title: Batch Pineapple Chilli Cinnamon Sour
+filename: "_posts/beer/2016-11-09-batch-pineapple-chilli-cinnamon-sour.md"
+title: "Batch Pineapple Chilli Cinnamon Sour"
 category: beer
 score: 5.5
 beer-date: "2025-09-26"

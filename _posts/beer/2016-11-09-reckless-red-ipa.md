@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-reckless-red-ipa.md
-title: Reckless red IPA
+filename: "_posts/beer/2016-11-09-reckless-red-ipa.md"
+title: "Reckless red IPA"
 category: beer
 score: 7.5
 beer-date: "2023-02-28"

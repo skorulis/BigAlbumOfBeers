@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-newstead-twofold.md
-title: Newstead twofold
+filename: "_posts/beer/2016-11-09-newstead-twofold.md"
+title: "Newstead twofold"
 category: beer
 score: 7
 beer-date: "2023-02-26"

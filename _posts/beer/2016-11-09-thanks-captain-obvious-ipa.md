@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-thanks-captain-obvious-ipa.md
-title: Thanks captain obvious IPA
+filename: "_posts/beer/2016-11-09-thanks-captain-obvious-ipa.md"
+title: "Thanks captain obvious IPA"
 category: beer
 score: 9
 beer-date: "2015-10-17"

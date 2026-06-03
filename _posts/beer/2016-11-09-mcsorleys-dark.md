@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mcsorleys-dark.md
-title: McSorleys dark
+filename: "_posts/beer/2016-11-09-mcsorleys-dark.md"
+title: "McSorleys dark"
 category: beer
 score: 5
 beer-date: "2024-06-15"

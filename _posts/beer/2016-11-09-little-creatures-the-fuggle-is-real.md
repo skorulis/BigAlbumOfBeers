@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-creatures-the-fuggle-is-real.md
-title: Little creatures the fuggle is real
+filename: "_posts/beer/2016-11-09-little-creatures-the-fuggle-is-real.md"
+title: "Little creatures the fuggle is real"
 category: beer
 score: 7.5
 beer-date: "2019-11-22"

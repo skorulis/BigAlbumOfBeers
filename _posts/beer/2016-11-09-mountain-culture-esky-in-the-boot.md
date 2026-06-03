@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-esky-in-the-boot.md
-title: Mountain culture esky in the boot
+filename: "_posts/beer/2016-11-09-mountain-culture-esky-in-the-boot.md"
+title: "Mountain culture esky in the boot"
 category: beer
 score: 7.5
 beer-date: "2024-03-29"

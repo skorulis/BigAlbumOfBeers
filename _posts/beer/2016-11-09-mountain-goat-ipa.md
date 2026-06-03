@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-ipa.md
-title: Mountain goat IPA
+filename: "_posts/beer/2016-11-09-mountain-goat-ipa.md"
+title: "Mountain goat IPA"
 category: beer
 score: 8.5
 beer-date: "2021-04-02"

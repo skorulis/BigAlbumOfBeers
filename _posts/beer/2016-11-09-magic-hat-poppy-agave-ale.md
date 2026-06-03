@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-magic-hat-poppy-agave-ale.md
-title: Magic hat poppy agave ale
+filename: "_posts/beer/2016-11-09-magic-hat-poppy-agave-ale.md"
+title: "Magic hat poppy agave ale"
 category: beer
 score: 6
 beer-date: "2016-11-13"

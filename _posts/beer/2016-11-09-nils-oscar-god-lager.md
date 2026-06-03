@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nils-oscar-god-lager.md
-title: Nils Oscar God Lager
+filename: "_posts/beer/2016-11-09-nils-oscar-god-lager.md"
+title: "Nils Oscar God Lager"
 category: beer
 score: 6
 beer-date: "2013-03-09"

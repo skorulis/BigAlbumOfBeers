@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-aether-peanut-butter-stout.md
-title: Aether Peanut Butter Stout
+filename: "_posts/beer/2016-11-09-aether-peanut-butter-stout.md"
+title: "Aether Peanut Butter Stout"
 category: beer
 score: 7
 beer-date: "2025-09-26"

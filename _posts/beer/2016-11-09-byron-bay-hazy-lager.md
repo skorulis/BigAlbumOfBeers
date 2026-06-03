@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-byron-bay-hazy-lager.md
-title: Byron bay hazy lager
+filename: "_posts/beer/2016-11-09-byron-bay-hazy-lager.md"
+title: "Byron bay hazy lager"
 category: beer
 score: 6.5
 beer-date: "2020-12-25"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-holgate-tank-nine.md
-title: Holgate Tank nine
+filename: "_posts/beer/2016-11-09-holgate-tank-nine.md"
+title: "Holgate Tank nine"
 category: beer
 score: 8
 beer-date: "2015-04-13"

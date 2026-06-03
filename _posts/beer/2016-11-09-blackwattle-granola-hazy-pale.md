@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackwattle-granola-hazy-pale.md
-title: Blackwattle Granola Hazy Pale
+filename: "_posts/beer/2016-11-09-blackwattle-granola-hazy-pale.md"
+title: "Blackwattle Granola Hazy Pale"
 category: beer
 score: 4.5
 beer-date: "2025-11-10"

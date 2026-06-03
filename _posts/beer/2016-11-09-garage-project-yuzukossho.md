@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-yuzukossho.md
-title: Garage project yuzukossho
+filename: "_posts/beer/2016-11-09-garage-project-yuzukossho.md"
+title: "Garage project yuzukossho"
 category: beer
 score: 6
 beer-date: "2021-11-12"

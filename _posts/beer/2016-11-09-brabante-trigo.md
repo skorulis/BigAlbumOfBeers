@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brabante-trigo.md
-title: Brabante trigo
+filename: "_posts/beer/2016-11-09-brabante-trigo.md"
+title: "Brabante trigo"
 category: beer
 score: 7
 beer-date: "2016-03-16"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-trouble-summer-ale.md
-title: Trouble summer ale
+filename: "_posts/beer/2016-11-09-trouble-summer-ale.md"
+title: "Trouble summer ale"
 category: beer
 score: 7
 beer-date: "2023-09-06"

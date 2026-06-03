@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kicks-shape-up.md
-title: Kicks Shape Up
+filename: "_posts/beer/2016-11-09-kicks-shape-up.md"
+title: "Kicks Shape Up"
 category: beer
 score: 6
 beer-date: "2025-09-26"

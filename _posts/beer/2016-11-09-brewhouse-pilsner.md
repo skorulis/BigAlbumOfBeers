@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewhouse-pilsner.md
-title: Brewhouse Pilsner
+filename: "_posts/beer/2016-11-09-brewhouse-pilsner.md"
+title: "Brewhouse Pilsner"
 category: beer
 score: 6
 beer-date: "2018-03-13"

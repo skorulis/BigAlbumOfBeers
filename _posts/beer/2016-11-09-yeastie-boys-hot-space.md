@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yeastie-boys-hot-space.md
-title: Yeastie boys hot space
+filename: "_posts/beer/2016-11-09-yeastie-boys-hot-space.md"
+title: "Yeastie boys hot space"
 category: beer
 score: 8
 beer-date: "2019-11-22"

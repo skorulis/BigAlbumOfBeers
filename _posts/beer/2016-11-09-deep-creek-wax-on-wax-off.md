@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deep-creek-wax-on-wax-off.md
-title: Deep creek wax on wax off
+filename: "_posts/beer/2016-11-09-deep-creek-wax-on-wax-off.md"
+title: "Deep creek wax on wax off"
 category: beer
 score: 3
 beer-date: "2023-02-26"

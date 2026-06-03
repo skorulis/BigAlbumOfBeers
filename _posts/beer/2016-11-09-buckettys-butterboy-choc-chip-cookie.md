@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-buckettys-butterboy-choc-chip-cookie.md
-title: Buckettys Butterboy Choc Chip Cookie
+filename: "_posts/beer/2016-11-09-buckettys-butterboy-choc-chip-cookie.md"
+title: "Buckettys Butterboy Choc Chip Cookie"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

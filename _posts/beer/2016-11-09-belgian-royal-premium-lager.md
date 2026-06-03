@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-belgian-royal-premium-lager.md
-title: Belgian Royal Premium lager
+filename: "_posts/beer/2016-11-09-belgian-royal-premium-lager.md"
+title: "Belgian Royal Premium lager"
 category: beer
 score: 5
 beer-date: "2015-07-10"

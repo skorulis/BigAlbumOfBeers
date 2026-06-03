@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-bubble-and-squeak.md
-title: Sauce bubble and squeak
+filename: "_posts/beer/2016-11-09-sauce-bubble-and-squeak.md"
+title: "Sauce bubble and squeak"
 category: beer
 score: 8.5
 beer-date: "2018-03-13"

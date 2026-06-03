@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-magical-christmas-unicorn.md
-title: Bridge road magical Christmas unicorn
+filename: "_posts/beer/2016-11-09-bridge-road-magical-christmas-unicorn.md"
+title: "Bridge road magical Christmas unicorn"
 category: beer
 score: 8.5
 beer-date: "2020-12-25"

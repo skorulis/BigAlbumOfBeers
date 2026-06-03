@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rocks-hand-grenade.md
-title: Rocks hand grenade
+filename: "_posts/beer/2016-11-09-rocks-hand-grenade.md"
+title: "Rocks hand grenade"
 category: beer
 score: 7
 beer-date: "2022-08-07"

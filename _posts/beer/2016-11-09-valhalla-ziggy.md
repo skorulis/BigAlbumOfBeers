@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-valhalla-ziggy.md
-title: Valhalla Ziggy
+filename: "_posts/beer/2016-11-09-valhalla-ziggy.md"
+title: "Valhalla Ziggy"
 category: beer
 score: 8
 beer-date: "2017-04-11"

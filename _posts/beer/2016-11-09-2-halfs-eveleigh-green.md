@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-eveleigh-green.md
-title: 2 halfs eveleigh green
+filename: "_posts/beer/2016-11-09-2-halfs-eveleigh-green.md"
+title: "2 halfs eveleigh green"
 category: beer
 score: 8
 beer-date: "2023-02-28"

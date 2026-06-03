@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-golden-road-gingerbread-stout.md
-title: Golden road gingerbread stout
+filename: "_posts/beer/2016-11-09-golden-road-gingerbread-stout.md"
+title: "Golden road gingerbread stout"
 category: beer
 score: 6.5
 beer-date: "2017-01-21"

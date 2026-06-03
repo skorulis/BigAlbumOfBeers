@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bodriggy-utopia.md
-title: Bodriggy utopia
+filename: "_posts/beer/2016-11-09-bodriggy-utopia.md"
+title: "Bodriggy utopia"
 category: beer
 score: 7
 beer-date: "2020-07-31"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ocean-reach-oatmeal-stout.md
-title: Ocean reach oatmeal stout
+filename: "_posts/beer/2016-11-09-ocean-reach-oatmeal-stout.md"
+title: "Ocean reach oatmeal stout"
 category: beer
 score: 8.5
 beer-date: "2020-07-31"
@@ -11,6 +11,6 @@ img: /img/list/ocean-reach-oatmeal-stout.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--oatmeal-stout/3319891"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "/brewery/ocean-reach-brewing-.html"
+breweryURL: "/brewery/ocean-reach-brewing.html"
 style: "Stout - Oatmeal"
 ---

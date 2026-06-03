@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coopers-lager.md
-title: Coopers Lager
+filename: "_posts/beer/2016-11-09-coopers-lager.md"
+title: "Coopers Lager"
 category: beer
 score: 5
 beer-date: "2013-03-09"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moo-brew-ipa.md
-title: Moo brew IPA
+filename: "_posts/beer/2016-11-09-moo-brew-ipa.md"
+title: "Moo brew IPA"
 category: beer
 score: 7.5
 beer-date: "2019-04-22"

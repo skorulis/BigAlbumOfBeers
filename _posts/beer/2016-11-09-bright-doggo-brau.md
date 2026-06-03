@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bright-doggo-brau.md
-title: Bright doggo brau
+filename: "_posts/beer/2016-11-09-bright-doggo-brau.md"
+title: "Bright doggo brau"
 category: beer
 score: 7.5
 beer-date: "2023-02-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-torch-and-crown-cheat-code.md
-title: Torch and crown cheat code
+filename: "_posts/beer/2016-11-09-torch-and-crown-cheat-code.md"
+title: "Torch and crown cheat code"
 category: beer
 score: 7.5
 beer-date: "2024-06-15"

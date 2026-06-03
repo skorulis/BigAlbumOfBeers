@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-maxlrainer.md
-title: Maxlrainer
+filename: "_posts/beer/2016-11-09-maxlrainer.md"
+title: "Maxlrainer"
 category: beer
 score: 7
 beer-date: "2013-10-25"

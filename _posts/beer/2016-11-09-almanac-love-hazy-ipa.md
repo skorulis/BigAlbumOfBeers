@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-almanac-love-hazy-ipa.md
-title: Almanac love hazy IPA
+filename: "_posts/beer/2016-11-09-almanac-love-hazy-ipa.md"
+title: "Almanac love hazy IPA"
 category: beer
 score: 8
 beer-date: "2024-11-09"

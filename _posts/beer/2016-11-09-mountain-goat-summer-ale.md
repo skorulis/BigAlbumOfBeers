@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-summer-ale.md
-title: Mountain goat summer ale
+filename: "_posts/beer/2016-11-09-mountain-goat-summer-ale.md"
+title: "Mountain goat summer ale"
 category: beer
 score: 7
 beer-date: "2015-01-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-summer-hop-ale.md
-title: Young Henry’s summer hop ale
+filename: "_posts/beer/2016-11-09-young-henry-s-summer-hop-ale.md"
+title: "Young Henry’s summer hop ale"
 category: beer
 score: 7
 beer-date: "2018-10-05"

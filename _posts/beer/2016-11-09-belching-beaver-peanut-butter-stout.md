@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-belching-beaver-peanut-butter-stout.md
-title: Belching beaver peanut butter stout
+filename: "_posts/beer/2016-11-09-belching-beaver-peanut-butter-stout.md"
+title: "Belching beaver peanut butter stout"
 category: beer
 score: 8
 beer-date: "2017-02-11"

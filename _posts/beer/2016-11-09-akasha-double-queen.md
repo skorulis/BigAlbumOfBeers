@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-double-queen.md
-title: Akasha double queen
+filename: "_posts/beer/2016-11-09-akasha-double-queen.md"
+title: "Akasha double queen"
 category: beer
 score: 9
 beer-date: "2020-11-13"
@@ -11,6 +11,6 @@ img: /img/list/akasha-double-queen.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-double-queen-red-ipa/3995638"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - Red"
 ---

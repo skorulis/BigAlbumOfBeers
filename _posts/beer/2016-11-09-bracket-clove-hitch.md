@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-clove-hitch.md
-title: Bracket Clove Hitch
+filename: "_posts/beer/2016-11-09-bracket-clove-hitch.md"
+title: "Bracket Clove Hitch"
 category: beer
 score: 6.5
 beer-date: "2025-09-26"

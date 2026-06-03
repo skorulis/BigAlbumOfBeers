@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-king-light-ale.md
-title: Green king light ale
+filename: "_posts/beer/2016-11-09-green-king-light-ale.md"
+title: "Green king light ale"
 category: beer
 score: 3
 beer-date: "2013-04-27"

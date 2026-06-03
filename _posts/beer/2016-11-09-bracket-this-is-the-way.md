@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-this-is-the-way.md
-title: Bracket this is the way
+filename: "_posts/beer/2016-11-09-bracket-this-is-the-way.md"
+title: "Bracket this is the way"
 category: beer
 score: 7.5
 beer-date: "2023-08-26"

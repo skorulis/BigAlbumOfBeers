@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-huerlimann-lager.md
-title: Hürlimann lager
+filename: "_posts/beer/2016-11-09-huerlimann-lager.md"
+title: "Hürlimann lager"
 category: beer
 score: 7
 beer-date: "2012-10-13"

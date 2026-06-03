@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-hoppy-amber.md
-title: Pirate life hoppy amber
+filename: "_posts/beer/2016-11-09-pirate-life-hoppy-amber.md"
+title: "Pirate life hoppy amber"
 category: beer
 score: 7
 beer-date: "2019-11-22"

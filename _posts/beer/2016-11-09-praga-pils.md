@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-praga-pils.md
-title: Praga pils
+filename: "_posts/beer/2016-11-09-praga-pils.md"
+title: "Praga pils"
 category: beer
 score: 4
 beer-date: "2018-06-02"

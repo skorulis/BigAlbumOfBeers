@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bonehead-innuendo.md
-title: Bonehead innuendo
+filename: "_posts/beer/2016-11-09-bonehead-innuendo.md"
+title: "Bonehead innuendo"
 category: beer
 score: 6
 beer-date: "2024-03-29"

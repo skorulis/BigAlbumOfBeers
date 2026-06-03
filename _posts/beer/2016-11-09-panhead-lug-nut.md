@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-panhead-lug-nut.md
-title: Panhead lug nut
+filename: "_posts/beer/2016-11-09-panhead-lug-nut.md"
+title: "Panhead lug nut"
 category: beer
 score: 6
 beer-date: "2021-06-05"

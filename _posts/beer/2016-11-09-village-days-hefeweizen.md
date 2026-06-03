@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-village-days-hefeweizen.md
-title: Village days Hefeweizen
+filename: "_posts/beer/2016-11-09-village-days-hefeweizen.md"
+title: "Village days Hefeweizen"
 category: beer
 score: 7.5
 beer-date: "2024-03-29"

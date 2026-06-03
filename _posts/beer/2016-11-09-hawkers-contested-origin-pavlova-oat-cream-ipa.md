@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-contested-origin-pavlova-oat-cream-ipa.md
-title: Hawkers Contested Origin Pavlova Oat Cream IPA
+filename: "_posts/beer/2016-11-09-hawkers-contested-origin-pavlova-oat-cream-ipa.md"
+title: "Hawkers Contested Origin Pavlova Oat Cream IPA"
 category: beer
 score: 8.5
 beer-date: "2025-12-28"

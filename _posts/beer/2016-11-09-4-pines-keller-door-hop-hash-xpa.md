@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-keller-door-hop-hash-xpa.md
-title: 4 pines Keller door hop hash XPA
+filename: "_posts/beer/2016-11-09-4-pines-keller-door-hop-hash-xpa.md"
+title: "4 pines Keller door hop hash XPA"
 category: beer
 score: 8
 beer-date: "2017-03-22"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-volfas-engleman.md
-title: Volfas engleman
+filename: "_posts/beer/2016-11-09-volfas-engleman.md"
+title: "Volfas engleman"
 category: beer
 score: 5
 beer-date: "2013-09-01"

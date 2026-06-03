@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coopers-mild-ale.md
-title: Coopers mild ale
+filename: "_posts/beer/2016-11-09-coopers-mild-ale.md"
+title: "Coopers mild ale"
 category: beer
 score: 6
 beer-date: "2019-11-22"

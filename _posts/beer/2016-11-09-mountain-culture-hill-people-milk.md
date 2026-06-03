@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-hill-people-milk.md
-title: Mountain culture hill people milk
+filename: "_posts/beer/2016-11-09-mountain-culture-hill-people-milk.md"
+title: "Mountain culture hill people milk"
 category: beer
 score: 9
 beer-date: "2022-08-07"

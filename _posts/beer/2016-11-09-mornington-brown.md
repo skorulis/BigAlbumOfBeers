@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mornington-brown.md
-title: Mornington brown
+filename: "_posts/beer/2016-11-09-mornington-brown.md"
+title: "Mornington brown"
 category: beer
 score: 7
 beer-date: "2016-02-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-coffee-milk-stout.md
-title: Stone coffee milk stout
+filename: "_posts/beer/2016-11-09-stone-coffee-milk-stout.md"
+title: "Stone coffee milk stout"
 category: beer
 score: 8
 beer-date: "2016-05-24"

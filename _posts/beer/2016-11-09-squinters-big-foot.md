@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-squinters-big-foot.md
-title: Squinters Big Foot
+filename: "_posts/beer/2016-11-09-squinters-big-foot.md"
+title: "Squinters Big Foot"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

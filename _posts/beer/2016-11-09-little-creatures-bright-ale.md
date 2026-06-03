@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-creatures-bright-ale.md
-title: Little creatures bright ale
+filename: "_posts/beer/2016-11-09-little-creatures-bright-ale.md"
+title: "Little creatures bright ale"
 category: beer
 score: 6
 beer-date: "2013-03-28"

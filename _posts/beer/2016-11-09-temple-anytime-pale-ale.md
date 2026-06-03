@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-temple-anytime-pale-ale.md
-title: Temple anytime pale ale
+filename: "_posts/beer/2016-11-09-temple-anytime-pale-ale.md"
+title: "Temple anytime pale ale"
 category: beer
 score: 6.5
 beer-date: "2021-11-12"

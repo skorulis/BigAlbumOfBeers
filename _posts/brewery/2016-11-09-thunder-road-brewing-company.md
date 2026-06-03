@@ -4,7 +4,7 @@ filename: "_posts/brewery/2016-11-09-thunder-road-brewing-company.md"
 title: "Thunder Road Brewing Company"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/thunder-road-brewing-company/11712"
-instagram: 'thunderroadbrewing'
-twitter: 'thunderroadbrew'
-facebook: 'https://www.facebook.com/thunderroadbrewing'
+instagram: "thunderroadbrewing"
+twitter: "thunderroadbrew"
+facebook: "https://www.facebook.com/thunderroadbrewing"
 ---

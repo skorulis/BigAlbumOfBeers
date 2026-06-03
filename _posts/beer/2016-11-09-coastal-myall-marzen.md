@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coastal-myall-marzen.md
-title: Coastal myall marzen
+filename: "_posts/beer/2016-11-09-coastal-myall-marzen.md"
+title: "Coastal myall marzen"
 category: beer
 score: 7.5
 beer-date: "2021-04-02"

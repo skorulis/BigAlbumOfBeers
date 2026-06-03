@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-little-bling.md
-title: Bridge road little bling
+filename: "_posts/beer/2016-11-09-bridge-road-little-bling.md"
+title: "Bridge road little bling"
 category: beer
 score: 6
 beer-date: "2016-02-14"

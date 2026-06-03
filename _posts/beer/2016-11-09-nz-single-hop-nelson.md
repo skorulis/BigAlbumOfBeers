@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nz-single-hop-nelson.md
-title: NZ single hop nelson
+filename: "_posts/beer/2016-11-09-nz-single-hop-nelson.md"
+title: "NZ single hop nelson"
 category: beer
 score: 8
 beer-date: "2015-04-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-cashmere-cat.md
-title: Wayward cashmere cat
+filename: "_posts/beer/2016-11-09-wayward-cashmere-cat.md"
+title: "Wayward cashmere cat"
 category: beer
 score: 9
 beer-date: "2020-09-26"

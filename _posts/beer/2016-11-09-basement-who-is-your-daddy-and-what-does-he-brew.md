@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-basement-who-is-your-daddy-and-what-does-he-brew.md
-title: Basement Who is your daddy and what does he brew
+filename: "_posts/beer/2016-11-09-basement-who-is-your-daddy-and-what-does-he-brew.md"
+title: "Basement Who is your daddy and what does he brew"
 category: beer
 score: 9
 beer-date: "2020-12-25"

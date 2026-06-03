@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sunday-road-cryotherapy.md
-title: Sunday road cryotherapy
+filename: "_posts/beer/2016-11-09-sunday-road-cryotherapy.md"
+title: "Sunday road cryotherapy"
 category: beer
 score: 9
 beer-date: "2021-06-05"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-quiet-deeds-juice-train.md
-title: Quiet deeds juice train
+filename: "_posts/beer/2016-11-09-quiet-deeds-juice-train.md"
+title: "Quiet deeds juice train"
 category: beer
 score: 8
 beer-date: "2020-01-16"

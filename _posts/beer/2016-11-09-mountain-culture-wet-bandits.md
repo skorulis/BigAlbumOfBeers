@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-wet-bandits.md
-title: Mountain culture wet bandits
+filename: "_posts/beer/2016-11-09-mountain-culture-wet-bandits.md"
+title: "Mountain culture wet bandits"
 category: beer
 score: 9
 beer-date: "2021-12-28"

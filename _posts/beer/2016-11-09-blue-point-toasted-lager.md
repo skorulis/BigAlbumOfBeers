@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blue-point-toasted-lager.md
-title: Blue point toasted lager
+filename: "_posts/beer/2016-11-09-blue-point-toasted-lager.md"
+title: "Blue point toasted lager"
 category: beer
 score: 7.5
 beer-date: "2017-06-02"

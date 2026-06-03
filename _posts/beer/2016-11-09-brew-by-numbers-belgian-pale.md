@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brew-by-numbers-belgian-pale.md
-title: Brew by numbers Belgian pale
+filename: "_posts/beer/2016-11-09-brew-by-numbers-belgian-pale.md"
+title: "Brew by numbers Belgian pale"
 category: beer
 score: 7
 beer-date: "2017-03-03"

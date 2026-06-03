@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-evil-twin-falco.md
-title: Evil twin Falco
+filename: "_posts/beer/2016-11-09-evil-twin-falco.md"
+title: "Evil twin Falco"
 category: beer
 score: 7
 beer-date: "2016-04-21"

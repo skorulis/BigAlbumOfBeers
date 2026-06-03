@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-rabbit-pale-ale.md
-title: White Rabbit Pale Ale
+filename: "_posts/beer/2016-11-09-white-rabbit-pale-ale.md"
+title: "White Rabbit Pale Ale"
 category: beer
 score: 7
 beer-date: "2015-02-27"

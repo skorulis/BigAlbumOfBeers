@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-deal-with-it.md
-title: Bracket deal with it
+filename: "_posts/beer/2016-11-09-bracket-deal-with-it.md"
+title: "Bracket deal with it"
 category: beer
 score: 7.5
 beer-date: "2023-02-28"

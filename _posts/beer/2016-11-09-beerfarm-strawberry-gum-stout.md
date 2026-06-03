@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerfarm-strawberry-gum-stout.md
-title: Beerfarm strawberry gum stout
+filename: "_posts/beer/2016-11-09-beerfarm-strawberry-gum-stout.md"
+title: "Beerfarm strawberry gum stout"
 category: beer
 score: 8.5
 beer-date: "2020-09-26"

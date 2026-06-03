@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-gipsy-hill-metro.md
-title: Gipsy hill metro
+filename: "_posts/beer/2016-11-09-gipsy-hill-metro.md"
+title: "Gipsy hill metro"
 category: beer
 score: 8
 beer-date: "2020-07-31"

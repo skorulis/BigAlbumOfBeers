@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-oakham-citra.md
-title: Oakham citra
+filename: "_posts/beer/2016-11-09-oakham-citra.md"
+title: "Oakham citra"
 category: beer
 score: 6
 beer-date: "2013-09-19"

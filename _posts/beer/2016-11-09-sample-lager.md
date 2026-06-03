@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sample-lager.md
-title: Sample lager
+filename: "_posts/beer/2016-11-09-sample-lager.md"
+title: "Sample lager"
 category: beer
 score: 6
 beer-date: "2017-10-28"

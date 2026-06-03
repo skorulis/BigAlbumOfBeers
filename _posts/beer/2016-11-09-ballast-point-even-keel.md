@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballast-point-even-keel.md
-title: Ballast point even keel
+filename: "_posts/beer/2016-11-09-ballast-point-even-keel.md"
+title: "Ballast point even keel"
 category: beer
 score: 6.5
 beer-date: "2017-03-22"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fixation-ipa.md
-title: Fixation IPA
+filename: "_posts/beer/2016-11-09-fixation-ipa.md"
+title: "Fixation IPA"
 category: beer
 score: 8
 beer-date: "2017-01-21"

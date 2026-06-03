@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hardknot-queboid.md
-title: Hardknot Queboid
+filename: "_posts/beer/2016-11-09-hardknot-queboid.md"
+title: "Hardknot Queboid"
 category: beer
 score: 7
 beer-date: "2013-12-23"

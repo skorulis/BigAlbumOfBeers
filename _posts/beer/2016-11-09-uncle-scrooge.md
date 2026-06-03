@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-uncle-scrooge.md
-title: Uncle Scrooge
+filename: "_posts/beer/2016-11-09-uncle-scrooge.md"
+title: "Uncle Scrooge"
 category: beer
 score: 8
 beer-date: "2014-03-01"

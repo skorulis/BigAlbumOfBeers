@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ru-s-brew-lager.md
-title: Ru’s Brew Lager
+filename: "_posts/beer/2016-11-09-ru-s-brew-lager.md"
+title: "Ru’s Brew Lager"
 category: beer
 score: 5
 beer-date: "2025-09-26"

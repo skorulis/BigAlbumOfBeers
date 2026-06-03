@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sydney-potts-point-porter.md
-title: Sydney Potts point porter
+filename: "_posts/beer/2016-11-09-sydney-potts-point-porter.md"
+title: "Sydney Potts point porter"
 category: beer
 score: 7.5
 beer-date: "2021-01-14"

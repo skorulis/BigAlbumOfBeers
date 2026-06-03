@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sarajevsko.md
-title: Sarajevsko
+filename: "_posts/beer/2016-11-09-sarajevsko.md"
+title: "Sarajevsko"
 category: beer
 score: 4.5
 beer-date: "2018-10-05"

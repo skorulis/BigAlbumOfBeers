@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-carlton-dry.md
-title: Carlton dry
+filename: "_posts/beer/2016-11-09-carlton-dry.md"
+title: "Carlton dry"
 category: beer
 score: 6
 beer-date: "2013-03-28"

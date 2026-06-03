@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-duncan-s-grapefruit-pale-ale.md
-title: Duncan’s Grapefruit Pale ale
+filename: "_posts/beer/2016-11-09-duncan-s-grapefruit-pale-ale.md"
+title: "Duncan’s Grapefruit Pale ale"
 category: beer
 score: 7
 beer-date: "2025-12-28"

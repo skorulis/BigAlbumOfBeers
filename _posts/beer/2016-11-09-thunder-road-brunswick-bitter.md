@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-thunder-road-brunswick-bitter.md
-title: Thunder road Brunswick bitter
+filename: "_posts/beer/2016-11-09-thunder-road-brunswick-bitter.md"
+title: "Thunder road Brunswick bitter"
 category: beer
 score: 5
 beer-date: "2024-03-29"

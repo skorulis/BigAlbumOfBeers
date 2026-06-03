@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bentspoke-red-nut.md
-title: Bentspoke red nut
+filename: "_posts/beer/2016-11-09-bentspoke-red-nut.md"
+title: "Bentspoke red nut"
 category: beer
 score: 9
 beer-date: "2018-12-27"

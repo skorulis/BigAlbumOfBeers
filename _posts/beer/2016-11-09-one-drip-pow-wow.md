@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drip-pow-wow.md
-title: One Drip Pow Wow
+filename: "_posts/beer/2016-11-09-one-drip-pow-wow.md"
+title: "One Drip Pow Wow"
 category: beer
 score: 6
 beer-date: "2025-12-28"

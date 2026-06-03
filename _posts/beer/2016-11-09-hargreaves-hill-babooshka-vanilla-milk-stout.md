@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hargreaves-hill-babooshka-vanilla-milk-stout.md
-title: Hargreaves hill Babooshka vanilla milk stout
+filename: "_posts/beer/2016-11-09-hargreaves-hill-babooshka-vanilla-milk-stout.md"
+title: "Hargreaves hill Babooshka vanilla milk stout"
 category: beer
 score: 7.5
 beer-date: "2021-12-28"
@@ -11,6 +11,6 @@ img: /img/list/hargreaves-hill-babooshka-vanilla-milk-stout.jpeg
 untappd: "https://untappd.com/b/hargreaves-hill-babooshka-vanilla-milk-stout/2684922"
 country: "Australia"
 brewery: "Hargreaves Hill Brewing Company Pty. Ltd."
-breweryURL: "/brewery/hargreaves-hill-brewing-company-pty--ltd.html"
+breweryURL: "/brewery/hargreaves-hill-brewing-company-pty-ltd.html"
 style: "Stout - Milk / Sweet"
 ---

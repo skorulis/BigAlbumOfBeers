@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-bear-hunt.md
-title: Mountain culture bear hunt
+filename: "_posts/beer/2016-11-09-mountain-culture-bear-hunt.md"
+title: "Mountain culture bear hunt"
 category: beer
 score: 10
 beer-date: "2023-08-26"

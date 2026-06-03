@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-crafty-dan-13-guns.md
-title: Crafty dan 13 guns
+filename: "_posts/beer/2016-11-09-crafty-dan-13-guns.md"
+title: "Crafty dan 13 guns"
 category: beer
 score: 7
 beer-date: "2017-05-27"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-lorien.md
-title: Mountain Culture Lórien
+filename: "_posts/beer/2016-11-09-mountain-culture-lorien.md"
+title: "Mountain Culture Lórien"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

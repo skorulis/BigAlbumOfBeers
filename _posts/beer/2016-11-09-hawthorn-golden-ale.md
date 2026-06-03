@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawthorn-golden-ale.md
-title: Hawthorn golden ale
+filename: "_posts/beer/2016-11-09-hawthorn-golden-ale.md"
+title: "Hawthorn golden ale"
 category: beer
 score: 6
 beer-date: "2015-05-01"

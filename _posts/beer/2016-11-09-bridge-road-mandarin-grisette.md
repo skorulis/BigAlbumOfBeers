@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-mandarin-grisette.md
-title: Bridge road mandarin grisette
+filename: "_posts/beer/2016-11-09-bridge-road-mandarin-grisette.md"
+title: "Bridge road mandarin grisette"
 category: beer
 score: 4
 beer-date: "2021-11-12"

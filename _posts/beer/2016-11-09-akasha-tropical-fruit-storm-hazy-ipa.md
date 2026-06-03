@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-tropical-fruit-storm-hazy-ipa.md
-title: Akasha tropical fruit storm hazy ipa
+filename: "_posts/beer/2016-11-09-akasha-tropical-fruit-storm-hazy-ipa.md"
+title: "Akasha tropical fruit storm hazy ipa"
 category: beer
 score: 9
 beer-date: "2020-09-26"
@@ -11,6 +11,6 @@ img: /img/list/akasha-tropical-fruit-storm-hazy-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-tropical-fruit-storm-hazy-ipa/3904447"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - New England"
 ---

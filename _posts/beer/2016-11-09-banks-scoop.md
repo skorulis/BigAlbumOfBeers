@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-scoop.md
-title: Banks scoop
+filename: "_posts/beer/2016-11-09-banks-scoop.md"
+title: "Banks scoop"
 category: beer
 score: 8
 beer-date: "2023-02-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ueberquell-supadupa-ipa.md
-title: ÜberQuell supadupa IPA
+filename: "_posts/beer/2016-11-09-ueberquell-supadupa-ipa.md"
+title: "ÜberQuell supadupa IPA"
 category: beer
 score: 8
 beer-date: "2023-10-02"

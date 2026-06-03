@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-castle-lager.md
-title: Castle lager
+filename: "_posts/beer/2016-11-09-castle-lager.md"
+title: "Castle lager"
 category: beer
 score: 5
 beer-date: "2017-03-22"

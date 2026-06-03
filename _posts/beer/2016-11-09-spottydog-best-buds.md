@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-spottydog-best-buds.md
-title: Spottydog best buds
+filename: "_posts/beer/2016-11-09-spottydog-best-buds.md"
+title: "Spottydog best buds"
 category: beer
 score: 7
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-pilsner.md
-title: Hawkers Pilsner
+filename: "_posts/beer/2016-11-09-hawkers-pilsner.md"
+title: "Hawkers Pilsner"
 category: beer
 score: 7
 beer-date: "2024-11-09"

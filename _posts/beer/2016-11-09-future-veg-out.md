@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-future-veg-out.md
-title: Future veg out
+filename: "_posts/beer/2016-11-09-future-veg-out.md"
+title: "Future veg out"
 category: beer
 score: 7
 beer-date: "2024-11-09"

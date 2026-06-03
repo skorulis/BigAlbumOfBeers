@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wojak-mocny.md
-title: Wojak mocny
+filename: "_posts/beer/2016-11-09-wojak-mocny.md"
+title: "Wojak mocny"
 category: beer
 score: 6
 beer-date: "2013-04-27"

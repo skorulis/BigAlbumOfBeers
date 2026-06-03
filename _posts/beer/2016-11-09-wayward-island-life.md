@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-island-life.md
-title: Wayward island life
+filename: "_posts/beer/2016-11-09-wayward-island-life.md"
+title: "Wayward island life"
 category: beer
 score: 6
 beer-date: "2021-11-12"

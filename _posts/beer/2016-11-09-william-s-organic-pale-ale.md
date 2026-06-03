@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-william-s-organic-pale-ale.md
-title: William’s organic pale ale
+filename: "_posts/beer/2016-11-09-william-s-organic-pale-ale.md"
+title: "William’s organic pale ale"
 category: beer
 score: 7
 beer-date: "2015-07-10"

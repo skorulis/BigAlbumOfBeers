@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slow-lane-foundation.md
-title: Slow lane foundation
+filename: "_posts/beer/2016-11-09-slow-lane-foundation.md"
+title: "Slow lane foundation"
 category: beer
 score: 8
 beer-date: "2020-09-26"

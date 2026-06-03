@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bling-bling-imperial-ipa.md
-title: Bling Bling Imperial IPA
+filename: "_posts/beer/2016-11-09-bling-bling-imperial-ipa.md"
+title: "Bling Bling Imperial IPA"
 category: beer
 score: 7
 beer-date: "2015-01-29"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-redoak-organic-pale-ale.md
-title: Redoak organic pale ale
+filename: "_posts/beer/2016-11-09-redoak-organic-pale-ale.md"
+title: "Redoak organic pale ale"
 category: beer
 score: 8
 beer-date: "2015-01-28"

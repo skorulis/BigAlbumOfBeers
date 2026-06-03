@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-no-rush.md
-title: Bracket no rush
+filename: "_posts/beer/2016-11-09-bracket-no-rush.md"
+title: "Bracket no rush"
 category: beer
 score: 7.5
 beer-date: "2023-03-31"

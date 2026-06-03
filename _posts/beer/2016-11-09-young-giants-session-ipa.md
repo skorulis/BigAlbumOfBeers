@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-giants-session-ipa.md
-title: Young Giants Session IPA
+filename: "_posts/beer/2016-11-09-young-giants-session-ipa.md"
+title: "Young Giants Session IPA"
 category: beer
 score: 5
 beer-date: "2025-12-28"

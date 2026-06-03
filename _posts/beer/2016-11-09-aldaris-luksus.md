@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-aldaris-luksus.md
-title: Aldaris Luksus
+filename: "_posts/beer/2016-11-09-aldaris-luksus.md"
+title: "Aldaris Luksus"
 category: beer
 score: 6
 beer-date: "2013-12-23"

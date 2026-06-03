@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rivet-lager.md
-title: Rivet lager
+filename: "_posts/beer/2016-11-09-rivet-lager.md"
+title: "Rivet lager"
 category: beer
 score: 5
 beer-date: "2014-03-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cascade-draught.md
-title: Cascade draught
+filename: "_posts/beer/2016-11-09-cascade-draught.md"
+title: "Cascade draught"
 category: beer
 score: 5.5
 beer-date: "2019-04-22"

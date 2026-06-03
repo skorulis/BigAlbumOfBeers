@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-future-brewing-juice-me-up.md
-title: Future brewing juice me up
+filename: "_posts/beer/2016-11-09-future-brewing-juice-me-up.md"
+title: "Future brewing juice me up"
 category: beer
 score: 8.5
 beer-date: "2024-11-09"

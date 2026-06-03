@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-masters-finest.md
-title: Masters Finest
+filename: "_posts/beer/2016-11-09-masters-finest.md"
+title: "Masters Finest"
 category: beer
 score: 4
 beer-date: "2016-03-16"

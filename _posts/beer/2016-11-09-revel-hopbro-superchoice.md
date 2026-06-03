@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-revel-hopbro-superchoice.md
-title: Revel hopbro superchoice
+filename: "_posts/beer/2016-11-09-revel-hopbro-superchoice.md"
+title: "Revel hopbro superchoice"
 category: beer
 score: 6
 beer-date: "2021-11-12"

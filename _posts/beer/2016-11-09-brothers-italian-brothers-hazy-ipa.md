@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brothers-italian-brothers-hazy-ipa.md
-title: Brothers Italian brothers hazy IPA
+filename: "_posts/beer/2016-11-09-brothers-italian-brothers-hazy-ipa.md"
+title: "Brothers Italian brothers hazy IPA"
 category: beer
 score: 7
 beer-date: "2024-11-09"

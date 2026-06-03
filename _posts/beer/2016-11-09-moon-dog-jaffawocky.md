@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moon-dog-jaffawocky.md
-title: Moon dog jaffawocky
+filename: "_posts/beer/2016-11-09-moon-dog-jaffawocky.md"
+title: "Moon dog jaffawocky"
 category: beer
 score: 8
 beer-date: "2018-06-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-newtowner.md
-title: Young Henry's newtowner
+filename: "_posts/beer/2016-11-09-young-henry-s-newtowner.md"
+title: "Young Henry's newtowner"
 category: beer
 score: 6
 beer-date: "2016-01-06"

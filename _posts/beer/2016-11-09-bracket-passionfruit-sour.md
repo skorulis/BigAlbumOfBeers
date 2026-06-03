@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-passionfruit-sour.md
-title: Bracket passionfruit sour
+filename: "_posts/beer/2016-11-09-bracket-passionfruit-sour.md"
+title: "Bracket passionfruit sour"
 category: beer
 score: 8.5
 beer-date: "2020-11-13"

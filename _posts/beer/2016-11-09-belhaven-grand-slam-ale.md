@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-belhaven-grand-slam-ale.md
-title: Belhaven grand slam ale
+filename: "_posts/beer/2016-11-09-belhaven-grand-slam-ale.md"
+title: "Belhaven grand slam ale"
 category: beer
 score: 4
 beer-date: "2013-04-27"

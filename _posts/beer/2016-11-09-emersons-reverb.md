@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-emersons-reverb.md
-title: Emersons reverb
+filename: "_posts/beer/2016-11-09-emersons-reverb.md"
+title: "Emersons reverb"
 category: beer
 score: 7
 beer-date: "2024-11-09"

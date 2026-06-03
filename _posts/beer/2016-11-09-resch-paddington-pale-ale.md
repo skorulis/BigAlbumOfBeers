@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-resch-paddington-pale-ale.md
-title: Resch Paddington pale ale
+filename: "_posts/beer/2016-11-09-resch-paddington-pale-ale.md"
+title: "Resch Paddington pale ale"
 category: beer
 score: 6.5
 beer-date: "2024-11-23"

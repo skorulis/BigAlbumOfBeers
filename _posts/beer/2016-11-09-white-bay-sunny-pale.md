@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-sunny-pale.md
-title: White bay sunny pale
+filename: "_posts/beer/2016-11-09-white-bay-sunny-pale.md"
+title: "White bay sunny pale"
 category: beer
 score: 6
 beer-date: "2020-09-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-purple-patch.md
-title: One drop purple patch
+filename: "_posts/beer/2016-11-09-one-drop-purple-patch.md"
+title: "One drop purple patch"
 category: beer
 score: 8
 beer-date: "2022-08-07"

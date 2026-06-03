@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fixation-little-ray.md
-title: Fixation little ray
+filename: "_posts/beer/2016-11-09-fixation-little-ray.md"
+title: "Fixation little ray"
 category: beer
 score: 8
 beer-date: "2020-01-16"

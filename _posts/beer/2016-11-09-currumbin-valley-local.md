@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-currumbin-valley-local.md
-title: Currumbin valley local
+filename: "_posts/beer/2016-11-09-currumbin-valley-local.md"
+title: "Currumbin valley local"
 category: beer
 score: 6.5
 beer-date: "2021-12-28"

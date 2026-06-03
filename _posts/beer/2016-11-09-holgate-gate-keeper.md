@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-holgate-gate-keeper.md
-title: Holgate gate keeper
+filename: "_posts/beer/2016-11-09-holgate-gate-keeper.md"
+title: "Holgate gate keeper"
 category: beer
 score: 5.5
 beer-date: "2018-12-27"

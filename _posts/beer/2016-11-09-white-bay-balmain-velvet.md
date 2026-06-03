@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-balmain-velvet.md
-title: White bay Balmain velvet
+filename: "_posts/beer/2016-11-09-white-bay-balmain-velvet.md"
+title: "White bay Balmain velvet"
 category: beer
 score: 6.5
 beer-date: "2023-02-26"

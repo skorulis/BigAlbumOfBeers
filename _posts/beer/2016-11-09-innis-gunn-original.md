@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-innis-gunn-original.md
-title: Innis & Gunn original
+filename: "_posts/beer/2016-11-09-innis-gunn-original.md"
+title: "Innis & Gunn original"
 category: beer
 score: 6
 beer-date: "2015-05-01"

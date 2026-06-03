@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-hopco-nz-pale-ale.md
-title: Pirate life Hopco NZ pale ale
+filename: "_posts/beer/2016-11-09-pirate-life-hopco-nz-pale-ale.md"
+title: "Pirate life Hopco NZ pale ale"
 category: beer
 score: 6
 beer-date: "2016-05-24"

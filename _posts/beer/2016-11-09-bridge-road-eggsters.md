@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-eggsters.md
-title: Bridge road eggsters
+filename: "_posts/beer/2016-11-09-bridge-road-eggsters.md"
+title: "Bridge road eggsters"
 category: beer
 score: 8
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-strings-shreddin-ipa.md
-title: Six strings shreddin IPA
+filename: "_posts/beer/2016-11-09-six-strings-shreddin-ipa.md"
+title: "Six strings shreddin IPA"
 category: beer
 score: 7
 beer-date: "2022-08-07"

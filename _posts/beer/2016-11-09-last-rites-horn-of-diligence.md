@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-last-rites-horn-of-diligence.md
-title: Last rites Horn of diligence
+filename: "_posts/beer/2016-11-09-last-rites-horn-of-diligence.md"
+title: "Last rites Horn of diligence"
 category: beer
 score: 6
 beer-date: "2019-04-22"

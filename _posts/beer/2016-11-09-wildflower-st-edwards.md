@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wildflower-st-edwards.md
-title: Wildflower St Edwards
+filename: "_posts/beer/2016-11-09-wildflower-st-edwards.md"
+title: "Wildflower St Edwards"
 category: beer
 score: 5.5
 beer-date: "2026-03-27"

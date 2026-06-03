@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mismatch-triple-crush.md
-title: Mismatch Triple Crush
+filename: "_posts/beer/2016-11-09-mismatch-triple-crush.md"
+title: "Mismatch Triple Crush"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

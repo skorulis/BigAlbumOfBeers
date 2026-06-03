@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-jet-lag-ipa.md
-title: Nomad jet lag IPA
+filename: "_posts/beer/2016-11-09-nomad-jet-lag-ipa.md"
+title: "Nomad jet lag IPA"
 category: beer
 score: 7
 beer-date: "2017-10-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dainton-matchstyx.md
-title: Dainton Matchstyx
+filename: "_posts/beer/2016-11-09-dainton-matchstyx.md"
+title: "Dainton Matchstyx"
 category: beer
 score: .
 beer-date: "2019-06-22"

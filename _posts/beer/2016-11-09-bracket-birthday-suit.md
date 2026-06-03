@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-birthday-suit.md
-title: Bracket birthday suit
+filename: "_posts/beer/2016-11-09-bracket-birthday-suit.md"
+title: "Bracket birthday suit"
 category: beer
 score: 9
 beer-date: "2021-11-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bath-ales-barnsey.md
-title: Bath ales barnsey
+filename: "_posts/beer/2016-11-09-bath-ales-barnsey.md"
+title: "Bath ales barnsey"
 category: beer
 score: 5
 beer-date: "2013-05-25"

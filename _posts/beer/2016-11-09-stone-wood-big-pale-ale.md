@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-wood-big-pale-ale.md
-title: Stone & Wood Big Pale Ale
+filename: "_posts/beer/2016-11-09-stone-wood-big-pale-ale.md"
+title: "Stone & Wood Big Pale Ale"
 category: beer
 score: 0
 beer-date: "2026-03-27"

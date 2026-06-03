@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-queen-of-the-damned.md
-title: Akasha queen of the damned
+filename: "_posts/beer/2016-11-09-akasha-queen-of-the-damned.md"
+title: "Akasha queen of the damned"
 category: beer
 score: 8
 beer-date: "2020-07-31"
@@ -11,6 +11,6 @@ img: /img/list/akasha-queen-of-the-damned.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-queen-of-the-damned-red-ipa/3215573"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - Red"
 ---

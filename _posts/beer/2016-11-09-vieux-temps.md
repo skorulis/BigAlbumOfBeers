@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-vieux-temps.md
-title: Vieux temps
+filename: "_posts/beer/2016-11-09-vieux-temps.md"
+title: "Vieux temps"
 category: beer
 score: 8
 beer-date: "2017-06-15"

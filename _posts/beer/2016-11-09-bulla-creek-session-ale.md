@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bulla-creek-session-ale.md
-title: Bulla creek session ale
+filename: "_posts/beer/2016-11-09-bulla-creek-session-ale.md"
+title: "Bulla creek session ale"
 category: beer
 score: 5
 beer-date: "2024-03-29"

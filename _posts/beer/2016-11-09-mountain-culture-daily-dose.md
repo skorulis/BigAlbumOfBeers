@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-daily-dose.md
-title: Mountain culture daily dose
+filename: "_posts/beer/2016-11-09-mountain-culture-daily-dose.md"
+title: "Mountain culture daily dose"
 category: beer
 score: 7
 beer-date: "2022-08-07"

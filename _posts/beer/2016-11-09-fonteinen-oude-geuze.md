@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fonteinen-oude-geuze.md
-title: Fonteinen oude geuze
+filename: "_posts/beer/2016-11-09-fonteinen-oude-geuze.md"
+title: "Fonteinen oude geuze"
 category: beer
 score: 4
 beer-date: "2013-10-25"

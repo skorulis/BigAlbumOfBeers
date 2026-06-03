@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rocks-the-dank.md
-title: Rocks the dank
+filename: "_posts/beer/2016-11-09-rocks-the-dank.md"
+title: "Rocks the dank"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

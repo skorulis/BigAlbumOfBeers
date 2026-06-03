@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slipstream-big-billy.md
-title: Slipstream big billy
+filename: "_posts/beer/2016-11-09-slipstream-big-billy.md"
+title: "Slipstream big billy"
 category: beer
 score: 8
 beer-date: "2020-12-25"

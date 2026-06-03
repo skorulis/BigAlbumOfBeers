@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-cinnamon-brown-ale.md
-title: James squire cinnamon brown ale
+filename: "_posts/beer/2016-11-09-james-squire-cinnamon-brown-ale.md"
+title: "James squire cinnamon brown ale"
 category: beer
 score: 8.5
 beer-date: "2022-09-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-big-shed-golden-stout-time.md
-title: Big shed golden stout time
+filename: "_posts/beer/2016-11-09-big-shed-golden-stout-time.md"
+title: "Big shed golden stout time"
 category: beer
 score: 7.5
 beer-date: "2017-04-11"

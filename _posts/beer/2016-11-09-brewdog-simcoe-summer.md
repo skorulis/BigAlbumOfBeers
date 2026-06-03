@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewdog-simcoe-summer.md
-title: Brewdog Simcoe Summer
+filename: "_posts/beer/2016-11-09-brewdog-simcoe-summer.md"
+title: "Brewdog Simcoe Summer"
 category: beer
 score: 5.5
 beer-date: "2026-03-27"

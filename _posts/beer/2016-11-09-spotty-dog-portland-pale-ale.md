@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-spotty-dog-portland-pale-ale.md
-title: Spotty dog Portland pale ale
+filename: "_posts/beer/2016-11-09-spotty-dog-portland-pale-ale.md"
+title: "Spotty dog Portland pale ale"
 category: beer
 score: 6.5
 beer-date: "2019-06-22"

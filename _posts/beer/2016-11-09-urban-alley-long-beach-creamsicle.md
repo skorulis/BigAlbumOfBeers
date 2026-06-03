@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-urban-alley-long-beach-creamsicle.md
-title: Urban alley long beach creamsicle
+filename: "_posts/beer/2016-11-09-urban-alley-long-beach-creamsicle.md"
+title: "Urban alley long beach creamsicle"
 category: beer
 score: 7.5
 beer-date: "2021-11-12"

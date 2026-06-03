@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kicks-uncle-keith-s.md
-title: Kicks Uncle Keith’s
+filename: "_posts/beer/2016-11-09-kicks-uncle-keith-s.md"
+title: "Kicks Uncle Keith’s"
 category: beer
 score: 6.5
 beer-date: "2025-12-28"

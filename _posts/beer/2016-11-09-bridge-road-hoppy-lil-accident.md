@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-hoppy-lil-accident.md
-title: Bridge Road Hoppy lil Accident
+filename: "_posts/beer/2016-11-09-bridge-road-hoppy-lil-accident.md"
+title: "Bridge Road Hoppy lil Accident"
 category: beer
 score: 7
 beer-date: "2025-12-28"

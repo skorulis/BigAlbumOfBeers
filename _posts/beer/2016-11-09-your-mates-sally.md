@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-your-mates-sally.md
-title: Your mates sally
+filename: "_posts/beer/2016-11-09-your-mates-sally.md"
+title: "Your mates sally"
 category: beer
 score: 6.5
 beer-date: "2021-11-12"

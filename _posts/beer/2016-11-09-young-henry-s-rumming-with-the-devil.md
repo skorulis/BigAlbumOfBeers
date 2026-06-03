@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-rumming-with-the-devil.md
-title: Young Henry’s rumming with the devil
+filename: "_posts/beer/2016-11-09-young-henry-s-rumming-with-the-devil.md"
+title: "Young Henry’s rumming with the devil"
 category: beer
 score: 8
 beer-date: "2019-11-22"

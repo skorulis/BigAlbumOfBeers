@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-steam-whistle-pilsner.md
-title: Steam whistle pilsner
+filename: "_posts/beer/2016-11-09-steam-whistle-pilsner.md"
+title: "Steam whistle pilsner"
 category: beer
 score: 7
 beer-date: "2016-09-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-dddh-cryo-neipa.md
-title: Pirate life dddh cryo NEIPA
+filename: "_posts/beer/2016-11-09-pirate-life-dddh-cryo-neipa.md"
+title: "Pirate life dddh cryo NEIPA"
 category: beer
 score: 8
 beer-date: "2020-09-26"

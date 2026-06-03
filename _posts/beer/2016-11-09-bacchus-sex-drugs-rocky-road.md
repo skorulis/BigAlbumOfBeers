@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bacchus-sex-drugs-rocky-road.md
-title: Bacchus sex drugs & rocky road
+filename: "_posts/beer/2016-11-09-bacchus-sex-drugs-rocky-road.md"
+title: "Bacchus sex drugs & rocky road"
 category: beer
 score: 7
 beer-date: "2017-05-27"

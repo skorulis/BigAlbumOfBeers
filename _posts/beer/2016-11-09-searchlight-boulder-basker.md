@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-searchlight-boulder-basker.md
-title: Searchlight boulder basker
+filename: "_posts/beer/2016-11-09-searchlight-boulder-basker.md"
+title: "Searchlight boulder basker"
 category: beer
 score: 7
 beer-date: "2024-11-09"

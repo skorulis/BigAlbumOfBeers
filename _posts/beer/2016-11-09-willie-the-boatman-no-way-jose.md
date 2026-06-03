@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-willie-the-boatman-no-way-jose.md
-title: Willie the boatman no way Jose
+filename: "_posts/beer/2016-11-09-willie-the-boatman-no-way-jose.md"
+title: "Willie the boatman no way Jose"
 category: beer
 score: 5
 beer-date: "2020-12-25"

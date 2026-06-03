@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-all-hands-wee-heavy-scottish-ale.md
-title: All hands wee heavy Scottish ale
+filename: "_posts/beer/2016-11-09-all-hands-wee-heavy-scottish-ale.md"
+title: "All hands wee heavy Scottish ale"
 category: beer
 score: 6.5
 beer-date: "2018-06-02"

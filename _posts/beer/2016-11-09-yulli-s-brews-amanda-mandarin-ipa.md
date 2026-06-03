@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yulli-s-brews-amanda-mandarin-ipa.md
-title: Yulli’s brews Amanda mandarin IPA
+filename: "_posts/beer/2016-11-09-yulli-s-brews-amanda-mandarin-ipa.md"
+title: "Yulli’s brews Amanda mandarin IPA"
 category: beer
 score: 7
 beer-date: "2018-12-27"

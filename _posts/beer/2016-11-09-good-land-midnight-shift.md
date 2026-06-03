@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-good-land-midnight-shift.md
-title: Good Land Midnight Shift
+filename: "_posts/beer/2016-11-09-good-land-midnight-shift.md"
+title: "Good Land Midnight Shift"
 category: beer
 score: 8
 beer-date: "2025-12-28"

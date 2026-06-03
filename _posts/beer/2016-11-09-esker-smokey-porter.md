@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-esker-smokey-porter.md
-title: Esker Smokey porter
+filename: "_posts/beer/2016-11-09-esker-smokey-porter.md"
+title: "Esker Smokey porter"
 category: beer
 score: 6
 beer-date: "2024-11-23"

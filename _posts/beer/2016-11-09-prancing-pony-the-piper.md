@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-prancing-pony-the-piper.md
-title: Prancing pony the piper
+filename: "_posts/beer/2016-11-09-prancing-pony-the-piper.md"
+title: "Prancing pony the piper"
 category: beer
 score: 7.5
 beer-date: "2020-12-25"

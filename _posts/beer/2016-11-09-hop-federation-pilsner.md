@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-federation-pilsner.md
-title: Hop Federation Pilsner
+filename: "_posts/beer/2016-11-09-hop-federation-pilsner.md"
+title: "Hop Federation Pilsner"
 category: beer
 score: 5.5
 beer-date: "2025-09-26"

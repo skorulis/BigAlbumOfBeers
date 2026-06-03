@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-son-of-a-peach.md
-title: Sauce son of a peach
+filename: "_posts/beer/2016-11-09-sauce-son-of-a-peach.md"
+title: "Sauce son of a peach"
 category: beer
 score: 7.5
 beer-date: "2018-11-05"

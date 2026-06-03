@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-cash-money.md
-title: Bracket Cash Money
+filename: "_posts/beer/2016-11-09-bracket-cash-money.md"
+title: "Bracket Cash Money"
 category: beer
 score: 8
 beer-date: "2025-09-26"

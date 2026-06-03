@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-reckless-pale-ale.md
-title: Reckless pale ale
+filename: "_posts/beer/2016-11-09-reckless-pale-ale.md"
+title: "Reckless pale ale"
 category: beer
 score: 8
 beer-date: "2020-12-25"

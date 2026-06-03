@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-atomic-cashmere.md
-title: Atomic cashmere
+filename: "_posts/beer/2016-11-09-atomic-cashmere.md"
+title: "Atomic cashmere"
 category: beer
 score: 8
 beer-date: "2020-11-13"

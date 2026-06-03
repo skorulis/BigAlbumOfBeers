@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hofbrau-dark.md
-title: Hofbrau dark
+filename: "_posts/beer/2016-11-09-hofbrau-dark.md"
+title: "Hofbrau dark"
 category: beer
 score: 5
 beer-date: "2014-06-21"

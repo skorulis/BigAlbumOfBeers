@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-s-double-chocolate-stout.md
-title: Young's double chocolate stout
+filename: "_posts/beer/2016-11-09-young-s-double-chocolate-stout.md"
+title: "Young's double chocolate stout"
 category: beer
 score: 7
 beer-date: "2015-04-13"

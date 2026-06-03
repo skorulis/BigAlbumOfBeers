@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yullis-papaya-pale.md
-title: Yullis papaya pale
+filename: "_posts/beer/2016-11-09-yullis-papaya-pale.md"
+title: "Yullis papaya pale"
 category: beer
 score: 7.5
 beer-date: "2021-06-05"

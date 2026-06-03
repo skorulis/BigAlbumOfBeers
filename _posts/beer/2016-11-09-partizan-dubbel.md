@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-partizan-dubbel.md
-title: Partizan dubbel
+filename: "_posts/beer/2016-11-09-partizan-dubbel.md"
+title: "Partizan dubbel"
 category: beer
 score: 5
 beer-date: "2013-10-25"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-welders-dog-ipa.md
-title: Welders dog IPA
+filename: "_posts/beer/2016-11-09-welders-dog-ipa.md"
+title: "Welders dog IPA"
 category: beer
 score: 5.5
 beer-date: "2018-12-27"

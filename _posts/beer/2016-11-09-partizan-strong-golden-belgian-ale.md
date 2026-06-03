@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-partizan-strong-golden-belgian-ale.md
-title: Partizan strong golden belgian ale
+filename: "_posts/beer/2016-11-09-partizan-strong-golden-belgian-ale.md"
+title: "Partizan strong golden belgian ale"
 category: beer
 score: 5
 beer-date: "2013-12-23"

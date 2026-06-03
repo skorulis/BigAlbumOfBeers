@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-barossa-hop-heaven-easy-ipa.md
-title: Barossa hop heaven easy IPA
+filename: "_posts/beer/2016-11-09-barossa-hop-heaven-easy-ipa.md"
+title: "Barossa hop heaven easy IPA"
 category: beer
 score: 7
 beer-date: "2018-01-13"

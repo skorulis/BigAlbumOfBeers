@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerfarm-ipa.md
-title: Beerfarm IPA
+filename: "_posts/beer/2016-11-09-beerfarm-ipa.md"
+title: "Beerfarm IPA"
 category: beer
 score: 7.5
 beer-date: "2020-09-26"

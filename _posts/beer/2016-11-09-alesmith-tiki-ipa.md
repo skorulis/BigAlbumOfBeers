@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-alesmith-tiki-ipa.md
-title: Alesmith tiki IPA
+filename: "_posts/beer/2016-11-09-alesmith-tiki-ipa.md"
+title: "Alesmith tiki IPA"
 category: beer
 score: 8.5
 beer-date: "2021-06-05"

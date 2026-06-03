@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rooster-wit.md
-title: Rooster wit
+filename: "_posts/beer/2016-11-09-rooster-wit.md"
+title: "Rooster wit"
 category: beer
 score: 7.5
 beer-date: "2018-02-17"
@@ -11,6 +11,6 @@ img: /img/list/rooster-wit.jpeg
 untappd: "https://untappd.com/b/rooster-beers--rooster-wit/2377771"
 country: "Vietnam"
 brewery: "Rooster Beers "
-breweryURL: "/brewery/rooster-beers-.html"
+breweryURL: "/brewery/rooster-beers.html"
 style: "Belgian Blond(e)"
 ---

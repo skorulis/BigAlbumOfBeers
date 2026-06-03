@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cass-fresh.md
-title: Cass fresh
+filename: "_posts/beer/2016-11-09-cass-fresh.md"
+title: "Cass fresh"
 category: beer
 score: 7
 beer-date: "2014-06-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-island-style-coconut-ipa.md
-title: Batch island style coconut IPA
+filename: "_posts/beer/2016-11-09-batch-island-style-coconut-ipa.md"
+title: "Batch island style coconut IPA"
 category: beer
 score: 7.5
 beer-date: "2021-11-12"

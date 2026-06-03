@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fixation-obsession.md
-title: Fixation obsession
+filename: "_posts/beer/2016-11-09-fixation-obsession.md"
+title: "Fixation obsession"
 category: beer
 score: 8.5
 beer-date: "2018-12-27"

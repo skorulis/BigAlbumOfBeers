@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-uncle-kenny-s-wakachangi.md
-title: Uncle Kenny’s wakachangi
+filename: "_posts/beer/2016-11-09-uncle-kenny-s-wakachangi.md"
+title: "Uncle Kenny’s wakachangi"
 category: beer
 score: 7.5
 beer-date: "2019-04-22"

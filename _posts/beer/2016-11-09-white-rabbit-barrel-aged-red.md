@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-rabbit-barrel-aged-red.md
-title: White rabbit barrel aged red
+filename: "_posts/beer/2016-11-09-white-rabbit-barrel-aged-red.md"
+title: "White rabbit barrel aged red"
 category: beer
 score: 7.5
 beer-date: "2016-11-13"

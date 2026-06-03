@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-great-bustard.md
-title: Great bustard
+filename: "_posts/beer/2016-11-09-great-bustard.md"
+title: "Great bustard"
 category: beer
 score: 3
 beer-date: "2013-05-25"

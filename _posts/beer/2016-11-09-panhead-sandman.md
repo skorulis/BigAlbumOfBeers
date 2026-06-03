@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-panhead-sandman.md
-title: Panhead sandman
+filename: "_posts/beer/2016-11-09-panhead-sandman.md"
+title: "Panhead sandman"
 category: beer
 score: 7
 beer-date: "2024-11-09"

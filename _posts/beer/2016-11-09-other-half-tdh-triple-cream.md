@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-other-half-tdh-triple-cream.md
-title: Other half TDH triple cream
+filename: "_posts/beer/2016-11-09-other-half-tdh-triple-cream.md"
+title: "Other half TDH triple cream"
 category: beer
 score: 9
 beer-date: "2024-06-15"

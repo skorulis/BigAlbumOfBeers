@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mad-abbot-christmas-ale.md
-title: Mad Abbot Christmas Ale
+filename: "_posts/beer/2016-11-09-mad-abbot-christmas-ale.md"
+title: "Mad Abbot Christmas Ale"
 category: beer
 score: 8
 beer-date: "2016-02-14"

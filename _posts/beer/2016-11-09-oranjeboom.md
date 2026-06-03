@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-oranjeboom.md
-title: Oranjeboom
+filename: "_posts/beer/2016-11-09-oranjeboom.md"
+title: "Oranjeboom"
 category: beer
 score: 7
 beer-date: "2013-03-09"

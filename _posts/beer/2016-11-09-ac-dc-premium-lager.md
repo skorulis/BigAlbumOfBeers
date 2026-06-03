@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ac-dc-premium-lager.md
-title: AC/DC Premium Lager
+filename: "_posts/beer/2016-11-09-ac-dc-premium-lager.md"
+title: "AC/DC Premium Lager"
 category: beer
 score: 6
 beer-date: "2017-01-30"

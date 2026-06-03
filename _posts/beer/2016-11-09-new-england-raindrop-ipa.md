@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-raindrop-ipa.md
-title: New England raindrop IPA
+filename: "_posts/beer/2016-11-09-new-england-raindrop-ipa.md"
+title: "New England raindrop IPA"
 category: beer
 score: 8
 beer-date: "2021-04-02"

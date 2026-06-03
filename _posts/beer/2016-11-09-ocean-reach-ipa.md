@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ocean-reach-ipa.md
-title: Ocean reach IPA
+filename: "_posts/beer/2016-11-09-ocean-reach-ipa.md"
+title: "Ocean reach IPA"
 category: beer
 score: 8
 beer-date: "2023-02-26"
@@ -11,6 +11,6 @@ img: /img/list/ocean-reach-ipa.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--ipa/1864625"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "/brewery/ocean-reach-brewing-.html"
+breweryURL: "/brewery/ocean-reach-brewing.html"
 style: "IPA - American"
 ---

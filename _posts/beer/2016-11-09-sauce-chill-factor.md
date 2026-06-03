@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-chill-factor.md
-title: Sauce chill factor
+filename: "_posts/beer/2016-11-09-sauce-chill-factor.md"
+title: "Sauce chill factor"
 category: beer
 score: 7
 beer-date: "2023-03-31"

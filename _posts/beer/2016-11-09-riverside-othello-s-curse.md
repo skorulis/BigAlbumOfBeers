@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-riverside-othello-s-curse.md
-title: Riverside othello's curse
+filename: "_posts/beer/2016-11-09-riverside-othello-s-curse.md"
+title: "Riverside othello's curse"
 category: beer
 score: 5
 beer-date: "2016-02-14"

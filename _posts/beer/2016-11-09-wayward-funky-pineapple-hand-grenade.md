@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-funky-pineapple-hand-grenade.md
-title: Wayward funky pineapple hand grenade
+filename: "_posts/beer/2016-11-09-wayward-funky-pineapple-hand-grenade.md"
+title: "Wayward funky pineapple hand grenade"
 category: beer
 score: 8
 beer-date: "2018-03-13"

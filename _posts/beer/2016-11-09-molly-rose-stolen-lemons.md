@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-molly-rose-stolen-lemons.md
-title: Molly rose stolen lemons
+filename: "_posts/beer/2016-11-09-molly-rose-stolen-lemons.md"
+title: "Molly rose stolen lemons"
 category: beer
 score: 7
 beer-date: "2024-11-09"

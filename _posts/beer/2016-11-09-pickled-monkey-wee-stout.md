@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pickled-monkey-wee-stout.md
-title: Pickled Monkey Wee Stout
+filename: "_posts/beer/2016-11-09-pickled-monkey-wee-stout.md"
+title: "Pickled Monkey Wee Stout"
 category: beer
 score: 6.5
 beer-date: "2026-03-27"

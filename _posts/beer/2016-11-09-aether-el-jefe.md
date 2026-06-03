@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-aether-el-jefe.md
-title: Aether el jefe
+filename: "_posts/beer/2016-11-09-aether-el-jefe.md"
+title: "Aether el jefe"
 category: beer
 score: 6.5
 beer-date: "2022-08-07"

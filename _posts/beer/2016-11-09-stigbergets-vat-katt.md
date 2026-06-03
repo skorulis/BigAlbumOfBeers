@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stigbergets-vat-katt.md
-title: Stigbergets våt katt
+filename: "_posts/beer/2016-11-09-stigbergets-vat-katt.md"
+title: "Stigbergets våt katt"
 category: beer
 score: 8.5
 beer-date: "2023-10-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stockade-odin-s-raven.md
-title: Stockade Odin’s raven
+filename: "_posts/beer/2016-11-09-stockade-odin-s-raven.md"
+title: "Stockade Odin’s raven"
 category: beer
 score: 8
 beer-date: "2018-03-13"

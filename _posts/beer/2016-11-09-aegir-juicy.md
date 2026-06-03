@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-aegir-juicy.md
-title: Ægir juicy
+filename: "_posts/beer/2016-11-09-aegir-juicy.md"
+title: "Ægir juicy"
 category: beer
 score: 8.5
 beer-date: "2023-10-02"

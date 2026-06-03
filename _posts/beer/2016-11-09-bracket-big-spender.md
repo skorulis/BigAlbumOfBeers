@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-big-spender.md
-title: Bracket big spender
+filename: "_posts/beer/2016-11-09-bracket-big-spender.md"
+title: "Bracket big spender"
 category: beer
 score: 9
 beer-date: "2023-02-26"

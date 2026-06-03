@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bentspoke-psi.md
-title: Bentspoke PSI
+filename: "_posts/beer/2016-11-09-bentspoke-psi.md"
+title: "Bentspoke PSI"
 category: beer
 score: 3
 beer-date: "2016-02-14"

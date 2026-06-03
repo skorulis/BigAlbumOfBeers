@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-yum-yum.md
-title: Bracket yum yum
+filename: "_posts/beer/2016-11-09-bracket-yum-yum.md"
+title: "Bracket yum yum"
 category: beer
 score: 7
 beer-date: "2022-10-15"

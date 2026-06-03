@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bentspoke-zappa-saison.md
-title: Bentspoke Zappa Saison
+filename: "_posts/beer/2016-11-09-bentspoke-zappa-saison.md"
+title: "Bentspoke Zappa Saison"
 category: beer
 score: 8.5
 beer-date: "2026-03-27"

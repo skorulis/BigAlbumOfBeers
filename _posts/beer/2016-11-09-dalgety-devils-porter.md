@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dalgety-devils-porter.md
-title: Dalgety devils porter
+filename: "_posts/beer/2016-11-09-dalgety-devils-porter.md"
+title: "Dalgety devils porter"
 category: beer
 score: 7
 beer-date: "2022-08-07"

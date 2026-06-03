@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ayinger-kellerbier.md
-title: Ayinger kellerbier
+filename: "_posts/beer/2016-11-09-ayinger-kellerbier.md"
+title: "Ayinger kellerbier"
 category: beer
 score: 7.5
 beer-date: "2023-10-02"

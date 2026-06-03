@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-local-beer-xpa.md
-title: Local beer XPA
+filename: "_posts/beer/2016-11-09-local-beer-xpa.md"
+title: "Local beer XPA"
 category: beer
 score: 6.5
 beer-date: "2020-12-25"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-anderson-valley-blood-orange-gose.md
-title: Anderson valley blood orange gose
+filename: "_posts/beer/2016-11-09-anderson-valley-blood-orange-gose.md"
+title: "Anderson valley blood orange gose"
 category: beer
 score: 5.5
 beer-date: "2016-09-21"

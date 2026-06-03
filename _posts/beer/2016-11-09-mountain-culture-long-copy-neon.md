@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-long-copy-neon.md
-title: Mountain Culture Long Copy Neon
+filename: "_posts/beer/2016-11-09-mountain-culture-long-copy-neon.md"
+title: "Mountain Culture Long Copy Neon"
 category: beer
 score: 9
 beer-date: "2025-11-10"

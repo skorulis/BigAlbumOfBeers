@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-valley-hops-exhibitionist.md
-title: Valley Hops Exhibitionist
+filename: "_posts/beer/2016-11-09-valley-hops-exhibitionist.md"
+title: "Valley Hops Exhibitionist"
 category: beer
 score: 6
 beer-date: "2026-03-27"

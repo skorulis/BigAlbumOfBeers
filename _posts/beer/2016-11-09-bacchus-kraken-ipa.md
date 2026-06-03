@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bacchus-kraken-ipa.md
-title: Bacchus kraken IPA
+filename: "_posts/beer/2016-11-09-bacchus-kraken-ipa.md"
+title: "Bacchus kraken IPA"
 category: beer
 score: 7
 beer-date: "2017-05-27"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moffat-beach-passenger-pale-ale.md
-title: Moffat beach passenger pale ale
+filename: "_posts/beer/2016-11-09-moffat-beach-passenger-pale-ale.md"
+title: "Moffat beach passenger pale ale"
 category: beer
 score: 7.5
 beer-date: "2024-03-29"

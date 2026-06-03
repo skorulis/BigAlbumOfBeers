@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-founders-curmudgeon-2017.md
-title: Founders curmudgeon 2017
+filename: "_posts/beer/2016-11-09-founders-curmudgeon-2017.md"
+title: "Founders curmudgeon 2017"
 category: beer
 score: 9.5
 beer-date: "2020-09-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-searchlight-red-admiral.md
-title: Searchlight red admiral
+filename: "_posts/beer/2016-11-09-searchlight-red-admiral.md"
+title: "Searchlight red admiral"
 category: beer
 score: 7.5
 beer-date: "2024-11-09"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-malt-fiction-session-ale.md
-title: Malt fiction session ale
+filename: "_posts/beer/2016-11-09-malt-fiction-session-ale.md"
+title: "Malt fiction session ale"
 category: beer
 score: 7.5
 beer-date: "2016-09-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-floris-chocolat.md
-title: Floris chocolat
+filename: "_posts/beer/2016-11-09-floris-chocolat.md"
+title: "Floris chocolat"
 category: beer
 score: 4
 beer-date: "2013-05-25"

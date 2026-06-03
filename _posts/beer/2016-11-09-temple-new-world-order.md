@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-temple-new-world-order.md
-title: Temple New world order
+filename: "_posts/beer/2016-11-09-temple-new-world-order.md"
+title: "Temple New world order"
 category: beer
 score: 7
 beer-date: "2021-11-12"

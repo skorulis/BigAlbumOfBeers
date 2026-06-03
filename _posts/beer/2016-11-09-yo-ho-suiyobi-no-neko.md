@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yo-ho-suiyobi-no-neko.md
-title: Yo Ho SUIYOBI NO NEKO
+filename: "_posts/beer/2016-11-09-yo-ho-suiyobi-no-neko.md"
+title: "Yo Ho SUIYOBI NO NEKO"
 category: beer
 score: 8
 beer-date: "2023-03-31"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sunday-road-cronullafornication-season-3.md
-title: Sunday Road Cronullafornication season 3
+filename: "_posts/beer/2016-11-09-sunday-road-cronullafornication-season-3.md"
+title: "Sunday Road Cronullafornication season 3"
 category: beer
 score: 7.5
 beer-date: "2025-12-28"

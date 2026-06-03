@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-shredded-and-zested.md
-title: New England shredded and zested
+filename: "_posts/beer/2016-11-09-new-england-shredded-and-zested.md"
+title: "New England shredded and zested"
 category: beer
 score: 6.5
 beer-date: "2020-01-16"

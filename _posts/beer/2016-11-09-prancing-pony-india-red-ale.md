@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-prancing-pony-india-red-ale.md
-title: Prancing pony India red ale
+filename: "_posts/beer/2016-11-09-prancing-pony-india-red-ale.md"
+title: "Prancing pony India red ale"
 category: beer
 score: 7
 beer-date: "2020-07-31"

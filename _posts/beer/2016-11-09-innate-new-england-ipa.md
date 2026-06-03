@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-innate-new-england-ipa.md
-title: Innate New England IPA
+filename: "_posts/beer/2016-11-09-innate-new-england-ipa.md"
+title: "Innate New England IPA"
 category: beer
 score: 7.5
 beer-date: "2021-11-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-8-wired-hippy-berliner.md
-title: 8 wired hippy Berliner
+filename: "_posts/beer/2016-11-09-8-wired-hippy-berliner.md"
+title: "8 wired hippy Berliner"
 category: beer
 score: 6.5
 beer-date: "2019-04-22"

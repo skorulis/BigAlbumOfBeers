@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-muse.md
-title: Garage project muse
+filename: "_posts/beer/2016-11-09-garage-project-muse.md"
+title: "Garage project muse"
 category: beer
 score: 7
 beer-date: "2019-11-22"

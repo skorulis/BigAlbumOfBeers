@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-vibrant-forest-pupa.md
-title: Vibrant forest pupa
+filename: "_posts/beer/2016-11-09-vibrant-forest-pupa.md"
+title: "Vibrant forest pupa"
 category: beer
 score: 8
 beer-date: "2020-07-31"

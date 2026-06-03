@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewhouse-simcoe-black-ipa.md
-title: Brewhouse simcoe black ipa
+filename: "_posts/beer/2016-11-09-brewhouse-simcoe-black-ipa.md"
+title: "Brewhouse simcoe black ipa"
 category: beer
 score: 8
 beer-date: "2019-04-22"

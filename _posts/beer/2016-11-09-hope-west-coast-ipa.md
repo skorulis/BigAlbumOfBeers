@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-west-coast-ipa.md
-title: Hope west coast IPA
+filename: "_posts/beer/2016-11-09-hope-west-coast-ipa.md"
+title: "Hope west coast IPA"
 category: beer
 score: 8
 beer-date: "2022-08-07"

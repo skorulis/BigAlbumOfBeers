@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mill-liquidity.md
-title: Mill liquidity
+filename: "_posts/beer/2016-11-09-mill-liquidity.md"
+title: "Mill liquidity"
 category: beer
 score: 7
 beer-date: "2024-06-15"

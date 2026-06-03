@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-freshwater-party-wave.md
-title: Freshwater party wave
+filename: "_posts/beer/2016-11-09-freshwater-party-wave.md"
+title: "Freshwater party wave"
 category: beer
 score: 7
 beer-date: "2023-03-31"

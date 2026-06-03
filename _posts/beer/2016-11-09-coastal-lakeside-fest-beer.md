@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coastal-lakeside-fest-beer.md
-title: Coastal lakeside fest beer
+filename: "_posts/beer/2016-11-09-coastal-lakeside-fest-beer.md"
+title: "Coastal lakeside fest beer"
 category: beer
 score: 6
 beer-date: "2022-08-07"

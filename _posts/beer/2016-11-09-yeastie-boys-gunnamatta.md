@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yeastie-boys-gunnamatta.md
-title: Yeastie boys gunnamatta
+filename: "_posts/beer/2016-11-09-yeastie-boys-gunnamatta.md"
+title: "Yeastie boys gunnamatta"
 category: beer
 score: 9
 beer-date: "2016-02-14"

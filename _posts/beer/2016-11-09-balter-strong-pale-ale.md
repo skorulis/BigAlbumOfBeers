@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-balter-strong-pale-ale.md
-title: Balter strong pale ale
+filename: "_posts/beer/2016-11-09-balter-strong-pale-ale.md"
+title: "Balter strong pale ale"
 category: beer
 score: 6
 beer-date: "2018-10-05"

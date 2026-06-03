@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-paddys-ipa.md
-title: Paddys IPA
+filename: "_posts/beer/2016-11-09-paddys-ipa.md"
+title: "Paddys IPA"
 category: beer
 score: 5.5
 beer-date: "2017-10-28"

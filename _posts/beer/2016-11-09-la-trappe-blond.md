@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-la-trappe-blond.md
-title: La Trappe Blond
+filename: "_posts/beer/2016-11-09-la-trappe-blond.md"
+title: "La Trappe Blond"
 category: beer
 score: 7
 beer-date: "2015-01-29"

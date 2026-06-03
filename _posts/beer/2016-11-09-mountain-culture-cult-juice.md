@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-cult-juice.md
-title: Mountain culture cult juice
+filename: "_posts/beer/2016-11-09-mountain-culture-cult-juice.md"
+title: "Mountain culture cult juice"
 category: beer
 score: 9
 beer-date: "2021-01-31"

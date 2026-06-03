@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-continuous-daryl.md
-title: The continuous daryl
+filename: "_posts/beer/2016-11-09-the-continuous-daryl.md"
+title: "The continuous daryl"
 category: beer
 score: 9.5
 beer-date: "2016-06-16"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-buxton-brewery-gatekeeper.md
-title: Buxton brewery gatekeeper
+filename: "_posts/beer/2016-11-09-buxton-brewery-gatekeeper.md"
+title: "Buxton brewery gatekeeper"
 category: beer
 score: 8
 beer-date: "2019-11-22"

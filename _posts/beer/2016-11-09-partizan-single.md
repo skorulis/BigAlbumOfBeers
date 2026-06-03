@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-partizan-single.md
-title: Partizan single
+filename: "_posts/beer/2016-11-09-partizan-single.md"
+title: "Partizan single"
 category: beer
 score: 4
 beer-date: "2013-10-25"

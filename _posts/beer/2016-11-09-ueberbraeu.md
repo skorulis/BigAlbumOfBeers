@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ueberbraeu.md
-title: ÜberBräu
+filename: "_posts/beer/2016-11-09-ueberbraeu.md"
+title: "ÜberBräu"
 category: beer
 score: 5
 beer-date: "2015-05-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hardknott-azimuth-ipa.md
-title: Hardknott azimuth IPA
+filename: "_posts/beer/2016-11-09-hardknott-azimuth-ipa.md"
+title: "Hardknott azimuth IPA"
 category: beer
 score: 5
 beer-date: "2014-03-01"

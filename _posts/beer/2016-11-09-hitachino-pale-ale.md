@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hitachino-pale-ale.md
-title: Hitachino pale ale
+filename: "_posts/beer/2016-11-09-hitachino-pale-ale.md"
+title: "Hitachino pale ale"
 category: beer
 score: 8
 beer-date: "2013-08-15"

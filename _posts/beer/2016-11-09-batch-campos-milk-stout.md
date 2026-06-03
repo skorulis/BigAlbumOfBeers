@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-campos-milk-stout.md
-title: Batch campos milk stout
+filename: "_posts/beer/2016-11-09-batch-campos-milk-stout.md"
+title: "Batch campos milk stout"
 category: beer
 score: 6
 beer-date: "2020-09-26"

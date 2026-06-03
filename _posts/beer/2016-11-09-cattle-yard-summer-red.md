@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cattle-yard-summer-red.md
-title: Cattle yard summer red
+filename: "_posts/beer/2016-11-09-cattle-yard-summer-red.md"
+title: "Cattle yard summer red"
 category: beer
 score: 7.5
 beer-date: "2021-01-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-whakatipu-hazy-ipa.md
-title: Whakatipu hazy IPA
+filename: "_posts/beer/2016-11-09-whakatipu-hazy-ipa.md"
+title: "Whakatipu hazy IPA"
 category: beer
 score: 7
 beer-date: "2022-09-21"

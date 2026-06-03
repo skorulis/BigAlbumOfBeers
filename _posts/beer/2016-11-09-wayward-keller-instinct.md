@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-keller-instinct.md
-title: Wayward Keller instinct
+filename: "_posts/beer/2016-11-09-wayward-keller-instinct.md"
+title: "Wayward Keller instinct"
 category: beer
 score: 6.5
 beer-date: "2016-11-13"

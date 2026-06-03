@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-rum-raisin.md
-title: Bracket rum & raisin
+filename: "_posts/beer/2016-11-09-bracket-rum-raisin.md"
+title: "Bracket rum & raisin"
 category: beer
 score: 6.5
 beer-date: "2023-08-26"

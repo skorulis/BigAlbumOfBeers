@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-creatures-pale-ale.md
-title: Little Creatures Pale Ale
+filename: "_posts/beer/2016-11-09-little-creatures-pale-ale.md"
+title: "Little Creatures Pale Ale"
 category: beer
 score: 9
 beer-date: "2013-02-01"

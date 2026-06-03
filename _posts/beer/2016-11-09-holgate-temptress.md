@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-holgate-temptress.md
-title: Holgate temptress
+filename: "_posts/beer/2016-11-09-holgate-temptress.md"
+title: "Holgate temptress"
 category: beer
 score: 6
 beer-date: "2016-06-16"

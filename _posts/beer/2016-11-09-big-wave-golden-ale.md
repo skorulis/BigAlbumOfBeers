@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-big-wave-golden-ale.md
-title: Big wave golden ale
+filename: "_posts/beer/2016-11-09-big-wave-golden-ale.md"
+title: "Big wave golden ale"
 category: beer
 score: 7
 beer-date: "2017-01-21"

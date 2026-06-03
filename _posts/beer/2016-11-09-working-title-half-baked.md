@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-working-title-half-baked.md
-title: Working title half baked
+filename: "_posts/beer/2016-11-09-working-title-half-baked.md"
+title: "Working title half baked"
 category: beer
 score: 9
 beer-date: "2022-08-07"

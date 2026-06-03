@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-black-hops-east-coast-low.md
-title: Black hops east coast low
+filename: "_posts/beer/2016-11-09-black-hops-east-coast-low.md"
+title: "Black hops east coast low"
 category: beer
 score: 7.5
 beer-date: "2021-01-31"

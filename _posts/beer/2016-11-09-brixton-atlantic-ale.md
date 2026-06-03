@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brixton-atlantic-ale.md
-title: Brixton Atlantic ale
+filename: "_posts/beer/2016-11-09-brixton-atlantic-ale.md"
+title: "Brixton Atlantic ale"
 category: beer
 score: 6.5
 beer-date: "2023-09-06"

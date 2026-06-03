@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-eden-birch-wit.md
-title: Eden birch wit
+filename: "_posts/beer/2016-11-09-eden-birch-wit.md"
+title: "Eden birch wit"
 category: beer
 score: 7
 beer-date: "2024-03-29"

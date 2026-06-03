@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-feral-fanta-pants.md
-title: Feral Fanta pants
+filename: "_posts/beer/2016-11-09-feral-fanta-pants.md"
+title: "Feral Fanta pants"
 category: beer
 score: 8.5
 beer-date: "2017-05-27"

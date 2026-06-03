@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-frenchies-tropical-brut-ipa.md
-title: Frenchies tropical brut IPA
+filename: "_posts/beer/2016-11-09-frenchies-tropical-brut-ipa.md"
+title: "Frenchies tropical brut IPA"
 category: beer
 score: 8.5
 beer-date: "2021-01-01"

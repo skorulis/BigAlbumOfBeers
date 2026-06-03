@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brick-lane-sidewinder.md
-title: Brick lane Sidewinder
+filename: "_posts/beer/2016-11-09-brick-lane-sidewinder.md"
+title: "Brick lane Sidewinder"
 category: beer
 score: 4
 beer-date: "2022-08-07"

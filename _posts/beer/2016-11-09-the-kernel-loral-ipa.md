@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-kernel-loral-ipa.md
-title: The kernel Loral IPA
+filename: "_posts/beer/2016-11-09-the-kernel-loral-ipa.md"
+title: "The kernel Loral IPA"
 category: beer
 score: 8
 beer-date: "2017-06-02"

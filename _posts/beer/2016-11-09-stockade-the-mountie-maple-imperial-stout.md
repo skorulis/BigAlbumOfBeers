@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stockade-the-mountie-maple-imperial-stout.md
-title: Stockade The Mountie Maple Imperial Stout
+filename: "_posts/beer/2016-11-09-stockade-the-mountie-maple-imperial-stout.md"
+title: "Stockade The Mountie Maple Imperial Stout"
 category: beer
 score: 6
 beer-date: "2018-03-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wells-bombardier-english.md
-title: Wells bombardier English
+filename: "_posts/beer/2016-11-09-wells-bombardier-english.md"
+title: "Wells bombardier English"
 category: beer
 score: 6
 beer-date: "2013-04-27"

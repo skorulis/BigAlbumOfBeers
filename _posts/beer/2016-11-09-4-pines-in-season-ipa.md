@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-in-season-ipa.md
-title: 4 pines in season IPA
+filename: "_posts/beer/2016-11-09-4-pines-in-season-ipa.md"
+title: "4 pines in season IPA"
 category: beer
 score: 7.5
 beer-date: "2019-04-22"

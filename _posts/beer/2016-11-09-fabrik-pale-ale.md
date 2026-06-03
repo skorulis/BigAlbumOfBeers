@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fabrik-pale-ale.md
-title: Fabrik Pale ale
+filename: "_posts/beer/2016-11-09-fabrik-pale-ale.md"
+title: "Fabrik Pale ale"
 category: beer
 score: 7.5
 beer-date: "2017-06-15"

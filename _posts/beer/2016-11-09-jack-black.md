@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jack-black.md
-title: Jack Black
+filename: "_posts/beer/2016-11-09-jack-black.md"
+title: "Jack Black"
 category: beer
 score: 3
 beer-date: "2012-11-13"

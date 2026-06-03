@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-carolus-classic.md
-title: Carolus classic
+filename: "_posts/beer/2016-11-09-carolus-classic.md"
+title: "Carolus classic"
 category: beer
 score: 7
 beer-date: "2014-03-01"

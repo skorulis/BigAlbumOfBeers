@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moondog-all-killer-no-filler.md
-title: Moondog all killer no filler
+filename: "_posts/beer/2016-11-09-moondog-all-killer-no-filler.md"
+title: "Moondog all killer no filler"
 category: beer
 score: 8
 beer-date: "2021-11-12"

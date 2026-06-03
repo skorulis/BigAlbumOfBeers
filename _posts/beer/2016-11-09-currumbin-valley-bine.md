@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-currumbin-valley-bine.md
-title: Currumbin valley bine
+filename: "_posts/beer/2016-11-09-currumbin-valley-bine.md"
+title: "Currumbin valley bine"
 category: beer
 score: 7
 beer-date: "2023-02-28"

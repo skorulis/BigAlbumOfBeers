@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slow-lane-whiter-shades-of-ale.md
-title: Slow lane whiter shades of ale
+filename: "_posts/beer/2016-11-09-slow-lane-whiter-shades-of-ale.md"
+title: "Slow lane whiter shades of ale"
 category: beer
 score: 8.5
 beer-date: "2023-02-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ekim-berserker-amber-ipa.md
-title: Ekim berserker amber IPA
+filename: "_posts/beer/2016-11-09-ekim-berserker-amber-ipa.md"
+title: "Ekim berserker amber IPA"
 category: beer
 score: 8
 beer-date: "2019-07-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-celebration-ale.md
-title: Hawkers celebration ale
+filename: "_posts/beer/2016-11-09-hawkers-celebration-ale.md"
+title: "Hawkers celebration ale"
 category: beer
 score: 6
 beer-date: "2023-02-28"

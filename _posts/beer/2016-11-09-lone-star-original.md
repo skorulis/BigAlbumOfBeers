@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lone-star-original.md
-title: Lone Star Original
+filename: "_posts/beer/2016-11-09-lone-star-original.md"
+title: "Lone Star Original"
 category: beer
 score: 3.5
 beer-date: "2025-09-26"

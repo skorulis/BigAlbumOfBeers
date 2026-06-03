@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-fancy-pants.md
-title: Mountain goat fancy pants
+filename: "_posts/beer/2016-11-09-mountain-goat-fancy-pants.md"
+title: "Mountain goat fancy pants"
 category: beer
 score: 8
 beer-date: "2015-05-01"

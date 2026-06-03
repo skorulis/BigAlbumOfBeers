@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-beacon-windjammer.md
-title: Green beacon windjammer
+filename: "_posts/beer/2016-11-09-green-beacon-windjammer.md"
+title: "Green beacon windjammer"
 category: beer
 score: 8
 beer-date: "2017-10-28"

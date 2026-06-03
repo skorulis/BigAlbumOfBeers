@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coal-harbour-smoke-mirrors.md
-title: Coal harbour Smoke & Mirrors
+filename: "_posts/beer/2016-11-09-coal-harbour-smoke-mirrors.md"
+title: "Coal harbour Smoke & Mirrors"
 category: beer
 score: 6
 beer-date: "2017-05-27"

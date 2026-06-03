@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-valley-hops-interloper.md
-title: Valley Hops Interloper
+filename: "_posts/beer/2016-11-09-valley-hops-interloper.md"
+title: "Valley Hops Interloper"
 category: beer
 score: 7
 beer-date: "2026-03-27"

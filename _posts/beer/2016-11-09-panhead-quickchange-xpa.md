@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-panhead-quickchange-xpa.md
-title: Panhead quickchange XPA
+filename: "_posts/beer/2016-11-09-panhead-quickchange-xpa.md"
+title: "Panhead quickchange XPA"
 category: beer
 score: 6
 beer-date: "2018-02-17"

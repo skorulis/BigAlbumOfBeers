@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-three-cubed.md
-title: One drop three cubed
+filename: "_posts/beer/2016-11-09-one-drop-three-cubed.md"
+title: "One drop three cubed"
 category: beer
 score: 8.5
 beer-date: "2021-01-01"

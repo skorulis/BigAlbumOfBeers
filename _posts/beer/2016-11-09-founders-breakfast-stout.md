@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-founders-breakfast-stout.md
-title: Founders breakfast stout
+filename: "_posts/beer/2016-11-09-founders-breakfast-stout.md"
+title: "Founders breakfast stout"
 category: beer
 score: 8
 beer-date: "2017-05-27"

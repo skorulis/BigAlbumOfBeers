@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-drakes-1500-pale-ale.md
-title: Drakes 1500 pale ale
+filename: "_posts/beer/2016-11-09-drakes-1500-pale-ale.md"
+title: "Drakes 1500 pale ale"
 category: beer
 score: 5.5
 beer-date: "2023-02-26"

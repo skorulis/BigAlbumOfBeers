@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-masquerido.md
-title: Masquerido
+filename: "_posts/beer/2016-11-09-masquerido.md"
+title: "Masquerido"
 category: beer
 score: 5
 beer-date: "2013-04-27"

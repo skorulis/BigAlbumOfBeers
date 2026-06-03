@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-basement-party.md
-title: Hawkers basement party
+filename: "_posts/beer/2016-11-09-hawkers-basement-party.md"
+title: "Hawkers basement party"
 category: beer
 score: 6.5
 beer-date: "2025-02-15"

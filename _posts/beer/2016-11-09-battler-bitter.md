@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-battler-bitter.md
-title: Battler bitter
+filename: "_posts/beer/2016-11-09-battler-bitter.md"
+title: "Battler bitter"
 category: beer
 score: 7.5
 beer-date: "2020-09-26"

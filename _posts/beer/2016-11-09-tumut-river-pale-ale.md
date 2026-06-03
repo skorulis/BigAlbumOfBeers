@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tumut-river-pale-ale.md
-title: Tumut river pale ale
+filename: "_posts/beer/2016-11-09-tumut-river-pale-ale.md"
+title: "Tumut river pale ale"
 category: beer
 score: 6.5
 beer-date: "2017-08-06"

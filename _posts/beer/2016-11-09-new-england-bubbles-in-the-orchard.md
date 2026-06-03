@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-bubbles-in-the-orchard.md
-title: New England bubbles in the orchard
+filename: "_posts/beer/2016-11-09-new-england-bubbles-in-the-orchard.md"
+title: "New England bubbles in the orchard"
 category: beer
 score: 6.5
 beer-date: "2019-11-22"

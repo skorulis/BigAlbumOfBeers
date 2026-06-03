@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-prancing-pony-a-pony-hazy.md
-title: Prancing pony A pony Hazy
+filename: "_posts/beer/2016-11-09-prancing-pony-a-pony-hazy.md"
+title: "Prancing pony A pony Hazy"
 category: beer
 score: 7
 beer-date: "2022-09-21"

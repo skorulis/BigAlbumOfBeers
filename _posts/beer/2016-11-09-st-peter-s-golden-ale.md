@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-st-peter-s-golden-ale.md
-title: St Peter's Golden Ale
+filename: "_posts/beer/2016-11-09-st-peter-s-golden-ale.md"
+title: "St Peter's Golden Ale"
 category: beer
 score: 3
 beer-date: "2013-09-19"
@@ -11,6 +11,6 @@ img: /img/list/st-peter-s-golden-ale.jpeg
 untappd: "https://untappd.com/b/st--peters-brewery-co--golden-ale/219"
 country: "England"
 brewery: "St. Peter’s Brewery Co."
-breweryURL: "/brewery/st--peter-s-brewery-co.html"
+breweryURL: "/brewery/st-peter-s-brewery-co.html"
 style: "Golden Ale"
 ---

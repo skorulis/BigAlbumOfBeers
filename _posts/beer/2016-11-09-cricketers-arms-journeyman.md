@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cricketers-arms-journeyman.md
-title: Cricketers arms journeyman
+filename: "_posts/beer/2016-11-09-cricketers-arms-journeyman.md"
+title: "Cricketers arms journeyman"
 category: beer
 score: 4
 beer-date: "2015-05-01"

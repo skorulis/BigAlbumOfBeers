@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bulla-creek-oktoberfest.md
-title: Bulla creek Oktoberfest
+filename: "_posts/beer/2016-11-09-bulla-creek-oktoberfest.md"
+title: "Bulla creek Oktoberfest"
 category: beer
 score: 6.5
 beer-date: "2024-03-29"

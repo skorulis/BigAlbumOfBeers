@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-enkel.md
-title: New England Enkel
+filename: "_posts/beer/2016-11-09-new-england-enkel.md"
+title: "New England Enkel"
 category: beer
 score: 6
 beer-date: "2024-12-28"

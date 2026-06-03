@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-la-sirene-worker-bee.md
-title: La Sirène Worker Bee
+filename: "_posts/beer/2016-11-09-la-sirene-worker-bee.md"
+title: "La Sirène Worker Bee"
 category: beer
 score: 8
 beer-date: "2025-09-26"

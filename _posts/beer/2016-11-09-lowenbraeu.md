@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lowenbraeu.md
-title: Lowenbräu
+filename: "_posts/beer/2016-11-09-lowenbraeu.md"
+title: "Lowenbräu"
 category: beer
 score: 6
 beer-date: "2013-08-15"

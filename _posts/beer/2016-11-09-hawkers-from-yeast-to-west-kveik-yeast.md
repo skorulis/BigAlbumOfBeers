@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-from-yeast-to-west-kveik-yeast.md
-title: Hawkers from yeast to west - kveik yeast
+filename: "_posts/beer/2016-11-09-hawkers-from-yeast-to-west-kveik-yeast.md"
+title: "Hawkers from yeast to west - kveik yeast"
 category: beer
 score: 8.5
 beer-date: "2024-12-28"

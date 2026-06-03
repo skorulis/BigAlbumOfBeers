@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-square-hole.md
-title: Bracket square hole
+filename: "_posts/beer/2016-11-09-bracket-square-hole.md"
+title: "Bracket square hole"
 category: beer
 score: 7.5
 beer-date: "2023-02-28"

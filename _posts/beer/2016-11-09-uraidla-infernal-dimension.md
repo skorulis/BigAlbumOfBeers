@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-uraidla-infernal-dimension.md
-title: Uraidla infernal dimension
+filename: "_posts/beer/2016-11-09-uraidla-infernal-dimension.md"
+title: "Uraidla infernal dimension"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

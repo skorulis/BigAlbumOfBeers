@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-same-same-but-neipa.md
-title: White Bay Same Same But NEIPA
+filename: "_posts/beer/2016-11-09-white-bay-same-same-but-neipa.md"
+title: "White Bay Same Same But NEIPA"
 category: beer
 score: 8.5
 beer-date: "2024-12-28"

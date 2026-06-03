@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-punch-judy-s-ale.md
-title: Punch & Judy’s Ale
+filename: "_posts/beer/2016-11-09-punch-judy-s-ale.md"
+title: "Punch & Judy’s Ale"
 category: beer
 score: null
 beer-date: "2015-01-29"

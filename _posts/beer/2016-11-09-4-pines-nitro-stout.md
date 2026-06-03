@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-nitro-stout.md
-title: 4 pines nitro stout
+filename: "_posts/beer/2016-11-09-4-pines-nitro-stout.md"
+title: "4 pines nitro stout"
 category: beer
 score: 7.5
 beer-date: "2017-05-27"

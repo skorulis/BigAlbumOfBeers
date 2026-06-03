@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lord-nelson-dead-ahead.md
-title: Lord Nelson dead ahead
+filename: "_posts/beer/2016-11-09-lord-nelson-dead-ahead.md"
+title: "Lord Nelson dead ahead"
 category: beer
 score: 6.5
 beer-date: "2016-06-16"

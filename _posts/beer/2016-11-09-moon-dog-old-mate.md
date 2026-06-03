@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moon-dog-old-mate.md
-title: Moon dog old mate
+filename: "_posts/beer/2016-11-09-moon-dog-old-mate.md"
+title: "Moon dog old mate"
 category: beer
 score: 6
 beer-date: "2019-07-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-double-sunset.md
-title: Two birds double sunset
+filename: "_posts/beer/2016-11-09-two-birds-double-sunset.md"
+title: "Two birds double sunset"
 category: beer
 score: 8
 beer-date: "2019-11-22"

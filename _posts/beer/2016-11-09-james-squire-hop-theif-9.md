@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-hop-theif-9.md
-title: James squire hop theif 9
+filename: "_posts/beer/2016-11-09-james-squire-hop-theif-9.md"
+title: "James squire hop theif 9"
 category: beer
 score: 6
 beer-date: "2019-11-22"

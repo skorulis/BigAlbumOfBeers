@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-grifter-serpents-kiss.md
-title: Grifter Serpents kiss
+filename: "_posts/beer/2016-11-09-grifter-serpents-kiss.md"
+title: "Grifter Serpents kiss"
 category: beer
 score: 4
 beer-date: "2016-05-24"

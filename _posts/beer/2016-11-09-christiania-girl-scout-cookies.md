@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-christiania-girl-scout-cookies.md
-title: Christiania Girl Scout cookies
+filename: "_posts/beer/2016-11-09-christiania-girl-scout-cookies.md"
+title: "Christiania Girl Scout cookies"
 category: beer
 score: 8
 beer-date: "2023-10-02"

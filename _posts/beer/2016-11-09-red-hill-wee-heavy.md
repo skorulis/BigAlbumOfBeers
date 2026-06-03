@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-red-hill-wee-heavy.md
-title: Red hill wee heavy
+filename: "_posts/beer/2016-11-09-red-hill-wee-heavy.md"
+title: "Red hill wee heavy"
 category: beer
 score: 7
 beer-date: "2019-11-22"

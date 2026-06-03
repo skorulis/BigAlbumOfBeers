@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-southern-highlands-the-acid-haze.md
-title: Southern highlands the acid haze
+filename: "_posts/beer/2016-11-09-southern-highlands-the-acid-haze.md"
+title: "Southern highlands the acid haze"
 category: beer
 score: 7.5
 beer-date: "2023-02-28"

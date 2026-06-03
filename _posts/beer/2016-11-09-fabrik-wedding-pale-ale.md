@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fabrik-wedding-pale-ale.md
-title: Fabrik Wedding pale ale
+filename: "_posts/beer/2016-11-09-fabrik-wedding-pale-ale.md"
+title: "Fabrik Wedding pale ale"
 category: beer
 score: 9
 beer-date: "2017-06-15"

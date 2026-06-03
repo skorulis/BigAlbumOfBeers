@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-under-current-oatmeal-pale-ale.md
-title: Under current oatmeal pale ale
+filename: "_posts/beer/2016-11-09-under-current-oatmeal-pale-ale.md"
+title: "Under current oatmeal pale ale"
 category: beer
 score: 7.5
 beer-date: "2017-06-02"

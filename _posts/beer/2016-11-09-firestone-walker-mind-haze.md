@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-firestone-walker-mind-haze.md
-title: Firestone walker mind haze
+filename: "_posts/beer/2016-11-09-firestone-walker-mind-haze.md"
+title: "Firestone walker mind haze"
 category: beer
 score: 8
 beer-date: "2020-07-31"

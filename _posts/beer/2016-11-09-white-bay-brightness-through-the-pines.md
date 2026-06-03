@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-brightness-through-the-pines.md
-title: White Bay Brightness Through The Pines
+filename: "_posts/beer/2016-11-09-white-bay-brightness-through-the-pines.md"
+title: "White Bay Brightness Through The Pines"
 category: beer
 score: 8
 beer-date: "2024-12-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-swing-juice.md
-title: Young Henry’s swing juice
+filename: "_posts/beer/2016-11-09-young-henry-s-swing-juice.md"
+title: "Young Henry’s swing juice"
 category: beer
 score: 8
 beer-date: "2024-06-15"

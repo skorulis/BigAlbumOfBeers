@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-arcobraeu-winterbier.md
-title: Arcobräu winterbier
+filename: "_posts/beer/2016-11-09-arcobraeu-winterbier.md"
+title: "Arcobräu winterbier"
 category: beer
 score: 8
 beer-date: "2013-01-13"

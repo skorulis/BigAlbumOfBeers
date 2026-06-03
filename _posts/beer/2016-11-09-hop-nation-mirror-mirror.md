@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-nation-mirror-mirror.md
-title: Hop nation mirror mirror
+filename: "_posts/beer/2016-11-09-hop-nation-mirror-mirror.md"
+title: "Hop nation mirror mirror"
 category: beer
 score: 6
 beer-date: "2020-11-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-east-side.md
-title: Bracket east side
+filename: "_posts/beer/2016-11-09-bracket-east-side.md"
+title: "Bracket east side"
 category: beer
 score: 8.5
 beer-date: "2024-03-29"

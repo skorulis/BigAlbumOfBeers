@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wooden-axe-beyond-reasonable-stout.md
-title: Wooden Axe Beyond Reasonable Stout
+filename: "_posts/beer/2016-11-09-wooden-axe-beyond-reasonable-stout.md"
+title: "Wooden Axe Beyond Reasonable Stout"
 category: beer
 score: 7
 beer-date: "2026-03-27"

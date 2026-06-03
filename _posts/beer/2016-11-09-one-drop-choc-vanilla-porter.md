@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-choc-vanilla-porter.md
-title: One drop choc vanilla porter
+filename: "_posts/beer/2016-11-09-one-drop-choc-vanilla-porter.md"
+title: "One drop choc vanilla porter"
 category: beer
 score: 8
 beer-date: "2021-11-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-swans-150.md
-title: White Bay Swans 150
+filename: "_posts/beer/2016-11-09-white-bay-swans-150.md"
+title: "White Bay Swans 150"
 category: beer
 score: 6.5
 beer-date: "2025-09-26"

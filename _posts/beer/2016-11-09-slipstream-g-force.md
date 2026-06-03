@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slipstream-g-force.md
-title: Slipstream g-force
+filename: "_posts/beer/2016-11-09-slipstream-g-force.md"
+title: "Slipstream g-force"
 category: beer
 score: 8.5
 beer-date: "2019-06-22"

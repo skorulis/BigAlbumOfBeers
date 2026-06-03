@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-holgate-twin-suns-xpa.md
-title: Holgate twin suns XPA
+filename: "_posts/beer/2016-11-09-holgate-twin-suns-xpa.md"
+title: "Holgate twin suns XPA"
 category: beer
 score: 7
 beer-date: "2021-01-01"

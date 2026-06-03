@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-west-coast-ipa.md
-title: Pirate life west coast IPA
+filename: "_posts/beer/2016-11-09-pirate-life-west-coast-ipa.md"
+title: "Pirate life west coast IPA"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

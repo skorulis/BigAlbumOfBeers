@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-tank-6-imperial-stout.md
-title: Batch tank 6 imperial stout
+filename: "_posts/beer/2016-11-09-batch-tank-6-imperial-stout.md"
+title: "Batch tank 6 imperial stout"
 category: beer
 score: 7.5
 beer-date: "2016-09-21"

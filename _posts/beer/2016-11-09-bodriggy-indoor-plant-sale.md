@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bodriggy-indoor-plant-sale.md
-title: Bodriggy indoor plant sale
+filename: "_posts/beer/2016-11-09-bodriggy-indoor-plant-sale.md"
+title: "Bodriggy indoor plant sale"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

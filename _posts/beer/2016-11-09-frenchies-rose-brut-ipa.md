@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-frenchies-rose-brut-ipa.md
-title: Frenchies rosé brut IPA
+filename: "_posts/beer/2016-11-09-frenchies-rose-brut-ipa.md"
+title: "Frenchies rosé brut IPA"
 category: beer
 score: 9
 beer-date: "2019-07-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-lager.md
-title: Hope lager
+filename: "_posts/beer/2016-11-09-hope-lager.md"
+title: "Hope lager"
 category: beer
 score: 3
 beer-date: "2021-01-01"

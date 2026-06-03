@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-capital-chai-lee-brown-ale.md
-title: Capital chai-Lee brown ale
+filename: "_posts/beer/2016-11-09-capital-chai-lee-brown-ale.md"
+title: "Capital chai-Lee brown ale"
 category: beer
 score: 9
 beer-date: "2018-10-05"

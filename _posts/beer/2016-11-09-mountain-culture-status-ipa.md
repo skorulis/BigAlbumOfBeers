@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-status-ipa.md
-title: Mountain Culture Status IPA
+filename: "_posts/beer/2016-11-09-mountain-culture-status-ipa.md"
+title: "Mountain Culture Status IPA"
 category: beer
 score: 8
 beer-date: "2025-09-26"

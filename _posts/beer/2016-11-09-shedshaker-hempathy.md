@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shedshaker-hempathy.md
-title: Shedshaker hempathy
+filename: "_posts/beer/2016-11-09-shedshaker-hempathy.md"
+title: "Shedshaker hempathy"
 category: beer
 score: 8
 beer-date: "2023-08-26"

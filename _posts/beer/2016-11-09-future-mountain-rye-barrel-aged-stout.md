@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-future-mountain-rye-barrel-aged-stout.md
-title: Future mountain rye barrel aged stout
+filename: "_posts/beer/2016-11-09-future-mountain-rye-barrel-aged-stout.md"
+title: "Future mountain rye barrel aged stout"
 category: beer
 score: 5
 beer-date: "2023-02-26"

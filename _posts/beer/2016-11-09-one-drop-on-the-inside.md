@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-on-the-inside.md
-title: One drop On The Inside
+filename: "_posts/beer/2016-11-09-one-drop-on-the-inside.md"
+title: "One drop On The Inside"
 category: beer
 score: 8.5
 beer-date: "2025-09-26"

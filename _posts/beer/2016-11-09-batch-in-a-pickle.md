@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-in-a-pickle.md
-title: Batch in a pickle
+filename: "_posts/beer/2016-11-09-batch-in-a-pickle.md"
+title: "Batch in a pickle"
 category: beer
 score: null
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-simply-dark-ale.md
-title: Simply Dark Ale
+filename: "_posts/beer/2016-11-09-simply-dark-ale.md"
+title: "Simply Dark Ale"
 category: beer
 score: 6
 beer-date: "2012-12-25"

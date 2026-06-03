@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-idaho-7.md
-title: Pirate life Idaho-7
+filename: "_posts/beer/2016-11-09-pirate-life-idaho-7.md"
+title: "Pirate life Idaho-7"
 category: beer
 score: 7.5
 beer-date: "2020-12-25"

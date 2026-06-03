@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-face-off.md
-title: Bracket face off
+filename: "_posts/beer/2016-11-09-bracket-face-off.md"
+title: "Bracket face off"
 category: beer
 score: 8
 beer-date: "2023-02-26"

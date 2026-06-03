@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-saranac-pumpkin-ale.md
-title: Saranac pumpkin ale
+filename: "_posts/beer/2016-11-09-saranac-pumpkin-ale.md"
+title: "Saranac pumpkin ale"
 category: beer
 score: 7
 beer-date: "2014-06-21"
@@ -11,6 +11,6 @@ img: /img/list/saranac-pumpkin-ale.jpeg
 untappd: "https://untappd.com/b/the-matt-brewing-company--saranac--saranac-pumpkin-ale/4607"
 country: "United States"
 brewery: "Saranac Brewery (F.X. Matt Brewing Co.)"
-breweryURL: "/brewery/saranac-brewery--f-x--matt-brewing-co.html"
+breweryURL: "/brewery/saranac-brewery-f-x-matt-brewing-co.html"
 style: "Pumpkin / Yam Beer"
 ---

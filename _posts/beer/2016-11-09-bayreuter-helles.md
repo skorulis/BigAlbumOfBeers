@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bayreuter-helles.md
-title: Bayreuter Helles
+filename: "_posts/beer/2016-11-09-bayreuter-helles.md"
+title: "Bayreuter Helles"
 category: beer
 score: 7
 beer-date: "2025-02-15"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-brew-am-i.md
-title: Young Henry’s Brew am I
+filename: "_posts/beer/2016-11-09-young-henry-s-brew-am-i.md"
+title: "Young Henry’s Brew am I"
 category: beer
 score: 7
 beer-date: "2015-05-01"

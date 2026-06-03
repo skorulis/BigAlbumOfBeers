@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brooklyn-summer-ale.md
-title: Brooklyn summer ale
+filename: "_posts/beer/2016-11-09-brooklyn-summer-ale.md"
+title: "Brooklyn summer ale"
 category: beer
 score: 7.5
 beer-date: "2019-07-14"

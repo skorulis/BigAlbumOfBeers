@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-greenock-dark-ale.md
-title: Greenock dark ale
+filename: "_posts/beer/2016-11-09-greenock-dark-ale.md"
+title: "Greenock dark ale"
 category: beer
 score: 7
 beer-date: "2020-01-16"

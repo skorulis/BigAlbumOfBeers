@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sparkle-what-s-planet-b.md
-title: Sparkle what’s planet B
+filename: "_posts/beer/2016-11-09-sparkle-what-s-planet-b.md"
+title: "Sparkle what’s planet B"
 category: beer
 score: 8
 beer-date: "2018-01-13"

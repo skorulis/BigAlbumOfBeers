@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-doubletowner.md
-title: Young Henry’s doubletowner
+filename: "_posts/beer/2016-11-09-young-henry-s-doubletowner.md"
+title: "Young Henry’s doubletowner"
 category: beer
 score: 7.5
 beer-date: "2024-11-09"

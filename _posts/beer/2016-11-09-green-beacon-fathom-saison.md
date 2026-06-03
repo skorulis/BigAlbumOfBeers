@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-beacon-fathom-saison.md
-title: Green beacon fathom saison
+filename: "_posts/beer/2016-11-09-green-beacon-fathom-saison.md"
+title: "Green beacon fathom saison"
 category: beer
 score: 8.5
 beer-date: "2021-06-05"

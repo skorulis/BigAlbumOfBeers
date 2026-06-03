@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-franziskaner-weissbier.md
-title: Franziskaner weissbier
+filename: "_posts/beer/2016-11-09-franziskaner-weissbier.md"
+title: "Franziskaner weissbier"
 category: beer
 score: 7.5
 beer-date: "2017-07-12"

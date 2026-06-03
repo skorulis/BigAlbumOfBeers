@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-founders-dirty-bastard.md
-title: Founders Dirty Bastard
+filename: "_posts/beer/2016-11-09-founders-dirty-bastard.md"
+title: "Founders Dirty Bastard"
 category: beer
 score: 7
 beer-date: "2015-07-10"

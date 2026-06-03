@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-ultraviolet.md
-title: Bracket Ultraviolet
+filename: "_posts/beer/2016-11-09-bracket-ultraviolet.md"
+title: "Bracket Ultraviolet"
 category: beer
 score: 7.5
 beer-date: "2026-03-27"

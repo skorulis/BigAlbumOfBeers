@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-botany-bay-lager.md
-title: One drop Botany Bay lager
+filename: "_posts/beer/2016-11-09-one-drop-botany-bay-lager.md"
+title: "One drop Botany Bay lager"
 category: beer
 score: 6
 beer-date: "2019-06-22"

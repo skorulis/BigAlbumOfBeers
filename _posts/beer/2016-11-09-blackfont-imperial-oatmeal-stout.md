@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackfont-imperial-oatmeal-stout.md
-title: Blackfont imperial oatmeal stout
+filename: "_posts/beer/2016-11-09-blackfont-imperial-oatmeal-stout.md"
+title: "Blackfont imperial oatmeal stout"
 category: beer
 score: 9
 beer-date: "2017-05-27"

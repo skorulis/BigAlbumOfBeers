@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-karlovacko.md
-title: Karlovačko
+filename: "_posts/beer/2016-11-09-karlovacko.md"
+title: "Karlovačko"
 category: beer
 score: 5
 beer-date: "2018-02-17"
@@ -11,6 +11,6 @@ img: /img/list/karlovacko.jpeg
 untappd: "https://untappd.com/b/karlovacka-pivovara--heineken-croatia--karlovacko-pivo--svijetlo/22061"
 country: "Croatia"
 brewery: "Karlovačka Pivovara (Heineken Croatia)"
-breweryURL: "/brewery/karlovacka-pivovara--heineken-croatia.html"
+breweryURL: "/brewery/karlovacka-pivovara-heineken-croatia.html"
 style: "Lager - Pale"
 ---

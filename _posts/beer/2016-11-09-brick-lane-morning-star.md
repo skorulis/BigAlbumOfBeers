@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brick-lane-morning-star.md
-title: Brick lane Morning star
+filename: "_posts/beer/2016-11-09-brick-lane-morning-star.md"
+title: "Brick lane Morning star"
 category: beer
 score: 7
 beer-date: "2022-08-07"

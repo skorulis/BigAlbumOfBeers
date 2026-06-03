@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-newstead-21-feet-7-inches.md
-title: Newstead 21 feet 7 inches
+filename: "_posts/beer/2016-11-09-newstead-21-feet-7-inches.md"
+title: "Newstead 21 feet 7 inches"
 category: beer
 score: 7.5
 beer-date: "2017-04-11"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-perla-midowa.md
-title: Perla Midowa
+filename: "_posts/beer/2016-11-09-perla-midowa.md"
+title: "Perla Midowa"
 category: beer
 score: 6
 beer-date: "2015-02-27"

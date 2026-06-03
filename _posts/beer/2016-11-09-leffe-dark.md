@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-leffe-dark.md
-title: Leffe dark
+filename: "_posts/beer/2016-11-09-leffe-dark.md"
+title: "Leffe dark"
 category: beer
 score: 7
 beer-date: "2014-03-01"

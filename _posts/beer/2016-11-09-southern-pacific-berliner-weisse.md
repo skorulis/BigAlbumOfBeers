@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-southern-pacific-berliner-weisse.md
-title: Southern pacific Berliner weisse
+filename: "_posts/beer/2016-11-09-southern-pacific-berliner-weisse.md"
+title: "Southern pacific Berliner weisse"
 category: beer
 score: 8
 beer-date: "2023-02-26"

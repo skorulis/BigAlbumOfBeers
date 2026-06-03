@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-uniformity-of-form.md
-title: White bay uniformity of form
+filename: "_posts/beer/2016-11-09-white-bay-uniformity-of-form.md"
+title: "White bay uniformity of form"
 category: beer
 score: 8
 beer-date: "2020-07-31"

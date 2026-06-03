@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-heiden-peters-dipa.md
-title: Heiden Peters DIPA
+filename: "_posts/beer/2016-11-09-heiden-peters-dipa.md"
+title: "Heiden Peters DIPA"
 category: beer
 score: 9
 beer-date: "2017-06-15"

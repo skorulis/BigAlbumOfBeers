@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shark-island-summer-ale.md
-title: Shark island summer ale
+filename: "_posts/beer/2016-11-09-shark-island-summer-ale.md"
+title: "Shark island summer ale"
 category: beer
 score: 6
 beer-date: "2016-09-21"

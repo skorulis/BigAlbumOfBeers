@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-point-global-warmer.md
-title: Six point Global Warmer
+filename: "_posts/beer/2016-11-09-six-point-global-warmer.md"
+title: "Six point Global Warmer"
 category: beer
 score: 6
 beer-date: "2015-05-01"

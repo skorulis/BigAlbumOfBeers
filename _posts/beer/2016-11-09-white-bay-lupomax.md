@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-lupomax.md
-title: White bay lupomax
+filename: "_posts/beer/2016-11-09-white-bay-lupomax.md"
+title: "White bay lupomax"
 category: beer
 score: 6
 beer-date: "2022-08-07"

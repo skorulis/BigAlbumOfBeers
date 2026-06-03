@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yullis-betoota-bitter.md
-title: Yullis betoota bitter
+filename: "_posts/beer/2016-11-09-yullis-betoota-bitter.md"
+title: "Yullis betoota bitter"
 category: beer
 score: 7
 beer-date: "2018-11-05"

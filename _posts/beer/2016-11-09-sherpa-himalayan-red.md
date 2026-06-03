@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sherpa-himalayan-red.md
-title: Sherpa Himalayan red
+filename: "_posts/beer/2016-11-09-sherpa-himalayan-red.md"
+title: "Sherpa Himalayan red"
 category: beer
 score: 6
 beer-date: "2019-06-22"

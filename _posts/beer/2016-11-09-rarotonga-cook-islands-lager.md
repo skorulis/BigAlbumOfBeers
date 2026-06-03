@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rarotonga-cook-islands-lager.md
-title: Rarotonga Cook Islands Lager
+filename: "_posts/beer/2016-11-09-rarotonga-cook-islands-lager.md"
+title: "Rarotonga Cook Islands Lager"
 category: beer
 score: 6
 beer-date: "2025-09-26"

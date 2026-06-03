@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-swindler.md
-title: James Squire Swindler
+filename: "_posts/beer/2016-11-09-james-squire-swindler.md"
+title: "James Squire Swindler"
 category: beer
 score: 6
 beer-date: "2016-03-16"

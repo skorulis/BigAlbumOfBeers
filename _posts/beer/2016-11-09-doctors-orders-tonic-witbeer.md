@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-doctors-orders-tonic-witbeer.md
-title: Doctors orders tonic witbeer
+filename: "_posts/beer/2016-11-09-doctors-orders-tonic-witbeer.md"
+title: "Doctors orders tonic witbeer"
 category: beer
 score: 8
 beer-date: "2017-02-11"

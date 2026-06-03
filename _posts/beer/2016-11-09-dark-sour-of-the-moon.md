@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dark-sour-of-the-moon.md
-title: Dark sour of the moon
+filename: "_posts/beer/2016-11-09-dark-sour-of-the-moon.md"
+title: "Dark sour of the moon"
 category: beer
 score: 7.5
 beer-date: "2020-12-25"

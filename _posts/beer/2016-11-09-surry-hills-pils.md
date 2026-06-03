@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-surry-hills-pils.md
-title: Surry hills pils
+filename: "_posts/beer/2016-11-09-surry-hills-pils.md"
+title: "Surry hills pils"
 category: beer
 score: 5
 beer-date: "2015-01-28"

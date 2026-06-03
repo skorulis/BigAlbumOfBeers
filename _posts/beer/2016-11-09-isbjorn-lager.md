@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-isbjorn-lager.md
-title: Isbjorn lager
+filename: "_posts/beer/2016-11-09-isbjorn-lager.md"
+title: "Isbjorn lager"
 category: beer
 score: 5.5
 beer-date: "2022-08-07"

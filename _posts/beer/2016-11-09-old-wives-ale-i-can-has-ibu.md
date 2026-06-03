@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-old-wives-ale-i-can-has-ibu.md
-title: Old wives ale I can has IBU
+filename: "_posts/beer/2016-11-09-old-wives-ale-i-can-has-ibu.md"
+title: "Old wives ale I can has IBU"
 category: beer
 score: 8
 beer-date: "2021-01-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-niksicko-pivo.md
-title: Nikšićko pivo
+filename: "_posts/beer/2016-11-09-niksicko-pivo.md"
+title: "Nikšićko pivo"
 category: beer
 score: 5
 beer-date: "2020-07-31"

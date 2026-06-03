@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-modus-operandi-pangea.md
-title: Modus operandi Pangea
+filename: "_posts/beer/2016-11-09-modus-operandi-pangea.md"
+title: "Modus operandi Pangea"
 category: beer
 score: 7.5
 beer-date: "2019-11-22"

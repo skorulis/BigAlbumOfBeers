@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-saigon-special.md
-title: Saigon special
+filename: "_posts/beer/2016-11-09-saigon-special.md"
+title: "Saigon special"
 category: beer
 score: 5.5
 beer-date: "2018-02-17"

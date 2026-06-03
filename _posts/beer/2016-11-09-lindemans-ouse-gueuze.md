@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lindemans-ouse-gueuze.md
-title: Lindemans Ouse gueuze
+filename: "_posts/beer/2016-11-09-lindemans-ouse-gueuze.md"
+title: "Lindemans Ouse gueuze"
 category: beer
 score: 7
 beer-date: "2018-03-13"

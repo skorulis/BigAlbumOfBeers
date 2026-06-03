@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-pineapple-squeak.md
-title: Sauce pineapple squeak
+filename: "_posts/beer/2016-11-09-sauce-pineapple-squeak.md"
+title: "Sauce pineapple squeak"
 category: beer
 score: 9
 beer-date: "2020-12-25"

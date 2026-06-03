@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shofferhofer.md
-title: Shofferhofer
+filename: "_posts/beer/2016-11-09-shofferhofer.md"
+title: "Shofferhofer"
 category: beer
 score: 8
 beer-date: "2022-08-07"

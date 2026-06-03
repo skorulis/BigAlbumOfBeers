@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-meanwhile-tender-robot.md
-title: Meanwhile Tender Robot
+filename: "_posts/beer/2016-11-09-meanwhile-tender-robot.md"
+title: "Meanwhile Tender Robot"
 category: beer
 score: 6.5
 beer-date: "2025-09-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-progressive-infinite-iterations.md
-title: Garage project progressive infinite iterations
+filename: "_posts/beer/2016-11-09-garage-project-progressive-infinite-iterations.md"
+title: "Garage project progressive infinite iterations"
 category: beer
 score: 8.5
 beer-date: "2021-12-28"

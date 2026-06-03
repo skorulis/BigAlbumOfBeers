@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackhammer-cuddle-puddle.md
-title: Blackhammer cuddle puddle
+filename: "_posts/beer/2016-11-09-blackhammer-cuddle-puddle.md"
+title: "Blackhammer cuddle puddle"
 category: beer
 score: 5.5
 beer-date: "2023-02-26"

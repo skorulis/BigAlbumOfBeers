@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-what-is-this-wizardry.md
-title: Banks what is this wizardry
+filename: "_posts/beer/2016-11-09-banks-what-is-this-wizardry.md"
+title: "Banks what is this wizardry"
 category: beer
 score: 9.5
 beer-date: "2022-08-07"

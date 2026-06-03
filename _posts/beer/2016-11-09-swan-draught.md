@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-swan-draught.md
-title: Swan draught
+filename: "_posts/beer/2016-11-09-swan-draught.md"
+title: "Swan draught"
 category: beer
 score: 7
 beer-date: "2021-06-05"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-saison.md
-title: Wayward saison
+filename: "_posts/beer/2016-11-09-wayward-saison.md"
+title: "Wayward saison"
 category: beer
 score: 7
 beer-date: "2017-01-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jindabyne-hefe.md
-title: Jindabyne hefe
+filename: "_posts/beer/2016-11-09-jindabyne-hefe.md"
+title: "Jindabyne hefe"
 category: beer
 score: 8
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-volfas-engelman-jubiliejinis-160.md
-title: Volfas Engelman Jubiliejinis 160
+filename: "_posts/beer/2016-11-09-volfas-engelman-jubiliejinis-160.md"
+title: "Volfas Engelman Jubiliejinis 160"
 category: beer
 score: 7
 beer-date: "2013-10-25"

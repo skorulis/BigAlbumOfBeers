@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-hefeweizen.md
-title: White bay Hefeweizen
+filename: "_posts/beer/2016-11-09-white-bay-hefeweizen.md"
+title: "White bay Hefeweizen"
 category: beer
 score: 6
 beer-date: "2024-03-29"

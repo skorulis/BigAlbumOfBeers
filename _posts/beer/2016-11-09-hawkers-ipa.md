@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-ipa.md
-title: Hawkers IPA
+filename: "_posts/beer/2016-11-09-hawkers-ipa.md"
+title: "Hawkers IPA"
 category: beer
 score: 7.5
 beer-date: "2017-02-11"

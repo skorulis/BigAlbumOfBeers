@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-pine-a-pils.md
-title: Wayward Pine-a-pils
+filename: "_posts/beer/2016-11-09-wayward-pine-a-pils.md"
+title: "Wayward Pine-a-pils"
 category: beer
 score: 7.5
 beer-date: "2017-01-21"

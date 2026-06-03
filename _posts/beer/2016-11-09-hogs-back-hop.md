@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hogs-back-hop.md
-title: Hogs back hop
+filename: "_posts/beer/2016-11-09-hogs-back-hop.md"
+title: "Hogs back hop"
 category: beer
 score: 1
 beer-date: "2013-05-25"

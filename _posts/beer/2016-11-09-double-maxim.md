@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-double-maxim.md
-title: Double maxim
+filename: "_posts/beer/2016-11-09-double-maxim.md"
+title: "Double maxim"
 category: beer
 score: 5
 beer-date: "2012-11-13"

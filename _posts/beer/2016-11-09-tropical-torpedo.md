@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tropical-torpedo.md
-title: Tropical torpedo
+filename: "_posts/beer/2016-11-09-tropical-torpedo.md"
+title: "Tropical torpedo"
 category: beer
 score: 8
 beer-date: "2017-04-11"

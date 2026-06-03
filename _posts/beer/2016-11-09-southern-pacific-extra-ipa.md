@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-southern-pacific-extra-ipa.md
-title: Southern pacific extra IPA
+filename: "_posts/beer/2016-11-09-southern-pacific-extra-ipa.md"
+title: "Southern pacific extra IPA"
 category: beer
 score: 8.5
 beer-date: "2023-02-26"

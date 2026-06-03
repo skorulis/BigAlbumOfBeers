@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawthorn-unicorn.md
-title: Hawthorn unicorn
+filename: "_posts/beer/2016-11-09-hawthorn-unicorn.md"
+title: "Hawthorn unicorn"
 category: beer
 score: 8
 beer-date: "2020-12-25"

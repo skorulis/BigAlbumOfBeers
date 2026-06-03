@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cwrw-gwledd-celebration-ale.md
-title: Cwrw gwledd celebration ale
+filename: "_posts/beer/2016-11-09-cwrw-gwledd-celebration-ale.md"
+title: "Cwrw gwledd celebration ale"
 category: beer
 score: 6
 beer-date: "2013-05-25"

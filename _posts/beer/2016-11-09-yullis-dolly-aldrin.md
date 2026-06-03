@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yullis-dolly-aldrin.md
-title: Yullis dolly aldrin
+filename: "_posts/beer/2016-11-09-yullis-dolly-aldrin.md"
+title: "Yullis dolly aldrin"
 category: beer
 score: null
 beer-date: "2021-11-12"

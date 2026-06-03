@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-3-ravens-shake.md
-title: 3 ravens shake
+filename: "_posts/beer/2016-11-09-3-ravens-shake.md"
+title: "3 ravens shake"
 category: beer
 score: 8
 beer-date: "2021-01-31"

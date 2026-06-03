@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coopers-2019-vintage.md
-title: Coopers 2019 vintage
+filename: "_posts/beer/2016-11-09-coopers-2019-vintage.md"
+title: "Coopers 2019 vintage"
 category: beer
 score: 5.5
 beer-date: "2019-11-22"

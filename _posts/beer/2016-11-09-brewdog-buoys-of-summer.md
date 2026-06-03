@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewdog-buoys-of-summer.md
-title: Brewdog buoys of summer
+filename: "_posts/beer/2016-11-09-brewdog-buoys-of-summer.md"
+title: "Brewdog buoys of summer"
 category: beer
 score: 7
 beer-date: "2023-02-26"

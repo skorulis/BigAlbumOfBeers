@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballast-point-sea-rose.md
-title: Ballast point sea rose
+filename: "_posts/beer/2016-11-09-ballast-point-sea-rose.md"
+title: "Ballast point sea rose"
 category: beer
 score: 7
 beer-date: "2018-01-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bentspoke-descent-22.md
-title: Bentspoke descent 22
+filename: "_posts/beer/2016-11-09-bentspoke-descent-22.md"
+title: "Bentspoke descent 22"
 category: beer
 score: 8
 beer-date: "2023-02-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-redbay-vlad-white-ipa.md
-title: Redbay Vlad White IPA
+filename: "_posts/beer/2016-11-09-redbay-vlad-white-ipa.md"
+title: "Redbay Vlad White IPA"
 category: beer
 score: 8.5
 beer-date: "2016-09-21"

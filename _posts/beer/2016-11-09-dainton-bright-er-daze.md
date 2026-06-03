@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dainton-bright-er-daze.md
-title: Dainton Bright-er daze
+filename: "_posts/beer/2016-11-09-dainton-bright-er-daze.md"
+title: "Dainton Bright-er daze"
 category: beer
 score: 7
 beer-date: "2021-11-12"

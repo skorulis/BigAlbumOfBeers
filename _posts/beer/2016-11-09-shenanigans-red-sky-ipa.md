@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shenanigans-red-sky-ipa.md
-title: Shenanigans red sky IPA
+filename: "_posts/beer/2016-11-09-shenanigans-red-sky-ipa.md"
+title: "Shenanigans red sky IPA"
 category: beer
 score: 8
 beer-date: "2016-01-06"

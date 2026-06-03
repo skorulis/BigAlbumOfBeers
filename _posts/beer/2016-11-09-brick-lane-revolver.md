@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brick-lane-revolver.md
-title: Brick lane Revolver
+filename: "_posts/beer/2016-11-09-brick-lane-revolver.md"
+title: "Brick lane Revolver"
 category: beer
 score: 6
 beer-date: "2021-01-01"

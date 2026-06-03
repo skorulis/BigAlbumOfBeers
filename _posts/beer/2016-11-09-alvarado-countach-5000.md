@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-alvarado-countach-5000.md
-title: Alvarado Countach 5000
+filename: "_posts/beer/2016-11-09-alvarado-countach-5000.md"
+title: "Alvarado Countach 5000"
 category: beer
 score: 9
 beer-date: "2025-09-26"

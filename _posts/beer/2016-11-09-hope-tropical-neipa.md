@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-tropical-neipa.md
-title: Hope tropical NEIPA
+filename: "_posts/beer/2016-11-09-hope-tropical-neipa.md"
+title: "Hope tropical NEIPA"
 category: beer
 score: 10
 beer-date: "2019-07-14"

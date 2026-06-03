@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-point-resin.md
-title: Six point resin
+filename: "_posts/beer/2016-11-09-six-point-resin.md"
+title: "Six point resin"
 category: beer
 score: 7
 beer-date: "2015-04-13"

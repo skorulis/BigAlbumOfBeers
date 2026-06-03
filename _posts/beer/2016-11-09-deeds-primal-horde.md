@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deeds-primal-horde.md
-title: Deeds primal horde
+filename: "_posts/beer/2016-11-09-deeds-primal-horde.md"
+title: "Deeds primal horde"
 category: beer
 score: 8.5
 beer-date: "2020-12-25"

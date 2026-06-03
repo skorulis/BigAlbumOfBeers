@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jetty-road-infinite-8.md
-title: Jetty road infinite 8
+filename: "_posts/beer/2016-11-09-jetty-road-infinite-8.md"
+title: "Jetty road infinite 8"
 category: beer
 score: 8.5
 beer-date: "2020-09-26"

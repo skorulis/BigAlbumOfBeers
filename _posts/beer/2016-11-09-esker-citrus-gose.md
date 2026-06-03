@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-esker-citrus-gose.md
-title: Esker citrus gose
+filename: "_posts/beer/2016-11-09-esker-citrus-gose.md"
+title: "Esker citrus gose"
 category: beer
 score: 8.5
 beer-date: "2024-11-23"
@@ -11,6 +11,6 @@ img: /img/list/esker-citrus-gose.jpeg
 untappd: "https://untappd.com/b/esker-beer-co--esker-beer-co--citrus-gose/5061259"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "/brewery/-australian-brewery.html"
+breweryURL: "/brewery/australian-brewery.html"
 style: "Sour - Fruited Gose"
 ---

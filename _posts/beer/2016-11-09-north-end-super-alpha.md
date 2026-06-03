@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-north-end-super-alpha.md
-title: North end super alpha
+filename: "_posts/beer/2016-11-09-north-end-super-alpha.md"
+title: "North end super alpha"
 category: beer
 score: 6
 beer-date: "2019-04-22"

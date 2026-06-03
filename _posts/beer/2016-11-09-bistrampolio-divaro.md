@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bistrampolio-divaro.md
-title: Bistrampolio divaro
+filename: "_posts/beer/2016-11-09-bistrampolio-divaro.md"
+title: "Bistrampolio divaro"
 category: beer
 score: 7.5
 beer-date: "2024-11-09"

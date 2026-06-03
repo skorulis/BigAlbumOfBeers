@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-beacon-grappler-lager.md
-title: Green beacon grappler lager
+filename: "_posts/beer/2016-11-09-green-beacon-grappler-lager.md"
+title: "Green beacon grappler lager"
 category: beer
 score: 7.5
 beer-date: "2021-11-12"

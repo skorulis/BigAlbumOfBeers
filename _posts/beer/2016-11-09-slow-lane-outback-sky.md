@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slow-lane-outback-sky.md
-title: Slow lane outback sky
+filename: "_posts/beer/2016-11-09-slow-lane-outback-sky.md"
+title: "Slow lane outback sky"
 category: beer
 score: 7
 beer-date: "2024-11-23"

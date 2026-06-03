@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-analog.md
-title: Bracket Analog
+filename: "_posts/beer/2016-11-09-bracket-analog.md"
+title: "Bracket Analog"
 category: beer
 score: 7.5
 beer-date: "2026-03-27"

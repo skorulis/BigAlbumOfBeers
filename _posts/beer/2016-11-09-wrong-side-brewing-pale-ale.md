@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wrong-side-brewing-pale-ale.md
-title: Wrong side brewing pale ale
+filename: "_posts/beer/2016-11-09-wrong-side-brewing-pale-ale.md"
+title: "Wrong side brewing pale ale"
 category: beer
 score: 5.5
 beer-date: "2017-03-03"

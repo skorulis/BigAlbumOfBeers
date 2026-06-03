@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-willie-the-boatman-salty-melon.md
-title: Willie the boatman salty melon
+filename: "_posts/beer/2016-11-09-willie-the-boatman-salty-melon.md"
+title: "Willie the boatman salty melon"
 category: beer
 score: 8
 beer-date: "2017-03-03"

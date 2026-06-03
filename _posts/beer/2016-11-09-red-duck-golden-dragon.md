@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-red-duck-golden-dragon.md
-title: Red duck golden dragon
+filename: "_posts/beer/2016-11-09-red-duck-golden-dragon.md"
+title: "Red duck golden dragon"
 category: beer
 score: 8.5
 beer-date: "2023-08-26"

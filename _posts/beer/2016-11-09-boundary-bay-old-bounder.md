@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boundary-bay-old-bounder.md
-title: Boundary Bay Old Bounder
+filename: "_posts/beer/2016-11-09-boundary-bay-old-bounder.md"
+title: "Boundary Bay Old Bounder"
 category: beer
 score: 8
 beer-date: "2025-09-26"

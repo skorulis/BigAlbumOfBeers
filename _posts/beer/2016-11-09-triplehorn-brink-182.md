@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-triplehorn-brink-182.md
-title: Triplehorn Brink 182
+filename: "_posts/beer/2016-11-09-triplehorn-brink-182.md"
+title: "Triplehorn Brink 182"
 category: beer
 score: 7
 beer-date: "2025-09-26"

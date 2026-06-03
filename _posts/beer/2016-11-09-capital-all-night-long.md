@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-capital-all-night-long.md
-title: Capital all night long
+filename: "_posts/beer/2016-11-09-capital-all-night-long.md"
+title: "Capital all night long"
 category: beer
 score: 6.5
 beer-date: "2023-08-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-vale-ale-ipa.md
-title: Vale ale IPA
+filename: "_posts/beer/2016-11-09-vale-ale-ipa.md"
+title: "Vale ale IPA"
 category: beer
 score: 7
 beer-date: "2014-03-18"

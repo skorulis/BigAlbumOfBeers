@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-tasty-pale-ale.md
-title: Mountain goat tasty pale ale
+filename: "_posts/beer/2016-11-09-mountain-goat-tasty-pale-ale.md"
+title: "Mountain goat tasty pale ale"
 category: beer
 score: 6
 beer-date: "2024-11-09"

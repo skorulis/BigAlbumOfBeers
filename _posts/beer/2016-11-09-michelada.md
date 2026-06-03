@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-michelada.md
-title: Michelada
+filename: "_posts/beer/2016-11-09-michelada.md"
+title: "Michelada"
 category: beer
 score: 6
 beer-date: "2018-06-02"

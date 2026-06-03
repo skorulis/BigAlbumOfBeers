@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bath-ales-gem.md
-title: Bath ales gem
+filename: "_posts/beer/2016-11-09-bath-ales-gem.md"
+title: "Bath ales gem"
 category: beer
 score: 5
 beer-date: "2013-05-25"

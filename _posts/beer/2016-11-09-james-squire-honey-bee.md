@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-honey-bee.md
-title: James squire honey bee
+filename: "_posts/beer/2016-11-09-james-squire-honey-bee.md"
+title: "James squire honey bee"
 category: beer
 score: 6
 beer-date: "2020-11-13"

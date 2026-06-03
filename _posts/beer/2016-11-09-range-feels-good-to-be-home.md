@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-feels-good-to-be-home.md
-title: Range feels good to be home
+filename: "_posts/beer/2016-11-09-range-feels-good-to-be-home.md"
+title: "Range feels good to be home"
 category: beer
 score: 8
 beer-date: "2022-08-07"

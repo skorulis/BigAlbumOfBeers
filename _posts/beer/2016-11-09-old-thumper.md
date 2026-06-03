@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-old-thumper.md
-title: Old Thumper
+filename: "_posts/beer/2016-11-09-old-thumper.md"
+title: "Old Thumper"
 category: beer
 score: 4
 beer-date: "2012-12-25"

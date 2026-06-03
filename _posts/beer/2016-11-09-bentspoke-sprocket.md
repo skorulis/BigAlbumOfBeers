@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bentspoke-sprocket.md
-title: Bentspoke sprocket
+filename: "_posts/beer/2016-11-09-bentspoke-sprocket.md"
+title: "Bentspoke sprocket"
 category: beer
 score: 8
 beer-date: "2021-01-31"

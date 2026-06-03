@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-love-tap-double-lager.md
-title: Love tap double lager
+filename: "_posts/beer/2016-11-09-love-tap-double-lager.md"
+title: "Love tap double lager"
 category: beer
 score: 7
 beer-date: "2015-05-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-anderson-valley-hop-ottin-ipa.md
-title: Anderson Valley Hop Ottin IPA
+filename: "_posts/beer/2016-11-09-anderson-valley-hop-ottin-ipa.md"
+title: "Anderson Valley Hop Ottin IPA"
 category: beer
 score: 9
 beer-date: "2016-11-13"

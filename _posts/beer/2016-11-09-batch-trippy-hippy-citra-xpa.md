@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-trippy-hippy-citra-xpa.md
-title: Batch trippy hippy citra xpa
+filename: "_posts/beer/2016-11-09-batch-trippy-hippy-citra-xpa.md"
+title: "Batch trippy hippy citra xpa"
 category: beer
 score: 7
 beer-date: "2017-03-05"

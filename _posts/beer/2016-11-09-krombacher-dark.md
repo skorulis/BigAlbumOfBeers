@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-krombacher-dark.md
-title: Krombacher dark
+filename: "_posts/beer/2016-11-09-krombacher-dark.md"
+title: "Krombacher dark"
 category: beer
 score: 6.5
 beer-date: "2018-12-27"

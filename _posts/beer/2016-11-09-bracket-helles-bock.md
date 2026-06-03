@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-helles-bock.md
-title: Bracket helles bock
+filename: "_posts/beer/2016-11-09-bracket-helles-bock.md"
+title: "Bracket helles bock"
 category: beer
 score: 8.5
 beer-date: "2020-12-25"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moon-dog-lager.md
-title: Moon dog lager
+filename: "_posts/beer/2016-11-09-moon-dog-lager.md"
+title: "Moon dog lager"
 category: beer
 score: 4
 beer-date: "2020-07-31"

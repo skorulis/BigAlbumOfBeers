@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jenlain-ambre.md
-title: Jenlain Ambre
+filename: "_posts/beer/2016-11-09-jenlain-ambre.md"
+title: "Jenlain Ambre"
 category: beer
 score: 6
 beer-date: "2015-01-28"

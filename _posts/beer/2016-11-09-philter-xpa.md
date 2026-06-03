@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-philter-xpa.md
-title: Philter XPA
+filename: "_posts/beer/2016-11-09-philter-xpa.md"
+title: "Philter XPA"
 category: beer
 score: 7.5
 beer-date: "2017-10-28"

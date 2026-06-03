@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-brewing-galaxy-ipa.md
-title: Little brewing Galaxy IPA
+filename: "_posts/beer/2016-11-09-little-brewing-galaxy-ipa.md"
+title: "Little brewing Galaxy IPA"
 category: beer
 score: 9
 beer-date: "2016-02-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackfont-wheat-ipa.md
-title: Blackfont wheat IPA
+filename: "_posts/beer/2016-11-09-blackfont-wheat-ipa.md"
+title: "Blackfont wheat IPA"
 category: beer
 score: 8
 beer-date: "2017-05-27"

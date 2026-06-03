@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shambles-barry-white.md
-title: Shambles Barry white
+filename: "_posts/beer/2016-11-09-shambles-barry-white.md"
+title: "Shambles Barry white"
 category: beer
 score: 8
 beer-date: "2019-04-22"

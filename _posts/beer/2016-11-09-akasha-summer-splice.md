@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-summer-splice.md
-title: Akasha summer splice
+filename: "_posts/beer/2016-11-09-akasha-summer-splice.md"
+title: "Akasha summer splice"
 category: beer
 score: 6.5
 beer-date: "2022-08-07"
@@ -11,6 +11,6 @@ img: /img/list/akasha-summer-splice.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-summer-slice-watermelon-ipa/4622180"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - American"
 ---

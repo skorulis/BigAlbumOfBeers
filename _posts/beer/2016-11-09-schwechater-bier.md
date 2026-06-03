@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-schwechater-bier.md
-title: Schwechater bier
+filename: "_posts/beer/2016-11-09-schwechater-bier.md"
+title: "Schwechater bier"
 category: beer
 score: 6
 beer-date: "2017-06-15"

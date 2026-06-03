@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-monteith-s-summer-ale.md
-title: Monteith’s summer ale
+filename: "_posts/beer/2016-11-09-monteith-s-summer-ale.md"
+title: "Monteith’s summer ale"
 category: beer
 score: 6
 beer-date: "2015-02-27"
@@ -11,6 +11,6 @@ img: /img/list/monteith-s-summer-ale.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-summer-ale/5143"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "/brewery/monteith-s-brewing-co--.html"
+breweryURL: "/brewery/monteith-s-brewing-co.html"
 style: "Golden Ale"
 ---

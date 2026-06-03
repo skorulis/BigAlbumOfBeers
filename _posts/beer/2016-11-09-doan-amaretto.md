@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-doan-amaretto.md
-title: Doan amaretto
+filename: "_posts/beer/2016-11-09-doan-amaretto.md"
+title: "Doan amaretto"
 category: beer
 score: 8.5
 beer-date: "2017-05-27"

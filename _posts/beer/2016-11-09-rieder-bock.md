@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rieder-bock.md
-title: Rieder bock
+filename: "_posts/beer/2016-11-09-rieder-bock.md"
+title: "Rieder bock"
 category: beer
 score: 6.5
 beer-date: "2017-07-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-murray-coco-hops.md
-title: Murray coco hops
+filename: "_posts/beer/2016-11-09-murray-coco-hops.md"
+title: "Murray coco hops"
 category: beer
 score: 7
 beer-date: "2019-06-22"

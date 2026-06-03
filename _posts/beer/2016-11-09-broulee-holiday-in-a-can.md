@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-broulee-holiday-in-a-can.md
-title: Broulee Holiday in a can
+filename: "_posts/beer/2016-11-09-broulee-holiday-in-a-can.md"
+title: "Broulee Holiday in a can"
 category: beer
 score: 8
 beer-date: "2024-11-23"

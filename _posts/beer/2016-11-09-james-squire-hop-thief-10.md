@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-hop-thief-10.md
-title: James squire hop thief 10
+filename: "_posts/beer/2016-11-09-james-squire-hop-thief-10.md"
+title: "James squire hop thief 10"
 category: beer
 score: 7
 beer-date: "2022-08-07"

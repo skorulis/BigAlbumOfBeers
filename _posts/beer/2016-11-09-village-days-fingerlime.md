@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-village-days-fingerlime.md
-title: Village Days Fingerlime
+filename: "_posts/beer/2016-11-09-village-days-fingerlime.md"
+title: "Village Days Fingerlime"
 category: beer
 score: 7.5
 beer-date: "2025-02-15"

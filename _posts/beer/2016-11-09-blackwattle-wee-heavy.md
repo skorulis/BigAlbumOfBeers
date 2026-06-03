@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackwattle-wee-heavy.md
-title: Blackwattle Wee Heavy
+filename: "_posts/beer/2016-11-09-blackwattle-wee-heavy.md"
+title: "Blackwattle Wee Heavy"
 category: beer
 score: 7
 beer-date: "2025-11-10"

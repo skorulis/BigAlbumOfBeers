@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-lost-city.md
-title: Garage project lost city
+filename: "_posts/beer/2016-11-09-garage-project-lost-city.md"
+title: "Garage project lost city"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

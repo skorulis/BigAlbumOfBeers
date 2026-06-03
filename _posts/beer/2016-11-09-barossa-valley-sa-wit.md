@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-barossa-valley-sa-wit.md
-title: Barossa valley SA wit
+filename: "_posts/beer/2016-11-09-barossa-valley-sa-wit.md"
+title: "Barossa valley SA wit"
 category: beer
 score: 8.5
 beer-date: "2016-09-21"

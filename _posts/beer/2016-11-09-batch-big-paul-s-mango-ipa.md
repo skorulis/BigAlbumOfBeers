@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-big-paul-s-mango-ipa.md
-title: Batch big Paul's mango IPA
+filename: "_posts/beer/2016-11-09-batch-big-paul-s-mango-ipa.md"
+title: "Batch big Paul's mango IPA"
 category: beer
 score: 9
 beer-date: "2016-02-14"

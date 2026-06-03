@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-botanical-ipa.md
-title: Mountain goat botanical IPA
+filename: "_posts/beer/2016-11-09-mountain-goat-botanical-ipa.md"
+title: "Mountain goat botanical IPA"
 category: beer
 score: 9.5
 beer-date: "2021-04-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-southern-tier-2xsmash.md
-title: Southern tier 2XSMASH
+filename: "_posts/beer/2016-11-09-southern-tier-2xsmash.md"
+title: "Southern tier 2XSMASH"
 category: beer
 score: 7.5
 beer-date: "2017-08-21"

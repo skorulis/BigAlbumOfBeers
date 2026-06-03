@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ginga-kogen.md
-title: Ginga kogen
+filename: "_posts/beer/2016-11-09-ginga-kogen.md"
+title: "Ginga kogen"
 category: beer
 score: 6.5
 beer-date: "2017-10-28"

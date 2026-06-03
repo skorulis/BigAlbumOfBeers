@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dainton-tropical-trooper.md
-title: Dainton tropical trooper
+filename: "_posts/beer/2016-11-09-dainton-tropical-trooper.md"
+title: "Dainton tropical trooper"
 category: beer
 score: 8
 beer-date: "2023-08-26"

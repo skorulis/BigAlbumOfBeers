@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-magic-rock-salty-kiss.md
-title: Magic rock salty kiss
+filename: "_posts/beer/2016-11-09-magic-rock-salty-kiss.md"
+title: "Magic rock salty kiss"
 category: beer
 score: 7
 beer-date: "2016-06-16"

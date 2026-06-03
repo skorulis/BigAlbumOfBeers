@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-merchant-three-toe.md
-title: Merchant three toe
+filename: "_posts/beer/2016-11-09-merchant-three-toe.md"
+title: "Merchant three toe"
 category: beer
 score: 5
 beer-date: "2016-01-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-aussie-wheat.md
-title: Mountain goat Aussie wheat
+filename: "_posts/beer/2016-11-09-mountain-goat-aussie-wheat.md"
+title: "Mountain goat Aussie wheat"
 category: beer
 score: 6
 beer-date: "2024-11-09"

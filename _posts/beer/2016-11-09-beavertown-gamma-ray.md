@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beavertown-gamma-ray.md
-title: Beavertown gamma ray
+filename: "_posts/beer/2016-11-09-beavertown-gamma-ray.md"
+title: "Beavertown gamma ray"
 category: beer
 score: 7.5
 beer-date: "2023-09-06"

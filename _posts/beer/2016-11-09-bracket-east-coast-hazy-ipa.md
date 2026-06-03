@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-east-coast-hazy-ipa.md
-title: Bracket east coast hazy IPA
+filename: "_posts/beer/2016-11-09-bracket-east-coast-hazy-ipa.md"
+title: "Bracket east coast hazy IPA"
 category: beer
 score: 8
 beer-date: "2020-11-13"

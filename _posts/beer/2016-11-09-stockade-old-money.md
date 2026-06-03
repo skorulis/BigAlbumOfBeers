@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stockade-old-money.md
-title: Stockade old money
+filename: "_posts/beer/2016-11-09-stockade-old-money.md"
+title: "Stockade old money"
 category: beer
 score: 7.5
 beer-date: "2018-03-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-redbay-bearded-hobo-pale-ale.md
-title: Redbay bearded hobo pale ale
+filename: "_posts/beer/2016-11-09-redbay-bearded-hobo-pale-ale.md"
+title: "Redbay bearded hobo pale ale"
 category: beer
 score: 7.5
 beer-date: "2016-09-21"

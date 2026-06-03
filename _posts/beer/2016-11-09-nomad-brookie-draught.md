@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-brookie-draught.md
-title: Nomad brookie draught
+filename: "_posts/beer/2016-11-09-nomad-brookie-draught.md"
+title: "Nomad brookie draught"
 category: beer
 score: 5
 beer-date: "2021-11-12"

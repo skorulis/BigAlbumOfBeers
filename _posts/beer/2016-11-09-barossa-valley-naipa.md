@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-barossa-valley-naipa.md
-title: Barossa Valley NAIPA
+filename: "_posts/beer/2016-11-09-barossa-valley-naipa.md"
+title: "Barossa Valley NAIPA"
 category: beer
 score: 8.5
 beer-date: "2019-06-22"

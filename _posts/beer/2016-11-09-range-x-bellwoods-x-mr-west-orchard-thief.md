@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-x-bellwoods-x-mr-west-orchard-thief.md
-title: Range x bellwoods x mr west orchard thief
+filename: "_posts/beer/2016-11-09-range-x-bellwoods-x-mr-west-orchard-thief.md"
+title: "Range x bellwoods x mr west orchard thief"
 category: beer
 score: 8
 beer-date: "2022-08-07"

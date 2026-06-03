@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-and-wood-cloud-catcher.md
-title: Stone and wood cloud catcher
+filename: "_posts/beer/2016-11-09-stone-and-wood-cloud-catcher.md"
+title: "Stone and wood cloud catcher"
 category: beer
 score: 7
 beer-date: "2018-12-27"

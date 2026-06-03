@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-hopic-thunder.md
-title: Akasha hopic thunder
+filename: "_posts/beer/2016-11-09-akasha-hopic-thunder.md"
+title: "Akasha hopic thunder"
 category: beer
 score: 6.5
 beer-date: "2023-02-28"
@@ -11,6 +11,6 @@ img: /img/list/akasha-hopic-thunder.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-hopic-thunder/5210700"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Pale Ale - American"
 ---

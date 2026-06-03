@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-prancing-pony-zeppelin.md
-title: Prancing pony Zeppelin
+filename: "_posts/beer/2016-11-09-prancing-pony-zeppelin.md"
+title: "Prancing pony Zeppelin"
 category: beer
 score: 6.5
 beer-date: "2019-04-22"

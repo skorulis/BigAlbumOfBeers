@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-local-runaway-ipa.md
-title: Local runaway IPA
+filename: "_posts/beer/2016-11-09-local-runaway-ipa.md"
+title: "Local runaway IPA"
 category: beer
 score: 8
 beer-date: "2021-11-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-bays-ipa.md
-title: Two bays IPA
+filename: "_posts/beer/2016-11-09-two-bays-ipa.md"
+title: "Two bays IPA"
 category: beer
 score: 8
 beer-date: "2020-11-13"

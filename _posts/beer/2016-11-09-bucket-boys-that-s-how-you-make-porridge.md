@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bucket-boys-that-s-how-you-make-porridge.md
-title: Bucket boys that’s how you make porridge
+filename: "_posts/beer/2016-11-09-bucket-boys-that-s-how-you-make-porridge.md"
+title: "Bucket boys that’s how you make porridge"
 category: beer
 score: 8
 beer-date: "2018-01-13"
@@ -11,6 +11,6 @@ img: /img/list/bucket-boys-that-s-how-you-make-porridge.jpeg
 untappd: "https://untappd.com/b/-australian-brewery-thats-how-you-make-porridge/2177237"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "/brewery/-australian-brewery.html"
+breweryURL: "/brewery/australian-brewery.html"
 style: "Brown Ale - Other"
 ---

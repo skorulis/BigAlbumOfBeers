@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tooheys-extra-dry.md
-title: Tooheys Extra Dry
+filename: "_posts/beer/2016-11-09-tooheys-extra-dry.md"
+title: "Tooheys Extra Dry"
 category: beer
 score: 5
 beer-date: "2013-02-01"

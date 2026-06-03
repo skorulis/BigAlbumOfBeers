@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-hopless.md
-title: Sauce Hopless
+filename: "_posts/beer/2016-11-09-sauce-hopless.md"
+title: "Sauce Hopless"
 category: beer
 score: 6
 beer-date: "2025-09-26"

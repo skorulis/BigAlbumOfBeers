@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kaiserdom.md
-title: Kaiserdom
+filename: "_posts/beer/2016-11-09-kaiserdom.md"
+title: "Kaiserdom"
 category: beer
 score: 6
 beer-date: "2015-01-29"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-lemon-and-lime-bitterness-units.md
-title: Sauce lemon and lime bitterness units
+filename: "_posts/beer/2016-11-09-sauce-lemon-and-lime-bitterness-units.md"
+title: "Sauce lemon and lime bitterness units"
 category: beer
 score: 8
 beer-date: "2019-11-22"

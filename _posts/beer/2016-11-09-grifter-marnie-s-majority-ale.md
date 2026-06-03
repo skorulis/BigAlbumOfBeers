@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-grifter-marnie-s-majority-ale.md
-title: Grifter Marnie's majority ale
+filename: "_posts/beer/2016-11-09-grifter-marnie-s-majority-ale.md"
+title: "Grifter Marnie's majority ale"
 category: beer
 score: 8
 beer-date: "2016-05-24"

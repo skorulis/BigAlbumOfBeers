@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-proper-job.md
-title: Proper job
+filename: "_posts/beer/2016-11-09-proper-job.md"
+title: "Proper job"
 category: beer
 score: 9.5
 beer-date: "2017-07-12"

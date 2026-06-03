@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-working-title-strange-days.md
-title: Working title strange days
+filename: "_posts/beer/2016-11-09-working-title-strange-days.md"
+title: "Working title strange days"
 category: beer
 score: 5
 beer-date: "2022-08-07"

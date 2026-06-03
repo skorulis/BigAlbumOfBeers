@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yulli-s-superdelic-hazy-pale-ale.md
-title: Yulli’s superdelic hazy pale ale
+filename: "_posts/beer/2016-11-09-yulli-s-superdelic-hazy-pale-ale.md"
+title: "Yulli’s superdelic hazy pale ale"
 category: beer
 score: 5.5
 beer-date: "2024-12-28"

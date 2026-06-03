@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-sugar-shack.md
-title: Bracket sugar shack
+filename: "_posts/beer/2016-11-09-bracket-sugar-shack.md"
+title: "Bracket sugar shack"
 category: beer
 score: 7.5
 beer-date: "2022-10-15"

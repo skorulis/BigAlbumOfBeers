@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-kingston-flyer.md
-title: Mountain Culture Kingston Flyer
+filename: "_posts/beer/2016-11-09-mountain-culture-kingston-flyer.md"
+title: "Mountain Culture Kingston Flyer"
 category: beer
 score: 8
 beer-date: "2025-11-10"

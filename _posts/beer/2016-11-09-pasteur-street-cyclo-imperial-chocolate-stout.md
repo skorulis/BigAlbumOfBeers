@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pasteur-street-cyclo-imperial-chocolate-stout.md
-title: Pasteur street cyclo imperial chocolate stout
+filename: "_posts/beer/2016-11-09-pasteur-street-cyclo-imperial-chocolate-stout.md"
+title: "Pasteur street cyclo imperial chocolate stout"
 category: beer
 score: .
 beer-date: "2018-02-17"

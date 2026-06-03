@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-peaches-and-oat-cream.md
-title: Sauce peaches and oat cream
+filename: "_posts/beer/2016-11-09-sauce-peaches-and-oat-cream.md"
+title: "Sauce peaches and oat cream"
 category: beer
 score: 8
 beer-date: "2024-03-29"

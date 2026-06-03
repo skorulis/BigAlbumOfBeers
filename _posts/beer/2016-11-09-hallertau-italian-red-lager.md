@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hallertau-italian-red-lager.md
-title: Hallertau Italian Red Lager
+filename: "_posts/beer/2016-11-09-hallertau-italian-red-lager.md"
+title: "Hallertau Italian Red Lager"
 category: beer
 score: 6.5
 beer-date: "2025-09-26"

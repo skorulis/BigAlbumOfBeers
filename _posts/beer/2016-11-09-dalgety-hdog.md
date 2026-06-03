@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dalgety-hdog.md
-title: Dalgety hdog
+filename: "_posts/beer/2016-11-09-dalgety-hdog.md"
+title: "Dalgety hdog"
 category: beer
 score: 6.5
 beer-date: "2022-08-07"

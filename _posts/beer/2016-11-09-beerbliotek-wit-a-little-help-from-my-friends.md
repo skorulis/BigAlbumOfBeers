@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerbliotek-wit-a-little-help-from-my-friends.md
-title: Beerbliotek wit a little help from my friends
+filename: "_posts/beer/2016-11-09-beerbliotek-wit-a-little-help-from-my-friends.md"
+title: "Beerbliotek wit a little help from my friends"
 category: beer
 score: 7.5
 beer-date: "2023-10-02"

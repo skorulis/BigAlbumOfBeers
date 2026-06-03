@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brussels-beer-project-delta-ipa.md
-title: Brussels beer project delta IPA
+filename: "_posts/beer/2016-11-09-brussels-beer-project-delta-ipa.md"
+title: "Brussels beer project delta IPA"
 category: beer
 score: 7.5
 beer-date: "2017-06-15"

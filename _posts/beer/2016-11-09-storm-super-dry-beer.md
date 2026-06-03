@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-storm-super-dry-beer.md
-title: Storm Super Dry Beer
+filename: "_posts/beer/2016-11-09-storm-super-dry-beer.md"
+title: "Storm Super Dry Beer"
 category: beer
 score: 5
 beer-date: "2015-02-27"

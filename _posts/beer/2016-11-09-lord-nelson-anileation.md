@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lord-nelson-anileation.md
-title: Lord nelson Anileation
+filename: "_posts/beer/2016-11-09-lord-nelson-anileation.md"
+title: "Lord nelson Anileation"
 category: beer
 score: 4
 beer-date: "2014-03-18"

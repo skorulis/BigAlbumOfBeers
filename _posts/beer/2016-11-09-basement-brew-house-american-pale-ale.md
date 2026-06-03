@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-basement-brew-house-american-pale-ale.md
-title: Basement brew house American pale ale
+filename: "_posts/beer/2016-11-09-basement-brew-house-american-pale-ale.md"
+title: "Basement brew house American pale ale"
 category: beer
 score: 7.5
 beer-date: "2016-11-13"

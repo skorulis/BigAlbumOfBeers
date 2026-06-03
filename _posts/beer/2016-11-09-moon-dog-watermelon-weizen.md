@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moon-dog-watermelon-weizen.md
-title: Moon dog watermelon weizen
+filename: "_posts/beer/2016-11-09-moon-dog-watermelon-weizen.md"
+title: "Moon dog watermelon weizen"
 category: beer
 score: 7
 beer-date: "2015-04-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hurricane-head-lager.md
-title: Hurricane Head Lager
+filename: "_posts/beer/2016-11-09-hurricane-head-lager.md"
+title: "Hurricane Head Lager"
 category: beer
 score: 7
 beer-date: "2025-02-15"

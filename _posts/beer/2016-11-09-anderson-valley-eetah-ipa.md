@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-anderson-valley-eetah-ipa.md
-title: Anderson valley eetah IPA
+filename: "_posts/beer/2016-11-09-anderson-valley-eetah-ipa.md"
+title: "Anderson valley eetah IPA"
 category: beer
 score: 6.5
 beer-date: "2018-03-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-ipa.md
-title: Two birds IPA
+filename: "_posts/beer/2016-11-09-two-birds-ipa.md"
+title: "Two birds IPA"
 category: beer
 score: 6
 beer-date: "2018-10-05"

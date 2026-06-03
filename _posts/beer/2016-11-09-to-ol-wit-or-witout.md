@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-to-ol-wit-or-witout.md
-title: To Øl wit or witout
+filename: "_posts/beer/2016-11-09-to-ol-wit-or-witout.md"
+title: "To Øl wit or witout"
 category: beer
 score: 6
 beer-date: "2017-02-22"

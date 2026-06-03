@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-matso-s-session-ale.md
-title: Matso’s session ale
+filename: "_posts/beer/2016-11-09-matso-s-session-ale.md"
+title: "Matso’s session ale"
 category: beer
 score: 5
 beer-date: "2015-07-10"

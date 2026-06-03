@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batemans-combined-harvest.md
-title: Batemans Combined Harvest
+filename: "_posts/beer/2016-11-09-batemans-combined-harvest.md"
+title: "Batemans Combined Harvest"
 category: beer
 score: 6
 beer-date: "2013-10-25"

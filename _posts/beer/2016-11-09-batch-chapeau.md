@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-chapeau.md
-title: Batch chapeau
+filename: "_posts/beer/2016-11-09-batch-chapeau.md"
+title: "Batch chapeau"
 category: beer
 score: 4
 beer-date: "2019-04-22"

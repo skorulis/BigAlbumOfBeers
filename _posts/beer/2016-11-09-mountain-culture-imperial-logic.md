@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-imperial-logic.md
-title: Mountain Culture Imperial Logic
+filename: "_posts/beer/2016-11-09-mountain-culture-imperial-logic.md"
+title: "Mountain Culture Imperial Logic"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

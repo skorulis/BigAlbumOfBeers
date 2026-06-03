@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-into-the-green.md
-title: White bay into the green
+filename: "_posts/beer/2016-11-09-white-bay-into-the-green.md"
+title: "White bay into the green"
 category: beer
 score: 7.5
 beer-date: "2023-08-26"

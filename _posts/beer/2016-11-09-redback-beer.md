@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-redback-beer.md
-title: Redback beer
+filename: "_posts/beer/2016-11-09-redback-beer.md"
+title: "Redback beer"
 category: beer
 score: 6
 beer-date: "2014-06-21"

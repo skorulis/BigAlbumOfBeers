@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nutty-black.md
-title: Nutty black
+filename: "_posts/beer/2016-11-09-nutty-black.md"
+title: "Nutty black"
 category: beer
 score: 5
 beer-date: "2013-08-18"

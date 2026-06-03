@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deeds-lazy-summer.md
-title: Deeds lazy summer
+filename: "_posts/beer/2016-11-09-deeds-lazy-summer.md"
+title: "Deeds lazy summer"
 category: beer
 score: 7.5
 beer-date: "2021-12-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-espresso-martini-nitro-stout.md
-title: Pirate life espresso martini nitro stout
+filename: "_posts/beer/2016-11-09-pirate-life-espresso-martini-nitro-stout.md"
+title: "Pirate life espresso martini nitro stout"
 category: beer
 score: 8
 beer-date: "2020-12-25"

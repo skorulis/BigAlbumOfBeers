@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-strawberry-vanilla-nitro-milkshake.md
-title: One drop strawberry vanilla nitro milkshake
+filename: "_posts/beer/2016-11-09-one-drop-strawberry-vanilla-nitro-milkshake.md"
+title: "One drop strawberry vanilla nitro milkshake"
 category: beer
 score: 7
 beer-date: "2021-12-28"

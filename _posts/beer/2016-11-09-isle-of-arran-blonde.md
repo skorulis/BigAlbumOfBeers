@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-isle-of-arran-blonde.md
-title: Isle of Arran blonde
+filename: "_posts/beer/2016-11-09-isle-of-arran-blonde.md"
+title: "Isle of Arran blonde"
 category: beer
 score: 2
 beer-date: "2012-12-25"

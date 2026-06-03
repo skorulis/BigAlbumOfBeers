@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tallboy-and-moose-highly-illogical-dipa.md
-title: Tallboy and moose highly illogical DIPA
+filename: "_posts/beer/2016-11-09-tallboy-and-moose-highly-illogical-dipa.md"
+title: "Tallboy and moose highly illogical DIPA"
 category: beer
 score: 8
 beer-date: "2020-12-25"

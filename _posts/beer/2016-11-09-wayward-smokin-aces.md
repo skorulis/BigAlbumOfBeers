@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-smokin-aces.md
-title: Wayward smokin aces
+filename: "_posts/beer/2016-11-09-wayward-smokin-aces.md"
+title: "Wayward smokin aces"
 category: beer
 score: 6
 beer-date: "2017-01-21"

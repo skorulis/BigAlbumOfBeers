@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-christmas-in-oktober.md
-title: Nomad Christmas in oktober
+filename: "_posts/beer/2016-11-09-nomad-christmas-in-oktober.md"
+title: "Nomad Christmas in oktober"
 category: beer
 score: 6.5
 beer-date: "2023-02-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-harvey-s-kiss.md
-title: Harvey's Kiss
+filename: "_posts/beer/2016-11-09-harvey-s-kiss.md"
+title: "Harvey's Kiss"
 category: beer
 score: 7
 beer-date: "2013-12-23"

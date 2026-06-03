@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-good-land-good-banks.md
-title: Good Land Good Banks
+filename: "_posts/beer/2016-11-09-good-land-good-banks.md"
+title: "Good Land Good Banks"
 category: beer
 score: 8
 beer-date: "2025-02-15"

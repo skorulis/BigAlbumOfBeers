@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackmans-reginald-ipa.md
-title: Blackmans Reginald IPA
+filename: "_posts/beer/2016-11-09-blackmans-reginald-ipa.md"
+title: "Blackmans Reginald IPA"
 category: beer
 score: 8
 beer-date: "2018-01-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewhouse-brown-ale.md
-title: Brewhouse brown ale
+filename: "_posts/beer/2016-11-09-brewhouse-brown-ale.md"
+title: "Brewhouse brown ale"
 category: beer
 score: 6
 beer-date: "2017-10-28"

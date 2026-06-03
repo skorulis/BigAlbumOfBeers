@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deeds-dkat-amarillo.md
-title: Deeds dkat Amarillo
+filename: "_posts/beer/2016-11-09-deeds-dkat-amarillo.md"
+title: "Deeds dkat Amarillo"
 category: beer
 score: 8
 beer-date: "2021-06-05"

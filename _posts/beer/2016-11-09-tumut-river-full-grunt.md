@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tumut-river-full-grunt.md
-title: Tumut river full grunt
+filename: "_posts/beer/2016-11-09-tumut-river-full-grunt.md"
+title: "Tumut river full grunt"
 category: beer
 score: 6
 beer-date: "2023-08-26"

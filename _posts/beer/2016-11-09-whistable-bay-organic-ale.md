@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-whistable-bay-organic-ale.md
-title: Whistable Bay organic Ale
+filename: "_posts/beer/2016-11-09-whistable-bay-organic-ale.md"
+title: "Whistable Bay organic Ale"
 category: beer
 score: 2
 beer-date: "2012-12-15"

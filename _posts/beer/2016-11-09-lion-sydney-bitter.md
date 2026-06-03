@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lion-sydney-bitter.md
-title: Lion Sydney Bitter
+filename: "_posts/beer/2016-11-09-lion-sydney-bitter.md"
+title: "Lion Sydney Bitter"
 category: beer
 score: 5
 beer-date: "2026-03-27"

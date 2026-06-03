@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-innes-gunn-fired-oak-scotch-ale.md
-title: Innes & Gunn fired oak scotch ale
+filename: "_posts/beer/2016-11-09-innes-gunn-fired-oak-scotch-ale.md"
+title: "Innes & Gunn fired oak scotch ale"
 category: beer
 score: 7.5
 beer-date: "2016-09-21"

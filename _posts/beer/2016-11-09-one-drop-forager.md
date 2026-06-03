@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-forager.md
-title: One drop forager
+filename: "_posts/beer/2016-11-09-one-drop-forager.md"
+title: "One drop forager"
 category: beer
 score: 7
 beer-date: "2021-11-12"

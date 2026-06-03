@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-phoenix-beer.md
-title: Phoenix beer
+filename: "_posts/beer/2016-11-09-phoenix-beer.md"
+title: "Phoenix beer"
 category: beer
 score: 5
 beer-date: "2017-01-21"

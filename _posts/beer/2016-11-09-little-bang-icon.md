@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-bang-icon.md
-title: Little bang icon
+filename: "_posts/beer/2016-11-09-little-bang-icon.md"
+title: "Little bang icon"
 category: beer
 score: 6
 beer-date: "2020-07-31"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-badlands-ipa.md
-title: Badlands IPA
+filename: "_posts/beer/2016-11-09-badlands-ipa.md"
+title: "Badlands IPA"
 category: beer
 score: 7
 beer-date: "2015-10-17"

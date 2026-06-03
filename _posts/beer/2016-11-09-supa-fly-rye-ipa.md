@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-supa-fly-rye-ipa.md
-title: Supa fly rye IPA
+filename: "_posts/beer/2016-11-09-supa-fly-rye-ipa.md"
+title: "Supa fly rye IPA"
 category: beer
 score: 8
 beer-date: "2014-05-03"

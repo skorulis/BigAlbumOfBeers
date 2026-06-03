@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackwattle-neipa.md
-title: Blackwattle NEIPA
+filename: "_posts/beer/2016-11-09-blackwattle-neipa.md"
+title: "Blackwattle NEIPA"
 category: beer
 score: 8
 beer-date: "2025-02-15"

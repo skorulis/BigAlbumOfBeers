@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-schwartz.md
-title: 2 halfs schwartz
+filename: "_posts/beer/2016-11-09-2-halfs-schwartz.md"
+title: "2 halfs schwartz"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-beacon-7-bells.md
-title: Green beacon 7 bells
+filename: "_posts/beer/2016-11-09-green-beacon-7-bells.md"
+title: "Green beacon 7 bells"
 category: beer
 score: 8
 beer-date: "2018-10-05"

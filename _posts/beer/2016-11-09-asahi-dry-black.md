@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-asahi-dry-black.md
-title: Asahi dry black
+filename: "_posts/beer/2016-11-09-asahi-dry-black.md"
+title: "Asahi dry black"
 category: beer
 score: 8
 beer-date: "2016-02-14"

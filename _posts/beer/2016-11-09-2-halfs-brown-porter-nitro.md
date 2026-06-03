@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-brown-porter-nitro.md
-title: 2 halfs brown porter nitro
+filename: "_posts/beer/2016-11-09-2-halfs-brown-porter-nitro.md"
+title: "2 halfs brown porter nitro"
 category: beer
 score: 8
 beer-date: "2021-06-05"

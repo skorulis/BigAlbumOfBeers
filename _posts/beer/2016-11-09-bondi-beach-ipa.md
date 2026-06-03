@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bondi-beach-ipa.md
-title: Bondi beach IPA
+filename: "_posts/beer/2016-11-09-bondi-beach-ipa.md"
+title: "Bondi beach IPA"
 category: beer
 score: 8
 beer-date: "2020-09-26"

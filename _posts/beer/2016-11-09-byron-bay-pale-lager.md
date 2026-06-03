@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-byron-bay-pale-lager.md
-title: Byron bay pale lager
+filename: "_posts/beer/2016-11-09-byron-bay-pale-lager.md"
+title: "Byron bay pale lager"
 category: beer
 score: 5
 beer-date: "2015-02-27"

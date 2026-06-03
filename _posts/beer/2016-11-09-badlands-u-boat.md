@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-badlands-u-boat.md
-title: Badlands U-boat
+filename: "_posts/beer/2016-11-09-badlands-u-boat.md"
+title: "Badlands U-boat"
 category: beer
 score: 6.5
 beer-date: "2018-01-13"

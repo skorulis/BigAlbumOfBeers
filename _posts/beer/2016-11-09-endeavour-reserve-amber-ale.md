@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-endeavour-reserve-amber-ale.md
-title: Endeavour reserve amber ale
+filename: "_posts/beer/2016-11-09-endeavour-reserve-amber-ale.md"
+title: "Endeavour reserve amber ale"
 category: beer
 score: 6
 beer-date: "2015-05-01"

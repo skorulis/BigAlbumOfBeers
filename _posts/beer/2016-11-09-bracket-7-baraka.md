@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-7-baraka.md
-title: Bracket 7 Baraka
+filename: "_posts/beer/2016-11-09-bracket-7-baraka.md"
+title: "Bracket 7 Baraka"
 category: beer
 score: 7
 beer-date: "2021-11-12"

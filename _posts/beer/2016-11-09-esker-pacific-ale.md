@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-esker-pacific-ale.md
-title: Esker pacific ale
+filename: "_posts/beer/2016-11-09-esker-pacific-ale.md"
+title: "Esker pacific ale"
 category: beer
 score: 7
 beer-date: "2024-11-23"
@@ -11,6 +11,6 @@ img: /img/list/esker-pacific-ale.jpeg
 untappd: "https://untappd.com/b/esker-beer-co-australian-brewery-esker-beer-co-pacifc-ale/5061243"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "/brewery/-australian-brewery.html"
+breweryURL: "/brewery/australian-brewery.html"
 style: "Pale Ale - Other"
 ---

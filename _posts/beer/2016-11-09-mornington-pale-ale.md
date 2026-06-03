@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mornington-pale-ale.md
-title: Mornington pale ale
+filename: "_posts/beer/2016-11-09-mornington-pale-ale.md"
+title: "Mornington pale ale"
 category: beer
 score: 9
 beer-date: "2015-05-01"

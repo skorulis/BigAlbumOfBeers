@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-southern-pacific-hefeweizen.md
-title: Southern pacific Hefeweizen
+filename: "_posts/beer/2016-11-09-southern-pacific-hefeweizen.md"
+title: "Southern pacific Hefeweizen"
 category: beer
 score: 7
 beer-date: "2023-02-26"

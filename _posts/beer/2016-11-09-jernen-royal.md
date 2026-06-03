@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jernen-royal.md
-title: Jernen royal
+filename: "_posts/beer/2016-11-09-jernen-royal.md"
+title: "Jernen royal"
 category: beer
 score: 4.5
 beer-date: "2023-10-02"

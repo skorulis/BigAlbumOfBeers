@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rothaus-pils.md
-title: Rothaus Pils
+filename: "_posts/beer/2016-11-09-rothaus-pils.md"
+title: "Rothaus Pils"
 category: beer
 score: 5
 beer-date: "2013-01-13"

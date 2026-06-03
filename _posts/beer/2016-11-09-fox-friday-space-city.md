@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fox-friday-space-city.md
-title: Fox Friday space city
+filename: "_posts/beer/2016-11-09-fox-friday-space-city.md"
+title: "Fox Friday space city"
 category: beer
 score: 8
 beer-date: "2023-02-26"

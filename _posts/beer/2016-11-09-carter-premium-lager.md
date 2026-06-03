@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-carter-premium-lager.md
-title: Carter premium lager
+filename: "_posts/beer/2016-11-09-carter-premium-lager.md"
+title: "Carter premium lager"
 category: beer
 score: 5
 beer-date: "2015-07-10"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hansa-white-ipa.md
-title: Hansa white IPA
+filename: "_posts/beer/2016-11-09-hansa-white-ipa.md"
+title: "Hansa white IPA"
 category: beer
 score: 7
 beer-date: "2023-09-06"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-from-yeast-to-west-us-05.md
-title: Hawkers from yeast to west US-05
+filename: "_posts/beer/2016-11-09-hawkers-from-yeast-to-west-us-05.md"
+title: "Hawkers from yeast to west US-05"
 category: beer
 score: 7
 beer-date: "2024-12-28"

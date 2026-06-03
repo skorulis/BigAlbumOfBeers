@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-norseman.md
-title: The norseman
+filename: "_posts/beer/2016-11-09-the-norseman.md"
+title: "The norseman"
 category: beer
 score: 5
 beer-date: "2013-10-25"

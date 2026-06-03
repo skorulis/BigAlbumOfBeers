@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shenanigans-squeak-bubbles.md
-title: Shenanigans squeak & bubbles
+filename: "_posts/beer/2016-11-09-shenanigans-squeak-bubbles.md"
+title: "Shenanigans squeak & bubbles"
 category: beer
 score: 6.5
 beer-date: "2018-02-17"

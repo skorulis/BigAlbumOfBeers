@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pan-head-pilsner.md
-title: Pan head Pilsner
+filename: "_posts/beer/2016-11-09-pan-head-pilsner.md"
+title: "Pan head Pilsner"
 category: beer
 score: 5
 beer-date: "2015-04-13"

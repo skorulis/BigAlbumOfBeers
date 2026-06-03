@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-weisse-rauchbier.md
-title: Wayward weisse rauchbier
+filename: "_posts/beer/2016-11-09-wayward-weisse-rauchbier.md"
+title: "Wayward weisse rauchbier"
 category: beer
 score: 7
 beer-date: "2020-09-26"

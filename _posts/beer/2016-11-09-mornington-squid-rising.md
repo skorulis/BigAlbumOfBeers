@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mornington-squid-rising.md
-title: Mornington squid rising
+filename: "_posts/beer/2016-11-09-mornington-squid-rising.md"
+title: "Mornington squid rising"
 category: beer
 score: 9.5
 beer-date: "2018-06-02"

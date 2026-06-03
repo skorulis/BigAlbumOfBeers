@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-extra-stout.md
-title: HOPE extra stout
+filename: "_posts/beer/2016-11-09-hope-extra-stout.md"
+title: "HOPE extra stout"
 category: beer
 score: 7
 beer-date: "2018-06-02"

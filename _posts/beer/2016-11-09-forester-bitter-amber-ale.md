@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-forester-bitter-amber-ale.md
-title: Forester bitter amber ale
+filename: "_posts/beer/2016-11-09-forester-bitter-amber-ale.md"
+title: "Forester bitter amber ale"
 category: beer
 score: 7
 beer-date: "2016-03-16"

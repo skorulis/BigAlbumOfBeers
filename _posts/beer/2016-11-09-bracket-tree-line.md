@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-tree-line.md
-title: Bracket Tree Line
+filename: "_posts/beer/2016-11-09-bracket-tree-line.md"
+title: "Bracket Tree Line"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

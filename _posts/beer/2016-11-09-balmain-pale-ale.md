@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-balmain-pale-ale.md
-title: Balmain pale ale
+filename: "_posts/beer/2016-11-09-balmain-pale-ale.md"
+title: "Balmain pale ale"
 category: beer
 score: 7
 beer-date: "2015-05-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-western-ridge-friendly-bison.md
-title: Western ridge friendly bison
+filename: "_posts/beer/2016-11-09-western-ridge-friendly-bison.md"
+title: "Western ridge friendly bison"
 category: beer
 score: 7
 beer-date: "2018-12-27"

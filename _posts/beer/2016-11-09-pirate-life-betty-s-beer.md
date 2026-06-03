@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-betty-s-beer.md
-title: Pirate life Betty’s beer
+filename: "_posts/beer/2016-11-09-pirate-life-betty-s-beer.md"
+title: "Pirate life Betty’s beer"
 category: beer
 score: 6
 beer-date: "2021-12-28"

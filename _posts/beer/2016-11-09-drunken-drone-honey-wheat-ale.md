@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-drunken-drone-honey-wheat-ale.md
-title: Drunken drone honey wheat ale
+filename: "_posts/beer/2016-11-09-drunken-drone-honey-wheat-ale.md"
+title: "Drunken drone honey wheat ale"
 category: beer
 score: 7
 beer-date: "2020-01-16"

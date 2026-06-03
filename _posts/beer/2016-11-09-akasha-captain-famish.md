@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-captain-famish.md
-title: Akasha captain famish
+filename: "_posts/beer/2016-11-09-akasha-captain-famish.md"
+title: "Akasha captain famish"
 category: beer
 score: 7.5
 beer-date: "2019-11-22"
@@ -11,6 +11,6 @@ img: /img/list/akasha-captain-famish.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--captain-famish-tropical-xpa/3443138"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Pale Ale - American"
 ---

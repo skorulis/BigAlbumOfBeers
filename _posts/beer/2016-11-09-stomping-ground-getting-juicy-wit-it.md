@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stomping-ground-getting-juicy-wit-it.md
-title: Stomping ground getting juicy wit-it
+filename: "_posts/beer/2016-11-09-stomping-ground-getting-juicy-wit-it.md"
+title: "Stomping ground getting juicy wit-it"
 category: beer
 score: 8
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-oskar-blues-death-by-coconut.md
-title: Oskar blues death by coconut
+filename: "_posts/beer/2016-11-09-oskar-blues-death-by-coconut.md"
+title: "Oskar blues death by coconut"
 category: beer
 score: 7
 beer-date: "2017-05-27"

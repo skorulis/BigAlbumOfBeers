@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-surfers-techno-viking.md
-title: Surfers Techno Viking
+filename: "_posts/beer/2016-11-09-surfers-techno-viking.md"
+title: "Surfers Techno Viking"
 category: beer
 score: 7
 beer-date: "2026-03-27"

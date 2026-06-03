@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-prosecco-buzz-mead.md
-title: Batch Prosecco buzz mead
+filename: "_posts/beer/2016-11-09-batch-prosecco-buzz-mead.md"
+title: "Batch Prosecco buzz mead"
 category: beer
 score: 5.5
 beer-date: "2022-08-07"

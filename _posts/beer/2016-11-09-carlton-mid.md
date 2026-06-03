@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-carlton-mid.md
-title: Carlton mid
+filename: "_posts/beer/2016-11-09-carlton-mid.md"
+title: "Carlton mid"
 category: beer
 score: 3
 beer-date: "2014-03-18"

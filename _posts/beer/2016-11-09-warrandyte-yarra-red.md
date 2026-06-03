@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-warrandyte-yarra-red.md
-title: Warrandyte Yarra Red
+filename: "_posts/beer/2016-11-09-warrandyte-yarra-red.md"
+title: "Warrandyte Yarra Red"
 category: beer
 score: 8
 beer-date: "2025-12-28"

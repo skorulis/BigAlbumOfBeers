@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-augustinerbrau.md
-title: Augustinerbrau
+filename: "_posts/beer/2016-11-09-augustinerbrau.md"
+title: "Augustinerbrau"
 category: beer
 score: 6
 beer-date: "2013-10-25"

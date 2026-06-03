@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lord-nelson-nelson-s-blood.md
-title: Lord Nelson Nelson's blood
+filename: "_posts/beer/2016-11-09-lord-nelson-nelson-s-blood.md"
+title: "Lord Nelson Nelson's blood"
 category: beer
 score: 6
 beer-date: "2013-03-28"

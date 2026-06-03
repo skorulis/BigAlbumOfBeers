@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bulla-creek-lager.md
-title: Bulla creek lager
+filename: "_posts/beer/2016-11-09-bulla-creek-lager.md"
+title: "Bulla creek lager"
 category: beer
 score: 6
 beer-date: "2024-03-29"

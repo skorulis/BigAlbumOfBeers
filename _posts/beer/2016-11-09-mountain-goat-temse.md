@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-temse.md
-title: Mountain Goat Temse
+filename: "_posts/beer/2016-11-09-mountain-goat-temse.md"
+title: "Mountain Goat Temse"
 category: beer
 score: 6
 beer-date: "2025-02-15"

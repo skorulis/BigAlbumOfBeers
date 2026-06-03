@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-temple-last-tram-to-brunswick.md
-title: Temple last tram to brunswick
+filename: "_posts/beer/2016-11-09-temple-last-tram-to-brunswick.md"
+title: "Temple last tram to brunswick"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

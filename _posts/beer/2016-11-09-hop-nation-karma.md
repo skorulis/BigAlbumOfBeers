@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-nation-karma.md
-title: Hop nation karma
+filename: "_posts/beer/2016-11-09-hop-nation-karma.md"
+title: "Hop nation karma"
 category: beer
 score: 6.5
 beer-date: "2019-06-22"

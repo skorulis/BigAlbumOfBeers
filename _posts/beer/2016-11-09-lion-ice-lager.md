@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lion-ice-lager.md
-title: Lion Ice Lager
+filename: "_posts/beer/2016-11-09-lion-ice-lager.md"
+title: "Lion Ice Lager"
 category: beer
 score: 6
 beer-date: "2025-09-26"

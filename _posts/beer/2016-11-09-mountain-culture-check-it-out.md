@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-check-it-out.md
-title: Mountain Culture Check It Out
+filename: "_posts/beer/2016-11-09-mountain-culture-check-it-out.md"
+title: "Mountain Culture Check It Out"
 category: beer
 score: 7
 beer-date: "2025-09-26"

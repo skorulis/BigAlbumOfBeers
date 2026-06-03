@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-philter-old-ale.md
-title: Philter old ale
+filename: "_posts/beer/2016-11-09-philter-old-ale.md"
+title: "Philter old ale"
 category: beer
 score: 7
 beer-date: "2021-06-05"

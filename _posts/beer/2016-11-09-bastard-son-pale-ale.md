@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bastard-son-pale-ale.md
-title: Bastard son pale ale
+filename: "_posts/beer/2016-11-09-bastard-son-pale-ale.md"
+title: "Bastard son pale ale"
 category: beer
 score: 7
 beer-date: "2015-07-10"

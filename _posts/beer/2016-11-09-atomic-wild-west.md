@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-atomic-wild-west.md
-title: Atomic Wild West
+filename: "_posts/beer/2016-11-09-atomic-wild-west.md"
+title: "Atomic Wild West"
 category: beer
 score: 7
 beer-date: "2023-02-26"

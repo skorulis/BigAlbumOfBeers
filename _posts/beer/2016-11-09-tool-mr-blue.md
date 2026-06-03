@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tool-mr-blue.md
-title: Toøl mr blue
+filename: "_posts/beer/2016-11-09-tool-mr-blue.md"
+title: "Toøl mr blue"
 category: beer
 score: 5.5
 beer-date: "2019-11-22"

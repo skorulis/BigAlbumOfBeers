@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-molly-rose-pilsner.md
-title: Molly rose pilsner
+filename: "_posts/beer/2016-11-09-molly-rose-pilsner.md"
+title: "Molly rose pilsner"
 category: beer
 score: 6.5
 beer-date: "2025-09-26"

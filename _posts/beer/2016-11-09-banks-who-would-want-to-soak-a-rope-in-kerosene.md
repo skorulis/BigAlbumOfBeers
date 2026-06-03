@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-who-would-want-to-soak-a-rope-in-kerosene.md
-title: Banks Who Would Want To Soak A Rope In Kerosene
+filename: "_posts/beer/2016-11-09-banks-who-would-want-to-soak-a-rope-in-kerosene.md"
+title: "Banks Who Would Want To Soak A Rope In Kerosene"
 category: beer
 score: 8.5
 beer-date: "2025-12-28"

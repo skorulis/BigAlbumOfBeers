@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yullis-oktoberfest-marzen.md
-title: Yullis Oktoberfest marzen
+filename: "_posts/beer/2016-11-09-yullis-oktoberfest-marzen.md"
+title: "Yullis Oktoberfest marzen"
 category: beer
 score: 7
 beer-date: "2023-02-28"

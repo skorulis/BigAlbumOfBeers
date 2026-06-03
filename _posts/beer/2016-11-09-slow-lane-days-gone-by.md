@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slow-lane-days-gone-by.md
-title: Slow lane days gone by
+filename: "_posts/beer/2016-11-09-slow-lane-days-gone-by.md"
+title: "Slow lane days gone by"
 category: beer
 score: 7
 beer-date: "2024-11-09"

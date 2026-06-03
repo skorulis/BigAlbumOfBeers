@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-capital-slam-dunk-tipa.md
-title: Capital slam dunk TIPA
+filename: "_posts/beer/2016-11-09-capital-slam-dunk-tipa.md"
+title: "Capital slam dunk TIPA"
 category: beer
 score: 9
 beer-date: "2020-09-26"

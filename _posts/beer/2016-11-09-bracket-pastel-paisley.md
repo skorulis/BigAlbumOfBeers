@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-pastel-paisley.md
-title: Bracket pastel paisley
+filename: "_posts/beer/2016-11-09-bracket-pastel-paisley.md"
+title: "Bracket pastel paisley"
 category: beer
 score: 8
 beer-date: "2023-02-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-flamin-galah-koelsch.md
-title: Flamin galah kölsch
+filename: "_posts/beer/2016-11-09-flamin-galah-koelsch.md"
+title: "Flamin galah kölsch"
 category: beer
 score: 6.5
 beer-date: "2024-03-29"

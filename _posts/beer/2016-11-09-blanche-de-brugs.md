@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blanche-de-brugs.md
-title: Blanche de Brugs
+filename: "_posts/beer/2016-11-09-blanche-de-brugs.md"
+title: "Blanche de Brugs"
 category: beer
 score: 8.5
 beer-date: "2017-06-02"

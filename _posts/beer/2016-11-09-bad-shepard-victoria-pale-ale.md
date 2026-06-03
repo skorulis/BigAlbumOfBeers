@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bad-shepard-victoria-pale-ale.md
-title: Bad Shepard Victoria pale ale
+filename: "_posts/beer/2016-11-09-bad-shepard-victoria-pale-ale.md"
+title: "Bad Shepard Victoria pale ale"
 category: beer
 score: 6.5
 beer-date: "2019-04-22"

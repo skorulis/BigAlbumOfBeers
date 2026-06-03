@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tumut-river-you-am-ipa.md
-title: Tumut river you am IPA
+filename: "_posts/beer/2016-11-09-tumut-river-you-am-ipa.md"
+title: "Tumut river you am IPA"
 category: beer
 score: 8.5
 beer-date: "2023-08-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-the-heff.md
-title: 2 halfs the heff
+filename: "_posts/beer/2016-11-09-2-halfs-the-heff.md"
+title: "2 halfs the heff"
 category: beer
 score: 7
 beer-date: "2023-02-28"

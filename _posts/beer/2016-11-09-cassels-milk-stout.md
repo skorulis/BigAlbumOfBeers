@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cassels-milk-stout.md
-title: Cassels Milk stout
+filename: "_posts/beer/2016-11-09-cassels-milk-stout.md"
+title: "Cassels Milk stout"
 category: beer
 score: 7.5
 beer-date: "2022-09-21"

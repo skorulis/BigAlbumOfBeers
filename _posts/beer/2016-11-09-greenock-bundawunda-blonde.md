@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-greenock-bundawunda-blonde.md
-title: Greenock bundawunda blonde
+filename: "_posts/beer/2016-11-09-greenock-bundawunda-blonde.md"
+title: "Greenock bundawunda blonde"
 category: beer
 score: 5.5
 beer-date: "2020-01-16"

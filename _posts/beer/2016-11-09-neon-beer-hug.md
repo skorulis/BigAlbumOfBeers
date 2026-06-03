@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-neon-beer-hug.md
-title: Neon beer hug
+filename: "_posts/beer/2016-11-09-neon-beer-hug.md"
+title: "Neon beer hug"
 category: beer
 score: 5
 beer-date: "2024-06-15"

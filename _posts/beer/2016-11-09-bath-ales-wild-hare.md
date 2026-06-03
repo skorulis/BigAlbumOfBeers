@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bath-ales-wild-hare.md
-title: Bath ales wild hare
+filename: "_posts/beer/2016-11-09-bath-ales-wild-hare.md"
+title: "Bath ales wild hare"
 category: beer
 score: 8
 beer-date: "2013-05-25"

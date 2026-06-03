@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-watermelon-and-lime-sour.md
-title: Bracket watermelon and lime sour
+filename: "_posts/beer/2016-11-09-bracket-watermelon-and-lime-sour.md"
+title: "Bracket watermelon and lime sour"
 category: beer
 score: 7.5
 beer-date: "2022-10-15"

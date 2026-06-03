@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-golden-nail-hoppy-summer-ale.md
-title: Golden Nail Hoppy Summer Ale
+filename: "_posts/beer/2016-11-09-golden-nail-hoppy-summer-ale.md"
+title: "Golden Nail Hoppy Summer Ale"
 category: beer
 score: 7
 beer-date: "2015-01-28"

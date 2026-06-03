@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-philter-extra-stout.md
-title: Philter Extra Stout
+filename: "_posts/beer/2016-11-09-philter-extra-stout.md"
+title: "Philter Extra Stout"
 category: beer
 score: 6.5
 beer-date: "2025-09-26"

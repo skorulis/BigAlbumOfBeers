@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ren-min-socal-thirst.md
-title: Ren min socal thirst
+filename: "_posts/beer/2016-11-09-ren-min-socal-thirst.md"
+title: "Ren min socal thirst"
 category: beer
 score: 6.5
 beer-date: "2023-09-06"

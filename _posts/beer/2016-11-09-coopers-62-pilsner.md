@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coopers-62-pilsner.md
-title: Coopers 62 pilsner
+filename: "_posts/beer/2016-11-09-coopers-62-pilsner.md"
+title: "Coopers 62 pilsner"
 category: beer
 score: 5
 beer-date: "2015-01-29"

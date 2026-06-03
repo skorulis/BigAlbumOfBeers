@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wild-yak-pacific-ale.md
-title: Wild yak pacific ale
+filename: "_posts/beer/2016-11-09-wild-yak-pacific-ale.md"
+title: "Wild yak pacific ale"
 category: beer
 score: 7
 beer-date: "2017-02-22"

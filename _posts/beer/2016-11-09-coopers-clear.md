@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coopers-clear.md
-title: Coopers Clear
+filename: "_posts/beer/2016-11-09-coopers-clear.md"
+title: "Coopers Clear"
 category: beer
 score: 5
 beer-date: "2015-02-27"

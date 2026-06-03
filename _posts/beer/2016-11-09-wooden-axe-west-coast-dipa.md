@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wooden-axe-west-coast-dipa.md
-title: Wooden axe west coast DIPA
+filename: "_posts/beer/2016-11-09-wooden-axe-west-coast-dipa.md"
+title: "Wooden axe west coast DIPA"
 category: beer
 score: 7.5
 beer-date: "2024-12-28"

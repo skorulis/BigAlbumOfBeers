@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-burning-sky-aurora.md
-title: Burning Sky Aurora
+filename: "_posts/beer/2016-11-09-burning-sky-aurora.md"
+title: "Burning Sky Aurora"
 category: beer
 score: 8
 beer-date: "2013-12-23"

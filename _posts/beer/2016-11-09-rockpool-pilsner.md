@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rockpool-pilsner.md
-title: Rockpool Pilsner
+filename: "_posts/beer/2016-11-09-rockpool-pilsner.md"
+title: "Rockpool Pilsner"
 category: beer
 score: 6
 beer-date: "2016-03-16"

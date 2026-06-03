@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-someone-special.md
-title: Garage project someone special
+filename: "_posts/beer/2016-11-09-garage-project-someone-special.md"
+title: "Garage project someone special"
 category: beer
 score: 8.5
 beer-date: "2021-12-28"

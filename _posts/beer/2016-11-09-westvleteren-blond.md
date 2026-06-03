@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-westvleteren-blond.md
-title: Westvleteren Blond
+filename: "_posts/beer/2016-11-09-westvleteren-blond.md"
+title: "Westvleteren Blond"
 category: beer
 score: 8
 beer-date: "2016-03-16"

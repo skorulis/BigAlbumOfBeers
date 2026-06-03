@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kozel-dark.md
-title: Kozel Dark
+filename: "_posts/beer/2016-11-09-kozel-dark.md"
+title: "Kozel Dark"
 category: beer
 score: 7
 beer-date: "2013-03-09"

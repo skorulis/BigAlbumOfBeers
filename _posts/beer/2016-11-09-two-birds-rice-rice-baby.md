@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-rice-rice-baby.md
-title: Two birds rice rice baby
+filename: "_posts/beer/2016-11-09-two-birds-rice-rice-baby.md"
+title: "Two birds rice rice baby"
 category: beer
 score: 8
 beer-date: "2021-04-02"

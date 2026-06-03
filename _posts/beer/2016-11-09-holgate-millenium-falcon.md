@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-holgate-millenium-falcon.md
-title: Holgate Millenium Falcon
+filename: "_posts/beer/2016-11-09-holgate-millenium-falcon.md"
+title: "Holgate Millenium Falcon"
 category: beer
 score: 6
 beer-date: "2013-03-28"

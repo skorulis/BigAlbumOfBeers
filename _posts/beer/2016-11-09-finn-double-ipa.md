@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-finn-double-ipa.md
-title: Finn double IPA
+filename: "_posts/beer/2016-11-09-finn-double-ipa.md"
+title: "Finn double IPA"
 category: beer
 score: 9
 beer-date: "2023-10-02"

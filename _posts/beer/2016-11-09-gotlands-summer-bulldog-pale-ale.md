@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-gotlands-summer-bulldog-pale-ale.md
-title: Gotlands summer bulldog pale ale
+filename: "_posts/beer/2016-11-09-gotlands-summer-bulldog-pale-ale.md"
+title: "Gotlands summer bulldog pale ale"
 category: beer
 score: 7
 beer-date: "2023-10-02"

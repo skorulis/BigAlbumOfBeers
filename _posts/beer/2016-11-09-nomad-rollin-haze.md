@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-rollin-haze.md
-title: Nomad rollin haze
+filename: "_posts/beer/2016-11-09-nomad-rollin-haze.md"
+title: "Nomad rollin haze"
 category: beer
 score: 8
 beer-date: "2020-11-13"

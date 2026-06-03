@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dragon-stout.md
-title: Dragon stout
+filename: "_posts/beer/2016-11-09-dragon-stout.md"
+title: "Dragon stout"
 category: beer
 score: 2
 beer-date: "2013-05-25"

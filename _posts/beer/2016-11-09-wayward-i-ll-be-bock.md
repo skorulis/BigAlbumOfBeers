@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-i-ll-be-bock.md
-title: Wayward I’ll be bock
+filename: "_posts/beer/2016-11-09-wayward-i-ll-be-bock.md"
+title: "Wayward I’ll be bock"
 category: beer
 score: 7
 beer-date: "2020-12-25"

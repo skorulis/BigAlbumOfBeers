@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-belhaven-black.md
-title: Belhaven black
+filename: "_posts/beer/2016-11-09-belhaven-black.md"
+title: "Belhaven black"
 category: beer
 score: 6.5
 beer-date: "2019-04-22"

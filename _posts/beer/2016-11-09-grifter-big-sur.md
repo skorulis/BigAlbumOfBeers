@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-grifter-big-sur.md
-title: Grifter big sur
+filename: "_posts/beer/2016-11-09-grifter-big-sur.md"
+title: "Grifter big sur"
 category: beer
 score: 8
 beer-date: "2016-05-24"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-molson-canadian.md
-title: Molson Canadian
+filename: "_posts/beer/2016-11-09-molson-canadian.md"
+title: "Molson Canadian"
 category: beer
 score: 6
 beer-date: "2016-02-14"

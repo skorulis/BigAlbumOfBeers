@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-philter-red-session-ale.md
-title: Philter red session ale
+filename: "_posts/beer/2016-11-09-philter-red-session-ale.md"
+title: "Philter red session ale"
 category: beer
 score: 6.5
 beer-date: "2019-04-22"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brouhaha-india-pale-ale.md
-title: Brouhaha India pale ale
+filename: "_posts/beer/2016-11-09-brouhaha-india-pale-ale.md"
+title: "Brouhaha India pale ale"
 category: beer
 score: 8
 beer-date: "2024-03-29"

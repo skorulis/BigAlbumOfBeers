@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-brewing-death-between-the-tanks-dipa.md
-title: Little brewing death between the tanks DIPA
+filename: "_posts/beer/2016-11-09-little-brewing-death-between-the-tanks-dipa.md"
+title: "Little brewing death between the tanks DIPA"
 category: beer
 score: 9.5
 beer-date: "2016-11-13"

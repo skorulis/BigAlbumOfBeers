@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-little-lou-s.md
-title: Batch little lou's
+filename: "_posts/beer/2016-11-09-batch-little-lou-s.md"
+title: "Batch little lou's"
 category: beer
 score: 7
 beer-date: "2022-08-07"

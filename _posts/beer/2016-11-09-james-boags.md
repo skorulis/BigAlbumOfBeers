@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-boags.md
-title: James Boags
+filename: "_posts/beer/2016-11-09-james-boags.md"
+title: "James Boags"
 category: beer
 score: 7
 beer-date: "2013-02-01"

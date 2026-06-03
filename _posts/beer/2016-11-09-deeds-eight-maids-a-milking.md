@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deeds-eight-maids-a-milking.md
-title: Deeds eight maids a milking
+filename: "_posts/beer/2016-11-09-deeds-eight-maids-a-milking.md"
+title: "Deeds eight maids a milking"
 category: beer
 score: 8
 beer-date: "2024-03-29"

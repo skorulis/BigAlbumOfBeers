@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kicks-synergy.md
-title: Kicks Synergy
+filename: "_posts/beer/2016-11-09-kicks-synergy.md"
+title: "Kicks Synergy"
 category: beer
 score: 7
 beer-date: "2025-11-10"

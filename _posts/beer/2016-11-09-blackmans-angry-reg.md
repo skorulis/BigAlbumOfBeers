@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackmans-angry-reg.md
-title: Blackmans angry reg
+filename: "_posts/beer/2016-11-09-blackmans-angry-reg.md"
+title: "Blackmans angry reg"
 category: beer
 score: 9
 beer-date: "2018-12-27"

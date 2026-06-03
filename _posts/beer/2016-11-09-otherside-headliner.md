@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-otherside-headliner.md
-title: Otherside headliner
+filename: "_posts/beer/2016-11-09-otherside-headliner.md"
+title: "Otherside headliner"
 category: beer
 score: 7.5
 beer-date: "2021-04-02"

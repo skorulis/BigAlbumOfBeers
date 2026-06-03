@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-aegir-pilsner.md
-title: Ægir pilsner
+filename: "_posts/beer/2016-11-09-aegir-pilsner.md"
+title: "Ægir pilsner"
 category: beer
 score: 6
 beer-date: "2023-10-02"

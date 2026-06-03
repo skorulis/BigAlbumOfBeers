@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wolf-of-the-willow-jalisco-sour.md
-title: Wolf of the willow Jalisco sour
+filename: "_posts/beer/2016-11-09-wolf-of-the-willow-jalisco-sour.md"
+title: "Wolf of the willow Jalisco sour"
 category: beer
 score: 6
 beer-date: "2019-07-14"

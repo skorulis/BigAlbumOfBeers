@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brickworks-red-brick-amber.md
-title: Brickworks red brick amber
+filename: "_posts/beer/2016-11-09-brickworks-red-brick-amber.md"
+title: "Brickworks red brick amber"
 category: beer
 score: 6
 beer-date: "2023-02-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-passion-victim.md
-title: Two birds passion victim
+filename: "_posts/beer/2016-11-09-two-birds-passion-victim.md"
+title: "Two birds passion victim"
 category: beer
 score: 8
 beer-date: "2018-01-13"

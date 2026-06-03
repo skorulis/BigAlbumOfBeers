@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-brewing-company-citra-ipa.md
-title: Little brewing company citra IPA
+filename: "_posts/beer/2016-11-09-little-brewing-company-citra-ipa.md"
+title: "Little brewing company citra IPA"
 category: beer
 score: 8
 beer-date: "2016-01-07"

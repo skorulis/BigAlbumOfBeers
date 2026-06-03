@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-chew-tang-clan.md
-title: Two birds chew tang clan
+filename: "_posts/beer/2016-11-09-two-birds-chew-tang-clan.md"
+title: "Two birds chew tang clan"
 category: beer
 score: 7
 beer-date: "2021-01-31"

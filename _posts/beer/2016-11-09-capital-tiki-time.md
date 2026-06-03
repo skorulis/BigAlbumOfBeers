@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-capital-tiki-time.md
-title: Capital tiki time
+filename: "_posts/beer/2016-11-09-capital-tiki-time.md"
+title: "Capital tiki time"
 category: beer
 score: 8
 beer-date: "2022-08-07"

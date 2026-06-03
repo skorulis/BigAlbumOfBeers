@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cambridgeshire-golden-ale.md
-title: Cambridgeshire Golden Ale
+filename: "_posts/beer/2016-11-09-cambridgeshire-golden-ale.md"
+title: "Cambridgeshire Golden Ale"
 category: beer
 score: 5
 beer-date: "2013-03-09"

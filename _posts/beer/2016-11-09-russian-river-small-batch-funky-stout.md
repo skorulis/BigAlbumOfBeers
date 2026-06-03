@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-russian-river-small-batch-funky-stout.md
-title: Russian River Small Batch Funky Stout
+filename: "_posts/beer/2016-11-09-russian-river-small-batch-funky-stout.md"
+title: "Russian River Small Batch Funky Stout"
 category: beer
 score: 6.5
 beer-date: "2025-09-26"

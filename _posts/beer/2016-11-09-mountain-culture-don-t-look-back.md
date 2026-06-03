@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-don-t-look-back.md
-title: Mountain Culture Don’t Look Back
+filename: "_posts/beer/2016-11-09-mountain-culture-don-t-look-back.md"
+title: "Mountain Culture Don’t Look Back"
 category: beer
 score: 8.5
 beer-date: "2025-11-10"

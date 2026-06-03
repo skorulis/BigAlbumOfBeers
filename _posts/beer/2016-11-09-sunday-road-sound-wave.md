@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sunday-road-sound-wave.md
-title: Sunday road sound wave
+filename: "_posts/beer/2016-11-09-sunday-road-sound-wave.md"
+title: "Sunday road sound wave"
 category: beer
 score: 8
 beer-date: "2024-03-29"

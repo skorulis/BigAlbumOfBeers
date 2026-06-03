@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-red-stripe.md
-title: Red stripe
+filename: "_posts/beer/2016-11-09-red-stripe.md"
+title: "Red stripe"
 category: beer
 score: 7
 beer-date: "2012-10-27"

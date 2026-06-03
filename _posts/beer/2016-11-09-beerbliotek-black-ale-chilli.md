@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerbliotek-black-ale-chilli.md
-title: Beerbliotek black ale chilli
+filename: "_posts/beer/2016-11-09-beerbliotek-black-ale-chilli.md"
+title: "Beerbliotek black ale chilli"
 category: beer
 score: 7
 beer-date: "2023-10-02"

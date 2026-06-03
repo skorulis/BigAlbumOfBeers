@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-slap-shot.md
-title: Wayward Slap Shot
+filename: "_posts/beer/2016-11-09-wayward-slap-shot.md"
+title: "Wayward Slap Shot"
 category: beer
 score: 8
 beer-date: "2018-10-05"

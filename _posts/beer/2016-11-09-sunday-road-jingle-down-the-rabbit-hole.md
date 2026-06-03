@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sunday-road-jingle-down-the-rabbit-hole.md
-title: Sunday road jingle down the rabbit hole
+filename: "_posts/beer/2016-11-09-sunday-road-jingle-down-the-rabbit-hole.md"
+title: "Sunday road jingle down the rabbit hole"
 category: beer
 score: 7
 beer-date: "2023-02-26"

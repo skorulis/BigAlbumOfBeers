@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-duel-hoppy-lager.md
-title: Duel Hoppy Lager
+filename: "_posts/beer/2016-11-09-duel-hoppy-lager.md"
+title: "Duel Hoppy Lager"
 category: beer
 score: 7
 beer-date: "2016-04-21"

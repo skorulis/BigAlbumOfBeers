@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerbliotek-purely-selfish-reasons.md
-title: Beerbliotek purely selfish reasons
+filename: "_posts/beer/2016-11-09-beerbliotek-purely-selfish-reasons.md"
+title: "Beerbliotek purely selfish reasons"
 category: beer
 score: 7.5
 beer-date: "2023-10-02"

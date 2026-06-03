@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pistonhead-lager.md
-title: Pistonhead lager
+filename: "_posts/beer/2016-11-09-pistonhead-lager.md"
+title: "Pistonhead lager"
 category: beer
 score: 4
 beer-date: "2015-05-01"

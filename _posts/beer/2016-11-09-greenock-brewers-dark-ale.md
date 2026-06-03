@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-greenock-brewers-dark-ale.md
-title: Greenock brewers dark ale
+filename: "_posts/beer/2016-11-09-greenock-brewers-dark-ale.md"
+title: "Greenock brewers dark ale"
 category: beer
 score: 7.5
 beer-date: "2018-06-02"

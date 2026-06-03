@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tumut-river-bad-mofo.md
-title: Tumut river bad mofo
+filename: "_posts/beer/2016-11-09-tumut-river-bad-mofo.md"
+title: "Tumut river bad mofo"
 category: beer
 score: 6.5
 beer-date: "2023-08-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackmans-loral-ipa.md
-title: Blackmans Loral IPA
+filename: "_posts/beer/2016-11-09-blackmans-loral-ipa.md"
+title: "Blackmans Loral IPA"
 category: beer
 score: 7
 beer-date: "2017-10-28"

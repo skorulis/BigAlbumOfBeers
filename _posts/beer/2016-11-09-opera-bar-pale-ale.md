@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-opera-bar-pale-ale.md
-title: Opera bar pale ale
+filename: "_posts/beer/2016-11-09-opera-bar-pale-ale.md"
+title: "Opera bar pale ale"
 category: beer
 score: 5
 beer-date: "2014-05-03"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-anchor-steam-lager.md
-title: Anchor steam lager
+filename: "_posts/beer/2016-11-09-anchor-steam-lager.md"
+title: "Anchor steam lager"
 category: beer
 score: 7
 beer-date: "2015-05-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shenanigans-hoppy-gonzales.md
-title: Shenanigans Hoppy Gonzales
+filename: "_posts/beer/2016-11-09-shenanigans-hoppy-gonzales.md"
+title: "Shenanigans Hoppy Gonzales"
 category: beer
 score: 7
 beer-date: "2016-01-06"

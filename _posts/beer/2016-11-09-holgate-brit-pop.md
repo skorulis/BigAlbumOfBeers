@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-holgate-brit-pop.md
-title: Holgate Brit Pop
+filename: "_posts/beer/2016-11-09-holgate-brit-pop.md"
+title: "Holgate Brit Pop"
 category: beer
 score: 6
 beer-date: "2025-12-28"

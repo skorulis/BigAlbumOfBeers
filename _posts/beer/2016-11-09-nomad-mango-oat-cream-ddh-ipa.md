@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-mango-oat-cream-ddh-ipa.md
-title: Nomad mango oat cream DDH IPA
+filename: "_posts/beer/2016-11-09-nomad-mango-oat-cream-ddh-ipa.md"
+title: "Nomad mango oat cream DDH IPA"
 category: beer
 score: 8.5
 beer-date: "2021-04-02"

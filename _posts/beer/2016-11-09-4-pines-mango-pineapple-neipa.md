@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-mango-pineapple-neipa.md
-title: 4 pines mango pineapple NEIPA
+filename: "_posts/beer/2016-11-09-4-pines-mango-pineapple-neipa.md"
+title: "4 pines mango pineapple NEIPA"
 category: beer
 score: 8
 beer-date: "2019-11-22"

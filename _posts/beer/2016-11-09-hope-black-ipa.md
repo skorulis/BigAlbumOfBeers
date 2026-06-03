@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-black-ipa.md
-title: Hope black IPA
+filename: "_posts/beer/2016-11-09-hope-black-ipa.md"
+title: "Hope black IPA"
 category: beer
 score: 7
 beer-date: "2017-01-21"

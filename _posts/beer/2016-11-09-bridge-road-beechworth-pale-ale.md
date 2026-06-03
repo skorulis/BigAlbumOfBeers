@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-beechworth-pale-ale.md
-title: Bridge road beechworth pale ale
+filename: "_posts/beer/2016-11-09-bridge-road-beechworth-pale-ale.md"
+title: "Bridge road beechworth pale ale"
 category: beer
 score: 7
 beer-date: "2014-03-18"

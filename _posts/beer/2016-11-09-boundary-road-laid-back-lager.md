@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boundary-road-laid-back-lager.md
-title: Boundary road laid back lager
+filename: "_posts/beer/2016-11-09-boundary-road-laid-back-lager.md"
+title: "Boundary road laid back lager"
 category: beer
 score: 7
 beer-date: "2022-09-21"

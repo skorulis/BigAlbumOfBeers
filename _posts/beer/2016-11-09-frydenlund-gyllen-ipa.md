@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-frydenlund-gyllen-ipa.md
-title: Frydenlund gyllen IPA
+filename: "_posts/beer/2016-11-09-frydenlund-gyllen-ipa.md"
+title: "Frydenlund gyllen IPA"
 category: beer
 score: 7
 beer-date: "2023-10-02"

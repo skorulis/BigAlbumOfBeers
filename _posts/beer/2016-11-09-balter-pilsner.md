@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-balter-pilsner.md
-title: Balter Pilsner
+filename: "_posts/beer/2016-11-09-balter-pilsner.md"
+title: "Balter Pilsner"
 category: beer
 score: 6
 beer-date: "2018-01-13"

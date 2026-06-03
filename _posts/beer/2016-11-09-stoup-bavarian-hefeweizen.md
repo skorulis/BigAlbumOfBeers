@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stoup-bavarian-hefeweizen.md
-title: Stoup Bavarian Hefeweizen
+filename: "_posts/beer/2016-11-09-stoup-bavarian-hefeweizen.md"
+title: "Stoup Bavarian Hefeweizen"
 category: beer
 score: 8.5
 beer-date: "2025-09-26"

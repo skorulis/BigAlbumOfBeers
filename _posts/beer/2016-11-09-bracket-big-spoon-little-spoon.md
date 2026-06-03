@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-big-spoon-little-spoon.md
-title: Bracket big spoon little spoon
+filename: "_posts/beer/2016-11-09-bracket-big-spoon-little-spoon.md"
+title: "Bracket big spoon little spoon"
 category: beer
 score: 8.5
 beer-date: "2023-02-26"

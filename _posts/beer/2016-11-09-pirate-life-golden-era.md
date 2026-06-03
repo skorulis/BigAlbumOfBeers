@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-golden-era.md
-title: Pirate life golden era
+filename: "_posts/beer/2016-11-09-pirate-life-golden-era.md"
+title: "Pirate life golden era"
 category: beer
 score: 7
 beer-date: "2017-01-21"

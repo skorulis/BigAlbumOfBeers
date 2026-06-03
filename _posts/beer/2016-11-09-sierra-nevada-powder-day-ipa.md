@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sierra-nevada-powder-day-ipa.md
-title: Sierra Nevada powder day IPA
+filename: "_posts/beer/2016-11-09-sierra-nevada-powder-day-ipa.md"
+title: "Sierra Nevada powder day IPA"
 category: beer
 score: 8.5
 beer-date: "2023-03-31"

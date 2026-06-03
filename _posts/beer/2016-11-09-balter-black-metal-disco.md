@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-balter-black-metal-disco.md
-title: Balter black metal disco
+filename: "_posts/beer/2016-11-09-balter-black-metal-disco.md"
+title: "Balter black metal disco"
 category: beer
 score: 8.5
 beer-date: "2018-01-13"

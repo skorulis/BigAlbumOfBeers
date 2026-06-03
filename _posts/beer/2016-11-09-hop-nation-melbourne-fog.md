@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-nation-melbourne-fog.md
-title: Hop nation Melbourne fog
+filename: "_posts/beer/2016-11-09-hop-nation-melbourne-fog.md"
+title: "Hop nation Melbourne fog"
 category: beer
 score: 6
 beer-date: "2021-04-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cheers-x-tra.md
-title: Cheers X-tra
+filename: "_posts/beer/2016-11-09-cheers-x-tra.md"
+title: "Cheers X-tra"
 category: beer
 score: 6
 beer-date: "2015-10-17"

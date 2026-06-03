@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-founders-kbs.md
-title: Founders KBS
+filename: "_posts/beer/2016-11-09-founders-kbs.md"
+title: "Founders KBS"
 category: beer
 score: 9.5
 beer-date: "2017-05-27"

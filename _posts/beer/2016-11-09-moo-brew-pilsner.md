@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moo-brew-pilsner.md
-title: Moo brew pilsner
+filename: "_posts/beer/2016-11-09-moo-brew-pilsner.md"
+title: "Moo brew pilsner"
 category: beer
 score: 7
 beer-date: "2013-03-28"

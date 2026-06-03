@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beachwood-road-dark-harvest.md
-title: Beachwood road dark harvest
+filename: "_posts/beer/2016-11-09-beachwood-road-dark-harvest.md"
+title: "Beachwood road dark harvest"
 category: beer
 score: 6
 beer-date: "2016-05-24"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-esker-second-round.md
-title: Esker second round
+filename: "_posts/beer/2016-11-09-esker-second-round.md"
+title: "Esker second round"
 category: beer
 score: 8
 beer-date: "2024-11-23"

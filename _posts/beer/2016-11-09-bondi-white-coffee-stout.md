@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bondi-white-coffee-stout.md
-title: Bondi white coffee stout
+filename: "_posts/beer/2016-11-09-bondi-white-coffee-stout.md"
+title: "Bondi white coffee stout"
 category: beer
 score: 7
 beer-date: "2020-11-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ocean-reach-grapefruit-ipa.md
-title: Ocean reach grapefruit IPA
+filename: "_posts/beer/2016-11-09-ocean-reach-grapefruit-ipa.md"
+title: "Ocean reach grapefruit IPA"
 category: beer
 score: 7.5
 beer-date: "2020-07-31"
@@ -11,6 +11,6 @@ img: /img/list/ocean-reach-grapefruit-ipa.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--grapefruit-ipa/2577972"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "/brewery/ocean-reach-brewing-.html"
+breweryURL: "/brewery/ocean-reach-brewing.html"
 style: "IPA - American"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-old-wives-ale-horn-swatter.md
-title: Old wives ale horn swatter
+filename: "_posts/beer/2016-11-09-old-wives-ale-horn-swatter.md"
+title: "Old wives ale horn swatter"
 category: beer
 score: 6
 beer-date: "2019-04-22"

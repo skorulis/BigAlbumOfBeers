@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-extraomes-quadruple.md
-title: Extraomes quadruple
+filename: "_posts/beer/2016-11-09-extraomes-quadruple.md"
+title: "Extraomes quadruple"
 category: beer
 score: 2
 beer-date: "2017-07-12"

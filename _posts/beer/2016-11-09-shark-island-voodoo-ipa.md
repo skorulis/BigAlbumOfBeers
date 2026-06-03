@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shark-island-voodoo-ipa.md
-title: Shark Island voodoo IPA
+filename: "_posts/beer/2016-11-09-shark-island-voodoo-ipa.md"
+title: "Shark Island voodoo IPA"
 category: beer
 score: 7.5
 beer-date: "2024-12-28"

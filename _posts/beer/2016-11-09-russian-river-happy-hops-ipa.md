@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-russian-river-happy-hops-ipa.md
-title: Russian River Happy Hops IPA
+filename: "_posts/beer/2016-11-09-russian-river-happy-hops-ipa.md"
+title: "Russian River Happy Hops IPA"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jaws-nuclear-laundry.md
-title: Jaws nuclear laundry
+filename: "_posts/beer/2016-11-09-jaws-nuclear-laundry.md"
+title: "Jaws nuclear laundry"
 category: beer
 score: 8.5
 beer-date: "2017-06-15"

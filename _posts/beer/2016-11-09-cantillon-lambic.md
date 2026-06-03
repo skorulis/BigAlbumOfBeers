@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cantillon-lambic.md
-title: Cantillon lambic
+filename: "_posts/beer/2016-11-09-cantillon-lambic.md"
+title: "Cantillon lambic"
 category: beer
 score: 7
 beer-date: "2017-06-15"

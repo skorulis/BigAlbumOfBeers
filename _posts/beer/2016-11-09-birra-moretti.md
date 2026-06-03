@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-birra-moretti.md
-title: Birra moretti
+filename: "_posts/beer/2016-11-09-birra-moretti.md"
+title: "Birra moretti"
 category: beer
 score: 6
 beer-date: "2013-08-18"

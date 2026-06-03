@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-alchemist-heady-topper.md
-title: Alchemist heady topper
+filename: "_posts/beer/2016-11-09-alchemist-heady-topper.md"
+title: "Alchemist heady topper"
 category: beer
 score: 8.5
 beer-date: "2024-06-15"

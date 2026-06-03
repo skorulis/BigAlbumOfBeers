@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sion-koelsch.md
-title: Sion kölsch
+filename: "_posts/beer/2016-11-09-sion-koelsch.md"
+title: "Sion kölsch"
 category: beer
 score: 7
 beer-date: "2017-06-15"

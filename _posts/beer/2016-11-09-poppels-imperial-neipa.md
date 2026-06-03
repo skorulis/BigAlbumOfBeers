@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-poppels-imperial-neipa.md
-title: Poppels imperial NEIPA
+filename: "_posts/beer/2016-11-09-poppels-imperial-neipa.md"
+title: "Poppels imperial NEIPA"
 category: beer
 score: 8
 beer-date: "2023-10-02"

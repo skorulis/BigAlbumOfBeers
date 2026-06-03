@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-frenchies-kolsch.md
-title: Frenchies kolsch
+filename: "_posts/beer/2016-11-09-frenchies-kolsch.md"
+title: "Frenchies kolsch"
 category: beer
 score: 6.5
 beer-date: "2018-10-05"

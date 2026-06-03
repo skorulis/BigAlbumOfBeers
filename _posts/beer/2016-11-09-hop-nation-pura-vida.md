@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-nation-pura-vida.md
-title: Hop nation pura vida
+filename: "_posts/beer/2016-11-09-hop-nation-pura-vida.md"
+title: "Hop nation pura vida"
 category: beer
 score: 8
 beer-date: "2023-02-26"

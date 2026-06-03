@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-spider-pig.md
-title: Bridge Road Spider Pig
+filename: "_posts/beer/2016-11-09-bridge-road-spider-pig.md"
+title: "Bridge Road Spider Pig"
 category: beer
 score: 8
 beer-date: "2025-12-28"

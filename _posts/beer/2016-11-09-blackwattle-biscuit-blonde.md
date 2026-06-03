@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackwattle-biscuit-blonde.md
-title: Blackwattle Biscuit Blonde
+filename: "_posts/beer/2016-11-09-blackwattle-biscuit-blonde.md"
+title: "Blackwattle Biscuit Blonde"
 category: beer
 score: 6.5
 beer-date: "2025-02-15"

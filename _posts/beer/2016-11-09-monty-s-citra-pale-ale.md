@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-monty-s-citra-pale-ale.md
-title: Monty’s citra pale ale
+filename: "_posts/beer/2016-11-09-monty-s-citra-pale-ale.md"
+title: "Monty’s citra pale ale"
 category: beer
 score: 7
 beer-date: "2021-12-28"

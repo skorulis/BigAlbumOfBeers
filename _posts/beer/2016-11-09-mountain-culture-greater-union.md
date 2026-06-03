@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-greater-union.md
-title: Mountain culture greater union
+filename: "_posts/beer/2016-11-09-mountain-culture-greater-union.md"
+title: "Mountain culture greater union"
 category: beer
 score: 9
 beer-date: "2023-08-26"

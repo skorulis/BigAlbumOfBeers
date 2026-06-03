@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-the-dipa-formally-known-as.md
-title: Sauce the DIPA formally known as
+filename: "_posts/beer/2016-11-09-sauce-the-dipa-formally-known-as.md"
+title: "Sauce the DIPA formally known as"
 category: beer
 score: 8.5
 beer-date: "2019-11-22"

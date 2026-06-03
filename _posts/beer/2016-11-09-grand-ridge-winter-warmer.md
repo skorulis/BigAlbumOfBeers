@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-grand-ridge-winter-warmer.md
-title: Grand ridge winter warmer
+filename: "_posts/beer/2016-11-09-grand-ridge-winter-warmer.md"
+title: "Grand ridge winter warmer"
 category: beer
 score: 8
 beer-date: "2020-07-31"

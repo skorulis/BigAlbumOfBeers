@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-stormy-seas.md
-title: James squire stormy seas
+filename: "_posts/beer/2016-11-09-james-squire-stormy-seas.md"
+title: "James squire stormy seas"
 category: beer
 score: 7
 beer-date: "2020-11-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-twenty-something.md
-title: Range twenty something
+filename: "_posts/beer/2016-11-09-range-twenty-something.md"
+title: "Range twenty something"
 category: beer
 score: 8
 beer-date: "2022-08-07"

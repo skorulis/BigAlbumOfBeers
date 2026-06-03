@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-garden-milkshake-ipa.md
-title: The garden milkshake IPA
+filename: "_posts/beer/2016-11-09-the-garden-milkshake-ipa.md"
+title: "The garden milkshake IPA"
 category: beer
 score: 8
 beer-date: "2019-06-22"

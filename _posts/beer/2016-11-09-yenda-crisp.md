@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yenda-crisp.md
-title: Yenda Crisp
+filename: "_posts/beer/2016-11-09-yenda-crisp.md"
+title: "Yenda Crisp"
 category: beer
 score: 4
 beer-date: "2018-03-13"

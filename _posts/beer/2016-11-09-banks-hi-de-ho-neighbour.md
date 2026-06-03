@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-hi-de-ho-neighbour.md
-title: Banks Hi-De-Ho Neighbour
+filename: "_posts/beer/2016-11-09-banks-hi-de-ho-neighbour.md"
+title: "Banks Hi-De-Ho Neighbour"
 category: beer
 score: 8
 beer-date: "2025-02-15"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slow-lane-czechlist.md
-title: Slow Lane Czechlist
+filename: "_posts/beer/2016-11-09-slow-lane-czechlist.md"
+title: "Slow Lane Czechlist"
 category: beer
 score: 6.5
 beer-date: "2025-12-28"

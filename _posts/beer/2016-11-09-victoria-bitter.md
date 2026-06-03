@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-victoria-bitter.md
-title: Victoria Bitter
+filename: "_posts/beer/2016-11-09-victoria-bitter.md"
+title: "Victoria Bitter"
 category: beer
 score: 5
 beer-date: "2013-02-01"

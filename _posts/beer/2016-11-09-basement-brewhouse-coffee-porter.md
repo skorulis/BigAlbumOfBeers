@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-basement-brewhouse-coffee-porter.md
-title: Basement brewhouse coffee porter
+filename: "_posts/beer/2016-11-09-basement-brewhouse-coffee-porter.md"
+title: "Basement brewhouse coffee porter"
 category: beer
 score: 7.5
 beer-date: "2018-10-05"

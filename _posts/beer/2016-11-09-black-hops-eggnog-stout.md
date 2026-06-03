@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-black-hops-eggnog-stout.md
-title: Black hops eggnog stout
+filename: "_posts/beer/2016-11-09-black-hops-eggnog-stout.md"
+title: "Black hops eggnog stout"
 category: beer
 score: 7.5
 beer-date: "2020-12-25"

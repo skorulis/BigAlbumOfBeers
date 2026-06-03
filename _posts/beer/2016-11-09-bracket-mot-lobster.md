@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-mot-lobster.md
-title: Bracket mot lobster
+filename: "_posts/beer/2016-11-09-bracket-mot-lobster.md"
+title: "Bracket mot lobster"
 category: beer
 score: 9
 beer-date: "2023-02-26"

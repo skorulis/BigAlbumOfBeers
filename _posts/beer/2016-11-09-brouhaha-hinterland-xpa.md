@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brouhaha-hinterland-xpa.md
-title: Brouhaha hinterland XPA
+filename: "_posts/beer/2016-11-09-brouhaha-hinterland-xpa.md"
+title: "Brouhaha hinterland XPA"
 category: beer
 score: 7
 beer-date: "2020-12-25"

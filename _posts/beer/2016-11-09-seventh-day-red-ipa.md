@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-seventh-day-red-ipa.md
-title: Seventh day red IPA
+filename: "_posts/beer/2016-11-09-seventh-day-red-ipa.md"
+title: "Seventh day red IPA"
 category: beer
 score: 8.5
 beer-date: "2023-03-31"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-zilker-parks-rec.md
-title: Zilker Parks & Rec
+filename: "_posts/beer/2016-11-09-zilker-parks-rec.md"
+title: "Zilker Parks & Rec"
 category: beer
 score: 6.5
 beer-date: "2025-09-26"

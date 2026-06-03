@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-oskar-blues-beerito.md
-title: Oskar blues beerito
+filename: "_posts/beer/2016-11-09-oskar-blues-beerito.md"
+title: "Oskar blues beerito"
 category: beer
 score: 6.5
 beer-date: "2017-04-11"

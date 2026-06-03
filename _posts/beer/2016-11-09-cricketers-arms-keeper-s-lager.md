@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cricketers-arms-keeper-s-lager.md
-title: Cricketers Arms Keeper’s lager
+filename: "_posts/beer/2016-11-09-cricketers-arms-keeper-s-lager.md"
+title: "Cricketers Arms Keeper’s lager"
 category: beer
 score: 7
 beer-date: "2015-05-01"

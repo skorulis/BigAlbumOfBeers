@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stomping-grounds-wassail-ale.md
-title: Stomping grounds wassail ale
+filename: "_posts/beer/2016-11-09-stomping-grounds-wassail-ale.md"
+title: "Stomping grounds wassail ale"
 category: beer
 score: 9
 beer-date: "2018-12-27"

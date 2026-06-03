@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-athena-alfa.md
-title: Athena Alfa
+filename: "_posts/beer/2016-11-09-athena-alfa.md"
+title: "Athena Alfa"
 category: beer
 score: 6
 beer-date: "2023-02-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-teddy.md
-title: Banks teddy
+filename: "_posts/beer/2016-11-09-banks-teddy.md"
+title: "Banks teddy"
 category: beer
 score: 7.5
 beer-date: "2024-03-29"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wells-bombardier-burning-gold.md
-title: Wells bombardier burning gold
+filename: "_posts/beer/2016-11-09-wells-bombardier-burning-gold.md"
+title: "Wells bombardier burning gold"
 category: beer
 score: 4
 beer-date: "2013-04-27"

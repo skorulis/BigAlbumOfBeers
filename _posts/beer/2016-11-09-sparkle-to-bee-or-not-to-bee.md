@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sparkle-to-bee-or-not-to-bee.md
-title: Sparkle to bee or not to bee
+filename: "_posts/beer/2016-11-09-sparkle-to-bee-or-not-to-bee.md"
+title: "Sparkle to bee or not to bee"
 category: beer
 score: 7
 beer-date: "2020-11-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-give-you-all-my-love.md
-title: Garage project give you all my love
+filename: "_posts/beer/2016-11-09-garage-project-give-you-all-my-love.md"
+title: "Garage project give you all my love"
 category: beer
 score: 8
 beer-date: "2022-08-07"

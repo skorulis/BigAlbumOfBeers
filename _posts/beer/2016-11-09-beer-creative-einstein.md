@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beer-creative-einstein.md
-title: Beer creative Einstein
+filename: "_posts/beer/2016-11-09-beer-creative-einstein.md"
+title: "Beer creative Einstein"
 category: beer
 score: 7
 beer-date: "2017-05-27"

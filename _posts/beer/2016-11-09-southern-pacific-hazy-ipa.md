@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-southern-pacific-hazy-ipa.md
-title: Southern pacific hazy IPA
+filename: "_posts/beer/2016-11-09-southern-pacific-hazy-ipa.md"
+title: "Southern pacific hazy IPA"
 category: beer
 score: 8.5
 beer-date: "2023-02-26"

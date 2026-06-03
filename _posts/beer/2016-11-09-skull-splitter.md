@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-skull-splitter.md
-title: Skull splitter
+filename: "_posts/beer/2016-11-09-skull-splitter.md"
+title: "Skull splitter"
 category: beer
 score: 3
 beer-date: "2013-05-25"

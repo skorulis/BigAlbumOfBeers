@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-conehead.md
-title: Boatrocker conehead
+filename: "_posts/beer/2016-11-09-boatrocker-conehead.md"
+title: "Boatrocker conehead"
 category: beer
 score: 8
 beer-date: "2023-02-28"

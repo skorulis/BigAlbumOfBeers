@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-west-end-draught.md
-title: West end draught
+filename: "_posts/beer/2016-11-09-west-end-draught.md"
+title: "West end draught"
 category: beer
 score: 5
 beer-date: "2016-09-21"

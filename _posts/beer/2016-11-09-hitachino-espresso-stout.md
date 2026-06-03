@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hitachino-espresso-stout.md
-title: Hitachino espresso stout
+filename: "_posts/beer/2016-11-09-hitachino-espresso-stout.md"
+title: "Hitachino espresso stout"
 category: beer
 score: 8.5
 beer-date: "2018-06-02"

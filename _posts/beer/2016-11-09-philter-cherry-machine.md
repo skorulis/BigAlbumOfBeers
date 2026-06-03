@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-philter-cherry-machine.md
-title: Philter Cherry Machine
+filename: "_posts/beer/2016-11-09-philter-cherry-machine.md"
+title: "Philter Cherry Machine"
 category: beer
 score: 8.5
 beer-date: "2025-09-26"

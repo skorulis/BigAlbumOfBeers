@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-db-draught.md
-title: DB draught
+filename: "_posts/beer/2016-11-09-db-draught.md"
+title: "DB draught"
 category: beer
 score: 4.5
 beer-date: "2022-09-21"

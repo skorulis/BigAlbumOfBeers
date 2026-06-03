@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-the-darkness-stout.md
-title: Wayward the darkness stout
+filename: "_posts/beer/2016-11-09-wayward-the-darkness-stout.md"
+title: "Wayward the darkness stout"
 category: beer
 score: 7.5
 beer-date: "2020-09-26"

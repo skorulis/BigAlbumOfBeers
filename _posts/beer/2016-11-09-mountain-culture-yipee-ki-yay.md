@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-yipee-ki-yay.md
-title: Mountain culture Yipee Ki Yay
+filename: "_posts/beer/2016-11-09-mountain-culture-yipee-ki-yay.md"
+title: "Mountain culture Yipee Ki Yay"
 category: beer
 score: 9.5
 beer-date: "2020-12-25"

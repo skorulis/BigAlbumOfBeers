@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-behemoth-seeker-quintuple-ipa.md
-title: Behemoth + Seeker Quintuple IPA
+filename: "_posts/beer/2016-11-09-behemoth-seeker-quintuple-ipa.md"
+title: "Behemoth + Seeker Quintuple IPA"
 category: beer
 score: 5
 beer-date: "2026-03-27"

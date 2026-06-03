@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-seven-mile-quiver-killer.md
-title: Seven mile quiver killer
+filename: "_posts/beer/2016-11-09-seven-mile-quiver-killer.md"
+title: "Seven mile quiver killer"
 category: beer
 score: 9
 beer-date: "2024-03-29"

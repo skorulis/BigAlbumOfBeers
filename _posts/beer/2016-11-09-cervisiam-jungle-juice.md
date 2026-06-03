@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cervisiam-jungle-juice.md
-title: Cervisiam jungle juice
+filename: "_posts/beer/2016-11-09-cervisiam-jungle-juice.md"
+title: "Cervisiam jungle juice"
 category: beer
 score: 8
 beer-date: "2020-07-31"

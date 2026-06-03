@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-paperbark.md
-title: Bracket paperbark
+filename: "_posts/beer/2016-11-09-bracket-paperbark.md"
+title: "Bracket paperbark"
 category: beer
 score: 9
 beer-date: "2024-06-15"

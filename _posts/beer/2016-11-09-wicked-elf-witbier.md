@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wicked-elf-witbier.md
-title: Wicked Elf WitBier
+filename: "_posts/beer/2016-11-09-wicked-elf-witbier.md"
+title: "Wicked Elf WitBier"
 category: beer
 score: 7
 beer-date: "2015-02-27"

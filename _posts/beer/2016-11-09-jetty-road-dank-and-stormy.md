@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jetty-road-dank-and-stormy.md
-title: Jetty road dank and stormy
+filename: "_posts/beer/2016-11-09-jetty-road-dank-and-stormy.md"
+title: "Jetty road dank and stormy"
 category: beer
 score: 7.5
 beer-date: "2021-12-28"

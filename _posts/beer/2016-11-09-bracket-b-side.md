@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-b-side.md
-title: Bracket B-Side
+filename: "_posts/beer/2016-11-09-bracket-b-side.md"
+title: "Bracket B-Side"
 category: beer
 score: 8
 beer-date: "2023-03-31"

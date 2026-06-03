@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-north-street-stout.md
-title: Mountain goat north street stout
+filename: "_posts/beer/2016-11-09-mountain-goat-north-street-stout.md"
+title: "Mountain goat north street stout"
 category: beer
 score: 7.5
 beer-date: "2018-11-05"

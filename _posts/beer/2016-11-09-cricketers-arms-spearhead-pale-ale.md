@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cricketers-arms-spearhead-pale-ale.md
-title: Cricketers arms spearhead pale ale
+filename: "_posts/beer/2016-11-09-cricketers-arms-spearhead-pale-ale.md"
+title: "Cricketers arms spearhead pale ale"
 category: beer
 score: 5
 beer-date: "2015-07-10"

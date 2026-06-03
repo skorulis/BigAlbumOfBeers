@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slow-lane-like-a-chimney.md
-title: Slow lane like a chimney
+filename: "_posts/beer/2016-11-09-slow-lane-like-a-chimney.md"
+title: "Slow lane like a chimney"
 category: beer
 score: 7
 beer-date: "2024-03-29"

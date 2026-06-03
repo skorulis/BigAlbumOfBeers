@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moa-session-pale-ale.md
-title: MOA Session pale ale
+filename: "_posts/beer/2016-11-09-moa-session-pale-ale.md"
+title: "MOA Session pale ale"
 category: beer
 score: 5
 beer-date: "2016-02-14"

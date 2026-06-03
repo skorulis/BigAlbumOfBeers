@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-hop-ale.md
-title: Young Henry's hop ale
+filename: "_posts/beer/2016-11-09-young-henry-s-hop-ale.md"
+title: "Young Henry's hop ale"
 category: beer
 score: 7
 beer-date: "2015-10-17"

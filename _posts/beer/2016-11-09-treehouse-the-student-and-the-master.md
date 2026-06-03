@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-treehouse-the-student-and-the-master.md
-title: Treehouse The Student and The Master
+filename: "_posts/beer/2016-11-09-treehouse-the-student-and-the-master.md"
+title: "Treehouse The Student and The Master"
 category: beer
 score: 9
 beer-date: "2025-09-26"

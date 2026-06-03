@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-birmingham-pale-brummie.md
-title: Birmingham pale brummie
+filename: "_posts/beer/2016-11-09-birmingham-pale-brummie.md"
+title: "Birmingham pale brummie"
 category: beer
 score: 5.5
 beer-date: "2023-09-06"

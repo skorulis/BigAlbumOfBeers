@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-birra-dana.md
-title: Birra Dana
+filename: "_posts/beer/2016-11-09-birra-dana.md"
+title: "Birra Dana"
 category: beer
 score: 5
 beer-date: "2017-07-12"

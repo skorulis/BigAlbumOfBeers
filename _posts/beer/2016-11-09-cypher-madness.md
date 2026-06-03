@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cypher-madness.md
-title: Cypher Madness
+filename: "_posts/beer/2016-11-09-cypher-madness.md"
+title: "Cypher Madness"
 category: beer
 score: 8
 beer-date: "2025-09-26"

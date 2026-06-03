@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-steam-ale.md
-title: Mountain goat steam ale
+filename: "_posts/beer/2016-11-09-mountain-goat-steam-ale.md"
+title: "Mountain goat steam ale"
 category: beer
 score: 7
 beer-date: "2014-06-21"

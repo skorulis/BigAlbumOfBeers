@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bojak-calypso-hazy-ipa.md
-title: Bojak calypso hazy IPA
+filename: "_posts/beer/2016-11-09-bojak-calypso-hazy-ipa.md"
+title: "Bojak calypso hazy IPA"
 category: beer
 score: 7.5
 beer-date: "2021-12-28"

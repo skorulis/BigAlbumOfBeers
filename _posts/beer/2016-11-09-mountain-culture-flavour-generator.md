@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-flavour-generator.md
-title: Mountain culture flavour generator
+filename: "_posts/beer/2016-11-09-mountain-culture-flavour-generator.md"
+title: "Mountain culture flavour generator"
 category: beer
 score: 7.5
 beer-date: "2021-06-05"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-oakham-ales-inferno.md
-title: Oakham ales inferno
+filename: "_posts/beer/2016-11-09-oakham-ales-inferno.md"
+title: "Oakham ales inferno"
 category: beer
 score: 5
 beer-date: "2013-05-25"

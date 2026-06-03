@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-big-shed-erebus.md
-title: Big shed erebus
+filename: "_posts/beer/2016-11-09-big-shed-erebus.md"
+title: "Big shed erebus"
 category: beer
 score: 9
 beer-date: "2021-01-14"

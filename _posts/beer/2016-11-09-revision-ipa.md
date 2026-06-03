@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-revision-ipa.md
-title: Revision IPA
+filename: "_posts/beer/2016-11-09-revision-ipa.md"
+title: "Revision IPA"
 category: beer
 score: 9
 beer-date: "2021-01-14"

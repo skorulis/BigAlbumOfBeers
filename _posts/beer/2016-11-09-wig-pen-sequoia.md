@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wig-pen-sequoia.md
-title: Wig & pen sequoia
+filename: "_posts/beer/2016-11-09-wig-pen-sequoia.md"
+title: "Wig & pen sequoia"
 category: beer
 score: 8
 beer-date: "2016-02-14"

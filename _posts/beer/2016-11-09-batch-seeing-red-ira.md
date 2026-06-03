@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-seeing-red-ira.md
-title: Batch seeing red IRA
+filename: "_posts/beer/2016-11-09-batch-seeing-red-ira.md"
+title: "Batch seeing red IRA"
 category: beer
 score: 7
 beer-date: "2016-05-24"

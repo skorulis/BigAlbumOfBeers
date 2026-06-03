@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fauve-un-americain-a-paris.md
-title: Fauve Un Américain à Paris
+filename: "_posts/beer/2016-11-09-fauve-un-americain-a-paris.md"
+title: "Fauve Un Américain à Paris"
 category: beer
 score: 8.5
 beer-date: "2023-10-02"

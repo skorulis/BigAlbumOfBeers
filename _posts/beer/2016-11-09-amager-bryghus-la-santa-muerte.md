@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-amager-bryghus-la-santa-muerte.md
-title: Amager bryghus la Santa muerte
+filename: "_posts/beer/2016-11-09-amager-bryghus-la-santa-muerte.md"
+title: "Amager bryghus la Santa muerte"
 category: beer
 score: 8.5
 beer-date: "2020-09-26"

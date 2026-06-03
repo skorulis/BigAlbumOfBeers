@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dalgety-hoppy-sour.md
-title: Dalgety hoppy sour
+filename: "_posts/beer/2016-11-09-dalgety-hoppy-sour.md"
+title: "Dalgety hoppy sour"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

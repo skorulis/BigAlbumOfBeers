@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-working-title-snake-eyes.md
-title: Working title snake eyes
+filename: "_posts/beer/2016-11-09-working-title-snake-eyes.md"
+title: "Working title snake eyes"
 category: beer
 score: 8
 beer-date: "2022-08-07"

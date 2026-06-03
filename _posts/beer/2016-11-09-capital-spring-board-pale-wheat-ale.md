@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-capital-spring-board-pale-wheat-ale.md
-title: Capital spring board pale wheat ale
+filename: "_posts/beer/2016-11-09-capital-spring-board-pale-wheat-ale.md"
+title: "Capital spring board pale wheat ale"
 category: beer
 score: 6.5
 beer-date: "2017-10-28"

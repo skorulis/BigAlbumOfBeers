@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-queen-bee-iv.md
-title: 4 pines queen bee IV
+filename: "_posts/beer/2016-11-09-4-pines-queen-bee-iv.md"
+title: "4 pines queen bee IV"
 category: beer
 score: 7
 beer-date: "2019-06-22"

@@ -4,7 +4,7 @@ filename: "_posts/brewery/2016-11-09-burnley-brewing.md"
 title: "Burnley Brewing"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/burnley-brewing/371567"
-instagram: 'burnleybrewing'
-twitter: ''
-facebook: 'http://facebook.com/burnleybrewing'
+instagram: "burnleybrewing"
+twitter: ""
+facebook: "http://facebook.com/burnleybrewing"
 ---

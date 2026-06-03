@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-torpedo-extra-ipa.md
-title: Torpedo extra IPA
+filename: "_posts/beer/2016-11-09-torpedo-extra-ipa.md"
+title: "Torpedo extra IPA"
 category: beer
 score: 9
 beer-date: "2015-01-29"

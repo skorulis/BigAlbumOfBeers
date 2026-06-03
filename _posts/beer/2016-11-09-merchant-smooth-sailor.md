@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-merchant-smooth-sailor.md
-title: Merchant smooth sailor
+filename: "_posts/beer/2016-11-09-merchant-smooth-sailor.md"
+title: "Merchant smooth sailor"
 category: beer
 score: 8
 beer-date: "2017-10-28"

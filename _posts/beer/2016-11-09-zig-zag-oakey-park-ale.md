@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-zig-zag-oakey-park-ale.md
-title: Zig zag Oakey Park ale
+filename: "_posts/beer/2016-11-09-zig-zag-oakey-park-ale.md"
+title: "Zig zag Oakey Park ale"
 category: beer
 score: 8
 beer-date: "2018-12-27"

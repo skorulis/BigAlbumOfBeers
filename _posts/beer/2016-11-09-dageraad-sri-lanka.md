@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dageraad-sri-lanka.md
-title: Dageraad Sri Lanka
+filename: "_posts/beer/2016-11-09-dageraad-sri-lanka.md"
+title: "Dageraad Sri Lanka"
 category: beer
 score: 7.5
 beer-date: "2017-05-27"

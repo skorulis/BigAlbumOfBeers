@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tesco-lager.md
-title: Tesco Lager
+filename: "_posts/beer/2016-11-09-tesco-lager.md"
+title: "Tesco Lager"
 category: beer
 score: 2
 beer-date: "2012-12-09"

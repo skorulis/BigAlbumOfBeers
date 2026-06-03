@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tortured-gum-stinger.md
-title: Tortured gum stinger
+filename: "_posts/beer/2016-11-09-tortured-gum-stinger.md"
+title: "Tortured gum stinger"
 category: beer
 score: 6
 beer-date: "2016-02-14"

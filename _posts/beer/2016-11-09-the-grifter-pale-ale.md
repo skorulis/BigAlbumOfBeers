@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-grifter-pale-ale.md
-title: The grifter pale ale
+filename: "_posts/beer/2016-11-09-the-grifter-pale-ale.md"
+title: "The grifter pale ale"
 category: beer
 score: 7
 beer-date: "2014-03-01"

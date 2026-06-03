@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-thuringia-to-bembok.md
-title: Batch Thuringia To Bembok
+filename: "_posts/beer/2016-11-09-batch-thuringia-to-bembok.md"
+title: "Batch Thuringia To Bembok"
 category: beer
 score: 8
 beer-date: "2025-12-28"

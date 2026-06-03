@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hitachino-red-rice.md
-title: Hitachino red rice
+filename: "_posts/beer/2016-11-09-hitachino-red-rice.md"
+title: "Hitachino red rice"
 category: beer
 score: 6
 beer-date: "2013-09-01"

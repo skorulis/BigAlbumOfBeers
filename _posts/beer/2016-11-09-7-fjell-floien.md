@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-7-fjell-floien.md
-title: 7 fjell fløien
+filename: "_posts/beer/2016-11-09-7-fjell-floien.md"
+title: "7 fjell fløien"
 category: beer
 score: 7
 beer-date: "2023-10-02"

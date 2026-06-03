@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-original-special-blonde-beer.md
-title: Original special blonde beer
+filename: "_posts/beer/2016-11-09-original-special-blonde-beer.md"
+title: "Original special blonde beer"
 category: beer
 score: 8
 beer-date: "2015-10-17"

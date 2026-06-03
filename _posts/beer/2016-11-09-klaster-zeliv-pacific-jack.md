@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-klaster-zeliv-pacific-jack.md
-title: Klaster zeliv pacific jack
+filename: "_posts/beer/2016-11-09-klaster-zeliv-pacific-jack.md"
+title: "Klaster zeliv pacific jack"
 category: beer
 score: 7.5
 beer-date: "2023-10-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-martens-pils.md
-title: Martens Pils
+filename: "_posts/beer/2016-11-09-martens-pils.md"
+title: "Martens Pils"
 category: beer
 score: 6
 beer-date: "2015-10-17"

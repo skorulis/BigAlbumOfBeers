@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dainton-bounty-hunter.md
-title: Dainton bounty hunter
+filename: "_posts/beer/2016-11-09-dainton-bounty-hunter.md"
+title: "Dainton bounty hunter"
 category: beer
 score: 7.5
 beer-date: "2020-09-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lemongrass-saison.md
-title: Lemongrass Saison
+filename: "_posts/beer/2016-11-09-lemongrass-saison.md"
+title: "Lemongrass Saison"
 category: beer
 score: 6
 beer-date: "2013-12-23"

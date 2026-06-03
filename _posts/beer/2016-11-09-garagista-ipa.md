@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garagista-ipa.md
-title: Garagista IPA
+filename: "_posts/beer/2016-11-09-garagista-ipa.md"
+title: "Garagista IPA"
 category: beer
 score: 6
 beer-date: "2016-01-06"

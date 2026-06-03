@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wells-banana-bread-beer.md
-title: Wells banana bread beer
+filename: "_posts/beer/2016-11-09-wells-banana-bread-beer.md"
+title: "Wells banana bread beer"
 category: beer
 score: 7
 beer-date: "2013-01-13"

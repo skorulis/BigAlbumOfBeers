@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stark-mango-ale.md
-title: Stark mango ale
+filename: "_posts/beer/2016-11-09-stark-mango-ale.md"
+title: "Stark mango ale"
 category: beer
 score: 3
 beer-date: "2020-07-31"

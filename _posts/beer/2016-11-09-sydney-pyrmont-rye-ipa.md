@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sydney-pyrmont-rye-ipa.md
-title: Sydney Pyrmont rye IPA
+filename: "_posts/beer/2016-11-09-sydney-pyrmont-rye-ipa.md"
+title: "Sydney Pyrmont rye IPA"
 category: beer
 score: 7.5
 beer-date: "2018-12-27"

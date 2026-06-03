@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-experimental-pale-ale.md
-title: One drop experimental pale ale
+filename: "_posts/beer/2016-11-09-one-drop-experimental-pale-ale.md"
+title: "One drop experimental pale ale"
 category: beer
 score: 8
 beer-date: "2020-11-13"

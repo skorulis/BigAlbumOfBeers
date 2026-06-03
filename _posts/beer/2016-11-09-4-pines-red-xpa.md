@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-red-xpa.md
-title: 4 pines red XPA
+filename: "_posts/beer/2016-11-09-4-pines-red-xpa.md"
+title: "4 pines red XPA"
 category: beer
 score: 7
 beer-date: "2021-12-28"

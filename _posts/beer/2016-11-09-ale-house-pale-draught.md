@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ale-house-pale-draught.md
-title: Ale house pale draught
+filename: "_posts/beer/2016-11-09-ale-house-pale-draught.md"
+title: "Ale house pale draught"
 category: beer
 score: 6
 beer-date: "2015-05-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-currumbin-valley-lazy-hazy.md
-title: Currumbin valley lazy hazy
+filename: "_posts/beer/2016-11-09-currumbin-valley-lazy-hazy.md"
+title: "Currumbin valley lazy hazy"
 category: beer
 score: 7
 beer-date: "2021-12-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mokke-bruin.md
-title: Mokke Bruin
+filename: "_posts/beer/2016-11-09-mokke-bruin.md"
+title: "Mokke Bruin"
 category: beer
 score: 8
 beer-date: "2019-07-14"

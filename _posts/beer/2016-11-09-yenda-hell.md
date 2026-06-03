@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yenda-hell.md
-title: Yenda Hell
+filename: "_posts/beer/2016-11-09-yenda-hell.md"
+title: "Yenda Hell"
 category: beer
 score: 5
 beer-date: "2016-09-21"

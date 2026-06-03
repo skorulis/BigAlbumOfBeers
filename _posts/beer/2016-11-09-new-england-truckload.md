@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-truckload.md
-title: New England truckload
+filename: "_posts/beer/2016-11-09-new-england-truckload.md"
+title: "New England truckload"
 category: beer
 score: 8
 beer-date: "2022-08-07"

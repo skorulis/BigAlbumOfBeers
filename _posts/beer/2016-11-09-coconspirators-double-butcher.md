@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coconspirators-double-butcher.md
-title: CoConspirators double butcher
+filename: "_posts/beer/2016-11-09-coconspirators-double-butcher.md"
+title: "CoConspirators double butcher"
 category: beer
 score: 7.5
 beer-date: "2020-09-26"

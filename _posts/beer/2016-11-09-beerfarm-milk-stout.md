@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerfarm-milk-stout.md
-title: Beerfarm milk stout
+filename: "_posts/beer/2016-11-09-beerfarm-milk-stout.md"
+title: "Beerfarm milk stout"
 category: beer
 score: null
 beer-date: "2020-09-26"

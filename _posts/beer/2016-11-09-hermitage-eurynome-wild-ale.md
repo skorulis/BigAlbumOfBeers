@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hermitage-eurynome-wild-ale.md
-title: Hermitage eurynome wild ale
+filename: "_posts/beer/2016-11-09-hermitage-eurynome-wild-ale.md"
+title: "Hermitage eurynome wild ale"
 category: beer
 score: 9
 beer-date: "2018-06-02"

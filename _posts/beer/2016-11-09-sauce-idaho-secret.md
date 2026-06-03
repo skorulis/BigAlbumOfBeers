@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-idaho-secret.md
-title: Sauce Idaho secret
+filename: "_posts/beer/2016-11-09-sauce-idaho-secret.md"
+title: "Sauce Idaho secret"
 category: beer
 score: 9
 beer-date: "2020-09-26"

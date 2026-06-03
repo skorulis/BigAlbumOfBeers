@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pinnacle-culture-house-raspberry.md
-title: Pinnacle Culture house raspberry
+filename: "_posts/beer/2016-11-09-pinnacle-culture-house-raspberry.md"
+title: "Pinnacle Culture house raspberry"
 category: beer
 score: 6
 beer-date: "2023-02-28"
@@ -11,6 +11,6 @@ img: /img/list/pinnacle-culture-house-raspberry.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-culture-house-raspberry/3462201"
 country: "Australia"
 brewery: "Pinnacle Drinks Group (Woolworths)"
-breweryURL: "/brewery/pinnacle-drinks-group--woolworths.html"
+breweryURL: "/brewery/pinnacle-drinks-group-woolworths.html"
 style: "Sour - Fruited Berliner Weisse"
 ---

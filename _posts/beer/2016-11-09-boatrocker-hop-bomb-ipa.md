@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-hop-bomb-ipa.md
-title: Boatrocker hop bomb IPA
+filename: "_posts/beer/2016-11-09-boatrocker-hop-bomb-ipa.md"
+title: "Boatrocker hop bomb IPA"
 category: beer
 score: 6
 beer-date: "2017-01-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-surfers-xpa.md
-title: Surfers XPA
+filename: "_posts/beer/2016-11-09-surfers-xpa.md"
+title: "Surfers XPA"
 category: beer
 score: 6
 beer-date: "2026-03-27"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-treehouse-magic-of-gaston.md
-title: Treehouse Magic of Gaston
+filename: "_posts/beer/2016-11-09-treehouse-magic-of-gaston.md"
+title: "Treehouse Magic of Gaston"
 category: beer
 score: 9
 beer-date: "2025-09-26"

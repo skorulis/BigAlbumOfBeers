@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-darth-ipa.md
-title: Sauce Darth IPA
+filename: "_posts/beer/2016-11-09-sauce-darth-ipa.md"
+title: "Sauce Darth IPA"
 category: beer
 score: 6.5
 beer-date: "2025-09-26"

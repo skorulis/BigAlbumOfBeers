@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-barossa-valley-campfire-session.md
-title: Barossa valley campfire session
+filename: "_posts/beer/2016-11-09-barossa-valley-campfire-session.md"
+title: "Barossa valley campfire session"
 category: beer
 score: 7
 beer-date: "2018-12-27"

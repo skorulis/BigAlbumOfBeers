@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tuatara-vasta-farian.md
-title: Tuatara vasta farian
+filename: "_posts/beer/2016-11-09-tuatara-vasta-farian.md"
+title: "Tuatara vasta farian"
 category: beer
 score: 7.5
 beer-date: "2018-03-13"

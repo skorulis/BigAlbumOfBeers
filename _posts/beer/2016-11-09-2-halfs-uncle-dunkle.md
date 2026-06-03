@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-uncle-dunkle.md
-title: 2 halfs uncle dunkle
+filename: "_posts/beer/2016-11-09-2-halfs-uncle-dunkle.md"
+title: "2 halfs uncle dunkle"
 category: beer
 score: 6.5
 beer-date: "2022-08-07"

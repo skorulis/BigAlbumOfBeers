@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yandina-station-pale-ale.md
-title: Yandina station pale ale
+filename: "_posts/beer/2016-11-09-yandina-station-pale-ale.md"
+title: "Yandina station pale ale"
 category: beer
 score: 7
 beer-date: "2024-03-29"

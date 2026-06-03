@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-double-infrared.md
-title: Sauce double infrared
+filename: "_posts/beer/2016-11-09-sauce-double-infrared.md"
+title: "Sauce double infrared"
 category: beer
 score: 9
 beer-date: "2021-01-14"

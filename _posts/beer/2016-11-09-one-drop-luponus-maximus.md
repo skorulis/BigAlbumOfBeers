@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-luponus-maximus.md
-title: One drop luponus maximus
+filename: "_posts/beer/2016-11-09-one-drop-luponus-maximus.md"
+title: "One drop luponus maximus"
 category: beer
 score: 7
 beer-date: "2023-02-26"

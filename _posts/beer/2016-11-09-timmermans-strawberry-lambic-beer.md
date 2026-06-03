@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-timmermans-strawberry-lambic-beer.md
-title: Timmermans strawberry lambic beer
+filename: "_posts/beer/2016-11-09-timmermans-strawberry-lambic-beer.md"
+title: "Timmermans strawberry lambic beer"
 category: beer
 score: 7
 beer-date: "2013-02-01"

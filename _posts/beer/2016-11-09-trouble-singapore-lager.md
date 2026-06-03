@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-trouble-singapore-lager.md
-title: Trouble Singapore lager
+filename: "_posts/beer/2016-11-09-trouble-singapore-lager.md"
+title: "Trouble Singapore lager"
 category: beer
 score: 7
 beer-date: "2023-09-06"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-old-wives-ales-lactohop.md
-title: Old wives ales lactohop
+filename: "_posts/beer/2016-11-09-old-wives-ales-lactohop.md"
+title: "Old wives ales lactohop"
 category: beer
 score: 8
 beer-date: "2019-04-22"

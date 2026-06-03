@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-legal-tender.md
-title: Legal tender
+filename: "_posts/beer/2016-11-09-legal-tender.md"
+title: "Legal tender"
 category: beer
 score: 5.5
 beer-date: "2016-06-16"
@@ -11,6 +11,6 @@ img: /img/list/legal-tender.jpeg
 untappd: "https://untappd.com/b/bankstown-sports--legal-tender/1490972"
 country: "Australia"
 brewery: "Bankstown Sports "
-breweryURL: "/brewery/bankstown-sports-.html"
+breweryURL: "/brewery/bankstown-sports.html"
 style: "Lager - Pale"
 ---

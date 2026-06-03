@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brick-lane-base-lager.md
-title: Brick lane base lager
+filename: "_posts/beer/2016-11-09-brick-lane-base-lager.md"
+title: "Brick lane base lager"
 category: beer
 score: 7
 beer-date: "2022-08-07"

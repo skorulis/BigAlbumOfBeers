@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slow-lane-altogether.md
-title: Slow lane altogether
+filename: "_posts/beer/2016-11-09-slow-lane-altogether.md"
+title: "Slow lane altogether"
 category: beer
 score: 8
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-modus-operandi-session-ipa.md
-title: Modus operandi session IPA
+filename: "_posts/beer/2016-11-09-modus-operandi-session-ipa.md"
+title: "Modus operandi session IPA"
 category: beer
 score: 7
 beer-date: "2017-02-22"

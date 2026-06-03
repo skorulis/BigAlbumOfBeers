@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bierschmiede-zunder.md
-title: Bierschmiede zunder
+filename: "_posts/beer/2016-11-09-bierschmiede-zunder.md"
+title: "Bierschmiede zunder"
 category: beer
 score: 7.5
 beer-date: "2017-07-12"

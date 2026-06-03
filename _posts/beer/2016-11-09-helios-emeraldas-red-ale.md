@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-helios-emeraldas-red-ale.md
-title: Helios emeraldas red ale
+filename: "_posts/beer/2016-11-09-helios-emeraldas-red-ale.md"
+title: "Helios emeraldas red ale"
 category: beer
 score: 6
 beer-date: "2023-03-31"

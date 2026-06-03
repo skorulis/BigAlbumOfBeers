@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-crooked-moon-thrice-ipa.md
-title: Crooked moon thrice IPA
+filename: "_posts/beer/2016-11-09-crooked-moon-thrice-ipa.md"
+title: "Crooked moon thrice IPA"
 category: beer
 score: 9.5
 beer-date: "2023-10-02"

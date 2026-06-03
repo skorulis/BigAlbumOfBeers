@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-black-hops-afterburner.md
-title: Black hops afterburner
+filename: "_posts/beer/2016-11-09-black-hops-afterburner.md"
+title: "Black hops afterburner"
 category: beer
 score: 8
 beer-date: "2022-08-07"

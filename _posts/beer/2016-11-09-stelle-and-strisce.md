@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stelle-and-strisce.md
-title: Stelle and Strisce
+filename: "_posts/beer/2016-11-09-stelle-and-strisce.md"
+title: "Stelle and Strisce"
 category: beer
 score: 7
 beer-date: "2017-03-03"

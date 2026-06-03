@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerlao-dark-lager.md
-title: Beerlao dark lager
+filename: "_posts/beer/2016-11-09-beerlao-dark-lager.md"
+title: "Beerlao dark lager"
 category: beer
 score: 7
 beer-date: "2015-10-17"

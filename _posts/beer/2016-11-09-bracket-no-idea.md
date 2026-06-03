@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-no-idea.md
-title: Bracket No Idea
+filename: "_posts/beer/2016-11-09-bracket-no-idea.md"
+title: "Bracket No Idea"
 category: beer
 score: 9
 beer-date: "2025-09-26"

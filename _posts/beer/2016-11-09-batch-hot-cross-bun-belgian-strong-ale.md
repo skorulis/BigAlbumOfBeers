@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-hot-cross-bun-belgian-strong-ale.md
-title: Batch Hot Cross Bun Belgian Strong Ale
+filename: "_posts/beer/2016-11-09-batch-hot-cross-bun-belgian-strong-ale.md"
+title: "Batch Hot Cross Bun Belgian Strong Ale"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

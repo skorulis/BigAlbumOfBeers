@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-san-miguel-pale-pilsen.md
-title: San Miguel Pale Pilsen
+filename: "_posts/beer/2016-11-09-san-miguel-pale-pilsen.md"
+title: "San Miguel Pale Pilsen"
 category: beer
 score: 5
 beer-date: "2015-10-17"

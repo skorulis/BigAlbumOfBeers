@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-lime-zest-gose.md
-title: Akasha Lime zest gose
+filename: "_posts/beer/2016-11-09-akasha-lime-zest-gose.md"
+title: "Akasha Lime zest gose"
 category: beer
 score: 6
 beer-date: "2022-08-07"
@@ -11,6 +11,6 @@ img: /img/list/akasha-lime-zest-gose.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-lime-zest-gose/4667134"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Sour - Fruited Gose"
 ---

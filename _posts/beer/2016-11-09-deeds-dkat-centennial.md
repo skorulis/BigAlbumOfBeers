@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deeds-dkat-centennial.md
-title: Deeds dkat centennial
+filename: "_posts/beer/2016-11-09-deeds-dkat-centennial.md"
+title: "Deeds dkat centennial"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

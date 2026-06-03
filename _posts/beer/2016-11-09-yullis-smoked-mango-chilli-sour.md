@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yullis-smoked-mango-chilli-sour.md
-title: Yullis smoked mango chilli sour
+filename: "_posts/beer/2016-11-09-yullis-smoked-mango-chilli-sour.md"
+title: "Yullis smoked mango chilli sour"
 category: beer
 score: 4
 beer-date: "2024-03-29"

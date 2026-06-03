@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moa-st-josephs.md
-title: MOA St Josephs
+filename: "_posts/beer/2016-11-09-moa-st-josephs.md"
+title: "MOA St Josephs"
 category: beer
 score: 8
 beer-date: "2015-05-01"

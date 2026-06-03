@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-warpigs-big-drunk-daddy.md
-title: Warpigs big drunk daddy
+filename: "_posts/beer/2016-11-09-warpigs-big-drunk-daddy.md"
+title: "Warpigs big drunk daddy"
 category: beer
 score: 9
 beer-date: "2023-10-02"

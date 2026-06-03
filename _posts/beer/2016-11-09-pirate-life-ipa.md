@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-ipa.md
-title: Pirate Life IPA
+filename: "_posts/beer/2016-11-09-pirate-life-ipa.md"
+title: "Pirate Life IPA"
 category: beer
 score: 8
 beer-date: "2016-05-24"

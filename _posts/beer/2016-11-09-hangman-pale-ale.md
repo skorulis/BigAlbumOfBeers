@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hangman-pale-ale.md
-title: Hangman pale ale
+filename: "_posts/beer/2016-11-09-hangman-pale-ale.md"
+title: "Hangman pale ale"
 category: beer
 score: 8
 beer-date: "2013-03-28"

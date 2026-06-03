@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-brothers-kung-foo-lager.md
-title: 2 brothers Kung foo lager
+filename: "_posts/beer/2016-11-09-2-brothers-kung-foo-lager.md"
+title: "2 brothers Kung foo lager"
 category: beer
 score: 7
 beer-date: "2015-05-01"
@@ -11,6 +11,6 @@ img: /img/list/2-brothers-kung-foo-lager.jpeg
 untappd: "https://untappd.com/b/2-brothers-brewery--kung-foo/155613"
 country: "Australia"
 brewery: "2 Brothers Brewery "
-breweryURL: "/brewery/2-brothers-brewery-.html"
+breweryURL: "/brewery/2-brothers-brewery.html"
 style: "Lager - Japanese Rice"
 ---

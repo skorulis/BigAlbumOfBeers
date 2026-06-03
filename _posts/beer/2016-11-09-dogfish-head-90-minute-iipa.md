@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dogfish-head-90-minute-iipa.md
-title: Dogfish head 90 minute IIPA
+filename: "_posts/beer/2016-11-09-dogfish-head-90-minute-iipa.md"
+title: "Dogfish head 90 minute IIPA"
 category: beer
 score: 8
 beer-date: "2016-03-16"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-black-brewing-bao-bao-milk-stout.md
-title: Black brewing bao bao milk stout
+filename: "_posts/beer/2016-11-09-black-brewing-bao-bao-milk-stout.md"
+title: "Black brewing bao bao milk stout"
 category: beer
 score: 6.5
 beer-date: "2018-01-13"

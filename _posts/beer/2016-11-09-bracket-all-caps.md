@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-all-caps.md
-title: Bracket all caps
+filename: "_posts/beer/2016-11-09-bracket-all-caps.md"
+title: "Bracket all caps"
 category: beer
 score: 8.5
 beer-date: "2025-11-10"

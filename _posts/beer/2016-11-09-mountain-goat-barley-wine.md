@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-barley-wine.md
-title: Mountain goat barley wine
+filename: "_posts/beer/2016-11-09-mountain-goat-barley-wine.md"
+title: "Mountain goat barley wine"
 category: beer
 score: 7.5
 beer-date: "2018-10-05"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cattleyard-cherry-redhead.md
-title: Cattleyard cherry redhead
+filename: "_posts/beer/2016-11-09-cattleyard-cherry-redhead.md"
+title: "Cattleyard cherry redhead"
 category: beer
 score: 7
 beer-date: "2021-11-12"

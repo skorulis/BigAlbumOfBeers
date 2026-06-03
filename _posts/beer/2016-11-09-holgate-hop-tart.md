@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-holgate-hop-tart.md
-title: Holgate hop tart
+filename: "_posts/beer/2016-11-09-holgate-hop-tart.md"
+title: "Holgate hop tart"
 category: beer
 score: 7
 beer-date: "2016-06-16"

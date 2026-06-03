@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-powder-monkey-bravo-zulu.md
-title: Powder Monkey Bravo Zulu
+filename: "_posts/beer/2016-11-09-powder-monkey-bravo-zulu.md"
+title: "Powder Monkey Bravo Zulu"
 category: beer
 score: 7
 beer-date: "2025-09-26"

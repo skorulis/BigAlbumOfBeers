@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-six-four-four.md
-title: Bracket six four four
+filename: "_posts/beer/2016-11-09-bracket-six-four-four.md"
+title: "Bracket six four four"
 category: beer
 score: 9
 beer-date: "2021-11-12"

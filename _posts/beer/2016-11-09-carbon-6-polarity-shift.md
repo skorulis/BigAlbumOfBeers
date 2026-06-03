@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-carbon-6-polarity-shift.md
-title: Carbon 6 Polarity Shift
+filename: "_posts/beer/2016-11-09-carbon-6-polarity-shift.md"
+title: "Carbon 6 Polarity Shift"
 category: beer
 score: 8.5
 beer-date: "2025-12-28"

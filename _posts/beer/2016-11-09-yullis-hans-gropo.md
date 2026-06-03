@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yullis-hans-gropo.md
-title: Yullis Hans gropo
+filename: "_posts/beer/2016-11-09-yullis-hans-gropo.md"
+title: "Yullis Hans gropo"
 category: beer
 score: 7
 beer-date: "2019-04-22"

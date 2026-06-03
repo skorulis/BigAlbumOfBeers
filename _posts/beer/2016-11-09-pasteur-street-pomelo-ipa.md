@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pasteur-street-pomelo-ipa.md
-title: Pasteur street pomelo IPA
+filename: "_posts/beer/2016-11-09-pasteur-street-pomelo-ipa.md"
+title: "Pasteur street pomelo IPA"
 category: beer
 score: 9
 beer-date: "2018-02-17"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-taco.md
-title: Two birds taco
+filename: "_posts/beer/2016-11-09-two-birds-taco.md"
+title: "Two birds taco"
 category: beer
 score: 8
 beer-date: "2015-07-10"

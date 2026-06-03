@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-karl-strauss-tower-10-ipa.md
-title: Karl Strauss Tower 10 IPA
+filename: "_posts/beer/2016-11-09-karl-strauss-tower-10-ipa.md"
+title: "Karl Strauss Tower 10 IPA"
 category: beer
 score: 7
 beer-date: "2016-03-16"

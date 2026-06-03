@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-point-bengali.md
-title: Six point Bengali
+filename: "_posts/beer/2016-11-09-six-point-bengali.md"
+title: "Six point Bengali"
 category: beer
 score: 7
 beer-date: "2015-04-13"

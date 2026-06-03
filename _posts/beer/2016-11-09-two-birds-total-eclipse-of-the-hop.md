@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-total-eclipse-of-the-hop.md
-title: Two birds total eclipse of the hop
+filename: "_posts/beer/2016-11-09-two-birds-total-eclipse-of-the-hop.md"
+title: "Two birds total eclipse of the hop"
 category: beer
 score: 7
 beer-date: "2020-12-25"

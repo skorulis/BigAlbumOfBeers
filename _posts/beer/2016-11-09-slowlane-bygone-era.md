@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slowlane-bygone-era.md
-title: Slowlane Bygone Era
+filename: "_posts/beer/2016-11-09-slowlane-bygone-era.md"
+title: "Slowlane Bygone Era"
 category: beer
 score: 7
 beer-date: "2025-11-10"

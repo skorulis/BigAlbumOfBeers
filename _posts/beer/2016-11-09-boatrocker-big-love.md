@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-big-love.md
-title: Boatrocker big love
+filename: "_posts/beer/2016-11-09-boatrocker-big-love.md"
+title: "Boatrocker big love"
 category: beer
 score: 7.5
 beer-date: "2023-02-28"

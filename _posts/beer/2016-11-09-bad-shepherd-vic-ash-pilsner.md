@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bad-shepherd-vic-ash-pilsner.md
-title: Bad shepherd vic ash pilsner
+filename: "_posts/beer/2016-11-09-bad-shepherd-vic-ash-pilsner.md"
+title: "Bad shepherd vic ash pilsner"
 category: beer
 score: 5.5
 beer-date: "2019-07-14"

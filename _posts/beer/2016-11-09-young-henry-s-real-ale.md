@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-real-ale.md
-title: Young Henry's real ale
+filename: "_posts/beer/2016-11-09-young-henry-s-real-ale.md"
+title: "Young Henry's real ale"
 category: beer
 score: 5
 beer-date: "2014-03-01"

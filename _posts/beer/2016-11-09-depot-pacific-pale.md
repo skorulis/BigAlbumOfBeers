@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-depot-pacific-pale.md
-title: Depot Pacific Pale
+filename: "_posts/beer/2016-11-09-depot-pacific-pale.md"
+title: "Depot Pacific Pale"
 category: beer
 score: 6
 beer-date: "2026-03-27"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-grimbergen-double.md
-title: Grimbergen double
+filename: "_posts/beer/2016-11-09-grimbergen-double.md"
+title: "Grimbergen double"
 category: beer
 score: 8
 beer-date: "2017-07-12"

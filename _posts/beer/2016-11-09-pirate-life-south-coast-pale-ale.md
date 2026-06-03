@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-south-coast-pale-ale.md
-title: Pirate life south coast pale ale
+filename: "_posts/beer/2016-11-09-pirate-life-south-coast-pale-ale.md"
+title: "Pirate life south coast pale ale"
 category: beer
 score: 7.5
 beer-date: "2020-12-25"

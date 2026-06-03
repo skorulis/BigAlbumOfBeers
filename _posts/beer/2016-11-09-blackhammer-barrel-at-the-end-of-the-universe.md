@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackhammer-barrel-at-the-end-of-the-universe.md
-title: Blackhammer barrel at the end of the universe
+filename: "_posts/beer/2016-11-09-blackhammer-barrel-at-the-end-of-the-universe.md"
+title: "Blackhammer barrel at the end of the universe"
 category: beer
 score: 8
 beer-date: "2023-02-26"

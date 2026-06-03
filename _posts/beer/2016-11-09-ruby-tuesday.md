@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ruby-tuesday.md
-title: Ruby Tuesday
+filename: "_posts/beer/2016-11-09-ruby-tuesday.md"
+title: "Ruby Tuesday"
 category: beer
 score: 7
 beer-date: "2014-03-18"

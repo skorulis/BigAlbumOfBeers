@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackwattle-welsh-double-dragon.md
-title: Blackwattle Welsh Double Dragon
+filename: "_posts/beer/2016-11-09-blackwattle-welsh-double-dragon.md"
+title: "Blackwattle Welsh Double Dragon"
 category: beer
 score: 7.5
 beer-date: "2025-11-10"

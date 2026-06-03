@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nicholson-s-pale-ale.md
-title: Nicholson's pale ale
+filename: "_posts/beer/2016-11-09-nicholson-s-pale-ale.md"
+title: "Nicholson's pale ale"
 category: beer
 score: 6
 beer-date: "2013-12-23"

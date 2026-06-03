@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sydney-hylander-session-ipa.md
-title: Sydney hylander session IPA
+filename: "_posts/beer/2016-11-09-sydney-hylander-session-ipa.md"
+title: "Sydney hylander session IPA"
 category: beer
 score: 7.5
 beer-date: "2021-01-14"

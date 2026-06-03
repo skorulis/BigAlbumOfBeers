@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-liberty-brewing-citra-dipa.md
-title: Liberty brewing citra DIPA
+filename: "_posts/beer/2016-11-09-liberty-brewing-citra-dipa.md"
+title: "Liberty brewing citra DIPA"
 category: beer
 score: 6.5
 beer-date: "2017-02-11"

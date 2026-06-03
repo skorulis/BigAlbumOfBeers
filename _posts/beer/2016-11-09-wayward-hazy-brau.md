@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-hazy-brau.md
-title: Wayward hazy brau
+filename: "_posts/beer/2016-11-09-wayward-hazy-brau.md"
+title: "Wayward hazy brau"
 category: beer
 score: 7
 beer-date: "2020-01-16"

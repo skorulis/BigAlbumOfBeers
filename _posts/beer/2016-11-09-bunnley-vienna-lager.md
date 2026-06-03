@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bunnley-vienna-lager.md
-title: Bunnley Vienna lager
+filename: "_posts/beer/2016-11-09-bunnley-vienna-lager.md"
+title: "Bunnley Vienna lager"
 category: beer
 score: 5
 beer-date: "2021-04-02"

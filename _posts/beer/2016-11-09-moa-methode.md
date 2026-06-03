@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moa-methode.md
-title: MOA methode
+filename: "_posts/beer/2016-11-09-moa-methode.md"
+title: "MOA methode"
 category: beer
 score: 4
 beer-date: "2015-01-29"

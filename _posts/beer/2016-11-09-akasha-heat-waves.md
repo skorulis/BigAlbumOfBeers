@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-heat-waves.md
-title: Akasha heat waves
+filename: "_posts/beer/2016-11-09-akasha-heat-waves.md"
+title: "Akasha heat waves"
 category: beer
 score: 7
 beer-date: "2023-02-28"
@@ -11,6 +11,6 @@ img: /img/list/akasha-heat-waves.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-heat-waves-tropical-ipa/5149500"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - American"
 ---

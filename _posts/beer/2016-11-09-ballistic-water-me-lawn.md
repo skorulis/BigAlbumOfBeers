@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballistic-water-me-lawn.md
-title: Ballistic water me lawn
+filename: "_posts/beer/2016-11-09-ballistic-water-me-lawn.md"
+title: "Ballistic water me lawn"
 category: beer
 score: 7.5
 beer-date: "2021-01-01"

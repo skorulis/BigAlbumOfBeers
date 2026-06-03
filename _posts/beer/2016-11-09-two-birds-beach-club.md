@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-beach-club.md
-title: Two birds beach club
+filename: "_posts/beer/2016-11-09-two-birds-beach-club.md"
+title: "Two birds beach club"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

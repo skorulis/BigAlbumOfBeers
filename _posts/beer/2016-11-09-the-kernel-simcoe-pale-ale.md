@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-kernel-simcoe-pale-ale.md
-title: The kernel simcoe pale ale
+filename: "_posts/beer/2016-11-09-the-kernel-simcoe-pale-ale.md"
+title: "The kernel simcoe pale ale"
 category: beer
 score: 8.5
 beer-date: "2017-06-02"

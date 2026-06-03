@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-hightail-ale.md
-title: Mountain goat hightail ale
+filename: "_posts/beer/2016-11-09-mountain-goat-hightail-ale.md"
+title: "Mountain goat hightail ale"
 category: beer
 score: 7
 beer-date: "2016-03-16"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tun-bitter.md
-title: TUN Bitter
+filename: "_posts/beer/2016-11-09-tun-bitter.md"
+title: "TUN Bitter"
 category: beer
 score: 4
 beer-date: "2015-02-27"

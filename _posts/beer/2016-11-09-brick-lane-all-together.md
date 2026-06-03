@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brick-lane-all-together.md
-title: Brick lane all together
+filename: "_posts/beer/2016-11-09-brick-lane-all-together.md"
+title: "Brick lane all together"
 category: beer
 score: 8.5
 beer-date: "2020-11-13"

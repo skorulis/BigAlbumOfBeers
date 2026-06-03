@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-magic-rock-high-wire-grapefruit.md
-title: Magic rock high wire grapefruit
+filename: "_posts/beer/2016-11-09-magic-rock-high-wire-grapefruit.md"
+title: "Magic rock high wire grapefruit"
 category: beer
 score: 8
 beer-date: "2016-06-16"

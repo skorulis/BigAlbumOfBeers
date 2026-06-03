@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-maat-s-session-lager.md
-title: Maat’s session lager
+filename: "_posts/beer/2016-11-09-maat-s-session-lager.md"
+title: "Maat’s session lager"
 category: beer
 score: 5
 beer-date: "2018-12-27"

@@ -4,7 +4,7 @@ filename: "_posts/brewery/2016-11-09-albani-bryggerierne.md"
 title: "Albani Bryggerierne"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/albani-bryggerierne/4321"
-instagram: ''
-twitter: ''
-facebook: 'https://www.facebook.com/albanibryggerierne'
+instagram: ""
+twitter: ""
+facebook: "https://www.facebook.com/albanibryggerierne"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bacchus-hibiscus-saison.md
-title: Bacchus hibiscus saison
+filename: "_posts/beer/2016-11-09-bacchus-hibiscus-saison.md"
+title: "Bacchus hibiscus saison"
 category: beer
 score: 7.5
 beer-date: "2017-05-27"

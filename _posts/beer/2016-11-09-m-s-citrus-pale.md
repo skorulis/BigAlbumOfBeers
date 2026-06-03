@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-m-s-citrus-pale.md
-title: M&S citrus pale
+filename: "_posts/beer/2016-11-09-m-s-citrus-pale.md"
+title: "M&S citrus pale"
 category: beer
 score: 6.5
 beer-date: "2023-09-06"

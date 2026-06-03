@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dark-knight-porter-style.md
-title: Dark knight porter style
+filename: "_posts/beer/2016-11-09-dark-knight-porter-style.md"
+title: "Dark knight porter style"
 category: beer
 score: 7
 beer-date: "2016-05-24"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-platinum-blonde.md
-title: Platinum blonde
+filename: "_posts/beer/2016-11-09-platinum-blonde.md"
+title: "Platinum blonde"
 category: beer
 score: 5
 beer-date: "2013-03-09"

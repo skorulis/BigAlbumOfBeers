@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bay-rd-west-coast-ipa.md
-title: Bay rd west coast IPA
+filename: "_posts/beer/2016-11-09-bay-rd-west-coast-ipa.md"
+title: "Bay rd west coast IPA"
 category: beer
 score: 8
 beer-date: "2020-09-26"

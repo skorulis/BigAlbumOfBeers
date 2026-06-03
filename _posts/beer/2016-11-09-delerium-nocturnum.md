@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-delerium-nocturnum.md
-title: Delerium nocturnum
+filename: "_posts/beer/2016-11-09-delerium-nocturnum.md"
+title: "Delerium nocturnum"
 category: beer
 score: 8
 beer-date: "2014-02-23"

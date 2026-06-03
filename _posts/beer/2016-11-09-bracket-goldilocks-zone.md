@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-goldilocks-zone.md
-title: Bracket goldilocks zone
+filename: "_posts/beer/2016-11-09-bracket-goldilocks-zone.md"
+title: "Bracket goldilocks zone"
 category: beer
 score: 9
 beer-date: "2024-03-29"

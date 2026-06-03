@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballast-point-big-eye.md
-title: Ballast Point Big Eye
+filename: "_posts/beer/2016-11-09-ballast-point-big-eye.md"
+title: "Ballast Point Big Eye"
 category: beer
 score: 8
 beer-date: "2015-02-27"

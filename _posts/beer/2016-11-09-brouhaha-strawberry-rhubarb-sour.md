@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brouhaha-strawberry-rhubarb-sour.md
-title: Brouhaha Strawberry Rhubarb Sour
+filename: "_posts/beer/2016-11-09-brouhaha-strawberry-rhubarb-sour.md"
+title: "Brouhaha Strawberry Rhubarb Sour"
 category: beer
 score: 8
 beer-date: "2025-02-15"

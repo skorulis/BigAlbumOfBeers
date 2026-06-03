@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hacker-pschorr.md
-title: Hacker-Pschorr
+filename: "_posts/beer/2016-11-09-hacker-pschorr.md"
+title: "Hacker-Pschorr"
 category: beer
 score: 8
 beer-date: "2013-10-25"

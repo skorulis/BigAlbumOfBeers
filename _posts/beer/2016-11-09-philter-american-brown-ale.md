@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-philter-american-brown-ale.md
-title: Philter American Brown Ale
+filename: "_posts/beer/2016-11-09-philter-american-brown-ale.md"
+title: "Philter American Brown Ale"
 category: beer
 score: 7.5
 beer-date: "2025-12-28"

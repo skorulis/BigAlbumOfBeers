@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-wolf-fox-slovenian-hopped-pale-ale.md
-title: New England wolf & fox Slovenian Hopped Pale Ale
+filename: "_posts/beer/2016-11-09-new-england-wolf-fox-slovenian-hopped-pale-ale.md"
+title: "New England wolf & fox Slovenian Hopped Pale Ale"
 category: beer
 score: 6
 beer-date: "2021-12-28"

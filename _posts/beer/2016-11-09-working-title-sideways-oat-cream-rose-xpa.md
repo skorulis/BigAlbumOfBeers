@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-working-title-sideways-oat-cream-rose-xpa.md
-title: Working title sideways oat cream rosé XPA
+filename: "_posts/beer/2016-11-09-working-title-sideways-oat-cream-rose-xpa.md"
+title: "Working title sideways oat cream rosé XPA"
 category: beer
 score: 6.5
 beer-date: "2021-11-12"

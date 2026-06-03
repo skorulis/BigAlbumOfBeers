@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-hefeweizen.md
-title: 4 pines hefeweizen
+filename: "_posts/beer/2016-11-09-4-pines-hefeweizen.md"
+title: "4 pines hefeweizen"
 category: beer
 score: 8
 beer-date: "2019-06-22"

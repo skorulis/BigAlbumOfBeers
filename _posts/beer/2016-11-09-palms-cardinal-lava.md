@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-palms-cardinal-lava.md
-title: Palms cardinal lava
+filename: "_posts/beer/2016-11-09-palms-cardinal-lava.md"
+title: "Palms cardinal lava"
 category: beer
 score: 6
 beer-date: "2023-08-26"
@@ -11,6 +11,6 @@ img: /img/list/palms-cardinal-lava.jpeg
 untappd: "https://untappd.com/b/lost-palms-brewing-co---cardinal-lava---lost-palms-x-seeker-collab/5148560"
 country: "Australia"
 brewery: "Lost Palms Brewing Co. "
-breweryURL: "/brewery/lost-palms-brewing-co--.html"
+breweryURL: "/brewery/lost-palms-brewing-co.html"
 style: "Sour - Smoothie / Pastry"
 ---

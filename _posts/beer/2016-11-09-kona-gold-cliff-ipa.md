@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kona-gold-cliff-ipa.md
-title: Kona gold cliff ipa
+filename: "_posts/beer/2016-11-09-kona-gold-cliff-ipa.md"
+title: "Kona gold cliff ipa"
 category: beer
 score: 7.5
 beer-date: "2020-01-16"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-downbeat.md
-title: Bracket downbeat
+filename: "_posts/beer/2016-11-09-bracket-downbeat.md"
+title: "Bracket downbeat"
 category: beer
 score: 7
 beer-date: "2023-02-26"

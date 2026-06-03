@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lervig-kransekake-stout.md
-title: Lervig kransekake stout
+filename: "_posts/beer/2016-11-09-lervig-kransekake-stout.md"
+title: "Lervig kransekake stout"
 category: beer
 score: 9
 beer-date: "2023-10-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-crown-golden-ale.md
-title: Crown golden ale
+filename: "_posts/beer/2016-11-09-crown-golden-ale.md"
+title: "Crown golden ale"
 category: beer
 score: 6
 beer-date: "2015-01-28"

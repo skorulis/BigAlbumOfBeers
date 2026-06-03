@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-white-chocolate-beer.md
-title: Garage project white chocolate beer
+filename: "_posts/beer/2016-11-09-garage-project-white-chocolate-beer.md"
+title: "Garage project white chocolate beer"
 category: beer
 score: 8.5
 beer-date: "2021-01-01"

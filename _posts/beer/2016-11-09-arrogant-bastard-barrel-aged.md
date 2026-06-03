@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-arrogant-bastard-barrel-aged.md
-title: Arrogant bastard barrel aged
+filename: "_posts/beer/2016-11-09-arrogant-bastard-barrel-aged.md"
+title: "Arrogant bastard barrel aged"
 category: beer
 score: 7
 beer-date: "2016-01-07"

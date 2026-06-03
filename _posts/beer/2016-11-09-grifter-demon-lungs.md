@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-grifter-demon-lungs.md
-title: Grifter demon lungs
+filename: "_posts/beer/2016-11-09-grifter-demon-lungs.md"
+title: "Grifter demon lungs"
 category: beer
 score: 8
 beer-date: "2017-05-27"

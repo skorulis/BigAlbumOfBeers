@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerfarm-shirazzaweiss.md
-title: Beerfarm shirazzaweiss
+filename: "_posts/beer/2016-11-09-beerfarm-shirazzaweiss.md"
+title: "Beerfarm shirazzaweiss"
 category: beer
 score: 7
 beer-date: "2022-08-07"

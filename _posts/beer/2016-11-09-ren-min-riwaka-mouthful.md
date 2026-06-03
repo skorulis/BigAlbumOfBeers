@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ren-min-riwaka-mouthful.md
-title: Ren min riwaka mouthful
+filename: "_posts/beer/2016-11-09-ren-min-riwaka-mouthful.md"
+title: "Ren min riwaka mouthful"
 category: beer
 score: 8
 beer-date: "2023-09-06"

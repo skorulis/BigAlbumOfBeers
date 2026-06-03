@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sambrook-s-brewery-junction.md
-title: Sambrook's Brewery Junction
+filename: "_posts/beer/2016-11-09-sambrook-s-brewery-junction.md"
+title: "Sambrook's Brewery Junction"
 category: beer
 score: 3
 beer-date: "2013-03-09"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-feral-dank-blanc.md
-title: Feral dank blanc
+filename: "_posts/beer/2016-11-09-feral-dank-blanc.md"
+title: "Feral dank blanc"
 category: beer
 score: 7
 beer-date: "2018-12-27"

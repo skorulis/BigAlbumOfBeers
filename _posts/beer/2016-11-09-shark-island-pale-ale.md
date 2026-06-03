@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shark-island-pale-ale.md
-title: Shark island pale ale
+filename: "_posts/beer/2016-11-09-shark-island-pale-ale.md"
+title: "Shark island pale ale"
 category: beer
 score: 7
 beer-date: "2016-09-21"

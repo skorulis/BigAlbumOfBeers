@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-triple.md
-title: Boatrocker triple
+filename: "_posts/beer/2016-11-09-boatrocker-triple.md"
+title: "Boatrocker triple"
 category: beer
 score: 10
 beer-date: "2021-12-28"

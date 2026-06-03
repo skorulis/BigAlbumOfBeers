@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coopers-extra-stout.md
-title: Coopers extra stout
+filename: "_posts/beer/2016-11-09-coopers-extra-stout.md"
+title: "Coopers extra stout"
 category: beer
 score: 3
 beer-date: "2013-03-28"

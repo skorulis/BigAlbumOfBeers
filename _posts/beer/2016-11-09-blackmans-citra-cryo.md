@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackmans-citra-cryo.md
-title: Blackmans citra cryo
+filename: "_posts/beer/2016-11-09-blackmans-citra-cryo.md"
+title: "Blackmans citra cryo"
 category: beer
 score: 8
 beer-date: "2024-03-29"

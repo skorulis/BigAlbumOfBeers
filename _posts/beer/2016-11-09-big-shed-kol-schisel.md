@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-big-shed-kol-schisel.md
-title: Big shed Kol schisel
+filename: "_posts/beer/2016-11-09-big-shed-kol-schisel.md"
+title: "Big shed Kol schisel"
 category: beer
 score: 6
 beer-date: "2016-02-14"

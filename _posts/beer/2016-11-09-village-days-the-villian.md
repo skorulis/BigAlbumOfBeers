@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-village-days-the-villian.md
-title: Village days the villian
+filename: "_posts/beer/2016-11-09-village-days-the-villian.md"
+title: "Village days the villian"
 category: beer
 score: 7.5
 beer-date: "2024-03-29"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-quadzilla.md
-title: One drop quadzilla
+filename: "_posts/beer/2016-11-09-one-drop-quadzilla.md"
+title: "One drop quadzilla"
 category: beer
 score: 8
 beer-date: "2020-07-31"

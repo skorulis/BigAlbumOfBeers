@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blizzard-bladerunner.md
-title: Blizzard Bladerunner
+filename: "_posts/beer/2016-11-09-blizzard-bladerunner.md"
+title: "Blizzard Bladerunner"
 category: beer
 score: 8.5
 beer-date: "2017-08-21"

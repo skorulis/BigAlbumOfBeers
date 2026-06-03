@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-chocolate-milk-porter.md
-title: Hope chocolate milk porter
+filename: "_posts/beer/2016-11-09-hope-chocolate-milk-porter.md"
+title: "Hope chocolate milk porter"
 category: beer
 score: 7.5
 beer-date: "2020-07-31"

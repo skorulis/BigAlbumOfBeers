@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-atomic-t-wrecked.md
-title: Atomic T-Wrecked
+filename: "_posts/beer/2016-11-09-atomic-t-wrecked.md"
+title: "Atomic T-Wrecked"
 category: beer
 score: 8.5
 beer-date: "2021-06-05"

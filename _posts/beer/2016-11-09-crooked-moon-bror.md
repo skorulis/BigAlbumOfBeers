@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-crooked-moon-bror.md
-title: Crooked moon BROR
+filename: "_posts/beer/2016-11-09-crooked-moon-bror.md"
+title: "Crooked moon BROR"
 category: beer
 score: 7.5
 beer-date: "2023-10-02"

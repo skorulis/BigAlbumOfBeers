@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-reckless-cumquat-ipa.md
-title: Reckless cumquat IPA
+filename: "_posts/beer/2016-11-09-reckless-cumquat-ipa.md"
+title: "Reckless cumquat IPA"
 category: beer
 score: 6
 beer-date: "2023-08-26"

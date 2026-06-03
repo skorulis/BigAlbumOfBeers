@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kronenbourg.md
-title: Kronenbourg
+filename: "_posts/beer/2016-11-09-kronenbourg.md"
+title: "Kronenbourg"
 category: beer
 score: 6
 beer-date: "2012-10-13"

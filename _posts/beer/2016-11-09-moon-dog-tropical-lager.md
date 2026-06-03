@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moon-dog-tropical-lager.md
-title: Moon dog tropical lager
+filename: "_posts/beer/2016-11-09-moon-dog-tropical-lager.md"
+title: "Moon dog tropical lager"
 category: beer
 score: 6.5
 beer-date: "2020-07-31"

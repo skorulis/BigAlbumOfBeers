@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bad-shepherd-take-off-eh.md
-title: Bad shepherd take off eh
+filename: "_posts/beer/2016-11-09-bad-shepherd-take-off-eh.md"
+title: "Bad shepherd take off eh"
 category: beer
 score: 6.5
 beer-date: "2023-08-26"

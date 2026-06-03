@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lagunitas-a-little-sumpin-sumpin.md
-title: Lagunitas a little sumpin sumpin
+filename: "_posts/beer/2016-11-09-lagunitas-a-little-sumpin-sumpin.md"
+title: "Lagunitas a little sumpin sumpin"
 category: beer
 score: 7
 beer-date: "2024-03-29"

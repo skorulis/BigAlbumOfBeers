@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-murrays-icon-2ipa.md
-title: Murrays icon 2IPA
+filename: "_posts/beer/2016-11-09-murrays-icon-2ipa.md"
+title: "Murrays icon 2IPA"
 category: beer
 score: 6
 beer-date: "2013-03-28"

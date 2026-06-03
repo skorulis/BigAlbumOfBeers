@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-doolittle-monkey-wrench.md
-title: Doolittle monkey wrench
+filename: "_posts/beer/2016-11-09-doolittle-monkey-wrench.md"
+title: "Doolittle monkey wrench"
 category: beer
 score: 7.5
 beer-date: "2018-03-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tallboy-and-moose-2-solid-2-gold.md
-title: Tallboy and moose 2 solid 2 gold
+filename: "_posts/beer/2016-11-09-tallboy-and-moose-2-solid-2-gold.md"
+title: "Tallboy and moose 2 solid 2 gold"
 category: beer
 score: 5.5
 beer-date: "2021-01-01"

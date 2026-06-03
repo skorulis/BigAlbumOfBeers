@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-take-the-sour-back.md
-title: Young Henry’s Take The Sour Back
+filename: "_posts/beer/2016-11-09-young-henry-s-take-the-sour-back.md"
+title: "Young Henry’s Take The Sour Back"
 category: beer
 score: 6
 beer-date: "2025-11-10"

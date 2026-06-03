@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beer-of-the-dead-porter.md
-title: Beer of the dead porter
+filename: "_posts/beer/2016-11-09-beer-of-the-dead-porter.md"
+title: "Beer of the dead porter"
 category: beer
 score: 8
 beer-date: "2017-02-22"

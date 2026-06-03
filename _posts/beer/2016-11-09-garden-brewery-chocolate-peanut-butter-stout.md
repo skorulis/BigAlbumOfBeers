@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garden-brewery-chocolate-peanut-butter-stout.md
-title: Garden brewery chocolate & peanut butter stout
+filename: "_posts/beer/2016-11-09-garden-brewery-chocolate-peanut-butter-stout.md"
+title: "Garden brewery chocolate & peanut butter stout"
 category: beer
 score: 8.5
 beer-date: "2019-11-22"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hemingways-endeavour.md
-title: Hemingways endeavour
+filename: "_posts/beer/2016-11-09-hemingways-endeavour.md"
+title: "Hemingways endeavour"
 category: beer
 score: 8
 beer-date: "2019-06-22"

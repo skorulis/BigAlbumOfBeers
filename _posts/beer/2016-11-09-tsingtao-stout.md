@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tsingtao-stout.md
-title: Tsingtao Stout
+filename: "_posts/beer/2016-11-09-tsingtao-stout.md"
+title: "Tsingtao Stout"
 category: beer
 score: 5.5
 beer-date: "2026-03-27"

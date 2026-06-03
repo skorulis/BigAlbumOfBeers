@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-golden-champion.md
-title: Golden Champion
+filename: "_posts/beer/2016-11-09-golden-champion.md"
+title: "Golden Champion"
 category: beer
 score: 6
 beer-date: "2012-12-15"
@@ -11,6 +11,6 @@ img: /img/list/golden-champion.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--golden-champion/15833"
 country: "England"
 brewery: "Badger Brewery (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-brewery--hall-woodhouse.html"
+breweryURL: "/brewery/badger-brewery-hall-woodhouse.html"
 style: "Golden Ale"
 ---

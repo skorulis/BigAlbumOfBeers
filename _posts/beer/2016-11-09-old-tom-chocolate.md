@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-old-tom-chocolate.md
-title: Old Tom Chocolate
+filename: "_posts/beer/2016-11-09-old-tom-chocolate.md"
+title: "Old Tom Chocolate"
 category: beer
 score: 6
 beer-date: "2015-01-29"

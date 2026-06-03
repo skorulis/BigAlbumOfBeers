@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-iou.md
-title: Bracket IOU
+filename: "_posts/beer/2016-11-09-bracket-iou.md"
+title: "Bracket IOU"
 category: beer
 score: 7.5
 beer-date: "2021-11-12"

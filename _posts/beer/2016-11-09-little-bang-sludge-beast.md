@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-bang-sludge-beast.md
-title: Little bang sludge beast
+filename: "_posts/beer/2016-11-09-little-bang-sludge-beast.md"
+title: "Little bang sludge beast"
 category: beer
 score: 7.5
 beer-date: "2020-09-26"

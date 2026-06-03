@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-perfect-suntory-beer.md
-title: Perfect Suntory beer
+filename: "_posts/beer/2016-11-09-perfect-suntory-beer.md"
+title: "Perfect Suntory beer"
 category: beer
 score: 6
 beer-date: "2023-03-31"

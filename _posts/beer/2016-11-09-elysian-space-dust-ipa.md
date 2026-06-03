@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-elysian-space-dust-ipa.md
-title: Elysian space dust IPA
+filename: "_posts/beer/2016-11-09-elysian-space-dust-ipa.md"
+title: "Elysian space dust IPA"
 category: beer
 score: 6
 beer-date: "2023-02-26"

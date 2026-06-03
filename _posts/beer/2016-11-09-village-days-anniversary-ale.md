@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-village-days-anniversary-ale.md
-title: Village Days Anniversary Ale
+filename: "_posts/beer/2016-11-09-village-days-anniversary-ale.md"
+title: "Village Days Anniversary Ale"
 category: beer
 score: 7
 beer-date: "2025-02-15"

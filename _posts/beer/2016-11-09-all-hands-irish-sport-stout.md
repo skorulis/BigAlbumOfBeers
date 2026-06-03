@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-all-hands-irish-sport-stout.md
-title: All hands Irish sport stout
+filename: "_posts/beer/2016-11-09-all-hands-irish-sport-stout.md"
+title: "All hands Irish sport stout"
 category: beer
 score: 7.5
 beer-date: "2018-06-02"

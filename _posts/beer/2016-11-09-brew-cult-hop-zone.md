@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brew-cult-hop-zone.md
-title: Brew cult hop zone
+filename: "_posts/beer/2016-11-09-brew-cult-hop-zone.md"
+title: "Brew cult hop zone"
 category: beer
 score: 8
 beer-date: "2015-10-17"

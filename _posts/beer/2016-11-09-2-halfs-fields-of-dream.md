@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-fields-of-dream.md
-title: 2 halfs fields of dream
+filename: "_posts/beer/2016-11-09-2-halfs-fields-of-dream.md"
+title: "2 halfs fields of dream"
 category: beer
 score: 7.5
 beer-date: "2024-11-09"

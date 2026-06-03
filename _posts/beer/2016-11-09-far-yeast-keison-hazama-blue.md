@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-far-yeast-keison-hazama-blue.md
-title: Far yeast keison hazama blue
+filename: "_posts/beer/2016-11-09-far-yeast-keison-hazama-blue.md"
+title: "Far yeast keison hazama blue"
 category: beer
 score: 7
 beer-date: "2023-03-31"

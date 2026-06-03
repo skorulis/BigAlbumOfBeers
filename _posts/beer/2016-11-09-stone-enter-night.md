@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-enter-night.md
-title: Stone enter night
+filename: "_posts/beer/2016-11-09-stone-enter-night.md"
+title: "Stone enter night"
 category: beer
 score: 6.5
 beer-date: "2019-11-22"

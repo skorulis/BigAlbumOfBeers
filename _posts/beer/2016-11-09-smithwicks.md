@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-smithwicks.md
-title: Smithwicks
+filename: "_posts/beer/2016-11-09-smithwicks.md"
+title: "Smithwicks"
 category: beer
 score: 7
 beer-date: "2013-01-13"

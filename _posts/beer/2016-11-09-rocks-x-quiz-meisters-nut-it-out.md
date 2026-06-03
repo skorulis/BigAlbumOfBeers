@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rocks-x-quiz-meisters-nut-it-out.md
-title: Rocks x Quiz meisters nut it out
+filename: "_posts/beer/2016-11-09-rocks-x-quiz-meisters-nut-it-out.md"
+title: "Rocks x Quiz meisters nut it out"
 category: beer
 score: 6
 beer-date: "2024-06-15"

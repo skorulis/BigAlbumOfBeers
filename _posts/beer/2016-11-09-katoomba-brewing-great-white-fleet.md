@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-katoomba-brewing-great-white-fleet.md
-title: Katoomba brewing great white fleet
+filename: "_posts/beer/2016-11-09-katoomba-brewing-great-white-fleet.md"
+title: "Katoomba brewing great white fleet"
 category: beer
 score: 6
 beer-date: "2017-01-21"

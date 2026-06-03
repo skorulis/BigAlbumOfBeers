@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mismatch-pizza-beer.md
-title: Mismatch pizza beer
+filename: "_posts/beer/2016-11-09-mismatch-pizza-beer.md"
+title: "Mismatch pizza beer"
 category: beer
 score: 6
 beer-date: "2020-07-31"

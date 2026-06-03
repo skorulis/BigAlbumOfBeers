@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-sideways-pale-ale.md
-title: Nomad Sideways Pale ale
+filename: "_posts/beer/2016-11-09-nomad-sideways-pale-ale.md"
+title: "Nomad Sideways Pale ale"
 category: beer
 score: 4
 beer-date: "2015-07-10"

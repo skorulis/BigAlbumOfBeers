@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wold-top-against-the-grain.md
-title: Wold top against the grain
+filename: "_posts/beer/2016-11-09-wold-top-against-the-grain.md"
+title: "Wold top against the grain"
 category: beer
 score: 5
 beer-date: "2013-01-13"
@@ -11,6 +11,6 @@ img: /img/list/wold-top-against-the-grain.jpeg
 untappd: "https://untappd.com/b/wold-top-brewery--against-the-grain/34575"
 country: "England"
 brewery: "Wold Top Brewery "
-breweryURL: "/brewery/wold-top-brewery-.html"
+breweryURL: "/brewery/wold-top-brewery.html"
 style: "Gluten-Free"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tallboy-and-moose-fun-dip.md
-title: Tallboy and moose fun dip
+filename: "_posts/beer/2016-11-09-tallboy-and-moose-fun-dip.md"
+title: "Tallboy and moose fun dip"
 category: beer
 score: 7
 beer-date: "2021-11-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hotchkiss-six.md
-title: Hotchkiss six
+filename: "_posts/beer/2016-11-09-hotchkiss-six.md"
+title: "Hotchkiss six"
 category: beer
 score: 6.5
 beer-date: "2016-09-21"

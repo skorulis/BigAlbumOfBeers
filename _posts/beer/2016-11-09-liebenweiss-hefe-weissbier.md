@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-liebenweiss-hefe-weissbier.md
-title: Liebenweiss hefe weissbier
+filename: "_posts/beer/2016-11-09-liebenweiss-hefe-weissbier.md"
+title: "Liebenweiss hefe weissbier"
 category: beer
 score: 7
 beer-date: "2016-09-21"

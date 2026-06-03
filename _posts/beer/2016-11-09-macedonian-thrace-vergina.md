@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-macedonian-thrace-vergina.md
-title: Macedonian Thrace Vergina
+filename: "_posts/beer/2016-11-09-macedonian-thrace-vergina.md"
+title: "Macedonian Thrace Vergina"
 category: beer
 score: 5.5
 beer-date: "2023-02-26"

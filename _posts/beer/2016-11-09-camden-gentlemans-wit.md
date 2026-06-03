@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-camden-gentlemans-wit.md
-title: Camden gentlemans wit
+filename: "_posts/beer/2016-11-09-camden-gentlemans-wit.md"
+title: "Camden gentlemans wit"
 category: beer
 score: 5
 beer-date: "2013-08-18"

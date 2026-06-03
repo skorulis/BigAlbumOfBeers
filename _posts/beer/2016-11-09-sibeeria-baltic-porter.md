@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sibeeria-baltic-porter.md
-title: Sibeeria Baltic porter
+filename: "_posts/beer/2016-11-09-sibeeria-baltic-porter.md"
+title: "Sibeeria Baltic porter"
 category: beer
 score: 9.5
 beer-date: "2017-06-15"

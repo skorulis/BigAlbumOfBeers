@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-black-hops-g-o-a-t.md
-title: Black hops G.O.A.T
+filename: "_posts/beer/2016-11-09-black-hops-g-o-a-t.md"
+title: "Black hops G.O.A.T"
 category: beer
 score: 7.5
 beer-date: "2021-01-01"

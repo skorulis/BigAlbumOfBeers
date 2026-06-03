@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-valley-hops-21-pubs.md
-title: Valley Hops 21 Pubs
+filename: "_posts/beer/2016-11-09-valley-hops-21-pubs.md"
+title: "Valley Hops 21 Pubs"
 category: beer
 score: 6
 beer-date: "2026-03-27"

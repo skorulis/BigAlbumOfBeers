@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-big-shed-californicator-ipa.md
-title: Big shed californicator IPA
+filename: "_posts/beer/2016-11-09-big-shed-californicator-ipa.md"
+title: "Big shed californicator IPA"
 category: beer
 score: 8
 beer-date: "2016-02-14"

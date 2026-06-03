@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boondoggle-blonde-ale.md
-title: Boondoggle blonde ale
+filename: "_posts/beer/2016-11-09-boondoggle-blonde-ale.md"
+title: "Boondoggle blonde ale"
 category: beer
 score: null
 beer-date: "2013-08-18"

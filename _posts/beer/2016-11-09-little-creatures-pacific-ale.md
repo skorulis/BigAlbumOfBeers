@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-creatures-pacific-ale.md
-title: Little creatures pacific ale
+filename: "_posts/beer/2016-11-09-little-creatures-pacific-ale.md"
+title: "Little creatures pacific ale"
 category: beer
 score: 6.5
 beer-date: "2023-02-28"

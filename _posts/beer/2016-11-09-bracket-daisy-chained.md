@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-daisy-chained.md
-title: Bracket daisy chained
+filename: "_posts/beer/2016-11-09-bracket-daisy-chained.md"
+title: "Bracket daisy chained"
 category: beer
 score: 9
 beer-date: "2021-11-12"

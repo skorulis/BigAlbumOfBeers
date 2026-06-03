@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-athletic-run-wild.md
-title: Athletic run wild
+filename: "_posts/beer/2016-11-09-athletic-run-wild.md"
+title: "Athletic run wild"
 category: beer
 score: 3
 beer-date: "2022-09-21"

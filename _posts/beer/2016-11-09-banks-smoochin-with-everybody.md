@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-smoochin-with-everybody.md
-title: Banks smoochin with everybody
+filename: "_posts/beer/2016-11-09-banks-smoochin-with-everybody.md"
+title: "Banks smoochin with everybody"
 category: beer
 score: 9
 beer-date: "2024-03-29"

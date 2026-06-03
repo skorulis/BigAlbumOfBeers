@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-over-the-fence.md
-title: Bracket over the fence
+filename: "_posts/beer/2016-11-09-bracket-over-the-fence.md"
+title: "Bracket over the fence"
 category: beer
 score: 8.5
 beer-date: "2021-11-12"

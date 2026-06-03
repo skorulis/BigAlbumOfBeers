@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-beacon-uppercut.md
-title: Green beacon uppercut
+filename: "_posts/beer/2016-11-09-green-beacon-uppercut.md"
+title: "Green beacon uppercut"
 category: beer
 score: 8.5
 beer-date: "2019-06-22"

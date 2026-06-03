@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-birra-nova-margose.md
-title: Birra nova margose
+filename: "_posts/beer/2016-11-09-birra-nova-margose.md"
+title: "Birra nova margose"
 category: beer
 score: 6
 beer-date: "2017-07-12"

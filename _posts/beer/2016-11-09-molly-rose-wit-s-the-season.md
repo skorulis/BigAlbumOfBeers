@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-molly-rose-wit-s-the-season.md
-title: Molly Rose Wit’s the season
+filename: "_posts/beer/2016-11-09-molly-rose-wit-s-the-season.md"
+title: "Molly Rose Wit’s the season"
 category: beer
 score: 5
 beer-date: "2024-03-29"

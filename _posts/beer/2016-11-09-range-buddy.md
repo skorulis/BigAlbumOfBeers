@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-buddy.md
-title: Range buddy
+filename: "_posts/beer/2016-11-09-range-buddy.md"
+title: "Range buddy"
 category: beer
 score: 7
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-halifter-stout.md
-title: Halifter Stout
+filename: "_posts/beer/2016-11-09-halifter-stout.md"
+title: "Halifter Stout"
 category: beer
 score: 6
 beer-date: "2015-01-29"

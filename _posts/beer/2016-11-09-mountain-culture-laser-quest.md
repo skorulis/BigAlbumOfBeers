@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-laser-quest.md
-title: Mountain culture laser quest
+filename: "_posts/beer/2016-11-09-mountain-culture-laser-quest.md"
+title: "Mountain culture laser quest"
 category: beer
 score: 8
 beer-date: "2021-01-31"

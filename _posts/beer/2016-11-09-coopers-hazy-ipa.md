@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coopers-hazy-ipa.md
-title: Coopers hazy IPA
+filename: "_posts/beer/2016-11-09-coopers-hazy-ipa.md"
+title: "Coopers hazy IPA"
 category: beer
 score: 6.5
 beer-date: "2020-11-13"

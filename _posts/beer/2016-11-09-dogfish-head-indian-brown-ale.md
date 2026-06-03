@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dogfish-head-indian-brown-ale.md
-title: Dogfish head indian brown ale
+filename: "_posts/beer/2016-11-09-dogfish-head-indian-brown-ale.md"
+title: "Dogfish head indian brown ale"
 category: beer
 score: 7
 beer-date: "2016-03-16"

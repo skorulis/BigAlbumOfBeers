@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-vilkmerges-vysniu-kriek.md
-title: Vilkmergės vyšniu kriek
+filename: "_posts/beer/2016-11-09-vilkmerges-vysniu-kriek.md"
+title: "Vilkmergės vyšniu kriek"
 category: beer
 score: 6
 beer-date: "2015-10-17"

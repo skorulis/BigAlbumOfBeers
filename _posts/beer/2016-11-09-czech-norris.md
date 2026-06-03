@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-czech-norris.md
-title: Czech Norris
+filename: "_posts/beer/2016-11-09-czech-norris.md"
+title: "Czech Norris"
 category: beer
 score: 5
 beer-date: "2013-09-01"

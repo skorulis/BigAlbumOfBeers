@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-destroy-all-humans.md
-title: Destroy all humans
+filename: "_posts/beer/2016-11-09-destroy-all-humans.md"
+title: "Destroy all humans"
 category: beer
 score: 2
 beer-date: "2016-09-21"

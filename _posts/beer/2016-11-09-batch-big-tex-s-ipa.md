@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-big-tex-s-ipa.md
-title: Batch big tex’s ipa
+filename: "_posts/beer/2016-11-09-batch-big-tex-s-ipa.md"
+title: "Batch big tex’s ipa"
 category: beer
 score: 7.5
 beer-date: "2020-09-26"

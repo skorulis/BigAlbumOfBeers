@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bentspoke-how-s-it-gosen.md
-title: Bentspoke how’s it gosen
+filename: "_posts/beer/2016-11-09-bentspoke-how-s-it-gosen.md"
+title: "Bentspoke how’s it gosen"
 category: beer
 score: 6
 beer-date: "2023-02-26"

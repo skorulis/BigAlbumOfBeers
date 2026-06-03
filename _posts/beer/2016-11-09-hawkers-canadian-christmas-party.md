@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-canadian-christmas-party.md
-title: Hawkers Canadian Christmas Party
+filename: "_posts/beer/2016-11-09-hawkers-canadian-christmas-party.md"
+title: "Hawkers Canadian Christmas Party"
 category: beer
 score: 9
 beer-date: "2024-03-29"

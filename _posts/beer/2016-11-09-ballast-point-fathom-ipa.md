@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballast-point-fathom-ipa.md
-title: Ballast point fathom IPA
+filename: "_posts/beer/2016-11-09-ballast-point-fathom-ipa.md"
+title: "Ballast point fathom IPA"
 category: beer
 score: 7.5
 beer-date: "2019-04-22"

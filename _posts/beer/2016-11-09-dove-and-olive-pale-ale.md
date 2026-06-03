@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dove-and-olive-pale-ale.md
-title: Dove and olive pale ale
+filename: "_posts/beer/2016-11-09-dove-and-olive-pale-ale.md"
+title: "Dove and olive pale ale"
 category: beer
 score: 6
 beer-date: "2018-10-05"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-local-pacific-paradise.md
-title: Local pacific paradise
+filename: "_posts/beer/2016-11-09-local-pacific-paradise.md"
+title: "Local pacific paradise"
 category: beer
 score: 6.5
 beer-date: "2020-11-13"

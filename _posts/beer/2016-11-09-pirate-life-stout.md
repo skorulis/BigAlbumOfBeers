@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-stout.md
-title: Pirate life stout
+filename: "_posts/beer/2016-11-09-pirate-life-stout.md"
+title: "Pirate life stout"
 category: beer
 score: 7
 beer-date: "2018-01-13"

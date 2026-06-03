@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-full-suspension.md
-title: Mountain Culture Full Suspension
+filename: "_posts/beer/2016-11-09-mountain-culture-full-suspension.md"
+title: "Mountain Culture Full Suspension"
 category: beer
 score: 7
 beer-date: "2026-03-27"

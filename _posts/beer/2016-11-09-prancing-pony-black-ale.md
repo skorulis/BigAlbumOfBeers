@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-prancing-pony-black-ale.md
-title: Prancing Pony Black Ale
+filename: "_posts/beer/2016-11-09-prancing-pony-black-ale.md"
+title: "Prancing Pony Black Ale"
 category: beer
 score: 8
 beer-date: "2018-12-27"

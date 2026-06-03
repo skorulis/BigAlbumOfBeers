@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4pines-in-season-no-6-ipa.md
-title: 4pines in season no 6 IPA
+filename: "_posts/beer/2016-11-09-4pines-in-season-no-6-ipa.md"
+title: "4pines in season no 6 IPA"
 category: beer
 score: 6.5
 beer-date: "2018-06-02"

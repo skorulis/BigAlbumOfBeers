@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-19th-hole.md
-title: Bracket 19th hole
+filename: "_posts/beer/2016-11-09-bracket-19th-hole.md"
+title: "Bracket 19th hole"
 category: beer
 score: 5.5
 beer-date: "2023-02-28"

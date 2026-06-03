@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-jacked-juice.md
-title: Banks jacked juice
+filename: "_posts/beer/2016-11-09-banks-jacked-juice.md"
+title: "Banks jacked juice"
 category: beer
 score: 9.5
 beer-date: "2023-03-31"

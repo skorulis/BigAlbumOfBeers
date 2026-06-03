@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-esker-hazy-pale.md
-title: Esker hazy pale
+filename: "_posts/beer/2016-11-09-esker-hazy-pale.md"
+title: "Esker hazy pale"
 category: beer
 score: 8
 beer-date: "2024-11-23"
@@ -11,6 +11,6 @@ img: /img/list/esker-hazy-pale.jpeg
 untappd: "https://untappd.com/b/esker-beer-co-australian-brewery-esker-beer-co-hazy-pale/5345043"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "/brewery/-australian-brewery.html"
+breweryURL: "/brewery/australian-brewery.html"
 style: "Pale Ale - New England / Hazy"
 ---

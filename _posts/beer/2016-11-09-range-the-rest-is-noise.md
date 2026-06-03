@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-the-rest-is-noise.md
-title: Range the rest is noise
+filename: "_posts/beer/2016-11-09-range-the-rest-is-noise.md"
+title: "Range the rest is noise"
 category: beer
 score: 9
 beer-date: "2021-11-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-strawberry-watermelon.md
-title: Pirate life strawberry & watermelon
+filename: "_posts/beer/2016-11-09-pirate-life-strawberry-watermelon.md"
+title: "Pirate life strawberry & watermelon"
 category: beer
 score: 7
 beer-date: "2022-08-07"

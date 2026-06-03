@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bright-black-diamond.md
-title: Bright black diamond
+filename: "_posts/beer/2016-11-09-bright-black-diamond.md"
+title: "Bright black diamond"
 category: beer
 score: 5.5
 beer-date: "2022-08-07"

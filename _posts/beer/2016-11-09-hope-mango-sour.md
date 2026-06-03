@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-mango-sour.md
-title: Hope mango sour
+filename: "_posts/beer/2016-11-09-hope-mango-sour.md"
+title: "Hope mango sour"
 category: beer
 score: null
 beer-date: "2019-06-22"

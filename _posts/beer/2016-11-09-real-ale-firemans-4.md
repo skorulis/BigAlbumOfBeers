@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-real-ale-firemans-4.md
-title: Real Ale Firemans 4
+filename: "_posts/beer/2016-11-09-real-ale-firemans-4.md"
+title: "Real Ale Firemans 4"
 category: beer
 score: 5.5
 beer-date: "2025-09-26"

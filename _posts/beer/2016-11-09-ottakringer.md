@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ottakringer.md
-title: Ottakringer
+filename: "_posts/beer/2016-11-09-ottakringer.md"
+title: "Ottakringer"
 category: beer
 score: 5.5
 beer-date: "2017-06-15"

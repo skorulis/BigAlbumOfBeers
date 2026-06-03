@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-surrounded.md
-title: Bracket Surrounded
+filename: "_posts/beer/2016-11-09-bracket-surrounded.md"
+title: "Bracket Surrounded"
 category: beer
 score: .
 beer-date: "2022-09-21"

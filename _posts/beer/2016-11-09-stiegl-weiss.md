@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stiegl-weiss.md
-title: Stiegl Weiss
+filename: "_posts/beer/2016-11-09-stiegl-weiss.md"
+title: "Stiegl Weiss"
 category: beer
 score: 7.5
 beer-date: "2017-06-15"

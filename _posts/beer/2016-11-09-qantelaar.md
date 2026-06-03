@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-qantelaar.md
-title: Qantelaar
+filename: "_posts/beer/2016-11-09-qantelaar.md"
+title: "Qantelaar"
 category: beer
 score: 7
 beer-date: "2014-03-01"

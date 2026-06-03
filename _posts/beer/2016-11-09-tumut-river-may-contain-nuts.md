@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tumut-river-may-contain-nuts.md
-title: Tumut river may contain nuts
+filename: "_posts/beer/2016-11-09-tumut-river-may-contain-nuts.md"
+title: "Tumut river may contain nuts"
 category: beer
 score: 7
 beer-date: "2023-02-28"

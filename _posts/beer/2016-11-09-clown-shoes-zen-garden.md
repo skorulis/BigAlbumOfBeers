@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-clown-shoes-zen-garden.md
-title: Clown shoes zen garden
+filename: "_posts/beer/2016-11-09-clown-shoes-zen-garden.md"
+title: "Clown shoes zen garden"
 category: beer
 score: 7.5
 beer-date: "2021-04-02"

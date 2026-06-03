@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brickworks-dipa.md
-title: Brickworks DIPA
+filename: "_posts/beer/2016-11-09-brickworks-dipa.md"
+title: "Brickworks DIPA"
 category: beer
 score: 5.5
 beer-date: "2023-02-28"

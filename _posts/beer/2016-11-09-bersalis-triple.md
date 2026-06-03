@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bersalis-triple.md
-title: Bersalis triple
+filename: "_posts/beer/2016-11-09-bersalis-triple.md"
+title: "Bersalis triple"
 category: beer
 score: 7.5
 beer-date: "2017-06-02"

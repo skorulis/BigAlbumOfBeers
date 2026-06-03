@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-strawberry-milkshake-ipa.md
-title: Pirate life strawberry milkshake IPA
+filename: "_posts/beer/2016-11-09-pirate-life-strawberry-milkshake-ipa.md"
+title: "Pirate life strawberry milkshake IPA"
 category: beer
 score: 9
 beer-date: "2018-06-02"

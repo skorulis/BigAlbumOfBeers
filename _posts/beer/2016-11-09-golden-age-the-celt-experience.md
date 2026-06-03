@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-golden-age-the-celt-experience.md
-title: Golden Age The Celt Experience
+filename: "_posts/beer/2016-11-09-golden-age-the-celt-experience.md"
+title: "Golden Age The Celt Experience"
 category: beer
 score: 5
 beer-date: "2015-01-29"

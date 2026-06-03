@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dainton-baltic-porter.md
-title: Dainton Baltic porter
+filename: "_posts/beer/2016-11-09-dainton-baltic-porter.md"
+title: "Dainton Baltic porter"
 category: beer
 score: 7.5
 beer-date: "2018-03-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-feedback-loop.md
-title: Mountain Culture Feedback Loop
+filename: "_posts/beer/2016-11-09-mountain-culture-feedback-loop.md"
+title: "Mountain Culture Feedback Loop"
 category: beer
 score: 8.5
 beer-date: "2025-02-15"

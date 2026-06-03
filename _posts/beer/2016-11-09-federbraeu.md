@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-federbraeu.md
-title: Federbräu
+filename: "_posts/beer/2016-11-09-federbraeu.md"
+title: "Federbräu"
 category: beer
 score: 5
 beer-date: "2015-10-17"

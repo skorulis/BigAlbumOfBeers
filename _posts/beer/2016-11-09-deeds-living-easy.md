@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deeds-living-easy.md
-title: Deeds living easy
+filename: "_posts/beer/2016-11-09-deeds-living-easy.md"
+title: "Deeds living easy"
 category: beer
 score: 6
 beer-date: "2022-08-07"

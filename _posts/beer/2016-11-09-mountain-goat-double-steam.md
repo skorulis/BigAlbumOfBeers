@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-double-steam.md
-title: Mountain goat double steam
+filename: "_posts/beer/2016-11-09-mountain-goat-double-steam.md"
+title: "Mountain goat double steam"
 category: beer
 score: 8.5
 beer-date: "2023-02-28"

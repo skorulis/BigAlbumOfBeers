@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tuatara-ardennes.md
-title: Tuatara Ardennes
+filename: "_posts/beer/2016-11-09-tuatara-ardennes.md"
+title: "Tuatara Ardennes"
 category: beer
 score: 7
 beer-date: "2016-05-24"

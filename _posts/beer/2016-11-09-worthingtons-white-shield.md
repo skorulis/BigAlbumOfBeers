@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-worthingtons-white-shield.md
-title: Worthingtons White Shield
+filename: "_posts/beer/2016-11-09-worthingtons-white-shield.md"
+title: "Worthingtons White Shield"
 category: beer
 score: 6
 beer-date: "2013-03-09"

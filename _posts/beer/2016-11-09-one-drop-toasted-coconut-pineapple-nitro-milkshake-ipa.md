@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-toasted-coconut-pineapple-nitro-milkshake-ipa.md
-title: One drop toasted coconut pineapple nitro milkshake IPA
+filename: "_posts/beer/2016-11-09-one-drop-toasted-coconut-pineapple-nitro-milkshake-ipa.md"
+title: "One drop toasted coconut pineapple nitro milkshake IPA"
 category: beer
 score: 9
 beer-date: "2020-12-25"

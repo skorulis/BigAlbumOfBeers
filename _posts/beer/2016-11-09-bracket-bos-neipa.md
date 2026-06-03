@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-bos-neipa.md
-title: Bracket BOS NEIPA
+filename: "_posts/beer/2016-11-09-bracket-bos-neipa.md"
+title: "Bracket BOS NEIPA"
 category: beer
 score: 9
 beer-date: "2021-11-12"

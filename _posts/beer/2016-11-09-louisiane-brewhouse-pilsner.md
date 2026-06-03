@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-louisiane-brewhouse-pilsner.md
-title: Louisiane brewhouse Pilsner
+filename: "_posts/beer/2016-11-09-louisiane-brewhouse-pilsner.md"
+title: "Louisiane brewhouse Pilsner"
 category: beer
 score: 6.5
 beer-date: "2018-02-17"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tsingtao-wheat-beer.md
-title: Tsingtao Wheat Beer
+filename: "_posts/beer/2016-11-09-tsingtao-wheat-beer.md"
+title: "Tsingtao Wheat Beer"
 category: beer
 score: 7
 beer-date: "2026-03-27"

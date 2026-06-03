@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewdog-hop-fiction-pale-ale.md
-title: Brewdog hop fiction pale ale
+filename: "_posts/beer/2016-11-09-brewdog-hop-fiction-pale-ale.md"
+title: "Brewdog hop fiction pale ale"
 category: beer
 score: 8.5
 beer-date: "2017-02-22"

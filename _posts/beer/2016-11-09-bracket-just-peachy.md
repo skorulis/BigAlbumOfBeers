@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-just-peachy.md
-title: Bracket Just Peachy
+filename: "_posts/beer/2016-11-09-bracket-just-peachy.md"
+title: "Bracket Just Peachy"
 category: beer
 score: 8
 beer-date: "2026-03-27"

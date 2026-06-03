@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-jucius-caesar.md
-title: Two birds Jucius Caesar
+filename: "_posts/beer/2016-11-09-two-birds-jucius-caesar.md"
+title: "Two birds Jucius Caesar"
 category: beer
 score: 8
 beer-date: "2018-10-05"

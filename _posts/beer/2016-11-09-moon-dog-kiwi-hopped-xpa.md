@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moon-dog-kiwi-hopped-xpa.md
-title: Moon dog kiwi hopped XPA
+filename: "_posts/beer/2016-11-09-moon-dog-kiwi-hopped-xpa.md"
+title: "Moon dog kiwi hopped XPA"
 category: beer
 score: 4.5
 beer-date: "2023-02-28"

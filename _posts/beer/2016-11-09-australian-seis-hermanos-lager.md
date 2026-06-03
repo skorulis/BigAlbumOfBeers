@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-australian-seis-hermanos-lager.md
-title: Australian Seis Hermanos lager
+filename: "_posts/beer/2016-11-09-australian-seis-hermanos-lager.md"
+title: "Australian Seis Hermanos lager"
 category: beer
 score: 8
 beer-date: "2018-01-13"
@@ -11,6 +11,6 @@ img: /img/list/australian-seis-hermanos-lager.jpeg
 untappd: "https://untappd.com/b/-australian-brewery-seis-hermanos-lager/1840728"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "/brewery/-australian-brewery.html"
+breweryURL: "/brewery/australian-brewery.html"
 style: "Lager - Amber"
 ---

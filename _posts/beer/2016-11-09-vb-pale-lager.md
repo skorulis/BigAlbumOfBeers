@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-vb-pale-lager.md
-title: VB pale lager
+filename: "_posts/beer/2016-11-09-vb-pale-lager.md"
+title: "VB pale lager"
 category: beer
 score: 5
 beer-date: "2013-03-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-frydenlund-juicy-baer.md
-title: Frydenlund juicy bær
+filename: "_posts/beer/2016-11-09-frydenlund-juicy-baer.md"
+title: "Frydenlund juicy bær"
 category: beer
 score: 6
 beer-date: "2023-09-06"

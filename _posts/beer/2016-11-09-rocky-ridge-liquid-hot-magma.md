@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rocky-ridge-liquid-hot-magma.md
-title: Rocky Ridge Liquid Hot Magma
+filename: "_posts/beer/2016-11-09-rocky-ridge-liquid-hot-magma.md"
+title: "Rocky Ridge Liquid Hot Magma"
 category: beer
 score: 7.5
 beer-date: "2025-12-28"

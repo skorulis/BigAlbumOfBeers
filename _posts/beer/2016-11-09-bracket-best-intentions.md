@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-best-intentions.md
-title: Bracket best intentions
+filename: "_posts/beer/2016-11-09-bracket-best-intentions.md"
+title: "Bracket best intentions"
 category: beer
 score: 8
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fathom-belgian-style-brown.md
-title: Fathom belgian style brown
+filename: "_posts/beer/2016-11-09-fathom-belgian-style-brown.md"
+title: "Fathom belgian style brown"
 category: beer
 score: 7
 beer-date: "2019-11-22"

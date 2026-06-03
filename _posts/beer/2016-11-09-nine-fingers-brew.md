@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nine-fingers-brew.md
-title: Nine fingers brew
+filename: "_posts/beer/2016-11-09-nine-fingers-brew.md"
+title: "Nine fingers brew"
 category: beer
 score: 7
 beer-date: "2020-01-16"

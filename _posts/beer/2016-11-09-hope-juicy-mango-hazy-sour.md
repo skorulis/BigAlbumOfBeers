@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-juicy-mango-hazy-sour.md
-title: Hope juicy mango hazy sour
+filename: "_posts/beer/2016-11-09-hope-juicy-mango-hazy-sour.md"
+title: "Hope juicy mango hazy sour"
 category: beer
 score: 8.5
 beer-date: "2020-07-31"

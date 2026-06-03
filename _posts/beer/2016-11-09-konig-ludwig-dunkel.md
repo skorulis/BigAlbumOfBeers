@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-konig-ludwig-dunkel.md
-title: Konig Ludwig dunkel
+filename: "_posts/beer/2016-11-09-konig-ludwig-dunkel.md"
+title: "Konig Ludwig dunkel"
 category: beer
 score: 4.5
 beer-date: "2017-07-12"

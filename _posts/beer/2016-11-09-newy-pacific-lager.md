@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-newy-pacific-lager.md
-title: Newy pacific lager
+filename: "_posts/beer/2016-11-09-newy-pacific-lager.md"
+title: "Newy pacific lager"
 category: beer
 score: 8
 beer-date: "2020-12-25"

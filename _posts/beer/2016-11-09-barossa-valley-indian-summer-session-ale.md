@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-barossa-valley-indian-summer-session-ale.md
-title: Barossa valley Indian summer session ale
+filename: "_posts/beer/2016-11-09-barossa-valley-indian-summer-session-ale.md"
+title: "Barossa valley Indian summer session ale"
 category: beer
 score: 7
 beer-date: "2019-04-22"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-liquid-refreshment.md
-title: Garage project liquid refreshment
+filename: "_posts/beer/2016-11-09-garage-project-liquid-refreshment.md"
+title: "Garage project liquid refreshment"
 category: beer
 score: 7.5
 beer-date: "2024-03-29"

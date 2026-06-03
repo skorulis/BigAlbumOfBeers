@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-koestritzer-schwarzbier.md
-title: Köstritzer schwarzbier
+filename: "_posts/beer/2016-11-09-koestritzer-schwarzbier.md"
+title: "Köstritzer schwarzbier"
 category: beer
 score: 5
 beer-date: "2014-03-01"

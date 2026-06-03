@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-scharers-lager.md
-title: Scharers lager
+filename: "_posts/beer/2016-11-09-scharers-lager.md"
+title: "Scharers lager"
 category: beer
 score: 6.5
 beer-date: "2020-12-25"

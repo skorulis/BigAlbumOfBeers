@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-devils-hollow-flash-kate.md
-title: Devils hollow flash Kate
+filename: "_posts/beer/2016-11-09-devils-hollow-flash-kate.md"
+title: "Devils hollow flash Kate"
 category: beer
 score: 7
 beer-date: "2021-01-01"

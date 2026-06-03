@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-amplifire-hazy-ipa.md
-title: Bridge Road Amplifire Hazy IPA
+filename: "_posts/beer/2016-11-09-bridge-road-amplifire-hazy-ipa.md"
+title: "Bridge Road Amplifire Hazy IPA"
 category: beer
 score: 6
 beer-date: "2025-12-28"

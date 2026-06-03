@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-co-operative-czech-lager.md
-title: Co-operative Czech lager
+filename: "_posts/beer/2016-11-09-co-operative-czech-lager.md"
+title: "Co-operative Czech lager"
 category: beer
 score: 3
 beer-date: "2014-03-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kicks-catalyst.md
-title: Kicks Catalyst
+filename: "_posts/beer/2016-11-09-kicks-catalyst.md"
+title: "Kicks Catalyst"
 category: beer
 score: 9
 beer-date: "2025-09-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-governor-golden-ale.md
-title: The governor golden ale
+filename: "_posts/beer/2016-11-09-the-governor-golden-ale.md"
+title: "The governor golden ale"
 category: beer
 score: 8
 beer-date: "2013-03-28"

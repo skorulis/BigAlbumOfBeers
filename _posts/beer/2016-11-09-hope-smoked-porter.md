@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-smoked-porter.md
-title: Hope smoked porter
+filename: "_posts/beer/2016-11-09-hope-smoked-porter.md"
+title: "Hope smoked porter"
 category: beer
 score: 5.5
 beer-date: "2020-09-26"

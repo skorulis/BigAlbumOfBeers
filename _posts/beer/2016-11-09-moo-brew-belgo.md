@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moo-brew-belgo.md
-title: Moo brew Belgo
+filename: "_posts/beer/2016-11-09-moo-brew-belgo.md"
+title: "Moo brew Belgo"
 category: beer
 score: 5
 beer-date: "2013-03-28"

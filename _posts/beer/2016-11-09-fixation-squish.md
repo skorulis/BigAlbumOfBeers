@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fixation-squish.md
-title: Fixation squish
+filename: "_posts/beer/2016-11-09-fixation-squish.md"
+title: "Fixation squish"
 category: beer
 score: 7
 beer-date: "2019-11-22"

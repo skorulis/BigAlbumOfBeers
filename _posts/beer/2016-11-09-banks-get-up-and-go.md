@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-get-up-and-go.md
-title: Banks get up and go
+filename: "_posts/beer/2016-11-09-banks-get-up-and-go.md"
+title: "Banks get up and go"
 category: beer
 score: 7.5
 beer-date: "2023-02-28"

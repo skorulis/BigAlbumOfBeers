@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bright-mystery-batch-02.md
-title: Bright mystery batch-02
+filename: "_posts/beer/2016-11-09-bright-mystery-batch-02.md"
+title: "Bright mystery batch-02"
 category: beer
 score: 5.5
 beer-date: "2021-11-12"

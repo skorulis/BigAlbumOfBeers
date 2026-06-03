@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-zatecky-gus.md
-title: Žatecky Gus
+filename: "_posts/beer/2016-11-09-zatecky-gus.md"
+title: "Žatecky Gus"
 category: beer
 score: 6
 beer-date: "2017-05-27"
@@ -11,6 +11,6 @@ img: /img/list/zatecky-gus.jpeg
 untappd: "https://untappd.com/b/baltika-breweries--baltika--zatecky-gus/181553"
 country: "Russia"
 brewery: "Baltika Breweries (Балтика)"
-breweryURL: "/brewery/baltika-breweries--baltika.html"
+breweryURL: "/brewery/baltika-breweries-baltika.html"
 style: "Pilsner - Other"
 ---

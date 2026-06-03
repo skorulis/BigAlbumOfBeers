@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-into-the-forest-i-go.md
-title: Hawkers into the forest I go
+filename: "_posts/beer/2016-11-09-hawkers-into-the-forest-i-go.md"
+title: "Hawkers into the forest I go"
 category: beer
 score: 6
 beer-date: "2021-04-02"

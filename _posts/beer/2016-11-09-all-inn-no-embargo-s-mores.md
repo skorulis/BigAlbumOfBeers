@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-all-inn-no-embargo-s-mores.md
-title: All inn no embargo S’mores
+filename: "_posts/beer/2016-11-09-all-inn-no-embargo-s-mores.md"
+title: "All inn no embargo S’mores"
 category: beer
 score: 7
 beer-date: "2023-08-26"

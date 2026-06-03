@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-grand-ridge-juicy-pils.md
-title: Grand ridge juicy pils
+filename: "_posts/beer/2016-11-09-grand-ridge-juicy-pils.md"
+title: "Grand ridge juicy pils"
 category: beer
 score: 6
 beer-date: "2018-11-05"

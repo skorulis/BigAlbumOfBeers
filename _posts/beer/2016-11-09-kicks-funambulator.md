@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kicks-funambulator.md
-title: Kicks Funambulator
+filename: "_posts/beer/2016-11-09-kicks-funambulator.md"
+title: "Kicks Funambulator"
 category: beer
 score: 9
 beer-date: "2025-11-10"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dangerous-ales-uncle-damo-s-oaths-stout.md
-title: Dangerous ales uncle damo’s oaths stout
+filename: "_posts/beer/2016-11-09-dangerous-ales-uncle-damo-s-oaths-stout.md"
+title: "Dangerous ales uncle damo’s oaths stout"
 category: beer
 score: 6
 beer-date: "2023-03-31"

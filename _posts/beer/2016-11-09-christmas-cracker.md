@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-christmas-cracker.md
-title: Christmas cracker
+filename: "_posts/beer/2016-11-09-christmas-cracker.md"
+title: "Christmas cracker"
 category: beer
 score: 2
 beer-date: "2013-01-13"

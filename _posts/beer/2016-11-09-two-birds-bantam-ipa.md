@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-bantam-ipa.md
-title: Two birds bantam IPA
+filename: "_posts/beer/2016-11-09-two-birds-bantam-ipa.md"
+title: "Two birds bantam IPA"
 category: beer
 score: 6
 beer-date: "2015-10-17"

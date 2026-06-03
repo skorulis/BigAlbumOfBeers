@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-10-toes-clockwork-apricot.md
-title: 10 toes clockwork apricot
+filename: "_posts/beer/2016-11-09-10-toes-clockwork-apricot.md"
+title: "10 toes clockwork apricot"
 category: beer
 score: 9
 beer-date: "2020-12-25"

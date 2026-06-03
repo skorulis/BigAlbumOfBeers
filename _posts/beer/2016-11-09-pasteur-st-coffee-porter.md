@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pasteur-st-coffee-porter.md
-title: Pasteur st coffee porter
+filename: "_posts/beer/2016-11-09-pasteur-st-coffee-porter.md"
+title: "Pasteur st coffee porter"
 category: beer
 score: 7.5
 beer-date: "2018-03-13"

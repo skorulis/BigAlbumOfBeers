@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-the-eagle.md
-title: Akasha the eagle
+filename: "_posts/beer/2016-11-09-akasha-the-eagle.md"
+title: "Akasha the eagle"
 category: beer
 score: 7.5
 beer-date: "2020-11-13"
@@ -11,6 +11,6 @@ img: /img/list/akasha-the-eagle.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-the-eagle-iiiipa/2593654"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - Quadruple"
 ---

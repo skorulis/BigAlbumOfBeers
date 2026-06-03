@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-basement-brewhouse-red-right-hand.md
-title: Basement brewhouse red right hand
+filename: "_posts/beer/2016-11-09-basement-brewhouse-red-right-hand.md"
+title: "Basement brewhouse red right hand"
 category: beer
 score: 7
 beer-date: "2019-06-22"

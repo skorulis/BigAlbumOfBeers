@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-three-sheets-pale-ale.md
-title: Three sheets Pale Ale
+filename: "_posts/beer/2016-11-09-three-sheets-pale-ale.md"
+title: "Three sheets Pale Ale"
 category: beer
 score: 8
 beer-date: "2013-03-09"

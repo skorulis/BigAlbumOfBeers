@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-newcastle-brown-ale.md
-title: Newcastle Brown Ale
+filename: "_posts/beer/2016-11-09-newcastle-brown-ale.md"
+title: "Newcastle Brown Ale"
 category: beer
 score: 6
 beer-date: "2013-03-09"

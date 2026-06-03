@@ -4,7 +4,7 @@ filename: "_posts/brewery/2016-11-09-wayward-brewing.md"
 title: "Wayward Brewing"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/wayward-brewing/48019"
-instagram: 'WaywardBrewing'
-twitter: 'WaywardBeer'
-facebook: 'http://www.facebook.com/WaywardBrewing'
+instagram: "WaywardBrewing"
+twitter: "WaywardBeer"
+facebook: "http://www.facebook.com/WaywardBrewing"
 ---

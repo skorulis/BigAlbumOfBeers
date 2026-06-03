@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackmans-hawkers-juicy-west-coast-ipa.md
-title: Blackmans hawkers juicy west coast IPA
+filename: "_posts/beer/2016-11-09-blackmans-hawkers-juicy-west-coast-ipa.md"
+title: "Blackmans hawkers juicy west coast IPA"
 category: beer
 score: 7
 beer-date: "2024-11-09"

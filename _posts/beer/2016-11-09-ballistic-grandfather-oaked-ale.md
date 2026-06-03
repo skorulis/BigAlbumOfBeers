@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballistic-grandfather-oaked-ale.md
-title: Ballistic grandfather oaked ale
+filename: "_posts/beer/2016-11-09-ballistic-grandfather-oaked-ale.md"
+title: "Ballistic grandfather oaked ale"
 category: beer
 score: 9
 beer-date: "2021-04-02"

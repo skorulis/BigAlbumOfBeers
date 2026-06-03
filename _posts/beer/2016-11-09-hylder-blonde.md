@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hylder-blonde.md
-title: Hylder Blonde
+filename: "_posts/beer/2016-11-09-hylder-blonde.md"
+title: "Hylder Blonde"
 category: beer
 score: 6
 beer-date: "2013-08-18"

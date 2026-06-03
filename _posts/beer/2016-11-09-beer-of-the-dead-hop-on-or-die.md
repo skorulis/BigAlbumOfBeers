@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beer-of-the-dead-hop-on-or-die.md
-title: Beer of the dead hop on or die
+filename: "_posts/beer/2016-11-09-beer-of-the-dead-hop-on-or-die.md"
+title: "Beer of the dead hop on or die"
 category: beer
 score: 7.5
 beer-date: "2017-03-03"

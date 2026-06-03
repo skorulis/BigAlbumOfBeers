@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-in-breed-westy-kong-hazelnut-brown-ale.md
-title: Mountain goat in breed westy kong hazelnut brown ale
+filename: "_posts/beer/2016-11-09-mountain-goat-in-breed-westy-kong-hazelnut-brown-ale.md"
+title: "Mountain goat in breed westy kong hazelnut brown ale"
 category: beer
 score: 7
 beer-date: "2018-10-05"

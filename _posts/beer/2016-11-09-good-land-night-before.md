@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-good-land-night-before.md
-title: Good Land Night Before
+filename: "_posts/beer/2016-11-09-good-land-night-before.md"
+title: "Good Land Night Before"
 category: beer
 score: 9
 beer-date: "2024-12-28"

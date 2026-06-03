@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-amber-pils.md
-title: Amber pils
+filename: "_posts/beer/2016-11-09-amber-pils.md"
+title: "Amber pils"
 category: beer
 score: 6
 beer-date: "2015-02-27"

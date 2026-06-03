@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bright-fred-s-fog-ipa.md
-title: Bright Fred’s fog IPA
+filename: "_posts/beer/2016-11-09-bright-fred-s-fog-ipa.md"
+title: "Bright Fred’s fog IPA"
 category: beer
 score: 8.5
 beer-date: "2023-08-26"

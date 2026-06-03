@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-creatures-stout-king.md
-title: Little creatures stout king
+filename: "_posts/beer/2016-11-09-little-creatures-stout-king.md"
+title: "Little creatures stout king"
 category: beer
 score: 8.5
 beer-date: "2024-03-29"

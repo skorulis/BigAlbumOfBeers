@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-molly-rose-coffee-tonic.md
-title: Molly rose coffee tonic
+filename: "_posts/beer/2016-11-09-molly-rose-coffee-tonic.md"
+title: "Molly rose coffee tonic"
 category: beer
 score: 3.5
 beer-date: "2022-09-21"

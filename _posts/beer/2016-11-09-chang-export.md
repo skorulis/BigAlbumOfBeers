@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-chang-export.md
-title: Chang export
+filename: "_posts/beer/2016-11-09-chang-export.md"
+title: "Chang export"
 category: beer
 score: 2
 beer-date: "2014-02-23"

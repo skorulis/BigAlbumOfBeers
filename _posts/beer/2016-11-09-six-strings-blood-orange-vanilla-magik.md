@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-strings-blood-orange-vanilla-magik.md
-title: Six strings blood orange vanilla magik
+filename: "_posts/beer/2016-11-09-six-strings-blood-orange-vanilla-magik.md"
+title: "Six strings blood orange vanilla magik"
 category: beer
 score: 7.5
 beer-date: "2020-01-16"

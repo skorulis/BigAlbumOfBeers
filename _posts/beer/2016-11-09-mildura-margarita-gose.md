@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mildura-margarita-gose.md
-title: Mildura Margarita Gose
+filename: "_posts/beer/2016-11-09-mildura-margarita-gose.md"
+title: "Mildura Margarita Gose"
 category: beer
 score: 4
 beer-date: "2021-06-05"

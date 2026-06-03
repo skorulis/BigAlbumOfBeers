@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-spitfire-kentish-ale.md
-title: Spitfire Kentish ale
+filename: "_posts/beer/2016-11-09-spitfire-kentish-ale.md"
+title: "Spitfire Kentish ale"
 category: beer
 score: 5
 beer-date: "2013-04-27"

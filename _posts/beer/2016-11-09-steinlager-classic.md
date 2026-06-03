@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-steinlager-classic.md
-title: Steinlager classic
+filename: "_posts/beer/2016-11-09-steinlager-classic.md"
+title: "Steinlager classic"
 category: beer
 score: 5.5
 beer-date: "2022-09-21"

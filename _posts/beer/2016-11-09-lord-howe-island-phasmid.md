@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lord-howe-island-phasmid.md
-title: Lord Howe island phasmid
+filename: "_posts/beer/2016-11-09-lord-howe-island-phasmid.md"
+title: "Lord Howe island phasmid"
 category: beer
 score: 6.5
 beer-date: "2020-09-26"

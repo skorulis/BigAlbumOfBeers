@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-love-dale-lager.md
-title: Love Dale Lager
+filename: "_posts/beer/2016-11-09-love-dale-lager.md"
+title: "Love Dale Lager"
 category: beer
 score: 6
 beer-date: "2015-02-27"

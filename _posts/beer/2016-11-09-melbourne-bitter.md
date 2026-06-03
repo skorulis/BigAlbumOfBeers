@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-melbourne-bitter.md
-title: Melbourne bitter
+filename: "_posts/beer/2016-11-09-melbourne-bitter.md"
+title: "Melbourne bitter"
 category: beer
 score: 4
 beer-date: "2015-05-01"

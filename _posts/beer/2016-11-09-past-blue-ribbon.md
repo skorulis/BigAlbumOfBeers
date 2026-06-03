@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-past-blue-ribbon.md
-title: Past Blue Ribbon
+filename: "_posts/beer/2016-11-09-past-blue-ribbon.md"
+title: "Past Blue Ribbon"
 category: beer
 score: 5
 beer-date: "2015-02-27"

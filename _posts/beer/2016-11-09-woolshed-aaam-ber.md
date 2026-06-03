@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-woolshed-aaam-ber.md
-title: Woolshed AAAM BER
+filename: "_posts/beer/2016-11-09-woolshed-aaam-ber.md"
+title: "Woolshed AAAM BER"
 category: beer
 score: 7
 beer-date: "2023-03-31"

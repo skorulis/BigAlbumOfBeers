@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-thunder-road-exotica-4.md
-title: Thunder road exotica 4
+filename: "_posts/beer/2016-11-09-thunder-road-exotica-4.md"
+title: "Thunder road exotica 4"
 category: beer
 score: 5.5
 beer-date: "2020-12-25"

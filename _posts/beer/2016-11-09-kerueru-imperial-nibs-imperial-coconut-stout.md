@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kerueru-imperial-nibs-imperial-coconut-stout.md
-title: Kerueru imperial nibs imperial coconut stout
+filename: "_posts/beer/2016-11-09-kerueru-imperial-nibs-imperial-coconut-stout.md"
+title: "Kerueru imperial nibs imperial coconut stout"
 category: beer
 score: 9
 beer-date: "2018-03-13"

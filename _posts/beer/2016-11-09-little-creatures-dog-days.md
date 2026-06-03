@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-creatures-dog-days.md
-title: Little creatures dog days
+filename: "_posts/beer/2016-11-09-little-creatures-dog-days.md"
+title: "Little creatures dog days"
 category: beer
 score: 7
 beer-date: "2016-02-14"

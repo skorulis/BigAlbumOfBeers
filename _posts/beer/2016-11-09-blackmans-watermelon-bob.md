@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackmans-watermelon-bob.md
-title: Blackmans watermelon Bob
+filename: "_posts/beer/2016-11-09-blackmans-watermelon-bob.md"
+title: "Blackmans watermelon Bob"
 category: beer
 score: 3.5
 beer-date: "2023-03-31"

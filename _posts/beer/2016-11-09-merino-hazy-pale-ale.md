@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-merino-hazy-pale-ale.md
-title: Merino Hazy Pale Ale
+filename: "_posts/beer/2016-11-09-merino-hazy-pale-ale.md"
+title: "Merino Hazy Pale Ale"
 category: beer
 score: 6.5
 beer-date: "2025-11-10"

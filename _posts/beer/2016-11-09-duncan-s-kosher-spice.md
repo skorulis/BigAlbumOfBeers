@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-duncan-s-kosher-spice.md
-title: Duncan’s kosher & spice
+filename: "_posts/beer/2016-11-09-duncan-s-kosher-spice.md"
+title: "Duncan’s kosher & spice"
 category: beer
 score: 5
 beer-date: "2023-02-26"

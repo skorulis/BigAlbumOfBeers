@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-russian-imperial-stout.md
-title: Bracket Russian imperial stout
+filename: "_posts/beer/2016-11-09-bracket-russian-imperial-stout.md"
+title: "Bracket Russian imperial stout"
 category: beer
 score: 9
 beer-date: "2021-11-12"

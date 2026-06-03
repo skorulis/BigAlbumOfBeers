@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-sourade-blue-blast-berry-gose.md
-title: Wayward sourade blue blast berry gose
+filename: "_posts/beer/2016-11-09-wayward-sourade-blue-blast-berry-gose.md"
+title: "Wayward sourade blue blast berry gose"
 category: beer
 score: 6.5
 beer-date: "2021-11-12"

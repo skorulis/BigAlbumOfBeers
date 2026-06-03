@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sealegs-hazy-holidays.md
-title: Sealegs Hazy Holidays
+filename: "_posts/beer/2016-11-09-sealegs-hazy-holidays.md"
+title: "Sealegs Hazy Holidays"
 category: beer
 score: 7
 beer-date: "2025-12-28"

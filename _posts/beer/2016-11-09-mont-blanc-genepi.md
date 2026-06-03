@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mont-blanc-genepi.md
-title: Mont Blanc Génépi
+filename: "_posts/beer/2016-11-09-mont-blanc-genepi.md"
+title: "Mont Blanc Génépi"
 category: beer
 score: 7
 beer-date: "2016-04-21"

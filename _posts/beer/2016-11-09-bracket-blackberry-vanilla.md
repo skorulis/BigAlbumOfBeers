@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-blackberry-vanilla.md
-title: Bracket blackberry & Vanilla
+filename: "_posts/beer/2016-11-09-bracket-blackberry-vanilla.md"
+title: "Bracket blackberry & Vanilla"
 category: beer
 score: 9
 beer-date: "2021-11-12"

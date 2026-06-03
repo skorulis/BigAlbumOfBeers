@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-mango-milkshake-ipa.md
-title: Mountain culture mango milkshake IPA
+filename: "_posts/beer/2016-11-09-mountain-culture-mango-milkshake-ipa.md"
+title: "Mountain culture mango milkshake IPA"
 category: beer
 score: 6
 beer-date: "2023-02-26"

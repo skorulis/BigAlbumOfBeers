@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stockade-hop-splicer-xpa.md
-title: Stockade Hop splicer XPA
+filename: "_posts/beer/2016-11-09-stockade-hop-splicer-xpa.md"
+title: "Stockade Hop splicer XPA"
 category: beer
 score: 8.5
 beer-date: "2018-01-13"

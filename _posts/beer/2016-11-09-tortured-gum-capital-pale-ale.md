@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tortured-gum-capital-pale-ale.md
-title: Tortured gum capital pale ale
+filename: "_posts/beer/2016-11-09-tortured-gum-capital-pale-ale.md"
+title: "Tortured gum capital pale ale"
 category: beer
 score: 6
 beer-date: "2016-02-14"

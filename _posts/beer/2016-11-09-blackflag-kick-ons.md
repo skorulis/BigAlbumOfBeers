@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackflag-kick-ons.md
-title: Blackflag kick ons
+filename: "_posts/beer/2016-11-09-blackflag-kick-ons.md"
+title: "Blackflag kick ons"
 category: beer
 score: 8
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-seven-mile-24-karat-blinged-koelsch.md
-title: Seven Mile 24 Karat Blinged Kölsch
+filename: "_posts/beer/2016-11-09-seven-mile-24-karat-blinged-koelsch.md"
+title: "Seven Mile 24 Karat Blinged Kölsch"
 category: beer
 score: 7.5
 beer-date: "2024-12-28"

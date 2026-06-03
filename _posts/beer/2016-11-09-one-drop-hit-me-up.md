@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-hit-me-up.md
-title: One drop hit me up
+filename: "_posts/beer/2016-11-09-one-drop-hit-me-up.md"
+title: "One drop hit me up"
 category: beer
 score: 8
 beer-date: "2023-08-26"

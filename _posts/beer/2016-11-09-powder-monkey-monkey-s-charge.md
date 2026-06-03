@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-powder-monkey-monkey-s-charge.md
-title: Powder monkey monkey’s charge
+filename: "_posts/beer/2016-11-09-powder-monkey-monkey-s-charge.md"
+title: "Powder monkey monkey’s charge"
 category: beer
 score: 4.5
 beer-date: "2024-03-29"

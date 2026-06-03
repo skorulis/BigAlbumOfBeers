@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-xxxx-bitter.md
-title: XXXX bitter
+filename: "_posts/beer/2016-11-09-xxxx-bitter.md"
+title: "XXXX bitter"
 category: beer
 score: 3
 beer-date: "2015-10-17"

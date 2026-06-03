@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-fool-me-again.md
-title: Garage project fool me again
+filename: "_posts/beer/2016-11-09-garage-project-fool-me-again.md"
+title: "Garage project fool me again"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

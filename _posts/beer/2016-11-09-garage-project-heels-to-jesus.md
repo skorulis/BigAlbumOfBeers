@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-heels-to-jesus.md
-title: Garage project heels to Jesus
+filename: "_posts/beer/2016-11-09-garage-project-heels-to-jesus.md"
+title: "Garage project heels to Jesus"
 category: beer
 score: 7
 beer-date: "2019-07-14"

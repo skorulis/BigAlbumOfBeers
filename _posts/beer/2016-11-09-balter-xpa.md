@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-balter-xpa.md
-title: Balter XPA
+filename: "_posts/beer/2016-11-09-balter-xpa.md"
+title: "Balter XPA"
 category: beer
 score: 8
 beer-date: "2017-03-03"

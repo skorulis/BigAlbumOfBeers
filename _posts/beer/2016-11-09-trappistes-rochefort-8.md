@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-trappistes-rochefort-8.md
-title: Trappistes rochefort 8
+filename: "_posts/beer/2016-11-09-trappistes-rochefort-8.md"
+title: "Trappistes rochefort 8"
 category: beer
 score: 8
 beer-date: "2017-10-28"

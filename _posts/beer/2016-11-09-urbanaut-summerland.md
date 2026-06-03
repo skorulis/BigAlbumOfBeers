@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-urbanaut-summerland.md
-title: Urbanaut summerland
+filename: "_posts/beer/2016-11-09-urbanaut-summerland.md"
+title: "Urbanaut summerland"
 category: beer
 score: 5.5
 beer-date: "2020-07-31"

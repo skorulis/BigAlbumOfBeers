@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-eudaimonia.md
-title: Mountain culture eudaimonia
+filename: "_posts/beer/2016-11-09-mountain-culture-eudaimonia.md"
+title: "Mountain culture eudaimonia"
 category: beer
 score: 7.5
 beer-date: "2020-09-26"

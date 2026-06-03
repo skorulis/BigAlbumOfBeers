@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deschutes-fresh-squeezed-ipa.md
-title: Deschutes fresh squeezed IPA
+filename: "_posts/beer/2016-11-09-deschutes-fresh-squeezed-ipa.md"
+title: "Deschutes fresh squeezed IPA"
 category: beer
 score: 8
 beer-date: "2016-04-21"

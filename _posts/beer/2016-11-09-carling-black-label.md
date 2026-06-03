@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-carling-black-label.md
-title: Carling black label
+filename: "_posts/beer/2016-11-09-carling-black-label.md"
+title: "Carling black label"
 category: beer
 score: 5.5
 beer-date: "2017-03-22"

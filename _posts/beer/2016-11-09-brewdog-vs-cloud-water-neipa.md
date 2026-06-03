@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewdog-vs-cloud-water-neipa.md
-title: Brewdog vs cloud water NEIPA
+filename: "_posts/beer/2016-11-09-brewdog-vs-cloud-water-neipa.md"
+title: "Brewdog vs cloud water NEIPA"
 category: beer
 score: 8
 beer-date: "2021-11-12"

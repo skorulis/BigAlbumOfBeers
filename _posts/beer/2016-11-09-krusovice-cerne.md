@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-krusovice-cerne.md
-title: Krusovice cerne
+filename: "_posts/beer/2016-11-09-krusovice-cerne.md"
+title: "Krusovice cerne"
 category: beer
 score: 8
 beer-date: "2013-03-09"

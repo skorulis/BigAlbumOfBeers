@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-marsden-hills-ipa.md
-title: Marsden hills IPA
+filename: "_posts/beer/2016-11-09-marsden-hills-ipa.md"
+title: "Marsden hills IPA"
 category: beer
 score: 3.5
 beer-date: "2024-11-09"

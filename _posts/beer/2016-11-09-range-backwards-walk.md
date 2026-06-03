@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-backwards-walk.md
-title: Range Backwards Walk
+filename: "_posts/beer/2016-11-09-range-backwards-walk.md"
+title: "Range Backwards Walk"
 category: beer
 score: 9
 beer-date: "2024-12-28"

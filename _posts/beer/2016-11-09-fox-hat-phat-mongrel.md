@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fox-hat-phat-mongrel.md
-title: Fox hat phat mongrel
+filename: "_posts/beer/2016-11-09-fox-hat-phat-mongrel.md"
+title: "Fox hat phat mongrel"
 category: beer
 score: 8.5
 beer-date: "2017-01-21"

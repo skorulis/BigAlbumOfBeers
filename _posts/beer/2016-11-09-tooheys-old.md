@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tooheys-old.md
-title: Tooheys old
+filename: "_posts/beer/2016-11-09-tooheys-old.md"
+title: "Tooheys old"
 category: beer
 score: 4
 beer-date: "2013-03-09"

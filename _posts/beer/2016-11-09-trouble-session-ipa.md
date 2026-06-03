@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-trouble-session-ipa.md
-title: Trouble session IPA
+filename: "_posts/beer/2016-11-09-trouble-session-ipa.md"
+title: "Trouble session IPA"
 category: beer
 score: 7.5
 beer-date: "2023-09-06"

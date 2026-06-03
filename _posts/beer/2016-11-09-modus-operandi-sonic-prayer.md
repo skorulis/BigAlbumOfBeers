@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-modus-operandi-sonic-prayer.md
-title: Modus operandi sonic prayer
+filename: "_posts/beer/2016-11-09-modus-operandi-sonic-prayer.md"
+title: "Modus operandi sonic prayer"
 category: beer
 score: 8.5
 beer-date: "2017-01-30"

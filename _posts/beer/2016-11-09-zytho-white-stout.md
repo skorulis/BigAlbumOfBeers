@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-zytho-white-stout.md
-title: Zytho white stout
+filename: "_posts/beer/2016-11-09-zytho-white-stout.md"
+title: "Zytho white stout"
 category: beer
 score: 8
 beer-date: "2020-12-25"

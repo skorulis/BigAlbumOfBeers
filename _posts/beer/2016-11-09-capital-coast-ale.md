@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-capital-coast-ale.md
-title: Capital coast ale
+filename: "_posts/beer/2016-11-09-capital-coast-ale.md"
+title: "Capital coast ale"
 category: beer
 score: 6.5
 beer-date: "2018-12-27"

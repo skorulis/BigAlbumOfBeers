@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-modus-koko-black.md
-title: Modus Koko black
+filename: "_posts/beer/2016-11-09-modus-koko-black.md"
+title: "Modus Koko black"
 category: beer
 score: 5.5
 beer-date: "2021-11-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rehn-smokey-ipa.md
-title: Rehn Smokey IPA
+filename: "_posts/beer/2016-11-09-rehn-smokey-ipa.md"
+title: "Rehn Smokey IPA"
 category: beer
 score: 6
 beer-date: "2018-06-02"

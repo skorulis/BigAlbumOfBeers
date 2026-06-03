@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-long-trip-saison.md
-title: Nomad long trip Saison
+filename: "_posts/beer/2016-11-09-nomad-long-trip-saison.md"
+title: "Nomad long trip Saison"
 category: beer
 score: 8
 beer-date: "2015-02-27"

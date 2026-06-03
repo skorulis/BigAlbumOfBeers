@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-village-days-oatmeal-stout.md
-title: Village days oatmeal stout
+filename: "_posts/beer/2016-11-09-village-days-oatmeal-stout.md"
+title: "Village days oatmeal stout"
 category: beer
 score: 6.5
 beer-date: "2024-03-29"

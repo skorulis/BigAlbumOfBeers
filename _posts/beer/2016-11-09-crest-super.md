@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-crest-super.md
-title: Crest Super
+filename: "_posts/beer/2016-11-09-crest-super.md"
+title: "Crest Super"
 category: beer
 score: 2
 beer-date: "2013-04-27"

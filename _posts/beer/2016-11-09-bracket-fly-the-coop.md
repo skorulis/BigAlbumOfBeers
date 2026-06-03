@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-fly-the-coop.md
-title: Bracket fly the coop
+filename: "_posts/beer/2016-11-09-bracket-fly-the-coop.md"
+title: "Bracket fly the coop"
 category: beer
 score: 8.5
 beer-date: "2023-03-31"

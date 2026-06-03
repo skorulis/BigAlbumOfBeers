@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-john-boston-golden-ale.md
-title: John Boston Golden ale
+filename: "_posts/beer/2016-11-09-john-boston-golden-ale.md"
+title: "John Boston Golden ale"
 category: beer
 score: 6
 beer-date: "2015-01-29"

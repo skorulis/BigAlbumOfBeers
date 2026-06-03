@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-copycat-a-i-p-a.md
-title: Copycat A.I.P.A
+filename: "_posts/beer/2016-11-09-copycat-a-i-p-a.md"
+title: "Copycat A.I.P.A"
 category: beer
 score: 7
 beer-date: "2015-02-27"

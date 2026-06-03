@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bulla-creek-hazy-pale.md
-title: Bulla creek hazy pale
+filename: "_posts/beer/2016-11-09-bulla-creek-hazy-pale.md"
+title: "Bulla creek hazy pale"
 category: beer
 score: 7
 beer-date: "2024-03-29"

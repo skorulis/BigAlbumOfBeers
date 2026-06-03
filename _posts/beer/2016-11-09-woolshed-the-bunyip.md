@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-woolshed-the-bunyip.md
-title: Woolshed the bunyip
+filename: "_posts/beer/2016-11-09-woolshed-the-bunyip.md"
+title: "Woolshed the bunyip"
 category: beer
 score: 6.5
 beer-date: "2023-08-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-everyday-ale.md
-title: Wayward everyday ale
+filename: "_posts/beer/2016-11-09-wayward-everyday-ale.md"
+title: "Wayward everyday ale"
 category: beer
 score: 7.5
 beer-date: "2019-11-22"

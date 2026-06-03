@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackmans-juicy-banger.md
-title: Blackmans juicy banger
+filename: "_posts/beer/2016-11-09-blackmans-juicy-banger.md"
+title: "Blackmans juicy banger"
 category: beer
 score: 8
 beer-date: "2018-06-02"

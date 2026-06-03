@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wolf-of-the-willows-ipa.md
-title: Wolf Of The Willows IPA
+filename: "_posts/beer/2016-11-09-wolf-of-the-willows-ipa.md"
+title: "Wolf Of The Willows IPA"
 category: beer
 score: 7
 beer-date: "2025-02-15"

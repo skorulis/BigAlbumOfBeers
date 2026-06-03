@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cesu-premium.md
-title: Cesu premium
+filename: "_posts/beer/2016-11-09-cesu-premium.md"
+title: "Cesu premium"
 category: beer
 score: 5
 beer-date: "2013-09-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-philter-saison.md
-title: Philter saison
+filename: "_posts/beer/2016-11-09-philter-saison.md"
+title: "Philter saison"
 category: beer
 score: 8
 beer-date: "2021-06-05"

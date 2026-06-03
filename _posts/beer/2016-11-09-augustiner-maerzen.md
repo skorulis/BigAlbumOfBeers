@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-augustiner-maerzen.md
-title: Augustiner märzen
+filename: "_posts/beer/2016-11-09-augustiner-maerzen.md"
+title: "Augustiner märzen"
 category: beer
 score: 8.5
 beer-date: "2017-07-12"

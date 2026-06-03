@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bojak-the-milk-man.md
-title: Bojak the milk man
+filename: "_posts/beer/2016-11-09-bojak-the-milk-man.md"
+title: "Bojak the milk man"
 category: beer
 score: 6
 beer-date: "2021-12-28"

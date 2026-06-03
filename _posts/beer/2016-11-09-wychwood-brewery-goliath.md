@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wychwood-brewery-goliath.md
-title: Wychwood brewery Goliath
+filename: "_posts/beer/2016-11-09-wychwood-brewery-goliath.md"
+title: "Wychwood brewery Goliath"
 category: beer
 score: 6
 beer-date: "2013-04-27"

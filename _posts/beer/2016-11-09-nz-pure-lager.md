@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nz-pure-lager.md
-title: NZ pure lager
+filename: "_posts/beer/2016-11-09-nz-pure-lager.md"
+title: "NZ pure lager"
 category: beer
 score: 4
 beer-date: "2013-03-28"

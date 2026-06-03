@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-aro-noir.md
-title: Garage project aro noir
+filename: "_posts/beer/2016-11-09-garage-project-aro-noir.md"
+title: "Garage project aro noir"
 category: beer
 score: 6.5
 beer-date: "2022-09-21"

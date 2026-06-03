@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-electric-relaxation.md
-title: Range electric relaxation
+filename: "_posts/beer/2016-11-09-range-electric-relaxation.md"
+title: "Range electric relaxation"
 category: beer
 score: 8
 beer-date: "2023-02-26"

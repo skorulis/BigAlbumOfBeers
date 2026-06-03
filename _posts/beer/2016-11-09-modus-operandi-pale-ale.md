@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-modus-operandi-pale-ale.md
-title: Modus operandi pale ale
+filename: "_posts/beer/2016-11-09-modus-operandi-pale-ale.md"
+title: "Modus operandi pale ale"
 category: beer
 score: 8
 beer-date: "2017-04-11"

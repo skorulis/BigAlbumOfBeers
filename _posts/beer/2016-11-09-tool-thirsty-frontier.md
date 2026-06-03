@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tool-thirsty-frontier.md
-title: Toøl thirsty frontier
+filename: "_posts/beer/2016-11-09-tool-thirsty-frontier.md"
+title: "Toøl thirsty frontier"
 category: beer
 score: 5.5
 beer-date: "2018-06-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-golden-road-mango-cart.md
-title: Golden Road Mango Cart
+filename: "_posts/beer/2016-11-09-golden-road-mango-cart.md"
+title: "Golden Road Mango Cart"
 category: beer
 score: 7
 beer-date: "2025-09-26"

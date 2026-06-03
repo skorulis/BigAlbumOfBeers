@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-caribbean-fog.md
-title: Sauce Caribbean fog
+filename: "_posts/beer/2016-11-09-sauce-caribbean-fog.md"
+title: "Sauce Caribbean fog"
 category: beer
 score: 8
 beer-date: "2021-04-02"

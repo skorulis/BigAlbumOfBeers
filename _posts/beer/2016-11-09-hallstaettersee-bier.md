@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hallstaettersee-bier.md
-title: Hallstättersee bier
+filename: "_posts/beer/2016-11-09-hallstaettersee-bier.md"
+title: "Hallstättersee bier"
 category: beer
 score: 5
 beer-date: "2017-06-15"

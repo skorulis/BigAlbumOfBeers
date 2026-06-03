@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-old-empire.md
-title: Old empire
+filename: "_posts/beer/2016-11-09-old-empire.md"
+title: "Old empire"
 category: beer
 score: 4
 beer-date: "2012-12-01"

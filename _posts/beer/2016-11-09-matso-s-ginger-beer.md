@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-matso-s-ginger-beer.md
-title: Matso’s ginger beer
+filename: "_posts/beer/2016-11-09-matso-s-ginger-beer.md"
+title: "Matso’s ginger beer"
 category: beer
 score: 6
 beer-date: "2014-06-21"

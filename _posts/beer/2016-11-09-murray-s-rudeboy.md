@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-murray-s-rudeboy.md
-title: Murray’s rudeboy
+filename: "_posts/beer/2016-11-09-murray-s-rudeboy.md"
+title: "Murray’s rudeboy"
 category: beer
 score: 5
 beer-date: "2014-03-18"

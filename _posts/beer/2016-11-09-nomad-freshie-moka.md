@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-freshie-moka.md
-title: Nomad freshie Moka
+filename: "_posts/beer/2016-11-09-nomad-freshie-moka.md"
+title: "Nomad freshie Moka"
 category: beer
 score: 7
 beer-date: "2017-10-28"

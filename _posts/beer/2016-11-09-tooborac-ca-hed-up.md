@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tooborac-ca-hed-up.md
-title: Tooborac ca$hed up
+filename: "_posts/beer/2016-11-09-tooborac-ca-hed-up.md"
+title: "Tooborac ca$hed up"
 category: beer
 score: 6
 beer-date: "2023-02-28"

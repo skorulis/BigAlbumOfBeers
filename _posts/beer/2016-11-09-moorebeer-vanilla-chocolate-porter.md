@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moorebeer-vanilla-chocolate-porter.md
-title: Moorebeer vanilla chocolate porter
+filename: "_posts/beer/2016-11-09-moorebeer-vanilla-chocolate-porter.md"
+title: "Moorebeer vanilla chocolate porter"
 category: beer
 score: 6.5
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-golden-beams.md
-title: Batch golden beams
+filename: "_posts/beer/2016-11-09-batch-golden-beams.md"
+title: "Batch golden beams"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

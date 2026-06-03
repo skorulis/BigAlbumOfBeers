@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pickled-monkey-mid-lager.md
-title: Pickled Monkey Mid Lager
+filename: "_posts/beer/2016-11-09-pickled-monkey-mid-lager.md"
+title: "Pickled Monkey Mid Lager"
 category: beer
 score: 7
 beer-date: "2026-03-27"

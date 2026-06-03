@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-and-wood-the-gatherer.md
-title: Stone and wood The gatherer
+filename: "_posts/beer/2016-11-09-stone-and-wood-the-gatherer.md"
+title: "Stone and wood The gatherer"
 category: beer
 score: 6
 beer-date: "2020-11-13"

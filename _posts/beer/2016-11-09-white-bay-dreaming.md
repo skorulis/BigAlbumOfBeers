@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-dreaming.md
-title: White bay dreaming
+filename: "_posts/beer/2016-11-09-white-bay-dreaming.md"
+title: "White bay dreaming"
 category: beer
 score: 7
 beer-date: "2020-12-25"

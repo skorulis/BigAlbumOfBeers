@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bingo-wings.md
-title: Bingo wings
+filename: "_posts/beer/2016-11-09-bingo-wings.md"
+title: "Bingo wings"
 category: beer
 score: 7
 beer-date: "2014-05-03"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bloke-lager.md
-title: Bloke lager
+filename: "_posts/beer/2016-11-09-bloke-lager.md"
+title: "Bloke lager"
 category: beer
 score: 5.5
 beer-date: "2020-12-25"

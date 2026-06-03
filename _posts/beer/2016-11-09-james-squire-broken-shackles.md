@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-broken-shackles.md
-title: James squire broken shackles
+filename: "_posts/beer/2016-11-09-james-squire-broken-shackles.md"
+title: "James squire broken shackles"
 category: beer
 score: 3.5
 beer-date: "2020-07-31"

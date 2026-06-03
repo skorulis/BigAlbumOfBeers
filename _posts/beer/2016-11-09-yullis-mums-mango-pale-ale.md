@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yullis-mums-mango-pale-ale.md
-title: Yullis mums mango pale ale
+filename: "_posts/beer/2016-11-09-yullis-mums-mango-pale-ale.md"
+title: "Yullis mums mango pale ale"
 category: beer
 score: 6
 beer-date: "2018-03-13"

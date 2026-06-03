@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-vratislav.md
-title: Vratislav
+filename: "_posts/beer/2016-11-09-vratislav.md"
+title: "Vratislav"
 category: beer
 score: 4
 beer-date: "2013-04-27"

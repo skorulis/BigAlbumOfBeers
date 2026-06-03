@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-liquid-riwaka.md
-title: One Drop Liquid Riwaka
+filename: "_posts/beer/2016-11-09-one-drop-liquid-riwaka.md"
+title: "One Drop Liquid Riwaka"
 category: beer
 score: 8.5
 beer-date: "2026-03-27"

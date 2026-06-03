@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bentspoke-keep-it-simple.md
-title: Bentspoke keep it simple
+filename: "_posts/beer/2016-11-09-bentspoke-keep-it-simple.md"
+title: "Bentspoke keep it simple"
 category: beer
 score: 9
 beer-date: "2023-02-26"

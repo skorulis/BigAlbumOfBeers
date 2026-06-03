@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yullis-gilbert-pinot-grigio-wile-ale.md
-title: Yullis Gilbert Pinot Grigio wile ale
+filename: "_posts/beer/2016-11-09-yullis-gilbert-pinot-grigio-wile-ale.md"
+title: "Yullis Gilbert Pinot Grigio wile ale"
 category: beer
 score: 8
 beer-date: "2017-10-28"

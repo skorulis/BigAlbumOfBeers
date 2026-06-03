@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-otherside-harvest-red-ale.md
-title: Otherside harvest red ale
+filename: "_posts/beer/2016-11-09-otherside-harvest-red-ale.md"
+title: "Otherside harvest red ale"
 category: beer
 score: 7
 beer-date: "2020-11-13"

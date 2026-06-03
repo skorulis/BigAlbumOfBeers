@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-devilbend-hoppy-farmhouse-estate-ale.md
-title: Devilbend Hoppy Farmhouse Estate Ale
+filename: "_posts/beer/2016-11-09-devilbend-hoppy-farmhouse-estate-ale.md"
+title: "Devilbend Hoppy Farmhouse Estate Ale"
 category: beer
 score: 6.5
 beer-date: "2025-12-28"

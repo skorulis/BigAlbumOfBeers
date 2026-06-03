@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-working-title-milk-money.md
-title: Working Title Milk Money
+filename: "_posts/beer/2016-11-09-working-title-milk-money.md"
+title: "Working Title Milk Money"
 category: beer
 score: 9
 beer-date: "2025-02-15"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fox-friday-cool-runnings.md
-title: Fox Friday cool runnings
+filename: "_posts/beer/2016-11-09-fox-friday-cool-runnings.md"
+title: "Fox Friday cool runnings"
 category: beer
 score: 7
 beer-date: "2023-08-26"

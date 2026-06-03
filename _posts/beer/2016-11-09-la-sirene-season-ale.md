@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-la-sirene-season-ale.md
-title: La sirène season ale
+filename: "_posts/beer/2016-11-09-la-sirene-season-ale.md"
+title: "La sirène season ale"
 category: beer
 score: 8
 beer-date: "2019-11-22"

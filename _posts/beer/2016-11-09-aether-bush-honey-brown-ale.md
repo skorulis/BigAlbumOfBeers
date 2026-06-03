@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-aether-bush-honey-brown-ale.md
-title: Aether Bush Honey Brown Ale
+filename: "_posts/beer/2016-11-09-aether-bush-honey-brown-ale.md"
+title: "Aether Bush Honey Brown Ale"
 category: beer
 score: 7
 beer-date: "2024-12-28"

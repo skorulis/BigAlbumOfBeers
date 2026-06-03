@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deep-creek-pontoon-in-a-monsoon-ipa.md
-title: Deep creek pontoon in a monsoon IPA
+filename: "_posts/beer/2016-11-09-deep-creek-pontoon-in-a-monsoon-ipa.md"
+title: "Deep creek pontoon in a monsoon IPA"
 category: beer
 score: 8
 beer-date: "2017-08-21"

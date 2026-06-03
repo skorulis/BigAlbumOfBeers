@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wooden-axe-grinch-juice.md
-title: Wooden Axe Grinch Juice
+filename: "_posts/beer/2016-11-09-wooden-axe-grinch-juice.md"
+title: "Wooden Axe Grinch Juice"
 category: beer
 score: 7.5
 beer-date: "2025-12-28"

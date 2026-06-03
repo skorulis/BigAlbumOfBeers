@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-chuck-and-son-s-american-amber.md
-title: Chuck and son’s American amber
+filename: "_posts/beer/2016-11-09-chuck-and-son-s-american-amber.md"
+title: "Chuck and son’s American amber"
 category: beer
 score: 6.5
 beer-date: "2024-11-09"

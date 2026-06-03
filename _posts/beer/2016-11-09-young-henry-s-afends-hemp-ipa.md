@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-afends-hemp-ipa.md
-title: Young Henry’s afends hemp IPA
+filename: "_posts/beer/2016-11-09-young-henry-s-afends-hemp-ipa.md"
+title: "Young Henry’s afends hemp IPA"
 category: beer
 score: 4.5
 beer-date: "2018-12-27"

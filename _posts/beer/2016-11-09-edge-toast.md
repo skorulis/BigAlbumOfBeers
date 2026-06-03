@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-edge-toast.md
-title: Edge toast
+filename: "_posts/beer/2016-11-09-edge-toast.md"
+title: "Edge toast"
 category: beer
 score: 8
 beer-date: "2018-12-27"

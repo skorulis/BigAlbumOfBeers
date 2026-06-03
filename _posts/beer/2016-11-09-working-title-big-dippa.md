@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-working-title-big-dippa.md
-title: Working title big dippa
+filename: "_posts/beer/2016-11-09-working-title-big-dippa.md"
+title: "Working title big dippa"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

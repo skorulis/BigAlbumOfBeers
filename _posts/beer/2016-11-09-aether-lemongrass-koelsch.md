@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-aether-lemongrass-koelsch.md
-title: Aether lemongrass kölsch
+filename: "_posts/beer/2016-11-09-aether-lemongrass-koelsch.md"
+title: "Aether lemongrass kölsch"
 category: beer
 score: 4
 beer-date: "2024-03-29"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-molly-rose-double-take.md
-title: Molly Rose Double Take
+filename: "_posts/beer/2016-11-09-molly-rose-double-take.md"
+title: "Molly Rose Double Take"
 category: beer
 score: 6
 beer-date: "2025-12-28"

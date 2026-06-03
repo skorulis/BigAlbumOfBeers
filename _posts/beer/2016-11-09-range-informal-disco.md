@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-informal-disco.md
-title: Range informal disco
+filename: "_posts/beer/2016-11-09-range-informal-disco.md"
+title: "Range informal disco"
 category: beer
 score: 8
 beer-date: "2021-01-31"

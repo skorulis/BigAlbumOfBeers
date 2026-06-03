@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-unfazed-by-the-haze.md
-title: Pirate life unfazed by the haze
+filename: "_posts/beer/2016-11-09-pirate-life-unfazed-by-the-haze.md"
+title: "Pirate life unfazed by the haze"
 category: beer
 score: 6.5
 beer-date: "2018-06-02"

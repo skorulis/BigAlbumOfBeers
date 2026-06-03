@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-grand-cru.md
-title: Bracket grand cru
+filename: "_posts/beer/2016-11-09-bracket-grand-cru.md"
+title: "Bracket grand cru"
 category: beer
 score: 7
 beer-date: "2024-03-29"

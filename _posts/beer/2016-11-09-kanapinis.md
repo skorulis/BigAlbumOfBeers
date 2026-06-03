@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kanapinis.md
-title: Kanapinis
+filename: "_posts/beer/2016-11-09-kanapinis.md"
+title: "Kanapinis"
 category: beer
 score: 7
 beer-date: "2013-08-18"

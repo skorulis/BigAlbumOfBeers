@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-roads-fat-man-red-suit-fat-sack.md
-title: Bridge roads fat man red suit fat sack
+filename: "_posts/beer/2016-11-09-bridge-roads-fat-man-red-suit-fat-sack.md"
+title: "Bridge roads fat man red suit fat sack"
 category: beer
 score: 7
 beer-date: "2020-12-25"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewdog-cocoa-psycho.md
-title: Brewdog Cocoa Psycho
+filename: "_posts/beer/2016-11-09-brewdog-cocoa-psycho.md"
+title: "Brewdog Cocoa Psycho"
 category: beer
 score: 6
 beer-date: "2013-09-19"

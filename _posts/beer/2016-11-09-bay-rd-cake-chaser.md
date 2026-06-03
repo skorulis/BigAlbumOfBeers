@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bay-rd-cake-chaser.md
-title: Bay rd cake chaser
+filename: "_posts/beer/2016-11-09-bay-rd-cake-chaser.md"
+title: "Bay rd cake chaser"
 category: beer
 score: 8
 beer-date: "2020-09-26"

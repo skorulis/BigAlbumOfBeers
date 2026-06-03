@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-remmarloev-migla.md
-title: Remmarlöv migla
+filename: "_posts/beer/2016-11-09-remmarloev-migla.md"
+title: "Remmarlöv migla"
 category: beer
 score: 9
 beer-date: "2023-10-02"

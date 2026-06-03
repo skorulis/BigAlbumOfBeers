@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-fuck-yeah-2021.md
-title: Garage project fuck yeah 2021
+filename: "_posts/beer/2016-11-09-garage-project-fuck-yeah-2021.md"
+title: "Garage project fuck yeah 2021"
 category: beer
 score: 8.5
 beer-date: "2021-01-31"

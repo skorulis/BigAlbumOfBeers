@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerfarm-pineapple-sour.md
-title: Beerfarm pineapple sour
+filename: "_posts/beer/2016-11-09-beerfarm-pineapple-sour.md"
+title: "Beerfarm pineapple sour"
 category: beer
 score: 7.5
 beer-date: "2018-06-02"

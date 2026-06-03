@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wiltshire-rum-beer.md
-title: Wiltshire rum beer
+filename: "_posts/beer/2016-11-09-wiltshire-rum-beer.md"
+title: "Wiltshire rum beer"
 category: beer
 score: 5
 beer-date: "2013-04-27"

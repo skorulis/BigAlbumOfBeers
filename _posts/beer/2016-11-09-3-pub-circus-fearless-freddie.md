@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-3-pub-circus-fearless-freddie.md
-title: 3 pub circus fearless Freddie
+filename: "_posts/beer/2016-11-09-3-pub-circus-fearless-freddie.md"
+title: "3 pub circus fearless Freddie"
 category: beer
 score: 6
 beer-date: "2018-10-05"

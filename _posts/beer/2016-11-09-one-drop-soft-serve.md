@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-soft-serve.md
-title: One drop soft serve
+filename: "_posts/beer/2016-11-09-one-drop-soft-serve.md"
+title: "One drop soft serve"
 category: beer
 score: 3
 beer-date: "2022-08-07"

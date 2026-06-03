@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-single-hope-neipa.md
-title: Single hope neipa
+filename: "_posts/beer/2016-11-09-single-hope-neipa.md"
+title: "Single hope neipa"
 category: beer
 score: 7
 beer-date: "2021-11-12"

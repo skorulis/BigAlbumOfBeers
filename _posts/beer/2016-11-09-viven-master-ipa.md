@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-viven-master-ipa.md
-title: Viven Master IPA
+filename: "_posts/beer/2016-11-09-viven-master-ipa.md"
+title: "Viven Master IPA"
 category: beer
 score: 7.5
 beer-date: "2017-03-22"

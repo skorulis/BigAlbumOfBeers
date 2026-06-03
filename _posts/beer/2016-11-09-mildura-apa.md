@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mildura-apa.md
-title: Mildura APA
+filename: "_posts/beer/2016-11-09-mildura-apa.md"
+title: "Mildura APA"
 category: beer
 score: 3
 beer-date: "2021-06-05"

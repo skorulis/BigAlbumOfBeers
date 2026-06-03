@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sea-legs-carrot-cake-stout.md
-title: Sea legs carrot cake stout
+filename: "_posts/beer/2016-11-09-sea-legs-carrot-cake-stout.md"
+title: "Sea legs carrot cake stout"
 category: beer
 score: 7
 beer-date: "2023-02-26"

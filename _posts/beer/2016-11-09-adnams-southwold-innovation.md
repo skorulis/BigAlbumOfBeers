@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-adnams-southwold-innovation.md
-title: Adnams southwold innovation
+filename: "_posts/beer/2016-11-09-adnams-southwold-innovation.md"
+title: "Adnams southwold innovation"
 category: beer
 score: 7
 beer-date: "2013-09-01"

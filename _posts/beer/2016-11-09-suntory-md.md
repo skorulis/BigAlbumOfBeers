@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-suntory-md.md
-title: Suntory MD
+filename: "_posts/beer/2016-11-09-suntory-md.md"
+title: "Suntory MD"
 category: beer
 score: 5
 beer-date: "2014-06-21"

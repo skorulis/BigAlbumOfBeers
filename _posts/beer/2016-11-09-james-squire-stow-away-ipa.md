@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-stow-away-ipa.md
-title: James Squire Stow Away IPA
+filename: "_posts/beer/2016-11-09-james-squire-stow-away-ipa.md"
+title: "James Squire Stow Away IPA"
 category: beer
 score: 7
 beer-date: "2014-05-03"

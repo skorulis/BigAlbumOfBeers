@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slipstream-walk-the-plank.md
-title: Slipstream walk the plank
+filename: "_posts/beer/2016-11-09-slipstream-walk-the-plank.md"
+title: "Slipstream walk the plank"
 category: beer
 score: 8
 beer-date: "2023-02-26"

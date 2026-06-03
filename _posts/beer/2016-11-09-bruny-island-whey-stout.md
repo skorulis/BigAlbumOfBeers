@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bruny-island-whey-stout.md
-title: Bruny island whey stout
+filename: "_posts/beer/2016-11-09-bruny-island-whey-stout.md"
+title: "Bruny island whey stout"
 category: beer
 score: 8.5
 beer-date: "2019-04-22"

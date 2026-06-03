@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shout-cloudy-with-a-chance-of-juice.md
-title: Shout cloudy with a chance of juice
+filename: "_posts/beer/2016-11-09-shout-cloudy-with-a-chance-of-juice.md"
+title: "Shout cloudy with a chance of juice"
 category: beer
 score: 6.5
 beer-date: "2023-02-26"

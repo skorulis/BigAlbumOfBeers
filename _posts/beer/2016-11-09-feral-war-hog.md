@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-feral-war-hog.md
-title: Feral war hog
+filename: "_posts/beer/2016-11-09-feral-war-hog.md"
+title: "Feral war hog"
 category: beer
 score: 6.5
 beer-date: "2017-01-30"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deviant-dales-pale-ale.md
-title: Deviant dales pale ale
+filename: "_posts/beer/2016-11-09-deviant-dales-pale-ale.md"
+title: "Deviant dales pale ale"
 category: beer
 score: 8
 beer-date: "2013-09-19"

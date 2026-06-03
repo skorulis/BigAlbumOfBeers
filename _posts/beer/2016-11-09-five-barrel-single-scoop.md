@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-five-barrel-single-scoop.md
-title: Five Barrel Single Scoop
+filename: "_posts/beer/2016-11-09-five-barrel-single-scoop.md"
+title: "Five Barrel Single Scoop"
 category: beer
 score: 8
 beer-date: "2025-11-10"

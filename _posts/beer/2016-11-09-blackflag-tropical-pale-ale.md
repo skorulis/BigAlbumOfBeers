@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackflag-tropical-pale-ale.md
-title: Blackflag tropical pale ale
+filename: "_posts/beer/2016-11-09-blackflag-tropical-pale-ale.md"
+title: "Blackflag tropical pale ale"
 category: beer
 score: 7
 beer-date: "2021-01-01"

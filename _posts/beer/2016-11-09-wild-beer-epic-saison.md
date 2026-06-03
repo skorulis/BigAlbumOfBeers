@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wild-beer-epic-saison.md
-title: Wild beer epic saison
+filename: "_posts/beer/2016-11-09-wild-beer-epic-saison.md"
+title: "Wild beer epic saison"
 category: beer
 score: 5
 beer-date: "2013-07-19"

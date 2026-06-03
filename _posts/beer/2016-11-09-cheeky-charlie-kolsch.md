@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cheeky-charlie-kolsch.md
-title: Cheeky Charlie kolsch
+filename: "_posts/beer/2016-11-09-cheeky-charlie-kolsch.md"
+title: "Cheeky Charlie kolsch"
 category: beer
 score: 7
 beer-date: "2016-01-07"

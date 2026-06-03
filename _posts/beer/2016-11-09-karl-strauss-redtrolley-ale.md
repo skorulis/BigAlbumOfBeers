@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-karl-strauss-redtrolley-ale.md
-title: Karl Strauss Redtrolley ale
+filename: "_posts/beer/2016-11-09-karl-strauss-redtrolley-ale.md"
+title: "Karl Strauss Redtrolley ale"
 category: beer
 score: 5
 beer-date: "2014-05-03"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-standard-deviant-hefeweizen.md
-title: Standard deviant Hefeweizen
+filename: "_posts/beer/2016-11-09-standard-deviant-hefeweizen.md"
+title: "Standard deviant Hefeweizen"
 category: beer
 score: 7
 beer-date: "2024-11-09"

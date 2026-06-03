@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-alchemist-farmers-daughter.md
-title: Alchemist farmers daughter
+filename: "_posts/beer/2016-11-09-alchemist-farmers-daughter.md"
+title: "Alchemist farmers daughter"
 category: beer
 score: 8.5
 beer-date: "2024-06-15"

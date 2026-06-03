@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-canyon-superbia.md
-title: Canyon superbia
+filename: "_posts/beer/2016-11-09-canyon-superbia.md"
+title: "Canyon superbia"
 category: beer
 score: 8
 beer-date: "2022-09-21"

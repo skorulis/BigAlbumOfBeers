@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-monteith-s-doppelbock-winter-ale.md
-title: Monteith’s Doppelbock Winter ale
+filename: "_posts/beer/2016-11-09-monteith-s-doppelbock-winter-ale.md"
+title: "Monteith’s Doppelbock Winter ale"
 category: beer
 score: 6
 beer-date: "2015-01-29"
@@ -11,6 +11,6 @@ img: /img/list/monteith-s-doppelbock-winter-ale.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-doppelbock-winter-ale/15681"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "/brewery/monteith-s-brewing-co--.html"
+breweryURL: "/brewery/monteith-s-brewing-co.html"
 style: "Doppelbock "
 ---

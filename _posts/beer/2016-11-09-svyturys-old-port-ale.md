@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-svyturys-old-port-ale.md
-title: Svyturys old port ale
+filename: "_posts/beer/2016-11-09-svyturys-old-port-ale.md"
+title: "Svyturys old port ale"
 category: beer
 score: 7
 beer-date: "2014-03-01"

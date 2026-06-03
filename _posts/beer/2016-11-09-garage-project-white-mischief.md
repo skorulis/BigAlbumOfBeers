@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-white-mischief.md
-title: Garage project white mischief
+filename: "_posts/beer/2016-11-09-garage-project-white-mischief.md"
+title: "Garage project white mischief"
 category: beer
 score: 7
 beer-date: "2021-11-12"

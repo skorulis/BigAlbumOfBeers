@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-albani-giraf.md
-title: Albani giraf
+filename: "_posts/beer/2016-11-09-albani-giraf.md"
+title: "Albani giraf"
 category: beer
 score: 4
 beer-date: "2023-10-02"

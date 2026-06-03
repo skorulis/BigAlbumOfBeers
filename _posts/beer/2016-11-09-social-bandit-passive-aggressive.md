@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-social-bandit-passive-aggressive.md
-title: Social bandit passive aggressive
+filename: "_posts/beer/2016-11-09-social-bandit-passive-aggressive.md"
+title: "Social bandit passive aggressive"
 category: beer
 score: 6.5
 beer-date: "2020-11-13"
@@ -11,6 +11,6 @@ img: /img/list/social-bandit-passive-aggressive.jpeg
 untappd: "https://untappd.com/b/social-bandit-brewing-company--passive-aggressive/3552785"
 country: "Australia"
 brewery: "Social Bandit Brewing Company "
-breweryURL: "/brewery/social-bandit-brewing-company-.html"
+breweryURL: "/brewery/social-bandit-brewing-company.html"
 style: "Sour - Other"
 ---

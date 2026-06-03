@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rooster-ipa.md
-title: Rooster IPA
+filename: "_posts/beer/2016-11-09-rooster-ipa.md"
+title: "Rooster IPA"
 category: beer
 score: 8
 beer-date: "2018-02-17"
@@ -11,6 +11,6 @@ img: /img/list/rooster-ipa.jpeg
 untappd: "https://untappd.com/b/rooster-beers--rooster-ipa/2377772"
 country: "Vietnam"
 brewery: "Rooster Beers "
-breweryURL: "/brewery/rooster-beers-.html"
+breweryURL: "/brewery/rooster-beers.html"
 style: "IPA - American"
 ---

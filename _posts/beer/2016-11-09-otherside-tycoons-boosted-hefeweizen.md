@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-otherside-tycoons-boosted-hefeweizen.md
-title: Otherside tycoons boosted hefeweizen
+filename: "_posts/beer/2016-11-09-otherside-tycoons-boosted-hefeweizen.md"
+title: "Otherside tycoons boosted hefeweizen"
 category: beer
 score: 8.5
 beer-date: "2022-08-07"

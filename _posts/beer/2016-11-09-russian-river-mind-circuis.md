@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-russian-river-mind-circuis.md
-title: Russian River Mind Circuis
+filename: "_posts/beer/2016-11-09-russian-river-mind-circuis.md"
+title: "Russian River Mind Circuis"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

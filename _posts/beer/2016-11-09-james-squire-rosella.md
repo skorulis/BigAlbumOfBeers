@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-rosella.md
-title: James squire rosella
+filename: "_posts/beer/2016-11-09-james-squire-rosella.md"
+title: "James squire rosella"
 category: beer
 score: 7
 beer-date: "2022-09-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-creatures-furphy.md
-title: Little creatures Furphy
+filename: "_posts/beer/2016-11-09-little-creatures-furphy.md"
+title: "Little creatures Furphy"
 category: beer
 score: 8
 beer-date: "2016-01-07"

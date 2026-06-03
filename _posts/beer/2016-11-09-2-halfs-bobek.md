@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-bobek.md
-title: 2 halfs bobek
+filename: "_posts/beer/2016-11-09-2-halfs-bobek.md"
+title: "2 halfs bobek"
 category: beer
 score: 8
 beer-date: "2022-08-07"

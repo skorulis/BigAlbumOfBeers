@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-gaston-ba-saison.md
-title: Boatrocker Gaston Ba saison
+filename: "_posts/beer/2016-11-09-boatrocker-gaston-ba-saison.md"
+title: "Boatrocker Gaston Ba saison"
 category: beer
 score: 8.5
 beer-date: "2022-08-07"

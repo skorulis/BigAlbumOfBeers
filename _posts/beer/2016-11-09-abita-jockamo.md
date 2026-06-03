@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-abita-jockamo.md
-title: Abita jockamo
+filename: "_posts/beer/2016-11-09-abita-jockamo.md"
+title: "Abita jockamo"
 category: beer
 score: 5
 beer-date: "2016-02-14"

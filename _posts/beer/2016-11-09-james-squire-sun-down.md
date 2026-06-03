@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-sun-down.md
-title: James squire sun down
+filename: "_posts/beer/2016-11-09-james-squire-sun-down.md"
+title: "James squire sun down"
 category: beer
 score: 8
 beer-date: "2013-03-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-life.md
-title: Boatrocker life
+filename: "_posts/beer/2016-11-09-boatrocker-life.md"
+title: "Boatrocker life"
 category: beer
 score: 7.5
 beer-date: "2020-12-25"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brickworks-neipa.md
-title: Brickworks NEIPA
+filename: "_posts/beer/2016-11-09-brickworks-neipa.md"
+title: "Brickworks NEIPA"
 category: beer
 score: 6
 beer-date: "2023-02-28"

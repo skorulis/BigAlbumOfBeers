@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewcult-reset-robot.md
-title: Brewcult Reset Robot
+filename: "_posts/beer/2016-11-09-brewcult-reset-robot.md"
+title: "Brewcult Reset Robot"
 category: beer
 score: 7
 beer-date: "2016-01-06"

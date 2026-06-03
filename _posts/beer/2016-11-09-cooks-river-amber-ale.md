@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cooks-river-amber-ale.md
-title: Cooks river amber ale
+filename: "_posts/beer/2016-11-09-cooks-river-amber-ale.md"
+title: "Cooks river amber ale"
 category: beer
 score: 7
 beer-date: "2021-11-12"

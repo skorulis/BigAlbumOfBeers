@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-oakham-scarlet-macaw.md
-title: Oakham scarlet macaw
+filename: "_posts/beer/2016-11-09-oakham-scarlet-macaw.md"
+title: "Oakham scarlet macaw"
 category: beer
 score: 4
 beer-date: "2013-09-19"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-helios-white-kronos.md
-title: Helios white kronos
+filename: "_posts/beer/2016-11-09-helios-white-kronos.md"
+title: "Helios white kronos"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kaiju-paradise-pale.md
-title: Kaiju paradise pale
+filename: "_posts/beer/2016-11-09-kaiju-paradise-pale.md"
+title: "Kaiju paradise pale"
 category: beer
 score: 7.5
 beer-date: "2022-10-15"
@@ -11,6 +11,6 @@ img: /img/list/kaiju-paradise-pale.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-paradise-pils/2864305"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "/brewery/kaiju--beer.html"
+breweryURL: "/brewery/kaiju-beer.html"
 style: "Pilsner - Other"
 ---

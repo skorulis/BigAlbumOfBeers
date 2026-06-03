@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sailors-grave-crystal-healing.md
-title: Sailors grave crystal healing
+filename: "_posts/beer/2016-11-09-sailors-grave-crystal-healing.md"
+title: "Sailors grave crystal healing"
 category: beer
 score: 7.5
 beer-date: "2019-11-22"

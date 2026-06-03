@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-all-inn-what-s-up-my-grinches.md
-title: All inn what’s up my grinches
+filename: "_posts/beer/2016-11-09-all-inn-what-s-up-my-grinches.md"
+title: "All inn what’s up my grinches"
 category: beer
 score: 8
 beer-date: "2020-12-25"

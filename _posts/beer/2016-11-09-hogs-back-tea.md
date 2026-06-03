@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hogs-back-tea.md
-title: Hogs Back TEA
+filename: "_posts/beer/2016-11-09-hogs-back-tea.md"
+title: "Hogs Back TEA"
 category: beer
 score: 4
 beer-date: "2012-12-25"

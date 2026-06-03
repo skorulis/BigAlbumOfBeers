@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-side-cut.md
-title: Bridge side cut
+filename: "_posts/beer/2016-11-09-bridge-side-cut.md"
+title: "Bridge side cut"
 category: beer
 score: 9
 beer-date: "2017-04-11"

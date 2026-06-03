@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-courage-directors.md
-title: Courage Directors
+filename: "_posts/beer/2016-11-09-courage-directors.md"
+title: "Courage Directors"
 category: beer
 score: 6
 beer-date: "2015-07-10"

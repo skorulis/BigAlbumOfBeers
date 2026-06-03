@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-old-golden-hen.md
-title: Old golden hen
+filename: "_posts/beer/2016-11-09-old-golden-hen.md"
+title: "Old golden hen"
 category: beer
 score: 4
 beer-date: "2013-04-27"

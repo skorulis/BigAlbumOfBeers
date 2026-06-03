@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-ripper.md
-title: Little ripper
+filename: "_posts/beer/2016-11-09-little-ripper.md"
+title: "Little ripper"
 category: beer
 score: 7
 beer-date: "2014-03-18"

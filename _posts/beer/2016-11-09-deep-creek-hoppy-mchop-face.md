@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deep-creek-hoppy-mchop-face.md
-title: Deep creek hoppy McHop face
+filename: "_posts/beer/2016-11-09-deep-creek-hoppy-mchop-face.md"
+title: "Deep creek hoppy McHop face"
 category: beer
 score: 8
 beer-date: "2021-01-14"

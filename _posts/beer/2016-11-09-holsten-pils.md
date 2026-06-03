@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-holsten-pils.md
-title: Holsten Pils
+filename: "_posts/beer/2016-11-09-holsten-pils.md"
+title: "Holsten Pils"
 category: beer
 score: 5
 beer-date: "2012-12-25"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-svyturys-ekstra.md
-title: Svyturys ekstra
+filename: "_posts/beer/2016-11-09-svyturys-ekstra.md"
+title: "Svyturys ekstra"
 category: beer
 score: 7
 beer-date: "2013-08-18"

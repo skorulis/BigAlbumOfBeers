@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-monty-s-ding-dong.md
-title: Monty's ding dong
+filename: "_posts/beer/2016-11-09-monty-s-ding-dong.md"
+title: "Monty's ding dong"
 category: beer
 score: 6
 beer-date: "2014-02-23"

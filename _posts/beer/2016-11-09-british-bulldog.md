@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-british-bulldog.md
-title: British Bulldog
+filename: "_posts/beer/2016-11-09-british-bulldog.md"
+title: "British Bulldog"
 category: beer
 score: 6
 beer-date: "2013-03-09"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-del-borgo-prunus.md
-title: Del Borgo Prunus
+filename: "_posts/beer/2016-11-09-del-borgo-prunus.md"
+title: "Del Borgo Prunus"
 category: beer
 score: 8.5
 beer-date: "2017-03-22"

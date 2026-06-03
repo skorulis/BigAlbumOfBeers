@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mornington-porter.md
-title: Mornington porter
+filename: "_posts/beer/2016-11-09-mornington-porter.md"
+title: "Mornington porter"
 category: beer
 score: 7.5
 beer-date: "2017-01-21"

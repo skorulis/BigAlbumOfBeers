@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brookvale-union-ginger-beer.md
-title: Brookvale union ginger beer
+filename: "_posts/beer/2016-11-09-brookvale-union-ginger-beer.md"
+title: "Brookvale union ginger beer"
 category: beer
 score: 7
 beer-date: "2014-03-01"

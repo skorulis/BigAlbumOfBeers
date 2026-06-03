@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-goose-island-312-urban-wheat-ale.md
-title: Goose island 312 urban wheat ale
+filename: "_posts/beer/2016-11-09-goose-island-312-urban-wheat-ale.md"
+title: "Goose island 312 urban wheat ale"
 category: beer
 score: 6.5
 beer-date: "2017-06-02"

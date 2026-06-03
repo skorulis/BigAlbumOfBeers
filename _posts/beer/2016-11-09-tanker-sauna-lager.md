@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tanker-sauna-lager.md
-title: Tanker sauna lager
+filename: "_posts/beer/2016-11-09-tanker-sauna-lager.md"
+title: "Tanker sauna lager"
 category: beer
 score: 7.5
 beer-date: "2024-06-15"

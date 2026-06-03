@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lord-nelson-brewery-seasonal-ale.md
-title: Lord Nelson Brewery Seasonal Ale
+filename: "_posts/beer/2016-11-09-lord-nelson-brewery-seasonal-ale.md"
+title: "Lord Nelson Brewery Seasonal Ale"
 category: beer
 score: 5
 beer-date: "2015-05-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-maxlrainer-zwickl-max.md
-title: Maxlrainer Zwickl max
+filename: "_posts/beer/2016-11-09-maxlrainer-zwickl-max.md"
+title: "Maxlrainer Zwickl max"
 category: beer
 score: 7
 beer-date: "2023-10-02"

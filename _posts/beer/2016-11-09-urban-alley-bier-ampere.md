@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-urban-alley-bier-ampere.md
-title: Urban Alley Bier Ampere
+filename: "_posts/beer/2016-11-09-urban-alley-bier-ampere.md"
+title: "Urban Alley Bier Ampere"
 category: beer
 score: 6
 beer-date: "2025-09-26"

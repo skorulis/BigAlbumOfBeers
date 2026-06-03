@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-henry-s-neipa.md
-title: Young Henry’s NEIPA
+filename: "_posts/beer/2016-11-09-young-henry-s-neipa.md"
+title: "Young Henry’s NEIPA"
 category: beer
 score: 7
 beer-date: "2020-07-31"

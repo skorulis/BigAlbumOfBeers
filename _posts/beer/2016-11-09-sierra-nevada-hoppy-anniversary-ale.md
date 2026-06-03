@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sierra-nevada-hoppy-anniversary-ale.md
-title: Sierra Nevada hoppy anniversary ale
+filename: "_posts/beer/2016-11-09-sierra-nevada-hoppy-anniversary-ale.md"
+title: "Sierra Nevada hoppy anniversary ale"
 category: beer
 score: 7.5
 beer-date: "2020-12-25"

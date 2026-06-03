@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewcult-get-down-american-brown.md
-title: Brewcult get down American brown
+filename: "_posts/beer/2016-11-09-brewcult-get-down-american-brown.md"
+title: "Brewcult get down American brown"
 category: beer
 score: 6
 beer-date: "2016-11-13"

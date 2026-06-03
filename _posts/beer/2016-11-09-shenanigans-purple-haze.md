@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shenanigans-purple-haze.md
-title: Shenanigans purple haze
+filename: "_posts/beer/2016-11-09-shenanigans-purple-haze.md"
+title: "Shenanigans purple haze"
 category: beer
 score: 9
 beer-date: "2019-07-14"

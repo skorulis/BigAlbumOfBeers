@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sailors-grave-lager-lager-lager-pils.md
-title: Sailors grave lager lager lager pils
+filename: "_posts/beer/2016-11-09-sailors-grave-lager-lager-lager-pils.md"
+title: "Sailors grave lager lager lager pils"
 category: beer
 score: 6
 beer-date: "2021-04-02"

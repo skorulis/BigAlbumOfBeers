@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-torch-and-crown-rainbows-everywhere.md
-title: Torch and crown rainbows everywhere
+filename: "_posts/beer/2016-11-09-torch-and-crown-rainbows-everywhere.md"
+title: "Torch and crown rainbows everywhere"
 category: beer
 score: 8
 beer-date: "2024-06-15"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moorebeer-double-ipa.md
-title: Moorebeer double IPA
+filename: "_posts/beer/2016-11-09-moorebeer-double-ipa.md"
+title: "Moorebeer double IPA"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

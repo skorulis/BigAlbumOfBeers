@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pickled-monkey-kong-ipa.md
-title: Pickled monkey Kong IPA
+filename: "_posts/beer/2016-11-09-pickled-monkey-kong-ipa.md"
+title: "Pickled monkey Kong IPA"
 category: beer
 score: 8
 beer-date: "2020-07-31"

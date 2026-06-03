@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-little-smith-ipa.md
-title: Akasha little smith IPA
+filename: "_posts/beer/2016-11-09-akasha-little-smith-ipa.md"
+title: "Akasha little smith IPA"
 category: beer
 score: 7
 beer-date: "2020-09-26"
@@ -11,6 +11,6 @@ img: /img/list/akasha-little-smith-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-little-smith-ipa/2870896"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - Session / India Session Ale"
 ---

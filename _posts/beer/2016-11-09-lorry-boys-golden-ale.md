@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lorry-boys-golden-ale.md
-title: Lorry boys golden ale
+filename: "_posts/beer/2016-11-09-lorry-boys-golden-ale.md"
+title: "Lorry boys golden ale"
 category: beer
 score: 7
 beer-date: "2018-06-02"

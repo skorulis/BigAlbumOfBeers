@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hitachino-japaneses-classic-ale.md
-title: Hitachino japaneses classic ale
+filename: "_posts/beer/2016-11-09-hitachino-japaneses-classic-ale.md"
+title: "Hitachino japaneses classic ale"
 category: beer
 score: 3
 beer-date: "2013-08-15"

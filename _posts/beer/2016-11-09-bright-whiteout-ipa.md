@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bright-whiteout-ipa.md
-title: Bright Whiteout IPA
+filename: "_posts/beer/2016-11-09-bright-whiteout-ipa.md"
+title: "Bright Whiteout IPA"
 category: beer
 score: 4
 beer-date: "2025-09-26"

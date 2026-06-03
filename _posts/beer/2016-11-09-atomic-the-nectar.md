@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-atomic-the-nectar.md
-title: Atomic the nectar
+filename: "_posts/beer/2016-11-09-atomic-the-nectar.md"
+title: "Atomic the nectar"
 category: beer
 score: 6.5
 beer-date: "2022-08-07"

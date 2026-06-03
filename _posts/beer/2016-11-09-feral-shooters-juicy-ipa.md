@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-feral-shooters-juicy-ipa.md
-title: Feral shooters juicy IPA
+filename: "_posts/beer/2016-11-09-feral-shooters-juicy-ipa.md"
+title: "Feral shooters juicy IPA"
 category: beer
 score: 8
 beer-date: "2021-04-02"

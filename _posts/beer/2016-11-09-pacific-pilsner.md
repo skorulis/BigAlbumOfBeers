@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pacific-pilsner.md
-title: Pacific pilsner
+filename: "_posts/beer/2016-11-09-pacific-pilsner.md"
+title: "Pacific pilsner"
 category: beer
 score: 5
 beer-date: "2017-08-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-foxhat-heavy-handed-xpa.md
-title: Foxhat heavy handed XPA
+filename: "_posts/beer/2016-11-09-foxhat-heavy-handed-xpa.md"
+title: "Foxhat heavy handed XPA"
 category: beer
 score: 8
 beer-date: "2019-11-22"

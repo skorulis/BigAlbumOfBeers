@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-australian-new-world-pilsner.md
-title: Australian new world pilsner
+filename: "_posts/beer/2016-11-09-australian-new-world-pilsner.md"
+title: "Australian new world pilsner"
 category: beer
 score: 6
 beer-date: "2017-03-03"
@@ -11,6 +11,6 @@ img: /img/list/australian-new-world-pilsner.jpeg
 untappd: "https://untappd.com/b/the-australian-brewery-new-world-pilsner/1340861"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "/brewery/-australian-brewery.html"
+breweryURL: "/brewery/australian-brewery.html"
 style: "Pilsner - Other"
 ---

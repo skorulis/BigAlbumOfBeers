@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-st-feuillien-brune.md
-title: St feuillien brune
+filename: "_posts/beer/2016-11-09-st-feuillien-brune.md"
+title: "St feuillien brune"
 category: beer
 score: 7
 beer-date: "2020-09-26"

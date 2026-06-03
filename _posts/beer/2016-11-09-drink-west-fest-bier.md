@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-drink-west-fest-bier.md
-title: Drink West Fest Bier
+filename: "_posts/beer/2016-11-09-drink-west-fest-bier.md"
+title: "Drink West Fest Bier"
 category: beer
 score: 7
 beer-date: "2025-12-28"

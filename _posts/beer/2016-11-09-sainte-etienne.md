@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sainte-etienne.md
-title: Sainte etienne
+filename: "_posts/beer/2016-11-09-sainte-etienne.md"
+title: "Sainte etienne"
 category: beer
 score: 5
 beer-date: "2015-04-13"

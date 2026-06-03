@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pinacle-monsuta-okinawa-dry.md
-title: Pinacle Monsuta Okinawa dry
+filename: "_posts/beer/2016-11-09-pinacle-monsuta-okinawa-dry.md"
+title: "Pinacle Monsuta Okinawa dry"
 category: beer
 score: 6
 beer-date: "2023-02-26"
@@ -11,6 +11,6 @@ img: /img/list/pinacle-monsuta-okinawa-dry.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-monsuta-okinawa-dry-premium-draft/4292041"
 country: "Australia"
 brewery: "Pinnacle Drinks Group (Woolworths)"
-breweryURL: "/brewery/pinnacle-drinks-group--woolworths.html"
+breweryURL: "/brewery/pinnacle-drinks-group-woolworths.html"
 style: "Lager - Japanese Rice"
 ---

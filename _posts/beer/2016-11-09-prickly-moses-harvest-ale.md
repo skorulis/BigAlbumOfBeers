@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-prickly-moses-harvest-ale.md
-title: Prickly Moses harvest ale
+filename: "_posts/beer/2016-11-09-prickly-moses-harvest-ale.md"
+title: "Prickly Moses harvest ale"
 category: beer
 score: 6
 beer-date: "2016-05-24"

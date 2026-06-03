@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-super-chill.md
-title: Akasha super chill
+filename: "_posts/beer/2016-11-09-akasha-super-chill.md"
+title: "Akasha super chill"
 category: beer
 score: 6
 beer-date: "2022-08-07"
@@ -11,6 +11,6 @@ img: /img/list/akasha-super-chill.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-super-chill/4544089"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Pale Ale - American"
 ---

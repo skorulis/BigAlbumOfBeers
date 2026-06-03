@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-rum-barrel-aged-nitro-stout.md
-title: One drop rum barrel aged nitro stout
+filename: "_posts/beer/2016-11-09-one-drop-rum-barrel-aged-nitro-stout.md"
+title: "One drop rum barrel aged nitro stout"
 category: beer
 score: 7.5
 beer-date: "2020-11-13"

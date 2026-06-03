@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-struman-s-lager.md
-title: Struman’s lager
+filename: "_posts/beer/2016-11-09-struman-s-lager.md"
+title: "Struman’s lager"
 category: beer
 score: 6
 beer-date: "2019-07-14"

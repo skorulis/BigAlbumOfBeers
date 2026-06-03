@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hairyman-cory-s-claim.md
-title: Hairyman cory’s claim
+filename: "_posts/beer/2016-11-09-hairyman-cory-s-claim.md"
+title: "Hairyman cory’s claim"
 category: beer
 score: 7
 beer-date: "2020-07-31"

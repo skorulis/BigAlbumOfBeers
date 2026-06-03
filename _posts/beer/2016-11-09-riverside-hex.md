@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-riverside-hex.md
-title: Riverside hex
+filename: "_posts/beer/2016-11-09-riverside-hex.md"
+title: "Riverside hex"
 category: beer
 score: 7
 beer-date: "2020-11-13"

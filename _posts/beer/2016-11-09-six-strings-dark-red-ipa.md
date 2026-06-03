@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-strings-dark-red-ipa.md
-title: Six strings dark red IPA
+filename: "_posts/beer/2016-11-09-six-strings-dark-red-ipa.md"
+title: "Six strings dark red IPA"
 category: beer
 score: 6
 beer-date: "2016-09-21"

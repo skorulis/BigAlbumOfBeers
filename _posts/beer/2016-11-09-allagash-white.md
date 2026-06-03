@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-allagash-white.md
-title: Allagash white
+filename: "_posts/beer/2016-11-09-allagash-white.md"
+title: "Allagash white"
 category: beer
 score: 6
 beer-date: "2024-06-15"

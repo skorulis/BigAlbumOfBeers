@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bay-rd-dark-cherry-wheat.md
-title: Bay rd dark cherry wheat
+filename: "_posts/beer/2016-11-09-bay-rd-dark-cherry-wheat.md"
+title: "Bay rd dark cherry wheat"
 category: beer
 score: 6.5
 beer-date: "2020-09-26"

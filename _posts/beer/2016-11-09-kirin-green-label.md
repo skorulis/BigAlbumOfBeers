@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kirin-green-label.md
-title: Kirin green label
+filename: "_posts/beer/2016-11-09-kirin-green-label.md"
+title: "Kirin green label"
 category: beer
 score: 5.5
 beer-date: "2023-03-31"

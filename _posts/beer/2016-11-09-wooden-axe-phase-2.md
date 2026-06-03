@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wooden-axe-phase-2.md
-title: Wooden axe phase 2
+filename: "_posts/beer/2016-11-09-wooden-axe-phase-2.md"
+title: "Wooden axe phase 2"
 category: beer
 score: 7.5
 beer-date: "2024-03-29"

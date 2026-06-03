@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-magic-rock-inhaler.md
-title: Magic rock inhaler
+filename: "_posts/beer/2016-11-09-magic-rock-inhaler.md"
+title: "Magic rock inhaler"
 category: beer
 score: 6
 beer-date: "2017-08-06"

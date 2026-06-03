@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-burleigh-twisted-palm.md
-title: Burleigh twisted palm
+filename: "_posts/beer/2016-11-09-burleigh-twisted-palm.md"
+title: "Burleigh twisted palm"
 category: beer
 score: null
 beer-date: "2019-04-22"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-grifter-banshee.md
-title: Grifter banshee
+filename: "_posts/beer/2016-11-09-grifter-banshee.md"
+title: "Grifter banshee"
 category: beer
 score: 6
 beer-date: "2017-05-27"

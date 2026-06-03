@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-kolsch.md
-title: 4 Pines Kolsch
+filename: "_posts/beer/2016-11-09-4-pines-kolsch.md"
+title: "4 Pines Kolsch"
 category: beer
 score: 7
 beer-date: "2015-02-27"

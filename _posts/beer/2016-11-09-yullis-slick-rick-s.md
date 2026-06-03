@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yullis-slick-rick-s.md
-title: Yullis Slick Rick’s
+filename: "_posts/beer/2016-11-09-yullis-slick-rick-s.md"
+title: "Yullis Slick Rick’s"
 category: beer
 score: 7.5
 beer-date: "2023-02-28"

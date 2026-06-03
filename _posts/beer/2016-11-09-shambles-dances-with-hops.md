@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shambles-dances-with-hops.md
-title: Shambles dances with hops
+filename: "_posts/beer/2016-11-09-shambles-dances-with-hops.md"
+title: "Shambles dances with hops"
 category: beer
 score: 9
 beer-date: "2019-04-22"

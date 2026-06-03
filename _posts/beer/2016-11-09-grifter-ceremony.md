@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-grifter-ceremony.md
-title: Grifter ceremony
+filename: "_posts/beer/2016-11-09-grifter-ceremony.md"
+title: "Grifter ceremony"
 category: beer
 score: 6.5
 beer-date: "2022-08-07"

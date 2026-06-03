@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wooden-axe-flocking-hazy.md
-title: Wooden Axe Flocking Hazy
+filename: "_posts/beer/2016-11-09-wooden-axe-flocking-hazy.md"
+title: "Wooden Axe Flocking Hazy"
 category: beer
 score: 2.5
 beer-date: "2025-12-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ginger-beard.md
-title: Ginger beard
+filename: "_posts/beer/2016-11-09-ginger-beard.md"
+title: "Ginger beard"
 category: beer
 score: 7
 beer-date: "2013-01-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-malmo-breech-lock-ipa.md
-title: Malmo breech lock IPA
+filename: "_posts/beer/2016-11-09-malmo-breech-lock-ipa.md"
+title: "Malmo breech lock IPA"
 category: beer
 score: 7
 beer-date: "2023-10-02"

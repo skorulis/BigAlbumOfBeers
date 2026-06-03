@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cricketers-arms-lager.md
-title: Cricketers arms lager
+filename: "_posts/beer/2016-11-09-cricketers-arms-lager.md"
+title: "Cricketers arms lager"
 category: beer
 score: 5
 beer-date: "2014-06-21"

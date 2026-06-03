@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bowden-fruit-brute.md
-title: Bowden Fruit Brute
+filename: "_posts/beer/2016-11-09-bowden-fruit-brute.md"
+title: "Bowden Fruit Brute"
 category: beer
 score: 8
 beer-date: "2025-12-28"

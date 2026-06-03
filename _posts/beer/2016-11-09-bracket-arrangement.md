@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-arrangement.md
-title: Bracket Arrangement
+filename: "_posts/beer/2016-11-09-bracket-arrangement.md"
+title: "Bracket Arrangement"
 category: beer
 score: 7.5
 beer-date: "2026-03-27"

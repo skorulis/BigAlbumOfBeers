@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sailors-grave-glaze.md
-title: Sailors grave glaze
+filename: "_posts/beer/2016-11-09-sailors-grave-glaze.md"
+title: "Sailors grave glaze"
 category: beer
 score: 7
 beer-date: "2023-03-31"

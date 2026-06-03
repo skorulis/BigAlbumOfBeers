@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mornington-imperial-amber.md
-title: Mornington Imperial Amber
+filename: "_posts/beer/2016-11-09-mornington-imperial-amber.md"
+title: "Mornington Imperial Amber"
 category: beer
 score: 7
 beer-date: "2016-03-16"

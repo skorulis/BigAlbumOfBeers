@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-four-winds-nectarous.md
-title: Four winds Nectarous
+filename: "_posts/beer/2016-11-09-four-winds-nectarous.md"
+title: "Four winds Nectarous"
 category: beer
 score: 9
 beer-date: "2017-05-27"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-breaking-the-cardinal-rule.md
-title: Breaking the cardinal Rule
+filename: "_posts/beer/2016-11-09-breaking-the-cardinal-rule.md"
+title: "Breaking the cardinal Rule"
 category: beer
 score: 8
 beer-date: "2015-07-10"

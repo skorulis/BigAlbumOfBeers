@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-englander-hop-cannon-ipa.md
-title: New Englander Hop Cannon IPA
+filename: "_posts/beer/2016-11-09-new-englander-hop-cannon-ipa.md"
+title: "New Englander Hop Cannon IPA"
 category: beer
 score: 6
 beer-date: "2015-05-01"

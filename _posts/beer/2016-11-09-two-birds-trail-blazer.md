@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-trail-blazer.md
-title: Two birds Trail blazer
+filename: "_posts/beer/2016-11-09-two-birds-trail-blazer.md"
+title: "Two birds Trail blazer"
 category: beer
 score: 6
 beer-date: "2018-06-02"

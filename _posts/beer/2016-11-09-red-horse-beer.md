@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-red-horse-beer.md
-title: Red horse beer
+filename: "_posts/beer/2016-11-09-red-horse-beer.md"
+title: "Red horse beer"
 category: beer
 score: 7
 beer-date: "2016-02-14"

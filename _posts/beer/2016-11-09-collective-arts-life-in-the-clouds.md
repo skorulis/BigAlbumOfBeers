@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-collective-arts-life-in-the-clouds.md
-title: Collective arts life in the clouds
+filename: "_posts/beer/2016-11-09-collective-arts-life-in-the-clouds.md"
+title: "Collective arts life in the clouds"
 category: beer
 score: 8.5
 beer-date: "2020-12-25"

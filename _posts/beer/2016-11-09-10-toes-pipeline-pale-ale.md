@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-10-toes-pipeline-pale-ale.md
-title: 10 toes pipeline pale ale
+filename: "_posts/beer/2016-11-09-10-toes-pipeline-pale-ale.md"
+title: "10 toes pipeline pale ale"
 category: beer
 score: 8
 beer-date: "2020-12-25"

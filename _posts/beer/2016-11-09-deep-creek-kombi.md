@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deep-creek-kombi.md
-title: Deep creek kombi
+filename: "_posts/beer/2016-11-09-deep-creek-kombi.md"
+title: "Deep creek kombi"
 category: beer
 score: 7.5
 beer-date: "2018-01-13"

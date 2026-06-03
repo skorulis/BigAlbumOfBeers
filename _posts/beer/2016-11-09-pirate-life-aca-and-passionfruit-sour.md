@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-aca-and-passionfruit-sour.md
-title: Pirate life açaí and passionfruit sour
+filename: "_posts/beer/2016-11-09-pirate-life-aca-and-passionfruit-sour.md"
+title: "Pirate life açaí and passionfruit sour"
 category: beer
 score: 7.5
 beer-date: "2020-07-31"

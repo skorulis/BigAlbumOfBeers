@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-hop-rain.md
-title: Bridge road Hop rain
+filename: "_posts/beer/2016-11-09-bridge-road-hop-rain.md"
+title: "Bridge road Hop rain"
 category: beer
 score: 7.5
 beer-date: "2019-03-14"

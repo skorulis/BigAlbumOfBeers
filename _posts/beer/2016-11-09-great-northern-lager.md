@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-great-northern-lager.md
-title: Great northern lager
+filename: "_posts/beer/2016-11-09-great-northern-lager.md"
+title: "Great northern lager"
 category: beer
 score: 4
 beer-date: "2015-02-27"

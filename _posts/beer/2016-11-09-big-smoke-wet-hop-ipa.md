@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-big-smoke-wet-hop-ipa.md
-title: Big smoke wet hop IPA
+filename: "_posts/beer/2016-11-09-big-smoke-wet-hop-ipa.md"
+title: "Big smoke wet hop IPA"
 category: beer
 score: 6
 beer-date: "2015-07-10"

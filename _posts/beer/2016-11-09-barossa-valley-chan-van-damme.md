@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-barossa-valley-chan-van-damme.md
-title: Barossa valley chan van damme
+filename: "_posts/beer/2016-11-09-barossa-valley-chan-van-damme.md"
+title: "Barossa valley chan van damme"
 category: beer
 score: 7.5
 beer-date: "2018-01-13"

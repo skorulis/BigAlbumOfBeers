@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-unibroue-la-fin-du-monde.md
-title: Unibroue la fin du monde
+filename: "_posts/beer/2016-11-09-unibroue-la-fin-du-monde.md"
+title: "Unibroue la fin du monde"
 category: beer
 score: 8
 beer-date: "2023-02-26"

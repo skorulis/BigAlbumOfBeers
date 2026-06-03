@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-thunder-road-mandarin-oat-cream-ipa.md
-title: Thunder road mandarin oat cream IPA
+filename: "_posts/beer/2016-11-09-thunder-road-mandarin-oat-cream-ipa.md"
+title: "Thunder road mandarin oat cream IPA"
 category: beer
 score: 8
 beer-date: "2020-12-25"

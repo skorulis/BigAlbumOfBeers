@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-oppigards-norn.md
-title: Oppigårds norn
+filename: "_posts/beer/2016-11-09-oppigards-norn.md"
+title: "Oppigårds norn"
 category: beer
 score: 8
 beer-date: "2023-10-02"

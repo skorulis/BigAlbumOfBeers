@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brothers-uncorked-grape-ale.md
-title: Brothers uncorked grape ale
+filename: "_posts/beer/2016-11-09-brothers-uncorked-grape-ale.md"
+title: "Brothers uncorked grape ale"
 category: beer
 score: 7.5
 beer-date: "2024-11-09"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-quench.md
-title: Range quench
+filename: "_posts/beer/2016-11-09-range-quench.md"
+title: "Range quench"
 category: beer
 score: 7
 beer-date: "2021-11-12"

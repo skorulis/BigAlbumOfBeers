@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-freshie-salt-pepper.md
-title: Nomad freshie salt & pepper
+filename: "_posts/beer/2016-11-09-nomad-freshie-salt-pepper.md"
+title: "Nomad freshie salt & pepper"
 category: beer
 score: 7.5
 beer-date: "2017-01-21"

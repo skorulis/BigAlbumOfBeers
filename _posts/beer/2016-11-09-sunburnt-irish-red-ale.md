@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sunburnt-irish-red-ale.md
-title: Sunburnt Irish red ale
+filename: "_posts/beer/2016-11-09-sunburnt-irish-red-ale.md"
+title: "Sunburnt Irish red ale"
 category: beer
 score: 4
 beer-date: "2016-02-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-frenchies-giant-naked-sky-santa-has-exploded.md
-title: Frenchies giant naked sky Santa has exploded
+filename: "_posts/beer/2016-11-09-frenchies-giant-naked-sky-santa-has-exploded.md"
+title: "Frenchies giant naked sky Santa has exploded"
 category: beer
 score: 9
 beer-date: "2024-03-29"

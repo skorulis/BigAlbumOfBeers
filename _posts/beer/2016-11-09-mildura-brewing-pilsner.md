@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mildura-brewing-pilsner.md
-title: Mildura brewing pilsner
+filename: "_posts/beer/2016-11-09-mildura-brewing-pilsner.md"
+title: "Mildura brewing pilsner"
 category: beer
 score: 3.5
 beer-date: "2021-06-05"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-i-got-you.md
-title: One Drop I Got You
+filename: "_posts/beer/2016-11-09-one-drop-i-got-you.md"
+title: "One Drop I Got You"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mornington-hop-culture.md
-title: Mornington hop culture
+filename: "_posts/beer/2016-11-09-mornington-hop-culture.md"
+title: "Mornington hop culture"
 category: beer
 score: 8
 beer-date: "2017-01-21"

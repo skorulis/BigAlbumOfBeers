@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kicks-salad-days.md
-title: Kicks Salad Days
+filename: "_posts/beer/2016-11-09-kicks-salad-days.md"
+title: "Kicks Salad Days"
 category: beer
 score: 8.5
 beer-date: "2025-09-26"

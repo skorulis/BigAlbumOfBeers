@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-basement-brewhouse-helles-lager.md
-title: Basement brewhouse helles lager
+filename: "_posts/beer/2016-11-09-basement-brewhouse-helles-lager.md"
+title: "Basement brewhouse helles lager"
 category: beer
 score: 6
 beer-date: "2017-10-28"

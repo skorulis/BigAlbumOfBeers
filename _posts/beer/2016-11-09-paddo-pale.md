@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-paddo-pale.md
-title: Paddo pale
+filename: "_posts/beer/2016-11-09-paddo-pale.md"
+title: "Paddo pale"
 category: beer
 score: 5
 beer-date: "2015-07-10"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-billsons-easy-pale-ale.md
-title: Billsons easy pale ale
+filename: "_posts/beer/2016-11-09-billsons-easy-pale-ale.md"
+title: "Billsons easy pale ale"
 category: beer
 score: 7
 beer-date: "2023-08-26"

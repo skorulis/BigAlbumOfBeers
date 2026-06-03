@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-hop-studio-noel.md
-title: The Hop Studio Noel
+filename: "_posts/beer/2016-11-09-the-hop-studio-noel.md"
+title: "The Hop Studio Noel"
 category: beer
 score: 3
 beer-date: "2014-02-23"

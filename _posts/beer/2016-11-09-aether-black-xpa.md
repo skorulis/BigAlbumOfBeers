@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-aether-black-xpa.md
-title: Aether Black XPA
+filename: "_posts/beer/2016-11-09-aether-black-xpa.md"
+title: "Aether Black XPA"
 category: beer
 score: 7
 beer-date: "2025-02-15"

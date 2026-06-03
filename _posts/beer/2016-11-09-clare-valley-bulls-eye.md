@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-clare-valley-bulls-eye.md
-title: Clare valley bulls eye
+filename: "_posts/beer/2016-11-09-clare-valley-bulls-eye.md"
+title: "Clare valley bulls eye"
 category: beer
 score: 4.5
 beer-date: "2016-09-21"

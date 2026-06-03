@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-golden-glory.md
-title: Golden Glory
+filename: "_posts/beer/2016-11-09-golden-glory.md"
+title: "Golden Glory"
 category: beer
 score: 7
 beer-date: "2012-12-15"
@@ -11,6 +11,6 @@ img: /img/list/golden-glory.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--golden-glory/16978"
 country: "England"
 brewery: "Badger Brewery (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-brewery--hall-woodhouse.html"
+breweryURL: "/brewery/badger-brewery-hall-woodhouse.html"
 style: "Golden Ale"
 ---

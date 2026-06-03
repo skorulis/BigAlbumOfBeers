@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-tea-biccies.md
-title: Pirate life tea & biccies
+filename: "_posts/beer/2016-11-09-pirate-life-tea-biccies.md"
+title: "Pirate life tea & biccies"
 category: beer
 score: 7
 beer-date: "2021-04-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brick-lane-backyarder.md
-title: Brick lane backyarder
+filename: "_posts/beer/2016-11-09-brick-lane-backyarder.md"
+title: "Brick lane backyarder"
 category: beer
 score: 6
 beer-date: "2022-08-07"

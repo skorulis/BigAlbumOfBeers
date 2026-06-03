@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bright-hype-boi-oat-cream-neipa.md
-title: Bright hype boi oat cream NEIPA
+filename: "_posts/beer/2016-11-09-bright-hype-boi-oat-cream-neipa.md"
+title: "Bright hype boi oat cream NEIPA"
 category: beer
 score: 6.5
 beer-date: "2021-04-02"

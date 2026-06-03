@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-freshwater-bright-lager.md
-title: Freshwater Bright Lager
+filename: "_posts/beer/2016-11-09-freshwater-bright-lager.md"
+title: "Freshwater Bright Lager"
 category: beer
 score: 6
 beer-date: "2024-12-28"

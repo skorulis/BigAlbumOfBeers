@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cheeky-pint-5-eyes.md
-title: Cheeky pint 5 eyes
+filename: "_posts/beer/2016-11-09-cheeky-pint-5-eyes.md"
+title: "Cheeky pint 5 eyes"
 category: beer
 score: 7
 beer-date: "2024-03-29"

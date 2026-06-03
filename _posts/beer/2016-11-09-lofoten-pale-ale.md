@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lofoten-pale-ale.md
-title: Lofoten pale ale
+filename: "_posts/beer/2016-11-09-lofoten-pale-ale.md"
+title: "Lofoten pale ale"
 category: beer
 score: 6.5
 beer-date: "2023-10-02"

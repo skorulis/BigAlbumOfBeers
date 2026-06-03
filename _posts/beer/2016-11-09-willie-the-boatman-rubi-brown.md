@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-willie-the-boatman-rubi-brown.md
-title: Willie the boatman rubi brown
+filename: "_posts/beer/2016-11-09-willie-the-boatman-rubi-brown.md"
+title: "Willie the boatman rubi brown"
 category: beer
 score: 6.5
 beer-date: "2019-11-22"

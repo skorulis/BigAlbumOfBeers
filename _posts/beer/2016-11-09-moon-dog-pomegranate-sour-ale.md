@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moon-dog-pomegranate-sour-ale.md
-title: Moon dog pomegranate sour ale
+filename: "_posts/beer/2016-11-09-moon-dog-pomegranate-sour-ale.md"
+title: "Moon dog pomegranate sour ale"
 category: beer
 score: 7
 beer-date: "2023-02-28"

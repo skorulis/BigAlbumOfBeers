@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewdog-e-division-pale.md
-title: Brewdog e division pale
+filename: "_posts/beer/2016-11-09-brewdog-e-division-pale.md"
+title: "Brewdog e division pale"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

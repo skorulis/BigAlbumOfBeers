@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-atomic-mango-sour.md
-title: Atomic mango sour
+filename: "_posts/beer/2016-11-09-atomic-mango-sour.md"
+title: "Atomic mango sour"
 category: beer
 score: 7
 beer-date: "2023-02-26"

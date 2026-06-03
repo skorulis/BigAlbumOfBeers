@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-serving-suggestion.md
-title: Bracket serving suggestion
+filename: "_posts/beer/2016-11-09-bracket-serving-suggestion.md"
+title: "Bracket serving suggestion"
 category: beer
 score: 8
 beer-date: "2022-10-15"

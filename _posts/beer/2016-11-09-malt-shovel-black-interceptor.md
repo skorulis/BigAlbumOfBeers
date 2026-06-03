@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-malt-shovel-black-interceptor.md
-title: Malt shovel black interceptor
+filename: "_posts/beer/2016-11-09-malt-shovel-black-interceptor.md"
+title: "Malt shovel black interceptor"
 category: beer
 score: 6.5
 beer-date: "2018-11-05"

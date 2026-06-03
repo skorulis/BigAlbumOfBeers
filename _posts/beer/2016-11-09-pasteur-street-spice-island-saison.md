@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pasteur-street-spice-island-saison.md
-title: Pasteur street spice island saison
+filename: "_posts/beer/2016-11-09-pasteur-street-spice-island-saison.md"
+title: "Pasteur street spice island saison"
 category: beer
 score: 9
 beer-date: "2018-02-17"

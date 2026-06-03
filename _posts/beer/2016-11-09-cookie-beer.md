@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cookie-beer.md
-title: Cookie Beer
+filename: "_posts/beer/2016-11-09-cookie-beer.md"
+title: "Cookie Beer"
 category: beer
 score: 4
 beer-date: "2014-02-23"

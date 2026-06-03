@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-nation-mango-gose.md
-title: Hop nation mango gose
+filename: "_posts/beer/2016-11-09-hop-nation-mango-gose.md"
+title: "Hop nation mango gose"
 category: beer
 score: 8.5
 beer-date: "2017-08-21"

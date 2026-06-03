@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-hazy.md
-title: One drop hazy
+filename: "_posts/beer/2016-11-09-one-drop-hazy.md"
+title: "One drop hazy"
 category: beer
 score: 7.5
 beer-date: "2020-11-13"

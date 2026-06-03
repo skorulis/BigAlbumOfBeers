@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-palm-hop-select.md
-title: Palm hop select
+filename: "_posts/beer/2016-11-09-palm-hop-select.md"
+title: "Palm hop select"
 category: beer
 score: 6
 beer-date: "2016-02-14"

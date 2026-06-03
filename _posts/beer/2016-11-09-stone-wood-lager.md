@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-wood-lager.md
-title: Stone & wood lager
+filename: "_posts/beer/2016-11-09-stone-wood-lager.md"
+title: "Stone & wood lager"
 category: beer
 score: 6
 beer-date: "2014-06-21"

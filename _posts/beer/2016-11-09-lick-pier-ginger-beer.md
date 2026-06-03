@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lick-pier-ginger-beer.md
-title: Lick Pier Ginger Beer
+filename: "_posts/beer/2016-11-09-lick-pier-ginger-beer.md"
+title: "Lick Pier Ginger Beer"
 category: beer
 score: 6
 beer-date: "2015-02-27"

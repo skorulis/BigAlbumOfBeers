@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moorebeer-that-s-the-plan-ddhdipa.md
-title: Moorebeer That’s The plan DDHDIPA
+filename: "_posts/beer/2016-11-09-moorebeer-that-s-the-plan-ddhdipa.md"
+title: "Moorebeer That’s The plan DDHDIPA"
 category: beer
 score: 9
 beer-date: "2022-08-07"

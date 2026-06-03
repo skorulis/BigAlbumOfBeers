@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-spendrups-mariestads.md
-title: Spendrups Mariestads
+filename: "_posts/beer/2016-11-09-spendrups-mariestads.md"
+title: "Spendrups Mariestads"
 category: beer
 score: 5.5
 beer-date: "2023-10-02"

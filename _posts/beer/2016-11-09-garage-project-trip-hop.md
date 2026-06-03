@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-trip-hop.md
-title: Garage project trip hop
+filename: "_posts/beer/2016-11-09-garage-project-trip-hop.md"
+title: "Garage project trip hop"
 category: beer
 score: 7.5
 beer-date: "2021-01-14"

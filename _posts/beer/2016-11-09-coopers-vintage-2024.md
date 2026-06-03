@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coopers-vintage-2024.md
-title: Coopers vintage 2024
+filename: "_posts/beer/2016-11-09-coopers-vintage-2024.md"
+title: "Coopers vintage 2024"
 category: beer
 score: 4.5
 beer-date: "2025-09-26"

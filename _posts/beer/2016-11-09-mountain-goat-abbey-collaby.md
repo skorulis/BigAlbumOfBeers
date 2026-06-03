@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-abbey-collaby.md
-title: Mountain goat abbey collaby
+filename: "_posts/beer/2016-11-09-mountain-goat-abbey-collaby.md"
+title: "Mountain goat abbey collaby"
 category: beer
 score: 8.5
 beer-date: "2018-10-05"

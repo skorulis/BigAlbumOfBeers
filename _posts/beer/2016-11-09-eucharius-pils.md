@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-eucharius-pils.md
-title: Eucharius pils
+filename: "_posts/beer/2016-11-09-eucharius-pils.md"
+title: "Eucharius pils"
 category: beer
 score: 5.5
 beer-date: "2018-06-02"

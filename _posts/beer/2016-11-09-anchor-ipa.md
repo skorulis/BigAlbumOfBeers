@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-anchor-ipa.md
-title: Anchor IPA
+filename: "_posts/beer/2016-11-09-anchor-ipa.md"
+title: "Anchor IPA"
 category: beer
 score: 7
 beer-date: "2016-03-16"

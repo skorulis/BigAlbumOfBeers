@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-meantime-pale-ale.md
-title: Meantime pale ale
+filename: "_posts/beer/2016-11-09-meantime-pale-ale.md"
+title: "Meantime pale ale"
 category: beer
 score: 6.5
 beer-date: "2017-06-02"

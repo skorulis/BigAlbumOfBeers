@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shenanigans-gone-troppo.md
-title: Shenanigans gone troppo
+filename: "_posts/beer/2016-11-09-shenanigans-gone-troppo.md"
+title: "Shenanigans gone troppo"
 category: beer
 score: 9
 beer-date: "2017-02-11"

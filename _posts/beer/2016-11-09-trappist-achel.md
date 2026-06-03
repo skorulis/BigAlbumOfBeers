@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-trappist-achel.md
-title: Trappist Achel
+filename: "_posts/beer/2016-11-09-trappist-achel.md"
+title: "Trappist Achel"
 category: beer
 score: 7.5
 beer-date: "2017-06-15"

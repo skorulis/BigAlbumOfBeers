@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-bang-beard-fiction.md
-title: Little bang beard fiction
+filename: "_posts/beer/2016-11-09-little-bang-beard-fiction.md"
+title: "Little bang beard fiction"
 category: beer
 score: 9
 beer-date: "2019-11-22"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-faro-lambic.md
-title: Faro Lambic
+filename: "_posts/beer/2016-11-09-faro-lambic.md"
+title: "Faro Lambic"
 category: beer
 score: 7
 beer-date: "2013-05-25"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kicks-stitch-up.md
-title: Kicks stitch up
+filename: "_posts/beer/2016-11-09-kicks-stitch-up.md"
+title: "Kicks stitch up"
 category: beer
 score: 6
 beer-date: "2024-11-09"

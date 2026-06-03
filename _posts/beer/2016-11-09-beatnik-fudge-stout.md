@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beatnik-fudge-stout.md
-title: Beatnik fudge stout
+filename: "_posts/beer/2016-11-09-beatnik-fudge-stout.md"
+title: "Beatnik fudge stout"
 category: beer
 score: 7.5
 beer-date: "2021-11-13"

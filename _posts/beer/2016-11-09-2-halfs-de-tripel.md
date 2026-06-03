@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-de-tripel.md
-title: 2 halfs de tripel
+filename: "_posts/beer/2016-11-09-2-halfs-de-tripel.md"
+title: "2 halfs de tripel"
 category: beer
 score: 7
 beer-date: "2022-08-07"

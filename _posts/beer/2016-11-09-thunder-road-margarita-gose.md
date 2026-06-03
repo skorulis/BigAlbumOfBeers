@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-thunder-road-margarita-gose.md
-title: Thunder road Margarita Gose
+filename: "_posts/beer/2016-11-09-thunder-road-margarita-gose.md"
+title: "Thunder road Margarita Gose"
 category: beer
 score: 7.5
 beer-date: "2021-01-31"

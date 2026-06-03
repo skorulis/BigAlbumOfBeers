@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cannabis-beer.md
-title: Cannabis beer
+filename: "_posts/beer/2016-11-09-cannabis-beer.md"
+title: "Cannabis beer"
 category: beer
 score: 6
 beer-date: "2017-06-15"

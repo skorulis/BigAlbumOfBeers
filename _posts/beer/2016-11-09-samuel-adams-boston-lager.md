@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-samuel-adams-boston-lager.md
-title: Samuel Adams Boston Lager
+filename: "_posts/beer/2016-11-09-samuel-adams-boston-lager.md"
+title: "Samuel Adams Boston Lager"
 category: beer
 score: 7
 beer-date: "2015-02-27"

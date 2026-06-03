@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-db-export-gold.md
-title: DB Export Gold
+filename: "_posts/beer/2016-11-09-db-export-gold.md"
+title: "DB Export Gold"
 category: beer
 score: 6
 beer-date: "2025-09-26"

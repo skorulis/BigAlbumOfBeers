@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fermenterarna-fluffy-future.md
-title: Fermenterarna Fluffy future
+filename: "_posts/beer/2016-11-09-fermenterarna-fluffy-future.md"
+title: "Fermenterarna Fluffy future"
 category: beer
 score: 6
 beer-date: "2023-10-02"

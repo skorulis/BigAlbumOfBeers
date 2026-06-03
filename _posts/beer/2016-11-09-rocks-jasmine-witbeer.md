@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rocks-jasmine-witbeer.md
-title: Rocks jasmine witbeer
+filename: "_posts/beer/2016-11-09-rocks-jasmine-witbeer.md"
+title: "Rocks jasmine witbeer"
 category: beer
 score: 8.5
 beer-date: "2018-10-05"

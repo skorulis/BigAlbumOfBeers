@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-lupulin-fog.md
-title: Akasha lupulin fog
+filename: "_posts/beer/2016-11-09-akasha-lupulin-fog.md"
+title: "Akasha lupulin fog"
 category: beer
 score: 7
 beer-date: "2021-11-12"
@@ -11,6 +11,6 @@ img: /img/list/akasha-lupulin-fog.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-lupulin-fog-neiipa/2069728"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - Imperial / Double New England / Hazy"
 ---

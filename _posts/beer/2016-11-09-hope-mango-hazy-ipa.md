@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-mango-hazy-ipa.md
-title: Hope mango hazy IPA
+filename: "_posts/beer/2016-11-09-hope-mango-hazy-ipa.md"
+title: "Hope mango hazy IPA"
 category: beer
 score: 9
 beer-date: "2020-07-31"

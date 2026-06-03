@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shepherd-neame-ipa.md
-title: Shepherd Neame IPA
+filename: "_posts/beer/2016-11-09-shepherd-neame-ipa.md"
+title: "Shepherd Neame IPA"
 category: beer
 score: 5
 beer-date: "2016-02-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-delerium-christmas.md
-title: Delerium Christmas
+filename: "_posts/beer/2016-11-09-delerium-christmas.md"
+title: "Delerium Christmas"
 category: beer
 score: 8
 beer-date: "2014-02-23"

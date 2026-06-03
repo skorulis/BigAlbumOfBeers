@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blasta-unbridled-unicorn.md
-title: Blasta unbridled unicorn
+filename: "_posts/beer/2016-11-09-blasta-unbridled-unicorn.md"
+title: "Blasta unbridled unicorn"
 category: beer
 score: 8
 beer-date: "2021-01-01"

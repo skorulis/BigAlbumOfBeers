@@ -4,7 +4,7 @@ filename: "_posts/brewery/2016-11-09-rover-beer.md"
 title: "Rover Beer"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/rover-beer/330559"
-instagram: 'drinkrover'
-twitter: ''
-facebook: 'http://www.facebook.com/drinkrover'
+instagram: "drinkrover"
+twitter: ""
+facebook: "http://www.facebook.com/drinkrover"
 ---

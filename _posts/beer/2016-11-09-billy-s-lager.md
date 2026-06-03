@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-billy-s-lager.md
-title: Billy’s lager
+filename: "_posts/beer/2016-11-09-billy-s-lager.md"
+title: "Billy’s lager"
 category: beer
 score: 5
 beer-date: "2019-04-22"

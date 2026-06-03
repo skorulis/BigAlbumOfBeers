@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-andrik.md
-title: 2 halfs andrik
+filename: "_posts/beer/2016-11-09-2-halfs-andrik.md"
+title: "2 halfs andrik"
 category: beer
 score: 8
 beer-date: "2024-03-29"

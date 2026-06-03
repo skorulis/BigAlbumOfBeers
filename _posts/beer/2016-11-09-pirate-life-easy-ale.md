@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-easy-ale.md
-title: Pirate life easy ale
+filename: "_posts/beer/2016-11-09-pirate-life-easy-ale.md"
+title: "Pirate life easy ale"
 category: beer
 score: 7.5
 beer-date: "2020-07-31"

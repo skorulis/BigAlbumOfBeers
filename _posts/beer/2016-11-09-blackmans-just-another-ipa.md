@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackmans-just-another-ipa.md
-title: Blackmans just another IPA
+filename: "_posts/beer/2016-11-09-blackmans-just-another-ipa.md"
+title: "Blackmans just another IPA"
 category: beer
 score: 6.5
 beer-date: "2023-08-26"

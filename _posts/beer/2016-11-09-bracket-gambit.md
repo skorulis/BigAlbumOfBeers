@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-gambit.md
-title: Bracket gambit
+filename: "_posts/beer/2016-11-09-bracket-gambit.md"
+title: "Bracket gambit"
 category: beer
 score: 9
 beer-date: "2023-02-28"

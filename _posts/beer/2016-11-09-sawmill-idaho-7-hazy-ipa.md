@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sawmill-idaho-7-hazy-ipa.md
-title: Sawmill Idaho 7 hazy IPA
+filename: "_posts/beer/2016-11-09-sawmill-idaho-7-hazy-ipa.md"
+title: "Sawmill Idaho 7 hazy IPA"
 category: beer
 score: 6
 beer-date: "2022-09-21"

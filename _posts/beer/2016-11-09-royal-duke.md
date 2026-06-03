@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-royal-duke.md
-title: Royal duke
+filename: "_posts/beer/2016-11-09-royal-duke.md"
+title: "Royal duke"
 category: beer
 score: 5.5
 beer-date: "2017-10-28"

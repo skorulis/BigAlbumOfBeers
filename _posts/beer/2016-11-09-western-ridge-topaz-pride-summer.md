@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-western-ridge-topaz-pride-summer.md
-title: Western ridge topaz pride summer
+filename: "_posts/beer/2016-11-09-western-ridge-topaz-pride-summer.md"
+title: "Western ridge topaz pride summer"
 category: beer
 score: 7.5
 beer-date: "2018-12-27"

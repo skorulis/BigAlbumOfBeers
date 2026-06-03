@@ -4,7 +4,7 @@ filename: "_posts/brewery/2016-11-09-warsteiner.md"
 title: "Warsteiner"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/warsteiner/1337"
-instagram: 'warsteiner'
-twitter: 'warsteiner'
-facebook: 'https://www.facebook.com/Warsteiner'
+instagram: "warsteiner"
+twitter: "warsteiner"
+facebook: "https://www.facebook.com/Warsteiner"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-seven-mile-cali-cartel.md
-title: Seven mile cali cartel
+filename: "_posts/beer/2016-11-09-seven-mile-cali-cartel.md"
+title: "Seven mile cali cartel"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

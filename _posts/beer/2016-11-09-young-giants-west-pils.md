@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-young-giants-west-pils.md
-title: Young Giants West Pils
+filename: "_posts/beer/2016-11-09-young-giants-west-pils.md"
+title: "Young Giants West Pils"
 category: beer
 score: 4.5
 beer-date: "2025-12-28"

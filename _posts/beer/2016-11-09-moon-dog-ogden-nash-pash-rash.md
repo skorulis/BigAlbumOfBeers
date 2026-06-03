@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moon-dog-ogden-nash-pash-rash.md
-title: Moon dog Ogden nash pash rash
+filename: "_posts/beer/2016-11-09-moon-dog-ogden-nash-pash-rash.md"
+title: "Moon dog Ogden nash pash rash"
 category: beer
 score: 6.5
 beer-date: "2022-08-07"

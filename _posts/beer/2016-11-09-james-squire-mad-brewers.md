@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-mad-brewers.md
-title: James squire mad brewers
+filename: "_posts/beer/2016-11-09-james-squire-mad-brewers.md"
+title: "James squire mad brewers"
 category: beer
 score: 4
 beer-date: "2020-01-16"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-krampus-kringle.md
-title: Hawkers Krampus Kringle
+filename: "_posts/beer/2016-11-09-hawkers-krampus-kringle.md"
+title: "Hawkers Krampus Kringle"
 category: beer
 score: null
 beer-date: "2024-12-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pikes-pilsner-lager.md
-title: Pikes pilsner lager
+filename: "_posts/beer/2016-11-09-pikes-pilsner-lager.md"
+title: "Pikes pilsner lager"
 category: beer
 score: 5
 beer-date: "2015-05-01"

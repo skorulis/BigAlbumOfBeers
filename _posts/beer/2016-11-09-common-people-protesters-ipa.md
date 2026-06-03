@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-common-people-protesters-ipa.md
-title: Common People Protesters IPA
+filename: "_posts/beer/2016-11-09-common-people-protesters-ipa.md"
+title: "Common People Protesters IPA"
 category: beer
 score: 6.5
 beer-date: "2025-12-28"

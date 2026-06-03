@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ekim-after-battle.md
-title: Ekim after battle
+filename: "_posts/beer/2016-11-09-ekim-after-battle.md"
+title: "Ekim after battle"
 category: beer
 score: 7
 beer-date: "2019-06-22"

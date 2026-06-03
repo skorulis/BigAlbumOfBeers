@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sirling-castle.md
-title: Sirling castle
+filename: "_posts/beer/2016-11-09-sirling-castle.md"
+title: "Sirling castle"
 category: beer
 score: 7
 beer-date: "2015-02-27"

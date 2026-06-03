@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-knafeh-habibi.md
-title: Hawkers knafeh habibi
+filename: "_posts/beer/2016-11-09-hawkers-knafeh-habibi.md"
+title: "Hawkers knafeh habibi"
 category: beer
 score: 9
 beer-date: "2021-01-01"

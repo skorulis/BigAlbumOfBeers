@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cavalier-brown.md
-title: Cavalier brown
+filename: "_posts/beer/2016-11-09-cavalier-brown.md"
+title: "Cavalier brown"
 category: beer
 score: 6
 beer-date: "2018-12-27"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-simply-stout.md
-title: Simply Stout
+filename: "_posts/beer/2016-11-09-simply-stout.md"
+title: "Simply Stout"
 category: beer
 score: 8
 beer-date: "2012-12-25"

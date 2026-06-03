@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brick-lane-supernova-ipa.md
-title: Brick lane supernova IPA
+filename: "_posts/beer/2016-11-09-brick-lane-supernova-ipa.md"
+title: "Brick lane supernova IPA"
 category: beer
 score: 7
 beer-date: "2020-11-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-wild-beer-co-bliss.md
-title: The wild beer co Bliss
+filename: "_posts/beer/2016-11-09-the-wild-beer-co-bliss.md"
+title: "The wild beer co Bliss"
 category: beer
 score: 5
 beer-date: "2013-07-19"

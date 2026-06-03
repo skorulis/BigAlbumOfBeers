@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-strings-aloha-2-0.md
-title: Six strings aloha 2.0
+filename: "_posts/beer/2016-11-09-six-strings-aloha-2-0.md"
+title: "Six strings aloha 2.0"
 category: beer
 score: 7
 beer-date: "2022-08-07"

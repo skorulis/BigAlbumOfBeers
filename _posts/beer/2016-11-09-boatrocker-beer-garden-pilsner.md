@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-beer-garden-pilsner.md
-title: Boatrocker beer garden pilsner
+filename: "_posts/beer/2016-11-09-boatrocker-beer-garden-pilsner.md"
+title: "Boatrocker beer garden pilsner"
 category: beer
 score: 7.5
 beer-date: "2018-12-27"

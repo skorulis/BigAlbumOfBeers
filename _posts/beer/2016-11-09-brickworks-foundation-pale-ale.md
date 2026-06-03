@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brickworks-foundation-pale-ale.md
-title: Brickworks foundation pale ale
+filename: "_posts/beer/2016-11-09-brickworks-foundation-pale-ale.md"
+title: "Brickworks foundation pale ale"
 category: beer
 score: 7
 beer-date: "2023-02-28"

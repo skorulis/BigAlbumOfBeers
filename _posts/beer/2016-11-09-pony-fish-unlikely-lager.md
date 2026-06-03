@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pony-fish-unlikely-lager.md
-title: Pony fish unlikely lager
+filename: "_posts/beer/2016-11-09-pony-fish-unlikely-lager.md"
+title: "Pony fish unlikely lager"
 category: beer
 score: 5
 beer-date: "2015-04-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stockade-rebel-ale.md
-title: Stockade rebel ale
+filename: "_posts/beer/2016-11-09-stockade-rebel-ale.md"
+title: "Stockade rebel ale"
 category: beer
 score: 5
 beer-date: "2015-04-13"

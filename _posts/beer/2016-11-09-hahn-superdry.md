@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hahn-superdry.md
-title: Hahn superdry
+filename: "_posts/beer/2016-11-09-hahn-superdry.md"
+title: "Hahn superdry"
 category: beer
 score: 6
 beer-date: "2013-03-09"

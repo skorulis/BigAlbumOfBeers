@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-flight-recorder-do-not-open.md
-title: Bracket flight recorder do not open
+filename: "_posts/beer/2016-11-09-bracket-flight-recorder-do-not-open.md"
+title: "Bracket flight recorder do not open"
 category: beer
 score: 8
 beer-date: "2022-10-15"

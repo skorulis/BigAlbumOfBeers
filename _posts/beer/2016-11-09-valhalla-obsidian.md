@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-valhalla-obsidian.md
-title: Valhalla obsidian
+filename: "_posts/beer/2016-11-09-valhalla-obsidian.md"
+title: "Valhalla obsidian"
 category: beer
 score: 6
 beer-date: "2017-08-06"

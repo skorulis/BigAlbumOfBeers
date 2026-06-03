@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-harbourmaster.md
-title: James squire harbourmaster
+filename: "_posts/beer/2016-11-09-james-squire-harbourmaster.md"
+title: "James squire harbourmaster"
 category: beer
 score: 7
 beer-date: "2018-11-05"

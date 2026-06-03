@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mildura-ipa.md
-title: Mildura IPA
+filename: "_posts/beer/2016-11-09-mildura-ipa.md"
+title: "Mildura IPA"
 category: beer
 score: 5
 beer-date: "2021-06-05"

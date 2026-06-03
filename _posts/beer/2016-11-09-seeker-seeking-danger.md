@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-seeker-seeking-danger.md
-title: Seeker Seeking Danger
+filename: "_posts/beer/2016-11-09-seeker-seeking-danger.md"
+title: "Seeker Seeking Danger"
 category: beer
 score: 8.5
 beer-date: "2025-09-26"

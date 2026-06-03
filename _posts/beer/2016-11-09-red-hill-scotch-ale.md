@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-red-hill-scotch-ale.md
-title: Red hill Scotch ale
+filename: "_posts/beer/2016-11-09-red-hill-scotch-ale.md"
+title: "Red hill Scotch ale"
 category: beer
 score: 3
 beer-date: "2016-01-06"

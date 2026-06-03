@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sambrooks-pale-ale.md
-title: Sambrooks pale ale
+filename: "_posts/beer/2016-11-09-sambrooks-pale-ale.md"
+title: "Sambrooks pale ale"
 category: beer
 score: 3
 beer-date: "2013-08-18"

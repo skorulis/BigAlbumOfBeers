@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sloop-juice-bomb.md
-title: Sloop juice bomb
+filename: "_posts/beer/2016-11-09-sloop-juice-bomb.md"
+title: "Sloop juice bomb"
 category: beer
 score: 6
 beer-date: "2024-06-15"

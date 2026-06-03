@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-timothy-taylor-landlord.md
-title: Timothy Taylor Landlord
+filename: "_posts/beer/2016-11-09-timothy-taylor-landlord.md"
+title: "Timothy Taylor Landlord"
 category: beer
 score: 7
 beer-date: "2013-03-09"

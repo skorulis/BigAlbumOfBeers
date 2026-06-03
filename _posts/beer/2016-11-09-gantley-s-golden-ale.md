@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-gantley-s-golden-ale.md
-title: Gantley’s golden ale
+filename: "_posts/beer/2016-11-09-gantley-s-golden-ale.md"
+title: "Gantley’s golden ale"
 category: beer
 score: 7
 beer-date: "2024-11-09"

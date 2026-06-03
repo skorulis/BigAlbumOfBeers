@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sierra-nevada-beer-camp-2017-golden-ipa.md
-title: Sierra Nevada beer camp 2017 golden IPA
+filename: "_posts/beer/2016-11-09-sierra-nevada-beer-camp-2017-golden-ipa.md"
+title: "Sierra Nevada beer camp 2017 golden IPA"
 category: beer
 score: 8
 beer-date: "2017-08-06"

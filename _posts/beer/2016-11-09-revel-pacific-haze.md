@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-revel-pacific-haze.md
-title: Revel pacific haze
+filename: "_posts/beer/2016-11-09-revel-pacific-haze.md"
+title: "Revel pacific haze"
 category: beer
 score: 8
 beer-date: "2024-11-09"

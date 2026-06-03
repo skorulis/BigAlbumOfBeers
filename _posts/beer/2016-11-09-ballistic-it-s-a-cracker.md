@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballistic-it-s-a-cracker.md
-title: Ballistic it’s a cracker
+filename: "_posts/beer/2016-11-09-ballistic-it-s-a-cracker.md"
+title: "Ballistic it’s a cracker"
 category: beer
 score: 8
 beer-date: "2021-12-28"

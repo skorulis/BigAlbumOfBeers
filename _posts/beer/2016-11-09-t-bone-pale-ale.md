@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-t-bone-pale-ale.md
-title: T-Bone pale ale
+filename: "_posts/beer/2016-11-09-t-bone-pale-ale.md"
+title: "T-Bone pale ale"
 category: beer
 score: 8
 beer-date: "2019-04-22"

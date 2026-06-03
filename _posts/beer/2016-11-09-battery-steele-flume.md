@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-battery-steele-flume.md
-title: Battery Steele flume
+filename: "_posts/beer/2016-11-09-battery-steele-flume.md"
+title: "Battery Steele flume"
 category: beer
 score: 8
 beer-date: "2023-08-26"

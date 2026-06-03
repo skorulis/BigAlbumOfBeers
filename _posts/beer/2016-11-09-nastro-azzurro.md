@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nastro-azzurro.md
-title: Nastro azzurro
+filename: "_posts/beer/2016-11-09-nastro-azzurro.md"
+title: "Nastro azzurro"
 category: beer
 score: 6
 beer-date: "2017-07-12"

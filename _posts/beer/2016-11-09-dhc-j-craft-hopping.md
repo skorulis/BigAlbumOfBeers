@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dhc-j-craft-hopping.md
-title: DHC J craft hopping
+filename: "_posts/beer/2016-11-09-dhc-j-craft-hopping.md"
+title: "DHC J craft hopping"
 category: beer
 score: 8
 beer-date: "2023-03-31"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-aladaris-gaisais.md
-title: Aladaris Gaisais
+filename: "_posts/beer/2016-11-09-aladaris-gaisais.md"
+title: "Aladaris Gaisais"
 category: beer
 score: 6
 beer-date: "2013-10-25"

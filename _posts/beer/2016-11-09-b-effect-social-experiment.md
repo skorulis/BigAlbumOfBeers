@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-b-effect-social-experiment.md
-title: B effect social experiment
+filename: "_posts/beer/2016-11-09-b-effect-social-experiment.md"
+title: "B effect social experiment"
 category: beer
 score: 8.5
 beer-date: "2022-09-21"
@@ -11,6 +11,6 @@ img: /img/list/b-effect-social-experiment.jpeg
 untappd: "https://untappd.com/b/b-effect--social-experiment/3780728"
 country: "New Zealand"
 brewery: "b.effect "
-breweryURL: "/brewery/b-effect-.html"
+breweryURL: "/brewery/b-effect.html"
 style: "IPA - Other"
 ---

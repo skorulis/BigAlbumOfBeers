@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-jugganaut.md
-title: Bracket jugganaut
+filename: "_posts/beer/2016-11-09-bracket-jugganaut.md"
+title: "Bracket jugganaut"
 category: beer
 score: 10
 beer-date: "2023-08-26"

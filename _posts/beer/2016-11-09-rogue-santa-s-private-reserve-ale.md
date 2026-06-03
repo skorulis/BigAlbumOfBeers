@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rogue-santa-s-private-reserve-ale.md
-title: Rogue Santa’s private reserve ale
+filename: "_posts/beer/2016-11-09-rogue-santa-s-private-reserve-ale.md"
+title: "Rogue Santa’s private reserve ale"
 category: beer
 score: 7
 beer-date: "2015-05-01"

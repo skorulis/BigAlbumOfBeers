@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-matilda-bay-alpha-pale-ale.md
-title: Matilda bay alpha pale ale
+filename: "_posts/beer/2016-11-09-matilda-bay-alpha-pale-ale.md"
+title: "Matilda bay alpha pale ale"
 category: beer
 score: 6
 beer-date: "2015-05-01"

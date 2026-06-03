@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sierra-nevada-otra-vez.md
-title: Sierra Nevada Otra vez
+filename: "_posts/beer/2016-11-09-sierra-nevada-otra-vez.md"
+title: "Sierra Nevada Otra vez"
 category: beer
 score: 6
 beer-date: "2016-06-16"

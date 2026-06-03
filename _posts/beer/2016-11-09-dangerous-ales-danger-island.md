@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dangerous-ales-danger-island.md
-title: Dangerous ales danger island
+filename: "_posts/beer/2016-11-09-dangerous-ales-danger-island.md"
+title: "Dangerous ales danger island"
 category: beer
 score: 8
 beer-date: "2024-11-09"

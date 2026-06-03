@@ -4,7 +4,7 @@ filename: "_posts/brewery/2016-11-09-kereru-brewing-company.md"
 title: "Kereru Brewing Company"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/kereru-brewing-company/19028"
-instagram: 'kererubrewing'
-twitter: 'kererubrewingco'
-facebook: 'https://www.facebook.com/kererubrewing'
+instagram: "kererubrewing"
+twitter: "kererubrewingco"
+facebook: "https://www.facebook.com/kererubrewing"
 ---

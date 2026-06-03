@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballast-point-sculpin.md
-title: Ballast point sculpin
+filename: "_posts/beer/2016-11-09-ballast-point-sculpin.md"
+title: "Ballast point sculpin"
 category: beer
 score: 8.5
 beer-date: "2018-01-13"

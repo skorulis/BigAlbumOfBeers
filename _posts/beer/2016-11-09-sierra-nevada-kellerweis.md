@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sierra-nevada-kellerweis.md
-title: Sierra Nevada kellerweis
+filename: "_posts/beer/2016-11-09-sierra-nevada-kellerweis.md"
+title: "Sierra Nevada kellerweis"
 category: beer
 score: 3
 beer-date: "2014-06-21"

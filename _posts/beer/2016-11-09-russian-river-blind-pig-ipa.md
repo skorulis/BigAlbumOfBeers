@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-russian-river-blind-pig-ipa.md
-title: Russian river blind pig IPA
+filename: "_posts/beer/2016-11-09-russian-river-blind-pig-ipa.md"
+title: "Russian river blind pig IPA"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

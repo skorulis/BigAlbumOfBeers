@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pasteur-street-passionfruit-wheat.md
-title: Pasteur street passionfruit wheat
+filename: "_posts/beer/2016-11-09-pasteur-street-passionfruit-wheat.md"
+title: "Pasteur street passionfruit wheat"
 category: beer
 score: 9
 beer-date: "2018-02-17"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kicks-at-your-leisure.md
-title: Kicks At Your Leisure
+filename: "_posts/beer/2016-11-09-kicks-at-your-leisure.md"
+title: "Kicks At Your Leisure"
 category: beer
 score: 8
 beer-date: "2025-11-10"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mornington-ipa.md
-title: Mornington IPA
+filename: "_posts/beer/2016-11-09-mornington-ipa.md"
+title: "Mornington IPA"
 category: beer
 score: 8
 beer-date: "2016-01-07"

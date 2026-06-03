@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bad-shepherd-break-yo-fast.md
-title: Bad shepherd break yo fast
+filename: "_posts/beer/2016-11-09-bad-shepherd-break-yo-fast.md"
+title: "Bad shepherd break yo fast"
 category: beer
 score: 8.5
 beer-date: "2021-01-31"

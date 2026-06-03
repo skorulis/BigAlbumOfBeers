@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-north-west-pale.md
-title: Pirate life north west pale
+filename: "_posts/beer/2016-11-09-pirate-life-north-west-pale.md"
+title: "Pirate life north west pale"
 category: beer
 score: 7
 beer-date: "2019-11-22"

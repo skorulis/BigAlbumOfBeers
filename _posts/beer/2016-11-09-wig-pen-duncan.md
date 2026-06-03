@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wig-pen-duncan.md
-title: Wig & pen Duncan
+filename: "_posts/beer/2016-11-09-wig-pen-duncan.md"
+title: "Wig & pen Duncan"
 category: beer
 score: 6
 beer-date: "2016-02-14"

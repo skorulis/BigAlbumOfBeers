@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-vilkmerges-kvietinis.md
-title: Vilkmergės kvietinis
+filename: "_posts/beer/2016-11-09-vilkmerges-kvietinis.md"
+title: "Vilkmergės kvietinis"
 category: beer
 score: 6
 beer-date: "2016-03-16"

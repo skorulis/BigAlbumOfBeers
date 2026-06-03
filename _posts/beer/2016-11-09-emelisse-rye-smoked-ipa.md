@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-emelisse-rye-smoked-ipa.md
-title: Emelisse rye smoked IPA
+filename: "_posts/beer/2016-11-09-emelisse-rye-smoked-ipa.md"
+title: "Emelisse rye smoked IPA"
 category: beer
 score: 5
 beer-date: "2016-03-16"

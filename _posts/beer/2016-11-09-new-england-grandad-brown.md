@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-grandad-brown.md
-title: New England grandad brown
+filename: "_posts/beer/2016-11-09-new-england-grandad-brown.md"
+title: "New England grandad brown"
 category: beer
 score: 7.5
 beer-date: "2021-06-05"

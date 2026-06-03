@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bishops-finger.md
-title: Bishops finger
+filename: "_posts/beer/2016-11-09-bishops-finger.md"
+title: "Bishops finger"
 category: beer
 score: 3
 beer-date: "2012-12-01"

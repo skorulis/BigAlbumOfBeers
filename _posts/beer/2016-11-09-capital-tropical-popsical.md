@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-capital-tropical-popsical.md
-title: Capital tropical popsical
+filename: "_posts/beer/2016-11-09-capital-tropical-popsical.md"
+title: "Capital tropical popsical"
 category: beer
 score: 9
 beer-date: "2018-12-27"

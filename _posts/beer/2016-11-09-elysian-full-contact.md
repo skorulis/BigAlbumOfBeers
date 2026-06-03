@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-elysian-full-contact.md
-title: Elysian full contact
+filename: "_posts/beer/2016-11-09-elysian-full-contact.md"
+title: "Elysian full contact"
 category: beer
 score: 9
 beer-date: "2023-02-26"

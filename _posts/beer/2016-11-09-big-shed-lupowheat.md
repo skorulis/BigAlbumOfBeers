@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-big-shed-lupowheat.md
-title: Big shed LUPOwheat
+filename: "_posts/beer/2016-11-09-big-shed-lupowheat.md"
+title: "Big shed LUPOwheat"
 category: beer
 score: 7.5
 beer-date: "2021-12-28"

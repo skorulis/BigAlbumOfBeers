@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-molly-rose-local-weiss.md
-title: Molly Rose Local Weiss
+filename: "_posts/beer/2016-11-09-molly-rose-local-weiss.md"
+title: "Molly Rose Local Weiss"
 category: beer
 score: 8
 beer-date: "2024-12-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lervig-tasty-juice.md
-title: Lervig tasty juice
+filename: "_posts/beer/2016-11-09-lervig-tasty-juice.md"
+title: "Lervig tasty juice"
 category: beer
 score: 8.5
 beer-date: "2023-10-02"

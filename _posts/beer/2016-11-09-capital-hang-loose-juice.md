@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-capital-hang-loose-juice.md
-title: Capital hang loose juice
+filename: "_posts/beer/2016-11-09-capital-hang-loose-juice.md"
+title: "Capital hang loose juice"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

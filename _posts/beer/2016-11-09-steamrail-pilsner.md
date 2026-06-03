@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-steamrail-pilsner.md
-title: Steamrail pilsner
+filename: "_posts/beer/2016-11-09-steamrail-pilsner.md"
+title: "Steamrail pilsner"
 category: beer
 score: 6
 beer-date: "2015-07-10"
@@ -11,6 +11,6 @@ img: /img/list/steamrail-pilsner.jpeg
 untappd: "https://untappd.com/b/steamrail-brewing-company--coles--hops-dropper/532438"
 country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
-breweryURL: "/brewery/steamrail-brewing-company--coles.html"
+breweryURL: "/brewery/steamrail-brewing-company-coles.html"
 style: "Pilsner - Other"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-azacc-attack.md
-title: Sauce Azacc attack
+filename: "_posts/beer/2016-11-09-sauce-azacc-attack.md"
+title: "Sauce Azacc attack"
 category: beer
 score: 7.5
 beer-date: "2025-09-26"

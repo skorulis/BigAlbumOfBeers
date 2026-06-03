@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-the-wallet-inspector.md
-title: Bridge Road The Wallet Inspector
+filename: "_posts/beer/2016-11-09-bridge-road-the-wallet-inspector.md"
+title: "Bridge Road The Wallet Inspector"
 category: beer
 score: 7.5
 beer-date: "2024-12-28"

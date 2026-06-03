@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-nation-st-nick-s-nightcap.md
-title: Hop nation St Nick’s nightcap
+filename: "_posts/beer/2016-11-09-hop-nation-st-nick-s-nightcap.md"
+title: "Hop nation St Nick’s nightcap"
 category: beer
 score: 6
 beer-date: "2021-12-28"

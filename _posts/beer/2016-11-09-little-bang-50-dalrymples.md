@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-bang-50-dalrymples.md
-title: Little bang 50 dalrymples
+filename: "_posts/beer/2016-11-09-little-bang-50-dalrymples.md"
+title: "Little bang 50 dalrymples"
 category: beer
 score: 8.5
 beer-date: "2021-04-02"

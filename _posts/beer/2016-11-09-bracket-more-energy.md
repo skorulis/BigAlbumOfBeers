@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-more-energy.md
-title: Bracket more energy
+filename: "_posts/beer/2016-11-09-bracket-more-energy.md"
+title: "Bracket more energy"
 category: beer
 score: 8.5
 beer-date: "2022-08-07"

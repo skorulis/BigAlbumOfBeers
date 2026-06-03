@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-village-days-frankie-s-wheat.md
-title: Village days Frankie’s wheat
+filename: "_posts/beer/2016-11-09-village-days-frankie-s-wheat.md"
+title: "Village days Frankie’s wheat"
 category: beer
 score: 7
 beer-date: "2024-03-29"

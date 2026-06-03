@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brouhaha-imperial-stout.md
-title: Brouhaha imperial stout
+filename: "_posts/beer/2016-11-09-brouhaha-imperial-stout.md"
+title: "Brouhaha imperial stout"
 category: beer
 score: 6
 beer-date: "2024-11-09"

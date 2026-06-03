@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bear-republic-racer-5.md
-title: Bear republic racer 5
+filename: "_posts/beer/2016-11-09-bear-republic-racer-5.md"
+title: "Bear republic racer 5"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-john-smiths-extra-smooth.md
-title: John smiths extra smooth
+filename: "_posts/beer/2016-11-09-john-smiths-extra-smooth.md"
+title: "John smiths extra smooth"
 category: beer
 score: 4
 beer-date: "2013-02-01"

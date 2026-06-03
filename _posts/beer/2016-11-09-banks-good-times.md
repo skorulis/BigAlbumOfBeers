@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-good-times.md
-title: Banks good times
+filename: "_posts/beer/2016-11-09-banks-good-times.md"
+title: "Banks good times"
 category: beer
 score: 7.5
 beer-date: "2024-03-29"

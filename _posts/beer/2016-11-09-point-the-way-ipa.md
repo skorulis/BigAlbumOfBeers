@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-point-the-way-ipa.md
-title: Point the way IPA
+filename: "_posts/beer/2016-11-09-point-the-way-ipa.md"
+title: "Point the way IPA"
 category: beer
 score: 8
 beer-date: "2015-10-17"

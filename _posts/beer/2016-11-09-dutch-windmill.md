@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dutch-windmill.md
-title: Dutch windmill
+filename: "_posts/beer/2016-11-09-dutch-windmill.md"
+title: "Dutch windmill"
 category: beer
 score: 5
 beer-date: "2015-04-13"

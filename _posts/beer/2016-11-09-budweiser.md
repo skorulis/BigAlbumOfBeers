@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-budweiser.md
-title: Budweiser
+filename: "_posts/beer/2016-11-09-budweiser.md"
+title: "Budweiser"
 category: beer
 score: 5
 beer-date: "2012-12-01"

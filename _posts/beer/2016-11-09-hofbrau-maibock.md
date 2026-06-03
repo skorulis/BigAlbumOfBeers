@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hofbrau-maibock.md
-title: Hofbrau maibock
+filename: "_posts/beer/2016-11-09-hofbrau-maibock.md"
+title: "Hofbrau maibock"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

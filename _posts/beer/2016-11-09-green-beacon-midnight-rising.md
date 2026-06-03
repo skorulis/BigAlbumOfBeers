@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-beacon-midnight-rising.md
-title: Green beacon midnight rising
+filename: "_posts/beer/2016-11-09-green-beacon-midnight-rising.md"
+title: "Green beacon midnight rising"
 category: beer
 score: 7
 beer-date: "2024-06-15"

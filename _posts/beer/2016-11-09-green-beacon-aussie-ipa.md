@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-beacon-aussie-ipa.md
-title: Green beacon Aussie IPA
+filename: "_posts/beer/2016-11-09-green-beacon-aussie-ipa.md"
+title: "Green beacon Aussie IPA"
 category: beer
 score: 8
 beer-date: "2023-02-28"

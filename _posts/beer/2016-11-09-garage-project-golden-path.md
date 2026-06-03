@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-golden-path.md
-title: Garage project golden path
+filename: "_posts/beer/2016-11-09-garage-project-golden-path.md"
+title: "Garage project golden path"
 category: beer
 score: 8.5
 beer-date: "2021-04-02"

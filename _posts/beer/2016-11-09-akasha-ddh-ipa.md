@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-ddh-ipa.md
-title: Akasha DDH IPA
+filename: "_posts/beer/2016-11-09-akasha-ddh-ipa.md"
+title: "Akasha DDH IPA"
 category: beer
 score: 6.5
 beer-date: "2023-02-28"
@@ -11,6 +11,6 @@ img: /img/list/akasha-ddh-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-ddh-ipa/3425011"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - American"
 ---

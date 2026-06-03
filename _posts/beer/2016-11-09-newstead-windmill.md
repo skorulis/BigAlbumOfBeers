@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-newstead-windmill.md
-title: Newstead windmill
+filename: "_posts/beer/2016-11-09-newstead-windmill.md"
+title: "Newstead windmill"
 category: beer
 score: 6.5
 beer-date: "2021-06-05"

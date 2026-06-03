@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-staves-ava-d.md
-title: Staves ava d
+filename: "_posts/beer/2016-11-09-staves-ava-d.md"
+title: "Staves ava d"
 category: beer
 score: 7
 beer-date: "2022-08-07"

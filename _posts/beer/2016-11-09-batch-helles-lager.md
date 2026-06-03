@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-helles-lager.md
-title: Batch helles lager
+filename: "_posts/beer/2016-11-09-batch-helles-lager.md"
+title: "Batch helles lager"
 category: beer
 score: 5.5
 beer-date: "2020-09-26"

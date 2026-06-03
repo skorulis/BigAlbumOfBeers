@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-smouldering-stump-smoked-porter.md
-title: New England smouldering stump smoked porter
+filename: "_posts/beer/2016-11-09-new-england-smouldering-stump-smoked-porter.md"
+title: "New England smouldering stump smoked porter"
 category: beer
 score: 7
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fox-hat-red-pelt.md
-title: Fox hat red pelt
+filename: "_posts/beer/2016-11-09-fox-hat-red-pelt.md"
+title: "Fox hat red pelt"
 category: beer
 score: 6
 beer-date: "2017-02-11"

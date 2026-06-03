@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rodenbach-alexander.md
-title: Rodenbach Alexander
+filename: "_posts/beer/2016-11-09-rodenbach-alexander.md"
+title: "Rodenbach Alexander"
 category: beer
 score: 8.5
 beer-date: "2021-01-14"

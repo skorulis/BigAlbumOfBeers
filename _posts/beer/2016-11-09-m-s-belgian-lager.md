@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-m-s-belgian-lager.md
-title: M&S Belgian Lager
+filename: "_posts/beer/2016-11-09-m-s-belgian-lager.md"
+title: "M&S Belgian Lager"
 category: beer
 score: 6
 beer-date: "2013-02-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-fools-gold.md
-title: Boatrocker Fools Gold
+filename: "_posts/beer/2016-11-09-boatrocker-fools-gold.md"
+title: "Boatrocker Fools Gold"
 category: beer
 score: 4.5
 beer-date: "2025-09-26"

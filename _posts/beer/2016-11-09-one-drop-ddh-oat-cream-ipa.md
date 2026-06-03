@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-drop-ddh-oat-cream-ipa.md
-title: One drop DDH Oat cream IPA
+filename: "_posts/beer/2016-11-09-one-drop-ddh-oat-cream-ipa.md"
+title: "One drop DDH Oat cream IPA"
 category: beer
 score: 7.5
 beer-date: "2020-09-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-and-wood-easy-pale-ale.md
-title: Stone and Wood Easy Pale Ale
+filename: "_posts/beer/2016-11-09-stone-and-wood-easy-pale-ale.md"
+title: "Stone and Wood Easy Pale Ale"
 category: beer
 score: 6
 beer-date: "2025-12-28"

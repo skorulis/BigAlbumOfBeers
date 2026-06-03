@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-you-ve-been-naughty.md
-title: White bay you’ve been naughty
+filename: "_posts/beer/2016-11-09-white-bay-you-ve-been-naughty.md"
+title: "White bay you’ve been naughty"
 category: beer
 score: 8.5
 beer-date: "2024-03-29"

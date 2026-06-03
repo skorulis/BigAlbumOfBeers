@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-drakes-juicy-hoot.md
-title: Drakes juicy hoot
+filename: "_posts/beer/2016-11-09-drakes-juicy-hoot.md"
+title: "Drakes juicy hoot"
 category: beer
 score: 6.5
 beer-date: "2024-06-15"

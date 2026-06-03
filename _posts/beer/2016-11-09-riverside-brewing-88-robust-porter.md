@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-riverside-brewing-88-robust-porter.md
-title: Riverside brewing 88 robust porter
+filename: "_posts/beer/2016-11-09-riverside-brewing-88-robust-porter.md"
+title: "Riverside brewing 88 robust porter"
 category: beer
 score: 7
 beer-date: "2016-05-24"

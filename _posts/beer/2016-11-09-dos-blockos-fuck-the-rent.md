@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dos-blockos-fuck-the-rent.md
-title: Dos blockos fuck the rent
+filename: "_posts/beer/2016-11-09-dos-blockos-fuck-the-rent.md"
+title: "Dos blockos fuck the rent"
 category: beer
 score: 7
 beer-date: "2017-05-27"

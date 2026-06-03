@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mildura-chocolate-oatmeal-stout.md
-title: Mildura chocolate oatmeal stout
+filename: "_posts/beer/2016-11-09-mildura-chocolate-oatmeal-stout.md"
+title: "Mildura chocolate oatmeal stout"
 category: beer
 score: 5
 beer-date: "2023-02-26"

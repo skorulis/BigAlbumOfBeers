@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-conspirators-the-bookie.md
-title: Conspirators The bookie
+filename: "_posts/beer/2016-11-09-conspirators-the-bookie.md"
+title: "Conspirators The bookie"
 category: beer
 score: 7
 beer-date: "2018-06-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-3-ravens-xmas-trifle-shake.md
-title: 3 ravens xmas trifle shake
+filename: "_posts/beer/2016-11-09-3-ravens-xmas-trifle-shake.md"
+title: "3 ravens xmas trifle shake"
 category: beer
 score: 9
 beer-date: "2018-12-27"

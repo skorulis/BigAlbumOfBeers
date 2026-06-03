@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yulli-s-fat-nerd-vanilla-porter.md
-title: Yulli's fat nerd vanilla porter
+filename: "_posts/beer/2016-11-09-yulli-s-fat-nerd-vanilla-porter.md"
+title: "Yulli's fat nerd vanilla porter"
 category: beer
 score: 7
 beer-date: "2016-11-13"

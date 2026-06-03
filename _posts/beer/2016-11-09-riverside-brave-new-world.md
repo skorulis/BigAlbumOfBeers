@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-riverside-brave-new-world.md
-title: Riverside brave new world
+filename: "_posts/beer/2016-11-09-riverside-brave-new-world.md"
+title: "Riverside brave new world"
 category: beer
 score: 7
 beer-date: "2020-11-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-asahi-fortune-phoenix.md
-title: Asahi fortune phoenix
+filename: "_posts/beer/2016-11-09-asahi-fortune-phoenix.md"
+title: "Asahi fortune phoenix"
 category: beer
 score: 6.5
 beer-date: "2023-03-31"

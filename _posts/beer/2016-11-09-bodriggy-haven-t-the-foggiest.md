@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bodriggy-haven-t-the-foggiest.md
-title: Bodriggy Haven’t The Foggiest
+filename: "_posts/beer/2016-11-09-bodriggy-haven-t-the-foggiest.md"
+title: "Bodriggy Haven’t The Foggiest"
 category: beer
 score: 8.5
 beer-date: "2025-12-28"

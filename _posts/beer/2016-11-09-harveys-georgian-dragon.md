@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-harveys-georgian-dragon.md
-title: Harveys Georgian Dragon
+filename: "_posts/beer/2016-11-09-harveys-georgian-dragon.md"
+title: "Harveys Georgian Dragon"
 category: beer
 score: 7
 beer-date: "2013-12-23"

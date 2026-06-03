@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tuatara-outrigger.md
-title: Tuatara outrigger
+filename: "_posts/beer/2016-11-09-tuatara-outrigger.md"
+title: "Tuatara outrigger"
 category: beer
 score: 6.5
 beer-date: "2016-06-16"

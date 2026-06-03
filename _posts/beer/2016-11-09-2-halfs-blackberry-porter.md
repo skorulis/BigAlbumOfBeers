@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-blackberry-porter.md
-title: 2 halfs blackberry porter
+filename: "_posts/beer/2016-11-09-2-halfs-blackberry-porter.md"
+title: "2 halfs blackberry porter"
 category: beer
 score: 7
 beer-date: "2022-09-21"

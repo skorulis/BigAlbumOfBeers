@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rehn-extra-stout.md
-title: Rehn Extra stout
+filename: "_posts/beer/2016-11-09-rehn-extra-stout.md"
+title: "Rehn Extra stout"
 category: beer
 score: 8
 beer-date: "2018-06-02"

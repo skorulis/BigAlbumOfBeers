@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-nation-rattenhund.md
-title: Hop nation rattenhund
+filename: "_posts/beer/2016-11-09-hop-nation-rattenhund.md"
+title: "Hop nation rattenhund"
 category: beer
 score: 5
 beer-date: "2021-06-05"

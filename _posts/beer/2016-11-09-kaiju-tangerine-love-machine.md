@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kaiju-tangerine-love-machine.md
-title: Kaiju tangerine love machine
+filename: "_posts/beer/2016-11-09-kaiju-tangerine-love-machine.md"
+title: "Kaiju tangerine love machine"
 category: beer
 score: 7.5
 beer-date: "2021-12-28"
@@ -11,6 +11,6 @@ img: /img/list/kaiju-tangerine-love-machine.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-tangerine-love-machine/4604497"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "/brewery/kaiju--beer.html"
+breweryURL: "/brewery/kaiju-beer.html"
 style: "Sour - Fruited"
 ---

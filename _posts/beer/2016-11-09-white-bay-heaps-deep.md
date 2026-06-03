@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-heaps-deep.md
-title: White bay heaps deep
+filename: "_posts/beer/2016-11-09-white-bay-heaps-deep.md"
+title: "White bay heaps deep"
 category: beer
 score: 8
 beer-date: "2021-04-02"

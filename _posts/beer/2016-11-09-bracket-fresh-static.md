@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-fresh-static.md
-title: Bracket fresh static
+filename: "_posts/beer/2016-11-09-bracket-fresh-static.md"
+title: "Bracket fresh static"
 category: beer
 score: 8.5
 beer-date: "2022-10-15"

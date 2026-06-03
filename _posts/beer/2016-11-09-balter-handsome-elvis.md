@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-balter-handsome-elvis.md
-title: Balter handsome elvis
+filename: "_posts/beer/2016-11-09-balter-handsome-elvis.md"
+title: "Balter handsome elvis"
 category: beer
 score: 7.5
 beer-date: "2019-06-22"

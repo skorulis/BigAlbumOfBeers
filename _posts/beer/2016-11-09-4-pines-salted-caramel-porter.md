@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-salted-caramel-porter.md
-title: 4 pines salted caramel porter
+filename: "_posts/beer/2016-11-09-4-pines-salted-caramel-porter.md"
+title: "4 pines salted caramel porter"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

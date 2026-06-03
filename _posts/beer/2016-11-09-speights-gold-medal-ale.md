@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-speights-gold-medal-ale.md
-title: Speights gold medal ale
+filename: "_posts/beer/2016-11-09-speights-gold-medal-ale.md"
+title: "Speights gold medal ale"
 category: beer
 score: 3
 beer-date: "2022-09-21"

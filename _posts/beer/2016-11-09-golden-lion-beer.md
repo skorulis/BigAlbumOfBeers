@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-golden-lion-beer.md
-title: Golden lion beer
+filename: "_posts/beer/2016-11-09-golden-lion-beer.md"
+title: "Golden lion beer"
 category: beer
 score: 7
 beer-date: "2015-02-27"

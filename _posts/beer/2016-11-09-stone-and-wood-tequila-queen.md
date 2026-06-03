@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-and-wood-tequila-queen.md
-title: Stone and wood Tequila queen
+filename: "_posts/beer/2016-11-09-stone-and-wood-tequila-queen.md"
+title: "Stone and wood Tequila queen"
 category: beer
 score: 8
 beer-date: "2021-06-05"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-atomic-paul-s-porter.md
-title: Atomic Paul’s porter
+filename: "_posts/beer/2016-11-09-atomic-paul-s-porter.md"
+title: "Atomic Paul’s porter"
 category: beer
 score: 7
 beer-date: "2020-11-13"

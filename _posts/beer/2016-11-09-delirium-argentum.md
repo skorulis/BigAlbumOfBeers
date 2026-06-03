@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-delirium-argentum.md
-title: Delirium Argentum
+filename: "_posts/beer/2016-11-09-delirium-argentum.md"
+title: "Delirium Argentum"
 category: beer
 score: 8
 beer-date: "2016-05-24"

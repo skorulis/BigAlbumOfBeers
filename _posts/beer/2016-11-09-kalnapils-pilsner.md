@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kalnapils-pilsner.md
-title: Kalnapils pilsner
+filename: "_posts/beer/2016-11-09-kalnapils-pilsner.md"
+title: "Kalnapils pilsner"
 category: beer
 score: 7
 beer-date: "2017-02-22"
@@ -11,6 +11,6 @@ img: /img/list/kalnapils-pilsner.jpeg
 untappd: "https://untappd.com/b/kalnapilio-tauro-grupe-uab--kalnapilis-pilsner/383546"
 country: "Lithuania"
 brewery: "Kalnapilio-Tauro Grupe UAB "
-breweryURL: "/brewery/kalnapilio-tauro-grupe-uab-.html"
+breweryURL: "/brewery/kalnapilio-tauro-grupe-uab.html"
 style: "Pilsner - Other"
 ---

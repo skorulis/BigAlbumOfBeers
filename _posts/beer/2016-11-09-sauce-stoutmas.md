@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-stoutmas.md
-title: Sauce stoutmas
+filename: "_posts/beer/2016-11-09-sauce-stoutmas.md"
+title: "Sauce stoutmas"
 category: beer
 score: 7.5
 beer-date: "2021-12-28"

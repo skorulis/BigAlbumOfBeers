@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-room-for-pud.md
-title: Mountain culture room for pud
+filename: "_posts/beer/2016-11-09-mountain-culture-room-for-pud.md"
+title: "Mountain culture room for pud"
 category: beer
 score: 8.5
 beer-date: "2023-02-26"

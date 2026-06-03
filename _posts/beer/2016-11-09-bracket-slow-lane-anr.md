@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-slow-lane-anr.md
-title: Bracket slow lane ANR
+filename: "_posts/beer/2016-11-09-bracket-slow-lane-anr.md"
+title: "Bracket slow lane ANR"
 category: beer
 score: 8
 beer-date: "2022-09-21"

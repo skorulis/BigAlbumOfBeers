@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-greenock-brewers-victorville.md
-title: Greenock brewers Victorville
+filename: "_posts/beer/2016-11-09-greenock-brewers-victorville.md"
+title: "Greenock brewers Victorville"
 category: beer
 score: 8
 beer-date: "2018-06-02"

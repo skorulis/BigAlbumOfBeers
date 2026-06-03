@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-oat-cream-dream.md
-title: Batch oat cream dream
+filename: "_posts/beer/2016-11-09-batch-oat-cream-dream.md"
+title: "Batch oat cream dream"
 category: beer
 score: 7.5
 beer-date: "2024-11-09"

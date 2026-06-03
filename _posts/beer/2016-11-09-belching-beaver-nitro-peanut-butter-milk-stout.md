@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-belching-beaver-nitro-peanut-butter-milk-stout.md
-title: Belching Beaver Nitro Peanut Butter Milk Stout
+filename: "_posts/beer/2016-11-09-belching-beaver-nitro-peanut-butter-milk-stout.md"
+title: "Belching Beaver Nitro Peanut Butter Milk Stout"
 category: beer
 score: 8
 beer-date: "2025-09-26"

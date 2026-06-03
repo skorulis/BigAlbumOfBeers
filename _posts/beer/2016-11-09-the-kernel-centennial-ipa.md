@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-kernel-centennial-ipa.md
-title: The kernel centennial IPA
+filename: "_posts/beer/2016-11-09-the-kernel-centennial-ipa.md"
+title: "The kernel centennial IPA"
 category: beer
 score: 6
 beer-date: "2017-06-02"

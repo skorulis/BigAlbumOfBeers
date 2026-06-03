@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cleanskin-green-beer.md
-title: Cleanskin Green beer
+filename: "_posts/beer/2016-11-09-cleanskin-green-beer.md"
+title: "Cleanskin Green beer"
 category: beer
 score: 6
 beer-date: "2016-09-21"

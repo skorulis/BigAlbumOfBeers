@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-feral-watermelon-warhead.md
-title: Feral watermelon Warhead
+filename: "_posts/beer/2016-11-09-feral-watermelon-warhead.md"
+title: "Feral watermelon Warhead"
 category: beer
 score: 7.5
 beer-date: "2018-12-27"

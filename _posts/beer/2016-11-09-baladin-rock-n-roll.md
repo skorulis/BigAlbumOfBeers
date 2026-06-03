@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-baladin-rock-n-roll.md
-title: Baladin rock n roll
+filename: "_posts/beer/2016-11-09-baladin-rock-n-roll.md"
+title: "Baladin rock n roll"
 category: beer
 score: 9.5
 beer-date: "2022-08-07"

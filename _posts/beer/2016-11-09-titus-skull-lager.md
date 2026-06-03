@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-titus-skull-lager.md
-title: Titus skull lager
+filename: "_posts/beer/2016-11-09-titus-skull-lager.md"
+title: "Titus skull lager"
 category: beer
 score: 6
 beer-date: "2023-02-26"

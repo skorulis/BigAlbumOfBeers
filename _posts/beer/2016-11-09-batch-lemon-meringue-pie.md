@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-lemon-meringue-pie.md
-title: Batch lemon meringue pie
+filename: "_posts/beer/2016-11-09-batch-lemon-meringue-pie.md"
+title: "Batch lemon meringue pie"
 category: beer
 score: 7
 beer-date: "2020-09-26"

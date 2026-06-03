@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brick-lane-avalanche.md
-title: Brick lane avalanche
+filename: "_posts/beer/2016-11-09-brick-lane-avalanche.md"
+title: "Brick lane avalanche"
 category: beer
 score: 8
 beer-date: "2022-08-07"

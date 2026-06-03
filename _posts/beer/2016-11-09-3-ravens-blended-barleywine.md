@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-3-ravens-blended-barleywine.md
-title: 3 Ravens blended barleywine
+filename: "_posts/beer/2016-11-09-3-ravens-blended-barleywine.md"
+title: "3 Ravens blended barleywine"
 category: beer
 score: 6.5
 beer-date: "2019-04-22"

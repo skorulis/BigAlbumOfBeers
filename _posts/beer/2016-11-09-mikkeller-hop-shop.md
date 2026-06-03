@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mikkeller-hop-shop.md
-title: Mikkeller hop shop
+filename: "_posts/beer/2016-11-09-mikkeller-hop-shop.md"
+title: "Mikkeller hop shop"
 category: beer
 score: 9
 beer-date: "2023-10-02"

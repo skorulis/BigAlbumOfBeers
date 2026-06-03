@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-snaatch-lager.md
-title: Snaatch lager
+filename: "_posts/beer/2016-11-09-snaatch-lager.md"
+title: "Snaatch lager"
 category: beer
 score: 5
 beer-date: "2015-01-28"

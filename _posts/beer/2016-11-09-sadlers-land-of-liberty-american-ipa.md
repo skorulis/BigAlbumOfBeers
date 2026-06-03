@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sadlers-land-of-liberty-american-ipa.md
-title: Sadlers Land of liberty American IPA
+filename: "_posts/beer/2016-11-09-sadlers-land-of-liberty-american-ipa.md"
+title: "Sadlers Land of liberty American IPA"
 category: beer
 score: 4
 beer-date: "2017-06-02"

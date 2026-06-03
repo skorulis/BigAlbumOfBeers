@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-bang-face-inverter.md
-title: Little bang face inverter
+filename: "_posts/beer/2016-11-09-little-bang-face-inverter.md"
+title: "Little bang face inverter"
 category: beer
 score: 4
 beer-date: "2021-01-01"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lord-nelson-let-there-be-light.md
-title: Lord Nelson Let There Be Light
+filename: "_posts/beer/2016-11-09-lord-nelson-let-there-be-light.md"
+title: "Lord Nelson Let There Be Light"
 category: beer
 score: 6
 beer-date: "2025-09-26"

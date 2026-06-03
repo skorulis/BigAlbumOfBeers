@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-torgets-ode-to-hops.md
-title: Torgets ode to hops
+filename: "_posts/beer/2016-11-09-torgets-ode-to-hops.md"
+title: "Torgets ode to hops"
 category: beer
 score: 5
 beer-date: "2023-10-02"

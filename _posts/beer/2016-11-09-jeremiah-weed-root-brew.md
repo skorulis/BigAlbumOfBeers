@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jeremiah-weed-root-brew.md
-title: Jeremiah Weed Root brew
+filename: "_posts/beer/2016-11-09-jeremiah-weed-root-brew.md"
+title: "Jeremiah Weed Root brew"
 category: beer
 score: null
 beer-date: "2013-01-13"

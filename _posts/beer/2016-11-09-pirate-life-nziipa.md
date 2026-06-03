@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-nziipa.md
-title: Pirate life NZIIPA
+filename: "_posts/beer/2016-11-09-pirate-life-nziipa.md"
+title: "Pirate life NZIIPA"
 category: beer
 score: 8
 beer-date: "2024-11-23"

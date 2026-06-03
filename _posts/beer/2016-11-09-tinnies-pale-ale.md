@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tinnies-pale-ale.md
-title: Tinnies pale ale
+filename: "_posts/beer/2016-11-09-tinnies-pale-ale.md"
+title: "Tinnies pale ale"
 category: beer
 score: 6.5
 beer-date: "2020-07-31"

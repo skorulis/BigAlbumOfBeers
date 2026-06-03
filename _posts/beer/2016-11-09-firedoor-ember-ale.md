@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-firedoor-ember-ale.md
-title: Firedoor ember ale
+filename: "_posts/beer/2016-11-09-firedoor-ember-ale.md"
+title: "Firedoor ember ale"
 category: beer
 score: 7
 beer-date: "2021-04-02"

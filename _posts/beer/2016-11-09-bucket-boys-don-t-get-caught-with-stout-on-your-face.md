@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bucket-boys-don-t-get-caught-with-stout-on-your-face.md
-title: Bucket boys don’t get caught with stout on your face
+filename: "_posts/beer/2016-11-09-bucket-boys-don-t-get-caught-with-stout-on-your-face.md"
+title: "Bucket boys don’t get caught with stout on your face"
 category: beer
 score: 8.5
 beer-date: "2019-03-14"

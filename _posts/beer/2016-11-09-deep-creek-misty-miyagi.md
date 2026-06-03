@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deep-creek-misty-miyagi.md
-title: Deep creek misty miyagi
+filename: "_posts/beer/2016-11-09-deep-creek-misty-miyagi.md"
+title: "Deep creek misty miyagi"
 category: beer
 score: 7.5
 beer-date: "2019-06-22"

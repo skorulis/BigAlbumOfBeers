@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bondi-lawn-lager.md
-title: Bondi lawn lager
+filename: "_posts/beer/2016-11-09-bondi-lawn-lager.md"
+title: "Bondi lawn lager"
 category: beer
 score: 5
 beer-date: "2023-02-28"

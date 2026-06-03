@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-philter-all-hearts-break-loose.md
-title: Philter all hearts break loose
+filename: "_posts/beer/2016-11-09-philter-all-hearts-break-loose.md"
+title: "Philter all hearts break loose"
 category: beer
 score: 5.5
 beer-date: "2022-08-07"

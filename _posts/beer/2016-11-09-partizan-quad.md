@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-partizan-quad.md
-title: Partizan Quad
+filename: "_posts/beer/2016-11-09-partizan-quad.md"
+title: "Partizan Quad"
 category: beer
 score: null
 beer-date: "2013-12-23"

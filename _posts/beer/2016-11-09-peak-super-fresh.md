@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-peak-super-fresh.md
-title: Peak super fresh
+filename: "_posts/beer/2016-11-09-peak-super-fresh.md"
+title: "Peak super fresh"
 category: beer
 score: 3.5
 beer-date: "2024-06-15"

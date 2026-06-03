@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blas-trigo.md
-title: Blas trigo
+filename: "_posts/beer/2016-11-09-blas-trigo.md"
+title: "Blas trigo"
 category: beer
 score: 7
 beer-date: "2013-07-19"

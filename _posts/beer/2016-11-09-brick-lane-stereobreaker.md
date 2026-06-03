@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brick-lane-stereobreaker.md
-title: Brick lane stereobreaker
+filename: "_posts/beer/2016-11-09-brick-lane-stereobreaker.md"
+title: "Brick lane stereobreaker"
 category: beer
 score: 7.5
 beer-date: "2021-11-12"

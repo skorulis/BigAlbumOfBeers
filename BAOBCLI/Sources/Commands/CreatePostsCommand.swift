@@ -59,20 +59,20 @@ extension CreatePostsCommand {
             var output = """
             ---
             layout: brewery
-            filename: "\(filename)"
-            title: "\(brewery.brewery_name)"
+            filename: \(filename.yamlDoubleQuoted)
+            title: \(brewery.brewery_name.yamlDoubleQuoted)
             permalink: /brewery/:title.html
-            breweryURL: "\(url)"
+            breweryURL: \(url.yamlDoubleQuoted)
             """
             
             if let instagram = brewery.contact.instagram {
-                output += "\ninstagram: '\(instagram)'"
+                output += "\ninstagram: \(instagram.yamlDoubleQuoted)"
             }
             if let twitter = brewery.contact.twitter {
-                output += "\ntwitter: '\(twitter)'"
+                output += "\ntwitter: \(twitter.yamlDoubleQuoted)"
             }
             if let facebook = brewery.contact.facebook {
-                output += "\nfacebook: '\(facebook)'"
+                output += "\nfacebook: \(facebook.yamlDoubleQuoted)"
             }
             output += "\n---\n"
             try Data(output.utf8).write(to: URL(filePath: filename))
@@ -130,29 +130,29 @@ extension CreatePostsCommand {
             var output = """
             ---
             layout: beer
-            filename: \(filename)
-            title: \(beer.name)
+            filename: \(filename.yamlDoubleQuoted)
+            title: \(beer.name.yamlDoubleQuoted)
             category: beer
             score: \(beer.score ?? "")
-            beer-date: "\(beer.date)"
-            desc: "\(beer.desc)"
+            beer-date: \(beer.date.yamlDoubleQuoted)
+            desc: \(beer.desc.yamlDoubleQuoted)
             permalink: /beer/:title.html
             img: /\(imgPath)\n
             """
             
             if let untappdURL = extra?.untappd.url {
-                output += "untappd: \"\(untappdURL)\"\n"
+                output += "untappd: \(untappdURL.yamlDoubleQuoted)\n"
             }
             if let country = extra?.untappd.country {
-                output += "country: \"\(country)\"\n"
+                output += "country: \(country.yamlDoubleQuoted)\n"
             }
             if let breweryId = extra?.untappd.breweryId, let brewery = breweries.with(id: breweryId) {
                 let breweryURL = "/brewery/\(brewery.brewery_name.slugifySafe()).html"
-                output += "brewery: \"\(brewery.brewery_name)\"\n"
-                output += "breweryURL: \"\(breweryURL)\"\n"
+                output += "brewery: \(brewery.brewery_name.yamlDoubleQuoted)\n"
+                output += "breweryURL: \(breweryURL.yamlDoubleQuoted)\n"
             }
             if let style = extra?.untappd.style {
-                output += "style: \"\(style)\"\n"
+                output += "style: \(style.yamlDoubleQuoted)\n"
             }
             output += "---\n"
             

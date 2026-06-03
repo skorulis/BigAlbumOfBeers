@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-berliner-marcus-braeu-red.md
-title: Berliner Marcus bräu red
+filename: "_posts/beer/2016-11-09-berliner-marcus-braeu-red.md"
+title: "Berliner Marcus bräu red"
 category: beer
 score: 7
 beer-date: "2017-06-15"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-trident-pale.md
-title: 2 halfs trident pale
+filename: "_posts/beer/2016-11-09-2-halfs-trident-pale.md"
+title: "2 halfs trident pale"
 category: beer
 score: 7
 beer-date: "2021-06-05"

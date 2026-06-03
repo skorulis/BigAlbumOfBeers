@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-heads-of-noosa-amber-lager.md
-title: Heads of Noosa amber lager
+filename: "_posts/beer/2016-11-09-heads-of-noosa-amber-lager.md"
+title: "Heads of Noosa amber lager"
 category: beer
 score: 6
 beer-date: "2024-11-09"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shapes-objects-auroras-and-antlers.md
-title: Shapes & objects auroras and antlers
+filename: "_posts/beer/2016-11-09-shapes-objects-auroras-and-antlers.md"
+title: "Shapes & objects auroras and antlers"
 category: beer
 score: 8.5
 beer-date: "2023-10-02"

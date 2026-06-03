@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-philter-mr-danky-the-xmas-brew.md
-title: Philter Mr Danky The XMAS Brew
+filename: "_posts/beer/2016-11-09-philter-mr-danky-the-xmas-brew.md"
+title: "Philter Mr Danky The XMAS Brew"
 category: beer
 score: 8.5
 beer-date: "2024-12-28"

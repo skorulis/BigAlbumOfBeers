@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewski-conan-dipa.md
-title: Brewski Conan DIPA
+filename: "_posts/beer/2016-11-09-brewski-conan-dipa.md"
+title: "Brewski Conan DIPA"
 category: beer
 score: 7
 beer-date: "2018-01-13"

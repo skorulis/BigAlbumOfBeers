@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-trouble-brewing-golden-ale.md
-title: Trouble brewing golden ale
+filename: "_posts/beer/2016-11-09-trouble-brewing-golden-ale.md"
+title: "Trouble brewing golden ale"
 category: beer
 score: 7
 beer-date: "2013-01-13"

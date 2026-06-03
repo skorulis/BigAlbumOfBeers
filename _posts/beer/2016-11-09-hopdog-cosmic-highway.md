@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hopdog-cosmic-highway.md
-title: HopDog cosmic highway
+filename: "_posts/beer/2016-11-09-hopdog-cosmic-highway.md"
+title: "HopDog cosmic highway"
 category: beer
 score: 6
 beer-date: "2016-02-14"

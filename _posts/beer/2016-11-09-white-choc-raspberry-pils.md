@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-choc-raspberry-pils.md
-title: White choc & raspberry pils
+filename: "_posts/beer/2016-11-09-white-choc-raspberry-pils.md"
+title: "White choc & raspberry pils"
 category: beer
 score: 6
 beer-date: "2015-04-13"

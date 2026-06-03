@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-salted-caramel-hazy-iiipa.md
-title: Hope salted caramel hazy IIIPA
+filename: "_posts/beer/2016-11-09-hope-salted-caramel-hazy-iiipa.md"
+title: "Hope salted caramel hazy IIIPA"
 category: beer
 score: 8.5
 beer-date: "2022-08-07"

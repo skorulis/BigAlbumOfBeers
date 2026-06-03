@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-maui-big-swell.md
-title: Maui big swell
+filename: "_posts/beer/2016-11-09-maui-big-swell.md"
+title: "Maui big swell"
 category: beer
 score: 7.5
 beer-date: "2019-11-22"

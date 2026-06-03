@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kereru-resonator.md
-title: Kereru resonator
+filename: "_posts/beer/2016-11-09-kereru-resonator.md"
+title: "Kereru resonator"
 category: beer
 score: 6
 beer-date: "2021-01-01"

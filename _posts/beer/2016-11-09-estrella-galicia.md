@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-estrella-galicia.md
-title: Estrella Galicia
+filename: "_posts/beer/2016-11-09-estrella-galicia.md"
+title: "Estrella Galicia"
 category: beer
 score: 7
 beer-date: "2013-07-19"

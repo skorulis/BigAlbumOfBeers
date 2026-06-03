@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-nation-the-heart.md
-title: Hop nation the heart
+filename: "_posts/beer/2016-11-09-hop-nation-the-heart.md"
+title: "Hop nation the heart"
 category: beer
 score: 8
 beer-date: "2020-01-16"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-canyon-triple-perk.md
-title: Canyon triple perk
+filename: "_posts/beer/2016-11-09-canyon-triple-perk.md"
+title: "Canyon triple perk"
 category: beer
 score: 5
 beer-date: "2024-11-09"

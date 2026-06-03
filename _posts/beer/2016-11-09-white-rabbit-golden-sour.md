@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-rabbit-golden-sour.md
-title: White rabbit golden sour
+filename: "_posts/beer/2016-11-09-white-rabbit-golden-sour.md"
+title: "White rabbit golden sour"
 category: beer
 score: 7
 beer-date: "2021-01-31"

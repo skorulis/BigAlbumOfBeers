@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cruzcampo-gran-reserva.md
-title: Cruzcampo gran reserva
+filename: "_posts/beer/2016-11-09-cruzcampo-gran-reserva.md"
+title: "Cruzcampo gran reserva"
 category: beer
 score: 6
 beer-date: "2013-07-19"

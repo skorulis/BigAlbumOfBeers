@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-mosaic-ipa.md
-title: Akasha mosaic ipa
+filename: "_posts/beer/2016-11-09-akasha-mosaic-ipa.md"
+title: "Akasha mosaic ipa"
 category: beer
 score: 7
 beer-date: "2018-10-05"
@@ -11,6 +11,6 @@ img: /img/list/akasha-mosaic-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--mosaic-ipa/1863243"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - American"
 ---

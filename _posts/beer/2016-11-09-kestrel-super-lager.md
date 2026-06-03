@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kestrel-super-lager.md
-title: Kestrel Super lager
+filename: "_posts/beer/2016-11-09-kestrel-super-lager.md"
+title: "Kestrel Super lager"
 category: beer
 score: 3
 beer-date: "2013-01-13"

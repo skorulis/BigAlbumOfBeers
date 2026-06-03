@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-march-of-the-penguins.md
-title: March of the Penguins
+filename: "_posts/beer/2016-11-09-march-of-the-penguins.md"
+title: "March of the Penguins"
 category: beer
 score: 5
 beer-date: "2013-03-09"

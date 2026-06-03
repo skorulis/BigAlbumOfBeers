@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-limon-chico.md
-title: Range limón chico
+filename: "_posts/beer/2016-11-09-range-limon-chico.md"
+title: "Range limón chico"
 category: beer
 score: 6
 beer-date: "2022-08-07"

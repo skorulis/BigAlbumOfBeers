@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-chur-hashtag-hops.md
-title: Chur hashtag hops
+filename: "_posts/beer/2016-11-09-chur-hashtag-hops.md"
+title: "Chur hashtag hops"
 category: beer
 score: 8
 beer-date: "2019-11-22"

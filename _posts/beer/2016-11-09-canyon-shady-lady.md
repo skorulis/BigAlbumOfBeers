@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-canyon-shady-lady.md
-title: Canyon shady lady
+filename: "_posts/beer/2016-11-09-canyon-shady-lady.md"
+title: "Canyon shady lady"
 category: beer
 score: 6
 beer-date: "2024-11-09"

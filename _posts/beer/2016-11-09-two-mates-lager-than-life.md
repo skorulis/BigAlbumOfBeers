@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-mates-lager-than-life.md
-title: Two mates lager than life
+filename: "_posts/beer/2016-11-09-two-mates-lager-than-life.md"
+title: "Two mates lager than life"
 category: beer
 score: 7
 beer-date: "2024-06-15"

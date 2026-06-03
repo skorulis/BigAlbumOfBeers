@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-founders-all-day-ipa.md
-title: Founders All Day IPA
+filename: "_posts/beer/2016-11-09-founders-all-day-ipa.md"
+title: "Founders All Day IPA"
 category: beer
 score: 9
 beer-date: "2015-01-29"

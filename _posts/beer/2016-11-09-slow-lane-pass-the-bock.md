@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slow-lane-pass-the-bock.md
-title: Slow lane pass the bock
+filename: "_posts/beer/2016-11-09-slow-lane-pass-the-bock.md"
+title: "Slow lane pass the bock"
 category: beer
 score: 8
 beer-date: "2024-03-29"

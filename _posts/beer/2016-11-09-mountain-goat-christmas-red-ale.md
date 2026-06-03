@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-christmas-red-ale.md
-title: Mountain Goat Christmas Red Ale
+filename: "_posts/beer/2016-11-09-mountain-goat-christmas-red-ale.md"
+title: "Mountain Goat Christmas Red Ale"
 category: beer
 score: 7
 beer-date: "2025-02-15"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-la-calavera-catrina.md
-title: Garage Project La Calavera Catrina
+filename: "_posts/beer/2016-11-09-garage-project-la-calavera-catrina.md"
+title: "Garage Project La Calavera Catrina"
 category: beer
 score: 7
 beer-date: "2016-02-14"

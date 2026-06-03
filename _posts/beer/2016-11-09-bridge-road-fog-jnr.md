@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-fog-jnr.md
-title: Bridge road fog jnr
+filename: "_posts/beer/2016-11-09-bridge-road-fog-jnr.md"
+title: "Bridge road fog jnr"
 category: beer
 score: 8
 beer-date: "2024-03-29"

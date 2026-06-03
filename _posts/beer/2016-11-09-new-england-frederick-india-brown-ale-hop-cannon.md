@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-frederick-india-brown-ale-hop-cannon.md
-title: New England Frederick India brown ale hop cannon
+filename: "_posts/beer/2016-11-09-new-england-frederick-india-brown-ale-hop-cannon.md"
+title: "New England Frederick India brown ale hop cannon"
 category: beer
 score: 8.5
 beer-date: "2019-03-14"

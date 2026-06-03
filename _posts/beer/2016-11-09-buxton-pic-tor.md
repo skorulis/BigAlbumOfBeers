@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-buxton-pic-tor.md
-title: Buxton Pic Tor
+filename: "_posts/beer/2016-11-09-buxton-pic-tor.md"
+title: "Buxton Pic Tor"
 category: beer
 score: 1.5
 beer-date: "2017-03-03"

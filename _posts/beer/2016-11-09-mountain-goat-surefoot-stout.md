@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-surefoot-stout.md
-title: Mountain goat surefoot stout
+filename: "_posts/beer/2016-11-09-mountain-goat-surefoot-stout.md"
+title: "Mountain goat surefoot stout"
 category: beer
 score: 7
 beer-date: "2015-10-17"

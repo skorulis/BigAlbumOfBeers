@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-feral-i-am-froot.md
-title: Feral I am froot
+filename: "_posts/beer/2016-11-09-feral-i-am-froot.md"
+title: "Feral I am froot"
 category: beer
 score: 9
 beer-date: "2018-06-02"

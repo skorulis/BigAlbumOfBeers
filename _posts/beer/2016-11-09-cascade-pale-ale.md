@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cascade-pale-ale.md
-title: Cascade pale ale
+filename: "_posts/beer/2016-11-09-cascade-pale-ale.md"
+title: "Cascade pale ale"
 category: beer
 score: 6
 beer-date: "2019-04-22"

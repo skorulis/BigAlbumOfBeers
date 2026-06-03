@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-steen-brugge.md
-title: Steen Brugge
+filename: "_posts/beer/2016-11-09-steen-brugge.md"
+title: "Steen Brugge"
 category: beer
 score: 5
 beer-date: "2014-02-23"

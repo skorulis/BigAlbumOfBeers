@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-deck-the-helles.md
-title: White Bay Deck The Helles
+filename: "_posts/beer/2016-11-09-white-bay-deck-the-helles.md"
+title: "White Bay Deck The Helles"
 category: beer
 score: 8
 beer-date: "2025-12-28"

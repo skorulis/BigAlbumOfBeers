@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-devils-hollow-nosey-bob.md
-title: Devils hollow nosey bob
+filename: "_posts/beer/2016-11-09-devils-hollow-nosey-bob.md"
+title: "Devils hollow nosey bob"
 category: beer
 score: 8
 beer-date: "2020-11-13"

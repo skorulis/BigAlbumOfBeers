@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-loser-bier.md
-title: Loser bier
+filename: "_posts/beer/2016-11-09-loser-bier.md"
+title: "Loser bier"
 category: beer
 score: 5.5
 beer-date: "2017-06-15"

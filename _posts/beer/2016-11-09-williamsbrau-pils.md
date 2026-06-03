@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-williamsbrau-pils.md
-title: Williamsbrau pils
+filename: "_posts/beer/2016-11-09-williamsbrau-pils.md"
+title: "Williamsbrau pils"
 category: beer
 score: 5
 beer-date: "2017-07-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-canyon-gold.md
-title: Canyon gold
+filename: "_posts/beer/2016-11-09-canyon-gold.md"
+title: "Canyon gold"
 category: beer
 score: 6
 beer-date: "2022-09-21"

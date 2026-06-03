@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-hop-actually.md
-title: Akasha hop actually
+filename: "_posts/beer/2016-11-09-akasha-hop-actually.md"
+title: "Akasha hop actually"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"
@@ -11,6 +11,6 @@ img: /img/list/akasha-hop-actually.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-hop-actually/5112793"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - New England / Hazy"
 ---

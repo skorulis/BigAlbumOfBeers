@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-newtonian.md
-title: Mountain goat Newtonian
+filename: "_posts/beer/2016-11-09-mountain-goat-newtonian.md"
+title: "Mountain goat Newtonian"
 category: beer
 score: 7.5
 beer-date: "2021-04-02"

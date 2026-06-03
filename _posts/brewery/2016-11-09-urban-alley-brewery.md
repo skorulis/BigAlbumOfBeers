@@ -4,7 +4,7 @@ filename: "_posts/brewery/2016-11-09-urban-alley-brewery.md"
 title: "Urban Alley Brewery"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/urban-alley-brewery/391654"
-instagram: 'urbanalleybrewery'
-twitter: ''
-facebook: 'https://www.facebook.com/UrbanAlleyBrewery'
+instagram: "urbanalleybrewery"
+twitter: ""
+facebook: "https://www.facebook.com/UrbanAlleyBrewery"
 ---

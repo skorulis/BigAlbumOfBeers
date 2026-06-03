@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-7th-day-dropping-f-bombs.md
-title: 7th day dropping f bombs
+filename: "_posts/beer/2016-11-09-7th-day-dropping-f-bombs.md"
+title: "7th day dropping f bombs"
 category: beer
 score: 6
 beer-date: "2023-02-28"

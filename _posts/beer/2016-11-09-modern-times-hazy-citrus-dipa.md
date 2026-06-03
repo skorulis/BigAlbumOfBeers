@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-modern-times-hazy-citrus-dipa.md
-title: Modern times hazy citrus DIPA
+filename: "_posts/beer/2016-11-09-modern-times-hazy-citrus-dipa.md"
+title: "Modern times hazy citrus DIPA"
 category: beer
 score: 8
 beer-date: "2021-06-05"

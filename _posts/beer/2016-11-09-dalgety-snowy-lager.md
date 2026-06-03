@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dalgety-snowy-lager.md
-title: Dalgety snowy lager
+filename: "_posts/beer/2016-11-09-dalgety-snowy-lager.md"
+title: "Dalgety snowy lager"
 category: beer
 score: 6
 beer-date: "2022-08-07"

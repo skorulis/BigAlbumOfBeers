@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rocks-2015-russian-imperial-stout.md
-title: Rocks 2015 Russian imperial stout
+filename: "_posts/beer/2016-11-09-rocks-2015-russian-imperial-stout.md"
+title: "Rocks 2015 Russian imperial stout"
 category: beer
 score: 8
 beer-date: "2019-07-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-allagash-river-trip.md
-title: Allagash river trip
+filename: "_posts/beer/2016-11-09-allagash-river-trip.md"
+title: "Allagash river trip"
 category: beer
 score: 8
 beer-date: "2023-02-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mornington-brain-squeeze.md
-title: Mornington brain squeeze
+filename: "_posts/beer/2016-11-09-mornington-brain-squeeze.md"
+title: "Mornington brain squeeze"
 category: beer
 score: 8
 beer-date: "2017-05-27"

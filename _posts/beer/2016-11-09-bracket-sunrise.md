@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-sunrise.md
-title: Bracket Sunrise
+filename: "_posts/beer/2016-11-09-bracket-sunrise.md"
+title: "Bracket Sunrise"
 category: beer
 score: 7
 beer-date: "2025-09-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-keller-door.md
-title: 4 pines Keller door
+filename: "_posts/beer/2016-11-09-4-pines-keller-door.md"
+title: "4 pines Keller door"
 category: beer
 score: 7
 beer-date: "2013-03-28"

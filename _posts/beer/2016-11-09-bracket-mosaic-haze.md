@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-mosaic-haze.md
-title: Bracket Mosaic haze
+filename: "_posts/beer/2016-11-09-bracket-mosaic-haze.md"
+title: "Bracket Mosaic haze"
 category: beer
 score: 8
 beer-date: "2021-11-12"

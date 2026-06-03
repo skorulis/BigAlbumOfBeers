@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-ants-in-ya-pants.md
-title: Pirate life ants in ya pants
+filename: "_posts/beer/2016-11-09-pirate-life-ants-in-ya-pants.md"
+title: "Pirate life ants in ya pants"
 category: beer
 score: 6.5
 beer-date: "2021-04-02"

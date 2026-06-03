@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-new-digs.md
-title: Bracket New Digs
+filename: "_posts/beer/2016-11-09-bracket-new-digs.md"
+title: "Bracket New Digs"
 category: beer
 score: 9.5
 beer-date: "2025-09-26"

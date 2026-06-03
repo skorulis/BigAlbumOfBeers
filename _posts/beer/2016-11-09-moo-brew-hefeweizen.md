@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moo-brew-hefeweizen.md
-title: Moo Brew Hefeweizen
+filename: "_posts/beer/2016-11-09-moo-brew-hefeweizen.md"
+title: "Moo Brew Hefeweizen"
 category: beer
 score: 4
 beer-date: "2015-05-01"

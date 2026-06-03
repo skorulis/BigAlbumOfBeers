@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stiegl-columbus.md
-title: Stiegl Columbus
+filename: "_posts/beer/2016-11-09-stiegl-columbus.md"
+title: "Stiegl Columbus"
 category: beer
 score: 8
 beer-date: "2017-06-15"

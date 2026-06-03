@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-currumbin-valley-waste-oil.md
-title: Currumbin valley waste oil
+filename: "_posts/beer/2016-11-09-currumbin-valley-waste-oil.md"
+title: "Currumbin valley waste oil"
 category: beer
 score: 7
 beer-date: "2021-12-28"

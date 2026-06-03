@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fourpure-deucebox.md
-title: Fourpure Deucebox
+filename: "_posts/beer/2016-11-09-fourpure-deucebox.md"
+title: "Fourpure Deucebox"
 category: beer
 score: 8.5
 beer-date: "2018-02-17"

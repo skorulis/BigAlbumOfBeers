@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-panhead-batch-207.md
-title: Panhead batch 207
+filename: "_posts/beer/2016-11-09-panhead-batch-207.md"
+title: "Panhead batch 207"
 category: beer
 score: 7.5
 beer-date: "2022-09-21"

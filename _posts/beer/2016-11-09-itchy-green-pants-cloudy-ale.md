@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-itchy-green-pants-cloudy-ale.md
-title: Itchy green pants cloudy ale
+filename: "_posts/beer/2016-11-09-itchy-green-pants-cloudy-ale.md"
+title: "Itchy green pants cloudy ale"
 category: beer
 score: 7
 beer-date: "2014-03-01"

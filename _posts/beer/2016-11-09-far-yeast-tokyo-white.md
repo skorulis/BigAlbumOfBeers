@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-far-yeast-tokyo-white.md
-title: Far yeast Tokyo white
+filename: "_posts/beer/2016-11-09-far-yeast-tokyo-white.md"
+title: "Far yeast Tokyo white"
 category: beer
 score: 8.5
 beer-date: "2023-03-31"

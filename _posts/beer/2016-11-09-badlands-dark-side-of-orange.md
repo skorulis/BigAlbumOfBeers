@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-badlands-dark-side-of-orange.md
-title: Badlands dark side of orange
+filename: "_posts/beer/2016-11-09-badlands-dark-side-of-orange.md"
+title: "Badlands dark side of orange"
 category: beer
 score: 7.5
 beer-date: "2019-07-14"

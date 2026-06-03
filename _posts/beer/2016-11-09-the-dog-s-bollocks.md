@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-dog-s-bollocks.md
-title: The Dog's Bollocks
+filename: "_posts/beer/2016-11-09-the-dog-s-bollocks.md"
+title: "The Dog's Bollocks"
 category: beer
 score: 3
 beer-date: "2012-11-13"

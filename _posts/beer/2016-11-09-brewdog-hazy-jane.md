@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewdog-hazy-jane.md
-title: Brewdog hazy Jane
+filename: "_posts/beer/2016-11-09-brewdog-hazy-jane.md"
+title: "Brewdog hazy Jane"
 category: beer
 score: 6
 beer-date: "2023-02-26"

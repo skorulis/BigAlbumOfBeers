@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-west-city-neipa.md
-title: West city NEIPA
+filename: "_posts/beer/2016-11-09-west-city-neipa.md"
+title: "West city NEIPA"
 category: beer
 score: 7
 beer-date: "2021-01-14"

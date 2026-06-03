@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-badlands-brewbacca.md
-title: Badlands brewbacca
+filename: "_posts/beer/2016-11-09-badlands-brewbacca.md"
+title: "Badlands brewbacca"
 category: beer
 score: 5.5
 beer-date: "2020-09-26"

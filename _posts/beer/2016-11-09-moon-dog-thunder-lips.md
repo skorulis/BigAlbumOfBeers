@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moon-dog-thunder-lips.md
-title: Moon dog thunder lips
+filename: "_posts/beer/2016-11-09-moon-dog-thunder-lips.md"
+title: "Moon dog thunder lips"
 category: beer
 score: 7
 beer-date: "2019-06-22"

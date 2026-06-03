@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-knee-deep-stoutella.md
-title: Knee deep stoutella
+filename: "_posts/beer/2016-11-09-knee-deep-stoutella.md"
+title: "Knee deep stoutella"
 category: beer
 score: 8
 beer-date: "2017-10-28"

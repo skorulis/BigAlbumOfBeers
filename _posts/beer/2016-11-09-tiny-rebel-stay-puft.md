@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tiny-rebel-stay-puft.md
-title: Tiny rebel stay puft
+filename: "_posts/beer/2016-11-09-tiny-rebel-stay-puft.md"
+title: "Tiny rebel stay puft"
 category: beer
 score: 7
 beer-date: "2021-11-12"

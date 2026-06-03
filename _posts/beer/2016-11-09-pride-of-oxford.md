@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pride-of-oxford.md
-title: Pride of Oxford
+filename: "_posts/beer/2016-11-09-pride-of-oxford.md"
+title: "Pride of Oxford"
 category: beer
 score: 4
 beer-date: "2012-12-01"

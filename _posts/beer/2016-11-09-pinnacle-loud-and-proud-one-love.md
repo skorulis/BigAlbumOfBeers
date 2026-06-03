@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pinnacle-loud-and-proud-one-love.md
-title: Pinnacle Loud and proud one love
+filename: "_posts/beer/2016-11-09-pinnacle-loud-and-proud-one-love.md"
+title: "Pinnacle Loud and proud one love"
 category: beer
 score: 5.5
 beer-date: "2023-03-31"
@@ -11,6 +11,6 @@ img: /img/list/pinnacle-loud-and-proud-one-love.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-loud---proud-one-love-pale-ale/4740403"
 country: "Australia"
 brewery: "Pinnacle Drinks Group (Woolworths)"
-breweryURL: "/brewery/pinnacle-drinks-group--woolworths.html"
+breweryURL: "/brewery/pinnacle-drinks-group-woolworths.html"
 style: "Pale Ale - Other"
 ---

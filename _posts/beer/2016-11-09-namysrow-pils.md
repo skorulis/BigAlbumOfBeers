@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-namysrow-pils.md
-title: Namysrów pils
+filename: "_posts/beer/2016-11-09-namysrow-pils.md"
+title: "Namysrów pils"
 category: beer
 score: 5
 beer-date: "2016-06-16"

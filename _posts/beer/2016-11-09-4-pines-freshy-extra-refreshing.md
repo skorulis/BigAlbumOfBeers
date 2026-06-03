@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-freshy-extra-refreshing.md
-title: 4 pines freshy extra refreshing
+filename: "_posts/beer/2016-11-09-4-pines-freshy-extra-refreshing.md"
+title: "4 pines freshy extra refreshing"
 category: beer
 score: 5.5
 beer-date: "2020-12-25"

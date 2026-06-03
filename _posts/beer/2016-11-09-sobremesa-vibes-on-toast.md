@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sobremesa-vibes-on-toast.md
-title: Sobremesa vibes on toast
+filename: "_posts/beer/2016-11-09-sobremesa-vibes-on-toast.md"
+title: "Sobremesa vibes on toast"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

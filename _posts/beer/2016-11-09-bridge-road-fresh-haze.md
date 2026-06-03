@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-fresh-haze.md
-title: Bridge road fresh haze
+filename: "_posts/beer/2016-11-09-bridge-road-fresh-haze.md"
+title: "Bridge road fresh haze"
 category: beer
 score: 6.5
 beer-date: "2020-11-13"

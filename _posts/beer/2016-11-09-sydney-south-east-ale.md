@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sydney-south-east-ale.md
-title: Sydney South East Ale
+filename: "_posts/beer/2016-11-09-sydney-south-east-ale.md"
+title: "Sydney South East Ale"
 category: beer
 score: 5
 beer-date: "2025-12-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tall-boy-and-moose-major-moose.md
-title: Tall boy and moose Major moose
+filename: "_posts/beer/2016-11-09-tall-boy-and-moose-major-moose.md"
+title: "Tall boy and moose Major moose"
 category: beer
 score: 8.5
 beer-date: "2020-09-26"

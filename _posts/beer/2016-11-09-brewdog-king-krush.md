@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewdog-king-krush.md
-title: Brewdog King Krush
+filename: "_posts/beer/2016-11-09-brewdog-king-krush.md"
+title: "Brewdog King Krush"
 category: beer
 score: 9
 beer-date: "2025-11-10"

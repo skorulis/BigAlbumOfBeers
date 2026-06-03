@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cheeky-blonde.md
-title: Cheeky Blonde
+filename: "_posts/beer/2016-11-09-cheeky-blonde.md"
+title: "Cheeky Blonde"
 category: beer
 score: 5
 beer-date: "2015-07-10"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-temple-dawn.md
-title: Temple Dawn
+filename: "_posts/beer/2016-11-09-temple-dawn.md"
+title: "Temple Dawn"
 category: beer
 score: 7.5
 beer-date: "2018-12-27"

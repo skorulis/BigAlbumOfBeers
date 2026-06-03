@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stockade-pale-ale.md
-title: Stockade pale ale
+filename: "_posts/beer/2016-11-09-stockade-pale-ale.md"
+title: "Stockade pale ale"
 category: beer
 score: 6
 beer-date: "2015-10-17"

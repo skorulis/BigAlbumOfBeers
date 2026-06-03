@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-indian-summer-ale.md
-title: 4 pines Indian summer ale
+filename: "_posts/beer/2016-11-09-4-pines-indian-summer-ale.md"
+title: "4 pines Indian summer ale"
 category: beer
 score: 8
 beer-date: "2017-01-21"

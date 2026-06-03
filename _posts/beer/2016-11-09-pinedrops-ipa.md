@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pinedrops-ipa.md
-title: Pinedrops IPA
+filename: "_posts/beer/2016-11-09-pinedrops-ipa.md"
+title: "Pinedrops IPA"
 category: beer
 score: 8
 beer-date: "2016-01-07"

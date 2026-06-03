@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-cereal-milk-stout.md
-title: Garage project cereal milk stout
+filename: "_posts/beer/2016-11-09-garage-project-cereal-milk-stout.md"
+title: "Garage project cereal milk stout"
 category: beer
 score: 8.5
 beer-date: "2020-09-26"

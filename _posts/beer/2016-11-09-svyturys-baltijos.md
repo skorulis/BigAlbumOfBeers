@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-svyturys-baltijos.md
-title: Svyturys Baltijos
+filename: "_posts/beer/2016-11-09-svyturys-baltijos.md"
+title: "Svyturys Baltijos"
 category: beer
 score: 5
 beer-date: "2013-09-19"

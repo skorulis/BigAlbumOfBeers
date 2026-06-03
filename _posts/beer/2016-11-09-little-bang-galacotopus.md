@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-bang-galacotopus.md
-title: Little bang Galacotopus
+filename: "_posts/beer/2016-11-09-little-bang-galacotopus.md"
+title: "Little bang Galacotopus"
 category: beer
 score: 4.5
 beer-date: "2019-11-22"

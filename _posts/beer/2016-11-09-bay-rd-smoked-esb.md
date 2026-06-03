@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bay-rd-smoked-esb.md
-title: Bay rd smoked ESB
+filename: "_posts/beer/2016-11-09-bay-rd-smoked-esb.md"
+title: "Bay rd smoked ESB"
 category: beer
 score: 7.5
 beer-date: "2020-07-31"

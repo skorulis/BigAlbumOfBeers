@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-capital-laneway-xpa.md
-title: Capital Laneway XPA
+filename: "_posts/beer/2016-11-09-capital-laneway-xpa.md"
+title: "Capital Laneway XPA"
 category: beer
 score: 7
 beer-date: "2026-03-27"

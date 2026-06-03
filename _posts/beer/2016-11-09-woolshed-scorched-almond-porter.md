@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-woolshed-scorched-almond-porter.md
-title: Woolshed scorched almond porter
+filename: "_posts/beer/2016-11-09-woolshed-scorched-almond-porter.md"
+title: "Woolshed scorched almond porter"
 category: beer
 score: 7
 beer-date: "2023-03-31"

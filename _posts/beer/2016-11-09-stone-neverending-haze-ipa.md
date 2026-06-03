@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-neverending-haze-ipa.md
-title: Stone neverending haze IPA
+filename: "_posts/beer/2016-11-09-stone-neverending-haze-ipa.md"
+title: "Stone neverending haze IPA"
 category: beer
 score: 6
 beer-date: "2020-12-25"

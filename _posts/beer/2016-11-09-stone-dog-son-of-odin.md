@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-dog-son-of-odin.md
-title: Stone dog son of Odin
+filename: "_posts/beer/2016-11-09-stone-dog-son-of-odin.md"
+title: "Stone dog son of Odin"
 category: beer
 score: 8
 beer-date: "2018-03-13"

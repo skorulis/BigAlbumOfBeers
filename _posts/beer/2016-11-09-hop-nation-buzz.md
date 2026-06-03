@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-nation-buzz.md
-title: Hop nation buzz
+filename: "_posts/beer/2016-11-09-hop-nation-buzz.md"
+title: "Hop nation buzz"
 category: beer
 score: 7
 beer-date: "2019-06-22"

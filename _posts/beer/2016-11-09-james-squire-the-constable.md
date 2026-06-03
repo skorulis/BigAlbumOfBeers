@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-the-constable.md
-title: James Squire The Constable
+filename: "_posts/beer/2016-11-09-james-squire-the-constable.md"
+title: "James Squire The Constable"
 category: beer
 score: 8
 beer-date: "2014-03-18"

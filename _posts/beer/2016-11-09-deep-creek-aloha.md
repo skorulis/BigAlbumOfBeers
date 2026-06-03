@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deep-creek-aloha.md
-title: Deep creek Aloha
+filename: "_posts/beer/2016-11-09-deep-creek-aloha.md"
+title: "Deep creek Aloha"
 category: beer
 score: 6.5
 beer-date: "2019-11-22"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-creatures-squeaky-clean.md
-title: Little creatures squeaky clean
+filename: "_posts/beer/2016-11-09-little-creatures-squeaky-clean.md"
+title: "Little creatures squeaky clean"
 category: beer
 score: 6
 beer-date: "2023-02-26"

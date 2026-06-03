@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-alchemist-crusher.md
-title: Alchemist crusher
+filename: "_posts/beer/2016-11-09-alchemist-crusher.md"
+title: "Alchemist crusher"
 category: beer
 score: 9
 beer-date: "2024-06-15"

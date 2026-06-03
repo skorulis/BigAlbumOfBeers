@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-san-miguel.md
-title: San Miguel
+filename: "_posts/beer/2016-11-09-san-miguel.md"
+title: "San Miguel"
 category: beer
 score: 8
 beer-date: "2012-11-02"

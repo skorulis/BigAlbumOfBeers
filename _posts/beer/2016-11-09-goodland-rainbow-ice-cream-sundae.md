@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-goodland-rainbow-ice-cream-sundae.md
-title: Goodland rainbow ice cream sundae
+filename: "_posts/beer/2016-11-09-goodland-rainbow-ice-cream-sundae.md"
+title: "Goodland rainbow ice cream sundae"
 category: beer
 score: 6
 beer-date: "2025-09-26"

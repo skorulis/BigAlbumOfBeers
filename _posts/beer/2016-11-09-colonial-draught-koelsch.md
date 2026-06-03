@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-colonial-draught-koelsch.md
-title: Colonial draught Kölsch
+filename: "_posts/beer/2016-11-09-colonial-draught-koelsch.md"
+title: "Colonial draught Kölsch"
 category: beer
 score: 7.5
 beer-date: "2017-03-22"

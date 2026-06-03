@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-klaster-zeliv-questenberg.md
-title: Klaster zeliv Questenberg
+filename: "_posts/beer/2016-11-09-klaster-zeliv-questenberg.md"
+title: "Klaster zeliv Questenberg"
 category: beer
 score: 8
 beer-date: "2023-10-02"

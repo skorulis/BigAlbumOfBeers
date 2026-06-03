@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-red-right-hand-red-ipa.md
-title: Red right hand red IPA
+filename: "_posts/beer/2016-11-09-red-right-hand-red-ipa.md"
+title: "Red right hand red IPA"
 category: beer
 score: 8
 beer-date: "2020-12-25"

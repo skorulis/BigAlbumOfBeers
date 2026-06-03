@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-matilda-bay-the-ducks.md
-title: Matilda bay The ducks
+filename: "_posts/beer/2016-11-09-matilda-bay-the-ducks.md"
+title: "Matilda bay The ducks"
 category: beer
 score: 4
 beer-date: "2015-01-29"

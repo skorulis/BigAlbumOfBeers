@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-wee-heavy.md
-title: Boatrocker wee heavy
+filename: "_posts/beer/2016-11-09-boatrocker-wee-heavy.md"
+title: "Boatrocker wee heavy"
 category: beer
 score: 7
 beer-date: "2023-02-26"

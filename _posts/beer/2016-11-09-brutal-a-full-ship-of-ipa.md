@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brutal-a-full-ship-of-ipa.md
-title: Brutal a full ship of IPA
+filename: "_posts/beer/2016-11-09-brutal-a-full-ship-of-ipa.md"
+title: "Brutal a full ship of IPA"
 category: beer
 score: 4
 beer-date: "2023-10-02"

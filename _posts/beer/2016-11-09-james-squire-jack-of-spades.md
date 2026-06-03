@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-james-squire-jack-of-spades.md
-title: James squire jack of spades
+filename: "_posts/beer/2016-11-09-james-squire-jack-of-spades.md"
+title: "James squire jack of spades"
 category: beer
 score: 8
 beer-date: "2015-04-13"

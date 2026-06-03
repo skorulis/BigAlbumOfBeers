@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wicked-elf-porter.md
-title: Wicked elf porter
+filename: "_posts/beer/2016-11-09-wicked-elf-porter.md"
+title: "Wicked elf porter"
 category: beer
 score: 5
 beer-date: "2014-06-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewmeister-armageddon.md
-title: Brewmeister Armageddon
+filename: "_posts/beer/2016-11-09-brewmeister-armageddon.md"
+title: "Brewmeister Armageddon"
 category: beer
 score: 0
 beer-date: "2013-12-23"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-roros-ale-with-a-tale.md
-title: Røros ale with a tale
+filename: "_posts/beer/2016-11-09-roros-ale-with-a-tale.md"
+title: "Røros ale with a tale"
 category: beer
 score: 7.5
 beer-date: "2023-10-02"

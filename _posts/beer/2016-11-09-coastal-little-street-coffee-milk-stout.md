@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coastal-little-street-coffee-milk-stout.md
-title: Coastal little street coffee milk stout
+filename: "_posts/beer/2016-11-09-coastal-little-street-coffee-milk-stout.md"
+title: "Coastal little street coffee milk stout"
 category: beer
 score: 7
 beer-date: "2019-06-22"

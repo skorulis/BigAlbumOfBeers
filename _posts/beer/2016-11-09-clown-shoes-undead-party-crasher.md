@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-clown-shoes-undead-party-crasher.md
-title: Clown shoes undead party crasher
+filename: "_posts/beer/2016-11-09-clown-shoes-undead-party-crasher.md"
+title: "Clown shoes undead party crasher"
 category: beer
 score: 8.0
 beer-date: "2021-04-02"

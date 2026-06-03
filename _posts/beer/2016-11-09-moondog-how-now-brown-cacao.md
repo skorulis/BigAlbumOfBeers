@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moondog-how-now-brown-cacao.md
-title: Moondog how now brown cacao
+filename: "_posts/beer/2016-11-09-moondog-how-now-brown-cacao.md"
+title: "Moondog how now brown cacao"
 category: beer
 score: 6.5
 beer-date: "2019-11-22"

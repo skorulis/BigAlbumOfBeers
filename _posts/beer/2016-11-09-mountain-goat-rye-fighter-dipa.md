@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-rye-fighter-dipa.md
-title: Mountain goat rye fighter DIPA
+filename: "_posts/beer/2016-11-09-mountain-goat-rye-fighter-dipa.md"
+title: "Mountain goat rye fighter DIPA"
 category: beer
 score: 8
 beer-date: "2018-06-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cave-creek-chili-beer.md
-title: Cave creek chili beer
+filename: "_posts/beer/2016-11-09-cave-creek-chili-beer.md"
+title: "Cave creek chili beer"
 category: beer
 score: 6
 beer-date: "2013-10-25"

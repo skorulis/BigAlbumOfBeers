@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-budgy-smuggler.md
-title: Nomad budgy smuggler
+filename: "_posts/beer/2016-11-09-nomad-budgy-smuggler.md"
+title: "Nomad budgy smuggler"
 category: beer
 score: 7
 beer-date: "2020-07-31"

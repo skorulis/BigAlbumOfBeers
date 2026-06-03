@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-redds-apple-ale.md
-title: Redds Apple-Ale
+filename: "_posts/beer/2016-11-09-redds-apple-ale.md"
+title: "Redds Apple-Ale"
 category: beer
 score: 7
 beer-date: "2016-01-06"

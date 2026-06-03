@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-robust-porter.md
-title: Boatrocker Robust Porter
+filename: "_posts/beer/2016-11-09-boatrocker-robust-porter.md"
+title: "Boatrocker Robust Porter"
 category: beer
 score: 6
 beer-date: "2025-12-28"

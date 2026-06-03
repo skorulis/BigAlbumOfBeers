@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beirut-beer.md
-title: Beirut beer
+filename: "_posts/beer/2016-11-09-beirut-beer.md"
+title: "Beirut beer"
 category: beer
 score: 5
 beer-date: "2016-05-24"

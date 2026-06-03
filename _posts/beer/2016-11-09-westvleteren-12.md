@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-westvleteren-12.md
-title: Westvleteren 12
+filename: "_posts/beer/2016-11-09-westvleteren-12.md"
+title: "Westvleteren 12"
 category: beer
 score: 10
 beer-date: "2017-06-15"

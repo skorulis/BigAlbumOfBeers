@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-monteith-s-bohemian-pilsner.md
-title: Monteith’s bohemian pilsner
+filename: "_posts/beer/2016-11-09-monteith-s-bohemian-pilsner.md"
+title: "Monteith’s bohemian pilsner"
 category: beer
 score: 7
 beer-date: "2014-06-21"
@@ -11,6 +11,6 @@ img: /img/list/monteith-s-bohemian-pilsner.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-bohemian-pilsner/608944"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "/brewery/monteith-s-brewing-co--.html"
+breweryURL: "/brewery/monteith-s-brewing-co.html"
 style: "Pilsner - Other"
 ---

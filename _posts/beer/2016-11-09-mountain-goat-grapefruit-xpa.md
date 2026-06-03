@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-goat-grapefruit-xpa.md
-title: Mountain goat grapefruit XPA
+filename: "_posts/beer/2016-11-09-mountain-goat-grapefruit-xpa.md"
+title: "Mountain goat grapefruit XPA"
 category: beer
 score: 8.5
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-flat-chat.md
-title: White bay flat chat
+filename: "_posts/beer/2016-11-09-white-bay-flat-chat.md"
+title: "White bay flat chat"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

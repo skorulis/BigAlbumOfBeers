@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-pleasure-and-pain.md
-title: Mountain culture pleasure and pain
+filename: "_posts/beer/2016-11-09-mountain-culture-pleasure-and-pain.md"
+title: "Mountain culture pleasure and pain"
 category: beer
 score: 8.5
 beer-date: "2024-12-28"

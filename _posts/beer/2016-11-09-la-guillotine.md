@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-la-guillotine.md
-title: La guillotine
+filename: "_posts/beer/2016-11-09-la-guillotine.md"
+title: "La guillotine"
 category: beer
 score: 10
 beer-date: "2015-04-13"

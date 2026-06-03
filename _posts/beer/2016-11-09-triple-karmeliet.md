@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-triple-karmeliet.md
-title: Triple karmeliet
+filename: "_posts/beer/2016-11-09-triple-karmeliet.md"
+title: "Triple karmeliet"
 category: beer
 score: 10
 beer-date: "2014-03-01"

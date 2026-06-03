@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerfarm-calm-ya-farm.md
-title: Beerfarm calm ya farm
+filename: "_posts/beer/2016-11-09-beerfarm-calm-ya-farm.md"
+title: "Beerfarm calm ya farm"
 category: beer
 score: 6.5
 beer-date: "2023-02-26"

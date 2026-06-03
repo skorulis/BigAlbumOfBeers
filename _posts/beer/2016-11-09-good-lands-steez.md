@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-good-lands-steez.md
-title: Good lands steez
+filename: "_posts/beer/2016-11-09-good-lands-steez.md"
+title: "Good lands steez"
 category: beer
 score: 6
 beer-date: "2024-03-29"

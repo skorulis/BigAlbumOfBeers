@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-martens-gold.md
-title: Martens gold
+filename: "_posts/beer/2016-11-09-martens-gold.md"
+title: "Martens gold"
 category: beer
 score: 6
 beer-date: "2017-07-12"

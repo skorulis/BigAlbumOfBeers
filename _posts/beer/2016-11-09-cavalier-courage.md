@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cavalier-courage.md
-title: Cavalier courage
+filename: "_posts/beer/2016-11-09-cavalier-courage.md"
+title: "Cavalier courage"
 category: beer
 score: 7
 beer-date: "2015-04-13"

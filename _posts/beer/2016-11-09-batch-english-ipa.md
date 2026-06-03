@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-english-ipa.md
-title: Batch English IPA
+filename: "_posts/beer/2016-11-09-batch-english-ipa.md"
+title: "Batch English IPA"
 category: beer
 score: 6.5
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bob-hawke-belgian-wit.md
-title: Bob Hawke belgian wit
+filename: "_posts/beer/2016-11-09-bob-hawke-belgian-wit.md"
+title: "Bob Hawke belgian wit"
 category: beer
 score: 7
 beer-date: "2023-02-28"

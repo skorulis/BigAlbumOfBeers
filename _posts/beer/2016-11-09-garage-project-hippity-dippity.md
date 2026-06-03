@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-hippity-dippity.md
-title: Garage project hippity dippity
+filename: "_posts/beer/2016-11-09-garage-project-hippity-dippity.md"
+title: "Garage project hippity dippity"
 category: beer
 score: 9.5
 beer-date: "2019-11-22"

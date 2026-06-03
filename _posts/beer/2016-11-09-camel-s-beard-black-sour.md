@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-camel-s-beard-black-sour.md
-title: Camel's beard black sour
+filename: "_posts/beer/2016-11-09-camel-s-beard-black-sour.md"
+title: "Camel's beard black sour"
 category: beer
 score: 6
 beer-date: "2015-07-10"

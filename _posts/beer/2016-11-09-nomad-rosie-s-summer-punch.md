@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-rosie-s-summer-punch.md
-title: Nomad Rosie’s summer punch
+filename: "_posts/beer/2016-11-09-nomad-rosie-s-summer-punch.md"
+title: "Nomad Rosie’s summer punch"
 category: beer
 score: 7.5
 beer-date: "2017-04-11"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bath-ales-dark-side.md
-title: Bath ales Dark Side
+filename: "_posts/beer/2016-11-09-bath-ales-dark-side.md"
+title: "Bath ales Dark Side"
 category: beer
 score: 6
 beer-date: "2013-05-25"

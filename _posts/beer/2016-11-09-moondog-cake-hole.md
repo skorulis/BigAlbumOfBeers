@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moondog-cake-hole.md
-title: Moondog cake hole
+filename: "_posts/beer/2016-11-09-moondog-cake-hole.md"
+title: "Moondog cake hole"
 category: beer
 score: 7.5
 beer-date: "2019-11-22"

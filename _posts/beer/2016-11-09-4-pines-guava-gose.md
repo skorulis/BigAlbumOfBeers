@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-guava-gose.md
-title: 4 pines guava gose
+filename: "_posts/beer/2016-11-09-4-pines-guava-gose.md"
+title: "4 pines guava gose"
 category: beer
 score: 8
 beer-date: "2017-01-30"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sundowner-west-coast-ipa.md
-title: Sundowner west coast IPA
+filename: "_posts/beer/2016-11-09-sundowner-west-coast-ipa.md"
+title: "Sundowner west coast IPA"
 category: beer
 score: 8
 beer-date: "2024-03-29"

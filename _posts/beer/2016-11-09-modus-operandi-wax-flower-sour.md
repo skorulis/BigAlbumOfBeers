@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-modus-operandi-wax-flower-sour.md
-title: Modus operandi wax flower sour
+filename: "_posts/beer/2016-11-09-modus-operandi-wax-flower-sour.md"
+title: "Modus operandi wax flower sour"
 category: beer
 score: 6.5
 beer-date: "2021-04-02"

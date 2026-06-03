@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kosciusko-pale-ale.md
-title: Kosciusko Pale ale
+filename: "_posts/beer/2016-11-09-kosciusko-pale-ale.md"
+title: "Kosciusko Pale ale"
 category: beer
 score: 5
 beer-date: "2015-01-29"

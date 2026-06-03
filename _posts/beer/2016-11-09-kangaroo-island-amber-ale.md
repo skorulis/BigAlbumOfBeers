@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kangaroo-island-amber-ale.md
-title: Kangaroo island amber ale
+filename: "_posts/beer/2016-11-09-kangaroo-island-amber-ale.md"
+title: "Kangaroo island amber ale"
 category: beer
 score: 7.5
 beer-date: "2020-01-16"

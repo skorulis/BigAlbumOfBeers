@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-jet-black-iiipa.md
-title: Hope Jet black IIIPA
+filename: "_posts/beer/2016-11-09-hope-jet-black-iiipa.md"
+title: "Hope Jet black IIIPA"
 category: beer
 score: 7.5
 beer-date: "2019-07-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-edge-angry-pirate.md
-title: Edge angry pirate
+filename: "_posts/beer/2016-11-09-edge-angry-pirate.md"
+title: "Edge angry pirate"
 category: beer
 score: 4
 beer-date: "2015-01-29"

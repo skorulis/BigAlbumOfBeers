@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tumut-river-blonde.md
-title: Tumut river blonde
+filename: "_posts/beer/2016-11-09-tumut-river-blonde.md"
+title: "Tumut river blonde"
 category: beer
 score: 7
 beer-date: "2017-08-06"

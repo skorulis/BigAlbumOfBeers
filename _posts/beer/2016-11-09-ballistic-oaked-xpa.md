@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballistic-oaked-xpa.md
-title: Ballistic oaked XPA
+filename: "_posts/beer/2016-11-09-ballistic-oaked-xpa.md"
+title: "Ballistic oaked XPA"
 category: beer
 score: 8
 beer-date: "2018-12-27"

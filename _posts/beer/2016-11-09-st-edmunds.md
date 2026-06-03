@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-st-edmunds.md
-title: St Edmunds
+filename: "_posts/beer/2016-11-09-st-edmunds.md"
+title: "St Edmunds"
 category: beer
 score: 5
 beer-date: "2012-12-25"

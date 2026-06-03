@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-10-toes-lucid-dreams.md
-title: 10 toes lucid dreams
+filename: "_posts/beer/2016-11-09-10-toes-lucid-dreams.md"
+title: "10 toes lucid dreams"
 category: beer
 score: 9
 beer-date: "2024-03-29"

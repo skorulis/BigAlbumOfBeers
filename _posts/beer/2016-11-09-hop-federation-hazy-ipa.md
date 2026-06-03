@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-federation-hazy-ipa.md
-title: Hop Federation Hazy IPA
+filename: "_posts/beer/2016-11-09-hop-federation-hazy-ipa.md"
+title: "Hop Federation Hazy IPA"
 category: beer
 score: 6
 beer-date: "2025-09-26"

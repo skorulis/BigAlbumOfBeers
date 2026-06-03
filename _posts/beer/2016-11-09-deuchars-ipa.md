@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deuchars-ipa.md
-title: Deuchars IPA
+filename: "_posts/beer/2016-11-09-deuchars-ipa.md"
+title: "Deuchars IPA"
 category: beer
 score: 6
 beer-date: "2013-01-13"

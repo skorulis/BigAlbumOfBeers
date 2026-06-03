@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-newsteads-wastelands-red-rye-ipa.md
-title: Newsteads wastelands red rye IPA
+filename: "_posts/beer/2016-11-09-newsteads-wastelands-red-rye-ipa.md"
+title: "Newsteads wastelands red rye IPA"
 category: beer
 score: 8
 beer-date: "2017-03-22"

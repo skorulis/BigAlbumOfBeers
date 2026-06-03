@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-barossa-valley-milk-stout.md
-title: Barossa Valley Milk Stout
+filename: "_posts/beer/2016-11-09-barossa-valley-milk-stout.md"
+title: "Barossa Valley Milk Stout"
 category: beer
 score: 8
 beer-date: "2015-02-27"

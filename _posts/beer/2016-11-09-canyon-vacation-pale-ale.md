@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-canyon-vacation-pale-ale.md
-title: Canyon vacation pale ale
+filename: "_posts/beer/2016-11-09-canyon-vacation-pale-ale.md"
+title: "Canyon vacation pale ale"
 category: beer
 score: 8
 beer-date: "2022-09-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-larks-foot.md
-title: Larks foot
+filename: "_posts/beer/2016-11-09-larks-foot.md"
+title: "Larks foot"
 category: beer
 score: 5
 beer-date: "2013-03-28"

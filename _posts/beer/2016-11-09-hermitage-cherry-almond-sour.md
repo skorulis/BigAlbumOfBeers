@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hermitage-cherry-almond-sour.md
-title: Hermitage cherry almond sour
+filename: "_posts/beer/2016-11-09-hermitage-cherry-almond-sour.md"
+title: "Hermitage cherry almond sour"
 category: beer
 score: 9
 beer-date: "2018-06-02"

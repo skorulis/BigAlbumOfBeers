@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-esker-realm-of-dragons.md
-title: Esker realm of dragons
+filename: "_posts/beer/2016-11-09-esker-realm-of-dragons.md"
+title: "Esker realm of dragons"
 category: beer
 score: 7.5
 beer-date: "2024-11-23"
@@ -11,6 +11,6 @@ img: /img/list/esker-realm-of-dragons.jpeg
 untappd: "https://untappd.com/b/esker-beer-co-esker-beer-co-realm-of-dragons/6019528"
 country: "Australia"
 brewery: " Australian Brewery"
-breweryURL: "/brewery/-australian-brewery.html"
+breweryURL: "/brewery/australian-brewery.html"
 style: "Red Ale - Imperial / Double"
 ---

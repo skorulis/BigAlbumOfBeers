@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lord-nelson-old-admiral.md
-title: Lord Nelson old admiral
+filename: "_posts/beer/2016-11-09-lord-nelson-old-admiral.md"
+title: "Lord Nelson old admiral"
 category: beer
 score: 4
 beer-date: "2013-03-28"

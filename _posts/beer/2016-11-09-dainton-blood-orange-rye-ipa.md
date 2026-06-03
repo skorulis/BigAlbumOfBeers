@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dainton-blood-orange-rye-ipa.md
-title: Dainton blood orange rye IPA
+filename: "_posts/beer/2016-11-09-dainton-blood-orange-rye-ipa.md"
+title: "Dainton blood orange rye IPA"
 category: beer
 score: 7
 beer-date: "2018-01-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-broad-spectrum.md
-title: Bracket broad spectrum
+filename: "_posts/beer/2016-11-09-bracket-broad-spectrum.md"
+title: "Bracket broad spectrum"
 category: beer
 score: 8.5
 beer-date: "2024-06-15"

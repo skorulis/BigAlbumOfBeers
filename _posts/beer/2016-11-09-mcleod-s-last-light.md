@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mcleod-s-last-light.md
-title: McLeod’s last light
+filename: "_posts/beer/2016-11-09-mcleod-s-last-light.md"
+title: "McLeod’s last light"
 category: beer
 score: 7
 beer-date: "2019-07-14"

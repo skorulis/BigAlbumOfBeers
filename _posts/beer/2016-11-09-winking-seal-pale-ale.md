@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-winking-seal-pale-ale.md
-title: Winking seal pale ale
+filename: "_posts/beer/2016-11-09-winking-seal-pale-ale.md"
+title: "Winking seal pale ale"
 category: beer
 score: 4
 beer-date: "2018-02-17"

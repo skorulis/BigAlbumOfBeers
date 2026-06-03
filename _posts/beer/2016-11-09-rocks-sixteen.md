@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rocks-sixteen.md
-title: Rocks sixteen
+filename: "_posts/beer/2016-11-09-rocks-sixteen.md"
+title: "Rocks sixteen"
 category: beer
 score: 7
 beer-date: "2024-11-09"

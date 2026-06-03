@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-basement-south-coast-pale-ale.md
-title: Basement south coast pale ale
+filename: "_posts/beer/2016-11-09-basement-south-coast-pale-ale.md"
+title: "Basement south coast pale ale"
 category: beer
 score: 5
 beer-date: "2020-07-31"

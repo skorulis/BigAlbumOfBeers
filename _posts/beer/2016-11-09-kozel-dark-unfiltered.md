@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kozel-dark-unfiltered.md
-title: Kozel dark unfiltered
+filename: "_posts/beer/2016-11-09-kozel-dark-unfiltered.md"
+title: "Kozel dark unfiltered"
 category: beer
 score: 7.5
 beer-date: "2017-06-15"

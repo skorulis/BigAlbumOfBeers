@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-boxer-red-ale.md
-title: The boxer red ale
+filename: "_posts/beer/2016-11-09-the-boxer-red-ale.md"
+title: "The boxer red ale"
 category: beer
 score: 8
 beer-date: "2013-03-28"

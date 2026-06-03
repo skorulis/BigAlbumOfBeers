@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tradewind-lager.md
-title: Tradewind lager
+filename: "_posts/beer/2016-11-09-tradewind-lager.md"
+title: "Tradewind lager"
 category: beer
 score: 6
 beer-date: "2016-02-14"
@@ -11,6 +11,6 @@ img: /img/list/tradewind-lager.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--tradewind-lager/1328361"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Lager - Pale"
 ---

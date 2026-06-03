@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-one-brew-nation-ddh-hazy-pale-ale.md
-title: One brew nation DDH hazy pale ale
+filename: "_posts/beer/2016-11-09-one-brew-nation-ddh-hazy-pale-ale.md"
+title: "One brew nation DDH hazy pale ale"
 category: beer
 score: 5
 beer-date: "2020-09-26"

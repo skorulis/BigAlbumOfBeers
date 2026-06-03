@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fort-point-ksa.md
-title: Fort point KSA
+filename: "_posts/beer/2016-11-09-fort-point-ksa.md"
+title: "Fort point KSA"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

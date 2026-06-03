@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-felons-low-carb-ale.md
-title: Felons low carb ale
+filename: "_posts/beer/2016-11-09-felons-low-carb-ale.md"
+title: "Felons low carb ale"
 category: beer
 score: 4
 beer-date: "2023-02-26"

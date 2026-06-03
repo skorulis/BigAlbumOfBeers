@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bridge-road-fruit-salad-sour.md
-title: Bridge road fruit salad sour
+filename: "_posts/beer/2016-11-09-bridge-road-fruit-salad-sour.md"
+title: "Bridge road fruit salad sour"
 category: beer
 score: 6.5
 beer-date: "2021-01-01"

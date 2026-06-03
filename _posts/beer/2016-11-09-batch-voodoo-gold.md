@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-voodoo-gold.md
-title: Batch Voodoo Gold
+filename: "_posts/beer/2016-11-09-batch-voodoo-gold.md"
+title: "Batch Voodoo Gold"
 category: beer
 score: 7.5
 beer-date: "2026-03-27"

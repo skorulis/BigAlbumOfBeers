@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-monteith-xpa.md
-title: Monteith XPA
+filename: "_posts/beer/2016-11-09-monteith-xpa.md"
+title: "Monteith XPA"
 category: beer
 score: 6
 beer-date: "2018-06-02"
@@ -11,6 +11,6 @@ img: /img/list/monteith-xpa.jpeg
 untappd: "https://untappd.com/b/monteiths-brewing-co---monteiths-xpa/1941060"
 country: "New Zealand"
 brewery: "Monteith's Brewing Co. "
-breweryURL: "/brewery/monteith-s-brewing-co--.html"
+breweryURL: "/brewery/monteith-s-brewing-co.html"
 style: "Pale Ale - American"
 ---

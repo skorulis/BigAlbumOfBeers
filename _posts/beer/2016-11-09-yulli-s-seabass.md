@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yulli-s-seabass.md
-title: Yulli's seabass
+filename: "_posts/beer/2016-11-09-yulli-s-seabass.md"
+title: "Yulli's seabass"
 category: beer
 score: 7
 beer-date: "2016-04-21"

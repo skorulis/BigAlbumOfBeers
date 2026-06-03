@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-spendrups-norrlands-guld.md
-title: Spendrups Norrlands guld
+filename: "_posts/beer/2016-11-09-spendrups-norrlands-guld.md"
+title: "Spendrups Norrlands guld"
 category: beer
 score: 6
 beer-date: "2023-10-02"

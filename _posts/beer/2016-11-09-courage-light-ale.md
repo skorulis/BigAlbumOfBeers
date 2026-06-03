@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-courage-light-ale.md
-title: Courage light ale
+filename: "_posts/beer/2016-11-09-courage-light-ale.md"
+title: "Courage light ale"
 category: beer
 score: 5
 beer-date: "2013-08-18"

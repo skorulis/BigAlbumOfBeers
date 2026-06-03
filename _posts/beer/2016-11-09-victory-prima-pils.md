@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-victory-prima-pils.md
-title: Victory Prima pils
+filename: "_posts/beer/2016-11-09-victory-prima-pils.md"
+title: "Victory Prima pils"
 category: beer
 score: 8
 beer-date: "2017-08-21"

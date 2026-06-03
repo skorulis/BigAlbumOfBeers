@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-point-sweet-action.md
-title: Six point sweet action
+filename: "_posts/beer/2016-11-09-six-point-sweet-action.md"
+title: "Six point sweet action"
 category: beer
 score: 7.5
 beer-date: "2018-06-02"

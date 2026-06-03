@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-willie-the-boatman-albo-corn-ale.md
-title: Willie the boatman Albo corn ale
+filename: "_posts/beer/2016-11-09-willie-the-boatman-albo-corn-ale.md"
+title: "Willie the boatman Albo corn ale"
 category: beer
 score: 6
 beer-date: "2016-02-14"

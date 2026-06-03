@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-big-shed-boozy-fruit.md
-title: Big shed boozy fruit
+filename: "_posts/beer/2016-11-09-big-shed-boozy-fruit.md"
+title: "Big shed boozy fruit"
 category: beer
 score: 8.5
 beer-date: "2021-11-12"

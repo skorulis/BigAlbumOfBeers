@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-bermuda-love-triangle.md
-title: Hawkers Bermuda love triangle
+filename: "_posts/beer/2016-11-09-hawkers-bermuda-love-triangle.md"
+title: "Hawkers Bermuda love triangle"
 category: beer
 score: 6.5
 beer-date: "2023-02-26"

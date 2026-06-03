@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-frenchies-soft-tropical-mist.md
-title: Frenchies soft tropical mist
+filename: "_posts/beer/2016-11-09-frenchies-soft-tropical-mist.md"
+title: "Frenchies soft tropical mist"
 category: beer
 score: 8
 beer-date: "2020-12-25"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-nectar-on.md
-title: 2 halfs nectar on
+filename: "_posts/beer/2016-11-09-2-halfs-nectar-on.md"
+title: "2 halfs nectar on"
 category: beer
 score: 7
 beer-date: "2024-03-29"

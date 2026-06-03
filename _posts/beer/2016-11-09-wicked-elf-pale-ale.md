@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wicked-elf-pale-ale.md
-title: Wicked elf pale ale
+filename: "_posts/beer/2016-11-09-wicked-elf-pale-ale.md"
+title: "Wicked elf pale ale"
 category: beer
 score: null
 beer-date: "2014-06-21"

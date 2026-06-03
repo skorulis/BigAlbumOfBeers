@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-magic-hat-smash-hits-ipa.md
-title: Magic hat smash hits IPA
+filename: "_posts/beer/2016-11-09-magic-hat-smash-hits-ipa.md"
+title: "Magic hat smash hits IPA"
 category: beer
 score: 6
 beer-date: "2016-09-21"

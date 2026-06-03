@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-voyage-of-the-galaxy.md
-title: Batch voyage of the Galaxy
+filename: "_posts/beer/2016-11-09-batch-voyage-of-the-galaxy.md"
+title: "Batch voyage of the Galaxy"
 category: beer
 score: 4
 beer-date: "2016-01-07"

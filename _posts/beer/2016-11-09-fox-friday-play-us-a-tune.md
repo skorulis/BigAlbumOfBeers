@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fox-friday-play-us-a-tune.md
-title: Fox Friday Play Us A Tune
+filename: "_posts/beer/2016-11-09-fox-friday-play-us-a-tune.md"
+title: "Fox Friday Play Us A Tune"
 category: beer
 score: 8
 beer-date: "2024-12-28"

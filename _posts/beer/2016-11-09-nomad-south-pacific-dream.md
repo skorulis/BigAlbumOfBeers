@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-south-pacific-dream.md
-title: Nomad South Pacific dream
+filename: "_posts/beer/2016-11-09-nomad-south-pacific-dream.md"
+title: "Nomad South Pacific dream"
 category: beer
 score: 7.5
 beer-date: "2023-03-31"

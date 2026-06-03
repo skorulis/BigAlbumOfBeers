@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-river-of-ideas.md
-title: White bay river of ideas
+filename: "_posts/beer/2016-11-09-white-bay-river-of-ideas.md"
+title: "White bay river of ideas"
 category: beer
 score: 8
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lord-nelson-trafalgar-pale-ale.md
-title: Lord Nelson Trafalgar pale ale
+filename: "_posts/beer/2016-11-09-lord-nelson-trafalgar-pale-ale.md"
+title: "Lord Nelson Trafalgar pale ale"
 category: beer
 score: 6
 beer-date: "2013-03-28"

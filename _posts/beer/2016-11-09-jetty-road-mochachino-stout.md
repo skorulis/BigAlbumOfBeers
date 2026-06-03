@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jetty-road-mochachino-stout.md
-title: Jetty road mochachino stout
+filename: "_posts/beer/2016-11-09-jetty-road-mochachino-stout.md"
+title: "Jetty road mochachino stout"
 category: beer
 score: 8.5
 beer-date: "2020-12-25"

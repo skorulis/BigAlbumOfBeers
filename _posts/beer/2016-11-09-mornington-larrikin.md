@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mornington-larrikin.md
-title: Mornington larrikin
+filename: "_posts/beer/2016-11-09-mornington-larrikin.md"
+title: "Mornington larrikin"
 category: beer
 score: 7
 beer-date: "2019-07-14"

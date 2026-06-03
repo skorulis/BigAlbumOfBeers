@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deeds-double-time.md
-title: Deeds double time
+filename: "_posts/beer/2016-11-09-deeds-double-time.md"
+title: "Deeds double time"
 category: beer
 score: 4.5
 beer-date: "2020-07-31"

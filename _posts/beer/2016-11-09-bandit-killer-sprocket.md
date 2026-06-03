@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bandit-killer-sprocket.md
-title: Bandit Killer Sprocket
+filename: "_posts/beer/2016-11-09-bandit-killer-sprocket.md"
+title: "Bandit Killer Sprocket"
 category: beer
 score: 3
 beer-date: "2015-01-29"

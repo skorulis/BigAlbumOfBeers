@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wrong-side-brewing-raspberry-pale.md
-title: Wrong side brewing Raspberry pale
+filename: "_posts/beer/2016-11-09-wrong-side-brewing-raspberry-pale.md"
+title: "Wrong side brewing Raspberry pale"
 category: beer
 score: 7.5
 beer-date: "2017-04-11"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cascade-bright-ale.md
-title: Cascade bright ale
+filename: "_posts/beer/2016-11-09-cascade-bright-ale.md"
+title: "Cascade bright ale"
 category: beer
 score: 8
 beer-date: "2014-06-21"

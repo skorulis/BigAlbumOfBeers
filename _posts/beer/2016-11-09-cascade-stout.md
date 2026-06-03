@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cascade-stout.md
-title: Cascade Stout
+filename: "_posts/beer/2016-11-09-cascade-stout.md"
+title: "Cascade Stout"
 category: beer
 score: 4
 beer-date: "2015-01-29"

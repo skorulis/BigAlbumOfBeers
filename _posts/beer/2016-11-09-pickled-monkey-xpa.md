@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pickled-monkey-xpa.md
-title: Pickled Monkey XPA
+filename: "_posts/beer/2016-11-09-pickled-monkey-xpa.md"
+title: "Pickled Monkey XPA"
 category: beer
 score: 7
 beer-date: "2025-09-26"

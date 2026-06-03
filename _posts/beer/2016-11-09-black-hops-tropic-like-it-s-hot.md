@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-black-hops-tropic-like-it-s-hot.md
-title: Black hops tropic like it’s hot
+filename: "_posts/beer/2016-11-09-black-hops-tropic-like-it-s-hot.md"
+title: "Black hops tropic like it’s hot"
 category: beer
 score: 7.5
 beer-date: "2021-04-02"

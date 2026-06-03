@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkers-solarism.md
-title: Hawkers solarism
+filename: "_posts/beer/2016-11-09-hawkers-solarism.md"
+title: "Hawkers solarism"
 category: beer
 score: 7
 beer-date: "2021-12-28"

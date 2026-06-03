@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hargreaves-hill-esb.md
-title: Hargreaves hill ESB
+filename: "_posts/beer/2016-11-09-hargreaves-hill-esb.md"
+title: "Hargreaves hill ESB"
 category: beer
 score: 8
 beer-date: "2018-12-27"
@@ -11,6 +11,6 @@ img: /img/list/hargreaves-hill-esb.jpeg
 untappd: "https://untappd.com/b/hargreaves-hill-esb/16586"
 country: "Australia"
 brewery: "Hargreaves Hill Brewing Company Pty. Ltd."
-breweryURL: "/brewery/hargreaves-hill-brewing-company-pty--ltd.html"
+breweryURL: "/brewery/hargreaves-hill-brewing-company-pty-ltd.html"
 style: "Extra Special / Strong Bitter"
 ---

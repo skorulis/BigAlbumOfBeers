@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bruce-malone.md
-title: Bruce Malone
+filename: "_posts/beer/2016-11-09-bruce-malone.md"
+title: "Bruce Malone"
 category: beer
 score: 5
 beer-date: "2015-07-10"

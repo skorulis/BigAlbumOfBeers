@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-hog-ipa.md
-title: Hop Hog IPA
+filename: "_posts/beer/2016-11-09-hop-hog-ipa.md"
+title: "Hop Hog IPA"
 category: beer
 score: 6
 beer-date: "2015-01-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yebisu-premium-black.md
-title: Yebisu premium black
+filename: "_posts/beer/2016-11-09-yebisu-premium-black.md"
+title: "Yebisu premium black"
 category: beer
 score: 7
 beer-date: "2023-03-31"

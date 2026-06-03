@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-moondog-splice-of-heaven.md
-title: Moondog splice of heaven
+filename: "_posts/beer/2016-11-09-moondog-splice-of-heaven.md"
+title: "Moondog splice of heaven"
 category: beer
 score: null
 beer-date: "2017-04-11"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hairyman-pop-ale.md
-title: Hairyman pop ale
+filename: "_posts/beer/2016-11-09-hairyman-pop-ale.md"
+title: "Hairyman pop ale"
 category: beer
 score: 7
 beer-date: "2018-12-27"

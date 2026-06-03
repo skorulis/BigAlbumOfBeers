@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-boatrocker-frontier-beer.md
-title: Boatrocker Frontier Beer
+filename: "_posts/beer/2016-11-09-boatrocker-frontier-beer.md"
+title: "Boatrocker Frontier Beer"
 category: beer
 score: 7
 beer-date: "2024-12-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sailors-grave-lemon-meringue-cream-sour.md
-title: Sailors Grave Lemon Meringue Cream Sour
+filename: "_posts/beer/2016-11-09-sailors-grave-lemon-meringue-cream-sour.md"
+title: "Sailors Grave Lemon Meringue Cream Sour"
 category: beer
 score: 7
 beer-date: "2020-07-31"

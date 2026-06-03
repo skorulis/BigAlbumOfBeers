@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-la-sirene-citray-sour.md
-title: La Sirène Citray Sour
+filename: "_posts/beer/2016-11-09-la-sirene-citray-sour.md"
+title: "La Sirène Citray Sour"
 category: beer
 score: 8
 beer-date: "2025-09-26"

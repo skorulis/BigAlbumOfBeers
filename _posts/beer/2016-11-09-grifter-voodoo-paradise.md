@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-grifter-voodoo-paradise.md
-title: Grifter voodoo paradise
+filename: "_posts/beer/2016-11-09-grifter-voodoo-paradise.md"
+title: "Grifter voodoo paradise"
 category: beer
 score: 8.5
 beer-date: "2020-12-25"

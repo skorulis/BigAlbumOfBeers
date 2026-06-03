@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sauce-oat-and-about.md
-title: Sauce oat and about
+filename: "_posts/beer/2016-11-09-sauce-oat-and-about.md"
+title: "Sauce oat and about"
 category: beer
 score: 8.5
 beer-date: "2020-09-26"

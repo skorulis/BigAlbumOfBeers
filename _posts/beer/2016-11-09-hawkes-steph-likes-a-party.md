@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hawkes-steph-likes-a-party.md
-title: Hawkes Steph likes a party
+filename: "_posts/beer/2016-11-09-hawkes-steph-likes-a-party.md"
+title: "Hawkes Steph likes a party"
 category: beer
 score: 8
 beer-date: "2020-07-31"

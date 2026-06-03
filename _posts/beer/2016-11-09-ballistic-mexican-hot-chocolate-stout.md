@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballistic-mexican-hot-chocolate-stout.md
-title: Ballistic Mexican hot chocolate stout
+filename: "_posts/beer/2016-11-09-ballistic-mexican-hot-chocolate-stout.md"
+title: "Ballistic Mexican hot chocolate stout"
 category: beer
 score: 7.5
 beer-date: "2021-06-05"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-gingerbread-milk-stout.md
-title: Nomad gingerbread milk stout
+filename: "_posts/beer/2016-11-09-nomad-gingerbread-milk-stout.md"
+title: "Nomad gingerbread milk stout"
 category: beer
 score: 6
 beer-date: "2021-12-28"

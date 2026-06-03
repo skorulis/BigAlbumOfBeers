@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-riverside-under-the-milky-way-stout.md
-title: Riverside under the Milky Way stout
+filename: "_posts/beer/2016-11-09-riverside-under-the-milky-way-stout.md"
+title: "Riverside under the Milky Way stout"
 category: beer
 score: 5.5
 beer-date: "2018-02-17"

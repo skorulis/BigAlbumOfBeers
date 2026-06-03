@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-murray-s-laguna.md
-title: Murray’s laguna
+filename: "_posts/beer/2016-11-09-murray-s-laguna.md"
+title: "Murray’s laguna"
 category: beer
 score: 8
 beer-date: "2020-07-31"

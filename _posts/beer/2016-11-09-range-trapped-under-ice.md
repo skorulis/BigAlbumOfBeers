@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-trapped-under-ice.md
-title: Range trapped under ice
+filename: "_posts/beer/2016-11-09-range-trapped-under-ice.md"
+title: "Range trapped under ice"
 category: beer
 score: 8
 beer-date: "2024-03-29"

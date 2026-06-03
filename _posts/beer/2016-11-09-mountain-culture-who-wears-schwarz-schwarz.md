@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-who-wears-schwarz-schwarz.md
-title: Mountain culture who wears schwarz schwarz
+filename: "_posts/beer/2016-11-09-mountain-culture-who-wears-schwarz-schwarz.md"
+title: "Mountain culture who wears schwarz schwarz"
 category: beer
 score: 8
 beer-date: "2024-11-09"

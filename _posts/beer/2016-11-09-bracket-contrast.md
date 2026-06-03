@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-contrast.md
-title: Bracket Contrast
+filename: "_posts/beer/2016-11-09-bracket-contrast.md"
+title: "Bracket Contrast"
 category: beer
 score: 7
 beer-date: "2026-03-27"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-floreffe-prima-melior.md
-title: Floreffe Prima Melior
+filename: "_posts/beer/2016-11-09-floreffe-prima-melior.md"
+title: "Floreffe Prima Melior"
 category: beer
 score: 3
 beer-date: "2015-01-29"

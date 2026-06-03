@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-black-ipa.md
-title: Akasha black IPA
+filename: "_posts/beer/2016-11-09-akasha-black-ipa.md"
+title: "Akasha black IPA"
 category: beer
 score: 8
 beer-date: "2017-08-21"
@@ -11,6 +11,6 @@ img: /img/list/akasha-black-ipa.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company--australia--black-ipa/2221303"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - Black / Cascadian Dark Ale"
 ---

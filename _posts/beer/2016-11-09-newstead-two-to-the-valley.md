@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-newstead-two-to-the-valley.md
-title: Newstead two to the valley
+filename: "_posts/beer/2016-11-09-newstead-two-to-the-valley.md"
+title: "Newstead two to the valley"
 category: beer
 score: 3
 beer-date: "2017-03-03"

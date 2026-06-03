@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-alice-porter.md
-title: Alice Porter
+filename: "_posts/beer/2016-11-09-alice-porter.md"
+title: "Alice Porter"
 category: beer
 score: 7
 beer-date: "2016-01-06"

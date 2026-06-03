@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-co-conspirators-the-illusive-man.md
-title: Co conspirators the illusive man
+filename: "_posts/beer/2016-11-09-co-conspirators-the-illusive-man.md"
+title: "Co conspirators the illusive man"
 category: beer
 score: 6.5
 beer-date: "2023-02-28"

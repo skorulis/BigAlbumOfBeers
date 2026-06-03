@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-redbay-black-gold-coffee-porter.md
-title: Redbay Black gold coffee porter
+filename: "_posts/beer/2016-11-09-redbay-black-gold-coffee-porter.md"
+title: "Redbay Black gold coffee porter"
 category: beer
 score: 7
 beer-date: "2016-09-21"

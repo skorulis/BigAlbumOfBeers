@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shenanigans-malt-assault.md
-title: Shenanigans malt assault
+filename: "_posts/beer/2016-11-09-shenanigans-malt-assault.md"
+title: "Shenanigans malt assault"
 category: beer
 score: 7
 beer-date: "2017-01-21"

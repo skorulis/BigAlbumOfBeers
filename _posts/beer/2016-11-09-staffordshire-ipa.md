@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-staffordshire-ipa.md
-title: Staffordshire IPA
+filename: "_posts/beer/2016-11-09-staffordshire-ipa.md"
+title: "Staffordshire IPA"
 category: beer
 score: 6
 beer-date: "2013-02-01"

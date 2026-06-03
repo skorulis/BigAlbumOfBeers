@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-working-title-mean-streets.md
-title: Working title mean streets
+filename: "_posts/beer/2016-11-09-working-title-mean-streets.md"
+title: "Working title mean streets"
 category: beer
 score: 7
 beer-date: "2023-02-28"

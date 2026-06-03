@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-coffee-milk-stout.md
-title: Batch coffee milk stout
+filename: "_posts/beer/2016-11-09-batch-coffee-milk-stout.md"
+title: "Batch coffee milk stout"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

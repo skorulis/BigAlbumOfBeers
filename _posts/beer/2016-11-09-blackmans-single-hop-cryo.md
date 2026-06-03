@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackmans-single-hop-cryo.md
-title: Blackmans single hop cryo
+filename: "_posts/beer/2016-11-09-blackmans-single-hop-cryo.md"
+title: "Blackmans single hop cryo"
 category: beer
 score: 8
 beer-date: "2023-02-26"

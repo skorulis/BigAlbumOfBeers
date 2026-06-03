@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewmanity-social-beast.md
-title: Brewmanity social beast
+filename: "_posts/beer/2016-11-09-brewmanity-social-beast.md"
+title: "Brewmanity social beast"
 category: beer
 score: 6
 beer-date: "2019-04-22"

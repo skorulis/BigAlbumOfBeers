@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deeds-fiscal-damage.md
-title: Deeds fiscal damage
+filename: "_posts/beer/2016-11-09-deeds-fiscal-damage.md"
+title: "Deeds fiscal damage"
 category: beer
 score: 8.5
 beer-date: "2021-04-02"

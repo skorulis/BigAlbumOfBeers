@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-single-take-session-ale.md
-title: Single-take session ale
+filename: "_posts/beer/2016-11-09-single-take-session-ale.md"
+title: "Single-take session ale"
 category: beer
 score: 6
 beer-date: "2016-02-14"

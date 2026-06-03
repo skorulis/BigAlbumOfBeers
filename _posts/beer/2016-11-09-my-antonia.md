@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-my-antonia.md
-title: My Antonia
+filename: "_posts/beer/2016-11-09-my-antonia.md"
+title: "My Antonia"
 category: beer
 score: 6
 beer-date: "2015-04-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stockade-wanderer-maerzen.md
-title: Stockade wanderer märzen
+filename: "_posts/beer/2016-11-09-stockade-wanderer-maerzen.md"
+title: "Stockade wanderer märzen"
 category: beer
 score: 6.5
 beer-date: "2017-02-11"

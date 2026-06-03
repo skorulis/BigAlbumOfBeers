@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-central-district-hopelessly-nice.md
-title: Central District Hopelessly Nice
+filename: "_posts/beer/2016-11-09-central-district-hopelessly-nice.md"
+title: "Central District Hopelessly Nice"
 category: beer
 score: 7
 beer-date: "2025-09-26"

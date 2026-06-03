@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-revel-american-brown-ale.md
-title: Revel American brown ale
+filename: "_posts/beer/2016-11-09-revel-american-brown-ale.md"
+title: "Revel American brown ale"
 category: beer
 score: 7.5
 beer-date: "2020-12-25"

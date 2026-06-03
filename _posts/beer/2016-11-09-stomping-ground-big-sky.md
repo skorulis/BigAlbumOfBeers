@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stomping-ground-big-sky.md
-title: Stomping ground big sky
+filename: "_posts/beer/2016-11-09-stomping-ground-big-sky.md"
+title: "Stomping ground big sky"
 category: beer
 score: 7
 beer-date: "2024-03-29"

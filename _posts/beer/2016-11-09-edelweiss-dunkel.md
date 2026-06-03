@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-edelweiss-dunkel.md
-title: Edelweiss Dunkel
+filename: "_posts/beer/2016-11-09-edelweiss-dunkel.md"
+title: "Edelweiss Dunkel"
 category: beer
 score: 7.5
 beer-date: "2017-06-15"

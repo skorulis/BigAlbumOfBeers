@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-deeds-add-to-batter-slowly.md
-title: Deeds add to batter slowly
+filename: "_posts/beer/2016-11-09-deeds-add-to-batter-slowly.md"
+title: "Deeds add to batter slowly"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

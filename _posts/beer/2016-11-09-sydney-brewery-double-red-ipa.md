@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sydney-brewery-double-red-ipa.md
-title: Sydney brewery double red IPA
+filename: "_posts/beer/2016-11-09-sydney-brewery-double-red-ipa.md"
+title: "Sydney brewery double red IPA"
 category: beer
 score: 6
 beer-date: "2021-06-05"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fjord-folk-donkeymann-2-0.md
-title: Fjord folk donkeymann 2.0
+filename: "_posts/beer/2016-11-09-fjord-folk-donkeymann-2-0.md"
+title: "Fjord folk donkeymann 2.0"
 category: beer
 score: 5.5
 beer-date: "2023-10-02"

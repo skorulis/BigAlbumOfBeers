@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-maltnhops-double-the-snobbery.md
-title: Maltnhops double the snobbery
+filename: "_posts/beer/2016-11-09-maltnhops-double-the-snobbery.md"
+title: "Maltnhops double the snobbery"
 category: beer
 score: 7
 beer-date: "2022-08-07"

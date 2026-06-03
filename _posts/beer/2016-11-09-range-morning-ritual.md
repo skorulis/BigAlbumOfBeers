@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-morning-ritual.md
-title: Range morning ritual
+filename: "_posts/beer/2016-11-09-range-morning-ritual.md"
+title: "Range morning ritual"
 category: beer
 score: 7
 beer-date: "2021-11-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-marsden-prohibition-red-lager.md
-title: Marsden Prohibition Red Lager
+filename: "_posts/beer/2016-11-09-marsden-prohibition-red-lager.md"
+title: "Marsden Prohibition Red Lager"
 category: beer
 score: 6
 beer-date: "2026-03-27"

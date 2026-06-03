@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ballistic-mele-kalikimaka.md
-title: Ballistic mele kalikimaka
+filename: "_posts/beer/2016-11-09-ballistic-mele-kalikimaka.md"
+title: "Ballistic mele kalikimaka"
 category: beer
 score: 9
 beer-date: "2020-12-25"

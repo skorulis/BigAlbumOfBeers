@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-murray-thunderbolt.md
-title: Murray thunderbolt
+filename: "_posts/beer/2016-11-09-murray-thunderbolt.md"
+title: "Murray thunderbolt"
 category: beer
 score: 7
 beer-date: "2018-11-05"

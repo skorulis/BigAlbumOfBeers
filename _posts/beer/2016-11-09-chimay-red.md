@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-chimay-red.md
-title: Chimay red
+filename: "_posts/beer/2016-11-09-chimay-red.md"
+title: "Chimay red"
 category: beer
 score: 7
 beer-date: "2015-10-17"

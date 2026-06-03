@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-centennial-pale.md
-title: 2 halfs centennial pale
+filename: "_posts/beer/2016-11-09-2-halfs-centennial-pale.md"
+title: "2 halfs centennial pale"
 category: beer
 score: 6
 beer-date: "2021-06-05"

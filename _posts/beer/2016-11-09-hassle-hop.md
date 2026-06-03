@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hassle-hop.md
-title: Hassle Hop
+filename: "_posts/beer/2016-11-09-hassle-hop.md"
+title: "Hassle Hop"
 category: beer
 score: 4
 beer-date: "2015-01-29"

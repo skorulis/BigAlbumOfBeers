@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ocean-reach-tropical-xpa.md
-title: Ocean reach tropical XPA
+filename: "_posts/beer/2016-11-09-ocean-reach-tropical-xpa.md"
+title: "Ocean reach tropical XPA"
 category: beer
 score: 6.5
 beer-date: "2021-01-01"
@@ -11,6 +11,6 @@ img: /img/list/ocean-reach-tropical-xpa.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--tropical-xpa/3579152"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "/brewery/ocean-reach-brewing-.html"
+breweryURL: "/brewery/ocean-reach-brewing.html"
 style: "Pale Ale - Australian"
 ---

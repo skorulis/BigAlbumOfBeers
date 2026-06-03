@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-beacon-imperial-pastry-stout.md
-title: Green beacon Imperial pastry stout
+filename: "_posts/beer/2016-11-09-green-beacon-imperial-pastry-stout.md"
+title: "Green beacon Imperial pastry stout"
 category: beer
 score: 7
 beer-date: "2021-12-28"

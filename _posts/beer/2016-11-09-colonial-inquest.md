@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-colonial-inquest.md
-title: Colonial inquest
+filename: "_posts/beer/2016-11-09-colonial-inquest.md"
+title: "Colonial inquest"
 category: beer
 score: 7.5
 beer-date: "2018-10-05"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-salikat-eddy-current.md
-title: Salikat eddy current
+filename: "_posts/beer/2016-11-09-salikat-eddy-current.md"
+title: "Salikat eddy current"
 category: beer
 score: 8
 beer-date: "2023-10-02"

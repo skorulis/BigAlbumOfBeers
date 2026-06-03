@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-amber-ale.md
-title: Garage project amber ale
+filename: "_posts/beer/2016-11-09-garage-project-amber-ale.md"
+title: "Garage project amber ale"
 category: beer
 score: 6
 beer-date: "2019-11-22"

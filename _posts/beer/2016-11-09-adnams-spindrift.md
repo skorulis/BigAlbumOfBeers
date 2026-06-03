@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-adnams-spindrift.md
-title: Adnams Spindrift
+filename: "_posts/beer/2016-11-09-adnams-spindrift.md"
+title: "Adnams Spindrift"
 category: beer
 score: 6
 beer-date: "2013-07-19"

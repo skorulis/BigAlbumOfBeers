@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-guinness-hop-house-13.md
-title: Guinness hop house 13
+filename: "_posts/beer/2016-11-09-guinness-hop-house-13.md"
+title: "Guinness hop house 13"
 category: beer
 score: 7
 beer-date: "2017-06-02"

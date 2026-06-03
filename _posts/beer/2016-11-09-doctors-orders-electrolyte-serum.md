@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-doctors-orders-electrolyte-serum.md
-title: Doctors orders electrolyte serum
+filename: "_posts/beer/2016-11-09-doctors-orders-electrolyte-serum.md"
+title: "Doctors orders electrolyte serum"
 category: beer
 score: 6.5
 beer-date: "2017-05-27"

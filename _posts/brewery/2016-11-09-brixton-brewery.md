@@ -4,7 +4,7 @@ filename: "_posts/brewery/2016-11-09-brixton-brewery.md"
 title: "Brixton Brewery"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/brixton-brewery/85722"
-instagram: 'BrixtonBrewery'
-twitter: 'BrixtonBrewery'
-facebook: 'https://www.facebook.com/BrixtonBrewery'
+instagram: "BrixtonBrewery"
+twitter: "BrixtonBrewery"
+facebook: "https://www.facebook.com/BrixtonBrewery"
 ---

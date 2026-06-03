@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-flensburger.md
-title: Flensburger
+filename: "_posts/beer/2016-11-09-flensburger.md"
+title: "Flensburger"
 category: beer
 score: 6.5
 beer-date: "2017-06-15"

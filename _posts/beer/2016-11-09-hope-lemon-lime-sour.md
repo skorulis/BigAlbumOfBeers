@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-lemon-lime-sour.md
-title: Hope lemon lime sour
+filename: "_posts/beer/2016-11-09-hope-lemon-lime-sour.md"
+title: "Hope lemon lime sour"
 category: beer
 score: 6.5
 beer-date: "2020-07-31"

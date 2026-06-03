@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-oskar-blues-ipa.md
-title: Oskar blues IPA
+filename: "_posts/beer/2016-11-09-oskar-blues-ipa.md"
+title: "Oskar blues IPA"
 category: beer
 score: 6
 beer-date: "2017-01-30"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shenanigans-white-sky.md
-title: Shenanigans white Sky
+filename: "_posts/beer/2016-11-09-shenanigans-white-sky.md"
+title: "Shenanigans white Sky"
 category: beer
 score: 5
 beer-date: "2016-01-06"

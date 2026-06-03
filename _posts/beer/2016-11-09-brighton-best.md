@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brighton-best.md
-title: Brighton Best
+filename: "_posts/beer/2016-11-09-brighton-best.md"
+title: "Brighton Best"
 category: beer
 score: 6
 beer-date: "2013-12-23"

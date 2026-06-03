@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-bang-face-berserker.md
-title: Little bang face berserker
+filename: "_posts/beer/2016-11-09-little-bang-face-berserker.md"
+title: "Little bang face berserker"
 category: beer
 score: 7
 beer-date: "2023-02-28"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sagres-bohemia.md
-title: Sagres Bohemia
+filename: "_posts/beer/2016-11-09-sagres-bohemia.md"
+title: "Sagres Bohemia"
 category: beer
 score: 7
 beer-date: "2013-05-25"

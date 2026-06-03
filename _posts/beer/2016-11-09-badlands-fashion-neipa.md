@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-badlands-fashion-neipa.md
-title: Badlands fashion NEIPA
+filename: "_posts/beer/2016-11-09-badlands-fashion-neipa.md"
+title: "Badlands fashion NEIPA"
 category: beer
 score: 3.5
 beer-date: "2021-11-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slipstream-sabro-strong-pale-ale.md
-title: Slipstream Sabro strong pale ale
+filename: "_posts/beer/2016-11-09-slipstream-sabro-strong-pale-ale.md"
+title: "Slipstream Sabro strong pale ale"
 category: beer
 score: 6.5
 beer-date: "2019-06-22"

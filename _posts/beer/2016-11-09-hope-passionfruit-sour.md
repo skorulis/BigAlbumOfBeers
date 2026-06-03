@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-passionfruit-sour.md
-title: Hope passionfruit sour
+filename: "_posts/beer/2016-11-09-hope-passionfruit-sour.md"
+title: "Hope passionfruit sour"
 category: beer
 score: 3
 beer-date: "2022-10-15"

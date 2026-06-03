@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-hazy-daze.md
-title: 2 halfs hazy daze
+filename: "_posts/beer/2016-11-09-2-halfs-hazy-daze.md"
+title: "2 halfs hazy daze"
 category: beer
 score: 7
 beer-date: "2022-08-07"

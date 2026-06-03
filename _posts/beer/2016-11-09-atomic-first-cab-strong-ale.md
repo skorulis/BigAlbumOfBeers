@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-atomic-first-cab-strong-ale.md
-title: Atomic first cab strong ale
+filename: "_posts/beer/2016-11-09-atomic-first-cab-strong-ale.md"
+title: "Atomic first cab strong ale"
 category: beer
 score: 7
 beer-date: "2020-11-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-reckless-saltbush-gose.md
-title: Reckless saltbush gose
+filename: "_posts/beer/2016-11-09-reckless-saltbush-gose.md"
+title: "Reckless saltbush gose"
 category: beer
 score: 7
 beer-date: "2024-12-28"

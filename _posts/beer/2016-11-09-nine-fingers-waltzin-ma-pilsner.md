@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nine-fingers-waltzin-ma-pilsner.md
-title: Nine fingers waltzin ma pilsner
+filename: "_posts/beer/2016-11-09-nine-fingers-waltzin-ma-pilsner.md"
+title: "Nine fingers waltzin ma pilsner"
 category: beer
 score: 6.5
 beer-date: "2018-12-27"

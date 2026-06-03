@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-riverside-tropico.md
-title: Riverside tropico
+filename: "_posts/beer/2016-11-09-riverside-tropico.md"
+title: "Riverside tropico"
 category: beer
 score: 7.5
 beer-date: "2020-11-13"

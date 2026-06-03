@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tumut-river-ginja-ninja.md
-title: Tumut river ginja ninja
+filename: "_posts/beer/2016-11-09-tumut-river-ginja-ninja.md"
+title: "Tumut river ginja ninja"
 category: beer
 score: 5
 beer-date: "2017-08-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-yulli-s-glenn-s-negroni-pilsner.md
-title: Yulli’s Glenn's Negroni pilsner
+filename: "_posts/beer/2016-11-09-yulli-s-glenn-s-negroni-pilsner.md"
+title: "Yulli’s Glenn's Negroni pilsner"
 category: beer
 score: 6
 beer-date: "2021-12-28"

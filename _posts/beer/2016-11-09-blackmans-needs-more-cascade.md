@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackmans-needs-more-cascade.md
-title: Blackmans needs more cascade
+filename: "_posts/beer/2016-11-09-blackmans-needs-more-cascade.md"
+title: "Blackmans needs more cascade"
 category: beer
 score: 8.5
 beer-date: "2020-12-25"

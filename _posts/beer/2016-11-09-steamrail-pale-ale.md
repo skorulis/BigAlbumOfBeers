@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-steamrail-pale-ale.md
-title: Steamrail Pale ale
+filename: "_posts/beer/2016-11-09-steamrail-pale-ale.md"
+title: "Steamrail Pale ale"
 category: beer
 score: 7
 beer-date: "2015-05-01"
@@ -11,6 +11,6 @@ img: /img/list/steamrail-pale-ale.jpeg
 untappd: "https://untappd.com/b/steamrail-brewing-company--coles--ghost-of-eyre/869385"
 country: "Australia"
 brewery: "Steamrail Brewing Company (Coles)"
-breweryURL: "/brewery/steamrail-brewing-company--coles.html"
+breweryURL: "/brewery/steamrail-brewing-company-coles.html"
 style: "Pale Ale - Australian"
 ---

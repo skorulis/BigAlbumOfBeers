@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jetty-road-mango-session-ipa.md
-title: Jetty road mango session IPA
+filename: "_posts/beer/2016-11-09-jetty-road-mango-session-ipa.md"
+title: "Jetty road mango session IPA"
 category: beer
 score: 7
 beer-date: "2023-02-26"

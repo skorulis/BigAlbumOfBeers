@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bucket-boys-this-is-rice-country.md
-title: Bucket boys This is rice country
+filename: "_posts/beer/2016-11-09-bucket-boys-this-is-rice-country.md"
+title: "Bucket boys This is rice country"
 category: beer
 score: 6
 beer-date: "2017-05-27"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pepperjack-hand-crafted-ale.md
-title: Pepperjack hand crafted ale
+filename: "_posts/beer/2016-11-09-pepperjack-hand-crafted-ale.md"
+title: "Pepperjack hand crafted ale"
 category: beer
 score: 5
 beer-date: "2013-03-28"

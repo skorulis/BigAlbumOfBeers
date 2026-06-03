@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-chevalier-saison.md
-title: Chevalier saison
+filename: "_posts/beer/2016-11-09-chevalier-saison.md"
+title: "Chevalier saison"
 category: beer
 score: 6.5
 beer-date: "2018-06-02"

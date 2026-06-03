@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-creme-brulee-pastry-stout.md
-title: Batch Crème brûlèe pastry stout
+filename: "_posts/beer/2016-11-09-batch-creme-brulee-pastry-stout.md"
+title: "Batch Crème brûlèe pastry stout"
 category: beer
 score: 7
 beer-date: "2024-11-09"

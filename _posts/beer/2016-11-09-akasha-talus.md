@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-talus.md
-title: Akasha talus
+filename: "_posts/beer/2016-11-09-akasha-talus.md"
+title: "Akasha talus"
 category: beer
 score: 8.5
 beer-date: "2020-12-25"
@@ -11,6 +11,6 @@ img: /img/list/akasha-talus.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-talus/4055769"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "IPA - American"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bluetongue.md
-title: Bluetongue
+filename: "_posts/beer/2016-11-09-bluetongue.md"
+title: "Bluetongue"
 category: beer
 score: 5
 beer-date: "2013-03-28"
@@ -11,6 +11,6 @@ img: /img/list/bluetongue.jpeg
 untappd: "https://untappd.com/b/bluetongue-brewery--pacific-beverages--premium-lager/11350"
 country: "Australia"
 brewery: "Bluetongue Brewery (Pacific Beverages)"
-breweryURL: "/brewery/bluetongue-brewery--pacific-beverages.html"
+breweryURL: "/brewery/bluetongue-brewery-pacific-beverages.html"
 style: "Lager - Pale"
 ---

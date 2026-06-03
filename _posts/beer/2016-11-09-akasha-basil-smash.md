@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-basil-smash.md
-title: Akasha basil smash
+filename: "_posts/beer/2016-11-09-akasha-basil-smash.md"
+title: "Akasha basil smash"
 category: beer
 score: 8
 beer-date: "2021-04-02"
@@ -11,6 +11,6 @@ img: /img/list/akasha-basil-smash.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-basil-smash/4163556"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Other"
 ---

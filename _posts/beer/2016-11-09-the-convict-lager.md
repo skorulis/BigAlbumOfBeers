@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-the-convict-lager.md
-title: The convict lager
+filename: "_posts/beer/2016-11-09-the-convict-lager.md"
+title: "The convict lager"
 category: beer
 score: 7
 beer-date: "2013-03-28"

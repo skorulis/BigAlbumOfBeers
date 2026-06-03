@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackfont-brett-fermented-belgian.md
-title: Blackfont Brett fermented Belgian
+filename: "_posts/beer/2016-11-09-blackfont-brett-fermented-belgian.md"
+title: "Blackfont Brett fermented Belgian"
 category: beer
 score: 8
 beer-date: "2017-05-27"

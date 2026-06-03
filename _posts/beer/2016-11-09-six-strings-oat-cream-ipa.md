@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-strings-oat-cream-ipa.md
-title: Six strings oat cream IPA
+filename: "_posts/beer/2016-11-09-six-strings-oat-cream-ipa.md"
+title: "Six strings oat cream IPA"
 category: beer
 score: 9
 beer-date: "2020-11-13"

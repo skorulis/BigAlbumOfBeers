@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-shenanigans-flight-path.md
-title: Shenanigans flight path
+filename: "_posts/beer/2016-11-09-shenanigans-flight-path.md"
+title: "Shenanigans flight path"
 category: beer
 score: 7
 beer-date: "2016-05-24"

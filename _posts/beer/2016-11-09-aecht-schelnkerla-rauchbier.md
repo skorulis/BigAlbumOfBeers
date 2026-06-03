@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-aecht-schelnkerla-rauchbier.md
-title: Aecht Schelnkerla Rauchbier
+filename: "_posts/beer/2016-11-09-aecht-schelnkerla-rauchbier.md"
+title: "Aecht Schelnkerla Rauchbier"
 category: beer
 score: 7.5
 beer-date: "2017-10-28"
@@ -10,7 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/aecht-schelnkerla-rauchbier.jpeg
 untappd: "https://untappd.com/b/schlenkerla--heller-brau-trum--aecht-schlenkerla-rauchbier---marzen/471"
 country: "Germany"
-brewery: "Schlenkerla ("Heller-Bräu" Trum)"
-breweryURL: "/brewery/schlenkerla--heller-braeu--trum.html"
+brewery: "Schlenkerla (\"Heller-Bräu\" Trum)"
+breweryURL: "/brewery/schlenkerla-heller-braeu-trum.html"
 style: "Rauchbier"
 ---

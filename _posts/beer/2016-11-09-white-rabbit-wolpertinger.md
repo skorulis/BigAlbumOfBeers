@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-rabbit-wolpertinger.md
-title: White rabbit wolpertinger
+filename: "_posts/beer/2016-11-09-white-rabbit-wolpertinger.md"
+title: "White rabbit wolpertinger"
 category: beer
 score: 9
 beer-date: "2017-10-28"

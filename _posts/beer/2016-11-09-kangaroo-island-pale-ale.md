@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kangaroo-island-pale-ale.md
-title: Kangaroo island pale ale
+filename: "_posts/beer/2016-11-09-kangaroo-island-pale-ale.md"
+title: "Kangaroo island pale ale"
 category: beer
 score: 6
 beer-date: "2020-01-16"

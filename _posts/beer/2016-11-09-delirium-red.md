@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-delirium-red.md
-title: Delirium red
+filename: "_posts/beer/2016-11-09-delirium-red.md"
+title: "Delirium red"
 category: beer
 score: 8
 beer-date: "2017-06-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-dapper.md
-title: New England dapper
+filename: "_posts/beer/2016-11-09-new-england-dapper.md"
+title: "New England dapper"
 category: beer
 score: 4.5
 beer-date: "2024-03-29"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bojak-time-to-shine.md
-title: Bojak time to shine
+filename: "_posts/beer/2016-11-09-bojak-time-to-shine.md"
+title: "Bojak time to shine"
 category: beer
 score: 8
 beer-date: "2022-08-07"

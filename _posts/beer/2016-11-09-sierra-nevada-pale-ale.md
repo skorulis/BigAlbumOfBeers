@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sierra-nevada-pale-ale.md
-title: Sierra Nevada pale ale
+filename: "_posts/beer/2016-11-09-sierra-nevada-pale-ale.md"
+title: "Sierra Nevada pale ale"
 category: beer
 score: 7
 beer-date: "2013-01-13"

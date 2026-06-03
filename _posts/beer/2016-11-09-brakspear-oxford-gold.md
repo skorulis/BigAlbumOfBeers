@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brakspear-oxford-gold.md
-title: Brakspear Oxford gold
+filename: "_posts/beer/2016-11-09-brakspear-oxford-gold.md"
+title: "Brakspear Oxford gold"
 category: beer
 score: 4
 beer-date: "2013-09-19"

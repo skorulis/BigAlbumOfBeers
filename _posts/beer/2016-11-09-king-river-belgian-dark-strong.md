@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-king-river-belgian-dark-strong.md
-title: King River Belgian Dark Strong
+filename: "_posts/beer/2016-11-09-king-river-belgian-dark-strong.md"
+title: "King River Belgian Dark Strong"
 category: beer
 score: 8.5
 beer-date: "2025-12-28"

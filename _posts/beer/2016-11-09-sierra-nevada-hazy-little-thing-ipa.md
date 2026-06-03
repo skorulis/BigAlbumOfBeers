@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sierra-nevada-hazy-little-thing-ipa.md
-title: Sierra Nevada Hazy little thing IPA
+filename: "_posts/beer/2016-11-09-sierra-nevada-hazy-little-thing-ipa.md"
+title: "Sierra Nevada Hazy little thing IPA"
 category: beer
 score: 7.5
 beer-date: "2019-06-22"

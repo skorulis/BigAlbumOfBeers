@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tallboy-and-moose-nitro-milk-stout.md
-title: Tallboy and moose nitro milk stout
+filename: "_posts/beer/2016-11-09-tallboy-and-moose-nitro-milk-stout.md"
+title: "Tallboy and moose nitro milk stout"
 category: beer
 score: 6.5
 beer-date: "2021-11-12"

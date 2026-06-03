@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-phat-brew-club-pavalicious.md
-title: Phat Brew Club Pavalicious
+filename: "_posts/beer/2016-11-09-phat-brew-club-pavalicious.md"
+title: "Phat Brew Club Pavalicious"
 category: beer
 score: 7
 beer-date: "2025-12-28"

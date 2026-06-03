@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mildura-xpa.md
-title: Mildura XPA
+filename: "_posts/beer/2016-11-09-mildura-xpa.md"
+title: "Mildura XPA"
 category: beer
 score: 3
 beer-date: "2021-06-05"

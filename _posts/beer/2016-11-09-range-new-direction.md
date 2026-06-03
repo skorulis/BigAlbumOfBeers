@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-range-new-direction.md
-title: Range New Direction
+filename: "_posts/beer/2016-11-09-range-new-direction.md"
+title: "Range New Direction"
 category: beer
 score: 7.5
 beer-date: "2025-11-10"

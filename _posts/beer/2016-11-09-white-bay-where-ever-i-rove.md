@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-white-bay-where-ever-i-rove.md
-title: White bay where ever I rove
+filename: "_posts/beer/2016-11-09-white-bay-where-ever-i-rove.md"
+title: "White bay where ever I rove"
 category: beer
 score: 8
 beer-date: "2020-09-26"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-sailors-grave-law-of-the-tongue.md
-title: Sailors grave law of the tongue
+filename: "_posts/beer/2016-11-09-sailors-grave-law-of-the-tongue.md"
+title: "Sailors grave law of the tongue"
 category: beer
 score: 7
 beer-date: "2022-08-07"

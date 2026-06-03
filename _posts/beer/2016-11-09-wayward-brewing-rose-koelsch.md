@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-brewing-rose-koelsch.md
-title: Wayward brewing rose kölsch
+filename: "_posts/beer/2016-11-09-wayward-brewing-rose-koelsch.md"
+title: "Wayward brewing rose kölsch"
 category: beer
 score: 7
 beer-date: "2016-05-24"

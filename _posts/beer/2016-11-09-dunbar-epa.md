@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-dunbar-epa.md
-title: Dunbar EPA
+filename: "_posts/beer/2016-11-09-dunbar-epa.md"
+title: "Dunbar EPA"
 category: beer
 score: 7.5
 beer-date: "2021-11-12"

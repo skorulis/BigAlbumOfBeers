@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jacks-abby-calyptra.md
-title: Jacks abby calyptra
+filename: "_posts/beer/2016-11-09-jacks-abby-calyptra.md"
+title: "Jacks abby calyptra"
 category: beer
 score: 7
 beer-date: "2017-08-21"

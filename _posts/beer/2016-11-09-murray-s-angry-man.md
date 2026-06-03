@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-murray-s-angry-man.md
-title: Murray's angry man
+filename: "_posts/beer/2016-11-09-murray-s-angry-man.md"
+title: "Murray's angry man"
 category: beer
 score: 6
 beer-date: "2014-03-01"

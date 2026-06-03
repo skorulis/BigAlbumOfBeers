@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-flamin-galah-hefeweizen.md
-title: Flamin galah Hefeweizen
+filename: "_posts/beer/2016-11-09-flamin-galah-hefeweizen.md"
+title: "Flamin galah Hefeweizen"
 category: beer
 score: 7
 beer-date: "2024-03-29"

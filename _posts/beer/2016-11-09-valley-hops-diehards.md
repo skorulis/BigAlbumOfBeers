@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-valley-hops-diehards.md
-title: Valley Hops Diehards
+filename: "_posts/beer/2016-11-09-valley-hops-diehards.md"
+title: "Valley Hops Diehards"
 category: beer
 score: 6.5
 beer-date: "2026-03-27"

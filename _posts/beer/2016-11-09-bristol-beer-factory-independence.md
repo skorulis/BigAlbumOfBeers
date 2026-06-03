@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bristol-beer-factory-independence.md
-title: Bristol beer factory independence
+filename: "_posts/beer/2016-11-09-bristol-beer-factory-independence.md"
+title: "Bristol beer factory independence"
 category: beer
 score: 7
 beer-date: "2016-02-14"

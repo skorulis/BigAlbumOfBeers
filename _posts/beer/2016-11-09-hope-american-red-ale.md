@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-american-red-ale.md
-title: Hope American red ale
+filename: "_posts/beer/2016-11-09-hope-american-red-ale.md"
+title: "Hope American red ale"
 category: beer
 score: 6.5
 beer-date: "2018-03-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-quakers-red-rye-ipa.md
-title: Quakers red rye IPA
+filename: "_posts/beer/2016-11-09-quakers-red-rye-ipa.md"
+title: "Quakers red rye IPA"
 category: beer
 score: 8
 beer-date: "2020-11-13"

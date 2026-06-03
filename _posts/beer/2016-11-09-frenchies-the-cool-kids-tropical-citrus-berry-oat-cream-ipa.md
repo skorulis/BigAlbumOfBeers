@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-frenchies-the-cool-kids-tropical-citrus-berry-oat-cream-ipa.md
-title: Frenchies The cool kids - tropical citrus berry oat cream IPA
+filename: "_posts/beer/2016-11-09-frenchies-the-cool-kids-tropical-citrus-berry-oat-cream-ipa.md"
+title: "Frenchies The cool kids - tropical citrus berry oat cream IPA"
 category: beer
 score: 6
 beer-date: "2024-12-28"

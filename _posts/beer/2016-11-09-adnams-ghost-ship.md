@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-adnams-ghost-ship.md
-title: Adnams ghost ship
+filename: "_posts/beer/2016-11-09-adnams-ghost-ship.md"
+title: "Adnams ghost ship"
 category: beer
 score: 7.5
 beer-date: "2022-08-07"

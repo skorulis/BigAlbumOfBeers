@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cricketers-arms-captain-s-ipa.md
-title: Cricketers arms captain's IPA
+filename: "_posts/beer/2016-11-09-cricketers-arms-captain-s-ipa.md"
+title: "Cricketers arms captain's IPA"
 category: beer
 score: 6
 beer-date: "2015-02-27"

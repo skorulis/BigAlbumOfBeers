@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-rhino-krush.md
-title: 2 Halfs Rhino Krush
+filename: "_posts/beer/2016-11-09-2-halfs-rhino-krush.md"
+title: "2 Halfs Rhino Krush"
 category: beer
 score: 8
 beer-date: "2025-11-10"

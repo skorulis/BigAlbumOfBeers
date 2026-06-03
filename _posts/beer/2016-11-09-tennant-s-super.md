@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tennant-s-super.md
-title: Tennant's super
+filename: "_posts/beer/2016-11-09-tennant-s-super.md"
+title: "Tennant's super"
 category: beer
 score: 2
 beer-date: "2013-04-27"

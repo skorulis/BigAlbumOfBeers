@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-prancing-pony-sunshine-ale.md
-title: Prancing pony sunshine ale
+filename: "_posts/beer/2016-11-09-prancing-pony-sunshine-ale.md"
+title: "Prancing pony sunshine ale"
 category: beer
 score: 6
 beer-date: "2016-09-21"

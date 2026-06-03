@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coastal-manning-quays-lime-pie-ipa.md
-title: Coastal manning quays lime pie IPA
+filename: "_posts/beer/2016-11-09-coastal-manning-quays-lime-pie-ipa.md"
+title: "Coastal manning quays lime pie IPA"
 category: beer
 score: 7
 beer-date: "2022-08-07"

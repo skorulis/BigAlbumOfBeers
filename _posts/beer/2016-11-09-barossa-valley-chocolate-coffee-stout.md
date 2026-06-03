@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-barossa-valley-chocolate-coffee-stout.md
-title: Barossa valley chocolate coffee stout
+filename: "_posts/beer/2016-11-09-barossa-valley-chocolate-coffee-stout.md"
+title: "Barossa valley chocolate coffee stout"
 category: beer
 score: 8
 beer-date: "2018-01-13"

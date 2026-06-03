@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-beacon-wayfarer.md
-title: Green beacon wayfarer
+filename: "_posts/beer/2016-11-09-green-beacon-wayfarer.md"
+title: "Green beacon wayfarer"
 category: beer
 score: 8.5
 beer-date: "2017-10-28"

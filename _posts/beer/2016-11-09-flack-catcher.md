@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-flack-catcher.md
-title: Flack Catcher
+filename: "_posts/beer/2016-11-09-flack-catcher.md"
+title: "Flack Catcher"
 category: beer
 score: 5
 beer-date: "2013-01-13"

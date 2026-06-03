@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wig-pen-from-the-vault.md
-title: Wig & pen from the vault
+filename: "_posts/beer/2016-11-09-wig-pen-from-the-vault.md"
+title: "Wig & pen from the vault"
 category: beer
 score: 9
 beer-date: "2016-02-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-8-wired-surf-rider.md
-title: 8 wired surf rider
+filename: "_posts/beer/2016-11-09-8-wired-surf-rider.md"
+title: "8 wired surf rider"
 category: beer
 score: 4
 beer-date: "2022-09-21"

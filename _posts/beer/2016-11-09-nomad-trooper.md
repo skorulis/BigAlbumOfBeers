@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-nomad-trooper.md
-title: Nomad Trooper
+filename: "_posts/beer/2016-11-09-nomad-trooper.md"
+title: "Nomad Trooper"
 category: beer
 score: 6
 beer-date: "2020-09-26"

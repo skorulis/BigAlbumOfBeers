@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-green-beacon-calypso-hazy.md
-title: Green beacon calypso hazy
+filename: "_posts/beer/2016-11-09-green-beacon-calypso-hazy.md"
+title: "Green beacon calypso hazy"
 category: beer
 score: 8
 beer-date: "2022-08-07"

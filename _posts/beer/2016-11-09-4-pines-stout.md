@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-stout.md
-title: 4 Pines stout
+filename: "_posts/beer/2016-11-09-4-pines-stout.md"
+title: "4 Pines stout"
 category: beer
 score: 6
 beer-date: "2014-03-18"

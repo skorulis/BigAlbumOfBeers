@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-3-ravens-newworld.md
-title: 3 Ravens Newworld
+filename: "_posts/beer/2016-11-09-3-ravens-newworld.md"
+title: "3 Ravens Newworld"
 category: beer
 score: 7.5
 beer-date: "2025-12-28"

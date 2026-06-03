@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fremont-sky-kraken.md
-title: Fremont Sky Kraken
+filename: "_posts/beer/2016-11-09-fremont-sky-kraken.md"
+title: "Fremont Sky Kraken"
 category: beer
 score: 7
 beer-date: "2025-09-26"

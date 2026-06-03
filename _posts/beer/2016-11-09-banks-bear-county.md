@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-bear-county.md
-title: Banks bear county
+filename: "_posts/beer/2016-11-09-banks-bear-county.md"
+title: "Banks bear county"
 category: beer
 score: 9
 beer-date: "2023-02-26"

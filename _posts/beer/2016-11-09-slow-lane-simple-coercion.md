@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slow-lane-simple-coercion.md
-title: Slow lane simple coercion
+filename: "_posts/beer/2016-11-09-slow-lane-simple-coercion.md"
+title: "Slow lane simple coercion"
 category: beer
 score: 7.5
 beer-date: "2021-11-12"

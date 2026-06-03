@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-xocoveza.md
-title: Stone xocoveza
+filename: "_posts/beer/2016-11-09-stone-xocoveza.md"
+title: "Stone xocoveza"
 category: beer
 score: 7
 beer-date: "2017-06-15"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hoopers-ginger-brew.md
-title: Hoopers Ginger brew
+filename: "_posts/beer/2016-11-09-hoopers-ginger-brew.md"
+title: "Hoopers Ginger brew"
 category: beer
 score: 7
 beer-date: "2013-08-15"

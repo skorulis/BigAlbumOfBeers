@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brugge-tripel.md
-title: Brugge tripel
+filename: "_posts/beer/2016-11-09-brugge-tripel.md"
+title: "Brugge tripel"
 category: beer
 score: 8
 beer-date: "2014-03-01"

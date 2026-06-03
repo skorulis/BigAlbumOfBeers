@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-golden-road-ride-on-ipa.md
-title: Golden road ride on IPA
+filename: "_posts/beer/2016-11-09-golden-road-ride-on-ipa.md"
+title: "Golden road ride on IPA"
 category: beer
 score: 8
 beer-date: "2016-05-24"

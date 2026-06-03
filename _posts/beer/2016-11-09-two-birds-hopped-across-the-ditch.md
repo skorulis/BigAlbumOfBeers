@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-two-birds-hopped-across-the-ditch.md
-title: Two birds hopped across the ditch
+filename: "_posts/beer/2016-11-09-two-birds-hopped-across-the-ditch.md"
+title: "Two birds hopped across the ditch"
 category: beer
 score: 7.5
 beer-date: "2020-07-31"

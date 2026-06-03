@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stomping-ground-gipps-st.md
-title: Stomping ground Gipps St
+filename: "_posts/beer/2016-11-09-stomping-ground-gipps-st.md"
+title: "Stomping ground Gipps St"
 category: beer
 score: 8
 beer-date: "2021-01-14"

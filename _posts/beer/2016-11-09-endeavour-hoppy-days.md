@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-endeavour-hoppy-days.md
-title: Endeavour hoppy days
+filename: "_posts/beer/2016-11-09-endeavour-hoppy-days.md"
+title: "Endeavour hoppy days"
 category: beer
 score: 7
 beer-date: "2020-12-25"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wayward-dead-dingo.md
-title: Wayward dead dingo
+filename: "_posts/beer/2016-11-09-wayward-dead-dingo.md"
+title: "Wayward dead dingo"
 category: beer
 score: 7.5
 beer-date: "2019-06-22"

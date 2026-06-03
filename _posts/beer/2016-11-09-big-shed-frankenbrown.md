@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-big-shed-frankenbrown.md
-title: Big shed frankenbrown
+filename: "_posts/beer/2016-11-09-big-shed-frankenbrown.md"
+title: "Big shed frankenbrown"
 category: beer
 score: 8.5
 beer-date: "2019-11-22"

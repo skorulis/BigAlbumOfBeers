@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tumut-river-portstar.md
-title: Tumut river portstar
+filename: "_posts/beer/2016-11-09-tumut-river-portstar.md"
+title: "Tumut river portstar"
 category: beer
 score: 8
 beer-date: "2017-08-06"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-infinite-reflections.md
-title: Garage project infinite reflections
+filename: "_posts/beer/2016-11-09-garage-project-infinite-reflections.md"
+title: "Garage project infinite reflections"
 category: beer
 score: 8.5
 beer-date: "2023-02-28"

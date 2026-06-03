@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brew-dog-jack-hammer.md
-title: Brew dog Jack Hammer
+filename: "_posts/beer/2016-11-09-brew-dog-jack-hammer.md"
+title: "Brew dog Jack Hammer"
 category: beer
 score: 9
 beer-date: "2016-03-16"

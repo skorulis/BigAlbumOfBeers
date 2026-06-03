@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coconut-porter.md
-title: Coconut porter
+filename: "_posts/beer/2016-11-09-coconut-porter.md"
+title: "Coconut porter"
 category: beer
 score: 3
 beer-date: "2013-12-23"

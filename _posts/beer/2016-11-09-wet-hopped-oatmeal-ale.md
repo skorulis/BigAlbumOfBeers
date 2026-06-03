@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wet-hopped-oatmeal-ale.md
-title: Wet hopped oatmeal ale
+filename: "_posts/beer/2016-11-09-wet-hopped-oatmeal-ale.md"
+title: "Wet hopped oatmeal ale"
 category: beer
 score: 6
 beer-date: "2016-02-14"

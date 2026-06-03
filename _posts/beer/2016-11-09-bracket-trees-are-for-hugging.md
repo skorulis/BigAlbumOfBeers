@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-trees-are-for-hugging.md
-title: Bracket trees are for hugging
+filename: "_posts/beer/2016-11-09-bracket-trees-are-for-hugging.md"
+title: "Bracket trees are for hugging"
 category: beer
 score: null
 beer-date: "2022-08-07"

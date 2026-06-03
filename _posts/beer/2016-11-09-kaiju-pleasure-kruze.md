@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kaiju-pleasure-kruze.md
-title: Kaiju pleasure kruze
+filename: "_posts/beer/2016-11-09-kaiju-pleasure-kruze.md"
+title: "Kaiju pleasure kruze"
 category: beer
 score: 7.5
 beer-date: "2023-02-28"
@@ -11,6 +11,6 @@ img: /img/list/kaiju-pleasure-kruze.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-pleazure-kruze/4708166"
 country: "Australia"
 brewery: "KAIJU! Beer"
-breweryURL: "/brewery/kaiju--beer.html"
+breweryURL: "/brewery/kaiju-beer.html"
 style: "Pale Ale - New England / Hazy"
 ---

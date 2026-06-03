@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-riwaka-waka.md
-title: Bracket riwaka waka
+filename: "_posts/beer/2016-11-09-bracket-riwaka-waka.md"
+title: "Bracket riwaka waka"
 category: beer
 score: 9
 beer-date: "2023-02-28"

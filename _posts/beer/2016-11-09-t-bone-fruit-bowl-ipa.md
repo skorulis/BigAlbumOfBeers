@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-t-bone-fruit-bowl-ipa.md
-title: T-bone fruit bowl IPA
+filename: "_posts/beer/2016-11-09-t-bone-fruit-bowl-ipa.md"
+title: "T-bone fruit bowl IPA"
 category: beer
 score: 8.5
 beer-date: "2019-04-22"

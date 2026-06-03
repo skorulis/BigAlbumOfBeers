@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-festbier.md
-title: 4 Pines Festbier
+filename: "_posts/beer/2016-11-09-4-pines-festbier.md"
+title: "4 Pines Festbier"
 category: beer
 score: 6
 beer-date: "2025-11-10"

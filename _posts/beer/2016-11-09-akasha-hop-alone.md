@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-akasha-hop-alone.md
-title: Akasha hop alone
+filename: "_posts/beer/2016-11-09-akasha-hop-alone.md"
+title: "Akasha hop alone"
 category: beer
 score: 7.5
 beer-date: "2024-03-29"
@@ -11,6 +11,6 @@ img: /img/list/akasha-hop-alone.jpeg
 untappd: "https://untappd.com/b/akasha-brewing-company-akasha-brewing-company-hop-alone/5606034"
 country: "Australia"
 brewery: "Akasha Brewing Company (Australia)"
-breweryURL: "/brewery/akasha-brewing-company--australia.html"
+breweryURL: "/brewery/akasha-brewing-company-australia.html"
 style: "Pale Ale - Other"
 ---

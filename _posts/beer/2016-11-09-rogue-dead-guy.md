@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rogue-dead-guy.md
-title: Rogue dead guy
+filename: "_posts/beer/2016-11-09-rogue-dead-guy.md"
+title: "Rogue dead guy"
 category: beer
 score: 7
 beer-date: "2016-06-16"

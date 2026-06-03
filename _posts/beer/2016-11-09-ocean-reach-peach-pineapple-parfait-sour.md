@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ocean-reach-peach-pineapple-parfait-sour.md
-title: Ocean reach peach & pineapple parfait sour
+filename: "_posts/beer/2016-11-09-ocean-reach-peach-pineapple-parfait-sour.md"
+title: "Ocean reach peach & pineapple parfait sour"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"
@@ -11,6 +11,6 @@ img: /img/list/ocean-reach-peach-pineapple-parfait-sour.jpeg
 untappd: "https://untappd.com/b/ocean-reach-brewing--peach---pineapple-parfait-sour/5112799"
 country: "Australia"
 brewery: "Ocean Reach Brewing "
-breweryURL: "/brewery/ocean-reach-brewing-.html"
+breweryURL: "/brewery/ocean-reach-brewing.html"
 style: "Sour - Smoothie / Pastry"
 ---

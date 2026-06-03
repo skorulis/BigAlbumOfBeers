@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-royal-dutch-post-horn-lager.md
-title: Royal Dutch Post Horn Lager
+filename: "_posts/beer/2016-11-09-royal-dutch-post-horn-lager.md"
+title: "Royal Dutch Post Horn Lager"
 category: beer
 score: 5
 beer-date: "2016-01-07"

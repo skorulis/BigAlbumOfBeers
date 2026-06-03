@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-future-scooby-juice.md
-title: Future scooby juice
+filename: "_posts/beer/2016-11-09-future-scooby-juice.md"
+title: "Future scooby juice"
 category: beer
 score: 8
 beer-date: "2024-11-09"

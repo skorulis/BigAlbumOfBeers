@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-anderson-valley-wild-turkey-bourbon-barrel-stout.md
-title: Anderson Valley Wild Turkey Bourbon Barrel Stout
+filename: "_posts/beer/2016-11-09-anderson-valley-wild-turkey-bourbon-barrel-stout.md"
+title: "Anderson Valley Wild Turkey Bourbon Barrel Stout"
 category: beer
 score: 7
 beer-date: "2016-01-07"

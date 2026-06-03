@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-western-ridge-summerye.md
-title: Western ridge summerye
+filename: "_posts/beer/2016-11-09-western-ridge-summerye.md"
+title: "Western ridge summerye"
 category: beer
 score: 6.5
 beer-date: "2018-12-27"

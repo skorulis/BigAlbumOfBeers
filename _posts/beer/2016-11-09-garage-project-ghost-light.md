@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-garage-project-ghost-light.md
-title: Garage project ghost light
+filename: "_posts/beer/2016-11-09-garage-project-ghost-light.md"
+title: "Garage project ghost light"
 category: beer
 score: 7.5
 beer-date: "2023-08-26"

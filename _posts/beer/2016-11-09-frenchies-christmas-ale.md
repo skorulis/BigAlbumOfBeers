@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-frenchies-christmas-ale.md
-title: Frenchies Christmas Ale
+filename: "_posts/beer/2016-11-09-frenchies-christmas-ale.md"
+title: "Frenchies Christmas Ale"
 category: beer
 score: 8
 beer-date: "2024-12-28"

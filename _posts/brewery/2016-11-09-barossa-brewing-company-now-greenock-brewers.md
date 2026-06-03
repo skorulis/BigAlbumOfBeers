@@ -4,7 +4,7 @@ filename: "_posts/brewery/2016-11-09-barossa-brewing-company-now-greenock-brewer
 title: "Barossa Brewing Company - Now Greenock Brewers"
 permalink: /brewery/:title.html
 breweryURL: "https://untappd.com/w/barossa-brewing-company-now-greenock-brewers/8852"
-instagram: ''
-twitter: ''
-facebook: ''
+instagram: ""
+twitter: ""
+facebook: ""
 ---

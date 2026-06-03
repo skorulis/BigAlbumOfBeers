@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-canyon-to-central-with-love.md
-title: Canyon to central with love
+filename: "_posts/beer/2016-11-09-canyon-to-central-with-love.md"
+title: "Canyon to central with love"
 category: beer
 score: 8
 beer-date: "2024-11-09"

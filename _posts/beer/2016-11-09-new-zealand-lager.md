@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-zealand-lager.md
-title: New Zealand Lager
+filename: "_posts/beer/2016-11-09-new-zealand-lager.md"
+title: "New Zealand Lager"
 category: beer
 score: 5.5
 beer-date: "2025-09-26"

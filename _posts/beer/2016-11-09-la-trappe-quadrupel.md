@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-la-trappe-quadrupel.md
-title: La Trappe Quadrupel
+filename: "_posts/beer/2016-11-09-la-trappe-quadrupel.md"
+title: "La Trappe Quadrupel"
 category: beer
 score: 8
 beer-date: "2015-01-29"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lord-howe-island-double-header.md
-title: Lord Howe Island Double Header
+filename: "_posts/beer/2016-11-09-lord-howe-island-double-header.md"
+title: "Lord Howe Island Double Header"
 category: beer
 score: 7
 beer-date: "2025-09-26"

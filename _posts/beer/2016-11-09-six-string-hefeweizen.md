@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-string-hefeweizen.md
-title: Six string Hefeweizen
+filename: "_posts/beer/2016-11-09-six-string-hefeweizen.md"
+title: "Six string Hefeweizen"
 category: beer
 score: 7
 beer-date: "2015-01-29"

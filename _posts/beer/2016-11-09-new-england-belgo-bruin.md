@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-new-england-belgo-bruin.md
-title: New England belgo bruin
+filename: "_posts/beer/2016-11-09-new-england-belgo-bruin.md"
+title: "New England belgo bruin"
 category: beer
 score: 7.5
 beer-date: "2023-02-26"

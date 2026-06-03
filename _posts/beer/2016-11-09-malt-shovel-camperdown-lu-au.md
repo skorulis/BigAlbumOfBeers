@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-malt-shovel-camperdown-lu-au.md
-title: Malt shovel Camperdown lu’au
+filename: "_posts/beer/2016-11-09-malt-shovel-camperdown-lu-au.md"
+title: "Malt shovel Camperdown lu’au"
 category: beer
 score: 5.5
 beer-date: "2018-03-13"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackfont-koelsch.md
-title: Blackfont kölsch
+filename: "_posts/beer/2016-11-09-blackfont-koelsch.md"
+title: "Blackfont kölsch"
 category: beer
 score: 8
 beer-date: "2016-02-14"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pact-pale-ale.md
-title: Pact pale ale
+filename: "_posts/beer/2016-11-09-pact-pale-ale.md"
+title: "Pact pale ale"
 category: beer
 score: 5
 beer-date: "2016-01-07"

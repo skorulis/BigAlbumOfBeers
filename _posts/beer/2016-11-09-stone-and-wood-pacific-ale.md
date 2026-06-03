@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-stone-and-wood-pacific-ale.md
-title: Stone and wood pacific ale
+filename: "_posts/beer/2016-11-09-stone-and-wood-pacific-ale.md"
+title: "Stone and wood pacific ale"
 category: beer
 score: 8
 beer-date: "2014-03-01"

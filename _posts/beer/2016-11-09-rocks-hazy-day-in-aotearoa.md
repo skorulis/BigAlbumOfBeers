@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-rocks-hazy-day-in-aotearoa.md
-title: Rocks hazy day in Aotearoa
+filename: "_posts/beer/2016-11-09-rocks-hazy-day-in-aotearoa.md"
+title: "Rocks hazy day in Aotearoa"
 category: beer
 score: 8
 beer-date: "2024-11-09"

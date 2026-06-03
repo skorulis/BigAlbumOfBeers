@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-beerfarm-asam-boi-gose.md
-title: Beerfarm asam boi gose
+filename: "_posts/beer/2016-11-09-beerfarm-asam-boi-gose.md"
+title: "Beerfarm asam boi gose"
 category: beer
 score: 7.5
 beer-date: "2020-11-13"

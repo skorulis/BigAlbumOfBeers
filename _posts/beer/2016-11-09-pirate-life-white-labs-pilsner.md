@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pirate-life-white-labs-pilsner.md
-title: Pirate life white labs pilsner
+filename: "_posts/beer/2016-11-09-pirate-life-white-labs-pilsner.md"
+title: "Pirate life white labs pilsner"
 category: beer
 score: 8.5
 beer-date: "2017-03-22"

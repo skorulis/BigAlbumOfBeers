@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-cats-shank-kolsch.md
-title: Cats shank kolsch
+filename: "_posts/beer/2016-11-09-cats-shank-kolsch.md"
+title: "Cats shank kolsch"
 category: beer
 score: 7
 beer-date: "2014-06-21"

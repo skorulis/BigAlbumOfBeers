@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-liberty-brewing-yakima-monster.md
-title: Liberty brewing yakima monster
+filename: "_posts/beer/2016-11-09-liberty-brewing-yakima-monster.md"
+title: "Liberty brewing yakima monster"
 category: beer
 score: 8
 beer-date: "2017-03-22"

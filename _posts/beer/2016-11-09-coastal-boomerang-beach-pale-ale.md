@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coastal-boomerang-beach-pale-ale.md
-title: Coastal boomerang beach pale ale
+filename: "_posts/beer/2016-11-09-coastal-boomerang-beach-pale-ale.md"
+title: "Coastal boomerang beach pale ale"
 category: beer
 score: 5.5
 beer-date: "2018-06-02"

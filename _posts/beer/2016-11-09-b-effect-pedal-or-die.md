@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-b-effect-pedal-or-die.md
-title: B effect pedal or die
+filename: "_posts/beer/2016-11-09-b-effect-pedal-or-die.md"
+title: "B effect pedal or die"
 category: beer
 score: 4.5
 beer-date: "2024-11-09"
@@ -11,6 +11,6 @@ img: /img/list/b-effect-pedal-or-die.jpeg
 untappd: "https://untappd.com/b/b-effect-b-effect-pedal-or-die-ipa/5438091"
 country: "New Zealand"
 brewery: "b.effect "
-breweryURL: "/brewery/b-effect-.html"
+breweryURL: "/brewery/b-effect.html"
 style: "IPA - New Zealand"
 ---

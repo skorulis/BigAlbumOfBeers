@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-golden-road-saison-citron.md
-title: Golden road saison citron
+filename: "_posts/beer/2016-11-09-golden-road-saison-citron.md"
+title: "Golden road saison citron"
 category: beer
 score: 6
 beer-date: "2017-02-22"

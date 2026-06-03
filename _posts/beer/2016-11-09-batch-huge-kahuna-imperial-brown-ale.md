@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-huge-kahuna-imperial-brown-ale.md
-title: Batch huge Kahuna imperial brown ale
+filename: "_posts/beer/2016-11-09-batch-huge-kahuna-imperial-brown-ale.md"
+title: "Batch huge Kahuna imperial brown ale"
 category: beer
 score: 8
 beer-date: "2021-11-12"

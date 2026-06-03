@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hop-nation-jedi-juice.md
-title: Hop nation Jedi juice
+filename: "_posts/beer/2016-11-09-hop-nation-jedi-juice.md"
+title: "Hop nation Jedi juice"
 category: beer
 score: 9
 beer-date: "2018-06-02"

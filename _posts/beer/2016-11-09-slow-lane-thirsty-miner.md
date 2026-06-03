@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-slow-lane-thirsty-miner.md
-title: Slow lane thirsty miner
+filename: "_posts/beer/2016-11-09-slow-lane-thirsty-miner.md"
+title: "Slow lane thirsty miner"
 category: beer
 score: 7
 beer-date: "2020-07-31"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mountain-culture-status-quo.md
-title: Mountain culture status quo
+filename: "_posts/beer/2016-11-09-mountain-culture-status-quo.md"
+title: "Mountain culture status quo"
 category: beer
 score: 9
 beer-date: "2020-07-31"

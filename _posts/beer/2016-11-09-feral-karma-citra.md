@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-feral-karma-citra.md
-title: Feral karma citra
+filename: "_posts/beer/2016-11-09-feral-karma-citra.md"
+title: "Feral karma citra"
 category: beer
 score: 7
 beer-date: "2016-05-24"

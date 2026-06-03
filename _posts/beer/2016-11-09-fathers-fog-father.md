@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fathers-fog-father.md
-title: Fathers fog father
+filename: "_posts/beer/2016-11-09-fathers-fog-father.md"
+title: "Fathers fog father"
 category: beer
 score: 6
 beer-date: "2024-03-29"

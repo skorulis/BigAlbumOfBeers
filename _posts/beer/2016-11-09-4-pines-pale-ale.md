@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-4-pines-pale-ale.md
-title: 4 pines Pale ale
+filename: "_posts/beer/2016-11-09-4-pines-pale-ale.md"
+title: "4 pines Pale ale"
 category: beer
 score: 7
 beer-date: "2015-02-27"

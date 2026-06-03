@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pact-co-tennents-peak-double-ipa.md
-title: Pact co Tennents peak double ipa
+filename: "_posts/beer/2016-11-09-pact-co-tennents-peak-double-ipa.md"
+title: "Pact co Tennents peak double ipa"
 category: beer
 score: 7.5
 beer-date: "2019-04-22"

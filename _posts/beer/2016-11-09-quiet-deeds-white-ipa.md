@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-quiet-deeds-white-ipa.md
-title: Quiet deeds white ipa
+filename: "_posts/beer/2016-11-09-quiet-deeds-white-ipa.md"
+title: "Quiet deeds white ipa"
 category: beer
 score: 6
 beer-date: "2015-05-01"

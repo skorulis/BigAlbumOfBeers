@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fox-hat-makes-me-cream.md
-title: Fox hat makes me cream
+filename: "_posts/beer/2016-11-09-fox-hat-makes-me-cream.md"
+title: "Fox hat makes me cream"
 category: beer
 score: 7
 beer-date: "2018-12-27"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-black-chocolate-stout.md
-title: Black chocolate stout
+filename: "_posts/beer/2016-11-09-black-chocolate-stout.md"
+title: "Black chocolate stout"
 category: beer
 score: 6
 beer-date: "2013-07-19"

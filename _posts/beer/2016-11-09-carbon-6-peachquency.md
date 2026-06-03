@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-carbon-6-peachquency.md
-title: Carbon 6 Peachquency
+filename: "_posts/beer/2016-11-09-carbon-6-peachquency.md"
+title: "Carbon 6 Peachquency"
 category: beer
 score: 7.5
 beer-date: "2026-03-27"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-six-strings-quadruple.md
-title: Six strings quadruple
+filename: "_posts/beer/2016-11-09-six-strings-quadruple.md"
+title: "Six strings quadruple"
 category: beer
 score: 6
 beer-date: "2023-02-28"

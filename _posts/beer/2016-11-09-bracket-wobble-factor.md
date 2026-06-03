@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-wobble-factor.md
-title: Bracket wobble factor
+filename: "_posts/beer/2016-11-09-bracket-wobble-factor.md"
+title: "Bracket wobble factor"
 category: beer
 score: 8.5
 beer-date: "2022-08-07"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-mismatch-xpa.md
-title: Mismatch XPA
+filename: "_posts/beer/2016-11-09-mismatch-xpa.md"
+title: "Mismatch XPA"
 category: beer
 score: 8
 beer-date: "2021-12-28"

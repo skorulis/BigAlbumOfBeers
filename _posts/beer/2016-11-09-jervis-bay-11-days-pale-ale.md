@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-jervis-bay-11-days-pale-ale.md
-title: Jervis bay 11 days pale ale
+filename: "_posts/beer/2016-11-09-jervis-bay-11-days-pale-ale.md"
+title: "Jervis bay 11 days pale ale"
 category: beer
 score: 7.5
 beer-date: "2023-08-26"

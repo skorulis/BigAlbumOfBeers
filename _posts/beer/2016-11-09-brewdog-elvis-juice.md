@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-brewdog-elvis-juice.md
-title: Brewdog elvis juice
+filename: "_posts/beer/2016-11-09-brewdog-elvis-juice.md"
+title: "Brewdog elvis juice"
 category: beer
 score: 6.5
 beer-date: "2017-01-21"

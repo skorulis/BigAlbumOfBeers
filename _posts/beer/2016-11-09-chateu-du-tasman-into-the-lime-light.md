@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-chateu-du-tasman-into-the-lime-light.md
-title: Chateu du tasman into the lime light
+filename: "_posts/beer/2016-11-09-chateu-du-tasman-into-the-lime-light.md"
+title: "Chateu du tasman into the lime light"
 category: beer
 score: 7.5
 beer-date: "2019-11-22"

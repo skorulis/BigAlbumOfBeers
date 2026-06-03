@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-berliner-pilsner.md
-title: Berliner pilsner
+filename: "_posts/beer/2016-11-09-berliner-pilsner.md"
+title: "Berliner pilsner"
 category: beer
 score: 5.5
 beer-date: "2017-06-15"

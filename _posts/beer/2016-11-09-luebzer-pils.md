@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-luebzer-pils.md
-title: Lübzer pils
+filename: "_posts/beer/2016-11-09-luebzer-pils.md"
+title: "Lübzer pils"
 category: beer
 score: 4
 beer-date: "2017-06-15"

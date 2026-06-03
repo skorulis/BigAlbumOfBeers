@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-treehouse-king-julius.md
-title: Treehouse King Julius
+filename: "_posts/beer/2016-11-09-treehouse-king-julius.md"
+title: "Treehouse King Julius"
 category: beer
 score: 9.5
 beer-date: "2025-09-26"

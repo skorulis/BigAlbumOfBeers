@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-chuck-and-son-s-west-coast-ipa.md
-title: Chuck and son’s west coast IPA
+filename: "_posts/beer/2016-11-09-chuck-and-son-s-west-coast-ipa.md"
+title: "Chuck and son’s west coast IPA"
 category: beer
 score: 6
 beer-date: "2024-11-09"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-coconspiritors-the-editor.md
-title: Coconspiritors the editor
+filename: "_posts/beer/2016-11-09-coconspiritors-the-editor.md"
+title: "Coconspiritors the editor"
 category: beer
 score: 8
 beer-date: "2022-08-07"

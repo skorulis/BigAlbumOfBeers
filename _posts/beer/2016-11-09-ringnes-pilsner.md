@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ringnes-pilsner.md
-title: Ringnes pilsner
+filename: "_posts/beer/2016-11-09-ringnes-pilsner.md"
+title: "Ringnes pilsner"
 category: beer
 score: 5
 beer-date: "2023-10-02"

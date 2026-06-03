@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-capital-brewing-rock-hopper.md
-title: Capital brewing rock hopper
+filename: "_posts/beer/2016-11-09-capital-brewing-rock-hopper.md"
+title: "Capital brewing rock hopper"
 category: beer
 score: 7
 beer-date: "2018-10-05"

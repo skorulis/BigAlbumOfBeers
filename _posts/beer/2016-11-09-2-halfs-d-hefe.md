@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-2-halfs-d-hefe.md
-title: 2 halfs d hefe
+filename: "_posts/beer/2016-11-09-2-halfs-d-hefe.md"
+title: "2 halfs d hefe"
 category: beer
 score: 6.5
 beer-date: "2024-11-09"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-red-hook-pilsner.md
-title: Red hook pilsner
+filename: "_posts/beer/2016-11-09-red-hook-pilsner.md"
+title: "Red hook pilsner"
 category: beer
 score: 7
 beer-date: "2013-07-19"

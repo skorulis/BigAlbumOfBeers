@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-einstoek-pale-ale.md
-title: Einstök Pale ale
+filename: "_posts/beer/2016-11-09-einstoek-pale-ale.md"
+title: "Einstök Pale ale"
 category: beer
 score: 7
 beer-date: "2013-07-19"

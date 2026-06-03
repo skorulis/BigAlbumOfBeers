@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-kicks-in-bloom.md
-title: Kicks In Bloom
+filename: "_posts/beer/2016-11-09-kicks-in-bloom.md"
+title: "Kicks In Bloom"
 category: beer
 score: 6
 beer-date: "2025-09-26"

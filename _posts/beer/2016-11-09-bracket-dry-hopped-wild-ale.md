@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-dry-hopped-wild-ale.md
-title: Bracket dry hopped wild ale
+filename: "_posts/beer/2016-11-09-bracket-dry-hopped-wild-ale.md"
+title: "Bracket dry hopped wild ale"
 category: beer
 score: 8.5
 beer-date: "2020-12-25"

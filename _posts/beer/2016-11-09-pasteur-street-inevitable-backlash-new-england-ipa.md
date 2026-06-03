@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-pasteur-street-inevitable-backlash-new-england-ipa.md
-title: Pasteur street inevitable backlash New England IPA
+filename: "_posts/beer/2016-11-09-pasteur-street-inevitable-backlash-new-england-ipa.md"
+title: "Pasteur street inevitable backlash New England IPA"
 category: beer
 score: 8.5
 beer-date: "2018-02-17"

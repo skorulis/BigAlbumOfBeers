@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-webster-s-bitter.md
-title: Webster's Bitter
+filename: "_posts/beer/2016-11-09-webster-s-bitter.md"
+title: "Webster's Bitter"
 category: beer
 score: 1
 beer-date: "2012-10-13"

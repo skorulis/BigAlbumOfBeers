@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-other-half-broccoli.md
-title: Other half broccoli
+filename: "_posts/beer/2016-11-09-other-half-broccoli.md"
+title: "Other half broccoli"
 category: beer
 score: 8.5
 beer-date: "2024-06-15"

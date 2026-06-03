@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-colossal-inner-gravity.md
-title: Colossal inner gravity
+filename: "_posts/beer/2016-11-09-colossal-inner-gravity.md"
+title: "Colossal inner gravity"
 category: beer
 score: 5.5
 beer-date: "2024-03-29"
@@ -11,6 +11,6 @@ img: /img/list/colossal-inner-gravity.jpeg
 untappd: "https://untappd.com/b/pinnacle-drinks-pinnacle-drinks-colossal-brewing-inner-gravity/4961867"
 country: "Australia"
 brewery: "Pinnacle Drinks Group (Woolworths)"
-breweryURL: "/brewery/pinnacle-drinks-group--woolworths.html"
+breweryURL: "/brewery/pinnacle-drinks-group-woolworths.html"
 style: "Sour - Fruited"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-weihenstephaner-pils.md
-title: Weihenstephaner pils
+filename: "_posts/beer/2016-11-09-weihenstephaner-pils.md"
+title: "Weihenstephaner pils"
 category: beer
 score: 6
 beer-date: "2016-02-14"

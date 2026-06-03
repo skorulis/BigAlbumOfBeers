@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-tizzle-tazzle.md
-title: Tizzle tazzle
+filename: "_posts/beer/2016-11-09-tizzle-tazzle.md"
+title: "Tizzle tazzle"
 category: beer
 score: 7
 beer-date: "2020-07-31"

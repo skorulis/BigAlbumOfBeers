@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-hope-super-super-juicy.md
-title: Hope super super juicy
+filename: "_posts/beer/2016-11-09-hope-super-super-juicy.md"
+title: "Hope super super juicy"
 category: beer
 score: 8.5
 beer-date: "2021-04-02"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-russian-river-pliny-the-elder.md
-title: Russian river Pliny the elder
+filename: "_posts/beer/2016-11-09-russian-river-pliny-the-elder.md"
+title: "Russian river Pliny the elder"
 category: beer
 score: 8
 beer-date: "2023-02-26"

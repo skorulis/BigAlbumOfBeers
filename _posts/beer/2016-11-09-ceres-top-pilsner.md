@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-ceres-top-pilsner.md
-title: Ceres Top Pilsner
+filename: "_posts/beer/2016-11-09-ceres-top-pilsner.md"
+title: "Ceres Top Pilsner"
 category: beer
 score: 5.5
 beer-date: "2017-07-12"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-wandana-mullet-haze.md
-title: Wandana Mullet Haze
+filename: "_posts/beer/2016-11-09-wandana-mullet-haze.md"
+title: "Wandana Mullet Haze"
 category: beer
 score: 7.5
 beer-date: "2025-12-28"

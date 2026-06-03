@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-philter-marzen.md
-title: Philter marzen
+filename: "_posts/beer/2016-11-09-philter-marzen.md"
+title: "Philter marzen"
 category: beer
 score: 7
 beer-date: "2023-02-28"

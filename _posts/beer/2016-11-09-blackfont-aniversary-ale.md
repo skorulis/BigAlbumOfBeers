@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-blackfont-aniversary-ale.md
-title: Blackfont aniversary ale
+filename: "_posts/beer/2016-11-09-blackfont-aniversary-ale.md"
+title: "Blackfont aniversary ale"
 category: beer
 score: 6
 beer-date: "2017-10-28"

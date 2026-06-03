@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-lambrate-hazelnut-porter.md
-title: Lambrate hazelnut porter
+filename: "_posts/beer/2016-11-09-lambrate-hazelnut-porter.md"
+title: "Lambrate hazelnut porter"
 category: beer
 score: 9
 beer-date: "2017-07-12"

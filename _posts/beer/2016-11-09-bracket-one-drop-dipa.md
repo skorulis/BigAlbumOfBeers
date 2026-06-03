@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bracket-one-drop-dipa.md
-title: Bracket one drop DIPA
+filename: "_posts/beer/2016-11-09-bracket-one-drop-dipa.md"
+title: "Bracket one drop DIPA"
 category: beer
 score: 7.5
 beer-date: "2022-09-21"

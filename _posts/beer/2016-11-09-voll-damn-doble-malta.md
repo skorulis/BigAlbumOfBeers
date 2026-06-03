@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-voll-damn-doble-malta.md
-title: Voll-damn doble Malta
+filename: "_posts/beer/2016-11-09-voll-damn-doble-malta.md"
+title: "Voll-damn doble Malta"
 category: beer
 score: 5
 beer-date: "2013-05-25"

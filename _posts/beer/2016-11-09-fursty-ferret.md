@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-fursty-ferret.md
-title: Fursty Ferret
+filename: "_posts/beer/2016-11-09-fursty-ferret.md"
+title: "Fursty Ferret"
 category: beer
 score: 5
 beer-date: "2012-10-27"
@@ -11,6 +11,6 @@ img: /img/list/fursty-ferret.jpeg
 untappd: "https://untappd.com/b/badger-ales--hall---woodhouse--fursty-ferret/8932"
 country: "England"
 brewery: "Badger Brewery (Hall & Woodhouse)"
-breweryURL: "/brewery/badger-brewery--hall-woodhouse.html"
+breweryURL: "/brewery/badger-brewery-hall-woodhouse.html"
 style: "English Bitter"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-liberty-ale.md
-title: Liberty ale
+filename: "_posts/beer/2016-11-09-liberty-ale.md"
+title: "Liberty ale"
 category: beer
 score: 8
 beer-date: "2015-05-01"

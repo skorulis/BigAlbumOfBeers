@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-matso-s-pearlers-pale-ale.md
-title: Matso’s pearlers pale ale
+filename: "_posts/beer/2016-11-09-matso-s-pearlers-pale-ale.md"
+title: "Matso’s pearlers pale ale"
 category: beer
 score: 8
 beer-date: "2014-06-21"

@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-flying-dog-atlantic-lager.md
-title: Flying dog Atlantic lager
+filename: "_posts/beer/2016-11-09-flying-dog-atlantic-lager.md"
+title: "Flying dog Atlantic lager"
 category: beer
 score: 8
 beer-date: "2014-03-01"

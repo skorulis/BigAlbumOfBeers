@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-batch-juicy-as-phuck-dark.md
-title: Batch juicy as phuck dark
+filename: "_posts/beer/2016-11-09-batch-juicy-as-phuck-dark.md"
+title: "Batch juicy as phuck dark"
 category: beer
 score: 8
 beer-date: "2016-09-21"

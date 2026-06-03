@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-banks-kind-of-dreams.md
-title: Banks kind of dreams
+filename: "_posts/beer/2016-11-09-banks-kind-of-dreams.md"
+title: "Banks kind of dreams"
 category: beer
 score: 8.5
 beer-date: "2024-12-28"

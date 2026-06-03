@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-bucketys-barrel-aged-raspberry-farmhouse.md
-title: Bucketys barrel aged raspberry farmhouse
+filename: "_posts/beer/2016-11-09-bucketys-barrel-aged-raspberry-farmhouse.md"
+title: "Bucketys barrel aged raspberry farmhouse"
 category: beer
 score: 7
 beer-date: "2023-03-31"

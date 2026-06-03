@@ -1,7 +1,7 @@
 ---
 layout: beer
-filename: _posts/beer/2016-11-09-little-creatures-original-pilsner.md
-title: Little creatures original pilsner
+filename: "_posts/beer/2016-11-09-little-creatures-original-pilsner.md"
+title: "Little creatures original pilsner"
 category: beer
 score: 5
 beer-date: "2014-03-01"
