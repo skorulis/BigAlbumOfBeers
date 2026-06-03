@@ -5,8 +5,16 @@ import Slugify
 
 extension String {
     
+    /// Matches Jekyll `Jekyll::Utils.slugify` / `:title` permalinks (and `customSlugify` in createPosts.rb)
     func slugifySafe() -> String {
-        let partial = self.slugify()
-        return partial.replacingOccurrences(of: "---", with: "-")
+        var slug = trimmingCharacters(in: .whitespacesAndNewlines).slugify()
+        slug = slug.replacingOccurrences(of: "-.", with: ".")
+        slug = slug.replacingOccurrences(of: "---", with: "-")
+        slug = slug.replacingOccurrences(of: "--", with: "-")
+        slug = slug.replacingOccurrences(of: "Ø", with: "o")
+        while slug.hasSuffix("-") {
+            slug.removeLast()
+        }
+        return slug
     }
 }

@@ -1,4 +1,5 @@
 require 'json'
+require 'jekyll'
 require 'slugify'
 
 maxPages = ARGV[0]
@@ -46,7 +47,8 @@ def placeFilename(placeName,type)
 end
 
 def customSlugify(text)
-	return text.strip.slugify.gsub("-.",".").gsub("---","-").gsub("--","-").gsub(/\-$/, '').gsub("Ø","o")
+	# Match Jekyll :title permalinks (see Jekyll::Utils.slugify)
+	Jekyll::Utils.slugify(text.strip).gsub("Ø", "o")
 end
 
 def writeBasicPlace(file,filename,title,type)
