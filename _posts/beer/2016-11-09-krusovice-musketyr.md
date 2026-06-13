@@ -11,6 +11,6 @@ img: /img/list/krusovice-musketyr.jpeg
 untappd: "https://untappd.com/b/krusovice-musketyr/23588"
 country: "Czech Republic"
 brewery: "Krušovice"
-breweryURL: "/brewery/kruovice.html"
+breweryURL: "/brewery/krusovice.html"
 style: "Pilsner - Czech"
 ---

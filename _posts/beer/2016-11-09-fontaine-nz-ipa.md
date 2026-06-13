@@ -10,5 +10,7 @@ permalink: /beer/:title.html
 img: /img/list/fontaine-nz-ipa.jpeg
 untappd: "https://untappd.com/b/beer-fontaine-beer-fontaine-the-all-hops-nz-ipa-megamix/5262531"
 country: "Australia"
+brewery: "Beer Fontaine"
+breweryURL: "/brewery/beer-fontaine.html"
 style: "IPA - New Zealand"
 ---

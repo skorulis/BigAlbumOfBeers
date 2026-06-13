@@ -32,11 +32,18 @@ extension GetBreweriesCommand {
             let beerDir = fileManager.currentDirectoryPath + "/untappd/beer"
             let beerPaths = try fileManager.contentsOfDirectory(atPath: beerDir)
             for filename in beerPaths {
+                if filename.hasPrefix(".") {
+                    continue
+                }
                 let url = URL(filePath: "\(beerDir)/\(filename)")
-                let data = try Data(contentsOf: url)
-                let json = try JSONDecoder().decode(UntappdAPI.GetBeerResponse.self, from: data)
-                let breweryId = json.response.beer.brewery.brewery_id
-                _ = try await getBrewery(id: breweryId)
+                do {
+                    let data = try Data(contentsOf: url)
+                    let json = try JSONDecoder().decode(UntappdAPI.GetBeerResponse.self, from: data)
+                    let breweryId = json.response.beer.brewery.brewery_id
+                    _ = try await getBrewery(id: breweryId)
+                } catch {
+                    print("Failure getting brewery \(filename): \(error)")
+                }
             }
             
             var breweryList = BreweryList(breweries: [])
@@ -44,9 +51,13 @@ extension GetBreweriesCommand {
             let breweryPaths = try fileManager.contentsOfDirectory(atPath: breweryDir)
             for filename in breweryPaths {
                 let url = URL(filePath: "\(breweryDir)/\(filename)")
-                let data = try Data(contentsOf: url)
-                let json = try JSONDecoder().decode(UntappdAPI.GetBreweryResponse.self, from: data)
-                breweryList.breweries.append(json.response.brewery)
+                do {
+                    let data = try Data(contentsOf: url)
+                    let json = try JSONDecoder().decode(UntappdAPI.GetBreweryResponse.self, from: data)
+                    breweryList.breweries.append(json.response.brewery)
+                } catch {
+                    print("Error reading brewery data for path: \(filename)")
+                }
             }
             try accessService.save(breweries: breweryList)
         }
