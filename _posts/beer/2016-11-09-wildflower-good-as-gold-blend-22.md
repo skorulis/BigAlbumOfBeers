@@ -7,7 +7,7 @@ score: 7
 beer-date: "2026-03-27"
 desc: "Quite zesty with a funky aroma. Solid farmhouse style blend"
 permalink: /beer/:title.html
-img: /img/list/wildflower-good-as-gold-blend--22.jpeg
+img: /img/list/wildflower-good-as-gold-blend-22.jpeg
 untappd: "https://untappd.com/b/wildflower-brewing-blending-wildflower-brewing-and-blending-good-as-gold/2830809"
 country: "Australia"
 brewery: "Wildflower Brewing & Blending"

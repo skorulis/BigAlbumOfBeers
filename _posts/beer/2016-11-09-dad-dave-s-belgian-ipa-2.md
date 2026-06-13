@@ -7,7 +7,7 @@ score: 7
 beer-date: "2016-05-24"
 desc: "Like other Belgian IPAs it’s not very hoppy"
 permalink: /beer/:title.html
-img: /img/list/dad-dave-s-belgian-ipa--2.jpeg
+img: /img/list/dad-dave-s-belgian-ipa-2.jpeg
 untappd: "https://untappd.com/b/dad---daves-brewing-2-belgian-ipa/768311"
 country: "Australia"
 brewery: "Dad & Dave's Brewing"

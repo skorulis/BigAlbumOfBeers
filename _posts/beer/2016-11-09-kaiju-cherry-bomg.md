@@ -7,7 +7,7 @@ score: 7
 beer-date: "2025-12-28"
 desc: "It actually smells a bit like weed. But also like juice. A very interesting sour"
 permalink: /beer/:title.html
-img: /img/list/kaiju--cherry-bomg.jpeg
+img: /img/list/kaiju-cherry-bomg.jpeg
 untappd: "https://untappd.com/b/kaiju-beer-kaiju-beer-cherry-bomg/6501745"
 country: "Australia"
 brewery: "KAIJU! Beer"

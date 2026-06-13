@@ -7,7 +7,7 @@ score: 5.5
 beer-date: "2021-06-05"
 desc: "Ok to start with but quickly overwhelming"
 permalink: /beer/:title.html
-img: /img/list/basement-brewhouse-daaarryl--daaarryl.jpeg
+img: /img/list/basement-brewhouse-daaarryl-daaarryl.jpeg
 untappd: "https://untappd.com/b/basement-brewhouse-daaarryl--daaarryl-/4300856"
 country: "Australia"
 brewery: "Basement Brewhouse"

@@ -7,7 +7,7 @@ score: 7
 beer-date: "2016-01-07"
 desc: "Actually more creamy than a normal beer. Really nice"
 permalink: /beer/:title.html
-img: /img/list/modus-cream-of-the-hop--3.jpeg
+img: /img/list/modus-cream-of-the-hop-3.jpeg
 untappd: "https://untappd.com/b/modus-operandi-brewing-co--cream-of-the-hop-3/1266877"
 country: "Australia"
 brewery: "Modus Operandi Brewing Co."

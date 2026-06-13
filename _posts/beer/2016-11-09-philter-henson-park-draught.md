@@ -7,7 +7,7 @@ score: 6
 beer-date: "2022-10-15"
 desc: "Mostly tasteless with a bitter kick"
 permalink: /beer/:title.html
-img: /img/list/philter-henson-park-draught-.jpeg
+img: /img/list/philter-henson-park-draught.jpeg
 untappd: "https://untappd.com/b/philter-brewing-henson-park-draught/4366661"
 country: "Australia"
 brewery: "Philter Brewing"

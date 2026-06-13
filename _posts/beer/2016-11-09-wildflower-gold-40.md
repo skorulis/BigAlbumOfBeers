@@ -7,7 +7,7 @@ score: 7.5
 beer-date: "2023-08-26"
 desc: "Great blended sour"
 permalink: /beer/:title.html
-img: /img/list/wildflower-gold--40.jpeg
+img: /img/list/wildflower-gold-40.jpeg
 untappd: "https://untappd.com/b/wildflower-brewing---blending-gold/1913396"
 country: "Australia"
 brewery: "Wildflower Brewing & Blending"

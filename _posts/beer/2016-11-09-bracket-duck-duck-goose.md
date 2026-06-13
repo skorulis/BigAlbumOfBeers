@@ -7,7 +7,7 @@ score: 7
 beer-date: "2023-08-26"
 desc: "This isn’t standing up well between strong flavourful beers. A good session beer though"
 permalink: /beer/:title.html
-img: /img/list/bracket-duck--duck--goose.jpeg
+img: /img/list/bracket-duck-duck-goose.jpeg
 untappd: "https://untappd.com/b/bracket-brewing-duck--duck--goose/5428586"
 country: "Australia"
 brewery: "Bracket Brewing"
