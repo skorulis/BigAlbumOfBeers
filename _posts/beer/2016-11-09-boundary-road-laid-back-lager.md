@@ -1,14 +1,14 @@
 ---
 layout: beer
 filename: "_posts/beer/2016-11-09-boundary-road-laid-back-lager.md"
-title: "Boundary road laid back lager"
+title: "Boundary Road Laid Back Lager"
 category: beer
-score: 7
-beer-date: "2022-09-21"
-desc: "Has a slight apple taste which is really nice"
+score: 6
+beer-date: "2026-08-22"
+desc: "Light lager with just a little malt"
 permalink: /beer/:title.html
 img: /img/list/boundary-road-laid-back-lager.jpeg
-untappd: "https://untappd.com/b/boundary-road-brewery-laid-back-lager/4565377"
+untappd: "https://untappd.com/b/boundary-road-brewery-boundary-road-brewery-laid-back-lager/4565377"
 country: "New Zealand"
 brewery: "Boundary Road Brewery"
 breweryURL: "/brewery/boundary-road-brewery.html"

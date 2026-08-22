@@ -30,6 +30,8 @@ extension PullUntappdInfoCommand {
         private let fileManager = FileManager.default
         
         func run() async throws {
+            print("Client ID: \(tokens.untappdClientID)")
+            
             let beers = try accessService.rawBeers()
             let extra = try accessService.extraEntries()
             var newExtra = [String: ExtraEntry]()
